@@ -1,0 +1,1811 @@
+{
+  "world": {
+    "id": "airport",
+    "name_en": "Airport",
+    "name_th": "สนามบิน",
+    "emoji": "✈️",
+    "color_start": "#60A5FA",
+    "color_end": "#2563EB",
+    "description_th": "ศัพท์เอาตัวรอดในสนามบินตั้งแต่เช็คอินจนถึงที่หมาย",
+    "mascot_costume": "pilot",
+    "lessons": [
+      {
+        "id": "airport_1",
+        "title_en": "Preparing",
+        "title_th": "เตรียมตัวเดินทาง",
+        "emoji": "🎒",
+        "word_ids": [
+          "passport",
+          "ticket",
+          "booking",
+          "luggage",
+          "suitcase",
+          "backpack",
+          "pack",
+          "visa",
+          "itinerary",
+          "destination",
+          "round_trip",
+          "one_way",
+          "flight",
+          "airline"
+        ],
+        "image": "lessons/airport_1.webp"
+      },
+      {
+        "id": "airport_2",
+        "title_en": "Check-in",
+        "title_th": "เช็คอิน",
+        "emoji": "🛎️",
+        "word_ids": [
+          "check_in",
+          "check_in_verb",
+          "counter",
+          "boarding_pass",
+          "seat",
+          "window_seat",
+          "aisle_seat",
+          "baggage",
+          "baggage_allowance",
+          "overweight",
+          "carry_on",
+          "checked_baggage",
+          "scale",
+          "weigh"
+        ],
+        "image": "lessons/airport_2.webp"
+      },
+      {
+        "id": "airport_3",
+        "title_en": "Security",
+        "title_th": "ตรวจความปลอดภัย",
+        "emoji": "🔍",
+        "word_ids": [
+          "security_check",
+          "scanner",
+          "tray",
+          "liquids",
+          "belt",
+          "metal_detector",
+          "remove",
+          "prohibited",
+          "allowed",
+          "laptop",
+          "jacket",
+          "empty",
+          "shoes",
+          "scissors"
+        ],
+        "image": "lessons/airport_3.webp"
+      },
+      {
+        "id": "airport_4",
+        "title_en": "Immigration",
+        "title_th": "ตรวจคนเข้าเมือง",
+        "emoji": "🛂",
+        "word_ids": [
+          "immigration",
+          "customs",
+          "declare",
+          "purpose_of_visit",
+          "stamp",
+          "queue",
+          "officer",
+          "arrival_card",
+          "nationality",
+          "fill_in",
+          "stay",
+          "duty_free",
+          "fingerprint",
+          "camera"
+        ],
+        "image": "lessons/airport_4.webp"
+      },
+      {
+        "id": "airport_5",
+        "title_en": "Boarding",
+        "title_th": "ขึ้นเครื่อง",
+        "emoji": "🛫",
+        "word_ids": [
+          "gate",
+          "boarding",
+          "departure",
+          "delay",
+          "cancel",
+          "announcement",
+          "final_call",
+          "terminal",
+          "on_time",
+          "connecting_flight",
+          "transit",
+          "miss",
+          "row",
+          "lounge"
+        ],
+        "image": "lessons/airport_5.webp"
+      },
+      {
+        "id": "airport_6",
+        "title_en": "On the Plane",
+        "title_th": "บนเครื่องบิน",
+        "emoji": "✈️",
+        "word_ids": [
+          "cabin_crew",
+          "seatbelt",
+          "fasten",
+          "turbulence",
+          "overhead_bin",
+          "tray_table",
+          "landing",
+          "take_off",
+          "meal",
+          "pilot",
+          "headphones",
+          "lavatory",
+          "blanket",
+          "airplane"
+        ],
+        "image": "lessons/airport_6.webp"
+      },
+      {
+        "id": "airport_7",
+        "title_en": "Arrival",
+        "title_th": "ถึงที่หมาย",
+        "emoji": "🛬",
+        "word_ids": [
+          "arrival",
+          "baggage_claim",
+          "carousel",
+          "lost_luggage",
+          "exit",
+          "taxi_stand",
+          "currency_exchange",
+          "sim_card",
+          "trolley",
+          "exchange_rate",
+          "atm",
+          "pick_up",
+          "credit_card",
+          "jet_lag"
+        ],
+        "image": "lessons/airport_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "passport",
+      "word": "passport",
+      "pos": "noun",
+      "ipa": "/ˈpæspɔːrt/",
+      "meaning_th": "หนังสือเดินทาง / พาสปอร์ต",
+      "emoji": "🛂",
+      "example_en": "Can I see your passport, please?",
+      "example_th": "ขอดูหนังสือเดินทางของคุณหน่อยได้ไหมครับ",
+      "cefr": "A1",
+      "note_th": "passport เน้นเสียงพยางค์แรก (แพส-พอร์ท) ไม่ใช่ พาส-ปอด และอย่าลืมว่า passport ต้องมีอายุเหลือเกิน 6 เดือนจึงจะเดินทางได้",
+      "distractors": null,
+      "image": "words/passport.webp"
+    },
+    {
+      "id": "ticket",
+      "word": "ticket",
+      "pos": "noun",
+      "ipa": "/ˈtɪkɪt/",
+      "meaning_th": "ตั๋ว",
+      "emoji": "🎫",
+      "example_en": "I booked my ticket online last week.",
+      "example_th": "ฉันจองตั๋วออนไลน์เมื่อสัปดาห์ที่แล้ว",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/ticket.webp"
+    },
+    {
+      "id": "booking",
+      "word": "booking",
+      "pos": "noun",
+      "ipa": "/ˈbʊkɪŋ/",
+      "meaning_th": "การจอง",
+      "emoji": null,
+      "example_en": "Here is my booking confirmation.",
+      "example_th": "นี่คือใบยืนยันการจองของฉัน",
+      "cefr": "A2",
+      "note_th": "booking และ reservation ใช้แทนกันได้ ส่วนกริยาคือ book (จอง) เช่น I booked a flight to Tokyo",
+      "distractors": [
+        "payment",
+        "receipt",
+        "schedule"
+      ]
+    },
+    {
+      "id": "luggage",
+      "word": "luggage",
+      "pos": "noun",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "meaning_th": "กระเป๋าเดินทาง / สัมภาระ",
+      "emoji": "🧳",
+      "example_en": "How many pieces of luggage do you have?",
+      "example_th": "คุณมีกระเป๋าเดินทางกี่ใบ",
+      "cefr": "A2",
+      "note_th": "luggage และ baggage ความหมายเหมือนกันและเป็นนามนับไม่ได้ ห้ามพูด a luggage หรือ luggages ถ้าจะนับให้ใช้ a piece of luggage",
+      "distractors": [
+        "package",
+        "parcel",
+        "cargo"
+      ],
+      "image": "words/luggage.webp"
+    },
+    {
+      "id": "suitcase",
+      "word": "suitcase",
+      "pos": "noun",
+      "ipa": "/ˈsuːtkeɪs/",
+      "meaning_th": "กระเป๋าเดินทาง (ใบแข็งหรือมีล้อลาก)",
+      "emoji": null,
+      "example_en": "My suitcase is too heavy to lift.",
+      "example_th": "กระเป๋าเดินทางของฉันหนักเกินกว่าจะยกไหว",
+      "cefr": "A2",
+      "note_th": "suitcase คือกระเป๋าเดินทางหนึ่งใบ (นับได้ เติม s ได้) ส่วน luggage คือสัมภาระโดยรวม (นับไม่ได้)",
+      "distractors": [
+        "briefcase",
+        "handbag",
+        "wallet"
+      ]
+    },
+    {
+      "id": "backpack",
+      "word": "backpack",
+      "pos": "noun",
+      "ipa": "/ˈbækpæk/",
+      "meaning_th": "กระเป๋าเป้",
+      "emoji": "🎒",
+      "example_en": "Keep your passport in your backpack.",
+      "example_th": "เก็บหนังสือเดินทางไว้ในกระเป๋าเป้นะ",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "handbag",
+        "briefcase",
+        "purse"
+      ],
+      "image": "words/backpack.webp"
+    },
+    {
+      "id": "pack",
+      "word": "pack",
+      "pos": "verb",
+      "ipa": "/pæk/",
+      "meaning_th": "จัดกระเป๋า / เก็บของใส่กระเป๋า",
+      "emoji": null,
+      "example_en": "I still need to pack for my trip.",
+      "example_th": "ฉันยังต้องจัดกระเป๋าสำหรับทริปนี้อยู่",
+      "cefr": "A2",
+      "note_th": "pack ใช้เป็นกริยาได้เลย เช่น pack a bag (จัดกระเป๋า) ตรงข้ามคือ unpack (เอาของออกจากกระเป๋า)",
+      "distractors": [
+        "wrap",
+        "fold",
+        "carry"
+      ]
+    },
+    {
+      "id": "visa",
+      "word": "visa",
+      "pos": "noun",
+      "ipa": "/ˈviːzə/",
+      "meaning_th": "วีซ่า",
+      "emoji": null,
+      "example_en": "Do I need a visa to visit Japan?",
+      "example_th": "ฉันต้องใช้วีซ่าในการไปญี่ปุ่นไหม",
+      "cefr": "A2",
+      "note_th": "visa ออกเสียง /ˈviːzə/ (วี-ซะ) เสียงท้ายเบา ๆ ไม่ใช่ วี-ซ่า และอย่าสับสนกับ VISA ที่เป็นบัตรเครดิต",
+      "distractors": [
+        "permit",
+        "license",
+        "certificate"
+      ]
+    },
+    {
+      "id": "itinerary",
+      "word": "itinerary",
+      "pos": "noun",
+      "ipa": "/aɪˈtɪnəreri/",
+      "meaning_th": "กำหนดการเดินทาง",
+      "emoji": null,
+      "example_en": "Could you send me the full itinerary?",
+      "example_th": "ช่วยส่งกำหนดการเดินทางฉบับเต็มให้ฉันหน่อยได้ไหม",
+      "cefr": "B1",
+      "note_th": "ออกเสียง /aɪˈtɪnəreri/ (ไอ-ทิ-เนอ-แร-รี) เน้นพยางค์ที่สอง คนไทยมักอ่านผิดเป็น อิ-ทิ-เน-รา-รี่",
+      "distractors": [
+        "calendar",
+        "brochure",
+        "diary"
+      ]
+    },
+    {
+      "id": "destination",
+      "word": "destination",
+      "pos": "noun",
+      "ipa": "/ˌdestɪˈneɪʃən/",
+      "meaning_th": "จุดหมายปลายทาง",
+      "emoji": null,
+      "example_en": "What is your final destination today?",
+      "example_th": "วันนี้จุดหมายปลายทางสุดท้ายของคุณคือที่ไหน",
+      "cefr": "A2",
+      "note_th": "destination = จุดหมายที่จะไป ส่วน direction = ทิศทาง อย่าสับสนกัน",
+      "distractors": [
+        "direction",
+        "departure",
+        "distance"
+      ]
+    },
+    {
+      "id": "round_trip",
+      "word": "round trip",
+      "pos": "noun",
+      "ipa": "/ˌraʊnd ˈtrɪp/",
+      "meaning_th": "การเดินทางไป-กลับ / ตั๋วไป-กลับ",
+      "emoji": null,
+      "example_en": "A round trip to Tokyo costs about 20,000 baht.",
+      "example_th": "ตั๋วไป-กลับโตเกียวราคาประมาณ 20,000 บาท",
+      "cefr": "A2",
+      "note_th": "round trip เป็นแบบอเมริกัน ส่วนแบบอังกฤษใช้ return ticket ตรงข้ามคือ one-way (เที่ยวเดียว)",
+      "distractors": [
+        "one-way",
+        "direct flight",
+        "stopover"
+      ]
+    },
+    {
+      "id": "one_way",
+      "word": "one-way",
+      "pos": "adjective",
+      "ipa": "/ˌwʌn ˈweɪ/",
+      "meaning_th": "เที่ยวเดียว (ตั๋ว)",
+      "emoji": null,
+      "example_en": "I only need a one-way ticket.",
+      "example_th": "ฉันต้องการแค่ตั๋วเที่ยวเดียว",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "two-way",
+        "direct",
+        "nonstop"
+      ]
+    },
+    {
+      "id": "flight",
+      "word": "flight",
+      "pos": "noun",
+      "ipa": "/flaɪt/",
+      "meaning_th": "เที่ยวบิน",
+      "emoji": null,
+      "example_en": "My flight leaves at six in the morning.",
+      "example_th": "เที่ยวบินของฉันออกตอนหกโมงเช้า",
+      "cefr": "A1",
+      "note_th": "flight (ไฟลฺท) มีเสียง l อยู่ด้วย อย่าออกเสียงเป็น fight (ต่อสู้) และ flight คือเที่ยวบิน ไม่ใช่ตัวเครื่องบิน (plane)",
+      "distractors": [
+        "trip",
+        "journey",
+        "fight"
+      ]
+    },
+    {
+      "id": "airline",
+      "word": "airline",
+      "pos": "noun",
+      "ipa": "/ˈerlaɪn/",
+      "meaning_th": "สายการบิน",
+      "emoji": null,
+      "example_en": "Which airline are you flying with?",
+      "example_th": "คุณบินกับสายการบินไหน",
+      "cefr": "A2",
+      "note_th": "airline = สายการบิน (บริษัท), airplane = เครื่องบิน, airport = สนามบิน สามคำนี้คนไทยมักสับสน",
+      "distractors": [
+        "airport",
+        "airplane",
+        "airway"
+      ]
+    },
+    {
+      "id": "check_in",
+      "word": "check-in",
+      "pos": "noun",
+      "ipa": "/ˈtʃek ɪn/",
+      "meaning_th": "การเช็คอิน / จุดเช็คอิน",
+      "emoji": null,
+      "example_en": "Online check-in opens 24 hours before departure.",
+      "example_th": "เช็คอินออนไลน์เปิดให้ทำได้ 24 ชั่วโมงก่อนออกเดินทาง",
+      "cefr": "A2",
+      "note_th": "check-in (มีขีด) เป็นคำนาม เช่น the check-in counter ส่วน check in (ไม่มีขีด) เป็นกริยา เช่น I need to check in",
+      "distractors": [
+        "checkout",
+        "checkup",
+        "checkpoint"
+      ]
+    },
+    {
+      "id": "check_in_verb",
+      "word": "check in",
+      "pos": "verb",
+      "ipa": "/ˌtʃek ˈɪn/",
+      "meaning_th": "เช็คอิน / ลงทะเบียนขึ้นเครื่อง",
+      "emoji": null,
+      "example_en": "You should check in two hours before your flight.",
+      "example_th": "คุณควรเช็คอินก่อนเที่ยวบินสองชั่วโมง",
+      "cefr": "A2",
+      "note_th": "check in (กริยา) ใช้ได้ทั้งสนามบินและโรงแรม ส่วน check out ใช้ตอนออกจากโรงแรมเท่านั้น ไม่ใช้กับสนามบิน",
+      "distractors": [
+        "check out",
+        "check up",
+        "check on"
+      ]
+    },
+    {
+      "id": "counter",
+      "word": "counter",
+      "pos": "noun",
+      "ipa": "/ˈkaʊntər/",
+      "meaning_th": "เคาน์เตอร์",
+      "emoji": null,
+      "example_en": "Please go to counter number 12.",
+      "example_th": "กรุณาไปที่เคาน์เตอร์หมายเลข 12",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "table",
+        "kiosk",
+        "booth"
+      ]
+    },
+    {
+      "id": "boarding_pass",
+      "word": "boarding pass",
+      "pos": "noun",
+      "ipa": "/ˈbɔːrdɪŋ pæs/",
+      "meaning_th": "บัตรขึ้นเครื่อง / บอร์ดดิ้งพาส",
+      "emoji": null,
+      "example_en": "Please have your boarding pass ready.",
+      "example_th": "กรุณาเตรียมบัตรขึ้นเครื่องให้พร้อม",
+      "cefr": "A2",
+      "note_th": "boarding pass ไม่ใช่ ticket ตั๋ว (ticket) คือสิ่งที่ซื้อ ส่วน boarding pass คือบัตรที่ได้หลังเช็คอิน ใช้ผ่านจุดตรวจและขึ้นเครื่อง",
+      "distractors": [
+        "ticket",
+        "passport",
+        "receipt"
+      ]
+    },
+    {
+      "id": "seat",
+      "word": "seat",
+      "pos": "noun",
+      "ipa": "/siːt/",
+      "meaning_th": "ที่นั่ง",
+      "emoji": "💺",
+      "example_en": "Your seat number is 24A.",
+      "example_th": "ที่นั่งของคุณคือหมายเลข 24A",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "chair",
+        "bench",
+        "sofa"
+      ],
+      "image": "words/seat.webp"
+    },
+    {
+      "id": "window_seat",
+      "word": "window seat",
+      "pos": "noun",
+      "ipa": "/ˈwɪndoʊ siːt/",
+      "meaning_th": "ที่นั่งริมหน้าต่าง",
+      "emoji": null,
+      "example_en": "Would you like a window seat or an aisle seat?",
+      "example_th": "คุณต้องการที่นั่งริมหน้าต่างหรือริมทางเดินคะ",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "aisle seat",
+        "middle seat",
+        "front seat"
+      ]
+    },
+    {
+      "id": "aisle_seat",
+      "word": "aisle seat",
+      "pos": "noun",
+      "ipa": "/ˈaɪl siːt/",
+      "meaning_th": "ที่นั่งริมทางเดิน",
+      "emoji": null,
+      "example_en": "I prefer an aisle seat on long flights.",
+      "example_th": "ฉันชอบที่นั่งริมทางเดินเวลาบินไกล ๆ",
+      "cefr": "A2",
+      "note_th": "aisle ออกเสียงว่า /aɪl/ (ไอลฺ) ตัว s ไม่ออกเสียง คนไทยมักอ่านผิดเป็น ไอ-เซิล",
+      "distractors": [
+        "window seat",
+        "middle seat",
+        "back seat"
+      ]
+    },
+    {
+      "id": "baggage",
+      "word": "baggage",
+      "pos": "noun",
+      "ipa": "/ˈbæɡɪdʒ/",
+      "meaning_th": "สัมภาระ / กระเป๋าเดินทาง",
+      "emoji": null,
+      "example_en": "All baggage must be checked in at the counter.",
+      "example_th": "สัมภาระทั้งหมดต้องเช็คอินที่เคาน์เตอร์",
+      "cefr": "A2",
+      "note_th": "baggage = luggage แต่ป้ายในสนามบินมักใช้ baggage เช่น baggage claim, baggage allowance ทั้งสองคำนับไม่ได้ (ไม่เติม s)",
+      "distractors": [
+        "freight",
+        "parcel",
+        "goods"
+      ]
+    },
+    {
+      "id": "baggage_allowance",
+      "word": "baggage allowance",
+      "pos": "noun",
+      "ipa": "/ˈbæɡɪdʒ əˌlaʊəns/",
+      "meaning_th": "น้ำหนักสัมภาระที่อนุญาต",
+      "emoji": null,
+      "example_en": "The baggage allowance is 20 kilos per person.",
+      "example_th": "น้ำหนักสัมภาระที่อนุญาตคือ 20 กิโลกรัมต่อคน",
+      "cefr": "B1",
+      "note_th": null,
+      "distractors": null
+    },
+    {
+      "id": "overweight",
+      "word": "overweight",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈweɪt/",
+      "meaning_th": "น้ำหนักเกิน",
+      "emoji": null,
+      "example_en": "Your bag is three kilos overweight.",
+      "example_th": "กระเป๋าของคุณน้ำหนักเกินมาสามกิโล",
+      "cefr": "B1",
+      "note_th": "overweight ใช้ได้ทั้งกับคนและกระเป๋า ถ้ากระเป๋าน้ำหนักเกินจะต้องจ่าย excess baggage fee (ค่าน้ำหนักเกิน)",
+      "distractors": [
+        "heavy",
+        "oversized",
+        "overloaded"
+      ]
+    },
+    {
+      "id": "carry_on",
+      "word": "carry-on",
+      "pos": "noun",
+      "ipa": "/ˈkeri ɑːn/",
+      "meaning_th": "กระเป๋าถือขึ้นเครื่อง",
+      "emoji": null,
+      "example_en": "You can bring one carry-on and one personal item.",
+      "example_th": "คุณนำกระเป๋าถือขึ้นเครื่องได้หนึ่งใบและกระเป๋าส่วนตัวอีกหนึ่งใบ",
+      "cefr": "B1",
+      "note_th": "carry-on (อเมริกัน) = hand luggage / cabin bag (อังกฤษ) คือกระเป๋าที่ถือขึ้นเครื่องได้ ไม่ต้องโหลด",
+      "distractors": [
+        "checked baggage",
+        "suitcase",
+        "handbag"
+      ]
+    },
+    {
+      "id": "checked_baggage",
+      "word": "checked baggage",
+      "pos": "noun",
+      "ipa": "/ˌtʃekt ˈbæɡɪdʒ/",
+      "meaning_th": "กระเป๋าโหลดใต้เครื่อง",
+      "emoji": null,
+      "example_en": "Is checked baggage included in this fare?",
+      "example_th": "ค่าโดยสารนี้รวมกระเป๋าโหลดใต้เครื่องแล้วหรือยัง",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่า โหลดกระเป๋า แต่ภาษาอังกฤษใช้ check (a bag) ไม่ใช่ load เช่น I'd like to check two bags",
+      "distractors": [
+        "carry-on",
+        "hand luggage",
+        "cabin bag"
+      ]
+    },
+    {
+      "id": "scale",
+      "word": "scale",
+      "pos": "noun",
+      "ipa": "/skeɪl/",
+      "meaning_th": "เครื่องชั่ง / ตาชั่ง",
+      "emoji": "⚖️",
+      "example_en": "Put your suitcase on the scale, please.",
+      "example_th": "กรุณาวางกระเป๋าเดินทางบนเครื่องชั่ง",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "ruler",
+        "gauge",
+        "tray"
+      ],
+      "image": "words/scale.webp"
+    },
+    {
+      "id": "weigh",
+      "word": "weigh",
+      "pos": "verb",
+      "ipa": "/weɪ/",
+      "meaning_th": "ชั่งน้ำหนัก / มีน้ำหนัก",
+      "emoji": null,
+      "example_en": "How much does your bag weigh?",
+      "example_th": "กระเป๋าของคุณหนักเท่าไหร่",
+      "cefr": "A2",
+      "note_th": "weigh (กริยา) ออกเสียงเหมือน way ส่วน weight (คำนาม) = น้ำหนัก เช่น What is the weight of your bag?",
+      "distractors": [
+        "measure",
+        "count",
+        "lift"
+      ]
+    },
+    {
+      "id": "security_check",
+      "word": "security check",
+      "pos": "noun",
+      "ipa": "/sɪˈkjʊrəti tʃek/",
+      "meaning_th": "การตรวจความปลอดภัย / จุดตรวจ",
+      "emoji": null,
+      "example_en": "The security check took almost forty minutes.",
+      "example_th": "การตรวจความปลอดภัยใช้เวลาเกือบสี่สิบนาที",
+      "cefr": "A2",
+      "note_th": "security ออกเสียง /sɪˈkjʊrəti/ เน้นพยางค์ที่สอง (ซิ-เคียว-ริ-ตี้) ไม่ใช่ เซ-คิว-ริ-ตี้",
+      "distractors": null
+    },
+    {
+      "id": "scanner",
+      "word": "scanner",
+      "pos": "noun",
+      "ipa": "/ˈskænər/",
+      "meaning_th": "เครื่องสแกน",
+      "emoji": null,
+      "example_en": "Your bag has to go through the scanner.",
+      "example_th": "กระเป๋าของคุณต้องผ่านเครื่องสแกน",
+      "cefr": "B1",
+      "note_th": null,
+      "distractors": [
+        "printer",
+        "monitor",
+        "detector"
+      ]
+    },
+    {
+      "id": "tray",
+      "word": "tray",
+      "pos": "noun",
+      "ipa": "/treɪ/",
+      "meaning_th": "ถาด",
+      "emoji": null,
+      "example_en": "Put your phone and keys in the tray.",
+      "example_th": "วางโทรศัพท์และกุญแจของคุณในถาด",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "plate",
+        "basket",
+        "box"
+      ]
+    },
+    {
+      "id": "liquids",
+      "word": "liquids",
+      "pos": "noun",
+      "ipa": "/ˈlɪkwɪdz/",
+      "meaning_th": "ของเหลว",
+      "emoji": null,
+      "example_en": "Liquids over 100 ml are not allowed.",
+      "example_th": "ของเหลวเกิน 100 มิลลิลิตรไม่อนุญาตให้นำขึ้นเครื่อง",
+      "cefr": "B1",
+      "note_th": "liquids ในสนามบินรวมถึงเจล ครีม สเปรย์ และน้ำหอม ต้องใส่ขวดไม่เกิน 100 ml และรวมกันในถุงซิปใส",
+      "distractors": [
+        "solids",
+        "powders",
+        "snacks"
+      ]
+    },
+    {
+      "id": "belt",
+      "word": "belt",
+      "pos": "noun",
+      "ipa": "/belt/",
+      "meaning_th": "เข็มขัด",
+      "emoji": null,
+      "example_en": "Please take off your belt and shoes.",
+      "example_th": "กรุณาถอดเข็มขัดและรองเท้า",
+      "cefr": "A2",
+      "note_th": "belt ที่สนามบินอาจหมายถึงเข็มขัด หรือสายพาน (conveyor belt) ของเครื่องสแกนก็ได้ ต้องดูจากบริบท",
+      "distractors": [
+        "strap",
+        "tie",
+        "buckle"
+      ]
+    },
+    {
+      "id": "metal_detector",
+      "word": "metal detector",
+      "pos": "noun",
+      "ipa": "/ˈmetl dɪˌtektər/",
+      "meaning_th": "เครื่องตรวจจับโลหะ",
+      "emoji": null,
+      "example_en": "Walk through the metal detector slowly.",
+      "example_th": "เดินผ่านเครื่องตรวจจับโลหะช้า ๆ",
+      "cefr": "B1",
+      "note_th": null,
+      "distractors": null
+    },
+    {
+      "id": "remove",
+      "word": "remove",
+      "pos": "verb",
+      "ipa": "/rɪˈmuːv/",
+      "meaning_th": "ถอด / เอาออก",
+      "emoji": null,
+      "example_en": "Remove your laptop from your bag, please.",
+      "example_th": "กรุณาเอาแล็ปท็อปออกจากกระเป๋าค่ะ",
+      "cefr": "A2",
+      "note_th": "remove ใช้ได้ทั้ง ถอด (เสื้อ รองเท้า) และ เอาออก (ของจากกระเป๋า) เป็นคำทางการกว่า take off / take out ซึ่งความหมายเดียวกัน",
+      "distractors": [
+        "move",
+        "replace",
+        "return"
+      ]
+    },
+    {
+      "id": "prohibited",
+      "word": "prohibited",
+      "pos": "adjective",
+      "ipa": "/prəˈhɪbɪtɪd/",
+      "meaning_th": "ต้องห้าม / ไม่อนุญาต",
+      "emoji": "🚫",
+      "example_en": "Knives are prohibited in carry-on bags.",
+      "example_th": "มีดเป็นของต้องห้ามในกระเป๋าถือขึ้นเครื่อง",
+      "cefr": "B1",
+      "note_th": "prohibited = forbidden = not allowed มักเห็นในป้าย prohibited items (สิ่งของต้องห้าม) เป็นคำทางการ",
+      "distractors": [
+        "permitted",
+        "allowed",
+        "required"
+      ],
+      "image": "words/prohibited.webp"
+    },
+    {
+      "id": "allowed",
+      "word": "allowed",
+      "pos": "adjective",
+      "ipa": "/əˈlaʊd/",
+      "meaning_th": "ได้รับอนุญาต",
+      "emoji": null,
+      "example_en": "Only one small bag is allowed on board.",
+      "example_th": "อนุญาตให้นำกระเป๋าใบเล็กขึ้นเครื่องได้เพียงใบเดียว",
+      "cefr": "A2",
+      "note_th": "allowed ออกเสียงเหมือน aloud และมักใช้รูป be allowed to + กริยา เช่น You are allowed to bring one bag",
+      "distractors": [
+        "prohibited",
+        "banned",
+        "forbidden"
+      ]
+    },
+    {
+      "id": "laptop",
+      "word": "laptop",
+      "pos": "noun",
+      "ipa": "/ˈlæptɑːp/",
+      "meaning_th": "แล็ปท็อป / คอมพิวเตอร์โน้ตบุ๊ก",
+      "emoji": "💻",
+      "example_en": "Take your laptop out and put it in a tray.",
+      "example_th": "หยิบแล็ปท็อปออกมาแล้ววางในถาด",
+      "cefr": "A1",
+      "note_th": "คนไทยเรียกว่า โน้ตบุ๊ก แต่ภาษาอังกฤษใช้ laptop ส่วน notebook หมายถึงสมุดจด ฝรั่งจะไม่เข้าใจ",
+      "distractors": [
+        "notebook",
+        "tablet",
+        "desktop"
+      ],
+      "image": "words/laptop.webp"
+    },
+    {
+      "id": "jacket",
+      "word": "jacket",
+      "pos": "noun",
+      "ipa": "/ˈdʒækɪt/",
+      "meaning_th": "แจ็กเก็ต / เสื้อคลุม",
+      "emoji": "🧥",
+      "example_en": "You need to take off your jacket here.",
+      "example_th": "คุณต้องถอดเสื้อแจ็กเก็ตตรงนี้",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "coat",
+        "sweater",
+        "vest"
+      ],
+      "image": "words/jacket.webp"
+    },
+    {
+      "id": "empty",
+      "word": "empty",
+      "pos": "verb",
+      "ipa": "/ˈempti/",
+      "meaning_th": "เอาของออกให้หมด / ทำให้ว่าง",
+      "emoji": null,
+      "example_en": "Please empty your pockets into the tray.",
+      "example_th": "กรุณาเอาของในกระเป๋ากางเกงทั้งหมดใส่ถาด",
+      "cefr": "A2",
+      "note_th": "empty เป็นได้ทั้งกริยา (ทำให้ว่าง) และคำคุณศัพท์ (ว่างเปล่า) ที่จุดตรวจจะได้ยินบ่อยว่า Empty your pockets",
+      "distractors": [
+        "fill",
+        "open",
+        "clean"
+      ]
+    },
+    {
+      "id": "shoes",
+      "word": "shoes",
+      "pos": "noun",
+      "ipa": "/ʃuːz/",
+      "meaning_th": "รองเท้า",
+      "emoji": "👟",
+      "example_en": "Do I have to take my shoes off?",
+      "example_th": "ฉันต้องถอดรองเท้าไหม",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "socks",
+        "gloves",
+        "hat"
+      ],
+      "image": "words/shoes.webp"
+    },
+    {
+      "id": "scissors",
+      "word": "scissors",
+      "pos": "noun",
+      "ipa": "/ˈsɪzərz/",
+      "meaning_th": "กรรไกร",
+      "emoji": "✂️",
+      "example_en": "Scissors must go in your checked baggage.",
+      "example_th": "กรรไกรต้องใส่ในกระเป๋าโหลดใต้เครื่อง",
+      "cefr": "A2",
+      "note_th": "scissors เป็นพหูพจน์เสมอ (a pair of scissors) ใช้กับกริยา are เช่น These scissors are sharp",
+      "distractors": [
+        "knife",
+        "razor",
+        "needle"
+      ],
+      "image": "words/scissors.webp"
+    },
+    {
+      "id": "immigration",
+      "word": "immigration",
+      "pos": "noun",
+      "ipa": "/ˌɪmɪˈɡreɪʃən/",
+      "meaning_th": "ด่านตรวจคนเข้าเมือง / ตม.",
+      "emoji": null,
+      "example_en": "The line at immigration was very long.",
+      "example_th": "แถวที่ด่านตรวจคนเข้าเมืองยาวมาก",
+      "cefr": "B1",
+      "note_th": "immigration ตรวจคนและหนังสือเดินทาง ส่วน customs ตรวจสิ่งของและภาษี คนไทยมักสับสนสองคำนี้",
+      "distractors": [
+        "customs",
+        "security",
+        "quarantine"
+      ]
+    },
+    {
+      "id": "customs",
+      "word": "customs",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmz/",
+      "meaning_th": "ศุลกากร / ด่านตรวจสินค้า",
+      "emoji": "🛃",
+      "example_en": "Do you have anything to declare at customs?",
+      "example_th": "คุณมีของต้องสำแดงต่อศุลกากรไหม",
+      "cefr": "B1",
+      "note_th": "customs (มี s เสมอ) = ศุลกากร ส่วน custom (ไม่มี s) = ประเพณี และ customer = ลูกค้า",
+      "distractors": [
+        "immigration",
+        "security",
+        "customer"
+      ],
+      "image": "words/customs.webp"
+    },
+    {
+      "id": "declare",
+      "word": "declare",
+      "pos": "verb",
+      "ipa": "/dɪˈkler/",
+      "meaning_th": "สำแดง (สิ่งของต่อศุลกากร)",
+      "emoji": null,
+      "example_en": "I have nothing to declare.",
+      "example_th": "ฉันไม่มีอะไรต้องสำแดง",
+      "cefr": "B1",
+      "note_th": "ที่ศุลกากร declare = แจ้งว่ามีของต้องเสียภาษี ไม่ได้แปลว่า ประกาศ อย่างในบริบททั่วไป ช่องเดินสีเขียว Nothing to declare สำหรับคนไม่มีของต้องสำแดง",
+      "distractors": [
+        "announce",
+        "report",
+        "describe"
+      ]
+    },
+    {
+      "id": "purpose_of_visit",
+      "word": "purpose of visit",
+      "pos": "phrase",
+      "ipa": "/ˌpɜːrpəs əv ˈvɪzɪt/",
+      "meaning_th": "วัตถุประสงค์ในการมาเยือน",
+      "emoji": null,
+      "example_en": "What is the purpose of your visit?",
+      "example_th": "คุณมาที่นี่ด้วยวัตถุประสงค์อะไร",
+      "cefr": "B1",
+      "note_th": "คำตอบที่ใช้บ่อย: Tourism / Sightseeing (ท่องเที่ยว), Business (ธุรกิจ), Visiting friends (เยี่ยมเพื่อน) ตอบสั้น ๆ ได้เลย",
+      "distractors": null
+    },
+    {
+      "id": "stamp",
+      "word": "stamp",
+      "pos": "noun",
+      "ipa": "/stæmp/",
+      "meaning_th": "ตราประทับ (ในหนังสือเดินทาง)",
+      "emoji": null,
+      "example_en": "The officer put a stamp in my passport.",
+      "example_th": "เจ้าหน้าที่ประทับตราในหนังสือเดินทางของฉัน",
+      "cefr": "A2",
+      "note_th": "stamp เป็นได้ทั้งคำนาม (ตราประทับ / แสตมป์) และกริยา (ประทับตรา) เช่น They stamped my passport",
+      "distractors": [
+        "sticker",
+        "seal",
+        "label"
+      ]
+    },
+    {
+      "id": "queue",
+      "word": "queue",
+      "pos": "noun",
+      "ipa": "/kjuː/",
+      "meaning_th": "แถว / คิว",
+      "emoji": null,
+      "example_en": "Please wait in the queue for foreign passports.",
+      "example_th": "กรุณารอในแถวสำหรับหนังสือเดินทางต่างชาติ",
+      "cefr": "A2",
+      "note_th": "queue ออกเสียงว่า /kjuː/ (คิว) เหมือนตัว Q ใช้ในอังกฤษ ส่วนอเมริกันใช้ line เช่น wait in line",
+      "distractors": null
+    },
+    {
+      "id": "officer",
+      "word": "officer",
+      "pos": "noun",
+      "ipa": "/ˈɔːfɪsər/",
+      "meaning_th": "เจ้าหน้าที่",
+      "emoji": null,
+      "example_en": "The immigration officer asked me a few questions.",
+      "example_th": "เจ้าหน้าที่ตรวจคนเข้าเมืองถามฉันสองสามคำถาม",
+      "cefr": "A2",
+      "note_th": "officer ไม่ได้แปลว่าตำรวจเสมอไป ใช้เรียกเจ้าหน้าที่ได้หลายแบบ เช่น immigration officer, customs officer",
+      "distractors": [
+        "staff",
+        "guard",
+        "clerk"
+      ]
+    },
+    {
+      "id": "arrival_card",
+      "word": "arrival card",
+      "pos": "noun",
+      "ipa": "/əˈraɪvəl kɑːrd/",
+      "meaning_th": "บัตรขาเข้า",
+      "emoji": null,
+      "example_en": "Fill in the arrival card before you land.",
+      "example_th": "กรอกบัตรขาเข้าให้เสร็จก่อนเครื่องลง",
+      "cefr": "B1",
+      "note_th": "บางประเทศเรียก landing card, immigration form หรือ entry card ของไทยคือแบบ ตม.6 (TM6)",
+      "distractors": null
+    },
+    {
+      "id": "nationality",
+      "word": "nationality",
+      "pos": "noun",
+      "ipa": "/ˌnæʃəˈnæləti/",
+      "meaning_th": "สัญชาติ",
+      "emoji": null,
+      "example_en": "Please write your nationality on the form.",
+      "example_th": "กรุณาเขียนสัญชาติของคุณในแบบฟอร์ม",
+      "cefr": "A2",
+      "note_th": "ตอบว่า Thai ไม่ใช่ Thailand เพราะ nationality ถามสัญชาติ ไม่ใช่ชื่อประเทศ (country)",
+      "distractors": [
+        "country",
+        "citizen",
+        "nation"
+      ]
+    },
+    {
+      "id": "fill_in",
+      "word": "fill in",
+      "pos": "verb",
+      "ipa": "/ˌfɪl ˈɪn/",
+      "meaning_th": "กรอก (แบบฟอร์ม)",
+      "emoji": null,
+      "example_en": "You need to fill in this form in English.",
+      "example_th": "คุณต้องกรอกแบบฟอร์มนี้เป็นภาษาอังกฤษ",
+      "cefr": "A2",
+      "note_th": "fill in (อังกฤษ) และ fill out (อเมริกัน) ใช้ได้ทั้งคู่ อย่าพูดว่า write the form",
+      "distractors": [
+        "fill up",
+        "write down",
+        "put in"
+      ]
+    },
+    {
+      "id": "stay",
+      "word": "stay",
+      "pos": "verb",
+      "ipa": "/steɪ/",
+      "meaning_th": "พัก / อยู่ (ชั่วคราว)",
+      "emoji": null,
+      "example_en": "How long will you stay in Korea?",
+      "example_th": "คุณจะอยู่ที่เกาหลีนานเท่าไหร่",
+      "cefr": "A1",
+      "note_th": "stay = พักอยู่ชั่วคราว ตอบได้ว่า Five days หรือ Two weeks ส่วน live = อาศัยอยู่ถาวร",
+      "distractors": [
+        "live",
+        "visit",
+        "sleep"
+      ]
+    },
+    {
+      "id": "duty_free",
+      "word": "duty-free",
+      "pos": "adjective",
+      "ipa": "/ˌduːti ˈfriː/",
+      "meaning_th": "ปลอดภาษี",
+      "emoji": null,
+      "example_en": "I bought some perfume at the duty-free shop.",
+      "example_th": "ฉันซื้อน้ำหอมที่ร้านค้าปลอดภาษี",
+      "cefr": "B1",
+      "note_th": "duty ในที่นี้แปลว่า ภาษี (ศุลกากร) ไม่ใช่ หน้าที่ ดังนั้น duty-free = ปลอดภาษี",
+      "distractors": [
+        "free",
+        "cheap",
+        "exclusive"
+      ]
+    },
+    {
+      "id": "fingerprint",
+      "word": "fingerprint",
+      "pos": "noun",
+      "ipa": "/ˈfɪŋɡərprɪnt/",
+      "meaning_th": "ลายนิ้วมือ",
+      "emoji": null,
+      "example_en": "They will scan your fingerprints at immigration.",
+      "example_th": "เขาจะสแกนลายนิ้วมือของคุณที่ด่านตรวจคนเข้าเมือง",
+      "cefr": "B1",
+      "note_th": null,
+      "distractors": [
+        "signature",
+        "photo",
+        "footprint"
+      ]
+    },
+    {
+      "id": "camera",
+      "word": "camera",
+      "pos": "noun",
+      "ipa": "/ˈkæmərə/",
+      "meaning_th": "กล้อง",
+      "emoji": "📷",
+      "example_en": "Look at the camera, please.",
+      "example_th": "กรุณามองที่กล้อง",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "scanner",
+        "screen",
+        "phone"
+      ],
+      "image": "words/camera.webp"
+    },
+    {
+      "id": "gate",
+      "word": "gate",
+      "pos": "noun",
+      "ipa": "/ɡeɪt/",
+      "meaning_th": "ประตูขึ้นเครื่อง / เกต",
+      "emoji": null,
+      "example_en": "Our flight is boarding at gate B7.",
+      "example_th": "เที่ยวบินของเรากำลังขึ้นเครื่องที่ประตู B7",
+      "cefr": "A2",
+      "note_th": "gate ที่สนามบินหมายถึงประตูทางออกขึ้นเครื่อง ไม่ใช่ประตูห้อง (door) ป้ายจะบอกเป็น Gate + ตัวอักษรและตัวเลข",
+      "distractors": [
+        "door",
+        "exit",
+        "entrance"
+      ]
+    },
+    {
+      "id": "boarding",
+      "word": "boarding",
+      "pos": "noun",
+      "ipa": "/ˈbɔːrdɪŋ/",
+      "meaning_th": "การขึ้นเครื่อง",
+      "emoji": null,
+      "example_en": "Boarding starts thirty minutes before departure.",
+      "example_th": "การขึ้นเครื่องเริ่มสามสิบนาทีก่อนออกเดินทาง",
+      "cefr": "A2",
+      "note_th": "กริยาคือ board เช่น We boarded the plane at 9 และ on board = อยู่บนเครื่องแล้ว",
+      "distractors": [
+        "landing",
+        "loading",
+        "booking"
+      ]
+    },
+    {
+      "id": "departure",
+      "word": "departure",
+      "pos": "noun",
+      "ipa": "/dɪˈpɑːrtʃər/",
+      "meaning_th": "การออกเดินทาง / ขาออก",
+      "emoji": null,
+      "example_en": "Check the departure board for your gate.",
+      "example_th": "ดูกระดานเที่ยวบินขาออกเพื่อหาประตูขึ้นเครื่องของคุณ",
+      "cefr": "A2",
+      "note_th": "departure (ขาออก) ตรงข้ามกับ arrival (ขาเข้า) ป้ายในสนามบินมักเขียน Departures มี s กริยาคือ depart",
+      "distractors": [
+        "arrival",
+        "delay",
+        "destination"
+      ]
+    },
+    {
+      "id": "delay",
+      "word": "delay",
+      "pos": "noun",
+      "ipa": "/dɪˈleɪ/",
+      "meaning_th": "ความล่าช้า / การดีเลย์",
+      "emoji": null,
+      "example_en": "There is a two-hour delay on our flight.",
+      "example_th": "เที่ยวบินของเราล่าช้าไปสองชั่วโมง",
+      "cefr": "A2",
+      "note_th": "ถ้าจะบอกว่าเที่ยวบินล่าช้า ใช้ The flight is delayed (มี -ed) ไม่ใช่ The flight is delay และ delay ต่างจาก cancel (ยกเลิก)",
+      "distractors": [
+        "cancellation",
+        "stopover",
+        "queue"
+      ]
+    },
+    {
+      "id": "cancel",
+      "word": "cancel",
+      "pos": "verb",
+      "ipa": "/ˈkænsəl/",
+      "meaning_th": "ยกเลิก",
+      "emoji": null,
+      "example_en": "They had to cancel all flights because of the storm.",
+      "example_th": "พวกเขาต้องยกเลิกทุกเที่ยวบินเพราะพายุ",
+      "cefr": "A2",
+      "note_th": "cancel = ยกเลิกไม่บินเลย ส่วน delay = เลื่อนออกไปแต่ยังบิน รูปอดีตสะกด cancelled (อังกฤษ) หรือ canceled (อเมริกัน)",
+      "distractors": [
+        "delay",
+        "postpone",
+        "reschedule"
+      ]
+    },
+    {
+      "id": "announcement",
+      "word": "announcement",
+      "pos": "noun",
+      "ipa": "/əˈnaʊnsmənt/",
+      "meaning_th": "ประกาศ",
+      "emoji": "📢",
+      "example_en": "Did you hear the announcement about our gate?",
+      "example_th": "คุณได้ยินประกาศเรื่องประตูขึ้นเครื่องของเราไหม",
+      "cefr": "B1",
+      "note_th": "announcement เป็นคำนาม กริยาคือ announce และมักใช้ make an announcement (ประกาศ)",
+      "distractors": [
+        "advertisement",
+        "notice",
+        "warning"
+      ],
+      "image": "words/announcement.webp"
+    },
+    {
+      "id": "final_call",
+      "word": "final call",
+      "pos": "noun",
+      "ipa": "/ˌfaɪnəl ˈkɔːl/",
+      "meaning_th": "การเรียกครั้งสุดท้าย (ให้ขึ้นเครื่อง)",
+      "emoji": null,
+      "example_en": "This is the final call for flight TG640.",
+      "example_th": "นี่คือการเรียกครั้งสุดท้ายสำหรับเที่ยวบิน TG640",
+      "cefr": "B1",
+      "note_th": "ถ้าได้ยิน final call แปลว่าประตูกำลังจะปิด ต้องรีบไปที่ gate ทันที บางที่ใช้ last call",
+      "distractors": null
+    },
+    {
+      "id": "terminal",
+      "word": "terminal",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrmɪnəl/",
+      "meaning_th": "อาคารผู้โดยสาร",
+      "emoji": null,
+      "example_en": "International flights leave from Terminal 2.",
+      "example_th": "เที่ยวบินระหว่างประเทศออกจากอาคารผู้โดยสาร 2",
+      "cefr": "A2",
+      "note_th": "terminal คืออาคารผู้โดยสารทั้งหลัง มีหลาย gate อยู่ข้างใน สนามบินใหญ่ ๆ มีหลาย terminal ต้องดูให้ดีว่าเที่ยวบินออกจากอาคารไหน",
+      "distractors": [
+        "gate",
+        "station",
+        "platform"
+      ]
+    },
+    {
+      "id": "on_time",
+      "word": "on time",
+      "pos": "phrase",
+      "ipa": "/ˌɑːn ˈtaɪm/",
+      "meaning_th": "ตรงเวลา",
+      "emoji": null,
+      "example_en": "Is the flight to Chiang Mai on time?",
+      "example_th": "เที่ยวบินไปเชียงใหม่ตรงเวลาไหม",
+      "cefr": "A2",
+      "note_th": "on time = ตรงเวลา (ไม่สาย) ส่วน in time = ทันเวลา (ก่อนจะสายเกินไป) เช่น We arrived in time to catch the flight",
+      "distractors": [
+        "in time",
+        "at time",
+        "every time"
+      ]
+    },
+    {
+      "id": "connecting_flight",
+      "word": "connecting flight",
+      "pos": "noun",
+      "ipa": "/kəˈnektɪŋ flaɪt/",
+      "meaning_th": "เที่ยวบินต่อ",
+      "emoji": null,
+      "example_en": "I have a connecting flight to Osaka in an hour.",
+      "example_th": "ฉันมีเที่ยวบินต่อไปโอซาก้าในอีกหนึ่งชั่วโมง",
+      "cefr": "B1",
+      "note_th": "connecting flight = เที่ยวบินต่อ (ต้องเปลี่ยนเครื่อง), direct flight = บินตรง (อาจแวะแต่ไม่เปลี่ยนเครื่อง), non-stop flight = บินตรงไม่แวะเลย",
+      "distractors": [
+        "direct flight",
+        "domestic flight",
+        "return flight"
+      ]
+    },
+    {
+      "id": "transit",
+      "word": "transit",
+      "pos": "noun",
+      "ipa": "/ˈtrænzɪt/",
+      "meaning_th": "การเปลี่ยนเครื่อง / การแวะพักระหว่างทาง",
+      "emoji": null,
+      "example_en": "We are in transit for three hours in Singapore.",
+      "example_th": "เราแวะเปลี่ยนเครื่องที่สิงคโปร์สามชั่วโมง",
+      "cefr": "B1",
+      "note_th": "in transit = อยู่ระหว่างเปลี่ยนเครื่อง ในสนามบินให้มองหาป้าย Transit / Transfer ไม่ต้องออกไปผ่านด่านตรวจคนเข้าเมือง",
+      "distractors": [
+        "transport",
+        "transaction",
+        "traffic"
+      ]
+    },
+    {
+      "id": "miss",
+      "word": "miss",
+      "pos": "verb",
+      "ipa": "/mɪs/",
+      "meaning_th": "พลาด / ตก (เครื่อง รถ)",
+      "emoji": null,
+      "example_en": "Hurry up, or we will miss our flight!",
+      "example_th": "รีบหน่อย ไม่งั้นเราจะตกเครื่อง",
+      "cefr": "A2",
+      "note_th": "miss the flight = ตกเครื่อง (ไปไม่ทัน) คนละความหมายกับ miss = คิดถึง และอย่าใช้ lose the flight",
+      "distractors": [
+        "lose",
+        "skip",
+        "forget"
+      ]
+    },
+    {
+      "id": "row",
+      "word": "row",
+      "pos": "noun",
+      "ipa": "/roʊ/",
+      "meaning_th": "แถว (ที่นั่ง)",
+      "emoji": null,
+      "example_en": "Passengers in rows 30 to 45 may board now.",
+      "example_th": "ผู้โดยสารแถวที่ 30 ถึง 45 ขึ้นเครื่องได้แล้ว",
+      "cefr": "A2",
+      "note_th": "row ออกเสียง /roʊ/ (โรว) หมายถึงแถวที่นั่งที่มีหมายเลข ส่วน queue / line คือแถวคนที่ยืนรอ",
+      "distractors": [
+        "queue",
+        "line",
+        "column"
+      ]
+    },
+    {
+      "id": "lounge",
+      "word": "lounge",
+      "pos": "noun",
+      "ipa": "/laʊndʒ/",
+      "meaning_th": "ห้องรับรอง / เลานจ์",
+      "emoji": null,
+      "example_en": "You can wait in the lounge until boarding time.",
+      "example_th": "คุณรอในห้องรับรองได้จนถึงเวลาขึ้นเครื่อง",
+      "cefr": "B1",
+      "note_th": "lounge ออกเสียง /laʊndʒ/ (เลานจฺ) ไม่ใช่ ลอง ห้องรับรองในสนามบินมักต้องมีบัตรหรือจ่ายเงินจึงจะเข้าได้",
+      "distractors": [
+        "lobby",
+        "hall",
+        "waiting room"
+      ]
+    },
+    {
+      "id": "cabin_crew",
+      "word": "cabin crew",
+      "pos": "noun",
+      "ipa": "/ˈkæbɪn kruː/",
+      "meaning_th": "ลูกเรือ / พนักงานต้อนรับบนเครื่องบิน",
+      "emoji": null,
+      "example_en": "The cabin crew will serve drinks shortly.",
+      "example_th": "ลูกเรือจะเสิร์ฟเครื่องดื่มในอีกสักครู่",
+      "cefr": "B1",
+      "note_th": "cabin crew คือพนักงานต้อนรับทั้งทีม ถ้าพูดถึงคนเดียวใช้ flight attendant คำว่า แอร์ / สจ๊วต ที่คนไทยใช้มาจาก air hostess / steward ซึ่งเป็นคำเก่าแล้ว",
+      "distractors": [
+        "pilot",
+        "passenger",
+        "ground staff"
+      ]
+    },
+    {
+      "id": "seatbelt",
+      "word": "seatbelt",
+      "pos": "noun",
+      "ipa": "/ˈsiːtbelt/",
+      "meaning_th": "เข็มขัดนิรภัย",
+      "emoji": null,
+      "example_en": "Please keep your seatbelt fastened while seated.",
+      "example_th": "กรุณาคาดเข็มขัดนิรภัยไว้ตลอดเวลาที่นั่งอยู่",
+      "cefr": "A2",
+      "note_th": "เขียนได้ทั้ง seatbelt และ seat belt กริยาที่ใช้คือ fasten (รัด) และ unfasten (ปลด) ไม่ใช่ open / close",
+      "distractors": [
+        "belt",
+        "strap",
+        "harness"
+      ]
+    },
+    {
+      "id": "fasten",
+      "word": "fasten",
+      "pos": "verb",
+      "ipa": "/ˈfæsən/",
+      "meaning_th": "รัด / คาด (เข็มขัด)",
+      "emoji": null,
+      "example_en": "Fasten your seatbelt, we are about to take off.",
+      "example_th": "คาดเข็มขัดนิรภัยด้วย เรากำลังจะขึ้นบิน",
+      "cefr": "B1",
+      "note_th": "fasten ออกเสียง /ˈfæsən/ (แฟส-เซิน) ตัว t ไม่ออกเสียง เหมือนกับ listen และ castle",
+      "distractors": [
+        "tighten",
+        "attach",
+        "loosen"
+      ]
+    },
+    {
+      "id": "turbulence",
+      "word": "turbulence",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrbjələns/",
+      "meaning_th": "สภาพอากาศแปรปรวน / อาการเครื่องสั่น",
+      "emoji": null,
+      "example_en": "We are expecting some turbulence ahead.",
+      "example_th": "ข้างหน้าคาดว่าจะมีสภาพอากาศแปรปรวนเล็กน้อย",
+      "cefr": "B1",
+      "note_th": "turbulence เป็นคำนามนับไม่ได้ ใช้ some turbulence ไม่ใช่ a turbulence คนไทยมักพูดว่า หลุมอากาศ แต่ภาษาอังกฤษใช้ turbulence",
+      "distractors": [
+        "storm",
+        "thunder",
+        "vibration"
+      ]
+    },
+    {
+      "id": "overhead_bin",
+      "word": "overhead bin",
+      "pos": "noun",
+      "ipa": "/ˌoʊvərhed ˈbɪn/",
+      "meaning_th": "ช่องเก็บสัมภาระเหนือศีรษะ",
+      "emoji": null,
+      "example_en": "Put your bag in the overhead bin, please.",
+      "example_th": "กรุณาเก็บกระเป๋าไว้ในช่องเก็บของเหนือศีรษะ",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก overhead bin / overhead compartment ส่วนอังกฤษเรียก overhead locker",
+      "distractors": null
+    },
+    {
+      "id": "tray_table",
+      "word": "tray table",
+      "pos": "noun",
+      "ipa": "/ˈtreɪ ˌteɪbəl/",
+      "meaning_th": "โต๊ะพับหน้าที่นั่ง",
+      "emoji": null,
+      "example_en": "Fold up your tray table for landing.",
+      "example_th": "พับโต๊ะหน้าที่นั่งเก็บเพื่อเตรียมลงจอด",
+      "cefr": "B1",
+      "note_th": null,
+      "distractors": null
+    },
+    {
+      "id": "landing",
+      "word": "landing",
+      "pos": "noun",
+      "ipa": "/ˈlændɪŋ/",
+      "meaning_th": "การลงจอด",
+      "emoji": "🛬",
+      "example_en": "It was a smooth landing despite the rain.",
+      "example_th": "เครื่องลงจอดได้นุ่มนวลแม้ฝนจะตก",
+      "cefr": "A2",
+      "note_th": "กริยาคือ land เช่น The plane landed safely ส่วน landing เป็นคำนาม ตรงข้ามกับ takeoff",
+      "distractors": [
+        "takeoff",
+        "arrival",
+        "departure"
+      ],
+      "image": "words/landing.webp"
+    },
+    {
+      "id": "take_off",
+      "word": "take off",
+      "pos": "verb",
+      "ipa": "/ˌteɪk ˈɔːf/",
+      "meaning_th": "(เครื่องบิน) ขึ้นบิน / ถอด (เสื้อผ้า)",
+      "emoji": "🛫",
+      "example_en": "The plane will take off in ten minutes.",
+      "example_th": "เครื่องบินจะขึ้นบินในอีกสิบนาที",
+      "cefr": "A2",
+      "note_th": "take off มีสองความหมายที่เจอในสนามบิน: เครื่องขึ้นบิน และ ถอด (เสื้อ รองเท้า) ส่วนคำนามเขียนติดกันเป็น takeoff",
+      "distractors": [
+        "land",
+        "leave",
+        "lift"
+      ],
+      "image": "words/take_off.webp"
+    },
+    {
+      "id": "meal",
+      "word": "meal",
+      "pos": "noun",
+      "ipa": "/miːl/",
+      "meaning_th": "มื้ออาหาร",
+      "emoji": "🍽️",
+      "example_en": "Would you like the chicken or the fish meal?",
+      "example_th": "รับอาหารเป็นไก่หรือปลาดีคะ",
+      "cefr": "A2",
+      "note_th": "meal = อาหารหนึ่งมื้อ ส่วน food = อาหารทั่วไป เช่น in-flight meal (อาหารบนเครื่อง) และ special meal (อาหารพิเศษ เช่น มังสวิรัติ ฮาลาล)",
+      "distractors": [
+        "snack",
+        "dessert",
+        "drink"
+      ],
+      "image": "words/meal.webp"
+    },
+    {
+      "id": "pilot",
+      "word": "pilot",
+      "pos": "noun",
+      "ipa": "/ˈpaɪlət/",
+      "meaning_th": "นักบิน",
+      "emoji": "🧑‍✈️",
+      "example_en": "The pilot said we would arrive early.",
+      "example_th": "นักบินบอกว่าเราจะถึงก่อนเวลา",
+      "cefr": "A1",
+      "note_th": "pilot = นักบิน ส่วน captain คือนักบินที่หนึ่งซึ่งเป็นหัวหน้าบนเครื่อง มักได้ยินว่า This is your captain speaking",
+      "distractors": [
+        "driver",
+        "engineer",
+        "attendant"
+      ],
+      "image": "words/pilot.webp"
+    },
+    {
+      "id": "headphones",
+      "word": "headphones",
+      "pos": "noun",
+      "ipa": "/ˈhedfoʊnz/",
+      "meaning_th": "หูฟัง",
+      "emoji": "🎧",
+      "example_en": "Can I get some headphones for the movie?",
+      "example_th": "ขอหูฟังสำหรับดูหนังหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "headphones เป็นพหูพจน์เสมอ (a pair of headphones) ส่วน earphones คือหูฟังแบบเสียบในหู",
+      "distractors": [
+        "speakers",
+        "earplugs",
+        "microphone"
+      ],
+      "image": "words/headphones.webp"
+    },
+    {
+      "id": "lavatory",
+      "word": "lavatory",
+      "pos": "noun",
+      "ipa": "/ˈlævətɔːri/",
+      "meaning_th": "ห้องน้ำ (บนเครื่องบิน)",
+      "emoji": null,
+      "example_en": "The lavatory is at the back of the plane.",
+      "example_th": "ห้องน้ำอยู่ท้ายเครื่อง",
+      "cefr": "B1",
+      "note_th": "lavatory เป็นคำทางการที่ใช้บนเครื่องบิน ความหมายเดียวกับ toilet / restroom สังเกตป้ายไฟ Lavatory occupied (ไม่ว่าง) / vacant (ว่าง)",
+      "distractors": [
+        "galley",
+        "cabin",
+        "cockpit"
+      ]
+    },
+    {
+      "id": "blanket",
+      "word": "blanket",
+      "pos": "noun",
+      "ipa": "/ˈblæŋkɪt/",
+      "meaning_th": "ผ้าห่ม",
+      "emoji": null,
+      "example_en": "Could I have a blanket, please?",
+      "example_th": "ขอผ้าห่มหน่อยได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "pillow",
+        "towel",
+        "sheet"
+      ]
+    },
+    {
+      "id": "airplane",
+      "word": "airplane",
+      "pos": "noun",
+      "ipa": "/ˈerpleɪn/",
+      "meaning_th": "เครื่องบิน",
+      "emoji": "✈️",
+      "example_en": "This airplane can carry 300 passengers.",
+      "example_th": "เครื่องบินลำนี้บรรทุกผู้โดยสารได้ 300 คน",
+      "cefr": "A1",
+      "note_th": "airplane (อเมริกัน) = aeroplane (อังกฤษ) = plane (ย่อ) ทั้งหมดแปลว่าเครื่องบิน ส่วน aircraft ใช้เรียกอากาศยานทุกชนิด",
+      "distractors": [
+        "airline",
+        "airport",
+        "helicopter"
+      ],
+      "image": "words/airplane.webp"
+    },
+    {
+      "id": "arrival",
+      "word": "arrival",
+      "pos": "noun",
+      "ipa": "/əˈraɪvəl/",
+      "meaning_th": "การมาถึง / ขาเข้า",
+      "emoji": null,
+      "example_en": "The arrival time is 8:45 local time.",
+      "example_th": "เวลาถึงคือ 8:45 ตามเวลาท้องถิ่น",
+      "cefr": "A2",
+      "note_th": "arrival (ขาเข้า) ตรงข้ามกับ departure (ขาออก) ป้ายในสนามบินมักเขียน Arrivals มี s กริยาคือ arrive",
+      "distractors": [
+        "departure",
+        "landing",
+        "destination"
+      ]
+    },
+    {
+      "id": "baggage_claim",
+      "word": "baggage claim",
+      "pos": "noun",
+      "ipa": "/ˈbæɡɪdʒ kleɪm/",
+      "meaning_th": "จุดรับกระเป๋า",
+      "emoji": "🛄",
+      "example_en": "Your bags will be at baggage claim number 5.",
+      "example_th": "กระเป๋าของคุณจะอยู่ที่จุดรับกระเป๋าหมายเลข 5",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก baggage claim ส่วนอังกฤษเรียก baggage reclaim ให้เดินตามป้ายรูปกระเป๋าหลังผ่านด่านตรวจคนเข้าเมือง",
+      "distractors": [
+        "check-in",
+        "security",
+        "customs"
+      ],
+      "image": "words/baggage_claim.webp"
+    },
+    {
+      "id": "carousel",
+      "word": "carousel",
+      "pos": "noun",
+      "ipa": "/ˌkerəˈsel/",
+      "meaning_th": "สายพานรับกระเป๋า",
+      "emoji": null,
+      "example_en": "Which carousel is our luggage on?",
+      "example_th": "กระเป๋าของเราอยู่สายพานไหน",
+      "cefr": "B1",
+      "note_th": "carousel ออกเสียง /ˌkerəˈsel/ (แค-เรอ-เซล) เดิมแปลว่า ม้าหมุน แต่ในสนามบินคือสายพานวนรับกระเป๋า",
+      "distractors": [
+        "escalator",
+        "elevator",
+        "trolley"
+      ]
+    },
+    {
+      "id": "lost_luggage",
+      "word": "lost luggage",
+      "pos": "noun",
+      "ipa": "/ˌlɔːst ˈlʌɡɪdʒ/",
+      "meaning_th": "กระเป๋าหาย / สัมภาระสูญหาย",
+      "emoji": null,
+      "example_en": "Where do I report lost luggage?",
+      "example_th": "ฉันจะแจ้งกระเป๋าหายได้ที่ไหน",
+      "cefr": "B1",
+      "note_th": "ถ้ากระเป๋าไม่มาให้ไปที่เคาน์เตอร์ Lost luggage / Baggage services พร้อมป้ายรับกระเป๋า (baggage tag) ที่ได้ตอนเช็คอิน",
+      "distractors": null
+    },
+    {
+      "id": "exit",
+      "word": "exit",
+      "pos": "noun",
+      "ipa": "/ˈeksɪt/",
+      "meaning_th": "ทางออก",
+      "emoji": null,
+      "example_en": "The taxi stand is just outside the exit.",
+      "example_th": "จุดจอดแท็กซี่อยู่ด้านนอกทางออกพอดี",
+      "cefr": "A2",
+      "note_th": "exit = ทางออก ตรงข้ามกับ entrance = ทางเข้า ส่วนทางออกฉุกเฉินคือ emergency exit",
+      "distractors": [
+        "entrance",
+        "entry",
+        "gate"
+      ]
+    },
+    {
+      "id": "taxi_stand",
+      "word": "taxi stand",
+      "pos": "noun",
+      "ipa": "/ˈtæksi stænd/",
+      "meaning_th": "จุดจอดแท็กซี่",
+      "emoji": null,
+      "example_en": "Follow the signs to the taxi stand.",
+      "example_th": "เดินตามป้ายไปยังจุดจอดแท็กซี่",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก taxi stand ส่วนอังกฤษเรียก taxi rank คนไทยชอบพูดว่า taxi station ซึ่งไม่ใช่คำที่ใช้กัน",
+      "distractors": null
+    },
+    {
+      "id": "currency_exchange",
+      "word": "currency exchange",
+      "pos": "noun",
+      "ipa": "/ˈkɜːrənsi ɪksˌtʃeɪndʒ/",
+      "meaning_th": "ที่แลกเงิน / การแลกเปลี่ยนเงินตรา",
+      "emoji": "💱",
+      "example_en": "Is there a currency exchange near the exit?",
+      "example_th": "แถวทางออกมีที่แลกเงินไหม",
+      "cefr": "B1",
+      "note_th": "currency = สกุลเงิน ส่วน exchange = แลกเปลี่ยน เวลาไปแลกเงินพูดว่า I'd like to exchange baht for yen",
+      "distractors": [
+        "ATM",
+        "bank",
+        "cashier"
+      ],
+      "image": "words/currency_exchange.webp"
+    },
+    {
+      "id": "sim_card",
+      "word": "SIM card",
+      "pos": "noun",
+      "ipa": "/ˈsɪm kɑːrd/",
+      "meaning_th": "ซิมการ์ด",
+      "emoji": null,
+      "example_en": "I want to buy a local SIM card.",
+      "example_th": "ฉันอยากซื้อซิมการ์ดท้องถิ่น",
+      "cefr": "A2",
+      "note_th": "SIM ออกเสียงว่า /sɪm/ (ซิม) สั้น ๆ ถามหาซิมนักท่องเที่ยวได้ว่า Do you have a tourist SIM?",
+      "distractors": [
+        "memory card",
+        "credit card",
+        "phone case"
+      ]
+    },
+    {
+      "id": "trolley",
+      "word": "trolley",
+      "pos": "noun",
+      "ipa": "/ˈtrɑːli/",
+      "meaning_th": "รถเข็นกระเป๋า",
+      "emoji": null,
+      "example_en": "Let's get a trolley for our bags.",
+      "example_th": "ไปเอารถเข็นมาใส่กระเป๋าของเรากันเถอะ",
+      "cefr": "A2",
+      "note_th": "trolley (อังกฤษ) = cart (อเมริกัน) คือรถเข็นกระเป๋าในสนามบิน ส่วนรถเข็นเด็ก = stroller และรถเข็นคนพิการ = wheelchair",
+      "distractors": [
+        "stroller",
+        "wheelchair",
+        "basket"
+      ]
+    },
+    {
+      "id": "exchange_rate",
+      "word": "exchange rate",
+      "pos": "noun",
+      "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+      "meaning_th": "อัตราแลกเปลี่ยน",
+      "emoji": null,
+      "example_en": "What is the exchange rate for Thai baht today?",
+      "example_th": "วันนี้อัตราแลกเปลี่ยนเงินบาทเท่าไหร่",
+      "cefr": "B1",
+      "note_th": "rate = อัตรา ในสนามบิน exchange rate มักแพงกว่าในเมือง ฝรั่งจะพูดว่า a bad rate / a poor rate",
+      "distractors": null
+    },
+    {
+      "id": "atm",
+      "word": "ATM",
+      "pos": "noun",
+      "ipa": "/ˌeɪ tiː ˈem/",
+      "meaning_th": "ตู้เอทีเอ็ม",
+      "emoji": "🏧",
+      "example_en": "Is there an ATM in the arrivals hall?",
+      "example_th": "ในโถงผู้โดยสารขาเข้ามีตู้เอทีเอ็มไหม",
+      "cefr": "A1",
+      "note_th": "ATM ย่อมาจาก automated teller machine ใช้ an ATM (เพราะออกเสียงขึ้นต้นด้วยสระ เอ-ที-เอ็ม) อังกฤษบางทีเรียก cash machine",
+      "distractors": [
+        "bank",
+        "counter",
+        "kiosk"
+      ],
+      "image": "words/atm.webp"
+    },
+    {
+      "id": "pick_up",
+      "word": "pick up",
+      "pos": "verb",
+      "ipa": "/ˌpɪk ˈʌp/",
+      "meaning_th": "ไปรับ (คน) / หยิบขึ้นมา",
+      "emoji": null,
+      "example_en": "My cousin is going to pick me up at the airport.",
+      "example_th": "ญาติของฉันจะมารับที่สนามบิน",
+      "cefr": "A2",
+      "note_th": "pick up ใช้ได้ทั้งรับคน (pick me up) และรับของ (pick up your bags) ถ้ากรรมเป็นสรรพนามต้องวางไว้ตรงกลาง: pick me up ไม่ใช่ pick up me",
+      "distractors": [
+        "take up",
+        "bring up",
+        "get up"
+      ]
+    },
+    {
+      "id": "credit_card",
+      "word": "credit card",
+      "pos": "noun",
+      "ipa": "/ˈkredɪt kɑːrd/",
+      "meaning_th": "บัตรเครดิต",
+      "emoji": "💳",
+      "example_en": "Can I pay for the taxi by credit card?",
+      "example_th": "ฉันจ่ายค่าแท็กซี่ด้วยบัตรเครดิตได้ไหม",
+      "cefr": "A1",
+      "note_th": "จ่ายด้วยบัตรพูดว่า by credit card หรือ with a credit card ส่วนจ่ายเงินสดคือ in cash",
+      "distractors": [
+        "debit card",
+        "ID card",
+        "SIM card"
+      ],
+      "image": "words/credit_card.webp"
+    },
+    {
+      "id": "jet_lag",
+      "word": "jet lag",
+      "pos": "noun",
+      "ipa": "/ˈdʒet læɡ/",
+      "meaning_th": "อาการเจ็ตแล็ก / อาการอ่อนเพลียจากการบินข้ามเขตเวลา",
+      "emoji": null,
+      "example_en": "I always get jet lag after flying to Europe.",
+      "example_th": "ฉันมักมีอาการเจ็ตแล็กหลังบินไปยุโรป",
+      "cefr": "B1",
+      "note_th": "jet lag เป็นคำนามนับไม่ได้ (have / get jet lag) ส่วนคำคุณศัพท์คือ jet-lagged เช่น I'm so jet-lagged",
+      "distractors": [
+        "headache",
+        "insomnia",
+        "fever"
+      ]
+    }
+  ]
+}

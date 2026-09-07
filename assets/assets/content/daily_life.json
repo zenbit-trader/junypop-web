@@ -1,0 +1,1844 @@
+{
+  "world": {
+    "id": "daily_life",
+    "name_en": "Daily Life",
+    "name_th": "ชีวิตประจำวัน",
+    "emoji": "☕",
+    "color_start": "#4ADE80",
+    "color_end": "#16A34A",
+    "description_th": "ศัพท์ที่ใช้ทุกวันในบ้าน ครอบครัว และกิจวัตร",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "daily_life_1",
+        "title_en": "At Home",
+        "title_th": "ที่บ้าน",
+        "emoji": "🏠",
+        "word_ids": [
+          "kitchen",
+          "bedroom",
+          "bathroom",
+          "living_room",
+          "sofa",
+          "table",
+          "chair",
+          "bed",
+          "window",
+          "door",
+          "lamp",
+          "fridge",
+          "pillow",
+          "stairs"
+        ],
+        "image": "lessons/daily_life_1.webp"
+      },
+      {
+        "id": "daily_life_2",
+        "title_en": "Family",
+        "title_th": "ครอบครัว",
+        "emoji": "👨‍👩‍👧",
+        "word_ids": [
+          "mother",
+          "father",
+          "parents",
+          "brother",
+          "sister",
+          "grandmother",
+          "grandfather",
+          "aunt",
+          "uncle",
+          "cousin",
+          "husband",
+          "wife",
+          "daughter",
+          "son"
+        ],
+        "image": "lessons/daily_life_2.webp"
+      },
+      {
+        "id": "daily_life_3",
+        "title_en": "Time & Days",
+        "title_th": "เวลาและวัน",
+        "emoji": "⏰",
+        "word_ids": [
+          "today",
+          "tomorrow",
+          "yesterday",
+          "morning",
+          "afternoon",
+          "evening",
+          "night",
+          "weekend",
+          "always",
+          "usually",
+          "sometimes",
+          "never",
+          "early",
+          "late"
+        ],
+        "image": "lessons/daily_life_3.webp"
+      },
+      {
+        "id": "daily_life_4",
+        "title_en": "Clothes",
+        "title_th": "เสื้อผ้า",
+        "emoji": "👕",
+        "word_ids": [
+          "shirt",
+          "t_shirt",
+          "pants",
+          "jeans",
+          "dress",
+          "skirt",
+          "shoes",
+          "socks",
+          "hat",
+          "jacket",
+          "shorts",
+          "wear",
+          "put_on",
+          "take_off"
+        ],
+        "image": "lessons/daily_life_4.webp"
+      },
+      {
+        "id": "daily_life_5",
+        "title_en": "Daily Routine",
+        "title_th": "กิจวัตรประจำวัน",
+        "emoji": "🪥",
+        "word_ids": [
+          "wake_up",
+          "get_up",
+          "brush_teeth",
+          "take_a_shower",
+          "get_dressed",
+          "have_breakfast",
+          "commute",
+          "come_home",
+          "do_housework",
+          "watch",
+          "go_to_bed",
+          "sleep",
+          "relax",
+          "wash"
+        ],
+        "image": "lessons/daily_life_5.webp"
+      },
+      {
+        "id": "daily_life_6",
+        "title_en": "Feelings",
+        "title_th": "อารมณ์ความรู้สึก",
+        "emoji": "😊",
+        "word_ids": [
+          "happy",
+          "sad",
+          "angry",
+          "tired",
+          "bored",
+          "boring",
+          "excited",
+          "scared",
+          "nervous",
+          "hungry",
+          "thirsty",
+          "sleepy",
+          "worried",
+          "surprised"
+        ],
+        "image": "lessons/daily_life_6.webp"
+      },
+      {
+        "id": "daily_life_7",
+        "title_en": "Food at Home",
+        "title_th": "อาหารในบ้าน",
+        "emoji": "🍚",
+        "word_ids": [
+          "rice",
+          "egg",
+          "bread",
+          "milk",
+          "water",
+          "coffee",
+          "tea",
+          "fruit",
+          "vegetable",
+          "chicken",
+          "dinner",
+          "cook",
+          "boil",
+          "fry"
+        ],
+        "image": "lessons/daily_life_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "kitchen",
+      "word": "kitchen",
+      "pos": "noun",
+      "ipa": "/ˈkɪtʃɪn/",
+      "meaning_th": "ห้องครัว",
+      "emoji": "🍳",
+      "example_en": "My mom is cooking in the kitchen.",
+      "example_th": "แม่ของฉันกำลังทำอาหารอยู่ในห้องครัว",
+      "cefr": "A1",
+      "note_th": "kitchen คือ \"ห้องครัว\" ส่วน cook คือ \"ทำอาหาร/คนทำอาหาร\" อย่าสับสน และเวลาพูดมักออกเสียง \"คิท-เชิ่น\" ไม่ใช่ \"คิด-เช่น\"",
+      "distractors": null,
+      "image": "words/kitchen.webp"
+    },
+    {
+      "id": "bedroom",
+      "word": "bedroom",
+      "pos": "noun",
+      "ipa": "/ˈbedruːm/",
+      "meaning_th": "ห้องนอน",
+      "emoji": null,
+      "example_en": "I share a bedroom with my sister.",
+      "example_th": "ฉันใช้ห้องนอนร่วมกับพี่สาว",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "bathroom",
+        "living room",
+        "kitchen"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "word": "bathroom",
+      "pos": "noun",
+      "ipa": "/ˈbæθruːm/",
+      "meaning_th": "ห้องน้ำ",
+      "emoji": "🛁",
+      "example_en": "Excuse me, where is the bathroom?",
+      "example_th": "ขอโทษนะคะ ห้องน้ำอยู่ที่ไหน",
+      "cefr": "A1",
+      "note_th": "คนไทยมักพูด \"toilet\" ซึ่งใช้ได้ในอังกฤษ แต่ในอเมริกา toilet หมายถึง \"โถส้วม\" ควรใช้ bathroom หรือ restroom แทน",
+      "distractors": [
+        "bedroom",
+        "kitchen",
+        "toilet"
+      ],
+      "image": "words/bathroom.webp"
+    },
+    {
+      "id": "living_room",
+      "word": "living room",
+      "pos": "noun",
+      "ipa": "/ˈlɪvɪŋ ruːm/",
+      "meaning_th": "ห้องนั่งเล่น / ห้องรับแขก",
+      "emoji": null,
+      "example_en": "We watch TV together in the living room.",
+      "example_th": "เราดูทีวีด้วยกันในห้องนั่งเล่น",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "dining room",
+        "bedroom",
+        "bathroom"
+      ]
+    },
+    {
+      "id": "sofa",
+      "word": "sofa",
+      "pos": "noun",
+      "ipa": "/ˈsoʊfə/",
+      "meaning_th": "โซฟา",
+      "emoji": "🛋️",
+      "example_en": "The cat is sleeping on the sofa.",
+      "example_th": "แมวกำลังนอนหลับอยู่บนโซฟา",
+      "cefr": "A1",
+      "note_th": "sofa และ couch ใช้แทนกันได้ ในอเมริกานิยม couch มากกว่า",
+      "distractors": [
+        "chair",
+        "bed",
+        "table"
+      ],
+      "image": "words/sofa.webp"
+    },
+    {
+      "id": "table",
+      "word": "table",
+      "pos": "noun",
+      "ipa": "/ˈteɪbəl/",
+      "meaning_th": "โต๊ะ",
+      "emoji": null,
+      "example_en": "Please put the plates on the table.",
+      "example_th": "ช่วยวางจานไว้บนโต๊ะหน่อย",
+      "cefr": "A1",
+      "note_th": "table คือโต๊ะทั่วไป (กินข้าว ประชุม) ส่วน desk คือโต๊ะทำงานหรือโต๊ะเรียนที่มีลิ้นชัก",
+      "distractors": [
+        "desk",
+        "chair",
+        "shelf"
+      ]
+    },
+    {
+      "id": "chair",
+      "word": "chair",
+      "pos": "noun",
+      "ipa": "/tʃer/",
+      "meaning_th": "เก้าอี้",
+      "emoji": "🪑",
+      "example_en": "This chair is too small for me.",
+      "example_th": "เก้าอี้ตัวนี้เล็กเกินไปสำหรับฉัน",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/chair.webp"
+    },
+    {
+      "id": "bed",
+      "word": "bed",
+      "pos": "noun",
+      "ipa": "/bed/",
+      "meaning_th": "เตียง",
+      "emoji": "🛏️",
+      "example_en": "I make my bed every morning.",
+      "example_th": "ฉันจัดที่นอนทุกเช้า",
+      "cefr": "A1",
+      "note_th": "\"go to bed\" = เข้านอน (ไม่มี the) แต่ถ้าพูดถึงเตียงจริงๆ ใช้ the bed เช่น sit on the bed",
+      "distractors": [
+        "bad",
+        "bat",
+        "bird"
+      ],
+      "image": "words/bed.webp"
+    },
+    {
+      "id": "window",
+      "word": "window",
+      "pos": "noun",
+      "ipa": "/ˈwɪndoʊ/",
+      "meaning_th": "หน้าต่าง",
+      "emoji": "🪟",
+      "example_en": "Can you open the window? It's hot.",
+      "example_th": "ช่วยเปิดหน้าต่างหน่อยได้ไหม ร้อนจัง",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/window.webp"
+    },
+    {
+      "id": "door",
+      "word": "door",
+      "pos": "noun",
+      "ipa": "/dɔːr/",
+      "meaning_th": "ประตู",
+      "emoji": "🚪",
+      "example_en": "Don't forget to lock the door tonight.",
+      "example_th": "อย่าลืมล็อกประตูคืนนี้นะ",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/door.webp"
+    },
+    {
+      "id": "lamp",
+      "word": "lamp",
+      "pos": "noun",
+      "ipa": "/læmp/",
+      "meaning_th": "โคมไฟ",
+      "emoji": null,
+      "example_en": "Turn on the lamp so you can read.",
+      "example_th": "เปิดโคมไฟสิ จะได้อ่านหนังสือได้",
+      "cefr": "A1",
+      "note_th": "lamp คือโคมไฟตั้งโต๊ะ/ตั้งพื้น ส่วน light คือไฟหรือหลอดไฟทั่วไป เช่น turn off the light",
+      "distractors": [
+        "light",
+        "candle",
+        "fan"
+      ]
+    },
+    {
+      "id": "fridge",
+      "word": "fridge",
+      "pos": "noun",
+      "ipa": "/frɪdʒ/",
+      "meaning_th": "ตู้เย็น",
+      "emoji": "🧊",
+      "example_en": "There is no milk in the fridge.",
+      "example_th": "ในตู้เย็นไม่มีนมเลย",
+      "cefr": "A1",
+      "note_th": "fridge เป็นคำสั้นของ refrigerator ใช้ในภาษาพูดทั่วไป",
+      "distractors": [
+        "freezer",
+        "oven",
+        "sink"
+      ],
+      "image": "words/fridge.webp"
+    },
+    {
+      "id": "pillow",
+      "word": "pillow",
+      "pos": "noun",
+      "ipa": "/ˈpɪloʊ/",
+      "meaning_th": "หมอน",
+      "emoji": null,
+      "example_en": "I need a soft pillow to sleep well.",
+      "example_th": "ฉันต้องมีหมอนนุ่มๆ ถึงจะหลับสบาย",
+      "cefr": "A2",
+      "note_th": null,
+      "distractors": [
+        "blanket",
+        "sheet",
+        "mattress"
+      ]
+    },
+    {
+      "id": "stairs",
+      "word": "stairs",
+      "pos": "noun",
+      "ipa": "/sterz/",
+      "meaning_th": "บันได",
+      "emoji": null,
+      "example_en": "Be careful, the stairs are wet.",
+      "example_th": "ระวังนะ บันไดเปียก",
+      "cefr": "A2",
+      "note_th": "stairs มักใช้รูปพหูพจน์เสมอ (บันไดในอาคาร) ส่วน ladder คือบันไดพาดแบบยกได้",
+      "distractors": [
+        "ladder",
+        "floor",
+        "elevator"
+      ]
+    },
+    {
+      "id": "mother",
+      "word": "mother",
+      "pos": "noun",
+      "ipa": "/ˈmʌðər/",
+      "meaning_th": "แม่",
+      "emoji": "👩",
+      "example_en": "My mother works at a hospital.",
+      "example_th": "แม่ของฉันทำงานที่โรงพยาบาล",
+      "cefr": "A1",
+      "note_th": "mother เป็นคำทางการ ในชีวิตประจำวันมักพูด mom (อเมริกัน) หรือ mum (อังกฤษ)",
+      "distractors": [
+        "father",
+        "daughter",
+        "aunt"
+      ],
+      "image": "words/mother.webp"
+    },
+    {
+      "id": "father",
+      "word": "father",
+      "pos": "noun",
+      "ipa": "/ˈfɑːðər/",
+      "meaning_th": "พ่อ",
+      "emoji": "👨",
+      "example_en": "My father drives me to school every day.",
+      "example_th": "พ่อขับรถไปส่งฉันที่โรงเรียนทุกวัน",
+      "cefr": "A1",
+      "note_th": "ระวังออกเสียง th ใน father เป็น /ð/ (เอาลิ้นแตะฟัน) ไม่ใช่ \"ฟา-เด้อ\" และภาษาพูดใช้ dad",
+      "distractors": [
+        "mother",
+        "son",
+        "uncle"
+      ],
+      "image": "words/father.webp"
+    },
+    {
+      "id": "parents",
+      "word": "parents",
+      "pos": "noun",
+      "ipa": "/ˈperənts/",
+      "meaning_th": "พ่อแม่ / ผู้ปกครอง",
+      "emoji": "👨‍👩‍👧",
+      "example_en": "I live with my parents in Bangkok.",
+      "example_th": "ฉันอาศัยอยู่กับพ่อแม่ที่กรุงเทพฯ",
+      "cefr": "A1",
+      "note_th": "parents (มี s) = พ่อและแม่ทั้งคู่ ส่วน parent (ไม่มี s) = พ่อหรือแม่คนเดียว อย่าสับสนกับ relatives (ญาติ)",
+      "distractors": [
+        "relatives",
+        "children",
+        "grandparents"
+      ],
+      "image": "words/parents.webp"
+    },
+    {
+      "id": "brother",
+      "word": "brother",
+      "pos": "noun",
+      "ipa": "/ˈbrʌðər/",
+      "meaning_th": "พี่ชาย / น้องชาย",
+      "emoji": null,
+      "example_en": "My brother is two years older than me.",
+      "example_th": "พี่ชายของฉันอายุมากกว่าฉันสองปี",
+      "cefr": "A1",
+      "note_th": "ภาษาอังกฤษไม่แยกพี่/น้อง ถ้าต้องการระบุให้พูด older brother (พี่ชาย) หรือ younger brother (น้องชาย)",
+      "distractors": [
+        "sister",
+        "cousin",
+        "uncle"
+      ]
+    },
+    {
+      "id": "sister",
+      "word": "sister",
+      "pos": "noun",
+      "ipa": "/ˈsɪstər/",
+      "meaning_th": "พี่สาว / น้องสาว",
+      "emoji": null,
+      "example_en": "My little sister loves cartoons.",
+      "example_th": "น้องสาวของฉันชอบดูการ์ตูนมาก",
+      "cefr": "A1",
+      "note_th": "little sister / big sister เป็นภาษาพูดของ younger sister / older sister",
+      "distractors": [
+        "brother",
+        "daughter",
+        "aunt"
+      ]
+    },
+    {
+      "id": "grandmother",
+      "word": "grandmother",
+      "pos": "noun",
+      "ipa": "/ˈɡrænmʌðər/",
+      "meaning_th": "ย่า / ยาย",
+      "emoji": "👵",
+      "example_en": "My grandmother cooks the best Thai food.",
+      "example_th": "ยายของฉันทำอาหารไทยอร่อยที่สุด",
+      "cefr": "A1",
+      "note_th": "ภาษาอังกฤษใช้ grandmother ทั้งย่าและยาย ไม่แยกฝั่งพ่อหรือแม่ ภาษาพูดใช้ grandma",
+      "distractors": null,
+      "image": "words/grandmother.webp"
+    },
+    {
+      "id": "grandfather",
+      "word": "grandfather",
+      "pos": "noun",
+      "ipa": "/ˈɡrænfɑːðər/",
+      "meaning_th": "ปู่ / ตา",
+      "emoji": "👴",
+      "example_en": "My grandfather likes to read the newspaper.",
+      "example_th": "ปู่ของฉันชอบอ่านหนังสือพิมพ์",
+      "cefr": "A1",
+      "note_th": "ใช้ได้ทั้งปู่และตา ภาษาพูดใช้ grandpa",
+      "distractors": null,
+      "image": "words/grandfather.webp"
+    },
+    {
+      "id": "aunt",
+      "word": "aunt",
+      "pos": "noun",
+      "ipa": "/ænt/",
+      "meaning_th": "ป้า / น้า / อา (ผู้หญิง)",
+      "emoji": null,
+      "example_en": "My aunt lives next door to us.",
+      "example_th": "น้าของฉันอยู่บ้านติดกับเรา",
+      "cefr": "A2",
+      "note_th": "aunt ใช้เรียกป้า น้า อา ที่เป็นผู้หญิงทั้งหมด ออกเสียงเหมือน ant (มด) ในสำเนียงอเมริกัน",
+      "distractors": [
+        "uncle",
+        "cousin",
+        "niece"
+      ]
+    },
+    {
+      "id": "uncle",
+      "word": "uncle",
+      "pos": "noun",
+      "ipa": "/ˈʌŋkəl/",
+      "meaning_th": "ลุง / น้า / อา (ผู้ชาย)",
+      "emoji": null,
+      "example_en": "My uncle gave me a bicycle for my birthday.",
+      "example_th": "ลุงให้จักรยานฉันเป็นของขวัญวันเกิด",
+      "cefr": "A2",
+      "note_th": "uncle ใช้เรียกลุง น้า อา ที่เป็นผู้ชายทั้งหมด ไม่แยกว่าแก่หรืออ่อนกว่าพ่อแม่",
+      "distractors": [
+        "aunt",
+        "cousin",
+        "nephew"
+      ]
+    },
+    {
+      "id": "cousin",
+      "word": "cousin",
+      "pos": "noun",
+      "ipa": "/ˈkʌzən/",
+      "meaning_th": "ลูกพี่ลูกน้อง",
+      "emoji": null,
+      "example_en": "I play games with my cousins every weekend.",
+      "example_th": "ฉันเล่นเกมกับลูกพี่ลูกน้องทุกสุดสัปดาห์",
+      "cefr": "A2",
+      "note_th": "cousin ใช้ได้ทั้งชายและหญิง และไม่แยกว่าเป็นพี่หรือน้อง ออกเสียง \"คัซ-ซึ่น\" ไม่ใช่ \"คู-ซิน\"",
+      "distractors": [
+        "nephew",
+        "niece",
+        "sibling"
+      ]
+    },
+    {
+      "id": "husband",
+      "word": "husband",
+      "pos": "noun",
+      "ipa": "/ˈhʌzbənd/",
+      "meaning_th": "สามี",
+      "emoji": null,
+      "example_en": "Her husband is a teacher.",
+      "example_th": "สามีของเธอเป็นครู",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "wife",
+        "boyfriend",
+        "father"
+      ]
+    },
+    {
+      "id": "wife",
+      "word": "wife",
+      "pos": "noun",
+      "ipa": "/waɪf/",
+      "meaning_th": "ภรรยา",
+      "emoji": null,
+      "example_en": "He cooks dinner for his wife every night.",
+      "example_th": "เขาทำอาหารเย็นให้ภรรยาทุกคืน",
+      "cefr": "A1",
+      "note_th": "พหูพจน์ของ wife คือ wives (เปลี่ยน f เป็น v) ไม่ใช่ wifes",
+      "distractors": [
+        "husband",
+        "girlfriend",
+        "mother"
+      ]
+    },
+    {
+      "id": "daughter",
+      "word": "daughter",
+      "pos": "noun",
+      "ipa": "/ˈdɔːtər/",
+      "meaning_th": "ลูกสาว",
+      "emoji": "👧",
+      "example_en": "Their daughter is studying in Chiang Mai.",
+      "example_th": "ลูกสาวของพวกเขากำลังเรียนอยู่ที่เชียงใหม่",
+      "cefr": "A1",
+      "note_th": "ตัว gh ใน daughter ไม่ออกเสียง อ่านว่า \"ดอ-เท่อร์\"",
+      "distractors": [
+        "son",
+        "sister",
+        "niece"
+      ],
+      "image": "words/daughter.webp"
+    },
+    {
+      "id": "son",
+      "word": "son",
+      "pos": "noun",
+      "ipa": "/sʌn/",
+      "meaning_th": "ลูกชาย",
+      "emoji": "👦",
+      "example_en": "My son is learning to ride a bike.",
+      "example_th": "ลูกชายของฉันกำลังหัดขี่จักรยาน",
+      "cefr": "A1",
+      "note_th": "son (ลูกชาย) ออกเสียงเหมือน sun (พระอาทิตย์) ทุกประการ ต้องดูบริบท",
+      "distractors": [
+        "daughter",
+        "brother",
+        "nephew"
+      ],
+      "image": "words/son.webp"
+    },
+    {
+      "id": "today",
+      "word": "today",
+      "pos": "adverb",
+      "ipa": "/təˈdeɪ/",
+      "meaning_th": "วันนี้",
+      "emoji": null,
+      "example_en": "I don't have any classes today.",
+      "example_th": "วันนี้ฉันไม่มีเรียนเลย",
+      "cefr": "A1",
+      "note_th": "ไม่ต้องใส่ on หน้า today / tomorrow / yesterday เช่น I'm busy today (ไม่ใช่ on today)",
+      "distractors": [
+        "tonight",
+        "tomorrow",
+        "yesterday"
+      ]
+    },
+    {
+      "id": "tomorrow",
+      "word": "tomorrow",
+      "pos": "adverb",
+      "ipa": "/təˈmɑːroʊ/",
+      "meaning_th": "พรุ่งนี้",
+      "emoji": null,
+      "example_en": "See you tomorrow at the office!",
+      "example_th": "เจอกันพรุ่งนี้ที่ออฟฟิศนะ",
+      "cefr": "A1",
+      "note_th": "สะกด tomorrow มี m ตัวเดียว r สองตัว (คนไทยมักสะกดผิดเป็น tommorow)",
+      "distractors": [
+        "today",
+        "yesterday",
+        "tonight"
+      ]
+    },
+    {
+      "id": "yesterday",
+      "word": "yesterday",
+      "pos": "adverb",
+      "ipa": "/ˈjestərdeɪ/",
+      "meaning_th": "เมื่อวาน",
+      "emoji": null,
+      "example_en": "It rained all day yesterday.",
+      "example_th": "เมื่อวานฝนตกทั้งวันเลย",
+      "cefr": "A1",
+      "note_th": "yesterday ต้องใช้กับกริยาช่อง 2 เสมอ เช่น I went (ไม่ใช่ I go) yesterday",
+      "distractors": [
+        "today",
+        "tomorrow",
+        "last night"
+      ]
+    },
+    {
+      "id": "morning",
+      "word": "morning",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrnɪŋ/",
+      "meaning_th": "ตอนเช้า",
+      "emoji": "🌅",
+      "example_en": "I drink coffee every morning before work.",
+      "example_th": "ฉันดื่มกาแฟทุกเช้าก่อนไปทำงาน",
+      "cefr": "A1",
+      "note_th": "ใช้ in the morning (ไม่ใช่ at the morning) แต่ถ้าระบุวันใช้ on Monday morning",
+      "distractors": [
+        "evening",
+        "afternoon",
+        "night"
+      ],
+      "image": "words/morning.webp"
+    },
+    {
+      "id": "afternoon",
+      "word": "afternoon",
+      "pos": "noun",
+      "ipa": "/ˌæftərˈnuːn/",
+      "meaning_th": "ตอนบ่าย",
+      "emoji": null,
+      "example_en": "The meeting is at three in the afternoon.",
+      "example_th": "การประชุมเริ่มตอนบ่ายสามโมง",
+      "cefr": "A1",
+      "note_th": "afternoon คือช่วงเที่ยงถึงประมาณหกโมงเย็น ทักทายว่า Good afternoon ได้จนถึงเย็น",
+      "distractors": [
+        "morning",
+        "evening",
+        "noon"
+      ]
+    },
+    {
+      "id": "evening",
+      "word": "evening",
+      "pos": "noun",
+      "ipa": "/ˈiːvnɪŋ/",
+      "meaning_th": "ตอนเย็น / ตอนค่ำ",
+      "emoji": "🌆",
+      "example_en": "We usually eat dinner together in the evening.",
+      "example_th": "เรามักกินข้าวเย็นด้วยกันตอนค่ำ",
+      "cefr": "A1",
+      "note_th": "Good evening ใช้ทักทายตอนเย็น ส่วน Good night ใช้ตอนลาหรือก่อนนอนเท่านั้น ไม่ใช่คำทักทาย",
+      "distractors": [
+        "night",
+        "afternoon",
+        "morning"
+      ],
+      "image": "words/evening.webp"
+    },
+    {
+      "id": "night",
+      "word": "night",
+      "pos": "noun",
+      "ipa": "/naɪt/",
+      "meaning_th": "กลางคืน",
+      "emoji": "🌙",
+      "example_en": "My baby often cries at night.",
+      "example_th": "ลูกน้อยของฉันร้องไห้ตอนกลางคืนบ่อยๆ",
+      "cefr": "A1",
+      "note_th": "ใช้ at night (ไม่มี the) ต่างจาก in the morning / in the evening",
+      "distractors": [
+        "evening",
+        "midnight",
+        "tonight"
+      ],
+      "image": "words/night.webp"
+    },
+    {
+      "id": "weekend",
+      "word": "weekend",
+      "pos": "noun",
+      "ipa": "/ˈwiːkend/",
+      "meaning_th": "สุดสัปดาห์ (เสาร์-อาทิตย์)",
+      "emoji": null,
+      "example_en": "What are you doing this weekend?",
+      "example_th": "สุดสัปดาห์นี้คุณจะทำอะไร",
+      "cefr": "A1",
+      "note_th": "อเมริกันใช้ on the weekend ส่วนอังกฤษใช้ at the weekend ใช้ได้ทั้งคู่",
+      "distractors": [
+        "weekday",
+        "holiday",
+        "week"
+      ]
+    },
+    {
+      "id": "always",
+      "word": "always",
+      "pos": "adverb",
+      "ipa": "/ˈɔːlweɪz/",
+      "meaning_th": "เสมอ / ตลอดเวลา",
+      "emoji": null,
+      "example_en": "She always takes the bus to work.",
+      "example_th": "เธอนั่งรถเมล์ไปทำงานเสมอ",
+      "cefr": "A1",
+      "note_th": "คำบอกความถี่ (always, usually, sometimes, never) วางไว้หน้ากริยาหลัก แต่วางหลัง verb to be เช่น She is always late",
+      "distractors": [
+        "usually",
+        "often",
+        "never"
+      ]
+    },
+    {
+      "id": "usually",
+      "word": "usually",
+      "pos": "adverb",
+      "ipa": "/ˈjuːʒuəli/",
+      "meaning_th": "โดยปกติ / มักจะ",
+      "emoji": null,
+      "example_en": "I usually wake up at six o'clock.",
+      "example_th": "ปกติฉันตื่นตอนหกโมงเช้า",
+      "cefr": "A1",
+      "note_th": "usually (ปกติ ประมาณ 80-90%) บ่อยกว่า often (บ่อย) และ sometimes (บางครั้ง)",
+      "distractors": [
+        "always",
+        "sometimes",
+        "often"
+      ]
+    },
+    {
+      "id": "sometimes",
+      "word": "sometimes",
+      "pos": "adverb",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "meaning_th": "บางครั้ง",
+      "emoji": null,
+      "example_en": "Sometimes we order pizza on Fridays.",
+      "example_th": "บางครั้งเราก็สั่งพิซซ่ากินวันศุกร์",
+      "cefr": "A1",
+      "note_th": "sometimes (บางครั้ง) ต่างจาก sometime (สักวันหนึ่ง) และ some time (ระยะเวลาหนึ่ง)",
+      "distractors": [
+        "sometime",
+        "usually",
+        "seldom"
+      ]
+    },
+    {
+      "id": "never",
+      "word": "never",
+      "pos": "adverb",
+      "ipa": "/ˈnevər/",
+      "meaning_th": "ไม่เคย",
+      "emoji": null,
+      "example_en": "He never eats breakfast on weekdays.",
+      "example_th": "เขาไม่เคยกินข้าวเช้าในวันธรรมดา",
+      "cefr": "A1",
+      "note_th": "never มีความหมายปฏิเสธในตัวแล้ว ไม่ต้องใส่ don't อีก เช่น I never smoke (ไม่ใช่ I don't never smoke)",
+      "distractors": [
+        "ever",
+        "always",
+        "rarely"
+      ]
+    },
+    {
+      "id": "early",
+      "word": "early",
+      "pos": "adverb",
+      "ipa": "/ˈɜːrli/",
+      "meaning_th": "แต่เช้า / ก่อนเวลา",
+      "emoji": null,
+      "example_en": "I got up early to catch the train.",
+      "example_th": "ฉันตื่นแต่เช้าเพื่อไปให้ทันรถไฟ",
+      "cefr": "A1",
+      "note_th": "early เป็นได้ทั้ง adverb (get up early) และ adjective (an early train) รูปเดียวกัน ไม่ต้องเติม -ly",
+      "distractors": [
+        "late",
+        "soon",
+        "fast"
+      ]
+    },
+    {
+      "id": "late",
+      "word": "late",
+      "pos": "adverb",
+      "ipa": "/leɪt/",
+      "meaning_th": "สาย / ดึก",
+      "emoji": null,
+      "example_en": "Don't stay up too late tonight.",
+      "example_th": "คืนนี้อย่านอนดึกเกินไปนะ",
+      "cefr": "A1",
+      "note_th": "late = สาย/ดึก แต่ lately = เมื่อเร็วๆ นี้ ความหมายต่างกันมาก และ \"I'm late\" = ฉันมาสาย ไม่ใช่ \"ฉันดึก\"",
+      "distractors": [
+        "lately",
+        "early",
+        "later"
+      ]
+    },
+    {
+      "id": "shirt",
+      "word": "shirt",
+      "pos": "noun",
+      "ipa": "/ʃɜːrt/",
+      "meaning_th": "เสื้อเชิ้ต",
+      "emoji": "👔",
+      "example_en": "He wears a white shirt to work.",
+      "example_th": "เขาใส่เสื้อเชิ้ตสีขาวไปทำงาน",
+      "cefr": "A1",
+      "note_th": "ระวังออกเสียงสระให้ยาว /ɜːr/ ถ้าออกเสียงสั้นจะกลายเป็นคำหยาบ",
+      "distractors": [
+        "skirt",
+        "shorts",
+        "short"
+      ],
+      "image": "words/shirt.webp"
+    },
+    {
+      "id": "t_shirt",
+      "word": "t-shirt",
+      "pos": "noun",
+      "ipa": "/ˈtiː ʃɜːrt/",
+      "meaning_th": "เสื้อยืด",
+      "emoji": "👕",
+      "example_en": "I usually wear a t-shirt at home.",
+      "example_th": "ปกติฉันใส่เสื้อยืดอยู่บ้าน",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/t_shirt.webp"
+    },
+    {
+      "id": "pants",
+      "word": "pants",
+      "pos": "noun",
+      "ipa": "/pænts/",
+      "meaning_th": "กางเกงขายาว",
+      "emoji": null,
+      "example_en": "These pants are too long for me.",
+      "example_th": "กางเกงตัวนี้ยาวเกินไปสำหรับฉัน",
+      "cefr": "A1",
+      "note_th": "pants เป็นพหูพจน์เสมอ (These pants are...) นับเป็น a pair of pants และในอังกฤษ pants หมายถึงกางเกงใน ใช้ trousers แทน",
+      "distractors": [
+        "trousers",
+        "shorts",
+        "jeans"
+      ]
+    },
+    {
+      "id": "jeans",
+      "word": "jeans",
+      "pos": "noun",
+      "ipa": "/dʒiːnz/",
+      "meaning_th": "กางเกงยีนส์",
+      "emoji": "👖",
+      "example_en": "My favorite jeans are blue and old.",
+      "example_th": "กางเกงยีนส์ตัวโปรดของฉันสีน้ำเงินและเก่ามาก",
+      "cefr": "A1",
+      "note_th": "jeans มี s เสมอและใช้กริยาพหูพจน์ เช่น My jeans are dirty",
+      "distractors": null,
+      "image": "words/jeans.webp"
+    },
+    {
+      "id": "dress",
+      "word": "dress",
+      "pos": "noun",
+      "ipa": "/dres/",
+      "meaning_th": "ชุดกระโปรง / เดรส",
+      "emoji": "👗",
+      "example_en": "She bought a red dress for the party.",
+      "example_th": "เธอซื้อชุดเดรสสีแดงไปงานปาร์ตี้",
+      "cefr": "A1",
+      "note_th": "dress เป็นคำนาม = ชุดเดรส แต่เป็นกริยา = แต่งตัว เช่น get dressed",
+      "distractors": [
+        "skirt",
+        "shirt",
+        "suit"
+      ],
+      "image": "words/dress.webp"
+    },
+    {
+      "id": "skirt",
+      "word": "skirt",
+      "pos": "noun",
+      "ipa": "/skɜːrt/",
+      "meaning_th": "กระโปรง",
+      "emoji": null,
+      "example_en": "Students wear a blue skirt as a uniform.",
+      "example_th": "นักเรียนใส่กระโปรงสีน้ำเงินเป็นเครื่องแบบ",
+      "cefr": "A1",
+      "note_th": "skirt = กระโปรงอย่างเดียว (ท่อนล่าง) ส่วน dress = ชุดติดกันทั้งตัว",
+      "distractors": [
+        "dress",
+        "shirt",
+        "shorts"
+      ]
+    },
+    {
+      "id": "shoes",
+      "word": "shoes",
+      "pos": "noun",
+      "ipa": "/ʃuːz/",
+      "meaning_th": "รองเท้า",
+      "emoji": "👟",
+      "example_en": "Please take off your shoes before coming in.",
+      "example_th": "กรุณาถอดรองเท้าก่อนเข้าบ้าน",
+      "cefr": "A1",
+      "note_th": "รองเท้าหนึ่งคู่ = a pair of shoes ส่วน shoe (ไม่มี s) = รองเท้าข้างเดียว",
+      "distractors": [
+        "socks",
+        "boots",
+        "slippers"
+      ],
+      "image": "words/shoes.webp"
+    },
+    {
+      "id": "socks",
+      "word": "socks",
+      "pos": "noun",
+      "ipa": "/sɑːks/",
+      "meaning_th": "ถุงเท้า",
+      "emoji": "🧦",
+      "example_en": "I can't find my other sock!",
+      "example_th": "ถุงเท้าอีกข้างของฉันหายไปไหน",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/socks.webp"
+    },
+    {
+      "id": "hat",
+      "word": "hat",
+      "pos": "noun",
+      "ipa": "/hæt/",
+      "meaning_th": "หมวก",
+      "emoji": "🧢",
+      "example_en": "Wear a hat, the sun is very strong today.",
+      "example_th": "ใส่หมวกด้วยนะ วันนี้แดดแรงมาก",
+      "cefr": "A1",
+      "note_th": "hat (หมวก) กับ hot (ร้อน) ออกเสียงต่างกัน /hæt/ กับ /hɑːt/ อ้าปากกว้างกว่าใน hot",
+      "distractors": [
+        "hot",
+        "cap",
+        "hut"
+      ],
+      "image": "words/hat.webp"
+    },
+    {
+      "id": "jacket",
+      "word": "jacket",
+      "pos": "noun",
+      "ipa": "/ˈdʒækɪt/",
+      "meaning_th": "เสื้อแจ็กเก็ต / เสื้อคลุม",
+      "emoji": "🧥",
+      "example_en": "Take a jacket, it's cold in the cinema.",
+      "example_th": "เอาเสื้อคลุมไปด้วย ในโรงหนังหนาว",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "coat",
+        "sweater",
+        "shirt"
+      ],
+      "image": "words/jacket.webp"
+    },
+    {
+      "id": "shorts",
+      "word": "shorts",
+      "pos": "noun",
+      "ipa": "/ʃɔːrts/",
+      "meaning_th": "กางเกงขาสั้น",
+      "emoji": "🩳",
+      "example_en": "It's hot, so I'm wearing shorts today.",
+      "example_th": "อากาศร้อน วันนี้ฉันเลยใส่กางเกงขาสั้น",
+      "cefr": "A1",
+      "note_th": "shorts มี s เสมอ ส่วน short (ไม่มี s) เป็น adjective แปลว่าสั้น/เตี้ย",
+      "distractors": [
+        "short",
+        "pants",
+        "skirt"
+      ],
+      "image": "words/shorts.webp"
+    },
+    {
+      "id": "wear",
+      "word": "wear",
+      "pos": "verb",
+      "ipa": "/wer/",
+      "meaning_th": "สวมใส่ (อยู่บนตัว)",
+      "emoji": null,
+      "example_en": "She is wearing a beautiful dress today.",
+      "example_th": "วันนี้เธอใส่ชุดเดรสสวยมาก",
+      "cefr": "A1",
+      "note_th": "wear = สวมอยู่บนตัว (สภาพ) ส่วน put on = สวมใส่ (การกระทำ) เช่น Put on your coat, then wear it all day. กริยาช่อง 2/3 คือ wore/worn",
+      "distractors": [
+        "put on",
+        "dress",
+        "carry"
+      ]
+    },
+    {
+      "id": "put_on",
+      "word": "put on",
+      "pos": "phrase",
+      "ipa": "/pʊt ˈɑːn/",
+      "meaning_th": "สวมใส่ (การกระทำ)",
+      "emoji": null,
+      "example_en": "Put on your shoes, we're leaving now.",
+      "example_th": "ใส่รองเท้าเร็ว เราจะออกไปแล้ว",
+      "cefr": "A1",
+      "note_th": "put on คือการกระทำตอนสวม ไม่ใช่สภาพที่ใส่อยู่ (wear) และตรงข้ามกับ take off",
+      "distractors": [
+        "wear",
+        "take off",
+        "put off"
+      ]
+    },
+    {
+      "id": "take_off",
+      "word": "take off",
+      "pos": "phrase",
+      "ipa": "/teɪk ˈɔːf/",
+      "meaning_th": "ถอด (เสื้อผ้า รองเท้า)",
+      "emoji": null,
+      "example_en": "Take off your wet socks right now.",
+      "example_th": "ถอดถุงเท้าเปียกออกเดี๋ยวนี้เลย",
+      "cefr": "A1",
+      "note_th": "take off มีอีกความหมายคือ \"เครื่องบินขึ้น\" ดูบริบทให้ดี และไม่ใช้ open/close กับเสื้อผ้า (ห้ามพูด open your shoes)",
+      "distractors": [
+        "put on",
+        "take out",
+        "take away"
+      ],
+      "image": "words/take_off.webp"
+    },
+    {
+      "id": "wake_up",
+      "word": "wake up",
+      "pos": "phrase",
+      "ipa": "/weɪk ˈʌp/",
+      "meaning_th": "ตื่นนอน (ลืมตา)",
+      "emoji": "⏰",
+      "example_en": "I wake up at six every morning.",
+      "example_th": "ฉันตื่นนอนตอนหกโมงทุกเช้า",
+      "cefr": "A1",
+      "note_th": "wake up = ตื่น (ลืมตา แต่ยังนอนอยู่บนเตียงได้) ส่วน get up = ลุกจากเตียง กริยาช่อง 2 คือ woke up",
+      "distractors": [
+        "get up",
+        "stand up",
+        "stay up"
+      ],
+      "image": "words/wake_up.webp"
+    },
+    {
+      "id": "get_up",
+      "word": "get up",
+      "pos": "phrase",
+      "ipa": "/ɡet ˈʌp/",
+      "meaning_th": "ลุกจากเตียง",
+      "emoji": null,
+      "example_en": "It's hard to get up on cold mornings.",
+      "example_th": "เช้าที่อากาศหนาวมันลุกจากเตียงยากจริงๆ",
+      "cefr": "A1",
+      "note_th": "get up คือลุกออกจากเตียง คนละอย่างกับ wake up (แค่ตื่น) เช่น I woke up at 6 but got up at 7",
+      "distractors": [
+        "wake up",
+        "stand up",
+        "give up"
+      ]
+    },
+    {
+      "id": "brush_teeth",
+      "word": "brush teeth",
+      "pos": "phrase",
+      "ipa": "/brʌʃ tiːθ/",
+      "meaning_th": "แปรงฟัน",
+      "emoji": "🪥",
+      "example_en": "Don't forget to brush your teeth before bed.",
+      "example_th": "อย่าลืมแปรงฟันก่อนนอนนะ",
+      "cefr": "A1",
+      "note_th": "ต้องใส่คำแสดงเจ้าของ: brush my/your teeth ไม่ใช่ brush the teeth และ teeth เป็นพหูพจน์ของ tooth",
+      "distractors": null,
+      "image": "words/brush_teeth.webp"
+    },
+    {
+      "id": "take_a_shower",
+      "word": "take a shower",
+      "pos": "phrase",
+      "ipa": "/teɪk ə ˈʃaʊər/",
+      "meaning_th": "อาบน้ำ (ฝักบัว)",
+      "emoji": "🚿",
+      "example_en": "I take a shower twice a day in summer.",
+      "example_th": "หน้าร้อนฉันอาบน้ำวันละสองครั้ง",
+      "cefr": "A1",
+      "note_th": "อเมริกันพูด take a shower อังกฤษพูด have a shower ส่วน take a bath คือแช่ในอ่าง",
+      "distractors": [
+        "take a bath",
+        "wash up",
+        "get wet"
+      ],
+      "image": "words/take_a_shower.webp"
+    },
+    {
+      "id": "get_dressed",
+      "word": "get dressed",
+      "pos": "phrase",
+      "ipa": "/ɡet ˈdrest/",
+      "meaning_th": "แต่งตัว / ใส่เสื้อผ้า",
+      "emoji": null,
+      "example_en": "Hurry up and get dressed for school.",
+      "example_th": "รีบแต่งตัวไปโรงเรียนเร็วเข้า",
+      "cefr": "A2",
+      "note_th": "get dressed = แต่งตัว (ใส่เสื้อผ้า) ไม่ใช่การแต่งหน้า ซึ่งใช้ put on makeup",
+      "distractors": [
+        "dress up",
+        "wear",
+        "get up"
+      ]
+    },
+    {
+      "id": "have_breakfast",
+      "word": "have breakfast",
+      "pos": "phrase",
+      "ipa": "/hæv ˈbrekfəst/",
+      "meaning_th": "กินข้าวเช้า",
+      "emoji": null,
+      "example_en": "We have breakfast at seven o'clock.",
+      "example_th": "เรากินข้าวเช้าตอนเจ็ดโมง",
+      "cefr": "A1",
+      "note_th": "ไม่ใส่ a/the หน้ามื้ออาหาร: have breakfast / have lunch / have dinner และใช้ have แทน eat ได้ตามธรรมชาติ",
+      "distractors": [
+        "have lunch",
+        "have dinner",
+        "have a snack"
+      ]
+    },
+    {
+      "id": "commute",
+      "word": "commute",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːt/",
+      "meaning_th": "เดินทางไป-กลับที่ทำงาน",
+      "emoji": "🚌",
+      "example_en": "I commute to work by BTS every day.",
+      "example_th": "ฉันเดินทางไปทำงานด้วยรถไฟฟ้าทุกวัน",
+      "cefr": "B1",
+      "note_th": "commute ใช้เฉพาะการเดินทางไป-กลับที่ทำงานหรือโรงเรียนเป็นประจำ ไม่ใช้กับการเดินทางท่องเที่ยว (travel)",
+      "distractors": [
+        "travel",
+        "drive",
+        "move"
+      ],
+      "image": "words/commute.webp"
+    },
+    {
+      "id": "come_home",
+      "word": "come home",
+      "pos": "phrase",
+      "ipa": "/kʌm ˈhoʊm/",
+      "meaning_th": "กลับบ้าน",
+      "emoji": null,
+      "example_en": "What time do you come home from work?",
+      "example_th": "คุณกลับบ้านจากที่ทำงานกี่โมง",
+      "cefr": "A1",
+      "note_th": "ไม่ใส่ to หน้า home: come home / go home / get home (ไม่ใช่ come to home)",
+      "distractors": [
+        "go home",
+        "leave home",
+        "stay home"
+      ]
+    },
+    {
+      "id": "do_housework",
+      "word": "do housework",
+      "pos": "phrase",
+      "ipa": "/duː ˈhaʊswɜːrk/",
+      "meaning_th": "ทำงานบ้าน",
+      "emoji": "🧹",
+      "example_en": "I do housework on Sunday mornings.",
+      "example_th": "ฉันทำงานบ้านตอนเช้าวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "housework (งานบ้าน) กับ homework (การบ้าน) ต่างกัน ทั้งคู่นับไม่ได้และใช้กับ do",
+      "distractors": [
+        "do homework",
+        "do the dishes",
+        "make the bed"
+      ],
+      "image": "words/do_housework.webp"
+    },
+    {
+      "id": "watch",
+      "word": "watch",
+      "pos": "verb",
+      "ipa": "/wɑːtʃ/",
+      "meaning_th": "ดู (สิ่งที่เคลื่อนไหวเป็นเวลานาน)",
+      "emoji": "📺",
+      "example_en": "My family watches TV after dinner.",
+      "example_th": "ครอบครัวฉันดูทีวีหลังอาหารเย็น",
+      "cefr": "A1",
+      "note_th": "watch = ดูสิ่งที่เคลื่อนไหวนานๆ (watch TV, watch a movie) / see = เห็น (see a bird) / look at = มองไปที่ (look at the picture)",
+      "distractors": [
+        "see",
+        "look",
+        "view"
+      ],
+      "image": "words/watch.webp"
+    },
+    {
+      "id": "go_to_bed",
+      "word": "go to bed",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ tə ˈbed/",
+      "meaning_th": "เข้านอน",
+      "emoji": null,
+      "example_en": "I usually go to bed at eleven.",
+      "example_th": "ปกติฉันเข้านอนตอนห้าทุ่ม",
+      "cefr": "A1",
+      "note_th": "go to bed = เข้านอน (ยังไม่หลับก็ได้) ส่วน sleep = หลับ อย่าพูด I sleep at 11 ถ้าหมายถึงเข้านอน",
+      "distractors": [
+        "sleep",
+        "go to sleep",
+        "lie down"
+      ]
+    },
+    {
+      "id": "sleep",
+      "word": "sleep",
+      "pos": "verb",
+      "ipa": "/sliːp/",
+      "meaning_th": "นอนหลับ",
+      "emoji": "😴",
+      "example_en": "I only slept four hours last night.",
+      "example_th": "เมื่อคืนฉันนอนแค่สี่ชั่วโมงเอง",
+      "cefr": "A1",
+      "note_th": "กริยาช่อง 2/3 คือ slept และ sleep = หลับ ไม่ใช่ \"นอนลง\" (lie down) หรือ \"เข้านอน\" (go to bed)",
+      "distractors": [
+        "go to bed",
+        "lie down",
+        "rest"
+      ],
+      "image": "words/sleep.webp"
+    },
+    {
+      "id": "relax",
+      "word": "relax",
+      "pos": "verb",
+      "ipa": "/rɪˈlæks/",
+      "meaning_th": "พักผ่อน / ผ่อนคลาย",
+      "emoji": "🧘",
+      "example_en": "I like to relax with music after work.",
+      "example_th": "หลังเลิกงานฉันชอบพักผ่อนฟังเพลง",
+      "cefr": "A2",
+      "note_th": "relax เป็นกริยา ถ้าจะบอกว่ารู้สึกผ่อนคลายใช้ relaxed เช่น I feel relaxed (ไม่ใช่ I feel relax)",
+      "distractors": [
+        "rest",
+        "rely",
+        "release"
+      ],
+      "image": "words/relax.webp"
+    },
+    {
+      "id": "wash",
+      "word": "wash",
+      "pos": "verb",
+      "ipa": "/wɑːʃ/",
+      "meaning_th": "ล้าง / ซัก",
+      "emoji": "🧼",
+      "example_en": "Wash your hands before you eat.",
+      "example_th": "ล้างมือก่อนกินข้าวนะ",
+      "cefr": "A1",
+      "note_th": "wash ใช้ได้ทั้งล้าง (wash the dishes) และซัก (wash clothes) แต่ล้างจานในอเมริกานิยม do the dishes",
+      "distractors": [
+        "clean",
+        "watch",
+        "wish"
+      ],
+      "image": "words/wash.webp"
+    },
+    {
+      "id": "happy",
+      "word": "happy",
+      "pos": "adjective",
+      "ipa": "/ˈhæpi/",
+      "meaning_th": "มีความสุข / ดีใจ",
+      "emoji": "😊",
+      "example_en": "I'm so happy to see you again!",
+      "example_th": "ดีใจจังที่ได้เจอคุณอีกครั้ง",
+      "cefr": "A1",
+      "note_th": "happy with/about something (พอใจกับ) แต่ happy for someone (ดีใจแทน)",
+      "distractors": [
+        "glad",
+        "funny",
+        "lucky"
+      ],
+      "image": "words/happy.webp"
+    },
+    {
+      "id": "sad",
+      "word": "sad",
+      "pos": "adjective",
+      "ipa": "/sæd/",
+      "meaning_th": "เศร้า",
+      "emoji": "😢",
+      "example_en": "She felt sad when her cat died.",
+      "example_th": "เธอรู้สึกเศร้าตอนที่แมวของเธอตาย",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": [
+        "upset",
+        "bad",
+        "mad"
+      ],
+      "image": "words/sad.webp"
+    },
+    {
+      "id": "angry",
+      "word": "angry",
+      "pos": "adjective",
+      "ipa": "/ˈæŋɡri/",
+      "meaning_th": "โกรธ",
+      "emoji": "😠",
+      "example_en": "Dad was angry because I came home late.",
+      "example_th": "พ่อโกรธเพราะฉันกลับบ้านดึก",
+      "cefr": "A1",
+      "note_th": "angry with someone (โกรธใคร) / angry about something (โกรธเรื่องอะไร) และอย่าสับสนกับ hungry (หิว)",
+      "distractors": [
+        "hungry",
+        "upset",
+        "annoyed"
+      ],
+      "image": "words/angry.webp"
+    },
+    {
+      "id": "tired",
+      "word": "tired",
+      "pos": "adjective",
+      "ipa": "/ˈtaɪərd/",
+      "meaning_th": "เหนื่อย",
+      "emoji": "😩",
+      "example_en": "I'm too tired to cook tonight.",
+      "example_th": "คืนนี้ฉันเหนื่อยเกินกว่าจะทำอาหาร",
+      "cefr": "A1",
+      "note_th": "tired = เหนื่อย แต่ tiring = น่าเหนื่อย (ใช้กับสิ่งที่ทำให้เหนื่อย) เช่น a tiring day / I'm tired",
+      "distractors": [
+        "tiring",
+        "sleepy",
+        "bored"
+      ],
+      "image": "words/tired.webp"
+    },
+    {
+      "id": "bored",
+      "word": "bored",
+      "pos": "adjective",
+      "ipa": "/bɔːrd/",
+      "meaning_th": "เบื่อ (ความรู้สึกของคน)",
+      "emoji": "😑",
+      "example_en": "The kids are bored, so let's go out.",
+      "example_th": "เด็กๆ เบื่อแล้ว ออกไปข้างนอกกันเถอะ",
+      "cefr": "A1",
+      "note_th": "bored = รู้สึกเบื่อ (คน) / boring = น่าเบื่อ (สิ่งของ) ถ้าพูดว่า I'm boring จะแปลว่าฉันเป็นคนน่าเบื่อ!",
+      "distractors": [
+        "boring",
+        "tired",
+        "sad"
+      ],
+      "image": "words/bored.webp"
+    },
+    {
+      "id": "boring",
+      "word": "boring",
+      "pos": "adjective",
+      "ipa": "/ˈbɔːrɪŋ/",
+      "meaning_th": "น่าเบื่อ",
+      "emoji": null,
+      "example_en": "This movie is really boring.",
+      "example_th": "หนังเรื่องนี้น่าเบื่อจริงๆ",
+      "cefr": "A1",
+      "note_th": "boring ใช้อธิบายสิ่งที่ทำให้เบื่อ (หนัง งาน คน) ส่วนความรู้สึกเบื่อของเราคือ bored",
+      "distractors": [
+        "bored",
+        "tiring",
+        "interesting"
+      ]
+    },
+    {
+      "id": "excited",
+      "word": "excited",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsaɪtɪd/",
+      "meaning_th": "ตื่นเต้น (ดีใจ)",
+      "emoji": "🤩",
+      "example_en": "I'm excited about our trip next week.",
+      "example_th": "ฉันตื่นเต้นกับทริปสัปดาห์หน้ามาก",
+      "cefr": "A2",
+      "note_th": "excited (คนรู้สึกตื่นเต้น) กับ exciting (สิ่งที่น่าตื่นเต้น) ใช้ excited about something ไม่ใช่ excited with",
+      "distractors": [
+        "exciting",
+        "nervous",
+        "surprised"
+      ],
+      "image": "words/excited.webp"
+    },
+    {
+      "id": "scared",
+      "word": "scared",
+      "pos": "adjective",
+      "ipa": "/skerd/",
+      "meaning_th": "กลัว",
+      "emoji": "😨",
+      "example_en": "My little brother is scared of the dark.",
+      "example_th": "น้องชายของฉันกลัวความมืด",
+      "cefr": "A2",
+      "note_th": "scared of something = กลัวอะไร ส่วน scary = น่ากลัว (a scary movie) ใช้แทน afraid ได้",
+      "distractors": [
+        "scary",
+        "afraid",
+        "nervous"
+      ],
+      "image": "words/scared.webp"
+    },
+    {
+      "id": "nervous",
+      "word": "nervous",
+      "pos": "adjective",
+      "ipa": "/ˈnɜːrvəs/",
+      "meaning_th": "ประหม่า / กังวลใจ",
+      "emoji": "😬",
+      "example_en": "I always feel nervous before an exam.",
+      "example_th": "ฉันรู้สึกประหม่าก่อนสอบทุกครั้ง",
+      "cefr": "A2",
+      "note_th": "nervous = ประหม่าหรือตื่นเต้นแบบกังวล (ก่อนสอบ ก่อนพูด) ต่างจาก excited ที่เป็นตื่นเต้นแบบดีใจ",
+      "distractors": [
+        "excited",
+        "worried",
+        "scared"
+      ],
+      "image": "words/nervous.webp"
+    },
+    {
+      "id": "hungry",
+      "word": "hungry",
+      "pos": "adjective",
+      "ipa": "/ˈhʌŋɡri/",
+      "meaning_th": "หิว",
+      "emoji": null,
+      "example_en": "I'm hungry. What's for dinner?",
+      "example_th": "หิวแล้ว เย็นนี้กินอะไรดี",
+      "cefr": "A1",
+      "note_th": "ใช้ I'm hungry (verb to be) ไม่ใช่ I hungry หรือ I have hungry และระวังสับสนกับ angry (โกรธ)",
+      "distractors": [
+        "angry",
+        "thirsty",
+        "full"
+      ]
+    },
+    {
+      "id": "thirsty",
+      "word": "thirsty",
+      "pos": "adjective",
+      "ipa": "/ˈθɜːrsti/",
+      "meaning_th": "หิวน้ำ / กระหายน้ำ",
+      "emoji": "🥤",
+      "example_en": "It's hot and I'm really thirsty.",
+      "example_th": "อากาศร้อน ฉันหิวน้ำมากเลย",
+      "cefr": "A1",
+      "note_th": "ภาษาไทยพูด \"หิวน้ำ\" แต่ภาษาอังกฤษไม่ใช้ hungry water ต้องใช้ thirsty",
+      "distractors": [
+        "hungry",
+        "thirty",
+        "dirty"
+      ],
+      "image": "words/thirsty.webp"
+    },
+    {
+      "id": "sleepy",
+      "word": "sleepy",
+      "pos": "adjective",
+      "ipa": "/ˈsliːpi/",
+      "meaning_th": "ง่วงนอน",
+      "emoji": "🥱",
+      "example_en": "I feel sleepy after a big lunch.",
+      "example_th": "ฉันรู้สึกง่วงหลังกินข้าวเที่ยงเยอะๆ",
+      "cefr": "A2",
+      "note_th": "sleepy = ง่วง ส่วน tired = เหนื่อย และ asleep = หลับอยู่ ไม่พูดว่า I'm sleep",
+      "distractors": [
+        "tired",
+        "asleep",
+        "lazy"
+      ],
+      "image": "words/sleepy.webp"
+    },
+    {
+      "id": "worried",
+      "word": "worried",
+      "pos": "adjective",
+      "ipa": "/ˈwɜːrid/",
+      "meaning_th": "กังวล / เป็นห่วง",
+      "emoji": "😟",
+      "example_en": "Mom is worried because you didn't call.",
+      "example_th": "แม่เป็นห่วงเพราะลูกไม่โทรมา",
+      "cefr": "A2",
+      "note_th": "worried about someone/something ไม่ใช่ worried for และ \"Don't worry\" (กริยา) ต่างจาก \"I'm worried\" (adjective)",
+      "distractors": [
+        "nervous",
+        "scared",
+        "sad"
+      ],
+      "image": "words/worried.webp"
+    },
+    {
+      "id": "surprised",
+      "word": "surprised",
+      "pos": "adjective",
+      "ipa": "/sərˈpraɪzd/",
+      "meaning_th": "ประหลาดใจ / แปลกใจ",
+      "emoji": "😲",
+      "example_en": "I was surprised to see snow in Bangkok.",
+      "example_th": "ฉันแปลกใจที่เห็นหิมะตกในกรุงเทพฯ",
+      "cefr": "A2",
+      "note_th": "surprised (คนรู้สึกประหลาดใจ) / surprising (สิ่งที่น่าประหลาดใจ) ใช้ surprised at/by something",
+      "distractors": [
+        "surprising",
+        "shocked",
+        "excited"
+      ],
+      "image": "words/surprised.webp"
+    },
+    {
+      "id": "rice",
+      "word": "rice",
+      "pos": "noun",
+      "ipa": "/raɪs/",
+      "meaning_th": "ข้าว",
+      "emoji": "🍚",
+      "example_en": "Thai people eat rice almost every day.",
+      "example_th": "คนไทยกินข้าวแทบทุกวัน",
+      "cefr": "A1",
+      "note_th": "rice นับไม่ได้ ไม่เติม s และไม่ใช้ a rice ให้พูด some rice หรือ a bowl of rice และระวังออกเสียง r ให้ชัด ไม่ใช่ lice (เหา)",
+      "distractors": [
+        "lice",
+        "noodles",
+        "bread"
+      ],
+      "image": "words/rice.webp"
+    },
+    {
+      "id": "egg",
+      "word": "egg",
+      "pos": "noun",
+      "ipa": "/eɡ/",
+      "meaning_th": "ไข่",
+      "emoji": "🥚",
+      "example_en": "I eat two eggs for breakfast.",
+      "example_th": "ฉันกินไข่สองฟองเป็นอาหารเช้า",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/egg.webp"
+    },
+    {
+      "id": "bread",
+      "word": "bread",
+      "pos": "noun",
+      "ipa": "/bred/",
+      "meaning_th": "ขนมปัง",
+      "emoji": "🍞",
+      "example_en": "We need to buy some bread and butter.",
+      "example_th": "เราต้องซื้อขนมปังกับเนยหน่อย",
+      "cefr": "A1",
+      "note_th": "bread นับไม่ได้ ถ้าจะนับใช้ a slice of bread (หนึ่งแผ่น) หรือ a loaf of bread (หนึ่งก้อน)",
+      "distractors": [
+        "bread roll",
+        "cake",
+        "toast"
+      ],
+      "image": "words/bread.webp"
+    },
+    {
+      "id": "milk",
+      "word": "milk",
+      "pos": "noun",
+      "ipa": "/mɪlk/",
+      "meaning_th": "นม",
+      "emoji": "🥛",
+      "example_en": "Do you take milk in your coffee?",
+      "example_th": "คุณใส่นมในกาแฟไหม",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/milk.webp"
+    },
+    {
+      "id": "water",
+      "word": "water",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər/",
+      "meaning_th": "น้ำ",
+      "emoji": "💧",
+      "example_en": "Drink a lot of water when it's hot.",
+      "example_th": "ตอนอากาศร้อนให้ดื่มน้ำเยอะๆ",
+      "cefr": "A1",
+      "note_th": "water ไม่นับ ไม่มี s ถ้าจะนับใช้ a glass of water หรือ a bottle of water",
+      "distractors": null,
+      "image": "words/water.webp"
+    },
+    {
+      "id": "coffee",
+      "word": "coffee",
+      "pos": "noun",
+      "ipa": "/ˈkɔːfi/",
+      "meaning_th": "กาแฟ",
+      "emoji": "☕",
+      "example_en": "I can't start my day without coffee.",
+      "example_th": "ฉันเริ่มวันไม่ได้ถ้าไม่มีกาแฟ",
+      "cefr": "A1",
+      "note_th": "สั่งกาแฟพูดว่า a coffee หรือ a cup of coffee ได้ทั้งคู่ในภาษาพูด",
+      "distractors": null,
+      "image": "words/coffee.webp"
+    },
+    {
+      "id": "tea",
+      "word": "tea",
+      "pos": "noun",
+      "ipa": "/tiː/",
+      "meaning_th": "ชา",
+      "emoji": "🍵",
+      "example_en": "My grandmother drinks tea every afternoon.",
+      "example_th": "ยายของฉันดื่มชาทุกบ่าย",
+      "cefr": "A1",
+      "note_th": null,
+      "distractors": null,
+      "image": "words/tea.webp"
+    },
+    {
+      "id": "fruit",
+      "word": "fruit",
+      "pos": "noun",
+      "ipa": "/fruːt/",
+      "meaning_th": "ผลไม้",
+      "emoji": "🍎",
+      "example_en": "Eat more fruit and less sugar.",
+      "example_th": "กินผลไม้ให้มากขึ้นและน้ำตาลให้น้อยลง",
+      "cefr": "A1",
+      "note_th": "fruit มักใช้ไม่นับ (I like fruit) ไม่ต้องเติม s ยกเว้นพูดถึงผลไม้หลายชนิด",
+      "distractors": [
+        "vegetable",
+        "dessert",
+        "snack"
+      ],
+      "image": "words/fruit.webp"
+    },
+    {
+      "id": "vegetable",
+      "word": "vegetable",
+      "pos": "noun",
+      "ipa": "/ˈvedʒtəbəl/",
+      "meaning_th": "ผัก",
+      "emoji": "🥦",
+      "example_en": "My kids don't like eating vegetables.",
+      "example_th": "ลูกๆ ของฉันไม่ชอบกินผัก",
+      "cefr": "A1",
+      "note_th": "ออกเสียง 3 พยางค์ \"เวจ-ทะ-เบิ้ล\" ไม่ใช่ \"เว-เจ-ทา-เบิ้ล\" และมักใช้พหูพจน์ vegetables",
+      "distractors": [
+        "fruit",
+        "salad",
+        "meat"
+      ],
+      "image": "words/vegetable.webp"
+    },
+    {
+      "id": "chicken",
+      "word": "chicken",
+      "pos": "noun",
+      "ipa": "/ˈtʃɪkɪn/",
+      "meaning_th": "ไก่ / เนื้อไก่",
+      "emoji": "🍗",
+      "example_en": "We're having fried chicken for dinner.",
+      "example_th": "มื้อเย็นนี้เรากินไก่ทอด",
+      "cefr": "A1",
+      "note_th": "chicken ที่เป็นเนื้อไก่นับไม่ได้ (some chicken) ส่วนที่เป็นตัวไก่นับได้ (two chickens) และ kitchen (ห้องครัว) สะกดคล้ายกัน ระวัง",
+      "distractors": [
+        "kitchen",
+        "pork",
+        "beef"
+      ],
+      "image": "words/chicken.webp"
+    },
+    {
+      "id": "dinner",
+      "word": "dinner",
+      "pos": "noun",
+      "ipa": "/ˈdɪnər/",
+      "meaning_th": "อาหารเย็น / มื้อเย็น",
+      "emoji": "🍽️",
+      "example_en": "What time is dinner tonight?",
+      "example_th": "คืนนี้กินข้าวเย็นกี่โมง",
+      "cefr": "A1",
+      "note_th": "dinner คือมื้อหลักตอนเย็น (บางที่เรียก supper) ส่วน lunch คือมื้อเที่ยง ไม่ใส่ the: have dinner",
+      "distractors": [
+        "lunch",
+        "supper",
+        "breakfast"
+      ],
+      "image": "words/dinner.webp"
+    },
+    {
+      "id": "cook",
+      "word": "cook",
+      "pos": "verb",
+      "ipa": "/kʊk/",
+      "meaning_th": "ทำอาหาร",
+      "emoji": "👨‍🍳",
+      "example_en": "My dad cooks dinner on weekends.",
+      "example_th": "พ่อทำอาหารเย็นในวันหยุดสุดสัปดาห์",
+      "cefr": "A1",
+      "note_th": "cook เป็นกริยา (ทำอาหาร) และเป็นคำนาม (คนทำอาหาร) ส่วน chef คือพ่อครัวมืออาชีพ ห้ามพูด cooker (เตา) เมื่อหมายถึงคน",
+      "distractors": [
+        "chef",
+        "cooker",
+        "bake"
+      ],
+      "image": "words/cook.webp"
+    },
+    {
+      "id": "boil",
+      "word": "boil",
+      "pos": "verb",
+      "ipa": "/bɔɪl/",
+      "meaning_th": "ต้ม",
+      "emoji": null,
+      "example_en": "Boil the water before you add the noodles.",
+      "example_th": "ต้มน้ำให้เดือดก่อนใส่เส้น",
+      "cefr": "A2",
+      "note_th": "boil = ต้มในน้ำเดือด เช่น boiled egg (ไข่ต้ม) ส่วน steam = นึ่ง",
+      "distractors": [
+        "fry",
+        "steam",
+        "bake"
+      ]
+    },
+    {
+      "id": "fry",
+      "word": "fry",
+      "pos": "verb",
+      "ipa": "/fraɪ/",
+      "meaning_th": "ทอด / ผัด",
+      "emoji": null,
+      "example_en": "Fry the egg for two minutes on each side.",
+      "example_th": "ทอดไข่ด้านละสองนาที",
+      "cefr": "A2",
+      "note_th": "fry ใช้ได้ทั้งทอดและผัด ถ้าจะเน้นผัดใช้ stir-fry เช่น stir-fried basil (ผัดกะเพรา) กริยาช่อง 2 คือ fried",
+      "distractors": [
+        "boil",
+        "grill",
+        "bake"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1891 @@
+{
+  "world": {
+    "id": "restaurant",
+    "name_en": "Restaurant",
+    "name_th": "ร้านอาหาร",
+    "emoji": "🍔",
+    "color_start": "#FB923C",
+    "color_end": "#EA580C",
+    "description_th": "ศัพท์สั่งอาหาร ชิมรสชาติ และจ่ายเงินในร้านอาหาร",
+    "mascot_costume": "chef",
+    "lessons": [
+      {
+        "id": "restaurant_1",
+        "title_en": "Ordering",
+        "title_th": "สั่งอาหาร",
+        "emoji": "📝",
+        "word_ids": [
+          "menu",
+          "order",
+          "waiter",
+          "waitress",
+          "chef",
+          "customer",
+          "reservation",
+          "recommend",
+          "appetizer",
+          "main_course",
+          "dessert",
+          "drink",
+          "takeaway",
+          "delivery"
+        ],
+        "image": "lessons/restaurant_1.webp"
+      },
+      {
+        "id": "restaurant_2",
+        "title_en": "Popular Dishes",
+        "title_th": "เมนูยอดฮิต",
+        "emoji": "🍕",
+        "word_ids": [
+          "noodles",
+          "fried_rice",
+          "soup",
+          "salad",
+          "steak",
+          "pizza",
+          "hamburger",
+          "sandwich",
+          "french_fries",
+          "seafood",
+          "shrimp",
+          "fish",
+          "pork",
+          "beef"
+        ],
+        "image": "lessons/restaurant_2.webp"
+      },
+      {
+        "id": "restaurant_3",
+        "title_en": "Drinks & Desserts",
+        "title_th": "เครื่องดื่มและของหวาน",
+        "emoji": "🧋",
+        "word_ids": [
+          "juice",
+          "soda",
+          "smoothie",
+          "bubble_tea",
+          "ice",
+          "ice_cream",
+          "cake",
+          "chocolate",
+          "cookie",
+          "donut",
+          "candy",
+          "sugar",
+          "honey",
+          "snack"
+        ],
+        "image": "lessons/restaurant_3.webp"
+      },
+      {
+        "id": "restaurant_4",
+        "title_en": "Taste",
+        "title_th": "รสชาติ",
+        "emoji": "😋",
+        "word_ids": [
+          "delicious",
+          "tasty",
+          "sweet",
+          "sour",
+          "spicy",
+          "salty",
+          "bitter",
+          "crispy",
+          "juicy",
+          "fresh",
+          "oily",
+          "bland",
+          "hot",
+          "cold"
+        ],
+        "image": "lessons/restaurant_4.webp"
+      },
+      {
+        "id": "restaurant_5",
+        "title_en": "On the Table",
+        "title_th": "บนโต๊ะอาหาร",
+        "emoji": "🍴",
+        "word_ids": [
+          "fork",
+          "spoon",
+          "knife",
+          "plate",
+          "bowl",
+          "glass",
+          "cup",
+          "chopsticks",
+          "napkin",
+          "straw",
+          "bottle",
+          "teapot",
+          "kettle",
+          "toothpick"
+        ],
+        "image": "lessons/restaurant_5.webp"
+      },
+      {
+        "id": "restaurant_6",
+        "title_en": "Paying",
+        "title_th": "จ่ายเงิน",
+        "emoji": "💵",
+        "word_ids": [
+          "bill",
+          "pay",
+          "price",
+          "cash",
+          "change",
+          "tip",
+          "receipt",
+          "expensive",
+          "cheap",
+          "discount",
+          "free",
+          "total",
+          "split_the_bill",
+          "service_charge"
+        ],
+        "image": "lessons/restaurant_6.webp"
+      },
+      {
+        "id": "restaurant_7",
+        "title_en": "In the Kitchen",
+        "title_th": "ในครัว",
+        "emoji": "🍳",
+        "word_ids": [
+          "grill",
+          "bake",
+          "steam",
+          "roast",
+          "chop",
+          "slice",
+          "mix",
+          "pour",
+          "serve",
+          "taste",
+          "smell",
+          "share",
+          "spill",
+          "peel"
+        ],
+        "image": "lessons/restaurant_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "menu",
+      "word": "menu",
+      "pos": "noun",
+      "ipa": "/ˈmenjuː/",
+      "meaning_th": "เมนู / รายการอาหาร",
+      "emoji": "📖",
+      "example_en": "Can I see the menu, please?",
+      "example_th": "ขอดูเมนูหน่อยได้ไหมครับ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"เม-นยู\" ไม่ใช่ \"เม-นู\" และถามหาเมนูให้พูด Can I see the menu? สุภาพกว่า Give me menu",
+      "distractors": [
+        "list",
+        "book",
+        "receipt"
+      ],
+      "image": "words/menu.webp"
+    },
+    {
+      "id": "order",
+      "word": "order",
+      "pos": "verb",
+      "ipa": "/ˈɔːrdər/",
+      "meaning_th": "สั่ง (อาหาร)",
+      "emoji": null,
+      "example_en": "Are you ready to order?",
+      "example_th": "พร้อมสั่งอาหารหรือยังครับ",
+      "cefr": "A1",
+      "note_th": "พนักงานมักถามว่า Are you ready to order? ตอบว่า Yes, I'd like... หรือ Not yet (ยังไม่พร้อม) และ order เป็นคำนามได้ด้วย = ออเดอร์",
+      "distractors": [
+        "offer",
+        "borrow",
+        "bring"
+      ]
+    },
+    {
+      "id": "waiter",
+      "word": "waiter",
+      "pos": "noun",
+      "ipa": "/ˈweɪtər/",
+      "meaning_th": "พนักงานเสิร์ฟ (ชาย)",
+      "emoji": "🤵",
+      "example_en": "The waiter brought us two glasses of water.",
+      "example_th": "พนักงานเสิร์ฟนำน้ำมาให้เราสองแก้ว",
+      "cefr": "A1",
+      "note_th": "เรียกพนักงานให้พูด Excuse me! ไม่ควรตะโกน Waiter! เพราะไม่สุภาพ และคำกลางๆ ที่ใช้ได้ทุกเพศคือ server",
+      "distractors": [
+        "waitress",
+        "customer",
+        "chef"
+      ],
+      "image": "words/waiter.webp"
+    },
+    {
+      "id": "waitress",
+      "word": "waitress",
+      "pos": "noun",
+      "ipa": "/ˈweɪtrəs/",
+      "meaning_th": "พนักงานเสิร์ฟ (หญิง)",
+      "emoji": null,
+      "example_en": "The waitress recommended the fried rice.",
+      "example_th": "พนักงานเสิร์ฟแนะนำข้าวผัดให้เรา",
+      "cefr": "A1",
+      "note_th": "waiter (ชาย) / waitress (หญิง) ปัจจุบันนิยมใช้ server แทนทั้งคู่",
+      "distractors": [
+        "waiter",
+        "actress",
+        "hostess"
+      ]
+    },
+    {
+      "id": "chef",
+      "word": "chef",
+      "pos": "noun",
+      "ipa": "/ʃef/",
+      "meaning_th": "เชฟ / หัวหน้าพ่อครัว",
+      "emoji": "👨‍🍳",
+      "example_en": "The chef in this restaurant is famous.",
+      "example_th": "เชฟร้านนี้มีชื่อเสียงมาก",
+      "cefr": "A2",
+      "note_th": "ch ใน chef ออกเสียง /ʃ/ เหมือน sh (\"เชฟ\") ไม่ใช่ \"เค-ฟ\" ส่วน cook คือคนทำอาหารทั่วไป chef คือหัวหน้าครัวมืออาชีพ",
+      "distractors": [
+        "cook",
+        "waiter",
+        "chief"
+      ],
+      "image": "words/chef.webp"
+    },
+    {
+      "id": "customer",
+      "word": "customer",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmər/",
+      "meaning_th": "ลูกค้า",
+      "emoji": null,
+      "example_en": "The restaurant is full of customers tonight.",
+      "example_th": "คืนนี้ร้านอาหารมีลูกค้าเต็มร้านเลย",
+      "cefr": "A2",
+      "note_th": "customer = ลูกค้าที่ซื้อของ/อาหาร ส่วน guest = แขก (โรงแรม/งานเลี้ยง) อย่าสับสนกัน",
+      "distractors": [
+        "guest",
+        "waiter",
+        "customs"
+      ]
+    },
+    {
+      "id": "reservation",
+      "word": "reservation",
+      "pos": "noun",
+      "ipa": "/ˌrezərˈveɪʃən/",
+      "meaning_th": "การจองโต๊ะ / การจองล่วงหน้า",
+      "emoji": null,
+      "example_en": "I have a reservation for two at seven o'clock.",
+      "example_th": "ผมจองโต๊ะไว้สองที่ตอนหนึ่งทุ่มครับ",
+      "cefr": "A2",
+      "note_th": "ประโยคใช้บ่อย: I'd like to make a reservation (ขอจองโต๊ะ) / I have a reservation (จองไว้แล้ว) ส่วนกริยาคือ reserve หรือ book",
+      "distractors": [
+        "registration",
+        "information",
+        "invitation"
+      ]
+    },
+    {
+      "id": "recommend",
+      "word": "recommend",
+      "pos": "verb",
+      "ipa": "/ˌrekəˈmend/",
+      "meaning_th": "แนะนำ (ว่าอะไรดี)",
+      "emoji": null,
+      "example_en": "What do you recommend on this menu?",
+      "example_th": "ในเมนูนี้คุณแนะนำอะไรดีครับ",
+      "cefr": "A2",
+      "note_th": "ประโยคเด็ดในร้านอาหาร: What do you recommend? (แนะนำอะไรดี) ระวังสะกด: recommend มี c ตัวเดียว m สองตัว",
+      "distractors": [
+        "remember",
+        "repeat",
+        "remind"
+      ]
+    },
+    {
+      "id": "appetizer",
+      "word": "appetizer",
+      "pos": "noun",
+      "ipa": "/ˈæpətaɪzər/",
+      "meaning_th": "อาหารเรียกน้ำย่อย / ของทานเล่นก่อนมื้อหลัก",
+      "emoji": null,
+      "example_en": "We ordered spring rolls as an appetizer.",
+      "example_th": "เราสั่งปอเปี๊ยะเป็นอาหารเรียกน้ำย่อย",
+      "cefr": "B1",
+      "note_th": "appetizer (อเมริกัน) = starter (อังกฤษ) คืออาหารจานเล็กก่อนจานหลัก",
+      "distractors": [
+        "main course",
+        "dessert",
+        "side dish"
+      ]
+    },
+    {
+      "id": "main_course",
+      "word": "main course",
+      "pos": "noun",
+      "ipa": "/ˌmeɪn ˈkɔːrs/",
+      "meaning_th": "อาหารจานหลัก",
+      "emoji": null,
+      "example_en": "For my main course, I'll have the steak.",
+      "example_th": "จานหลักผมขอเป็นสเต๊กครับ",
+      "cefr": "A2",
+      "note_th": "ลำดับมื้ออาหารฝรั่ง: appetizer → main course → dessert และ course ในที่นี้ = จานอาหาร ไม่ใช่คอร์สเรียน",
+      "distractors": [
+        "appetizer",
+        "dessert",
+        "drink"
+      ]
+    },
+    {
+      "id": "dessert",
+      "word": "dessert",
+      "pos": "noun",
+      "ipa": "/dɪˈzɜːrt/",
+      "meaning_th": "ของหวาน",
+      "emoji": "🍮",
+      "example_en": "Would you like some dessert after your meal?",
+      "example_th": "รับของหวานหลังอาหารไหมครับ",
+      "cefr": "A1",
+      "note_th": "dessert (ของหวาน มี s สองตัว) กับ desert (ทะเลทราย s ตัวเดียว) สะกดใกล้กันมาก จำง่ายๆ ว่าของหวานอยากได้เยอะเลยมี s เพิ่ม",
+      "distractors": [
+        "desert",
+        "appetizer",
+        "snack"
+      ],
+      "image": "words/dessert.webp"
+    },
+    {
+      "id": "drink",
+      "word": "drink",
+      "pos": "noun",
+      "ipa": "/drɪŋk/",
+      "meaning_th": "เครื่องดื่ม",
+      "emoji": null,
+      "example_en": "What would you like to drink?",
+      "example_th": "รับเครื่องดื่มอะไรดีครับ",
+      "cefr": "A1",
+      "note_th": "เป็นได้ทั้งคำนาม (a drink = เครื่องดื่ม) และกริยา (drink = ดื่ม) กริยาช่อง 2/3 คือ drank/drunk",
+      "distractors": [
+        "food",
+        "dish",
+        "drunk"
+      ]
+    },
+    {
+      "id": "takeaway",
+      "word": "takeaway",
+      "pos": "noun",
+      "ipa": "/ˈteɪkəweɪ/",
+      "meaning_th": "อาหารกลับบ้าน / ใส่กล่องกลับ",
+      "emoji": "🥡",
+      "example_en": "Is this for here or takeaway?",
+      "example_th": "ทานที่นี่หรือกลับบ้านครับ",
+      "cefr": "A2",
+      "note_th": "อังกฤษใช้ takeaway อเมริกาใช้ to go / takeout พนักงานมักถาม For here or to go?",
+      "distractors": [
+        "delivery",
+        "take off",
+        "leftover"
+      ],
+      "image": "words/takeaway.webp"
+    },
+    {
+      "id": "delivery",
+      "word": "delivery",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪvəri/",
+      "meaning_th": "การส่งอาหารถึงบ้าน / เดลิเวอรี",
+      "emoji": "🛵",
+      "example_en": "We ordered pizza delivery for dinner.",
+      "example_th": "มื้อเย็นเราสั่งพิซซ่าเดลิเวอรีมากิน",
+      "cefr": "A2",
+      "note_th": "กริยาคือ deliver (ส่ง) คำนามคือ delivery และ free delivery = ส่งฟรี",
+      "distractors": [
+        "takeaway",
+        "deliver",
+        "arrival"
+      ],
+      "image": "words/delivery.webp"
+    },
+    {
+      "id": "noodles",
+      "word": "noodles",
+      "pos": "noun",
+      "ipa": "/ˈnuːdəlz/",
+      "meaning_th": "ก๋วยเตี๋ยว / บะหมี่ / เส้น",
+      "emoji": "🍜",
+      "example_en": "I eat noodles for lunch almost every day.",
+      "example_th": "ฉันกินก๋วยเตี๋ยวเป็นมื้อกลางวันแทบทุกวัน",
+      "cefr": "A1",
+      "note_th": "noodles ใช้รูปพหูพจน์เสมอ (มี s) และครอบคลุมเส้นทุกชนิด ทั้งก๋วยเตี๋ยว บะหมี่ พาสต้า",
+      "distractors": [
+        "rice",
+        "soup",
+        "needles"
+      ],
+      "image": "words/noodles.webp"
+    },
+    {
+      "id": "fried_rice",
+      "word": "fried rice",
+      "pos": "noun",
+      "ipa": "/ˌfraɪd ˈraɪs/",
+      "meaning_th": "ข้าวผัด",
+      "emoji": "🍛",
+      "example_en": "Thai fried rice with shrimp is my favorite.",
+      "example_th": "ข้าวผัดกุ้งแบบไทยคือเมนูโปรดของฉัน",
+      "cefr": "A1",
+      "note_th": "fried มาจาก fry (ผัด/ทอด) ใช้เป็น adjective ได้ เช่น fried chicken (ไก่ทอด) fried egg (ไข่ดาว)",
+      "distractors": [
+        "sticky rice",
+        "boiled rice",
+        "noodles"
+      ],
+      "image": "words/fried_rice.webp"
+    },
+    {
+      "id": "soup",
+      "word": "soup",
+      "pos": "noun",
+      "ipa": "/suːp/",
+      "meaning_th": "ซุป / แกงน้ำ",
+      "emoji": "🍲",
+      "example_en": "This chicken soup is very hot, be careful.",
+      "example_th": "ซุปไก่นี้ร้อนมาก ระวังนะ",
+      "cefr": "A1",
+      "note_th": "ซุปใช้กับกริยา eat หรือ have (ไม่ใช่ drink แม้จะเป็นน้ำ) เช่น eat soup / have some soup",
+      "distractors": [
+        "soap",
+        "sauce",
+        "salad"
+      ],
+      "image": "words/soup.webp"
+    },
+    {
+      "id": "salad",
+      "word": "salad",
+      "pos": "noun",
+      "ipa": "/ˈsæləd/",
+      "meaning_th": "สลัด",
+      "emoji": "🥗",
+      "example_en": "I'll have a green salad, please.",
+      "example_th": "ขอสลัดผักหนึ่งที่ครับ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"แซ-เหลิด\" เน้นพยางค์แรก ไม่ใช่ \"สะ-หลัด\" และส้มตำภาษาอังกฤษคือ papaya salad",
+      "distractors": [
+        "soup",
+        "sandwich",
+        "salt"
+      ],
+      "image": "words/salad.webp"
+    },
+    {
+      "id": "steak",
+      "word": "steak",
+      "pos": "noun",
+      "ipa": "/steɪk/",
+      "meaning_th": "สเต๊ก",
+      "emoji": "🥩",
+      "example_en": "I'd like my steak well-done, please.",
+      "example_th": "ขอสเต๊กสุกมากๆ นะครับ",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"สเตค\" (เหมือน take) ไม่ใช่ \"สตีค\" ระดับความสุก: rare (ไม่สุก) medium (กลาง) well-done (สุกทั่ว)",
+      "distractors": [
+        "stick",
+        "snake",
+        "cake"
+      ],
+      "image": "words/steak.webp"
+    },
+    {
+      "id": "pizza",
+      "word": "pizza",
+      "pos": "noun",
+      "ipa": "/ˈpiːtsə/",
+      "meaning_th": "พิซซ่า",
+      "emoji": "🍕",
+      "example_en": "Let's share a large pizza together.",
+      "example_th": "มาแบ่งพิซซ่าถาดใหญ่กินด้วยกันเถอะ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"พีท-ซ่า\" (มีเสียง t) ไม่ใช่ \"พิด-ซ่า\" พิซซ่าหนึ่งชิ้นคือ a slice of pizza",
+      "distractors": [
+        "pasta",
+        "burger",
+        "pie"
+      ],
+      "image": "words/pizza.webp"
+    },
+    {
+      "id": "hamburger",
+      "word": "hamburger",
+      "pos": "noun",
+      "ipa": "/ˈhæmbɜːrɡər/",
+      "meaning_th": "แฮมเบอร์เกอร์",
+      "emoji": "🍔",
+      "example_en": "He ordered a hamburger with extra cheese.",
+      "example_th": "เขาสั่งแฮมเบอร์เกอร์เพิ่มชีส",
+      "cefr": "A1",
+      "note_th": "เรียกสั้นๆ ว่า burger ก็ได้ และใน hamburger ไม่มีแฮม! ชื่อมาจากเมือง Hamburg ในเยอรมนี",
+      "distractors": [
+        "sandwich",
+        "hot dog",
+        "ham"
+      ],
+      "image": "words/hamburger.webp"
+    },
+    {
+      "id": "sandwich",
+      "word": "sandwich",
+      "pos": "noun",
+      "ipa": "/ˈsænwɪtʃ/",
+      "meaning_th": "แซนด์วิช",
+      "emoji": "🥪",
+      "example_en": "She made a tuna sandwich for breakfast.",
+      "example_th": "เธอทำแซนด์วิชทูน่าเป็นอาหารเช้า",
+      "cefr": "A1",
+      "note_th": "ตัว d ใน sandwich แทบไม่ออกเสียง อ่านว่า \"แซน-วิช\" และพหูพจน์คือ sandwiches",
+      "distractors": [
+        "hamburger",
+        "toast",
+        "salad"
+      ],
+      "image": "words/sandwich.webp"
+    },
+    {
+      "id": "french_fries",
+      "word": "french fries",
+      "pos": "noun",
+      "ipa": "/ˌfrentʃ ˈfraɪz/",
+      "meaning_th": "เฟรนช์ฟรายส์ / มันฝรั่งทอด",
+      "emoji": "🍟",
+      "example_en": "Would you like french fries with your burger?",
+      "example_th": "รับเฟรนช์ฟรายส์คู่กับเบอร์เกอร์ไหมครับ",
+      "cefr": "A1",
+      "note_th": "อเมริกาเรียก french fries หรือ fries อังกฤษเรียก chips (ส่วน chips ในอเมริกาคือมันฝรั่งแผ่นกรอบ)",
+      "distractors": [
+        "chips",
+        "potato",
+        "fried chicken"
+      ],
+      "image": "words/french_fries.webp"
+    },
+    {
+      "id": "seafood",
+      "word": "seafood",
+      "pos": "noun",
+      "ipa": "/ˈsiːfuːd/",
+      "meaning_th": "อาหารทะเล",
+      "emoji": null,
+      "example_en": "This restaurant is famous for fresh seafood.",
+      "example_th": "ร้านนี้ขึ้นชื่อเรื่องอาหารทะเลสดๆ",
+      "cefr": "A2",
+      "note_th": "seafood เป็นคำนามนับไม่ได้ ไม่เติม s และแพ้อาหารทะเลพูดว่า I'm allergic to seafood",
+      "distractors": [
+        "sea water",
+        "fish sauce",
+        "street food"
+      ]
+    },
+    {
+      "id": "shrimp",
+      "word": "shrimp",
+      "pos": "noun",
+      "ipa": "/ʃrɪmp/",
+      "meaning_th": "กุ้ง",
+      "emoji": "🦐",
+      "example_en": "Tom Yum soup with shrimp is world-famous.",
+      "example_th": "ต้มยำกุ้งดังไปทั่วโลก",
+      "cefr": "A2",
+      "note_th": "อเมริกาใช้ shrimp อังกฤษใช้ prawn และพหูพจน์ของ shrimp มักไม่เติม s (two shrimp)",
+      "distractors": [
+        "crab",
+        "squid",
+        "sheep"
+      ],
+      "image": "words/shrimp.webp"
+    },
+    {
+      "id": "fish",
+      "word": "fish",
+      "pos": "noun",
+      "ipa": "/fɪʃ/",
+      "meaning_th": "ปลา / เนื้อปลา",
+      "emoji": "🐟",
+      "example_en": "Grilled fish with spicy sauce is delicious.",
+      "example_th": "ปลาเผากับน้ำจิ้มแซ่บอร่อยมาก",
+      "cefr": "A1",
+      "note_th": "พหูพจน์ของ fish คือ fish (ไม่เติม es ถ้าชนิดเดียวกัน) เช่น three fish และเนื้อปลาในจานก็เรียก fish นับไม่ได้",
+      "distractors": [
+        "dish",
+        "meat",
+        "fresh"
+      ],
+      "image": "words/fish.webp"
+    },
+    {
+      "id": "pork",
+      "word": "pork",
+      "pos": "noun",
+      "ipa": "/pɔːrk/",
+      "meaning_th": "เนื้อหมู",
+      "emoji": null,
+      "example_en": "Basil pork with rice is a Thai classic.",
+      "example_th": "ผัดกะเพราหมูราดข้าวคือเมนูคลาสสิกของไทย",
+      "cefr": "A1",
+      "note_th": "ภาษาอังกฤษแยกชื่อสัตว์กับชื่อเนื้อ: pig (หมู) → pork (เนื้อหมู), cow (วัว) → beef (เนื้อวัว)",
+      "distractors": [
+        "beef",
+        "chicken",
+        "fork"
+      ]
+    },
+    {
+      "id": "beef",
+      "word": "beef",
+      "pos": "noun",
+      "ipa": "/biːf/",
+      "meaning_th": "เนื้อวัว",
+      "emoji": null,
+      "example_en": "I don't eat beef, can I have chicken instead?",
+      "example_th": "ผมไม่กินเนื้อวัว ขอเปลี่ยนเป็นไก่ได้ไหมครับ",
+      "cefr": "A1",
+      "note_th": "บอกว่าไม่กินเนื้อวัว: I don't eat beef ประโยคนี้ใช้บ่อยมากเวลาสั่งอาหารเมืองนอก",
+      "distractors": [
+        "pork",
+        "bean",
+        "leaf"
+      ]
+    },
+    {
+      "id": "juice",
+      "word": "juice",
+      "pos": "noun",
+      "ipa": "/dʒuːs/",
+      "meaning_th": "น้ำผลไม้",
+      "emoji": "🧃",
+      "example_en": "A glass of orange juice, please.",
+      "example_th": "ขอน้ำส้มหนึ่งแก้วครับ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"จูส\" ไม่ใช่ \"จุ๊ยส์\" ระบุชนิดไว้ข้างหน้า เช่น orange juice, apple juice",
+      "distractors": [
+        "milk",
+        "soda",
+        "jam"
+      ],
+      "image": "words/juice.webp"
+    },
+    {
+      "id": "soda",
+      "word": "soda",
+      "pos": "noun",
+      "ipa": "/ˈsoʊdə/",
+      "meaning_th": "น้ำอัดลม",
+      "emoji": "🥤",
+      "example_en": "Too much soda is bad for your teeth.",
+      "example_th": "ดื่มน้ำอัดลมมากเกินไปไม่ดีต่อฟัน",
+      "cefr": "A1",
+      "note_th": "ในไทย \"โซดา\" คือน้ำเปล่าอัดแก๊ส แต่ภาษาอังกฤษ soda = น้ำอัดลมทุกชนิด (โค้ก สไปรท์) หรือเรียก soft drink ก็ได้",
+      "distractors": [
+        "juice",
+        "water",
+        "salad"
+      ],
+      "image": "words/soda.webp"
+    },
+    {
+      "id": "smoothie",
+      "word": "smoothie",
+      "pos": "noun",
+      "ipa": "/ˈsmuːði/",
+      "meaning_th": "สมูทตี้ / น้ำผลไม้ปั่น",
+      "emoji": "🍹",
+      "example_en": "I ordered a mango smoothie at the beach cafe.",
+      "example_th": "ฉันสั่งสมูทตี้มะม่วงที่คาเฟ่ริมทะเล",
+      "cefr": "A2",
+      "note_th": "smoothie คือผลไม้ปั่นทั้งลูกข้นๆ ถ้าเป็นน้ำแข็งปั่นใสๆ แบบไทยเรียก iced fruit shake ได้",
+      "distractors": [
+        "milkshake",
+        "juice",
+        "smooth"
+      ],
+      "image": "words/smoothie.webp"
+    },
+    {
+      "id": "bubble_tea",
+      "word": "bubble tea",
+      "pos": "noun",
+      "ipa": "/ˈbʌbəl tiː/",
+      "meaning_th": "ชานมไข่มุก",
+      "emoji": "🧋",
+      "example_en": "She drinks bubble tea with extra pearls every Friday.",
+      "example_th": "เธอดื่มชานมไข่มุกเพิ่มไข่มุกทุกวันศุกร์",
+      "cefr": "A2",
+      "note_th": "เรียกได้หลายชื่อ: bubble tea, boba, pearl milk tea ส่วนเม็ดไข่มุกคือ pearls หรือ boba",
+      "distractors": [
+        "milk tea",
+        "green tea",
+        "bubble gum"
+      ],
+      "image": "words/bubble_tea.webp"
+    },
+    {
+      "id": "ice",
+      "word": "ice",
+      "pos": "noun",
+      "ipa": "/aɪs/",
+      "meaning_th": "น้ำแข็ง",
+      "emoji": null,
+      "example_en": "Can I have some ice in my water?",
+      "example_th": "ขอน้ำแข็งใส่น้ำหน่อยได้ไหมครับ",
+      "cefr": "A1",
+      "note_th": "ice นับไม่ได้ (some ice ไม่ใช่ an ice) ถ้าไม่เอาน้ำแข็งพูดว่า No ice, please",
+      "distractors": [
+        "eyes",
+        "rice",
+        "nice"
+      ]
+    },
+    {
+      "id": "ice_cream",
+      "word": "ice cream",
+      "pos": "noun",
+      "ipa": "/ˈaɪs kriːm/",
+      "meaning_th": "ไอศกรีม",
+      "emoji": "🍨",
+      "example_en": "The kids want chocolate ice cream.",
+      "example_th": "เด็กๆ อยากกินไอศกรีมช็อกโกแลต",
+      "cefr": "A1",
+      "note_th": "ไอศกรีมหนึ่งลูกคือ a scoop of ice cream ส่วนแบบโคนคือ an ice cream cone",
+      "distractors": [
+        "whipped cream",
+        "yogurt",
+        "iced coffee"
+      ],
+      "image": "words/ice_cream.webp"
+    },
+    {
+      "id": "cake",
+      "word": "cake",
+      "pos": "noun",
+      "ipa": "/keɪk/",
+      "meaning_th": "เค้ก",
+      "emoji": "🍰",
+      "example_en": "We bought a birthday cake for grandma.",
+      "example_th": "เราซื้อเค้กวันเกิดให้คุณยาย",
+      "cefr": "A1",
+      "note_th": "เค้กหนึ่งชิ้นคือ a piece of cake ซึ่งเป็นสำนวนแปลว่า \"ง่ายมาก\" ได้ด้วย เช่น The test was a piece of cake!",
+      "distractors": [
+        "cookie",
+        "pie",
+        "coke"
+      ],
+      "image": "words/cake.webp"
+    },
+    {
+      "id": "chocolate",
+      "word": "chocolate",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːklət/",
+      "meaning_th": "ช็อกโกแลต",
+      "emoji": "🍫",
+      "example_en": "Dark chocolate is a little bitter but tasty.",
+      "example_th": "ดาร์กช็อกโกแลตขมนิดๆ แต่อร่อย",
+      "cefr": "A1",
+      "note_th": "ฝรั่งออกเสียงแค่สองพยางค์ \"ช็อค-เลิท\" ไม่ใช่ \"ช็อค-โก-แลต\"",
+      "distractors": [
+        "candy",
+        "cocoa",
+        "coffee"
+      ],
+      "image": "words/chocolate.webp"
+    },
+    {
+      "id": "cookie",
+      "word": "cookie",
+      "pos": "noun",
+      "ipa": "/ˈkʊki/",
+      "meaning_th": "คุกกี้",
+      "emoji": "🍪",
+      "example_en": "Grandma baked cookies for everyone.",
+      "example_th": "คุณยายอบคุกกี้ให้ทุกคน",
+      "cefr": "A1",
+      "note_th": "อเมริกาเรียก cookie อังกฤษเรียก biscuit (ส่วน biscuit ในอเมริกาคือขนมปังนุ่มๆ คนละอย่างเลย)",
+      "distractors": [
+        "biscuit",
+        "cake",
+        "cooker"
+      ],
+      "image": "words/cookie.webp"
+    },
+    {
+      "id": "donut",
+      "word": "donut",
+      "pos": "noun",
+      "ipa": "/ˈdoʊnʌt/",
+      "meaning_th": "โดนัท",
+      "emoji": "🍩",
+      "example_en": "He eats a donut with his morning coffee.",
+      "example_th": "เขากินโดนัทคู่กับกาแฟตอนเช้า",
+      "cefr": "A2",
+      "note_th": "สะกดได้สองแบบ donut (อเมริกัน ง่ายกว่า) และ doughnut (ดั้งเดิม) ออกเสียง \"โด-นัท\"",
+      "distractors": [
+        "bagel",
+        "cookie",
+        "do not"
+      ],
+      "image": "words/donut.webp"
+    },
+    {
+      "id": "candy",
+      "word": "candy",
+      "pos": "noun",
+      "ipa": "/ˈkændi/",
+      "meaning_th": "ลูกอม / ขนมหวาน",
+      "emoji": "🍬",
+      "example_en": "Don't eat too much candy before dinner.",
+      "example_th": "อย่ากินลูกอมเยอะก่อนมื้อเย็นนะ",
+      "cefr": "A1",
+      "note_th": "อเมริกาใช้ candy อังกฤษใช้ sweets และ candy นับไม่ได้เมื่อพูดรวมๆ (too much candy)",
+      "distractors": [
+        "sweets",
+        "cookie",
+        "canned"
+      ],
+      "image": "words/candy.webp"
+    },
+    {
+      "id": "sugar",
+      "word": "sugar",
+      "pos": "noun",
+      "ipa": "/ˈʃʊɡər/",
+      "meaning_th": "น้ำตาล",
+      "emoji": null,
+      "example_en": "Less sugar in my coffee, please.",
+      "example_th": "กาแฟขอหวานน้อยนะครับ",
+      "cefr": "A1",
+      "note_th": "s ใน sugar ออกเสียง /ʃ/ (\"ชู-เกอร์\") สั่งหวานน้อยพูดว่า less sugar หรือ not too sweet",
+      "distractors": [
+        "salt",
+        "honey",
+        "super"
+      ]
+    },
+    {
+      "id": "honey",
+      "word": "honey",
+      "pos": "noun",
+      "ipa": "/ˈhʌni/",
+      "meaning_th": "น้ำผึ้ง",
+      "emoji": "🍯",
+      "example_en": "I put honey in my tea instead of sugar.",
+      "example_th": "ฉันใส่น้ำผึ้งในชาแทนน้ำตาล",
+      "cefr": "A2",
+      "note_th": "honey ยังใช้เรียกคนรักแบบเอ็นดูได้ด้วย เช่น Hi, honey! (ที่รัก)",
+      "distractors": [
+        "sugar",
+        "money",
+        "syrup"
+      ],
+      "image": "words/honey.webp"
+    },
+    {
+      "id": "snack",
+      "word": "snack",
+      "pos": "noun",
+      "ipa": "/snæk/",
+      "meaning_th": "ของว่าง / ขนมกินเล่น",
+      "emoji": null,
+      "example_en": "I always have a snack in the afternoon.",
+      "example_th": "ฉันกินของว่างตอนบ่ายเป็นประจำ",
+      "cefr": "A2",
+      "note_th": "have a snack = กินของว่าง และ snack เป็นกริยาได้: snack on chips (กินขนมขบเคี้ยวเล่น)",
+      "distractors": [
+        "snake",
+        "meal",
+        "sack"
+      ]
+    },
+    {
+      "id": "delicious",
+      "word": "delicious",
+      "pos": "adjective",
+      "ipa": "/dɪˈlɪʃəs/",
+      "meaning_th": "อร่อยมาก",
+      "emoji": "😋",
+      "example_en": "Wow, this noodle soup is delicious!",
+      "example_th": "ว้าว ก๋วยเตี๋ยวชามนี้อร่อยมาก",
+      "cefr": "A1",
+      "note_th": "delicious แปลว่าอร่อย \"มาก\" อยู่แล้ว ไม่ต้องพูด very delicious ถ้าอร่อยธรรมดาใช้ good หรือ tasty",
+      "distractors": [
+        "terrible",
+        "tasteless",
+        "dangerous"
+      ],
+      "image": "words/delicious.webp"
+    },
+    {
+      "id": "tasty",
+      "word": "tasty",
+      "pos": "adjective",
+      "ipa": "/ˈteɪsti/",
+      "meaning_th": "อร่อย / รสชาติดี",
+      "emoji": null,
+      "example_en": "The chicken rice here is cheap and tasty.",
+      "example_th": "ข้าวมันไก่ร้านนี้ถูกและอร่อย",
+      "cefr": "A2",
+      "note_th": "tasty = อร่อย (จากคำ taste รสชาติ) ระวังอย่าสับสนกับ testy (หงุดหงิดง่าย)",
+      "distractors": [
+        "bland",
+        "salty",
+        "nasty"
+      ]
+    },
+    {
+      "id": "sweet",
+      "word": "sweet",
+      "pos": "adjective",
+      "ipa": "/swiːt/",
+      "meaning_th": "หวาน",
+      "emoji": null,
+      "example_en": "Thai iced tea is very sweet.",
+      "example_th": "ชาเย็นหวานมาก",
+      "cefr": "A1",
+      "note_th": "sweet ใช้ชมคนได้ด้วย = น่ารักมีน้ำใจ เช่น That's so sweet of you! (คุณน่ารักจัง)",
+      "distractors": [
+        "sour",
+        "bitter",
+        "sweat"
+      ]
+    },
+    {
+      "id": "sour",
+      "word": "sour",
+      "pos": "adjective",
+      "ipa": "/ˈsaʊər/",
+      "meaning_th": "เปรี้ยว",
+      "emoji": "🍋",
+      "example_en": "This lemon juice is really sour!",
+      "example_th": "น้ำมะนาวแก้วนี้เปรี้ยวจี๊ดเลย",
+      "cefr": "A2",
+      "note_th": "รสเปรี้ยวจากมะนาว/มะขาม = sour แต่นมที่ \"เสีย\" ก็เรียก sour milk (นมบูด) ได้ด้วย",
+      "distractors": [
+        "sweet",
+        "spicy",
+        "soul"
+      ],
+      "image": "words/sour.webp"
+    },
+    {
+      "id": "spicy",
+      "word": "spicy",
+      "pos": "adjective",
+      "ipa": "/ˈspaɪsi/",
+      "meaning_th": "เผ็ด",
+      "emoji": "🌶️",
+      "example_en": "This papaya salad is too spicy for me!",
+      "example_th": "ส้มตำจานนี้เผ็ดเกินไปสำหรับฉัน",
+      "cefr": "A1",
+      "note_th": "สั่งไม่เผ็ดพูดว่า not spicy, please เผ็ดน้อย = a little spicy ระวัง: hot ก็แปลว่าเผ็ดได้ ไม่ใช่แค่ร้อน",
+      "distractors": [
+        "sweet",
+        "salty",
+        "spice"
+      ],
+      "image": "words/spicy.webp"
+    },
+    {
+      "id": "salty",
+      "word": "salty",
+      "pos": "adjective",
+      "ipa": "/ˈsɔːlti/",
+      "meaning_th": "เค็ม",
+      "emoji": null,
+      "example_en": "The fish sauce makes this dish quite salty.",
+      "example_th": "น้ำปลาทำให้จานนี้ค่อนข้างเค็ม",
+      "cefr": "A2",
+      "note_th": "salty มาจาก salt (เกลือ) รสชาติหลัก 5 รส: sweet หวาน sour เปรี้ยว salty เค็ม bitter ขม umami กลมกล่อม",
+      "distractors": [
+        "sweet",
+        "bitter",
+        "salt"
+      ]
+    },
+    {
+      "id": "bitter",
+      "word": "bitter",
+      "pos": "adjective",
+      "ipa": "/ˈbɪtər/",
+      "meaning_th": "ขม",
+      "emoji": null,
+      "example_en": "Black coffee is too bitter for me.",
+      "example_th": "กาแฟดำขมเกินไปสำหรับฉัน",
+      "cefr": "A2",
+      "note_th": "bitter (ขม) กับ better (ดีกว่า) เสียงใกล้กัน ฟังบริบทดีๆ และมะระคือ bitter melon",
+      "distractors": [
+        "better",
+        "butter",
+        "sour"
+      ]
+    },
+    {
+      "id": "crispy",
+      "word": "crispy",
+      "pos": "adjective",
+      "ipa": "/ˈkrɪspi/",
+      "meaning_th": "กรอบ",
+      "emoji": null,
+      "example_en": "I love crispy fried chicken skin.",
+      "example_th": "ฉันชอบหนังไก่ทอดกรอบๆ",
+      "cefr": "A2",
+      "note_th": "เมนูไทยยอดฮิต: crispy pork = หมูกรอบ และ crispy บอกความกรอบของอาหารทอด/อบ",
+      "distractors": [
+        "soft",
+        "juicy",
+        "crazy"
+      ]
+    },
+    {
+      "id": "juicy",
+      "word": "juicy",
+      "pos": "adjective",
+      "ipa": "/ˈdʒuːsi/",
+      "meaning_th": "ฉ่ำ / ชุ่มน้ำ",
+      "emoji": null,
+      "example_en": "The steak is tender and juicy.",
+      "example_th": "สเต๊กนุ่มและฉ่ำมาก",
+      "cefr": "B1",
+      "note_th": "juicy มาจาก juice ใช้ชมเนื้อย่างหรือผลไม้ที่ฉ่ำน้ำ เช่น a juicy mango (มะม่วงฉ่ำๆ)",
+      "distractors": [
+        "dry",
+        "crispy",
+        "jealous"
+      ]
+    },
+    {
+      "id": "fresh",
+      "word": "fresh",
+      "pos": "adjective",
+      "ipa": "/freʃ/",
+      "meaning_th": "สด",
+      "emoji": null,
+      "example_en": "The market sells fresh vegetables every morning.",
+      "example_th": "ตลาดขายผักสดๆ ทุกเช้า",
+      "cefr": "A1",
+      "note_th": "fresh ใช้ได้ทั้งอาหารสด อากาศบริสุทธิ์ (fresh air) และน้ำเปล่าไม่อัดลม",
+      "distractors": [
+        "old",
+        "frozen",
+        "flesh"
+      ]
+    },
+    {
+      "id": "oily",
+      "word": "oily",
+      "pos": "adjective",
+      "ipa": "/ˈɔɪli/",
+      "meaning_th": "มัน / เลี่ยน",
+      "emoji": null,
+      "example_en": "Fried food is often too oily for me.",
+      "example_th": "ของทอดมักจะมันเกินไปสำหรับฉัน",
+      "cefr": "B1",
+      "note_th": "oily มาจาก oil (น้ำมัน) อาหารมันเลี่ยนอีกคำคือ greasy ใช้แทนกันได้",
+      "distractors": [
+        "greasy",
+        "only",
+        "early"
+      ]
+    },
+    {
+      "id": "bland",
+      "word": "bland",
+      "pos": "adjective",
+      "ipa": "/blænd/",
+      "meaning_th": "จืด / รสอ่อน",
+      "emoji": null,
+      "example_en": "The soup is a bit bland, please add fish sauce.",
+      "example_th": "ซุปจืดไปนิด ขอน้ำปลาหน่อยครับ",
+      "cefr": "B1",
+      "note_th": "อาหารจืดใช้ bland หรือ tasteless อย่าใช้ tasteless กับอาหารที่คนอื่นทำ เพราะแรงกว่า (เหมือนบอกว่าไม่มีรสชาติเลย)",
+      "distractors": [
+        "spicy",
+        "brand",
+        "blind"
+      ]
+    },
+    {
+      "id": "hot",
+      "word": "hot",
+      "pos": "adjective",
+      "ipa": "/hɑːt/",
+      "meaning_th": "ร้อน / เผ็ด",
+      "emoji": null,
+      "example_en": "Be careful, the plate is very hot.",
+      "example_th": "ระวังนะ จานร้อนมาก",
+      "cefr": "A1",
+      "note_th": "hot มีสองความหมายในร้านอาหาร: ร้อน (อุณหภูมิ) และเผ็ด! ถ้าฝรั่งถาม Is it hot? อาจหมายถึงเผ็ดไหมก็ได้",
+      "distractors": [
+        "cold",
+        "hat",
+        "hurt"
+      ]
+    },
+    {
+      "id": "cold",
+      "word": "cold",
+      "pos": "adjective",
+      "ipa": "/koʊld/",
+      "meaning_th": "เย็น / หนาว",
+      "emoji": null,
+      "example_en": "My soup is cold, can you heat it up?",
+      "example_th": "ซุปของผมเย็นแล้ว ช่วยอุ่นให้หน่อยได้ไหมครับ",
+      "cefr": "A1",
+      "note_th": "เครื่องดื่มเย็นใส่น้ำแข็งใช้ iced เช่น iced coffee (กาแฟเย็น) ส่วน cold คือเย็นทั่วไป",
+      "distractors": [
+        "hot",
+        "cool",
+        "gold"
+      ]
+    },
+    {
+      "id": "fork",
+      "word": "fork",
+      "pos": "noun",
+      "ipa": "/fɔːrk/",
+      "meaning_th": "ส้อม",
+      "emoji": "🍴",
+      "example_en": "Thai people eat rice with a spoon and fork.",
+      "example_th": "คนไทยกินข้าวด้วยช้อนกับส้อม",
+      "cefr": "A1",
+      "note_th": "fork (ส้อม) กับ pork (เนื้อหมู) เสียงต่างแค่ตัวแรก ระวังสั่งผิด!",
+      "distractors": [
+        "spoon",
+        "knife",
+        "pork"
+      ],
+      "image": "words/fork.webp"
+    },
+    {
+      "id": "spoon",
+      "word": "spoon",
+      "pos": "noun",
+      "ipa": "/spuːn/",
+      "meaning_th": "ช้อน",
+      "emoji": "🥄",
+      "example_en": "Can I have a spoon for my soup?",
+      "example_th": "ขอช้อนสำหรับซุปหน่อยได้ไหมครับ",
+      "cefr": "A1",
+      "note_th": "ช้อนชา = teaspoon ช้อนโต๊ะ = tablespoon เจอบ่อยในสูตรอาหาร",
+      "distractors": [
+        "fork",
+        "straw",
+        "spool"
+      ],
+      "image": "words/spoon.webp"
+    },
+    {
+      "id": "knife",
+      "word": "knife",
+      "pos": "noun",
+      "ipa": "/naɪf/",
+      "meaning_th": "มีด",
+      "emoji": "🔪",
+      "example_en": "You need a sharp knife to cut this steak.",
+      "example_th": "ต้องใช้มีดคมๆ ตัดสเต๊กชิ้นนี้",
+      "cefr": "A1",
+      "note_th": "ตัว k ใน knife ไม่ออกเสียง อ่านว่า \"ไนฟ์\" และพหูพจน์คือ knives (เปลี่ยน f เป็น v)",
+      "distractors": [
+        "fork",
+        "wife",
+        "knee"
+      ],
+      "image": "words/knife.webp"
+    },
+    {
+      "id": "plate",
+      "word": "plate",
+      "pos": "noun",
+      "ipa": "/pleɪt/",
+      "meaning_th": "จาน",
+      "emoji": "🍽️",
+      "example_en": "He finished everything on his plate.",
+      "example_th": "เขากินหมดเกลี้ยงทั้งจาน",
+      "cefr": "A1",
+      "note_th": "ข้าวหนึ่งจาน = a plate of rice ส่วน dish หมายถึง \"จานอาหาร/เมนู\" เช่น a Thai dish (อาหารไทยจานหนึ่ง)",
+      "distractors": [
+        "bowl",
+        "dish",
+        "play"
+      ],
+      "image": "words/plate.webp"
+    },
+    {
+      "id": "bowl",
+      "word": "bowl",
+      "pos": "noun",
+      "ipa": "/boʊl/",
+      "meaning_th": "ชาม / ถ้วย",
+      "emoji": "🥣",
+      "example_en": "I'd like a bowl of noodle soup.",
+      "example_th": "ขอก๋วยเตี๋ยวน้ำหนึ่งชามครับ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"โบล\" (เหมือน bold ไม่มี d) ก๋วยเตี๋ยวหนึ่งชาม = a bowl of noodles",
+      "distractors": [
+        "plate",
+        "ball",
+        "bow"
+      ],
+      "image": "words/bowl.webp"
+    },
+    {
+      "id": "glass",
+      "word": "glass",
+      "pos": "noun",
+      "ipa": "/ɡlæs/",
+      "meaning_th": "แก้วน้ำ",
+      "emoji": "🥛",
+      "example_en": "A glass of water, please.",
+      "example_th": "ขอน้ำเปล่าหนึ่งแก้วครับ",
+      "cefr": "A1",
+      "note_th": "glass = แก้วใส (ทำจากกระจก) แต่ glasses (พหูพจน์) = แว่นตา! น้ำหนึ่งแก้ว = a glass of water",
+      "distractors": [
+        "cup",
+        "grass",
+        "glasses"
+      ],
+      "image": "words/glass.webp"
+    },
+    {
+      "id": "cup",
+      "word": "cup",
+      "pos": "noun",
+      "ipa": "/kʌp/",
+      "meaning_th": "ถ้วย / แก้วมีหู",
+      "emoji": "☕",
+      "example_en": "She drinks two cups of coffee a day.",
+      "example_th": "เธอดื่มกาแฟวันละสองถ้วย",
+      "cefr": "A1",
+      "note_th": "cup ใช้กับเครื่องดื่มร้อน (a cup of coffee/tea) ส่วน glass ใช้กับเครื่องดื่มเย็น (a glass of water)",
+      "distractors": [
+        "glass",
+        "cap",
+        "cop"
+      ],
+      "image": "words/cup.webp"
+    },
+    {
+      "id": "chopsticks",
+      "word": "chopsticks",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːpstɪks/",
+      "meaning_th": "ตะเกียบ",
+      "emoji": "🥢",
+      "example_en": "Can you eat noodles with chopsticks?",
+      "example_th": "คุณกินก๋วยเตี๋ยวด้วยตะเกียบเป็นไหม",
+      "cefr": "A2",
+      "note_th": "chopsticks ใช้รูปพหูพจน์เสมอ (มาเป็นคู่) หนึ่งคู่ = a pair of chopsticks",
+      "distractors": [
+        "toothpicks",
+        "spoons",
+        "sticks"
+      ],
+      "image": "words/chopsticks.webp"
+    },
+    {
+      "id": "napkin",
+      "word": "napkin",
+      "pos": "noun",
+      "ipa": "/ˈnæpkɪn/",
+      "meaning_th": "ผ้าเช็ดปาก / กระดาษเช็ดปาก",
+      "emoji": null,
+      "example_en": "Could I have some napkins, please?",
+      "example_th": "ขอกระดาษเช็ดปากหน่อยได้ไหมครับ",
+      "cefr": "A2",
+      "note_th": "napkin ใช้ได้ทั้งผ้าและกระดาษเช็ดปาก ส่วน tissue คือกระดาษทิชชูทั่วไป",
+      "distractors": [
+        "tissue",
+        "towel",
+        "nap"
+      ]
+    },
+    {
+      "id": "straw",
+      "word": "straw",
+      "pos": "noun",
+      "ipa": "/strɔː/",
+      "meaning_th": "หลอดดูด",
+      "emoji": null,
+      "example_en": "No plastic straw for me, thanks.",
+      "example_th": "ไม่รับหลอดพลาสติกครับ ขอบคุณ",
+      "cefr": "A2",
+      "note_th": "straw แปลว่าฟางข้าวได้ด้วย และ strawberry ก็มาจากคำนี้ ปฏิเสธหลอดช่วยโลก: No straw, please",
+      "distractors": [
+        "strawberry",
+        "stick",
+        "spoon"
+      ]
+    },
+    {
+      "id": "bottle",
+      "word": "bottle",
+      "pos": "noun",
+      "ipa": "/ˈbɑːtəl/",
+      "meaning_th": "ขวด",
+      "emoji": null,
+      "example_en": "A bottle of water costs ten baht.",
+      "example_th": "น้ำเปล่าขวดละสิบบาท",
+      "cefr": "A1",
+      "note_th": "น้ำหนึ่งขวด = a bottle of water เสียง tt ในอเมริกันออกคล้ายตัว d เร็วๆ (\"บ๊า-เดิ้ล\")",
+      "distractors": [
+        "glass",
+        "battle",
+        "button"
+      ]
+    },
+    {
+      "id": "teapot",
+      "word": "teapot",
+      "pos": "noun",
+      "ipa": "/ˈtiːpɑːt/",
+      "meaning_th": "กาน้ำชา",
+      "emoji": "🫖",
+      "example_en": "The waiter put a hot teapot on our table.",
+      "example_th": "พนักงานวางกาน้ำชาร้อนไว้บนโต๊ะเรา",
+      "cefr": "A2",
+      "note_th": "teapot = กาชงชา (เสิร์ฟบนโต๊ะ) ส่วน kettle = กาต้มน้ำ ใช้ต้มน้ำให้เดือด",
+      "distractors": [
+        "kettle",
+        "teacup",
+        "pot"
+      ],
+      "image": "words/teapot.webp"
+    },
+    {
+      "id": "kettle",
+      "word": "kettle",
+      "pos": "noun",
+      "ipa": "/ˈketəl/",
+      "meaning_th": "กาต้มน้ำ",
+      "emoji": null,
+      "example_en": "Put the kettle on, let's make some tea.",
+      "example_th": "ต้มน้ำหน่อย เรามาชงชากัน",
+      "cefr": "B1",
+      "note_th": "Put the kettle on เป็นสำนวนอังกฤษสุดคลาสสิก = ต้มน้ำเตรียมชงชา",
+      "distractors": [
+        "teapot",
+        "cattle",
+        "bottle"
+      ]
+    },
+    {
+      "id": "toothpick",
+      "word": "toothpick",
+      "pos": "noun",
+      "ipa": "/ˈtuːθpɪk/",
+      "meaning_th": "ไม้จิ้มฟัน",
+      "emoji": null,
+      "example_en": "Excuse me, do you have toothpicks?",
+      "example_th": "ขอโทษครับ มีไม้จิ้มฟันไหม",
+      "cefr": "B1",
+      "note_th": "มาจาก tooth (ฟัน) + pick (แคะ/จิ้ม) จำง่ายๆ และควรปิดปากเวลาใช้ตามมารยาทสากล",
+      "distractors": [
+        "toothbrush",
+        "chopsticks",
+        "toothpaste"
+      ]
+    },
+    {
+      "id": "bill",
+      "word": "bill",
+      "pos": "noun",
+      "ipa": "/bɪl/",
+      "meaning_th": "บิล / ใบเรียกเก็บเงิน",
+      "emoji": "🧾",
+      "example_en": "Can we have the bill, please?",
+      "example_th": "เช็คบิลด้วยครับ",
+      "cefr": "A1",
+      "note_th": "อังกฤษพูด the bill อเมริกาพูด the check ส่วน \"เช็คบิล\" เป็นไทยประดิษฐ์ ฝรั่งพูด Can I have the bill/check, please?",
+      "distractors": [
+        "check",
+        "receipt",
+        "ball"
+      ],
+      "image": "words/bill.webp"
+    },
+    {
+      "id": "pay",
+      "word": "pay",
+      "pos": "verb",
+      "ipa": "/peɪ/",
+      "meaning_th": "จ่ายเงิน",
+      "emoji": null,
+      "example_en": "I'll pay for dinner tonight.",
+      "example_th": "คืนนี้ฉันเลี้ยงเอง",
+      "cefr": "A1",
+      "note_th": "pay for + สิ่งที่ซื้อ (pay for the food) กริยาช่อง 2/3 คือ paid และ I'll pay = ฉันจ่ายเอง/ฉันเลี้ยง",
+      "distractors": [
+        "buy",
+        "play",
+        "spend"
+      ]
+    },
+    {
+      "id": "price",
+      "word": "price",
+      "pos": "noun",
+      "ipa": "/praɪs/",
+      "meaning_th": "ราคา",
+      "emoji": null,
+      "example_en": "The prices here are very reasonable.",
+      "example_th": "ราคาที่นี่สมเหตุสมผลมาก",
+      "cefr": "A1",
+      "note_th": "ถามราคาให้พูด How much is it? (ไม่ใช่ How much price?) และ price ออกเสียง \"ไพรซ์\" เหมือน prize (รางวัล)",
+      "distractors": [
+        "prize",
+        "cost",
+        "rice"
+      ]
+    },
+    {
+      "id": "cash",
+      "word": "cash",
+      "pos": "noun",
+      "ipa": "/kæʃ/",
+      "meaning_th": "เงินสด",
+      "emoji": "💵",
+      "example_en": "Do you want to pay in cash or by card?",
+      "example_th": "จ่ายเงินสดหรือบัตรดีครับ",
+      "cefr": "A2",
+      "note_th": "จ่ายเงินสด = pay in cash / จ่ายบัตร = pay by card จำ preposition ให้ถูกคู่",
+      "distractors": [
+        "card",
+        "change",
+        "cost"
+      ],
+      "image": "words/cash.webp"
+    },
+    {
+      "id": "change",
+      "word": "change",
+      "pos": "noun",
+      "ipa": "/tʃeɪndʒ/",
+      "meaning_th": "เงินทอน",
+      "emoji": null,
+      "example_en": "Here is your change, twenty baht.",
+      "example_th": "นี่เงินทอนของคุณ ยี่สิบบาทครับ",
+      "cefr": "A2",
+      "note_th": "change = เงินทอน/เหรียญเศษ บอกไม่ต้องทอนว่า Keep the change (ไม่ต้องทอนครับ)",
+      "distractors": [
+        "cash",
+        "chance",
+        "charge"
+      ]
+    },
+    {
+      "id": "tip",
+      "word": "tip",
+      "pos": "noun",
+      "ipa": "/tɪp/",
+      "meaning_th": "ทิป / เงินให้พิเศษ",
+      "emoji": "🪙",
+      "example_en": "We left a tip for the friendly waiter.",
+      "example_th": "เราให้ทิปพนักงานเสิร์ฟที่บริการดี",
+      "cefr": "A2",
+      "note_th": "ในอเมริกาการให้ทิป 15-20% แทบเป็นข้อบังคับ ส่วน tip อีกความหมายคือ \"เคล็ดลับ\" (a useful tip)",
+      "distractors": [
+        "tax",
+        "top",
+        "trip"
+      ],
+      "image": "words/tip.webp"
+    },
+    {
+      "id": "receipt",
+      "word": "receipt",
+      "pos": "noun",
+      "ipa": "/rɪˈsiːt/",
+      "meaning_th": "ใบเสร็จ",
+      "emoji": null,
+      "example_en": "Can I have a receipt, please?",
+      "example_th": "ขอใบเสร็จด้วยครับ",
+      "cefr": "A2",
+      "note_th": "ตัว p ใน receipt ไม่ออกเสียง! อ่านว่า \"รี-ซีท\" และ bill คือใบเรียกเก็บก่อนจ่าย receipt คือใบเสร็จหลังจ่าย",
+      "distractors": [
+        "recipe",
+        "bill",
+        "ticket"
+      ]
+    },
+    {
+      "id": "expensive",
+      "word": "expensive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspensɪv/",
+      "meaning_th": "แพง",
+      "emoji": null,
+      "example_en": "This restaurant is too expensive for students.",
+      "example_th": "ร้านนี้แพงเกินไปสำหรับนักเรียน",
+      "cefr": "A1",
+      "note_th": "ของแพงพูดว่า It's expensive ไม่ใช่ The price is expensive (ราคาใช้ high/low: The price is high)",
+      "distractors": [
+        "cheap",
+        "expected",
+        "excellent"
+      ]
+    },
+    {
+      "id": "cheap",
+      "word": "cheap",
+      "pos": "adjective",
+      "ipa": "/tʃiːp/",
+      "meaning_th": "ถูก (ราคา)",
+      "emoji": null,
+      "example_en": "Street food in Thailand is cheap and delicious.",
+      "example_th": "อาหารริมทางในไทยทั้งถูกทั้งอร่อย",
+      "cefr": "A1",
+      "note_th": "cheap บางทีแฝงความหมาย \"ถูกแบบคุณภาพต่ำ\" ถ้าจะชมว่าคุ้มค่าใช้ good value หรือ inexpensive",
+      "distractors": [
+        "expensive",
+        "chip",
+        "sheep"
+      ]
+    },
+    {
+      "id": "discount",
+      "word": "discount",
+      "pos": "noun",
+      "ipa": "/ˈdɪskaʊnt/",
+      "meaning_th": "ส่วนลด",
+      "emoji": null,
+      "example_en": "Students get a ten percent discount here.",
+      "example_th": "นักเรียนได้ส่วนลดสิบเปอร์เซ็นต์ที่ร้านนี้",
+      "cefr": "A2",
+      "note_th": "ถามหาส่วนลด: Do you have any discounts? หรือ Can I get a discount? (ต่อราคาแบบสุภาพ)",
+      "distractors": [
+        "account",
+        "coupon",
+        "price"
+      ]
+    },
+    {
+      "id": "free",
+      "word": "free",
+      "pos": "adjective",
+      "ipa": "/friː/",
+      "meaning_th": "ฟรี / ไม่คิดเงิน",
+      "emoji": null,
+      "example_en": "Refills are free at this restaurant.",
+      "example_th": "ร้านนี้เติมน้ำได้ฟรี",
+      "cefr": "A1",
+      "note_th": "free = ฟรี และ = ว่าง/อิสระ ด้วย เช่น Are you free tonight? (คืนนี้ว่างไหม) ดูบริบทให้ดี",
+      "distractors": [
+        "fee",
+        "three",
+        "cheap"
+      ]
+    },
+    {
+      "id": "total",
+      "word": "total",
+      "pos": "noun",
+      "ipa": "/ˈtoʊtəl/",
+      "meaning_th": "ยอดรวม",
+      "emoji": null,
+      "example_en": "The total comes to five hundred baht.",
+      "example_th": "ยอดรวมทั้งหมดห้าร้อยบาทครับ",
+      "cefr": "A2",
+      "note_th": "The total comes to... = ยอดรวมเท่ากับ... ส่วน in total = รวมทั้งหมด เช่น 500 baht in total",
+      "distractors": [
+        "title",
+        "price",
+        "hotel"
+      ]
+    },
+    {
+      "id": "split_the_bill",
+      "word": "split the bill",
+      "pos": "phrase",
+      "ipa": "/ˌsplɪt ðə ˈbɪl/",
+      "meaning_th": "หารค่าอาหาร / จ่ายคนละครึ่ง",
+      "emoji": null,
+      "example_en": "Let's split the bill between the four of us.",
+      "example_th": "เราสี่คนหารกันเถอะ",
+      "cefr": "B1",
+      "note_th": "split the bill = หารเท่ากันทุกคน อีกสำนวนคือ go Dutch (ต่างคนต่างจ่ายของตัวเอง)",
+      "distractors": [
+        "pay the bill",
+        "keep the change",
+        "share the food"
+      ]
+    },
+    {
+      "id": "service_charge",
+      "word": "service charge",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrvɪs tʃɑːrdʒ/",
+      "meaning_th": "ค่าบริการ",
+      "emoji": null,
+      "example_en": "The price includes a ten percent service charge.",
+      "example_th": "ราคานี้รวมค่าบริการสิบเปอร์เซ็นต์แล้ว",
+      "cefr": "B1",
+      "note_th": "ร้านในไทยมักเขียน ++ หมายถึง service charge 10% + VAT 7% ถ้าจ่าย service charge แล้วไม่จำเป็นต้องให้ทิปเพิ่ม",
+      "distractors": [
+        "delivery fee",
+        "discount",
+        "recharge"
+      ]
+    },
+    {
+      "id": "grill",
+      "word": "grill",
+      "pos": "verb",
+      "ipa": "/ɡrɪl/",
+      "meaning_th": "ย่าง",
+      "emoji": "🍖",
+      "example_en": "We grill chicken and corn in the garden.",
+      "example_th": "เราย่างไก่กับข้าวโพดกันในสวน",
+      "cefr": "A2",
+      "note_th": "grilled chicken = ไก่ย่าง, grilled pork = หมูย่าง (หมูปิ้งบ้านเราก็ใช้คำนี้ได้) ส่วนย่างบนเตาถ่านแบบ BBQ ใช้ barbecue",
+      "distractors": [
+        "boil",
+        "girl",
+        "drill"
+      ],
+      "image": "words/grill.webp"
+    },
+    {
+      "id": "bake",
+      "word": "bake",
+      "pos": "verb",
+      "ipa": "/beɪk/",
+      "meaning_th": "อบ (ขนม/ขนมปัง)",
+      "emoji": "🧁",
+      "example_en": "She bakes a chocolate cake every Sunday.",
+      "example_th": "เธออบเค้กช็อกโกแลตทุกวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "bake ใช้กับการอบขนม/ขนมปังในเตาอบ ส่วน roast คืออบเนื้อ/ผัก ร้านขนมอบคือ bakery",
+      "distractors": [
+        "boil",
+        "back",
+        "break"
+      ],
+      "image": "words/bake.webp"
+    },
+    {
+      "id": "steam",
+      "word": "steam",
+      "pos": "verb",
+      "ipa": "/stiːm/",
+      "meaning_th": "นึ่ง",
+      "emoji": null,
+      "example_en": "Steamed fish with lime is a healthy Thai dish.",
+      "example_th": "ปลานึ่งมะนาวเป็นเมนูไทยเพื่อสุขภาพ",
+      "cefr": "B1",
+      "note_th": "steam เป็นคำนามแปลว่าไอน้ำ เป็นกริยาแปลว่านึ่ง เช่น steamed rice (ข้าวสวย) steamed fish (ปลานึ่ง)",
+      "distractors": [
+        "grill",
+        "stream",
+        "team"
+      ]
+    },
+    {
+      "id": "roast",
+      "word": "roast",
+      "pos": "verb",
+      "ipa": "/roʊst/",
+      "meaning_th": "อบ / ย่างในเตาอบ",
+      "emoji": null,
+      "example_en": "They roast a whole chicken for the party.",
+      "example_th": "พวกเขาอบไก่ทั้งตัวสำหรับงานปาร์ตี้",
+      "cefr": "B1",
+      "note_th": "roast = อบเนื้อ/ผักในเตาอบ เช่น roast duck (เป็ดย่าง) roasted peanuts (ถั่วคั่ว) ส่วน bake ใช้กับขนม",
+      "distractors": [
+        "toast",
+        "grill",
+        "roast beef"
+      ]
+    },
+    {
+      "id": "chop",
+      "word": "chop",
+      "pos": "verb",
+      "ipa": "/tʃɑːp/",
+      "meaning_th": "สับ / หั่นเป็นชิ้นเล็ก",
+      "emoji": null,
+      "example_en": "Chop the garlic and chili first.",
+      "example_th": "สับกระเทียมกับพริกก่อนเลย",
+      "cefr": "B1",
+      "note_th": "chop = สับเร็วๆ เป็นชิ้นเล็ก ส่วน chopsticks (ตะเกียบ) ก็มาจากคำนี้ และหมูสับคือ minced pork",
+      "distractors": [
+        "slice",
+        "shop",
+        "chip"
+      ]
+    },
+    {
+      "id": "slice",
+      "word": "slice",
+      "pos": "verb",
+      "ipa": "/slaɪs/",
+      "meaning_th": "หั่นเป็นแผ่นบาง",
+      "emoji": null,
+      "example_en": "Slice the mango into thin pieces.",
+      "example_th": "หั่นมะม่วงเป็นชิ้นบางๆ",
+      "cefr": "B1",
+      "note_th": "slice เป็นคำนามได้ = หนึ่งแผ่น/ชิ้น เช่น a slice of pizza (พิซซ่าหนึ่งชิ้น) a slice of bread (ขนมปังหนึ่งแผ่น)",
+      "distractors": [
+        "chop",
+        "ice",
+        "rice"
+      ]
+    },
+    {
+      "id": "mix",
+      "word": "mix",
+      "pos": "verb",
+      "ipa": "/mɪks/",
+      "meaning_th": "ผสม / คลุก",
+      "emoji": null,
+      "example_en": "Mix the sauce with the noodles well.",
+      "example_th": "คลุกซอสกับเส้นให้เข้ากัน",
+      "cefr": "A2",
+      "note_th": "mix well = คลุกให้เข้ากัน และเมนูรวมมิตรมักใช้คำว่า mixed เช่น mixed fruit (ผลไม้รวม) mixed seafood (ทะเลรวม)",
+      "distractors": [
+        "fix",
+        "pour",
+        "six"
+      ]
+    },
+    {
+      "id": "pour",
+      "word": "pour",
+      "pos": "verb",
+      "ipa": "/pɔːr/",
+      "meaning_th": "ริน / เท",
+      "emoji": "🫗",
+      "example_en": "Please pour some water into my glass.",
+      "example_th": "ช่วยรินน้ำใส่แก้วให้หน่อยครับ",
+      "cefr": "A2",
+      "note_th": "pour ออกเสียงเหมือน \"พอร์\" (เหมือน four) และ It's pouring = ฝนตกหนักมาก เป็นสำนวนที่ใช้บ่อย",
+      "distractors": [
+        "poor",
+        "put",
+        "drop"
+      ],
+      "image": "words/pour.webp"
+    },
+    {
+      "id": "serve",
+      "word": "serve",
+      "pos": "verb",
+      "ipa": "/sɜːrv/",
+      "meaning_th": "เสิร์ฟ / บริการอาหาร",
+      "emoji": null,
+      "example_en": "This restaurant serves breakfast until eleven.",
+      "example_th": "ร้านนี้เสิร์ฟอาหารเช้าถึงสิบเอ็ดโมง",
+      "cefr": "A2",
+      "note_th": "serve = เสิร์ฟอาหาร ส่วนคำนาม service = การบริการ และ Service is included = รวมค่าบริการแล้ว",
+      "distractors": [
+        "save",
+        "order",
+        "surf"
+      ]
+    },
+    {
+      "id": "taste",
+      "word": "taste",
+      "pos": "verb",
+      "ipa": "/teɪst/",
+      "meaning_th": "ชิม / มีรสชาติ",
+      "emoji": "👅",
+      "example_en": "Can I taste your ice cream?",
+      "example_th": "ขอชิมไอศกรีมหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "taste ใช้สองแบบ: ชิม (Can I taste it?) และบอกรส (It tastes sweet = มันรสหวาน) ตามด้วย adjective ไม่ใช่ adverb",
+      "distractors": [
+        "test",
+        "smell",
+        "toast"
+      ],
+      "image": "words/taste.webp"
+    },
+    {
+      "id": "smell",
+      "word": "smell",
+      "pos": "verb",
+      "ipa": "/smel/",
+      "meaning_th": "ได้กลิ่น / มีกลิ่น",
+      "emoji": null,
+      "example_en": "The curry smells so good!",
+      "example_th": "แกงหอมน่ากินมาก",
+      "cefr": "A2",
+      "note_th": "It smells good = หอม / It smells bad = เหม็น ภาษาอังกฤษไม่มีคำแยกหอม-เหม็น ใช้ smell + adjective",
+      "distractors": [
+        "taste",
+        "smile",
+        "sell"
+      ]
+    },
+    {
+      "id": "share",
+      "word": "share",
+      "pos": "verb",
+      "ipa": "/ʃer/",
+      "meaning_th": "แบ่งกัน / กินด้วยกัน",
+      "emoji": null,
+      "example_en": "Thai people usually share all the dishes.",
+      "example_th": "คนไทยมักกินกับข้าวแบ่งกันทุกจาน",
+      "cefr": "A2",
+      "note_th": "วัฒนธรรมกินข้าวไทย = share dishes (กับข้าวกลางโต๊ะ) ต่างจากฝรั่งที่สั่งใครสั่งมัน และ \"แชร์ค่าอาหาร\" คือ split the bill",
+      "distractors": [
+        "shake",
+        "chair",
+        "care"
+      ]
+    },
+    {
+      "id": "spill",
+      "word": "spill",
+      "pos": "verb",
+      "ipa": "/spɪl/",
+      "meaning_th": "ทำหก",
+      "emoji": "💦",
+      "example_en": "Oh no, I spilled milk on the table!",
+      "example_th": "แย่แล้ว ฉันทำนมหกใส่โต๊ะ",
+      "cefr": "B1",
+      "note_th": "กริยาช่อง 2/3 ใช้ spilled หรือ spilt ก็ได้ สำนวน Don't cry over spilled milk = อย่าเสียใจกับสิ่งที่แก้ไขไม่ได้แล้ว",
+      "distractors": [
+        "fill",
+        "spell",
+        "drop"
+      ],
+      "image": "words/spill.webp"
+    },
+    {
+      "id": "peel",
+      "word": "peel",
+      "pos": "verb",
+      "ipa": "/piːl/",
+      "meaning_th": "ปอกเปลือก",
+      "emoji": null,
+      "example_en": "Peel the orange before you eat it.",
+      "example_th": "ปอกเปลือกส้มก่อนกินนะ",
+      "cefr": "B1",
+      "note_th": "peel เป็นคำนามได้ = เปลือกผลไม้ เช่น banana peel (เปลือกกล้วย) ระวังเสียงเหมือน pill (ยาเม็ด)",
+      "distractors": [
+        "pill",
+        "feel",
+        "pear"
+      ]
+    }
+  ]
+}
