@@ -24,13 +24,13 @@
     },
     {
       "id": "shopping",
-      "file": null,
+      "file": "shopping.json",
       "name_en": "Shopping",
       "name_th": "ช้อปปิ้ง",
       "emoji": "🛍️",
       "color_start": "#F472B6",
       "color_end": "#DB2777",
-      "available": false,
+      "available": true,
       "image": "worlds/shopping.webp"
     },
     {

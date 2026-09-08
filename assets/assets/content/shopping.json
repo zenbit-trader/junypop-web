@@ -1,0 +1,1987 @@
+{
+  "world": {
+    "id": "shopping",
+    "name_en": "Shopping",
+    "name_th": "ช้อปปิ้ง",
+    "emoji": "🛍️",
+    "color_start": "#F472B6",
+    "color_end": "#DB2777",
+    "description_th": "ศัพท์ช้อปในห้าง ต่อราคา จ่ายเงิน จนถึงช้อปออนไลน์",
+    "mascot_costume": "shopper",
+    "lessons": [
+      {
+        "id": "shopping_1",
+        "title_en": "At the Mall",
+        "title_th": "ในห้าง",
+        "emoji": "🏬",
+        "word_ids": [
+          "mall",
+          "shop",
+          "department_store",
+          "floor",
+          "escalator",
+          "elevator",
+          "fitting_room",
+          "cashier",
+          "entrance",
+          "food_court",
+          "parking",
+          "restroom",
+          "open",
+          "closed"
+        ],
+        "image": "lessons/shopping_1.webp"
+      },
+      {
+        "id": "shopping_2",
+        "title_en": "Buying Clothes",
+        "title_th": "ซื้อเสื้อผ้า",
+        "emoji": "👗",
+        "word_ids": [
+          "size",
+          "small",
+          "medium",
+          "large",
+          "try_on",
+          "fit",
+          "tight",
+          "loose",
+          "color",
+          "style",
+          "brand",
+          "fashion",
+          "mirror",
+          "sweater"
+        ],
+        "image": "lessons/shopping_2.webp"
+      },
+      {
+        "id": "shopping_3",
+        "title_en": "Prices & Bargaining",
+        "title_th": "ราคาและต่อรอง",
+        "emoji": "💰",
+        "word_ids": [
+          "cost",
+          "afford",
+          "budget",
+          "sale",
+          "on_sale",
+          "promotion",
+          "special_offer",
+          "buy_one_get_one",
+          "half_price",
+          "bargain",
+          "wallet",
+          "coin",
+          "banknote",
+          "purse"
+        ],
+        "image": "lessons/shopping_3.webp"
+      },
+      {
+        "id": "shopping_4",
+        "title_en": "At the Supermarket",
+        "title_th": "ซูเปอร์มาร์เก็ต",
+        "emoji": "🛒",
+        "word_ids": [
+          "supermarket",
+          "cart",
+          "basket",
+          "shelf",
+          "aisle",
+          "checkout",
+          "barcode",
+          "plastic_bag",
+          "frozen",
+          "expiry_date",
+          "fresh_market",
+          "instant_noodles",
+          "shampoo",
+          "soap"
+        ],
+        "image": "lessons/shopping_4.webp"
+      },
+      {
+        "id": "shopping_5",
+        "title_en": "Gadgets",
+        "title_th": "แกดเจ็ตไอที",
+        "emoji": "📱",
+        "word_ids": [
+          "mobile_phone",
+          "charger",
+          "battery",
+          "power_bank",
+          "warranty",
+          "model",
+          "screen",
+          "memory",
+          "wireless",
+          "gadget",
+          "accessory",
+          "phone_case",
+          "earbuds",
+          "smartwatch"
+        ],
+        "image": "lessons/shopping_5.webp"
+      },
+      {
+        "id": "shopping_6",
+        "title_en": "Paying & Refunds",
+        "title_th": "จ่ายเงินและคืนสินค้า",
+        "emoji": "💳",
+        "word_ids": [
+          "refund",
+          "exchange",
+          "return",
+          "installment",
+          "debit_card",
+          "mobile_banking",
+          "qr_code",
+          "scan",
+          "member_card",
+          "points",
+          "voucher",
+          "coupon",
+          "out_of_stock",
+          "in_stock"
+        ],
+        "image": "lessons/shopping_6.webp"
+      },
+      {
+        "id": "shopping_7",
+        "title_en": "Online Shopping",
+        "title_th": "ช้อปออนไลน์",
+        "emoji": "📦",
+        "word_ids": [
+          "online_shopping",
+          "add_to_cart",
+          "shipping",
+          "free_shipping",
+          "track",
+          "parcel",
+          "cash_on_delivery",
+          "review",
+          "rating",
+          "seller",
+          "buyer",
+          "flash_sale",
+          "wishlist",
+          "delivery_fee"
+        ],
+        "image": "lessons/shopping_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "mall",
+      "word": "mall",
+      "pos": "noun",
+      "ipa": "/mɔːl/",
+      "reading_th": "มอล",
+      "meaning_th": "ห้างสรรพสินค้า / ศูนย์การค้า",
+      "emoji": "🏬",
+      "example_en": "Let's meet at the mall this weekend.",
+      "example_th": "สุดสัปดาห์นี้เจอกันที่ห้างนะ",
+      "cefr": "A1",
+      "note_th": "mall (ออกเสียง \"มอล\") = ศูนย์การค้าใหญ่ทั้งอาคาร เช่น shopping mall ส่วนร้านเดี่ยวๆ คือ shop/store",
+      "distractors": [
+        "market",
+        "shop",
+        "wall"
+      ],
+      "image": "words/mall.webp"
+    },
+    {
+      "id": "shop",
+      "word": "shop",
+      "pos": "noun",
+      "ipa": "/ʃɑːp/",
+      "reading_th": "ช็อพ",
+      "meaning_th": "ร้านค้า",
+      "emoji": null,
+      "example_en": "That little shop sells cute phone cases.",
+      "example_th": "ร้านเล็กๆ ร้านนั้นขายเคสมือถือน่ารักๆ",
+      "cefr": "A1",
+      "note_th": "อังกฤษใช้ shop อเมริกาใช้ store และ shop เป็นกริยาได้ = ซื้อของ เช่น go shopping (ไปช้อปปิ้ง)",
+      "distractors": [
+        "store",
+        "stall",
+        "ship"
+      ]
+    },
+    {
+      "id": "department_store",
+      "word": "department store",
+      "pos": "noun",
+      "ipa": "/dɪˈpɑːrtmənt stɔːr/",
+      "reading_th": "ดิ-พาร์ท-เมนท์-สโตร์",
+      "meaning_th": "ห้างสรรพสินค้า (แบบมีแผนก)",
+      "emoji": null,
+      "example_en": "The department store has a big sale on the fifth floor.",
+      "example_th": "ห้างมีเซลใหญ่ที่ชั้นห้า",
+      "cefr": "A2",
+      "note_th": "department store คือห้างที่แบ่งเป็นแผนก (เครื่องสำอาง เสื้อผ้า ของใช้) เช่นเซ็นทรัล ส่วน mall คือศูนย์การค้าที่มีหลายร้านรวมกัน",
+      "distractors": [
+        "convenience store",
+        "supermarket",
+        "apartment"
+      ]
+    },
+    {
+      "id": "floor",
+      "word": "floor",
+      "pos": "noun",
+      "ipa": "/flɔːr/",
+      "reading_th": "ฟลอร์",
+      "meaning_th": "ชั้น (ของอาคาร) / พื้น",
+      "emoji": null,
+      "example_en": "The food court is on the sixth floor.",
+      "example_th": "ศูนย์อาหารอยู่ชั้นหก",
+      "cefr": "A1",
+      "note_th": "ชั้น 1 แบบไทย = first floor (อเมริกา) แต่อังกฤษเรียก ground floor แล้วชั้น 2 ไทยคือ first floor ของอังกฤษ ระวังสับสน!",
+      "distractors": [
+        "flour",
+        "ceiling",
+        "stairs"
+      ]
+    },
+    {
+      "id": "escalator",
+      "word": "escalator",
+      "pos": "noun",
+      "ipa": "/ˈeskəleɪtər/",
+      "reading_th": "เอส-คะ-เล-เตอร์",
+      "meaning_th": "บันไดเลื่อน",
+      "emoji": "🪜",
+      "example_en": "Take the escalator to the second floor.",
+      "example_th": "ขึ้นบันไดเลื่อนไปชั้นสอง",
+      "cefr": "A2",
+      "note_th": "escalator = บันไดเลื่อน / elevator = ลิฟต์ ขึ้นต้นคล้ายกัน จำว่า esca- มาจาก escalade (ปีน)",
+      "distractors": [
+        "elevator",
+        "ladder",
+        "calculator"
+      ],
+      "image": "words/escalator.webp"
+    },
+    {
+      "id": "elevator",
+      "word": "elevator",
+      "pos": "noun",
+      "ipa": "/ˈelɪveɪtər/",
+      "reading_th": "เอ-ลิ-เว-เตอร์",
+      "meaning_th": "ลิฟต์",
+      "emoji": "🛗",
+      "example_en": "The elevator is full, let's wait for the next one.",
+      "example_th": "ลิฟต์เต็ม รอตัวถัดไปกันเถอะ",
+      "cefr": "A2",
+      "note_th": "อเมริกาใช้ elevator อังกฤษใช้ lift คำว่า \"ลิฟต์\" ของไทยมาจากฝั่งอังกฤษ",
+      "distractors": [
+        "escalator",
+        "lift",
+        "elephant"
+      ],
+      "image": "words/elevator.webp"
+    },
+    {
+      "id": "fitting_room",
+      "word": "fitting room",
+      "pos": "noun",
+      "ipa": "/ˈfɪtɪŋ ruːm/",
+      "reading_th": "ฟิท-ติ้ง-รูม",
+      "meaning_th": "ห้องลองเสื้อ",
+      "emoji": "🚪",
+      "example_en": "Excuse me, where is the fitting room?",
+      "example_th": "ขอโทษครับ ห้องลองเสื้ออยู่ตรงไหน",
+      "cefr": "A2",
+      "note_th": "เรียกได้ทั้ง fitting room และ changing room ประโยคใช้บ่อย: Can I try this on? (ขอลองตัวนี้ได้ไหม)",
+      "distractors": [
+        "restroom",
+        "living room",
+        "meeting room"
+      ],
+      "image": "words/fitting_room.webp"
+    },
+    {
+      "id": "cashier",
+      "word": "cashier",
+      "pos": "noun",
+      "ipa": "/kæˈʃɪr/",
+      "reading_th": "แคช-เชียร์",
+      "meaning_th": "แคชเชียร์ / พนักงานเก็บเงิน",
+      "emoji": "🧑‍💼",
+      "example_en": "Please pay at the cashier over there.",
+      "example_th": "กรุณาจ่ายเงินที่แคชเชียร์ตรงโน้น",
+      "cefr": "A2",
+      "note_th": "เน้นเสียงพยางค์หลัง \"แคช-เชียร์\" และ cashier คือคน ส่วนจุดจ่ายเงินคือ checkout หรือ counter",
+      "distractors": [
+        "customer",
+        "cash",
+        "carrier"
+      ],
+      "image": "words/cashier.webp"
+    },
+    {
+      "id": "entrance",
+      "word": "entrance",
+      "pos": "noun",
+      "ipa": "/ˈentrəns/",
+      "reading_th": "เอน-เทรินซ์",
+      "meaning_th": "ทางเข้า",
+      "emoji": null,
+      "example_en": "I'll wait for you at the main entrance.",
+      "example_th": "ฉันจะรอเธอที่ทางเข้าหลัก",
+      "cefr": "A2",
+      "note_th": "entrance (ทางเข้า) ↔ exit (ทางออก) กริยาคือ enter (เข้า) และ main entrance = ทางเข้าหลัก",
+      "distractors": [
+        "exit",
+        "entry fee",
+        "elevator"
+      ]
+    },
+    {
+      "id": "food_court",
+      "word": "food court",
+      "pos": "noun",
+      "ipa": "/ˈfuːd kɔːrt/",
+      "reading_th": "ฟู้ด-คอร์ท",
+      "meaning_th": "ศูนย์อาหาร",
+      "emoji": "🍜",
+      "example_en": "The food court here has great Thai food.",
+      "example_th": "ศูนย์อาหารที่นี่มีอาหารไทยอร่อยๆ เพียบ",
+      "cefr": "A2",
+      "note_th": "court ในที่นี้ = ลานรวม ไม่ใช่ศาล และศูนย์อาหารแบบไทยที่ใช้บัตรเติมเงินฝรั่งก็เรียก food court เหมือนกัน",
+      "distractors": [
+        "restaurant",
+        "kitchen",
+        "food truck"
+      ],
+      "image": "words/food_court.webp"
+    },
+    {
+      "id": "parking",
+      "word": "parking",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrkɪŋ/",
+      "reading_th": "พาร์ค-กิ้ง",
+      "meaning_th": "ที่จอดรถ",
+      "emoji": "🅿️",
+      "example_en": "The mall has free parking for four hours.",
+      "example_th": "ห้างให้จอดรถฟรีสี่ชั่วโมง",
+      "cefr": "A2",
+      "note_th": "ที่จอดรถพูดเต็มๆ ว่า parking lot (อเมริกา) หรือ car park (อังกฤษ) ส่วน park เฉยๆ = สวนสาธารณะ",
+      "distractors": [
+        "park",
+        "garage",
+        "packing"
+      ],
+      "image": "words/parking.webp"
+    },
+    {
+      "id": "restroom",
+      "word": "restroom",
+      "pos": "noun",
+      "ipa": "/ˈrestruːm/",
+      "reading_th": "เรสท์-รูม",
+      "meaning_th": "ห้องน้ำ (ในที่สาธารณะ)",
+      "emoji": "🚻",
+      "example_en": "Is there a restroom on this floor?",
+      "example_th": "ชั้นนี้มีห้องน้ำไหมครับ",
+      "cefr": "A2",
+      "note_th": "ห้องน้ำในห้าง/ร้านอาหารใช้ restroom (สุภาพแบบอเมริกัน) หรือ toilet (อังกฤษ) ไม่ใช่ห้องไว้พักผ่อนนะ!",
+      "distractors": [
+        "bedroom",
+        "fitting room",
+        "rest area"
+      ],
+      "image": "words/restroom.webp"
+    },
+    {
+      "id": "open",
+      "word": "open",
+      "pos": "adjective",
+      "ipa": "/ˈoʊpən/",
+      "reading_th": "โอ-เพ่น",
+      "meaning_th": "เปิด (ทำการ)",
+      "emoji": null,
+      "example_en": "The shop is open from ten to nine.",
+      "example_th": "ร้านเปิดสิบโมงถึงสามทุ่ม",
+      "cefr": "A1",
+      "note_th": "ถามเวลาเปิดร้าน: What time do you open? ป้ายหน้าร้าน OPEN = เปิดอยู่ และ open เป็นกริยา (เปิด) ได้ด้วย",
+      "distractors": [
+        "closed",
+        "opened",
+        "oven"
+      ]
+    },
+    {
+      "id": "closed",
+      "word": "closed",
+      "pos": "adjective",
+      "ipa": "/kloʊzd/",
+      "reading_th": "โคลสด์",
+      "meaning_th": "ปิด (ทำการ)",
+      "emoji": null,
+      "example_en": "Oh no, the shop is closed on Mondays.",
+      "example_th": "แย่จัง ร้านปิดวันจันทร์",
+      "cefr": "A1",
+      "note_th": "ป้ายหน้าร้านใช้ CLOSED (มี -d) ไม่ใช่ close และ The shop is closed ไม่ใช่ The shop is close (close = ใกล้)",
+      "distractors": [
+        "open",
+        "close",
+        "closet"
+      ]
+    },
+    {
+      "id": "size",
+      "word": "size",
+      "pos": "noun",
+      "ipa": "/saɪz/",
+      "reading_th": "ไซส์",
+      "meaning_th": "ขนาด / ไซซ์",
+      "emoji": null,
+      "example_en": "What size do you wear?",
+      "example_th": "คุณใส่ไซซ์อะไรครับ",
+      "cefr": "A1",
+      "note_th": "ถามหาไซซ์อื่น: Do you have this in a bigger/smaller size? (มีตัวใหญ่/เล็กกว่านี้ไหม)",
+      "distractors": [
+        "side",
+        "prize",
+        "shape"
+      ]
+    },
+    {
+      "id": "small",
+      "word": "small",
+      "pos": "adjective",
+      "ipa": "/smɔːl/",
+      "reading_th": "สมอล",
+      "meaning_th": "เล็ก / ไซซ์ S",
+      "emoji": null,
+      "example_en": "This shirt is too small for me.",
+      "example_th": "เสื้อตัวนี้เล็กเกินไปสำหรับฉัน",
+      "cefr": "A1",
+      "note_th": "ไซซ์เสื้อ S-M-L ย่อจาก small-medium-large นั่นเอง",
+      "distractors": [
+        "little",
+        "short",
+        "smell"
+      ]
+    },
+    {
+      "id": "medium",
+      "word": "medium",
+      "pos": "adjective",
+      "ipa": "/ˈmiːdiəm/",
+      "reading_th": "มี-เดียม",
+      "meaning_th": "กลาง / ไซซ์ M",
+      "emoji": null,
+      "example_en": "I'll take a medium, please.",
+      "example_th": "ขอไซซ์กลางครับ",
+      "cefr": "A2",
+      "note_th": "medium ยังใช้กับความสุกของสเต๊ก (สุกปานกลาง) และขนาดแก้วเครื่องดื่มด้วย",
+      "distractors": [
+        "middle",
+        "medium rare",
+        "media"
+      ]
+    },
+    {
+      "id": "large",
+      "word": "large",
+      "pos": "adjective",
+      "ipa": "/lɑːrdʒ/",
+      "reading_th": "ลาร์จ",
+      "meaning_th": "ใหญ่ / ไซซ์ L",
+      "emoji": null,
+      "example_en": "Do you have this jacket in large?",
+      "example_th": "แจ็กเก็ตตัวนี้มีไซซ์ใหญ่ไหมครับ",
+      "cefr": "A1",
+      "note_th": "large เป็นทางการกว่า big นิดหน่อย ใช้กับไซซ์สินค้า/เครื่องดื่มเสมอ (a large coke ไม่ใช่ a big coke)",
+      "distractors": [
+        "big",
+        "long",
+        "huge"
+      ]
+    },
+    {
+      "id": "try_on",
+      "word": "try on",
+      "pos": "phrase",
+      "ipa": "/ˌtraɪ ˈɑːn/",
+      "reading_th": "ทราย-ออน",
+      "meaning_th": "ลอง (เสื้อผ้า/รองเท้า)",
+      "emoji": "👕",
+      "example_en": "Can I try on these jeans?",
+      "example_th": "ขอลองกางเกงยีนส์ตัวนี้ได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "try on ใช้กับการลองสวมเท่านั้น ถ้าลองชิมอาหารใช้ try เฉยๆ เช่น Try this soup!",
+      "distractors": [
+        "put on",
+        "turn on",
+        "try out"
+      ],
+      "image": "words/try_on.webp"
+    },
+    {
+      "id": "fit",
+      "word": "fit",
+      "pos": "verb",
+      "ipa": "/fɪt/",
+      "reading_th": "ฟิท",
+      "meaning_th": "พอดี (ขนาด)",
+      "emoji": null,
+      "example_en": "These shoes fit perfectly!",
+      "example_th": "รองเท้าคู่นี้พอดีเป๊ะเลย",
+      "cefr": "A2",
+      "note_th": "fit = พอดีตัว (ขนาด) ส่วน suit = เหมาะ/เข้ากับคุณ (สี สไตล์) เช่น It fits me แต่ The color suits you",
+      "distractors": [
+        "suit",
+        "match",
+        "fat"
+      ]
+    },
+    {
+      "id": "tight",
+      "word": "tight",
+      "pos": "adjective",
+      "ipa": "/taɪt/",
+      "reading_th": "ไทท์",
+      "meaning_th": "คับ / แน่น",
+      "emoji": "😬",
+      "example_en": "These pants are too tight around the waist.",
+      "example_th": "กางเกงตัวนี้คับตรงเอวเกินไป",
+      "cefr": "A2",
+      "note_th": "เสื้อผ้าคับ = tight ตรงข้ามกับ loose (หลวม) และ tight ยังแปลว่าตึง/แน่น เช่น hold tight (จับแน่นๆ)",
+      "distractors": [
+        "loose",
+        "light",
+        "tired"
+      ],
+      "image": "words/tight.webp"
+    },
+    {
+      "id": "loose",
+      "word": "loose",
+      "pos": "adjective",
+      "ipa": "/luːs/",
+      "reading_th": "ลูส",
+      "meaning_th": "หลวม",
+      "emoji": "😅",
+      "example_en": "I like wearing loose t-shirts in summer.",
+      "example_th": "หน้าร้อนฉันชอบใส่เสื้อยืดหลวมๆ",
+      "cefr": "A2",
+      "note_th": "ระวังสะกด: loose (หลวม ออกเสียง \"ลูส\") กับ lose (แพ้/ทำหาย ออกเสียง \"ลูซ\") คนไทยสับสนบ่อยมาก",
+      "distractors": [
+        "lose",
+        "tight",
+        "loss"
+      ],
+      "image": "words/loose.webp"
+    },
+    {
+      "id": "color",
+      "word": "color",
+      "pos": "noun",
+      "ipa": "/ˈkʌlər/",
+      "reading_th": "คัล-เลอร์",
+      "meaning_th": "สี",
+      "emoji": null,
+      "example_en": "Does this shirt come in other colors?",
+      "example_th": "เสื้อตัวนี้มีสีอื่นไหมครับ",
+      "cefr": "A1",
+      "note_th": "อเมริกาสะกด color อังกฤษสะกด colour ความหมายเดียวกัน ประโยคใช้บ่อย: Do you have this in black?",
+      "distractors": [
+        "colour",
+        "collar",
+        "cooler"
+      ]
+    },
+    {
+      "id": "style",
+      "word": "style",
+      "pos": "noun",
+      "ipa": "/staɪl/",
+      "reading_th": "สไตล์",
+      "meaning_th": "สไตล์ / แบบ",
+      "emoji": null,
+      "example_en": "This style looks really good on you.",
+      "example_th": "แบบนี้ใส่แล้วเข้ากับคุณมาก",
+      "cefr": "A2",
+      "note_th": "ชมว่าใส่แล้วสวย: It looks good on you! และ in style = กำลังฮิต / out of style = เชยแล้ว",
+      "distractors": [
+        "steel",
+        "smile",
+        "stale"
+      ]
+    },
+    {
+      "id": "brand",
+      "word": "brand",
+      "pos": "noun",
+      "ipa": "/brænd/",
+      "reading_th": "แบรนด์",
+      "meaning_th": "ยี่ห้อ / แบรนด์",
+      "emoji": null,
+      "example_en": "What brand of phone do you use?",
+      "example_th": "คุณใช้มือถือยี่ห้ออะไร",
+      "cefr": "A2",
+      "note_th": "ของแบรนด์เนม = brand-name products และ brand-new = ใหม่เอี่ยม (ไม่เกี่ยวกับยี่ห้อ)",
+      "distractors": [
+        "bread",
+        "band",
+        "brain"
+      ]
+    },
+    {
+      "id": "fashion",
+      "word": "fashion",
+      "pos": "noun",
+      "ipa": "/ˈfæʃən/",
+      "reading_th": "แฟ-ชั่น",
+      "meaning_th": "แฟชั่น",
+      "emoji": null,
+      "example_en": "She loves reading about Korean fashion.",
+      "example_th": "เธอชอบอ่านเรื่องแฟชั่นเกาหลี",
+      "cefr": "A2",
+      "note_th": "in fashion = กำลังฮิต / old-fashioned = เชย ล้าสมัย เช่น That style is old-fashioned now",
+      "distractors": [
+        "passion",
+        "fiction",
+        "function"
+      ]
+    },
+    {
+      "id": "mirror",
+      "word": "mirror",
+      "pos": "noun",
+      "ipa": "/ˈmɪrər/",
+      "reading_th": "มิ-เรอร์",
+      "meaning_th": "กระจกเงา",
+      "emoji": "🪞",
+      "example_en": "Look in the mirror — it fits you well!",
+      "example_th": "ลองส่องกระจกดูสิ ใส่แล้วพอดีเลย",
+      "cefr": "A2",
+      "note_th": "mirror = กระจกเงา (ส่องดูตัวเอง) ส่วนกระจกหน้าต่างคือ glass อย่าใช้สลับกัน",
+      "distractors": [
+        "glass",
+        "window",
+        "error"
+      ],
+      "image": "words/mirror.webp"
+    },
+    {
+      "id": "sweater",
+      "word": "sweater",
+      "pos": "noun",
+      "ipa": "/ˈswetər/",
+      "reading_th": "สเวท-เทอร์",
+      "meaning_th": "เสื้อกันหนาวไหมพรม / สเวตเตอร์",
+      "emoji": "🧶",
+      "example_en": "Buy a sweater before your trip to Japan.",
+      "example_th": "ซื้อสเวตเตอร์ก่อนไปเที่ยวญี่ปุ่นนะ",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"สเวท-เทอร์\" (มาจาก sweat = เหงื่อ) ไม่ใช่ \"สวีท-เตอร์\" อังกฤษเรียก jumper",
+      "distractors": [
+        "jacket",
+        "sweat",
+        "waiter"
+      ],
+      "image": "words/sweater.webp"
+    },
+    {
+      "id": "cost",
+      "word": "cost",
+      "pos": "verb",
+      "ipa": "/kɔːst/",
+      "reading_th": "คอสท์",
+      "meaning_th": "มีราคา / ราคา...บาท",
+      "emoji": null,
+      "example_en": "How much does this bag cost?",
+      "example_th": "กระเป๋าใบนี้ราคาเท่าไหร่",
+      "cefr": "A2",
+      "note_th": "How much does it cost? = How much is it? ใช้ได้ทั้งคู่ กริยาช่อง 2/3 คือ cost (ไม่เปลี่ยนรูป): It cost 500 baht yesterday",
+      "distractors": [
+        "price",
+        "coast",
+        "cause"
+      ]
+    },
+    {
+      "id": "afford",
+      "word": "afford",
+      "pos": "verb",
+      "ipa": "/əˈfɔːrd/",
+      "reading_th": "อะ-ฟอร์ด",
+      "meaning_th": "มีเงินพอซื้อ",
+      "emoji": null,
+      "example_en": "I can't afford this phone right now.",
+      "example_th": "ตอนนี้ฉันยังไม่มีเงินพอซื้อมือถือเครื่องนี้",
+      "cefr": "B1",
+      "note_th": "มักใช้กับ can/can't เสมอ: can afford (ซื้อไหว) / can't afford (ซื้อไม่ไหว) ตามด้วยคำนามหรือ to + กริยา",
+      "distractors": [
+        "offer",
+        "award",
+        "effort"
+      ]
+    },
+    {
+      "id": "budget",
+      "word": "budget",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪt/",
+      "reading_th": "บัด-เจ็ท",
+      "meaning_th": "งบประมาณ / งบ",
+      "emoji": null,
+      "example_en": "My budget for the new phone is 10,000 baht.",
+      "example_th": "งบซื้อมือถือใหม่ของฉันคือหนึ่งหมื่นบาท",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"บัด-เจ็ท\" และ on a budget = มีงบจำกัด เช่น travel on a budget (เที่ยวแบบประหยัด)",
+      "distractors": [
+        "wallet",
+        "gadget",
+        "basket"
+      ]
+    },
+    {
+      "id": "sale",
+      "word": "sale",
+      "pos": "noun",
+      "ipa": "/seɪl/",
+      "reading_th": "เซล",
+      "meaning_th": "การลดราคา / เซล",
+      "emoji": "🏷️",
+      "example_en": "The mall has a big sale this month.",
+      "example_th": "เดือนนี้ห้างจัดเซลใหญ่",
+      "cefr": "A1",
+      "note_th": "sale (เซล) ออกเสียงเหมือน sail (แล่นเรือ) และ for sale = ประกาศขาย ต่างจาก on sale = กำลังลดราคา",
+      "distractors": [
+        "sail",
+        "salt",
+        "seal"
+      ],
+      "image": "words/sale.webp"
+    },
+    {
+      "id": "on_sale",
+      "word": "on sale",
+      "pos": "phrase",
+      "ipa": "/ˌɑːn ˈseɪl/",
+      "reading_th": "ออน-เซล",
+      "meaning_th": "กำลังลดราคา",
+      "emoji": null,
+      "example_en": "These shoes are on sale — 50% off!",
+      "example_th": "รองเท้าพวกนี้กำลังลดราคา ลด 50%!",
+      "cefr": "A2",
+      "note_th": "on sale = ลดราคาอยู่ / for sale = มีไว้ขาย (ไม่จำเป็นต้องลด) และ 50% off = ลดครึ่งหนึ่ง",
+      "distractors": [
+        "for sale",
+        "sold out",
+        "on hold"
+      ]
+    },
+    {
+      "id": "promotion",
+      "word": "promotion",
+      "pos": "noun",
+      "ipa": "/prəˈmoʊʃən/",
+      "reading_th": "โพร-โม-ชั่น",
+      "meaning_th": "โปรโมชั่น",
+      "emoji": null,
+      "example_en": "This promotion ends on Sunday.",
+      "example_th": "โปรโมชั่นนี้หมดเขตวันอาทิตย์",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดสั้นๆ ว่า \"โปร\" แต่ภาษาอังกฤษต้องพูดเต็ม promotion และอีกความหมายคือการเลื่อนตำแหน่งงาน",
+      "distractors": [
+        "position",
+        "permission",
+        "pollution"
+      ]
+    },
+    {
+      "id": "special_offer",
+      "word": "special offer",
+      "pos": "noun",
+      "ipa": "/ˌspeʃəl ˈɔːfər/",
+      "reading_th": "สเป-เชี่ยล-ออฟ-เฟอร์",
+      "meaning_th": "ข้อเสนอพิเศษ",
+      "emoji": null,
+      "example_en": "We have a special offer for members today.",
+      "example_th": "วันนี้เรามีข้อเสนอพิเศษสำหรับสมาชิก",
+      "cefr": "B1",
+      "note_th": "offer เป็นกริยา = เสนอให้ เป็นคำนาม = ข้อเสนอ เช่น Can you offer a discount? (ลดให้หน่อยได้ไหม)",
+      "distractors": [
+        "special order",
+        "final offer",
+        "special officer"
+      ]
+    },
+    {
+      "id": "buy_one_get_one",
+      "word": "buy one get one free",
+      "pos": "phrase",
+      "ipa": "/ˌbaɪ wʌn ˌɡet wʌn ˈfriː/",
+      "reading_th": "บาย-วัน-เก็ท-วัน-ฟรี",
+      "meaning_th": "ซื้อ 1 แถม 1",
+      "emoji": null,
+      "example_en": "Milk is buy one get one free today!",
+      "example_th": "วันนี้นมซื้อ 1 แถม 1!",
+      "cefr": "B1",
+      "note_th": "ป้ายมักย่อว่า BOGO หรือ B1G1 เจอบ่อยมากในซูเปอร์ฯ และร้านสะดวกซื้อ",
+      "distractors": [
+        "half price",
+        "two for one",
+        "free gift"
+      ]
+    },
+    {
+      "id": "half_price",
+      "word": "half price",
+      "pos": "noun",
+      "ipa": "/ˌhæf ˈpraɪs/",
+      "reading_th": "ฮาฟ-ไพรซ์",
+      "meaning_th": "ครึ่งราคา",
+      "emoji": null,
+      "example_en": "Everything is half price after 8 PM.",
+      "example_th": "หลังสองทุ่มทุกอย่างครึ่งราคา",
+      "cefr": "A2",
+      "note_th": "half price = 50% off ตัว l ใน half ไม่ออกเสียง อ่านว่า \"ฮาฟ\"",
+      "distractors": [
+        "full price",
+        "high price",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "bargain",
+      "word": "bargain",
+      "pos": "verb",
+      "ipa": "/ˈbɑːrɡən/",
+      "reading_th": "บาร์-เกิ้น",
+      "meaning_th": "ต่อราคา / ต่อรอง",
+      "emoji": "🤝",
+      "example_en": "You can bargain at the weekend market.",
+      "example_th": "ที่ตลาดนัดสุดสัปดาห์ต่อราคาได้",
+      "cefr": "B1",
+      "note_th": "ประโยคต่อราคาสุภาพ: Can you lower the price? / Is this your best price? และ bargain เป็นคำนาม = ของถูกคุ้มค่า (What a bargain!)",
+      "distractors": [
+        "burden",
+        "began",
+        "borrow"
+      ],
+      "image": "words/bargain.webp"
+    },
+    {
+      "id": "wallet",
+      "word": "wallet",
+      "pos": "noun",
+      "ipa": "/ˈwɑːlɪt/",
+      "reading_th": "วอล-เล็ท",
+      "meaning_th": "กระเป๋าสตางค์",
+      "emoji": "👛",
+      "example_en": "Oh no, I left my wallet at home!",
+      "example_th": "แย่แล้ว ฉันลืมกระเป๋าตังค์ไว้ที่บ้าน!",
+      "cefr": "A2",
+      "note_th": "wallet = กระเป๋าตังค์ใบแบน (เดิมของผู้ชาย) / purse = กระเป๋าตังค์ผู้หญิงหรือกระเป๋าถือเล็ก และ e-wallet = กระเป๋าเงินดิจิทัล",
+      "distractors": [
+        "purse",
+        "pocket",
+        "wall"
+      ],
+      "image": "words/wallet.webp"
+    },
+    {
+      "id": "coin",
+      "word": "coin",
+      "pos": "noun",
+      "ipa": "/kɔɪn/",
+      "reading_th": "คอยน์",
+      "meaning_th": "เหรียญ",
+      "emoji": "🪙",
+      "example_en": "I need coins for the shopping cart.",
+      "example_th": "ฉันต้องใช้เหรียญหยอดรถเข็น",
+      "cefr": "A2",
+      "note_th": "เหรียญสิบ = a ten-baht coin ส่วนแบงก์/ธนบัตรคือ banknote หรือ bill",
+      "distractors": [
+        "corn",
+        "banknote",
+        "join"
+      ],
+      "image": "words/coin.webp"
+    },
+    {
+      "id": "banknote",
+      "word": "banknote",
+      "pos": "noun",
+      "ipa": "/ˈbæŋknoʊt/",
+      "reading_th": "แบงค์-โนท",
+      "meaning_th": "ธนบัตร / แบงก์",
+      "emoji": null,
+      "example_en": "The taxi driver has no change for big banknotes.",
+      "example_th": "คนขับแท็กซี่ไม่มีเงินทอนสำหรับแบงก์ใหญ่",
+      "cefr": "B1",
+      "note_th": "ที่คนไทยเรียก \"แบงก์ร้อย แบงก์พัน\" ภาษาอังกฤษคือ banknote หรือ bill (อเมริกัน) เช่น a 100-baht note",
+      "distractors": [
+        "bank",
+        "notebook",
+        "coin"
+      ]
+    },
+    {
+      "id": "purse",
+      "word": "purse",
+      "pos": "noun",
+      "ipa": "/pɜːrs/",
+      "reading_th": "เพิร์ส",
+      "meaning_th": "กระเป๋าถือเล็ก / กระเป๋าตังค์ผู้หญิง",
+      "emoji": "👜",
+      "example_en": "Her purse matches her shoes perfectly.",
+      "example_th": "กระเป๋าถือของเธอเข้ากับรองเท้าเป๊ะ",
+      "cefr": "B1",
+      "note_th": "อเมริกา: purse = กระเป๋าถือผู้หญิง / อังกฤษ: purse = กระเป๋าใส่เหรียญ ส่วนกระเป๋าถือใบใหญ่คือ handbag",
+      "distractors": [
+        "wallet",
+        "nurse",
+        "pause"
+      ],
+      "image": "words/purse.webp"
+    },
+    {
+      "id": "supermarket",
+      "word": "supermarket",
+      "pos": "noun",
+      "ipa": "/ˈsuːpərmɑːrkɪt/",
+      "reading_th": "ซู-เปอร์-มาร์-เก็ต",
+      "meaning_th": "ซูเปอร์มาร์เก็ต",
+      "emoji": "🏪",
+      "example_en": "I go to the supermarket every Sunday.",
+      "example_th": "ฉันไปซูเปอร์มาร์เก็ตทุกวันอาทิตย์",
+      "cefr": "A1",
+      "note_th": "ร้านสะดวกซื้อแบบเซเว่นคือ convenience store ไม่ใช่ supermarket (ซึ่งใหญ่กว่า ขายของสด)",
+      "distractors": [
+        "convenience store",
+        "market",
+        "superman"
+      ],
+      "image": "words/supermarket.webp"
+    },
+    {
+      "id": "cart",
+      "word": "cart",
+      "pos": "noun",
+      "ipa": "/kɑːrt/",
+      "reading_th": "คาร์ท",
+      "meaning_th": "รถเข็น (ซื้อของ)",
+      "emoji": "🛒",
+      "example_en": "Our cart is full of snacks again.",
+      "example_th": "รถเข็นของเราเต็มไปด้วยขนมอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "อเมริกาใช้ (shopping) cart อังกฤษใช้ trolley และปุ่ม \"หยิบใส่ตะกร้า\" ในแอปช้อปปิ้งคือ Add to cart",
+      "distractors": [
+        "card",
+        "trolley",
+        "car"
+      ],
+      "image": "words/cart.webp"
+    },
+    {
+      "id": "basket",
+      "word": "basket",
+      "pos": "noun",
+      "ipa": "/ˈbæskɪt/",
+      "reading_th": "บาส-เก็ต",
+      "meaning_th": "ตะกร้า",
+      "emoji": "🧺",
+      "example_en": "Just grab a basket, we only need milk and eggs.",
+      "example_th": "หยิบตะกร้าพอ เราซื้อแค่นมกับไข่",
+      "cefr": "A2",
+      "note_th": "basket = ตะกร้าหิ้ว / cart = รถเข็น และ basketball ก็มาจากคำนี้ (ลูกบอลลงตะกร้า)",
+      "distractors": [
+        "bucket",
+        "biscuit",
+        "cart"
+      ],
+      "image": "words/basket.webp"
+    },
+    {
+      "id": "shelf",
+      "word": "shelf",
+      "pos": "noun",
+      "ipa": "/ʃelf/",
+      "reading_th": "เชลฟ์",
+      "meaning_th": "ชั้นวางของ",
+      "emoji": "🗄️",
+      "example_en": "The instant noodles are on the bottom shelf.",
+      "example_th": "มาม่าอยู่ชั้นวางล่างสุด",
+      "cefr": "A2",
+      "note_th": "พหูพจน์คือ shelves (เปลี่ยน f เป็น v) เหมือน knife→knives และ on the shelf = อยู่บนชั้น",
+      "distractors": [
+        "shell",
+        "self",
+        "shelves"
+      ],
+      "image": "words/shelf.webp"
+    },
+    {
+      "id": "aisle",
+      "word": "aisle",
+      "pos": "noun",
+      "ipa": "/aɪl/",
+      "reading_th": "ไอล์",
+      "meaning_th": "ช่องทางเดิน (ระหว่างชั้นวาง)",
+      "emoji": null,
+      "example_en": "The shampoo is in aisle five.",
+      "example_th": "แชมพูอยู่ช่องทางเดินที่ห้า",
+      "cefr": "B1",
+      "note_th": "ตัว s ไม่ออกเสียง อ่านว่า \"ไอล์\" เหมือน I'll — คำเดียวกับ aisle seat (ที่นั่งริมทางเดิน) บนเครื่องบิน",
+      "distractors": [
+        "isle",
+        "row",
+        "ice"
+      ]
+    },
+    {
+      "id": "checkout",
+      "word": "checkout",
+      "pos": "noun",
+      "ipa": "/ˈtʃekaʊt/",
+      "reading_th": "เช็ค-เอาท์",
+      "meaning_th": "จุดชำระเงิน / เช็คเอาท์",
+      "emoji": null,
+      "example_en": "The checkout line is really long today.",
+      "example_th": "วันนี้แถวจ่ายเงินยาวมาก",
+      "cefr": "A2",
+      "note_th": "checkout ในซูเปอร์ฯ = จุดจ่ายเงิน / ในเว็บช้อปปิ้ง = หน้าชำระเงิน / ในโรงแรม = การคืนห้อง คำเดียวสามบริบท!",
+      "distractors": [
+        "check-in",
+        "checklist",
+        "cashier"
+      ]
+    },
+    {
+      "id": "barcode",
+      "word": "barcode",
+      "pos": "noun",
+      "ipa": "/ˈbɑːrkoʊd/",
+      "reading_th": "บาร์-โค้ด",
+      "meaning_th": "บาร์โค้ด",
+      "emoji": null,
+      "example_en": "The cashier scans the barcode on each item.",
+      "example_th": "แคชเชียร์สแกนบาร์โค้ดสินค้าทีละชิ้น",
+      "cefr": "B1",
+      "note_th": "bar (แท่ง) + code (รหัส) = รหัสแท่ง ส่วนโค้ดสี่เหลี่ยมที่สแกนจ่ายเงินคือ QR code",
+      "distractors": [
+        "QR code",
+        "password",
+        "postcode"
+      ]
+    },
+    {
+      "id": "plastic_bag",
+      "word": "plastic bag",
+      "pos": "noun",
+      "ipa": "/ˌplæstɪk ˈbæɡ/",
+      "reading_th": "พลาส-ติก-แบ็ก",
+      "meaning_th": "ถุงพลาสติก",
+      "emoji": "🛍️",
+      "example_en": "No plastic bag, please. I have my own bag.",
+      "example_th": "ไม่รับถุงพลาสติกครับ ผมมีถุงมาเอง",
+      "cefr": "A2",
+      "note_th": "ถุงผ้า = cloth bag / reusable bag ประโยครักษ์โลกที่ใช้บ่อย: I don't need a bag, thanks",
+      "distractors": [
+        "paper bag",
+        "handbag",
+        "backpack"
+      ],
+      "image": "words/plastic_bag.webp"
+    },
+    {
+      "id": "frozen",
+      "word": "frozen",
+      "pos": "adjective",
+      "ipa": "/ˈfroʊzən/",
+      "reading_th": "โฟร-เซ่น",
+      "meaning_th": "แช่แข็ง",
+      "emoji": "❄️",
+      "example_en": "Frozen food is cheap and easy to cook.",
+      "example_th": "อาหารแช่แข็งทั้งถูกทั้งทำง่าย",
+      "cefr": "A2",
+      "note_th": "frozen food = อาหารแช่แข็ง มาจากกริยา freeze (แช่แข็ง) ช่อง 2/3: froze/frozen — ใช่ เหมือนชื่อหนัง Frozen เลย",
+      "distractors": [
+        "fresh",
+        "freeze",
+        "chosen"
+      ],
+      "image": "words/frozen.webp"
+    },
+    {
+      "id": "expiry_date",
+      "word": "expiry date",
+      "pos": "noun",
+      "ipa": "/ɪkˈspaɪri deɪt/",
+      "reading_th": "เอ็ค-สไป-รี่-เดท",
+      "meaning_th": "วันหมดอายุ",
+      "emoji": null,
+      "example_en": "Always check the expiry date before buying milk.",
+      "example_th": "ซื้อนมทุกครั้งต้องดูวันหมดอายุ",
+      "cefr": "B1",
+      "note_th": "บนฉลากมักเขียน EXP หรือ Best before (ควรบริโภคก่อน) ส่วนอเมริกาใช้ expiration date",
+      "distractors": [
+        "delivery date",
+        "birth date",
+        "due date"
+      ]
+    },
+    {
+      "id": "fresh_market",
+      "word": "fresh market",
+      "pos": "noun",
+      "ipa": "/ˌfreʃ ˈmɑːrkɪt/",
+      "reading_th": "เฟรช-มาร์-เก็ต",
+      "meaning_th": "ตลาดสด",
+      "emoji": null,
+      "example_en": "Mom buys vegetables at the fresh market every morning.",
+      "example_th": "แม่ซื้อผักที่ตลาดสดทุกเช้า",
+      "cefr": "A2",
+      "note_th": "ตลาดสดแบบไทยเรียก fresh market หรือ wet market ส่วนตลาดนัดคือ flea market / weekend market",
+      "distractors": [
+        "supermarket",
+        "night market",
+        "stock market"
+      ]
+    },
+    {
+      "id": "instant_noodles",
+      "word": "instant noodles",
+      "pos": "noun",
+      "ipa": "/ˌɪnstənt ˈnuːdəlz/",
+      "reading_th": "อิน-สแตนท์-นู้-เดิ้ลส์",
+      "meaning_th": "บะหมี่กึ่งสำเร็จรูป / มาม่า",
+      "emoji": "🍜",
+      "example_en": "Students survive on instant noodles at the end of the month.",
+      "example_th": "สิ้นเดือนนักศึกษาอยู่ได้ด้วยมาม่า",
+      "cefr": "A2",
+      "note_th": "\"มาม่า\" เป็นชื่อยี่ห้อที่คนไทยใช้เรียกรวม ภาษาอังกฤษต้องพูด instant noodles และ instant = สำเร็จรูป/ทันที เช่น instant coffee",
+      "distractors": [
+        "fresh noodles",
+        "fried noodles",
+        "pasta"
+      ],
+      "image": "words/instant_noodles.webp"
+    },
+    {
+      "id": "shampoo",
+      "word": "shampoo",
+      "pos": "noun",
+      "ipa": "/ʃæmˈpuː/",
+      "reading_th": "แชม-พู",
+      "meaning_th": "แชมพู / ยาสระผม",
+      "emoji": "🧴",
+      "example_en": "This shampoo smells like coconut.",
+      "example_th": "แชมพูตัวนี้กลิ่นเหมือนมะพร้าว",
+      "cefr": "A2",
+      "note_th": "เน้นเสียงพยางค์หลัง \"แชม-พู\" ส่วนครีมนวดผมคือ conditioner",
+      "distractors": [
+        "conditioner",
+        "soap",
+        "shape"
+      ],
+      "image": "words/shampoo.webp"
+    },
+    {
+      "id": "soap",
+      "word": "soap",
+      "pos": "noun",
+      "ipa": "/soʊp/",
+      "reading_th": "โซพ",
+      "meaning_th": "สบู่",
+      "emoji": "🧼",
+      "example_en": "Wash your hands with soap and water.",
+      "example_th": "ล้างมือด้วยสบู่และน้ำ",
+      "cefr": "A1",
+      "note_th": "soap (สบู่ \"โซพ\") กับ soup (ซุป \"ซุพ\") สะกดต่างแค่ตัวเดียว ระวังหยิบผิด! และละครน้ำเน่าเรียก soap opera",
+      "distractors": [
+        "soup",
+        "shampoo",
+        "soda"
+      ],
+      "image": "words/soap.webp"
+    },
+    {
+      "id": "mobile_phone",
+      "word": "mobile phone",
+      "pos": "noun",
+      "ipa": "/ˌmoʊbəl ˈfoʊn/",
+      "reading_th": "โม-บาย-โฟน",
+      "meaning_th": "โทรศัพท์มือถือ",
+      "emoji": "📱",
+      "example_en": "My mobile phone is three years old already.",
+      "example_th": "มือถือของฉันใช้มาสามปีแล้ว",
+      "cefr": "A1",
+      "note_th": "อังกฤษใช้ mobile phone อเมริกาใช้ cell phone พูดสั้นๆ ว่า phone ก็พอ ทุกคนเข้าใจ",
+      "distractors": [
+        "telephone",
+        "microphone",
+        "headphone"
+      ],
+      "image": "words/mobile_phone.webp"
+    },
+    {
+      "id": "charger",
+      "word": "charger",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːrdʒər/",
+      "reading_th": "ชาร์-เจอร์",
+      "meaning_th": "สายชาร์จ / ที่ชาร์จ",
+      "emoji": "🔌",
+      "example_en": "Can I borrow your charger for a minute?",
+      "example_th": "ขอยืมสายชาร์จแป๊บนึงได้ไหม",
+      "cefr": "A2",
+      "note_th": "กริยาคือ charge (ชาร์จไฟ) เช่น I need to charge my phone (ต้องชาร์จมือถือ) และ charge ยังแปลว่าคิดเงินได้ด้วย",
+      "distractors": [
+        "charge",
+        "cable",
+        "changer"
+      ],
+      "image": "words/charger.webp"
+    },
+    {
+      "id": "battery",
+      "word": "battery",
+      "pos": "noun",
+      "ipa": "/ˈbætəri/",
+      "reading_th": "แบท-เทอ-รี่",
+      "meaning_th": "แบตเตอรี่",
+      "emoji": "🔋",
+      "example_en": "My battery is at five percent!",
+      "example_th": "แบตเหลือห้าเปอร์เซ็นต์แล้ว!",
+      "cefr": "A2",
+      "note_th": "แบตหมด = The battery is dead / แบตใกล้หมด = low battery คนไทยพูด \"แบตหมด\" ฝรั่งไม่พูด battery finished",
+      "distractors": [
+        "butter",
+        "bakery",
+        "charger"
+      ],
+      "image": "words/battery.webp"
+    },
+    {
+      "id": "power_bank",
+      "word": "power bank",
+      "pos": "noun",
+      "ipa": "/ˈpaʊər bæŋk/",
+      "reading_th": "พาว-เวอร์-แบงค์",
+      "meaning_th": "พาวเวอร์แบงก์ / แบตสำรอง",
+      "emoji": "🪫",
+      "example_en": "Bring a power bank for the long trip.",
+      "example_th": "พกพาวเวอร์แบงก์ไปด้วย เดินทางไกล",
+      "cefr": "A2",
+      "note_th": "power bank เป็นคำที่ใช้ทั่วเอเชีย ฝรั่งบางคนเรียก portable charger ก็อย่างเดียวกัน",
+      "distractors": [
+        "power plant",
+        "bank",
+        "battery"
+      ],
+      "image": "words/power_bank.webp"
+    },
+    {
+      "id": "warranty",
+      "word": "warranty",
+      "pos": "noun",
+      "ipa": "/ˈwɔːrənti/",
+      "reading_th": "วอ-เริน-ตี้",
+      "meaning_th": "การรับประกัน",
+      "emoji": null,
+      "example_en": "This phone has a one-year warranty.",
+      "example_th": "มือถือเครื่องนี้รับประกันหนึ่งปี",
+      "cefr": "B1",
+      "note_th": "ถามก่อนซื้อ: Does it come with a warranty? (มีประกันไหม) และ under warranty = ยังอยู่ในประกัน",
+      "distractors": [
+        "guarantee",
+        "warrior",
+        "warning"
+      ]
+    },
+    {
+      "id": "model",
+      "word": "model",
+      "pos": "noun",
+      "ipa": "/ˈmɑːdəl/",
+      "reading_th": "มา-เดิ้ล",
+      "meaning_th": "รุ่น (สินค้า)",
+      "emoji": null,
+      "example_en": "Is this the latest model?",
+      "example_th": "นี่รุ่นล่าสุดหรือเปล่าครับ",
+      "cefr": "A2",
+      "note_th": "the latest model = รุ่นล่าสุด / an older model = รุ่นเก่า และ model ยังแปลว่านายแบบ/นางแบบได้ด้วย",
+      "distractors": [
+        "medal",
+        "module",
+        "mode"
+      ]
+    },
+    {
+      "id": "screen",
+      "word": "screen",
+      "pos": "noun",
+      "ipa": "/skriːn/",
+      "reading_th": "สกรีน",
+      "meaning_th": "หน้าจอ",
+      "emoji": null,
+      "example_en": "I dropped my phone and cracked the screen.",
+      "example_th": "ฉันทำมือถือตกจอแตกเลย",
+      "cefr": "A2",
+      "note_th": "จอแตก = cracked screen / ฟิล์มกันรอย = screen protector / จับภาพหน้าจอ = screenshot",
+      "distractors": [
+        "scene",
+        "screen protector",
+        "cream"
+      ]
+    },
+    {
+      "id": "memory",
+      "word": "memory",
+      "pos": "noun",
+      "ipa": "/ˈmeməri/",
+      "reading_th": "เมม-เมอ-รี่",
+      "meaning_th": "หน่วยความจำ / เมมโมรี่",
+      "emoji": "💾",
+      "example_en": "My phone is out of memory again.",
+      "example_th": "มือถือฉันเมมเต็มอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "out of memory / full memory = ความจำเต็ม และ memory ยังแปลว่าความทรงจำ เช่น good memories (ความทรงจำดีๆ)",
+      "distractors": [
+        "member",
+        "battery",
+        "history"
+      ],
+      "image": "words/memory.webp"
+    },
+    {
+      "id": "wireless",
+      "word": "wireless",
+      "pos": "adjective",
+      "ipa": "/ˈwaɪərləs/",
+      "reading_th": "ไว-เออร์-เลส",
+      "meaning_th": "ไร้สาย",
+      "emoji": null,
+      "example_en": "These wireless earbuds sound great.",
+      "example_th": "หูฟังไร้สายคู่นี้เสียงดีมาก",
+      "cefr": "B1",
+      "note_th": "wire (สาย) + less (ไร้) = ไร้สาย เช่น wireless charger (แท่นชาร์จไร้สาย) ส่วน Wi-Fi ก็คือ wireless internet",
+      "distractors": [
+        "worthless",
+        "wired",
+        "useless"
+      ]
+    },
+    {
+      "id": "gadget",
+      "word": "gadget",
+      "pos": "noun",
+      "ipa": "/ˈɡædʒɪt/",
+      "reading_th": "แกด-เจ็ท",
+      "meaning_th": "แกดเจ็ต / อุปกรณ์ไอทีชิ้นเล็ก",
+      "emoji": null,
+      "example_en": "He spends all his money on new gadgets.",
+      "example_th": "เขาหมดเงินไปกับแกดเจ็ตใหม่ๆ ตลอด",
+      "cefr": "B1",
+      "note_th": "gadget = ของเล่นไฮเทคชิ้นเล็กๆ (หูฟัง นาฬิกา ลำโพง) ออกเสียง \"แกด-เจ็ท\"",
+      "distractors": [
+        "budget",
+        "garage",
+        "gate"
+      ]
+    },
+    {
+      "id": "accessory",
+      "word": "accessory",
+      "pos": "noun",
+      "ipa": "/əkˈsesəri/",
+      "reading_th": "แอ็ค-เซส-เซอ-รี่",
+      "meaning_th": "อุปกรณ์เสริม",
+      "emoji": null,
+      "example_en": "This shop sells phone accessories.",
+      "example_th": "ร้านนี้ขายอุปกรณ์เสริมมือถือ",
+      "cefr": "B1",
+      "note_th": "มักใช้พหูพจน์ accessories ครอบคลุมทั้งเคส สายชาร์จ หูฟัง รวมถึงเครื่องประดับแฟชั่นด้วย",
+      "distractors": [
+        "necessary",
+        "success",
+        "battery"
+      ]
+    },
+    {
+      "id": "phone_case",
+      "word": "phone case",
+      "pos": "noun",
+      "ipa": "/ˈfoʊn keɪs/",
+      "reading_th": "โฟน-เคส",
+      "meaning_th": "เคสมือถือ",
+      "emoji": "📱",
+      "example_en": "I want a clear phone case for my new phone.",
+      "example_th": "อยากได้เคสใสสำหรับมือถือเครื่องใหม่",
+      "cefr": "A2",
+      "note_th": "เคสใส = clear case / กันกระแทก = shockproof case คำว่า case แปลว่ากล่อง/ซองใส่ของ",
+      "distractors": [
+        "suitcase",
+        "phone call",
+        "screen"
+      ],
+      "image": "words/phone_case.webp"
+    },
+    {
+      "id": "earbuds",
+      "word": "earbuds",
+      "pos": "noun",
+      "ipa": "/ˈɪrbʌdz/",
+      "reading_th": "เอียร์-บัดส์",
+      "meaning_th": "หูฟังไร้สายแบบใส่ในหู",
+      "emoji": "🎧",
+      "example_en": "I lost one of my earbuds on the bus.",
+      "example_th": "หูฟังฉันหายไปข้างนึงบนรถเมล์",
+      "cefr": "B1",
+      "note_th": "earbuds = หูฟังเล็กใส่ในหู (แบบ AirPods) / headphones = หูฟังครอบหู ใช้พหูพจน์เสมอเพราะมาเป็นคู่",
+      "distractors": [
+        "headphones",
+        "earrings",
+        "earplugs"
+      ],
+      "image": "words/earbuds.webp"
+    },
+    {
+      "id": "smartwatch",
+      "word": "smartwatch",
+      "pos": "noun",
+      "ipa": "/ˈsmɑːrtwɑːtʃ/",
+      "reading_th": "สมาร์ท-วอทช์",
+      "meaning_th": "นาฬิกาอัจฉริยะ / สมาร์ทวอทช์",
+      "emoji": "⌚",
+      "example_en": "Her smartwatch counts her steps every day.",
+      "example_th": "สมาร์ทวอทช์ของเธอนับก้าวเดินทุกวัน",
+      "cefr": "A2",
+      "note_th": "smart + watch = นาฬิกาฉลาด เหมือน smartphone และ watch เป็นกริยาแปลว่า \"ดู\" ด้วย ระวังบริบท",
+      "distractors": [
+        "smartphone",
+        "stopwatch",
+        "wristband"
+      ],
+      "image": "words/smartwatch.webp"
+    },
+    {
+      "id": "refund",
+      "word": "refund",
+      "pos": "noun",
+      "ipa": "/ˈriːfʌnd/",
+      "reading_th": "รี-ฟันด์",
+      "meaning_th": "การคืนเงิน",
+      "emoji": "💸",
+      "example_en": "Can I get a refund for this broken speaker?",
+      "example_th": "ลำโพงเสียแบบนี้ขอคืนเงินได้ไหมครับ",
+      "cefr": "B1",
+      "note_th": "ขอคืนเงิน: Can I get a refund? / I'd like a refund, please ต้องมีใบเสร็จ (receipt) เกือบทุกกรณี",
+      "distractors": [
+        "reward",
+        "refill",
+        "fund"
+      ],
+      "image": "words/refund.webp"
+    },
+    {
+      "id": "exchange",
+      "word": "exchange",
+      "pos": "verb",
+      "ipa": "/ɪksˈtʃeɪndʒ/",
+      "reading_th": "อิคซ์-เชนจ์",
+      "meaning_th": "เปลี่ยนสินค้า / แลกเปลี่ยน",
+      "emoji": null,
+      "example_en": "Can I exchange this shirt for a bigger size?",
+      "example_th": "ขอเปลี่ยนเสื้อตัวนี้เป็นไซซ์ใหญ่กว่าได้ไหม",
+      "cefr": "B1",
+      "note_th": "exchange = เปลี่ยนเป็นชิ้นอื่น (ได้ของ) / refund = คืนเงิน (ได้เงิน) ร้านมักถามว่า Exchange or refund?",
+      "distractors": [
+        "change",
+        "refund",
+        "charge"
+      ]
+    },
+    {
+      "id": "return",
+      "word": "return",
+      "pos": "verb",
+      "ipa": "/rɪˈtɜːrn/",
+      "reading_th": "รี-เทิร์น",
+      "meaning_th": "คืนสินค้า",
+      "emoji": null,
+      "example_en": "You can return it within seven days.",
+      "example_th": "คืนสินค้าได้ภายในเจ็ดวัน",
+      "cefr": "A2",
+      "note_th": "return policy = นโยบายคืนสินค้า และ return ยังแปลว่ากลับ (return home) หรือตั๋วไปกลับ (return ticket) ได้ด้วย",
+      "distractors": [
+        "refund",
+        "turn",
+        "retry"
+      ]
+    },
+    {
+      "id": "installment",
+      "word": "installment",
+      "pos": "noun",
+      "ipa": "/ɪnˈstɔːlmənt/",
+      "reading_th": "อิน-สตอล-เมินท์",
+      "meaning_th": "การผ่อนชำระ / งวด",
+      "emoji": null,
+      "example_en": "I'm paying for my phone in ten installments.",
+      "example_th": "ฉันผ่อนมือถือสิบงวด",
+      "cefr": "B1",
+      "note_th": "ผ่อน 0% สิบเดือน = ten-month installment plan at 0% interest คำถามที่ได้ยินบ่อย: Full payment or installments?",
+      "distractors": [
+        "installation",
+        "instant",
+        "investment"
+      ]
+    },
+    {
+      "id": "debit_card",
+      "word": "debit card",
+      "pos": "noun",
+      "ipa": "/ˈdebɪt kɑːrd/",
+      "reading_th": "เด-บิท-การ์ด",
+      "meaning_th": "บัตรเดบิต",
+      "emoji": null,
+      "example_en": "I pay with my debit card, not credit.",
+      "example_th": "ฉันจ่ายด้วยบัตรเดบิต ไม่ใช้เครดิต",
+      "cefr": "B1",
+      "note_th": "debit card ตัดเงินจากบัญชีทันที / credit card ใช้ก่อนจ่ายทีหลัง ออกเสียง \"เด-บิท\" ไม่ใช่ \"ดี-บิต\"",
+      "distractors": [
+        "credit card",
+        "member card",
+        "SIM card"
+      ]
+    },
+    {
+      "id": "mobile_banking",
+      "word": "mobile banking",
+      "pos": "noun",
+      "ipa": "/ˌmoʊbəl ˈbæŋkɪŋ/",
+      "reading_th": "โม-บาย-แบงค์-กิ้ง",
+      "meaning_th": "โมบายแบงก์กิ้ง / ธนาคารบนมือถือ",
+      "emoji": null,
+      "example_en": "I'll transfer the money by mobile banking.",
+      "example_th": "เดี๋ยวฉันโอนเงินผ่านแอปธนาคารให้",
+      "cefr": "B1",
+      "note_th": "โอนเงิน = transfer money และ \"สแกนจ่าย\" ที่คนไทยใช้ทุกวันฝรั่งเรียก pay by QR code",
+      "distractors": [
+        "internet cafe",
+        "mobile phone",
+        "piggy bank"
+      ]
+    },
+    {
+      "id": "qr_code",
+      "word": "QR code",
+      "pos": "noun",
+      "ipa": "/ˌkjuː ˈɑːr koʊd/",
+      "reading_th": "คิว-อาร์-โค้ด",
+      "meaning_th": "คิวอาร์โค้ด",
+      "emoji": "🔳",
+      "example_en": "Scan the QR code to pay.",
+      "example_th": "สแกนคิวอาร์โค้ดเพื่อจ่ายเงิน",
+      "cefr": "A2",
+      "note_th": "QR ย่อจาก Quick Response (ตอบสนองเร็ว) เมืองไทยใช้จ่ายเงินทุกที่ แต่บางประเทศยังนิยมบัตรมากกว่า",
+      "distractors": [
+        "barcode",
+        "password",
+        "PIN code"
+      ],
+      "image": "words/qr_code.webp"
+    },
+    {
+      "id": "scan",
+      "word": "scan",
+      "pos": "verb",
+      "ipa": "/skæn/",
+      "reading_th": "สแกน",
+      "meaning_th": "สแกน",
+      "emoji": "📲",
+      "example_en": "Just scan and pay — so easy!",
+      "example_th": "แค่สแกนก็จ่ายได้ ง่ายมาก!",
+      "cefr": "A2",
+      "note_th": "scan ใช้ได้ทั้งสแกนจ่ายเงิน สแกนเอกสาร และสแกนนิ้ว (fingerprint scan)",
+      "distractors": [
+        "scam",
+        "skin",
+        "sign"
+      ],
+      "image": "words/scan.webp"
+    },
+    {
+      "id": "member_card",
+      "word": "member card",
+      "pos": "noun",
+      "ipa": "/ˈmembər kɑːrd/",
+      "reading_th": "เมม-เบอร์-การ์ด",
+      "meaning_th": "บัตรสมาชิก",
+      "emoji": null,
+      "example_en": "Do you have a member card with us?",
+      "example_th": "มีบัตรสมาชิกกับทางร้านไหมคะ",
+      "cefr": "A2",
+      "note_th": "พนักงานถามบ่อยมาก: Do you have a member card? ตอบ No, thanks ได้เลยถ้าไม่มี/ไม่อยากสมัคร",
+      "distractors": [
+        "credit card",
+        "name card",
+        "post card"
+      ]
+    },
+    {
+      "id": "points",
+      "word": "points",
+      "pos": "noun",
+      "ipa": "/pɔɪnts/",
+      "reading_th": "พอยท์ส",
+      "meaning_th": "แต้มสะสม / คะแนน",
+      "emoji": null,
+      "example_en": "You can use your points for a discount.",
+      "example_th": "ใช้แต้มสะสมแลกส่วนลดได้",
+      "cefr": "A2",
+      "note_th": "สะสมแต้ม = collect/earn points, แลกแต้ม = redeem points เจอทุกร้านตั้งแต่เซเว่นถึงห้างใหญ่",
+      "distractors": [
+        "prints",
+        "paint",
+        "pounds"
+      ]
+    },
+    {
+      "id": "voucher",
+      "word": "voucher",
+      "pos": "noun",
+      "ipa": "/ˈvaʊtʃər/",
+      "reading_th": "เวา-เชอร์",
+      "meaning_th": "บัตรกำนัล / เวาเชอร์",
+      "emoji": "🎟️",
+      "example_en": "I got a 100-baht voucher for my next purchase.",
+      "example_th": "ฉันได้เวาเชอร์ 100 บาทไว้ใช้ครั้งหน้า",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"เวา-เชอร์\" gift voucher = บัตรของขวัญ ส่วน coupon เป็นส่วนลดคล้ายกันแต่มักตัดจากโฆษณา/แอป",
+      "distractors": [
+        "coupon",
+        "receipt",
+        "ticket"
+      ],
+      "image": "words/voucher.webp"
+    },
+    {
+      "id": "coupon",
+      "word": "coupon",
+      "pos": "noun",
+      "ipa": "/ˈkuːpɑːn/",
+      "reading_th": "คู-พอน",
+      "meaning_th": "คูปอง",
+      "emoji": null,
+      "example_en": "Use this coupon to get 50 baht off.",
+      "example_th": "ใช้คูปองนี้ลดได้ 50 บาท",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"คู-พอน\" ไม่ใช่ \"คู-ปอง\" แบบไทย ใช้คูปอง = use/apply a coupon (ในแอปมักเขียน apply code)",
+      "distractors": [
+        "voucher",
+        "cannon",
+        "croissant"
+      ]
+    },
+    {
+      "id": "out_of_stock",
+      "word": "out of stock",
+      "pos": "phrase",
+      "ipa": "/ˌaʊt əv ˈstɑːk/",
+      "reading_th": "เอาท์-ออฟ-สต็อก",
+      "meaning_th": "สินค้าหมด",
+      "emoji": "🚫",
+      "example_en": "Sorry, that model is out of stock.",
+      "example_th": "ขอโทษครับ รุ่นนั้นสินค้าหมด",
+      "cefr": "B1",
+      "note_th": "out of stock = หมดชั่วคราว (รอของเข้า) / sold out = ขายหมดเกลี้ยง ถามของเข้าเมื่อไหร่: When will it be back in stock?",
+      "distractors": [
+        "in stock",
+        "sold out",
+        "out of order"
+      ],
+      "image": "words/out_of_stock.webp"
+    },
+    {
+      "id": "in_stock",
+      "word": "in stock",
+      "pos": "phrase",
+      "ipa": "/ˌɪn ˈstɑːk/",
+      "reading_th": "อิน-สต็อก",
+      "meaning_th": "มีสินค้า / ของพร้อมส่ง",
+      "emoji": null,
+      "example_en": "Good news — the blue one is in stock!",
+      "example_th": "ข่าวดี สีน้ำเงินมีของพร้อมส่ง!",
+      "cefr": "B1",
+      "note_th": "ร้านออนไลน์ไทยชอบเขียน \"พร้อมส่ง\" ภาษาอังกฤษคือ in stock / ready to ship",
+      "distractors": [
+        "out of stock",
+        "in store",
+        "stuck"
+      ]
+    },
+    {
+      "id": "online_shopping",
+      "word": "online shopping",
+      "pos": "noun",
+      "ipa": "/ˌɑːnlaɪn ˈʃɑːpɪŋ/",
+      "reading_th": "ออน-ไลน์-ช้อป-ปิ้ง",
+      "meaning_th": "การช้อปปิ้งออนไลน์",
+      "emoji": "🛍️",
+      "example_en": "Online shopping at midnight is dangerous for my wallet.",
+      "example_th": "ช้อปออนไลน์ตอนเที่ยงคืนอันตรายต่อกระเป๋าตังค์มาก",
+      "cefr": "A2",
+      "note_th": "ช้อปออนไลน์ = shop online (กริยา) / do online shopping และการกดสั่งของตอนดึกมีชื่อเล่นว่า midnight shopping จริงๆ",
+      "distractors": [
+        "window shopping",
+        "online gaming",
+        "shopping mall"
+      ],
+      "image": "words/online_shopping.webp"
+    },
+    {
+      "id": "add_to_cart",
+      "word": "add to cart",
+      "pos": "phrase",
+      "ipa": "/ˌæd tə ˈkɑːrt/",
+      "reading_th": "แอด-ทู-คาร์ท",
+      "meaning_th": "หยิบใส่ตะกร้า (ในแอป)",
+      "emoji": null,
+      "example_en": "I added five things to my cart but bought nothing.",
+      "example_th": "ฉันหยิบใส่ตะกร้าห้าอย่างแต่ไม่ได้ซื้อสักอย่าง",
+      "cefr": "A2",
+      "note_th": "ปุ่มในแอป: Add to cart (ใส่ตะกร้า) กับ Buy now (ซื้อเลย) ส่วนแค่ดูเฉยๆ ไม่ซื้อเรียก window shopping",
+      "distractors": [
+        "add to wishlist",
+        "check out",
+        "carry out"
+      ]
+    },
+    {
+      "id": "shipping",
+      "word": "shipping",
+      "pos": "noun",
+      "ipa": "/ˈʃɪpɪŋ/",
+      "reading_th": "ชิพ-ปิ้ง",
+      "meaning_th": "การจัดส่ง",
+      "emoji": "🚚",
+      "example_en": "Shipping takes two to three days.",
+      "example_th": "จัดส่งใช้เวลาสองถึงสามวัน",
+      "cefr": "A2",
+      "note_th": "shipping มาจาก ship (เรือ) แต่ปัจจุบันหมายถึงการส่งของทุกแบบ แม้ส่งทางรถหรือเครื่องบินก็เรียก shipping",
+      "distractors": [
+        "shopping",
+        "sleeping",
+        "skipping"
+      ],
+      "image": "words/shipping.webp"
+    },
+    {
+      "id": "free_shipping",
+      "word": "free shipping",
+      "pos": "noun",
+      "ipa": "/ˌfriː ˈʃɪpɪŋ/",
+      "reading_th": "ฟรี-ชิพ-ปิ้ง",
+      "meaning_th": "ส่งฟรี",
+      "emoji": null,
+      "example_en": "Orders over 300 baht get free shipping.",
+      "example_th": "สั่งครบ 300 บาทส่งฟรี",
+      "cefr": "A2",
+      "note_th": "โค้ดส่งฟรี = free shipping code สิ่งล่อใจอันดับหนึ่งของนักช้อปออนไลน์ทั่วโลก",
+      "distractors": [
+        "free sample",
+        "fast shipping",
+        "free size"
+      ]
+    },
+    {
+      "id": "track",
+      "word": "track",
+      "pos": "verb",
+      "ipa": "/træk/",
+      "reading_th": "แทร็ค",
+      "meaning_th": "ติดตาม (พัสดุ)",
+      "emoji": "🧭",
+      "example_en": "You can track your parcel in the app.",
+      "example_th": "ติดตามพัสดุได้ในแอป",
+      "cefr": "B1",
+      "note_th": "เลขพัสดุ = tracking number ประโยคใช้บ่อย: Where is my order? / Can I track my order?",
+      "distractors": [
+        "truck",
+        "trick",
+        "trade"
+      ],
+      "image": "words/track.webp"
+    },
+    {
+      "id": "parcel",
+      "word": "parcel",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrsəl/",
+      "reading_th": "พาร์-เซิ่ล",
+      "meaning_th": "พัสดุ",
+      "emoji": "📦",
+      "example_en": "A parcel arrived for you this morning.",
+      "example_th": "เมื่อเช้ามีพัสดุมาส่งให้คุณ",
+      "cefr": "A2",
+      "note_th": "อังกฤษใช้ parcel อเมริกาใช้ package ส่วนคนส่งของคือ delivery driver / courier",
+      "distractors": [
+        "package",
+        "pencil",
+        "purse"
+      ],
+      "image": "words/parcel.webp"
+    },
+    {
+      "id": "cash_on_delivery",
+      "word": "cash on delivery",
+      "pos": "noun",
+      "ipa": "/ˌkæʃ ɑːn dɪˈlɪvəri/",
+      "reading_th": "แคช-ออน-ดิ-ลิฟ-เวอ-รี่",
+      "meaning_th": "เก็บเงินปลายทาง",
+      "emoji": null,
+      "example_en": "I always choose cash on delivery to be safe.",
+      "example_th": "ฉันเลือกเก็บเงินปลายทางตลอดเพื่อความชัวร์",
+      "cefr": "B1",
+      "note_th": "ย่อว่า COD ที่เห็นในแอปช้อปปิ้งนั่นเอง = จ่ายเงินสดตอนของมาถึง",
+      "distractors": [
+        "credit card",
+        "bank transfer",
+        "cash back"
+      ]
+    },
+    {
+      "id": "review",
+      "word": "review",
+      "pos": "noun",
+      "ipa": "/rɪˈvjuː/",
+      "reading_th": "รี-วิว",
+      "meaning_th": "รีวิว / คำวิจารณ์",
+      "emoji": "⭐",
+      "example_en": "Read the reviews before you buy.",
+      "example_th": "อ่านรีวิวก่อนซื้อนะ",
+      "cefr": "A2",
+      "note_th": "เขียนรีวิว = write/leave a review และ review เป็นกริยาแปลว่าทบทวนด้วย (เหมือนที่เราทบทวนคำศัพท์ในเกมนี้!)",
+      "distractors": [
+        "preview",
+        "interview",
+        "rating"
+      ],
+      "image": "words/review.webp"
+    },
+    {
+      "id": "rating",
+      "word": "rating",
+      "pos": "noun",
+      "ipa": "/ˈreɪtɪŋ/",
+      "reading_th": "เร-ติ้ง",
+      "meaning_th": "คะแนนดาว / เรตติ้ง",
+      "emoji": null,
+      "example_en": "This shop has a 4.9 star rating.",
+      "example_th": "ร้านนี้ได้เรตติ้ง 4.9 ดาว",
+      "cefr": "B1",
+      "note_th": "ให้คะแนน = rate (กริยา) เช่น Rate this app 5 stars! ส่วน rating คือคะแนนที่ได้",
+      "distractors": [
+        "review",
+        "eating",
+        "ranking"
+      ]
+    },
+    {
+      "id": "seller",
+      "word": "seller",
+      "pos": "noun",
+      "ipa": "/ˈselər/",
+      "reading_th": "เซล-เลอร์",
+      "meaning_th": "ผู้ขาย / ร้านค้า",
+      "emoji": null,
+      "example_en": "Message the seller before ordering.",
+      "example_th": "ทักแชทร้านค้าก่อนสั่งซื้อ",
+      "cefr": "A2",
+      "note_th": "sell (ขาย) + er = ผู้ขาย และ best seller = สินค้าขายดีอันดับหนึ่ง",
+      "distractors": [
+        "buyer",
+        "cellar",
+        "teller"
+      ]
+    },
+    {
+      "id": "buyer",
+      "word": "buyer",
+      "pos": "noun",
+      "ipa": "/ˈbaɪər/",
+      "reading_th": "บาย-เออร์",
+      "meaning_th": "ผู้ซื้อ",
+      "emoji": null,
+      "example_en": "The buyer left a five-star review.",
+      "example_th": "ผู้ซื้อให้รีวิวห้าดาว",
+      "cefr": "A2",
+      "note_th": "buy (ซื้อ) + er = ผู้ซื้อ คู่กับ seller (ผู้ขาย) กริยาช่อง 2/3 ของ buy คือ bought",
+      "distractors": [
+        "seller",
+        "lawyer",
+        "byer"
+      ]
+    },
+    {
+      "id": "flash_sale",
+      "word": "flash sale",
+      "pos": "noun",
+      "ipa": "/ˈflæʃ seɪl/",
+      "reading_th": "แฟลช-เซล",
+      "meaning_th": "แฟลชเซล / ลดราคาช่วงสั้นๆ",
+      "emoji": "⚡",
+      "example_en": "The flash sale starts at midnight — get ready!",
+      "example_th": "แฟลชเซลเริ่มเที่ยงคืน เตรียมตัวให้พร้อม!",
+      "cefr": "B1",
+      "note_th": "flash = แวบเดียว/ชั่วพริบตา ดังนั้น flash sale คือเซลที่มาไวไปไว ต้องกดให้ทัน!",
+      "distractors": [
+        "garage sale",
+        "flash card",
+        "final sale"
+      ],
+      "image": "words/flash_sale.webp"
+    },
+    {
+      "id": "wishlist",
+      "word": "wishlist",
+      "pos": "noun",
+      "ipa": "/ˈwɪʃlɪst/",
+      "reading_th": "วิช-ลิสท์",
+      "meaning_th": "รายการสินค้าที่อยากได้",
+      "emoji": null,
+      "example_en": "I have twenty items in my wishlist.",
+      "example_th": "ฉันมีของอยากได้ในวิชลิสต์ยี่สิบชิ้น",
+      "cefr": "B1",
+      "note_th": "wish (ความปรารถนา) + list (รายการ) กดหัวใจ ❤️ ในแอป = add to wishlist",
+      "distractors": [
+        "checklist",
+        "playlist",
+        "shopping list"
+      ]
+    },
+    {
+      "id": "delivery_fee",
+      "word": "delivery fee",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪvəri fiː/",
+      "reading_th": "ดิ-ลิฟ-เวอ-รี่-ฟี",
+      "meaning_th": "ค่าส่ง",
+      "emoji": null,
+      "example_en": "The delivery fee is 40 baht.",
+      "example_th": "ค่าส่ง 40 บาท",
+      "cefr": "A2",
+      "note_th": "fee = ค่าธรรมเนียม เช่น entrance fee (ค่าเข้า) service fee (ค่าบริการ) ออกเสียง \"ฟี\" ยาวๆ",
+      "distractors": [
+        "delivery man",
+        "service charge",
+        "free delivery"
+      ]
+    }
+  ]
+}
