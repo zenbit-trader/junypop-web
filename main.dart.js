@@ -29416,7 +29416,7 @@ e=A.H2(A.k6(e).a)
 i=A.dN(a0.gug())
 h=a0.gxg()
 g=a1!=null?"\u0e40\u0e1e\u0e34\u0e48\u0e07\u0e17\u0e33\u0e44\u0e14\u0e49 "+A.dN(a1.a)+" \u0e04\u0e30\u0e41\u0e19\u0e19 "+B.c.a8("\u2b50",a1.d)+"\n":""
-n="\ud83d\udc36 JUNYPOP \u2014 "+d+"\nLevel "+j.a+" \xb7 "+e+"\n\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e41\u0e25\u0e49\u0e27 "+i+" \u0e04\u0e33 \xb7 \ud83d\udd25 \u0e2a\u0e15\u0e23\u0e35\u0e04 "+h+" \u0e27\u0e31\u0e19\n"+g+"\u0e40\u0e25\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e15\u0e34\u0e14 \u0e08\u0e33\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49 \ud83d\udc49 https://zenbit-trader.github.io/junypop-web/"
+n="\ud83d\udc36 JUNYPOP \u2014 "+d+"\nLevel "+j.a+" \xb7 "+e+"\n\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e41\u0e25\u0e49\u0e27 "+i+" \u0e04\u0e33 \xb7 \ud83d\udd25 \u0e2a\u0e15\u0e23\u0e35\u0e04 "+h+" \u0e27\u0e31\u0e19\n"+g+"\u0e40\u0e25\u0e48\u0e19\u0e43\u0e2b\u0e49\u0e15\u0e34\u0e14 \u0e08\u0e33\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e43\u0e2b\u0e49\u0e44\u0e14\u0e49 \ud83d\udc49 https://junypop.com"
 m=null
 p=4
 s=7
@@ -96667,7 +96667,7 @@ wf(){var s=0,r=A.q(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$wf=A.r(function(a,b){if(a===1){p.push(b)
 s=q}for(;;)switch(s){case 0:m=o.a.c
 l=m!=null?"\u0e09\u0e31\u0e19\u0e17\u0e33\u0e44\u0e14\u0e49 "+A.dN(m.a)+" \u0e04\u0e30\u0e41\u0e19\u0e19 \u2014 \u0e41\u0e19\u0e48\u0e08\u0e23\u0e34\u0e07\u0e21\u0e32\u0e41\u0e0b\u0e07\u0e2a\u0e34\n":""
-k="\u2694\ufe0f \u0e17\u0e49\u0e32\u0e14\u0e27\u0e25\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e43\u0e19 JUNYPOP!\n"+l+"\u0e43\u0e2a\u0e48\u0e42\u0e04\u0e49\u0e14: "+A.k(o.e)+' \u0e43\u0e19\u0e2b\u0e19\u0e49\u0e32 "\u0e15\u0e48\u0e2d\u0e2a\u0e39\u0e49"\n\u0e40\u0e25\u0e48\u0e19\u0e1f\u0e23\u0e35: https://zenbit-trader.github.io/junypop-web/'
+k="\u2694\ufe0f \u0e17\u0e49\u0e32\u0e14\u0e27\u0e25\u0e28\u0e31\u0e1e\u0e17\u0e4c\u0e43\u0e19 JUNYPOP!\n"+l+"\u0e43\u0e2a\u0e48\u0e42\u0e04\u0e49\u0e14: "+A.k(o.e)+' \u0e43\u0e19\u0e2b\u0e19\u0e49\u0e32 "\u0e15\u0e48\u0e2d\u0e2a\u0e39\u0e49"\n\u0e40\u0e25\u0e48\u0e19\u0e1f\u0e23\u0e35: https://junypop.com'
 q=3
 s=6
 return A.h($.aHW().h8(A.aJP(null,k)),$async$wf)
@@ -99710,7 +99710,7 @@ p=m.w
 p=p==null?n:p.bA(B.e,B.I)
 B.b.K(i,A.b([B.c1,A.bC(n,A.O("\u0e40\u0e1e\u0e34\u0e48\u0e07\u0e40\u0e25\u0e48\u0e19\u0e08\u0e1a! "+s+" \u0e04\u0e30\u0e41\u0e19\u0e19 "+r+q,n,n,n,p,n,n),B.o,n,n,new A.bo(k,n,h,j,n,n,B.F),n,n,n,B.IY,n,n,1/0)],g))}i.push(B.bo)
 k=m.at
-i.push(A.O("\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e1f\u0e23\u0e35 \ud83d\udc36 junypop",n,n,n,k==null?n:k.af(B.cl),n,n))
+i.push(A.O("\u0e21\u0e32\u0e40\u0e25\u0e48\u0e19\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e1f\u0e23\u0e35 \ud83d\udc36 junypop.com",n,n,n,k==null?n:k.af(B.cl),n,n))
 return A.bC(n,A.aL(i,B.y,n,B.j,B.l),B.o,n,n,B.kr,n,n,n,B.Je,n,n,n)},
 JN(a,b,c){var s=null,r=B.e.b3(0.12),q=A.bV(18)
 return A.br(A.bC(s,A.aL(A.b([A.O(a+" "+b,s,s,s,B.abj,s,s),A.O(c,s,s,s,B.abM,s,s)],t.p),B.n,s,B.j,B.l),B.o,s,s,new A.bo(r,s,s,q,s,s,B.F),s,s,s,B.IE,s,s,s),1)}}
