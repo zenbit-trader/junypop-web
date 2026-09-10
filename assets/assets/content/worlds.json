@@ -46,13 +46,13 @@
     },
     {
       "id": "hotel",
-      "file": null,
+      "file": "hotel.json",
       "name_en": "Hotel",
       "name_th": "โรงแรม",
       "emoji": "🛎️",
       "color_start": "#A78BFA",
       "color_end": "#7C3AED",
-      "available": false,
+      "available": true,
       "image": "worlds/hotel.webp"
     },
     {

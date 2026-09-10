@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "hotel",
+    "name_en": "Hotel",
+    "name_th": "โรงแรม",
+    "emoji": "🛎️",
+    "color_start": "#A78BFA",
+    "color_end": "#7C3AED",
+    "description_th": "ศัพท์จองห้อง เช็คอิน แจ้งปัญหา จนถึงเช็คเอาท์อย่างมือโปร",
+    "mascot_costume": "bellhop",
+    "lessons": [
+      {
+        "id": "hotel_1",
+        "title_en": "Booking a Room",
+        "title_th": "จองห้องพัก",
+        "emoji": "🏨",
+        "word_ids": [
+          "hotel",
+          "room",
+          "guest",
+          "book_a_room",
+          "single_room",
+          "double_room",
+          "family_room",
+          "sea_view",
+          "vacancy",
+          "fully_booked",
+          "per_night",
+          "breakfast_included",
+          "high_season",
+          "low_season"
+        ]
+      },
+      {
+        "id": "hotel_2",
+        "title_en": "Checking In",
+        "title_th": "เช็คอินเข้าพัก",
+        "emoji": "🔑",
+        "word_ids": [
+          "front_desk",
+          "receptionist",
+          "lobby",
+          "key_card",
+          "room_number",
+          "sign",
+          "signature",
+          "id_card",
+          "confirmation",
+          "early_check_in",
+          "late_check_out",
+          "luggage_storage",
+          "porter",
+          "wake_up_call"
+        ]
+      },
+      {
+        "id": "hotel_3",
+        "title_en": "In the Room",
+        "title_th": "ในห้องพัก",
+        "emoji": "🛏️",
+        "word_ids": [
+          "air_conditioner",
+          "remote_control",
+          "towel",
+          "bedsheet",
+          "curtain",
+          "balcony",
+          "minibar",
+          "safe",
+          "hair_dryer",
+          "bathtub",
+          "slippers",
+          "bathrobe",
+          "wardrobe",
+          "socket"
+        ]
+      },
+      {
+        "id": "hotel_4",
+        "title_en": "Hotel Services",
+        "title_th": "บริการโรงแรม",
+        "emoji": "🛎️",
+        "word_ids": [
+          "room_service",
+          "housekeeping",
+          "laundry",
+          "wifi",
+          "password",
+          "swimming_pool",
+          "gym",
+          "spa",
+          "massage",
+          "buffet",
+          "airport_shuttle",
+          "extra_bed",
+          "iron",
+          "rooftop"
+        ]
+      },
+      {
+        "id": "hotel_5",
+        "title_en": "Problems",
+        "title_th": "แจ้งปัญหา",
+        "emoji": "🔧",
+        "word_ids": [
+          "broken",
+          "not_working",
+          "fix",
+          "leak",
+          "blocked",
+          "noisy",
+          "dirty",
+          "smelly",
+          "no_hot_water",
+          "lost_key",
+          "change_room",
+          "complain",
+          "apologize",
+          "maintenance"
+        ]
+      },
+      {
+        "id": "hotel_6",
+        "title_en": "Directions",
+        "title_th": "ทำเลและถามทาง",
+        "emoji": "🗺️",
+        "word_ids": [
+          "map",
+          "nearby",
+          "far",
+          "next_to",
+          "opposite",
+          "corner",
+          "intersection",
+          "go_straight",
+          "turn_left",
+          "turn_right",
+          "bus_stop",
+          "landmark",
+          "get_lost",
+          "temple"
+        ]
+      },
+      {
+        "id": "hotel_7",
+        "title_en": "Check-out & Reviews",
+        "title_th": "เช็คเอาท์และรีวิว",
+        "emoji": "🧾",
+        "word_ids": [
+          "check_out",
+          "deposit",
+          "invoice",
+          "damage",
+          "satisfied",
+          "comfortable",
+          "convenient",
+          "clean",
+          "cozy",
+          "quiet",
+          "enjoy",
+          "impressive",
+          "worth_it",
+          "come_back"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "hotel",
+      "word": "hotel",
+      "pos": "noun",
+      "ipa": "/hoʊˈtel/",
+      "reading_th": "โฮ-เทล",
+      "meaning_th": "โรงแรม",
+      "emoji": "🏨",
+      "example_en": "We stayed at a hotel near the beach.",
+      "example_th": "เราพักโรงแรมใกล้ชายหาด",
+      "cefr": "A1",
+      "note_th": "เน้นเสียงพยางค์หลัง \"โฮ-เทล\" ไม่ใช่ \"โฮ-เต็ล\" หน้าๆ และที่พักแบบประหยัดคือ hostel (โฮสเทล) ระวังสับสน",
+      "distractors": [
+        "hostel",
+        "hospital",
+        "motel"
+      ]
+    },
+    {
+      "id": "room",
+      "word": "room",
+      "pos": "noun",
+      "ipa": "/ruːm/",
+      "reading_th": "รูม",
+      "meaning_th": "ห้อง / ห้องพัก",
+      "emoji": null,
+      "example_en": "Our room is on the ninth floor.",
+      "example_th": "ห้องของเราอยู่ชั้นเก้า",
+      "cefr": "A1",
+      "note_th": "room ยังแปลว่า \"ที่ว่าง\" ได้ด้วย เช่น Is there room for one more? (มีที่ว่างอีกคนไหม)",
+      "distractors": [
+        "roof",
+        "hall",
+        "house"
+      ]
+    },
+    {
+      "id": "guest",
+      "word": "guest",
+      "pos": "noun",
+      "ipa": "/ɡest/",
+      "reading_th": "เกสท์",
+      "meaning_th": "แขก / ผู้เข้าพัก",
+      "emoji": null,
+      "example_en": "Breakfast is free for hotel guests.",
+      "example_th": "อาหารเช้าฟรีสำหรับผู้เข้าพัก",
+      "cefr": "A2",
+      "note_th": "guest = แขกโรงแรม/แขกในงาน ส่วน customer = ลูกค้าซื้อของ ตัว u ใน guest ไม่ออกเสียง อ่านว่า \"เกสท์\"",
+      "distractors": [
+        "customer",
+        "host",
+        "ghost"
+      ]
+    },
+    {
+      "id": "book_a_room",
+      "word": "book a room",
+      "pos": "phrase",
+      "ipa": "/ˌbʊk ə ˈruːm/",
+      "reading_th": "บุ๊ค-อะ-รูม",
+      "meaning_th": "จองห้องพัก",
+      "emoji": null,
+      "example_en": "I'd like to book a room for two nights.",
+      "example_th": "ผมอยากจองห้องพักสองคืนครับ",
+      "cefr": "A2",
+      "note_th": "book เป็นกริยา = จอง (ไม่ใช่แค่หนังสือ!) ประโยคทองคำ: I'd like to book a room for X nights",
+      "distractors": [
+        "read a book",
+        "clean a room",
+        "keep a room"
+      ]
+    },
+    {
+      "id": "single_room",
+      "word": "single room",
+      "pos": "noun",
+      "ipa": "/ˌsɪŋɡəl ˈruːm/",
+      "reading_th": "ซิง-เกิ้ล-รูม",
+      "meaning_th": "ห้องเตียงเดี่ยว (พัก 1 คน)",
+      "emoji": null,
+      "example_en": "A single room is enough for me.",
+      "example_th": "ห้องเตียงเดี่ยวก็พอสำหรับผม",
+      "cefr": "A2",
+      "note_th": "single = เดี่ยว/โสด เช่น single bed (เตียงเดี่ยว) และสถานะโสดก็ใช้ I'm single",
+      "distractors": [
+        "double room",
+        "living room",
+        "single bed"
+      ]
+    },
+    {
+      "id": "double_room",
+      "word": "double room",
+      "pos": "noun",
+      "ipa": "/ˌdʌbəl ˈruːm/",
+      "reading_th": "ดับ-เบิ้ล-รูม",
+      "meaning_th": "ห้องเตียงคู่ (เตียงใหญ่ 1 เตียง)",
+      "emoji": "🛏️",
+      "example_en": "We booked a double room with a sea view.",
+      "example_th": "เราจองห้องเตียงใหญ่วิวทะเล",
+      "cefr": "A2",
+      "note_th": "double room = เตียงใหญ่ 1 เตียงนอน 2 คน ส่วน twin room = เตียงเล็กแยก 2 เตียง จองผิดชีวิตเปลี่ยน!",
+      "distractors": [
+        "twin room",
+        "single room",
+        "double bed"
+      ]
+    },
+    {
+      "id": "family_room",
+      "word": "family room",
+      "pos": "noun",
+      "ipa": "/ˈfæməli ruːm/",
+      "reading_th": "แฟ-มิ-ลี่-รูม",
+      "meaning_th": "ห้องครอบครัว",
+      "emoji": null,
+      "example_en": "The family room sleeps four people.",
+      "example_th": "ห้องครอบครัวนอนได้สี่คน",
+      "cefr": "A2",
+      "note_th": "โรงแรมใช้กริยา sleep บอกจำนวนคน เช่น This room sleeps four = ห้องนี้นอนได้ 4 คน",
+      "distractors": [
+        "double room",
+        "meeting room",
+        "dining room"
+      ]
+    },
+    {
+      "id": "sea_view",
+      "word": "sea view",
+      "pos": "noun",
+      "ipa": "/ˈsiː vjuː/",
+      "reading_th": "ซี-วิว",
+      "meaning_th": "วิวทะเล",
+      "emoji": "🌊",
+      "example_en": "Can I get a room with a sea view?",
+      "example_th": "ขอห้องวิวทะเลได้ไหมครับ",
+      "cefr": "A2",
+      "note_th": "วิวภูเขา = mountain view / วิวเมือง = city view / ห้องติดสระ = pool access ศัพท์สายจองโรงแรมต้องรู้",
+      "distractors": [
+        "city view",
+        "seafood",
+        "seaside"
+      ]
+    },
+    {
+      "id": "vacancy",
+      "word": "vacancy",
+      "pos": "noun",
+      "ipa": "/ˈveɪkənsi/",
+      "reading_th": "เว-เคิน-ซี่",
+      "meaning_th": "ห้องว่าง",
+      "emoji": null,
+      "example_en": "Do you have any vacancies tonight?",
+      "example_th": "คืนนี้มีห้องว่างไหมครับ",
+      "cefr": "B1",
+      "note_th": "ป้ายหน้าโรงแรม: Vacancy = มีห้องว่าง / No Vacancy = เต็ม และคำนี้ยังใช้กับตำแหน่งงานว่างได้ด้วย (job vacancy)",
+      "distractors": [
+        "vacation",
+        "vacuum",
+        "balcony"
+      ]
+    },
+    {
+      "id": "fully_booked",
+      "word": "fully booked",
+      "pos": "phrase",
+      "ipa": "/ˌfʊli ˈbʊkt/",
+      "reading_th": "ฟูล-ลี่-บุ๊คท์",
+      "meaning_th": "เต็มหมดแล้ว (จองเต็ม)",
+      "emoji": null,
+      "example_en": "Sorry, we are fully booked this weekend.",
+      "example_th": "ขอโทษค่ะ สุดสัปดาห์นี้ห้องเต็มหมดแล้ว",
+      "cefr": "B1",
+      "note_th": "ใช้ได้ทั้งโรงแรม ร้านอาหาร เที่ยวบิน — fully booked = booked up = เต็มหมด",
+      "distractors": [
+        "fully open",
+        "half full",
+        "sold out"
+      ]
+    },
+    {
+      "id": "per_night",
+      "word": "per night",
+      "pos": "phrase",
+      "ipa": "/pər ˈnaɪt/",
+      "reading_th": "เพอร์-ไนท์",
+      "meaning_th": "ต่อคืน",
+      "emoji": null,
+      "example_en": "This room is 1,500 baht per night.",
+      "example_th": "ห้องนี้คืนละ 1,500 บาท",
+      "cefr": "A2",
+      "note_th": "per = ต่อ ใช้ได้หลายแบบ: per person (ต่อคน) per day (ต่อวัน) per hour (ต่อชั่วโมง)",
+      "distractors": [
+        "per person",
+        "per day",
+        "at night"
+      ]
+    },
+    {
+      "id": "breakfast_included",
+      "word": "breakfast included",
+      "pos": "phrase",
+      "ipa": "/ˌbrekfəst ɪnˈkluːdɪd/",
+      "reading_th": "เบรค-ฟาสท์-อิน-คลู-เด็ด",
+      "meaning_th": "รวมอาหารเช้า",
+      "emoji": "🍳",
+      "example_en": "Is breakfast included in the price?",
+      "example_th": "ราคานี้รวมอาหารเช้าไหมครับ",
+      "cefr": "B1",
+      "note_th": "include = รวม ประโยคถามที่ใช้บ่อยสุดตอนจอง: Is breakfast included? ตรงข้ามคือ excluded (ไม่รวม)",
+      "distractors": [
+        "breakfast excluded",
+        "lunch included",
+        "free dinner"
+      ]
+    },
+    {
+      "id": "high_season",
+      "word": "high season",
+      "pos": "noun",
+      "ipa": "/ˌhaɪ ˈsiːzən/",
+      "reading_th": "ไฮ-ซี-เซิ่น",
+      "meaning_th": "ฤดูท่องเที่ยว (ช่วงคนเยอะ ราคาแพง)",
+      "emoji": null,
+      "example_en": "Hotel prices double in high season.",
+      "example_th": "ช่วงไฮซีซั่นราคาโรงแรมแพงขึ้นเท่าตัว",
+      "cefr": "B1",
+      "note_th": "เมืองไทย high season คือ พ.ย.–ก.พ. (ฝรั่งหนีหนาว) บางที่เรียก peak season",
+      "distractors": [
+        "low season",
+        "rainy season",
+        "summer"
+      ]
+    },
+    {
+      "id": "low_season",
+      "word": "low season",
+      "pos": "noun",
+      "ipa": "/ˌloʊ ˈsiːzən/",
+      "reading_th": "โลว์-ซี-เซิ่น",
+      "meaning_th": "ช่วงนอกฤดูท่องเที่ยว (ราคาถูก)",
+      "emoji": null,
+      "example_en": "Travel in low season to save money.",
+      "example_th": "เที่ยวช่วงโลว์ซีซั่นประหยัดกว่าเยอะ",
+      "cefr": "B1",
+      "note_th": "low season = off season = นอกฤดู ราคาถูก คนน้อย แลกกับบางที่ฝนตก",
+      "distractors": [
+        "high season",
+        "cool season",
+        "harvest season"
+      ]
+    },
+    {
+      "id": "front_desk",
+      "word": "front desk",
+      "pos": "noun",
+      "ipa": "/ˌfrʌnt ˈdesk/",
+      "reading_th": "ฟรอนท์-เดสค์",
+      "meaning_th": "เคาน์เตอร์ต้อนรับ / ฟรอนต์",
+      "emoji": "🛎️",
+      "example_en": "Please leave your key at the front desk.",
+      "example_th": "กรุณาฝากกุญแจไว้ที่ฟรอนต์",
+      "cefr": "A2",
+      "note_th": "คนไทยเรียก \"ฟรอนต์\" มาจาก front desk นั่นเอง โทรหาฟรอนต์จากห้องมักกด 0 หรือ 9",
+      "distractors": [
+        "back office",
+        "help desk",
+        "front door"
+      ]
+    },
+    {
+      "id": "receptionist",
+      "word": "receptionist",
+      "pos": "noun",
+      "ipa": "/rɪˈsepʃənɪst/",
+      "reading_th": "รี-เซพ-ชั่น-นิสท์",
+      "meaning_th": "พนักงานต้อนรับ",
+      "emoji": "💁",
+      "example_en": "The receptionist gave us a free upgrade.",
+      "example_th": "พนักงานต้อนรับอัปเกรดห้องให้เราฟรี",
+      "cefr": "B1",
+      "note_th": "มาจาก reception (แผนกต้อนรับ) + ist (คน) เจอได้ทั้งโรงแรม โรงพยาบาล และออฟฟิศ",
+      "distractors": [
+        "reception",
+        "receipt",
+        "porter"
+      ]
+    },
+    {
+      "id": "lobby",
+      "word": "lobby",
+      "pos": "noun",
+      "ipa": "/ˈlɑːbi/",
+      "reading_th": "ล็อบ-บี้",
+      "meaning_th": "ล็อบบี้ / โถงต้อนรับ",
+      "emoji": "🛋️",
+      "example_en": "Let's meet in the lobby at nine.",
+      "example_th": "เจอกันที่ล็อบบี้ตอนเก้าโมงนะ",
+      "cefr": "A2",
+      "note_th": "lobby คือโถงใหญ่หน้าโรงแรม ใช้นัดเจอกันบ่อยสุด: See you in the lobby!",
+      "distractors": [
+        "lounge",
+        "hobby",
+        "balcony"
+      ]
+    },
+    {
+      "id": "key_card",
+      "word": "key card",
+      "pos": "noun",
+      "ipa": "/ˈkiː kɑːrd/",
+      "reading_th": "คีย์-การ์ด",
+      "meaning_th": "คีย์การ์ด",
+      "emoji": "🗝️",
+      "example_en": "Tap your key card to open the door.",
+      "example_th": "แตะคีย์การ์ดเพื่อเปิดประตู",
+      "cefr": "A2",
+      "note_th": "คีย์การ์ดเสียบช่องข้างประตูเพื่อเปิดไฟในห้องด้วย ถ้าการ์ดเสื่อม (demagnetized) ให้ไปฟรอนต์ทำใหม่ฟรี",
+      "distractors": [
+        "credit card",
+        "keyboard",
+        "key ring"
+      ]
+    },
+    {
+      "id": "room_number",
+      "word": "room number",
+      "pos": "noun",
+      "ipa": "/ˈruːm ˌnʌmbər/",
+      "reading_th": "รูม-นัม-เบอร์",
+      "meaning_th": "หมายเลขห้อง",
+      "emoji": null,
+      "example_en": "What's your room number, please?",
+      "example_th": "ขอหมายเลขห้องด้วยครับ",
+      "cefr": "A1",
+      "note_th": "เซ็นบิลอาหาร/ใช้บริการในโรงแรมมักถูกถาม room number เสมอ จำเลขห้องตัวเองไว้ให้ดี",
+      "distractors": [
+        "phone number",
+        "house number",
+        "room service"
+      ]
+    },
+    {
+      "id": "sign",
+      "word": "sign",
+      "pos": "verb",
+      "ipa": "/saɪn/",
+      "reading_th": "ไซน์",
+      "meaning_th": "เซ็นชื่อ",
+      "emoji": "✍️",
+      "example_en": "Please sign here and here.",
+      "example_th": "กรุณาเซ็นชื่อตรงนี้และตรงนี้ครับ",
+      "cefr": "A2",
+      "note_th": "ตัว g ไม่ออกเสียง อ่านว่า \"ไซน์\" — sign เป็นคำนามแปลว่า \"ป้าย\" ได้ด้วย ดูบริบท",
+      "distractors": [
+        "sing",
+        "design",
+        "signal"
+      ]
+    },
+    {
+      "id": "signature",
+      "word": "signature",
+      "pos": "noun",
+      "ipa": "/ˈsɪɡnətʃər/",
+      "reading_th": "ซิก-นะ-เชอร์",
+      "meaning_th": "ลายเซ็น",
+      "emoji": null,
+      "example_en": "I need your signature on this form.",
+      "example_th": "ขอลายเซ็นของคุณบนแบบฟอร์มนี้ครับ",
+      "cefr": "B1",
+      "note_th": "sign (กริยา เซ็น) → signature (คำนาม ลายเซ็น) ออกเสียง \"ซิก-นะ-เชอร์\" ตัว g กลับมามีเสียงแล้วตัวนี้!",
+      "distractors": [
+        "sign",
+        "temperature",
+        "signal"
+      ]
+    },
+    {
+      "id": "id_card",
+      "word": "ID card",
+      "pos": "noun",
+      "ipa": "/ˌaɪ ˈdiː kɑːrd/",
+      "reading_th": "ไอ-ดี-การ์ด",
+      "meaning_th": "บัตรประชาชน",
+      "emoji": "🪪",
+      "example_en": "Can I see your ID card or passport?",
+      "example_th": "ขอดูบัตรประชาชนหรือพาสปอร์ตครับ",
+      "cefr": "A2",
+      "note_th": "ID ย่อจาก identification เช็คอินโรงแรมไทยใช้บัตรประชาชน ต่างประเทศใช้พาสปอร์ต",
+      "distractors": [
+        "credit card",
+        "key card",
+        "name card"
+      ]
+    },
+    {
+      "id": "confirmation",
+      "word": "confirmation",
+      "pos": "noun",
+      "ipa": "/ˌkɑːnfərˈmeɪʃən/",
+      "reading_th": "คอน-เฟอร์-เม-ชั่น",
+      "meaning_th": "การยืนยัน / ใบยืนยันการจอง",
+      "emoji": null,
+      "example_en": "I have my booking confirmation on my phone.",
+      "example_th": "ผมมีใบยืนยันการจองในมือถือ",
+      "cefr": "B1",
+      "note_th": "confirmation number/code = รหัสยืนยันการจอง โชว์ในมือถือได้ ไม่ต้องปรินต์แล้วสมัยนี้",
+      "distractors": [
+        "information",
+        "reservation",
+        "conversation"
+      ]
+    },
+    {
+      "id": "early_check_in",
+      "word": "early check-in",
+      "pos": "phrase",
+      "ipa": "/ˌɜːrli ˈtʃek ɪn/",
+      "reading_th": "เออร์-ลี่-เช็ค-อิน",
+      "meaning_th": "เช็คอินก่อนเวลา",
+      "emoji": null,
+      "example_en": "Is early check-in possible? Our flight lands at 6 AM.",
+      "example_th": "เช็คอินก่อนเวลาได้ไหมครับ ไฟลท์เราลงหกโมงเช้า",
+      "cefr": "B1",
+      "note_th": "เวลาเช็คอินมาตรฐานคือ 14:00-15:00 มาก่อนให้ถาม early check-in — บางที่ฟรีถ้าห้องว่าง บางที่คิดเงินเพิ่ม",
+      "distractors": [
+        "late check-out",
+        "check-in time",
+        "early bird"
+      ]
+    },
+    {
+      "id": "late_check_out",
+      "word": "late check-out",
+      "pos": "phrase",
+      "ipa": "/ˌleɪt ˈtʃek aʊt/",
+      "reading_th": "เลท-เช็ค-เอาท์",
+      "meaning_th": "เช็คเอาท์สาย (ขอออกช้ากว่าเวลา)",
+      "emoji": null,
+      "example_en": "Could we have a late check-out until 2 PM?",
+      "example_th": "ขอเช็คเอาท์ช้าถึงบ่ายสองได้ไหมครับ",
+      "cefr": "B1",
+      "note_th": "เวลาเช็คเอาท์ปกติ 11:00-12:00 อยากอยู่ต่อถาม late check-out — สมาชิกโรงแรมมักได้ฟรี",
+      "distractors": [
+        "early check-in",
+        "check-out time",
+        "overtime"
+      ]
+    },
+    {
+      "id": "luggage_storage",
+      "word": "luggage storage",
+      "pos": "noun",
+      "ipa": "/ˈlʌɡɪdʒ ˌstɔːrɪdʒ/",
+      "reading_th": "ลัก-กิจ-สโต-เรจ",
+      "meaning_th": "บริการฝากกระเป๋า",
+      "emoji": "🧳",
+      "example_en": "Can I use the luggage storage after check-out?",
+      "example_th": "หลังเช็คเอาท์ขอฝากกระเป๋าได้ไหมครับ",
+      "cefr": "B1",
+      "note_th": "ประโยคเซฟชีวิต: Can I leave my luggage here? (ฝากกระเป๋าได้ไหม) — โรงแรมส่วนใหญ่ฝากฟรีทั้งก่อนเช็คอินและหลังเช็คเอาท์",
+      "distractors": [
+        "luggage claim",
+        "storage room",
+        "left luggage"
+      ]
+    },
+    {
+      "id": "porter",
+      "word": "porter",
+      "pos": "noun",
+      "ipa": "/ˈpɔːrtər/",
+      "reading_th": "พอร์-เตอร์",
+      "meaning_th": "พนักงานยกกระเป๋า",
+      "emoji": "🛄",
+      "example_en": "The porter will bring your bags to the room.",
+      "example_th": "พนักงานยกกระเป๋าจะนำกระเป๋าขึ้นไปที่ห้อง",
+      "cefr": "B1",
+      "note_th": "porter หรือ bellboy ก็เรียกได้ ธรรมเนียมสากลนิยมให้ทิปเล็กน้อยเวลายกกระเป๋าให้",
+      "distractors": [
+        "waiter",
+        "reporter",
+        "painter"
+      ]
+    },
+    {
+      "id": "wake_up_call",
+      "word": "wake-up call",
+      "pos": "noun",
+      "ipa": "/ˈweɪk ʌp ˌkɔːl/",
+      "reading_th": "เวค-อัพ-คอล",
+      "meaning_th": "บริการโทรปลุก",
+      "emoji": "⏰",
+      "example_en": "Can I get a wake-up call at 5 AM?",
+      "example_th": "ขอโทรปลุกตอนตีห้าได้ไหมครับ",
+      "cefr": "B1",
+      "note_th": "มีไฟลท์เช้า/ทัวร์เช้า โทรบอกฟรอนต์ขอ wake-up call ได้ฟรี — ชัวร์กว่านาฬิกาปลุกตัวเอง",
+      "distractors": [
+        "phone call",
+        "wake up",
+        "morning call"
+      ]
+    },
+    {
+      "id": "air_conditioner",
+      "word": "air conditioner",
+      "pos": "noun",
+      "ipa": "/ˈer kənˌdɪʃənər/",
+      "reading_th": "แอร์-คอน-ดิ-ชั่น-เนอร์",
+      "meaning_th": "เครื่องปรับอากาศ / แอร์",
+      "emoji": "❄️",
+      "example_en": "The air conditioner is too cold, how do I turn it down?",
+      "example_th": "แอร์หนาวไป ปรับลงยังไงครับ",
+      "cefr": "A2",
+      "note_th": "คนไทยเรียก \"แอร์\" แต่ฝรั่งพูด air conditioner หรือย่อ AC / aircon — พูดแค่ air เฉยๆ ฝรั่งงง!",
+      "distractors": [
+        "fan",
+        "heater",
+        "air freshener"
+      ]
+    },
+    {
+      "id": "remote_control",
+      "word": "remote control",
+      "pos": "noun",
+      "ipa": "/rɪˌmoʊt kənˈtroʊl/",
+      "reading_th": "รี-โมท-คอน-โทรล",
+      "meaning_th": "รีโมต",
+      "emoji": "📺",
+      "example_en": "The remote control for the TV isn't working.",
+      "example_th": "รีโมตทีวีกดไม่ติด",
+      "cefr": "A2",
+      "note_th": "พูดสั้นๆ ว่า remote ก็พอ เช่น Where's the remote? (รีโมตอยู่ไหน)",
+      "distractors": [
+        "controller",
+        "recorder",
+        "charger"
+      ]
+    },
+    {
+      "id": "towel",
+      "word": "towel",
+      "pos": "noun",
+      "ipa": "/ˈtaʊəl/",
+      "reading_th": "เทา-เอิ่ล",
+      "meaning_th": "ผ้าเช็ดตัว",
+      "emoji": "🏖️",
+      "example_en": "Could we get two more towels, please?",
+      "example_th": "ขอผ้าเช็ดตัวเพิ่มอีกสองผืนครับ",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"เทา-เอิ่ล\" ไม่ใช่ \"ทาว-เวล\" ขอเพิ่มโทรบอกแม่บ้านหรือฟรอนต์ได้เลย",
+      "distractors": [
+        "tower",
+        "blanket",
+        "tissue"
+      ]
+    },
+    {
+      "id": "bedsheet",
+      "word": "bedsheet",
+      "pos": "noun",
+      "ipa": "/ˈbedʃiːt/",
+      "reading_th": "เบด-ชีท",
+      "meaning_th": "ผ้าปูที่นอน",
+      "emoji": null,
+      "example_en": "Please change the bedsheets today.",
+      "example_th": "วันนี้ช่วยเปลี่ยนผ้าปูที่นอนด้วยครับ",
+      "cefr": "B1",
+      "note_th": "bed (เตียง) + sheet (แผ่นผ้า) ส่วนปลอกหมอนคือ pillowcase และผ้านวมคือ duvet",
+      "distractors": [
+        "blanket",
+        "bedroom",
+        "spreadsheet"
+      ]
+    },
+    {
+      "id": "curtain",
+      "word": "curtain",
+      "pos": "noun",
+      "ipa": "/ˈkɜːrtən/",
+      "reading_th": "เคอร์-เทิ่น",
+      "meaning_th": "ผ้าม่าน",
+      "emoji": "🪟",
+      "example_en": "Open the curtains and look at that view!",
+      "example_th": "เปิดม่านดูวิวนั่นสิ!",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"เคอร์-เทิ่น\" เปิด/ปิดม่านใช้ open/close หรือ draw the curtains ก็ได้",
+      "distractors": [
+        "certain",
+        "cushion",
+        "carton"
+      ]
+    },
+    {
+      "id": "balcony",
+      "word": "balcony",
+      "pos": "noun",
+      "ipa": "/ˈbælkəni/",
+      "reading_th": "แบล-เคอ-นี่",
+      "meaning_th": "ระเบียง",
+      "emoji": "🌅",
+      "example_en": "Let's have coffee on the balcony.",
+      "example_th": "ไปนั่งจิบกาแฟที่ระเบียงกัน",
+      "cefr": "A2",
+      "note_th": "ห้องมีระเบียง = a room with a balcony ออกเสียง \"แบล-เคอ-นี่\" เน้นพยางค์แรก",
+      "distractors": [
+        "bakery",
+        "gallery",
+        "colony"
+      ]
+    },
+    {
+      "id": "minibar",
+      "word": "minibar",
+      "pos": "noun",
+      "ipa": "/ˈmɪnibɑːr/",
+      "reading_th": "มิ-นิ-บาร์",
+      "meaning_th": "มินิบาร์ (ตู้เย็นเล็กในห้อง)",
+      "emoji": "🥤",
+      "example_en": "Drinks from the minibar are not free!",
+      "example_th": "เครื่องดื่มในมินิบาร์ไม่ฟรีนะ!",
+      "cefr": "B1",
+      "note_th": "กับดักนักเดินทาง: ของในมินิบาร์แพงกว่าเซเว่น 3-5 เท่า! แต่น้ำเปล่าที่วางพร้อมป้าย complimentary = ฟรี",
+      "distractors": [
+        "minivan",
+        "fridge",
+        "snack bar"
+      ]
+    },
+    {
+      "id": "safe",
+      "word": "safe",
+      "pos": "noun",
+      "ipa": "/seɪf/",
+      "reading_th": "เซฟ",
+      "meaning_th": "ตู้เซฟ",
+      "emoji": "🔐",
+      "example_en": "Keep your passport in the safe.",
+      "example_th": "เก็บพาสปอร์ตไว้ในตู้เซฟนะ",
+      "cefr": "A2",
+      "note_th": "safe เป็นคำนาม = ตู้เซฟ และเป็น adjective = ปลอดภัย เช่น Is this area safe? (แถวนี้ปลอดภัยไหม)",
+      "distractors": [
+        "save",
+        "sofa",
+        "shelf"
+      ]
+    },
+    {
+      "id": "hair_dryer",
+      "word": "hair dryer",
+      "pos": "noun",
+      "ipa": "/ˈher ˌdraɪər/",
+      "reading_th": "แฮร์-ดราย-เออร์",
+      "meaning_th": "ไดร์เป่าผม",
+      "emoji": "💨",
+      "example_en": "Is there a hair dryer in the room?",
+      "example_th": "ในห้องมีไดร์เป่าผมไหมคะ",
+      "cefr": "A2",
+      "note_th": "คนไทยเรียก \"ไดร์\" มาจาก dryer มักซ่อนอยู่ในลิ้นชักโต๊ะเครื่องแป้งหรือแขวนในห้องน้ำ",
+      "distractors": [
+        "hair spray",
+        "dryer",
+        "hair cut"
+      ]
+    },
+    {
+      "id": "bathtub",
+      "word": "bathtub",
+      "pos": "noun",
+      "ipa": "/ˈbæθtʌb/",
+      "reading_th": "แบธ-ทับ",
+      "meaning_th": "อ่างอาบน้ำ",
+      "emoji": "🛁",
+      "example_en": "This room has a bathtub with a city view.",
+      "example_th": "ห้องนี้มีอ่างอาบน้ำวิวเมือง",
+      "cefr": "A2",
+      "note_th": "bath (การอาบ) + tub (อ่าง) — แช่อ่าง = take a bath ส่วนอาบฝักบัว = take a shower",
+      "distractors": [
+        "bathroom",
+        "shower",
+        "swimming pool"
+      ]
+    },
+    {
+      "id": "slippers",
+      "word": "slippers",
+      "pos": "noun",
+      "ipa": "/ˈslɪpərz/",
+      "reading_th": "สลิป-เปอร์ส",
+      "meaning_th": "รองเท้าแตะใส่ในห้อง / สลิปเปอร์",
+      "emoji": "🥿",
+      "example_en": "Free slippers are in the wardrobe.",
+      "example_th": "สลิปเปอร์ฟรีอยู่ในตู้เสื้อผ้า",
+      "cefr": "A2",
+      "note_th": "slippers = แตะนุ่มๆ ใส่ในบ้าน/โรงแรม ส่วนแตะออกแดดคือ flip-flops หรือ sandals",
+      "distractors": [
+        "sneakers",
+        "sandals",
+        "socks"
+      ]
+    },
+    {
+      "id": "bathrobe",
+      "word": "bathrobe",
+      "pos": "noun",
+      "ipa": "/ˈbæθroʊb/",
+      "reading_th": "แบธ-โรบ",
+      "meaning_th": "เสื้อคลุมอาบน้ำ",
+      "emoji": "🥋",
+      "example_en": "The hotel provides soft white bathrobes.",
+      "example_th": "โรงแรมมีเสื้อคลุมอาบน้ำสีขาวนุ่มๆ ให้",
+      "cefr": "B1",
+      "note_th": "bath + robe (เสื้อคลุม) ใส่ในห้องได้ แต่อย่าหยิบกลับบ้าน — โดนชาร์จเงินแน่นอน!",
+      "distractors": [
+        "bathtub",
+        "pajamas",
+        "raincoat"
+      ]
+    },
+    {
+      "id": "wardrobe",
+      "word": "wardrobe",
+      "pos": "noun",
+      "ipa": "/ˈwɔːrdroʊb/",
+      "reading_th": "วอร์-โดรบ",
+      "meaning_th": "ตู้เสื้อผ้า",
+      "emoji": "🚪",
+      "example_en": "Hang your clothes in the wardrobe.",
+      "example_th": "แขวนเสื้อผ้าไว้ในตู้ได้เลย",
+      "cefr": "B1",
+      "note_th": "อังกฤษใช้ wardrobe อเมริกาใช้ closet — เช็คเอาท์ทีไรอย่าลืมเปิดตู้ดูของที่แขวนไว้!",
+      "distractors": [
+        "cupboard",
+        "drawer",
+        "bathrobe"
+      ]
+    },
+    {
+      "id": "socket",
+      "word": "socket",
+      "pos": "noun",
+      "ipa": "/ˈsɑːkɪt/",
+      "reading_th": "ซ็อค-เก็ต",
+      "meaning_th": "ปลั๊กไฟ (เต้ารับ)",
+      "emoji": "🔌",
+      "example_en": "Is there a socket near the bed?",
+      "example_th": "มีปลั๊กไฟใกล้เตียงไหม",
+      "cefr": "B1",
+      "note_th": "socket/outlet = เต้ารับที่ผนัง ส่วน plug = หัวปลั๊กที่เสียบ และ adapter = ตัวแปลงขาปลั๊กต่างประเทศ",
+      "distractors": [
+        "plug",
+        "switch",
+        "pocket"
+      ]
+    },
+    {
+      "id": "room_service",
+      "word": "room service",
+      "pos": "noun",
+      "ipa": "/ˈruːm ˌsɜːrvɪs/",
+      "reading_th": "รูม-เซอร์-วิส",
+      "meaning_th": "รูมเซอร์วิส (สั่งอาหารถึงห้อง)",
+      "emoji": "🍽️",
+      "example_en": "Let's order room service tonight.",
+      "example_th": "คืนนี้สั่งรูมเซอร์วิสกินกันเถอะ",
+      "cefr": "A2",
+      "note_th": "สั่งอาหารมาส่งถึงห้อง มักบวกค่าบริการเพิ่ม เมนูอยู่ในห้อง โทรกดเบอร์ room service ได้เลย",
+      "distractors": [
+        "self service",
+        "service charge",
+        "housekeeping"
+      ]
+    },
+    {
+      "id": "housekeeping",
+      "word": "housekeeping",
+      "pos": "noun",
+      "ipa": "/ˈhaʊskiːpɪŋ/",
+      "reading_th": "เฮาส์-คีพ-ปิ้ง",
+      "meaning_th": "แผนกแม่บ้าน",
+      "emoji": "🧹",
+      "example_en": "Housekeeping cleans the rooms every morning.",
+      "example_th": "แม่บ้านทำความสะอาดห้องทุกเช้า",
+      "cefr": "B1",
+      "note_th": "ไม่อยากให้ทำห้อง แขวนป้าย Do Not Disturb / อยากให้ทำ แขวนป้าย Make Up Room",
+      "distractors": [
+        "housework",
+        "housewife",
+        "room service"
+      ]
+    },
+    {
+      "id": "laundry",
+      "word": "laundry",
+      "pos": "noun",
+      "ipa": "/ˈlɔːndri/",
+      "reading_th": "ลอน-ดรี่",
+      "meaning_th": "บริการซักรีด / ผ้าที่ต้องซัก",
+      "emoji": "👕",
+      "example_en": "Does the hotel have a laundry service?",
+      "example_th": "โรงแรมมีบริการซักรีดไหมครับ",
+      "cefr": "A2",
+      "note_th": "do the laundry = ซักผ้า และถุงใส่ผ้าซักในห้องคือ laundry bag ราคาซักโรงแรมแพง — ข้างนอกถูกกว่าเยอะ",
+      "distractors": [
+        "library",
+        "lavatory",
+        "landing"
+      ]
+    },
+    {
+      "id": "wifi",
+      "word": "Wi-Fi",
+      "pos": "noun",
+      "ipa": "/ˈwaɪfaɪ/",
+      "reading_th": "ไว-ไฟ",
+      "meaning_th": "ไวไฟ / อินเทอร์เน็ตไร้สาย",
+      "emoji": "📶",
+      "example_en": "What's the Wi-Fi password?",
+      "example_th": "รหัสไวไฟอะไรครับ",
+      "cefr": "A1",
+      "note_th": "ประโยคแรกที่นักเดินทางทุกคนต้องพูด: What's the Wi-Fi password? 😄 ออกเสียง \"ไว-ไฟ\" ไม่ใช่ \"วี-ฟี\"",
+      "distractors": [
+        "hi-fi",
+        "wire",
+        "Bluetooth"
+      ]
+    },
+    {
+      "id": "password",
+      "word": "password",
+      "pos": "noun",
+      "ipa": "/ˈpæswɜːrd/",
+      "reading_th": "พาส-เวิร์ด",
+      "meaning_th": "รหัสผ่าน",
+      "emoji": "🔑",
+      "example_en": "The password is on the key card holder.",
+      "example_th": "รหัสผ่านอยู่บนซองคีย์การ์ด",
+      "cefr": "A1",
+      "note_th": "pass (ผ่าน) + word (คำ) = คำผ่าน ส่วนรหัส PIN คือตัวเลขล้วน",
+      "distractors": [
+        "passport",
+        "keyword",
+        "postcode"
+      ]
+    },
+    {
+      "id": "swimming_pool",
+      "word": "swimming pool",
+      "pos": "noun",
+      "ipa": "/ˈswɪmɪŋ puːl/",
+      "reading_th": "สวิม-มิ่ง-พูล",
+      "meaning_th": "สระว่ายน้ำ",
+      "emoji": "🏊",
+      "example_en": "The swimming pool is open until 8 PM.",
+      "example_th": "สระว่ายน้ำเปิดถึงสองทุ่ม",
+      "cefr": "A1",
+      "note_th": "พูดสั้นๆ ว่า pool ก็ได้ สระบนดาดฟ้า = rooftop pool / สระไร้ขอบ = infinity pool",
+      "distractors": [
+        "bathing pool",
+        "pond",
+        "bathtub"
+      ]
+    },
+    {
+      "id": "gym",
+      "word": "gym",
+      "pos": "noun",
+      "ipa": "/dʒɪm/",
+      "reading_th": "จิม",
+      "meaning_th": "ฟิตเนส / ห้องออกกำลังกาย",
+      "emoji": "🏋️",
+      "example_en": "The gym is on the third floor.",
+      "example_th": "ฟิตเนสอยู่ชั้นสาม",
+      "cefr": "A2",
+      "note_th": "gym ย่อจาก gymnasium คนไทยเรียกฟิตเนส ฝรั่งเรียก gym — ไปออกกำลัง = go to the gym / work out",
+      "distractors": [
+        "gem",
+        "jam",
+        "game"
+      ]
+    },
+    {
+      "id": "spa",
+      "word": "spa",
+      "pos": "noun",
+      "ipa": "/spɑː/",
+      "reading_th": "สปา",
+      "meaning_th": "สปา",
+      "emoji": "💆",
+      "example_en": "I booked a spa treatment for this afternoon.",
+      "example_th": "ฉันจองทรีตเมนต์สปาไว้ตอนบ่าย",
+      "cefr": "A2",
+      "note_th": "สปาไทยดังระดับโลก! treatment = คอร์ส/โปรแกรมที่ทำ เช่น facial treatment (ทรีตเมนต์หน้า)",
+      "distractors": [
+        "span",
+        "soap",
+        "sauna"
+      ]
+    },
+    {
+      "id": "massage",
+      "word": "massage",
+      "pos": "noun",
+      "ipa": "/məˈsɑːʒ/",
+      "reading_th": "เมอะ-ซาจ",
+      "meaning_th": "การนวด",
+      "emoji": "💆‍♂️",
+      "example_en": "A Thai massage after a long flight is perfect.",
+      "example_th": "นวดไทยหลังบินไกลๆ นี่สุดยอดเลย",
+      "cefr": "A2",
+      "note_th": "เน้นพยางค์หลัง \"เมอะ-ซาจ\" ระวังอย่าออกเสียงเหมือน message (ข้อความ) ที่เน้นพยางค์แรก!",
+      "distractors": [
+        "message",
+        "mirage",
+        "manage"
+      ]
+    },
+    {
+      "id": "buffet",
+      "word": "buffet",
+      "pos": "noun",
+      "ipa": "/bəˈfeɪ/",
+      "reading_th": "บุฟ-เฟ่",
+      "meaning_th": "บุฟเฟ่ต์",
+      "emoji": "🍽️",
+      "example_en": "The breakfast buffet has Thai and Western food.",
+      "example_th": "บุฟเฟ่ต์เช้ามีทั้งอาหารไทยและฝรั่ง",
+      "cefr": "A2",
+      "note_th": "ตัว t ไม่ออกเสียง! อ่านว่า \"บุฟ-เฟ่\" (คำฝรั่งเศส) ไม่ใช่ \"บุฟ-เฟ่ต์\" แบบไทย",
+      "distractors": [
+        "banquet",
+        "briefcase",
+        "budget"
+      ]
+    },
+    {
+      "id": "airport_shuttle",
+      "word": "airport shuttle",
+      "pos": "noun",
+      "ipa": "/ˈerpɔːrt ˌʃʌtəl/",
+      "reading_th": "แอร์-พอร์ท-ชัท-เทิ่ล",
+      "meaning_th": "รถรับส่งสนามบิน",
+      "emoji": "🚐",
+      "example_en": "Does the hotel have a free airport shuttle?",
+      "example_th": "โรงแรมมีรถรับส่งสนามบินฟรีไหมครับ",
+      "cefr": "B1",
+      "note_th": "shuttle = รถวิ่งรับส่งประจำเส้นทาง ถามตอนจองเลยว่ามี free shuttle ไหม ประหยัดค่าแท็กซี่ได้เยอะ",
+      "distractors": [
+        "airport taxi",
+        "space shuttle",
+        "shuttle bus"
+      ]
+    },
+    {
+      "id": "extra_bed",
+      "word": "extra bed",
+      "pos": "noun",
+      "ipa": "/ˌekstrə ˈbed/",
+      "reading_th": "เอ็ค-สตร้า-เบด",
+      "meaning_th": "เตียงเสริม",
+      "emoji": null,
+      "example_en": "Can we add an extra bed for our son?",
+      "example_th": "ขอเตียงเสริมให้ลูกชายได้ไหมครับ",
+      "cefr": "A2",
+      "note_th": "extra = เพิ่ม/เสริม ใช้ได้หลายอย่าง: extra pillow (หมอนเพิ่ม) extra charge (เงินเพิ่ม)",
+      "distractors": [
+        "double bed",
+        "extra charge",
+        "sofa bed"
+      ]
+    },
+    {
+      "id": "iron",
+      "word": "iron",
+      "pos": "noun",
+      "ipa": "/ˈaɪərn/",
+      "reading_th": "ไอ-เอิร์น",
+      "meaning_th": "เตารีด",
+      "emoji": "🔥",
+      "example_en": "Can I borrow an iron for my shirt?",
+      "example_th": "ขอยืมเตารีดรีดเสื้อหน่อยได้ไหมครับ",
+      "cefr": "A2",
+      "note_th": "ตัว r แทบไม่ออกเสียง อ่านว่า \"ไอ-เอิร์น\" — iron เป็นกริยา (รีดผ้า) และแปลว่าเหล็กได้ด้วย",
+      "distractors": [
+        "ion",
+        "oven",
+        "hanger"
+      ]
+    },
+    {
+      "id": "rooftop",
+      "word": "rooftop",
+      "pos": "noun",
+      "ipa": "/ˈruːftɑːp/",
+      "reading_th": "รูฟ-ท็อพ",
+      "meaning_th": "ดาดฟ้า",
+      "emoji": "🌆",
+      "example_en": "There's a rooftop bar with an amazing view.",
+      "example_th": "มีบาร์บนดาดฟ้าวิวสวยมาก",
+      "cefr": "B1",
+      "note_th": "roof (หลังคา) + top (บนสุด) — rooftop bar/pool คือจุดขายยอดฮิตของโรงแรมกรุงเทพฯ",
+      "distractors": [
+        "roof",
+        "hilltop",
+        "basement"
+      ]
+    },
+    {
+      "id": "broken",
+      "word": "broken",
+      "pos": "adjective",
+      "ipa": "/ˈbroʊkən/",
+      "reading_th": "โบร-เค่น",
+      "meaning_th": "พัง / แตก / เสีย",
+      "emoji": "🔧",
+      "example_en": "The lamp in our room is broken.",
+      "example_th": "โคมไฟในห้องเราพัง",
+      "cefr": "A2",
+      "note_th": "มาจาก break (พัง) ช่อง 3 — แจ้งของพังพูดง่ายๆ: The ... is broken. ใช้ได้กับเกือบทุกอย่าง",
+      "distractors": [
+        "broke",
+        "fixed",
+        "open"
+      ]
+    },
+    {
+      "id": "not_working",
+      "word": "not working",
+      "pos": "phrase",
+      "ipa": "/ˌnɑːt ˈwɜːrkɪŋ/",
+      "reading_th": "น็อท-เวิร์ค-กิ้ง",
+      "meaning_th": "ใช้งานไม่ได้ / เสีย",
+      "emoji": null,
+      "example_en": "The TV is not working at all.",
+      "example_th": "ทีวีเปิดไม่ติดเลย",
+      "cefr": "A2",
+      "note_th": "work ไม่ได้แปลว่าทำงานอย่างเดียว — เครื่องใช้ \"ทำงาน/ใช้ได้\" ก็ใช้ work เช่น It doesn't work = มันเสีย",
+      "distractors": [
+        "not moving",
+        "not open",
+        "no work"
+      ]
+    },
+    {
+      "id": "fix",
+      "word": "fix",
+      "pos": "verb",
+      "ipa": "/fɪks/",
+      "reading_th": "ฟิกซ์",
+      "meaning_th": "ซ่อม",
+      "emoji": "🔨",
+      "example_en": "Can someone come fix the shower?",
+      "example_th": "ช่วยส่งคนมาซ่อมฝักบัวหน่อยได้ไหมครับ",
+      "cefr": "A2",
+      "note_th": "fix = repair = ซ่อม ประโยคแจ้งซ่อม: Can you send someone to fix it?",
+      "distractors": [
+        "mix",
+        "fit",
+        "check"
+      ]
+    },
+    {
+      "id": "leak",
+      "word": "leak",
+      "pos": "verb",
+      "ipa": "/liːk/",
+      "reading_th": "ลีค",
+      "meaning_th": "รั่ว",
+      "emoji": "💧",
+      "example_en": "The pipe under the sink is leaking.",
+      "example_th": "ท่อใต้อ่างล้างหน้ารั่ว",
+      "cefr": "B1",
+      "note_th": "ใช้กับน้ำ/แก๊สรั่ว และข้อมูลรั่วไหลก็ใช้ leak เหมือนกัน เช่น The news leaked (ข่าวหลุด)",
+      "distractors": [
+        "lick",
+        "lake",
+        "lock"
+      ]
+    },
+    {
+      "id": "blocked",
+      "word": "blocked",
+      "pos": "adjective",
+      "ipa": "/blɑːkt/",
+      "reading_th": "บล็อคท์",
+      "meaning_th": "ตัน / อุดตัน",
+      "emoji": null,
+      "example_en": "The toilet is blocked, please help!",
+      "example_th": "ชักโครกตัน ช่วยด้วยครับ!",
+      "cefr": "B1",
+      "note_th": "ท่อตัน/ส้วมตัน = blocked หรือ clogged (อเมริกัน) และ block ยังใช้กับการบล็อกคนในโซเชียลด้วย",
+      "distractors": [
+        "black",
+        "locked",
+        "broken"
+      ]
+    },
+    {
+      "id": "noisy",
+      "word": "noisy",
+      "pos": "adjective",
+      "ipa": "/ˈnɔɪzi/",
+      "reading_th": "นอย-ซี่",
+      "meaning_th": "เสียงดัง / หนวกหู",
+      "emoji": "🔊",
+      "example_en": "The room next door is very noisy.",
+      "example_th": "ห้องข้างๆ เสียงดังมาก",
+      "cefr": "A2",
+      "note_th": "มาจาก noise (เสียงรบกวน) ขอย้ายห้องเพราะเสียงดัง: It's too noisy, can I change rooms?",
+      "distractors": [
+        "quiet",
+        "nosy",
+        "busy"
+      ]
+    },
+    {
+      "id": "dirty",
+      "word": "dirty",
+      "pos": "adjective",
+      "ipa": "/ˈdɜːrti/",
+      "reading_th": "เดอร์-ตี้",
+      "meaning_th": "สกปรก",
+      "emoji": null,
+      "example_en": "The bedsheets look dirty.",
+      "example_th": "ผ้าปูที่นอนดูสกปรก",
+      "cefr": "A1",
+      "note_th": "มาจาก dirt (สิ่งสกปรก/ดิน) ตรงข้ามคือ clean — ระวังเสียงใกล้ thirty (สามสิบ)",
+      "distractors": [
+        "thirty",
+        "clean",
+        "tidy"
+      ]
+    },
+    {
+      "id": "smelly",
+      "word": "smelly",
+      "pos": "adjective",
+      "ipa": "/ˈsmeli/",
+      "reading_th": "สเมล-ลี่",
+      "meaning_th": "เหม็น",
+      "emoji": "🦨",
+      "example_en": "The bathroom is a bit smelly.",
+      "example_th": "ห้องน้ำเหม็นนิดหน่อย",
+      "cefr": "B1",
+      "note_th": "smelly = มีกลิ่นเหม็น (adjective จาก smell) พูดสุภาพขึ้น: There's a strange smell (มีกลิ่นแปลกๆ)",
+      "distractors": [
+        "smiley",
+        "fresh",
+        "salty"
+      ]
+    },
+    {
+      "id": "no_hot_water",
+      "word": "no hot water",
+      "pos": "phrase",
+      "ipa": "/ˌnoʊ hɑːt ˈwɔːtər/",
+      "reading_th": "โน-ฮอท-วอ-เตอร์",
+      "meaning_th": "น้ำอุ่นไม่ไหล / ไม่มีน้ำร้อน",
+      "emoji": "🥶",
+      "example_en": "There's no hot water in the shower!",
+      "example_th": "ฝักบัวน้ำอุ่นไม่ไหลเลย!",
+      "cefr": "A2",
+      "note_th": "ปัญหาคลาสสิกของนักเดินทาง 😅 โครงสร้าง There's no... ใช้แจ้งของหายไปได้หมด: There's no towel/soap/Wi-Fi",
+      "distractors": [
+        "no cold water",
+        "no water",
+        "hot water"
+      ]
+    },
+    {
+      "id": "lost_key",
+      "word": "lost my key",
+      "pos": "phrase",
+      "ipa": "/ˌlɔːst maɪ ˈkiː/",
+      "reading_th": "ลอสท์-มาย-คีย์",
+      "meaning_th": "ทำกุญแจ/คีย์การ์ดหาย",
+      "emoji": "🔑",
+      "example_en": "I'm sorry, I lost my key card.",
+      "example_th": "ขอโทษครับ ผมทำคีย์การ์ดหาย",
+      "cefr": "A2",
+      "note_th": "lose (ทำหาย) ช่อง 2 คือ lost — ประโยคขอโทษ+แจ้งหาย: I'm sorry, I lost my... ใช้ได้ทุกสถานการณ์",
+      "distractors": [
+        "found my key",
+        "lost my way",
+        "broke my key"
+      ]
+    },
+    {
+      "id": "change_room",
+      "word": "change rooms",
+      "pos": "phrase",
+      "ipa": "/ˌtʃeɪndʒ ˈruːmz/",
+      "reading_th": "เชนจ์-รูมส์",
+      "meaning_th": "ขอย้ายห้อง",
+      "emoji": null,
+      "example_en": "Could we change rooms? This one is too noisy.",
+      "example_th": "ขอย้ายห้องได้ไหมครับ ห้องนี้เสียงดังไป",
+      "cefr": "A2",
+      "note_th": "ขอเปลี่ยนห้องพูดว่า change rooms (มี s เพราะเปลี่ยนจากห้องหนึ่งไปอีกห้องหนึ่ง = 2 ห้อง)",
+      "distractors": [
+        "clean rooms",
+        "book rooms",
+        "share rooms"
+      ]
+    },
+    {
+      "id": "complain",
+      "word": "complain",
+      "pos": "verb",
+      "ipa": "/kəmˈpleɪn/",
+      "reading_th": "คอม-เพลน",
+      "meaning_th": "ร้องเรียน / บ่น",
+      "emoji": null,
+      "example_en": "I'd like to complain about the noise.",
+      "example_th": "ผมอยากร้องเรียนเรื่องเสียงดังครับ",
+      "cefr": "B1",
+      "note_th": "complain about + เรื่องที่ร้องเรียน ส่วนคำนามคือ complaint (มี t) เช่น make a complaint",
+      "distractors": [
+        "complete",
+        "explain",
+        "compare"
+      ]
+    },
+    {
+      "id": "apologize",
+      "word": "apologize",
+      "pos": "verb",
+      "ipa": "/əˈpɑːlədʒaɪz/",
+      "reading_th": "อะ-พอ-โล-ไจซ์",
+      "meaning_th": "ขอโทษ",
+      "emoji": "🙏",
+      "example_en": "The manager apologized and gave us a discount.",
+      "example_th": "ผู้จัดการขอโทษและลดราคาให้เรา",
+      "cefr": "B1",
+      "note_th": "apologize for + เรื่องที่ขอโทษ เช่น We apologize for the inconvenience (ขออภัยในความไม่สะดวก) — ประโยคที่เจอบ่อยสุดในป้ายประกาศ",
+      "distractors": [
+        "apology",
+        "analyze",
+        "organize"
+      ]
+    },
+    {
+      "id": "maintenance",
+      "word": "maintenance",
+      "pos": "noun",
+      "ipa": "/ˈmeɪntənəns/",
+      "reading_th": "เมน-เทอ-เนินซ์",
+      "meaning_th": "งานซ่อมบำรุง / ช่างอาคาร",
+      "emoji": "🛠️",
+      "example_en": "Maintenance will come to your room in ten minutes.",
+      "example_th": "ช่างจะขึ้นไปที่ห้องในสิบนาที",
+      "cefr": "B1",
+      "note_th": "ป้าย Under maintenance = ปิดปรับปรุง เจอบ่อยทั้งลิฟต์ สระว่ายน้ำ และเว็บไซต์",
+      "distractors": [
+        "management",
+        "mountains",
+        "entrance"
+      ]
+    },
+    {
+      "id": "map",
+      "word": "map",
+      "pos": "noun",
+      "ipa": "/mæp/",
+      "reading_th": "แมพ",
+      "meaning_th": "แผนที่",
+      "emoji": "🗺️",
+      "example_en": "Do you have a map of the city?",
+      "example_th": "มีแผนที่เมืองไหมครับ",
+      "cefr": "A1",
+      "note_th": "ยุคนี้ใช้ Google Maps แต่ประโยค Can you show me on the map? (ชี้บนแผนที่ให้หน่อย) ยังใช้ได้เสมอ",
+      "distractors": [
+        "mop",
+        "cap",
+        "lamp"
+      ]
+    },
+    {
+      "id": "nearby",
+      "word": "nearby",
+      "pos": "adjective",
+      "ipa": "/ˌnɪrˈbaɪ/",
+      "reading_th": "เนียร์-บาย",
+      "meaning_th": "ใกล้ๆ แถวนี้",
+      "emoji": "📍",
+      "example_en": "Is there a 7-Eleven nearby?",
+      "example_th": "แถวนี้มีเซเว่นไหมครับ",
+      "cefr": "A2",
+      "note_th": "ประโยคเอาตัวรอด: Is there a ... nearby? ใช้หาทุกอย่าง ร้านอาหาร ATM ร้านยา",
+      "distractors": [
+        "faraway",
+        "nearly",
+        "beside"
+      ]
+    },
+    {
+      "id": "far",
+      "word": "far",
+      "pos": "adjective",
+      "ipa": "/fɑːr/",
+      "reading_th": "ฟาร์",
+      "meaning_th": "ไกล",
+      "emoji": null,
+      "example_en": "Is the night market far from here?",
+      "example_th": "ตลาดกลางคืนไกลจากที่นี่ไหม",
+      "cefr": "A1",
+      "note_th": "ถามระยะทาง: How far is it? (ไกลแค่ไหน) ตอบ: It's a 10-minute walk (เดิน 10 นาที)",
+      "distractors": [
+        "near",
+        "fast",
+        "fair"
+      ]
+    },
+    {
+      "id": "next_to",
+      "word": "next to",
+      "pos": "phrase",
+      "ipa": "/ˈnekst tuː/",
+      "reading_th": "เน็คซท์-ทู",
+      "meaning_th": "ติดกับ / ข้างๆ",
+      "emoji": null,
+      "example_en": "The pharmacy is next to the bank.",
+      "example_th": "ร้านยาอยู่ติดกับธนาคาร",
+      "cefr": "A1",
+      "note_th": "next to = beside = ข้างๆ เป็นคำบอกตำแหน่งที่ใช้บ่อยสุดตอนถามทาง",
+      "distractors": [
+        "far from",
+        "in front of",
+        "behind"
+      ]
+    },
+    {
+      "id": "opposite",
+      "word": "opposite",
+      "pos": "preposition",
+      "ipa": "/ˈɑːpəzɪt/",
+      "reading_th": "อ็อพ-โพ-ซิท",
+      "meaning_th": "ตรงข้าม",
+      "emoji": null,
+      "example_en": "The cafe is opposite the temple.",
+      "example_th": "คาเฟ่อยู่ตรงข้ามวัด",
+      "cefr": "A2",
+      "note_th": "opposite = อยู่ฝั่งตรงข้าม (มักคนละฝั่งถนน) ต่างจาก in front of = อยู่ด้านหน้า (ฝั่งเดียวกัน)",
+      "distractors": [
+        "beside",
+        "behind",
+        "above"
+      ]
+    },
+    {
+      "id": "corner",
+      "word": "corner",
+      "pos": "noun",
+      "ipa": "/ˈkɔːrnər/",
+      "reading_th": "คอร์-เนอร์",
+      "meaning_th": "หัวมุม / มุมถนน",
+      "emoji": null,
+      "example_en": "Turn right at the corner.",
+      "example_th": "เลี้ยวขวาตรงหัวมุม",
+      "cefr": "A2",
+      "note_th": "on the corner = ตรงหัวมุมถนน / around the corner = เลยมุมไปนิดเดียว (ใกล้มาก)",
+      "distractors": [
+        "counter",
+        "center",
+        "curve"
+      ]
+    },
+    {
+      "id": "intersection",
+      "word": "intersection",
+      "pos": "noun",
+      "ipa": "/ˌɪntərˈsekʃən/",
+      "reading_th": "อิน-เตอร์-เซค-ชั่น",
+      "meaning_th": "สี่แยก",
+      "emoji": "🚦",
+      "example_en": "Go straight past two intersections.",
+      "example_th": "ตรงไปผ่านสองแยก",
+      "cefr": "B1",
+      "note_th": "อเมริกาใช้ intersection อังกฤษใช้ crossroads หรือ junction — สี่แยกไฟแดง = intersection with traffic lights",
+      "distractors": [
+        "interaction",
+        "section",
+        "junction"
+      ]
+    },
+    {
+      "id": "go_straight",
+      "word": "go straight",
+      "pos": "phrase",
+      "ipa": "/ˌɡoʊ ˈstreɪt/",
+      "reading_th": "โก-สเตรท",
+      "meaning_th": "ตรงไป",
+      "emoji": "⬆️",
+      "example_en": "Go straight for two blocks.",
+      "example_th": "ตรงไปสองช่วงตึก",
+      "cefr": "A1",
+      "note_th": "straight ออกเสียง \"สเตรท\" (gh ไม่ออกเสียง) และ block = ช่วงตึก หน่วยบอกระยะแบบฝรั่ง",
+      "distractors": [
+        "go back",
+        "go around",
+        "go up"
+      ]
+    },
+    {
+      "id": "turn_left",
+      "word": "turn left",
+      "pos": "phrase",
+      "ipa": "/ˌtɜːrn ˈleft/",
+      "reading_th": "เทิร์น-เลฟท์",
+      "meaning_th": "เลี้ยวซ้าย",
+      "emoji": "⬅️",
+      "example_en": "Turn left at the traffic lights.",
+      "example_th": "เลี้ยวซ้ายตรงไฟแดง",
+      "cefr": "A1",
+      "note_th": "traffic lights = ไฟแดง/สัญญาณไฟจราจร — ฟังทางให้จับคำ turn left/right + จุดสังเกต",
+      "distractors": [
+        "turn right",
+        "turn back",
+        "left turn"
+      ]
+    },
+    {
+      "id": "turn_right",
+      "word": "turn right",
+      "pos": "phrase",
+      "ipa": "/ˌtɜːrn ˈraɪt/",
+      "reading_th": "เทิร์น-ไรท์",
+      "meaning_th": "เลี้ยวขวา",
+      "emoji": "➡️",
+      "example_en": "Turn right after the bridge.",
+      "example_th": "ข้ามสะพานแล้วเลี้ยวขวา",
+      "cefr": "A1",
+      "note_th": "right แปลว่า \"ขวา\" และ \"ถูกต้อง\" ได้ทั้งคู่ เช่น That's right! (ถูกต้อง!) ดูบริบท",
+      "distractors": [
+        "turn left",
+        "right now",
+        "go right"
+      ]
+    },
+    {
+      "id": "bus_stop",
+      "word": "bus stop",
+      "pos": "noun",
+      "ipa": "/ˈbʌs stɑːp/",
+      "reading_th": "บัส-สต็อพ",
+      "meaning_th": "ป้ายรถเมล์",
+      "emoji": "🚏",
+      "example_en": "The bus stop is in front of the hotel.",
+      "example_th": "ป้ายรถเมล์อยู่หน้าโรงแรม",
+      "cefr": "A1",
+      "note_th": "bus stop = ป้ายจอดรับส่ง / bus station = สถานีขนส่ง (ใหญ่กว่า มีหลายสาย)",
+      "distractors": [
+        "bus station",
+        "train stop",
+        "stop sign"
+      ]
+    },
+    {
+      "id": "landmark",
+      "word": "landmark",
+      "pos": "noun",
+      "ipa": "/ˈlændmɑːrk/",
+      "reading_th": "แลนด์-มาร์ค",
+      "meaning_th": "จุดสังเกต / สถานที่สำคัญ",
+      "emoji": "🗼",
+      "example_en": "The Grand Palace is Bangkok's most famous landmark.",
+      "example_th": "พระบรมมหาราชวังคือแลนด์มาร์กดังสุดของกรุงเทพฯ",
+      "cefr": "B1",
+      "note_th": "land (แผ่นดิน) + mark (จุดหมาย) — บอกทางแบบไทยๆ ก็อิงแลนด์มาร์ก: เลยเซเว่นไปนิดนึง 😄",
+      "distractors": [
+        "bookmark",
+        "landscape",
+        "trademark"
+      ]
+    },
+    {
+      "id": "get_lost",
+      "word": "get lost",
+      "pos": "phrase",
+      "ipa": "/ˌɡet ˈlɔːst/",
+      "reading_th": "เก็ท-ลอสท์",
+      "meaning_th": "หลงทาง",
+      "emoji": "😵",
+      "example_en": "We got lost in the old town.",
+      "example_th": "เราหลงทางในเมืองเก่า",
+      "cefr": "A2",
+      "note_th": "I'm lost = ฉันหลงทาง (ขอความช่วยเหลือ) แต่ระวัง! ตะโกน Get lost! ใส่คน = \"ไปให้พ้น\" หยาบมาก",
+      "distractors": [
+        "get tired",
+        "get off",
+        "lose it"
+      ]
+    },
+    {
+      "id": "temple",
+      "word": "temple",
+      "pos": "noun",
+      "ipa": "/ˈtempəl/",
+      "reading_th": "เทม-เพิ่ล",
+      "meaning_th": "วัด",
+      "emoji": "🛕",
+      "example_en": "Please dress politely when visiting a temple.",
+      "example_th": "เข้าวัดกรุณาแต่งกายสุภาพ",
+      "cefr": "A2",
+      "note_th": "แนะนำวัดให้ฝรั่ง: Wat Pho, Wat Arun — คำว่า Wat ฝรั่งรู้จักดี ใช้คู่กับ temple ได้เลย",
+      "distractors": [
+        "church",
+        "castle",
+        "temper"
+      ]
+    },
+    {
+      "id": "check_out",
+      "word": "check out",
+      "pos": "verb",
+      "ipa": "/ˌtʃek ˈaʊt/",
+      "reading_th": "เช็ค-เอาท์",
+      "meaning_th": "เช็คเอาท์ / คืนห้อง",
+      "emoji": "🧳",
+      "example_en": "We need to check out before noon.",
+      "example_th": "เราต้องเช็คเอาท์ก่อนเที่ยง",
+      "cefr": "A2",
+      "note_th": "check out ยังแปลว่า \"ลองดูสิ\" ได้ด้วย เช่น Check out this cafe! (ลองไปคาเฟ่นี้ดู) วัยรุ่นใช้บ่อย",
+      "distractors": [
+        "check in",
+        "checkout",
+        "take out"
+      ]
+    },
+    {
+      "id": "deposit",
+      "word": "deposit",
+      "pos": "noun",
+      "ipa": "/dɪˈpɑːzɪt/",
+      "reading_th": "ดิ-พอ-สิท",
+      "meaning_th": "เงินมัดจำ / เงินประกัน",
+      "emoji": "💰",
+      "example_en": "The hotel takes a 1,000 baht deposit at check-in.",
+      "example_th": "โรงแรมเก็บมัดจำ 1,000 บาทตอนเช็คอิน",
+      "cefr": "B1",
+      "note_th": "เงินประกันความเสียหาย คืนตอนเช็คเอาท์ถ้าไม่มีอะไรพัง — ถามคืนว่า Can I get my deposit back?",
+      "distractors": [
+        "discount",
+        "deposit box",
+        "payment"
+      ]
+    },
+    {
+      "id": "invoice",
+      "word": "invoice",
+      "pos": "noun",
+      "ipa": "/ˈɪnvɔɪs/",
+      "reading_th": "อิน-วอยซ์",
+      "meaning_th": "ใบแจ้งหนี้ / ใบกำกับ",
+      "emoji": null,
+      "example_en": "Could you email me the invoice?",
+      "example_th": "ช่วยส่งใบแจ้งหนี้ทางอีเมลได้ไหมครับ",
+      "cefr": "B1",
+      "note_th": "invoice ละเอียดกว่า receipt — เบิกบริษัทมักต้องใช้ invoice/tax invoice (ใบกำกับภาษี)",
+      "distractors": [
+        "voice",
+        "receipt",
+        "notice"
+      ]
+    },
+    {
+      "id": "damage",
+      "word": "damage",
+      "pos": "noun",
+      "ipa": "/ˈdæmɪdʒ/",
+      "reading_th": "แดม-มิจ",
+      "meaning_th": "ความเสียหาย",
+      "emoji": null,
+      "example_en": "You have to pay for any damage to the room.",
+      "example_th": "ถ้าห้องเสียหายต้องจ่ายค่าเสียหาย",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"แดม-มิจ\" ไม่ใช่ \"ดา-เมจ\" แบบเกม! และเป็นนามนับไม่ได้ (ไม่เติม s)",
+      "distractors": [
+        "danger",
+        "garbage",
+        "baggage"
+      ]
+    },
+    {
+      "id": "satisfied",
+      "word": "satisfied",
+      "pos": "adjective",
+      "ipa": "/ˈsætɪsfaɪd/",
+      "reading_th": "แซ-ทิส-ฟายด์",
+      "meaning_th": "พอใจ",
+      "emoji": "😊",
+      "example_en": "We were very satisfied with our stay.",
+      "example_th": "เราพอใจกับการเข้าพักมาก",
+      "cefr": "B1",
+      "note_th": "satisfied with + สิ่งที่พอใจ แบบสอบถามโรงแรมชอบถาม: How satisfied are you? (พอใจแค่ไหน)",
+      "distractors": [
+        "satisfying",
+        "surprised",
+        "specified"
+      ]
+    },
+    {
+      "id": "comfortable",
+      "word": "comfortable",
+      "pos": "adjective",
+      "ipa": "/ˈkʌmftərbəl/",
+      "reading_th": "คัมฟ์-เทอะ-เบิ้ล",
+      "meaning_th": "สบาย / นั่งนอนสบาย",
+      "emoji": "😌",
+      "example_en": "The bed was so comfortable I overslept.",
+      "example_th": "เตียงนอนสบายจนตื่นสาย",
+      "cefr": "A2",
+      "note_th": "ออกเสียงจริงแค่ 3 พยางค์ \"คัมฟ์-เทอะ-เบิ้ล\" ไม่ใช่ \"คอม-ฟอร์ท-เอ-เบิ้ล\" ภาษาพูดย่อว่า comfy",
+      "distractors": [
+        "convenient",
+        "confident",
+        "capable"
+      ]
+    },
+    {
+      "id": "convenient",
+      "word": "convenient",
+      "pos": "adjective",
+      "ipa": "/kənˈviːniənt/",
+      "reading_th": "คอน-วี-เนี่ยนท์",
+      "meaning_th": "สะดวก",
+      "emoji": null,
+      "example_en": "The location is convenient — near the BTS.",
+      "example_th": "ทำเลสะดวกมาก ใกล้บีทีเอส",
+      "cefr": "B1",
+      "note_th": "convenient = สะดวก (ทำเล/เวลา) ส่วน comfortable = สบาย (ความรู้สึกกาย) — ร้านสะดวกซื้อจึงชื่อ convenience store",
+      "distractors": [
+        "comfortable",
+        "confident",
+        "consistent"
+      ]
+    },
+    {
+      "id": "clean",
+      "word": "clean",
+      "pos": "adjective",
+      "ipa": "/kliːn/",
+      "reading_th": "คลีน",
+      "meaning_th": "สะอาด",
+      "emoji": "✨",
+      "example_en": "The room was spotlessly clean.",
+      "example_th": "ห้องสะอาดเอี่ยมไร้ที่ติ",
+      "cefr": "A1",
+      "note_th": "clean เป็นกริยาได้ด้วย = ทำความสะอาด และ spotless = สะอาดจนไร้จุดด่าง (คำชมขั้นสุด)",
+      "distractors": [
+        "clear",
+        "dirty",
+        "clever"
+      ]
+    },
+    {
+      "id": "cozy",
+      "word": "cozy",
+      "pos": "adjective",
+      "ipa": "/ˈkoʊzi/",
+      "reading_th": "โค-ซี่",
+      "meaning_th": "อบอุ่นน่าอยู่ / คอซี่",
+      "emoji": "🕯️",
+      "example_en": "The cafe downstairs is small but cozy.",
+      "example_th": "คาเฟ่ข้างล่างเล็กแต่อบอุ่นน่านั่ง",
+      "cefr": "B1",
+      "note_th": "cozy = บรรยากาศอบอุ่นสบายๆ คำโปรดของสายรีวิวคาเฟ่/ที่พัก อังกฤษสะกด cosy",
+      "distractors": [
+        "crazy",
+        "lazy",
+        "noisy"
+      ]
+    },
+    {
+      "id": "quiet",
+      "word": "quiet",
+      "pos": "adjective",
+      "ipa": "/ˈkwaɪət/",
+      "reading_th": "ไคว-เอิท",
+      "meaning_th": "เงียบสงบ",
+      "emoji": "🤫",
+      "example_en": "I want a quiet room away from the elevator.",
+      "example_th": "ขอห้องเงียบๆ ไกลจากลิฟต์",
+      "cefr": "A2",
+      "note_th": "ระวังสะกดสับสน: quiet (เงียบ \"ไคว-เอิท\") กับ quite (ค่อนข้าง \"ไควท์\") — สลับตัวอักษรความหมายเปลี่ยน!",
+      "distractors": [
+        "quite",
+        "quick",
+        "noisy"
+      ]
+    },
+    {
+      "id": "enjoy",
+      "word": "enjoy",
+      "pos": "verb",
+      "ipa": "/ɪnˈdʒɔɪ/",
+      "reading_th": "เอ็น-จอย",
+      "meaning_th": "เพลิดเพลิน / สนุกกับ",
+      "emoji": "🥳",
+      "example_en": "Enjoy your stay!",
+      "example_th": "ขอให้พักผ่อนอย่างมีความสุขนะคะ",
+      "cefr": "A1",
+      "note_th": "Enjoy your stay/meal/trip! = คำอวยพรมาตรฐานของพนักงานบริการ ตอบกลับง่ายๆ: Thank you!",
+      "distractors": [
+        "employ",
+        "annoy",
+        "join"
+      ]
+    },
+    {
+      "id": "impressive",
+      "word": "impressive",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpresɪv/",
+      "reading_th": "อิม-เพรส-ซีฟว์",
+      "meaning_th": "น่าประทับใจ",
+      "emoji": "🤩",
+      "example_en": "The rooftop view was really impressive.",
+      "example_th": "วิวดาดฟ้าน่าประทับใจสุดๆ",
+      "cefr": "B1",
+      "note_th": "กริยาคือ impress เช่น I was impressed (ฉันประทับใจ) ส่วน impressive ใช้ชมสิ่งของ/สถานที่",
+      "distractors": [
+        "expressive",
+        "expensive",
+        "aggressive"
+      ]
+    },
+    {
+      "id": "worth_it",
+      "word": "worth it",
+      "pos": "phrase",
+      "ipa": "/ˈwɜːrθ ɪt/",
+      "reading_th": "เวิร์ธ-อิท",
+      "meaning_th": "คุ้มค่า / คุ้ม",
+      "emoji": "👍",
+      "example_en": "A bit expensive, but totally worth it!",
+      "example_th": "แพงหน่อยแต่คุ้มสุดๆ!",
+      "cefr": "B1",
+      "note_th": "วลีรีวิวยอดฮิต: worth it = คุ้ม / not worth it = ไม่คุ้ม / worth a visit = ควรค่าแก่การไป",
+      "distractors": [
+        "worse",
+        "worthless",
+        "with it"
+      ]
+    },
+    {
+      "id": "come_back",
+      "word": "come back",
+      "pos": "phrase",
+      "ipa": "/ˌkʌm ˈbæk/",
+      "reading_th": "คัม-แบ็ค",
+      "meaning_th": "กลับมาอีก",
+      "emoji": "👋",
+      "example_en": "We will definitely come back next year!",
+      "example_th": "ปีหน้าเราจะกลับมาแน่นอน!",
+      "cefr": "A2",
+      "note_th": "คำชมสูงสุดของลูกค้า: I'll come back! และพนักงานจะบอก Please come back soon (แล้วกลับมาอีกนะคะ)",
+      "distractors": [
+        "go back",
+        "call back",
+        "come in"
+      ]
+    }
+  ]
+}
