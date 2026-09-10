@@ -29,7 +29,8 @@
           "breakfast_included",
           "high_season",
           "low_season"
-        ]
+        ],
+        "image": "lessons/hotel_1.webp"
       },
       {
         "id": "hotel_2",
@@ -51,7 +52,8 @@
           "luggage_storage",
           "porter",
           "wake_up_call"
-        ]
+        ],
+        "image": "lessons/hotel_2.webp"
       },
       {
         "id": "hotel_3",
@@ -73,7 +75,8 @@
           "bathrobe",
           "wardrobe",
           "socket"
-        ]
+        ],
+        "image": "lessons/hotel_3.webp"
       },
       {
         "id": "hotel_4",
@@ -95,7 +98,8 @@
           "extra_bed",
           "iron",
           "rooftop"
-        ]
+        ],
+        "image": "lessons/hotel_4.webp"
       },
       {
         "id": "hotel_5",
@@ -117,7 +121,8 @@
           "complain",
           "apologize",
           "maintenance"
-        ]
+        ],
+        "image": "lessons/hotel_5.webp"
       },
       {
         "id": "hotel_6",
@@ -139,7 +144,8 @@
           "landmark",
           "get_lost",
           "temple"
-        ]
+        ],
+        "image": "lessons/hotel_6.webp"
       },
       {
         "id": "hotel_7",
@@ -161,7 +167,8 @@
           "impressive",
           "worth_it",
           "come_back"
-        ]
+        ],
+        "image": "lessons/hotel_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "hostel",
         "hospital",
         "motel"
-      ]
+      ],
+      "image": "words/hotel.webp"
     },
     {
       "id": "room",
@@ -272,7 +280,8 @@
         "twin room",
         "single room",
         "double bed"
-      ]
+      ],
+      "image": "words/double_room.webp"
     },
     {
       "id": "family_room",
@@ -308,7 +317,8 @@
         "city view",
         "seafood",
         "seaside"
-      ]
+      ],
+      "image": "words/sea_view.webp"
     },
     {
       "id": "vacancy",
@@ -380,7 +390,8 @@
         "breakfast excluded",
         "lunch included",
         "free dinner"
-      ]
+      ],
+      "image": "words/breakfast_included.webp"
     },
     {
       "id": "high_season",
@@ -434,7 +445,8 @@
         "back office",
         "help desk",
         "front door"
-      ]
+      ],
+      "image": "words/front_desk.webp"
     },
     {
       "id": "receptionist",
@@ -452,7 +464,8 @@
         "reception",
         "receipt",
         "porter"
-      ]
+      ],
+      "image": "words/receptionist.webp"
     },
     {
       "id": "lobby",
@@ -470,7 +483,8 @@
         "lounge",
         "hobby",
         "balcony"
-      ]
+      ],
+      "image": "words/lobby.webp"
     },
     {
       "id": "key_card",
@@ -488,7 +502,8 @@
         "credit card",
         "keyboard",
         "key ring"
-      ]
+      ],
+      "image": "words/key_card.webp"
     },
     {
       "id": "room_number",
@@ -524,7 +539,8 @@
         "sing",
         "design",
         "signal"
-      ]
+      ],
+      "image": "words/sign.webp"
     },
     {
       "id": "signature",
@@ -560,7 +576,8 @@
         "credit card",
         "key card",
         "name card"
-      ]
+      ],
+      "image": "words/id_card.webp"
     },
     {
       "id": "confirmation",
@@ -632,7 +649,8 @@
         "luggage claim",
         "storage room",
         "left luggage"
-      ]
+      ],
+      "image": "words/luggage_storage.webp"
     },
     {
       "id": "porter",
@@ -650,7 +668,8 @@
         "waiter",
         "reporter",
         "painter"
-      ]
+      ],
+      "image": "words/porter.webp"
     },
     {
       "id": "wake_up_call",
@@ -668,7 +687,8 @@
         "phone call",
         "wake up",
         "morning call"
-      ]
+      ],
+      "image": "words/wake_up_call.webp"
     },
     {
       "id": "air_conditioner",
@@ -686,7 +706,8 @@
         "fan",
         "heater",
         "air freshener"
-      ]
+      ],
+      "image": "words/air_conditioner.webp"
     },
     {
       "id": "remote_control",
@@ -704,7 +725,8 @@
         "controller",
         "recorder",
         "charger"
-      ]
+      ],
+      "image": "words/remote_control.webp"
     },
     {
       "id": "towel",
@@ -722,7 +744,8 @@
         "tower",
         "blanket",
         "tissue"
-      ]
+      ],
+      "image": "words/towel.webp"
     },
     {
       "id": "bedsheet",
@@ -758,7 +781,8 @@
         "certain",
         "cushion",
         "carton"
-      ]
+      ],
+      "image": "words/curtain.webp"
     },
     {
       "id": "balcony",
@@ -776,7 +800,8 @@
         "bakery",
         "gallery",
         "colony"
-      ]
+      ],
+      "image": "words/balcony.webp"
     },
     {
       "id": "minibar",
@@ -794,7 +819,8 @@
         "minivan",
         "fridge",
         "snack bar"
-      ]
+      ],
+      "image": "words/minibar.webp"
     },
     {
       "id": "safe",
@@ -812,7 +838,8 @@
         "save",
         "sofa",
         "shelf"
-      ]
+      ],
+      "image": "words/safe.webp"
     },
     {
       "id": "hair_dryer",
@@ -830,7 +857,8 @@
         "hair spray",
         "dryer",
         "hair cut"
-      ]
+      ],
+      "image": "words/hair_dryer.webp"
     },
     {
       "id": "bathtub",
@@ -848,7 +876,8 @@
         "bathroom",
         "shower",
         "swimming pool"
-      ]
+      ],
+      "image": "words/bathtub.webp"
     },
     {
       "id": "slippers",
@@ -866,7 +895,8 @@
         "sneakers",
         "sandals",
         "socks"
-      ]
+      ],
+      "image": "words/slippers.webp"
     },
     {
       "id": "bathrobe",
@@ -884,7 +914,8 @@
         "bathtub",
         "pajamas",
         "raincoat"
-      ]
+      ],
+      "image": "words/bathrobe.webp"
     },
     {
       "id": "wardrobe",
@@ -902,7 +933,8 @@
         "cupboard",
         "drawer",
         "bathrobe"
-      ]
+      ],
+      "image": "words/wardrobe.webp"
     },
     {
       "id": "socket",
@@ -920,7 +952,8 @@
         "plug",
         "switch",
         "pocket"
-      ]
+      ],
+      "image": "words/socket.webp"
     },
     {
       "id": "room_service",
@@ -938,7 +971,8 @@
         "self service",
         "service charge",
         "housekeeping"
-      ]
+      ],
+      "image": "words/room_service.webp"
     },
     {
       "id": "housekeeping",
@@ -956,7 +990,8 @@
         "housework",
         "housewife",
         "room service"
-      ]
+      ],
+      "image": "words/housekeeping.webp"
     },
     {
       "id": "laundry",
@@ -974,7 +1009,8 @@
         "library",
         "lavatory",
         "landing"
-      ]
+      ],
+      "image": "words/laundry.webp"
     },
     {
       "id": "wifi",
@@ -992,7 +1028,8 @@
         "hi-fi",
         "wire",
         "Bluetooth"
-      ]
+      ],
+      "image": "words/wifi.webp"
     },
     {
       "id": "password",
@@ -1010,7 +1047,8 @@
         "passport",
         "keyword",
         "postcode"
-      ]
+      ],
+      "image": "words/password.webp"
     },
     {
       "id": "swimming_pool",
@@ -1028,7 +1066,8 @@
         "bathing pool",
         "pond",
         "bathtub"
-      ]
+      ],
+      "image": "words/swimming_pool.webp"
     },
     {
       "id": "gym",
@@ -1046,7 +1085,8 @@
         "gem",
         "jam",
         "game"
-      ]
+      ],
+      "image": "words/gym.webp"
     },
     {
       "id": "spa",
@@ -1064,7 +1104,8 @@
         "span",
         "soap",
         "sauna"
-      ]
+      ],
+      "image": "words/spa.webp"
     },
     {
       "id": "massage",
@@ -1082,7 +1123,8 @@
         "message",
         "mirage",
         "manage"
-      ]
+      ],
+      "image": "words/massage.webp"
     },
     {
       "id": "buffet",
@@ -1100,7 +1142,8 @@
         "banquet",
         "briefcase",
         "budget"
-      ]
+      ],
+      "image": "words/buffet.webp"
     },
     {
       "id": "airport_shuttle",
@@ -1118,7 +1161,8 @@
         "airport taxi",
         "space shuttle",
         "shuttle bus"
-      ]
+      ],
+      "image": "words/airport_shuttle.webp"
     },
     {
       "id": "extra_bed",
@@ -1154,7 +1198,8 @@
         "ion",
         "oven",
         "hanger"
-      ]
+      ],
+      "image": "words/iron.webp"
     },
     {
       "id": "rooftop",
@@ -1172,7 +1217,8 @@
         "roof",
         "hilltop",
         "basement"
-      ]
+      ],
+      "image": "words/rooftop.webp"
     },
     {
       "id": "broken",
@@ -1190,7 +1236,8 @@
         "broke",
         "fixed",
         "open"
-      ]
+      ],
+      "image": "words/broken.webp"
     },
     {
       "id": "not_working",
@@ -1226,7 +1273,8 @@
         "mix",
         "fit",
         "check"
-      ]
+      ],
+      "image": "words/fix.webp"
     },
     {
       "id": "leak",
@@ -1244,7 +1292,8 @@
         "lick",
         "lake",
         "lock"
-      ]
+      ],
+      "image": "words/leak.webp"
     },
     {
       "id": "blocked",
@@ -1280,7 +1329,8 @@
         "quiet",
         "nosy",
         "busy"
-      ]
+      ],
+      "image": "words/noisy.webp"
     },
     {
       "id": "dirty",
@@ -1316,7 +1366,8 @@
         "smiley",
         "fresh",
         "salty"
-      ]
+      ],
+      "image": "words/smelly.webp"
     },
     {
       "id": "no_hot_water",
@@ -1334,7 +1385,8 @@
         "no cold water",
         "no water",
         "hot water"
-      ]
+      ],
+      "image": "words/no_hot_water.webp"
     },
     {
       "id": "lost_key",
@@ -1352,7 +1404,8 @@
         "found my key",
         "lost my way",
         "broke my key"
-      ]
+      ],
+      "image": "words/lost_key.webp"
     },
     {
       "id": "change_room",
@@ -1406,7 +1459,8 @@
         "apology",
         "analyze",
         "organize"
-      ]
+      ],
+      "image": "words/apologize.webp"
     },
     {
       "id": "maintenance",
@@ -1424,7 +1478,8 @@
         "management",
         "mountains",
         "entrance"
-      ]
+      ],
+      "image": "words/maintenance.webp"
     },
     {
       "id": "map",
@@ -1442,7 +1497,8 @@
         "mop",
         "cap",
         "lamp"
-      ]
+      ],
+      "image": "words/map.webp"
     },
     {
       "id": "nearby",
@@ -1460,7 +1516,8 @@
         "faraway",
         "nearly",
         "beside"
-      ]
+      ],
+      "image": "words/nearby.webp"
     },
     {
       "id": "far",
@@ -1550,7 +1607,8 @@
         "interaction",
         "section",
         "junction"
-      ]
+      ],
+      "image": "words/intersection.webp"
     },
     {
       "id": "go_straight",
@@ -1568,7 +1626,8 @@
         "go back",
         "go around",
         "go up"
-      ]
+      ],
+      "image": "words/go_straight.webp"
     },
     {
       "id": "turn_left",
@@ -1586,7 +1645,8 @@
         "turn right",
         "turn back",
         "left turn"
-      ]
+      ],
+      "image": "words/turn_left.webp"
     },
     {
       "id": "turn_right",
@@ -1604,7 +1664,8 @@
         "turn left",
         "right now",
         "go right"
-      ]
+      ],
+      "image": "words/turn_right.webp"
     },
     {
       "id": "bus_stop",
@@ -1622,7 +1683,8 @@
         "bus station",
         "train stop",
         "stop sign"
-      ]
+      ],
+      "image": "words/bus_stop.webp"
     },
     {
       "id": "landmark",
@@ -1640,7 +1702,8 @@
         "bookmark",
         "landscape",
         "trademark"
-      ]
+      ],
+      "image": "words/landmark.webp"
     },
     {
       "id": "get_lost",
@@ -1658,7 +1721,8 @@
         "get tired",
         "get off",
         "lose it"
-      ]
+      ],
+      "image": "words/get_lost.webp"
     },
     {
       "id": "temple",
@@ -1676,7 +1740,8 @@
         "church",
         "castle",
         "temper"
-      ]
+      ],
+      "image": "words/temple.webp"
     },
     {
       "id": "check_out",
@@ -1694,7 +1759,8 @@
         "check in",
         "checkout",
         "take out"
-      ]
+      ],
+      "image": "words/check_out.webp"
     },
     {
       "id": "deposit",
@@ -1712,7 +1778,8 @@
         "discount",
         "deposit box",
         "payment"
-      ]
+      ],
+      "image": "words/deposit.webp"
     },
     {
       "id": "invoice",
@@ -1766,7 +1833,8 @@
         "satisfying",
         "surprised",
         "specified"
-      ]
+      ],
+      "image": "words/satisfied.webp"
     },
     {
       "id": "comfortable",
@@ -1784,7 +1852,8 @@
         "convenient",
         "confident",
         "capable"
-      ]
+      ],
+      "image": "words/comfortable.webp"
     },
     {
       "id": "convenient",
@@ -1820,7 +1889,8 @@
         "clear",
         "dirty",
         "clever"
-      ]
+      ],
+      "image": "words/clean.webp"
     },
     {
       "id": "cozy",
@@ -1838,7 +1908,8 @@
         "crazy",
         "lazy",
         "noisy"
-      ]
+      ],
+      "image": "words/cozy.webp"
     },
     {
       "id": "quiet",
@@ -1856,7 +1927,8 @@
         "quite",
         "quick",
         "noisy"
-      ]
+      ],
+      "image": "words/quiet.webp"
     },
     {
       "id": "enjoy",
@@ -1874,7 +1946,8 @@
         "employ",
         "annoy",
         "join"
-      ]
+      ],
+      "image": "words/enjoy.webp"
     },
     {
       "id": "impressive",
@@ -1892,7 +1965,8 @@
         "expressive",
         "expensive",
         "aggressive"
-      ]
+      ],
+      "image": "words/impressive.webp"
     },
     {
       "id": "worth_it",
@@ -1910,7 +1984,8 @@
         "worse",
         "worthless",
         "with it"
-      ]
+      ],
+      "image": "words/worth_it.webp"
     },
     {
       "id": "come_back",
@@ -1928,7 +2003,8 @@
         "go back",
         "call back",
         "come in"
-      ]
+      ],
+      "image": "words/come_back.webp"
     }
   ]
 }
