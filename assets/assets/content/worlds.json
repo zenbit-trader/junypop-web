@@ -57,13 +57,13 @@
     },
     {
       "id": "travel",
-      "file": null,
+      "file": "travel.json",
       "name_en": "Travel",
       "name_th": "การท่องเที่ยว",
       "emoji": "🌏",
       "color_start": "#2DD4BF",
       "color_end": "#0D9488",
-      "available": false,
+      "available": true,
       "image": "worlds/travel.webp"
     },
     {

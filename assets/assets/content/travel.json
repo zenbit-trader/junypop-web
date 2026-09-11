@@ -1,0 +1,1993 @@
+{
+  "world": {
+    "id": "travel",
+    "name_en": "Travel",
+    "name_th": "การท่องเที่ยว",
+    "emoji": "🌏",
+    "color_start": "#2DD4BF",
+    "color_end": "#0D9488",
+    "description_th": "ศัพท์เที่ยวทะเล ภูเขา ซิตี้ทริป ตั้งแต่วางแผนจนกลับมาเล่าความทรงจำ",
+    "mascot_costume": "traveler",
+    "lessons": [
+      {
+        "id": "travel_1",
+        "title_en": "Planning a Trip",
+        "title_th": "วางแผนทริป",
+        "emoji": "🗓️",
+        "word_ids": [
+          "trip",
+          "travel",
+          "vacation",
+          "holiday",
+          "tourist",
+          "plan",
+          "tour",
+          "guide",
+          "abroad",
+          "weather",
+          "forecast",
+          "sunny",
+          "rainy",
+          "umbrella"
+        ],
+        "image": "lessons/travel_1.webp"
+      },
+      {
+        "id": "travel_2",
+        "title_en": "Beach & Islands",
+        "title_th": "ทะเลและเกาะ",
+        "emoji": "🏖️",
+        "word_ids": [
+          "beach",
+          "sea",
+          "sand",
+          "wave",
+          "island",
+          "swim",
+          "sunscreen",
+          "swimsuit",
+          "sunglasses",
+          "snorkeling",
+          "boat",
+          "sunset",
+          "coconut",
+          "crab"
+        ],
+        "image": "lessons/travel_2.webp"
+      },
+      {
+        "id": "travel_3",
+        "title_en": "Mountains & Nature",
+        "title_th": "ภูเขาและธรรมชาติ",
+        "emoji": "⛰️",
+        "word_ids": [
+          "mountain",
+          "forest",
+          "waterfall",
+          "river",
+          "lake",
+          "nature",
+          "hiking",
+          "trail",
+          "camping",
+          "tent",
+          "campfire",
+          "view",
+          "cave",
+          "wildlife"
+        ],
+        "image": "lessons/travel_3.webp"
+      },
+      {
+        "id": "travel_4",
+        "title_en": "Getting Around",
+        "title_th": "เดินทางในทริป",
+        "emoji": "🚌",
+        "word_ids": [
+          "train",
+          "bus",
+          "taxi",
+          "motorbike",
+          "bicycle",
+          "ferry",
+          "rent",
+          "driver",
+          "helmet",
+          "gas_station",
+          "traffic",
+          "timetable",
+          "platform",
+          "ride"
+        ],
+        "image": "lessons/travel_4.webp"
+      },
+      {
+        "id": "travel_5",
+        "title_en": "Sightseeing",
+        "title_th": "เที่ยวชมเมือง",
+        "emoji": "📸",
+        "word_ids": [
+          "sightseeing",
+          "museum",
+          "palace",
+          "statue",
+          "night_market",
+          "souvenir",
+          "postcard",
+          "culture",
+          "local",
+          "festival",
+          "photo",
+          "selfie",
+          "crowded",
+          "famous"
+        ],
+        "image": "lessons/travel_5.webp"
+      },
+      {
+        "id": "travel_6",
+        "title_en": "Travel Trouble",
+        "title_th": "เหตุฉุกเฉินนักเดินทาง",
+        "emoji": "🚑",
+        "word_ids": [
+          "help",
+          "emergency",
+          "police",
+          "accident",
+          "hurt",
+          "dangerous",
+          "be_careful",
+          "sunburn",
+          "mosquito",
+          "insurance",
+          "embassy",
+          "stolen",
+          "report",
+          "first_aid"
+        ],
+        "image": "lessons/travel_6.webp"
+      },
+      {
+        "id": "travel_7",
+        "title_en": "Trip Memories",
+        "title_th": "ความทรงจำจากทริป",
+        "emoji": "🌈",
+        "word_ids": [
+          "experience",
+          "adventure",
+          "journey",
+          "explore",
+          "discover",
+          "amazing",
+          "beautiful",
+          "unforgettable",
+          "scenery",
+          "sunrise",
+          "friendly",
+          "homesick",
+          "safe_trip",
+          "bucket_list"
+        ],
+        "image": "lessons/travel_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "trip",
+      "word": "trip",
+      "pos": "noun",
+      "ipa": "/trɪp/",
+      "reading_th": "ทริพ",
+      "meaning_th": "ทริป / การเดินทางเที่ยว",
+      "emoji": "🧳",
+      "example_en": "How was your trip to Phuket?",
+      "example_th": "ทริปภูเก็ตเป็นยังไงบ้าง",
+      "cefr": "A1",
+      "note_th": "trip = การไปเที่ยวหนึ่งครั้ง (นับได้: a trip) ส่วน travel เป็นการเดินทางแบบรวมๆ ไม่พูด a travel",
+      "distractors": [
+        "travel",
+        "trap",
+        "trick"
+      ],
+      "image": "words/trip.webp"
+    },
+    {
+      "id": "travel",
+      "word": "travel",
+      "pos": "verb",
+      "ipa": "/ˈtrævəl/",
+      "reading_th": "แทรฟ-เวิ่ล",
+      "meaning_th": "เดินทาง / ท่องเที่ยว",
+      "emoji": "🌏",
+      "example_en": "I want to travel around the world.",
+      "example_th": "ฉันอยากเดินทางรอบโลก",
+      "cefr": "A1",
+      "note_th": "travel เป็นกริยาเป็นหลัก (travel to Japan) อยากพูดว่า \"หนึ่งทริป\" ใช้ a trip ไม่ใช่ a travel",
+      "distractors": [
+        "trouble",
+        "arrive",
+        "move"
+      ],
+      "image": "words/travel.webp"
+    },
+    {
+      "id": "vacation",
+      "word": "vacation",
+      "pos": "noun",
+      "ipa": "/veɪˈkeɪʃən/",
+      "reading_th": "เว-เค-ชั่น",
+      "meaning_th": "วันหยุดพักผ่อน",
+      "emoji": "🏖️",
+      "example_en": "We are on vacation until Sunday.",
+      "example_th": "เราหยุดพักร้อนถึงวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "อเมริกาใช้ vacation อังกฤษใช้ holiday — \"ลาพักร้อน\" คือ take a vacation และ on vacation = กำลังหยุดเที่ยวอยู่",
+      "distractors": [
+        "occasion",
+        "education",
+        "location"
+      ],
+      "image": "words/vacation.webp"
+    },
+    {
+      "id": "holiday",
+      "word": "holiday",
+      "pos": "noun",
+      "ipa": "/ˈhɑːlədeɪ/",
+      "reading_th": "ฮอล-ลิ-เดย์",
+      "meaning_th": "วันหยุด",
+      "emoji": "🎉",
+      "example_en": "Songkran is my favorite holiday.",
+      "example_th": "สงกรานต์คือวันหยุดโปรดของฉัน",
+      "cefr": "A1",
+      "note_th": "อเมริกา: holiday = วันหยุดเทศกาล (ปีใหม่ สงกรานต์) / อังกฤษ: holiday = วันหยุดเที่ยวด้วย (on holiday)",
+      "distractors": [
+        "weekend",
+        "birthday",
+        "workday"
+      ],
+      "image": "words/holiday.webp"
+    },
+    {
+      "id": "tourist",
+      "word": "tourist",
+      "pos": "noun",
+      "ipa": "/ˈtʊrɪst/",
+      "reading_th": "ทัว-ริสท์",
+      "meaning_th": "นักท่องเที่ยว",
+      "emoji": "🧢",
+      "example_en": "Chiang Mai is full of tourists in December.",
+      "example_th": "เดือนธันวาคมเชียงใหม่เต็มไปด้วยนักท่องเที่ยว",
+      "cefr": "A1",
+      "note_th": "tourist = คนเที่ยว / tour = การพาเที่ยว / tourism = การท่องเที่ยว (อุตสาหกรรม) สามคำนี้อย่าสลับกัน",
+      "distractors": [
+        "terrorist",
+        "guide",
+        "artist"
+      ],
+      "image": "words/tourist.webp"
+    },
+    {
+      "id": "plan",
+      "word": "plan",
+      "pos": "verb",
+      "ipa": "/plæn/",
+      "reading_th": "แพลน",
+      "meaning_th": "วางแผน",
+      "emoji": "📝",
+      "example_en": "Let's plan our trip together tonight.",
+      "example_th": "คืนนี้มาวางแผนทริปด้วยกันเถอะ",
+      "cefr": "A1",
+      "note_th": "plan to + กริยา (plan to visit) และเป็นคำนามได้: a plan (แผน) — What's the plan? = แผนคืออะไร ใช้บ่อยมาก",
+      "distractors": [
+        "plant",
+        "play",
+        "place"
+      ],
+      "image": "words/plan.webp"
+    },
+    {
+      "id": "tour",
+      "word": "tour",
+      "pos": "noun",
+      "ipa": "/tʊr/",
+      "reading_th": "ทัวร์",
+      "meaning_th": "ทัวร์ / การเที่ยวชมแบบมีไกด์",
+      "emoji": "🚌",
+      "example_en": "We joined a one-day tour to the islands.",
+      "example_th": "เราจอยทัวร์วันเดย์ทริปไปเกาะ",
+      "cefr": "A2",
+      "note_th": "จอยทัวร์ = join a tour / ทัวร์เดินชม = walking tour และ tour ยังใช้กับคอนเสิร์ตศิลปิน (world tour) ด้วย",
+      "distractors": [
+        "tower",
+        "turn",
+        "trail"
+      ],
+      "image": "words/tour.webp"
+    },
+    {
+      "id": "guide",
+      "word": "guide",
+      "pos": "noun",
+      "ipa": "/ɡaɪd/",
+      "reading_th": "ไกด์",
+      "meaning_th": "ไกด์ / ผู้นำเที่ยว",
+      "emoji": "🙋",
+      "example_en": "Our guide speaks three languages.",
+      "example_th": "ไกด์ของเราพูดได้สามภาษา",
+      "cefr": "A2",
+      "note_th": "guide เป็นกริยาได้ = นำทาง และหนังสือแนะนำเที่ยวคือ guidebook ส่วน guideline = แนวทางปฏิบัติ",
+      "distractors": [
+        "god",
+        "guard",
+        "gold"
+      ],
+      "image": "words/guide.webp"
+    },
+    {
+      "id": "abroad",
+      "word": "abroad",
+      "pos": "adverb",
+      "ipa": "/əˈbrɔːd/",
+      "reading_th": "อะ-บรอด",
+      "meaning_th": "ต่างประเทศ",
+      "emoji": "✈️",
+      "example_en": "She is studying abroad in Australia.",
+      "example_th": "เธอกำลังเรียนต่อต่างประเทศที่ออสเตรเลีย",
+      "cefr": "B1",
+      "note_th": "ไม่ต้องใส่ to/in ข้างหน้า: go abroad / live abroad (ไม่ใช่ go to abroad) — จำง่ายๆ ใช้เหมือน go home",
+      "distractors": [
+        "aboard",
+        "broad",
+        "board"
+      ],
+      "image": "words/abroad.webp"
+    },
+    {
+      "id": "weather",
+      "word": "weather",
+      "pos": "noun",
+      "ipa": "/ˈweðər/",
+      "reading_th": "เว-เธอร์",
+      "meaning_th": "สภาพอากาศ",
+      "emoji": "⛅",
+      "example_en": "Check the weather before you go hiking.",
+      "example_th": "เช็คสภาพอากาศก่อนไปเดินป่านะ",
+      "cefr": "A1",
+      "note_th": "ถามอากาศ: What's the weather like? (ไม่ใช่ How's the weather like?) และ weather ออกเสียงเหมือน whether (ว่า...หรือไม่)",
+      "distractors": [
+        "whether",
+        "wither",
+        "climate"
+      ],
+      "image": "words/weather.webp"
+    },
+    {
+      "id": "forecast",
+      "word": "forecast",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrkæst/",
+      "reading_th": "ฟอร์-คาสท์",
+      "meaning_th": "พยากรณ์อากาศ",
+      "emoji": "🌦️",
+      "example_en": "The forecast says it will rain tomorrow.",
+      "example_th": "พยากรณ์บอกว่าพรุ่งนี้ฝนจะตก",
+      "cefr": "B1",
+      "note_th": "fore (ล่วงหน้า) + cast (โยน/ทาย) = ทายล่วงหน้า มักพูดเต็มว่า weather forecast",
+      "distractors": [
+        "broadcast",
+        "forehead",
+        "podcast"
+      ],
+      "image": "words/forecast.webp"
+    },
+    {
+      "id": "sunny",
+      "word": "sunny",
+      "pos": "adjective",
+      "ipa": "/ˈsʌni/",
+      "reading_th": "ซัน-นี่",
+      "meaning_th": "แดดออก / แดดจ้า",
+      "emoji": "☀️",
+      "example_en": "It's sunny today — perfect for the beach!",
+      "example_th": "วันนี้แดดดี เหมาะไปทะเลสุดๆ!",
+      "cefr": "A1",
+      "note_th": "รูปแบบเดียวกัน: sun→sunny, rain→rainy, wind→windy, cloud→cloudy — เติม y แล้วกลายเป็น adjective",
+      "distractors": [
+        "funny",
+        "rainy",
+        "shiny"
+      ],
+      "image": "words/sunny.webp"
+    },
+    {
+      "id": "rainy",
+      "word": "rainy",
+      "pos": "adjective",
+      "ipa": "/ˈreɪni/",
+      "reading_th": "เร-นี่",
+      "meaning_th": "ฝนตก (อากาศ)",
+      "emoji": "🌧️",
+      "example_en": "The rainy season starts in June.",
+      "example_th": "หน้าฝนเริ่มเดือนมิถุนายน",
+      "cefr": "A1",
+      "note_th": "หน้าฝน = rainy season / วันที่ฝนตก = a rainy day ส่วน \"ฝนกำลังตก\" พูดว่า It's raining (กริยา)",
+      "distractors": [
+        "sunny",
+        "windy",
+        "brainy"
+      ],
+      "image": "words/rainy.webp"
+    },
+    {
+      "id": "umbrella",
+      "word": "umbrella",
+      "pos": "noun",
+      "ipa": "/ʌmˈbrelə/",
+      "reading_th": "อัม-เบรล-ล่า",
+      "meaning_th": "ร่ม",
+      "emoji": "☂️",
+      "example_en": "Take an umbrella, it looks like rain.",
+      "example_th": "พกร่มไปด้วย ท่าทางฝนจะตก",
+      "cefr": "A1",
+      "note_th": "เน้นเสียงพยางค์ที่สอง \"อัม-เบรล-ล่า\" ไม่ใช่ \"อัม-เบอ-เรล-ล่า\"",
+      "distractors": [
+        "raincoat",
+        "shadow",
+        "cinderella"
+      ],
+      "image": "words/umbrella.webp"
+    },
+    {
+      "id": "beach",
+      "word": "beach",
+      "pos": "noun",
+      "ipa": "/biːtʃ/",
+      "reading_th": "บีช",
+      "meaning_th": "ชายหาด",
+      "emoji": "🏖️",
+      "example_en": "We walked along the beach at sunset.",
+      "example_th": "เราเดินเล่นริมหาดตอนพระอาทิตย์ตก",
+      "cefr": "A1",
+      "note_th": "ออกเสียงสระยาว \"บีช\" ให้ชัด — ถ้าออกสั้นจะกลายเป็นคำหยาบ! และ on the beach = บนหาด",
+      "distractors": [
+        "bench",
+        "peach",
+        "branch"
+      ],
+      "image": "words/beach.webp"
+    },
+    {
+      "id": "sea",
+      "word": "sea",
+      "pos": "noun",
+      "ipa": "/siː/",
+      "reading_th": "ซี",
+      "meaning_th": "ทะเล",
+      "emoji": "🌊",
+      "example_en": "The sea is so clear here!",
+      "example_th": "ทะเลที่นี่ใสมาก!",
+      "cefr": "A1",
+      "note_th": "sea ออกเสียงเหมือน see (มองเห็น) เป๊ะ ต้องดูบริบท — ไปทะเล = go to the sea/beach ส่วน ocean คือมหาสมุทรใหญ่กว่า",
+      "distractors": [
+        "see",
+        "she",
+        "sky"
+      ],
+      "image": "words/sea.webp"
+    },
+    {
+      "id": "sand",
+      "word": "sand",
+      "pos": "noun",
+      "ipa": "/sænd/",
+      "reading_th": "แซนด์",
+      "meaning_th": "ทราย",
+      "emoji": "🏝️",
+      "example_en": "The sand is white and soft.",
+      "example_th": "ทรายขาวและนุ่มมาก",
+      "cefr": "A1",
+      "note_th": "sand นับไม่ได้ (ไม่เติม s) — ปราสาททรายคือ sandcastle และรองเท้าแตะ sandals ก็มาจากรากคำอื่น อย่าจำสลับ",
+      "distractors": [
+        "send",
+        "stand",
+        "sound"
+      ],
+      "image": "words/sand.webp"
+    },
+    {
+      "id": "wave",
+      "word": "wave",
+      "pos": "noun",
+      "ipa": "/weɪv/",
+      "reading_th": "เวฟว์",
+      "meaning_th": "คลื่น",
+      "emoji": "🌊",
+      "example_en": "The waves are big today, be careful.",
+      "example_th": "วันนี้คลื่นแรง ระวังด้วยนะ",
+      "cefr": "A2",
+      "note_th": "wave เป็นกริยาแปลว่า \"โบกมือ\" ได้ด้วย (wave goodbye) และไมโครเวฟ microwave ก็คือคลื่นไมโคร",
+      "distractors": [
+        "wife",
+        "wind",
+        "cave"
+      ],
+      "image": "words/wave.webp"
+    },
+    {
+      "id": "island",
+      "word": "island",
+      "pos": "noun",
+      "ipa": "/ˈaɪlənd/",
+      "reading_th": "ไอ-เลินด์",
+      "meaning_th": "เกาะ",
+      "emoji": "🏝️",
+      "example_en": "Which island should we visit first?",
+      "example_th": "เราควรไปเกาะไหนก่อนดี",
+      "cefr": "A1",
+      "note_th": "ตัว s ไม่ออกเสียง! อ่านว่า \"ไอ-เลินด์\" ไม่ใช่ \"ไอส์-แลนด์\" — ข้อผิดยอดฮิตของคนไทย",
+      "distractors": [
+        "Iceland",
+        "highland",
+        "inland"
+      ],
+      "image": "words/island.webp"
+    },
+    {
+      "id": "swim",
+      "word": "swim",
+      "pos": "verb",
+      "ipa": "/swɪm/",
+      "reading_th": "สวิม",
+      "meaning_th": "ว่ายน้ำ",
+      "emoji": "🏊",
+      "example_en": "Can you swim in the sea?",
+      "example_th": "คุณว่ายน้ำในทะเลเป็นไหม",
+      "cefr": "A1",
+      "note_th": "กริยาสามช่อง: swim-swam-swum และ \"ไปว่ายน้ำ\" = go swimming (เติม -ming มี m สองตัว)",
+      "distractors": [
+        "skim",
+        "swing",
+        "slim"
+      ],
+      "image": "words/swim.webp"
+    },
+    {
+      "id": "sunscreen",
+      "word": "sunscreen",
+      "pos": "noun",
+      "ipa": "/ˈsʌnskriːn/",
+      "reading_th": "ซัน-สกรีน",
+      "meaning_th": "ครีมกันแดด",
+      "emoji": "🧴",
+      "example_en": "Put on sunscreen before you swim.",
+      "example_th": "ทาครีมกันแดดก่อนลงเล่นน้ำนะ",
+      "cefr": "A2",
+      "note_th": "ทาครีมกันแดด = put on / apply sunscreen บางทีเรียก sunblock ก็เข้าใจกัน — SPF คือค่าป้องกันแดด",
+      "distractors": [
+        "ice cream",
+        "screen",
+        "shampoo"
+      ],
+      "image": "words/sunscreen.webp"
+    },
+    {
+      "id": "swimsuit",
+      "word": "swimsuit",
+      "pos": "noun",
+      "ipa": "/ˈswɪmsuːt/",
+      "reading_th": "สวิม-สูท",
+      "meaning_th": "ชุดว่ายน้ำ",
+      "emoji": "🩱",
+      "example_en": "Don't forget to pack your swimsuit!",
+      "example_th": "อย่าลืมเอาชุดว่ายน้ำไปด้วยล่ะ!",
+      "cefr": "A2",
+      "note_th": "swimsuit ใช้ได้ทุกเพศ / กางเกงว่ายน้ำชายเรียก swim trunks / บิกินี่ก็ทับศัพท์ bikini",
+      "distractors": [
+        "suitcase",
+        "swimming pool",
+        "tracksuit"
+      ],
+      "image": "words/swimsuit.webp"
+    },
+    {
+      "id": "sunglasses",
+      "word": "sunglasses",
+      "pos": "noun",
+      "ipa": "/ˈsʌnɡlæsɪz/",
+      "reading_th": "ซัน-กลาส-เซส",
+      "meaning_th": "แว่นกันแดด",
+      "emoji": "🕶️",
+      "example_en": "I lost my sunglasses in the sea.",
+      "example_th": "แว่นกันแดดฉันหายไปในทะเล",
+      "cefr": "A2",
+      "note_th": "ใช้รูปพหูพจน์เสมอ (เหมือน glasses แว่นตา) — หนึ่งอัน = a pair of sunglasses",
+      "distractors": [
+        "glasses",
+        "sunlight",
+        "sunrise"
+      ],
+      "image": "words/sunglasses.webp"
+    },
+    {
+      "id": "snorkeling",
+      "word": "snorkeling",
+      "pos": "noun",
+      "ipa": "/ˈsnɔːrkəlɪŋ/",
+      "reading_th": "สนอร์-เคิล-ลิ่ง",
+      "meaning_th": "การดำน้ำตื้น",
+      "emoji": "🤿",
+      "example_en": "The snorkeling here is amazing — so many fish!",
+      "example_th": "ดำน้ำตื้นที่นี่สุดยอด ปลาเยอะมาก!",
+      "cefr": "B1",
+      "note_th": "ดำน้ำตื้นใช้หลอด = snorkeling / ดำน้ำลึกใช้ถัง = scuba diving — ไปดำน้ำพูดว่า go snorkeling",
+      "distractors": [
+        "surfing",
+        "diving",
+        "sailing"
+      ],
+      "image": "words/snorkeling.webp"
+    },
+    {
+      "id": "boat",
+      "word": "boat",
+      "pos": "noun",
+      "ipa": "/boʊt/",
+      "reading_th": "โบท",
+      "meaning_th": "เรือ",
+      "emoji": "🚤",
+      "example_en": "The boat to the island leaves at nine.",
+      "example_th": "เรือไปเกาะออกเก้าโมง",
+      "cefr": "A1",
+      "note_th": "boat = เรือทั่วไป / ship = เรือใหญ่ / เรือหางยาวไทยฝรั่งเรียก long-tail boat ดังระดับโลก",
+      "distractors": [
+        "boot",
+        "goat",
+        "bot"
+      ],
+      "image": "words/boat.webp"
+    },
+    {
+      "id": "sunset",
+      "word": "sunset",
+      "pos": "noun",
+      "ipa": "/ˈsʌnset/",
+      "reading_th": "ซัน-เซ็ท",
+      "meaning_th": "พระอาทิตย์ตก",
+      "emoji": "🌇",
+      "example_en": "Let's watch the sunset on the beach.",
+      "example_th": "ไปดูพระอาทิตย์ตกที่หาดกันเถอะ",
+      "cefr": "A2",
+      "note_th": "sun + set (ตก) ตรงข้ามกับ sunrise (ขึ้น) — ช่วงแสงทองสวยๆ ก่อนตกเรียก golden hour",
+      "distractors": [
+        "sunrise",
+        "sunburn",
+        "sunshine"
+      ],
+      "image": "words/sunset.webp"
+    },
+    {
+      "id": "coconut",
+      "word": "coconut",
+      "pos": "noun",
+      "ipa": "/ˈkoʊkənʌt/",
+      "reading_th": "โค-โค่-นัท",
+      "meaning_th": "มะพร้าว",
+      "emoji": "🥥",
+      "example_en": "Fresh coconut water is the best on a hot day.",
+      "example_th": "น้ำมะพร้าวสดๆ วันร้อนๆ คือที่สุด",
+      "cefr": "A2",
+      "note_th": "น้ำมะพร้าว = coconut water / กะทิ = coconut milk — ฝรั่งสับสนสองอย่างนี้บ่อย เราอธิบายได้เท่เลย",
+      "distractors": [
+        "peanut",
+        "chocolate",
+        "cucumber"
+      ],
+      "image": "words/coconut.webp"
+    },
+    {
+      "id": "crab",
+      "word": "crab",
+      "pos": "noun",
+      "ipa": "/kræb/",
+      "reading_th": "แครบ",
+      "meaning_th": "ปู",
+      "emoji": "🦀",
+      "example_en": "We saw little crabs running on the sand.",
+      "example_th": "เราเห็นปูตัวเล็กๆ วิ่งบนหาดทราย",
+      "cefr": "A2",
+      "note_th": "ปูผัดผงกะหรี่ = stir-fried crab in curry powder เมนูเด็ดที่ฝรั่งต้องลอง",
+      "distractors": [
+        "crap",
+        "grab",
+        "crop"
+      ],
+      "image": "words/crab.webp"
+    },
+    {
+      "id": "mountain",
+      "word": "mountain",
+      "pos": "noun",
+      "ipa": "/ˈmaʊntən/",
+      "reading_th": "เมาน์-เทิ่น",
+      "meaning_th": "ภูเขา",
+      "emoji": "⛰️",
+      "example_en": "Doi Inthanon is the highest mountain in Thailand.",
+      "example_th": "ดอยอินทนนท์คือภูเขาที่สูงที่สุดในไทย",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"เมาน์-เทิ่น\" (เสียง t กลืนหาย) ไม่ใช่ \"เมาน์-เทน\" — ปีนเขา = climb a mountain",
+      "distractors": [
+        "fountain",
+        "mansion",
+        "meeting"
+      ],
+      "image": "words/mountain.webp"
+    },
+    {
+      "id": "forest",
+      "word": "forest",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrɪst/",
+      "reading_th": "ฟอ-เรสท์",
+      "meaning_th": "ป่า",
+      "emoji": "🌲",
+      "example_en": "The forest is cool and full of birds.",
+      "example_th": "ในป่าอากาศเย็นและมีนกเต็มไปหมด",
+      "cefr": "A2",
+      "note_th": "forest = ป่าใหญ่ / jungle = ป่าดิบร้อนชื้นแบบหนาทึบ — ป่าเมืองไทยส่วนใหญ่ฝรั่งเรียก jungle",
+      "distractors": [
+        "florist",
+        "jungle",
+        "desert"
+      ],
+      "image": "words/forest.webp"
+    },
+    {
+      "id": "waterfall",
+      "word": "waterfall",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtərfɔːl/",
+      "reading_th": "วอ-เตอร์-ฟอล",
+      "meaning_th": "น้ำตก",
+      "emoji": "🏞️",
+      "example_en": "We swam under the waterfall.",
+      "example_th": "เราเล่นน้ำใต้น้ำตก",
+      "cefr": "A2",
+      "note_th": "water (น้ำ) + fall (ตก) ตรงตัวเป๊ะ — จำคู่กับ sunset (พระอาทิตย์ตก) ที่ใช้ set แทน",
+      "distractors": [
+        "fountain",
+        "riverside",
+        "rainfall"
+      ],
+      "image": "words/waterfall.webp"
+    },
+    {
+      "id": "river",
+      "word": "river",
+      "pos": "noun",
+      "ipa": "/ˈrɪvər/",
+      "reading_th": "ริฟ-เวอร์",
+      "meaning_th": "แม่น้ำ",
+      "emoji": "🛶",
+      "example_en": "We took a boat along the river.",
+      "example_th": "เรานั่งเรือล่องแม่น้ำ",
+      "cefr": "A1",
+      "note_th": "แม่น้ำเจ้าพระยา = the Chao Phraya River (ชื่อแม่น้ำมี the นำหน้าเสมอ)",
+      "distractors": [
+        "driver",
+        "liver",
+        "lake"
+      ],
+      "image": "words/river.webp"
+    },
+    {
+      "id": "lake",
+      "word": "lake",
+      "pos": "noun",
+      "ipa": "/leɪk/",
+      "reading_th": "เลค",
+      "meaning_th": "ทะเลสาบ",
+      "emoji": "🏞️",
+      "example_en": "The lake is calm in the early morning.",
+      "example_th": "ทะเลสาบสงบมากตอนเช้าตรู่",
+      "cefr": "A2",
+      "note_th": "ไล่ขนาด: pond (บ่อ/สระ) < lake (ทะเลสาบ) < sea (ทะเล) < ocean (มหาสมุทร)",
+      "distractors": [
+        "cake",
+        "leak",
+        "lane"
+      ],
+      "image": "words/lake.webp"
+    },
+    {
+      "id": "nature",
+      "word": "nature",
+      "pos": "noun",
+      "ipa": "/ˈneɪtʃər/",
+      "reading_th": "เน-เจอร์",
+      "meaning_th": "ธรรมชาติ",
+      "emoji": "🌿",
+      "example_en": "I love being close to nature.",
+      "example_th": "ฉันชอบอยู่ใกล้ชิดธรรมชาติ",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"เน-เจอร์\" ไม่ใช่ \"เน-เจอะ-รี่\" และไม่ใส่ the: love nature (ไม่ใช่ love the nature)",
+      "distractors": [
+        "natural",
+        "future",
+        "nation"
+      ],
+      "image": "words/nature.webp"
+    },
+    {
+      "id": "hiking",
+      "word": "hiking",
+      "pos": "noun",
+      "ipa": "/ˈhaɪkɪŋ/",
+      "reading_th": "ไฮ-คิ่ง",
+      "meaning_th": "การเดินป่า / เดินเขา",
+      "emoji": "🥾",
+      "example_en": "We went hiking in the national park.",
+      "example_th": "เราไปเดินป่าในอุทยานแห่งชาติ",
+      "cefr": "A2",
+      "note_th": "go hiking = ไปเดินป่า / เส้นทางเดินคือ hiking trail — trekking ก็ใช้ได้ ความหมายใกล้กัน (เดินหลายวัน)",
+      "distractors": [
+        "biking",
+        "liking",
+        "jogging"
+      ],
+      "image": "words/hiking.webp"
+    },
+    {
+      "id": "trail",
+      "word": "trail",
+      "pos": "noun",
+      "ipa": "/treɪl/",
+      "reading_th": "เทรล",
+      "meaning_th": "เส้นทางเดินป่า",
+      "emoji": "🪧",
+      "example_en": "Follow the trail to the waterfall.",
+      "example_th": "เดินตามเส้นทางไปถึงน้ำตกเลย",
+      "cefr": "B1",
+      "note_th": "trail = ทางเดินในธรรมชาติ ส่วนวิ่งเทรล (trail running) ที่ฮิตในไทยก็คำเดียวกันนี้",
+      "distractors": [
+        "train",
+        "trial",
+        "rail"
+      ],
+      "image": "words/trail.webp"
+    },
+    {
+      "id": "camping",
+      "word": "camping",
+      "pos": "noun",
+      "ipa": "/ˈkæmpɪŋ/",
+      "reading_th": "แคมป์-ปิ้ง",
+      "meaning_th": "การตั้งแคมป์ / แคมป์ปิ้ง",
+      "emoji": "🏕️",
+      "example_en": "We go camping in the mountains every winter.",
+      "example_th": "หน้าหนาวเราไปแคมป์ปิ้งบนเขาทุกปี",
+      "cefr": "A2",
+      "note_th": "ไปแคมป์ = go camping / ลานกางเต็นท์ = campsite — สายแคมป์คนไทยใช้ศัพท์ตรงกับฝรั่งเกือบหมดแล้ว",
+      "distractors": [
+        "campus",
+        "shopping",
+        "jumping"
+      ],
+      "image": "words/camping.webp"
+    },
+    {
+      "id": "tent",
+      "word": "tent",
+      "pos": "noun",
+      "ipa": "/tent/",
+      "reading_th": "เท้นท์",
+      "meaning_th": "เต็นท์",
+      "emoji": "⛺",
+      "example_en": "It took us an hour to put up the tent.",
+      "example_th": "เรากางเต็นท์ตั้งชั่วโมง",
+      "cefr": "A2",
+      "note_th": "กางเต็นท์ = put up / pitch a tent, เก็บเต็นท์ = take down a tent",
+      "distractors": [
+        "tenth",
+        "rent",
+        "test"
+      ],
+      "image": "words/tent.webp"
+    },
+    {
+      "id": "campfire",
+      "word": "campfire",
+      "pos": "noun",
+      "ipa": "/ˈkæmpfaɪər/",
+      "reading_th": "แคมป์-ไฟ-เออร์",
+      "meaning_th": "กองไฟแคมป์",
+      "emoji": "🔥",
+      "example_en": "We told stories around the campfire.",
+      "example_th": "เรานั่งเล่าเรื่องรอบกองไฟ",
+      "cefr": "B1",
+      "note_th": "around the campfire = ล้อมวงรอบกองไฟ — ขนมย่างไฟยอดฮิตของฝรั่งคือ marshmallow",
+      "distractors": [
+        "fireplace",
+        "firework",
+        "camping"
+      ],
+      "image": "words/campfire.webp"
+    },
+    {
+      "id": "view",
+      "word": "view",
+      "pos": "noun",
+      "ipa": "/vjuː/",
+      "reading_th": "วิว",
+      "meaning_th": "วิว / ทิวทัศน์",
+      "emoji": "🌄",
+      "example_en": "The view from the top is worth the climb.",
+      "example_th": "วิวข้างบนคุ้มค่ากับการปีนขึ้นมา",
+      "cefr": "A2",
+      "note_th": "คำไทย \"วิว\" มาจากคำนี้ตรงๆ — จุดชมวิว = viewpoint และ view ยังแปลว่ายอดวิว (คนดู) ในยูทูบด้วย",
+      "distractors": [
+        "review",
+        "voice",
+        "visit"
+      ],
+      "image": "words/view.webp"
+    },
+    {
+      "id": "cave",
+      "word": "cave",
+      "pos": "noun",
+      "ipa": "/keɪv/",
+      "reading_th": "เคฟว์",
+      "meaning_th": "ถ้ำ",
+      "emoji": "🕳️",
+      "example_en": "The cave is dark, bring a flashlight.",
+      "example_th": "ในถ้ำมืดมาก พกไฟฉายไปด้วย",
+      "cefr": "B1",
+      "note_th": "ถ้ำดังของไทยที่ฝรั่งรู้จักทั่วโลก: ถ้ำหลวง (Tham Luang cave) — cave ออกเสียง \"เคฟว์\" ไม่ใช่ \"คา-เว่\"",
+      "distractors": [
+        "cafe",
+        "wave",
+        "cage"
+      ],
+      "image": "words/cave.webp"
+    },
+    {
+      "id": "wildlife",
+      "word": "wildlife",
+      "pos": "noun",
+      "ipa": "/ˈwaɪldlaɪf/",
+      "reading_th": "ไวลด์-ไลฟ์",
+      "meaning_th": "สัตว์ป่า",
+      "emoji": "🐘",
+      "example_en": "You can see wildlife in Khao Yai.",
+      "example_th": "ที่เขาใหญ่เห็นสัตว์ป่าได้ด้วย",
+      "cefr": "B1",
+      "note_th": "wild (ป่า/ดุร้าย) + life (ชีวิต) เป็นนามนับไม่ได้ ครอบคลุมสัตว์ป่าทั้งหมด ไม่เติม s",
+      "distractors": [
+        "wild card",
+        "nightlife",
+        "lifestyle"
+      ],
+      "image": "words/wildlife.webp"
+    },
+    {
+      "id": "train",
+      "word": "train",
+      "pos": "noun",
+      "ipa": "/treɪn/",
+      "reading_th": "เทรน",
+      "meaning_th": "รถไฟ",
+      "emoji": "🚆",
+      "example_en": "The night train to Chiang Mai is fun.",
+      "example_th": "รถไฟตู้นอนไปเชียงใหม่สนุกดีนะ",
+      "cefr": "A1",
+      "note_th": "ขึ้นรถไฟ = take/catch a train และ train เป็นกริยาแปลว่า \"ฝึก\" ได้ด้วย (เทรนเนอร์ trainer มาจากคำนี้)",
+      "distractors": [
+        "tram",
+        "trail",
+        "plane"
+      ],
+      "image": "words/train.webp"
+    },
+    {
+      "id": "bus",
+      "word": "bus",
+      "pos": "noun",
+      "ipa": "/bʌs/",
+      "reading_th": "บัส",
+      "meaning_th": "รถบัส / รถเมล์",
+      "emoji": "🚌",
+      "example_en": "We took an overnight bus to Krabi.",
+      "example_th": "เรานั่งรถทัวร์ข้ามคืนไปกระบี่",
+      "cefr": "A1",
+      "note_th": "รถทัวร์ต่างจังหวัดของไทยฝรั่งเรียก bus หรือ coach — ขึ้นรถ = get on, ลงรถ = get off",
+      "distractors": [
+        "bush",
+        "boss",
+        "bass"
+      ],
+      "image": "words/bus.webp"
+    },
+    {
+      "id": "taxi",
+      "word": "taxi",
+      "pos": "noun",
+      "ipa": "/ˈtæksi/",
+      "reading_th": "แท็ค-ซี่",
+      "meaning_th": "แท็กซี่",
+      "emoji": "🚕",
+      "example_en": "Let's take a taxi, it's raining.",
+      "example_th": "นั่งแท็กซี่เถอะ ฝนตกอยู่",
+      "cefr": "A1",
+      "note_th": "เรียกแท็กซี่ = call/get a taxi หรือ hail a taxi (โบกริมถนน) — มิเตอร์ = meter ขอให้กดมิเตอร์: Meter, please",
+      "distractors": [
+        "tuk-tuk",
+        "text",
+        "tax"
+      ],
+      "image": "words/taxi.webp"
+    },
+    {
+      "id": "motorbike",
+      "word": "motorbike",
+      "pos": "noun",
+      "ipa": "/ˈmoʊtərbaɪk/",
+      "reading_th": "โม-เตอร์-ไบค์",
+      "meaning_th": "มอเตอร์ไซค์",
+      "emoji": "🏍️",
+      "example_en": "Renting a motorbike is popular in Pai.",
+      "example_th": "ที่ปายนิยมเช่ามอเตอร์ไซค์ขี่กัน",
+      "cefr": "A2",
+      "note_th": "motorbike = motorcycle ใช้ได้ทั้งคู่ — วินมอเตอร์ไซค์ไทยฝรั่งเรียก motorbike taxi",
+      "distractors": [
+        "bicycle",
+        "motorway",
+        "scooter"
+      ],
+      "image": "words/motorbike.webp"
+    },
+    {
+      "id": "bicycle",
+      "word": "bicycle",
+      "pos": "noun",
+      "ipa": "/ˈbaɪsɪkəl/",
+      "reading_th": "ไบ-ซิ-เคิ่ล",
+      "meaning_th": "จักรยาน",
+      "emoji": "🚲",
+      "example_en": "You can explore the old town by bicycle.",
+      "example_th": "ปั่นจักรยานเที่ยวเมืองเก่าได้สบายเลย",
+      "cefr": "A1",
+      "note_th": "พูดสั้นๆ ว่า bike ก็ได้ — ปั่นจักรยาน = ride a bicycle และ by bicycle = โดยจักรยาน (ไม่ใส่ a)",
+      "distractors": [
+        "motorcycle",
+        "tricycle",
+        "recycle"
+      ],
+      "image": "words/bicycle.webp"
+    },
+    {
+      "id": "ferry",
+      "word": "ferry",
+      "pos": "noun",
+      "ipa": "/ˈferi/",
+      "reading_th": "เฟอร์-รี่",
+      "meaning_th": "เรือเฟอร์รี่ / เรือข้ามฟาก",
+      "emoji": "⛴️",
+      "example_en": "The ferry to Koh Samui takes ninety minutes.",
+      "example_th": "เรือเฟอร์รี่ไปเกาะสมุยใช้เวลาชั่วโมงครึ่ง",
+      "cefr": "B1",
+      "note_th": "ferry = เรือใหญ่ขนคน/รถข้ามเกาะ ระวังเสียงใกล้ fairy (นางฟ้า) — บริบทช่วยแยก",
+      "distractors": [
+        "fairy",
+        "berry",
+        "hurry"
+      ],
+      "image": "words/ferry.webp"
+    },
+    {
+      "id": "rent",
+      "word": "rent",
+      "pos": "verb",
+      "ipa": "/rent/",
+      "reading_th": "เร้นท์",
+      "meaning_th": "เช่า",
+      "emoji": "🔑",
+      "example_en": "We rented a car for three days.",
+      "example_th": "เราเช่ารถสามวัน",
+      "cefr": "A2",
+      "note_th": "rent = เช่าระยะสั้น (รถ ชุด ห้อง) — for rent = ให้เช่า และค่าเช่าก็เรียก rent เหมือนกัน",
+      "distractors": [
+        "lend",
+        "borrow",
+        "sent"
+      ],
+      "image": "words/rent.webp"
+    },
+    {
+      "id": "driver",
+      "word": "driver",
+      "pos": "noun",
+      "ipa": "/ˈdraɪvər/",
+      "reading_th": "ไดรฟ์-เวอร์",
+      "meaning_th": "คนขับรถ",
+      "emoji": "🧑‍✈️",
+      "example_en": "The driver knows a shortcut to the pier.",
+      "example_th": "คนขับรู้ทางลัดไปท่าเรือ",
+      "cefr": "A1",
+      "note_th": "drive (ขับ) + er (ผู้) = ผู้ขับ — ใบขับขี่คือ driver's license ต้องพกตอนเช่ารถ",
+      "distractors": [
+        "diver",
+        "rider",
+        "waiter"
+      ],
+      "image": "words/driver.webp"
+    },
+    {
+      "id": "helmet",
+      "word": "helmet",
+      "pos": "noun",
+      "ipa": "/ˈhelmɪt/",
+      "reading_th": "เฮล-เม็ท",
+      "meaning_th": "หมวกกันน็อก",
+      "emoji": "🪖",
+      "example_en": "Always wear a helmet on a motorbike.",
+      "example_th": "ขี่มอเตอร์ไซค์ต้องใส่หมวกกันน็อกเสมอ",
+      "cefr": "A2",
+      "note_th": "\"หมวกกันน็อก\" เป็นไทยประดิษฐ์ ภาษาอังกฤษคือ helmet เฉยๆ — ใส่หมวก = wear a helmet",
+      "distractors": [
+        "hamlet",
+        "helper",
+        "wallet"
+      ],
+      "image": "words/helmet.webp"
+    },
+    {
+      "id": "gas_station",
+      "word": "gas station",
+      "pos": "noun",
+      "ipa": "/ˈɡæs ˌsteɪʃən/",
+      "reading_th": "แก๊ส-สเต-ชั่น",
+      "meaning_th": "ปั๊มน้ำมัน",
+      "emoji": "⛽",
+      "example_en": "Is there a gas station near here?",
+      "example_th": "แถวนี้มีปั๊มน้ำมันไหม",
+      "cefr": "A2",
+      "note_th": "อเมริกา: gas station / อังกฤษ: petrol station — เติมเต็มถัง = fill it up, please",
+      "distractors": [
+        "bus station",
+        "police station",
+        "gas stove"
+      ],
+      "image": "words/gas_station.webp"
+    },
+    {
+      "id": "traffic",
+      "word": "traffic",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk/",
+      "reading_th": "แทรฟ-ฟิค",
+      "meaning_th": "การจราจร / รถติด",
+      "emoji": "🚗",
+      "example_en": "The traffic in Bangkok is crazy at five PM.",
+      "example_th": "ห้าโมงเย็นรถกรุงเทพฯ ติดสุดๆ",
+      "cefr": "A2",
+      "note_th": "รถติด = The traffic is bad / heavy traffic หรือ traffic jam — ไม่พูดว่า car stick นะ! 😄",
+      "distractors": [
+        "travel",
+        "terrific",
+        "track"
+      ]
+    },
+    {
+      "id": "timetable",
+      "word": "timetable",
+      "pos": "noun",
+      "ipa": "/ˈtaɪmteɪbəl/",
+      "reading_th": "ไทม์-เท-เบิ้ล",
+      "meaning_th": "ตารางเวลา (รถ/เรือ/รถไฟ)",
+      "emoji": "🕐",
+      "example_en": "Check the timetable for the last ferry.",
+      "example_th": "เช็คตารางเวลาเรือเที่ยวสุดท้ายด้วย",
+      "cefr": "B1",
+      "note_th": "time + table = ตารางเวลา อเมริกานิยมใช้ schedule (สเก็ด-จูล) ความหมายเดียวกัน",
+      "distractors": [
+        "schedule",
+        "turntable",
+        "timeline"
+      ]
+    },
+    {
+      "id": "platform",
+      "word": "platform",
+      "pos": "noun",
+      "ipa": "/ˈplætfɔːrm/",
+      "reading_th": "แพลท-ฟอร์ม",
+      "meaning_th": "ชานชาลา",
+      "emoji": "🚉",
+      "example_en": "The train leaves from platform two.",
+      "example_th": "รถไฟออกจากชานชาลาที่สอง",
+      "cefr": "B1",
+      "note_th": "platform ที่สถานีรถไฟ = ชานชาลา ส่วนในไอทีหมายถึงแพลตฟอร์ม (ระบบ) — คำเดียวสองวงการ",
+      "distractors": [
+        "platoon",
+        "perform",
+        "plateau"
+      ]
+    },
+    {
+      "id": "ride",
+      "word": "ride",
+      "pos": "verb",
+      "ipa": "/raɪd/",
+      "reading_th": "ไรด์",
+      "meaning_th": "ขี่ / โดยสาร",
+      "emoji": "🛵",
+      "example_en": "Can you ride a motorbike?",
+      "example_th": "คุณขี่มอเตอร์ไซค์เป็นไหม",
+      "cefr": "A2",
+      "note_th": "ride ใช้กับสิ่งที่นั่งคร่อม/โดยสาร (จักรยาน ม้า รถเมล์) ส่วน drive คือขับเอง (รถยนต์) — สามช่อง ride-rode-ridden",
+      "distractors": [
+        "drive",
+        "rise",
+        "hide"
+      ]
+    },
+    {
+      "id": "sightseeing",
+      "word": "sightseeing",
+      "pos": "noun",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "reading_th": "ไซท์-ซี-อิ้ง",
+      "meaning_th": "การเที่ยวชมสถานที่",
+      "emoji": "🗺️",
+      "example_en": "We spent the whole day sightseeing in the old city.",
+      "example_th": "เราเที่ยวชมเมืองเก่ากันทั้งวัน",
+      "cefr": "B1",
+      "note_th": "sight (สิ่งที่เห็น) + seeing (การดู) — ไปเที่ยวชม = go sightseeing ตอบคำถาม ตม. ก็ใช้คำนี้ได้",
+      "distractors": [
+        "sleeping",
+        "shopping",
+        "sighting"
+      ]
+    },
+    {
+      "id": "museum",
+      "word": "museum",
+      "pos": "noun",
+      "ipa": "/mjuˈziːəm/",
+      "reading_th": "มิว-เซี่ยม",
+      "meaning_th": "พิพิธภัณฑ์",
+      "emoji": "🏛️",
+      "example_en": "The museum is free on Sundays.",
+      "example_th": "วันอาทิตย์พิพิธภัณฑ์เข้าฟรี",
+      "cefr": "A2",
+      "note_th": "เน้นพยางค์กลาง \"มิว-ซี-เอิ่ม\" — ค่าเข้า = entrance fee / admission",
+      "distractors": [
+        "stadium",
+        "aquarium",
+        "mausoleum"
+      ]
+    },
+    {
+      "id": "palace",
+      "word": "palace",
+      "pos": "noun",
+      "ipa": "/ˈpæləs/",
+      "reading_th": "แพ-เลส",
+      "meaning_th": "พระราชวัง",
+      "emoji": "🏯",
+      "example_en": "The Grand Palace is beautiful but very crowded.",
+      "example_th": "พระบรมมหาราชวังสวยมากแต่คนแน่นสุดๆ",
+      "cefr": "B1",
+      "note_th": "พระบรมมหาราชวัง = the Grand Palace จุดเช็คอินอันดับหนึ่งของนักท่องเที่ยวในกรุงเทพฯ",
+      "distractors": [
+        "place",
+        "police",
+        "plate"
+      ]
+    },
+    {
+      "id": "statue",
+      "word": "statue",
+      "pos": "noun",
+      "ipa": "/ˈstætʃuː/",
+      "reading_th": "สแตท-ชู",
+      "meaning_th": "รูปปั้น / อนุสาวรีย์",
+      "emoji": "🗽",
+      "example_en": "Tourists take photos with the giant statue.",
+      "example_th": "นักท่องเที่ยวถ่ายรูปกับรูปปั้นยักษ์",
+      "cefr": "B1",
+      "note_th": "statue = รูปปั้น / status = สถานะ สะกดใกล้กันมากแต่คนละเรื่องเลย ระวัง!",
+      "distractors": [
+        "status",
+        "station",
+        "stature"
+      ]
+    },
+    {
+      "id": "night_market",
+      "word": "night market",
+      "pos": "noun",
+      "ipa": "/ˈnaɪt ˌmɑːrkɪt/",
+      "reading_th": "ไนท์-มาร์-เก็ต",
+      "meaning_th": "ตลาดกลางคืน",
+      "emoji": "🏮",
+      "example_en": "The night market has cheap food and cool clothes.",
+      "example_th": "ตลาดกลางคืนมีของกินถูกๆ เสื้อผ้าเท่ๆ",
+      "cefr": "A2",
+      "note_th": "ตลาดนัดกลางคืนคือของเด็ดเมืองไทยที่ฝรั่งชอบสุด — walking street ก็เป็นคำที่ฝรั่งเข้าใจ",
+      "distractors": [
+        "supermarket",
+        "nightclub",
+        "flea market"
+      ]
+    },
+    {
+      "id": "souvenir",
+      "word": "souvenir",
+      "pos": "noun",
+      "ipa": "/ˌsuːvəˈnɪr/",
+      "reading_th": "ซู-เวอ-เนียร์",
+      "meaning_th": "ของฝาก / ของที่ระลึก",
+      "emoji": "🎁",
+      "example_en": "I bought souvenirs for my friends at work.",
+      "example_th": "ฉันซื้อของฝากให้เพื่อนที่ทำงาน",
+      "cefr": "B1",
+      "note_th": "เน้นเสียงพยางค์ท้าย \"ซู-เวอ-เนียร์\" (คำฝรั่งเศส) — ร้านของฝาก = souvenir shop",
+      "distractors": [
+        "souffle",
+        "surprise",
+        "seminar"
+      ]
+    },
+    {
+      "id": "postcard",
+      "word": "postcard",
+      "pos": "noun",
+      "ipa": "/ˈpoʊstkɑːrd/",
+      "reading_th": "โพสท์-การ์ด",
+      "meaning_th": "โปสการ์ด",
+      "emoji": "💌",
+      "example_en": "She sends a postcard from every country.",
+      "example_th": "เธอส่งโปสการ์ดจากทุกประเทศที่ไป",
+      "cefr": "A2",
+      "note_th": "post (ไปรษณีย์) + card (การ์ด) — ส่งโปสการ์ด = send a postcard แสตมป์ = stamp",
+      "distractors": [
+        "passport",
+        "postbox",
+        "playing card"
+      ]
+    },
+    {
+      "id": "culture",
+      "word": "culture",
+      "pos": "noun",
+      "ipa": "/ˈkʌltʃər/",
+      "reading_th": "คัล-เจอร์",
+      "meaning_th": "วัฒนธรรม",
+      "emoji": "🎎",
+      "example_en": "I love learning about Thai culture.",
+      "example_th": "ฉันชอบเรียนรู้วัฒนธรรมไทย",
+      "cefr": "A2",
+      "note_th": "culture ออกเสียง \"คัล-เชอร์\" — cultural = ทางวัฒนธรรม เช่น cultural show (โชว์วัฒนธรรม)",
+      "distractors": [
+        "capture",
+        "vulture",
+        "couture"
+      ]
+    },
+    {
+      "id": "local",
+      "word": "local",
+      "pos": "adjective",
+      "ipa": "/ˈloʊkəl/",
+      "reading_th": "โล-เคิ่ล",
+      "meaning_th": "ท้องถิ่น / คนท้องถิ่น",
+      "emoji": "🏘️",
+      "example_en": "Ask the locals where to eat — they know best.",
+      "example_th": "ถามคนท้องถิ่นว่ากินร้านไหนดี พวกเขารู้ดีที่สุด",
+      "cefr": "A2",
+      "note_th": "local food = อาหารท้องถิ่น / the locals = คนในพื้นที่ — เที่ยวแบบ local คือเทรนด์ที่ฝรั่งชอบสุด",
+      "distractors": [
+        "locale",
+        "logical",
+        "vocal"
+      ]
+    },
+    {
+      "id": "festival",
+      "word": "festival",
+      "pos": "noun",
+      "ipa": "/ˈfestɪvəl/",
+      "reading_th": "เฟส-ติ-เวิ่ล",
+      "meaning_th": "เทศกาล",
+      "emoji": "🎆",
+      "example_en": "The lantern festival in Chiang Mai is magical.",
+      "example_th": "เทศกาลโคมลอยที่เชียงใหม่สวยเหมือนฝัน",
+      "cefr": "A2",
+      "note_th": "เทศกาลดังของไทยในสายตาฝรั่ง: Songkran (water festival) และ Loy Krathong (lantern festival)",
+      "distractors": [
+        "carnival",
+        "hospital",
+        "festive"
+      ]
+    },
+    {
+      "id": "photo",
+      "word": "photo",
+      "pos": "noun",
+      "ipa": "/ˈfoʊtoʊ/",
+      "reading_th": "โฟ-โต้",
+      "meaning_th": "รูปถ่าย",
+      "emoji": "📷",
+      "example_en": "Could you take a photo for us, please?",
+      "example_th": "ช่วยถ่ายรูปให้เราหน่อยได้ไหมคะ",
+      "cefr": "A1",
+      "note_th": "ถ่ายรูป = take a photo (ไม่ใช่ shoot photo) — ประโยคฝากถ่ายรูปนี้ใช้บ่อยสุดตอนเที่ยว ท่องให้ขึ้นใจ!",
+      "distractors": [
+        "video",
+        "phone",
+        "poster"
+      ]
+    },
+    {
+      "id": "selfie",
+      "word": "selfie",
+      "pos": "noun",
+      "ipa": "/ˈselfi/",
+      "reading_th": "เซล-ฟี่",
+      "meaning_th": "เซลฟี่",
+      "emoji": "🤳",
+      "example_en": "Let's take a selfie with the sunset!",
+      "example_th": "มาเซลฟี่กับพระอาทิตย์ตกกัน!",
+      "cefr": "A2",
+      "note_th": "มาจาก self (ตัวเอง) — ไม้เซลฟี่ = selfie stick คำนี้เพิ่งเข้าพจนานุกรมปี 2013 เอง",
+      "distractors": [
+        "shelf",
+        "selfish",
+        "self"
+      ]
+    },
+    {
+      "id": "crowded",
+      "word": "crowded",
+      "pos": "adjective",
+      "ipa": "/ˈkraʊdɪd/",
+      "reading_th": "คราว-เด็ด",
+      "meaning_th": "คนแน่น / แออัด",
+      "emoji": "👥",
+      "example_en": "The market is too crowded on weekends.",
+      "example_th": "เสาร์อาทิตย์ตลาดคนแน่นเกินไป",
+      "cefr": "A2",
+      "note_th": "มาจาก crowd (ฝูงชน) — คนแน่นมากๆ ภาษาพูดใช้ packed ก็ได้ (It's packed!)",
+      "distractors": [
+        "cloudy",
+        "closed",
+        "quiet"
+      ]
+    },
+    {
+      "id": "famous",
+      "word": "famous",
+      "pos": "adjective",
+      "ipa": "/ˈfeɪməs/",
+      "reading_th": "เฟ-เมิส",
+      "meaning_th": "มีชื่อเสียง / โด่งดัง",
+      "emoji": "⭐",
+      "example_en": "This temple is famous for its golden roof.",
+      "example_th": "วัดนี้ดังเรื่องหลังคาสีทอง",
+      "cefr": "A2",
+      "note_th": "famous for + สิ่งที่ทำให้ดัง (famous for its beaches) — ดังในทางไม่ดีใช้ notorious",
+      "distractors": [
+        "fabulous",
+        "nervous",
+        "family"
+      ]
+    },
+    {
+      "id": "help",
+      "word": "help",
+      "pos": "verb",
+      "ipa": "/help/",
+      "reading_th": "เฮลพ์",
+      "meaning_th": "ช่วยเหลือ",
+      "emoji": "🆘",
+      "example_en": "Help! Can somebody help me, please?",
+      "example_th": "ช่วยด้วย! ใครก็ได้ช่วยฉันหน่อย!",
+      "cefr": "A1",
+      "note_th": "คำแรกที่ต้องได้ในทุกภาษา — ตะโกน Help! คำเดียวทุกคนเข้าใจ และ Can you help me? = ขอความช่วยเหลือแบบสุภาพ",
+      "distractors": [
+        "held",
+        "health",
+        "hello"
+      ]
+    },
+    {
+      "id": "emergency",
+      "word": "emergency",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "reading_th": "อิ-เมอร์-เจน-ซี่",
+      "meaning_th": "เหตุฉุกเฉิน",
+      "emoji": "🚨",
+      "example_en": "Call this number in an emergency.",
+      "example_th": "ถ้ามีเหตุฉุกเฉินโทรเบอร์นี้",
+      "cefr": "B1",
+      "note_th": "เบอร์ฉุกเฉินไทยสำหรับนักท่องเที่ยว: 1155 (ตำรวจท่องเที่ยว) / ทางออกฉุกเฉิน = emergency exit",
+      "distractors": [
+        "agency",
+        "energy",
+        "emergence"
+      ]
+    },
+    {
+      "id": "police",
+      "word": "police",
+      "pos": "noun",
+      "ipa": "/pəˈliːs/",
+      "reading_th": "โพ-ลีส",
+      "meaning_th": "ตำรวจ",
+      "emoji": "👮",
+      "example_en": "We should call the police.",
+      "example_th": "เราควรโทรเรียกตำรวจ",
+      "cefr": "A1",
+      "note_th": "เน้นพยางค์หลัง \"เพอะ-ลีส\" ไม่ใช่ \"โพ-ลิด\" — police ใช้กริยาพหูพจน์: The police are coming",
+      "distractors": [
+        "policy",
+        "polite",
+        "palace"
+      ]
+    },
+    {
+      "id": "accident",
+      "word": "accident",
+      "pos": "noun",
+      "ipa": "/ˈæksɪdənt/",
+      "reading_th": "แอ็ค-ซิ-เด้นท์",
+      "meaning_th": "อุบัติเหตุ",
+      "emoji": "💥",
+      "example_en": "There was a small accident on the road.",
+      "example_th": "มีอุบัติเหตุเล็กน้อยบนถนน",
+      "cefr": "A2",
+      "note_th": "by accident = โดยบังเอิญ/ไม่ตั้งใจ (I deleted it by accident) ใช้บ่อยกว่าความหมายอุบัติเหตุอีก",
+      "distractors": [
+        "incident",
+        "accent",
+        "account"
+      ]
+    },
+    {
+      "id": "hurt",
+      "word": "hurt",
+      "pos": "verb",
+      "ipa": "/hɜːrt/",
+      "reading_th": "เฮิร์ท",
+      "meaning_th": "เจ็บ / บาดเจ็บ",
+      "emoji": "🤕",
+      "example_en": "My leg hurts — I fell off the motorbike.",
+      "example_th": "ขาฉันเจ็บ ล้มมอเตอร์ไซค์มา",
+      "cefr": "A2",
+      "note_th": "บอกหมอว่าเจ็บตรงไหน: My ... hurts (เติมอวัยวะ) — สามช่อง hurt-hurt-hurt ไม่เปลี่ยนรูปเลย",
+      "distractors": [
+        "heart",
+        "hut",
+        "hard"
+      ]
+    },
+    {
+      "id": "dangerous",
+      "word": "dangerous",
+      "pos": "adjective",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "reading_th": "เดน-เจอ-เริส",
+      "meaning_th": "อันตราย",
+      "emoji": "⚠️",
+      "example_en": "Swimming here is dangerous — see the red flag?",
+      "example_th": "ว่ายน้ำตรงนี้อันตราย เห็นธงแดงไหม",
+      "cefr": "A2",
+      "note_th": "danger (อันตราย-คำนาม) → dangerous (คำคุณศัพท์) — ธงแดงที่หาด = ห้ามลงเล่นน้ำเด็ดขาด",
+      "distractors": [
+        "danger",
+        "generous",
+        "delicious"
+      ]
+    },
+    {
+      "id": "be_careful",
+      "word": "be careful",
+      "pos": "phrase",
+      "ipa": "/bi ˈkerfəl/",
+      "reading_th": "บี-แคร์-ฟูล",
+      "meaning_th": "ระวัง / ระมัดระวัง",
+      "emoji": "🫣",
+      "example_en": "Be careful! The rocks are slippery.",
+      "example_th": "ระวังนะ! ก้อนหินลื่นมาก",
+      "cefr": "A1",
+      "note_th": "เตือนภัยสั้นๆ: Be careful! / Watch out! (ระวัง!) / Look out! (หลบ!) สามคำนี้ช่วยชีวิตได้จริง",
+      "distractors": [
+        "be quiet",
+        "be quick",
+        "take care"
+      ]
+    },
+    {
+      "id": "sunburn",
+      "word": "sunburn",
+      "pos": "noun",
+      "ipa": "/ˈsʌnbɜːrn/",
+      "reading_th": "ซัน-เบิร์น",
+      "meaning_th": "ผิวไหม้แดด",
+      "emoji": "🥵",
+      "example_en": "I got a bad sunburn at the beach.",
+      "example_th": "ฉันโดนแดดเผาที่ทะเลมาเต็มๆ",
+      "cefr": "B1",
+      "note_th": "sun + burn (ไหม้) — get a sunburn = โดนแดดเผา ต่างจาก suntan (ผิวสีแทนสวยๆ ที่ฝรั่งอยากได้)",
+      "distractors": [
+        "suntan",
+        "sunset",
+        "heartburn"
+      ]
+    },
+    {
+      "id": "mosquito",
+      "word": "mosquito",
+      "pos": "noun",
+      "ipa": "/məˈskiːtoʊ/",
+      "reading_th": "มอส-กี-โต้",
+      "meaning_th": "ยุง",
+      "emoji": "🦟",
+      "example_en": "The mosquitoes are terrible near the lake.",
+      "example_th": "แถวทะเลสาบยุงเยอะสุดๆ",
+      "cefr": "A2",
+      "note_th": "ยากันยุง = mosquito repellent / โดนยุงกัด = get mosquito bites — ศัพท์จำเป็นของเมืองร้อน",
+      "distractors": [
+        "mostly",
+        "moustache",
+        "tornado"
+      ]
+    },
+    {
+      "id": "insurance",
+      "word": "insurance",
+      "pos": "noun",
+      "ipa": "/ɪnˈʃʊrəns/",
+      "reading_th": "อิน-ชัว-เรินซ์",
+      "meaning_th": "ประกัน (การเดินทาง)",
+      "emoji": "📋",
+      "example_en": "Always buy travel insurance before your trip.",
+      "example_th": "ซื้อประกันเดินทางก่อนออกทริปเสมอ",
+      "cefr": "B1",
+      "note_th": "travel insurance = ประกันเดินทาง / health insurance = ประกันสุขภาพ — เคลมประกัน = make a claim",
+      "distractors": [
+        "assurance",
+        "instance",
+        "entrance"
+      ]
+    },
+    {
+      "id": "embassy",
+      "word": "embassy",
+      "pos": "noun",
+      "ipa": "/ˈembəsi/",
+      "reading_th": "เอ็ม-บะ-ซี่",
+      "meaning_th": "สถานทูต",
+      "emoji": "🏛️",
+      "example_en": "If you lose your passport, contact your embassy.",
+      "example_th": "ถ้าพาสปอร์ตหาย ให้ติดต่อสถานทูตของคุณ",
+      "cefr": "B1",
+      "note_th": "สถานทูตไทยในต่างแดน = Thai embassy ช่วยได้ตอนพาสปอร์ตหาย/เกิดเหตุร้ายแรง จดที่อยู่ไว้ก่อนเดินทาง",
+      "distractors": [
+        "embarrassing",
+        "assembly",
+        "economy"
+      ]
+    },
+    {
+      "id": "stolen",
+      "word": "stolen",
+      "pos": "adjective",
+      "ipa": "/ˈstoʊlən/",
+      "reading_th": "สโต-เลิ่น",
+      "meaning_th": "ถูกขโมย",
+      "emoji": "🚨",
+      "example_en": "My phone was stolen on the bus!",
+      "example_th": "มือถือฉันถูกขโมยบนรถเมล์!",
+      "cefr": "B1",
+      "note_th": "แจ้งของหาย: My ... was stolen (ถูกขโมย) ต่างจาก I lost my ... (ทำหายเอง) — ตำรวจถามต่างกันนะ",
+      "distractors": [
+        "stole",
+        "swollen",
+        "broken"
+      ]
+    },
+    {
+      "id": "report",
+      "word": "report",
+      "pos": "verb",
+      "ipa": "/rɪˈpɔːrt/",
+      "reading_th": "รี-พอร์ท",
+      "meaning_th": "แจ้งความ / รายงาน",
+      "emoji": "📄",
+      "example_en": "I want to report a stolen wallet.",
+      "example_th": "ผมต้องการแจ้งความกระเป๋าตังค์ถูกขโมย",
+      "cefr": "B1",
+      "note_th": "แจ้งความที่สถานีตำรวจ: report a theft — ใบแจ้งความ = police report ใช้เคลมประกันได้",
+      "distractors": [
+        "repeat",
+        "resort",
+        "record"
+      ]
+    },
+    {
+      "id": "first_aid",
+      "word": "first aid",
+      "pos": "noun",
+      "ipa": "/ˌfɜːrst ˈeɪd/",
+      "reading_th": "เฟิร์สท์-เอด",
+      "meaning_th": "การปฐมพยาบาล",
+      "emoji": "🩹",
+      "example_en": "Every tour bus has a first aid kit.",
+      "example_th": "รถทัวร์ทุกคันมีชุดปฐมพยาบาล",
+      "cefr": "B1",
+      "note_th": "first (แรก) + aid (ความช่วยเหลือ) = ช่วยเหลือขั้นแรก — กล่องยา = first aid kit สัญลักษณ์กากบาท",
+      "distractors": [
+        "first class",
+        "band-aid",
+        "first place"
+      ]
+    },
+    {
+      "id": "experience",
+      "word": "experience",
+      "pos": "noun",
+      "ipa": "/ɪkˈspɪriəns/",
+      "reading_th": "อิค-สปี-เรียนซ์",
+      "meaning_th": "ประสบการณ์",
+      "emoji": "✨",
+      "example_en": "Riding an elephant-free sanctuary tour was a great experience.",
+      "example_th": "ทัวร์ชมช้างแบบไม่ขี่เป็นประสบการณ์ที่ดีมาก",
+      "cefr": "B1",
+      "note_th": "นับไม่ได้เมื่อหมายถึงประสบการณ์รวมๆ แต่นับได้เมื่อเป็นเหตุการณ์: a great experience (ครั้งหนึ่งที่ดี)",
+      "distractors": [
+        "experiment",
+        "expensive",
+        "expression"
+      ]
+    },
+    {
+      "id": "adventure",
+      "word": "adventure",
+      "pos": "noun",
+      "ipa": "/ədˈventʃər/",
+      "reading_th": "แอด-เวน-เจอร์",
+      "meaning_th": "การผจญภัย",
+      "emoji": "🧗",
+      "example_en": "Our trip turned into a real adventure!",
+      "example_th": "ทริปเรากลายเป็นการผจญภัยของจริง!",
+      "cefr": "B1",
+      "note_th": "สายลุย = adventurous person — กิจกรรมผจญภัย (ซิปไลน์ ล่องแก่ง) เรียกรวมว่า adventure activities",
+      "distractors": [
+        "advertisement",
+        "avenue",
+        "adventurer"
+      ]
+    },
+    {
+      "id": "journey",
+      "word": "journey",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrni/",
+      "reading_th": "เจอร์-นี่",
+      "meaning_th": "การเดินทาง (ระยะไกล)",
+      "emoji": "🛤️",
+      "example_en": "The journey took twelve hours by train.",
+      "example_th": "เดินทางด้วยรถไฟตั้งสิบสองชั่วโมง",
+      "cefr": "B1",
+      "note_th": "journey เน้น \"ระหว่างทาง\" / trip เน้นไปเที่ยวทั้งก้อน — อวยพรก่อนเดินทาง: Have a safe journey!",
+      "distractors": [
+        "journal",
+        "jury",
+        "tourney"
+      ]
+    },
+    {
+      "id": "explore",
+      "word": "explore",
+      "pos": "verb",
+      "ipa": "/ɪkˈsplɔːr/",
+      "reading_th": "อิค-สปลอร์",
+      "meaning_th": "สำรวจ / เที่ยวสำรวจ",
+      "emoji": "🧭",
+      "example_en": "Let's explore the old town on foot.",
+      "example_th": "เดินสำรวจเมืองเก่ากันเถอะ",
+      "cefr": "B1",
+      "note_th": "explore = เดินเที่ยวแบบไม่มีแผนตายตัว เปิดประสบการณ์ — นักสำรวจ = explorer",
+      "distractors": [
+        "explode",
+        "express",
+        "expose"
+      ]
+    },
+    {
+      "id": "discover",
+      "word": "discover",
+      "pos": "verb",
+      "ipa": "/dɪˈskʌvər/",
+      "reading_th": "ดิส-คัฟ-เวอร์",
+      "meaning_th": "ค้นพบ",
+      "emoji": "🔍",
+      "example_en": "We discovered a tiny cafe behind the temple.",
+      "example_th": "เราค้นพบคาเฟ่เล็กๆ หลังวัด",
+      "cefr": "B1",
+      "note_th": "discover = เจอสิ่งที่มีอยู่แล้วแต่เราไม่รู้ / invent = ประดิษฐ์สิ่งใหม่ — คนไทยสับสนคู่นี้บ่อย",
+      "distractors": [
+        "recover",
+        "uncover",
+        "deliver"
+      ]
+    },
+    {
+      "id": "amazing",
+      "word": "amazing",
+      "pos": "adjective",
+      "ipa": "/əˈmeɪzɪŋ/",
+      "reading_th": "อะ-เม-ซิ่ง",
+      "meaning_th": "น่าทึ่ง / สุดยอด",
+      "emoji": "🤩",
+      "example_en": "The view from the cliff was amazing!",
+      "example_th": "วิวจากหน้าผาสุดยอดมาก!",
+      "cefr": "A2",
+      "note_th": "Amazing Thailand! สโลแกนท่องเที่ยวไทยที่ฝรั่งจำได้ทั้งโลก — ใช้ชมได้ทุกสถานการณ์ ปลอดภัยเสมอ",
+      "distractors": [
+        "amusing",
+        "annoying",
+        "amazed"
+      ]
+    },
+    {
+      "id": "beautiful",
+      "word": "beautiful",
+      "pos": "adjective",
+      "ipa": "/ˈbjuːtɪfəl/",
+      "reading_th": "บิว-ติ-ฟูล",
+      "meaning_th": "สวยงาม",
+      "emoji": "🌺",
+      "example_en": "What a beautiful beach!",
+      "example_th": "หาดอะไรจะสวยขนาดนี้!",
+      "cefr": "A1",
+      "note_th": "โครงสร้างอุทาน: What a beautiful ...! (ช่างสวยอะไรเช่นนี้) — beautiful ใช้กับทุกอย่าง คน วิว อากาศ",
+      "distractors": [
+        "beauty",
+        "wonderful",
+        "careful"
+      ]
+    },
+    {
+      "id": "unforgettable",
+      "word": "unforgettable",
+      "pos": "adjective",
+      "ipa": "/ˌʌnfərˈɡetəbəl/",
+      "reading_th": "อัน-ฟอร์-เก็ท-ทะ-เบิ้ล",
+      "meaning_th": "น่าจดจำ / ลืมไม่ลง",
+      "emoji": "💫",
+      "example_en": "Watching the sunrise there was unforgettable.",
+      "example_th": "การดูพระอาทิตย์ขึ้นที่นั่นคือความทรงจำที่ลืมไม่ลง",
+      "cefr": "B1",
+      "note_th": "แยกส่วน: un (ไม่) + forget (ลืม) + able (ได้) = ลืมไม่ได้ — เห็นคำยาวๆ อย่าตกใจ แยกส่วนก่อน",
+      "distractors": [
+        "unbelievable",
+        "uncomfortable",
+        "forgettable"
+      ]
+    },
+    {
+      "id": "scenery",
+      "word": "scenery",
+      "pos": "noun",
+      "ipa": "/ˈsiːnəri/",
+      "reading_th": "ซี-เนอ-รี่",
+      "meaning_th": "ทิวทัศน์ / วิวธรรมชาติ",
+      "emoji": "🏞️",
+      "example_en": "The scenery along the road to Pai is stunning.",
+      "example_th": "วิวสองข้างทางไปปายสวยตะลึง",
+      "cefr": "B1",
+      "note_th": "scenery = วิวธรรมชาติแบบรวมๆ (นับไม่ได้) / view = วิวจากจุดใดจุดหนึ่ง (นับได้: a view)",
+      "distractors": [
+        "scene",
+        "screen",
+        "century"
+      ]
+    },
+    {
+      "id": "sunrise",
+      "word": "sunrise",
+      "pos": "noun",
+      "ipa": "/ˈsʌnraɪz/",
+      "reading_th": "ซัน-ไรซ์",
+      "meaning_th": "พระอาทิตย์ขึ้น",
+      "emoji": "🌅",
+      "example_en": "We woke up at five to see the sunrise.",
+      "example_th": "เราตื่นตีห้ามาดูพระอาทิตย์ขึ้น",
+      "cefr": "A2",
+      "note_th": "sun + rise (ขึ้น) คู่กับ sunset (ตก) — จุดชมพระอาทิตย์ขึ้นดังๆ ของไทยคือภูชี้ฟ้ากับดอยเสมอดาว",
+      "distractors": [
+        "sunset",
+        "surprise",
+        "sunshine"
+      ]
+    },
+    {
+      "id": "friendly",
+      "word": "friendly",
+      "pos": "adjective",
+      "ipa": "/ˈfrendli/",
+      "reading_th": "เฟรนด์-ลี่",
+      "meaning_th": "เป็นมิตร / ใจดี",
+      "emoji": "😊",
+      "example_en": "The local people are so friendly here.",
+      "example_th": "คนท้องถิ่นที่นี่เป็นมิตรมาก",
+      "cefr": "A2",
+      "note_th": "ลงท้าย -ly แต่เป็น adjective ไม่ใช่ adverb! (a friendly smile) — เมืองไทยได้ฉายา Land of Smiles ก็เพราะคำนี้",
+      "distractors": [
+        "friend",
+        "family",
+        "lonely"
+      ]
+    },
+    {
+      "id": "homesick",
+      "word": "homesick",
+      "pos": "adjective",
+      "ipa": "/ˈhoʊmsɪk/",
+      "reading_th": "โฮม-ซิค",
+      "meaning_th": "คิดถึงบ้าน",
+      "emoji": "🥺",
+      "example_en": "After two weeks abroad, I felt homesick.",
+      "example_th": "ไปต่างประเทศสองอาทิตย์ก็เริ่มคิดถึงบ้าน",
+      "cefr": "B1",
+      "note_th": "home (บ้าน) + sick (ป่วย) = ป่วยเพราะคิดถึงบ้าน — feel/get homesick ไม่ใช่การป่วยจริง",
+      "distractors": [
+        "housework",
+        "seasick",
+        "homework"
+      ]
+    },
+    {
+      "id": "safe_trip",
+      "word": "have a safe trip",
+      "pos": "phrase",
+      "ipa": "/hæv ə ˌseɪf ˈtrɪp/",
+      "reading_th": "แฮฟว์-อะ-เซฟ-ทริพ",
+      "meaning_th": "เดินทางปลอดภัยนะ",
+      "emoji": "👋",
+      "example_en": "See you next month — have a safe trip!",
+      "example_th": "เจอกันเดือนหน้า เดินทางปลอดภัยนะ!",
+      "cefr": "A2",
+      "note_th": "คำอวยพรก่อนใครสักคนเดินทาง ใช้ได้ทุกสถานการณ์ — ตอบกลับง่ายๆ: Thank you! หรือ You too!",
+      "distractors": [
+        "have a good meal",
+        "have a seat",
+        "have a break"
+      ]
+    },
+    {
+      "id": "bucket_list",
+      "word": "bucket list",
+      "pos": "noun",
+      "ipa": "/ˈbʌkɪt lɪst/",
+      "reading_th": "บัค-เก็ต-ลิสท์",
+      "meaning_th": "ลิสต์สิ่งที่อยากทำสักครั้งในชีวิต",
+      "emoji": "📜",
+      "example_en": "Seeing the northern lights is on my bucket list.",
+      "example_th": "การได้เห็นแสงเหนืออยู่ในลิสต์ชีวิตของฉัน",
+      "cefr": "B1",
+      "note_th": "สำนวนสมัยใหม่ = รายการฝันที่ต้องทำให้ได้สักครั้ง — on my bucket list ใช้โพสต์โซเชียลได้เท่มาก",
+      "distractors": [
+        "shopping list",
+        "checklist",
+        "wishlist"
+      ]
+    }
+  ]
+}
