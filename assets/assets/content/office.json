@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "office",
+    "name_en": "Office",
+    "name_th": "ออฟฟิศ",
+    "emoji": "💼",
+    "color_start": "#94A3B8",
+    "color_end": "#475569",
+    "description_th": "ศัพท์วัยทำงาน อีเมล ประชุม สมัครงาน จนถึงวันเงินเดือนออก",
+    "mascot_costume": "office",
+    "lessons": [
+      {
+        "id": "office_1",
+        "title_en": "At the Office",
+        "title_th": "ในออฟฟิศ",
+        "emoji": "🏢",
+        "word_ids": [
+          "office",
+          "desk",
+          "computer",
+          "keyboard",
+          "mouse",
+          "monitor",
+          "printer",
+          "document",
+          "folder",
+          "stapler",
+          "whiteboard",
+          "calendar",
+          "colleague",
+          "boss"
+        ],
+        "image": "lessons/office_1.webp"
+      },
+      {
+        "id": "office_2",
+        "title_en": "Email & Messages",
+        "title_th": "อีเมลและข้อความ",
+        "emoji": "📧",
+        "word_ids": [
+          "email",
+          "inbox",
+          "subject",
+          "send",
+          "receive",
+          "reply",
+          "forward",
+          "attach",
+          "message",
+          "draft",
+          "typo",
+          "urgent",
+          "spam",
+          "call"
+        ],
+        "image": "lessons/office_2.webp"
+      },
+      {
+        "id": "office_3",
+        "title_en": "Meetings",
+        "title_th": "การประชุม",
+        "emoji": "🗣️",
+        "word_ids": [
+          "meeting",
+          "meeting_room",
+          "agenda",
+          "presentation",
+          "slide",
+          "present",
+          "discuss",
+          "agree",
+          "disagree",
+          "opinion",
+          "idea",
+          "brainstorm",
+          "decision",
+          "postpone"
+        ],
+        "image": "lessons/office_3.webp"
+      },
+      {
+        "id": "office_4",
+        "title_en": "Daily Work",
+        "title_th": "งานประจำวัน",
+        "emoji": "📋",
+        "word_ids": [
+          "work",
+          "task",
+          "deadline",
+          "busy",
+          "project",
+          "schedule",
+          "priority",
+          "finish",
+          "submit",
+          "check",
+          "solve",
+          "overtime",
+          "break",
+          "day_off"
+        ],
+        "image": "lessons/office_4.webp"
+      },
+      {
+        "id": "office_5",
+        "title_en": "People & Positions",
+        "title_th": "คนและตำแหน่ง",
+        "emoji": "🧑‍💼",
+        "word_ids": [
+          "manager",
+          "assistant",
+          "intern",
+          "staff",
+          "team",
+          "teamwork",
+          "department",
+          "position",
+          "skill",
+          "responsible",
+          "get_promoted",
+          "hire",
+          "fire",
+          "resign"
+        ],
+        "image": "lessons/office_5.webp"
+      },
+      {
+        "id": "office_6",
+        "title_en": "Job Hunting",
+        "title_th": "สมัครงานและสัมภาษณ์",
+        "emoji": "📄",
+        "word_ids": [
+          "job",
+          "apply",
+          "resume",
+          "interview",
+          "salary",
+          "benefit",
+          "full_time",
+          "part_time",
+          "contract",
+          "career",
+          "employer",
+          "employee",
+          "strength",
+          "weakness"
+        ],
+        "image": "lessons/office_6.webp"
+      },
+      {
+        "id": "office_7",
+        "title_en": "Work Life",
+        "title_th": "ชีวิตวัยทำงาน",
+        "emoji": "🌟",
+        "word_ids": [
+          "payday",
+          "bonus",
+          "raise",
+          "goal",
+          "achieve",
+          "success",
+          "proud",
+          "hardworking",
+          "lazy",
+          "stress",
+          "rest",
+          "dream_job",
+          "retire",
+          "congratulations"
+        ],
+        "image": "lessons/office_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "office",
+      "word": "office",
+      "pos": "noun",
+      "ipa": "/ˈɔːfɪs/",
+      "reading_th": "ออฟ-ฟิส",
+      "meaning_th": "ออฟฟิศ / ที่ทำงาน",
+      "emoji": "🏢",
+      "example_en": "I get to the office at nine.",
+      "example_th": "ฉันถึงออฟฟิศเก้าโมง",
+      "cefr": "A1",
+      "note_th": "ไปทำงาน = go to work หรือ go to the office — ส่วน work from home (WFH) = ทำงานจากบ้าน ศัพท์ยุคใหม่ที่ใช้ทั่วโลก",
+      "distractors": [
+        "officer",
+        "offer",
+        "factory"
+      ],
+      "image": "words/office.webp"
+    },
+    {
+      "id": "desk",
+      "word": "desk",
+      "pos": "noun",
+      "ipa": "/desk/",
+      "reading_th": "เดสค์",
+      "meaning_th": "โต๊ะทำงาน",
+      "emoji": "🖥️",
+      "example_en": "My desk is next to the window.",
+      "example_th": "โต๊ะทำงานของฉันอยู่ติดหน้าต่าง",
+      "cefr": "A1",
+      "note_th": "desk = โต๊ะทำงาน/โต๊ะเรียน (มักมีลิ้นชัก) ส่วน table = โต๊ะทั่วไป — ออฟฟิศสมัยใหม่มี hot desk = โต๊ะไม่ประจำที่",
+      "distractors": [
+        "disk",
+        "table",
+        "desktop"
+      ],
+      "image": "words/desk.webp"
+    },
+    {
+      "id": "computer",
+      "word": "computer",
+      "pos": "noun",
+      "ipa": "/kəmˈpjuːtər/",
+      "reading_th": "คอม-พิว-เตอร์",
+      "meaning_th": "คอมพิวเตอร์",
+      "emoji": "💻",
+      "example_en": "My computer is very slow today.",
+      "example_th": "วันนี้คอมฉันช้ามาก",
+      "cefr": "A1",
+      "note_th": "คนไทยเรียกสั้นๆ ว่า \"คอม\" แต่ภาษาอังกฤษต้องพูดเต็ม computer — รีสตาร์ทเครื่อง = restart the computer แก้ได้ทุกปัญหา 90%! 😄",
+      "distractors": [
+        "commuter",
+        "calculator",
+        "container"
+      ],
+      "image": "words/computer.webp"
+    },
+    {
+      "id": "keyboard",
+      "word": "keyboard",
+      "pos": "noun",
+      "ipa": "/ˈkiːbɔːrd/",
+      "reading_th": "คีย์-บอร์ด",
+      "meaning_th": "คีย์บอร์ด / แป้นพิมพ์",
+      "emoji": "⌨️",
+      "example_en": "This keyboard makes a loud clicking sound.",
+      "example_th": "คีย์บอร์ดตัวนี้เสียงกดดังมาก",
+      "cefr": "A2",
+      "note_th": "key (ปุ่ม) + board (แผง) — พิมพ์งาน = type และคีย์บอร์ดเสียงดังสายออฟฟิศเรียก mechanical keyboard",
+      "distractors": [
+        "billboard",
+        "keychain",
+        "cardboard"
+      ],
+      "image": "words/keyboard.webp"
+    },
+    {
+      "id": "mouse",
+      "word": "mouse",
+      "pos": "noun",
+      "ipa": "/maʊs/",
+      "reading_th": "เมาส์",
+      "meaning_th": "เมาส์",
+      "emoji": "🖱️",
+      "example_en": "Click the right mouse button.",
+      "example_th": "คลิกเมาส์ปุ่มขวา",
+      "cefr": "A2",
+      "note_th": "mouse แปลว่า \"หนู\" ด้วย! เมาส์คอมได้ชื่อนี้เพราะรูปร่างเหมือนหนูมีหาง — คลิกซ้าย/ขวา = left/right click",
+      "distractors": [
+        "mouth",
+        "house",
+        "moose"
+      ],
+      "image": "words/mouse.webp"
+    },
+    {
+      "id": "monitor",
+      "word": "monitor",
+      "pos": "noun",
+      "ipa": "/ˈmɑːnɪtər/",
+      "reading_th": "มอ-นิ-เตอร์",
+      "meaning_th": "จอคอมพิวเตอร์",
+      "emoji": "🖥️",
+      "example_en": "I work faster with two monitors.",
+      "example_th": "ใช้สองจอทำงานเร็วขึ้นเยอะ",
+      "cefr": "A2",
+      "note_th": "monitor เป็นกริยาแปลว่า \"เฝ้าดู/ติดตาม\" ได้ด้วย เช่น monitor the situation (ติดตามสถานการณ์)",
+      "distractors": [
+        "mentor",
+        "minister",
+        "motor"
+      ],
+      "image": "words/monitor.webp"
+    },
+    {
+      "id": "printer",
+      "word": "printer",
+      "pos": "noun",
+      "ipa": "/ˈprɪntər/",
+      "reading_th": "พริน-เตอร์",
+      "meaning_th": "เครื่องพิมพ์ / ปริ้นเตอร์",
+      "emoji": "🖨️",
+      "example_en": "The printer is out of paper again.",
+      "example_th": "ปริ้นเตอร์กระดาษหมดอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"ปริ้นงาน\" ภาษาอังกฤษคือ print (ไม่มี ต์) — หมึกหมด = out of ink / กระดาษติด = paper jam ปัญหาอมตะของทุกออฟฟิศ",
+      "distractors": [
+        "painter",
+        "printing",
+        "scanner"
+      ],
+      "image": "words/printer.webp"
+    },
+    {
+      "id": "document",
+      "word": "document",
+      "pos": "noun",
+      "ipa": "/ˈdɑːkjəmənt/",
+      "reading_th": "ด็อค-คิว-เมนท์",
+      "meaning_th": "เอกสาร",
+      "emoji": "📃",
+      "example_en": "Please sign this document.",
+      "example_th": "กรุณาเซ็นเอกสารฉบับนี้",
+      "cefr": "A2",
+      "note_th": "เอกสารสำคัญ = important documents — ส่วนไฟล์ Word ที่เราพิมพ์ก็เรียก document (นามสกุล .docx = document)",
+      "distractors": [
+        "documentary",
+        "monument",
+        "comment"
+      ],
+      "image": "words/document.webp"
+    },
+    {
+      "id": "folder",
+      "word": "folder",
+      "pos": "noun",
+      "ipa": "/ˈfoʊldər/",
+      "reading_th": "โฟล-เดอร์",
+      "meaning_th": "แฟ้ม / โฟลเดอร์",
+      "emoji": "📁",
+      "example_en": "Put the report in the blue folder.",
+      "example_th": "เอารายงานใส่แฟ้มสีน้ำเงิน",
+      "cefr": "A2",
+      "note_th": "folder ใช้ทั้งแฟ้มกระดาษจริงและโฟลเดอร์ในคอม มาจาก fold (พับ) — จัดไฟล์เข้าโฟลเดอร์ = organize files into folders",
+      "distractors": [
+        "folding",
+        "founder",
+        "filter"
+      ],
+      "image": "words/folder.webp"
+    },
+    {
+      "id": "stapler",
+      "word": "stapler",
+      "pos": "noun",
+      "ipa": "/ˈsteɪplər/",
+      "reading_th": "สเตป-เลอร์",
+      "meaning_th": "ที่เย็บกระดาษ / แม็ก",
+      "emoji": "📎",
+      "example_en": "Can I borrow your stapler?",
+      "example_th": "ขอยืมแม็กหน่อยได้ไหม",
+      "cefr": "B1",
+      "note_th": "\"แม็ก\" ที่คนไทยเรียกมาจากยี่ห้อ MAX! ภาษาอังกฤษคือ stapler ส่วนลวดเย็บคือ staples และคลิปหนีบคือ paper clip",
+      "distractors": [
+        "staple",
+        "scissors",
+        "stapling"
+      ],
+      "image": "words/stapler.webp"
+    },
+    {
+      "id": "whiteboard",
+      "word": "whiteboard",
+      "pos": "noun",
+      "ipa": "/ˈwaɪtbɔːrd/",
+      "reading_th": "ไวท์-บอร์ด",
+      "meaning_th": "กระดานไวท์บอร์ด",
+      "emoji": "🧑‍🏫",
+      "example_en": "Write the plan on the whiteboard.",
+      "example_th": "เขียนแผนบนไวท์บอร์ดเลย",
+      "cefr": "A2",
+      "note_th": "white (ขาว) + board (กระดาน) — ปากกาไวท์บอร์ด = marker และแปรงลบคือ eraser",
+      "distractors": [
+        "blackboard",
+        "billboard",
+        "whiteout"
+      ],
+      "image": "words/whiteboard.webp"
+    },
+    {
+      "id": "calendar",
+      "word": "calendar",
+      "pos": "noun",
+      "ipa": "/ˈkæləndər/",
+      "reading_th": "แค-เลน-เดอร์",
+      "meaning_th": "ปฏิทิน",
+      "emoji": "📅",
+      "example_en": "Check my calendar before booking a meeting.",
+      "example_th": "เช็คปฏิทินฉันก่อนนัดประชุมนะ",
+      "cefr": "A2",
+      "note_th": "ลงนัดในปฏิทิน = put it in the calendar — ยุคนี้หมายถึง Google Calendar กันหมดแล้ว",
+      "distractors": [
+        "colander",
+        "calculator",
+        "cylinder"
+      ],
+      "image": "words/calendar.webp"
+    },
+    {
+      "id": "colleague",
+      "word": "colleague",
+      "pos": "noun",
+      "ipa": "/ˈkɑːliːɡ/",
+      "reading_th": "คอล-ลีก",
+      "meaning_th": "เพื่อนร่วมงาน",
+      "emoji": "👥",
+      "example_en": "My colleagues are friendly and helpful.",
+      "example_th": "เพื่อนร่วมงานฉันน่ารักและช่วยเหลือดี",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"คอล-ลีก\" เน้นพยางค์แรก — ภาษาพูดใช้ coworker ก็ได้ ความหมายเดียวกัน",
+      "distractors": [
+        "college",
+        "league",
+        "collection"
+      ],
+      "image": "words/colleague.webp"
+    },
+    {
+      "id": "boss",
+      "word": "boss",
+      "pos": "noun",
+      "ipa": "/bɔːs/",
+      "reading_th": "บอส",
+      "meaning_th": "หัวหน้า / เจ้านาย",
+      "emoji": "🕴️",
+      "example_en": "My boss is strict but fair.",
+      "example_th": "หัวหน้าฉันเข้มงวดแต่ยุติธรรม",
+      "cefr": "A2",
+      "note_th": "boss เป็นภาษาพูด ส่วนคำทางการคือ supervisor (หัวหน้างาน) หรือ manager — บอสใหญ่สุดคือ CEO",
+      "distractors": [
+        "bass",
+        "bus",
+        "base"
+      ],
+      "image": "words/boss.webp"
+    },
+    {
+      "id": "email",
+      "word": "email",
+      "pos": "noun",
+      "ipa": "/ˈiːmeɪl/",
+      "reading_th": "อี-เมล",
+      "meaning_th": "อีเมล",
+      "emoji": "📧",
+      "example_en": "I will send you an email this afternoon.",
+      "example_th": "บ่ายนี้ฉันจะส่งอีเมลหาคุณ",
+      "cefr": "A1",
+      "note_th": "ส่งอีเมลหาฉัน = email me (ใช้เป็นกริยาได้เลย!) — เช็คอีเมล = check email กิจวัตรแรกของวัยทำงานทุกเช้า",
+      "distractors": [
+        "mail",
+        "female",
+        "airmail"
+      ],
+      "image": "words/email.webp"
+    },
+    {
+      "id": "inbox",
+      "word": "inbox",
+      "pos": "noun",
+      "ipa": "/ˈɪnbɑːks/",
+      "reading_th": "อิน-บ็อกซ์",
+      "meaning_th": "กล่องข้อความเข้า",
+      "emoji": "📥",
+      "example_en": "I have 200 unread emails in my inbox.",
+      "example_th": "ในอินบ็อกซ์ฉันมีเมลยังไม่อ่าน 200 ฉบับ",
+      "cefr": "B1",
+      "note_th": "in (เข้า) + box (กล่อง) — กล่องส่งออกคือ outbox / sent และเมลยังไม่อ่าน = unread emails",
+      "distractors": [
+        "outbox",
+        "lunchbox",
+        "index"
+      ],
+      "image": "words/inbox.webp"
+    },
+    {
+      "id": "subject",
+      "word": "subject",
+      "pos": "noun",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "reading_th": "ซับ-เจ็คท์",
+      "meaning_th": "หัวข้อ (อีเมล)",
+      "emoji": "🏷️",
+      "example_en": "Always write a clear subject line.",
+      "example_th": "เขียนหัวข้ออีเมลให้ชัดเจนเสมอ",
+      "cefr": "B1",
+      "note_th": "subject ยังแปลว่า \"วิชาเรียน\" ได้ด้วย (favorite subject = วิชาโปรด) — ในอีเมลคือบรรทัดหัวข้อ",
+      "distractors": [
+        "object",
+        "project",
+        "suspect"
+      ],
+      "image": "words/subject.webp"
+    },
+    {
+      "id": "send",
+      "word": "send",
+      "pos": "verb",
+      "ipa": "/send/",
+      "reading_th": "เซนด์",
+      "meaning_th": "ส่ง",
+      "emoji": "📤",
+      "example_en": "Did you send the file to the client?",
+      "example_th": "ส่งไฟล์ให้ลูกค้าหรือยัง",
+      "cefr": "A1",
+      "note_th": "สามช่อง send-sent-sent — ส่งให้ใคร = send it to me หรือ send me the file ได้ทั้งคู่",
+      "distractors": [
+        "sand",
+        "spend",
+        "lend"
+      ],
+      "image": "words/send.webp"
+    },
+    {
+      "id": "receive",
+      "word": "receive",
+      "pos": "verb",
+      "ipa": "/rɪˈsiːv/",
+      "reading_th": "รี-ซีฟว์",
+      "meaning_th": "ได้รับ",
+      "emoji": "📨",
+      "example_en": "I never received your email.",
+      "example_th": "ฉันไม่ได้รับอีเมลของคุณเลย",
+      "cefr": "A2",
+      "note_th": "สะกดจำยาก: i ก่อน e ยกเว้นหลัง c → receive (ce+ive) — คนอังกฤษเองยังสะกดผิดบ่อย!",
+      "distractors": [
+        "recede",
+        "deceive",
+        "recover"
+      ],
+      "image": "words/receive.webp"
+    },
+    {
+      "id": "reply",
+      "word": "reply",
+      "pos": "verb",
+      "ipa": "/rɪˈplaɪ/",
+      "reading_th": "รี-พลาย",
+      "meaning_th": "ตอบกลับ",
+      "emoji": "↩️",
+      "example_en": "Please reply before Friday.",
+      "example_th": "กรุณาตอบกลับภายในวันศุกร์",
+      "cefr": "A2",
+      "note_th": "reply to + คน/อีเมล — ระวังปุ่ม Reply All (ตอบกลับทุกคน) ตำนานความพลาดของชาวออฟฟิศทั่วโลก! 😅",
+      "distractors": [
+        "replay",
+        "repay",
+        "rely"
+      ],
+      "image": "words/reply.webp"
+    },
+    {
+      "id": "forward",
+      "word": "forward",
+      "pos": "verb",
+      "ipa": "/ˈfɔːrwərd/",
+      "reading_th": "ฟอร์-เวิร์ด",
+      "meaning_th": "ส่งต่อ (อีเมล)",
+      "emoji": "➡️",
+      "example_en": "Can you forward that email to me?",
+      "example_th": "ช่วยฟอร์เวิร์ดอีเมลนั้นมาให้ฉันหน่อย",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"ฟอร์เวิร์ดเมล\" ตรงกับฝรั่งเป๊ะ — และ look forward to = ตั้งตารอ (วลีปิดอีเมลสุดฮิต: Looking forward to hearing from you)",
+      "distractors": [
+        "backward",
+        "reward",
+        "forehead"
+      ],
+      "image": "words/forward.webp"
+    },
+    {
+      "id": "attach",
+      "word": "attach",
+      "pos": "verb",
+      "ipa": "/əˈtætʃ/",
+      "reading_th": "อะ-แทช",
+      "meaning_th": "แนบไฟล์",
+      "emoji": "📎",
+      "example_en": "I attached the report to this email.",
+      "example_th": "ฉันแนบรายงานมากับอีเมลนี้แล้ว",
+      "cefr": "B1",
+      "note_th": "ไฟล์แนบ = attachment — ประโยคคลาสสิก: Please find attached... (ตามไฟล์แนบ) และความพลาดอมตะ: บอกว่าแนบแต่ลืมแนบ!",
+      "distractors": [
+        "attack",
+        "detach",
+        "attend"
+      ],
+      "image": "words/attach.webp"
+    },
+    {
+      "id": "message",
+      "word": "message",
+      "pos": "noun",
+      "ipa": "/ˈmesɪdʒ/",
+      "reading_th": "เมส-สิจ",
+      "meaning_th": "ข้อความ",
+      "emoji": "💬",
+      "example_en": "Leave me a message if I'm not at my desk.",
+      "example_th": "ถ้าฉันไม่อยู่ที่โต๊ะ ฝากข้อความไว้ได้เลย",
+      "cefr": "A1",
+      "note_th": "เน้นพยางค์แรก \"เมส-สิจ\" ต่างจาก massage (นวด \"เมอะ-ซาจ\") ที่เน้นพยางค์หลัง — คู่คำอันตรายของคนไทย!",
+      "distractors": [
+        "massage",
+        "messenger",
+        "mess"
+      ],
+      "image": "words/message.webp"
+    },
+    {
+      "id": "draft",
+      "word": "draft",
+      "pos": "noun",
+      "ipa": "/dræft/",
+      "reading_th": "ดราฟท์",
+      "meaning_th": "ฉบับร่าง",
+      "emoji": "📝",
+      "example_en": "I saved the email as a draft.",
+      "example_th": "ฉันเซฟอีเมลไว้เป็นฉบับร่าง",
+      "cefr": "B1",
+      "note_th": "first draft = ร่างแรก / final draft = ฉบับสมบูรณ์ — เขียนงานเก่งๆ เริ่มจากร่างห่วยๆ ก่อนเสมอ",
+      "distractors": [
+        "craft",
+        "drift",
+        "draw"
+      ],
+      "image": "words/draft.webp"
+    },
+    {
+      "id": "typo",
+      "word": "typo",
+      "pos": "noun",
+      "ipa": "/ˈtaɪpoʊ/",
+      "reading_th": "ไท-โป้",
+      "meaning_th": "พิมพ์ผิด",
+      "emoji": "❌",
+      "example_en": "Sorry, that was a typo.",
+      "example_th": "ขอโทษ อันนั้นพิมพ์ผิด",
+      "cefr": "B1",
+      "note_th": "ย่อจาก typographical error — ส่งเมลแล้วเจอพิมพ์ผิดคือความเจ็บปวดสากล พิมพ์ตามได้เลย: Sorry for the typo!",
+      "distractors": [
+        "type",
+        "tempo",
+        "photo"
+      ],
+      "image": "words/typo.webp"
+    },
+    {
+      "id": "urgent",
+      "word": "urgent",
+      "pos": "adjective",
+      "ipa": "/ˈɜːrdʒənt/",
+      "reading_th": "เออร์-เจินท์",
+      "meaning_th": "ด่วน / เร่งด่วน",
+      "emoji": "🔴",
+      "example_en": "This is urgent — please reply now.",
+      "example_th": "เรื่องนี้ด่วนมาก กรุณาตอบเดี๋ยวนี้",
+      "cefr": "B1",
+      "note_th": "หัวข้ออีเมลขึ้น [URGENT] = ด่วนสุดๆ — ส่วน ASAP (as soon as possible) = เร็วที่สุดเท่าที่ทำได้ ศัพท์ออฟฟิศใช้ทุกวัน",
+      "distractors": [
+        "argent",
+        "agent",
+        "urged"
+      ],
+      "image": "words/urgent.webp"
+    },
+    {
+      "id": "spam",
+      "word": "spam",
+      "pos": "noun",
+      "ipa": "/spæm/",
+      "reading_th": "สแปม",
+      "meaning_th": "อีเมลขยะ / สแปม",
+      "emoji": "🗑️",
+      "example_en": "Check your spam folder — my email might be there.",
+      "example_th": "เช็คกล่องสแปมด้วย อีเมลฉันอาจหลุดไปอยู่ในนั้น",
+      "cefr": "B1",
+      "note_th": "ชื่อมาจากแฮมกระป๋อง SPAM ที่โฆษณาถล่มทลายจนน่ารำคาญ! — junk mail ก็เรียกได้เหมือนกัน",
+      "distractors": [
+        "scam",
+        "span",
+        "swamp"
+      ],
+      "image": "words/spam.webp"
+    },
+    {
+      "id": "call",
+      "word": "call",
+      "pos": "verb",
+      "ipa": "/kɔːl/",
+      "reading_th": "คอล",
+      "meaning_th": "โทรหา / ประชุมสาย",
+      "emoji": "📞",
+      "example_en": "Can we have a quick call at three?",
+      "example_th": "ขอคุยสายสั้นๆ ตอนบ่ายสามได้ไหม",
+      "cefr": "A1",
+      "note_th": "โทรหาฉัน = call me / ประชุมออนไลน์ = video call หรือ con-call (conference call) ศัพท์ที่ชาวออฟฟิศไทยใช้ทุกวัน",
+      "distractors": [
+        "cool",
+        "cell",
+        "col"
+      ],
+      "image": "words/call.webp"
+    },
+    {
+      "id": "meeting",
+      "word": "meeting",
+      "pos": "noun",
+      "ipa": "/ˈmiːtɪŋ/",
+      "reading_th": "มีท-ติ้ง",
+      "meaning_th": "การประชุม",
+      "emoji": "🗣️",
+      "example_en": "The meeting starts at ten sharp.",
+      "example_th": "ประชุมเริ่มสิบโมงตรง",
+      "cefr": "A1",
+      "note_th": "มีประชุม = have a meeting / นัดประชุม = set up a meeting — sharp หลังเวลา = ตรงเป๊ะ (ten sharp = 10 โมงตรง)",
+      "distractors": [
+        "melting",
+        "greeting",
+        "eating"
+      ],
+      "image": "words/meeting.webp"
+    },
+    {
+      "id": "meeting_room",
+      "word": "meeting room",
+      "pos": "noun",
+      "ipa": "/ˈmiːtɪŋ ruːm/",
+      "reading_th": "มีท-ติ้ง-รูม",
+      "meaning_th": "ห้องประชุม",
+      "emoji": "🚪",
+      "example_en": "The meeting room is booked all day.",
+      "example_th": "ห้องประชุมถูกจองเต็มทั้งวัน",
+      "cefr": "A2",
+      "note_th": "จองห้องประชุม = book the meeting room — ห้องประชุมใหญ่แบบผู้บริหารเรียก boardroom",
+      "distractors": [
+        "living room",
+        "waiting room",
+        "locker room"
+      ],
+      "image": "words/meeting_room.webp"
+    },
+    {
+      "id": "agenda",
+      "word": "agenda",
+      "pos": "noun",
+      "ipa": "/əˈdʒendə/",
+      "reading_th": "อะ-เจน-ด้า",
+      "meaning_th": "วาระการประชุม",
+      "emoji": "📋",
+      "example_en": "What is on the agenda today?",
+      "example_th": "วันนี้มีวาระอะไรบ้าง",
+      "cefr": "B1",
+      "note_th": "on the agenda = อยู่ในวาระ — ประชุมดีต้องมี agenda ชัด ไม่งั้นคุยเรื่อยเปื่อยทั้งชั่วโมง!",
+      "distractors": [
+        "agency",
+        "legend",
+        "gender"
+      ],
+      "image": "words/agenda.webp"
+    },
+    {
+      "id": "presentation",
+      "word": "presentation",
+      "pos": "noun",
+      "ipa": "/ˌpriːzenˈteɪʃən/",
+      "reading_th": "พรี-เซน-เท-ชั่น",
+      "meaning_th": "การนำเสนอ / พรีเซนต์",
+      "emoji": "📊",
+      "example_en": "Her presentation was clear and short.",
+      "example_th": "พรีเซนต์ของเธอชัดเจนและกระชับ",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"พรีเซนต์งาน\" — ภาษาอังกฤษ: give a presentation (ไม่ใช่ make/do) และตัวไฟล์สไลด์เรียก deck ก็ได้",
+      "distractors": [
+        "preservation",
+        "represent",
+        "prescription"
+      ],
+      "image": "words/presentation.webp"
+    },
+    {
+      "id": "slide",
+      "word": "slide",
+      "pos": "noun",
+      "ipa": "/slaɪd/",
+      "reading_th": "สไลด์",
+      "meaning_th": "สไลด์ (หน้านำเสนอ)",
+      "emoji": "🖼️",
+      "example_en": "Go to the next slide, please.",
+      "example_th": "ขอสไลด์ถัดไปครับ",
+      "cefr": "A2",
+      "note_th": "Next slide, please = ประโยคยอดฮิตในห้องประชุม — slide ยังแปลว่าสไลเดอร์/ลื่นไถลได้ด้วย ดูบริบท",
+      "distractors": [
+        "slice",
+        "slime",
+        "glide"
+      ],
+      "image": "words/slide.webp"
+    },
+    {
+      "id": "present",
+      "word": "present",
+      "pos": "verb",
+      "ipa": "/prɪˈzent/",
+      "reading_th": "พรี-เซนท์",
+      "meaning_th": "นำเสนอ",
+      "emoji": "🎤",
+      "example_en": "I will present the new plan tomorrow.",
+      "example_th": "พรุ่งนี้ฉันจะนำเสนอแผนใหม่",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์เปลี่ยนความหมาย! present (เพร-เซินท์ เน้นหน้า) = ของขวัญ/ปัจจุบัน แต่ (พรี-เซนท์ เน้นหลัง) = นำเสนอ",
+      "distractors": [
+        "president",
+        "pretend",
+        "prevent"
+      ],
+      "image": "words/present.webp"
+    },
+    {
+      "id": "discuss",
+      "word": "discuss",
+      "pos": "verb",
+      "ipa": "/dɪˈskʌs/",
+      "reading_th": "ดิส-คัส",
+      "meaning_th": "พูดคุย / หารือ",
+      "emoji": "💭",
+      "example_en": "Let's discuss this after lunch.",
+      "example_th": "ไว้คุยเรื่องนี้กันหลังเที่ยง",
+      "cefr": "A2",
+      "note_th": "discuss + เรื่องได้เลย ไม่ต้องใส่ about! (discuss the plan ไม่ใช่ discuss about the plan) — ข้อผิดยอดฮิตของคนไทย",
+      "distractors": [
+        "discover",
+        "disgust",
+        "dismiss"
+      ],
+      "image": "words/discuss.webp"
+    },
+    {
+      "id": "agree",
+      "word": "agree",
+      "pos": "verb",
+      "ipa": "/əˈɡriː/",
+      "reading_th": "อะ-กรี",
+      "meaning_th": "เห็นด้วย",
+      "emoji": "👍",
+      "example_en": "I agree with your idea.",
+      "example_th": "ฉันเห็นด้วยกับไอเดียของคุณ",
+      "cefr": "A1",
+      "note_th": "agree with + คน/ความเห็น — พูดสั้นๆ ในประชุม: Agreed! (ตกลงตามนั้น) และ I couldn't agree more = เห็นด้วยสุดๆ",
+      "distractors": [
+        "angry",
+        "argue",
+        "agree on"
+      ],
+      "image": "words/agree.webp"
+    },
+    {
+      "id": "disagree",
+      "word": "disagree",
+      "pos": "verb",
+      "ipa": "/ˌdɪsəˈɡriː/",
+      "reading_th": "ดิส-อะ-กรี",
+      "meaning_th": "ไม่เห็นด้วย",
+      "emoji": "👎",
+      "example_en": "I'm sorry, but I disagree.",
+      "example_th": "ขอโทษนะ แต่ผมไม่เห็นด้วย",
+      "cefr": "A2",
+      "note_th": "dis (ไม่) + agree (เห็นด้วย) — แย้งแบบสุภาพ: I see your point, but... (เข้าใจนะ แต่ว่า...) นุ่มกว่าพูด disagree ตรงๆ",
+      "distractors": [
+        "agree",
+        "disappear",
+        "disapprove"
+      ],
+      "image": "words/disagree.webp"
+    },
+    {
+      "id": "opinion",
+      "word": "opinion",
+      "pos": "noun",
+      "ipa": "/əˈpɪnjən/",
+      "reading_th": "โอ-พิ-เนี่ยน",
+      "meaning_th": "ความคิดเห็น",
+      "emoji": "🗨️",
+      "example_en": "In my opinion, we should wait.",
+      "example_th": "ในความเห็นของผม เราควรรอก่อน",
+      "cefr": "A2",
+      "note_th": "In my opinion... = ในความเห็นของฉัน (วลีเปิดสุดคลาสสิก ย่อในแชทว่า IMO) — ถามความเห็น: What do you think?",
+      "distractors": [
+        "option",
+        "onion",
+        "opening"
+      ],
+      "image": "words/opinion.webp"
+    },
+    {
+      "id": "idea",
+      "word": "idea",
+      "pos": "noun",
+      "ipa": "/aɪˈdiːə/",
+      "reading_th": "ไอ-เดีย",
+      "meaning_th": "ไอเดีย / ความคิด",
+      "emoji": "💡",
+      "example_en": "That's a great idea!",
+      "example_th": "ไอเดียเยี่ยมมาก!",
+      "cefr": "A1",
+      "note_th": "เน้นพยางค์กลาง \"ไอ-เดีย-เออะ\" — Good idea! ใช้ชมในประชุมได้ทุกวัน และ I have no idea = ไม่รู้เลย (ใช้บ่อยมาก!)",
+      "distractors": [
+        "ideal",
+        "item",
+        "area"
+      ],
+      "image": "words/idea.webp"
+    },
+    {
+      "id": "brainstorm",
+      "word": "brainstorm",
+      "pos": "verb",
+      "ipa": "/ˈbreɪnstɔːrm/",
+      "reading_th": "เบรน-สตอร์ม",
+      "meaning_th": "ระดมสมอง",
+      "emoji": "🌩️",
+      "example_en": "Let's brainstorm ideas for the new product.",
+      "example_th": "มาระดมสมองหาไอเดียสินค้าใหม่กัน",
+      "cefr": "B1",
+      "note_th": "brain (สมอง) + storm (พายุ) = พายุความคิด! กติกาสำคัญ: ช่วงระดมสมองห้ามตัดสินไอเดียใคร",
+      "distractors": [
+        "rainstorm",
+        "brainwash",
+        "mainstream"
+      ],
+      "image": "words/brainstorm.webp"
+    },
+    {
+      "id": "decision",
+      "word": "decision",
+      "pos": "noun",
+      "ipa": "/dɪˈsɪʒən/",
+      "reading_th": "ดิ-ซิ-ชั่น",
+      "meaning_th": "การตัดสินใจ",
+      "emoji": "⚖️",
+      "example_en": "We need to make a decision today.",
+      "example_th": "เราต้องตัดสินใจกันวันนี้",
+      "cefr": "A2",
+      "note_th": "ตัดสินใจ = make a decision (ไม่ใช่ do a decision!) — กริยาคือ decide และคนตัดสินใจเด็ดขาดเรียก decisive",
+      "distractors": [
+        "division",
+        "discussion",
+        "decoration"
+      ],
+      "image": "words/decision.webp"
+    },
+    {
+      "id": "postpone",
+      "word": "postpone",
+      "pos": "verb",
+      "ipa": "/poʊstˈpoʊn/",
+      "reading_th": "โพสท์-โพน",
+      "meaning_th": "เลื่อนออกไป",
+      "emoji": "🔜",
+      "example_en": "The meeting is postponed to next week.",
+      "example_th": "ประชุมถูกเลื่อนไปสัปดาห์หน้า",
+      "cefr": "B1",
+      "note_th": "post (หลัง) + pone (วาง) = วางไว้ทีหลัง — ภาษาพูดใช้ push back หรือ move ก็ได้ (Can we move the meeting?)",
+      "distractors": [
+        "postman",
+        "propose",
+        "position"
+      ],
+      "image": "words/postpone.webp"
+    },
+    {
+      "id": "work",
+      "word": "work",
+      "pos": "verb",
+      "ipa": "/wɜːrk/",
+      "reading_th": "เวิร์ค",
+      "meaning_th": "ทำงาน",
+      "emoji": "💪",
+      "example_en": "I work from home on Fridays.",
+      "example_th": "วันศุกร์ฉันทำงานจากบ้าน",
+      "cefr": "A1",
+      "note_th": "work หนึ่งคำสามความหมาย: ทำงาน (I work) / ใช้งานได้ (It works!) / เวิร์คแบบไทย (แผนนี้เวิร์ค) ก็มาจากความหมายที่สองนั่นเอง",
+      "distractors": [
+        "walk",
+        "wake",
+        "worth"
+      ],
+      "image": "words/work.webp"
+    },
+    {
+      "id": "task",
+      "word": "task",
+      "pos": "noun",
+      "ipa": "/tæsk/",
+      "reading_th": "ทาสค์",
+      "meaning_th": "งาน (ชิ้นหนึ่ง)",
+      "emoji": "☑️",
+      "example_en": "I have five tasks to finish today.",
+      "example_th": "วันนี้ฉันมีงานต้องเคลียร์ห้าอย่าง",
+      "cefr": "A2",
+      "note_th": "task = งานย่อยหนึ่งชิ้น / work = งานรวมๆ — ลิสต์งานที่ต้องทำ = to-do list เครื่องมือเอาชีวิตรอดของวัยทำงาน",
+      "distractors": [
+        "desk",
+        "tusk",
+        "mask"
+      ],
+      "image": "words/task.webp"
+    },
+    {
+      "id": "deadline",
+      "word": "deadline",
+      "pos": "noun",
+      "ipa": "/ˈdedlaɪn/",
+      "reading_th": "เดด-ไลน์",
+      "meaning_th": "กำหนดส่งงาน / เดดไลน์",
+      "emoji": "⏰",
+      "example_en": "The deadline is this Friday at noon.",
+      "example_th": "เดดไลน์คือเที่ยงวันศุกร์นี้",
+      "cefr": "B1",
+      "note_th": "dead (ตาย) + line (เส้น) = เส้นตาย ตรงกับภาษาไทยเป๊ะ! — ทันเดดไลน์ = meet the deadline / เลยเดดไลน์ = miss the deadline",
+      "distractors": [
+        "headline",
+        "landline",
+        "lifeline"
+      ],
+      "image": "words/deadline.webp"
+    },
+    {
+      "id": "busy",
+      "word": "busy",
+      "pos": "adjective",
+      "ipa": "/ˈbɪzi/",
+      "reading_th": "บิ-ซี่",
+      "meaning_th": "ยุ่ง",
+      "emoji": "🌀",
+      "example_en": "I'm busy all morning, let's talk after lunch.",
+      "example_th": "เช้านี้ฉันยุ่งทั้งเช้า ไว้คุยกันหลังเที่ยงนะ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง \"บิ-ซี่\" (u ออกเสียงเป็น i!) — ยุ่งมาก = super busy / swamped และสายโทรศัพท์ไม่ว่างก็ใช้ busy (The line is busy)",
+      "distractors": [
+        "dizzy",
+        "bushy",
+        "buzzy"
+      ],
+      "image": "words/busy.webp"
+    },
+    {
+      "id": "project",
+      "word": "project",
+      "pos": "noun",
+      "ipa": "/ˈprɑːdʒekt/",
+      "reading_th": "โพร-เจ็คท์",
+      "meaning_th": "โปรเจกต์ / โครงการ",
+      "emoji": "🏗️",
+      "example_en": "Our team is starting a new project.",
+      "example_th": "ทีมเรากำลังเริ่มโปรเจกต์ใหม่",
+      "cefr": "A2",
+      "note_th": "เน้นพยางค์แรกเมื่อเป็นคำนาม \"พรอ-เจ็คท์\" — คนคุมโปรเจกต์ = project manager (PM) ตำแหน่งยอดฮิตในไทย",
+      "distractors": [
+        "product",
+        "progress",
+        "protect"
+      ],
+      "image": "words/project.webp"
+    },
+    {
+      "id": "schedule",
+      "word": "schedule",
+      "pos": "noun",
+      "ipa": "/ˈskedʒuːl/",
+      "reading_th": "สเก็ด-จูล",
+      "meaning_th": "ตารางงาน / กำหนดการ",
+      "emoji": "🗓️",
+      "example_en": "My schedule is full this week.",
+      "example_th": "สัปดาห์นี้ตารางงานฉันแน่นมาก",
+      "cefr": "B1",
+      "note_th": "อเมริกันอ่าน \"สเก็ด-จูล\" อังกฤษอ่าน \"เช็ด-ดยูล\" ถูกทั้งคู่! — ตามกำหนด = on schedule / ล่าช้า = behind schedule",
+      "distractors": [
+        "scandal",
+        "sketch",
+        "special"
+      ],
+      "image": "words/schedule.webp"
+    },
+    {
+      "id": "priority",
+      "word": "priority",
+      "pos": "noun",
+      "ipa": "/praɪˈɔːrəti/",
+      "reading_th": "ไพร-ออ-ริ-ตี้",
+      "meaning_th": "สิ่งสำคัญอันดับแรก",
+      "emoji": "🥇",
+      "example_en": "This task is our top priority.",
+      "example_th": "งานนี้คือความสำคัญอันดับหนึ่งของเรา",
+      "cefr": "B1",
+      "note_th": "top priority = สำคัญสุด — จัดลำดับความสำคัญ = prioritize ทักษะที่วัยทำงานทุกคนต้องมี",
+      "distractors": [
+        "property",
+        "minority",
+        "authority"
+      ],
+      "image": "words/priority.webp"
+    },
+    {
+      "id": "finish",
+      "word": "finish",
+      "pos": "verb",
+      "ipa": "/ˈfɪnɪʃ/",
+      "reading_th": "ฟิ-นิช",
+      "meaning_th": "ทำเสร็จ",
+      "emoji": "🏁",
+      "example_en": "I finished the report an hour early.",
+      "example_th": "ฉันทำรายงานเสร็จก่อนเวลาตั้งชั่วโมง",
+      "cefr": "A1",
+      "note_th": "finish + Ving (finish writing ไม่ใช่ finish to write) — งานเสร็จแล้ว: Done! / Finished! สั้นๆ ได้ใจความ",
+      "distractors": [
+        "furnish",
+        "finnish",
+        "vanish"
+      ],
+      "image": "words/finish.webp"
+    },
+    {
+      "id": "submit",
+      "word": "submit",
+      "pos": "verb",
+      "ipa": "/səbˈmɪt/",
+      "reading_th": "ซับ-มิท",
+      "meaning_th": "ส่งงาน (อย่างเป็นทางการ)",
+      "emoji": "📮",
+      "example_en": "Please submit the form by Monday.",
+      "example_th": "กรุณาส่งแบบฟอร์มภายในวันจันทร์",
+      "cefr": "B1",
+      "note_th": "submit = ส่งแบบทางการ (ฟอร์ม รายงาน ใบสมัคร) — ปุ่ม Submit ในเว็บก็คือคำนี้ / by Monday = ภายในวันจันทร์",
+      "distractors": [
+        "summit",
+        "admit",
+        "commit"
+      ],
+      "image": "words/submit.webp"
+    },
+    {
+      "id": "check",
+      "word": "check",
+      "pos": "verb",
+      "ipa": "/tʃek/",
+      "reading_th": "เช็ค",
+      "meaning_th": "ตรวจสอบ",
+      "emoji": "🔍",
+      "example_en": "Can you check my email before I send it?",
+      "example_th": "ช่วยเช็คอีเมลให้หน่อยก่อนฉันส่ง",
+      "cefr": "A1",
+      "note_th": "เช็คงาน = check / เช็คซ้ำ = double-check (ยิ่งสำคัญยิ่งต้องเช็คสองรอบ!) — คนไทยใช้คำนี้ทับศัพท์อยู่แล้ว",
+      "distractors": [
+        "chick",
+        "cheek",
+        "chalk"
+      ],
+      "image": "words/check.webp"
+    },
+    {
+      "id": "solve",
+      "word": "solve",
+      "pos": "verb",
+      "ipa": "/sɑːlv/",
+      "reading_th": "ซอลฟ์ว์",
+      "meaning_th": "แก้ปัญหา",
+      "emoji": "🧩",
+      "example_en": "We solved the problem together.",
+      "example_th": "เราช่วยกันแก้ปัญหาจนสำเร็จ",
+      "cefr": "A2",
+      "note_th": "solve a problem = แก้ปัญหา (ไม่ใช่ fix a problem ก็ได้แต่ solve ทางการกว่า) — ทางแก้ = solution",
+      "distractors": [
+        "salve",
+        "save",
+        "sole"
+      ],
+      "image": "words/solve.webp"
+    },
+    {
+      "id": "overtime",
+      "word": "overtime",
+      "pos": "noun",
+      "ipa": "/ˈoʊvərtaɪm/",
+      "reading_th": "โอ-เวอร์-ไทม์",
+      "meaning_th": "การทำงานล่วงเวลา / โอที",
+      "emoji": "🌙",
+      "example_en": "I worked overtime three days this week.",
+      "example_th": "สัปดาห์นี้ฉันทำโอทีไปสามวัน",
+      "cefr": "B1",
+      "note_th": "\"โอที (OT)\" ที่คนไทยพูดย่อมาจาก overtime นั่นเอง! — ทำโอที = work overtime และค่าโอที = overtime pay",
+      "distractors": [
+        "overnight",
+        "anytime",
+        "overseas"
+      ],
+      "image": "words/overtime.webp"
+    },
+    {
+      "id": "break",
+      "word": "break",
+      "pos": "noun",
+      "ipa": "/breɪk/",
+      "reading_th": "เบรค",
+      "meaning_th": "พักเบรก",
+      "emoji": "☕",
+      "example_en": "Let's take a ten-minute break.",
+      "example_th": "พักเบรกสิบนาทีกันเถอะ",
+      "cefr": "A1",
+      "note_th": "พักเบรก = take a break / พักเที่ยง = lunch break — break ยังแปลว่า \"ทำแตก/หัก\" ได้ด้วย ดูบริบท",
+      "distractors": [
+        "brake",
+        "bread",
+        "broke"
+      ],
+      "image": "words/break.webp"
+    },
+    {
+      "id": "day_off",
+      "word": "day off",
+      "pos": "noun",
+      "ipa": "/ˌdeɪ ˈɔːf/",
+      "reading_th": "เดย์-ออฟ",
+      "meaning_th": "วันหยุด (ของเรา)",
+      "emoji": "🏖️",
+      "example_en": "I'm taking a day off tomorrow.",
+      "example_th": "พรุ่งนี้ฉันลาหยุดหนึ่งวัน",
+      "cefr": "B1",
+      "note_th": "ลาหยุด = take a day off — ลาป่วย = sick leave / ลาพักร้อน = annual leave ศัพท์ HR ที่ต้องรู้ก่อนเขียนอีเมลลา",
+      "distractors": [
+        "take off",
+        "layoff",
+        "one-off"
+      ],
+      "image": "words/day_off.webp"
+    },
+    {
+      "id": "manager",
+      "word": "manager",
+      "pos": "noun",
+      "ipa": "/ˈmænɪdʒər/",
+      "reading_th": "แม-เน-เจอร์",
+      "meaning_th": "ผู้จัดการ",
+      "emoji": "👔",
+      "example_en": "She became a manager at only twenty-eight.",
+      "example_th": "เธอได้เป็นผู้จัดการตอนอายุแค่ยี่สิบแปด",
+      "cefr": "A2",
+      "note_th": "เน้นพยางค์แรก \"แม-นิ-เจอร์\" ไม่ใช่ \"เมเนเจอร์\" — กริยาคือ manage (จัดการ/บริหาร)",
+      "distractors": [
+        "messenger",
+        "manner",
+        "manager's"
+      ],
+      "image": "words/manager.webp"
+    },
+    {
+      "id": "assistant",
+      "word": "assistant",
+      "pos": "noun",
+      "ipa": "/əˈsɪstənt/",
+      "reading_th": "แอส-ซิส-เทินท์",
+      "meaning_th": "ผู้ช่วย",
+      "emoji": "🙋",
+      "example_en": "My assistant handles my schedule.",
+      "example_th": "ผู้ช่วยของฉันดูแลตารางงานให้",
+      "cefr": "A2",
+      "note_th": "กริยาคือ assist (ช่วย) — ตำแหน่ง Assistant Manager = ผู้ช่วยผู้จัดการ และ AI assistant ก็คำเดียวกันนี้",
+      "distractors": [
+        "resistant",
+        "insistent",
+        "attendant"
+      ],
+      "image": "words/assistant.webp"
+    },
+    {
+      "id": "intern",
+      "word": "intern",
+      "pos": "noun",
+      "ipa": "/ˈɪntɜːrn/",
+      "reading_th": "อิน-เทิร์น",
+      "meaning_th": "นักศึกษาฝึกงาน",
+      "emoji": "🎓",
+      "example_en": "We have two new interns this summer.",
+      "example_th": "ซัมเมอร์นี้เรามีเด็กฝึกงานใหม่สองคน",
+      "cefr": "B1",
+      "note_th": "การฝึกงาน = internship — เด็กจบใหม่เพิ่งเริ่มงานเรียก entry-level ส่วน \"เฟรชชี่\" ใช้กับปี 1 มหาลัยเท่านั้น",
+      "distractors": [
+        "internet",
+        "internal",
+        "interior"
+      ],
+      "image": "words/intern.webp"
+    },
+    {
+      "id": "staff",
+      "word": "staff",
+      "pos": "noun",
+      "ipa": "/stæf/",
+      "reading_th": "สตาฟ",
+      "meaning_th": "พนักงาน (รวมๆ)",
+      "emoji": "🧑‍🤝‍🧑",
+      "example_en": "The staff here are very helpful.",
+      "example_th": "พนักงานที่นี่ช่วยเหลือดีมาก",
+      "cefr": "A2",
+      "note_th": "staff = พนักงานทั้งทีม (นามรวม ไม่เติม s!) — พนักงานหนึ่งคน = a staff member ไม่ใช่ a staff",
+      "distractors": [
+        "stuff",
+        "stiff",
+        "start"
+      ],
+      "image": "words/staff.webp"
+    },
+    {
+      "id": "team",
+      "word": "team",
+      "pos": "noun",
+      "ipa": "/tiːm/",
+      "reading_th": "ทีม",
+      "meaning_th": "ทีม",
+      "emoji": "🤝",
+      "example_en": "Welcome to the team!",
+      "example_th": "ยินดีต้อนรับเข้าทีม!",
+      "cefr": "A1",
+      "note_th": "Welcome to the team! = ประโยครับน้องใหม่วันแรก — หัวหน้าทีม = team lead และประชุมทีมเล็กๆ ทุกเช้าเรียก stand-up",
+      "distractors": [
+        "term",
+        "teen",
+        "theme"
+      ],
+      "image": "words/team.webp"
+    },
+    {
+      "id": "teamwork",
+      "word": "teamwork",
+      "pos": "noun",
+      "ipa": "/ˈtiːmwɜːrk/",
+      "reading_th": "ทีม-เวิร์ค",
+      "meaning_th": "การทำงานเป็นทีม",
+      "emoji": "⛹️",
+      "example_en": "Good teamwork makes hard projects easy.",
+      "example_th": "ทีมเวิร์คดีทำให้งานยากกลายเป็นง่าย",
+      "cefr": "B1",
+      "note_th": "คำคมสากล: Teamwork makes the dream work! — คนไทยใช้ทับศัพท์ \"ทีมเวิร์ค\" ตรงความหมายเป๊ะ",
+      "distractors": [
+        "homework",
+        "network",
+        "framework"
+      ],
+      "image": "words/teamwork.webp"
+    },
+    {
+      "id": "department",
+      "word": "department",
+      "pos": "noun",
+      "ipa": "/dɪˈpɑːrtmənt/",
+      "reading_th": "ดิ-พาร์ท-เมนท์",
+      "meaning_th": "แผนก",
+      "emoji": "🏬",
+      "example_en": "She works in the marketing department.",
+      "example_th": "เธอทำงานอยู่แผนกการตลาด",
+      "cefr": "A2",
+      "note_th": "แผนกยอดฮิต: HR (บุคคล), Marketing (การตลาด), Accounting (บัญชี), IT — ย้ายแผนก = transfer to another department",
+      "distractors": [
+        "apartment",
+        "compartment",
+        "deployment"
+      ],
+      "image": "words/department.webp"
+    },
+    {
+      "id": "position",
+      "word": "position",
+      "pos": "noun",
+      "ipa": "/pəˈzɪʃən/",
+      "reading_th": "โพ-ซิ-ชั่น",
+      "meaning_th": "ตำแหน่งงาน",
+      "emoji": "🪪",
+      "example_en": "What position are you applying for?",
+      "example_th": "คุณสมัครตำแหน่งอะไรครับ",
+      "cefr": "B1",
+      "note_th": "คำถามแรกในการสัมภาษณ์งานเลย: What position...? — ตำแหน่งว่าง = open position / job opening",
+      "distractors": [
+        "possession",
+        "portion",
+        "potion"
+      ],
+      "image": "words/position.webp"
+    },
+    {
+      "id": "skill",
+      "word": "skill",
+      "pos": "noun",
+      "ipa": "/skɪl/",
+      "reading_th": "สกิล",
+      "meaning_th": "ทักษะ",
+      "emoji": "🛠️",
+      "example_en": "Excel is a must-have skill for this job.",
+      "example_th": "งานนี้ต้องมีสกิล Excel",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"สกิล\" ตรงกับฝรั่งเลย — soft skills = ทักษะคน (สื่อสาร ทีมเวิร์ค) / hard skills = ทักษะเทคนิค",
+      "distractors": [
+        "skull",
+        "skil",
+        "still"
+      ],
+      "image": "words/skill.webp"
+    },
+    {
+      "id": "responsible",
+      "word": "responsible",
+      "pos": "adjective",
+      "ipa": "/rɪˈspɑːnsəbəl/",
+      "reading_th": "รี-สปอน-ซะ-เบิ้ล",
+      "meaning_th": "รับผิดชอบ",
+      "emoji": "🫡",
+      "example_en": "I am responsible for the company's social media.",
+      "example_th": "ฉันรับผิดชอบโซเชียลมีเดียของบริษัท",
+      "cefr": "B1",
+      "note_th": "responsible for + งานที่ดูแล — คำนามคือ responsibility (ความรับผิดชอบ) ออกเสียงยาวหน่อยแต่เจอบ่อยในเรซูเม่",
+      "distractors": [
+        "reasonable",
+        "sensible",
+        "responsive"
+      ],
+      "image": "words/responsible.webp"
+    },
+    {
+      "id": "get_promoted",
+      "word": "get promoted",
+      "pos": "phrase",
+      "ipa": "/ˌɡet prəˈmoʊtɪd/",
+      "reading_th": "เก็ท-โพร-โม-เต็ด",
+      "meaning_th": "ได้เลื่อนตำแหน่ง",
+      "emoji": "🚀",
+      "example_en": "She got promoted to team lead last month.",
+      "example_th": "เดือนที่แล้วเธอได้เลื่อนขั้นเป็นหัวหน้าทีม",
+      "cefr": "B1",
+      "note_th": "get promoted = ได้เลื่อนขั้น — อย่าสับสนกับ promotion ในห้าง (ลดราคา) บริบทออฟฟิศ = การเลื่อนตำแหน่ง",
+      "distractors": [
+        "get fired",
+        "get paid",
+        "get started"
+      ],
+      "image": "words/get_promoted.webp"
+    },
+    {
+      "id": "hire",
+      "word": "hire",
+      "pos": "verb",
+      "ipa": "/ˈhaɪər/",
+      "reading_th": "ไฮ-เออร์",
+      "meaning_th": "จ้าง / รับเข้าทำงาน",
+      "emoji": "🤗",
+      "example_en": "We are hiring two new designers.",
+      "example_th": "เรากำลังรับดีไซเนอร์ใหม่สองคน",
+      "cefr": "B1",
+      "note_th": "ป้าย We're hiring! = รับสมัครงาน — ได้งานแล้ว: I got hired! / You're hired! (คุณได้งาน!)",
+      "distractors": [
+        "higher",
+        "here",
+        "hide"
+      ],
+      "image": "words/hire.webp"
+    },
+    {
+      "id": "fire",
+      "word": "fire",
+      "pos": "verb",
+      "ipa": "/ˈfaɪər/",
+      "reading_th": "ไฟร์",
+      "meaning_th": "ไล่ออก",
+      "emoji": "🧯",
+      "example_en": "He was fired for always being late.",
+      "example_th": "เขาถูกไล่ออกเพราะมาสายประจำ",
+      "cefr": "B1",
+      "note_th": "You're fired! = คุณถูกไล่ออก (วลีดังของโดนัลด์ ทรัมป์ในทีวี) — ถูกเลิกจ้างเพราะลดคนใช้ laid off (นุ่มกว่า ไม่ใช่ความผิดเรา)",
+      "distractors": [
+        "hire",
+        "fine",
+        "fair"
+      ],
+      "image": "words/fire.webp"
+    },
+    {
+      "id": "resign",
+      "word": "resign",
+      "pos": "verb",
+      "ipa": "/rɪˈzaɪn/",
+      "reading_th": "รี-ไซน์",
+      "meaning_th": "ลาออก",
+      "emoji": "📤",
+      "example_en": "She resigned to start her own business.",
+      "example_th": "เธอลาออกไปเปิดธุรกิจของตัวเอง",
+      "cefr": "B1",
+      "note_th": "ตัว g ไม่ออกเสียง อ่าน \"รี-ไซน์\" — ใบลาออก = resignation letter และภาษาพูดใช้ quit ก็ได้ (I quit!)",
+      "distractors": [
+        "redesign",
+        "resist",
+        "reassign"
+      ],
+      "image": "words/resign.webp"
+    },
+    {
+      "id": "job",
+      "word": "job",
+      "pos": "noun",
+      "ipa": "/dʒɑːb/",
+      "reading_th": "จ๊อบ",
+      "meaning_th": "งาน / อาชีพ",
+      "emoji": "💼",
+      "example_en": "I'm looking for a new job.",
+      "example_th": "ฉันกำลังหางานใหม่",
+      "cefr": "A1",
+      "note_th": "หางาน = look for a job / ได้งาน = get a job — และ Good job! = ทำได้ดีมาก! (คำชมสารพัดประโยชน์)",
+      "distractors": [
+        "jab",
+        "jog",
+        "jaw"
+      ],
+      "image": "words/job.webp"
+    },
+    {
+      "id": "apply",
+      "word": "apply",
+      "pos": "verb",
+      "ipa": "/əˈplaɪ/",
+      "reading_th": "แอพ-พลาย",
+      "meaning_th": "สมัคร (งาน)",
+      "emoji": "🖊️",
+      "example_en": "I applied for three jobs this week.",
+      "example_th": "สัปดาห์นี้ฉันสมัครงานไปสามที่",
+      "cefr": "A2",
+      "note_th": "apply for + ตำแหน่ง (apply for a job) — ใบสมัคร = application และ \"แอปมือถือ\" (app) ก็ย่อมาจาก application เหมือนกัน!",
+      "distractors": [
+        "supply",
+        "reply",
+        "imply"
+      ],
+      "image": "words/apply.webp"
+    },
+    {
+      "id": "resume",
+      "word": "resume",
+      "pos": "noun",
+      "ipa": "/ˈrezəmeɪ/",
+      "reading_th": "เร-ซู-เม่",
+      "meaning_th": "เรซูเม่ / ประวัติย่อ",
+      "emoji": "📑",
+      "example_en": "Send your resume to our HR email.",
+      "example_th": "ส่งเรซูเม่มาที่อีเมล HR ของเรา",
+      "cefr": "B1",
+      "note_th": "อ่าน \"เร-ซู-เม่\" (คำฝรั่งเศส) — ฝั่งอังกฤษ/วิชาการเรียก CV — เรซูเม่ดีไม่ควรเกิน 1-2 หน้า",
+      "distractors": [
+        "reserve",
+        "result",
+        "consume"
+      ],
+      "image": "words/resume.webp"
+    },
+    {
+      "id": "interview",
+      "word": "interview",
+      "pos": "noun",
+      "ipa": "/ˈɪntərvjuː/",
+      "reading_th": "อิน-เทอร์-วิว",
+      "meaning_th": "การสัมภาษณ์งาน",
+      "emoji": "🎙️",
+      "example_en": "I have a job interview on Wednesday — wish me luck!",
+      "example_th": "วันพุธฉันมีสัมภาษณ์งาน อวยพรให้ด้วยนะ!",
+      "cefr": "A2",
+      "note_th": "inter (ระหว่าง) + view (มุมมอง) — ไปสัมภาษณ์ = have an interview และ Wish me luck! = อวยพรให้ฉันด้วย",
+      "distractors": [
+        "overview",
+        "preview",
+        "review"
+      ],
+      "image": "words/interview.webp"
+    },
+    {
+      "id": "salary",
+      "word": "salary",
+      "pos": "noun",
+      "ipa": "/ˈsæləri/",
+      "reading_th": "แซ-ละ-รี่",
+      "meaning_th": "เงินเดือน",
+      "emoji": "💵",
+      "example_en": "What is your expected salary?",
+      "example_th": "เงินเดือนที่คุณคาดหวังคือเท่าไหร่",
+      "cefr": "A2",
+      "note_th": "expected salary = เงินเดือนที่คาดหวัง (คำถามบังคับตอนสัมภาษณ์!) — รากศัพท์มาจาก \"เกลือ\" (sal) ค่าจ้างทหารโรมันสมัยก่อน",
+      "distractors": [
+        "celery",
+        "gallery",
+        "salad"
+      ],
+      "image": "words/salary.webp"
+    },
+    {
+      "id": "benefit",
+      "word": "benefit",
+      "pos": "noun",
+      "ipa": "/ˈbenɪfɪt/",
+      "reading_th": "เบ-เน-ฟิท",
+      "meaning_th": "สวัสดิการ",
+      "emoji": "🎁",
+      "example_en": "The benefits include health insurance and a bonus.",
+      "example_th": "สวัสดิการมีประกันสุขภาพและโบนัส",
+      "cefr": "B1",
+      "note_th": "ในบริบทงาน benefits (พหูพจน์) = สวัสดิการ (ประกัน โบนัส วันลา) — ถามได้ตอนสัมภาษณ์: What are the benefits?",
+      "distractors": [
+        "deficit",
+        "profit",
+        "bandit"
+      ],
+      "image": "words/benefit.webp"
+    },
+    {
+      "id": "full_time",
+      "word": "full-time",
+      "pos": "adjective",
+      "ipa": "/ˌfʊl ˈtaɪm/",
+      "reading_th": "ฟูล-ไทม์",
+      "meaning_th": "เต็มเวลา (งานประจำ)",
+      "emoji": "🕘",
+      "example_en": "This is a full-time position, Monday to Friday.",
+      "example_th": "ตำแหน่งนี้เป็นงานประจำ จันทร์ถึงศุกร์",
+      "cefr": "A2",
+      "note_th": "งานประจำ = full-time job — ทำงานประจำ = work full-time คนไทยใช้ทับศัพท์ \"ฟูลไทม์\" ตรงเป๊ะ",
+      "distractors": [
+        "part-time",
+        "overtime",
+        "free time"
+      ],
+      "image": "words/full_time.webp"
+    },
+    {
+      "id": "part_time",
+      "word": "part-time",
+      "pos": "adjective",
+      "ipa": "/ˌpɑːrt ˈtaɪm/",
+      "reading_th": "พาร์ท-ไทม์",
+      "meaning_th": "พาร์ทไทม์ / นอกเวลา",
+      "emoji": "🕒",
+      "example_en": "She works part-time at a cafe on weekends.",
+      "example_th": "เสาร์อาทิตย์เธอทำพาร์ทไทม์ที่คาเฟ่",
+      "cefr": "A2",
+      "note_th": "\"งานพาร์ทไทม์\" ที่คนไทยพูดตรงกับ part-time job เป๊ะ — งานเสริมอีกคำคือ side job / side hustle (ฮิตมากยุคนี้)",
+      "distractors": [
+        "full-time",
+        "past time",
+        "playtime"
+      ],
+      "image": "words/part_time.webp"
+    },
+    {
+      "id": "contract",
+      "word": "contract",
+      "pos": "noun",
+      "ipa": "/ˈkɑːntrækt/",
+      "reading_th": "คอน-แทรคท์",
+      "meaning_th": "สัญญาจ้าง",
+      "emoji": "📜",
+      "example_en": "Read the contract carefully before signing.",
+      "example_th": "อ่านสัญญาให้ละเอียดก่อนเซ็น",
+      "cefr": "B1",
+      "note_th": "เซ็นสัญญา = sign a contract — พนักงานสัญญาจ้างชั่วคราวเรียก contract employee ต่างจาก permanent (ประจำ)",
+      "distractors": [
+        "contact",
+        "contrast",
+        "control"
+      ],
+      "image": "words/contract.webp"
+    },
+    {
+      "id": "career",
+      "word": "career",
+      "pos": "noun",
+      "ipa": "/kəˈrɪr/",
+      "reading_th": "คะ-เรียร์",
+      "meaning_th": "เส้นทางอาชีพ",
+      "emoji": "🪜",
+      "example_en": "She built her career in marketing.",
+      "example_th": "เธอสร้างเส้นทางอาชีพในสายการตลาด",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์หลัง \"คะ-เรียร์\" — career path = เส้นทางเติบโต / เปลี่ยนสายงาน = career change กระแสแรงในยุคนี้",
+      "distractors": [
+        "carrier",
+        "courier",
+        "korea"
+      ],
+      "image": "words/career.webp"
+    },
+    {
+      "id": "employer",
+      "word": "employer",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪər/",
+      "reading_th": "เอ็ม-พลอย-เออร์",
+      "meaning_th": "นายจ้าง",
+      "emoji": "🏛️",
+      "example_en": "My employer pays for our health insurance.",
+      "example_th": "นายจ้างจ่ายค่าประกันสุขภาพให้เรา",
+      "cefr": "B1",
+      "note_th": "จำจากท้ายคำ: employER = นายจ้าง (ผู้จ้าง) / employEE = ลูกจ้าง (ผู้ถูกจ้าง) — er ทำ, ee โดน!",
+      "distractors": [
+        "employee",
+        "explorer",
+        "empire"
+      ],
+      "image": "words/employer.webp"
+    },
+    {
+      "id": "employee",
+      "word": "employee",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪiː/",
+      "reading_th": "เอ็ม-พลอย-อี้",
+      "meaning_th": "พนักงาน / ลูกจ้าง",
+      "emoji": "🧑‍💻",
+      "example_en": "This company has fifty employees.",
+      "example_th": "บริษัทนี้มีพนักงานห้าสิบคน",
+      "cefr": "B1",
+      "note_th": "พนักงานดีเด่นประจำเดือน = Employee of the Month — คู่กับ employer (นายจ้าง) จำท้ายคำ ee = ผู้ถูกกระทำ",
+      "distractors": [
+        "employer",
+        "employ",
+        "empire"
+      ],
+      "image": "words/employee.webp"
+    },
+    {
+      "id": "strength",
+      "word": "strength",
+      "pos": "noun",
+      "ipa": "/streŋθ/",
+      "reading_th": "สเตรงธ์",
+      "meaning_th": "จุดแข็ง",
+      "emoji": "💪",
+      "example_en": "My strength is learning things fast.",
+      "example_th": "จุดแข็งของผมคือเรียนรู้เร็ว",
+      "cefr": "B1",
+      "note_th": "คำถามสัมภาษณ์สุดคลาสสิก: What are your strengths? เตรียมคำตอบไว้เลย! — มาจาก strong (แข็งแรง)",
+      "distractors": [
+        "strange",
+        "stretch",
+        "straight"
+      ],
+      "image": "words/strength.webp"
+    },
+    {
+      "id": "weakness",
+      "word": "weakness",
+      "pos": "noun",
+      "ipa": "/ˈwiːknəs/",
+      "reading_th": "วีค-เนส",
+      "meaning_th": "จุดอ่อน",
+      "emoji": "🌱",
+      "example_en": "Talking about your weakness honestly is a good sign.",
+      "example_th": "การพูดถึงจุดอ่อนอย่างตรงไปตรงมาคือสัญญาณที่ดี",
+      "cefr": "B1",
+      "note_th": "คู่กับ strength ในทุกการสัมภาษณ์ — เทคนิคตอบ: บอกจุดอ่อนจริง + สิ่งที่กำลังแก้ไข อย่าตอบว่า \"ไม่มี\"!",
+      "distractors": [
+        "witness",
+        "wilderness",
+        "weekend"
+      ],
+      "image": "words/weakness.webp"
+    },
+    {
+      "id": "payday",
+      "word": "payday",
+      "pos": "noun",
+      "ipa": "/ˈpeɪdeɪ/",
+      "reading_th": "เพย์-เดย์",
+      "meaning_th": "วันเงินเดือนออก",
+      "emoji": "🤑",
+      "example_en": "Payday is the happiest day of the month!",
+      "example_th": "วันเงินเดือนออกคือวันที่มีความสุขที่สุดของเดือน!",
+      "cefr": "B1",
+      "note_th": "pay (จ่าย) + day (วัน) = วันเงินออก — สิ้นเดือนไทยคือ payday ตรงกับวลี \"สิ้นเดือนเหมือนสิ้นใจ\" ก่อนหน้านั้นพอดี 😄",
+      "distractors": [
+        "holiday",
+        "birthday",
+        "weekday"
+      ],
+      "image": "words/payday.webp"
+    },
+    {
+      "id": "bonus",
+      "word": "bonus",
+      "pos": "noun",
+      "ipa": "/ˈboʊnəs/",
+      "reading_th": "โบ-นัส",
+      "meaning_th": "โบนัส",
+      "emoji": "🧧",
+      "example_en": "We got a two-month bonus this year!",
+      "example_th": "ปีนี้เราได้โบนัสสองเดือน!",
+      "cefr": "A2",
+      "note_th": "คนไทยทับศัพท์ \"โบนัส\" ตรงเป๊ะ — โบนัสปลายปี = year-end bonus คำถามยอดฮิตก่อนเปลี่ยนงาน: โบนัสกี่เดือน?",
+      "distractors": [
+        "bones",
+        "born",
+        "banana"
+      ],
+      "image": "words/bonus.webp"
+    },
+    {
+      "id": "raise",
+      "word": "raise",
+      "pos": "noun",
+      "ipa": "/reɪz/",
+      "reading_th": "เรส",
+      "meaning_th": "การขึ้นเงินเดือน",
+      "emoji": "📈",
+      "example_en": "I'm going to ask for a raise.",
+      "example_th": "ฉันจะขอขึ้นเงินเดือน",
+      "cefr": "B1",
+      "note_th": "ask for a raise = ขอขึ้นเงินเดือน (ประโยคที่ต้องซ้อมพูดหน้ากระจก!) — อังกฤษเรียก pay rise ความหมายเดียวกัน",
+      "distractors": [
+        "rise",
+        "race",
+        "praise"
+      ],
+      "image": "words/raise.webp"
+    },
+    {
+      "id": "goal",
+      "word": "goal",
+      "pos": "noun",
+      "ipa": "/ɡoʊl/",
+      "reading_th": "โกล",
+      "meaning_th": "เป้าหมาย",
+      "emoji": "🎯",
+      "example_en": "My goal is to finish the course this year.",
+      "example_th": "เป้าหมายของฉันคือเรียนคอร์สนี้ให้จบปีนี้",
+      "cefr": "A2",
+      "note_th": "ตั้งเป้า = set a goal / ทำได้ตามเป้า = reach the goal — โกลฟุตบอลก็คำเดียวกัน (ยิงเข้าเป้า!)",
+      "distractors": [
+        "gold",
+        "coal",
+        "ghoul"
+      ],
+      "image": "words/goal.webp"
+    },
+    {
+      "id": "achieve",
+      "word": "achieve",
+      "pos": "verb",
+      "ipa": "/əˈtʃiːv/",
+      "reading_th": "อะ-ชีฟว์",
+      "meaning_th": "ทำสำเร็จ / บรรลุ",
+      "emoji": "🏆",
+      "example_en": "You can achieve anything with daily practice.",
+      "example_th": "ฝึกทุกวัน คุณทำสำเร็จได้ทุกอย่าง",
+      "cefr": "B1",
+      "note_th": "achieve a goal = บรรลุเป้าหมาย — ความสำเร็จ/ความภาคภูมิใจในเรซูเม่เรียก achievements",
+      "distractors": [
+        "archive",
+        "arrive",
+        "believe"
+      ],
+      "image": "words/achieve.webp"
+    },
+    {
+      "id": "success",
+      "word": "success",
+      "pos": "noun",
+      "ipa": "/səkˈses/",
+      "reading_th": "ซัค-เซส",
+      "meaning_th": "ความสำเร็จ",
+      "emoji": "🌟",
+      "example_en": "The project was a big success.",
+      "example_th": "โปรเจกต์นี้ประสบความสำเร็จอย่างมาก",
+      "cefr": "A2",
+      "note_th": "ครอบครัวคำ: success (คำนาม) / successful (สำเร็จ-คุณศัพท์) / succeed (กริยา) — เน้นพยางค์หลังทุกตัว",
+      "distractors": [
+        "access",
+        "succeed",
+        "process"
+      ],
+      "image": "words/success.webp"
+    },
+    {
+      "id": "proud",
+      "word": "proud",
+      "pos": "adjective",
+      "ipa": "/praʊd/",
+      "reading_th": "พราวด์",
+      "meaning_th": "ภูมิใจ",
+      "emoji": "🥹",
+      "example_en": "I'm so proud of our team.",
+      "example_th": "ฉันภูมิใจในทีมของเรามาก",
+      "cefr": "A2",
+      "note_th": "proud of + คน/สิ่งที่ภูมิใจ — I'm proud of you = ฉันภูมิใจในตัวคุณ (ประโยคให้กำลังใจที่ทรงพลังที่สุด)",
+      "distractors": [
+        "pound",
+        "cloud",
+        "crowd"
+      ],
+      "image": "words/proud.webp"
+    },
+    {
+      "id": "hardworking",
+      "word": "hardworking",
+      "pos": "adjective",
+      "ipa": "/ˌhɑːrdˈwɜːrkɪŋ/",
+      "reading_th": "ฮาร์ด-เวิร์ค-กิ้ง",
+      "meaning_th": "ขยัน",
+      "emoji": "🐝",
+      "example_en": "She is the most hardworking person I know.",
+      "example_th": "เธอคือคนขยันที่สุดที่ฉันรู้จัก",
+      "cefr": "B1",
+      "note_th": "hard (หนัก) + working (ทำงาน) = ทำงานหนัก/ขยัน — ใช้ชมในเรซูเม่ได้ และสัตว์สัญลักษณ์ความขยันของฝรั่งคือผึ้ง (busy bee)",
+      "distractors": [
+        "networking",
+        "overworking",
+        "homeworking"
+      ],
+      "image": "words/hardworking.webp"
+    },
+    {
+      "id": "lazy",
+      "word": "lazy",
+      "pos": "adjective",
+      "ipa": "/ˈleɪzi/",
+      "reading_th": "เล-ซี่",
+      "meaning_th": "ขี้เกียจ",
+      "emoji": "🦥",
+      "example_en": "I feel lazy on rainy Mondays.",
+      "example_th": "วันจันทร์ฝนตกทีไรขี้เกียจทุกที",
+      "cefr": "A1",
+      "note_th": "วันขี้เกียจนอนอยู่บ้าน = a lazy day (ความหมายดี ไม่ใช่ด่า!) — สัตว์สัญลักษณ์คือ sloth (สลอธ) ตัวขี้เกียจ",
+      "distractors": [
+        "crazy",
+        "lady",
+        "hazy"
+      ],
+      "image": "words/lazy.webp"
+    },
+    {
+      "id": "stress",
+      "word": "stress",
+      "pos": "noun",
+      "ipa": "/stres/",
+      "reading_th": "สเตรส",
+      "meaning_th": "ความเครียด",
+      "emoji": "🤯",
+      "example_en": "Exercise helps me manage stress.",
+      "example_th": "การออกกำลังกายช่วยฉันจัดการความเครียด",
+      "cefr": "A2",
+      "note_th": "เครียด = stressed (I'm stressed) / สิ่งที่ทำให้เครียด = stressful (a stressful job) — คนไทยพูด \"เครียด\" ฝรั่งพูด stressed out",
+      "distractors": [
+        "dress",
+        "strict",
+        "straw"
+      ],
+      "image": "words/stress.webp"
+    },
+    {
+      "id": "rest",
+      "word": "rest",
+      "pos": "verb",
+      "ipa": "/rest/",
+      "reading_th": "เรสท์",
+      "meaning_th": "พักผ่อน",
+      "emoji": "🛌",
+      "example_en": "You worked hard — go home and rest.",
+      "example_th": "คุณทำงานหนักมาแล้ว กลับบ้านไปพักเถอะ",
+      "cefr": "A1",
+      "note_th": "Get some rest = ไปพักผ่อนซะ (ประโยคห่วงใยสุดอบอุ่น) — rest ยังแปลว่า \"ส่วนที่เหลือ\" ได้ด้วย (the rest = ที่เหลือ)",
+      "distractors": [
+        "test",
+        "rust",
+        "wrist"
+      ],
+      "image": "words/rest.webp"
+    },
+    {
+      "id": "dream_job",
+      "word": "dream job",
+      "pos": "noun",
+      "ipa": "/ˈdriːm dʒɑːb/",
+      "reading_th": "ดรีม-จ๊อบ",
+      "meaning_th": "งานในฝัน",
+      "emoji": "🌈",
+      "example_en": "Working with animals is my dream job.",
+      "example_th": "งานในฝันของฉันคือได้ทำงานกับสัตว์",
+      "cefr": "B1",
+      "note_th": "dream + คำนาม = ...ในฝัน ใช้ได้หลายแบบ: dream house (บ้านในฝัน) dream team (ทีมในฝัน)",
+      "distractors": [
+        "day job",
+        "dream home",
+        "big job"
+      ],
+      "image": "words/dream_job.webp"
+    },
+    {
+      "id": "retire",
+      "word": "retire",
+      "pos": "verb",
+      "ipa": "/rɪˈtaɪər/",
+      "reading_th": "รี-ไท-เออร์",
+      "meaning_th": "เกษียณ",
+      "emoji": "🌅",
+      "example_en": "My father retired at sixty.",
+      "example_th": "พ่อของฉันเกษียณตอนอายุหกสิบ",
+      "cefr": "B1",
+      "note_th": "เกษียณแล้ว = retired / วัยเกษียณ = retirement age — เทรนด์ใหม่ FIRE = เกษียณเร็วด้วยการออมหนักๆ ตั้งแต่หนุ่มสาว",
+      "distractors": [
+        "require",
+        "repair",
+        "rehire"
+      ],
+      "image": "words/retire.webp"
+    },
+    {
+      "id": "congratulations",
+      "word": "congratulations",
+      "pos": "phrase",
+      "ipa": "/kənˌɡrætʃəˈleɪʃənz/",
+      "reading_th": "คอน-แกรท-ชู-เล-ชั่นส์",
+      "meaning_th": "ยินดีด้วย!",
+      "emoji": "🎉",
+      "example_en": "Congratulations on your new job!",
+      "example_th": "ยินดีด้วยกับงานใหม่นะ!",
+      "cefr": "A2",
+      "note_th": "ต้องมี s ท้ายเสมอ! Congratulations (ไม่ใช่ Congratulation) — ภาษาพูดย่อว่า Congrats! ใช้แสดงความยินดีได้ทุกโอกาส",
+      "distractors": [
+        "celebrations",
+        "graduations",
+        "communications"
+      ],
+      "image": "words/congratulations.webp"
+    }
+  ]
+}

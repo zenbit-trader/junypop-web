@@ -68,13 +68,13 @@
     },
     {
       "id": "office",
-      "file": null,
+      "file": "office.json",
       "name_en": "Office",
       "name_th": "ออฟฟิศ",
       "emoji": "💼",
       "color_start": "#94A3B8",
       "color_end": "#475569",
-      "available": false,
+      "available": true,
       "image": "worlds/office.webp"
     },
     {
