@@ -1177,7 +1177,8 @@
         "travel",
         "terrific",
         "track"
-      ]
+      ],
+      "image": "words/traffic.webp"
     },
     {
       "id": "timetable",
@@ -1195,7 +1196,8 @@
         "schedule",
         "turntable",
         "timeline"
-      ]
+      ],
+      "image": "words/timetable.webp"
     },
     {
       "id": "platform",
@@ -1213,7 +1215,8 @@
         "platoon",
         "perform",
         "plateau"
-      ]
+      ],
+      "image": "words/platform.webp"
     },
     {
       "id": "ride",
@@ -1231,7 +1234,8 @@
         "drive",
         "rise",
         "hide"
-      ]
+      ],
+      "image": "words/ride.webp"
     },
     {
       "id": "sightseeing",
@@ -1249,7 +1253,8 @@
         "sleeping",
         "shopping",
         "sighting"
-      ]
+      ],
+      "image": "words/sightseeing.webp"
     },
     {
       "id": "museum",
@@ -1267,7 +1272,8 @@
         "stadium",
         "aquarium",
         "mausoleum"
-      ]
+      ],
+      "image": "words/museum.webp"
     },
     {
       "id": "palace",
@@ -1285,7 +1291,8 @@
         "place",
         "police",
         "plate"
-      ]
+      ],
+      "image": "words/palace.webp"
     },
     {
       "id": "statue",
@@ -1303,7 +1310,8 @@
         "status",
         "station",
         "stature"
-      ]
+      ],
+      "image": "words/statue.webp"
     },
     {
       "id": "night_market",
@@ -1321,7 +1329,8 @@
         "supermarket",
         "nightclub",
         "flea market"
-      ]
+      ],
+      "image": "words/night_market.webp"
     },
     {
       "id": "souvenir",
@@ -1339,7 +1348,8 @@
         "souffle",
         "surprise",
         "seminar"
-      ]
+      ],
+      "image": "words/souvenir.webp"
     },
     {
       "id": "postcard",
@@ -1357,7 +1367,8 @@
         "passport",
         "postbox",
         "playing card"
-      ]
+      ],
+      "image": "words/postcard.webp"
     },
     {
       "id": "culture",
@@ -1375,7 +1386,8 @@
         "capture",
         "vulture",
         "couture"
-      ]
+      ],
+      "image": "words/culture.webp"
     },
     {
       "id": "local",
@@ -1393,7 +1405,8 @@
         "locale",
         "logical",
         "vocal"
-      ]
+      ],
+      "image": "words/local.webp"
     },
     {
       "id": "festival",
@@ -1411,7 +1424,8 @@
         "carnival",
         "hospital",
         "festive"
-      ]
+      ],
+      "image": "words/festival.webp"
     },
     {
       "id": "photo",
@@ -1429,7 +1443,8 @@
         "video",
         "phone",
         "poster"
-      ]
+      ],
+      "image": "words/photo.webp"
     },
     {
       "id": "selfie",
@@ -1447,7 +1462,8 @@
         "shelf",
         "selfish",
         "self"
-      ]
+      ],
+      "image": "words/selfie.webp"
     },
     {
       "id": "crowded",
@@ -1465,7 +1481,8 @@
         "cloudy",
         "closed",
         "quiet"
-      ]
+      ],
+      "image": "words/crowded.webp"
     },
     {
       "id": "famous",
@@ -1483,7 +1500,8 @@
         "fabulous",
         "nervous",
         "family"
-      ]
+      ],
+      "image": "words/famous.webp"
     },
     {
       "id": "help",
@@ -1501,7 +1519,8 @@
         "held",
         "health",
         "hello"
-      ]
+      ],
+      "image": "words/help.webp"
     },
     {
       "id": "emergency",
@@ -1519,7 +1538,8 @@
         "agency",
         "energy",
         "emergence"
-      ]
+      ],
+      "image": "words/emergency.webp"
     },
     {
       "id": "police",
@@ -1537,7 +1557,8 @@
         "policy",
         "polite",
         "palace"
-      ]
+      ],
+      "image": "words/police.webp"
     },
     {
       "id": "accident",
@@ -1555,7 +1576,8 @@
         "incident",
         "accent",
         "account"
-      ]
+      ],
+      "image": "words/accident.webp"
     },
     {
       "id": "hurt",
@@ -1573,7 +1595,8 @@
         "heart",
         "hut",
         "hard"
-      ]
+      ],
+      "image": "words/hurt.webp"
     },
     {
       "id": "dangerous",
@@ -1591,7 +1614,8 @@
         "danger",
         "generous",
         "delicious"
-      ]
+      ],
+      "image": "words/dangerous.webp"
     },
     {
       "id": "be_careful",
@@ -1609,7 +1633,8 @@
         "be quiet",
         "be quick",
         "take care"
-      ]
+      ],
+      "image": "words/be_careful.webp"
     },
     {
       "id": "sunburn",
@@ -1627,7 +1652,8 @@
         "suntan",
         "sunset",
         "heartburn"
-      ]
+      ],
+      "image": "words/sunburn.webp"
     },
     {
       "id": "mosquito",
@@ -1645,7 +1671,8 @@
         "mostly",
         "moustache",
         "tornado"
-      ]
+      ],
+      "image": "words/mosquito.webp"
     },
     {
       "id": "insurance",
@@ -1663,7 +1690,8 @@
         "assurance",
         "instance",
         "entrance"
-      ]
+      ],
+      "image": "words/insurance.webp"
     },
     {
       "id": "embassy",
@@ -1681,7 +1709,8 @@
         "embarrassing",
         "assembly",
         "economy"
-      ]
+      ],
+      "image": "words/embassy.webp"
     },
     {
       "id": "stolen",
@@ -1699,7 +1728,8 @@
         "stole",
         "swollen",
         "broken"
-      ]
+      ],
+      "image": "words/stolen.webp"
     },
     {
       "id": "report",
@@ -1717,7 +1747,8 @@
         "repeat",
         "resort",
         "record"
-      ]
+      ],
+      "image": "words/report.webp"
     },
     {
       "id": "first_aid",
@@ -1735,7 +1766,8 @@
         "first class",
         "band-aid",
         "first place"
-      ]
+      ],
+      "image": "words/first_aid.webp"
     },
     {
       "id": "experience",
@@ -1753,7 +1785,8 @@
         "experiment",
         "expensive",
         "expression"
-      ]
+      ],
+      "image": "words/experience.webp"
     },
     {
       "id": "adventure",
@@ -1771,7 +1804,8 @@
         "advertisement",
         "avenue",
         "adventurer"
-      ]
+      ],
+      "image": "words/adventure.webp"
     },
     {
       "id": "journey",
@@ -1789,7 +1823,8 @@
         "journal",
         "jury",
         "tourney"
-      ]
+      ],
+      "image": "words/journey.webp"
     },
     {
       "id": "explore",
@@ -1807,7 +1842,8 @@
         "explode",
         "express",
         "expose"
-      ]
+      ],
+      "image": "words/explore.webp"
     },
     {
       "id": "discover",
@@ -1825,7 +1861,8 @@
         "recover",
         "uncover",
         "deliver"
-      ]
+      ],
+      "image": "words/discover.webp"
     },
     {
       "id": "amazing",
@@ -1843,7 +1880,8 @@
         "amusing",
         "annoying",
         "amazed"
-      ]
+      ],
+      "image": "words/amazing.webp"
     },
     {
       "id": "beautiful",
@@ -1861,7 +1899,8 @@
         "beauty",
         "wonderful",
         "careful"
-      ]
+      ],
+      "image": "words/beautiful.webp"
     },
     {
       "id": "unforgettable",
@@ -1879,7 +1918,8 @@
         "unbelievable",
         "uncomfortable",
         "forgettable"
-      ]
+      ],
+      "image": "words/unforgettable.webp"
     },
     {
       "id": "scenery",
@@ -1897,7 +1937,8 @@
         "scene",
         "screen",
         "century"
-      ]
+      ],
+      "image": "words/scenery.webp"
     },
     {
       "id": "sunrise",
@@ -1915,7 +1956,8 @@
         "sunset",
         "surprise",
         "sunshine"
-      ]
+      ],
+      "image": "words/sunrise.webp"
     },
     {
       "id": "friendly",
@@ -1933,7 +1975,8 @@
         "friend",
         "family",
         "lonely"
-      ]
+      ],
+      "image": "words/friendly.webp"
     },
     {
       "id": "homesick",
@@ -1951,7 +1994,8 @@
         "housework",
         "seasick",
         "homework"
-      ]
+      ],
+      "image": "words/homesick.webp"
     },
     {
       "id": "safe_trip",
@@ -1969,7 +2013,8 @@
         "have a good meal",
         "have a seat",
         "have a break"
-      ]
+      ],
+      "image": "words/safe_trip.webp"
     },
     {
       "id": "bucket_list",
@@ -1987,7 +2032,8 @@
         "shopping list",
         "checklist",
         "wishlist"
-      ]
+      ],
+      "image": "words/bucket_list.webp"
     }
   ]
 }
