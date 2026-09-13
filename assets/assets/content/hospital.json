@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "hospital",
+    "name_en": "Hospital",
+    "name_th": "โรงพยาบาล",
+    "emoji": "🏥",
+    "color_start": "#F87171",
+    "color_end": "#DC2626",
+    "description_th": "ศัพท์บอกอาการป่วย หาหมอ ซื้อยา จนถึงดูแลสุขภาพให้แข็งแรง",
+    "mascot_costume": "doctor",
+    "lessons": [
+      {
+        "id": "hospital_1",
+        "title_en": "Feeling Sick",
+        "title_th": "อาการป่วย",
+        "emoji": "🤒",
+        "word_ids": [
+          "sick",
+          "fever",
+          "headache",
+          "cough",
+          "sneeze",
+          "runny_nose",
+          "sore_throat",
+          "dizzy",
+          "weak",
+          "stomachache",
+          "toothache",
+          "flu",
+          "catch_a_cold",
+          "pale"
+        ],
+        "image": "lessons/hospital_1.webp"
+      },
+      {
+        "id": "hospital_2",
+        "title_en": "Seeing a Doctor",
+        "title_th": "ไปหาหมอ",
+        "emoji": "🩺",
+        "word_ids": [
+          "doctor",
+          "nurse",
+          "patient",
+          "appointment",
+          "clinic",
+          "symptom",
+          "examine",
+          "checkup",
+          "temperature",
+          "blood_pressure",
+          "stethoscope",
+          "waiting_room",
+          "pain",
+          "allergy"
+        ],
+        "image": "lessons/hospital_2.webp"
+      },
+      {
+        "id": "hospital_3",
+        "title_en": "Body Parts",
+        "title_th": "ร่างกายของเรา",
+        "emoji": "🦴",
+        "word_ids": [
+          "head",
+          "eye",
+          "ear",
+          "nose",
+          "mouth",
+          "tooth",
+          "throat",
+          "arm",
+          "hand",
+          "leg",
+          "knee",
+          "foot",
+          "back",
+          "skin"
+        ],
+        "image": "lessons/hospital_3.webp"
+      },
+      {
+        "id": "hospital_4",
+        "title_en": "At the Pharmacy",
+        "title_th": "ร้านขายยา",
+        "emoji": "💊",
+        "word_ids": [
+          "medicine",
+          "pill",
+          "pharmacy",
+          "pharmacist",
+          "painkiller",
+          "antibiotic",
+          "cream",
+          "bandage",
+          "vitamin",
+          "dose",
+          "after_meals",
+          "side_effect",
+          "drowsy",
+          "expired"
+        ],
+        "image": "lessons/hospital_4.webp"
+      },
+      {
+        "id": "hospital_5",
+        "title_en": "Injuries",
+        "title_th": "บาดเจ็บและแผล",
+        "emoji": "🩹",
+        "word_ids": [
+          "injury",
+          "wound",
+          "cut",
+          "burn",
+          "bruise",
+          "bleed",
+          "swollen",
+          "sprain",
+          "x_ray",
+          "cast",
+          "crutches",
+          "stitches",
+          "ice_pack",
+          "heal"
+        ],
+        "image": "lessons/hospital_5.webp"
+      },
+      {
+        "id": "hospital_6",
+        "title_en": "In the Hospital",
+        "title_th": "ในโรงพยาบาล",
+        "emoji": "🏥",
+        "word_ids": [
+          "hospital",
+          "ambulance",
+          "emergency_room",
+          "ward",
+          "surgery",
+          "injection",
+          "vaccine",
+          "blood_test",
+          "wheelchair",
+          "stretcher",
+          "visiting_hours",
+          "recover",
+          "medical_certificate",
+          "health_insurance"
+        ],
+        "image": "lessons/hospital_6.webp"
+      },
+      {
+        "id": "hospital_7",
+        "title_en": "Healthy Living",
+        "title_th": "สุขภาพดีมีชัย",
+        "emoji": "💪",
+        "word_ids": [
+          "healthy",
+          "unhealthy",
+          "exercise",
+          "diet",
+          "junk_food",
+          "drink_water",
+          "wash_hands",
+          "meditate",
+          "lose_weight",
+          "gain_weight",
+          "quit_smoking",
+          "strong",
+          "get_well_soon",
+          "take_care"
+        ],
+        "image": "lessons/hospital_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "sick",
+      "word": "sick",
+      "pos": "adjective",
+      "ipa": "/sɪk/",
+      "reading_th": "ซิค",
+      "meaning_th": "ป่วย / ไม่สบาย",
+      "emoji": "🤒",
+      "example_en": "I feel sick — I can't come to work today.",
+      "example_th": "ผมไม่สบาย วันนี้ไปทำงานไม่ไหว",
+      "cefr": "A1",
+      "note_th": "ลาป่วย = call in sick / sick leave — ระวัง: I feel sick ในอังกฤษแปลว่า \"คลื่นไส้\" ได้ด้วย ถ้าป่วยทั่วไปพูด I'm ill ก็ได้",
+      "distractors": [
+        "seek",
+        "silk",
+        "thick"
+      ],
+      "image": "words/sick.webp"
+    },
+    {
+      "id": "fever",
+      "word": "fever",
+      "pos": "noun",
+      "ipa": "/ˈfiːvər/",
+      "reading_th": "ฟี-เวอร์",
+      "meaning_th": "ไข้",
+      "emoji": "🌡️",
+      "example_en": "She has a high fever of 39 degrees.",
+      "example_th": "เธอมีไข้สูงถึง 39 องศา",
+      "cefr": "A2",
+      "note_th": "มีไข้ = have a fever — ไข้สูง = high fever / ไข้ลด = the fever went down และไข้เลือดออกที่คนไทยรู้จักดีคือ dengue fever",
+      "distractors": [
+        "favor",
+        "fewer",
+        "flavor"
+      ],
+      "image": "words/fever.webp"
+    },
+    {
+      "id": "headache",
+      "word": "headache",
+      "pos": "noun",
+      "ipa": "/ˈhedeɪk/",
+      "reading_th": "เฮด-เอค",
+      "meaning_th": "ปวดหัว",
+      "emoji": "🤕",
+      "example_en": "I have a terrible headache today.",
+      "example_th": "วันนี้ฉันปวดหัวมาก",
+      "cefr": "A1",
+      "note_th": "สูตรจำ: อวัยวะ + ache = ปวด → headache (ปวดหัว) stomachache (ปวดท้อง) toothache (ปวดฟัน) — ache ออกเสียง \"เอค\"",
+      "distractors": [
+        "heartache",
+        "headline",
+        "earache"
+      ],
+      "image": "words/headache.webp"
+    },
+    {
+      "id": "cough",
+      "word": "cough",
+      "pos": "verb",
+      "ipa": "/kɔːf/",
+      "reading_th": "คอฟ",
+      "meaning_th": "ไอ",
+      "emoji": "😷",
+      "example_en": "He has been coughing all night.",
+      "example_th": "เขาไอมาทั้งคืน",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"คอฟ\" (gh เป็นเสียง f!) เหมือน enough — ยาแก้ไอ = cough syrup / cough medicine",
+      "distractors": [
+        "couch",
+        "cuff",
+        "tough"
+      ],
+      "image": "words/cough.webp"
+    },
+    {
+      "id": "sneeze",
+      "word": "sneeze",
+      "pos": "verb",
+      "ipa": "/sniːz/",
+      "reading_th": "สนีซ",
+      "meaning_th": "จาม",
+      "emoji": "🤧",
+      "example_en": "Dust makes me sneeze.",
+      "example_th": "ฝุ่นทำให้ฉันจาม",
+      "cefr": "A2",
+      "note_th": "ฝรั่งพูด Bless you! ทุกครั้งที่ได้ยินคนจาม (มารยาทสากล) — เราตอบ Thank you สั้นๆ ได้เลย",
+      "distractors": [
+        "snooze",
+        "freeze",
+        "squeeze"
+      ],
+      "image": "words/sneeze.webp"
+    },
+    {
+      "id": "runny_nose",
+      "word": "runny nose",
+      "pos": "noun",
+      "ipa": "/ˌrʌni ˈnoʊz/",
+      "reading_th": "รัน-นี่-โนส",
+      "meaning_th": "น้ำมูกไหล",
+      "emoji": "🤧",
+      "example_en": "My son has a runny nose and a small cough.",
+      "example_th": "ลูกชายฉันน้ำมูกไหลและไอนิดหน่อย",
+      "cefr": "A2",
+      "note_th": "run (วิ่ง/ไหล) + nose = จมูกไหล ตรงตัวน่ารักดี — คัดจมูก/จมูกตัน = stuffy nose (ตรงข้ามกัน)",
+      "distractors": [
+        "stuffy nose",
+        "bloody nose",
+        "big nose"
+      ],
+      "image": "words/runny_nose.webp"
+    },
+    {
+      "id": "sore_throat",
+      "word": "sore throat",
+      "pos": "noun",
+      "ipa": "/ˌsɔːr ˈθroʊt/",
+      "reading_th": "ซอร์-โธรท",
+      "meaning_th": "เจ็บคอ",
+      "emoji": "😖",
+      "example_en": "I have a sore throat, so I can't sing today.",
+      "example_th": "ฉันเจ็บคอ วันนี้ร้องเพลงไม่ได้",
+      "cefr": "A2",
+      "note_th": "sore = เจ็บระบม ใช้กับส่วนอื่นได้: sore eyes (แสบตา) sore muscles (เมื่อยกล้ามเนื้อหลังออกกำลัง)",
+      "distractors": [
+        "sore eyes",
+        "sword",
+        "sour taste"
+      ],
+      "image": "words/sore_throat.webp"
+    },
+    {
+      "id": "dizzy",
+      "word": "dizzy",
+      "pos": "adjective",
+      "ipa": "/ˈdɪzi/",
+      "reading_th": "ดิซ-ซี่",
+      "meaning_th": "เวียนหัว",
+      "emoji": "💫",
+      "example_en": "I feel dizzy when I stand up too fast.",
+      "example_th": "ลุกเร็วเกินไปทีไรฉันเวียนหัวทุกที",
+      "cefr": "B1",
+      "note_th": "เวียนหัว = feel dizzy ต่างจาก headache (ปวดหัว) — บอกหมอให้ถูก อาการคนละแบบ!",
+      "distractors": [
+        "busy",
+        "daisy",
+        "fizzy"
+      ],
+      "image": "words/dizzy.webp"
+    },
+    {
+      "id": "weak",
+      "word": "weak",
+      "pos": "adjective",
+      "ipa": "/wiːk/",
+      "reading_th": "วีค",
+      "meaning_th": "อ่อนแรง / ไม่มีแรง",
+      "emoji": "🥀",
+      "example_en": "After the fever, I still feel weak.",
+      "example_th": "หลังไข้ลดฉันก็ยังรู้สึกไม่มีแรง",
+      "cefr": "A2",
+      "note_th": "weak (อ่อนแรง) ออกเสียงเหมือน week (สัปดาห์) เป๊ะ! ดูบริบทเอา — ตรงข้ามคือ strong (แข็งแรง)",
+      "distractors": [
+        "week",
+        "wake",
+        "wet"
+      ],
+      "image": "words/weak.webp"
+    },
+    {
+      "id": "stomachache",
+      "word": "stomachache",
+      "pos": "noun",
+      "ipa": "/ˈstʌməkeɪk/",
+      "reading_th": "สตะ-เหมิค-เอค",
+      "meaning_th": "ปวดท้อง",
+      "emoji": "🤢",
+      "example_en": "Too much spicy food gave me a stomachache.",
+      "example_th": "กินเผ็ดเยอะไปจนปวดท้อง",
+      "cefr": "A2",
+      "note_th": "stomach (ท้อง) ออกเสียง \"สตะ-เหมิค\" ch เป็นเสียง k! — ท้องเสีย = diarrhea ส่วนปวดท้องทั่วไปคือ stomachache",
+      "distractors": [
+        "headache",
+        "heartburn",
+        "backache"
+      ],
+      "image": "words/stomachache.webp"
+    },
+    {
+      "id": "toothache",
+      "word": "toothache",
+      "pos": "noun",
+      "ipa": "/ˈtuːθeɪk/",
+      "reading_th": "ทูธ-เอค",
+      "meaning_th": "ปวดฟัน",
+      "emoji": "🦷",
+      "example_en": "This toothache is killing me — I need a dentist.",
+      "example_th": "ปวดฟันจะแย่แล้ว ต้องไปหาหมอฟัน",
+      "cefr": "A2",
+      "note_th": "หมอฟัน = dentist — สำนวน It's killing me = เจ็บ/ทรมานมาก (ไม่ได้แปลว่าตายจริง!)",
+      "distractors": [
+        "headache",
+        "earache",
+        "mustache"
+      ],
+      "image": "words/toothache.webp"
+    },
+    {
+      "id": "flu",
+      "word": "flu",
+      "pos": "noun",
+      "ipa": "/fluː/",
+      "reading_th": "ฟลู",
+      "meaning_th": "ไข้หวัดใหญ่",
+      "emoji": "🤒",
+      "example_en": "The flu is going around the office.",
+      "example_th": "ไข้หวัดใหญ่กำลังระบาดในออฟฟิศ",
+      "cefr": "A2",
+      "note_th": "flu ย่อจาก influenza — หวัดธรรมดา = a cold / หวัดใหญ่ = the flu (หนักกว่า มีไข้ปวดตัว) วัคซีนไข้หวัดใหญ่ = flu shot",
+      "distractors": [
+        "blue",
+        "flew",
+        "glue"
+      ],
+      "image": "words/flu.webp"
+    },
+    {
+      "id": "catch_a_cold",
+      "word": "catch a cold",
+      "pos": "phrase",
+      "ipa": "/ˌkætʃ ə ˈkoʊld/",
+      "reading_th": "แคช-อะ-โคลด์",
+      "meaning_th": "เป็นหวัด",
+      "emoji": "🥶",
+      "example_en": "Wear a jacket or you'll catch a cold.",
+      "example_th": "ใส่เสื้อกันหนาวไม่งั้นเป็นหวัดแน่",
+      "cefr": "A2",
+      "note_th": "ภาษาอังกฤษ \"จับ\" หวัด (catch) ไม่ใช่ \"เป็น\" — I caught a cold = ฉันเป็นหวัดแล้ว (catch-caught-caught)",
+      "distractors": [
+        "catch a ball",
+        "get cold feet",
+        "catch the bus"
+      ],
+      "image": "words/catch_a_cold.webp"
+    },
+    {
+      "id": "pale",
+      "word": "pale",
+      "pos": "adjective",
+      "ipa": "/peɪl/",
+      "reading_th": "เพล",
+      "meaning_th": "หน้าซีด",
+      "emoji": "😶",
+      "example_en": "You look pale — are you okay?",
+      "example_th": "หน้าซีดเชียว เป็นอะไรหรือเปล่า",
+      "cefr": "B1",
+      "note_th": "You look pale = ประโยคแสดงความห่วงใยที่ได้ยินบ่อย — pale ยังใช้กับสีอ่อนได้ เช่น pale blue (ฟ้าอ่อน)",
+      "distractors": [
+        "pail",
+        "peel",
+        "pile"
+      ],
+      "image": "words/pale.webp"
+    },
+    {
+      "id": "doctor",
+      "word": "doctor",
+      "pos": "noun",
+      "ipa": "/ˈdɑːktər/",
+      "reading_th": "ด็อค-เตอร์",
+      "meaning_th": "หมอ / แพทย์",
+      "emoji": "🧑‍⚕️",
+      "example_en": "You should see a doctor about that cough.",
+      "example_th": "ไอแบบนี้ควรไปหาหมอนะ",
+      "cefr": "A1",
+      "note_th": "ไปหาหมอ = see a doctor (ไม่ใช่ meet/find!) — ภาษาพูดเรียกหมอว่า doc ก็ได้",
+      "distractors": [
+        "actor",
+        "tutor",
+        "conductor"
+      ],
+      "image": "words/doctor.webp"
+    },
+    {
+      "id": "nurse",
+      "word": "nurse",
+      "pos": "noun",
+      "ipa": "/nɜːrs/",
+      "reading_th": "เนิร์ส",
+      "meaning_th": "พยาบาล",
+      "emoji": "👩‍⚕️",
+      "example_en": "The nurse will check your temperature first.",
+      "example_th": "พยาบาลจะวัดไข้ให้ก่อน",
+      "cefr": "A1",
+      "note_th": "คนไทยเรียก \"พี่พยาบาล\" ตรงกับ nurse ใช้ได้ทุกเพศ — ระวังเสียงใกล้ purse (กระเป๋าถือ)",
+      "distractors": [
+        "purse",
+        "curse",
+        "nursery"
+      ],
+      "image": "words/nurse.webp"
+    },
+    {
+      "id": "patient",
+      "word": "patient",
+      "pos": "noun",
+      "ipa": "/ˈpeɪʃənt/",
+      "reading_th": "เพ-เชี่ยนท์",
+      "meaning_th": "คนไข้ / ผู้ป่วย",
+      "emoji": "🛌",
+      "example_en": "The doctor sees thirty patients a day.",
+      "example_th": "หมอตรวจคนไข้วันละสามสิบคน",
+      "cefr": "A2",
+      "note_th": "patient เป็น adjective แปลว่า \"อดทน\" ได้ด้วย (Be patient! = ใจเย็นๆ) — คนไข้ต้องอดทนรอคิวไง จำง่ายเลย 😄",
+      "distractors": [
+        "passion",
+        "patience",
+        "parent"
+      ],
+      "image": "words/patient.webp"
+    },
+    {
+      "id": "appointment",
+      "word": "appointment",
+      "pos": "noun",
+      "ipa": "/əˈpɔɪntmənt/",
+      "reading_th": "อะ-พอยท์-เมนท์",
+      "meaning_th": "นัดหมาย (หมอ)",
+      "emoji": "📅",
+      "example_en": "I have a doctor's appointment at ten.",
+      "example_th": "ฉันมีนัดหมอตอนสิบโมง",
+      "cefr": "A2",
+      "note_th": "นัดหมอ = make an appointment — มาตามนัด = I have an appointment ประโยคแรกที่พูดกับเคาน์เตอร์โรงพยาบาล",
+      "distractors": [
+        "apartment",
+        "assignment",
+        "equipment"
+      ],
+      "image": "words/appointment.webp"
+    },
+    {
+      "id": "clinic",
+      "word": "clinic",
+      "pos": "noun",
+      "ipa": "/ˈklɪnɪk/",
+      "reading_th": "คลิ-นิค",
+      "meaning_th": "คลินิก",
+      "emoji": "🏪",
+      "example_en": "The clinic near my house opens until 8 PM.",
+      "example_th": "คลินิกใกล้บ้านเปิดถึงสองทุ่ม",
+      "cefr": "A2",
+      "note_th": "อาการเบาๆ ไปคลินิก (clinic) อาการหนักไปโรงพยาบาล (hospital) — คนไทยใช้ทับศัพท์ตรงเป๊ะอยู่แล้ว",
+      "distractors": [
+        "classic",
+        "click",
+        "cynic"
+      ],
+      "image": "words/clinic.webp"
+    },
+    {
+      "id": "symptom",
+      "word": "symptom",
+      "pos": "noun",
+      "ipa": "/ˈsɪmptəm/",
+      "reading_th": "ซิมพ์-เทิม",
+      "meaning_th": "อาการ (ของโรค)",
+      "emoji": "📋",
+      "example_en": "What are your symptoms?",
+      "example_th": "คุณมีอาการอะไรบ้างครับ",
+      "cefr": "B1",
+      "note_th": "What are your symptoms? = คำถามแรกของหมอ — เตรียมตอบ: I have a fever and a cough (มีไข้และไอ)",
+      "distractors": [
+        "system",
+        "symbol",
+        "sympathy"
+      ],
+      "image": "words/symptom.webp"
+    },
+    {
+      "id": "examine",
+      "word": "examine",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzæmɪn/",
+      "reading_th": "อิก-แซ-มิน",
+      "meaning_th": "ตรวจ (ร่างกาย)",
+      "emoji": "🔍",
+      "example_en": "The doctor examined my throat carefully.",
+      "example_th": "หมอตรวจคอฉันอย่างละเอียด",
+      "cefr": "B1",
+      "note_th": "examine = ตรวจอย่างละเอียด — คำนามคือ examination ซึ่งย่อเป็น exam (ข้อสอบ) นั่นเอง! ตรวจร่างกายกับสอบใช้รากเดียวกัน",
+      "distractors": [
+        "example",
+        "exercise",
+        "examinee"
+      ],
+      "image": "words/examine.webp"
+    },
+    {
+      "id": "checkup",
+      "word": "checkup",
+      "pos": "noun",
+      "ipa": "/ˈtʃekʌp/",
+      "reading_th": "เช็ค-อัพ",
+      "meaning_th": "ตรวจสุขภาพ",
+      "emoji": "🩺",
+      "example_en": "I get a health checkup once a year.",
+      "example_th": "ฉันตรวจสุขภาพประจำปีปีละครั้ง",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"ไปเช็คอัพ\" ตรงกับ get a checkup เป๊ะ — ตรวจสุขภาพประจำปี = annual checkup",
+      "distractors": [
+        "checkout",
+        "check-in",
+        "checklist"
+      ],
+      "image": "words/checkup.webp"
+    },
+    {
+      "id": "temperature",
+      "word": "temperature",
+      "pos": "noun",
+      "ipa": "/ˈtemprətʃər/",
+      "reading_th": "เทม-เพรอ-เชอร์",
+      "meaning_th": "อุณหภูมิ / ไข้",
+      "emoji": "🌡️",
+      "example_en": "Let me take your temperature.",
+      "example_th": "ขอวัดไข้หน่อยนะคะ",
+      "cefr": "A2",
+      "note_th": "วัดไข้ = take your temperature — มีไข้พูดได้ว่า I have a temperature (แปลว่าไข้ ไม่ใช่แค่อุณหภูมิ!)",
+      "distractors": [
+        "temperament",
+        "signature",
+        "furniture"
+      ],
+      "image": "words/temperature.webp"
+    },
+    {
+      "id": "blood_pressure",
+      "word": "blood pressure",
+      "pos": "noun",
+      "ipa": "/ˈblʌd ˌpreʃər/",
+      "reading_th": "บลัด-เพรช-เชอร์",
+      "meaning_th": "ความดันโลหิต",
+      "emoji": "❤️",
+      "example_en": "The nurse checks my blood pressure every visit.",
+      "example_th": "พยาบาลวัดความดันทุกครั้งที่มา",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดสั้นๆ ว่า \"วัดความดัน\" = check blood pressure — ความดันสูง = high blood pressure โรคยอดฮิตวัยทำงาน",
+      "distractors": [
+        "blood test",
+        "heartbeat",
+        "air pressure"
+      ],
+      "image": "words/blood_pressure.webp"
+    },
+    {
+      "id": "stethoscope",
+      "word": "stethoscope",
+      "pos": "noun",
+      "ipa": "/ˈsteθəskoʊp/",
+      "reading_th": "สเต-เธอะ-สโคพ",
+      "meaning_th": "หูฟังหมอ",
+      "emoji": "🩺",
+      "example_en": "The doctor listened to my heart with a stethoscope.",
+      "example_th": "หมอใช้หูฟังฟังเสียงหัวใจฉัน",
+      "cefr": "B1",
+      "note_th": "สัญลักษณ์ประจำตัวหมอ! scope = เครื่องมือส่อง/ฟัง เจอในหลายคำ เช่น microscope (กล้องจุลทรรศน์) telescope (กล้องดูดาว)",
+      "distractors": [
+        "microscope",
+        "telescope",
+        "horoscope"
+      ],
+      "image": "words/stethoscope.webp"
+    },
+    {
+      "id": "waiting_room",
+      "word": "waiting room",
+      "pos": "noun",
+      "ipa": "/ˈweɪtɪŋ ruːm/",
+      "reading_th": "เวท-ติ้ง-รูม",
+      "meaning_th": "ห้องรอตรวจ",
+      "emoji": "🪑",
+      "example_en": "Please have a seat in the waiting room.",
+      "example_th": "เชิญนั่งรอที่ห้องรอตรวจก่อนนะคะ",
+      "cefr": "A2",
+      "note_th": "Have a seat = เชิญนั่ง (สุภาพกว่า sit down) — รอเรียกชื่อ: They will call your name",
+      "distractors": [
+        "living room",
+        "meeting room",
+        "waiting list"
+      ],
+      "image": "words/waiting_room.webp"
+    },
+    {
+      "id": "pain",
+      "word": "pain",
+      "pos": "noun",
+      "ipa": "/peɪn/",
+      "reading_th": "เพน",
+      "meaning_th": "ความเจ็บปวด",
+      "emoji": "⚡",
+      "example_en": "I have a sharp pain in my back.",
+      "example_th": "ฉันปวดหลังแบบเจ็บแปลบ",
+      "cefr": "A2",
+      "note_th": "บอกระดับปวดกับหมอ: sharp pain (แปลบ) / dull pain (ตื้อๆ) — หมอฝรั่งชอบถาม \"ปวดระดับ 1-10 เท่าไหร่?\"",
+      "distractors": [
+        "pane",
+        "plain",
+        "paint"
+      ],
+      "image": "words/pain.webp"
+    },
+    {
+      "id": "allergy",
+      "word": "allergy",
+      "pos": "noun",
+      "ipa": "/ˈælərdʒi/",
+      "reading_th": "แอล-เลอร์-จี้",
+      "meaning_th": "อาการแพ้ / ภูมิแพ้",
+      "emoji": "🥜",
+      "example_en": "Do you have any drug allergies?",
+      "example_th": "คุณแพ้ยาอะไรไหมครับ",
+      "cefr": "B1",
+      "note_th": "ประโยคช่วยชีวิต: I'm allergic to... (ฉันแพ้...) เช่น allergic to peanuts/seafood — ต้องพูดได้ก่อนหมอจ่ายยา!",
+      "distractors": [
+        "energy",
+        "allergic",
+        "gallery"
+      ],
+      "image": "words/allergy.webp"
+    },
+    {
+      "id": "head",
+      "word": "head",
+      "pos": "noun",
+      "ipa": "/hed/",
+      "reading_th": "เฮด",
+      "meaning_th": "หัว / ศีรษะ",
+      "emoji": "🙂",
+      "example_en": "I hit my head on the door.",
+      "example_th": "ฉันเอาหัวโขกประตู",
+      "cefr": "A1",
+      "note_th": "head ยังแปลว่า \"หัวหน้า\" ได้ (head of department) — จากหัวคน สู่หัวทีม ภาษาเดียวกันเลย",
+      "distractors": [
+        "hand",
+        "hat",
+        "heart"
+      ],
+      "image": "words/head.webp"
+    },
+    {
+      "id": "eye",
+      "word": "eye",
+      "pos": "noun",
+      "ipa": "/aɪ/",
+      "reading_th": "อาย",
+      "meaning_th": "ตา",
+      "emoji": "👁️",
+      "example_en": "My eyes are tired from the screen.",
+      "example_th": "ตาล้าเพราะจ้องจอนาน",
+      "cefr": "A1",
+      "note_th": "eye ออกเสียงเหมือน I (ฉัน) เป๊ะ — หมอตา = eye doctor และยาหยอดตา = eye drops",
+      "distractors": [
+        "ear",
+        "egg",
+        "ice"
+      ],
+      "image": "words/eye.webp"
+    },
+    {
+      "id": "ear",
+      "word": "ear",
+      "pos": "noun",
+      "ipa": "/ɪr/",
+      "reading_th": "เอียร์",
+      "meaning_th": "หู",
+      "emoji": "👂",
+      "example_en": "My left ear hurts when I swallow.",
+      "example_th": "หูซ้ายเจ็บเวลากลืนน้ำลาย",
+      "cefr": "A1",
+      "note_th": "ear (หู) + ring (แหวน/ห่วง) = earring (ต่างหู) — ปวดหู = earache ตามสูตร ache",
+      "distractors": [
+        "eye",
+        "year",
+        "hair"
+      ],
+      "image": "words/ear.webp"
+    },
+    {
+      "id": "nose",
+      "word": "nose",
+      "pos": "noun",
+      "ipa": "/noʊz/",
+      "reading_th": "โนส",
+      "meaning_th": "จมูก",
+      "emoji": "👃",
+      "example_en": "My nose is blocked — I can't smell anything.",
+      "example_th": "จมูกตัน ไม่ได้กลิ่นอะไรเลย",
+      "cefr": "A1",
+      "note_th": "จมูกตัน = blocked/stuffy nose — และ nose ออกเสียงเหมือน knows (รู้) เป๊ะ The nose knows! 😄",
+      "distractors": [
+        "news",
+        "noise",
+        "rose"
+      ],
+      "image": "words/nose.webp"
+    },
+    {
+      "id": "mouth",
+      "word": "mouth",
+      "pos": "noun",
+      "ipa": "/maʊθ/",
+      "reading_th": "เมาธ์",
+      "meaning_th": "ปาก",
+      "emoji": "👄",
+      "example_en": "Open your mouth and say ah.",
+      "example_th": "อ้าปากแล้วพูดอาาา",
+      "cefr": "A1",
+      "note_th": "Open your mouth and say ah = ประโยคหมอตรวจคอสุดคลาสสิก — ระวังเสียงใกล้ mouse (เมาส์/หนู)",
+      "distractors": [
+        "mouse",
+        "month",
+        "moth"
+      ],
+      "image": "words/mouth.webp"
+    },
+    {
+      "id": "tooth",
+      "word": "tooth",
+      "pos": "noun",
+      "ipa": "/tuːθ/",
+      "reading_th": "ทูธ",
+      "meaning_th": "ฟัน (ซี่เดียว)",
+      "emoji": "🦷",
+      "example_en": "The dentist pulled out my bad tooth.",
+      "example_th": "หมอฟันถอนฟันผุของฉันออก",
+      "cefr": "A1",
+      "note_th": "tooth (1 ซี่) → teeth (หลายซี่) พหูพจน์เปลี่ยนสระ! เหมือน foot→feet — ฟันผุ = bad tooth / cavity",
+      "distractors": [
+        "teeth",
+        "truth",
+        "booth"
+      ],
+      "image": "words/tooth.webp"
+    },
+    {
+      "id": "throat",
+      "word": "throat",
+      "pos": "noun",
+      "ipa": "/θroʊt/",
+      "reading_th": "โธรท",
+      "meaning_th": "ลำคอ",
+      "emoji": "🗣️",
+      "example_en": "The doctor looked at my throat with a light.",
+      "example_th": "หมอใช้ไฟส่องดูลำคอฉัน",
+      "cefr": "A2",
+      "note_th": "th ออกเสียงแลบลิ้น \"โธรท\" — เจ็บคอ = sore throat และคอแห้ง = dry throat",
+      "distractors": [
+        "throne",
+        "float",
+        "though"
+      ],
+      "image": "words/throat.webp"
+    },
+    {
+      "id": "arm",
+      "word": "arm",
+      "pos": "noun",
+      "ipa": "/ɑːrm/",
+      "reading_th": "อาร์ม",
+      "meaning_th": "แขน",
+      "emoji": "💪",
+      "example_en": "Roll up your sleeve — I'll check your arm.",
+      "example_th": "พับแขนเสื้อขึ้นหน่อย จะตรวจแขนให้",
+      "cefr": "A1",
+      "note_th": "arm = แขนทั้งท่อน / hand = มือ (ฝ่ามือถึงนิ้ว) แยกให้ถูกตอนบอกหมอว่าเจ็บตรงไหน",
+      "distractors": [
+        "army",
+        "aim",
+        "alarm"
+      ],
+      "image": "words/arm.webp"
+    },
+    {
+      "id": "hand",
+      "word": "hand",
+      "pos": "noun",
+      "ipa": "/hænd/",
+      "reading_th": "แฮนด์",
+      "meaning_th": "มือ",
+      "emoji": "✋",
+      "example_en": "Wash your hands before eating.",
+      "example_th": "ล้างมือก่อนกินข้าว",
+      "cefr": "A1",
+      "note_th": "hand ยังแปลว่า \"ยื่นให้\" ได้ (Hand me the salt = ส่งเกลือให้หน่อย) และ give a hand = ช่วยเหลือ",
+      "distractors": [
+        "head",
+        "band",
+        "sand"
+      ],
+      "image": "words/hand.webp"
+    },
+    {
+      "id": "leg",
+      "word": "leg",
+      "pos": "noun",
+      "ipa": "/leɡ/",
+      "reading_th": "เล็ก",
+      "meaning_th": "ขา",
+      "emoji": "🦵",
+      "example_en": "My legs are sore from running.",
+      "example_th": "ขาเมื่อยเพราะไปวิ่งมา",
+      "cefr": "A1",
+      "note_th": "leg = ขาทั้งท่อน / foot = เท้า — สำนวนอวยพรนักแสดง Break a leg! = โชคดีนะ (ไม่ใช่คำสาป!)",
+      "distractors": [
+        "egg",
+        "log",
+        "lag"
+      ],
+      "image": "words/leg.webp"
+    },
+    {
+      "id": "knee",
+      "word": "knee",
+      "pos": "noun",
+      "ipa": "/niː/",
+      "reading_th": "นี",
+      "meaning_th": "เข่า",
+      "emoji": "🦵",
+      "example_en": "I hurt my knee playing football.",
+      "example_th": "เข่าเจ็บเพราะเล่นฟุตบอล",
+      "cefr": "A2",
+      "note_th": "ตัว k ไม่ออกเสียง! อ่านว่า \"นี\" เหมือน knife (ไนฟ์) know (โนว์) — k นำหน้า n เงียบเสมอ",
+      "distractors": [
+        "key",
+        "need",
+        "nine"
+      ],
+      "image": "words/knee.webp"
+    },
+    {
+      "id": "foot",
+      "word": "foot",
+      "pos": "noun",
+      "ipa": "/fʊt/",
+      "reading_th": "ฟุท",
+      "meaning_th": "เท้า",
+      "emoji": "🦶",
+      "example_en": "My right foot is swollen.",
+      "example_th": "เท้าขวาของฉันบวม",
+      "cefr": "A1",
+      "note_th": "foot (1 ข้าง) → feet (2 ข้าง) เปลี่ยนสระเหมือน tooth→teeth — เดินเท้า = on foot และหน่วยฟุตก็คำเดียวกัน",
+      "distractors": [
+        "food",
+        "feet",
+        "fool"
+      ],
+      "image": "words/foot.webp"
+    },
+    {
+      "id": "back",
+      "word": "back",
+      "pos": "noun",
+      "ipa": "/bæk/",
+      "reading_th": "แบ็ค",
+      "meaning_th": "หลัง (ร่างกาย)",
+      "emoji": "🧍",
+      "example_en": "Sitting all day gives me back pain.",
+      "example_th": "นั่งทั้งวันจนปวดหลัง",
+      "cefr": "A1",
+      "note_th": "ปวดหลัง = back pain โรคประจำตัวชาวออฟฟิศ! — back ยังแปลว่า \"กลับ/ข้างหลัง\" ได้ ดูบริบท (come back = กลับมา)",
+      "distractors": [
+        "bag",
+        "bank",
+        "black"
+      ],
+      "image": "words/back.webp"
+    },
+    {
+      "id": "skin",
+      "word": "skin",
+      "pos": "noun",
+      "ipa": "/skɪn/",
+      "reading_th": "สกิน",
+      "meaning_th": "ผิวหนัง",
+      "emoji": "🧴",
+      "example_en": "My skin gets dry in cold weather.",
+      "example_th": "อากาศหนาวทีไรผิวแห้งทุกที",
+      "cefr": "A2",
+      "note_th": "สายสกินแคร์ (skincare) คุ้นคำนี้ดี! — ผิวแห้ง = dry skin / ผิวมัน = oily skin / ผิวแพ้ง่าย = sensitive skin",
+      "distractors": [
+        "skirt",
+        "sink",
+        "spin"
+      ],
+      "image": "words/skin.webp"
+    },
+    {
+      "id": "medicine",
+      "word": "medicine",
+      "pos": "noun",
+      "ipa": "/ˈmedɪsən/",
+      "reading_th": "เม-ดิ-ซิน",
+      "meaning_th": "ยา",
+      "emoji": "💊",
+      "example_en": "Take this medicine three times a day.",
+      "example_th": "กินยานี้วันละสามครั้ง",
+      "cefr": "A1",
+      "note_th": "กินยา = take medicine (ไม่ใช่ eat/drink!) — จำไว้เลย take คือกริยาคู่กับยาเสมอ",
+      "distractors": [
+        "medical",
+        "citizen",
+        "medium"
+      ],
+      "image": "words/medicine.webp"
+    },
+    {
+      "id": "pill",
+      "word": "pill",
+      "pos": "noun",
+      "ipa": "/pɪl/",
+      "reading_th": "พิล",
+      "meaning_th": "ยาเม็ด",
+      "emoji": "💊",
+      "example_en": "Take two pills after breakfast.",
+      "example_th": "กินยาสองเม็ดหลังอาหารเช้า",
+      "cefr": "A2",
+      "note_th": "pill = ยาเม็ดกลมๆ / tablet = ยาเม็ดแบน (และแท็บเล็ต iPad ด้วย!) / capsule = แคปซูล — ระวังเสียงใกล้ peel (ปอกเปลือก)",
+      "distractors": [
+        "peel",
+        "pool",
+        "bill"
+      ],
+      "image": "words/pill.webp"
+    },
+    {
+      "id": "pharmacy",
+      "word": "pharmacy",
+      "pos": "noun",
+      "ipa": "/ˈfɑːrməsi/",
+      "reading_th": "ฟาร์-มา-ซี่",
+      "meaning_th": "ร้านขายยา",
+      "emoji": "💊",
+      "example_en": "Is there a pharmacy near here?",
+      "example_th": "แถวนี้มีร้านขายยาไหมครับ",
+      "cefr": "A2",
+      "note_th": "ph ออกเสียง f \"ฟาร์-มา-ซี่\" — อังกฤษเรียก chemist ก็ได้ ส่วนสัญลักษณ์สากลคือกากบาทเขียว",
+      "distractors": [
+        "farm",
+        "factory",
+        "harmony"
+      ],
+      "image": "words/pharmacy.webp"
+    },
+    {
+      "id": "pharmacist",
+      "word": "pharmacist",
+      "pos": "noun",
+      "ipa": "/ˈfɑːrməsɪst/",
+      "reading_th": "ฟาร์-มา-ซิสท์",
+      "meaning_th": "เภสัชกร",
+      "emoji": "🧑‍⚕️",
+      "example_en": "Ask the pharmacist how to take this medicine.",
+      "example_th": "ถามเภสัชกรว่ายานี้กินยังไง",
+      "cefr": "B1",
+      "note_th": "pharmacy (ร้าน) + ist (คน) = เภสัชกร — อาการเบาๆ ปรึกษาเภสัชที่ร้านยาก่อนได้ ไม่ต้องถึงหมอ",
+      "distractors": [
+        "pharmacy",
+        "physicist",
+        "farmer"
+      ],
+      "image": "words/pharmacist.webp"
+    },
+    {
+      "id": "painkiller",
+      "word": "painkiller",
+      "pos": "noun",
+      "ipa": "/ˈpeɪnkɪlər/",
+      "reading_th": "เพน-คิล-เลอร์",
+      "meaning_th": "ยาแก้ปวด",
+      "emoji": "💊",
+      "example_en": "I took a painkiller for my headache.",
+      "example_th": "ฉันกินยาแก้ปวดแก้ปวดหัว",
+      "cefr": "B1",
+      "note_th": "pain (ปวด) + killer (นักฆ่า) = ฆ่าความปวด ตรงตัวสุดๆ — พาราเซตามอลที่คนไทยเรียกก็คือ paracetamol ฝรั่งอเมริกาเรียก Tylenol",
+      "distractors": [
+        "painter",
+        "sleeping pill",
+        "pain relief"
+      ],
+      "image": "words/painkiller.webp"
+    },
+    {
+      "id": "antibiotic",
+      "word": "antibiotic",
+      "pos": "noun",
+      "ipa": "/ˌæntibaɪˈɑːtɪk/",
+      "reading_th": "แอน-ติ-ไบ-ออ-ติค",
+      "meaning_th": "ยาปฏิชีวนะ / ยาฆ่าเชื้อ",
+      "emoji": "💊",
+      "example_en": "Finish all the antibiotics, even if you feel better.",
+      "example_th": "กินยาฆ่าเชื้อให้หมดแม้จะรู้สึกดีขึ้นแล้ว",
+      "cefr": "B1",
+      "note_th": "anti (ต้าน) + biotic (สิ่งมีชีวิต=เชื้อ) — กฎเหล็ก: ยาฆ่าเชื้อต้องกินให้ครบคอร์ส หยุดกลางคันเชื้อดื้อยา!",
+      "distractors": [
+        "antivirus",
+        "vitamin",
+        "antiseptic"
+      ],
+      "image": "words/antibiotic.webp"
+    },
+    {
+      "id": "cream",
+      "word": "cream",
+      "pos": "noun",
+      "ipa": "/kriːm/",
+      "reading_th": "ครีม",
+      "meaning_th": "ครีมทา (ยา)",
+      "emoji": "🧴",
+      "example_en": "Apply this cream to the rash twice a day.",
+      "example_th": "ทาครีมนี้ตรงผื่นวันละสองครั้ง",
+      "cefr": "A2",
+      "note_th": "ทาครีม/ยา = apply (ไม่ใช่ paint!) — ผื่น = rash และยาทาอีกแบบคือ ointment (ขี้ผึ้ง)",
+      "distractors": [
+        "dream",
+        "scream",
+        "cheese"
+      ],
+      "image": "words/cream.webp"
+    },
+    {
+      "id": "bandage",
+      "word": "bandage",
+      "pos": "noun",
+      "ipa": "/ˈbændɪdʒ/",
+      "reading_th": "แบน-เดจ",
+      "meaning_th": "ผ้าพันแผล",
+      "emoji": "🩹",
+      "example_en": "The nurse wrapped a bandage around my wrist.",
+      "example_th": "พยาบาลพันผ้าพันแผลรอบข้อมือให้",
+      "cefr": "A2",
+      "note_th": "bandage = ผ้าพันแผล / พลาสเตอร์แปะแผลชิ้นเล็กคือ plaster (อังกฤษ) หรือ Band-Aid (อเมริกา-ชื่อยี่ห้อที่กลายเป็นคำ)",
+      "distractors": [
+        "band",
+        "garbage",
+        "baggage"
+      ],
+      "image": "words/bandage.webp"
+    },
+    {
+      "id": "vitamin",
+      "word": "vitamin",
+      "pos": "noun",
+      "ipa": "/ˈvaɪtəmɪn/",
+      "reading_th": "ไว-ตะ-มิน",
+      "meaning_th": "วิตามิน",
+      "emoji": "🍊",
+      "example_en": "I take vitamin C every morning.",
+      "example_th": "ฉันกินวิตามินซีทุกเช้า",
+      "cefr": "A2",
+      "note_th": "ฝรั่งอเมริกาออกเสียง \"ไว-ตะ-มิน\" (ไม่ใช่ วิ-ตา-มิน แบบไทย!) — อังกฤษออก \"วิ-ตะ-มิน\" ใกล้ไทยกว่า",
+      "distractors": [
+        "mineral",
+        "victim",
+        "vitality"
+      ],
+      "image": "words/vitamin.webp"
+    },
+    {
+      "id": "dose",
+      "word": "dose",
+      "pos": "noun",
+      "ipa": "/doʊs/",
+      "reading_th": "โดส",
+      "meaning_th": "ขนาดยา / โดส",
+      "emoji": "🥄",
+      "example_en": "Do not take more than the recommended dose.",
+      "example_th": "อย่ากินยาเกินขนาดที่กำหนด",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"วัคซีนโดสแรก\" ตรงกับ first dose เป๊ะ — เกินขนาด = overdose (OD)",
+      "distractors": [
+        "does",
+        "doze",
+        "dot"
+      ],
+      "image": "words/dose.webp"
+    },
+    {
+      "id": "after_meals",
+      "word": "after meals",
+      "pos": "phrase",
+      "ipa": "/ˌæftər ˈmiːlz/",
+      "reading_th": "อาฟ-เตอร์-มีลส์",
+      "meaning_th": "หลังอาหาร",
+      "emoji": "🍽️",
+      "example_en": "Take one pill after meals, three times a day.",
+      "example_th": "กินครั้งละหนึ่งเม็ดหลังอาหาร วันละสามครั้ง",
+      "cefr": "A2",
+      "note_th": "ฉลากยาภาษาอังกฤษ: after meals (หลังอาหาร) / before meals (ก่อนอาหาร) / before bed (ก่อนนอน) — อ่านให้เป็นช่วยชีวิต",
+      "distractors": [
+        "before meals",
+        "after work",
+        "between meals"
+      ],
+      "image": "words/after_meals.webp"
+    },
+    {
+      "id": "side_effect",
+      "word": "side effect",
+      "pos": "noun",
+      "ipa": "/ˈsaɪd ɪˌfekt/",
+      "reading_th": "ไซด์-เอฟ-เฟ็คท์",
+      "meaning_th": "ผลข้างเคียง",
+      "emoji": "⚠️",
+      "example_en": "Drowsiness is a common side effect of this medicine.",
+      "example_th": "ยานี้มีผลข้างเคียงคือง่วงซึม",
+      "cefr": "B1",
+      "note_th": "side (ข้าง) + effect (ผล) ตรงกับไทยเป๊ะ — ถามเภสัช: Does it have any side effects? (มีผลข้างเคียงไหม)",
+      "distractors": [
+        "special effect",
+        "side dish",
+        "sound effect"
+      ],
+      "image": "words/side_effect.webp"
+    },
+    {
+      "id": "drowsy",
+      "word": "drowsy",
+      "pos": "adjective",
+      "ipa": "/ˈdraʊzi/",
+      "reading_th": "ดราว-ซี่",
+      "meaning_th": "ง่วงซึม (จากยา)",
+      "emoji": "😪",
+      "example_en": "This medicine may make you drowsy — don't drive.",
+      "example_th": "ยานี้อาจทำให้ง่วงซึม ห้ามขับรถ",
+      "cefr": "B1",
+      "note_th": "คำเตือนบนฉลากยา: May cause drowsiness (อาจทำให้ง่วง) — sleepy = ง่วงปกติ / drowsy = ง่วงเบลอๆ จากยา",
+      "distractors": [
+        "dizzy",
+        "dreamy",
+        "cloudy"
+      ],
+      "image": "words/drowsy.webp"
+    },
+    {
+      "id": "expired",
+      "word": "expired",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspaɪərd/",
+      "reading_th": "เอ็ค-สไปเออร์ด",
+      "meaning_th": "หมดอายุ",
+      "emoji": "🚫",
+      "example_en": "Don't take expired medicine!",
+      "example_th": "อย่ากินยาหมดอายุ!",
+      "cefr": "B1",
+      "note_th": "ยา/อาหาร/พาสปอร์ต หมดอายุใช้ expired ทั้งหมด — เช็ควันหมดอายุ = check the expiry date ก่อนกินยาเสมอ",
+      "distractors": [
+        "inspired",
+        "experienced",
+        "exported"
+      ],
+      "image": "words/expired.webp"
+    },
+    {
+      "id": "injury",
+      "word": "injury",
+      "pos": "noun",
+      "ipa": "/ˈɪndʒəri/",
+      "reading_th": "อิน-เจอ-รี่",
+      "meaning_th": "การบาดเจ็บ",
+      "emoji": "🤕",
+      "example_en": "He had a serious injury from the accident.",
+      "example_th": "เขาบาดเจ็บสาหัสจากอุบัติเหตุ",
+      "cefr": "B1",
+      "note_th": "แฟนบอลคุ้นคำนี้: injury time = ทดเวลาบาดเจ็บ! — กริยาคือ injure และคนเจ็บ = injured",
+      "distractors": [
+        "energy",
+        "January",
+        "jury"
+      ],
+      "image": "words/injury.webp"
+    },
+    {
+      "id": "wound",
+      "word": "wound",
+      "pos": "noun",
+      "ipa": "/wuːnd/",
+      "reading_th": "วูนด์",
+      "meaning_th": "บาดแผล",
+      "emoji": "🩸",
+      "example_en": "Clean the wound before putting on a bandage.",
+      "example_th": "ล้างแผลก่อนปิดผ้าพันแผล",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"วูนด์\" (ไม่ใช่ \"วาวด์\"!) — ล้างแผล = clean the wound / แผลหาย = the wound healed",
+      "distractors": [
+        "wind",
+        "sound",
+        "wood"
+      ],
+      "image": "words/wound.webp"
+    },
+    {
+      "id": "cut",
+      "word": "cut",
+      "pos": "noun",
+      "ipa": "/kʌt/",
+      "reading_th": "คัท",
+      "meaning_th": "แผลบาด / มีดบาด",
+      "emoji": "🔪",
+      "example_en": "I got a small cut on my finger while cooking.",
+      "example_th": "ทำกับข้าวแล้วมีดบาดนิ้วนิดหน่อย",
+      "cefr": "A2",
+      "note_th": "cut เป็นทั้งกริยา (ตัด/บาด) และคำนาม (แผลบาด) — สามช่อง cut-cut-cut ไม่เปลี่ยนรูปเลย",
+      "distractors": [
+        "cat",
+        "cup",
+        "cute"
+      ],
+      "image": "words/cut.webp"
+    },
+    {
+      "id": "burn",
+      "word": "burn",
+      "pos": "noun",
+      "ipa": "/bɜːrn/",
+      "reading_th": "เบิร์น",
+      "meaning_th": "แผลไหม้ / น้ำร้อนลวก",
+      "emoji": "🔥",
+      "example_en": "Run cold water over the burn right away.",
+      "example_th": "โดนลวกให้รีบเปิดน้ำเย็นราดทันที",
+      "cefr": "A2",
+      "note_th": "การปฐมพยาบาลแผลไหม้ที่ถูก: น้ำเย็นธรรมดา 10-20 นาที (ห้ามใส่ยาสีฟัน!) — คนไทยพูด \"เบิร์น\" ในยิมก็คำนี้ (เผาผลาญ)",
+      "distractors": [
+        "born",
+        "barn",
+        "turn"
+      ],
+      "image": "words/burn.webp"
+    },
+    {
+      "id": "bruise",
+      "word": "bruise",
+      "pos": "noun",
+      "ipa": "/bruːz/",
+      "reading_th": "บรูส",
+      "meaning_th": "รอยช้ำ / ฟกช้ำ",
+      "emoji": "🟣",
+      "example_en": "I have a big bruise where the ball hit me.",
+      "example_th": "ตรงที่โดนบอลชนมีรอยช้ำเป้งเลย",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"บรูส\" (เหมือนชื่อ Bruce!) — รอยช้ำเขียวๆ ม่วงๆ ภาษาอังกฤษเรียกว่า black and blue",
+      "distractors": [
+        "bruce",
+        "breeze",
+        "browse"
+      ],
+      "image": "words/bruise.webp"
+    },
+    {
+      "id": "bleed",
+      "word": "bleed",
+      "pos": "verb",
+      "ipa": "/bliːd/",
+      "reading_th": "บลีด",
+      "meaning_th": "เลือดออก",
+      "emoji": "🩸",
+      "example_en": "My nose is bleeding!",
+      "example_th": "เลือดกำเดาไหล!",
+      "cefr": "B1",
+      "note_th": "bleed (กริยา เลือดออก) / blood (คำนาม เลือด) — เลือดกำเดาไหล = nosebleed / My nose is bleeding",
+      "distractors": [
+        "blood",
+        "breed",
+        "blend"
+      ],
+      "image": "words/bleed.webp"
+    },
+    {
+      "id": "swollen",
+      "word": "swollen",
+      "pos": "adjective",
+      "ipa": "/ˈswoʊlən/",
+      "reading_th": "สโวล-เลิ่น",
+      "meaning_th": "บวม",
+      "emoji": "🎈",
+      "example_en": "My ankle is swollen after the fall.",
+      "example_th": "ข้อเท้าบวมหลังจากล้ม",
+      "cefr": "B1",
+      "note_th": "บวมใช้ swollen (มาจาก swell) — ตาบวมจากร้องไห้ = swollen eyes ก็ใช้ได้",
+      "distractors": [
+        "stolen",
+        "swallowed",
+        "sworn"
+      ],
+      "image": "words/swollen.webp"
+    },
+    {
+      "id": "sprain",
+      "word": "sprain",
+      "pos": "verb",
+      "ipa": "/spreɪn/",
+      "reading_th": "สเปรน",
+      "meaning_th": "แพลง (ข้อเท้า/ข้อมือ)",
+      "emoji": "🦶",
+      "example_en": "I sprained my ankle playing basketball.",
+      "example_th": "ข้อเท้าแพลงตอนเล่นบาส",
+      "cefr": "B1",
+      "note_th": "ข้อเท้าแพลง = sprain an ankle อาการฮิตของสายกีฬา — แพลง (เส้นยึด) ต่างจากหัก (broken/fracture)",
+      "distractors": [
+        "spray",
+        "strain",
+        "Spain"
+      ],
+      "image": "words/sprain.webp"
+    },
+    {
+      "id": "x_ray",
+      "word": "X-ray",
+      "pos": "noun",
+      "ipa": "/ˈeks reɪ/",
+      "reading_th": "เอ็กซ์-เรย์",
+      "meaning_th": "เอกซเรย์",
+      "emoji": "🦴",
+      "example_en": "The doctor wants an X-ray of your arm.",
+      "example_th": "หมอขอเอกซเรย์แขนของคุณหน่อย",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"ไปเอกซเรย์\" ตรงกับ get an X-ray เป๊ะ — X มาจาก \"รังสีปริศนา\" ตอนค้นพบยังไม่รู้ว่าคืออะไรเลยตั้งชื่อ X!",
+      "distractors": [
+        "ultrasound",
+        "MRI",
+        "ray"
+      ],
+      "image": "words/x_ray.webp"
+    },
+    {
+      "id": "cast",
+      "word": "cast",
+      "pos": "noun",
+      "ipa": "/kæst/",
+      "reading_th": "แคสท์",
+      "meaning_th": "เฝือก",
+      "emoji": "🦿",
+      "example_en": "His broken arm is in a cast for six weeks.",
+      "example_th": "แขนหักต้องใส่เฝือกหกสัปดาห์",
+      "cefr": "B1",
+      "note_th": "ใส่เฝือก = in a cast — ธรรมเนียมฝรั่ง: เพื่อนๆ เซ็นชื่อบนเฝือกให้กำลังใจ! และ cast ยังแปลว่านักแสดงทั้งเรื่องด้วย",
+      "distractors": [
+        "cost",
+        "case",
+        "cash"
+      ],
+      "image": "words/cast.webp"
+    },
+    {
+      "id": "crutches",
+      "word": "crutches",
+      "pos": "noun",
+      "ipa": "/ˈkrʌtʃɪz/",
+      "reading_th": "ครัช-เชส",
+      "meaning_th": "ไม้ค้ำยัน",
+      "emoji": "🩼",
+      "example_en": "He walked on crutches for a month.",
+      "example_th": "เขาเดินด้วยไม้ค้ำยันอยู่เดือนนึง",
+      "cefr": "B1",
+      "note_th": "ใช้พหูพจน์เสมอ (มาเป็นคู่) — เดินด้วยไม้ค้ำ = walk on crutches",
+      "distractors": [
+        "clutches",
+        "churches",
+        "crunches"
+      ],
+      "image": "words/crutches.webp"
+    },
+    {
+      "id": "stitches",
+      "word": "stitches",
+      "pos": "noun",
+      "ipa": "/ˈstɪtʃɪz/",
+      "reading_th": "สติท-เชส",
+      "meaning_th": "การเย็บแผล / ไหมเย็บแผล",
+      "emoji": "🪡",
+      "example_en": "The cut needed five stitches.",
+      "example_th": "แผลลึกต้องเย็บห้าเข็ม",
+      "cefr": "B1",
+      "note_th": "เย็บกี่เข็มนับเป็น stitches (เย็บ 5 เข็ม = five stitches) — ตัดไหม = remove the stitches",
+      "distractors": [
+        "switches",
+        "sketches",
+        "scratches"
+      ],
+      "image": "words/stitches.webp"
+    },
+    {
+      "id": "ice_pack",
+      "word": "ice pack",
+      "pos": "noun",
+      "ipa": "/ˈaɪs pæk/",
+      "reading_th": "ไอซ์-แพ็ค",
+      "meaning_th": "ถุงประคบเย็น",
+      "emoji": "🧊",
+      "example_en": "Put an ice pack on the swollen ankle.",
+      "example_th": "เอาถุงเย็นประคบข้อเท้าที่บวม",
+      "cefr": "B1",
+      "note_th": "ประคบเย็น 48 ชม.แรกหลังเจ็บ (ลดบวม) แล้วค่อยประคบร้อน (คลายกล้ามเนื้อ) — hot pack = ถุงประคบร้อน",
+      "distractors": [
+        "backpack",
+        "ice cream",
+        "six-pack"
+      ],
+      "image": "words/ice_pack.webp"
+    },
+    {
+      "id": "heal",
+      "word": "heal",
+      "pos": "verb",
+      "ipa": "/hiːl/",
+      "reading_th": "ฮีล",
+      "meaning_th": "หาย (แผล) / รักษา",
+      "emoji": "✨",
+      "example_en": "The wound will heal in about a week.",
+      "example_th": "แผลจะหายในประมาณหนึ่งสัปดาห์",
+      "cefr": "B1",
+      "note_th": "สายเกมคุ้น \"ฮีล\" (เติมเลือด) ก็คำนี้! — heal ออกเสียงเหมือน heel (ส้นเท้า) ดูบริบท",
+      "distractors": [
+        "heel",
+        "hill",
+        "hell"
+      ],
+      "image": "words/heal.webp"
+    },
+    {
+      "id": "hospital",
+      "word": "hospital",
+      "pos": "noun",
+      "ipa": "/ˈhɑːspɪtəl/",
+      "reading_th": "ฮอส-พิ-เทิ่ล",
+      "meaning_th": "โรงพยาบาล",
+      "emoji": "🏥",
+      "example_en": "The nearest hospital is ten minutes away.",
+      "example_th": "โรงพยาบาลที่ใกล้ที่สุดอยู่ห่างไปสิบนาที",
+      "cefr": "A1",
+      "note_th": "เข้าโรงพยาบาล (นอน รพ.) = go to / be in hospital — ระวังสับสนกับ hostel (โฮสเทลที่พัก) และ hotel (โรงแรม)!",
+      "distractors": [
+        "hostel",
+        "hotel",
+        "hospitality"
+      ],
+      "image": "words/hospital.webp"
+    },
+    {
+      "id": "ambulance",
+      "word": "ambulance",
+      "pos": "noun",
+      "ipa": "/ˈæmbjələns/",
+      "reading_th": "แอม-บิว-เลินซ์",
+      "meaning_th": "รถพยาบาล",
+      "emoji": "🚑",
+      "example_en": "Call an ambulance — someone fainted!",
+      "example_th": "เรียกรถพยาบาลเร็ว มีคนเป็นลม!",
+      "cefr": "A2",
+      "note_th": "Call an ambulance! = ประโยคฉุกเฉินต้องจำ — เบอร์รถพยาบาลฉุกเฉินไทยคือ 1669 โทรฟรี 24 ชม.",
+      "distractors": [
+        "balance",
+        "ambition",
+        "appliance"
+      ],
+      "image": "words/ambulance.webp"
+    },
+    {
+      "id": "emergency_room",
+      "word": "emergency room",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːrdʒənsi ruːm/",
+      "reading_th": "อิ-เมอร์-เจน-ซี่-รูม",
+      "meaning_th": "ห้องฉุกเฉิน",
+      "emoji": "🚨",
+      "example_en": "They took him to the emergency room at midnight.",
+      "example_th": "เขาถูกส่งห้องฉุกเฉินตอนเที่ยงคืน",
+      "cefr": "B1",
+      "note_th": "ย่อว่า ER (ซีรีส์หมอชื่อดังก็ชื่อนี้!) — อังกฤษเรียก A&E ส่วนคนไทยพูด \"ห้องอีอาร์\" ตรงกันเลย",
+      "distractors": [
+        "waiting room",
+        "living room",
+        "engine room"
+      ],
+      "image": "words/emergency_room.webp"
+    },
+    {
+      "id": "ward",
+      "word": "ward",
+      "pos": "noun",
+      "ipa": "/wɔːrd/",
+      "reading_th": "วอร์ด",
+      "meaning_th": "หอผู้ป่วย / วอร์ด",
+      "emoji": "🛏️",
+      "example_en": "She is in the children's ward on the third floor.",
+      "example_th": "เธออยู่วอร์ดเด็กชั้นสาม",
+      "cefr": "B1",
+      "note_th": "คนไทยในโรงพยาบาลพูด \"วอร์ด\" ตรงศัพท์อังกฤษเป๊ะ — ระวังเสียงใกล้ word (คำ) และ world (โลก)",
+      "distractors": [
+        "word",
+        "world",
+        "warm"
+      ],
+      "image": "words/ward.webp"
+    },
+    {
+      "id": "surgery",
+      "word": "surgery",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrdʒəri/",
+      "reading_th": "เซอร์-เจอ-รี่",
+      "meaning_th": "การผ่าตัด",
+      "emoji": "🔪",
+      "example_en": "The surgery took three hours and went well.",
+      "example_th": "ผ่าตัดสามชั่วโมงและผ่านไปด้วยดี",
+      "cefr": "B1",
+      "note_th": "ผ่าตัด = have surgery / undergo an operation — หมอผ่าตัด = surgeon (เซอร์-เจิ้น)",
+      "distractors": [
+        "surgeon",
+        "energy",
+        "summary"
+      ],
+      "image": "words/surgery.webp"
+    },
+    {
+      "id": "injection",
+      "word": "injection",
+      "pos": "noun",
+      "ipa": "/ɪnˈdʒekʃən/",
+      "reading_th": "อิน-เจ็ค-ชั่น",
+      "meaning_th": "การฉีดยา",
+      "emoji": "💉",
+      "example_en": "The nurse gave me an injection in my arm.",
+      "example_th": "พยาบาลฉีดยาที่แขนให้ฉัน",
+      "cefr": "B1",
+      "note_th": "ฉีดยา = get an injection ภาษาพูดใช้ get a shot (สั้นกว่า) — กลัวเข็ม = afraid of needles",
+      "distractors": [
+        "infection",
+        "inspection",
+        "injunction"
+      ],
+      "image": "words/injection.webp"
+    },
+    {
+      "id": "vaccine",
+      "word": "vaccine",
+      "pos": "noun",
+      "ipa": "/vækˈsiːn/",
+      "reading_th": "แวค-ซีน",
+      "meaning_th": "วัคซีน",
+      "emoji": "💉",
+      "example_en": "Have you got your flu vaccine this year?",
+      "example_th": "ปีนี้ฉีดวัคซีนไข้หวัดใหญ่หรือยัง",
+      "cefr": "A2",
+      "note_th": "ฉีดวัคซีน = get vaccinated — คำนี้คนทั้งโลกคุ้นหลังโควิด ออกเสียงเน้นพยางค์หลัง \"แวค-ซีน\"",
+      "distractors": [
+        "vitamin",
+        "machine",
+        "vaseline"
+      ],
+      "image": "words/vaccine.webp"
+    },
+    {
+      "id": "blood_test",
+      "word": "blood test",
+      "pos": "noun",
+      "ipa": "/ˈblʌd test/",
+      "reading_th": "บลัด-เทสท์",
+      "meaning_th": "การตรวจเลือด",
+      "emoji": "🩸",
+      "example_en": "The doctor ordered a blood test before lunch.",
+      "example_th": "หมอสั่งตรวจเลือดก่อนมื้อเที่ยง",
+      "cefr": "B1",
+      "note_th": "ตรวจเลือด = get a blood test — งดน้ำงดอาหารก่อนเจาะเลือด = fasting (ได้ยินบ่อยตอนตรวจสุขภาพประจำปี)",
+      "distractors": [
+        "blood type",
+        "eye test",
+        "blood bank"
+      ],
+      "image": "words/blood_test.webp"
+    },
+    {
+      "id": "wheelchair",
+      "word": "wheelchair",
+      "pos": "noun",
+      "ipa": "/ˈwiːltʃer/",
+      "reading_th": "วีล-แชร์",
+      "meaning_th": "รถเข็นผู้ป่วย / วีลแชร์",
+      "emoji": "🦽",
+      "example_en": "Grandpa uses a wheelchair after his operation.",
+      "example_th": "หลังผ่าตัดคุณปู่ต้องใช้วีลแชร์",
+      "cefr": "A2",
+      "note_th": "wheel (ล้อ) + chair (เก้าอี้) = เก้าอี้มีล้อ ตรงตัว — คนไทยทับศัพท์ \"วีลแชร์\" อยู่แล้ว",
+      "distractors": [
+        "wheel",
+        "armchair",
+        "chairman"
+      ],
+      "image": "words/wheelchair.webp"
+    },
+    {
+      "id": "stretcher",
+      "word": "stretcher",
+      "pos": "noun",
+      "ipa": "/ˈstretʃər/",
+      "reading_th": "สเตรท-เชอร์",
+      "meaning_th": "เปลหาม",
+      "emoji": "🛌",
+      "example_en": "They carried the injured man on a stretcher.",
+      "example_th": "พวกเขาหามคนเจ็บด้วยเปล",
+      "cefr": "B1",
+      "note_th": "มาจาก stretch (ยืด/กาง) — เปลที่กางออก และการยืดเส้นก่อนออกกำลังกายก็คือ stretching",
+      "distractors": [
+        "stretching",
+        "teacher",
+        "sketcher"
+      ],
+      "image": "words/stretcher.webp"
+    },
+    {
+      "id": "visiting_hours",
+      "word": "visiting hours",
+      "pos": "noun",
+      "ipa": "/ˈvɪzɪtɪŋ ˌaʊərz/",
+      "reading_th": "วิ-สิท-ติ้ง-อาวเวอร์ส",
+      "meaning_th": "เวลาเยี่ยมผู้ป่วย",
+      "emoji": "🕐",
+      "example_en": "Visiting hours end at 8 PM.",
+      "example_th": "เวลาเยี่ยมผู้ป่วยหมดตอนสองทุ่ม",
+      "cefr": "B1",
+      "note_th": "เยี่ยมผู้ป่วย = visit a patient — ธรรมเนียมไทยชอบหิ้วกระเช้าไปเยี่ยม ฝรั่งนิยมการ์ดกับดอกไม้ Get Well Soon",
+      "distractors": [
+        "opening hours",
+        "rush hours",
+        "office hours"
+      ],
+      "image": "words/visiting_hours.webp"
+    },
+    {
+      "id": "recover",
+      "word": "recover",
+      "pos": "verb",
+      "ipa": "/rɪˈkʌvər/",
+      "reading_th": "รี-คัฟ-เวอร์",
+      "meaning_th": "ฟื้นตัว / หายป่วย",
+      "emoji": "🌈",
+      "example_en": "She recovered quickly after the surgery.",
+      "example_th": "เธอฟื้นตัวเร็วมากหลังผ่าตัด",
+      "cefr": "B1",
+      "note_th": "re (กลับ) + cover = กลับมาเหมือนเดิม — ช่วงพักฟื้น = recovery และห้องพักฟื้นหลังผ่าตัดคือ recovery room",
+      "distractors": [
+        "discover",
+        "cover",
+        "remover"
+      ],
+      "image": "words/recover.webp"
+    },
+    {
+      "id": "medical_certificate",
+      "word": "medical certificate",
+      "pos": "noun",
+      "ipa": "/ˌmedɪkəl sərˈtɪfɪkət/",
+      "reading_th": "เม-ดิ-เคิ่ล-เซอร์-ทิ-ฟิ-เขต",
+      "meaning_th": "ใบรับรองแพทย์",
+      "emoji": "📄",
+      "example_en": "My company needs a medical certificate for sick leave.",
+      "example_th": "บริษัทขอใบรับรองแพทย์ประกอบการลาป่วย",
+      "cefr": "B1",
+      "note_th": "ลาป่วยเกิน 3 วันที่ไทยมักต้องใช้ \"ใบรับรองแพทย์\" = medical certificate ขอหมอได้เลยตอนตรวจเสร็จ",
+      "distractors": [
+        "birth certificate",
+        "medical school",
+        "gift certificate"
+      ],
+      "image": "words/medical_certificate.webp"
+    },
+    {
+      "id": "health_insurance",
+      "word": "health insurance",
+      "pos": "noun",
+      "ipa": "/ˈhelθ ɪnˌʃʊrəns/",
+      "reading_th": "เฮลธ์-อิน-ชัว-เรินซ์",
+      "meaning_th": "ประกันสุขภาพ",
+      "emoji": "🛡️",
+      "example_en": "Does your health insurance cover dental care?",
+      "example_th": "ประกันสุขภาพของคุณครอบคลุมทำฟันไหม",
+      "cefr": "B1",
+      "note_th": "cover = ครอบคลุม (ประกันจ่ายให้) — ถามก่อนรักษา: Is it covered by insurance? ช่วยประหยัดเงินก้อนโต",
+      "distractors": [
+        "life insurance",
+        "travel insurance",
+        "car insurance"
+      ],
+      "image": "words/health_insurance.webp"
+    },
+    {
+      "id": "healthy",
+      "word": "healthy",
+      "pos": "adjective",
+      "ipa": "/ˈhelθi/",
+      "reading_th": "เฮล-ธี่",
+      "meaning_th": "สุขภาพดี / ดีต่อสุขภาพ",
+      "emoji": "💚",
+      "example_en": "Som tam without sugar is a healthy choice.",
+      "example_th": "ส้มตำไม่ใส่น้ำตาลเป็นตัวเลือกที่ดีต่อสุขภาพ",
+      "cefr": "A1",
+      "note_th": "health (คำนาม สุขภาพ) → healthy (คำคุณศัพท์) — คนไทยพูด \"กินคลีน อาหารเฮลตี้\" ตรงคำนี้เลย",
+      "distractors": [
+        "wealthy",
+        "heavy",
+        "healthily"
+      ],
+      "image": "words/healthy.webp"
+    },
+    {
+      "id": "unhealthy",
+      "word": "unhealthy",
+      "pos": "adjective",
+      "ipa": "/ʌnˈhelθi/",
+      "reading_th": "อัน-เฮล-ธี่",
+      "meaning_th": "ไม่ดีต่อสุขภาพ",
+      "emoji": "🍟",
+      "example_en": "Eating late at night is unhealthy.",
+      "example_th": "กินดึกๆ ไม่ดีต่อสุขภาพ",
+      "cefr": "A2",
+      "note_th": "un + healthy = ไม่เฮลตี้ — เติม un หน้าคำ adjective ได้เพียบ: unhappy, unfair, unlucky จำสูตรเดียวใช้ได้ร้อยคำ",
+      "distractors": [
+        "healthy",
+        "unlucky",
+        "unhappy"
+      ],
+      "image": "words/unhealthy.webp"
+    },
+    {
+      "id": "exercise",
+      "word": "exercise",
+      "pos": "verb",
+      "ipa": "/ˈeksərsaɪz/",
+      "reading_th": "เอ็ค-เซอร์-ไซส์",
+      "meaning_th": "ออกกำลังกาย",
+      "emoji": "🏃",
+      "example_en": "I exercise for thirty minutes every evening.",
+      "example_th": "ฉันออกกำลังกายวันละสามสิบนาทีทุกเย็น",
+      "cefr": "A1",
+      "note_th": "ออกกำลัง = exercise หรือ work out (ภาษาพูด/ในยิม) — และ exercise ยังแปลว่า \"แบบฝึกหัด\" ในหนังสือเรียนด้วย",
+      "distractors": [
+        "exorcise",
+        "excise",
+        "surprise"
+      ],
+      "image": "words/exercise.webp"
+    },
+    {
+      "id": "diet",
+      "word": "diet",
+      "pos": "noun",
+      "ipa": "/ˈdaɪət/",
+      "reading_th": "ได-เอ็ท",
+      "meaning_th": "อาหารการกิน / การคุมอาหาร",
+      "emoji": "🥗",
+      "example_en": "A balanced diet keeps you strong.",
+      "example_th": "กินอาหารครบหมู่ทำให้ร่างกายแข็งแรง",
+      "cefr": "A2",
+      "note_th": "diet มี 2 ความหมาย: อาหารการกินโดยรวม (a healthy diet) กับ \"ลดความอ้วน\" (be on a diet = กำลังไดเอท) แบบที่คนไทยพูด",
+      "distractors": [
+        "date",
+        "diary",
+        "digit"
+      ],
+      "image": "words/diet.webp"
+    },
+    {
+      "id": "junk_food",
+      "word": "junk food",
+      "pos": "noun",
+      "ipa": "/ˈdʒʌŋk fuːd/",
+      "reading_th": "จังค์-ฟู้ด",
+      "meaning_th": "อาหารขยะ",
+      "emoji": "🍔",
+      "example_en": "Too much junk food is bad for your heart.",
+      "example_th": "กินอาหารขยะเยอะไปไม่ดีต่อหัวใจ",
+      "cefr": "A2",
+      "note_th": "junk = ขยะ/ของไร้ค่า — คนไทยเรียก \"จังค์ฟู้ด\" ทับศัพท์ตรงเลย และ junk mail = เมลขยะ ก็ junk เดียวกัน",
+      "distractors": [
+        "fast food",
+        "seafood",
+        "street food"
+      ],
+      "image": "words/junk_food.webp"
+    },
+    {
+      "id": "drink_water",
+      "word": "drink water",
+      "pos": "phrase",
+      "ipa": "/ˌdrɪŋk ˈwɔːtər/",
+      "reading_th": "ดริ๊งค์-วอ-เตอร์",
+      "meaning_th": "ดื่มน้ำ",
+      "emoji": "💧",
+      "example_en": "Drink more water instead of soda.",
+      "example_th": "ดื่มน้ำเปล่าแทนน้ำอัดลมเถอะ",
+      "cefr": "A1",
+      "note_th": "สูตรสุขภาพสากล: ดื่มน้ำวันละ 8 แก้ว = drink eight glasses of water a day — stay hydrated = อย่าให้ร่างกายขาดน้ำ",
+      "distractors": [
+        "drink soda",
+        "boil water",
+        "save water"
+      ],
+      "image": "words/drink_water.webp"
+    },
+    {
+      "id": "wash_hands",
+      "word": "wash your hands",
+      "pos": "phrase",
+      "ipa": "/ˌwɑːʃ jər ˈhændz/",
+      "reading_th": "วอช-ยัวร์-แฮนด์ส",
+      "meaning_th": "ล้างมือ",
+      "emoji": "🧼",
+      "example_en": "Wash your hands for twenty seconds with soap.",
+      "example_th": "ล้างมือด้วยสบู่ยี่สิบวินาที",
+      "cefr": "A1",
+      "note_th": "กฎทองหลังยุคโควิด: ล้างมือ 20 วินาที (ร้องเพลง Happy Birthday 2 รอบพอดี!) — เจลล้างมือ = hand sanitizer",
+      "distractors": [
+        "shake hands",
+        "wash dishes",
+        "raise hands"
+      ],
+      "image": "words/wash_hands.webp"
+    },
+    {
+      "id": "meditate",
+      "word": "meditate",
+      "pos": "verb",
+      "ipa": "/ˈmedɪteɪt/",
+      "reading_th": "เม-ดิ-เทท",
+      "meaning_th": "นั่งสมาธิ",
+      "emoji": "🧘",
+      "example_en": "I meditate for ten minutes before bed.",
+      "example_th": "ฉันนั่งสมาธิสิบนาทีก่อนนอน",
+      "cefr": "B1",
+      "note_th": "การนั่งสมาธิแบบไทยๆ ฝรั่งทั้งโลกกำลังฮิต! คำนามคือ meditation — แอปดังๆ อย่าง Headspace ก็สอนสิ่งนี้",
+      "distractors": [
+        "medicate",
+        "mediate",
+        "meditation"
+      ],
+      "image": "words/meditate.webp"
+    },
+    {
+      "id": "lose_weight",
+      "word": "lose weight",
+      "pos": "phrase",
+      "ipa": "/ˌluːz ˈweɪt/",
+      "reading_th": "ลูส-เวท",
+      "meaning_th": "ลดน้ำหนัก",
+      "emoji": "⚖️",
+      "example_en": "She lost five kilos by walking every day.",
+      "example_th": "เธอลดไปห้าโลด้วยการเดินทุกวัน",
+      "cefr": "A2",
+      "note_th": "ลดน้ำหนัก = lose weight (ไม่ใช่ reduce!) — lose-lost-lost และระวังสะกด lose (ลูซ) ไม่ใช่ loose (หลวม)",
+      "distractors": [
+        "gain weight",
+        "lift weights",
+        "lose money"
+      ],
+      "image": "words/lose_weight.webp"
+    },
+    {
+      "id": "gain_weight",
+      "word": "gain weight",
+      "pos": "phrase",
+      "ipa": "/ˌɡeɪn ˈweɪt/",
+      "reading_th": "เกน-เวท",
+      "meaning_th": "น้ำหนักขึ้น",
+      "emoji": "📈",
+      "example_en": "I gained three kilos during the holidays.",
+      "example_th": "ช่วงวันหยุดน้ำหนักขึ้นมาสามโล",
+      "cefr": "A2",
+      "note_th": "น้ำหนักขึ้น = gain / put on weight — คู่ตรงข้ามกับ lose weight จำเป็นแพ็คคู่เลย",
+      "distractors": [
+        "lose weight",
+        "gain speed",
+        "wait"
+      ],
+      "image": "words/gain_weight.webp"
+    },
+    {
+      "id": "quit_smoking",
+      "word": "quit smoking",
+      "pos": "phrase",
+      "ipa": "/ˌkwɪt ˈsmoʊkɪŋ/",
+      "reading_th": "ควิท-สโม้ค-กิ้ง",
+      "meaning_th": "เลิกบุหรี่",
+      "emoji": "🚭",
+      "example_en": "My dad quit smoking two years ago.",
+      "example_th": "พ่อฉันเลิกบุหรี่ได้สองปีแล้ว",
+      "cefr": "B1",
+      "note_th": "quit + Ving = เลิกทำ (quit smoking, quit drinking) — quit-quit-quit ไม่เปลี่ยนรูป และ No smoking = ห้ามสูบบุหรี่",
+      "distractors": [
+        "start smoking",
+        "quiet smoking",
+        "keep smoking"
+      ],
+      "image": "words/quit_smoking.webp"
+    },
+    {
+      "id": "strong",
+      "word": "strong",
+      "pos": "adjective",
+      "ipa": "/strɔːŋ/",
+      "reading_th": "สตรอง",
+      "meaning_th": "แข็งแรง",
+      "emoji": "💪",
+      "example_en": "Exercise every day and you will get strong.",
+      "example_th": "ออกกำลังทุกวันแล้วจะแข็งแรงเอง",
+      "cefr": "A1",
+      "note_th": "คนไทยพูด \"สายสตรอง\" ก็คำนี้! — strong ยังใช้กับกาแฟเข้มข้น (strong coffee) และกลิ่นแรง (strong smell) ได้ด้วย",
+      "distractors": [
+        "string",
+        "wrong",
+        "strange"
+      ],
+      "image": "words/strong.webp"
+    },
+    {
+      "id": "get_well_soon",
+      "word": "get well soon",
+      "pos": "phrase",
+      "ipa": "/ˌɡet wel ˈsuːn/",
+      "reading_th": "เก็ท-เวล-ซูน",
+      "meaning_th": "หายไวๆ นะ",
+      "emoji": "💐",
+      "example_en": "Get well soon! We all miss you at the office.",
+      "example_th": "หายไวๆ นะ ทุกคนที่ออฟฟิศคิดถึง",
+      "cefr": "A2",
+      "note_th": "คำอวยพรคนป่วยมาตรฐานสากล เขียนin การ์ดเยี่ยมไข้ได้เลย — well ในที่นี้ = สบายดี (แข็งแรง)",
+      "distractors": [
+        "see you soon",
+        "good luck",
+        "well done"
+      ],
+      "image": "words/get_well_soon.webp"
+    },
+    {
+      "id": "take_care",
+      "word": "take care",
+      "pos": "phrase",
+      "ipa": "/ˌteɪk ˈker/",
+      "reading_th": "เทค-แคร์",
+      "meaning_th": "ดูแลตัวเองนะ",
+      "emoji": "🤗",
+      "example_en": "Take care and see you next week!",
+      "example_th": "ดูแลตัวเองด้วยนะ เจอกันสัปดาห์หน้า!",
+      "cefr": "A1",
+      "note_th": "ใช้เป็นคำลาแบบอบอุ่นได้เลย (แทน goodbye) — ดูแลใครสักคน = take care of someone เช่น take care of my mom",
+      "distractors": [
+        "take a break",
+        "be careful",
+        "take off"
+      ],
+      "image": "words/take_care.webp"
+    }
+  ]
+}

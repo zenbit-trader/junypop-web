@@ -90,13 +90,13 @@
     },
     {
       "id": "hospital",
-      "file": null,
+      "file": "hospital.json",
       "name_en": "Hospital",
       "name_th": "โรงพยาบาล",
       "emoji": "🏥",
       "color_start": "#F87171",
       "color_end": "#DC2626",
-      "available": false,
+      "available": true,
       "image": "worlds/hospital.webp"
     },
     {
