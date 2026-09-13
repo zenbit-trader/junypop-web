@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "business",
+    "name_en": "Business",
+    "name_th": "ธุรกิจ",
+    "emoji": "📈",
+    "color_start": "#FBBF24",
+    "color_end": "#D97706",
+    "description_th": "ศัพท์นักธุรกิจ ตั้งแต่เปิดร้านแรก เจรจาต่อรอง อ่านตัวเลข จนถึงฝันใหญ่ระดับ CEO",
+    "mascot_costume": "business",
+    "lessons": [
+      {
+        "id": "business_1",
+        "title_en": "Starting Up",
+        "title_th": "เริ่มต้นธุรกิจ",
+        "emoji": "🏢",
+        "word_ids": [
+          "business",
+          "company",
+          "startup",
+          "entrepreneur",
+          "owner",
+          "partner",
+          "client",
+          "product",
+          "service",
+          "market",
+          "launch",
+          "grow",
+          "risk",
+          "opportunity"
+        ],
+        "image": "lessons/business_1.webp"
+      },
+      {
+        "id": "business_2",
+        "title_en": "Money Basics",
+        "title_th": "เรื่องเงินต้องรู้",
+        "emoji": "💰",
+        "word_ids": [
+          "money",
+          "income",
+          "expense",
+          "profit",
+          "loss",
+          "savings",
+          "invest",
+          "loan",
+          "debt",
+          "interest",
+          "tax",
+          "bank",
+          "borrow",
+          "lend"
+        ],
+        "image": "lessons/business_2.webp"
+      },
+      {
+        "id": "business_3",
+        "title_en": "Negotiation",
+        "title_th": "เจรจาต่อรอง",
+        "emoji": "🤝",
+        "word_ids": [
+          "negotiate",
+          "deal",
+          "offer",
+          "accept",
+          "refuse",
+          "compromise",
+          "condition",
+          "propose",
+          "persuade",
+          "win_win",
+          "handshake",
+          "trust",
+          "promise",
+          "agreement"
+        ],
+        "image": "lessons/business_3.webp"
+      },
+      {
+        "id": "business_4",
+        "title_en": "Numbers & Data",
+        "title_th": "ตัวเลขและกราฟ",
+        "emoji": "🔢",
+        "word_ids": [
+          "percent",
+          "increase",
+          "decrease",
+          "double",
+          "average",
+          "chart",
+          "graph",
+          "data",
+          "growth",
+          "target",
+          "result",
+          "compare",
+          "estimate",
+          "calculate"
+        ],
+        "image": "lessons/business_4.webp"
+      },
+      {
+        "id": "business_5",
+        "title_en": "Marketing",
+        "title_th": "การตลาดยุคใหม่",
+        "emoji": "📣",
+        "word_ids": [
+          "marketing",
+          "advertise",
+          "campaign",
+          "promote",
+          "sell",
+          "trend",
+          "social_media",
+          "content",
+          "influencer",
+          "audience",
+          "feedback",
+          "competitor",
+          "quality",
+          "free_sample"
+        ],
+        "image": "lessons/business_5.webp"
+      },
+      {
+        "id": "business_6",
+        "title_en": "Import & Export",
+        "title_th": "ค้าขายทั่วโลก",
+        "emoji": "🚢",
+        "word_ids": [
+          "expand",
+          "branch",
+          "export",
+          "import",
+          "wholesale",
+          "retail",
+          "supplier",
+          "factory",
+          "warehouse",
+          "stock",
+          "shipment",
+          "demand",
+          "supply",
+          "global"
+        ],
+        "image": "lessons/business_6.webp"
+      },
+      {
+        "id": "business_7",
+        "title_en": "Boss Level: CEO",
+        "title_th": "สู่เส้นทางซีอีโอ",
+        "emoji": "🌟",
+        "word_ids": [
+          "ceo",
+          "leader",
+          "vision",
+          "mission",
+          "passion",
+          "effort",
+          "focus",
+          "failure",
+          "succeed",
+          "inspire",
+          "role_model",
+          "charity",
+          "dream_big",
+          "billionaire"
+        ],
+        "image": "lessons/business_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "business",
+      "word": "business",
+      "pos": "noun",
+      "ipa": "/ˈbɪznəs/",
+      "reading_th": "บิส-เนส",
+      "meaning_th": "ธุรกิจ",
+      "emoji": "💼",
+      "example_en": "Her online business is doing really well.",
+      "example_th": "ธุรกิจออนไลน์ของเธอไปได้สวยมาก",
+      "cefr": "A2",
+      "note_th": "ออกเสียงแค่สองพยางค์ \"บิส-เนส\" (ตัว i กลางคำหายไป!) — ทำธุรกิจ = run a business / do business",
+      "distractors": [
+        "busyness",
+        "bonus",
+        "basement"
+      ],
+      "image": "words/business.webp"
+    },
+    {
+      "id": "company",
+      "word": "company",
+      "pos": "noun",
+      "ipa": "/ˈkʌmpəni/",
+      "reading_th": "คัม-พะ-นี่",
+      "meaning_th": "บริษัท",
+      "emoji": "🏢",
+      "example_en": "She started her own company at 25.",
+      "example_th": "เธอเปิดบริษัทของตัวเองตอนอายุ 25",
+      "cefr": "A2",
+      "note_th": "company ยังแปลว่า \"เพื่อนร่วมทาง/การอยู่เป็นเพื่อน\" ได้ด้วย เช่น Thanks for the company (ขอบใจที่อยู่เป็นเพื่อน)",
+      "distractors": [
+        "campaign",
+        "computer",
+        "country"
+      ],
+      "image": "words/company.webp"
+    },
+    {
+      "id": "startup",
+      "word": "startup",
+      "pos": "noun",
+      "ipa": "/ˈstɑːrtʌp/",
+      "reading_th": "สตาร์ท-อัพ",
+      "meaning_th": "สตาร์ทอัพ / ธุรกิจเกิดใหม่",
+      "emoji": "🚀",
+      "example_en": "His startup grew from a tiny room to a big office.",
+      "example_th": "สตาร์ทอัพของเขาโตจากห้องเล็กๆ จนเป็นออฟฟิศใหญ่",
+      "cefr": "B1",
+      "note_th": "start (เริ่ม) + up = ธุรกิจใหม่ที่หวังโตเร็ว — คนไทยพูด \"สตาร์ทอัพ\" ตรงศัพท์เป๊ะ",
+      "distractors": [
+        "start over",
+        "setup",
+        "standup"
+      ],
+      "image": "words/startup.webp"
+    },
+    {
+      "id": "entrepreneur",
+      "word": "entrepreneur",
+      "pos": "noun",
+      "ipa": "/ˌɑːntrəprəˈnɜːr/",
+      "reading_th": "ออน-เทร-เพร-เนอร์",
+      "meaning_th": "ผู้ประกอบการ / เถ้าแก่",
+      "emoji": "🧑‍💼",
+      "example_en": "Young entrepreneurs sell everything online now.",
+      "example_th": "ผู้ประกอบการรุ่นใหม่ขายทุกอย่างผ่านออนไลน์กันหมดแล้ว",
+      "cefr": "B1",
+      "note_th": "คำฝรั่งเศส เน้นพยางค์ท้าย \"ออน-เทร-เพร-เนอร์\" — เถ้าแก่ยุคใหม่ของไทยคือคำนี้เลย",
+      "distractors": [
+        "engineer",
+        "interpreter",
+        "employee"
+      ],
+      "image": "words/entrepreneur.webp"
+    },
+    {
+      "id": "owner",
+      "word": "owner",
+      "pos": "noun",
+      "ipa": "/ˈoʊnər/",
+      "reading_th": "โอน-เนอร์",
+      "meaning_th": "เจ้าของ",
+      "emoji": "🔑",
+      "example_en": "The owner of this cafe is only twenty-two.",
+      "example_th": "เจ้าของคาเฟ่ร้านนี้อายุแค่ยี่สิบสองเอง",
+      "cefr": "A2",
+      "note_th": "own (เป็นเจ้าของ) + er — business owner = เจ้าของกิจการ และ own ยังแปลว่า \"ของตัวเอง\" (my own shop)",
+      "distractors": [
+        "loner",
+        "opener",
+        "order"
+      ],
+      "image": "words/owner.webp"
+    },
+    {
+      "id": "partner",
+      "word": "partner",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrtnər/",
+      "reading_th": "พาร์ท-เนอร์",
+      "meaning_th": "หุ้นส่วน",
+      "emoji": "🤝",
+      "example_en": "I opened the shop with my business partner.",
+      "example_th": "ฉันเปิดร้านกับหุ้นส่วนธุรกิจ",
+      "cefr": "A2",
+      "note_th": "business partner = หุ้นส่วน — partner ยังใช้เรียกคู่ชีวิต/คู่เต้นได้ด้วย ดูบริบท",
+      "distractors": [
+        "painter",
+        "printer",
+        "parent"
+      ],
+      "image": "words/partner.webp"
+    },
+    {
+      "id": "client",
+      "word": "client",
+      "pos": "noun",
+      "ipa": "/ˈklaɪənt/",
+      "reading_th": "ไคล-เอินท์",
+      "meaning_th": "ลูกค้า (แบบธุรกิจ)",
+      "emoji": "🧑‍💼",
+      "example_en": "We meet our biggest client on Monday.",
+      "example_th": "วันจันทร์เรามีนัดลูกค้ารายใหญ่ที่สุด",
+      "cefr": "B1",
+      "note_th": "client = ลูกค้าองค์กร/งานบริการระยะยาว ส่วน customer = ลูกค้าซื้อของทั่วไป — วงการเอเจนซี่ไทยพูด \"ลูกค้า/ไคลเอนต์\" ทั้งคู่",
+      "distractors": [
+        "climate",
+        "clinic",
+        "silent"
+      ],
+      "image": "words/client.webp"
+    },
+    {
+      "id": "product",
+      "word": "product",
+      "pos": "noun",
+      "ipa": "/ˈprɑːdʌkt/",
+      "reading_th": "พรอ-ดัคท์",
+      "meaning_th": "สินค้า / ผลิตภัณฑ์",
+      "emoji": "📦",
+      "example_en": "Our new product sold out in one day.",
+      "example_th": "สินค้าใหม่ของเราขายหมดในวันเดียว",
+      "cefr": "A2",
+      "note_th": "กริยาคือ produce (ผลิต) — สินค้าขายดี = best-selling product และ \"โปรดักส์\" ที่คนไทยพูดคือคำนี้",
+      "distractors": [
+        "project",
+        "produce",
+        "protect"
+      ],
+      "image": "words/product.webp"
+    },
+    {
+      "id": "service",
+      "word": "service",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrvɪs/",
+      "reading_th": "เซอร์-วิส",
+      "meaning_th": "บริการ",
+      "emoji": "🛎️",
+      "example_en": "Good service makes customers come back.",
+      "example_th": "บริการดีทำให้ลูกค้ากลับมาซื้อซ้ำ",
+      "cefr": "A2",
+      "note_th": "ธุรกิจขายของ = products / ธุรกิจขายบริการ = services (ร้านนวด ร้านซัก คาเฟ่) — เซอร์วิสดี = good service ตรงตัว",
+      "distractors": [
+        "surface",
+        "series",
+        "survey"
+      ],
+      "image": "words/service.webp"
+    },
+    {
+      "id": "market",
+      "word": "market",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪt/",
+      "reading_th": "มาร์-เก็ต",
+      "meaning_th": "ตลาด (การค้า)",
+      "emoji": "🌏",
+      "example_en": "The Thai coffee market is growing fast.",
+      "example_th": "ตลาดกาแฟไทยกำลังโตเร็วมาก",
+      "cefr": "A2",
+      "note_th": "market = ทั้งตลาดสดและ \"ตลาด\" เชิงธุรกิจ (กลุ่มคนซื้อ) — เข้าตลาด = enter the market",
+      "distractors": [
+        "margin",
+        "musket",
+        "basket"
+      ],
+      "image": "words/market.webp"
+    },
+    {
+      "id": "launch",
+      "word": "launch",
+      "pos": "verb",
+      "ipa": "/lɔːntʃ/",
+      "reading_th": "ลอนช์",
+      "meaning_th": "เปิดตัว (สินค้า/บริการ)",
+      "emoji": "🚀",
+      "example_en": "We will launch the new app next month.",
+      "example_th": "เดือนหน้าเราจะเปิดตัวแอปใหม่",
+      "cefr": "B1",
+      "note_th": "ออกเสียง \"ลอนช์\" ไม่ใช่ \"ลันช์\" (lunch = ข้าวเที่ยง!) — เปิดตัวสินค้า = launch a product เหมือนปล่อยจรวด",
+      "distractors": [
+        "lunch",
+        "laundry",
+        "branch"
+      ],
+      "image": "words/launch.webp"
+    },
+    {
+      "id": "grow",
+      "word": "grow",
+      "pos": "verb",
+      "ipa": "/ɡroʊ/",
+      "reading_th": "โกรว์",
+      "meaning_th": "เติบโต",
+      "emoji": "🌱",
+      "example_en": "Our small shop grew into three branches.",
+      "example_th": "ร้านเล็กๆ ของเราโตจนมีสามสาขา",
+      "cefr": "A2",
+      "note_th": "grow-grew-grown — ใช้ได้ทั้งต้นไม้โต ธุรกิจโต และเด็กโต (grow up = เติบโตเป็นผู้ใหญ่)",
+      "distractors": [
+        "glow",
+        "grab",
+        "throw"
+      ],
+      "image": "words/grow.webp"
+    },
+    {
+      "id": "risk",
+      "word": "risk",
+      "pos": "noun",
+      "ipa": "/rɪsk/",
+      "reading_th": "ริสค์",
+      "meaning_th": "ความเสี่ยง",
+      "emoji": "⚠️",
+      "example_en": "Every business has some risk.",
+      "example_th": "ทุกธุรกิจมีความเสี่ยงทั้งนั้น",
+      "cefr": "B1",
+      "note_th": "take a risk = กล้าเสี่ยง / high risk, high return = เสี่ยงมากได้มาก ประโยคที่นักลงทุนไทยท่องขึ้นใจ",
+      "distractors": [
+        "rest",
+        "wrist",
+        "risky"
+      ],
+      "image": "words/risk.webp"
+    },
+    {
+      "id": "opportunity",
+      "word": "opportunity",
+      "pos": "noun",
+      "ipa": "/ˌɑːpərˈtuːnəti/",
+      "reading_th": "ออพ-พอร์-ทู-นิ-ตี้",
+      "meaning_th": "โอกาส",
+      "emoji": "🚪",
+      "example_en": "A crisis can be a good opportunity.",
+      "example_th": "วิกฤตอาจกลายเป็นโอกาสที่ดีก็ได้",
+      "cefr": "B1",
+      "note_th": "คำยาวแต่เจอบ่อยมาก — คว้าโอกาส = take the opportunity และ chance ใช้แทนได้ในภาษาพูด",
+      "distractors": [
+        "community",
+        "university",
+        "authority"
+      ],
+      "image": "words/opportunity.webp"
+    },
+    {
+      "id": "money",
+      "word": "money",
+      "pos": "noun",
+      "ipa": "/ˈmʌni/",
+      "reading_th": "มัน-นี่",
+      "meaning_th": "เงิน",
+      "emoji": "💵",
+      "example_en": "Time is money — don't waste it.",
+      "example_th": "เวลาเป็นเงินเป็นทอง อย่าปล่อยทิ้งไป",
+      "cefr": "A1",
+      "note_th": "money นับไม่ได้ ไม่เติม s! (much money ไม่ใช่ many moneys) — หาเงิน = make money / earn money",
+      "distractors": [
+        "monkey",
+        "many",
+        "honey"
+      ],
+      "image": "words/money.webp"
+    },
+    {
+      "id": "income",
+      "word": "income",
+      "pos": "noun",
+      "ipa": "/ˈɪnkʌm/",
+      "reading_th": "อิน-คัม",
+      "meaning_th": "รายได้",
+      "emoji": "📥",
+      "example_en": "Her monthly income comes from two jobs.",
+      "example_th": "รายได้ต่อเดือนของเธอมาจากงานสองที่",
+      "cefr": "B1",
+      "note_th": "in (เข้า) + come (มา) = เงินที่เข้ามา — รายได้เสริม = extra income สิ่งที่ทุกคนอยากมี!",
+      "distractors": [
+        "outcome",
+        "welcome",
+        "become"
+      ],
+      "image": "words/income.webp"
+    },
+    {
+      "id": "expense",
+      "word": "expense",
+      "pos": "noun",
+      "ipa": "/ɪkˈspens/",
+      "reading_th": "อิค-สเปนส์",
+      "meaning_th": "รายจ่าย / ค่าใช้จ่าย",
+      "emoji": "📤",
+      "example_en": "Rent is my biggest expense every month.",
+      "example_th": "ค่าเช่าคือรายจ่ายก้อนใหญ่สุดของฉันทุกเดือน",
+      "cefr": "B1",
+      "note_th": "จำคู่: income (รายรับ) ↔ expense (รายจ่าย) — ทำบัญชีรายรับรายจ่ายคือ track income and expenses",
+      "distractors": [
+        "expensive",
+        "expand",
+        "express"
+      ],
+      "image": "words/expense.webp"
+    },
+    {
+      "id": "profit",
+      "word": "profit",
+      "pos": "noun",
+      "ipa": "/ˈprɑːfɪt/",
+      "reading_th": "พรอ-ฟิท",
+      "meaning_th": "กำไร",
+      "emoji": "📈",
+      "example_en": "We made a small profit in our first year.",
+      "example_th": "ปีแรกเราได้กำไรนิดหน่อย",
+      "cefr": "B1",
+      "note_th": "ได้กำไร = make a profit — สูตรง่ายๆ: รายได้ − ต้นทุน = กำไร และตรงข้ามคือ loss (ขาดทุน)",
+      "distractors": [
+        "profile",
+        "prophet",
+        "product"
+      ],
+      "image": "words/profit.webp"
+    },
+    {
+      "id": "loss",
+      "word": "loss",
+      "pos": "noun",
+      "ipa": "/lɔːs/",
+      "reading_th": "ลอส",
+      "meaning_th": "การขาดทุน",
+      "emoji": "📉",
+      "example_en": "The shop closed after two years of losses.",
+      "example_th": "ร้านปิดตัวหลังขาดทุนมาสองปี",
+      "cefr": "B1",
+      "note_th": "loss (คำนาม ขาดทุน) มาจาก lose (กริยา) — ขาดทุน = make a loss / ขายขาดทุน = sell at a loss",
+      "distractors": [
+        "lose",
+        "boss",
+        "less"
+      ],
+      "image": "words/loss.webp"
+    },
+    {
+      "id": "savings",
+      "word": "savings",
+      "pos": "noun",
+      "ipa": "/ˈseɪvɪŋz/",
+      "reading_th": "เซ-วิ่งส์",
+      "meaning_th": "เงินเก็บ / เงินออม",
+      "emoji": "🐷",
+      "example_en": "I used my savings to open the shop.",
+      "example_th": "ฉันใช้เงินเก็บมาเปิดร้าน",
+      "cefr": "B1",
+      "note_th": "savings มี s เสมอ (เงินออมทั้งก้อน) — บัญชีออมทรัพย์ = savings account และกระปุกหมู = piggy bank",
+      "distractors": [
+        "earnings",
+        "servings",
+        "shavings"
+      ],
+      "image": "words/savings.webp"
+    },
+    {
+      "id": "invest",
+      "word": "invest",
+      "pos": "verb",
+      "ipa": "/ɪnˈvest/",
+      "reading_th": "อิน-เวสท์",
+      "meaning_th": "ลงทุน",
+      "emoji": "🪴",
+      "example_en": "Invest in yourself first — learn new skills.",
+      "example_th": "ลงทุนกับตัวเองก่อน ไปเรียนรู้สกิลใหม่ๆ",
+      "cefr": "B1",
+      "note_th": "invest in + สิ่งที่ลงทุน — นักลงทุน = investor และการลงทุน = investment (คำเตือนคลาสสิก: การลงทุนมีความเสี่ยง!)",
+      "distractors": [
+        "invent",
+        "insect",
+        "infect"
+      ],
+      "image": "words/invest.webp"
+    },
+    {
+      "id": "loan",
+      "word": "loan",
+      "pos": "noun",
+      "ipa": "/loʊn/",
+      "reading_th": "โลน",
+      "meaning_th": "เงินกู้",
+      "emoji": "🏦",
+      "example_en": "She got a loan from the bank to buy equipment.",
+      "example_th": "เธอกู้เงินธนาคารมาซื้ออุปกรณ์",
+      "cefr": "B1",
+      "note_th": "ขอกู้ = take out a loan / ผ่อนคืน = pay back the loan — สินเชื่อบ้านรถที่คนไทยคุ้นคือ home loan / car loan",
+      "distractors": [
+        "lawn",
+        "lone",
+        "loud"
+      ],
+      "image": "words/loan.webp"
+    },
+    {
+      "id": "debt",
+      "word": "debt",
+      "pos": "noun",
+      "ipa": "/det/",
+      "reading_th": "เดท",
+      "meaning_th": "หนี้",
+      "emoji": "⛓️",
+      "example_en": "He worked hard to pay off his debt.",
+      "example_th": "เขาทำงานหนักเพื่อปลดหนี้",
+      "cefr": "B1",
+      "note_th": "ตัว b ไม่ออกเสียง! อ่านว่า \"เดท\" (เหมือนไปเดท 😅) — เป็นหนี้ = be in debt / ปลดหนี้ = pay off debt",
+      "distractors": [
+        "date",
+        "dead",
+        "doubt"
+      ],
+      "image": "words/debt.webp"
+    },
+    {
+      "id": "interest",
+      "word": "interest",
+      "pos": "noun",
+      "ipa": "/ˈɪntrəst/",
+      "reading_th": "อิน-เทรสท์",
+      "meaning_th": "ดอกเบี้ย",
+      "emoji": "🌾",
+      "example_en": "This loan has five percent interest per year.",
+      "example_th": "เงินกู้ก้อนนี้ดอกเบี้ยปีละห้าเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "interest = ดอกเบี้ย และ = ความสนใจ! สองความหมายห่างกันมาก ดูบริบท — อัตราดอกเบี้ย = interest rate",
+      "distractors": [
+        "internet",
+        "interview",
+        "interior"
+      ],
+      "image": "words/interest.webp"
+    },
+    {
+      "id": "tax",
+      "word": "tax",
+      "pos": "noun",
+      "ipa": "/tæks/",
+      "reading_th": "แท็คซ์",
+      "meaning_th": "ภาษี",
+      "emoji": "🧾",
+      "example_en": "Everyone has to pay tax on their income.",
+      "example_th": "ทุกคนต้องเสียภาษีจากรายได้",
+      "cefr": "B1",
+      "note_th": "เสียภาษี = pay tax / ยื่นภาษี = file taxes — VAT 7% ที่เห็นในใบเสร็จไทยคือ value added tax",
+      "distractors": [
+        "taxi",
+        "text",
+        "task"
+      ],
+      "image": "words/tax.webp"
+    },
+    {
+      "id": "bank",
+      "word": "bank",
+      "pos": "noun",
+      "ipa": "/bæŋk/",
+      "reading_th": "แบงค์",
+      "meaning_th": "ธนาคาร",
+      "emoji": "🏦",
+      "example_en": "I need to go to the bank before it closes.",
+      "example_th": "ฉันต้องไปธนาคารก่อนปิดทำการ",
+      "cefr": "A1",
+      "note_th": "\"แบงก์\" ที่คนไทยเรียกทั้งธนาคารและธนบัตรมาจาก bank — bank ยังแปลว่าตลิ่งแม่น้ำ (river bank) ได้ด้วย",
+      "distractors": [
+        "bang",
+        "tank",
+        "blank"
+      ],
+      "image": "words/bank.webp"
+    },
+    {
+      "id": "borrow",
+      "word": "borrow",
+      "pos": "verb",
+      "ipa": "/ˈbɑːroʊ/",
+      "reading_th": "บอ-โรว์",
+      "meaning_th": "ยืม (ขอมา)",
+      "emoji": "🙏",
+      "example_en": "Can I borrow some money until payday?",
+      "example_th": "ขอยืมเงินหน่อยได้ไหม เดี๋ยวเงินเดือนออกคืนให้",
+      "cefr": "A2",
+      "note_th": "จำทิศทาง: borrow = ยืมเข้าหาตัวเรา / lend = ให้คนอื่นยืม — คนไทยสลับสองคำนี้บ่อยที่สุด!",
+      "distractors": [
+        "burrow",
+        "sorrow",
+        "arrow"
+      ],
+      "image": "words/borrow.webp"
+    },
+    {
+      "id": "lend",
+      "word": "lend",
+      "pos": "verb",
+      "ipa": "/lend/",
+      "reading_th": "เลนด์",
+      "meaning_th": "ให้ยืม",
+      "emoji": "🫴",
+      "example_en": "I lent him 500 baht last week.",
+      "example_th": "สัปดาห์ก่อนฉันให้เขายืมไป 500 บาท",
+      "cefr": "A2",
+      "note_th": "lend-lent-lent — lend me... = ให้ฉันยืม... (Lend me your pen = ขอยืมปากกาหน่อย) คู่ตรงข้ามของ borrow",
+      "distractors": [
+        "land",
+        "lens",
+        "blend"
+      ],
+      "image": "words/lend.webp"
+    },
+    {
+      "id": "negotiate",
+      "word": "negotiate",
+      "pos": "verb",
+      "ipa": "/nɪˈɡoʊʃieɪt/",
+      "reading_th": "นิ-โก-ชิ-เอท",
+      "meaning_th": "เจรจาต่อรอง",
+      "emoji": "💬",
+      "example_en": "Let's negotiate a better price.",
+      "example_th": "มาเจรจาต่อรองราคากันหน่อย",
+      "cefr": "B1",
+      "note_th": "negotiate = เจรจาแบบธุรกิจ (จริงจังกว่า bargain ที่ใช้ต่อราคาตลาดนัด) — การเจรจา = negotiation",
+      "distractors": [
+        "nominate",
+        "navigate",
+        "decorate"
+      ],
+      "image": "words/negotiate.webp"
+    },
+    {
+      "id": "deal",
+      "word": "deal",
+      "pos": "noun",
+      "ipa": "/diːl/",
+      "reading_th": "ดีล",
+      "meaning_th": "ข้อตกลง / ดีล",
+      "emoji": "📝",
+      "example_en": "We closed the deal after two meetings.",
+      "example_th": "เราปิดดีลได้หลังประชุมสองรอบ",
+      "cefr": "B1",
+      "note_th": "\"ปิดดีล\" ภาษาธุรกิจไทยตรงศัพท์ = close the deal — Deal! คำเดียว = ตกลง! และ It's a deal = ตามนั้นเลย",
+      "distractors": [
+        "dear",
+        "dial",
+        "feel"
+      ],
+      "image": "words/deal.webp"
+    },
+    {
+      "id": "offer",
+      "word": "offer",
+      "pos": "noun",
+      "ipa": "/ˈɔːfər/",
+      "reading_th": "ออฟ-เฟอร์",
+      "meaning_th": "ข้อเสนอ",
+      "emoji": "📄",
+      "example_en": "They made us a very good offer.",
+      "example_th": "พวกเขายื่นข้อเสนอที่ดีมากให้เรา",
+      "cefr": "B1",
+      "note_th": "ยื่นข้อเสนอ = make an offer — ได้งานใหม่ HR จะส่ง job offer และ \"รับออฟเฟอร์\" ของคนไทยคือ accept the offer",
+      "distractors": [
+        "over",
+        "officer",
+        "often"
+      ],
+      "image": "words/offer.webp"
+    },
+    {
+      "id": "accept",
+      "word": "accept",
+      "pos": "verb",
+      "ipa": "/əkˈsept/",
+      "reading_th": "แอค-เซพท์",
+      "meaning_th": "ตอบรับ / ยอมรับ",
+      "emoji": "✅",
+      "example_en": "We accept your offer — welcome aboard!",
+      "example_th": "เรารับข้อเสนอของคุณ ยินดีต้อนรับ!",
+      "cefr": "A2",
+      "note_th": "ระวังคู่เสียงใกล้: accept (ยอมรับ) กับ except (ยกเว้น) — ปุ่ม Accept ในแอปคือ \"ตกลง/ยอมรับเงื่อนไข\"",
+      "distractors": [
+        "except",
+        "expect",
+        "access"
+      ],
+      "image": "words/accept.webp"
+    },
+    {
+      "id": "refuse",
+      "word": "refuse",
+      "pos": "verb",
+      "ipa": "/rɪˈfjuːz/",
+      "reading_th": "รี-ฟิวส์",
+      "meaning_th": "ปฏิเสธ",
+      "emoji": "🙅",
+      "example_en": "She refused the first offer politely.",
+      "example_th": "เธอปฏิเสธข้อเสนอแรกอย่างสุภาพ",
+      "cefr": "B1",
+      "note_th": "refuse = ปฏิเสธตรงๆ / decline = ปฏิเสธแบบนุ่มนวล — ปฏิเสธอย่างสุภาพ: I'm afraid I have to refuse",
+      "distractors": [
+        "reuse",
+        "refund",
+        "confuse"
+      ],
+      "image": "words/refuse.webp"
+    },
+    {
+      "id": "compromise",
+      "word": "compromise",
+      "pos": "verb",
+      "ipa": "/ˈkɑːmprəmaɪz/",
+      "reading_th": "คอม-โพร-ไมซ์",
+      "meaning_th": "ประนีประนอม / พบกันครึ่งทาง",
+      "emoji": "⚖️",
+      "example_en": "Good partners know when to compromise.",
+      "example_th": "หุ้นส่วนที่ดีรู้ว่าเมื่อไหร่ควรยอมกันคนละครึ่ง",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"คอมโพรไมส์\" ในที่ประชุมตรงศัพท์ — พบกันครึ่งทางอีกวลีคือ meet halfway",
+      "distractors": [
+        "promise",
+        "surprise",
+        "comprise"
+      ],
+      "image": "words/compromise.webp"
+    },
+    {
+      "id": "condition",
+      "word": "condition",
+      "pos": "noun",
+      "ipa": "/kənˈdɪʃən/",
+      "reading_th": "คอน-ดิ-ชั่น",
+      "meaning_th": "เงื่อนไข",
+      "emoji": "📋",
+      "example_en": "I agree, on one condition.",
+      "example_th": "ฉันตกลง แต่มีเงื่อนไขข้อเดียว",
+      "cefr": "B1",
+      "note_th": "on one condition = มีเงื่อนไขหนึ่งข้อ — terms and conditions (ข้อตกลงและเงื่อนไข) ที่เรากด \"ยอมรับ\" โดยไม่อ่านนั่นแหละ 😄",
+      "distractors": [
+        "collection",
+        "connection",
+        "position"
+      ],
+      "image": "words/condition.webp"
+    },
+    {
+      "id": "propose",
+      "word": "propose",
+      "pos": "verb",
+      "ipa": "/prəˈpoʊz/",
+      "reading_th": "โพร-โพส",
+      "meaning_th": "เสนอ (แผน/ไอเดีย)",
+      "emoji": "🙋",
+      "example_en": "I propose we split the cost fifty-fifty.",
+      "example_th": "ผมขอเสนอให้แบ่งค่าใช้จ่ายคนละครึ่ง",
+      "cefr": "B1",
+      "note_th": "propose = เสนอแผนอย่างเป็นทางการ และยังแปลว่า \"ขอแต่งงาน\" ด้วย! (He proposed to her) ดูบริบทดีๆ",
+      "distractors": [
+        "purpose",
+        "suppose",
+        "expose"
+      ],
+      "image": "words/propose.webp"
+    },
+    {
+      "id": "persuade",
+      "word": "persuade",
+      "pos": "verb",
+      "ipa": "/pərˈsweɪd/",
+      "reading_th": "เพอร์-สเวด",
+      "meaning_th": "โน้มน้าวใจ",
+      "emoji": "🗣️",
+      "example_en": "She persuaded the investor to join us.",
+      "example_th": "เธอโน้มน้าวนักลงทุนจนมาร่วมทีมเรา",
+      "cefr": "B1",
+      "note_th": "persuade someone to + กริยา = โน้มน้าวให้ใครทำอะไร — ทักษะทองของนักขายทุกคน",
+      "distractors": [
+        "parade",
+        "pursue",
+        "provide"
+      ],
+      "image": "words/persuade.webp"
+    },
+    {
+      "id": "win_win",
+      "word": "win-win",
+      "pos": "adjective",
+      "ipa": "/ˌwɪn ˈwɪn/",
+      "reading_th": "วิน-วิน",
+      "meaning_th": "ได้ประโยชน์ทั้งสองฝ่าย",
+      "emoji": "🤝",
+      "example_en": "This deal is a win-win for both companies.",
+      "example_th": "ดีลนี้วินวินทั้งสองบริษัทเลย",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"วินวิน\" ติดปากตรงศัพท์เป๊ะ — ตรงข้ามคือ win-lose (มีคนได้คนเสีย)",
+      "distractors": [
+        "win-lose",
+        "twin",
+        "windy"
+      ],
+      "image": "words/win_win.webp"
+    },
+    {
+      "id": "handshake",
+      "word": "handshake",
+      "pos": "noun",
+      "ipa": "/ˈhændʃeɪk/",
+      "reading_th": "แฮนด์-เชค",
+      "meaning_th": "การจับมือ",
+      "emoji": "🤝",
+      "example_en": "They ended the meeting with a firm handshake.",
+      "example_th": "พวกเขาปิดประชุมด้วยการจับมือแน่นๆ",
+      "cefr": "B1",
+      "note_th": "hand + shake (เขย่า) — จับมือแบบมั่นใจ = firm handshake มารยาทธุรกิจสากลที่ฝรั่งให้ความสำคัญมาก",
+      "distractors": [
+        "milkshake",
+        "handmade",
+        "handbag"
+      ],
+      "image": "words/handshake.webp"
+    },
+    {
+      "id": "trust",
+      "word": "trust",
+      "pos": "noun",
+      "ipa": "/trʌst/",
+      "reading_th": "ทรัสท์",
+      "meaning_th": "ความไว้วางใจ",
+      "emoji": "💙",
+      "example_en": "Trust takes years to build and seconds to break.",
+      "example_th": "ความไว้ใจใช้เวลาสร้างเป็นปี แต่พังได้ในไม่กี่วินาที",
+      "cefr": "B1",
+      "note_th": "Trust me! = เชื่อฉันสิ — เป็นกริยาได้ (I trust you) และคำนามได้ (build trust = สร้างความไว้ใจ)",
+      "distractors": [
+        "truth",
+        "toast",
+        "twist"
+      ],
+      "image": "words/trust.webp"
+    },
+    {
+      "id": "promise",
+      "word": "promise",
+      "pos": "verb",
+      "ipa": "/ˈprɑːmɪs/",
+      "reading_th": "พรอ-มิส",
+      "meaning_th": "สัญญา (ให้คำมั่น)",
+      "emoji": "🤙",
+      "example_en": "I promise to deliver on time.",
+      "example_th": "ผมสัญญาว่าจะส่งของตรงเวลา",
+      "cefr": "A2",
+      "note_th": "รักษาสัญญา = keep a promise / ผิดสัญญา = break a promise — ต่างจาก contract ที่เป็นสัญญาบนกระดาษ",
+      "distractors": [
+        "premise",
+        "process",
+        "practice"
+      ],
+      "image": "words/promise.webp"
+    },
+    {
+      "id": "agreement",
+      "word": "agreement",
+      "pos": "noun",
+      "ipa": "/əˈɡriːmənt/",
+      "reading_th": "อะ-กรี-เมนท์",
+      "meaning_th": "ข้อตกลง / สัญญา",
+      "emoji": "📜",
+      "example_en": "Both sides signed the agreement today.",
+      "example_th": "วันนี้ทั้งสองฝ่ายเซ็นข้อตกลงแล้ว",
+      "cefr": "B1",
+      "note_th": "agree (เห็นด้วย) + ment = ข้อตกลง — บรรลุข้อตกลง = reach an agreement เป้าหมายสูงสุดของทุกการเจรจา",
+      "distractors": [
+        "argument",
+        "apartment",
+        "achievement"
+      ],
+      "image": "words/agreement.webp"
+    },
+    {
+      "id": "percent",
+      "word": "percent",
+      "pos": "noun",
+      "ipa": "/pərˈsent/",
+      "reading_th": "เพอร์-เซนต์",
+      "meaning_th": "เปอร์เซ็นต์ / ร้อยละ",
+      "emoji": "💯",
+      "example_en": "Sales grew twenty percent this year.",
+      "example_th": "ยอดขายปีนี้โตยี่สิบเปอร์เซ็นต์",
+      "cefr": "A2",
+      "note_th": "per (ต่อ) + cent (ร้อย) = ต่อร้อย — เขียน 20% อ่านว่า twenty percent และ percentage = อัตราร้อยละ",
+      "distractors": [
+        "present",
+        "parent",
+        "percentage"
+      ],
+      "image": "words/percent.webp"
+    },
+    {
+      "id": "increase",
+      "word": "increase",
+      "pos": "verb",
+      "ipa": "/ɪnˈkriːs/",
+      "reading_th": "อิน-ครีส",
+      "meaning_th": "เพิ่มขึ้น",
+      "emoji": "⬆️",
+      "example_en": "We increased the price by ten baht.",
+      "example_th": "เราขึ้นราคาสิบบาท",
+      "cefr": "B1",
+      "note_th": "จำคู่: increase (เพิ่ม ⬆) ↔ decrease (ลด ⬇) — ขึ้นเสียงเน้นต่างกัน: กริยาเน้นหลัง คำนามเน้นหน้า",
+      "distractors": [
+        "decrease",
+        "in case",
+        "crease"
+      ],
+      "image": "words/increase.webp"
+    },
+    {
+      "id": "decrease",
+      "word": "decrease",
+      "pos": "verb",
+      "ipa": "/dɪˈkriːs/",
+      "reading_th": "ดิ-ครีส",
+      "meaning_th": "ลดลง",
+      "emoji": "⬇️",
+      "example_en": "Costs decreased after we changed supplier.",
+      "example_th": "ต้นทุนลดลงหลังเราเปลี่ยนซัพพลายเออร์",
+      "cefr": "B1",
+      "note_th": "de- นำหน้า = ทิศทางลง — ภาษาพูดใช้ go down ก็ได้ (Prices went down = ราคาลง)",
+      "distractors": [
+        "increase",
+        "release",
+        "disease"
+      ],
+      "image": "words/decrease.webp"
+    },
+    {
+      "id": "double",
+      "word": "double",
+      "pos": "verb",
+      "ipa": "/ˈdʌbəl/",
+      "reading_th": "ดับ-เบิ้ล",
+      "meaning_th": "เพิ่มเป็นสองเท่า",
+      "emoji": "✌️",
+      "example_en": "Our sales doubled in six months.",
+      "example_th": "ยอดขายเราเพิ่มเป็นสองเท่าในหกเดือน",
+      "cefr": "B1",
+      "note_th": "double = ×2 / triple = ×3 — เช็คสองรอบ = double-check และห้องเตียงคู่ = double room ก็ double เดียวกัน",
+      "distractors": [
+        "trouble",
+        "bubble",
+        "couple"
+      ],
+      "image": "words/double.webp"
+    },
+    {
+      "id": "average",
+      "word": "average",
+      "pos": "noun",
+      "ipa": "/ˈævərɪdʒ/",
+      "reading_th": "แอฟ-เวอ-เรจ",
+      "meaning_th": "ค่าเฉลี่ย",
+      "emoji": "➗",
+      "example_en": "On average, we sell fifty cups a day.",
+      "example_th": "โดยเฉลี่ยเราขายได้วันละห้าสิบแก้ว",
+      "cefr": "B1",
+      "note_th": "on average = โดยเฉลี่ย — above average = สูงกว่าค่าเฉลี่ย (คำชม!) / below average = ต่ำกว่าเกณฑ์",
+      "distractors": [
+        "beverage",
+        "coverage",
+        "avenue"
+      ],
+      "image": "words/average.webp"
+    },
+    {
+      "id": "chart",
+      "word": "chart",
+      "pos": "noun",
+      "ipa": "/tʃɑːrt/",
+      "reading_th": "ชาร์ท",
+      "meaning_th": "แผนภูมิ / ชาร์ต",
+      "emoji": "📊",
+      "example_en": "This chart shows our sales by month.",
+      "example_th": "ชาร์ตนี้แสดงยอดขายรายเดือนของเรา",
+      "cefr": "B1",
+      "note_th": "pie chart = แผนภูมิวงกลม / bar chart = แท่ง — เพลงติดชาร์ต ก็ chart เดียวกัน (ตารางอันดับ)",
+      "distractors": [
+        "chat",
+        "cart",
+        "charge"
+      ],
+      "image": "words/chart.webp"
+    },
+    {
+      "id": "graph",
+      "word": "graph",
+      "pos": "noun",
+      "ipa": "/ɡræf/",
+      "reading_th": "กราฟ",
+      "meaning_th": "กราฟ",
+      "emoji": "📈",
+      "example_en": "The graph goes up — good news!",
+      "example_th": "กราฟพุ่งขึ้น ข่าวดี!",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"กราฟ\" ตรงศัพท์ — กราฟขึ้น = the graph goes up / กราฟดิ่ง = the graph drops",
+      "distractors": [
+        "graffiti",
+        "giraffe",
+        "grape"
+      ],
+      "image": "words/graph.webp"
+    },
+    {
+      "id": "data",
+      "word": "data",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtə/",
+      "reading_th": "เด-ต้า",
+      "meaning_th": "ข้อมูล",
+      "emoji": "💾",
+      "example_en": "Good decisions come from good data.",
+      "example_th": "การตัดสินใจที่ดีมาจากข้อมูลที่ดี",
+      "cefr": "B1",
+      "note_th": "ฝรั่งอ่าน \"เด-ต้า\" หรือ \"ดา-ต้า\" ได้ทั้งคู่ — เน็ตมือถือหมดก็พูดว่า I'm out of data",
+      "distractors": [
+        "date",
+        "delta",
+        "diary"
+      ],
+      "image": "words/data.webp"
+    },
+    {
+      "id": "growth",
+      "word": "growth",
+      "pos": "noun",
+      "ipa": "/ɡroʊθ/",
+      "reading_th": "โกรธ",
+      "meaning_th": "การเติบโต",
+      "emoji": "🌳",
+      "example_en": "The company showed strong growth this year.",
+      "example_th": "ปีนี้บริษัทเติบโตอย่างแข็งแกร่ง",
+      "cefr": "B1",
+      "note_th": "grow (กริยา) → growth (คำนาม) — อ่านว่า \"โกรธ\" แต่ไม่ได้โกรธใคร! ธุรกิจชอบคำนี้ที่สุด 😄",
+      "distractors": [
+        "grow",
+        "ghost",
+        "growl"
+      ],
+      "image": "words/growth.webp"
+    },
+    {
+      "id": "target",
+      "word": "target",
+      "pos": "noun",
+      "ipa": "/ˈtɑːrɡɪt/",
+      "reading_th": "ทาร์-เก็ต",
+      "meaning_th": "เป้าหมาย / เป้ายอดขาย",
+      "emoji": "🎯",
+      "example_en": "Our target is one million baht this year.",
+      "example_th": "เป้าของเราปีนี้คือหนึ่งล้านบาท",
+      "cefr": "B1",
+      "note_th": "\"ทำยอดถึงเป้า\" = hit the target / reach the target — กลุ่มลูกค้าเป้าหมาย = target group",
+      "distractors": [
+        "ticket",
+        "tablet",
+        "toilet"
+      ],
+      "image": "words/target.webp"
+    },
+    {
+      "id": "result",
+      "word": "result",
+      "pos": "noun",
+      "ipa": "/rɪˈzʌlt/",
+      "reading_th": "รี-ซัลท์",
+      "meaning_th": "ผลลัพธ์",
+      "emoji": "🏁",
+      "example_en": "Work smart and the results will follow.",
+      "example_th": "ทำงานอย่างฉลาดแล้วผลลัพธ์จะตามมาเอง",
+      "cefr": "A2",
+      "note_th": "as a result = ผลก็คือ... (คำเชื่อมยอดฮิตในการเขียน) — ผลสอบ ผลแข่ง ผลประกอบการ ใช้ result หมด",
+      "distractors": [
+        "insult",
+        "adult",
+        "resort"
+      ],
+      "image": "words/result.webp"
+    },
+    {
+      "id": "compare",
+      "word": "compare",
+      "pos": "verb",
+      "ipa": "/kəmˈper/",
+      "reading_th": "คอม-แพร์",
+      "meaning_th": "เปรียบเทียบ",
+      "emoji": "🆚",
+      "example_en": "Compare prices before you buy.",
+      "example_th": "เปรียบเทียบราคาก่อนซื้อเสมอ",
+      "cefr": "B1",
+      "note_th": "compare A with/to B = เทียบ A กับ B — compared to last year = เทียบกับปีที่แล้ว วลีบังคับในทุกรายงาน",
+      "distractors": [
+        "compete",
+        "prepare",
+        "repair"
+      ],
+      "image": "words/compare.webp"
+    },
+    {
+      "id": "estimate",
+      "word": "estimate",
+      "pos": "verb",
+      "ipa": "/ˈestɪmeɪt/",
+      "reading_th": "เอส-ติ-เมท",
+      "meaning_th": "ประเมิน / กะประมาณ",
+      "emoji": "🤔",
+      "example_en": "I estimate the job will take two weeks.",
+      "example_th": "ผมประเมินว่างานนี้ใช้เวลาสองสัปดาห์",
+      "cefr": "B1",
+      "note_th": "ขอใบเสนอราคาประเมิน = ask for an estimate — ภาษาพูดกะคร่าวๆ ใช้ guess ก็ได้ แต่ estimate ดูโปรกว่า",
+      "distractors": [
+        "eliminate",
+        "intimate",
+        "imitate"
+      ],
+      "image": "words/estimate.webp"
+    },
+    {
+      "id": "calculate",
+      "word": "calculate",
+      "pos": "verb",
+      "ipa": "/ˈkælkjəleɪt/",
+      "reading_th": "แคล-คิว-เลท",
+      "meaning_th": "คำนวณ",
+      "emoji": "🧮",
+      "example_en": "Let me calculate the total cost first.",
+      "example_th": "ขอคำนวณต้นทุนรวมก่อนนะ",
+      "cefr": "B1",
+      "note_th": "เครื่องคิดเลข = calculator มาจากคำนี้ — คิดเลขในใจ = calculate in your head",
+      "distractors": [
+        "circulate",
+        "celebrate",
+        "calendar"
+      ],
+      "image": "words/calculate.webp"
+    },
+    {
+      "id": "marketing",
+      "word": "marketing",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪtɪŋ/",
+      "reading_th": "มาร์-เก็ต-ติ้ง",
+      "meaning_th": "การตลาด",
+      "emoji": "📣",
+      "example_en": "Good marketing tells a good story.",
+      "example_th": "การตลาดที่ดีคือการเล่าเรื่องที่ดี",
+      "cefr": "B1",
+      "note_th": "ทีมการตลาด = marketing team — การตลาดออนไลน์ = digital marketing สายงานสุดฮอตของยุคนี้",
+      "distractors": [
+        "market",
+        "parking",
+        "meeting"
+      ],
+      "image": "words/marketing.webp"
+    },
+    {
+      "id": "advertise",
+      "word": "advertise",
+      "pos": "verb",
+      "ipa": "/ˈædvərtaɪz/",
+      "reading_th": "แอด-เวอร์-ไทซ์",
+      "meaning_th": "โฆษณา",
+      "emoji": "📢",
+      "example_en": "We advertise our shop on social media.",
+      "example_th": "เราโฆษณาร้านผ่านโซเชียลมีเดีย",
+      "cefr": "B1",
+      "note_th": "advertise (กริยา) → advertisement/ad (คำนาม โฆษณา) — \"ยิงแอด\" ของแม่ค้าออนไลน์ไทยคือ run ads นั่นเอง",
+      "distractors": [
+        "advise",
+        "advance",
+        "adverse"
+      ],
+      "image": "words/advertise.webp"
+    },
+    {
+      "id": "campaign",
+      "word": "campaign",
+      "pos": "noun",
+      "ipa": "/kæmˈpeɪn/",
+      "reading_th": "แคม-เพน",
+      "meaning_th": "แคมเปญ",
+      "emoji": "🚩",
+      "example_en": "Our new campaign starts this Friday.",
+      "example_th": "แคมเปญใหม่ของเราเริ่มศุกร์นี้",
+      "cefr": "B1",
+      "note_th": "ตัว g ไม่ออกเสียง อ่านว่า \"แคม-เพน\" — คนไทยพูด \"จัดแคมเปญ\" ตรงศัพท์ = run a campaign",
+      "distractors": [
+        "champagne",
+        "champion",
+        "company"
+      ],
+      "image": "words/campaign.webp"
+    },
+    {
+      "id": "promote",
+      "word": "promote",
+      "pos": "verb",
+      "ipa": "/prəˈmoʊt/",
+      "reading_th": "โพร-โมท",
+      "meaning_th": "โปรโมท / ประชาสัมพันธ์",
+      "emoji": "📡",
+      "example_en": "She promotes her bakery with short videos.",
+      "example_th": "เธอโปรโมทร้านเบเกอรี่ด้วยคลิปสั้น",
+      "cefr": "B1",
+      "note_th": "\"โปรโมท\" ภาษาไทยตรงศัพท์เป๊ะ — promote ยังแปลว่าเลื่อนตำแหน่ง (get promoted) ได้ด้วย บริบทต่างกัน",
+      "distractors": [
+        "remote",
+        "provide",
+        "promise"
+      ],
+      "image": "words/promote.webp"
+    },
+    {
+      "id": "sell",
+      "word": "sell",
+      "pos": "verb",
+      "ipa": "/sel/",
+      "reading_th": "เซล",
+      "meaning_th": "ขาย",
+      "emoji": "🏷️",
+      "example_en": "We sell about a hundred boxes a week.",
+      "example_th": "เราขายได้ประมาณสัปดาห์ละร้อยกล่อง",
+      "cefr": "A1",
+      "note_th": "sell-sold-sold — ขายดีเทน้ำเทท่า = sell like hot cakes / ขายหมดเกลี้ยง = sold out",
+      "distractors": [
+        "sale",
+        "cell",
+        "shell"
+      ],
+      "image": "words/sell.webp"
+    },
+    {
+      "id": "trend",
+      "word": "trend",
+      "pos": "noun",
+      "ipa": "/trend/",
+      "reading_th": "เทรนด์",
+      "meaning_th": "เทรนด์ / กระแส",
+      "emoji": "🔥",
+      "example_en": "Follow the trend, but keep your own style.",
+      "example_th": "ตามเทรนด์ได้ แต่อย่าทิ้งสไตล์ตัวเอง",
+      "cefr": "B1",
+      "note_th": "\"ติดเทรนด์\" ของคนไทย = trending (กำลังเป็นกระแส) — เกาะกระแส = follow the trend",
+      "distractors": [
+        "friend",
+        "trained",
+        "tend"
+      ],
+      "image": "words/trend.webp"
+    },
+    {
+      "id": "social_media",
+      "word": "social media",
+      "pos": "noun",
+      "ipa": "/ˌsoʊʃəl ˈmiːdiə/",
+      "reading_th": "โซ-เชี่ยล-มี-เดีย",
+      "meaning_th": "โซเชียลมีเดีย",
+      "emoji": "📱",
+      "example_en": "Small shops grow fast on social media.",
+      "example_th": "ร้านเล็กๆ โตไวได้ด้วยโซเชียลมีเดีย",
+      "cefr": "A2",
+      "note_th": "คนไทยพูดสั้นๆ ว่า \"โซเชียล\" — ฝรั่งพูดเต็ม social media เสมอ (media เป็นพหูพจน์ของ medium)",
+      "distractors": [
+        "social club",
+        "mass media",
+        "media player"
+      ],
+      "image": "words/social_media.webp"
+    },
+    {
+      "id": "content",
+      "word": "content",
+      "pos": "noun",
+      "ipa": "/ˈkɑːntent/",
+      "reading_th": "คอน-เทนท์",
+      "meaning_th": "คอนเทนต์ / เนื้อหา",
+      "emoji": "🎬",
+      "example_en": "Good content brings new followers every day.",
+      "example_th": "คอนเทนต์ดีๆ ดึงผู้ติดตามใหม่เข้ามาทุกวัน",
+      "cefr": "B1",
+      "note_th": "\"ทำคอนเทนต์\" ภาษาไทยตรงศัพท์ = create content — เน้นพยางค์แรก \"คอน-เทนท์\" (เน้นหลังจะแปลว่า \"พอใจ\"!)",
+      "distractors": [
+        "contest",
+        "context",
+        "contact"
+      ],
+      "image": "words/content.webp"
+    },
+    {
+      "id": "influencer",
+      "word": "influencer",
+      "pos": "noun",
+      "ipa": "/ˈɪnfluənsər/",
+      "reading_th": "อิน-ฟลู-เอน-เซอร์",
+      "meaning_th": "อินฟลูเอนเซอร์",
+      "emoji": "🤳",
+      "example_en": "The influencer reviewed our product for free.",
+      "example_th": "อินฟลูฯ รีวิวสินค้าให้เราฟรีๆ เลย",
+      "cefr": "B1",
+      "note_th": "influence (อิทธิพล) + er = คนที่มีอิทธิพลต่อการซื้อ — คนไทยย่อว่า \"อินฟลูฯ\" อาชีพใหม่ที่มาแรงสุด",
+      "distractors": [
+        "influenza",
+        "insurance",
+        "interviewer"
+      ],
+      "image": "words/influencer.webp"
+    },
+    {
+      "id": "audience",
+      "word": "audience",
+      "pos": "noun",
+      "ipa": "/ˈɔːdiəns/",
+      "reading_th": "ออ-เดี้ยนซ์",
+      "meaning_th": "กลุ่มผู้ชม / กลุ่มเป้าหมาย",
+      "emoji": "👥",
+      "example_en": "Know your audience before you post.",
+      "example_th": "รู้จักกลุ่มผู้ชมก่อนค่อยโพสต์",
+      "cefr": "B1",
+      "note_th": "audience = ผู้ชม/ผู้ฟัง (ในโรงหนัง คอนเสิร์ต หรือบนโซเชียล) — สายการตลาดพูด target audience = กลุ่มเป้าหมาย",
+      "distractors": [
+        "audio",
+        "ambulance",
+        "attendance"
+      ],
+      "image": "words/audience.webp"
+    },
+    {
+      "id": "feedback",
+      "word": "feedback",
+      "pos": "noun",
+      "ipa": "/ˈfiːdbæk/",
+      "reading_th": "ฟีด-แบ็ค",
+      "meaning_th": "ฟีดแบ็ก / เสียงตอบรับ",
+      "emoji": "💬",
+      "example_en": "Customer feedback helps us improve.",
+      "example_th": "ฟีดแบ็กจากลูกค้าช่วยให้เราพัฒนาขึ้น",
+      "cefr": "B1",
+      "note_th": "\"ขอฟีดแบ็กหน่อย\" ภาษาออฟฟิศไทยตรงศัพท์ — นับไม่ได้ ไม่เติม s (some feedback ไม่ใช่ feedbacks!)",
+      "distractors": [
+        "football",
+        "feeding",
+        "flashback"
+      ],
+      "image": "words/feedback.webp"
+    },
+    {
+      "id": "competitor",
+      "word": "competitor",
+      "pos": "noun",
+      "ipa": "/kəmˈpetətər/",
+      "reading_th": "คอม-เพ-ทิ-เตอร์",
+      "meaning_th": "คู่แข่ง (ทางธุรกิจ)",
+      "emoji": "🏁",
+      "example_en": "Study your competitors, then do it better.",
+      "example_th": "ศึกษาคู่แข่ง แล้วทำให้ดีกว่า",
+      "cefr": "B1",
+      "note_th": "compete (แข่งขัน) + or = ผู้แข่ง — การแข่งขัน = competition และสินค้าเจ้าอื่นในตลาดคือ competitors",
+      "distractors": [
+        "computer",
+        "commentator",
+        "calculator"
+      ],
+      "image": "words/competitor.webp"
+    },
+    {
+      "id": "quality",
+      "word": "quality",
+      "pos": "noun",
+      "ipa": "/ˈkwɑːləti/",
+      "reading_th": "ควอ-ลิ-ตี้",
+      "meaning_th": "คุณภาพ",
+      "emoji": "💎",
+      "example_en": "Quality matters more than price.",
+      "example_th": "คุณภาพสำคัญกว่าราคา",
+      "cefr": "A2",
+      "note_th": "จำคู่: quality (คุณภาพ) กับ quantity (ปริมาณ) — ของดีมีคุณภาพ = high quality / ของห่วย = poor quality",
+      "distractors": [
+        "quantity",
+        "equality",
+        "qualify"
+      ],
+      "image": "words/quality.webp"
+    },
+    {
+      "id": "free_sample",
+      "word": "free sample",
+      "pos": "noun",
+      "ipa": "/ˌfriː ˈsæmpəl/",
+      "reading_th": "ฟรี-แซม-เพิ่ล",
+      "meaning_th": "ของแจกให้ลองฟรี",
+      "emoji": "🎁",
+      "example_en": "We gave out free samples at the market.",
+      "example_th": "เราแจกของทดลองฟรีที่ตลาด",
+      "cefr": "B1",
+      "note_th": "sample = ตัวอย่าง — ชิมฟรีหน้าซูเปอร์ฯ คือ free sample กลยุทธ์การขายที่เก่าแก่แต่ได้ผลเสมอ",
+      "distractors": [
+        "free size",
+        "example",
+        "free trial"
+      ],
+      "image": "words/free_sample.webp"
+    },
+    {
+      "id": "expand",
+      "word": "expand",
+      "pos": "verb",
+      "ipa": "/ɪkˈspænd/",
+      "reading_th": "อิค-สแปนด์",
+      "meaning_th": "ขยายกิจการ",
+      "emoji": "🗺️",
+      "example_en": "Next year we plan to expand to Chiang Mai.",
+      "example_th": "ปีหน้าเราวางแผนขยายไปเชียงใหม่",
+      "cefr": "B1",
+      "note_th": "expand = ขยับขยายให้ใหญ่ขึ้น — ขยายสาขา = expand the business / คำนามคือ expansion",
+      "distractors": [
+        "expend",
+        "expect",
+        "explain"
+      ],
+      "image": "words/expand.webp"
+    },
+    {
+      "id": "branch",
+      "word": "branch",
+      "pos": "noun",
+      "ipa": "/bræntʃ/",
+      "reading_th": "บรานช์",
+      "meaning_th": "สาขา",
+      "emoji": "🏪",
+      "example_en": "Our second branch opens next month.",
+      "example_th": "สาขาที่สองของเราเปิดเดือนหน้า",
+      "cefr": "B1",
+      "note_th": "branch เดิมแปลว่า \"กิ่งไม้\" — สาขาร้านก็เหมือนกิ่งที่แตกจากต้น จำง่ายดี! สาขาใหญ่ = main branch",
+      "distractors": [
+        "brunch",
+        "bench",
+        "brand"
+      ],
+      "image": "words/branch.webp"
+    },
+    {
+      "id": "export",
+      "word": "export",
+      "pos": "verb",
+      "ipa": "/ɪkˈspɔːrt/",
+      "reading_th": "เอ็ค-สปอร์ต",
+      "meaning_th": "ส่งออก",
+      "emoji": "🚢",
+      "example_en": "Thailand exports rice all over the world.",
+      "example_th": "ไทยส่งออกข้าวไปทั่วโลก",
+      "cefr": "B1",
+      "note_th": "ex (ออก) + port (ท่าเรือ) = ส่งออก — สินค้าส่งออกดังของไทย: ข้าว ทุเรียน รถยนต์ อาหารทะเล",
+      "distractors": [
+        "import",
+        "expert",
+        "airport"
+      ],
+      "image": "words/export.webp"
+    },
+    {
+      "id": "import",
+      "word": "import",
+      "pos": "verb",
+      "ipa": "/ɪmˈpɔːrt/",
+      "reading_th": "อิม-พอร์ต",
+      "meaning_th": "นำเข้า",
+      "emoji": "🛬",
+      "example_en": "This shop imports snacks from Korea.",
+      "example_th": "ร้านนี้นำเข้าขนมจากเกาหลี",
+      "cefr": "B1",
+      "note_th": "im (เข้า) + port = นำเข้า — ของนำเข้า = imported goods มักราคาแพงกว่าเพราะบวกภาษี",
+      "distractors": [
+        "export",
+        "impact",
+        "report"
+      ],
+      "image": "words/import.webp"
+    },
+    {
+      "id": "wholesale",
+      "word": "wholesale",
+      "pos": "noun",
+      "ipa": "/ˈhoʊlseɪl/",
+      "reading_th": "โฮล-เซล",
+      "meaning_th": "ขายส่ง",
+      "emoji": "📦",
+      "example_en": "Buy wholesale and the price drops a lot.",
+      "example_th": "ซื้อแบบขายส่งราคาถูกลงเยอะเลย",
+      "cefr": "B2",
+      "note_th": "whole (ทั้งหมด) + sale = ขายทีละมากๆ — ตลาดขายส่งดังของไทยคือสำเพ็ง/โบ๊เบ๊ ตรงข้ามกับ retail (ขายปลีก)",
+      "distractors": [
+        "whole grain",
+        "resale",
+        "warehouse"
+      ],
+      "image": "words/wholesale.webp"
+    },
+    {
+      "id": "retail",
+      "word": "retail",
+      "pos": "noun",
+      "ipa": "/ˈriːteɪl/",
+      "reading_th": "รี-เทล",
+      "meaning_th": "ขายปลีก",
+      "emoji": "🛍️",
+      "example_en": "The retail price is double the wholesale price.",
+      "example_th": "ราคาขายปลีกแพงกว่าราคาส่งเท่าตัว",
+      "cefr": "B2",
+      "note_th": "retail = ขายทีละชิ้นให้ผู้บริโภค — ร้านสะดวกซื้อ ห้าง คือธุรกิจ retail และราคาป้าย = retail price",
+      "distractors": [
+        "detail",
+        "rental",
+        "retell"
+      ],
+      "image": "words/retail.webp"
+    },
+    {
+      "id": "supplier",
+      "word": "supplier",
+      "pos": "noun",
+      "ipa": "/səˈplaɪər/",
+      "reading_th": "ซัพ-พลาย-เออร์",
+      "meaning_th": "ซัพพลายเออร์ / ผู้ส่งวัตถุดิบ",
+      "emoji": "🚚",
+      "example_en": "A good supplier always delivers on time.",
+      "example_th": "ซัพพลายเออร์ที่ดีต้องส่งของตรงเวลา",
+      "cefr": "B1",
+      "note_th": "\"ซัพพลายเออร์\" ภาษาธุรกิจไทยตรงศัพท์ — supply (จัดส่ง/จัดหา) + er = ผู้จัดหาของให้ร้านเรา",
+      "distractors": [
+        "supporter",
+        "surprise",
+        "supervisor"
+      ],
+      "image": "words/supplier.webp"
+    },
+    {
+      "id": "factory",
+      "word": "factory",
+      "pos": "noun",
+      "ipa": "/ˈfæktəri/",
+      "reading_th": "แฟค-เทอ-รี่",
+      "meaning_th": "โรงงาน",
+      "emoji": "🏭",
+      "example_en": "Our bags are made in a small factory.",
+      "example_th": "กระเป๋าของเราผลิตจากโรงงานเล็กๆ",
+      "cefr": "A2",
+      "note_th": "ราคาโรงงาน = factory price ถูกกว่าราคาหน้าร้าน — Made in Thailand ก็ออกจาก factory ไทยนี่แหละ",
+      "distractors": [
+        "victory",
+        "history",
+        "battery"
+      ],
+      "image": "words/factory.webp"
+    },
+    {
+      "id": "warehouse",
+      "word": "warehouse",
+      "pos": "noun",
+      "ipa": "/ˈwerhaʊs/",
+      "reading_th": "แวร์-เฮาส์",
+      "meaning_th": "โกดัง / คลังสินค้า",
+      "emoji": "🏬",
+      "example_en": "The warehouse is full before the big sale.",
+      "example_th": "โกดังของเต็มก่อนเซลใหญ่",
+      "cefr": "B2",
+      "note_th": "ware (สินค้า) + house (บ้าน) = บ้านของสินค้า — เซลโกดังแตก = warehouse sale ของถูกจริงเพราะขายจากโกดังตรง",
+      "distractors": [
+        "greenhouse",
+        "wherever",
+        "housework"
+      ],
+      "image": "words/warehouse.webp"
+    },
+    {
+      "id": "stock",
+      "word": "stock",
+      "pos": "noun",
+      "ipa": "/stɑːk/",
+      "reading_th": "สต็อก",
+      "meaning_th": "สต็อกสินค้า",
+      "emoji": "🗃️",
+      "example_en": "Check the stock before taking new orders.",
+      "example_th": "เช็คสต็อกก่อนรับออเดอร์ใหม่",
+      "cefr": "B1",
+      "note_th": "\"เช็คสต็อก ของหมดสต็อก\" แม่ค้าไทยพูดตรงศัพท์ — stock อีกความหมายคือ \"หุ้น\" (stock market = ตลาดหุ้น)",
+      "distractors": [
+        "stick",
+        "shock",
+        "stack"
+      ],
+      "image": "words/stock.webp"
+    },
+    {
+      "id": "shipment",
+      "word": "shipment",
+      "pos": "noun",
+      "ipa": "/ˈʃɪpmənt/",
+      "reading_th": "ชิพ-เมนท์",
+      "meaning_th": "สินค้าที่จัดส่ง / ล็อตส่งของ",
+      "emoji": "🚛",
+      "example_en": "The new shipment arrives on Thursday.",
+      "example_th": "ของล็อตใหม่มาถึงวันพฤหัส",
+      "cefr": "B2",
+      "note_th": "ship (ส่ง) + ment = ของหนึ่งล็อตที่ส่งมา — แม่ค้าพรีออเดอร์ไทยพูด \"รอบส่ง/ล็อต\" คือ shipment",
+      "distractors": [
+        "equipment",
+        "shipping",
+        "moment"
+      ],
+      "image": "words/shipment.webp"
+    },
+    {
+      "id": "demand",
+      "word": "demand",
+      "pos": "noun",
+      "ipa": "/dɪˈmænd/",
+      "reading_th": "ดิ-มานด์",
+      "meaning_th": "ความต้องการซื้อ / ดีมานด์",
+      "emoji": "🙋",
+      "example_en": "Demand for iced coffee is high in summer.",
+      "example_th": "หน้าร้อนดีมานด์กาแฟเย็นสูงมาก",
+      "cefr": "B2",
+      "note_th": "จำคู่เศรษฐศาสตร์: demand (ความต้องการซื้อ) ↔ supply (ของที่มีขาย) — ของขาดตลาด = demand เกิน supply",
+      "distractors": [
+        "command",
+        "diamond",
+        "remand"
+      ],
+      "image": "words/demand.webp"
+    },
+    {
+      "id": "supply",
+      "word": "supply",
+      "pos": "noun",
+      "ipa": "/səˈplaɪ/",
+      "reading_th": "ซัพ-พลาย",
+      "meaning_th": "ปริมาณสินค้า / ซัพพลาย",
+      "emoji": "📊",
+      "example_en": "When supply is low, prices go up.",
+      "example_th": "พอของมีน้อย ราคาก็ขึ้น",
+      "cefr": "B2",
+      "note_th": "supply and demand = อุปทาน-อุปสงค์ กฎเหล็กของทุกตลาด — ทุเรียนต้นฤดูแพงก็เพราะ supply ยังน้อยไง!",
+      "distractors": [
+        "apply",
+        "simply",
+        "supper"
+      ],
+      "image": "words/supply.webp"
+    },
+    {
+      "id": "global",
+      "word": "global",
+      "pos": "adjective",
+      "ipa": "/ˈɡloʊbəl/",
+      "reading_th": "โกล-เบิ่ล",
+      "meaning_th": "ระดับโลก",
+      "emoji": "🌍",
+      "example_en": "Her snack brand went global last year.",
+      "example_th": "แบรนด์ขนมของเธอไปตลาดโลกเมื่อปีที่แล้ว",
+      "cefr": "B1",
+      "note_th": "globe (ลูกโลก) + al = ระดับโลก — go global = บุกตลาดโลก ความฝันของทุกแบรนด์ไทย",
+      "distractors": [
+        "general",
+        "gold",
+        "local"
+      ],
+      "image": "words/global.webp"
+    },
+    {
+      "id": "ceo",
+      "word": "CEO",
+      "pos": "noun",
+      "ipa": "/ˌsiː iː ˈoʊ/",
+      "reading_th": "ซี-อี-โอ",
+      "meaning_th": "ซีอีโอ / ผู้บริหารสูงสุด",
+      "emoji": "👑",
+      "example_en": "The CEO started this company in her garage.",
+      "example_th": "ซีอีโอคนนี้เริ่มบริษัทจากโรงรถของเธอเอง",
+      "cefr": "B1",
+      "note_th": "ย่อจาก Chief Executive Officer — อ่านทีละตัว \"ซี-อี-โอ\" และเจ้าของเพจไทยชอบเรียกตัวเองว่า CEO ตรงศัพท์เลย",
+      "distractors": [
+        "CFO",
+        "DIY",
+        "VIP"
+      ],
+      "image": "words/ceo.webp"
+    },
+    {
+      "id": "leader",
+      "word": "leader",
+      "pos": "noun",
+      "ipa": "/ˈliːdər/",
+      "reading_th": "ลี-เดอร์",
+      "meaning_th": "ผู้นำ",
+      "emoji": "🧭",
+      "example_en": "A good leader listens more than talks.",
+      "example_th": "ผู้นำที่ดีฟังมากกว่าพูด",
+      "cefr": "A2",
+      "note_th": "lead (นำ) + er = ผู้นำ — ภาวะผู้นำ = leadership คำที่ทุกใบสมัครงานอยากเห็น",
+      "distractors": [
+        "ladder",
+        "reader",
+        "lender"
+      ],
+      "image": "words/leader.webp"
+    },
+    {
+      "id": "vision",
+      "word": "vision",
+      "pos": "noun",
+      "ipa": "/ˈvɪʒən/",
+      "reading_th": "วิ-ชั่น",
+      "meaning_th": "วิสัยทัศน์",
+      "emoji": "🔭",
+      "example_en": "Our vision is to make learning fun for everyone.",
+      "example_th": "วิสัยทัศน์ของเราคือทำให้การเรียนสนุกสำหรับทุกคน",
+      "cefr": "B1",
+      "note_th": "\"ผู้บริหารมีวิชั่น\" คนไทยพูดตรงศัพท์ — vision ยังแปลว่าการมองเห็น (สายตา) ได้ด้วย",
+      "distractors": [
+        "version",
+        "division",
+        "decision"
+      ],
+      "image": "words/vision.webp"
+    },
+    {
+      "id": "mission",
+      "word": "mission",
+      "pos": "noun",
+      "ipa": "/ˈmɪʃən/",
+      "reading_th": "มิช-ชั่น",
+      "meaning_th": "พันธกิจ / ภารกิจ",
+      "emoji": "🚩",
+      "example_en": "Our mission this month: open the new branch.",
+      "example_th": "ภารกิจเดือนนี้ของเรา: เปิดสาขาใหม่ให้ได้",
+      "cefr": "B1",
+      "note_th": "จำคู่: vision = ภาพฝันปลายทาง / mission = สิ่งที่ต้องทำเพื่อไปให้ถึง — Mission complete! = ภารกิจสำเร็จ!",
+      "distractors": [
+        "missing",
+        "emission",
+        "musician"
+      ],
+      "image": "words/mission.webp"
+    },
+    {
+      "id": "passion",
+      "word": "passion",
+      "pos": "noun",
+      "ipa": "/ˈpæʃən/",
+      "reading_th": "แพช-ชั่น",
+      "meaning_th": "แพชชั่น / ความหลงใหล",
+      "emoji": "❤️‍🔥",
+      "example_en": "Turn your passion into your business.",
+      "example_th": "เปลี่ยนสิ่งที่หลงใหลให้กลายเป็นธุรกิจ",
+      "cefr": "B1",
+      "note_th": "วัยรุ่นไทยพูด \"มีแพชชั่น\" ตรงศัพท์ — passionate about... = หลงใหลในเรื่อง... ใช้ตอบสัมภาษณ์งานได้เท่มาก",
+      "distractors": [
+        "fashion",
+        "pension",
+        "portion"
+      ],
+      "image": "words/passion.webp"
+    },
+    {
+      "id": "effort",
+      "word": "effort",
+      "pos": "noun",
+      "ipa": "/ˈefərt/",
+      "reading_th": "เอฟ-เฟิร์ต",
+      "meaning_th": "ความพยายาม",
+      "emoji": "💦",
+      "example_en": "Success needs time and effort.",
+      "example_th": "ความสำเร็จต้องใช้เวลาและความพยายาม",
+      "cefr": "B1",
+      "note_th": "ทุ่มเทพยายาม = put in effort — ชมว่าตั้งใจดี: Good effort! (แม้ผลยังไม่สำเร็จก็ชมได้)",
+      "distractors": [
+        "afford",
+        "export",
+        "effect"
+      ],
+      "image": "words/effort.webp"
+    },
+    {
+      "id": "focus",
+      "word": "focus",
+      "pos": "verb",
+      "ipa": "/ˈfoʊkəs/",
+      "reading_th": "โฟ-เคิส",
+      "meaning_th": "โฟกัส / จดจ่อ",
+      "emoji": "🎯",
+      "example_en": "Focus on one thing and do it well.",
+      "example_th": "โฟกัสทีละอย่างแล้วทำให้ดีที่สุด",
+      "cefr": "B1",
+      "note_th": "focus on + สิ่งที่จดจ่อ — \"อย่าหลุดโฟกัส\" = stay focused ใช้ได้ทั้งเรียน ทำงาน และถ่ายรูป (โฟกัสภาพ)",
+      "distractors": [
+        "locus",
+        "bonus",
+        "fossil"
+      ],
+      "image": "words/focus.webp"
+    },
+    {
+      "id": "failure",
+      "word": "failure",
+      "pos": "noun",
+      "ipa": "/ˈfeɪljər/",
+      "reading_th": "เฟล-เยอร์",
+      "meaning_th": "ความล้มเหลว",
+      "emoji": "🌧️",
+      "example_en": "Failure is the first step to success.",
+      "example_th": "ความล้มเหลวคือก้าวแรกสู่ความสำเร็จ",
+      "cefr": "B1",
+      "note_th": "\"งานเฟล/สอบเฟล\" ของวัยรุ่นไทยมาจาก fail (กริยา) — failure คือคำนาม และล้มแล้วลุกคือหัวใจนักธุรกิจ",
+      "distractors": [
+        "fail",
+        "feature",
+        "future"
+      ],
+      "image": "words/failure.webp"
+    },
+    {
+      "id": "succeed",
+      "word": "succeed",
+      "pos": "verb",
+      "ipa": "/səkˈsiːd/",
+      "reading_th": "ซัค-ซี้ด",
+      "meaning_th": "ประสบความสำเร็จ",
+      "emoji": "🏆",
+      "example_en": "If you never quit, you will succeed one day.",
+      "example_th": "ถ้าไม่ยอมแพ้ สักวันก็จะสำเร็จ",
+      "cefr": "B1",
+      "note_th": "ครอบครัวคำ: succeed (กริยา) / success (คำนาม) / successful (คุณศัพท์) — เน้นพยางค์หลังทุกตัว",
+      "distractors": [
+        "success",
+        "exceed",
+        "suggest"
+      ],
+      "image": "words/succeed.webp"
+    },
+    {
+      "id": "inspire",
+      "word": "inspire",
+      "pos": "verb",
+      "ipa": "/ɪnˈspaɪər/",
+      "reading_th": "อิน-สไปร์",
+      "meaning_th": "สร้างแรงบันดาลใจ",
+      "emoji": "✨",
+      "example_en": "Her story inspires young people to start businesses.",
+      "example_th": "เรื่องราวของเธอสร้างแรงบันดาลใจให้คนรุ่นใหม่ทำธุรกิจ",
+      "cefr": "B1",
+      "note_th": "แรงบันดาลใจ = inspiration — คนไทยพูด \"ได้แรงบันดาลใจ/อินสไปร์\" ตรงศัพท์เลย",
+      "distractors": [
+        "expire",
+        "inspect",
+        "install"
+      ],
+      "image": "words/inspire.webp"
+    },
+    {
+      "id": "role_model",
+      "word": "role model",
+      "pos": "noun",
+      "ipa": "/ˈroʊl mɑːdəl/",
+      "reading_th": "โรล-โม-เดิ่ล",
+      "meaning_th": "แบบอย่างที่ดี / ไอดอล",
+      "emoji": "🌟",
+      "example_en": "My mom is my business role model.",
+      "example_th": "แม่คือต้นแบบนักธุรกิจของฉัน",
+      "cefr": "B1",
+      "note_th": "role (บทบาท) + model (แบบ) = คนต้นแบบ — คล้ายที่วัยรุ่นไทยพูดว่า \"ไอดอล\" (idol) นั่นเอง",
+      "distractors": [
+        "supermodel",
+        "remote model",
+        "roll"
+      ],
+      "image": "words/role_model.webp"
+    },
+    {
+      "id": "charity",
+      "word": "charity",
+      "pos": "noun",
+      "ipa": "/ˈtʃerəti/",
+      "reading_th": "แช-ริ-ตี้",
+      "meaning_th": "การกุศล",
+      "emoji": "💝",
+      "example_en": "The company gives ten percent to charity.",
+      "example_th": "บริษัทแบ่งสิบเปอร์เซ็นต์ให้การกุศล",
+      "cefr": "B1",
+      "note_th": "งานการกุศล = charity event — บริจาคเพื่อการกุศล = give to charity ธุรกิจที่ดีต้องแบ่งปันคืนสังคม",
+      "distractors": [
+        "clarity",
+        "cherry",
+        "chair"
+      ],
+      "image": "words/charity.webp"
+    },
+    {
+      "id": "dream_big",
+      "word": "dream big",
+      "pos": "phrase",
+      "ipa": "/ˌdriːm ˈbɪɡ/",
+      "reading_th": "ดรีม-บิ๊ก",
+      "meaning_th": "ฝันให้ใหญ่",
+      "emoji": "🌈",
+      "example_en": "Dream big, start small, act now.",
+      "example_th": "ฝันให้ใหญ่ เริ่มจากเล็กๆ แล้วลงมือเลย",
+      "cefr": "A2",
+      "note_th": "คำคมสากลของนักฝัน: Dream big! — ต่อท้ายว่า start small (เริ่มเล็กๆ) act now (ทำเดี๋ยวนี้) ครบสูตรสำเร็จ",
+      "distractors": [
+        "dream job",
+        "big deal",
+        "daydream"
+      ],
+      "image": "words/dream_big.webp"
+    },
+    {
+      "id": "billionaire",
+      "word": "billionaire",
+      "pos": "noun",
+      "ipa": "/ˌbɪljəˈner/",
+      "reading_th": "บิล-เลี่ยน-แนร์",
+      "meaning_th": "มหาเศรษฐีพันล้าน",
+      "emoji": "💰",
+      "example_en": "Every billionaire started with a first small step.",
+      "example_th": "มหาเศรษฐีทุกคนเริ่มจากก้าวเล็กๆ ก้าวแรกทั้งนั้น",
+      "cefr": "B1",
+      "note_th": "million (ล้าน) → millionaire / billion (พันล้าน) → billionaire — ระวัง billion ของอังกฤษ-อเมริกาคือ \"พันล้าน\" ไม่ใช่ \"ล้านล้าน\"",
+      "distractors": [
+        "millionaire",
+        "billiards",
+        "brilliant"
+      ],
+      "image": "words/billionaire.webp"
+    }
+  ]
+}

@@ -101,13 +101,13 @@
     },
     {
       "id": "business",
-      "file": null,
+      "file": "business.json",
       "name_en": "Business",
       "name_th": "ธุรกิจ",
       "emoji": "📈",
       "color_start": "#FBBF24",
       "color_end": "#D97706",
-      "available": false,
+      "available": true,
       "image": "worlds/business.webp"
     }
   ]
