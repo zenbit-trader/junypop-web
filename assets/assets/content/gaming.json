@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "gaming",
+    "name_en": "Gaming",
+    "name_th": "เกมมิ่ง",
+    "emoji": "🎮",
+    "color_start": "#818CF8",
+    "color_end": "#4F46E5",
+    "description_th": "ศัพท์เกมเมอร์ตั้งแต่กด Start สู้บอส จนถึงสตรีมและแชทกับคนทั้งโลก",
+    "mascot_costume": "gamer",
+    "lessons": [
+      {
+        "id": "gaming_1",
+        "title_en": "Press Start",
+        "title_th": "กดสตาร์ทลุยเลย",
+        "emoji": "🎮",
+        "word_ids": [
+          "game",
+          "play",
+          "gamer",
+          "player",
+          "console",
+          "controller",
+          "joystick",
+          "button",
+          "press",
+          "start",
+          "pause",
+          "restart",
+          "quit",
+          "fun"
+        ],
+        "image": "lessons/gaming_1.webp"
+      },
+      {
+        "id": "gaming_2",
+        "title_en": "Game Genres",
+        "title_th": "เลือกแนวเกม",
+        "emoji": "🕹️",
+        "word_ids": [
+          "genre",
+          "action",
+          "racing",
+          "puzzle",
+          "shooting_game",
+          "horror",
+          "sports_game",
+          "strategy",
+          "role_playing",
+          "simulation",
+          "arcade",
+          "board_game",
+          "casual",
+          "mobile_game"
+        ],
+        "image": "lessons/gaming_2.webp"
+      },
+      {
+        "id": "gaming_3",
+        "title_en": "In the Game World",
+        "title_th": "โลกในเกม",
+        "emoji": "⚔️",
+        "word_ids": [
+          "character",
+          "hero",
+          "monster",
+          "enemy",
+          "weapon",
+          "sword",
+          "shield",
+          "armor",
+          "magic",
+          "potion",
+          "quest",
+          "dungeon",
+          "treasure",
+          "item"
+        ],
+        "image": "lessons/gaming_3.webp"
+      },
+      {
+        "id": "gaming_4",
+        "title_en": "Compete & Win",
+        "title_th": "สู้เพื่อชัยชนะ",
+        "emoji": "🏆",
+        "word_ids": [
+          "win",
+          "lose",
+          "victory",
+          "defeat",
+          "challenge",
+          "opponent",
+          "rank",
+          "tournament",
+          "champion",
+          "prize",
+          "high_score",
+          "level_up",
+          "practice",
+          "improve"
+        ],
+        "image": "lessons/gaming_4.webp"
+      },
+      {
+        "id": "gaming_5",
+        "title_en": "Online Gaming",
+        "title_th": "เล่นออนไลน์",
+        "emoji": "🌐",
+        "word_ids": [
+          "online",
+          "offline",
+          "download",
+          "install",
+          "update",
+          "server",
+          "lag",
+          "connection",
+          "account",
+          "login",
+          "username",
+          "avatar",
+          "match",
+          "teammate"
+        ],
+        "image": "lessons/gaming_5.webp"
+      },
+      {
+        "id": "gaming_6",
+        "title_en": "Stream & Chat",
+        "title_th": "สตรีมและแชท",
+        "emoji": "📺",
+        "word_ids": [
+          "stream",
+          "streamer",
+          "live",
+          "viewer",
+          "chat",
+          "comment",
+          "follower",
+          "subscribe",
+          "channel",
+          "clip",
+          "highlight",
+          "donate",
+          "emote",
+          "go_viral"
+        ],
+        "image": "lessons/gaming_6.webp"
+      },
+      {
+        "id": "gaming_7",
+        "title_en": "True Gamer",
+        "title_th": "เกมเมอร์ตัวจริง",
+        "emoji": "🎯",
+        "word_ids": [
+          "game_over",
+          "try_again",
+          "give_up",
+          "cheat",
+          "fair_play",
+          "respect",
+          "cooperate",
+          "addicted",
+          "screen_time",
+          "take_a_break",
+          "balance",
+          "stretch",
+          "well_played",
+          "have_fun"
+        ],
+        "image": "lessons/gaming_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "game",
+      "word": "game",
+      "pos": "noun",
+      "ipa": "/ɡeɪm/",
+      "reading_th": "เกม",
+      "meaning_th": "เกม",
+      "emoji": "🎮",
+      "example_en": "Let's play a game after dinner.",
+      "example_th": "กินข้าวเสร็จมาเล่นเกมกันเถอะ",
+      "cefr": "A1",
+      "note_th": "เล่นเกม = play a game (ใช้ play เสมอ ไม่พูด let's game) และ game ยังแปลว่า \"การแข่งขัน\" ได้ เช่น a football game",
+      "distractors": [
+        "gum",
+        "gate",
+        "fame"
+      ],
+      "image": "words/game.webp"
+    },
+    {
+      "id": "play",
+      "word": "play",
+      "pos": "verb",
+      "ipa": "/pleɪ/",
+      "reading_th": "เพลย์",
+      "meaning_th": "เล่น",
+      "emoji": "▶️",
+      "example_en": "I play games with my friends every night.",
+      "example_th": "ฉันเล่นเกมกับเพื่อนทุกคืน",
+      "cefr": "A1",
+      "note_th": "play ใช้ได้กับเกม กีฬา และดนตรี (play games / play football / play guitar) — ปุ่ม ▶ ในทุกแอปก็คือ Play",
+      "distractors": [
+        "pray",
+        "plan",
+        "place"
+      ],
+      "image": "words/play.webp"
+    },
+    {
+      "id": "gamer",
+      "word": "gamer",
+      "pos": "noun",
+      "ipa": "/ˈɡeɪmər/",
+      "reading_th": "เก-เมอร์",
+      "meaning_th": "เกมเมอร์ / คนเล่นเกม",
+      "emoji": "🧑‍💻",
+      "example_en": "My sister is a serious gamer.",
+      "example_th": "พี่สาวฉันเป็นเกมเมอร์ตัวจริง",
+      "cefr": "A2",
+      "note_th": "เติม -er ท้ายคำ = คนที่ทำสิ่งนั้น: game→gamer, stream→streamer, play→player สูตรเดียวได้ศัพท์เพียบ",
+      "distractors": [
+        "farmer",
+        "gambler",
+        "camera"
+      ],
+      "image": "words/gamer.webp"
+    },
+    {
+      "id": "player",
+      "word": "player",
+      "pos": "noun",
+      "ipa": "/ˈpleɪər/",
+      "reading_th": "เพลย์-เยอร์",
+      "meaning_th": "ผู้เล่น",
+      "emoji": "🕺",
+      "example_en": "This game supports up to four players.",
+      "example_th": "เกมนี้เล่นได้สูงสุดสี่คน",
+      "cefr": "A1",
+      "note_th": "single-player = เล่นคนเดียว / multiplayer = เล่นหลายคน — นักฟุตบอลก็เรียก player เหมือนกัน",
+      "distractors": [
+        "prayer",
+        "plumber",
+        "painter"
+      ],
+      "image": "words/player.webp"
+    },
+    {
+      "id": "console",
+      "word": "console",
+      "pos": "noun",
+      "ipa": "/ˈkɑːnsoʊl/",
+      "reading_th": "คอน-โซล",
+      "meaning_th": "เครื่องเล่นเกม",
+      "emoji": "🕹️",
+      "example_en": "He saved money for a new game console.",
+      "example_th": "เขาเก็บเงินซื้อเครื่องเกมใหม่",
+      "cefr": "B1",
+      "note_th": "console = เครื่องเกมอย่าง PlayStation / Switch / Xbox — เน้นพยางค์แรก \"คอน-โซล\" สายคอมเรียก PC สายเครื่องเรียก console",
+      "distractors": [
+        "control",
+        "counsel",
+        "consult"
+      ],
+      "image": "words/console.webp"
+    },
+    {
+      "id": "controller",
+      "word": "controller",
+      "pos": "noun",
+      "ipa": "/kənˈtroʊlər/",
+      "reading_th": "คอน-โทรล-เลอร์",
+      "meaning_th": "จอยเกม",
+      "emoji": "🎮",
+      "example_en": "My controller ran out of battery.",
+      "example_th": "จอยของฉันแบตหมด",
+      "cefr": "A2",
+      "note_th": "\"จอย\" ที่คนไทยเรียกมาจาก joystick แต่ฝรั่งเรียกจอยเกมว่า controller — จำไว้ตอนไปซื้อที่ต่างประเทศ!",
+      "distractors": [
+        "container",
+        "computer",
+        "conductor"
+      ],
+      "image": "words/controller.webp"
+    },
+    {
+      "id": "joystick",
+      "word": "joystick",
+      "pos": "noun",
+      "ipa": "/ˈdʒɔɪstɪk/",
+      "reading_th": "จอย-สติ๊ค",
+      "meaning_th": "จอยสติ๊ก / คันโยก",
+      "emoji": "🕹️",
+      "example_en": "Use the joystick to move your character.",
+      "example_th": "ใช้จอยสติ๊กบังคับตัวละคร",
+      "cefr": "B1",
+      "note_th": "joystick = คันโยกบนจอยหรือตู้เกม — ที่มาของคำว่า \"จอย\" ในภาษาไทยนั่นเอง (joy = ความสนุก + stick = แท่ง)",
+      "distractors": [
+        "lipstick",
+        "chopstick",
+        "drumstick"
+      ],
+      "image": "words/joystick.webp"
+    },
+    {
+      "id": "button",
+      "word": "button",
+      "pos": "noun",
+      "ipa": "/ˈbʌtən/",
+      "reading_th": "บัท-เทิ่น",
+      "meaning_th": "ปุ่ม",
+      "emoji": "🔘",
+      "example_en": "Press the A button to jump.",
+      "example_th": "กดปุ่ม A เพื่อกระโดด",
+      "cefr": "A1",
+      "note_th": "กดปุ่ม = press a button (ส่วน click ใช้กับเมาส์) — button ยังแปลว่ากระดุมเสื้อได้ด้วย",
+      "distractors": [
+        "bottom",
+        "baton",
+        "cotton"
+      ],
+      "image": "words/button.webp"
+    },
+    {
+      "id": "press",
+      "word": "press",
+      "pos": "verb",
+      "ipa": "/pres/",
+      "reading_th": "เพรส",
+      "meaning_th": "กด",
+      "emoji": "👇",
+      "example_en": "Press any button to start.",
+      "example_th": "กดปุ่มใดก็ได้เพื่อเริ่มเกม",
+      "cefr": "A2",
+      "note_th": "Press any button/key = ประโยคเปิดเกมสุดคลาสสิก — press ยังแปลว่า \"สื่อมวลชน\" ได้ด้วย ดูบริบท",
+      "distractors": [
+        "dress",
+        "price",
+        "praise"
+      ],
+      "image": "words/press.webp"
+    },
+    {
+      "id": "start",
+      "word": "start",
+      "pos": "verb",
+      "ipa": "/stɑːrt/",
+      "reading_th": "สตาร์ท",
+      "meaning_th": "เริ่ม",
+      "emoji": "🚀",
+      "example_en": "Press start to begin a new game.",
+      "example_th": "กด Start เพื่อเริ่มเกมใหม่",
+      "cefr": "A1",
+      "note_th": "start = begin ใช้แทนกันได้ — คนไทยพูด \"สตาร์ทรถ\" ก็คำเดียวกันนี้เลย",
+      "distractors": [
+        "smart",
+        "star",
+        "stark"
+      ],
+      "image": "words/start.webp"
+    },
+    {
+      "id": "pause",
+      "word": "pause",
+      "pos": "verb",
+      "ipa": "/pɔːz/",
+      "reading_th": "พอส",
+      "meaning_th": "หยุดชั่วคราว",
+      "emoji": "⏸️",
+      "example_en": "Pause the game — dinner is ready!",
+      "example_th": "พักเกมก่อน ข้าวเสร็จแล้ว!",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"พอส\" เหมือน paws (อุ้งเท้าสัตว์) — ปุ่ม ⏸ ในทุกแอปคือ pause กด resume เพื่อเล่นต่อ",
+      "distractors": [
+        "pose",
+        "cause",
+        "peace"
+      ],
+      "image": "words/pause.webp"
+    },
+    {
+      "id": "restart",
+      "word": "restart",
+      "pos": "verb",
+      "ipa": "/ˌriːˈstɑːrt/",
+      "reading_th": "รี-สตาร์ท",
+      "meaning_th": "เริ่มใหม่",
+      "emoji": "🔄",
+      "example_en": "I restarted the level to get three stars.",
+      "example_th": "ฉันเริ่มด่านใหม่เพื่อเก็บสามดาว",
+      "cefr": "A2",
+      "note_th": "re + start = เริ่มใหม่ — เติม re- หน้ากริยาได้เพียบ: replay (เล่นซ้ำ) reload (โหลดใหม่) retry (ลองใหม่)",
+      "distractors": [
+        "react",
+        "resort",
+        "rest"
+      ],
+      "image": "words/restart.webp"
+    },
+    {
+      "id": "quit",
+      "word": "quit",
+      "pos": "verb",
+      "ipa": "/kwɪt/",
+      "reading_th": "ควิท",
+      "meaning_th": "ออกจากเกม / เลิก",
+      "emoji": "🚪",
+      "example_en": "Don't quit now — you almost won!",
+      "example_th": "อย่าเพิ่งออกตอนนี้ ใกล้ชนะแล้ว!",
+      "cefr": "A2",
+      "note_th": "ระวังสามคำหน้าคล้าย: quit (ควิท เลิก) / quiet (ไคว-เอิท เงียบ) / quite (ไควท์ ค่อนข้าง) — คนไทยสับสนบ่อยสุด!",
+      "distractors": [
+        "quiet",
+        "quite",
+        "quick"
+      ],
+      "image": "words/quit.webp"
+    },
+    {
+      "id": "fun",
+      "word": "fun",
+      "pos": "noun",
+      "ipa": "/fʌn/",
+      "reading_th": "ฟัน",
+      "meaning_th": "ความสนุก / สนุก",
+      "emoji": "🎉",
+      "example_en": "This game is so much fun!",
+      "example_th": "เกมนี้สนุกสุดๆ ไปเลย!",
+      "cefr": "A1",
+      "note_th": "fun (สนุก) กับ funny (ตลก) คนละความหมาย! เกมสนุก = fun / มุกตลก = funny — ชมเกมว่า funny ฝรั่งจะงง",
+      "distractors": [
+        "funny",
+        "fan",
+        "fund"
+      ],
+      "image": "words/fun.webp"
+    },
+    {
+      "id": "genre",
+      "word": "genre",
+      "pos": "noun",
+      "ipa": "/ˈʒɑːnrə/",
+      "reading_th": "ชอน-เรอะ",
+      "meaning_th": "แนวเกม / ประเภท",
+      "emoji": "🗂️",
+      "example_en": "What genre do you like — action or puzzle?",
+      "example_th": "ชอบเกมแนวไหน แอ็กชันหรือพัซเซิล",
+      "cefr": "B1",
+      "note_th": "คำฝรั่งเศส ออกเสียง \"ชอน-เรอะ\" (ไม่ใช่ เจน-เร!) — ใช้บอกแนวได้ทั้งเกม หนัง และเพลง",
+      "distractors": [
+        "gender",
+        "general",
+        "garage"
+      ],
+      "image": "words/genre.webp"
+    },
+    {
+      "id": "action",
+      "word": "action",
+      "pos": "noun",
+      "ipa": "/ˈækʃən/",
+      "reading_th": "แอ็ค-ชั่น",
+      "meaning_th": "แนวแอ็กชัน / ฉากบู๊",
+      "emoji": "💥",
+      "example_en": "Action games are exciting but tiring.",
+      "example_th": "เกมแอ็กชันมันส์แต่ก็เหนื่อยเอาเรื่อง",
+      "cefr": "A2",
+      "note_th": "action = การกระทำ/ฉากบู๊ — ผู้กำกับหนังตะโกน Action! (เริ่มถ่าย) ก็คำเดียวกันนี้",
+      "distractors": [
+        "auction",
+        "section",
+        "station"
+      ],
+      "image": "words/action.webp"
+    },
+    {
+      "id": "racing",
+      "word": "racing",
+      "pos": "noun",
+      "ipa": "/ˈreɪsɪŋ/",
+      "reading_th": "เร-ซิ่ง",
+      "meaning_th": "แนวแข่งรถ / แข่งความเร็ว",
+      "emoji": "🏎️",
+      "example_en": "We played a racing game for two hours.",
+      "example_th": "เราเล่นเกมแข่งรถกันสองชั่วโมง",
+      "cefr": "A2",
+      "note_th": "race = การแข่งความเร็ว — วิ่งแข่ง = running race / ม้าแข่ง = horse racing ใช้ได้หมด",
+      "distractors": [
+        "rising",
+        "raising",
+        "running"
+      ],
+      "image": "words/racing.webp"
+    },
+    {
+      "id": "puzzle",
+      "word": "puzzle",
+      "pos": "noun",
+      "ipa": "/ˈpʌzəl/",
+      "reading_th": "พัซ-เซิ่ล",
+      "meaning_th": "เกมปริศนา",
+      "emoji": "🧩",
+      "example_en": "Puzzle games make you think.",
+      "example_th": "เกมปริศนาช่วยฝึกสมองให้คิด",
+      "cefr": "A2",
+      "note_th": "จิ๊กซอว์ = jigsaw puzzle — รู้สึกงงๆ ก็พูดได้ว่า I'm puzzled (ฉันงง)",
+      "distractors": [
+        "pizza",
+        "puddle",
+        "muscle"
+      ],
+      "image": "words/puzzle.webp"
+    },
+    {
+      "id": "shooting_game",
+      "word": "shooting game",
+      "pos": "noun",
+      "ipa": "/ˈʃuːtɪŋ ɡeɪm/",
+      "reading_th": "ชู้ต-ติ้ง-เกม",
+      "meaning_th": "เกมยิง",
+      "emoji": "🔫",
+      "example_en": "He is really good at shooting games.",
+      "example_th": "เขาเล่นเกมยิงเก่งมาก",
+      "cefr": "B1",
+      "note_th": "shoot = ยิง — เกมยิงมุมมองบุคคลที่หนึ่งเรียก FPS (first-person shooter) ศัพท์ที่เกมเมอร์ทั่วโลกใช้",
+      "distractors": [
+        "fighting game",
+        "racing game",
+        "shopping game"
+      ],
+      "image": "words/shooting_game.webp"
+    },
+    {
+      "id": "horror",
+      "word": "horror",
+      "pos": "noun",
+      "ipa": "/ˈhɔːrər/",
+      "reading_th": "ฮอร์-เรอร์",
+      "meaning_th": "แนวสยองขวัญ",
+      "emoji": "👻",
+      "example_en": "I can't play horror games alone at night.",
+      "example_th": "เกมผีนี่เล่นคนเดียวตอนกลางคืนไม่ไหวจริงๆ",
+      "cefr": "B1",
+      "note_th": "horror = สยองขวัญ (ใช้กับหนังและเกม) ส่วน \"น่ากลัว\" ทั่วไปคือ scary — เกมผีไทยก็ดังระดับโลกนะ!",
+      "distractors": [
+        "mirror",
+        "honor",
+        "terror"
+      ],
+      "image": "words/horror.webp"
+    },
+    {
+      "id": "sports_game",
+      "word": "sports game",
+      "pos": "noun",
+      "ipa": "/ˈspɔːrts ɡeɪm/",
+      "reading_th": "สปอร์ตส์-เกม",
+      "meaning_th": "เกมกีฬา",
+      "emoji": "⚽",
+      "example_en": "FIFA is the most popular sports game.",
+      "example_th": "ฟีฟ่าคือเกมกีฬาที่ฮิตที่สุด",
+      "cefr": "A2",
+      "note_th": "sports นำหน้าคำนามต้องมี s เสมอ: sports game, sports car, sports shoes — อย่าลืม s!",
+      "distractors": [
+        "board game",
+        "video game",
+        "card game"
+      ],
+      "image": "words/sports_game.webp"
+    },
+    {
+      "id": "strategy",
+      "word": "strategy",
+      "pos": "noun",
+      "ipa": "/ˈstrætədʒi/",
+      "reading_th": "สแตรท-เทอ-จี้",
+      "meaning_th": "แนววางแผน / กลยุทธ์",
+      "emoji": "♟️",
+      "example_en": "Strategy games teach you to plan ahead.",
+      "example_th": "เกมวางแผนสอนให้คิดล่วงหน้า",
+      "cefr": "B1",
+      "note_th": "หมากรุกและเกม MOBA คือเกม strategy — ศัพท์ธุรกิจก็ใช้คำนี้ เช่น marketing strategy (กลยุทธ์การตลาด)",
+      "distractors": [
+        "structure",
+        "mystery",
+        "history"
+      ],
+      "image": "words/strategy.webp"
+    },
+    {
+      "id": "role_playing",
+      "word": "role-playing",
+      "pos": "noun",
+      "ipa": "/ˈroʊl pleɪɪŋ/",
+      "reading_th": "โรล-เพลย์-อิ้ง",
+      "meaning_th": "แนวสวมบทบาท / RPG",
+      "emoji": "🧙",
+      "example_en": "In role-playing games, you become the hero.",
+      "example_th": "ในเกม RPG คุณได้เป็นฮีโร่เสียเอง",
+      "cefr": "B1",
+      "note_th": "ย่อว่า RPG (role-playing game) — role = บทบาท เกมเก็บเลเวลตีมอนสเตอร์สายไทยชอบก็แนวนี้แหละ",
+      "distractors": [
+        "roller skating",
+        "rock climbing",
+        "racing"
+      ],
+      "image": "words/role_playing.webp"
+    },
+    {
+      "id": "simulation",
+      "word": "simulation",
+      "pos": "noun",
+      "ipa": "/ˌsɪmjəˈleɪʃən/",
+      "reading_th": "ซิ-มิว-เล-ชั่น",
+      "meaning_th": "แนวจำลองชีวิต",
+      "emoji": "🚜",
+      "example_en": "Farm simulation games are so relaxing.",
+      "example_th": "เกมจำลองทำฟาร์มเล่นแล้วผ่อนคลายมาก",
+      "cefr": "B1",
+      "note_th": "simulate = จำลอง — The Sims และเกมปลูกผักเลี้ยงสัตว์คือแนว simulation ทั้งนั้น",
+      "distractors": [
+        "situation",
+        "stimulation",
+        "information"
+      ],
+      "image": "words/simulation.webp"
+    },
+    {
+      "id": "arcade",
+      "word": "arcade",
+      "pos": "noun",
+      "ipa": "/ɑːrˈkeɪd/",
+      "reading_th": "อาร์-เขด",
+      "meaning_th": "เกมตู้ / อาร์เคด",
+      "emoji": "🪙",
+      "example_en": "We played arcade games at the mall.",
+      "example_th": "เราเล่นเกมตู้กันที่ห้าง",
+      "cefr": "B1",
+      "note_th": "ตู้เกมหยอดเหรียญตามห้าง = arcade เน้นพยางค์หลัง \"อาร์-เคด\" — ตู้เต้นและตู้จับตุ๊กตาก็อยู่ในโซนนี้",
+      "distractors": [
+        "avocado",
+        "academy",
+        "parade"
+      ],
+      "image": "words/arcade.webp"
+    },
+    {
+      "id": "board_game",
+      "word": "board game",
+      "pos": "noun",
+      "ipa": "/ˈbɔːrd ɡeɪm/",
+      "reading_th": "บอร์ด-เกม",
+      "meaning_th": "บอร์ดเกม / เกมกระดาน",
+      "emoji": "🎲",
+      "example_en": "We play board games when the power is out.",
+      "example_th": "ไฟดับทีไรเราเล่นบอร์ดเกมกัน",
+      "cefr": "A2",
+      "note_th": "board = กระดาน — เกมเศรษฐี บันไดงู หมากรุก คือ board game ทั้งหมด คาเฟ่บอร์ดเกมไทยก็ใช้คำนี้",
+      "distractors": [
+        "card game",
+        "video game",
+        "ball game"
+      ],
+      "image": "words/board_game.webp"
+    },
+    {
+      "id": "casual",
+      "word": "casual",
+      "pos": "adjective",
+      "ipa": "/ˈkæʒuəl/",
+      "reading_th": "แคช-ชวล",
+      "meaning_th": "เล่นง่ายๆ สบายๆ",
+      "emoji": "☕",
+      "example_en": "I only play casual games on my phone.",
+      "example_th": "ฉันเล่นแค่เกมง่ายๆ ในมือถือ",
+      "cefr": "B1",
+      "note_th": "casual = สบายๆ ไม่จริงจัง — ใช้กับเสื้อผ้าได้ด้วย: casual clothes = ชุดลำลอง (ตรงข้าม formal)",
+      "distractors": [
+        "visual",
+        "actual",
+        "usual"
+      ],
+      "image": "words/casual.webp"
+    },
+    {
+      "id": "mobile_game",
+      "word": "mobile game",
+      "pos": "noun",
+      "ipa": "/ˈmoʊbəl ɡeɪm/",
+      "reading_th": "โม-บาย-เกม",
+      "meaning_th": "เกมมือถือ",
+      "emoji": "📱",
+      "example_en": "Thai people love mobile games.",
+      "example_th": "คนไทยชอบเล่นเกมมือถือกันมาก",
+      "cefr": "A2",
+      "note_th": "mobile = เคลื่อนที่ได้ — คนไทยติดอันดับโลกเรื่องเวลาเล่นเกมมือถือ! เกม PC เรียก PC game",
+      "distractors": [
+        "video game",
+        "mobile phone",
+        "board game"
+      ],
+      "image": "words/mobile_game.webp"
+    },
+    {
+      "id": "character",
+      "word": "character",
+      "pos": "noun",
+      "ipa": "/ˈkerəktər/",
+      "reading_th": "แค-เรค-เตอร์",
+      "meaning_th": "ตัวละคร",
+      "emoji": "🧝",
+      "example_en": "Choose your character before the battle.",
+      "example_th": "เลือกตัวละครก่อนเข้าสู้",
+      "cefr": "A2",
+      "note_th": "ch ออกเสียงเป็น k! \"แค-เรค-เตอร์\" เน้นพยางค์แรก — ตัวละครหลัก = main character (มีม \"เป็น main character\" ก็มาจากนี่)",
+      "distractors": [
+        "carrot",
+        "creature",
+        "computer"
+      ],
+      "image": "words/character.webp"
+    },
+    {
+      "id": "hero",
+      "word": "hero",
+      "pos": "noun",
+      "ipa": "/ˈhɪroʊ/",
+      "reading_th": "ฮี-โร่",
+      "meaning_th": "ฮีโร่ / ตัวเอก",
+      "emoji": "🦸",
+      "example_en": "Every game needs a hero.",
+      "example_th": "ทุกเกมต้องมีฮีโร่",
+      "cefr": "A1",
+      "note_th": "hero ใช้ได้ทุกเพศในยุคนี้ (แบบดั้งเดิม: hero ชาย / heroine หญิง) — ในเกม MOBA ตัวละครก็เรียก hero",
+      "distractors": [
+        "zero",
+        "hello",
+        "hair"
+      ],
+      "image": "words/hero.webp"
+    },
+    {
+      "id": "monster",
+      "word": "monster",
+      "pos": "noun",
+      "ipa": "/ˈmɑːnstər/",
+      "reading_th": "มอน-สเตอร์",
+      "meaning_th": "มอนสเตอร์ / สัตว์ประหลาด",
+      "emoji": "👾",
+      "example_en": "A giant monster guards the cave.",
+      "example_th": "มอนสเตอร์ยักษ์เฝ้าถ้ำอยู่",
+      "cefr": "A2",
+      "note_th": "เกมเมอร์ไทยพูด \"ตีมอน เก็บเลเวล\" — มอน ย่อจาก monster ตรงศัพท์อังกฤษเป๊ะ",
+      "distractors": [
+        "minister",
+        "master",
+        "mister"
+      ],
+      "image": "words/monster.webp"
+    },
+    {
+      "id": "enemy",
+      "word": "enemy",
+      "pos": "noun",
+      "ipa": "/ˈenəmi/",
+      "reading_th": "เอ-เนอ-มี่",
+      "meaning_th": "ศัตรู",
+      "emoji": "⚔️",
+      "example_en": "Watch out — enemies are behind you!",
+      "example_th": "ระวัง ศัตรูอยู่ข้างหลัง!",
+      "cefr": "A2",
+      "note_th": "enemy = ศัตรู ↔ ally = พันธมิตร/ฝ่ายเดียวกัน — ระวังเสียงใกล้ energy (พลังงาน)",
+      "distractors": [
+        "energy",
+        "envy",
+        "empty"
+      ],
+      "image": "words/enemy.webp"
+    },
+    {
+      "id": "weapon",
+      "word": "weapon",
+      "pos": "noun",
+      "ipa": "/ˈwepən/",
+      "reading_th": "เว-เพิ่น",
+      "meaning_th": "อาวุธ",
+      "emoji": "🗡️",
+      "example_en": "Upgrade your weapon before the boss fight.",
+      "example_th": "อัปเกรดอาวุธก่อนไปสู้บอส",
+      "cefr": "B1",
+      "note_th": "ea ออกเสียงสั้น \"เว-เพิ่น\" ไม่ใช่ \"วี-พอน\" — อาวุธลับ = secret weapon ใช้เปรียบเทียบในชีวิตจริงได้ด้วย",
+      "distractors": [
+        "wooden",
+        "wagon",
+        "weekend"
+      ],
+      "image": "words/weapon.webp"
+    },
+    {
+      "id": "sword",
+      "word": "sword",
+      "pos": "noun",
+      "ipa": "/sɔːrd/",
+      "reading_th": "ซอร์ด",
+      "meaning_th": "ดาบ",
+      "emoji": "⚔️",
+      "example_en": "The knight fights with a long sword.",
+      "example_th": "อัศวินต่อสู้ด้วยดาบยาว",
+      "cefr": "A2",
+      "note_th": "ตัว w ไม่ออกเสียง! อ่านว่า \"ซอร์ด\" ไม่ใช่ \"สะ-เวิร์ด\" — ข้อผิดคลาสสิกที่คนทั้งโลกพลาดกัน",
+      "distractors": [
+        "word",
+        "ward",
+        "swore"
+      ],
+      "image": "words/sword.webp"
+    },
+    {
+      "id": "shield",
+      "word": "shield",
+      "pos": "noun",
+      "ipa": "/ʃiːld/",
+      "reading_th": "ชีลด์",
+      "meaning_th": "โล่",
+      "emoji": "🛡️",
+      "example_en": "Raise your shield to block the attack.",
+      "example_th": "ยกโล่ขึ้นบล็อกการโจมตี",
+      "cefr": "B1",
+      "note_th": "ไอคอน 🛡 ในเกมคือการป้องกัน — เกมเมอร์ไทยพูด \"ติดชิลด์\" ตรงศัพท์ และ block = บล็อก/กัน",
+      "distractors": [
+        "shelf",
+        "field",
+        "child"
+      ],
+      "image": "words/shield.webp"
+    },
+    {
+      "id": "armor",
+      "word": "armor",
+      "pos": "noun",
+      "ipa": "/ˈɑːrmər/",
+      "reading_th": "อาร์-เมอร์",
+      "meaning_th": "ชุดเกราะ",
+      "emoji": "🦾",
+      "example_en": "Golden armor protects you from fire.",
+      "example_th": "เกราะทองช่วยกันไฟได้",
+      "cefr": "B1",
+      "note_th": "อเมริกาสะกด armor อังกฤษสะกด armour — เกราะในเกมช่วยลด damage (ดาเมจ/ความเสียหาย) ที่ได้รับ",
+      "distractors": [
+        "army",
+        "arm",
+        "mirror"
+      ],
+      "image": "words/armor.webp"
+    },
+    {
+      "id": "magic",
+      "word": "magic",
+      "pos": "noun",
+      "ipa": "/ˈmædʒɪk/",
+      "reading_th": "แม-จิค",
+      "meaning_th": "เวทมนตร์",
+      "emoji": "✨",
+      "example_en": "Use magic to heal your team.",
+      "example_th": "ใช้เวทมนตร์ฮีลให้ทีม",
+      "cefr": "A2",
+      "note_th": "magic = เวทมนตร์/มายากล — นักเวทในเกมเรียก mage หรือ wizard ส่วนนักมายากลคือ magician",
+      "distractors": [
+        "music",
+        "magnet",
+        "tragic"
+      ],
+      "image": "words/magic.webp"
+    },
+    {
+      "id": "potion",
+      "word": "potion",
+      "pos": "noun",
+      "ipa": "/ˈpoʊʃən/",
+      "reading_th": "โพ-ชั่น",
+      "meaning_th": "ยาเพิ่มพลัง / โพชั่น",
+      "emoji": "🧪",
+      "example_en": "Drink a red potion to restore HP.",
+      "example_th": "ดื่มโพชั่นแดงเพื่อฟื้นเลือด",
+      "cefr": "B1",
+      "note_th": "สายเกม RPG คุ้น \"โพชั่น\" ดี — HP = health points (พลังชีวิต/เลือด) และ MP = mana points (พลังเวท)",
+      "distractors": [
+        "portion",
+        "position",
+        "lotion"
+      ],
+      "image": "words/potion.webp"
+    },
+    {
+      "id": "quest",
+      "word": "quest",
+      "pos": "noun",
+      "ipa": "/kwest/",
+      "reading_th": "เควสท์",
+      "meaning_th": "เควสต์ / ภารกิจ",
+      "emoji": "📜",
+      "example_en": "I finished the daily quest already.",
+      "example_th": "ฉันเคลียร์เควสต์รายวันเรียบร้อยแล้ว",
+      "cefr": "B1",
+      "note_th": "เกมเมอร์ไทยพูด \"ทำเควส\" ตรงศัพท์เลย — ภารกิจหลัก = main quest / ภารกิจเสริม = side quest",
+      "distractors": [
+        "question",
+        "guest",
+        "request"
+      ],
+      "image": "words/quest.webp"
+    },
+    {
+      "id": "dungeon",
+      "word": "dungeon",
+      "pos": "noun",
+      "ipa": "/ˈdʌndʒən/",
+      "reading_th": "ดัน-เจี้ยน",
+      "meaning_th": "ดันเจี้ยน / คุกใต้ดิน",
+      "emoji": "🏰",
+      "example_en": "Our team explored the dark dungeon.",
+      "example_th": "ทีมเราบุกดันเจี้ยนอันมืดมิด",
+      "cefr": "B1",
+      "note_th": "\"ตีดัน\" ของเกมเมอร์ไทยย่อมาจาก dungeon นี่แหละ! เดิมแปลว่าคุกใต้ดินของปราสาท",
+      "distractors": [
+        "danger",
+        "dragon",
+        "dustbin"
+      ],
+      "image": "words/dungeon.webp"
+    },
+    {
+      "id": "treasure",
+      "word": "treasure",
+      "pos": "noun",
+      "ipa": "/ˈtreʒər/",
+      "reading_th": "เทร-เชอร์",
+      "meaning_th": "สมบัติ",
+      "emoji": "💎",
+      "example_en": "The treasure chest is full of gold.",
+      "example_th": "หีบสมบัติเต็มไปด้วยทองคำ",
+      "cefr": "A2",
+      "note_th": "หีบสมบัติ = treasure chest — ea ออกเสียงสั้น \"เทร-เชอร์\" และล่าสมบัติ = treasure hunt",
+      "distractors": [
+        "pleasure",
+        "measure",
+        "teacher"
+      ],
+      "image": "words/treasure.webp"
+    },
+    {
+      "id": "item",
+      "word": "item",
+      "pos": "noun",
+      "ipa": "/ˈaɪtəm/",
+      "reading_th": "ไอ-เท็ม",
+      "meaning_th": "ไอเทม / สิ่งของ",
+      "emoji": "🎒",
+      "example_en": "Rare items drop from big bosses.",
+      "example_th": "ไอเทมหายากดรอปจากบอสตัวใหญ่",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"ไอเทม\" ตรงศัพท์เป๊ะ — ของหายาก = rare item และ \"ดรอป\" (ของหล่นจากมอน) ก็คือ drop",
+      "distractors": [
+        "atom",
+        "team",
+        "time"
+      ],
+      "image": "words/item.webp"
+    },
+    {
+      "id": "win",
+      "word": "win",
+      "pos": "verb",
+      "ipa": "/wɪn/",
+      "reading_th": "วิน",
+      "meaning_th": "ชนะ",
+      "emoji": "🥇",
+      "example_en": "We won the match in the last minute!",
+      "example_th": "เราชนะแมตช์ในนาทีสุดท้าย!",
+      "cefr": "A1",
+      "note_th": "win-won-won — ระวัง: ชนะ \"ใคร\" ใช้ beat (I beat my brother) ไม่ใช่ win my brother!",
+      "distractors": [
+        "wine",
+        "when",
+        "wing"
+      ],
+      "image": "words/win.webp"
+    },
+    {
+      "id": "lose",
+      "word": "lose",
+      "pos": "verb",
+      "ipa": "/luːz/",
+      "reading_th": "ลูซ",
+      "meaning_th": "แพ้",
+      "emoji": "😞",
+      "example_en": "It's okay to lose sometimes.",
+      "example_th": "แพ้บ้างบางครั้งก็ไม่เป็นไร",
+      "cefr": "A1",
+      "note_th": "lose (ลูซ แพ้/ทำหาย) กับ loose (ลูส หลวม) สะกดต่างแค่ตัว o เดียว — lose-lost-lost",
+      "distractors": [
+        "loose",
+        "lost",
+        "choose"
+      ],
+      "image": "words/lose.webp"
+    },
+    {
+      "id": "victory",
+      "word": "victory",
+      "pos": "noun",
+      "ipa": "/ˈvɪktəri/",
+      "reading_th": "วิค-เทอ-รี่",
+      "meaning_th": "ชัยชนะ",
+      "emoji": "🏆",
+      "example_en": "Ten wins in a row — what a victory!",
+      "example_th": "ชนะสิบเกมรวด สุดยอดชัยชนะ!",
+      "cefr": "B1",
+      "note_th": "ในเกมชนะจะขึ้นคำว่า Victory! แพ้ขึ้น Defeat — เจอสองคำนี้ทุกจบแมตช์ จำเป็นคู่เลย",
+      "distractors": [
+        "factory",
+        "history",
+        "victim"
+      ],
+      "image": "words/victory.webp"
+    },
+    {
+      "id": "defeat",
+      "word": "defeat",
+      "pos": "verb",
+      "ipa": "/dɪˈfiːt/",
+      "reading_th": "ดิ-ฟีท",
+      "meaning_th": "เอาชนะ / ความพ่ายแพ้",
+      "emoji": "🎖️",
+      "example_en": "Our team finally defeated the last boss.",
+      "example_th": "ในที่สุดทีมเราก็ปราบบอสตัวสุดท้ายได้",
+      "cefr": "B1",
+      "note_th": "defeat เป็นกริยา = เอาชนะ (defeat the boss) และเป็นคำนาม = ความพ่ายแพ้ — ดูตำแหน่งในประโยค",
+      "distractors": [
+        "delete",
+        "debate",
+        "defend"
+      ],
+      "image": "words/defeat.webp"
+    },
+    {
+      "id": "challenge",
+      "word": "challenge",
+      "pos": "noun",
+      "ipa": "/ˈtʃælɪndʒ/",
+      "reading_th": "แชล-เลนจ์",
+      "meaning_th": "ความท้าทาย / คำท้า",
+      "emoji": "🔥",
+      "example_en": "I challenge you to a rematch!",
+      "example_th": "ขอท้ารีแมตช์อีกรอบ!",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"ชาเลนจ์\" ในโซเชียลตรงศัพท์ — งานยากแต่น่าลอง = challenging (ท้าทาย ความหมายเชิงบวก)",
+      "distractors": [
+        "change",
+        "channel",
+        "chance"
+      ],
+      "image": "words/challenge.webp"
+    },
+    {
+      "id": "opponent",
+      "word": "opponent",
+      "pos": "noun",
+      "ipa": "/əˈpoʊnənt/",
+      "reading_th": "อะ-โพ-เนินท์",
+      "meaning_th": "คู่แข่ง / ฝ่ายตรงข้าม",
+      "emoji": "🤺",
+      "example_en": "My opponent is really fast.",
+      "example_th": "คู่แข่งของฉันเล่นไวมาก",
+      "cefr": "B1",
+      "note_th": "opponent = คู่ต่อสู้ในเกม/กีฬา (แข่งกันจบแล้วจบ) ส่วน enemy = ศัตรู (จริงจังกว่า)",
+      "distractors": [
+        "component",
+        "apartment",
+        "appointment"
+      ],
+      "image": "words/opponent.webp"
+    },
+    {
+      "id": "rank",
+      "word": "rank",
+      "pos": "noun",
+      "ipa": "/ræŋk/",
+      "reading_th": "แรงค์",
+      "meaning_th": "แรงค์ / อันดับ",
+      "emoji": "📊",
+      "example_en": "My rank went up to Gold this season.",
+      "example_th": "ซีซั่นนี้แรงค์ฉันขึ้นโกลด์แล้ว",
+      "cefr": "B1",
+      "note_th": "เกมเมอร์ไทยพูด \"ดันแรงค์\" ตรงศัพท์ — ตารางอันดับ = ranking / leaderboard (ลีดเดอร์บอร์ดในเกมนี้ก็มี!)",
+      "distractors": [
+        "rang",
+        "rack",
+        "bank"
+      ],
+      "image": "words/rank.webp"
+    },
+    {
+      "id": "tournament",
+      "word": "tournament",
+      "pos": "noun",
+      "ipa": "/ˈtʊrnəmənt/",
+      "reading_th": "ทัวร์-นา-เมนท์",
+      "meaning_th": "ทัวร์นาเมนต์ / การแข่งขัน",
+      "emoji": "🏟️",
+      "example_en": "Our school held a game tournament.",
+      "example_th": "โรงเรียนเราจัดแข่งเกมทัวร์นาเมนต์",
+      "cefr": "B1",
+      "note_th": "การแข่ง esports ระดับโลกเรียก tournament — ทีมไทยเคยคว้าแชมป์โลกมาแล้วหลายเกม!",
+      "distractors": [
+        "government",
+        "instrument",
+        "apartment"
+      ],
+      "image": "words/tournament.webp"
+    },
+    {
+      "id": "champion",
+      "word": "champion",
+      "pos": "noun",
+      "ipa": "/ˈtʃæmpiən/",
+      "reading_th": "แชม-เปี้ยน",
+      "meaning_th": "แชมป์",
+      "emoji": "👑",
+      "example_en": "Thailand's team became world champion!",
+      "example_th": "ทีมไทยคว้าแชมป์โลกมาครอง!",
+      "cefr": "A2",
+      "note_th": "\"แชมป์\" ที่คนไทยพูดย่อจาก champion — การชิงแชมป์ = championship (เติม -ship)",
+      "distractors": [
+        "campaign",
+        "championship",
+        "shampoo"
+      ],
+      "image": "words/champion.webp"
+    },
+    {
+      "id": "prize",
+      "word": "prize",
+      "pos": "noun",
+      "ipa": "/praɪz/",
+      "reading_th": "ไพรซ์",
+      "meaning_th": "รางวัล",
+      "emoji": "🎁",
+      "example_en": "First prize is a new gaming laptop.",
+      "example_th": "รางวัลที่หนึ่งคือโน้ตบุ๊กเกมมิ่งเครื่องใหม่",
+      "cefr": "A2",
+      "note_th": "prize (รางวัล) ออกเสียงเหมือน price (ราคา) เป๊ะ! ต้องดูบริบท — ได้รางวัล = win a prize",
+      "distractors": [
+        "price",
+        "praise",
+        "pride"
+      ],
+      "image": "words/prize.webp"
+    },
+    {
+      "id": "high_score",
+      "word": "high score",
+      "pos": "noun",
+      "ipa": "/ˌhaɪ ˈskɔːr/",
+      "reading_th": "ไฮ-สกอร์",
+      "meaning_th": "คะแนนสูงสุด",
+      "emoji": "💯",
+      "example_en": "I beat my own high score!",
+      "example_th": "ฉันทำลายสถิติคะแนนสูงสุดของตัวเอง!",
+      "cefr": "A2",
+      "note_th": "score = คะแนน — ทำลายสถิติ = beat the high score / break the record ใช้ beat หรือ break",
+      "distractors": [
+        "high five",
+        "high season",
+        "full score"
+      ],
+      "image": "words/high_score.webp"
+    },
+    {
+      "id": "level_up",
+      "word": "level up",
+      "pos": "phrase",
+      "ipa": "/ˌlevəl ˈʌp/",
+      "reading_th": "เล-เวิ่ล-อัพ",
+      "meaning_th": "เลเวลอัป / อัปเลเวล",
+      "emoji": "⬆️",
+      "example_en": "You need 500 XP to level up.",
+      "example_th": "ต้องเก็บ 500 XP ถึงจะเลเวลอัป",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"อัปเลเวล\" สลับคำนิดเดียว — ชีวิตจริงก็ใช้ได้: Level up your English! (อัปสกิลภาษา!)",
+      "distractors": [
+        "give up",
+        "wake up",
+        "look up"
+      ],
+      "image": "words/level_up.webp"
+    },
+    {
+      "id": "practice",
+      "word": "practice",
+      "pos": "verb",
+      "ipa": "/ˈpræktɪs/",
+      "reading_th": "แพรค-ทิส",
+      "meaning_th": "ฝึกซ้อม",
+      "emoji": "🎯",
+      "example_en": "Practice one hour a day to get better.",
+      "example_th": "ซ้อมวันละชั่วโมงเดี๋ยวก็เก่งเอง",
+      "cefr": "A2",
+      "note_th": "Practice makes perfect = ฝึกบ่อยๆ แล้วจะเก่งเอง — สุภาษิตที่ใช้ได้ทั้งกับเกมและการเรียนภาษา!",
+      "distractors": [
+        "practical",
+        "perfect",
+        "project"
+      ],
+      "image": "words/practice.webp"
+    },
+    {
+      "id": "improve",
+      "word": "improve",
+      "pos": "verb",
+      "ipa": "/ɪmˈpruːv/",
+      "reading_th": "อิม-พรูฟว์",
+      "meaning_th": "เก่งขึ้น / พัฒนา",
+      "emoji": "📈",
+      "example_en": "Your aim has improved a lot!",
+      "example_th": "คุณเล็งแม่นขึ้นเยอะเลย!",
+      "cefr": "B1",
+      "note_th": "improve = ดีขึ้น/พัฒนา คำนามคือ improvement — ชมเพื่อนที่ฝึกจนเก่ง: You've really improved!",
+      "distractors": [
+        "approve",
+        "prove",
+        "remove"
+      ],
+      "image": "words/improve.webp"
+    },
+    {
+      "id": "online",
+      "word": "online",
+      "pos": "adjective",
+      "ipa": "/ˌɑːnˈlaɪn/",
+      "reading_th": "ออน-ไลน์",
+      "meaning_th": "ออนไลน์",
+      "emoji": "🌐",
+      "example_en": "My friends are online — let's play!",
+      "example_th": "เพื่อนออนอยู่พอดี มาเล่นกันเถอะ!",
+      "cefr": "A1",
+      "note_th": "คนไทยพูดสั้นๆ ว่า \"ออน\" (เพื่อนออนอยู่) แต่ฝรั่งพูดเต็มว่า online เสมอ — จุดเขียวในแอปแชท = online",
+      "distractors": [
+        "outline",
+        "offline",
+        "airline"
+      ],
+      "image": "words/online.webp"
+    },
+    {
+      "id": "offline",
+      "word": "offline",
+      "pos": "adjective",
+      "ipa": "/ˌɔːfˈlaɪn/",
+      "reading_th": "ออฟ-ไลน์",
+      "meaning_th": "ออฟไลน์",
+      "emoji": "📴",
+      "example_en": "This game works offline too.",
+      "example_th": "เกมนี้เล่นแบบออฟไลน์ได้ด้วย",
+      "cefr": "A2",
+      "note_th": "off (ปิด) + line — โหมดไม่ใช้เน็ต เล่นบนเครื่องบินได้ และ JUNYPOP ก็เล่นออฟไลน์ได้เหมือนกันนะ!",
+      "distractors": [
+        "online",
+        "outline",
+        "deadline"
+      ],
+      "image": "words/offline.webp"
+    },
+    {
+      "id": "download",
+      "word": "download",
+      "pos": "verb",
+      "ipa": "/ˈdaʊnloʊd/",
+      "reading_th": "ดาวน์-โหลด",
+      "meaning_th": "ดาวน์โหลด",
+      "emoji": "⬇️",
+      "example_en": "The game takes an hour to download.",
+      "example_th": "เกมนี้ใช้เวลาโหลดตั้งชั่วโมง",
+      "cefr": "A1",
+      "note_th": "คนไทยพูด \"โหลดเกม โหลดแอป\" ย่อจาก download — ตรงข้ามคือ upload (อัปโหลด ส่งขึ้นเน็ต)",
+      "distractors": [
+        "upload",
+        "downtown",
+        "reload"
+      ],
+      "image": "words/download.webp"
+    },
+    {
+      "id": "install",
+      "word": "install",
+      "pos": "verb",
+      "ipa": "/ɪnˈstɔːl/",
+      "reading_th": "อิน-สตอล",
+      "meaning_th": "ติดตั้ง",
+      "emoji": "💿",
+      "example_en": "Install the update before playing.",
+      "example_th": "ติดตั้งอัปเดตก่อนเข้าเล่นนะ",
+      "cefr": "A2",
+      "note_th": "install = ลงเกม/ลงแอป — ลบออกจากเครื่อง = uninstall ปุ่มที่เจอทุกวันใน App Store",
+      "distractors": [
+        "instant",
+        "installment",
+        "stall"
+      ],
+      "image": "words/install.webp"
+    },
+    {
+      "id": "update",
+      "word": "update",
+      "pos": "noun",
+      "ipa": "/ˈʌpdeɪt/",
+      "reading_th": "อัพ-เดท",
+      "meaning_th": "อัปเดต",
+      "emoji": "🆕",
+      "example_en": "The new update adds two maps.",
+      "example_th": "อัปเดตใหม่เพิ่มแมพมาสองแมพ",
+      "cefr": "A2",
+      "note_th": "ทับศัพท์ตรงตัว — patch (แพตช์) = อัปเดตย่อยที่แก้บั๊ก ส่วนข่าวคราวล่าสุดก็เรียก update ได้ (any updates?)",
+      "distractors": [
+        "upgrade",
+        "upload",
+        "undo"
+      ],
+      "image": "words/update.webp"
+    },
+    {
+      "id": "server",
+      "word": "server",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrvər/",
+      "reading_th": "เซิร์ฟ-เวอร์",
+      "meaning_th": "เซิร์ฟเวอร์",
+      "emoji": "🖥️",
+      "example_en": "The server is down again!",
+      "example_th": "เซิร์ฟล่มอีกแล้ว!",
+      "cefr": "B1",
+      "note_th": "\"เซิร์ฟล่ม\" = The server is down — ประโยคช้ำใจของเกมเมอร์ทั่วโลก และ server ยังแปลว่าพนักงานเสิร์ฟได้ด้วย",
+      "distractors": [
+        "service",
+        "surfer",
+        "saver"
+      ],
+      "image": "words/server.webp"
+    },
+    {
+      "id": "lag",
+      "word": "lag",
+      "pos": "noun",
+      "ipa": "/læɡ/",
+      "reading_th": "แล็ก",
+      "meaning_th": "อาการแล็ก / หน่วง",
+      "emoji": "🐌",
+      "example_en": "I died because of the lag!",
+      "example_th": "ตายเพราะแล็กแท้ๆ เลย!",
+      "cefr": "B1",
+      "note_th": "เกมเมอร์ไทยพูด \"แล็ก/กระตุก\" ตรงศัพท์ — เน็ตหน่วงเกมเลยแล็ก และ jet lag (เพลียจากบินไกล) ก็ lag เดียวกัน",
+      "distractors": [
+        "leg",
+        "log",
+        "bag"
+      ],
+      "image": "words/lag.webp"
+    },
+    {
+      "id": "connection",
+      "word": "connection",
+      "pos": "noun",
+      "ipa": "/kəˈnekʃən/",
+      "reading_th": "คอน-เนค-ชั่น",
+      "meaning_th": "การเชื่อมต่อ / สัญญาณเน็ต",
+      "emoji": "📶",
+      "example_en": "Check your internet connection first.",
+      "example_th": "เช็คสัญญาณเน็ตก่อนเป็นอันดับแรก",
+      "cefr": "A2",
+      "note_th": "Connection lost = การเชื่อมต่อหลุด (ข้อความสยองกลางแมตช์) — กริยาคือ connect (เชื่อมต่อ)",
+      "distractors": [
+        "correction",
+        "collection",
+        "convention"
+      ],
+      "image": "words/connection.webp"
+    },
+    {
+      "id": "account",
+      "word": "account",
+      "pos": "noun",
+      "ipa": "/əˈkaʊnt/",
+      "reading_th": "แอค-เค้านท์",
+      "meaning_th": "บัญชีผู้ใช้ / แอคเคานต์",
+      "emoji": "👤",
+      "example_en": "Never share your game account.",
+      "example_th": "อย่าแชร์แอคเคานต์เกมให้ใครเด็ดขาด",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"แอค\" (แอคหลุม แอคจริง) ย่อจาก account — สมัครบัญชี = create an account",
+      "distractors": [
+        "amount",
+        "discount",
+        "count"
+      ],
+      "image": "words/account.webp"
+    },
+    {
+      "id": "login",
+      "word": "log in",
+      "pos": "phrase",
+      "ipa": "/ˌlɔːɡ ˈɪn/",
+      "reading_th": "ล็อก-อิน",
+      "meaning_th": "เข้าสู่ระบบ",
+      "emoji": "🔓",
+      "example_en": "Log in with your email and password.",
+      "example_th": "ล็อกอินด้วยอีเมลกับรหัสผ่าน",
+      "cefr": "A2",
+      "note_th": "log in (กริยา เขียนแยก) / login (คำนาม เขียนติด) — ออกจากระบบ = log out และสมัครใหม่ = sign up",
+      "distractors": [
+        "log out",
+        "sign up",
+        "lock in"
+      ],
+      "image": "words/login.webp"
+    },
+    {
+      "id": "username",
+      "word": "username",
+      "pos": "noun",
+      "ipa": "/ˈjuːzərneɪm/",
+      "reading_th": "ยู-เซอร์-เนม",
+      "meaning_th": "ชื่อผู้ใช้",
+      "emoji": "🏷️",
+      "example_en": "My username is JunyPop123.",
+      "example_th": "ชื่อผู้ใช้ของฉันคือ JunyPop123",
+      "cefr": "A2",
+      "note_th": "user (ผู้ใช้) + name (ชื่อ) — ชื่อในเกมอีกคำที่เกมเมอร์ใช้คือ IGN (in-game name)",
+      "distractors": [
+        "nickname",
+        "surname",
+        "password"
+      ],
+      "image": "words/username.webp"
+    },
+    {
+      "id": "avatar",
+      "word": "avatar",
+      "pos": "noun",
+      "ipa": "/ˈævətɑːr/",
+      "reading_th": "แอ-วา-ตาร์",
+      "meaning_th": "อวตาร / ตัวแทนในเกม",
+      "emoji": "🧍",
+      "example_en": "I dressed my avatar in a dino suit.",
+      "example_th": "ฉันจับอวตารใส่ชุดไดโนเสาร์",
+      "cefr": "B1",
+      "note_th": "มาจากคำสันสกฤต \"อวตาร\" ที่ภาษาไทยก็ใช้! — รูปโปรไฟล์ในแอปต่างๆ ก็เรียก avatar ได้",
+      "distractors": [
+        "aviator",
+        "actor",
+        "avocado"
+      ],
+      "image": "words/avatar.webp"
+    },
+    {
+      "id": "match",
+      "word": "match",
+      "pos": "noun",
+      "ipa": "/mætʃ/",
+      "reading_th": "แมทช์",
+      "meaning_th": "แมตช์ / เกมหนึ่งตา",
+      "emoji": "🆚",
+      "example_en": "That was a close match!",
+      "example_th": "แมตช์เมื่อกี้สูสีสุดๆ!",
+      "cefr": "A2",
+      "note_th": "match = การแข่งหนึ่งตา — matchmaking = ระบบจับคู่ผู้เล่นฝีมือใกล้กัน และ match ยังแปลว่า \"เข้ากัน\" ได้ด้วย",
+      "distractors": [
+        "march",
+        "math",
+        "watch"
+      ],
+      "image": "words/match.webp"
+    },
+    {
+      "id": "teammate",
+      "word": "teammate",
+      "pos": "noun",
+      "ipa": "/ˈtiːmmeɪt/",
+      "reading_th": "ทีม-เมท",
+      "meaning_th": "เพื่อนร่วมทีม",
+      "emoji": "🤝",
+      "example_en": "Good teammates always share items.",
+      "example_th": "เพื่อนร่วมทีมที่ดีต้องแบ่งไอเทมกัน",
+      "cefr": "A2",
+      "note_th": "team + mate (เพื่อน) — mate ประกอบคำได้เพียบ: classmate (เพื่อนร่วมห้อง) roommate (รูมเมท)",
+      "distractors": [
+        "roommate",
+        "classmate",
+        "teamwork"
+      ],
+      "image": "words/teammate.webp"
+    },
+    {
+      "id": "stream",
+      "word": "stream",
+      "pos": "verb",
+      "ipa": "/striːm/",
+      "reading_th": "สตรีม",
+      "meaning_th": "สตรีม / ถ่ายทอดสด",
+      "emoji": "📡",
+      "example_en": "She streams her games every Friday night.",
+      "example_th": "เธอสตรีมเกมทุกคืนวันศุกร์",
+      "cefr": "B1",
+      "note_th": "stream เดิมแปลว่า \"ลำธาร\" — ข้อมูลไหลต่อเนื่องเหมือนสายน้ำเลยกลายเป็นคำว่าสตรีม (ดู Netflix ก็คือ streaming)",
+      "distractors": [
+        "steam",
+        "street",
+        "scream"
+      ],
+      "image": "words/stream.webp"
+    },
+    {
+      "id": "streamer",
+      "word": "streamer",
+      "pos": "noun",
+      "ipa": "/ˈstriːmər/",
+      "reading_th": "สตรี-เมอร์",
+      "meaning_th": "สตรีมเมอร์",
+      "emoji": "🎙️",
+      "example_en": "My dream job is to be a game streamer.",
+      "example_th": "อาชีพในฝันของฉันคือสตรีมเมอร์เกม",
+      "cefr": "B1",
+      "note_th": "อาชีพยุคใหม่ที่เด็กไทยใฝ่ฝันติดอันดับ — สตรีมเมอร์ดังของไทยมีคนดูพร้อมกันเป็นแสน!",
+      "distractors": [
+        "dreamer",
+        "swimmer",
+        "printer"
+      ],
+      "image": "words/streamer.webp"
+    },
+    {
+      "id": "live",
+      "word": "live",
+      "pos": "adjective",
+      "ipa": "/laɪv/",
+      "reading_th": "ไลฟ์",
+      "meaning_th": "ถ่ายทอดสด / ไลฟ์",
+      "emoji": "🔴",
+      "example_en": "The tournament is live right now!",
+      "example_th": "ทัวร์นาเมนต์กำลังไลฟ์สดอยู่ตอนนี้!",
+      "cefr": "A2",
+      "note_th": "live มีสองเสียง! \"ไลฟ์\" = สด (live stream) / \"ลิฟว์\" = อาศัยอยู่ (I live in Bangkok) สะกดเหมือนกันเป๊ะ",
+      "distractors": [
+        "life",
+        "love",
+        "leave"
+      ],
+      "image": "words/live.webp"
+    },
+    {
+      "id": "viewer",
+      "word": "viewer",
+      "pos": "noun",
+      "ipa": "/ˈvjuːər/",
+      "reading_th": "วิว-เวอร์",
+      "meaning_th": "ผู้ชม",
+      "emoji": "👀",
+      "example_en": "Her stream has five thousand viewers.",
+      "example_th": "สตรีมของเธอมีผู้ชมห้าพันคน",
+      "cefr": "B1",
+      "note_th": "view (ดู) + er = คนดู — \"ยอดวิว\" ที่คนไทยพูดคือ views ส่วนคนดูคือ viewers",
+      "distractors": [
+        "reviewer",
+        "visitor",
+        "winner"
+      ],
+      "image": "words/viewer.webp"
+    },
+    {
+      "id": "chat",
+      "word": "chat",
+      "pos": "noun",
+      "ipa": "/tʃæt/",
+      "reading_th": "แชท",
+      "meaning_th": "แชท / คุยกัน",
+      "emoji": "💬",
+      "example_en": "Type hello in the chat!",
+      "example_th": "พิมพ์ทักทายในแชทกันหน่อย!",
+      "cefr": "A1",
+      "note_th": "คนไทยพูด \"แชท\" ทุกวันตรงศัพท์เป๊ะ — chat เป็นกริยาได้ด้วย: Let's chat! (มาคุยกัน)",
+      "distractors": [
+        "chart",
+        "cat",
+        "check"
+      ],
+      "image": "words/chat.webp"
+    },
+    {
+      "id": "comment",
+      "word": "comment",
+      "pos": "noun",
+      "ipa": "/ˈkɑːment/",
+      "reading_th": "คอม-เมนท์",
+      "meaning_th": "คอมเมนต์ / ความคิดเห็น",
+      "emoji": "💭",
+      "example_en": "Leave a comment if you like the video.",
+      "example_th": "ถ้าชอบคลิปก็ทิ้งคอมเมนต์ไว้ได้เลย",
+      "cefr": "A2",
+      "note_th": "ทิ้งคอมเมนต์ = leave a comment — \"เมนต์แรก\" ที่ทุกคนแย่งกันคือ first comment 😄",
+      "distractors": [
+        "common",
+        "moment",
+        "command"
+      ],
+      "image": "words/comment.webp"
+    },
+    {
+      "id": "follower",
+      "word": "follower",
+      "pos": "noun",
+      "ipa": "/ˈfɑːloʊər/",
+      "reading_th": "ฟอล-โล-เวอร์",
+      "meaning_th": "ผู้ติดตาม",
+      "emoji": "👥",
+      "example_en": "She just hit one million followers!",
+      "example_th": "เธอเพิ่งมีผู้ติดตามครบหนึ่งล้าน!",
+      "cefr": "A2",
+      "note_th": "follow (ติดตาม) + er — \"ยอดฟอล\" ของวัยรุ่นไทยย่อจาก followers และกดติดตาม = hit the follow button",
+      "distractors": [
+        "flower",
+        "folder",
+        "farmer"
+      ],
+      "image": "words/follower.webp"
+    },
+    {
+      "id": "subscribe",
+      "word": "subscribe",
+      "pos": "verb",
+      "ipa": "/səbˈskraɪb/",
+      "reading_th": "ซับ-สไครบ์",
+      "meaning_th": "กดติดตามช่อง",
+      "emoji": "🔔",
+      "example_en": "Don't forget to subscribe and hit the bell!",
+      "example_th": "อย่าลืมกดซับตามช่องแล้วกดกระดิ่งด้วยนะ!",
+      "cefr": "B1",
+      "note_th": "\"กดซับ\" ของชาวยูทูบไทยย่อจาก subscribe — ผู้ติดตามช่องเรียก subscriber (ซับสไครเบอร์)",
+      "distractors": [
+        "describe",
+        "prescribe",
+        "surprise"
+      ],
+      "image": "words/subscribe.webp"
+    },
+    {
+      "id": "channel",
+      "word": "channel",
+      "pos": "noun",
+      "ipa": "/ˈtʃænəl/",
+      "reading_th": "แชน-แนล",
+      "meaning_th": "ช่อง (ยูทูบ/สตรีม)",
+      "emoji": "📺",
+      "example_en": "His channel has funny game videos.",
+      "example_th": "ช่องของเขามีคลิปเกมฮาๆ เพียบ",
+      "cefr": "A2",
+      "note_th": "ช่องทีวีและช่องยูทูบใช้ channel เหมือนกัน — เปิดช่องของตัวเอง = start a channel",
+      "distractors": [
+        "tunnel",
+        "panel",
+        "camel"
+      ],
+      "image": "words/channel.webp"
+    },
+    {
+      "id": "clip",
+      "word": "clip",
+      "pos": "noun",
+      "ipa": "/klɪp/",
+      "reading_th": "คลิป",
+      "meaning_th": "คลิปวิดีโอ",
+      "emoji": "🎬",
+      "example_en": "Did you see my winning clip?",
+      "example_th": "เห็นคลิปตอนฉันชนะหรือยัง",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"คลิป\" ติดปากอยู่แล้ว — clip เดิมแปลว่า \"ตัด\" คลิปคือวิดีโอที่ตัดมาสั้นๆ นั่นเอง",
+      "distractors": [
+        "clap",
+        "click",
+        "flip"
+      ],
+      "image": "words/clip.webp"
+    },
+    {
+      "id": "highlight",
+      "word": "highlight",
+      "pos": "noun",
+      "ipa": "/ˈhaɪlaɪt/",
+      "reading_th": "ไฮ-ไลท์",
+      "meaning_th": "ช่วงเด็ด / ไฮไลต์",
+      "emoji": "⭐",
+      "example_en": "Watch the highlights of yesterday's final.",
+      "example_th": "ไปดูไฮไลต์นัดชิงเมื่อวานสิ",
+      "cefr": "B1",
+      "note_th": "high + light = จุดที่เด่นที่สุด — ไฮไลต์บอล ไฮไลต์เกม คนไทยใช้ตรงกับฝรั่งเป๊ะ ปากกาเน้นข้อความก็ชื่อ highlighter",
+      "distractors": [
+        "headlight",
+        "height",
+        "twilight"
+      ],
+      "image": "words/highlight.webp"
+    },
+    {
+      "id": "donate",
+      "word": "donate",
+      "pos": "verb",
+      "ipa": "/ˈdoʊneɪt/",
+      "reading_th": "โด-เนท",
+      "meaning_th": "โดเนท / บริจาค",
+      "emoji": "💸",
+      "example_en": "Fans donate to support their favorite streamer.",
+      "example_th": "แฟนๆ โดเนทซัพพอร์ตสตรีมเมอร์คนโปรด",
+      "cefr": "B1",
+      "note_th": "\"โดเนท\" วัฒนธรรมสายสตรีมไทยตรงศัพท์เป๊ะ — บริจาคเลือดก็ใช้ donate blood คำเดียวกัน",
+      "distractors": [
+        "dominate",
+        "delete",
+        "decorate"
+      ],
+      "image": "words/donate.webp"
+    },
+    {
+      "id": "emote",
+      "word": "emote",
+      "pos": "noun",
+      "ipa": "/ɪˈmoʊt/",
+      "reading_th": "อี-โมท",
+      "meaning_th": "อีโมท / ท่าแสดงอารมณ์ในเกม",
+      "emoji": "🕺",
+      "example_en": "He used a dance emote after winning.",
+      "example_th": "ชนะปุ๊บเขาก็กดอีโมทเต้นเลย",
+      "cefr": "B1",
+      "note_th": "มาจาก emotion (อารมณ์) — อีโมทในเกม อิโมจิ (emoji) ในแชท เป็นญาติกันหมด",
+      "distractors": [
+        "emoji",
+        "remote",
+        "emotion"
+      ],
+      "image": "words/emote.webp"
+    },
+    {
+      "id": "go_viral",
+      "word": "go viral",
+      "pos": "phrase",
+      "ipa": "/ˌɡoʊ ˈvaɪrəl/",
+      "reading_th": "โก-ไว-รัล",
+      "meaning_th": "ดังเป็นไวรัล",
+      "emoji": "🚀",
+      "example_en": "Her clip went viral overnight.",
+      "example_th": "คลิปของเธอดังเป็นไวรัลข้ามคืน",
+      "cefr": "B1",
+      "note_th": "viral มาจาก virus — แพร่ไวเหมือนไวรัส! \"คลิปไวรัล\" ที่คนไทยพูดคือคำนี้ (go-went-gone)",
+      "distractors": [
+        "go live",
+        "go online",
+        "go wild"
+      ],
+      "image": "words/go_viral.webp"
+    },
+    {
+      "id": "game_over",
+      "word": "game over",
+      "pos": "phrase",
+      "ipa": "/ˌɡeɪm ˈoʊvər/",
+      "reading_th": "เกม-โอ-เวอร์",
+      "meaning_th": "จบเกม",
+      "emoji": "🕹️",
+      "example_en": "Game over — but you can always try again.",
+      "example_th": "จบเกมแล้ว แต่เริ่มใหม่ได้เสมอนะ",
+      "cefr": "A1",
+      "note_th": "over = จบ/สิ้นสุด — ภาษาไทยยืมไปพูดว่า \"เกมโอเวอร์\" เวลาอะไรจบไม่สวย ตรงต้นฉบับเลย 😄",
+      "distractors": [
+        "game on",
+        "hangover",
+        "takeover"
+      ],
+      "image": "words/game_over.webp"
+    },
+    {
+      "id": "try_again",
+      "word": "try again",
+      "pos": "phrase",
+      "ipa": "/ˌtraɪ əˈɡen/",
+      "reading_th": "ทราย-อะ-เกน",
+      "meaning_th": "ลองใหม่อีกครั้ง",
+      "emoji": "🔁",
+      "example_en": "Failed? Just try again!",
+      "example_th": "พลาดเหรอ ก็แค่ลองใหม่สิ!",
+      "cefr": "A1",
+      "note_th": "ปุ่ม Try again อยู่คู่กับทุกเกม — ชีวิตจริงก็เหมือนกัน: If you fail, try again (พลาดก็ลองใหม่)",
+      "distractors": [
+        "try on",
+        "give up",
+        "start again"
+      ],
+      "image": "words/try_again.webp"
+    },
+    {
+      "id": "give_up",
+      "word": "give up",
+      "pos": "phrase",
+      "ipa": "/ˌɡɪv ˈʌp/",
+      "reading_th": "กิฟว์-อัพ",
+      "meaning_th": "ยอมแพ้",
+      "emoji": "🏳️",
+      "example_en": "Never give up before the final boss!",
+      "example_th": "อย่ายอมแพ้ก่อนเจอบอสตัวสุดท้าย!",
+      "cefr": "A2",
+      "note_th": "Never give up! = อย่ายอมแพ้ (ประโยคให้กำลังใจสากล) — give up + Ving: gave up playing (เลิกเล่นไปแล้ว)",
+      "distractors": [
+        "get up",
+        "grow up",
+        "give in"
+      ],
+      "image": "words/give_up.webp"
+    },
+    {
+      "id": "cheat",
+      "word": "cheat",
+      "pos": "verb",
+      "ipa": "/tʃiːt/",
+      "reading_th": "ชีท",
+      "meaning_th": "โกง",
+      "emoji": "🚫",
+      "example_en": "Using cheats ruins the fun.",
+      "example_th": "ใช้โปรโกงทำให้เกมหมดสนุก",
+      "cefr": "B1",
+      "note_th": "\"ตัวโกง/โปรโกง\" ในเกมคือ cheat ส่วนคนโกงคือ cheater — ลอกข้อสอบก็ใช้ cheat on a test",
+      "distractors": [
+        "chat",
+        "cheap",
+        "sheet"
+      ],
+      "image": "words/cheat.webp"
+    },
+    {
+      "id": "fair_play",
+      "word": "fair play",
+      "pos": "noun",
+      "ipa": "/ˌfer ˈpleɪ/",
+      "reading_th": "แฟร์-เพลย์",
+      "meaning_th": "เล่นอย่างยุติธรรม / น้ำใจนักกีฬา",
+      "emoji": "⚖️",
+      "example_en": "Good gamers believe in fair play.",
+      "example_th": "เกมเมอร์ที่ดีเล่นกันแบบแฟร์ๆ",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"แฟร์ๆ หน่อย\" ก็มาจาก fair (ยุติธรรม) — ตรงข้ามกับการ cheat นั่นเอง",
+      "distractors": [
+        "fireplace",
+        "role play",
+        "fair price"
+      ],
+      "image": "words/fair_play.webp"
+    },
+    {
+      "id": "respect",
+      "word": "respect",
+      "pos": "noun",
+      "ipa": "/rɪˈspekt/",
+      "reading_th": "ริ-สเปคท์",
+      "meaning_th": "ความเคารพ / ให้เกียรติ",
+      "emoji": "🙏",
+      "example_en": "Respect your opponent, win or lose.",
+      "example_th": "จะแพ้หรือชนะก็ต้องให้เกียรติคู่แข่ง",
+      "cefr": "B1",
+      "note_th": "วัยรุ่นไทยพูด \"รีสเปค\" ตรงศัพท์เลย — show respect = แสดงความเคารพ ใช้ได้ทั้งในเกมและชีวิตจริง",
+      "distractors": [
+        "expect",
+        "suspect",
+        "inspect"
+      ],
+      "image": "words/respect.webp"
+    },
+    {
+      "id": "cooperate",
+      "word": "cooperate",
+      "pos": "verb",
+      "ipa": "/koʊˈɑːpəreɪt/",
+      "reading_th": "โค-ออ-เพอ-เรท",
+      "meaning_th": "ร่วมมือกัน",
+      "emoji": "🤝",
+      "example_en": "Cooperate with your team to win the raid.",
+      "example_th": "ต้องร่วมมือกับทีมถึงจะตีบอสใหญ่ผ่าน",
+      "cefr": "B1",
+      "note_th": "co (ร่วมกัน) + operate (ทำงาน) — โหมดเล่นร่วมกันในเกมเรียก co-op ย่อมาจากคำนี้เลย!",
+      "distractors": [
+        "operate",
+        "celebrate",
+        "decorate"
+      ],
+      "image": "words/cooperate.webp"
+    },
+    {
+      "id": "addicted",
+      "word": "addicted",
+      "pos": "adjective",
+      "ipa": "/əˈdɪktɪd/",
+      "reading_th": "แอด-ดิค-เต็ด",
+      "meaning_th": "ติด (เกม)",
+      "emoji": "😵",
+      "example_en": "Don't get addicted — balance gaming and sleep.",
+      "example_th": "อย่าติดเกมจนลืมนอนล่ะ",
+      "cefr": "B1",
+      "note_th": "addicted to + สิ่งที่ติด (addicted to games / coffee / phones) — ใช้แซวตัวเองได้: I'm addicted to this game!",
+      "distractors": [
+        "predicted",
+        "attracted",
+        "attached"
+      ],
+      "image": "words/addicted.webp"
+    },
+    {
+      "id": "screen_time",
+      "word": "screen time",
+      "pos": "noun",
+      "ipa": "/ˈskriːn taɪm/",
+      "reading_th": "สกรีน-ไทม์",
+      "meaning_th": "เวลาหน้าจอ",
+      "emoji": "⏳",
+      "example_en": "My mom limits my screen time to two hours.",
+      "example_th": "แม่จำกัดเวลาหน้าจอวันละสองชั่วโมง",
+      "cefr": "B1",
+      "note_th": "ศัพท์ยุคใหม่ที่พ่อแม่ทั่วโลกใช้ — ในมือถือมีเมนู Screen Time ให้เช็คเลยว่าวันนี้จ้องจอไปกี่ชั่วโมง",
+      "distractors": [
+        "free time",
+        "big time",
+        "screen saver"
+      ],
+      "image": "words/screen_time.webp"
+    },
+    {
+      "id": "take_a_break",
+      "word": "take a break",
+      "pos": "phrase",
+      "ipa": "/ˌteɪk ə ˈbreɪk/",
+      "reading_th": "เทค-อะ-เบรค",
+      "meaning_th": "พักสายตา / พักเบรก",
+      "emoji": "☕",
+      "example_en": "Take a break every hour of gaming.",
+      "example_th": "เล่นเกมครบชั่วโมงก็พักหน่อยนะ",
+      "cefr": "A2",
+      "note_th": "เกมสมัยใหม่เตือนเองเลยว่า You've been playing for a while — take a break! (เล่นนานแล้ว พักหน่อย)",
+      "distractors": [
+        "take a bath",
+        "take a seat",
+        "break a leg"
+      ],
+      "image": "words/take_a_break.webp"
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "pos": "noun",
+      "ipa": "/ˈbæləns/",
+      "reading_th": "แบ-เลินซ์",
+      "meaning_th": "ความสมดุล",
+      "emoji": "⚖️",
+      "example_en": "Balance your game time and homework.",
+      "example_th": "แบ่งเวลาเล่นเกมกับทำการบ้านให้สมดุล",
+      "cefr": "B1",
+      "note_th": "work-life balance = สมดุลชีวิตกับงาน ศัพท์ฮิตของวัยทำงาน — เกมกับชีวิตก็ต้องบาลานซ์เหมือนกัน!",
+      "distractors": [
+        "ambulance",
+        "ballet",
+        "brilliance"
+      ],
+      "image": "words/balance.webp"
+    },
+    {
+      "id": "stretch",
+      "word": "stretch",
+      "pos": "verb",
+      "ipa": "/stretʃ/",
+      "reading_th": "สเตรทช์",
+      "meaning_th": "ยืดเส้นยืดสาย",
+      "emoji": "🙆",
+      "example_en": "Stand up and stretch between matches.",
+      "example_th": "จบแมตช์แล้วก็ลุกยืดเส้นยืดสายหน่อย",
+      "cefr": "B1",
+      "note_th": "นั่งเล่นเกมนานๆ ต้อง stretch แก้เมื่อย — การยืดกล้ามเนื้อก่อนออกกำลังกายเรียก stretching",
+      "distractors": [
+        "scratch",
+        "straight",
+        "switch"
+      ],
+      "image": "words/stretch.webp"
+    },
+    {
+      "id": "well_played",
+      "word": "well played",
+      "pos": "phrase",
+      "ipa": "/ˌwel ˈpleɪd/",
+      "reading_th": "เวล-เพลย์ด",
+      "meaning_th": "เล่นได้เยี่ยม / GG",
+      "emoji": "👏",
+      "example_en": "Well played! That was a great match.",
+      "example_th": "เล่นได้เยี่ยมมาก แมตช์นี้สนุกสุดๆ",
+      "cefr": "A2",
+      "note_th": "ในเกมพิมพ์ย่อว่า WP หรือ GG (good game) — มารยาทเกมเมอร์สากล: จบเกมพิมพ์ GG WP ให้กันเสมอ",
+      "distractors": [
+        "well done",
+        "well said",
+        "good luck"
+      ],
+      "image": "words/well_played.webp"
+    },
+    {
+      "id": "have_fun",
+      "word": "have fun",
+      "pos": "phrase",
+      "ipa": "/ˌhæv ˈfʌn/",
+      "reading_th": "แฮฟว์-ฟัน",
+      "meaning_th": "ขอให้สนุก / เล่นให้สนุก",
+      "emoji": "🥳",
+      "example_en": "The most important rule: have fun!",
+      "example_th": "กติกาที่สำคัญที่สุด: เล่นให้สนุก!",
+      "cefr": "A1",
+      "note_th": "Have fun! = ขอให้สนุกนะ ใช้อวยพรก่อนเพื่อนไปเที่ยวหรือเล่นเกม — ตอบกลับ: Thanks, I will!",
+      "distractors": [
+        "have lunch",
+        "have a seat",
+        "have a look"
+      ],
+      "image": "words/have_fun.webp"
+    }
+  ]
+}

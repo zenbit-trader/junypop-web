@@ -79,13 +79,13 @@
     },
     {
       "id": "gaming",
-      "file": null,
+      "file": "gaming.json",
       "name_en": "Gaming",
       "name_th": "เกมมิ่ง",
       "emoji": "🎮",
       "color_start": "#818CF8",
       "color_end": "#4F46E5",
-      "available": false,
+      "available": true,
       "image": "worlds/gaming.webp"
     },
     {
