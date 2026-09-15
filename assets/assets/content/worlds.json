@@ -109,6 +109,116 @@
       "color_end": "#D97706",
       "available": true,
       "image": "worlds/business.webp"
+    },
+    {
+      "id": "school",
+      "name_en": "School",
+      "name_th": "โรงเรียน",
+      "emoji": "🎒",
+      "color_start": "#A3E635",
+      "color_end": "#65A30D",
+      "available": false,
+      "mascot_costume": "student",
+      "description_th": "ห้องเรียน การบ้าน สอบ และชีวิตนักเรียน"
+    },
+    {
+      "id": "social_media",
+      "name_en": "Social Media",
+      "name_th": "โซเชียลมีเดีย",
+      "emoji": "📱",
+      "color_start": "#67E8F9",
+      "color_end": "#0E7490",
+      "available": false,
+      "mascot_costume": "streamer",
+      "description_th": "โพสต์ แชต คอมเมนต์ และคำที่เจอทุกวันบนโซเชียล"
+    },
+    {
+      "id": "love",
+      "name_en": "Love & Dating",
+      "name_th": "ความรัก",
+      "emoji": "💕",
+      "color_start": "#FB7185",
+      "color_end": "#E11D48",
+      "available": false,
+      "mascot_costume": "cupid",
+      "description_th": "จีบ เดต บอกรัก และความสัมพันธ์"
+    },
+    {
+      "id": "entertainment",
+      "name_en": "Movies & Music",
+      "name_th": "หนังและเพลง",
+      "emoji": "🎬",
+      "color_start": "#E879F9",
+      "color_end": "#C026D3",
+      "available": false,
+      "mascot_costume": "popstar",
+      "description_th": "ดูหนัง ฟังเพลง คอนเสิร์ต และซีรีส์"
+    },
+    {
+      "id": "sports",
+      "name_en": "Sports & Fitness",
+      "name_th": "กีฬาและฟิตเนส",
+      "emoji": "⚽",
+      "color_start": "#86EFAC",
+      "color_end": "#15803D",
+      "available": false,
+      "mascot_costume": "athlete",
+      "description_th": "ออกกำลังกาย ฟิตเนส และกีฬายอดนิยม"
+    },
+    {
+      "id": "getting_around",
+      "name_en": "Getting Around",
+      "name_th": "เดินทางในเมือง",
+      "emoji": "🚕",
+      "color_start": "#FDE047",
+      "color_end": "#CA8A04",
+      "available": false,
+      "mascot_costume": "driver",
+      "description_th": "แท็กซี่ รถไฟฟ้า ถามทาง และการเดินทางในเมือง"
+    },
+    {
+      "id": "money",
+      "name_en": "Money & Banking",
+      "name_th": "การเงินและธนาคาร",
+      "emoji": "💳",
+      "color_start": "#6EE7B7",
+      "color_end": "#047857",
+      "available": false,
+      "mascot_costume": "banker",
+      "description_th": "ธนาคาร โอนเงิน ออมเงิน และบัตรเครดิต"
+    },
+    {
+      "id": "beauty_fashion",
+      "name_en": "Beauty & Fashion",
+      "name_th": "ความงามและแฟชั่น",
+      "emoji": "💄",
+      "color_start": "#D8B4FE",
+      "color_end": "#7E22CE",
+      "available": false,
+      "mascot_costume": "stylist",
+      "description_th": "เครื่องสำอาง สกินแคร์ เสื้อผ้า และสไตล์"
+    },
+    {
+      "id": "nature_weather",
+      "name_en": "Nature & Weather",
+      "name_th": "ธรรมชาติและอากาศ",
+      "emoji": "🌦️",
+      "color_start": "#A7F3D0",
+      "color_end": "#0F766E",
+      "available": false,
+      "mascot_costume": "ranger",
+      "description_th": "สภาพอากาศ ฤดูกาล สัตว์ และธรรมชาติ"
+    },
+    {
+      "id": "job_interview",
+      "name_en": "Job Interview",
+      "name_th": "สัมภาษณ์งาน",
+      "emoji": "🎤",
+      "color_start": "#7DD3FC",
+      "color_end": "#0369A1",
+      "available": false,
+      "mascot_costume": "candidate",
+      "description_th": "สมัครงาน เขียนเรซูเม่ และตอบคำถามสัมภาษณ์"
     }
   ]
 }
