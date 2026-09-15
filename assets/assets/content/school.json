@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "school",
+    "name_en": "School",
+    "name_th": "โรงเรียน",
+    "emoji": "🎒",
+    "color_start": "#A3E635",
+    "color_end": "#65A30D",
+    "description_th": "ศัพท์ในห้องเรียน การบ้าน การสอบ ชีวิตนักเรียน จนถึงวันรับปริญญา",
+    "mascot_costume": "student",
+    "lessons": [
+      {
+        "id": "school_1",
+        "title_en": "Back to School",
+        "title_th": "เปิดเทอมแล้ว",
+        "emoji": "🎒",
+        "word_ids": [
+          "student",
+          "teacher",
+          "classroom",
+          "classmate",
+          "principal",
+          "uniform",
+          "school_bag",
+          "locker",
+          "semester",
+          "period",
+          "school_bell",
+          "grade",
+          "canteen",
+          "high_school"
+        ],
+        "image": "lessons/school_1.webp"
+      },
+      {
+        "id": "school_2",
+        "title_en": "In the Classroom",
+        "title_th": "ในห้องเรียน",
+        "emoji": "✏️",
+        "word_ids": [
+          "blackboard",
+          "chalk",
+          "notebook",
+          "textbook",
+          "pencil",
+          "eraser",
+          "ruler",
+          "highlighter",
+          "calculator",
+          "raise_hand",
+          "take_notes",
+          "pay_attention",
+          "attendance",
+          "absent"
+        ],
+        "image": "lessons/school_2.webp"
+      },
+      {
+        "id": "school_3",
+        "title_en": "School Subjects",
+        "title_th": "วิชาเรียน",
+        "emoji": "📚",
+        "word_ids": [
+          "math",
+          "science",
+          "history",
+          "geography",
+          "art",
+          "music",
+          "pe",
+          "chemistry",
+          "physics",
+          "biology",
+          "literature",
+          "social_studies",
+          "grammar",
+          "vocabulary"
+        ],
+        "image": "lessons/school_3.webp"
+      },
+      {
+        "id": "school_4",
+        "title_en": "Homework & Study",
+        "title_th": "การบ้านและการอ่านหนังสือ",
+        "emoji": "📝",
+        "word_ids": [
+          "homework",
+          "assignment",
+          "essay",
+          "worksheet",
+          "flashcard",
+          "research",
+          "library",
+          "memorize",
+          "revise",
+          "due_date",
+          "group_work",
+          "tutor",
+          "dictionary",
+          "understand"
+        ],
+        "image": "lessons/school_4.webp"
+      },
+      {
+        "id": "school_5",
+        "title_en": "Exams & Grades",
+        "title_th": "สอบและเกรด",
+        "emoji": "📋",
+        "word_ids": [
+          "exam",
+          "quiz",
+          "midterm",
+          "final_exam",
+          "score",
+          "pass",
+          "fail",
+          "cheating",
+          "report_card",
+          "scholarship",
+          "retake",
+          "cram",
+          "stressed",
+          "mistake"
+        ],
+        "image": "lessons/school_5.webp"
+      },
+      {
+        "id": "school_6",
+        "title_en": "School Life",
+        "title_th": "ชีวิตในโรงเรียน",
+        "emoji": "⚽",
+        "word_ids": [
+          "break_time",
+          "lunch_break",
+          "playground",
+          "field_trip",
+          "club",
+          "sports_day",
+          "school_bus",
+          "homeroom",
+          "assembly",
+          "detention",
+          "best_friend",
+          "bully",
+          "auditorium",
+          "lab"
+        ],
+        "image": "lessons/school_6.webp"
+      },
+      {
+        "id": "school_7",
+        "title_en": "Boss Level: Graduation",
+        "title_th": "สู่วันรับปริญญา",
+        "emoji": "🎓",
+        "word_ids": [
+          "graduate",
+          "graduation",
+          "diploma",
+          "degree",
+          "university",
+          "college",
+          "major",
+          "enroll",
+          "admission",
+          "entrance_exam",
+          "dormitory",
+          "freshman",
+          "senior",
+          "future"
+        ],
+        "image": "lessons/school_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "student",
+      "word": "student",
+      "pos": "noun",
+      "ipa": "/ˈstuːdənt/",
+      "reading_th": "สตู-เดิ้นท์",
+      "meaning_th": "นักเรียน, นักศึกษา",
+      "emoji": "🧑‍🎓",
+      "example_en": "There are thirty students in my class.",
+      "example_th": "ห้องผมมีนักเรียนสามสิบคน",
+      "cefr": "A1",
+      "note_th": "student ใช้ได้ทั้งนักเรียนและนักศึกษา ส่วน pupil คือเด็กนักเรียนตัวเล็ก (แบบบริติช)",
+      "distractors": [
+        "studio",
+        "study",
+        "stadium"
+      ],
+      "image": "words/student.webp"
+    },
+    {
+      "id": "teacher",
+      "word": "teacher",
+      "pos": "noun",
+      "ipa": "/ˈtiːtʃər/",
+      "reading_th": "ที-เชอร์",
+      "meaning_th": "ครู",
+      "emoji": "👩‍🏫",
+      "example_en": "Our English teacher is very kind.",
+      "example_th": "ครูภาษาอังกฤษของเราใจดีมาก",
+      "cefr": "A1",
+      "note_th": "ฝรั่งเรียกครูว่า Mr. / Ms. + นามสกุล ไม่เรียก \"Teacher Ann\" แบบไทย — ครูมหาลัย = professor / lecturer",
+      "distractors": [
+        "teach",
+        "preacher",
+        "cheater"
+      ],
+      "image": "words/teacher.webp"
+    },
+    {
+      "id": "classroom",
+      "word": "classroom",
+      "pos": "noun",
+      "ipa": "/ˈklæsruːm/",
+      "reading_th": "คลาส-รูม",
+      "meaning_th": "ห้องเรียน",
+      "emoji": "🏫",
+      "example_en": "Please be quiet in the classroom.",
+      "example_th": "กรุณาเงียบในห้องเรียน",
+      "cefr": "A1",
+      "note_th": "class = วิชา / คาบ / กลุ่มนักเรียน ส่วน classroom = ตัวห้อง — \"in class\" = ระหว่างเรียน",
+      "distractors": [
+        "bathroom",
+        "class",
+        "chatroom"
+      ],
+      "image": "words/classroom.webp"
+    },
+    {
+      "id": "classmate",
+      "word": "classmate",
+      "pos": "noun",
+      "ipa": "/ˈklæsmeɪt/",
+      "reading_th": "คลาส-เมท",
+      "meaning_th": "เพื่อนร่วมชั้น",
+      "emoji": "🧑‍🤝‍🧑",
+      "example_en": "My classmate helped me with my homework.",
+      "example_th": "เพื่อนร่วมชั้นช่วยผมทำการบ้าน",
+      "cefr": "A2",
+      "note_th": "-mate = เพื่อนร่วมอะไรบางอย่าง: roommate (เพื่อนร่วมห้อง) teammate (เพื่อนร่วมทีม)",
+      "distractors": [
+        "roommate",
+        "teammate",
+        "checkmate"
+      ],
+      "image": "words/classmate.webp"
+    },
+    {
+      "id": "principal",
+      "word": "principal",
+      "pos": "noun",
+      "ipa": "/ˈprɪnsəpəl/",
+      "reading_th": "พริน-สิ-เพิ่ล",
+      "meaning_th": "ผู้อำนวยการโรงเรียน",
+      "emoji": "👔",
+      "example_en": "The principal gave a speech this morning.",
+      "example_th": "ผอ. กล่าวสุนทรพจน์เมื่อเช้านี้",
+      "cefr": "B1",
+      "note_th": "principal (ผอ.) กับ principle (หลักการ) ออกเสียงเหมือนกันเป๊ะ — บริติชเรียก ผอ. ว่า headmaster / head teacher",
+      "distractors": [
+        "principle",
+        "president",
+        "prince"
+      ],
+      "image": "words/principal.webp"
+    },
+    {
+      "id": "uniform",
+      "word": "uniform",
+      "pos": "noun",
+      "ipa": "/ˈjuːnɪfɔːrm/",
+      "reading_th": "ยู-นิ-ฟอร์ม",
+      "meaning_th": "ชุดนักเรียน, เครื่องแบบ",
+      "emoji": "👕",
+      "example_en": "Thai students wear a uniform to school.",
+      "example_th": "นักเรียนไทยใส่ชุดนักเรียนไปโรงเรียน",
+      "cefr": "A2",
+      "note_th": "uniform ใช้กับเครื่องแบบทุกอาชีพ (ทหาร พยาบาล พนักงาน) ไม่ได้แปลว่าชุดนักเรียนอย่างเดียว",
+      "distractors": [
+        "unicorn",
+        "union",
+        "platform"
+      ],
+      "image": "words/uniform.webp"
+    },
+    {
+      "id": "school_bag",
+      "word": "school bag",
+      "pos": "noun",
+      "ipa": "/ˈskuːl bæɡ/",
+      "reading_th": "สกูล-แบ็ก",
+      "meaning_th": "กระเป๋านักเรียน",
+      "emoji": "🎒",
+      "example_en": "My school bag is so heavy today!",
+      "example_th": "วันนี้กระเป๋านักเรียนหนักมากเลย!",
+      "cefr": "A1",
+      "note_th": "กระเป๋าสะพายหลังทั่วไป = backpack ส่วนกระเป๋าใส่หนังสือเรียนเรียก school bag ได้เลย",
+      "distractors": [
+        "shopping bag",
+        "sleeping bag",
+        "handbag"
+      ],
+      "image": "words/school_bag.webp"
+    },
+    {
+      "id": "locker",
+      "word": "locker",
+      "pos": "noun",
+      "ipa": "/ˈlɑːkər/",
+      "reading_th": "ล็อก-เกอร์",
+      "meaning_th": "ตู้ล็อกเกอร์",
+      "emoji": "🗄️",
+      "example_en": "I keep my books in my locker.",
+      "example_th": "ผมเก็บหนังสือไว้ในล็อกเกอร์",
+      "cefr": "A2",
+      "note_th": "มาจาก lock (ล็อก) + -er — ห้องเปลี่ยนชุดในยิมเรียก locker room",
+      "distractors": [
+        "locket",
+        "lock",
+        "rocker"
+      ],
+      "image": "words/locker.webp"
+    },
+    {
+      "id": "semester",
+      "word": "semester",
+      "pos": "noun",
+      "ipa": "/sɪˈmestər/",
+      "reading_th": "ซิ-เมส-เตอร์",
+      "meaning_th": "ภาคเรียน, เทอม",
+      "emoji": "📅",
+      "example_en": "The new semester starts in May.",
+      "example_th": "ภาคเรียนใหม่เริ่มเดือนพฤษภาคม",
+      "cefr": "A2",
+      "note_th": "\"เทอม\" ที่คนไทยพูดมาจาก term (บริติช) ส่วนอเมริกันใช้ semester (ปีละ 2 เทอม)",
+      "distractors": [
+        "sister",
+        "cemetery",
+        "master"
+      ],
+      "image": "words/semester.webp"
+    },
+    {
+      "id": "period",
+      "word": "period",
+      "pos": "noun",
+      "ipa": "/ˈpɪriəd/",
+      "reading_th": "เพีย-เรียด",
+      "meaning_th": "คาบเรียน",
+      "emoji": "⏰",
+      "example_en": "We have math in the first period.",
+      "example_th": "เรามีคณิตคาบแรก",
+      "cefr": "A2",
+      "note_th": "period แปลได้ทั้งคาบเรียน ช่วงเวลา และเครื่องหมายจุด (.) ท้ายประโยคแบบอเมริกัน",
+      "distractors": [
+        "parade",
+        "pyramid",
+        "pirate"
+      ],
+      "image": "words/period.webp"
+    },
+    {
+      "id": "school_bell",
+      "word": "school bell",
+      "pos": "noun",
+      "ipa": "/ˈskuːl bel/",
+      "reading_th": "สกูล-เบล",
+      "meaning_th": "ออดโรงเรียน",
+      "emoji": "🔔",
+      "example_en": "The school bell rings at eight o'clock.",
+      "example_th": "ออดโรงเรียนดังตอนแปดโมง",
+      "cefr": "A1",
+      "note_th": "กริยา ring (ดัง) ผันเป็น rang / rung — \"The bell rang.\" = ออดดังแล้ว",
+      "distractors": [
+        "doorbell",
+        "school bus",
+        "seashell"
+      ],
+      "image": "words/school_bell.webp"
+    },
+    {
+      "id": "grade",
+      "word": "grade",
+      "pos": "noun",
+      "ipa": "/ɡreɪd/",
+      "reading_th": "เกรด",
+      "meaning_th": "ชั้นปี, เกรด",
+      "emoji": "🔢",
+      "example_en": "My sister is in grade 6.",
+      "example_th": "น้องสาวผมอยู่ ป.6",
+      "cefr": "A2",
+      "note_th": "ในอเมริกา grade คือระดับชั้น (grade 1–12) และคะแนน/เกรด (A B C) ก็ใช้คำเดียวกัน — ม.4 = grade 10",
+      "distractors": [
+        "great",
+        "garden",
+        "guard"
+      ],
+      "image": "words/grade.webp"
+    },
+    {
+      "id": "canteen",
+      "word": "canteen",
+      "pos": "noun",
+      "ipa": "/kænˈtiːn/",
+      "reading_th": "แคน-ทีน",
+      "meaning_th": "โรงอาหาร",
+      "emoji": "🍱",
+      "example_en": "Let's eat lunch at the canteen.",
+      "example_th": "ไปกินข้าวเที่ยงที่โรงอาหารกัน",
+      "cefr": "A2",
+      "note_th": "canteen เป็นคำบริติช อเมริกันเรียก cafeteria — โรงอาหารมหาลัยไทยมักใช้ canteen",
+      "distractors": [
+        "cafeteria",
+        "cabin",
+        "cartoon"
+      ],
+      "image": "words/canteen.webp"
+    },
+    {
+      "id": "high_school",
+      "word": "high school",
+      "pos": "noun",
+      "ipa": "/ˈhaɪ skuːl/",
+      "reading_th": "ไฮ-สกูล",
+      "meaning_th": "โรงเรียนมัธยม",
+      "emoji": "🏫",
+      "example_en": "I met my best friend in high school.",
+      "example_th": "ผมเจอเพื่อนสนิทตอนเรียนมัธยม",
+      "cefr": "A1",
+      "note_th": "ระบบอเมริกัน: elementary school (ประถม) → middle school (ม.ต้น) → high school (ม.ปลาย)",
+      "distractors": [
+        "high street",
+        "home school",
+        "height"
+      ],
+      "image": "words/high_school.webp"
+    },
+    {
+      "id": "blackboard",
+      "word": "blackboard",
+      "pos": "noun",
+      "ipa": "/ˈblækbɔːrd/",
+      "reading_th": "แบล็ก-บอร์ด",
+      "meaning_th": "กระดานดำ",
+      "emoji": "🖤",
+      "example_en": "The teacher wrote the answer on the blackboard.",
+      "example_th": "ครูเขียนคำตอบบนกระดานดำ",
+      "cefr": "A1",
+      "note_th": "กระดานขาว = whiteboard ส่วนครูสมัยใหม่ใช้ smart board (กระดานอัจฉริยะ)",
+      "distractors": [
+        "whiteboard",
+        "keyboard",
+        "backyard"
+      ],
+      "image": "words/blackboard.webp"
+    },
+    {
+      "id": "chalk",
+      "word": "chalk",
+      "pos": "noun",
+      "ipa": "/tʃɔːk/",
+      "reading_th": "ชอล์ก",
+      "meaning_th": "ชอล์ก",
+      "emoji": "🖍️",
+      "example_en": "The teacher's hands were covered in chalk.",
+      "example_th": "มือครูเปื้อนชอล์กไปหมด",
+      "cefr": "A2",
+      "note_th": "ตัว l ไม่ออกเสียง อ่านว่า \"ชอล์ก\" เหมือน walk / talk — นับไม่ได้: a piece of chalk",
+      "distractors": [
+        "choke",
+        "check",
+        "cheek"
+      ],
+      "image": "words/chalk.webp"
+    },
+    {
+      "id": "notebook",
+      "word": "notebook",
+      "pos": "noun",
+      "ipa": "/ˈnoʊtbʊk/",
+      "reading_th": "โน้ต-บุ๊ก",
+      "meaning_th": "สมุด",
+      "emoji": "📓",
+      "example_en": "Write the new words in your notebook.",
+      "example_th": "จดคำใหม่ลงในสมุดนะ",
+      "cefr": "A1",
+      "note_th": "ระวัง! notebook ในภาษาอังกฤษคือสมุดจด ส่วนโน้ตบุ๊กคอมพิวเตอร์เรียก laptop",
+      "distractors": [
+        "laptop",
+        "textbook",
+        "cookbook"
+      ],
+      "image": "words/notebook.webp"
+    },
+    {
+      "id": "textbook",
+      "word": "textbook",
+      "pos": "noun",
+      "ipa": "/ˈtekstbʊk/",
+      "reading_th": "เท็กซ์-บุ๊ก",
+      "meaning_th": "หนังสือเรียน",
+      "emoji": "📘",
+      "example_en": "Open your textbook to page 20.",
+      "example_th": "เปิดหนังสือเรียนไปหน้า 20",
+      "cefr": "A1",
+      "note_th": "textbook = หนังสือเรียน ส่วนแบบฝึกหัดเรียก workbook — \"a textbook example\" = ตัวอย่างสุดคลาสสิก",
+      "distractors": [
+        "workbook",
+        "textile",
+        "bookstore"
+      ],
+      "image": "words/textbook.webp"
+    },
+    {
+      "id": "pencil",
+      "word": "pencil",
+      "pos": "noun",
+      "ipa": "/ˈpensəl/",
+      "reading_th": "เพน-เซิ่ล",
+      "meaning_th": "ดินสอ",
+      "emoji": "✏️",
+      "example_en": "Can I borrow a pencil?",
+      "example_th": "ขอยืมดินสอหน่อยได้ไหม",
+      "cefr": "A1",
+      "note_th": "ดินสอกด = mechanical pencil, กบเหลาดินสอ = pencil sharpener, กล่องดินสอ = pencil case",
+      "distractors": [
+        "pen",
+        "pencil case",
+        "panel"
+      ],
+      "image": "words/pencil.webp"
+    },
+    {
+      "id": "eraser",
+      "word": "eraser",
+      "pos": "noun",
+      "ipa": "/ɪˈreɪsər/",
+      "reading_th": "อิ-เร-เซอร์",
+      "meaning_th": "ยางลบ",
+      "emoji": "🧽",
+      "example_en": "I need an eraser to fix my mistake.",
+      "example_th": "ผมต้องใช้ยางลบแก้ที่เขียนผิด",
+      "cefr": "A1",
+      "note_th": "อเมริกัน eraser / บริติช rubber — แต่ระวัง rubber ในอเมริกาแปลว่าถุงยาง!",
+      "distractors": [
+        "razor",
+        "laser",
+        "ruler"
+      ],
+      "image": "words/eraser.webp"
+    },
+    {
+      "id": "ruler",
+      "word": "ruler",
+      "pos": "noun",
+      "ipa": "/ˈruːlər/",
+      "reading_th": "รู-เลอร์",
+      "meaning_th": "ไม้บรรทัด",
+      "emoji": "📏",
+      "example_en": "Draw a straight line with a ruler.",
+      "example_th": "ใช้ไม้บรรทัดขีดเส้นตรง",
+      "cefr": "A1",
+      "note_th": "ruler ยังแปลว่า \"ผู้ปกครองประเทศ\" ได้ด้วย (rule = ปกครอง / กฎ)",
+      "distractors": [
+        "rule",
+        "roller",
+        "rumor"
+      ],
+      "image": "words/ruler.webp"
+    },
+    {
+      "id": "highlighter",
+      "word": "highlighter",
+      "pos": "noun",
+      "ipa": "/ˈhaɪlaɪtər/",
+      "reading_th": "ไฮ-ไล-เทอร์",
+      "meaning_th": "ปากกาเน้นข้อความ",
+      "emoji": "🖊️",
+      "example_en": "I marked the key words with a yellow highlighter.",
+      "example_th": "ผมใช้ปากกาเน้นสีเหลืองขีดคำสำคัญ",
+      "cefr": "A2",
+      "note_th": "กริยา highlight = เน้น / ขีดเน้น — \"the highlight of the trip\" = ไฮไลต์ / จุดเด่นของทริป",
+      "distractors": [
+        "lighter",
+        "headlight",
+        "high heels"
+      ],
+      "image": "words/highlighter.webp"
+    },
+    {
+      "id": "calculator",
+      "word": "calculator",
+      "pos": "noun",
+      "ipa": "/ˈkælkjəleɪtər/",
+      "reading_th": "แคล-คิว-เล-เทอร์",
+      "meaning_th": "เครื่องคิดเลข",
+      "emoji": "🧮",
+      "example_en": "You can't use a calculator in this exam.",
+      "example_th": "ห้ามใช้เครื่องคิดเลขในการสอบนี้",
+      "cefr": "A2",
+      "note_th": "กริยา calculate = คำนวณ — เน้นเสียงพยางค์แรก \"แคล\" ไม่ใช่ \"เล\"",
+      "distractors": [
+        "calendar",
+        "escalator",
+        "cauliflower"
+      ],
+      "image": "words/calculator.webp"
+    },
+    {
+      "id": "raise_hand",
+      "word": "raise your hand",
+      "pos": "phrase",
+      "ipa": "/reɪz jər hænd/",
+      "reading_th": "เรซ-ยัวร์-แฮนด์",
+      "meaning_th": "ยกมือ",
+      "emoji": "✋",
+      "example_en": "Raise your hand if you know the answer.",
+      "example_th": "ใครรู้คำตอบยกมือขึ้น",
+      "cefr": "A1",
+      "note_th": "raise (ยกขึ้น) ต่างจาก rise (ลอยขึ้นเอง): raise your hand แต่ the sun rises",
+      "distractors": [
+        "shake hands",
+        "wash your hands",
+        "hold hands"
+      ],
+      "image": "words/raise_hand.webp"
+    },
+    {
+      "id": "take_notes",
+      "word": "take notes",
+      "pos": "phrase",
+      "ipa": "/teɪk noʊts/",
+      "reading_th": "เทค-โน้ตส์",
+      "meaning_th": "จดโน้ต",
+      "emoji": "📝",
+      "example_en": "I always take notes in class.",
+      "example_th": "ผมจดโน้ตในห้องเรียนเสมอ",
+      "cefr": "A2",
+      "note_th": "ใช้ take ไม่ใช่ write กับ notes — การจดโน้ต = note-taking",
+      "distractors": [
+        "take a photo",
+        "take a break",
+        "take turns"
+      ],
+      "image": "words/take_notes.webp"
+    },
+    {
+      "id": "pay_attention",
+      "word": "pay attention",
+      "pos": "phrase",
+      "ipa": "/peɪ əˈtenʃən/",
+      "reading_th": "เพ-อะ-เทน-ชั่น",
+      "meaning_th": "ตั้งใจฟัง",
+      "emoji": "👀",
+      "example_en": "Pay attention, this will be on the test!",
+      "example_th": "ตั้งใจฟังนะ ข้อนี้ออกสอบ!",
+      "cefr": "A2",
+      "note_th": "ภาษาอังกฤษ \"จ่าย\" ความสนใจ (pay) — ครูมักพูด \"Pay attention!\" เวลานักเรียนคุยกัน",
+      "distractors": [
+        "pay a fine",
+        "pay back",
+        "pay a visit"
+      ],
+      "image": "words/pay_attention.webp"
+    },
+    {
+      "id": "attendance",
+      "word": "attendance",
+      "pos": "noun",
+      "ipa": "/əˈtendəns/",
+      "reading_th": "อะ-เทน-เดิ้นส์",
+      "meaning_th": "การเข้าเรียน, การเช็กชื่อ",
+      "emoji": "✅",
+      "example_en": "The teacher takes attendance every morning.",
+      "example_th": "ครูเช็กชื่อทุกเช้า",
+      "cefr": "B1",
+      "note_th": "take attendance = เช็กชื่อ, attend = เข้าเรียน / เข้าร่วม — เวลาถูกเรียกชื่อตอบว่า \"Here!\" หรือ \"Present!\"",
+      "distractors": [
+        "attention",
+        "attendant",
+        "tendency"
+      ],
+      "image": "words/attendance.webp"
+    },
+    {
+      "id": "absent",
+      "word": "absent",
+      "pos": "adjective",
+      "ipa": "/ˈæbsənt/",
+      "reading_th": "แอบ-เซิ่นท์",
+      "meaning_th": "ขาดเรียน",
+      "emoji": "❌",
+      "example_en": "Tom was absent yesterday because he was sick.",
+      "example_th": "เมื่อวานทอมขาดเรียนเพราะป่วย",
+      "cefr": "A2",
+      "note_th": "absent (ขาด) ตรงข้ามกับ present (มา) คำนาม = absence — ลาป่วยบอกครูว่า \"I'll be absent tomorrow.\"",
+      "distractors": [
+        "present",
+        "absolute",
+        "accent"
+      ],
+      "image": "words/absent.webp"
+    },
+    {
+      "id": "math",
+      "word": "math",
+      "pos": "noun",
+      "ipa": "/mæθ/",
+      "reading_th": "แม็ธ",
+      "meaning_th": "คณิตศาสตร์",
+      "emoji": "➕",
+      "example_en": "Math is my favorite subject.",
+      "example_th": "คณิตเป็นวิชาโปรดของผม",
+      "cefr": "A1",
+      "note_th": "อเมริกันตัดสั้นเป็น math ส่วนบริติชเป็น maths (มี s) เต็ม ๆ คือ mathematics",
+      "distractors": [
+        "mat",
+        "moth",
+        "myth"
+      ],
+      "image": "words/math.webp"
+    },
+    {
+      "id": "science",
+      "word": "science",
+      "pos": "noun",
+      "ipa": "/ˈsaɪəns/",
+      "reading_th": "ซาย-เอินส์",
+      "meaning_th": "วิทยาศาสตร์",
+      "emoji": "🔬",
+      "example_en": "We did an experiment in science class.",
+      "example_th": "เราทำการทดลองในวิชาวิทย์",
+      "cefr": "A1",
+      "note_th": "sc ออกเสียง \"ซ\" เฉย ๆ (c ไม่ออกเสียง) — นักวิทยาศาสตร์ = scientist",
+      "distractors": [
+        "silence",
+        "scene",
+        "scientist"
+      ],
+      "image": "words/science.webp"
+    },
+    {
+      "id": "history",
+      "word": "history",
+      "pos": "noun",
+      "ipa": "/ˈhɪstəri/",
+      "reading_th": "ฮิส-ทอ-รี",
+      "meaning_th": "ประวัติศาสตร์",
+      "emoji": "🏛️",
+      "example_en": "I love learning about Thai history.",
+      "example_th": "ผมชอบเรียนประวัติศาสตร์ไทย",
+      "cefr": "A1",
+      "note_th": "history (ประวัติศาสตร์) กับ story (นิทาน / เรื่องเล่า) คนละคำ — \"That's history!\" = จบไปแล้ว ไม่สำคัญแล้ว",
+      "distractors": [
+        "story",
+        "mystery",
+        "hysteria"
+      ],
+      "image": "words/history.webp"
+    },
+    {
+      "id": "geography",
+      "word": "geography",
+      "pos": "noun",
+      "ipa": "/dʒiˈɑːɡrəfi/",
+      "reading_th": "จี-อ็อก-กระ-ฟี",
+      "meaning_th": "ภูมิศาสตร์",
+      "emoji": "🗺️",
+      "example_en": "We studied maps in geography today.",
+      "example_th": "วันนี้เราเรียนแผนที่ในวิชาภูมิศาสตร์",
+      "cefr": "A2",
+      "note_th": "geo- = โลก, -graphy = การเขียน / ศึกษา — เน้นเสียงพยางค์ที่สอง \"อ็อก\"",
+      "distractors": [
+        "biography",
+        "geometry",
+        "photography"
+      ],
+      "image": "words/geography.webp"
+    },
+    {
+      "id": "art",
+      "word": "art",
+      "pos": "noun",
+      "ipa": "/ɑːrt/",
+      "reading_th": "อาร์ต",
+      "meaning_th": "ศิลปะ",
+      "emoji": "🎨",
+      "example_en": "In art class we painted with watercolors.",
+      "example_th": "ในวิชาศิลปะเราวาดสีน้ำ",
+      "cefr": "A1",
+      "note_th": "art = ศิลปะ, artist = ศิลปิน — \"the arts\" (มี s) หมายถึงศิลปะทุกแขนงรวมดนตรีและละคร",
+      "distractors": [
+        "arm",
+        "ant",
+        "act"
+      ],
+      "image": "words/art.webp"
+    },
+    {
+      "id": "music",
+      "word": "music",
+      "pos": "noun",
+      "ipa": "/ˈmjuːzɪk/",
+      "reading_th": "มิว-สิก",
+      "meaning_th": "ดนตรี",
+      "emoji": "🎵",
+      "example_en": "Our music teacher plays the piano.",
+      "example_th": "ครูดนตรีของเราเล่นเปียโน",
+      "cefr": "A1",
+      "note_th": "music นับไม่ได้ (ห้ามพูด a music) เพลงหนึ่งเพลง = a song, นักดนตรี = musician",
+      "distractors": [
+        "museum",
+        "mustache",
+        "musician"
+      ],
+      "image": "words/music.webp"
+    },
+    {
+      "id": "pe",
+      "word": "P.E.",
+      "pos": "noun",
+      "ipa": "/ˌpiː ˈiː/",
+      "reading_th": "พี-อี",
+      "meaning_th": "พลศึกษา",
+      "emoji": "🏃",
+      "example_en": "We play basketball in P.E.",
+      "example_th": "เราเล่นบาสในวิชาพละ",
+      "cefr": "A1",
+      "note_th": "ย่อมาจาก physical education อ่านทีละตัวอักษร \"พี-อี\"",
+      "distractors": [
+        "PA",
+        "PC",
+        "PR"
+      ],
+      "image": "words/pe.webp"
+    },
+    {
+      "id": "chemistry",
+      "word": "chemistry",
+      "pos": "noun",
+      "ipa": "/ˈkemɪstri/",
+      "reading_th": "เค-มิส-ทรี",
+      "meaning_th": "เคมี",
+      "emoji": "🧪",
+      "example_en": "Chemistry class smells like the lab.",
+      "example_th": "วิชาเคมีมีกลิ่นห้องแล็บ",
+      "cefr": "A2",
+      "note_th": "ch ออกเสียง \"ค\" ไม่ใช่ \"ช\" — \"good chemistry\" ยังหมายถึงเคมีเข้ากัน (ระหว่างคน) ด้วย",
+      "distractors": [
+        "chemical",
+        "cemetery",
+        "mystery"
+      ],
+      "image": "words/chemistry.webp"
+    },
+    {
+      "id": "physics",
+      "word": "physics",
+      "pos": "noun",
+      "ipa": "/ˈfɪzɪks/",
+      "reading_th": "ฟิ-สิกส์",
+      "meaning_th": "ฟิสิกส์",
+      "emoji": "⚛️",
+      "example_en": "Physics explains why things fall.",
+      "example_th": "ฟิสิกส์อธิบายว่าทำไมของถึงตก",
+      "cefr": "A2",
+      "note_th": "ลงท้าย -ics แต่เป็นเอกพจน์: Physics is hard. (ไม่ใช่ are) — physical = ทางร่างกาย",
+      "distractors": [
+        "physical",
+        "physician",
+        "phonics"
+      ],
+      "image": "words/physics.webp"
+    },
+    {
+      "id": "biology",
+      "word": "biology",
+      "pos": "noun",
+      "ipa": "/baɪˈɑːlədʒi/",
+      "reading_th": "ไบ-อ็อ-โล-จี",
+      "meaning_th": "ชีววิทยา",
+      "emoji": "🧬",
+      "example_en": "We looked at cells in biology.",
+      "example_th": "เราส่องดูเซลล์ในวิชาชีวะ",
+      "cefr": "A2",
+      "note_th": "bio- = ชีวิต, -logy = ศาสตร์ — เน้นเสียงพยางค์ที่สอง \"อ็อ\" ไม่ใช่ \"ไบ\"",
+      "distractors": [
+        "biography",
+        "geology",
+        "ecology"
+      ],
+      "image": "words/biology.webp"
+    },
+    {
+      "id": "literature",
+      "word": "literature",
+      "pos": "noun",
+      "ipa": "/ˈlɪtərətʃər/",
+      "reading_th": "ลิ-เทอะ-ระ-เชอร์",
+      "meaning_th": "วรรณคดี",
+      "emoji": "📖",
+      "example_en": "We read Shakespeare in literature class.",
+      "example_th": "เราอ่านเชกสเปียร์ในวิชาวรรณคดี",
+      "cefr": "B1",
+      "note_th": "มี 4 พยางค์ แต่พูดเร็วเหลือ \"ลิ-ทระ-เชอร์\" — วรรณกรรมไทย = Thai literature",
+      "distractors": [
+        "literally",
+        "litter",
+        "temperature"
+      ],
+      "image": "words/literature.webp"
+    },
+    {
+      "id": "social_studies",
+      "word": "social studies",
+      "pos": "noun",
+      "ipa": "/ˈsoʊʃəl ˈstʌdiz/",
+      "reading_th": "โซ-เชิ่ล-สตั๊ด-ดีส์",
+      "meaning_th": "สังคมศึกษา",
+      "emoji": "🌍",
+      "example_en": "We learned about Thai culture in social studies.",
+      "example_th": "เราเรียนเรื่องวัฒนธรรมไทยในวิชาสังคม",
+      "cefr": "A2",
+      "note_th": "วิชาสังคมของไทยตรงกับ social studies — social = เกี่ยวกับสังคม, studies = การศึกษา (พหูพจน์)",
+      "distractors": [
+        "social media",
+        "case studies",
+        "social life"
+      ],
+      "image": "words/social_studies.webp"
+    },
+    {
+      "id": "grammar",
+      "word": "grammar",
+      "pos": "noun",
+      "ipa": "/ˈɡræmər/",
+      "reading_th": "แกรม-เมอร์",
+      "meaning_th": "ไวยากรณ์",
+      "emoji": "📐",
+      "example_en": "English grammar has many tenses.",
+      "example_th": "ไวยากรณ์อังกฤษมีหลาย tense",
+      "cefr": "A2",
+      "note_th": "สะกด -ar ไม่ใช่ -er (grammar) — grammar nazi = คนชอบจับผิดไวยากรณ์ (คำแซว)",
+      "distractors": [
+        "grandma",
+        "glamour",
+        "grammy"
+      ],
+      "image": "words/grammar.webp"
+    },
+    {
+      "id": "vocabulary",
+      "word": "vocabulary",
+      "pos": "noun",
+      "ipa": "/voʊˈkæbjəleri/",
+      "reading_th": "โว-แค-บิว-เล-รี",
+      "meaning_th": "คำศัพท์",
+      "emoji": "🔤",
+      "example_en": "JUNYPOP helps you learn vocabulary every day.",
+      "example_th": "JUNYPOP ช่วยให้คุณเรียนคำศัพท์ทุกวัน",
+      "cefr": "A2",
+      "note_th": "ย่อว่า vocab (โว-แค็บ) ในภาษาพูด — คำศัพท์หนึ่งคำ = a word ส่วน vocabulary คือคลังคำทั้งหมด",
+      "distractors": [
+        "vocal",
+        "voluntary",
+        "dictionary"
+      ],
+      "image": "words/vocabulary.webp"
+    },
+    {
+      "id": "homework",
+      "word": "homework",
+      "pos": "noun",
+      "ipa": "/ˈhoʊmwɜːrk/",
+      "reading_th": "โฮม-เวิร์ก",
+      "meaning_th": "การบ้าน",
+      "emoji": "📒",
+      "example_en": "I have a lot of homework tonight.",
+      "example_th": "คืนนี้ผมมีการบ้านเยอะ",
+      "cefr": "A1",
+      "note_th": "นับไม่ได้ ห้ามพูด homeworks — ทำการบ้าน = do homework (ไม่ใช่ make)",
+      "distractors": [
+        "housework",
+        "homeroom",
+        "homemade"
+      ],
+      "image": "words/homework.webp"
+    },
+    {
+      "id": "assignment",
+      "word": "assignment",
+      "pos": "noun",
+      "ipa": "/əˈsaɪnmənt/",
+      "reading_th": "อะ-ไซน์-เมิ้นท์",
+      "meaning_th": "งานที่ได้รับมอบหมาย",
+      "emoji": "📄",
+      "example_en": "The assignment is due on Friday.",
+      "example_th": "งานชิ้นนี้ต้องส่งวันศุกร์",
+      "cefr": "B1",
+      "note_th": "ตัว g ไม่ออกเสียง \"อะ-ไซน์-เมิ้นท์\" — assign = มอบหมาย ในมหาลัยมักเรียกงานว่า assignment มากกว่า homework",
+      "distractors": [
+        "agreement",
+        "alignment",
+        "appointment"
+      ],
+      "image": "words/assignment.webp"
+    },
+    {
+      "id": "essay",
+      "word": "essay",
+      "pos": "noun",
+      "ipa": "/ˈeseɪ/",
+      "reading_th": "เอส-เซ",
+      "meaning_th": "เรียงความ",
+      "emoji": "✍️",
+      "example_en": "Write a 300-word essay about your hero.",
+      "example_th": "เขียนเรียงความ 300 คำเรื่องฮีโร่ของคุณ",
+      "cefr": "A2",
+      "note_th": "โครงเรียงความ: introduction (บทนำ) → body (เนื้อหา) → conclusion (สรุป)",
+      "distractors": [
+        "easy",
+        "assay",
+        "delay"
+      ],
+      "image": "words/essay.webp"
+    },
+    {
+      "id": "worksheet",
+      "word": "worksheet",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkʃiːt/",
+      "reading_th": "เวิร์ก-ชีท",
+      "meaning_th": "ใบงาน",
+      "emoji": "📃",
+      "example_en": "Finish the worksheet before the bell rings.",
+      "example_th": "ทำใบงานให้เสร็จก่อนออดดัง",
+      "cefr": "A2",
+      "note_th": "work (งาน) + sheet (แผ่นกระดาษ) — ใน Excel แต่ละแผ่นก็เรียก worksheet",
+      "distractors": [
+        "bedsheet",
+        "workshop",
+        "spreadsheet"
+      ],
+      "image": "words/worksheet.webp"
+    },
+    {
+      "id": "flashcard",
+      "word": "flashcard",
+      "pos": "noun",
+      "ipa": "/ˈflæʃkɑːrd/",
+      "reading_th": "แฟลช-การ์ด",
+      "meaning_th": "บัตรคำ",
+      "emoji": "🃏",
+      "example_en": "I review new words with flashcards.",
+      "example_th": "ผมทบทวนคำใหม่ด้วยบัตรคำ",
+      "cefr": "A2",
+      "note_th": "ด้านหน้าเขียนคำ ด้านหลังเขียนความหมาย — วิธีจำศัพท์แบบเดียวกับที่ JUNYPOP ใช้",
+      "distractors": [
+        "credit card",
+        "postcard",
+        "flashlight"
+      ],
+      "image": "words/flashcard.webp"
+    },
+    {
+      "id": "research",
+      "word": "research",
+      "pos": "verb",
+      "ipa": "/ˈriːsɜːrtʃ/",
+      "reading_th": "รี-เสิร์ช",
+      "meaning_th": "ค้นคว้า, วิจัย",
+      "emoji": "🔍",
+      "example_en": "I need to research this topic for my essay.",
+      "example_th": "ผมต้องค้นคว้าหัวข้อนี้เพื่อเขียนเรียงความ",
+      "cefr": "B1",
+      "note_th": "เป็นทั้งกริยาและคำนาม (นับไม่ได้ ห้ามพูด a research) — do research on ...",
+      "distractors": [
+        "reach",
+        "search",
+        "resource"
+      ],
+      "image": "words/research.webp"
+    },
+    {
+      "id": "library",
+      "word": "library",
+      "pos": "noun",
+      "ipa": "/ˈlaɪbreri/",
+      "reading_th": "ไล-บระ-รี",
+      "meaning_th": "ห้องสมุด",
+      "emoji": "📚",
+      "example_en": "The library is open until 8 p.m.",
+      "example_th": "ห้องสมุดเปิดถึงสองทุ่ม",
+      "cefr": "A1",
+      "note_th": "บรรณารักษ์ = librarian — ห้องสมุด (library) กับร้านหนังสือ (bookstore) คนละที่",
+      "distractors": [
+        "bookstore",
+        "laboratory",
+        "lottery"
+      ],
+      "image": "words/library.webp"
+    },
+    {
+      "id": "memorize",
+      "word": "memorize",
+      "pos": "verb",
+      "ipa": "/ˈmeməraɪz/",
+      "reading_th": "เม-โม-ไรซ์",
+      "meaning_th": "ท่องจำ",
+      "emoji": "🧠",
+      "example_en": "You don't need to memorize every word.",
+      "example_th": "ไม่ต้องท่องจำทุกคำหรอก",
+      "cefr": "A2",
+      "note_th": "memory = ความจำ, memorize = ท่องจำ — อีกสำนวน learn by heart = จำขึ้นใจ",
+      "distractors": [
+        "memory",
+        "minimize",
+        "modernize"
+      ],
+      "image": "words/memorize.webp"
+    },
+    {
+      "id": "revise",
+      "word": "revise",
+      "pos": "verb",
+      "ipa": "/rɪˈvaɪz/",
+      "reading_th": "รี-ไวซ์",
+      "meaning_th": "ทบทวน (เตรียมสอบ)",
+      "emoji": "🔁",
+      "example_en": "I'm revising for my English exam.",
+      "example_th": "ผมกำลังทบทวนเตรียมสอบอังกฤษ",
+      "cefr": "B1",
+      "note_th": "revise (บริติช) = ทบทวนก่อนสอบ อเมริกันพูดว่า review / study — revise ยังแปลว่าแก้ไขงานเขียนได้ด้วย",
+      "distractors": [
+        "advise",
+        "review",
+        "revive"
+      ],
+      "image": "words/revise.webp"
+    },
+    {
+      "id": "due_date",
+      "word": "due date",
+      "pos": "noun",
+      "ipa": "/ˈduː deɪt/",
+      "reading_th": "ดู-เดท",
+      "meaning_th": "กำหนดส่ง",
+      "emoji": "📆",
+      "example_en": "The due date for the essay is Monday.",
+      "example_th": "กำหนดส่งเรียงความคือวันจันทร์",
+      "cefr": "B1",
+      "note_th": "due = ถึงกำหนด: \"It's due tomorrow.\" = ต้องส่งพรุ่งนี้ — ส่งช้ากว่ากำหนด = overdue",
+      "distractors": [
+        "first date",
+        "up to date",
+        "blind date"
+      ],
+      "image": "words/due_date.webp"
+    },
+    {
+      "id": "group_work",
+      "word": "group work",
+      "pos": "noun",
+      "ipa": "/ˈɡruːp wɜːrk/",
+      "reading_th": "กรุ๊ป-เวิร์ก",
+      "meaning_th": "งานกลุ่ม",
+      "emoji": "👥",
+      "example_en": "We did group work on the science project.",
+      "example_th": "เราทำงานกลุ่มโปรเจกต์วิทย์",
+      "cefr": "A2",
+      "note_th": "work in groups = ทำงานเป็นกลุ่ม — งานเดี่ยว = individual work",
+      "distractors": [
+        "teamwork",
+        "groupie",
+        "homework"
+      ],
+      "image": "words/group_work.webp"
+    },
+    {
+      "id": "tutor",
+      "word": "tutor",
+      "pos": "noun",
+      "ipa": "/ˈtuːtər/",
+      "reading_th": "ทู-เทอร์",
+      "meaning_th": "ติวเตอร์, ครูสอนพิเศษ",
+      "emoji": "🧑‍🏫",
+      "example_en": "My tutor helps me with math on weekends.",
+      "example_th": "ติวเตอร์ช่วยสอนคณิตผมวันหยุด",
+      "cefr": "A2",
+      "note_th": "คำว่า \"ติว\" ของไทยมาจาก tutor — เรียนพิเศษ = take extra classes / have a tutor",
+      "distractors": [
+        "tutorial",
+        "tuna",
+        "tumor"
+      ],
+      "image": "words/tutor.webp"
+    },
+    {
+      "id": "dictionary",
+      "word": "dictionary",
+      "pos": "noun",
+      "ipa": "/ˈdɪkʃəneri/",
+      "reading_th": "ดิก-ชะ-เน-รี",
+      "meaning_th": "พจนานุกรม",
+      "emoji": "📕",
+      "example_en": "Look up the word in the dictionary.",
+      "example_th": "เปิดหาคำนี้ในพจนานุกรม",
+      "cefr": "A1",
+      "note_th": "look up = เปิดหาคำ (ในดิก) — เน้นเสียงพยางค์แรก \"ดิก\"",
+      "distractors": [
+        "directory",
+        "diction",
+        "delivery"
+      ],
+      "image": "words/dictionary.webp"
+    },
+    {
+      "id": "understand",
+      "word": "understand",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈstænd/",
+      "reading_th": "อัน-เดอร์-สแตนด์",
+      "meaning_th": "เข้าใจ",
+      "emoji": "💡",
+      "example_en": "Do you understand the question?",
+      "example_th": "เข้าใจคำถามไหม",
+      "cefr": "A1",
+      "note_th": "กริยาช่อง 2 และ 3 = understood — ตอบสบาย ๆ ว่า \"I got it.\" (เข้าใจแล้ว) ก็ได้",
+      "distractors": [
+        "underline",
+        "stand up",
+        "undertake"
+      ],
+      "image": "words/understand.webp"
+    },
+    {
+      "id": "exam",
+      "word": "exam",
+      "pos": "noun",
+      "ipa": "/ɪɡˈzæm/",
+      "reading_th": "อิก-แซม",
+      "meaning_th": "การสอบ",
+      "emoji": "📝",
+      "example_en": "Good luck on your exam!",
+      "example_th": "ขอให้โชคดีในการสอบนะ!",
+      "cefr": "A1",
+      "note_th": "ย่อจาก examination — เข้าสอบ = take an exam (ไม่ใช่ make), สอบผ่าน / ตก = pass / fail an exam",
+      "distractors": [
+        "exit",
+        "example",
+        "exact"
+      ],
+      "image": "words/exam.webp"
+    },
+    {
+      "id": "quiz",
+      "word": "quiz",
+      "pos": "noun",
+      "ipa": "/kwɪz/",
+      "reading_th": "ควิซ",
+      "meaning_th": "แบบทดสอบสั้น ๆ",
+      "emoji": "❓",
+      "example_en": "We have a vocabulary quiz every Friday.",
+      "example_th": "เรามีควิซคำศัพท์ทุกวันศุกร์",
+      "cefr": "A1",
+      "note_th": "quiz = สอบย่อย / ทดสอบสั้น ๆ ส่วน exam คือสอบใหญ่ — pop quiz = สอบย่อยแบบไม่บอกล่วงหน้า",
+      "distractors": [
+        "quit",
+        "quick",
+        "quiet"
+      ],
+      "image": "words/quiz.webp"
+    },
+    {
+      "id": "midterm",
+      "word": "midterm",
+      "pos": "noun",
+      "ipa": "/ˈmɪdtɜːrm/",
+      "reading_th": "มิด-เทิร์ม",
+      "meaning_th": "สอบกลางภาค",
+      "emoji": "📊",
+      "example_en": "The midterm covers chapters 1 to 5.",
+      "example_th": "สอบกลางภาคออกบทที่ 1 ถึง 5",
+      "cefr": "A2",
+      "note_th": "mid (กลาง) + term (เทอม) เต็ม ๆ คือ midterm exam",
+      "distractors": [
+        "midnight",
+        "middle",
+        "minimum"
+      ],
+      "image": "words/midterm.webp"
+    },
+    {
+      "id": "final_exam",
+      "word": "final exam",
+      "pos": "noun",
+      "ipa": "/ˈfaɪnəl ɪɡˈzæm/",
+      "reading_th": "ไฟ-เนิ่ล-อิก-แซม",
+      "meaning_th": "สอบปลายภาค",
+      "emoji": "🏁",
+      "example_en": "I'm studying hard for the final exam.",
+      "example_th": "ผมอ่านหนังสือหนักเพื่อสอบปลายภาค",
+      "cefr": "A2",
+      "note_th": "พูดสั้น ๆ ว่า finals ได้ (\"Finals are next week.\") — final = สุดท้าย",
+      "distractors": [
+        "final score",
+        "midterm",
+        "finale"
+      ],
+      "image": "words/final_exam.webp"
+    },
+    {
+      "id": "score",
+      "word": "score",
+      "pos": "noun",
+      "ipa": "/skɔːr/",
+      "reading_th": "สกอร์",
+      "meaning_th": "คะแนน",
+      "emoji": "💯",
+      "example_en": "I got a high score on the test.",
+      "example_th": "ผมได้คะแนนสูงในการสอบ",
+      "cefr": "A1",
+      "note_th": "score ใช้ได้ทั้งคะแนนสอบและคะแนนกีฬา — ทำคะแนน (กริยา) ก็ score เหมือนกัน",
+      "distractors": [
+        "store",
+        "scar",
+        "scare"
+      ],
+      "image": "words/score.webp"
+    },
+    {
+      "id": "pass",
+      "word": "pass",
+      "pos": "verb",
+      "ipa": "/pæs/",
+      "reading_th": "พาส",
+      "meaning_th": "สอบผ่าน",
+      "emoji": "✅",
+      "example_en": "I passed the exam with 85 points!",
+      "example_th": "ผมสอบผ่านด้วยคะแนน 85!",
+      "cefr": "A1",
+      "note_th": "pass an exam = สอบผ่าน ตรงข้ามกับ fail — อย่าสับสนกับ past (อดีต) ที่ออกเสียงคล้ายกัน",
+      "distractors": [
+        "past",
+        "pace",
+        "path"
+      ],
+      "image": "words/pass.webp"
+    },
+    {
+      "id": "fail",
+      "word": "fail",
+      "pos": "verb",
+      "ipa": "/feɪl/",
+      "reading_th": "เฟล",
+      "meaning_th": "สอบตก",
+      "emoji": "❎",
+      "example_en": "If you don't study, you will fail.",
+      "example_th": "ถ้าไม่อ่านหนังสือ จะสอบตกนะ",
+      "cefr": "A1",
+      "note_th": "คำนาม failure = ความล้มเหลว — \"เฟล\" ที่วัยรุ่นไทยพูดก็มาจากคำนี้",
+      "distractors": [
+        "fall",
+        "feel",
+        "file"
+      ],
+      "image": "words/fail.webp"
+    },
+    {
+      "id": "cheating",
+      "word": "cheating",
+      "pos": "noun",
+      "ipa": "/ˈtʃiːtɪŋ/",
+      "reading_th": "ชีท-ติ้ง",
+      "meaning_th": "การทุจริตในการสอบ, การโกง",
+      "emoji": "🙈",
+      "example_en": "Cheating on a test can get you expelled.",
+      "example_th": "ทุจริตในการสอบอาจถูกไล่ออก",
+      "cefr": "A2",
+      "note_th": "cheat = โกง, cheat sheet = โพย, คนโกง = cheater",
+      "distractors": [
+        "chatting",
+        "cheering",
+        "heating"
+      ],
+      "image": "words/cheating.webp"
+    },
+    {
+      "id": "report_card",
+      "word": "report card",
+      "pos": "noun",
+      "ipa": "/rɪˈpɔːrt kɑːrd/",
+      "reading_th": "รี-พอร์ต-การ์ด",
+      "meaning_th": "สมุดพก, ใบเกรด",
+      "emoji": "📇",
+      "example_en": "My parents check my report card every semester.",
+      "example_th": "พ่อแม่ดูสมุดพกผมทุกเทอม",
+      "cefr": "A2",
+      "note_th": "ใบเกรดรวมทุกวิชาของมหาลัยเรียก transcript",
+      "distractors": [
+        "credit card",
+        "report",
+        "postcard"
+      ],
+      "image": "words/report_card.webp"
+    },
+    {
+      "id": "scholarship",
+      "word": "scholarship",
+      "pos": "noun",
+      "ipa": "/ˈskɑːlərʃɪp/",
+      "reading_th": "สกอ-เลอร์-ชิพ",
+      "meaning_th": "ทุนการศึกษา",
+      "emoji": "🏅",
+      "example_en": "She won a scholarship to study abroad.",
+      "example_th": "เธอได้ทุนไปเรียนต่อต่างประเทศ",
+      "cefr": "B1",
+      "note_th": "scholar = นักวิชาการ / นักเรียนทุน — \"on a scholarship\" = เรียนด้วยทุน",
+      "distractors": [
+        "championship",
+        "membership",
+        "worship"
+      ],
+      "image": "words/scholarship.webp"
+    },
+    {
+      "id": "retake",
+      "word": "retake",
+      "pos": "verb",
+      "ipa": "/ˌriːˈteɪk/",
+      "reading_th": "รี-เทค",
+      "meaning_th": "สอบซ่อม, สอบใหม่",
+      "emoji": "🔄",
+      "example_en": "You can retake the test next week.",
+      "example_th": "สอบซ่อมได้สัปดาห์หน้า",
+      "cefr": "B1",
+      "note_th": "re- = อีกครั้ง: retake (สอบใหม่) redo (ทำใหม่) rewrite (เขียนใหม่)",
+      "distractors": [
+        "remake",
+        "retail",
+        "mistake"
+      ],
+      "image": "words/retake.webp"
+    },
+    {
+      "id": "cram",
+      "word": "cram",
+      "pos": "verb",
+      "ipa": "/kræm/",
+      "reading_th": "แครม",
+      "meaning_th": "อัดความรู้โต้รุ่งก่อนสอบ",
+      "emoji": "🌙",
+      "example_en": "I crammed all night before the exam.",
+      "example_th": "ผมอัดหนังสือทั้งคืนก่อนสอบ",
+      "cefr": "B1",
+      "note_th": "cram แปลตรงตัวว่ายัดแน่น ๆ — cram school = โรงเรียนกวดวิชา",
+      "distractors": [
+        "cream",
+        "crab",
+        "crash"
+      ],
+      "image": "words/cram.webp"
+    },
+    {
+      "id": "stressed",
+      "word": "stressed",
+      "pos": "adjective",
+      "ipa": "/strest/",
+      "reading_th": "สเตรสท์",
+      "meaning_th": "เครียด",
+      "emoji": "😰",
+      "example_en": "I'm so stressed about the exams.",
+      "example_th": "ผมเครียดเรื่องสอบมาก",
+      "cefr": "A2",
+      "note_th": "คนเครียด = stressed (มี -ed) ส่วนสิ่งที่ทำให้เครียด = stressful: \"Exams are stressful.\"",
+      "distractors": [
+        "stretched",
+        "dressed",
+        "strict"
+      ],
+      "image": "words/stressed.webp"
+    },
+    {
+      "id": "mistake",
+      "word": "mistake",
+      "pos": "noun",
+      "ipa": "/mɪˈsteɪk/",
+      "reading_th": "มิส-เทค",
+      "meaning_th": "ข้อผิดพลาด",
+      "emoji": "✖️",
+      "example_en": "Don't be afraid of making mistakes.",
+      "example_th": "อย่ากลัวที่จะทำผิดพลาด",
+      "cefr": "A1",
+      "note_th": "make a mistake (ไม่ใช่ do) — \"by mistake\" = โดยไม่ตั้งใจ",
+      "distractors": [
+        "misplace",
+        "steak",
+        "mister"
+      ],
+      "image": "words/mistake.webp"
+    },
+    {
+      "id": "break_time",
+      "word": "break time",
+      "pos": "noun",
+      "ipa": "/ˈbreɪk taɪm/",
+      "reading_th": "เบรก-ไทม์",
+      "meaning_th": "เวลาพัก",
+      "emoji": "☕",
+      "example_en": "Let's play football at break time.",
+      "example_th": "พักเบรกไปเตะบอลกัน",
+      "cefr": "A1",
+      "note_th": "บริติช break time / อเมริกัน recess (สำหรับเด็กประถม) — \"take a break\" = พักสักหน่อย",
+      "distractors": [
+        "bedtime",
+        "breakfast",
+        "brake"
+      ],
+      "image": "words/break_time.webp"
+    },
+    {
+      "id": "lunch_break",
+      "word": "lunch break",
+      "pos": "noun",
+      "ipa": "/ˈlʌntʃ breɪk/",
+      "reading_th": "ลันช์-เบรก",
+      "meaning_th": "พักกลางวัน",
+      "emoji": "🍛",
+      "example_en": "Lunch break is only 40 minutes.",
+      "example_th": "พักกลางวันแค่ 40 นาที",
+      "cefr": "A1",
+      "note_th": "ใช้ได้ทั้งโรงเรียนและที่ทำงาน — \"on my lunch break\" = ตอนพักเที่ยง",
+      "distractors": [
+        "lunch box",
+        "coffee break",
+        "brunch"
+      ],
+      "image": "words/lunch_break.webp"
+    },
+    {
+      "id": "playground",
+      "word": "playground",
+      "pos": "noun",
+      "ipa": "/ˈpleɪɡraʊnd/",
+      "reading_th": "เพลย์-กราวด์",
+      "meaning_th": "สนามเด็กเล่น",
+      "emoji": "🛝",
+      "example_en": "The kids ran to the playground.",
+      "example_th": "เด็ก ๆ วิ่งไปสนามเด็กเล่น",
+      "cefr": "A1",
+      "note_th": "play (เล่น) + ground (พื้นที่) — สนามกีฬาของโรงเรียนเรียก sports field",
+      "distractors": [
+        "background",
+        "playroom",
+        "underground"
+      ],
+      "image": "words/playground.webp"
+    },
+    {
+      "id": "field_trip",
+      "word": "field trip",
+      "pos": "noun",
+      "ipa": "/ˈfiːld trɪp/",
+      "reading_th": "ฟีลด์-ทริป",
+      "meaning_th": "ทัศนศึกษา",
+      "emoji": "🚌",
+      "example_en": "Our field trip is to the science museum.",
+      "example_th": "ทัศนศึกษาของเราไปพิพิธภัณฑ์วิทยาศาสตร์",
+      "cefr": "A2",
+      "note_th": "field = สนาม / ภาคสนาม จึงแปลว่าทริปออกนอกห้องเรียน — บริติชเรียก school trip",
+      "distractors": [
+        "road trip",
+        "business trip",
+        "football field"
+      ],
+      "image": "words/field_trip.webp"
+    },
+    {
+      "id": "club",
+      "word": "club",
+      "pos": "noun",
+      "ipa": "/klʌb/",
+      "reading_th": "คลับ",
+      "meaning_th": "ชมรม",
+      "emoji": "🎭",
+      "example_en": "I joined the drama club this year.",
+      "example_th": "ปีนี้ผมเข้าชมรมละคร",
+      "cefr": "A1",
+      "note_th": "join a club = เข้าชมรม — club ยังแปลว่าไนต์คลับและไม้กอล์ฟได้ด้วย",
+      "distractors": [
+        "clap",
+        "cloud",
+        "clip"
+      ],
+      "image": "words/club.webp"
+    },
+    {
+      "id": "sports_day",
+      "word": "sports day",
+      "pos": "noun",
+      "ipa": "/ˈspɔːrts deɪ/",
+      "reading_th": "สปอร์ตส์-เดย์",
+      "meaning_th": "วันกีฬาสี",
+      "emoji": "🏃‍♀️",
+      "example_en": "Everyone wears their team color on sports day.",
+      "example_th": "วันกีฬาสีทุกคนใส่สีทีมตัวเอง",
+      "cefr": "A1",
+      "note_th": "กีฬาสีเป็นวัฒนธรรมโรงเรียนไทย / อังกฤษ — อธิบายฝรั่งว่า \"sports day with color teams\"",
+      "distractors": [
+        "birthday",
+        "holiday",
+        "sports car"
+      ],
+      "image": "words/sports_day.webp"
+    },
+    {
+      "id": "school_bus",
+      "word": "school bus",
+      "pos": "noun",
+      "ipa": "/ˈskuːl bʌs/",
+      "reading_th": "สกูล-บัส",
+      "meaning_th": "รถโรงเรียน",
+      "emoji": "🚍",
+      "example_en": "The school bus leaves at 7:15.",
+      "example_th": "รถโรงเรียนออกตอน 7:15",
+      "cefr": "A1",
+      "note_th": "ในอเมริการถโรงเรียนสีเหลืองทุกคัน (yellow school bus) — ขึ้นรถ = get on the bus",
+      "distractors": [
+        "school bag",
+        "tour bus",
+        "bus stop"
+      ],
+      "image": "words/school_bus.webp"
+    },
+    {
+      "id": "homeroom",
+      "word": "homeroom",
+      "pos": "noun",
+      "ipa": "/ˈhoʊmruːm/",
+      "reading_th": "โฮม-รูม",
+      "meaning_th": "คาบโฮมรูม",
+      "emoji": "🏠",
+      "example_en": "We meet our homeroom teacher every morning.",
+      "example_th": "เราเจอครูประจำชั้นทุกเช้า",
+      "cefr": "A2",
+      "note_th": "homeroom teacher = ครูประจำชั้น (ครูที่ปรึกษา) — คำนี้เป็นอเมริกัน บริติชใช้ form tutor",
+      "distractors": [
+        "homework",
+        "bedroom",
+        "hometown"
+      ],
+      "image": "words/homeroom.webp"
+    },
+    {
+      "id": "assembly",
+      "word": "assembly",
+      "pos": "noun",
+      "ipa": "/əˈsembli/",
+      "reading_th": "อะ-เซม-บลี",
+      "meaning_th": "การเข้าแถว, การประชุมรวม",
+      "emoji": "🚩",
+      "example_en": "We sing the national anthem at morning assembly.",
+      "example_th": "เราร้องเพลงชาติตอนเข้าแถวเช้า",
+      "cefr": "B1",
+      "note_th": "เข้าแถวหน้าเสาธงแบบไทย = morning assembly — assemble = รวมตัว / ประกอบ",
+      "distractors": [
+        "assembly line",
+        "embassy",
+        "academy"
+      ],
+      "image": "words/assembly.webp"
+    },
+    {
+      "id": "detention",
+      "word": "detention",
+      "pos": "noun",
+      "ipa": "/dɪˈtenʃən/",
+      "reading_th": "ดิ-เทน-ชั่น",
+      "meaning_th": "การถูกกักตัวหลังเลิกเรียน",
+      "emoji": "⏳",
+      "example_en": "He got detention for being late again.",
+      "example_th": "เขาโดนกักตัวเพราะมาสายอีกแล้ว",
+      "cefr": "B1",
+      "note_th": "การลงโทษแบบฝรั่ง: ให้อยู่ต่อหลังเลิกเรียน — detain = กักตัว",
+      "distractors": [
+        "attention",
+        "intention",
+        "retention"
+      ],
+      "image": "words/detention.webp"
+    },
+    {
+      "id": "best_friend",
+      "word": "best friend",
+      "pos": "noun",
+      "ipa": "/ˌbest ˈfrend/",
+      "reading_th": "เบสท์-เฟรนด์",
+      "meaning_th": "เพื่อนสนิท",
+      "emoji": "💛",
+      "example_en": "My best friend sits next to me in class.",
+      "example_th": "เพื่อนสนิทนั่งข้างผมในห้อง",
+      "cefr": "A1",
+      "note_th": "ย่อว่า bestie หรือ BFF (best friends forever) ในภาษาแชต",
+      "distractors": [
+        "boyfriend",
+        "girlfriend",
+        "best seller"
+      ],
+      "image": "words/best_friend.webp"
+    },
+    {
+      "id": "bully",
+      "word": "bully",
+      "pos": "verb",
+      "ipa": "/ˈbʊli/",
+      "reading_th": "บุล-ลี่",
+      "meaning_th": "รังแก",
+      "emoji": "😠",
+      "example_en": "Don't bully the new student.",
+      "example_th": "อย่ารังแกนักเรียนใหม่",
+      "cefr": "A2",
+      "note_th": "ออกเสียง \"บุล-ลี่\" (u เหมือน put) — การกลั่นแกล้ง = bullying, แกล้งกันในโลกออนไลน์ = cyberbullying",
+      "distractors": [
+        "belly",
+        "bull",
+        "bunny"
+      ],
+      "image": "words/bully.webp"
+    },
+    {
+      "id": "auditorium",
+      "word": "auditorium",
+      "pos": "noun",
+      "ipa": "/ˌɔːdɪˈtɔːriəm/",
+      "reading_th": "ออ-ดิ-ทอ-เรียม",
+      "meaning_th": "หอประชุม",
+      "emoji": "🎤",
+      "example_en": "The concert is in the school auditorium.",
+      "example_th": "คอนเสิร์ตจัดที่หอประชุมโรงเรียน",
+      "cefr": "B1",
+      "note_th": "audi- = การฟัง (เหมือน audio) — บริติชเรียก school hall",
+      "distractors": [
+        "aquarium",
+        "stadium",
+        "auditor"
+      ],
+      "image": "words/auditorium.webp"
+    },
+    {
+      "id": "lab",
+      "word": "lab",
+      "pos": "noun",
+      "ipa": "/læb/",
+      "reading_th": "แล็บ",
+      "meaning_th": "ห้องปฏิบัติการ, ห้องแล็บ",
+      "emoji": "🥽",
+      "example_en": "Wear goggles in the lab.",
+      "example_th": "ใส่แว่นกันสารเคมีในห้องแล็บ",
+      "cefr": "A2",
+      "note_th": "ย่อจาก laboratory (แล-บอ-ระ-ทอ-รี) — ห้องแล็บวิทย์ = science lab",
+      "distractors": [
+        "lap",
+        "lamb",
+        "label"
+      ],
+      "image": "words/lab.webp"
+    },
+    {
+      "id": "graduate",
+      "word": "graduate",
+      "pos": "verb",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "reading_th": "แกร-จู-เอท",
+      "meaning_th": "เรียนจบ",
+      "emoji": "🎓",
+      "example_en": "I will graduate next March.",
+      "example_th": "ผมจะเรียนจบเดือนมีนาคมหน้า",
+      "cefr": "A2",
+      "note_th": "กริยาอ่าน \"แกร-จู-เอท\" แต่คำนาม (บัณฑิต) อ่าน \"แกร-จู-เอิท\" — graduate from + ชื่อสถาบัน",
+      "distractors": [
+        "gradual",
+        "grade",
+        "gratitude"
+      ],
+      "image": "words/graduate.webp"
+    },
+    {
+      "id": "graduation",
+      "word": "graduation",
+      "pos": "noun",
+      "ipa": "/ˌɡrædʒuˈeɪʃən/",
+      "reading_th": "แกร-จู-เอ-ชั่น",
+      "meaning_th": "พิธีจบการศึกษา",
+      "emoji": "🎉",
+      "example_en": "My whole family came to my graduation.",
+      "example_th": "ครอบครัวมางานรับปริญญาผมทั้งบ้าน",
+      "cefr": "A2",
+      "note_th": "วันรับปริญญา = graduation day, ชุดครุย = graduation gown, หมวก = cap",
+      "distractors": [
+        "gradation",
+        "generation",
+        "celebration"
+      ],
+      "image": "words/graduation.webp"
+    },
+    {
+      "id": "diploma",
+      "word": "diploma",
+      "pos": "noun",
+      "ipa": "/dɪˈploʊmə/",
+      "reading_th": "ดิ-โพล-มา",
+      "meaning_th": "ประกาศนียบัตร",
+      "emoji": "📜",
+      "example_en": "She has a diploma in graphic design.",
+      "example_th": "เธอมีประกาศนียบัตรด้านกราฟิกดีไซน์",
+      "cefr": "B1",
+      "note_th": "ปวช. / ปวส. ของไทยใกล้เคียง vocational diploma — ใบปริญญาตัวจริงบางทีก็เรียก diploma",
+      "distractors": [
+        "diplomat",
+        "dilemma",
+        "plumber"
+      ],
+      "image": "words/diploma.webp"
+    },
+    {
+      "id": "degree",
+      "word": "degree",
+      "pos": "noun",
+      "ipa": "/dɪˈɡriː/",
+      "reading_th": "ดิ-กรี",
+      "meaning_th": "ปริญญา",
+      "emoji": "🎖️",
+      "example_en": "He has a degree in engineering.",
+      "example_th": "เขาจบปริญญาด้านวิศวกรรม",
+      "cefr": "A2",
+      "note_th": "bachelor's degree (ตรี) master's degree (โท) doctoral degree / PhD (เอก) — degree ยังแปลว่าองศาด้วย",
+      "distractors": [
+        "decree",
+        "agree",
+        "degrade"
+      ],
+      "image": "words/degree.webp"
+    },
+    {
+      "id": "university",
+      "word": "university",
+      "pos": "noun",
+      "ipa": "/ˌjuːnɪˈvɜːrsəti/",
+      "reading_th": "ยู-นิ-เวอ-ซิ-ตี้",
+      "meaning_th": "มหาวิทยาลัย",
+      "emoji": "🏛️",
+      "example_en": "I want to study at Chulalongkorn University.",
+      "example_th": "ผมอยากเรียนที่จุฬาฯ",
+      "cefr": "A1",
+      "note_th": "ใช้ a university (ไม่ใช่ an) เพราะออกเสียง \"ยู\" — บริติช / ออสซี่พูดสั้น ๆ ว่า uni",
+      "distractors": [
+        "universe",
+        "diversity",
+        "unity"
+      ],
+      "image": "words/university.webp"
+    },
+    {
+      "id": "college",
+      "word": "college",
+      "pos": "noun",
+      "ipa": "/ˈkɑːlɪdʒ/",
+      "reading_th": "คอล-เลจ",
+      "meaning_th": "วิทยาลัย",
+      "emoji": "🏢",
+      "example_en": "My brother goes to college in Chiang Mai.",
+      "example_th": "พี่ชายผมเรียนวิทยาลัยที่เชียงใหม่",
+      "cefr": "A2",
+      "note_th": "ในอเมริกา college ใช้เรียกมหาลัยทั่วไป \"go to college\" = เรียนต่ออุดมศึกษา — อาชีวะไทย ≈ vocational college",
+      "distractors": [
+        "colleague",
+        "cottage",
+        "collage"
+      ],
+      "image": "words/college.webp"
+    },
+    {
+      "id": "major",
+      "word": "major",
+      "pos": "noun",
+      "ipa": "/ˈmeɪdʒər/",
+      "reading_th": "เม-เจอร์",
+      "meaning_th": "วิชาเอก",
+      "emoji": "🎯",
+      "example_en": "What's your major? Computer science.",
+      "example_th": "เรียนเอกอะไร วิทยาการคอมพิวเตอร์",
+      "cefr": "A2",
+      "note_th": "กริยา major in = เรียนเอก, วิชาโท = minor — major ยังแปลว่าสำคัญ / ใหญ่ได้",
+      "distractors": [
+        "minor",
+        "mayor",
+        "manager"
+      ],
+      "image": "words/major.webp"
+    },
+    {
+      "id": "enroll",
+      "word": "enroll",
+      "pos": "verb",
+      "ipa": "/ɪnˈroʊl/",
+      "reading_th": "อิน-โรล",
+      "meaning_th": "ลงทะเบียนเรียน",
+      "emoji": "🖊️",
+      "example_en": "I enrolled in an online English course.",
+      "example_th": "ผมลงทะเบียนเรียนคอร์สอังกฤษออนไลน์",
+      "cefr": "B1",
+      "note_th": "enroll in a course — บริติชสะกด enrol (l ตัวเดียว) การลงทะเบียน = enrollment",
+      "distractors": [
+        "unroll",
+        "enjoy",
+        "control"
+      ],
+      "image": "words/enroll.webp"
+    },
+    {
+      "id": "admission",
+      "word": "admission",
+      "pos": "noun",
+      "ipa": "/ədˈmɪʃən/",
+      "reading_th": "แอด-มิช-ชั่น",
+      "meaning_th": "การรับเข้าเรียน",
+      "emoji": "🎟️",
+      "example_en": "University admission is very competitive.",
+      "example_th": "การสอบเข้ามหาลัยแข่งขันสูงมาก",
+      "cefr": "B1",
+      "note_th": "\"แอดมิชชั่น\" ที่เด็กไทยพูดคือคำนี้ — admit = รับเข้า / ยอมรับ, admission fee = ค่าเข้าชม",
+      "distractors": [
+        "mission",
+        "permission",
+        "addition"
+      ],
+      "image": "words/admission.webp"
+    },
+    {
+      "id": "entrance_exam",
+      "word": "entrance exam",
+      "pos": "noun",
+      "ipa": "/ˈentrəns ɪɡˈzæm/",
+      "reading_th": "เอน-ทรึนซ์-อิก-แซม",
+      "meaning_th": "สอบเข้า",
+      "emoji": "🚪",
+      "example_en": "She's preparing for the university entrance exam.",
+      "example_th": "เธอเตรียมสอบเข้ามหาวิทยาลัย",
+      "cefr": "A2",
+      "note_th": "entrance = ทางเข้า / การเข้า — สอบเข้า ม.1 หรือมหาลัยใช้คำเดียวกัน",
+      "distractors": [
+        "exit exam",
+        "entrance fee",
+        "final exam"
+      ],
+      "image": "words/entrance_exam.webp"
+    },
+    {
+      "id": "dormitory",
+      "word": "dormitory",
+      "pos": "noun",
+      "ipa": "/ˈdɔːrmətɔːri/",
+      "reading_th": "ดอร์-มิ-ทอ-รี",
+      "meaning_th": "หอพัก",
+      "emoji": "🛏️",
+      "example_en": "First-year students live in the dormitory.",
+      "example_th": "นักศึกษาปีหนึ่งอยู่หอพัก",
+      "cefr": "A2",
+      "note_th": "พูดสั้น ๆ ว่า dorm — หอพักนอกมหาลัยเรียก apartment มากกว่า",
+      "distractors": [
+        "territory",
+        "laboratory",
+        "factory"
+      ],
+      "image": "words/dormitory.webp"
+    },
+    {
+      "id": "freshman",
+      "word": "freshman",
+      "pos": "noun",
+      "ipa": "/ˈfreʃmən/",
+      "reading_th": "เฟรช-เมิน",
+      "meaning_th": "นักศึกษาปีหนึ่ง",
+      "emoji": "🌱",
+      "example_en": "I was so nervous as a freshman.",
+      "example_th": "ตอนเป็นเฟรชชี่ผมประหม่ามาก",
+      "cefr": "B1",
+      "note_th": "อเมริกัน: freshman (ปี 1) sophomore (ปี 2) junior (ปี 3) senior (ปี 4) — \"เฟรชชี่\" ของไทยมาจาก freshy / fresher",
+      "distractors": [
+        "fisherman",
+        "fresh milk",
+        "foreman"
+      ],
+      "image": "words/freshman.webp"
+    },
+    {
+      "id": "senior",
+      "word": "senior",
+      "pos": "noun",
+      "ipa": "/ˈsiːnjər/",
+      "reading_th": "ซี-เนียร์",
+      "meaning_th": "นักเรียนปีสุดท้าย, รุ่นพี่",
+      "emoji": "🧑‍🎓",
+      "example_en": "The seniors will graduate in June.",
+      "example_th": "รุ่นพี่ปีสุดท้ายจะจบเดือนมิถุนายน",
+      "cefr": "B1",
+      "note_th": "senior = ปีสุดท้าย / รุ่นพี่ / ผู้สูงอายุ (senior citizen) ตรงข้ามกับ junior",
+      "distractors": [
+        "junior",
+        "signal",
+        "scenario"
+      ],
+      "image": "words/senior.webp"
+    },
+    {
+      "id": "future",
+      "word": "future",
+      "pos": "noun",
+      "ipa": "/ˈfjuːtʃər/",
+      "reading_th": "ฟิว-เชอร์",
+      "meaning_th": "อนาคต",
+      "emoji": "🚀",
+      "example_en": "Study hard for a better future.",
+      "example_th": "ตั้งใจเรียนเพื่ออนาคตที่ดีกว่า",
+      "cefr": "A1",
+      "note_th": "in the future = ในอนาคต — future tense = กาลอนาคต (will / going to)",
+      "distractors": [
+        "feature",
+        "furniture",
+        "fixture"
+      ],
+      "image": "words/future.webp"
+    }
+  ]
+}

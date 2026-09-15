@@ -112,14 +112,14 @@
     },
     {
       "id": "school",
+      "file": "school.json",
       "name_en": "School",
       "name_th": "โรงเรียน",
       "emoji": "🎒",
       "color_start": "#A3E635",
       "color_end": "#65A30D",
-      "available": false,
-      "mascot_costume": "student",
-      "description_th": "ห้องเรียน การบ้าน สอบ และชีวิตนักเรียน"
+      "available": true,
+      "image": "worlds/school.webp"
     },
     {
       "id": "social_media",
