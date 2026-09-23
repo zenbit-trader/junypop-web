@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "love",
+    "name_en": "Love & Dating",
+    "name_th": "ความรัก",
+    "emoji": "💕",
+    "color_start": "#FB7185",
+    "color_end": "#E11D48",
+    "description_th": "จีบ เดต บอกรัก ทะเลาะ ง้อ ไปจนถึงแต่งงาน พร้อมสแลงความรักที่คนรุ่นใหม่ใช้จริง",
+    "mascot_costume": "cupid",
+    "lessons": [
+      {
+        "id": "love_1",
+        "title_en": "Meeting Someone",
+        "title_th": "เจอคนที่ใช่",
+        "emoji": "💘",
+        "word_ids": [
+          "crush",
+          "flirt",
+          "single",
+          "taken",
+          "my_type",
+          "butterflies",
+          "blush",
+          "shy",
+          "attractive",
+          "charming",
+          "first_impression",
+          "ask_out",
+          "eye_contact",
+          "blind_date"
+        ]
+      },
+      {
+        "id": "love_2",
+        "title_en": "The First Date",
+        "title_th": "เดตแรก",
+        "emoji": "🌹",
+        "word_ids": [
+          "date",
+          "dress_up",
+          "small_talk",
+          "compliment",
+          "awkward",
+          "movie_date",
+          "dinner_date",
+          "treat",
+          "walk_home",
+          "goodnight",
+          "text_back",
+          "second_date",
+          "hug",
+          "kiss"
+        ]
+      },
+      {
+        "id": "love_3",
+        "title_en": "Going Out",
+        "title_th": "คบกันแล้ว",
+        "emoji": "💑",
+        "word_ids": [
+          "relationship",
+          "make_it_official",
+          "girlfriend",
+          "boyfriend",
+          "couple",
+          "pet_name",
+          "hold_hands",
+          "cuddle",
+          "sweetheart",
+          "miss_you",
+          "jealous",
+          "spend_time",
+          "anniversary",
+          "long_distance"
+        ]
+      },
+      {
+        "id": "love_4",
+        "title_en": "Saying I Love You",
+        "title_th": "บอกรัก",
+        "emoji": "❤️",
+        "word_ids": [
+          "love",
+          "fall_in_love",
+          "confess",
+          "feelings",
+          "heart",
+          "romantic",
+          "care_about",
+          "adore",
+          "affection",
+          "soulmate",
+          "true_love",
+          "love_at_first_sight",
+          "sweet_talk",
+          "cheesy"
+        ]
+      },
+      {
+        "id": "love_5",
+        "title_en": "Fights & Making Up",
+        "title_th": "ทะเลาะและง้อ",
+        "emoji": "💔",
+        "word_ids": [
+          "argue",
+          "fight",
+          "misunderstanding",
+          "silent_treatment",
+          "need_space",
+          "forgive",
+          "make_up",
+          "second_chance",
+          "cheat_on",
+          "break_up",
+          "ex",
+          "heartbroken",
+          "regret",
+          "move_on"
+        ]
+      },
+      {
+        "id": "love_6",
+        "title_en": "Getting Married",
+        "title_th": "แต่งงาน",
+        "emoji": "💍",
+        "word_ids": [
+          "fiance",
+          "engaged",
+          "ring",
+          "wedding",
+          "bride",
+          "groom",
+          "best_man",
+          "vows",
+          "marry",
+          "married",
+          "newlyweds",
+          "honeymoon",
+          "in_laws",
+          "pregnant"
+        ]
+      },
+      {
+        "id": "love_7",
+        "title_en": "Friends & Dating Slang",
+        "title_th": "เพื่อนและสแลงความรัก",
+        "emoji": "🚩",
+        "word_ids": [
+          "friendship",
+          "support",
+          "friend_zone",
+          "wingman",
+          "matchmaker",
+          "dating_app",
+          "ghosting",
+          "situationship",
+          "red_flag",
+          "green_flag",
+          "catfish",
+          "take_it_slow",
+          "self_love",
+          "single_life"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "crush",
+      "word": "crush",
+      "pos": "noun",
+      "ipa": "/krʌʃ/",
+      "reading_th": "ครัช",
+      "meaning_th": "คนที่แอบชอบ",
+      "emoji": "😍",
+      "example_en": "I had a crush on him in high school.",
+      "example_th": "ตอนมัธยมเคยแอบชอบเขา",
+      "cefr": "B1",
+      "note_th": "พูดว่า have a crush on someone แปลว่าแอบชอบ ยังไม่ถึงขั้นรัก — crush อีกความหมายคือกริยาแปลว่าบดขยี้",
+      "distractors": [
+        "crash",
+        "cross",
+        "brush"
+      ]
+    },
+    {
+      "id": "flirt",
+      "word": "flirt",
+      "pos": "verb",
+      "ipa": "/flɜːrt/",
+      "reading_th": "เฟลิร์ท",
+      "meaning_th": "จีบ พูดหยอกเอินให้ถูกใจ",
+      "emoji": "😉",
+      "example_en": "He flirts with everyone at the party.",
+      "example_th": "เขาจีบทุกคนในงานปาร์ตี้",
+      "cefr": "B2",
+      "note_th": "ต้องมี with เสมอ flirt with someone — คนที่ชอบจีบไปทั่วเรียกว่า flirty",
+      "distractors": [
+        "float",
+        "flight",
+        "first"
+      ]
+    },
+    {
+      "id": "single",
+      "word": "single",
+      "pos": "adjective",
+      "ipa": "/ˈsɪŋɡl/",
+      "reading_th": "ซิง-เกิ้ล",
+      "meaning_th": "โสด ยังไม่มีแฟน",
+      "emoji": "🙋",
+      "example_en": "She has been single for two years.",
+      "example_th": "เธอโสดมาสองปีแล้ว",
+      "cefr": "A2",
+      "note_th": "single แปลว่าโสด และแปลว่าเดี่ยวหรืออันเดียวก็ได้ เช่น single room คือห้องเตียงเดี่ยว",
+      "distractors": [
+        "signal",
+        "simple",
+        "jungle"
+      ]
+    },
+    {
+      "id": "taken",
+      "word": "taken",
+      "pos": "adjective",
+      "ipa": "/ˈteɪkən/",
+      "reading_th": "เท-เคิ่น",
+      "meaning_th": "มีแฟนแล้ว มีเจ้าของแล้ว",
+      "emoji": "💞",
+      "example_en": "Sorry, I am taken.",
+      "example_th": "ขอโทษนะ เรามีแฟนแล้ว",
+      "cefr": "B1",
+      "note_th": "taken เป็นคำสุภาพและเบา ๆ ที่บอกว่ามีแฟนแล้ว ตรงข้ามกับ single",
+      "distractors": [
+        "token",
+        "taking",
+        "shaken"
+      ]
+    },
+    {
+      "id": "my_type",
+      "word": "my type",
+      "pos": "phrase",
+      "ipa": "/maɪ taɪp/",
+      "reading_th": "มาย ไทป์",
+      "meaning_th": "ตรงสเปกของฉัน",
+      "emoji": "💭",
+      "example_en": "He is nice, but he is not really my type.",
+      "example_th": "เขานิสัยดีนะ แต่ไม่ค่อยตรงสเปกเราเท่าไหร่",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่าตรงสเปก ฝรั่งพูดว่า my type ไม่ใช่ my spec ซึ่งฝรั่งจะงง",
+      "distractors": [
+        "my tape",
+        "my tip",
+        "my time"
+      ]
+    },
+    {
+      "id": "butterflies",
+      "word": "butterflies",
+      "pos": "noun",
+      "ipa": "/ˈbʌtərflaɪz/",
+      "reading_th": "บัท-เทอร์-ไฟลส์",
+      "meaning_th": "อาการใจเต้นตึกตักตอนตื่นเต้นหรือชอบใคร",
+      "emoji": "🦋",
+      "example_en": "I get butterflies every time she texts me.",
+      "example_th": "ทุกครั้งที่เธอทักมา ใจเต้นไม่เป็นจังหวะเลย",
+      "cefr": "B2",
+      "note_th": "สำนวนเต็มคือ butterflies in my stomach ไม่ได้แปลว่ามีผีเสื้อจริง ๆ ในท้อง",
+      "distractors": [
+        "butter",
+        "batteries",
+        "buttons"
+      ]
+    },
+    {
+      "id": "blush",
+      "word": "blush",
+      "pos": "verb",
+      "ipa": "/blʌʃ/",
+      "reading_th": "บลัช",
+      "meaning_th": "หน้าแดงเพราะเขิน",
+      "emoji": "😊",
+      "example_en": "She blushed when he said her name.",
+      "example_th": "เธอหน้าแดงตอนเขาเอ่ยชื่อเธอ",
+      "cefr": "B2",
+      "note_th": "blush คือหน้าแดงเพราะเขิน ส่วนเครื่องสำอางที่ปัดแก้มก็เรียก blush เหมือนกัน",
+      "distractors": [
+        "brush",
+        "blast",
+        "blues"
+      ]
+    },
+    {
+      "id": "shy",
+      "word": "shy",
+      "pos": "adjective",
+      "ipa": "/ʃaɪ/",
+      "reading_th": "ชาย",
+      "meaning_th": "ขี้อาย",
+      "emoji": "🙈",
+      "example_en": "He is too shy to say hello to her.",
+      "example_th": "เขาขี้อายเกินกว่าจะไปทักเธอ",
+      "cefr": "A2",
+      "note_th": "shy คือขี้อายเป็นนิสัย ส่วน embarrassed คืออายเพราะเพิ่งทำอะไรพลาดไป",
+      "distractors": [
+        "sky",
+        "shine",
+        "sly"
+      ]
+    },
+    {
+      "id": "attractive",
+      "word": "attractive",
+      "pos": "adjective",
+      "ipa": "/əˈtræktɪv/",
+      "reading_th": "อะ-แทรค-ทีฟ",
+      "meaning_th": "ดูดี น่าดึงดูด",
+      "emoji": "✨",
+      "example_en": "She finds him very attractive.",
+      "example_th": "เธอว่าเขาดูดีมาก",
+      "cefr": "B1",
+      "note_th": "attractive ใช้ได้ทั้งผู้ชายและผู้หญิง และสุภาพกว่าคำว่า hot หรือ sexy มาก",
+      "distractors": [
+        "active",
+        "addictive",
+        "attentive"
+      ]
+    },
+    {
+      "id": "charming",
+      "word": "charming",
+      "pos": "adjective",
+      "ipa": "/ˈtʃɑːrmɪŋ/",
+      "reading_th": "ชาร์-มิ่ง",
+      "meaning_th": "มีเสน่ห์ ชวนหลงใหล",
+      "emoji": "😌",
+      "example_en": "Her smile is so charming.",
+      "example_th": "รอยยิ้มของเธอมีเสน่ห์มาก",
+      "cefr": "B2",
+      "note_th": "charming เน้นเสน่ห์จากท่าทางและคำพูด ส่วน attractive เน้นหน้าตาเป็นหลัก",
+      "distractors": [
+        "charging",
+        "chatting",
+        "farming"
+      ]
+    },
+    {
+      "id": "first_impression",
+      "word": "first impression",
+      "pos": "noun",
+      "ipa": "/fɜːrst ɪmˈpreʃn/",
+      "reading_th": "เฟิร์สท์ อิม-เพรส-ชั่น",
+      "meaning_th": "ความรู้สึกแรกที่มีต่อคนที่เพิ่งเจอ",
+      "emoji": "👀",
+      "example_en": "My first impression of him was completely wrong.",
+      "example_th": "ความรู้สึกแรกที่เรามีต่อเขาคิดผิดสนิท",
+      "cefr": "B1",
+      "note_th": "พูดว่า make a good first impression แปลว่าทำให้ประทับใจตั้งแต่แรกเจอ",
+      "distractors": [
+        "first expression",
+        "fast impression",
+        "first depression"
+      ]
+    },
+    {
+      "id": "ask_out",
+      "word": "ask out",
+      "pos": "verb",
+      "ipa": "/ɑːsk aʊt/",
+      "reading_th": "อาสก์-เอ๊าท์",
+      "meaning_th": "ชวนไปเดต",
+      "emoji": "💌",
+      "example_en": "It took him a month to ask her out.",
+      "example_th": "เขาใช้เวลาเป็นเดือนกว่าจะชวนเธอไปเดต",
+      "cefr": "B1",
+      "note_th": "ask someone out คือชวนไปเดต ส่วน ask someone แปลว่าแค่ถาม คนละความหมายกันเลย",
+      "distractors": [
+        "ask about",
+        "act out",
+        "ask around"
+      ]
+    },
+    {
+      "id": "eye_contact",
+      "word": "eye contact",
+      "pos": "noun",
+      "ipa": "/aɪ ˈkɑːntækt/",
+      "reading_th": "อาย คอน-แทค",
+      "meaning_th": "การสบตา",
+      "emoji": "👁️",
+      "example_en": "We made eye contact across the room.",
+      "example_th": "เราสบตากันข้ามห้อง",
+      "cefr": "B2",
+      "note_th": "ใช้กริยา make eye contact ไม่ใช่ do eye contact — ฝรั่งถือว่าการสบตาคือความจริงใจ",
+      "distractors": [
+        "eye contract",
+        "ice contact",
+        "eye contest"
+      ]
+    },
+    {
+      "id": "blind_date",
+      "word": "blind date",
+      "pos": "noun",
+      "ipa": "/blaɪnd deɪt/",
+      "reading_th": "ไบลนด์ เดท",
+      "meaning_th": "เดตกับคนที่ไม่เคยเจอหน้ากันมาก่อน",
+      "emoji": "🎭",
+      "example_en": "My friend set me up on a blind date.",
+      "example_th": "เพื่อนจัดให้ไปเดตกับคนที่ไม่เคยเจอกันมาก่อน",
+      "cefr": "B2",
+      "note_th": "blind ในที่นี้แปลว่ายังไม่เคยเห็นหน้ากัน ไม่ได้แปลว่าตาบอด — คนจัดให้เรียก set up",
+      "distractors": [
+        "blind data",
+        "blank date",
+        "blind gate"
+      ]
+    },
+    {
+      "id": "date",
+      "word": "date",
+      "pos": "noun",
+      "ipa": "/deɪt/",
+      "reading_th": "เดท",
+      "meaning_th": "การนัดเจอกันแบบคนที่ชอบกัน",
+      "emoji": "🌹",
+      "example_en": "We are going on a date on Friday.",
+      "example_th": "เรานัดเดตกันวันศุกร์",
+      "cefr": "A2",
+      "note_th": "go on a date คือไปเดต — คำว่า date ยังแปลว่าวันที่ได้ด้วย ต้องดูบริบท",
+      "distractors": [
+        "data",
+        "gate",
+        "debt"
+      ]
+    },
+    {
+      "id": "dress_up",
+      "word": "dress up",
+      "pos": "verb",
+      "ipa": "/dres ʌp/",
+      "reading_th": "เดรส-อัพ",
+      "meaning_th": "แต่งตัวให้ดูดีเป็นพิเศษ",
+      "emoji": "👗",
+      "example_en": "She dressed up for their first date.",
+      "example_th": "เธอแต่งตัวสวยเป็นพิเศษสำหรับเดตแรก",
+      "cefr": "A2",
+      "note_th": "dress up คือแต่งตัวจัดเต็ม ส่วน get dressed คือแค่ใส่เสื้อผ้าธรรมดา",
+      "distractors": [
+        "dress code",
+        "press up",
+        "draw up"
+      ]
+    },
+    {
+      "id": "small_talk",
+      "word": "small talk",
+      "pos": "noun",
+      "ipa": "/smɔːl tɔːk/",
+      "reading_th": "สมอล ทอล์ค",
+      "meaning_th": "การคุยเรื่องเล็ก ๆ น้อย ๆ ให้ไม่เงียบ",
+      "emoji": "💬",
+      "example_en": "We made small talk about the weather.",
+      "example_th": "เราคุยเรื่องดินฟ้าอากาศไปเรื่อยให้ไม่เงียบ",
+      "cefr": "B2",
+      "note_th": "ใช้กริยา make small talk — เป็นทักษะสำคัญตอนเดตแรกและตอนเจอคนใหม่ในที่ทำงาน",
+      "distractors": [
+        "small talent",
+        "smell talk",
+        "short talk"
+      ]
+    },
+    {
+      "id": "compliment",
+      "word": "compliment",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmplɪmənt/",
+      "reading_th": "คอม-พลิ-เมิ่นท์",
+      "meaning_th": "คำชม",
+      "emoji": "🥰",
+      "example_en": "He gave her a compliment about her dress.",
+      "example_th": "เขาชมชุดที่เธอใส่",
+      "cefr": "B1",
+      "note_th": "ระวังสะกดสลับกับ complement ที่ออกเสียงเหมือนกันแต่แปลว่าสิ่งที่เข้ากันพอดี",
+      "distractors": [
+        "complement",
+        "complaint",
+        "component"
+      ]
+    },
+    {
+      "id": "awkward",
+      "word": "awkward",
+      "pos": "adjective",
+      "ipa": "/ˈɔːkwərd/",
+      "reading_th": "ออค-เวิร์ด",
+      "meaning_th": "เก้อเขิน กระอักกระอ่วน",
+      "emoji": "😅",
+      "example_en": "There was an awkward silence at dinner.",
+      "example_th": "ตอนกินข้าวมีช่วงเงียบแบบกระอักกระอ่วน",
+      "cefr": "B2",
+      "note_th": "ตัว w ตัวแรกไม่ออกเสียง อ่าน ออค-เวิร์ด — วัยรุ่นพูดสั้น ๆ ว่า that was awkward",
+      "distractors": [
+        "outward",
+        "awful",
+        "backward"
+      ]
+    },
+    {
+      "id": "movie_date",
+      "word": "movie date",
+      "pos": "noun",
+      "ipa": "/ˈmuːvi deɪt/",
+      "reading_th": "มู-วี่ เดท",
+      "meaning_th": "เดตดูหนัง",
+      "emoji": "🎬",
+      "example_en": "A movie date is an easy first date.",
+      "example_th": "เดตดูหนังเป็นเดตแรกที่ง่ายดี",
+      "cefr": "A2",
+      "note_th": "อเมริกันใช้ movie อังกฤษใช้ film — โรงหนังคือ cinema หรือ movie theater",
+      "distractors": [
+        "movie data",
+        "moving date",
+        "movie gate"
+      ]
+    },
+    {
+      "id": "dinner_date",
+      "word": "dinner date",
+      "pos": "noun",
+      "ipa": "/ˈdɪnər deɪt/",
+      "reading_th": "ดิน-เนอร์ เดท",
+      "meaning_th": "เดตกินข้าวเย็น",
+      "emoji": "🍝",
+      "example_en": "He booked a table for their dinner date.",
+      "example_th": "เขาจองโต๊ะไว้สำหรับเดตกินข้าวเย็น",
+      "cefr": "A2",
+      "note_th": "จองโต๊ะพูดว่า book a table หรือ make a reservation ไม่ใช่ book a chair",
+      "distractors": [
+        "dinner plate",
+        "winner date",
+        "diner date"
+      ]
+    },
+    {
+      "id": "treat",
+      "word": "treat",
+      "pos": "verb",
+      "ipa": "/triːt/",
+      "reading_th": "ทรีท",
+      "meaning_th": "เลี้ยง ออกเงินให้",
+      "emoji": "🧾",
+      "example_en": "Put your wallet away, this is my treat.",
+      "example_th": "เก็บกระเป๋าตังค์ไปเลย มื้อนี้เราเลี้ยงเอง",
+      "cefr": "B1",
+      "note_th": "my treat แปลว่าเราเลี้ยงเอง — ถ้าจะหารกันพูดว่า let us split it",
+      "distractors": [
+        "trait",
+        "tree",
+        "threat"
+      ]
+    },
+    {
+      "id": "walk_home",
+      "word": "walk home",
+      "pos": "verb",
+      "ipa": "/wɔːk hoʊm/",
+      "reading_th": "วอล์ค โฮม",
+      "meaning_th": "เดินไปส่งถึงบ้าน",
+      "emoji": "🌃",
+      "example_en": "Let me walk you home, it is late.",
+      "example_th": "เดี๋ยวเดินไปส่งที่บ้านนะ ดึกแล้ว",
+      "cefr": "A2",
+      "note_th": "walk someone home แปลว่าเดินไปส่ง ส่วน walk home เฉย ๆ แปลว่าเดินกลับบ้านคนเดียว",
+      "distractors": [
+        "walk alone",
+        "work home",
+        "talk home"
+      ]
+    },
+    {
+      "id": "goodnight",
+      "word": "goodnight",
+      "pos": "phrase",
+      "ipa": "/ɡʊdˈnaɪt/",
+      "reading_th": "กู๊ด-ไนท์",
+      "meaning_th": "ราตรีสวัสดิ์ คำลาตอนกลางคืน",
+      "emoji": "🌙",
+      "example_en": "He said goodnight and waved from the taxi.",
+      "example_th": "เขาบอกราตรีสวัสดิ์แล้วโบกมือจากในแท็กซี่",
+      "cefr": "A1",
+      "note_th": "goodnight ใช้ตอนลาจากกันหรือก่อนนอนเท่านั้น ถ้าเจอกันตอนกลางคืนให้ทักว่า good evening",
+      "distractors": [
+        "good night out",
+        "good knight",
+        "goodbye night"
+      ]
+    },
+    {
+      "id": "text_back",
+      "word": "text back",
+      "pos": "verb",
+      "ipa": "/tekst bæk/",
+      "reading_th": "เท็กซ์ท-แบ็ค",
+      "meaning_th": "ตอบข้อความกลับ",
+      "emoji": "📲",
+      "example_en": "She waited two days for him to text back.",
+      "example_th": "เธอรอเขาตอบแชทอยู่สองวัน",
+      "cefr": "A2",
+      "note_th": "text เป็นกริยาได้เลย แปลว่าส่งข้อความ — ไม่ต้องพูดว่า send a text back ก็ได้",
+      "distractors": [
+        "take back",
+        "text box",
+        "talk back"
+      ]
+    },
+    {
+      "id": "second_date",
+      "word": "second date",
+      "pos": "noun",
+      "ipa": "/ˈsekənd deɪt/",
+      "reading_th": "เซ-เคิ่นด์ เดท",
+      "meaning_th": "เดตครั้งที่สอง",
+      "emoji": "🔁",
+      "example_en": "The first date went well, so there was a second date.",
+      "example_th": "เดตแรกไปได้สวย เลยมีเดตที่สองตามมา",
+      "cefr": "A2",
+      "note_th": "ฝรั่งถือว่าการได้ second date แปลว่าอีกฝ่ายสนใจจริง ไม่ได้มาแค่ให้ครบมารยาท",
+      "distractors": [
+        "second data",
+        "second gate",
+        "second rate"
+      ]
+    },
+    {
+      "id": "hug",
+      "word": "hug",
+      "pos": "noun",
+      "ipa": "/hʌɡ/",
+      "reading_th": "ฮัก",
+      "meaning_th": "การกอด",
+      "emoji": "🤗",
+      "example_en": "She gave him a quick hug before leaving.",
+      "example_th": "เธอกอดเขาแป๊บนึงก่อนจะกลับ",
+      "cefr": "A1",
+      "note_th": "ใช้ give someone a hug — บังเอิญออกเสียงเหมือนคำไทยว่ารัก แต่ไม่เกี่ยวกันเลย",
+      "distractors": [
+        "hut",
+        "hook",
+        "hag"
+      ]
+    },
+    {
+      "id": "kiss",
+      "word": "kiss",
+      "pos": "noun",
+      "ipa": "/kɪs/",
+      "reading_th": "คิส",
+      "meaning_th": "การจูบ",
+      "emoji": "💋",
+      "example_en": "Their first kiss was at the bus stop.",
+      "example_th": "จูบแรกของทั้งคู่เกิดขึ้นที่ป้ายรถเมล์",
+      "cefr": "A2",
+      "note_th": "เป็นได้ทั้งคำนามและกริยา — จูบแก้มทักทายแบบฝรั่งเรียก a peck on the cheek",
+      "distractors": [
+        "kick",
+        "miss",
+        "kit"
+      ]
+    },
+    {
+      "id": "relationship",
+      "word": "relationship",
+      "pos": "noun",
+      "ipa": "/rɪˈleɪʃnʃɪp/",
+      "reading_th": "ริ-เล-ชั่น-ชิพ",
+      "meaning_th": "ความสัมพันธ์",
+      "emoji": "💑",
+      "example_en": "They have been in a relationship for a year.",
+      "example_th": "ทั้งคู่คบกันมาหนึ่งปีแล้ว",
+      "cefr": "B1",
+      "note_th": "พูดว่า be in a relationship แปลว่ามีแฟนแล้ว — ใช้กับความสัมพันธ์แบบอื่นได้ด้วย เช่น กับที่ทำงาน",
+      "distractors": [
+        "relation",
+        "religion",
+        "reputation"
+      ]
+    },
+    {
+      "id": "make_it_official",
+      "word": "make it official",
+      "pos": "phrase",
+      "ipa": "/meɪk ɪt əˈfɪʃl/",
+      "reading_th": "เมค อิท ออ-ฟิ-เชิ่ล",
+      "meaning_th": "ตกลงคบกันอย่างเป็นทางการ",
+      "emoji": "✅",
+      "example_en": "After three months they decided to make it official.",
+      "example_th": "คบกันมาสามเดือนก็ตกลงเป็นแฟนกันอย่างเป็นทางการ",
+      "cefr": "B2",
+      "note_th": "สำนวนนี้แปลว่าเลิกคลุมเครือแล้วเป็นแฟนกันจริงจัง ตรงข้ามกับ situationship",
+      "distractors": [
+        "make it offer",
+        "made it office",
+        "make it optional"
+      ]
+    },
+    {
+      "id": "girlfriend",
+      "word": "girlfriend",
+      "pos": "noun",
+      "ipa": "/ˈɡɜːrlfrend/",
+      "reading_th": "เกิร์ล-เฟรนด์",
+      "meaning_th": "แฟนสาว",
+      "emoji": "👩‍❤️‍👨",
+      "example_en": "This is my girlfriend, Nan.",
+      "example_th": "นี่แฟนผมเอง ชื่อแนน",
+      "cefr": "A1",
+      "note_th": "girlfriend เขียนติดกันแปลว่าแฟนสาว ถ้าแยกเป็น girl friend จะกลายเป็นเพื่อนผู้หญิงเฉย ๆ",
+      "distractors": [
+        "girl friend",
+        "girlhood",
+        "girl scout"
+      ]
+    },
+    {
+      "id": "boyfriend",
+      "word": "boyfriend",
+      "pos": "noun",
+      "ipa": "/ˈbɔɪfrend/",
+      "reading_th": "บอย-เฟรนด์",
+      "meaning_th": "แฟนหนุ่ม",
+      "emoji": "👨‍❤️‍👩",
+      "example_en": "Her boyfriend picked her up after work.",
+      "example_th": "แฟนหนุ่มมารับเธอหลังเลิกงาน",
+      "cefr": "A1",
+      "note_th": "คนไทยเรียกแฟนว่า my boy หรือ my girl ฝรั่งไม่เข้าใจ ให้ใช้ boyfriend หรือ girlfriend เต็ม ๆ",
+      "distractors": [
+        "boy friend",
+        "boyhood",
+        "best friend"
+      ]
+    },
+    {
+      "id": "couple",
+      "word": "couple",
+      "pos": "noun",
+      "ipa": "/ˈkʌpl/",
+      "reading_th": "คัพ-เพิ่ล",
+      "meaning_th": "คู่รัก",
+      "emoji": "👫",
+      "example_en": "They are the cutest couple I know.",
+      "example_th": "ทั้งคู่เป็นคู่รักที่น่ารักที่สุดที่เรารู้จัก",
+      "cefr": "A2",
+      "note_th": "couple แปลว่าคู่รัก และ a couple of แปลว่าสองสามอันก็ได้ เช่น a couple of days",
+      "distractors": [
+        "cuppa",
+        "cable",
+        "coupon"
+      ]
+    },
+    {
+      "id": "pet_name",
+      "word": "pet name",
+      "pos": "noun",
+      "ipa": "/pet neɪm/",
+      "reading_th": "เพ็ท เนม",
+      "meaning_th": "ชื่อเรียกหวาน ๆ ที่ใช้เรียกกันเอง",
+      "emoji": "🍯",
+      "example_en": "His pet name for her is Bunny.",
+      "example_th": "เขาเรียกเธอด้วยชื่อหวาน ๆ ว่าบันนี่",
+      "cefr": "B2",
+      "note_th": "pet name ไม่เกี่ยวกับสัตว์เลี้ยง — ที่ฝรั่งใช้บ่อยคือ babe, honey, love",
+      "distractors": [
+        "pen name",
+        "pet game",
+        "best name"
+      ]
+    },
+    {
+      "id": "hold_hands",
+      "word": "hold hands",
+      "pos": "verb",
+      "ipa": "/hoʊld hændz/",
+      "reading_th": "โฮลด์ แฮนด์ส",
+      "meaning_th": "จับมือกัน",
+      "emoji": "🤝",
+      "example_en": "They like to hold hands when they walk.",
+      "example_th": "ทั้งคู่ชอบจับมือกันเวลาเดินไปไหนมาไหน",
+      "cefr": "A2",
+      "note_th": "ใช้พหูพจน์เสมอ hold hands เพราะต้องมีสองมือ — ช่องอดีตคือ held",
+      "distractors": [
+        "hold hand",
+        "cold hands",
+        "hold ends"
+      ]
+    },
+    {
+      "id": "cuddle",
+      "word": "cuddle",
+      "pos": "verb",
+      "ipa": "/ˈkʌdl/",
+      "reading_th": "คัด-เดิ้ล",
+      "meaning_th": "กอดซุกกันนาน ๆ",
+      "emoji": "🧸",
+      "example_en": "They cuddled on the sofa and watched a movie.",
+      "example_th": "ทั้งคู่กอดซุกกันบนโซฟาแล้วดูหนัง",
+      "cefr": "B2",
+      "note_th": "cuddle คือกอดซุกอยู่นาน ๆ ต่างจาก hug ที่กอดแป๊บเดียวแล้วปล่อย",
+      "distractors": [
+        "candle",
+        "puddle",
+        "curdle"
+      ]
+    },
+    {
+      "id": "sweetheart",
+      "word": "sweetheart",
+      "pos": "noun",
+      "ipa": "/ˈswiːthɑːrt/",
+      "reading_th": "สวีท-ฮาร์ท",
+      "meaning_th": "ที่รัก คนรัก",
+      "emoji": "💝",
+      "example_en": "Goodnight, sweetheart.",
+      "example_th": "ราตรีสวัสดิ์นะที่รัก",
+      "cefr": "B1",
+      "note_th": "sweetheart ใช้เรียกคนรัก และผู้ใหญ่ก็ใช้เรียกเด็กอย่างเอ็นดูได้ด้วย",
+      "distractors": [
+        "sweet tooth",
+        "sweatshirt",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "miss_you",
+      "word": "miss you",
+      "pos": "phrase",
+      "ipa": "/mɪs juː/",
+      "reading_th": "มิส ยู",
+      "meaning_th": "คิดถึงเธอ",
+      "emoji": "🥺",
+      "example_en": "I miss you already.",
+      "example_th": "เพิ่งจากกันก็คิดถึงแล้ว",
+      "cefr": "A1",
+      "note_th": "ภาษาอังกฤษพูดว่า I miss you ห้ามพูดว่า I think of you เพราะแปลว่านึกถึงเฉย ๆ ไม่ใช่คิดถึง",
+      "distractors": [
+        "mess you",
+        "kiss you",
+        "miss out"
+      ]
+    },
+    {
+      "id": "jealous",
+      "word": "jealous",
+      "pos": "adjective",
+      "ipa": "/ˈdʒeləs/",
+      "reading_th": "เจ-เลิส",
+      "meaning_th": "หึงหวง",
+      "emoji": "😒",
+      "example_en": "He gets jealous when she talks to other guys.",
+      "example_th": "เขาหึงเวลาเธอคุยกับผู้ชายคนอื่น",
+      "cefr": "B1",
+      "note_th": "ตัว j ออกเสียง เจ ไม่ใช่ เย — jealous แปลได้ทั้งหึงและอิจฉา ต้องดูบริบท",
+      "distractors": [
+        "zealous",
+        "jolly",
+        "joyous"
+      ]
+    },
+    {
+      "id": "spend_time",
+      "word": "spend time",
+      "pos": "verb",
+      "ipa": "/spend taɪm/",
+      "reading_th": "สเปนด์ ไทม์",
+      "meaning_th": "ใช้เวลาอยู่ด้วยกัน",
+      "emoji": "⏰",
+      "example_en": "We try to spend time together every weekend.",
+      "example_th": "เราพยายามใช้เวลาอยู่ด้วยกันทุกสุดสัปดาห์",
+      "cefr": "A2",
+      "note_th": "spend ใช้ได้ทั้งกับเงินและเวลา — spend time with someone คือใช้เวลากับใคร",
+      "distractors": [
+        "send time",
+        "spare time",
+        "spell time"
+      ]
+    },
+    {
+      "id": "anniversary",
+      "word": "anniversary",
+      "pos": "noun",
+      "ipa": "/ˌænɪˈvɜːrsəri/",
+      "reading_th": "แอน-นิ-เวอร์-ซะ-รี่",
+      "meaning_th": "วันครบรอบ",
+      "emoji": "🎂",
+      "example_en": "Tomorrow is our first anniversary.",
+      "example_th": "พรุ่งนี้ครบรอบหนึ่งปีของเรา",
+      "cefr": "B1",
+      "note_th": "anniversary คือครบรอบเหตุการณ์ ส่วนวันเกิดคือ birthday ใช้แทนกันไม่ได้",
+      "distractors": [
+        "university",
+        "adversary",
+        "adversity"
+      ]
+    },
+    {
+      "id": "long_distance",
+      "word": "long distance",
+      "pos": "adjective",
+      "ipa": "/lɔːŋ ˈdɪstəns/",
+      "reading_th": "ลอง ดิส-เทิ่นซ์",
+      "meaning_th": "รักทางไกล อยู่คนละที่",
+      "emoji": "✈️",
+      "example_en": "A long distance relationship is hard but possible.",
+      "example_th": "รักทางไกลมันยาก แต่ก็เป็นไปได้",
+      "cefr": "B2",
+      "note_th": "ย่อว่า LDR ในแชท — long distance ยังใช้กับโทรศัพท์ทางไกลได้ด้วย",
+      "distractors": [
+        "long distant",
+        "wrong distance",
+        "long entrance"
+      ]
+    },
+    {
+      "id": "love",
+      "word": "love",
+      "pos": "noun",
+      "ipa": "/lʌv/",
+      "reading_th": "เลิฟ",
+      "meaning_th": "ความรัก",
+      "emoji": "❤️",
+      "example_en": "Love is not always easy.",
+      "example_th": "ความรักไม่ได้ง่ายเสมอไป",
+      "cefr": "A1",
+      "note_th": "ออกเสียง เลิฟ ไม่ใช่ โลฟ — เป็นได้ทั้งคำนามและกริยา ในอังกฤษยังใช้เรียกคนแบบเอ็นดูว่า love ได้",
+      "distractors": [
+        "live",
+        "loaf",
+        "glove"
+      ]
+    },
+    {
+      "id": "fall_in_love",
+      "word": "fall in love",
+      "pos": "verb",
+      "ipa": "/fɔːl ɪn lʌv/",
+      "reading_th": "ฟอล อิน เลิฟ",
+      "meaning_th": "ตกหลุมรัก",
+      "emoji": "💘",
+      "example_en": "They did not expect to fall in love that summer.",
+      "example_th": "ทั้งคู่ไม่คิดว่าจะตกหลุมรักกันในหน้าร้อนนั้น",
+      "cefr": "B1",
+      "note_th": "ต้องมี in เสมอ fall in love with someone — ช่องสองคือ fell ไม่ใช่ falled",
+      "distractors": [
+        "fall in line",
+        "feel in love",
+        "fall in life"
+      ]
+    },
+    {
+      "id": "confess",
+      "word": "confess",
+      "pos": "verb",
+      "ipa": "/kənˈfes/",
+      "reading_th": "คอน-เฟส",
+      "meaning_th": "สารภาพความในใจ",
+      "emoji": "🙊",
+      "example_en": "He finally confessed his feelings to her.",
+      "example_th": "ในที่สุดเขาก็สารภาพความรู้สึกกับเธอ",
+      "cefr": "B2",
+      "note_th": "confess ใช้กับการสารภาพรักและสารภาพผิดได้ทั้งคู่ — คำนามคือ confession",
+      "distractors": [
+        "conference",
+        "confuse",
+        "concert"
+      ]
+    },
+    {
+      "id": "feelings",
+      "word": "feelings",
+      "pos": "noun",
+      "ipa": "/ˈfiːlɪŋz/",
+      "reading_th": "ฟีล-ลิ่งส์",
+      "meaning_th": "ความรู้สึกที่มีต่อใครสักคน",
+      "emoji": "🫶",
+      "example_en": "I still have feelings for my ex.",
+      "example_th": "เรายังมีใจให้แฟนเก่าอยู่เลย",
+      "cefr": "B1",
+      "note_th": "have feelings for someone แปลว่ามีใจให้ — ส่วน hurt someone feelings คือทำให้เสียความรู้สึก",
+      "distractors": [
+        "fillings",
+        "ceilings",
+        "failings"
+      ]
+    },
+    {
+      "id": "heart",
+      "word": "heart",
+      "pos": "noun",
+      "ipa": "/hɑːrt/",
+      "reading_th": "ฮาร์ท",
+      "meaning_th": "หัวใจ",
+      "emoji": "💗",
+      "example_en": "She broke his heart.",
+      "example_th": "เธอทำให้เขาอกหัก",
+      "cefr": "A1",
+      "note_th": "break someone heart คือทำให้อกหัก — ระวังอย่าอ่านเป็น hurt ที่แปลว่าเจ็บ คนละคำ",
+      "distractors": [
+        "hurt",
+        "heat",
+        "hard"
+      ]
+    },
+    {
+      "id": "romantic",
+      "word": "romantic",
+      "pos": "adjective",
+      "ipa": "/roʊˈmæntɪk/",
+      "reading_th": "โร-แมน-ทิค",
+      "meaning_th": "โรแมนติก ชวนให้รู้สึกรัก",
+      "emoji": "🕯️",
+      "example_en": "Dinner by the river was very romantic.",
+      "example_th": "มื้อเย็นริมแม่น้ำโรแมนติกมาก",
+      "cefr": "B1",
+      "note_th": "เน้นเสียงพยางค์กลาง โร-แมน-ทิค — คำนามคือ romance แปลว่าเรื่องรัก ๆ",
+      "distractors": [
+        "romance",
+        "dramatic",
+        "rheumatic"
+      ]
+    },
+    {
+      "id": "care_about",
+      "word": "care about",
+      "pos": "verb",
+      "ipa": "/ker əˈbaʊt/",
+      "reading_th": "แคร์ อะ-เบ๊าท์",
+      "meaning_th": "ใส่ใจ เป็นห่วงใคร",
+      "emoji": "🤲",
+      "example_en": "I care about you more than you think.",
+      "example_th": "เราใส่ใจเธอมากกว่าที่เธอคิดนะ",
+      "cefr": "B1",
+      "note_th": "care about = ใส่ใจคนหรือเรื่องนั้น ส่วน care for = ดูแลคนป่วยหรือเด็ก คนละความหมาย",
+      "distractors": [
+        "care for",
+        "carry about",
+        "cure about"
+      ]
+    },
+    {
+      "id": "adore",
+      "word": "adore",
+      "pos": "verb",
+      "ipa": "/əˈdɔːr/",
+      "reading_th": "อะ-ดอร์",
+      "meaning_th": "รักและชื่นชมมาก",
+      "emoji": "😻",
+      "example_en": "He absolutely adores her.",
+      "example_th": "เขารักและเทิดทูนเธอมาก",
+      "cefr": "B2",
+      "note_th": "adore แรงกว่า like แต่สุภาพและอบอุ่นกว่า love — ใช้กับของที่ชอบมากได้ด้วย",
+      "distractors": [
+        "adopt",
+        "adorn",
+        "admire"
+      ]
+    },
+    {
+      "id": "affection",
+      "word": "affection",
+      "pos": "noun",
+      "ipa": "/əˈfekʃn/",
+      "reading_th": "อะ-เฟค-ชั่น",
+      "meaning_th": "ความรักใคร่เอ็นดูที่แสดงออกมา",
+      "emoji": "🫂",
+      "example_en": "He shows affection by cooking for her.",
+      "example_th": "เขาแสดงความรักด้วยการทำกับข้าวให้",
+      "cefr": "B2",
+      "note_th": "affection คือความรักที่อ่อนโยน ไม่จำเป็นต้องเป็นแฟนกัน — อย่าสับสนกับ infection ที่แปลว่าติดเชื้อ",
+      "distractors": [
+        "infection",
+        "attention",
+        "affliction"
+      ]
+    },
+    {
+      "id": "soulmate",
+      "word": "soulmate",
+      "pos": "noun",
+      "ipa": "/ˈsoʊlmeɪt/",
+      "reading_th": "โซล-เมท",
+      "meaning_th": "เนื้อคู่ คนที่เข้ากันได้ทุกอย่าง",
+      "emoji": "🧩",
+      "example_en": "She says he is her soulmate.",
+      "example_th": "เธอบอกว่าเขาคือเนื้อคู่ของเธอ",
+      "cefr": "B2",
+      "note_th": "soul แปลว่าจิตวิญญาณ mate แปลว่าคู่ — ตัว l ใน soul ออกเสียงเบา ๆ อ่าน โซล",
+      "distractors": [
+        "shipmate",
+        "sole mate",
+        "soul music"
+      ]
+    },
+    {
+      "id": "true_love",
+      "word": "true love",
+      "pos": "noun",
+      "ipa": "/truː lʌv/",
+      "reading_th": "ทรู เลิฟ",
+      "meaning_th": "รักแท้",
+      "emoji": "💎",
+      "example_en": "My grandparents are proof that true love exists.",
+      "example_th": "ปู่ย่าของเราคือหลักฐานว่ารักแท้มีจริง",
+      "cefr": "B1",
+      "note_th": "true love เป็นคำนามนับไม่ได้ ไม่ต้องใส่ a — พูดว่า find true love ไม่ใช่ find a true love",
+      "distractors": [
+        "trust love",
+        "tree love",
+        "truth love"
+      ]
+    },
+    {
+      "id": "love_at_first_sight",
+      "word": "love at first sight",
+      "pos": "phrase",
+      "ipa": "/lʌv ət fɜːrst saɪt/",
+      "reading_th": "เลิฟ แอท เฟิร์สท์ ไซท์",
+      "meaning_th": "รักแรกพบ",
+      "emoji": "⚡",
+      "example_en": "For him it was love at first sight.",
+      "example_th": "สำหรับเขามันคือรักแรกพบ",
+      "cefr": "B2",
+      "note_th": "sight แปลว่าการมองเห็น ไม่ใช่ site ที่แปลว่าสถานที่ — สองคำนี้เสียงเหมือนกันเป๊ะ",
+      "distractors": [
+        "love at first site",
+        "love at first night",
+        "live at first sight"
+      ]
+    },
+    {
+      "id": "sweet_talk",
+      "word": "sweet talk",
+      "pos": "noun",
+      "ipa": "/swiːt tɔːk/",
+      "reading_th": "สวีท ทอล์ค",
+      "meaning_th": "คำหวานที่พูดเอาใจ",
+      "emoji": "🍬",
+      "example_en": "Do not believe his sweet talk.",
+      "example_th": "อย่าไปเชื่อคำหวานของเขา",
+      "cefr": "B2",
+      "note_th": "sweet talk มักมีนัยว่าพูดหวานเพื่อให้ได้อะไรบางอย่าง ใช้เป็นกริยาก็ได้ sweet-talk someone into",
+      "distractors": [
+        "sweet tooth",
+        "small talk",
+        "street talk"
+      ]
+    },
+    {
+      "id": "cheesy",
+      "word": "cheesy",
+      "pos": "adjective",
+      "ipa": "/ˈtʃiːzi/",
+      "reading_th": "ชี-ซี่",
+      "meaning_th": "เลี่ยน ๆ เชย ๆ แบบมุกจีบ",
+      "emoji": "🧀",
+      "example_en": "That pick-up line was so cheesy.",
+      "example_th": "มุกจีบเมื่อกี้เลี่ยนมาก",
+      "cefr": "B2",
+      "note_th": "cheesy มาจาก cheese แปลตรงตัวว่ามีชีสเยอะ แต่ในภาษาพูดแปลว่าเลี่ยนหรือเชย",
+      "distractors": [
+        "cheeky",
+        "chewy",
+        "choosy"
+      ]
+    },
+    {
+      "id": "argue",
+      "word": "argue",
+      "pos": "verb",
+      "ipa": "/ˈɑːrɡjuː/",
+      "reading_th": "อาร์-กิว",
+      "meaning_th": "เถียงกัน",
+      "emoji": "🗣️",
+      "example_en": "They argue about small things every week.",
+      "example_th": "ทั้งคู่เถียงกันเรื่องเล็ก ๆ ทุกอาทิตย์",
+      "cefr": "B1",
+      "note_th": "argue คือเถียงด้วยเหตุผล ส่วน fight แรงกว่าและอาจถึงขั้นทะเลาะใหญ่ — คำนามคือ argument",
+      "distractors": [
+        "agree",
+        "arrange",
+        "argument"
+      ]
+    },
+    {
+      "id": "fight",
+      "word": "fight",
+      "pos": "noun",
+      "ipa": "/faɪt/",
+      "reading_th": "ไฟท์",
+      "meaning_th": "การทะเลาะกันครั้งใหญ่",
+      "emoji": "⚔️",
+      "example_en": "They had a big fight last night.",
+      "example_th": "เมื่อคืนทั้งคู่ทะเลาะกันหนักมาก",
+      "cefr": "A2",
+      "note_th": "have a fight with someone คือทะเลาะกัน ไม่ได้แปลว่าชกต่อยเสมอไป",
+      "distractors": [
+        "flight",
+        "fright",
+        "fit"
+      ]
+    },
+    {
+      "id": "misunderstanding",
+      "word": "misunderstanding",
+      "pos": "noun",
+      "ipa": "/ˌmɪsʌndərˈstændɪŋ/",
+      "reading_th": "มิส-อัน-เดอร์-สแตน-ดิ้ง",
+      "meaning_th": "ความเข้าใจผิด",
+      "emoji": "🌀",
+      "example_en": "It was just a misunderstanding, not a lie.",
+      "example_th": "มันแค่เข้าใจผิดกัน ไม่ได้โกหก",
+      "cefr": "B2",
+      "note_th": "คำนำหน้า mis- แปลว่าผิดพลาด เหมือน mistake, misread — กริยาคือ misunderstand",
+      "distractors": [
+        "understanding",
+        "misinformation",
+        "misunderstood"
+      ]
+    },
+    {
+      "id": "silent_treatment",
+      "word": "silent treatment",
+      "pos": "noun",
+      "ipa": "/ˈsaɪlənt ˈtriːtmənt/",
+      "reading_th": "ไซ-เลิ่นท์ ทรีท-เมิ่นท์",
+      "meaning_th": "การงอนไม่พูดด้วย",
+      "emoji": "🤐",
+      "example_en": "She gave him the silent treatment for two days.",
+      "example_th": "เธองอนไม่พูดกับเขาสองวัน",
+      "cefr": "B2",
+      "note_th": "ใช้กริยา give someone the silent treatment — ตรงกับคำไทยว่างอนใส่แบบเงียบ ๆ",
+      "distractors": [
+        "silence treatment",
+        "silent statement",
+        "special treatment"
+      ]
+    },
+    {
+      "id": "need_space",
+      "word": "need space",
+      "pos": "phrase",
+      "ipa": "/niːd speɪs/",
+      "reading_th": "นีด สเปซ",
+      "meaning_th": "ขอเวลาและพื้นที่ส่วนตัวสักพัก",
+      "emoji": "🚪",
+      "example_en": "She said she needs space right now.",
+      "example_th": "เธอบอกว่าตอนนี้ขอพื้นที่ส่วนตัวก่อน",
+      "cefr": "B2",
+      "note_th": "I need space ไม่ได้แปลว่าเลิกกัน แต่แปลว่าขอเวลาอยู่คนเดียวสักพัก — ฝรั่งใช้บ่อยมาก",
+      "distractors": [
+        "need spice",
+        "need pace",
+        "need a place"
+      ]
+    },
+    {
+      "id": "forgive",
+      "word": "forgive",
+      "pos": "verb",
+      "ipa": "/fərˈɡɪv/",
+      "reading_th": "เฟอ-กิฟ",
+      "meaning_th": "ให้อภัย",
+      "emoji": "🕊️",
+      "example_en": "It took her a month to forgive him.",
+      "example_th": "เธอใช้เวลาเป็นเดือนกว่าจะให้อภัยเขา",
+      "cefr": "B1",
+      "note_th": "forgive someone ไม่ต้องมี to — ช่องสองคือ forgave ช่องสามคือ forgiven",
+      "distractors": [
+        "forget",
+        "forbid",
+        "foresee"
+      ]
+    },
+    {
+      "id": "make_up",
+      "word": "make up",
+      "pos": "verb",
+      "ipa": "/meɪk ʌp/",
+      "reading_th": "เมค-อัพ",
+      "meaning_th": "คืนดีกัน",
+      "emoji": "🤞",
+      "example_en": "They always fight and make up on the same day.",
+      "example_th": "ทั้งคู่ทะเลาะกันแล้วก็คืนดีกันในวันเดียวตลอด",
+      "cefr": "B1",
+      "note_th": "make up แยกคำเป็นกริยาแปลว่าคืนดี ส่วน makeup ติดกันเป็นคำนามแปลว่าเครื่องสำอาง",
+      "distractors": [
+        "wake up",
+        "make out",
+        "take up"
+      ]
+    },
+    {
+      "id": "second_chance",
+      "word": "second chance",
+      "pos": "noun",
+      "ipa": "/ˈsekənd tʃæns/",
+      "reading_th": "เซ-เคิ่นด์ ชานซ์",
+      "meaning_th": "โอกาสครั้งที่สอง",
+      "emoji": "🔄",
+      "example_en": "Everyone deserves a second chance.",
+      "example_th": "ทุกคนควรได้โอกาสครั้งที่สอง",
+      "cefr": "B1",
+      "note_th": "ใช้กริยา give someone a second chance — deserve แปลว่าสมควรได้รับ",
+      "distractors": [
+        "second change",
+        "second dance",
+        "secret chance"
+      ]
+    },
+    {
+      "id": "cheat_on",
+      "word": "cheat on",
+      "pos": "verb",
+      "ipa": "/tʃiːt ɑːn/",
+      "reading_th": "ชีท ออน",
+      "meaning_th": "นอกใจ",
+      "emoji": "🙅",
+      "example_en": "He cheated on her with a coworker.",
+      "example_th": "เขานอกใจเธอไปคบกับเพื่อนร่วมงาน",
+      "cefr": "B2",
+      "note_th": "cheat on someone คือนอกใจแฟน ส่วน cheat on a test คือโกงข้อสอบ ต้องดูว่าตามด้วยคนหรือสิ่งของ",
+      "distractors": [
+        "cheat in",
+        "chat on",
+        "check on"
+      ]
+    },
+    {
+      "id": "break_up",
+      "word": "break up",
+      "pos": "verb",
+      "ipa": "/breɪk ʌp/",
+      "reading_th": "เบรค-อัพ",
+      "meaning_th": "เลิกกัน",
+      "emoji": "💔",
+      "example_en": "They decided to break up after three years together.",
+      "example_th": "ทั้งคู่ตัดสินใจเลิกกันหลังคบกันมาสามปี",
+      "cefr": "B1",
+      "note_th": "break up with someone ต้องมี with — คำนามคือ breakup เขียนติดกัน แปลว่าการเลิกรา",
+      "distractors": [
+        "break down",
+        "brake up",
+        "break out"
+      ]
+    },
+    {
+      "id": "ex",
+      "word": "ex",
+      "pos": "noun",
+      "ipa": "/eks/",
+      "reading_th": "เอ็กซ์",
+      "meaning_th": "แฟนเก่า",
+      "emoji": "👻",
+      "example_en": "She still follows her ex on Instagram.",
+      "example_th": "เธอยังตามแฟนเก่าอยู่ในไอจีเลย",
+      "cefr": "B1",
+      "note_th": "ex ย่อจาก ex-boyfriend หรือ ex-girlfriend — เติมหน้าคำอื่นได้ด้วย เช่น ex-wife, ex-boss",
+      "distractors": [
+        "axe",
+        "exit",
+        "extra"
+      ]
+    },
+    {
+      "id": "heartbroken",
+      "word": "heartbroken",
+      "pos": "adjective",
+      "ipa": "/ˈhɑːrtbroʊkən/",
+      "reading_th": "ฮาร์ท-โบร-เคิ่น",
+      "meaning_th": "อกหัก เสียใจหนัก",
+      "emoji": "😢",
+      "example_en": "He was heartbroken for months.",
+      "example_th": "เขาอกหักอยู่หลายเดือน",
+      "cefr": "B2",
+      "note_th": "heartbroken เป็นคำคุณศัพท์ ส่วน break someone heart เป็นกริยา — ใช้กับความสูญเสียอื่นได้ด้วย",
+      "distractors": [
+        "heartbeat",
+        "heartbreaker",
+        "housebroken"
+      ]
+    },
+    {
+      "id": "regret",
+      "word": "regret",
+      "pos": "verb",
+      "ipa": "/rɪˈɡret/",
+      "reading_th": "ริ-เกร็ท",
+      "meaning_th": "เสียใจในสิ่งที่ทำไป",
+      "emoji": "😞",
+      "example_en": "I regret the way I spoke to her.",
+      "example_th": "เราเสียใจกับวิธีที่เราพูดกับเธอ",
+      "cefr": "B2",
+      "note_th": "regret ตามด้วย verb-ing เสมอ เช่น regret saying — ถ้าตามด้วย to แปลว่าเสียใจที่ต้องแจ้งข่าวร้าย",
+      "distractors": [
+        "reject",
+        "request",
+        "regard"
+      ]
+    },
+    {
+      "id": "move_on",
+      "word": "move on",
+      "pos": "verb",
+      "ipa": "/muːv ɑːn/",
+      "reading_th": "มูฟ ออน",
+      "meaning_th": "ก้าวต่อไป ทำใจได้แล้ว",
+      "emoji": "🚶",
+      "example_en": "It took a year, but she moved on.",
+      "example_th": "ใช้เวลาหนึ่งปี แต่สุดท้ายเธอก็ทำใจได้",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดทับศัพท์ว่ามูฟออน ตรงกับภาษาอังกฤษพอดี — ใช้กับการเปลี่ยนงานหรือเปลี่ยนเรื่องคุยได้ด้วย",
+      "distractors": [
+        "move in",
+        "move out",
+        "mow on"
+      ]
+    },
+    {
+      "id": "fiance",
+      "word": "fiance",
+      "pos": "noun",
+      "ipa": "/fiːɑːnˈseɪ/",
+      "reading_th": "ฟี-อ็อง-เซ่",
+      "meaning_th": "คู่หมั้น",
+      "emoji": "💐",
+      "example_en": "She introduced him as her fiance.",
+      "example_th": "เธอแนะนำเขาว่าเป็นคู่หมั้น",
+      "cefr": "B2",
+      "note_th": "ยืมมาจากภาษาฝรั่งเศส อ่าน ฟี-อ็อง-เซ่ ไม่ใช่ ไฟ-แอนซ์ — ฝ่ายหญิงสะกด fiancee มี e สองตัว",
+      "distractors": [
+        "finance",
+        "fiasco",
+        "fence"
+      ]
+    },
+    {
+      "id": "engaged",
+      "word": "engaged",
+      "pos": "adjective",
+      "ipa": "/ɪnˈɡeɪdʒd/",
+      "reading_th": "เอน-เกจด์",
+      "meaning_th": "หมั้นแล้ว",
+      "emoji": "🥂",
+      "example_en": "They got engaged on her birthday.",
+      "example_th": "ทั้งคู่หมั้นกันในวันเกิดของเธอ",
+      "cefr": "B2",
+      "note_th": "พูดว่า get engaged to someone — ในอังกฤษ engaged ยังแปลว่าสายไม่ว่างตอนโทรศัพท์ได้ด้วย",
+      "distractors": [
+        "engine",
+        "enraged",
+        "enlarged"
+      ]
+    },
+    {
+      "id": "ring",
+      "word": "ring",
+      "pos": "noun",
+      "ipa": "/rɪŋ/",
+      "reading_th": "ริง",
+      "meaning_th": "แหวน",
+      "emoji": "💍",
+      "example_en": "He saved for a year to buy the ring.",
+      "example_th": "เขาเก็บเงินทั้งปีเพื่อซื้อแหวน",
+      "cefr": "A2",
+      "note_th": "ring เป็นคำนามแปลว่าแหวน และเป็นกริยาแปลว่ากริ่งดังหรือโทรหาก็ได้",
+      "distractors": [
+        "rang",
+        "wing",
+        "rink"
+      ]
+    },
+    {
+      "id": "wedding",
+      "word": "wedding",
+      "pos": "noun",
+      "ipa": "/ˈwedɪŋ/",
+      "reading_th": "เว็ด-ดิ้ง",
+      "meaning_th": "งานแต่งงาน",
+      "emoji": "⛪",
+      "example_en": "Their wedding is in November.",
+      "example_th": "งานแต่งของทั้งคู่จัดเดือนพฤศจิกายน",
+      "cefr": "A2",
+      "note_th": "wedding คือตัวงาน ส่วน marriage คือสถานะการแต่งงานที่กินเวลาหลายปี",
+      "distractors": [
+        "weekend",
+        "welding",
+        "reading"
+      ]
+    },
+    {
+      "id": "bride",
+      "word": "bride",
+      "pos": "noun",
+      "ipa": "/braɪd/",
+      "reading_th": "ไบรด์",
+      "meaning_th": "เจ้าสาว",
+      "emoji": "👰",
+      "example_en": "The bride wore her mother dress.",
+      "example_th": "เจ้าสาวใส่ชุดของคุณแม่",
+      "cefr": "B1",
+      "note_th": "bride คือเจ้าสาว ส่วนเพื่อนเจ้าสาวเรียก bridesmaid — อย่าสับสนกับ bridge ที่แปลว่าสะพาน",
+      "distractors": [
+        "bridge",
+        "brief",
+        "pride"
+      ]
+    },
+    {
+      "id": "groom",
+      "word": "groom",
+      "pos": "noun",
+      "ipa": "/ɡruːm/",
+      "reading_th": "กรูม",
+      "meaning_th": "เจ้าบ่าว",
+      "emoji": "🤵",
+      "example_en": "The groom was more nervous than the bride.",
+      "example_th": "เจ้าบ่าวตื่นเต้นกว่าเจ้าสาวอีก",
+      "cefr": "B1",
+      "note_th": "คำเต็มคือ bridegroom แต่พูดสั้น ๆ ว่า groom — ระวังสับสนกับ room ที่แปลว่าห้อง",
+      "distractors": [
+        "gloom",
+        "broom",
+        "grow"
+      ]
+    },
+    {
+      "id": "best_man",
+      "word": "best man",
+      "pos": "noun",
+      "ipa": "/best mæn/",
+      "reading_th": "เบสท์ แมน",
+      "meaning_th": "เพื่อนเจ้าบ่าว",
+      "emoji": "🎩",
+      "example_en": "His brother was the best man at the wedding.",
+      "example_th": "พี่ชายของเขาเป็นเพื่อนเจ้าบ่าวในงานแต่ง",
+      "cefr": "B2",
+      "note_th": "best man คือเพื่อนเจ้าบ่าวคนสำคัญที่สุด ฝั่งเจ้าสาวเรียก maid of honour",
+      "distractors": [
+        "best mate",
+        "bellman",
+        "best friend"
+      ]
+    },
+    {
+      "id": "vows",
+      "word": "vows",
+      "pos": "noun",
+      "ipa": "/vaʊz/",
+      "reading_th": "วาวส์",
+      "meaning_th": "คำสาบานในพิธีแต่งงาน",
+      "emoji": "📜",
+      "example_en": "They wrote their own wedding vows.",
+      "example_th": "ทั้งคู่เขียนคำสาบานในงานแต่งด้วยตัวเอง",
+      "cefr": "B2",
+      "note_th": "ใช้พหูพจน์เสมอในบริบทงานแต่ง — คำเดี่ยว vow เป็นกริยาแปลว่าสาบานได้ด้วย",
+      "distractors": [
+        "vowels",
+        "views",
+        "waves"
+      ]
+    },
+    {
+      "id": "marry",
+      "word": "marry",
+      "pos": "verb",
+      "ipa": "/ˈmæri/",
+      "reading_th": "แม-รี่",
+      "meaning_th": "แต่งงานกับ",
+      "emoji": "💒",
+      "example_en": "Will you marry me?",
+      "example_th": "แต่งงานกับผมไหม",
+      "cefr": "A2",
+      "note_th": "marry someone ไม่ต้องมี with — พูดว่า marry with her ผิด ต้องพูดว่า marry her",
+      "distractors": [
+        "merry",
+        "carry",
+        "mercy"
+      ]
+    },
+    {
+      "id": "married",
+      "word": "married",
+      "pos": "adjective",
+      "ipa": "/ˈmærid/",
+      "reading_th": "แม-รี่ด",
+      "meaning_th": "แต่งงานแล้ว",
+      "emoji": "👩‍❤️‍💋‍👨",
+      "example_en": "They have been married for ten years.",
+      "example_th": "ทั้งคู่แต่งงานกันมาสิบปีแล้ว",
+      "cefr": "A2",
+      "note_th": "พูดว่า get married เมื่อพูดถึงวันแต่ง และ be married เมื่อพูดถึงสถานะปัจจุบัน",
+      "distractors": [
+        "marred",
+        "merited",
+        "hurried"
+      ]
+    },
+    {
+      "id": "newlyweds",
+      "word": "newlyweds",
+      "pos": "noun",
+      "ipa": "/ˈnuːliwedz/",
+      "reading_th": "นิว-ลี่-เว็ดส์",
+      "meaning_th": "คู่บ่าวสาวที่เพิ่งแต่งงาน",
+      "emoji": "🎊",
+      "example_en": "The newlyweds left for Japan the next morning.",
+      "example_th": "คู่บ่าวสาวบินไปญี่ปุ่นเช้าวันรุ่งขึ้น",
+      "cefr": "B2",
+      "note_th": "มาจาก newly แปลว่าเพิ่ง บวก wed ที่แปลว่าแต่งงาน — ใช้เป็นพหูพจน์เพราะมีสองคน",
+      "distractors": [
+        "newcomers",
+        "newsletters",
+        "newsreaders"
+      ]
+    },
+    {
+      "id": "honeymoon",
+      "word": "honeymoon",
+      "pos": "noun",
+      "ipa": "/ˈhʌnimuːn/",
+      "reading_th": "ฮัน-นี่-มูน",
+      "meaning_th": "ฮันนีมูน ทริปหลังแต่งงาน",
+      "emoji": "🏝️",
+      "example_en": "They went to Krabi for their honeymoon.",
+      "example_th": "ทั้งคู่ไปฮันนีมูนกันที่กระบี่",
+      "cefr": "B1",
+      "note_th": "honey แปลว่าน้ำผึ้ง moon แปลว่าพระจันทร์ รวมกันแปลว่าช่วงหวานชื่นหลังแต่งงาน",
+      "distractors": [
+        "honeycomb",
+        "harvest moon",
+        "honeydew"
+      ]
+    },
+    {
+      "id": "in_laws",
+      "word": "in-laws",
+      "pos": "noun",
+      "ipa": "/ˈɪn lɔːz/",
+      "reading_th": "อิน-ลอว์ส",
+      "meaning_th": "ญาติฝ่ายสามีหรือภรรยา",
+      "emoji": "👨‍👩‍👧",
+      "example_en": "We have dinner with my in-laws every Sunday.",
+      "example_th": "เรากินข้าวเย็นกับญาติฝ่ายสามีทุกวันอาทิตย์",
+      "cefr": "B2",
+      "note_th": "เติม -in-law ต่อท้ายได้ทุกคำ เช่น mother-in-law คือแม่สามีหรือแม่ยาย",
+      "distractors": [
+        "outlaws",
+        "in-line",
+        "by-laws"
+      ]
+    },
+    {
+      "id": "pregnant",
+      "word": "pregnant",
+      "pos": "adjective",
+      "ipa": "/ˈpreɡnənt/",
+      "reading_th": "เพร็ก-เนิ่นท์",
+      "meaning_th": "ตั้งครรภ์",
+      "emoji": "🤰",
+      "example_en": "She is six months pregnant.",
+      "example_th": "เธอท้องได้หกเดือนแล้ว",
+      "cefr": "B1",
+      "note_th": "พูดว่า be pregnant ไม่ใช่ have pregnant — ข่าวดีนี้ฝรั่งพูดว่า we are expecting ก็ได้",
+      "distractors": [
+        "fragrant",
+        "pregame",
+        "prominent"
+      ]
+    },
+    {
+      "id": "friendship",
+      "word": "friendship",
+      "pos": "noun",
+      "ipa": "/ˈfrendʃɪp/",
+      "reading_th": "เฟรนด์-ชิพ",
+      "meaning_th": "มิตรภาพ",
+      "emoji": "🫰",
+      "example_en": "Their friendship lasted longer than the romance.",
+      "example_th": "มิตรภาพของทั้งคู่อยู่ได้นานกว่าตอนเป็นแฟนกัน",
+      "cefr": "B1",
+      "note_th": "ปัจจัย -ship ทำคำนามที่แปลว่าสภาพหรือความสัมพันธ์ เหมือน relationship, leadership",
+      "distractors": [
+        "friendly",
+        "fellowship",
+        "friendliness"
+      ]
+    },
+    {
+      "id": "support",
+      "word": "support",
+      "pos": "verb",
+      "ipa": "/səˈpɔːrt/",
+      "reading_th": "ซัพ-พอร์ท",
+      "meaning_th": "สนับสนุน อยู่เคียงข้าง",
+      "emoji": "🤜",
+      "example_en": "He supported her through the whole exam season.",
+      "example_th": "เขาอยู่เคียงข้างเธอตลอดช่วงสอบ",
+      "cefr": "B1",
+      "note_th": "support someone ไม่ต้องมี to — ใช้ได้ทั้งการให้กำลังใจและการช่วยเรื่องเงิน",
+      "distractors": [
+        "sport",
+        "suppose",
+        "supporter"
+      ]
+    },
+    {
+      "id": "friend_zone",
+      "word": "friend zone",
+      "pos": "noun",
+      "ipa": "/frend zoʊn/",
+      "reading_th": "เฟรนด์ โซน",
+      "meaning_th": "สถานะที่อีกฝ่ายมองเราเป็นแค่เพื่อน",
+      "emoji": "🪧",
+      "example_en": "He has been stuck in the friend zone for years.",
+      "example_th": "เขาติดอยู่ในสถานะแค่เพื่อนมาหลายปี",
+      "cefr": "B2",
+      "note_th": "คนไทยพูดว่าโดนเฟรนด์โซน ตรงกับสำนวนฝรั่ง be stuck in the friend zone พอดี",
+      "distractors": [
+        "friend zoom",
+        "front zone",
+        "free zone"
+      ]
+    },
+    {
+      "id": "wingman",
+      "word": "wingman",
+      "pos": "noun",
+      "ipa": "/ˈwɪŋmæn/",
+      "reading_th": "วิง-แมน",
+      "meaning_th": "เพื่อนที่ไปช่วยเชียร์ตอนจีบ",
+      "emoji": "🫡",
+      "example_en": "Be my wingman tonight and talk me up.",
+      "example_th": "คืนนี้ไปช่วยเชียร์เราหน่อยนะ ช่วยพูดให้ดูดีด้วย",
+      "cefr": "B2",
+      "note_th": "มาจากนักบินที่บินคุ้มกันข้างปีก — ใช้กับเพื่อนที่ช่วยเปิดทางให้ตอนจีบใคร",
+      "distractors": [
+        "wingspan",
+        "workman",
+        "wise man"
+      ]
+    },
+    {
+      "id": "matchmaker",
+      "word": "matchmaker",
+      "pos": "noun",
+      "ipa": "/ˈmætʃmeɪkər/",
+      "reading_th": "แมทช์-เม-เคอร์",
+      "meaning_th": "แม่สื่อ คนจับคู่ให้",
+      "emoji": "🧵",
+      "example_en": "My aunt thinks she is a great matchmaker.",
+      "example_th": "ป้าเราคิดว่าตัวเองเป็นแม่สื่อชั้นเยี่ยม",
+      "cefr": "B2",
+      "note_th": "match แปลว่าจับคู่ให้เข้ากัน — คนที่จับคู่ให้เพื่อนเรียก matchmaker หรือพูดว่า set someone up",
+      "distractors": [
+        "matchbox",
+        "moneymaker",
+        "watchmaker"
+      ]
+    },
+    {
+      "id": "dating_app",
+      "word": "dating app",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtɪŋ æp/",
+      "reading_th": "เด-ทิ้ง แอป",
+      "meaning_th": "แอปหาคู่",
+      "emoji": "📱",
+      "example_en": "They met on a dating app last year.",
+      "example_th": "ทั้งคู่เจอกันในแอปหาคู่เมื่อปีที่แล้ว",
+      "cefr": "B1",
+      "note_th": "พูดว่า meet on a dating app ใช้ on ไม่ใช่ in — app ย่อจาก application",
+      "distractors": [
+        "dating up",
+        "eating app",
+        "daily app"
+      ]
+    },
+    {
+      "id": "ghosting",
+      "word": "ghosting",
+      "pos": "noun",
+      "ipa": "/ˈɡoʊstɪŋ/",
+      "reading_th": "โกสท์-ติ้ง",
+      "meaning_th": "การหายเงียบไปเลยโดยไม่บอก",
+      "emoji": "👻",
+      "example_en": "Ghosting is worse than an honest no.",
+      "example_th": "หายเงียบไปเลยแย่กว่าบอกปฏิเสธตรง ๆ อีก",
+      "cefr": "B2",
+      "note_th": "มาจาก ghost ที่แปลว่าผี คือหายวับไปแบบไม่ทิ้งร่องรอย — ใช้เป็นกริยาได้ เช่น he ghosted me",
+      "distractors": [
+        "boasting",
+        "hosting",
+        "gusting"
+      ]
+    },
+    {
+      "id": "situationship",
+      "word": "situationship",
+      "pos": "noun",
+      "ipa": "/ˌsɪtʃuˈeɪʃnʃɪp/",
+      "reading_th": "ซิ-ชู-เอ-ชั่น-ชิพ",
+      "meaning_th": "ความสัมพันธ์ที่ไม่ชัดเจนว่าคบกันหรือเปล่า",
+      "emoji": "❓",
+      "example_en": "They are not dating, it is more of a situationship.",
+      "example_th": "ทั้งคู่ไม่ได้คบกันนะ มันคลุมเครือมากกว่า",
+      "cefr": "B2",
+      "note_th": "คำใหม่ที่รวม situation กับ relationship — ตรงกับที่คนไทยเรียกว่าคบแบบไม่มีสถานะ",
+      "distractors": [
+        "sponsorship",
+        "relationship",
+        "situation room"
+      ]
+    },
+    {
+      "id": "red_flag",
+      "word": "red flag",
+      "pos": "noun",
+      "ipa": "/red flæɡ/",
+      "reading_th": "เรด แฟลก",
+      "meaning_th": "สัญญาณอันตรายที่ควรถอย",
+      "emoji": "🚩",
+      "example_en": "Yelling at waiters is a huge red flag.",
+      "example_th": "การตะโกนใส่พนักงานเสิร์ฟคือสัญญาณอันตรายชัด ๆ",
+      "cefr": "B2",
+      "note_th": "red flag คือสัญญาณเตือนว่าคนนี้มีปัญหา ใช้กับงานและธุรกิจได้ด้วย ไม่ใช่แค่เรื่องความรัก",
+      "distractors": [
+        "red flat",
+        "read flag",
+        "rag flag"
+      ]
+    },
+    {
+      "id": "green_flag",
+      "word": "green flag",
+      "pos": "noun",
+      "ipa": "/ɡriːn flæɡ/",
+      "reading_th": "กรีน แฟลก",
+      "meaning_th": "สัญญาณดีที่บอกว่าคนนี้น่าคบ",
+      "emoji": "🟩",
+      "example_en": "He listens without interrupting, a real green flag.",
+      "example_th": "เขาฟังโดยไม่พูดแทรกเลย นี่คือสัญญาณดีของจริง",
+      "cefr": "B2",
+      "note_th": "คำนี้เพิ่งเกิดตามหลัง red flag เพื่อพูดถึงข้อดี — ยังไม่ใช้ในภาษาเขียนทางการ",
+      "distractors": [
+        "green flat",
+        "greed flag",
+        "green frog"
+      ]
+    },
+    {
+      "id": "catfish",
+      "word": "catfish",
+      "pos": "noun",
+      "ipa": "/ˈkætfɪʃ/",
+      "reading_th": "แคท-ฟิช",
+      "meaning_th": "คนที่ใช้รูปคนอื่นหลอกคุยในเน็ต",
+      "emoji": "🎣",
+      "example_en": "Her online date turned out to be a catfish.",
+      "example_th": "คนที่เธอคุยด้วยออนไลน์กลายเป็นคนสวมรอยใช้รูปคนอื่น",
+      "cefr": "B2",
+      "note_th": "catfish แปลตรงตัวว่าปลาดุก แต่ในเน็ตแปลว่าคนสวมรอย — ใช้เป็นกริยาได้ I got catfished",
+      "distractors": [
+        "cuttlefish",
+        "cattle",
+        "goldfish"
+      ]
+    },
+    {
+      "id": "take_it_slow",
+      "word": "take it slow",
+      "pos": "phrase",
+      "ipa": "/teɪk ɪt sloʊ/",
+      "reading_th": "เทค อิท สโลว์",
+      "meaning_th": "ค่อยเป็นค่อยไป ไม่รีบ",
+      "emoji": "🐢",
+      "example_en": "We both agreed to take it slow.",
+      "example_th": "เราสองคนตกลงกันว่าจะค่อยเป็นค่อยไป",
+      "cefr": "B1",
+      "note_th": "สำนวนนี้ใช้ตอนเพิ่งเริ่มคุยกันและยังไม่อยากรีบเป็นแฟน — ตรงข้ามคือ rush into things",
+      "distractors": [
+        "take it easy",
+        "take it back",
+        "take a bow"
+      ]
+    },
+    {
+      "id": "self_love",
+      "word": "self-love",
+      "pos": "noun",
+      "ipa": "/self lʌv/",
+      "reading_th": "เซลฟ์-เลิฟ",
+      "meaning_th": "การรักและใส่ใจตัวเอง",
+      "emoji": "🪞",
+      "example_en": "Self-love is not selfish.",
+      "example_th": "การรักตัวเองไม่ใช่ความเห็นแก่ตัว",
+      "cefr": "B2",
+      "note_th": "self- เติมหน้าคำได้หลายคำ เช่น self-care, self-respect — ต่างจาก selfish ที่แปลว่าเห็นแก่ตัว",
+      "distractors": [
+        "selfish",
+        "shelf life",
+        "self-help"
+      ]
+    },
+    {
+      "id": "single_life",
+      "word": "single life",
+      "pos": "noun",
+      "ipa": "/ˈsɪŋɡl laɪf/",
+      "reading_th": "ซิง-เกิ้ล ไลฟ์",
+      "meaning_th": "ชีวิตโสด",
+      "emoji": "🕺",
+      "example_en": "She is enjoying the single life right now.",
+      "example_th": "ตอนนี้เธอกำลังสนุกกับชีวิตโสด",
+      "cefr": "B1",
+      "note_th": "life ในที่นี้อ่านว่า ไลฟ์ ลงท้ายเสียง ฟ ไม่ใช่ ไลฟ์ แบบถ่ายทอดสดที่สะกด live",
+      "distractors": [
+        "single file",
+        "simple life",
+        "single wife"
+      ]
+    }
+  ]
+}

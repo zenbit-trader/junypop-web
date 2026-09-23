@@ -134,14 +134,14 @@
     },
     {
       "id": "love",
+      "file": "love.json",
       "name_en": "Love & Dating",
       "name_th": "ความรัก",
       "emoji": "💕",
       "color_start": "#FB7185",
       "color_end": "#E11D48",
-      "available": false,
-      "mascot_costume": "cupid",
-      "description_th": "จีบ เดต บอกรัก และความสัมพันธ์"
+      "available": true,
+      "image": "worlds/love.webp"
     },
     {
       "id": "entertainment",
