@@ -6,7 +6,7 @@
  * and the static SEO pages both read this same file.
  */
 window.JUNYPOP_ANALYTICS = {
-  ga4: '',        // Google Analytics 4 — G-XXXXXXXXXX
+  ga4: 'G-3TGZFNVJ1N', // Google Analytics 4 — property junypop.com, stream "JUNYPOP Web"
   metaPixel: '',  // Meta pixel — 15 digits
   tiktokPixel: '',// TikTok pixel
   debug: false    // true = log every event to the console instead of guessing

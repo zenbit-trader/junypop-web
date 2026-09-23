@@ -176,7 +176,7 @@
     page_view: [null, null],
     play_start: [null, 'ClickButton'],
     lesson_complete: [null, 'CompleteRegistration'],
-    signup: ['CompleteRegistration', 'CompletePayment'],
+    signup: ['CompleteRegistration', 'Subscribe'],
     plus_purchase: ['Purchase', 'CompletePayment'],
     d1_return: [null, null]
   };
