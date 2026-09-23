@@ -7,7 +7,7 @@
  */
 window.JUNYPOP_ANALYTICS = {
   ga4: 'G-3TGZFNVJ1N', // Google Analytics 4 — property junypop.com, stream "JUNYPOP Web"
-  metaPixel: '',  // Meta pixel — 15 digits
+  metaPixel: '28666202813063438', // Meta dataset "junypop.com" (portfolio ครัวบ้านนอก)
   tiktokPixel: '',// TikTok pixel
   debug: false    // true = log every event to the console instead of guessing
 };
