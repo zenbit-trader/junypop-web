@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "social_media",
+    "name_en": "Social Media",
+    "name_th": "โซเชียลมีเดีย",
+    "emoji": "📱",
+    "color_start": "#67E8F9",
+    "color_end": "#0E7490",
+    "description_th": "สมัครบัญชี โพสต์ คอมเมนต์ ไลฟ์ ไปจนถึงศัพท์ครีเอเตอร์และสแลงที่เจอทุกวันบนโซเชียล",
+    "mascot_costume": "streamer",
+    "lessons": [
+      {
+        "id": "social_media_1",
+        "title_en": "Sign Up & Profile",
+        "title_th": "สมัครและโปรไฟล์",
+        "emoji": "📝",
+        "word_ids": [
+          "sign_up",
+          "log_out",
+          "forgot_password",
+          "profile",
+          "profile_picture",
+          "cover_photo",
+          "bio",
+          "handle",
+          "verified",
+          "settings",
+          "privacy",
+          "two_factor",
+          "delete_account",
+          "notification"
+        ]
+      },
+      {
+        "id": "social_media_2",
+        "title_en": "Your First Post",
+        "title_th": "โพสต์แรกของคุณ",
+        "emoji": "📮",
+        "word_ids": [
+          "post",
+          "upload",
+          "caption",
+          "hashtag",
+          "tag",
+          "mention",
+          "album",
+          "photo_filter",
+          "crop",
+          "edit_post",
+          "pin_post",
+          "delete_post",
+          "feed",
+          "scroll"
+        ]
+      },
+      {
+        "id": "social_media_3",
+        "title_en": "Likes & Reactions",
+        "title_th": "ไลก์และรีแอค",
+        "emoji": "❤️",
+        "word_ids": [
+          "like",
+          "react",
+          "emoji",
+          "sticker",
+          "repost",
+          "quote",
+          "thread",
+          "poll",
+          "bookmark",
+          "screenshot",
+          "swipe",
+          "double_tap",
+          "timeline",
+          "trending"
+        ]
+      },
+      {
+        "id": "social_media_4",
+        "title_en": "Friends & Followers",
+        "title_th": "เพื่อนและผู้ติดตาม",
+        "emoji": "👥",
+        "word_ids": [
+          "follow",
+          "unfollow",
+          "friend_request",
+          "add_friend",
+          "mutual",
+          "block",
+          "mute",
+          "unblock",
+          "close_friends",
+          "subscriber",
+          "dm",
+          "group_chat",
+          "seen",
+          "typing"
+        ]
+      },
+      {
+        "id": "social_media_5",
+        "title_en": "Stories, Live & Short Video",
+        "title_th": "สตอรี่ ไลฟ์ และคลิปสั้น",
+        "emoji": "🎥",
+        "word_ids": [
+          "story",
+          "reel",
+          "go_live",
+          "livestream",
+          "thumbnail",
+          "vlog",
+          "podcast",
+          "playlist",
+          "subtitle",
+          "voice_over",
+          "duet",
+          "video",
+          "replay",
+          "algorithm"
+        ]
+      },
+      {
+        "id": "social_media_6",
+        "title_en": "Creator & Money",
+        "title_th": "ครีเอเตอร์และรายได้",
+        "emoji": "💸",
+        "word_ids": [
+          "creator",
+          "sponsor",
+          "sponsored_post",
+          "brand_deal",
+          "collab",
+          "shoutout",
+          "giveaway",
+          "monetize",
+          "engagement",
+          "reach",
+          "insight",
+          "affiliate",
+          "unboxing",
+          "ad"
+        ]
+      },
+      {
+        "id": "social_media_7",
+        "title_en": "Stay Safe Online",
+        "title_th": "ใช้โซเชียลให้ปลอดภัย",
+        "emoji": "🛡️",
+        "word_ids": [
+          "troll",
+          "hater",
+          "cyberbullying",
+          "fake_news",
+          "clickbait",
+          "scam",
+          "report_post",
+          "guidelines",
+          "cringe",
+          "vibe",
+          "flex",
+          "fomo",
+          "meme",
+          "detox"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "sign_up",
+      "word": "sign up",
+      "pos": "verb",
+      "ipa": "/saɪn ʌp/",
+      "reading_th": "ไซน์-อัพ",
+      "meaning_th": "สมัครสมาชิก",
+      "emoji": "📝",
+      "example_en": "You have to sign up before you can post.",
+      "example_th": "ต้องสมัครสมาชิกก่อนถึงจะโพสต์ได้",
+      "cefr": "A1",
+      "note_th": "sign up = สมัครครั้งแรก ส่วน log in คือเข้าใช้ครั้งต่อ ๆ ไป — คนละคำกัน อย่าสลับ",
+      "distractors": [
+        "sign in",
+        "signal",
+        "single"
+      ]
+    },
+    {
+      "id": "log_out",
+      "word": "log out",
+      "pos": "verb",
+      "ipa": "/lɔːɡ aʊt/",
+      "reading_th": "ล็อก-เอ๊าท์",
+      "meaning_th": "ออกจากระบบ",
+      "emoji": "🚪",
+      "example_en": "Always log out on a shared computer.",
+      "example_th": "ถ้าใช้คอมเครื่องรวมต้องล็อกเอาต์ทุกครั้ง",
+      "cefr": "A2",
+      "note_th": "log out กับ sign out ใช้แทนกันได้ แต่ delete account คือลบบัญชีทิ้งถาวร คนละเรื่อง",
+      "distractors": [
+        "lock out",
+        "lay out",
+        "log in"
+      ]
+    },
+    {
+      "id": "forgot_password",
+      "word": "forgot password",
+      "pos": "phrase",
+      "ipa": "/fərˈɡɑːt ˈpæswɜːrd/",
+      "reading_th": "เฟอ-ก็อท พาส-เวิร์ด",
+      "meaning_th": "ลืมรหัสผ่าน (ปุ่มขอรีเซ็ตรหัส)",
+      "emoji": "🔑",
+      "example_en": "Tap Forgot password and check your email.",
+      "example_th": "กดปุ่มลืมรหัสผ่านแล้วไปเช็กอีเมล",
+      "cefr": "A2",
+      "note_th": "ปุ่มในแอปเขียนสั้น ๆ ว่า Forgot password? แต่เวลาพูดเต็มประโยคใช้ I forgot my password",
+      "distractors": [
+        "forget password",
+        "forward password",
+        "found password"
+      ]
+    },
+    {
+      "id": "profile",
+      "word": "profile",
+      "pos": "noun",
+      "ipa": "/ˈproʊfaɪl/",
+      "reading_th": "โพร-ไฟล์",
+      "meaning_th": "โปรไฟล์ หน้าข้อมูลส่วนตัว",
+      "emoji": "👤",
+      "example_en": "Her profile has over ten thousand followers.",
+      "example_th": "โปรไฟล์ของเธอมีผู้ติดตามเกินหมื่นคน",
+      "cefr": "A2",
+      "note_th": "ออกเสียง โพร-ไฟล์ ไม่ใช่ โปร-ไฟ — ตัว l ท้ายคำต้องออกเสียงด้วย",
+      "distractors": [
+        "profit",
+        "prophet",
+        "propose"
+      ]
+    },
+    {
+      "id": "profile_picture",
+      "word": "profile picture",
+      "pos": "noun",
+      "ipa": "/ˈproʊfaɪl ˈpɪktʃər/",
+      "reading_th": "โพร-ไฟล์ พิค-เชอร์",
+      "meaning_th": "รูปโปรไฟล์",
+      "emoji": "🖼️",
+      "example_en": "I changed my profile picture yesterday.",
+      "example_th": "เมื่อวานเพิ่งเปลี่ยนรูปโปรไฟล์",
+      "cefr": "A1",
+      "note_th": "ฝรั่งย่อว่า profile pic หรือ pfp เวลาแชตกัน ส่วนคำว่า DP นิยมใช้ในอินเดียและตะวันออกกลาง",
+      "distractors": [
+        "profile printer",
+        "private picture",
+        "perfect picture"
+      ]
+    },
+    {
+      "id": "cover_photo",
+      "word": "cover photo",
+      "pos": "noun",
+      "ipa": "/ˈkʌvər ˈfoʊtoʊ/",
+      "reading_th": "คัฟ-เวอร์ โฟ-โท้",
+      "meaning_th": "รูปหน้าปกโปรไฟล์",
+      "emoji": "🏞️",
+      "example_en": "He uses a beach photo as his cover photo.",
+      "example_th": "เขาใช้รูปทะเลเป็นรูปหน้าปก",
+      "cefr": "A2",
+      "note_th": "cover photo คือรูปแบนยาวด้านบนสุด ส่วนรูปกลมเล็กคือ profile picture",
+      "distractors": [
+        "corner photo",
+        "clever photo",
+        "cover phone"
+      ]
+    },
+    {
+      "id": "bio",
+      "word": "bio",
+      "pos": "noun",
+      "ipa": "/ˈbaɪoʊ/",
+      "reading_th": "ไบ-โอ",
+      "meaning_th": "ข้อความแนะนำตัวสั้น ๆ ในโปรไฟล์",
+      "emoji": "✍️",
+      "example_en": "Put your shop link in your bio.",
+      "example_th": "เอาลิงก์ร้านไปใส่ในไบโอ",
+      "cefr": "A2",
+      "note_th": "bio ย่อจาก biography แต่ในโซเชียลหมายถึงข้อความสั้น ๆ ใต้ชื่อเท่านั้น ไม่ใช่ประวัติชีวิตยาว ๆ",
+      "distractors": [
+        "biology",
+        "bingo",
+        "bidet"
+      ]
+    },
+    {
+      "id": "handle",
+      "word": "handle",
+      "pos": "noun",
+      "ipa": "/ˈhændl/",
+      "reading_th": "แฮน-เดิ้ล",
+      "meaning_th": "ชื่อผู้ใช้ที่ขึ้นต้นด้วย @",
+      "emoji": "📛",
+      "example_en": "What is your handle on TikTok?",
+      "example_th": "ชื่อผู้ใช้ในติ๊กต็อกของคุณคืออะไร",
+      "cefr": "B1",
+      "note_th": "handle คือชื่อ @ ที่ห้ามซ้ำกับใคร ส่วนชื่อตัวใหญ่ที่ตั้งซ้ำกันได้เรียก display name",
+      "distractors": [
+        "handbag",
+        "candle",
+        "handful"
+      ]
+    },
+    {
+      "id": "verified",
+      "word": "verified",
+      "pos": "adjective",
+      "ipa": "/ˈverɪfaɪd/",
+      "reading_th": "เว-ริ-ไฟด์",
+      "meaning_th": "ยืนยันตัวตนแล้ว (มีเครื่องหมายติ๊กถูก)",
+      "emoji": "✅",
+      "example_en": "Only verified accounts can use that feature.",
+      "example_th": "เฉพาะบัญชีที่ยืนยันตัวตนแล้วถึงใช้ฟีเจอร์นั้นได้",
+      "cefr": "B1",
+      "note_th": "ติ๊กถูกข้างชื่อเรียกว่า verified badge หรือ blue check ไม่ได้แปลว่าคนดัง แค่แปลว่าตัวจริง",
+      "distractors": [
+        "various",
+        "verbal",
+        "vertical"
+      ]
+    },
+    {
+      "id": "settings",
+      "word": "settings",
+      "pos": "noun",
+      "ipa": "/ˈsetɪŋz/",
+      "reading_th": "เซ็ท-ติ้งส์",
+      "meaning_th": "การตั้งค่า",
+      "emoji": "⚙️",
+      "example_en": "Go to Settings and turn off notifications.",
+      "example_th": "เข้าไปที่การตั้งค่าแล้วปิดการแจ้งเตือน",
+      "cefr": "A2",
+      "note_th": "ในแอปใช้รูปพหูพจน์เสมอ Settings — คำเดี่ยว setting แปลว่าฉากหรือสถานที่ในเรื่อง",
+      "distractors": [
+        "sittings",
+        "sending",
+        "seating"
+      ]
+    },
+    {
+      "id": "privacy",
+      "word": "privacy",
+      "pos": "noun",
+      "ipa": "/ˈpraɪvəsi/",
+      "reading_th": "ไพร-เว-ซี่",
+      "meaning_th": "ความเป็นส่วนตัว",
+      "emoji": "🔒",
+      "example_en": "Check your privacy settings before you post.",
+      "example_th": "เช็กการตั้งค่าความเป็นส่วนตัวก่อนโพสต์",
+      "cefr": "B1",
+      "note_th": "อเมริกันออกเสียง ไพร-เว-ซี่ อังกฤษออกเสียง พริ-เว-ซี่ — คำคุณศัพท์คือ private",
+      "distractors": [
+        "piracy",
+        "priority",
+        "province"
+      ]
+    },
+    {
+      "id": "two_factor",
+      "word": "two-factor authentication",
+      "pos": "noun",
+      "ipa": "/tuː ˈfæktər ɔːˌθentɪˈkeɪʃn/",
+      "reading_th": "ทู-แฟค-เตอร์ ออ-เธน-ทิ-เค-ชั่น",
+      "meaning_th": "การยืนยันตัวตนสองชั้น",
+      "emoji": "🔐",
+      "example_en": "Turn on two-factor authentication to keep your account safe.",
+      "example_th": "เปิดการยืนยันตัวตนสองชั้นเพื่อให้บัญชีปลอดภัย",
+      "cefr": "B2",
+      "note_th": "ย่อว่า 2FA อ่านว่า ทู-เอฟ-เอ คือใช้รหัสผ่านบวกโค้ดที่ส่งมาทางมือถืออีกชั้นหนึ่ง",
+      "distractors": [
+        "true factor",
+        "two feature",
+        "top factor"
+      ]
+    },
+    {
+      "id": "delete_account",
+      "word": "delete account",
+      "pos": "phrase",
+      "ipa": "/dɪˈliːt əˈkaʊnt/",
+      "reading_th": "ดิ-ลีท อะ-เค้าท์",
+      "meaning_th": "ลบบัญชี",
+      "emoji": "🗑️",
+      "example_en": "If you delete your account, you lose all your photos.",
+      "example_th": "ถ้าลบบัญชี รูปทั้งหมดจะหายไปด้วย",
+      "cefr": "A2",
+      "note_th": "delete account = ลบถาวร ส่วน deactivate = ปิดไว้ชั่วคราวแล้วกลับมาใช้ใหม่ได้",
+      "distractors": [
+        "delay account",
+        "delete amount",
+        "detect account"
+      ]
+    },
+    {
+      "id": "notification",
+      "word": "notification",
+      "pos": "noun",
+      "ipa": "/ˌnoʊtɪfɪˈkeɪʃn/",
+      "reading_th": "โน-ทิ-ฟิ-เค-ชั่น",
+      "meaning_th": "การแจ้งเตือน",
+      "emoji": "🔔",
+      "example_en": "I got fifty notifications while I was sleeping.",
+      "example_th": "ตอนหลับมีแจ้งเตือนเข้ามาห้าสิบอัน",
+      "cefr": "A2",
+      "note_th": "ชาวเน็ตย่อว่า notis หรือ notifs ส่วนกริยาคือ notify แปลว่าแจ้งให้ทราบ",
+      "distractors": [
+        "notation",
+        "identification",
+        "modification"
+      ]
+    },
+    {
+      "id": "post",
+      "word": "post",
+      "pos": "noun",
+      "ipa": "/poʊst/",
+      "reading_th": "โพสต์",
+      "meaning_th": "โพสต์ สิ่งที่เผยแพร่ลงโซเชียล",
+      "emoji": "📮",
+      "example_en": "That post got a thousand likes in one hour.",
+      "example_th": "โพสต์นั้นได้ไลก์พันนึงในชั่วโมงเดียว",
+      "cefr": "A1",
+      "note_th": "post เป็นได้ทั้งคำนาม (โพสต์หนึ่งอัน) และคำกริยา (โพสต์ลงไป) — ในความหมายเก่าแปลว่าส่งไปรษณีย์ได้ด้วย",
+      "distractors": [
+        "past",
+        "pose",
+        "port"
+      ]
+    },
+    {
+      "id": "upload",
+      "word": "upload",
+      "pos": "verb",
+      "ipa": "/ˈʌploʊd/",
+      "reading_th": "อัพ-โหลด",
+      "meaning_th": "อัปโหลด ส่งไฟล์ขึ้นเน็ต",
+      "emoji": "⬆️",
+      "example_en": "It takes two minutes to upload this video.",
+      "example_th": "อัปโหลดคลิปนี้ใช้เวลาสองนาที",
+      "cefr": "A2",
+      "note_th": "upload = ส่งขึ้นไป, download = โหลดลงมา — จำจากทิศทาง up กับ down ได้เลย",
+      "distractors": [
+        "unload",
+        "update",
+        "uphold"
+      ]
+    },
+    {
+      "id": "caption",
+      "word": "caption",
+      "pos": "noun",
+      "ipa": "/ˈkæpʃn/",
+      "reading_th": "แคพ-ชั่น",
+      "meaning_th": "ข้อความประกอบรูปหรือคลิป",
+      "emoji": "💬",
+      "example_en": "I cannot think of a good caption for this photo.",
+      "example_th": "คิดแคปชั่นเก๋ ๆ ให้รูปนี้ไม่ออกเลย",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่าแคปชั่น ตรงกับ caption จริง ๆ แต่ระวังอย่าสับสนกับ capture ที่แปลว่าจับภาพ",
+      "distractors": [
+        "capture",
+        "captain",
+        "carton"
+      ]
+    },
+    {
+      "id": "hashtag",
+      "word": "hashtag",
+      "pos": "noun",
+      "ipa": "/ˈhæʃtæɡ/",
+      "reading_th": "แฮช-แท็ก",
+      "meaning_th": "แฮชแท็ก คำค้นที่นำหน้าด้วย #",
+      "emoji": "#️⃣",
+      "example_en": "Add a few hashtags so more people can find your post.",
+      "example_th": "ใส่แฮชแท็กสักสองสามอันคนจะได้เจอโพสต์ง่ายขึ้น",
+      "cefr": "A2",
+      "note_th": "เครื่องหมาย # เรียกว่า hash (อังกฤษ) หรือ pound sign (อเมริกัน) — พอใช้ติดคำค้นถึงเรียก hashtag",
+      "distractors": [
+        "hash brown",
+        "handbag",
+        "hatch tag"
+      ]
+    },
+    {
+      "id": "tag",
+      "word": "tag",
+      "pos": "verb",
+      "ipa": "/tæɡ/",
+      "reading_th": "แท็ก",
+      "meaning_th": "แท็ก ติดชื่อคนลงในโพสต์",
+      "emoji": "🏷️",
+      "example_en": "Do not tag me in those photos.",
+      "example_th": "อย่าแท็กฉันในรูปพวกนั้นนะ",
+      "cefr": "A2",
+      "note_th": "tag คือดึงชื่อคนมาติดในรูปหรือโพสต์ ส่วน mention คือพิมพ์ @ ถึงเขาในข้อความ",
+      "distractors": [
+        "tap",
+        "tank",
+        "tab"
+      ]
+    },
+    {
+      "id": "mention",
+      "word": "mention",
+      "pos": "verb",
+      "ipa": "/ˈmenʃn/",
+      "reading_th": "เมน-ชั่น",
+      "meaning_th": "เอ่ยถึง พิมพ์ @ ถึงใครสักคน",
+      "emoji": "🙋",
+      "example_en": "She mentioned my shop in her story.",
+      "example_th": "เธอเอ่ยถึงร้านของฉันในสตอรี่",
+      "cefr": "B1",
+      "note_th": "เวลามีคนขอบคุณ ฝรั่งตอบว่า Do not mention it. แปลว่าไม่เป็นไร ไม่ได้แปลว่าห้ามแท็ก",
+      "distractors": [
+        "mansion",
+        "motion",
+        "machine"
+      ]
+    },
+    {
+      "id": "album",
+      "word": "album",
+      "pos": "noun",
+      "ipa": "/ˈælbəm/",
+      "reading_th": "อัล-บั้ม",
+      "meaning_th": "อัลบั้มรูป",
+      "emoji": "📔",
+      "example_en": "I put all the trip photos in one album.",
+      "example_th": "เอารูปทริปทั้งหมดใส่ไว้ในอัลบั้มเดียว",
+      "cefr": "A2",
+      "note_th": "album ใช้ได้ทั้งอัลบั้มรูปและอัลบั้มเพลง ตัว b ไม่ออกเสียงชัดแบบภาษาไทย ให้อ่าน แอล-บึ่ม เบา ๆ",
+      "distractors": [
+        "alarm",
+        "allow",
+        "alone"
+      ]
+    },
+    {
+      "id": "photo_filter",
+      "word": "filter",
+      "pos": "noun",
+      "ipa": "/ˈfɪltər/",
+      "reading_th": "ฟิล-เตอร์",
+      "meaning_th": "ฟิลเตอร์แต่งรูปหรือหน้า",
+      "emoji": "🎨",
+      "example_en": "She never posts a photo without a filter.",
+      "example_th": "เธอไม่เคยโพสต์รูปที่ไม่ใส่ฟิลเตอร์เลย",
+      "cefr": "B1",
+      "note_th": "no filter เขียนใต้รูปแปลว่าไม่ได้แต่งเลย — ส่วน filter ในความหมายเดิมคือเครื่องกรองน้ำหรืออากาศ",
+      "distractors": [
+        "folder",
+        "flatter",
+        "fighter"
+      ]
+    },
+    {
+      "id": "crop",
+      "word": "crop",
+      "pos": "verb",
+      "ipa": "/krɑːp/",
+      "reading_th": "ครอป",
+      "meaning_th": "ตัดขอบรูปให้เหลือเฉพาะส่วนที่ต้องการ",
+      "emoji": "✂️",
+      "example_en": "Crop the photo so it fits the frame.",
+      "example_th": "ครอปรูปให้พอดีกรอบหน่อย",
+      "cefr": "B1",
+      "note_th": "crop ตัดขอบออก ส่วน cut ใช้กับการตัดคลิปให้สั้นลง — คำนาม crop ยังแปลว่าพืชผลได้ด้วย",
+      "distractors": [
+        "drop",
+        "crab",
+        "chop"
+      ]
+    },
+    {
+      "id": "edit_post",
+      "word": "edit",
+      "pos": "verb",
+      "ipa": "/ˈedɪt/",
+      "reading_th": "เอ็ด-ดิท",
+      "meaning_th": "แก้ไข (โพสต์ รูป หรือคลิป)",
+      "emoji": "✏️",
+      "example_en": "I had to edit my post because of a typo.",
+      "example_th": "ต้องแก้โพสต์เพราะพิมพ์ผิด",
+      "cefr": "A2",
+      "note_th": "edited จะขึ้นข้างโพสต์ที่แก้แล้ว — คนทำงานตัดต่อคลิปเรียก editor หรือย่อว่า edit สั้น ๆ ก็ได้",
+      "distractors": [
+        "exit",
+        "eddy",
+        "audit"
+      ]
+    },
+    {
+      "id": "pin_post",
+      "word": "pin",
+      "pos": "verb",
+      "ipa": "/pɪn/",
+      "reading_th": "พิน",
+      "meaning_th": "ปักหมุด ตรึงโพสต์ไว้บนสุด",
+      "emoji": "📌",
+      "example_en": "Pin your best video to the top of your profile.",
+      "example_th": "ปักหมุดคลิปที่ดีที่สุดไว้บนสุดของโปรไฟล์",
+      "cefr": "B1",
+      "note_th": "pinned post = โพสต์ที่ปักหมุดไว้ ระวังอย่าสับสนกับ PIN ตัวใหญ่ที่แปลว่ารหัสตู้เอทีเอ็ม",
+      "distractors": [
+        "pen",
+        "pink",
+        "ping"
+      ]
+    },
+    {
+      "id": "delete_post",
+      "word": "delete",
+      "pos": "verb",
+      "ipa": "/dɪˈliːt/",
+      "reading_th": "ดิ-ลีท",
+      "meaning_th": "ลบ",
+      "emoji": "❌",
+      "example_en": "He deleted the post after five minutes.",
+      "example_th": "เขาลบโพสต์ทิ้งหลังจากผ่านไปห้านาที",
+      "cefr": "A2",
+      "note_th": "delete = ลบทิ้ง ส่วน archive = เก็บเข้ากรุไว้ดูคนเดียว ยังไม่หายไปไหน",
+      "distractors": [
+        "delay",
+        "dilute",
+        "deplete"
+      ]
+    },
+    {
+      "id": "feed",
+      "word": "feed",
+      "pos": "noun",
+      "ipa": "/fiːd/",
+      "reading_th": "ฟีด",
+      "meaning_th": "ฟีด หน้ารวมโพสต์ที่ไหลขึ้นมาเรื่อย ๆ",
+      "emoji": "📱",
+      "example_en": "My feed is full of cat videos today.",
+      "example_th": "วันนี้ฟีดเต็มไปด้วยคลิปแมว",
+      "cefr": "B1",
+      "note_th": "feed ในโซเชียลคือหน้ารวมโพสต์ มาจากกริยา feed ที่แปลว่าป้อนอาหาร คือแอปป้อนคอนเทนต์ให้เรื่อย ๆ",
+      "distractors": [
+        "fee",
+        "field",
+        "fried"
+      ]
+    },
+    {
+      "id": "scroll",
+      "word": "scroll",
+      "pos": "verb",
+      "ipa": "/skroʊl/",
+      "reading_th": "สโครล",
+      "meaning_th": "เลื่อนหน้าจอขึ้นลง",
+      "emoji": "👇",
+      "example_en": "I scrolled for an hour and learned nothing.",
+      "example_th": "เลื่อนดูอยู่ชั่วโมงนึงแต่ไม่ได้อะไรเลย",
+      "cefr": "A2",
+      "note_th": "scroll = เลื่อนขึ้นลง ส่วน swipe = ปัดซ้ายขวา คนละท่านิ้วกัน",
+      "distractors": [
+        "school",
+        "stroll",
+        "screw"
+      ]
+    },
+    {
+      "id": "like",
+      "word": "like",
+      "pos": "verb",
+      "ipa": "/laɪk/",
+      "reading_th": "ไลก์",
+      "meaning_th": "กดถูกใจ",
+      "emoji": "👍",
+      "example_en": "Please like and share this video.",
+      "example_th": "ช่วยกดไลก์และแชร์คลิปนี้ด้วยนะ",
+      "cefr": "A1",
+      "note_th": "like ในโซเชียลเป็นกริยาแปลว่ากดถูกใจ ต่างจาก like ทั่วไปที่แปลว่าชอบ — และ likes เป็นคำนามนับได้",
+      "distractors": [
+        "lick",
+        "lake",
+        "lie"
+      ]
+    },
+    {
+      "id": "react",
+      "word": "react",
+      "pos": "verb",
+      "ipa": "/riˈækt/",
+      "reading_th": "รี-แอค",
+      "meaning_th": "แสดงความรู้สึกด้วยไอคอนอารมณ์",
+      "emoji": "😮",
+      "example_en": "Everyone reacted to her news with a heart.",
+      "example_th": "ทุกคนกดหัวใจให้ข่าวของเธอ",
+      "cefr": "B1",
+      "note_th": "กริยาคือ react คำนามคือ reaction — คนไทยพูดทับศัพท์ว่ากดรีแอค",
+      "distractors": [
+        "reach",
+        "record",
+        "retreat"
+      ]
+    },
+    {
+      "id": "emoji",
+      "word": "emoji",
+      "pos": "noun",
+      "ipa": "/ɪˈmoʊdʒi/",
+      "reading_th": "อิ-โม-จิ",
+      "meaning_th": "อีโมจิ รูปหน้าแสดงอารมณ์",
+      "emoji": "😀",
+      "example_en": "She ends every message with a laughing emoji.",
+      "example_th": "เธอลงท้ายทุกข้อความด้วยอีโมจิหัวเราะ",
+      "cefr": "A2",
+      "note_th": "emoji มาจากภาษาญี่ปุ่น ไม่ได้มาจาก emotion — ส่วน emoticon คือหน้ายิ้มที่พิมพ์จากตัวอักษร เช่น :)",
+      "distractors": [
+        "emotion",
+        "energy",
+        "enemy"
+      ]
+    },
+    {
+      "id": "sticker",
+      "word": "sticker",
+      "pos": "noun",
+      "ipa": "/ˈstɪkər/",
+      "reading_th": "สติ๊ก-เกอร์",
+      "meaning_th": "สติกเกอร์",
+      "emoji": "🌟",
+      "example_en": "He sent a sticker instead of answering.",
+      "example_th": "เขาส่งสติกเกอร์มาแทนที่จะตอบ",
+      "cefr": "A2",
+      "note_th": "sticker เป็นคำนาม กริยาคือ stick แปลว่าแปะติด — sticky แปลว่าเหนียวติดมือ",
+      "distractors": [
+        "sticky",
+        "striker",
+        "stacker"
+      ]
+    },
+    {
+      "id": "repost",
+      "word": "repost",
+      "pos": "verb",
+      "ipa": "/ˌriːˈpoʊst/",
+      "reading_th": "รี-โพสต์",
+      "meaning_th": "โพสต์ซ้ำ เอาของคนอื่นมาลงต่อ",
+      "emoji": "🔁",
+      "example_en": "Can I repost your drawing if I credit you?",
+      "example_th": "ขอเอารูปวาดของคุณไปโพสต์ต่อได้ไหม เดี๋ยวให้เครดิต",
+      "cefr": "B1",
+      "note_th": "คำนำหน้า re- แปลว่าทำซ้ำ เหมือน replay, rewrite — มารยาทคือต้อง give credit ทุกครั้ง",
+      "distractors": [
+        "report",
+        "request",
+        "respond"
+      ]
+    },
+    {
+      "id": "quote",
+      "word": "quote",
+      "pos": "verb",
+      "ipa": "/kwoʊt/",
+      "reading_th": "โควท",
+      "meaning_th": "ยกโพสต์คนอื่นมาแล้วเขียนความเห็นเพิ่ม",
+      "emoji": "🗯️",
+      "example_en": "He quoted her post and added a joke.",
+      "example_th": "เขายกโพสต์ของเธอมาแล้วเขียนมุกต่อท้าย",
+      "cefr": "B2",
+      "note_th": "quote คือแชร์พร้อมเขียนเพิ่ม ส่วน repost คือแชร์เฉย ๆ — ตัว t ออกเสียงชัด อ่าน โควท ไม่ใช่ โคว",
+      "distractors": [
+        "quiet",
+        "quite",
+        "queue"
+      ]
+    },
+    {
+      "id": "thread",
+      "word": "thread",
+      "pos": "noun",
+      "ipa": "/θred/",
+      "reading_th": "เธรด",
+      "meaning_th": "ชุดโพสต์ที่ต่อกันเป็นเรื่องเดียว",
+      "emoji": "🧵",
+      "example_en": "She wrote a long thread about her trip.",
+      "example_th": "เธอเขียนเธรดยาวเล่าเรื่องทริป",
+      "cefr": "B2",
+      "note_th": "thread เดิมแปลว่าเส้นด้าย ในเน็ตคือโพสต์ที่ร้อยต่อกัน — ตัว th ออกเสียงลิ้นแตะฟัน ไม่ใช่ เทรด",
+      "distractors": [
+        "bread",
+        "threat",
+        "tread"
+      ]
+    },
+    {
+      "id": "poll",
+      "word": "poll",
+      "pos": "noun",
+      "ipa": "/poʊl/",
+      "reading_th": "โพล",
+      "meaning_th": "โพลสำรวจความเห็น",
+      "emoji": "🗳️",
+      "example_en": "I put a poll in my story to choose the colour.",
+      "example_th": "ใส่โพลในสตอรี่ให้คนช่วยเลือกสี",
+      "cefr": "B1",
+      "note_th": "poll อ่านเหมือน pole ที่แปลว่าเสา — คำว่า vote คือการลงคะแนนหนึ่งเสียงในโพลนั้น",
+      "distractors": [
+        "pole",
+        "pull",
+        "pool"
+      ]
+    },
+    {
+      "id": "bookmark",
+      "word": "bookmark",
+      "pos": "verb",
+      "ipa": "/ˈbʊkmɑːrk/",
+      "reading_th": "บุ๊ค-มาร์ค",
+      "meaning_th": "บันทึกเก็บไว้ดูทีหลัง",
+      "emoji": "🔖",
+      "example_en": "I bookmarked the recipe to try this weekend.",
+      "example_th": "เก็บสูตรอาหารไว้ลองทำเสาร์อาทิตย์นี้",
+      "cefr": "B1",
+      "note_th": "bookmark เดิมคือที่คั่นหนังสือ ในแอปบางตัวเรียกปุ่มนี้ว่า save แทน",
+      "distractors": [
+        "bookshop",
+        "boomark",
+        "birthmark"
+      ]
+    },
+    {
+      "id": "screenshot",
+      "word": "screenshot",
+      "pos": "noun",
+      "ipa": "/ˈskriːnʃɑːt/",
+      "reading_th": "สกรีน-ช็อต",
+      "meaning_th": "ภาพถ่ายหน้าจอ",
+      "emoji": "📸",
+      "example_en": "Send me a screenshot of the error.",
+      "example_th": "ส่งภาพหน้าจอที่ขึ้นเออเรอร์มาให้หน่อย",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่าแคปหน้าจอ แต่ฝรั่งพูดว่า take a screenshot ไม่ใช่ capture screen",
+      "distractors": [
+        "screen saver",
+        "screwdriver",
+        "scoreboard"
+      ]
+    },
+    {
+      "id": "swipe",
+      "word": "swipe",
+      "pos": "verb",
+      "ipa": "/swaɪp/",
+      "reading_th": "สไวป์",
+      "meaning_th": "ปัดหน้าจอซ้ายขวา",
+      "emoji": "👆",
+      "example_en": "Swipe left to see the next photo.",
+      "example_th": "ปัดไปทางซ้ายเพื่อดูรูปถัดไป",
+      "cefr": "A2",
+      "note_th": "swipe up คือปัดขึ้น ส่วน swipe left ในแอปหาคู่แปลว่าปฏิเสธ — ฝรั่งเอาไปใช้ล้อเล่นในชีวิตจริงด้วย",
+      "distractors": [
+        "wipe",
+        "swing",
+        "sweep"
+      ]
+    },
+    {
+      "id": "double_tap",
+      "word": "double-tap",
+      "pos": "verb",
+      "ipa": "/ˈdʌbl tæp/",
+      "reading_th": "ดับ-เบิ้ล-แท็ป",
+      "meaning_th": "แตะสองครั้งเร็ว ๆ (เพื่อกดไลก์)",
+      "emoji": "❤️",
+      "example_en": "Double-tap the photo if you like it.",
+      "example_th": "ถ้าชอบรูปนี้ก็แตะสองทีได้เลย",
+      "cefr": "A2",
+      "note_th": "double-tap ต่างจาก double-click ที่ใช้กับเมาส์บนคอม — บนมือถือใช้คำว่า tap ไม่ใช่ click",
+      "distractors": [
+        "double top",
+        "doubt tap",
+        "bubble tap"
+      ]
+    },
+    {
+      "id": "timeline",
+      "word": "timeline",
+      "pos": "noun",
+      "ipa": "/ˈtaɪmlaɪn/",
+      "reading_th": "ไทม์-ไลน์",
+      "meaning_th": "ไทม์ไลน์ หน้ารวมโพสต์เรียงตามเวลา",
+      "emoji": "🕒",
+      "example_en": "Your post will show up on my timeline.",
+      "example_th": "โพสต์ของคุณจะขึ้นบนไทม์ไลน์ของฉัน",
+      "cefr": "B1",
+      "note_th": "timeline เรียงตามเวลา ส่วน feed แอปจัดลำดับให้เองตามอัลกอริทึม",
+      "distractors": [
+        "timetable",
+        "tightline",
+        "timeless"
+      ]
+    },
+    {
+      "id": "trending",
+      "word": "trending",
+      "pos": "adjective",
+      "ipa": "/ˈtrendɪŋ/",
+      "reading_th": "เทรน-ดิ้ง",
+      "meaning_th": "กำลังมาแรง ติดอันดับคนพูดถึง",
+      "emoji": "🔥",
+      "example_en": "That song is trending on TikTok right now.",
+      "example_th": "เพลงนั้นกำลังมาแรงในติ๊กต็อกตอนนี้",
+      "cefr": "B1",
+      "note_th": "trending เป็นคำคุณศัพท์ ส่วน trend เป็นคำนามแปลว่าเทรนด์ — พูดว่า it is trending ไม่ใช่ it is trend",
+      "distractors": [
+        "training",
+        "trembling",
+        "tending"
+      ]
+    },
+    {
+      "id": "follow",
+      "word": "follow",
+      "pos": "verb",
+      "ipa": "/ˈfɑːloʊ/",
+      "reading_th": "ฟอล-โล่ว์",
+      "meaning_th": "กดติดตาม",
+      "emoji": "➕",
+      "example_en": "Follow me for more cooking videos.",
+      "example_th": "กดติดตามไว้ จะได้ดูคลิปทำอาหารเพิ่ม",
+      "cefr": "A1",
+      "note_th": "follow ในโซเชียลแปลว่ากดติดตาม ไม่ได้แปลว่าเดินตามหลังแบบในชีวิตจริง",
+      "distractors": [
+        "hollow",
+        "fellow",
+        "flow"
+      ]
+    },
+    {
+      "id": "unfollow",
+      "word": "unfollow",
+      "pos": "verb",
+      "ipa": "/ʌnˈfɑːloʊ/",
+      "reading_th": "อัน-ฟอล-โล่ว์",
+      "meaning_th": "เลิกติดตาม",
+      "emoji": "➖",
+      "example_en": "I unfollowed him because he posts too much.",
+      "example_th": "เลิกติดตามเขาแล้วเพราะโพสต์ถี่เกินไป",
+      "cefr": "A2",
+      "note_th": "un- เติมหน้าคำแปลว่าย้อนกลับ เหมือน unblock, undo — unfollow ต่างจาก block ตรงที่เขายังเห็นโพสต์เราได้",
+      "distractors": [
+        "unfold",
+        "unfair",
+        "unhappy"
+      ]
+    },
+    {
+      "id": "friend_request",
+      "word": "friend request",
+      "pos": "noun",
+      "ipa": "/frend rɪˈkwest/",
+      "reading_th": "เฟรนด์ ริ-เควสท์",
+      "meaning_th": "คำขอเป็นเพื่อน",
+      "emoji": "🤝",
+      "example_en": "I got a friend request from someone I do not know.",
+      "example_th": "มีคำขอเป็นเพื่อนจากคนที่ไม่รู้จัก",
+      "cefr": "A2",
+      "note_th": "พูดว่า accept a friend request (ตอบรับ) หรือ decline (ปฏิเสธ) — ไม่ใช้คำว่า agree",
+      "distractors": [
+        "friend receipt",
+        "front request",
+        "friendly quest"
+      ]
+    },
+    {
+      "id": "add_friend",
+      "word": "add friend",
+      "pos": "phrase",
+      "ipa": "/æd frend/",
+      "reading_th": "แอด เฟรนด์",
+      "meaning_th": "เพิ่มเพื่อน",
+      "emoji": "👥",
+      "example_en": "Add me as a friend and I will message you.",
+      "example_th": "แอดเป็นเพื่อนมาสิ เดี๋ยวทักไปหา",
+      "cefr": "A1",
+      "note_th": "คนไทยพูดว่าแอดมา ตรงกับ add me — ถ้าจะขอไอดีพูดว่า What is your ID?",
+      "distractors": [
+        "and friend",
+        "aid friend",
+        "old friend"
+      ]
+    },
+    {
+      "id": "mutual",
+      "word": "mutual friend",
+      "pos": "noun",
+      "ipa": "/ˈmjuːtʃuəl frend/",
+      "reading_th": "มิว-ชวล เฟรนด์",
+      "meaning_th": "เพื่อนที่รู้จักร่วมกัน",
+      "emoji": "🫂",
+      "example_en": "We have twelve mutual friends.",
+      "example_th": "เรามีเพื่อนร่วมกันสิบสองคน",
+      "cefr": "B2",
+      "note_th": "mutual แปลว่าต่างฝ่ายต่างมีเหมือนกัน เช่น mutual respect คือเคารพกันทั้งสองฝ่าย",
+      "distractors": [
+        "musical friend",
+        "manual friend",
+        "monthly friend"
+      ]
+    },
+    {
+      "id": "block",
+      "word": "block",
+      "pos": "verb",
+      "ipa": "/blɑːk/",
+      "reading_th": "บล็อก",
+      "meaning_th": "บล็อก ไม่ให้ติดต่อหรือเห็นเราได้",
+      "emoji": "🚫",
+      "example_en": "She blocked him after he sent rude messages.",
+      "example_th": "เธอบล็อกเขาหลังจากเขาส่งข้อความหยาบ ๆ มา",
+      "cefr": "A2",
+      "note_th": "block = ตัดขาดเลย เห็นอะไรไม่ได้ทั้งคู่ ส่วน mute = แค่ซ่อนโพสต์เขา เขาไม่รู้ตัว",
+      "distractors": [
+        "black",
+        "brick",
+        "clock"
+      ]
+    },
+    {
+      "id": "mute",
+      "word": "mute",
+      "pos": "verb",
+      "ipa": "/mjuːt/",
+      "reading_th": "มิ้วท์",
+      "meaning_th": "ปิดเสียงหรือซ่อนโพสต์ของใครไว้เงียบ ๆ",
+      "emoji": "🔇",
+      "example_en": "I muted the group chat during the meeting.",
+      "example_th": "ปิดเสียงแชทกลุ่มไว้ตอนประชุม",
+      "cefr": "B1",
+      "note_th": "ออกเสียง มิ้วท์ ไม่ใช่ มูท — ตรงข้ามคือ unmute แปลว่าเปิดเสียงกลับ",
+      "distractors": [
+        "moot",
+        "mud",
+        "meet"
+      ]
+    },
+    {
+      "id": "unblock",
+      "word": "unblock",
+      "pos": "verb",
+      "ipa": "/ʌnˈblɑːk/",
+      "reading_th": "อัน-บล็อก",
+      "meaning_th": "ปลดบล็อก",
+      "emoji": "🔓",
+      "example_en": "We made up, so I unblocked her.",
+      "example_th": "ดีกันแล้วเลยปลดบล็อกเธอ",
+      "cefr": "B1",
+      "note_th": "unblock ยังใช้กับท่อตันหรือถนนที่ติดขัดได้ด้วย แปลว่าทำให้ไหลผ่านได้อีกครั้ง",
+      "distractors": [
+        "unlock",
+        "unpack",
+        "undock"
+      ]
+    },
+    {
+      "id": "close_friends",
+      "word": "close friends",
+      "pos": "noun",
+      "ipa": "/kloʊs frendz/",
+      "reading_th": "โคลส เฟรนด์ส",
+      "meaning_th": "รายชื่อเพื่อนสนิทที่เห็นสตอรี่วงใน",
+      "emoji": "💚",
+      "example_en": "I only share that on my close friends list.",
+      "example_th": "เรื่องนั้นลงให้เฉพาะเพื่อนสนิทเห็น",
+      "cefr": "B1",
+      "note_th": "close ในที่นี้อ่านว่า โคลส ลงท้ายเสียง ส ไม่ใช่ โคลซ ที่แปลว่าปิด",
+      "distractors": [
+        "closed friends",
+        "cloth friends",
+        "clear friends"
+      ]
+    },
+    {
+      "id": "subscriber",
+      "word": "subscriber",
+      "pos": "noun",
+      "ipa": "/səbˈskraɪbər/",
+      "reading_th": "ซับ-สไคร-เบอร์",
+      "meaning_th": "ผู้กดติดตามช่อง",
+      "emoji": "📬",
+      "example_en": "He reached one million subscribers last night.",
+      "example_th": "เมื่อคืนเขามีผู้ติดตามครบล้านคน",
+      "cefr": "B1",
+      "note_th": "ยูทูบใช้ subscriber ส่วนไอจีกับติ๊กต็อกใช้ follower — คนละคำกันตามแพลตฟอร์ม",
+      "distractors": [
+        "describer",
+        "subtitle",
+        "submarine"
+      ]
+    },
+    {
+      "id": "dm",
+      "word": "DM",
+      "pos": "noun",
+      "ipa": "/ˌdiː ˈem/",
+      "reading_th": "ดี-เอ็ม",
+      "meaning_th": "ข้อความส่วนตัว",
+      "emoji": "📩",
+      "example_en": "Send me a DM if you want the price.",
+      "example_th": "อยากรู้ราคาทักมาทางข้อความส่วนตัวได้เลย",
+      "cefr": "B1",
+      "note_th": "DM ย่อจาก direct message ใช้เป็นกริยาได้ด้วย เช่น DM me — ทางเฟซบุ๊กเรียก inbox หรือ PM",
+      "distractors": [
+        "DJ",
+        "AM",
+        "DVD"
+      ]
+    },
+    {
+      "id": "group_chat",
+      "word": "group chat",
+      "pos": "noun",
+      "ipa": "/ɡruːp tʃæt/",
+      "reading_th": "กรุ๊ป แชท",
+      "meaning_th": "แชทกลุ่ม",
+      "emoji": "🗨️",
+      "example_en": "Someone added me to a group chat at midnight.",
+      "example_th": "มีคนดึงเข้าแชทกลุ่มตอนเที่ยงคืน",
+      "cefr": "A2",
+      "note_th": "ดึงเข้ากลุ่มพูดว่า add someone to a group chat ส่วนออกจากกลุ่มคือ leave the group",
+      "distractors": [
+        "grape chat",
+        "group cheat",
+        "ground chat"
+      ]
+    },
+    {
+      "id": "seen",
+      "word": "seen",
+      "pos": "adjective",
+      "ipa": "/siːn/",
+      "reading_th": "ซีน",
+      "meaning_th": "อ่านแล้ว (ขึ้นสถานะว่าเปิดอ่าน)",
+      "emoji": "👀",
+      "example_en": "It says seen but she has not replied.",
+      "example_th": "ขึ้นว่าอ่านแล้วแต่เธอยังไม่ตอบ",
+      "cefr": "A2",
+      "note_th": "โดนอ่านแล้วไม่ตอบ ฝรั่งเรียกว่า left on read หรือ ghosted",
+      "distractors": [
+        "scene",
+        "sign",
+        "soon"
+      ]
+    },
+    {
+      "id": "typing",
+      "word": "typing",
+      "pos": "verb",
+      "ipa": "/ˈtaɪpɪŋ/",
+      "reading_th": "ไท-ปิ้ง",
+      "meaning_th": "กำลังพิมพ์อยู่ (สถานะในแชท)",
+      "emoji": "⌨️",
+      "example_en": "It shows typing and then stops every time.",
+      "example_th": "ขึ้นว่ากำลังพิมพ์แล้วก็หยุดทุกที",
+      "cefr": "A2",
+      "note_th": "กริยาคือ type สะกดด้วย y — อย่าสับสนกับ tapping ที่แปลว่าเคาะจอเบา ๆ",
+      "distractors": [
+        "tipping",
+        "tapping",
+        "tying"
+      ]
+    },
+    {
+      "id": "story",
+      "word": "story",
+      "pos": "noun",
+      "ipa": "/ˈstɔːri/",
+      "reading_th": "สตอ-รี่",
+      "meaning_th": "สตอรี่ โพสต์ที่หายไปใน 24 ชั่วโมง",
+      "emoji": "⏳",
+      "example_en": "Check my story before it disappears.",
+      "example_th": "ดูสตอรี่เราก่อนมันจะหายนะ",
+      "cefr": "A2",
+      "note_th": "story ในโซเชียลคือโพสต์ชั่วคราว ส่วน story ทั่วไปแปลว่าเรื่องเล่า และในอังกฤษยังแปลว่าชั้นของตึกได้ด้วย",
+      "distractors": [
+        "storage",
+        "sturdy",
+        "stormy"
+      ]
+    },
+    {
+      "id": "reel",
+      "word": "reel",
+      "pos": "noun",
+      "ipa": "/riːl/",
+      "reading_th": "รีล",
+      "meaning_th": "คลิปสั้นแนวตั้ง",
+      "emoji": "🎞️",
+      "example_en": "Her cooking reel got two million views.",
+      "example_th": "คลิปสั้นทำอาหารของเธอมีคนดูสองล้าน",
+      "cefr": "B1",
+      "note_th": "reel อ่านเหมือน real แต่คนละคำ — เดิมแปลว่าม้วนฟิล์มหนัง",
+      "distractors": [
+        "real",
+        "rail",
+        "roll"
+      ]
+    },
+    {
+      "id": "go_live",
+      "word": "go live",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ laɪv/",
+      "reading_th": "โก ไลฟ์",
+      "meaning_th": "เริ่มถ่ายทอดสด",
+      "emoji": "🔴",
+      "example_en": "I will go live at eight tonight.",
+      "example_th": "คืนนี้สองทุ่มจะไลฟ์นะ",
+      "cefr": "B1",
+      "note_th": "live ในความหมายถ่ายทอดสดอ่านว่า ไลฟ์ แต่ถ้าแปลว่าอาศัยอยู่จะอ่านว่า ลิฟ สะกดเหมือนกัน",
+      "distractors": [
+        "go life",
+        "go leave",
+        "go lift"
+      ]
+    },
+    {
+      "id": "livestream",
+      "word": "livestream",
+      "pos": "noun",
+      "ipa": "/ˈlaɪvstriːm/",
+      "reading_th": "ไลฟ์-สตรีม",
+      "meaning_th": "การถ่ายทอดสด",
+      "emoji": "📡",
+      "example_en": "The livestream lasted three hours.",
+      "example_th": "ไลฟ์ยาวสามชั่วโมง",
+      "cefr": "B1",
+      "note_th": "livestream เป็นคำนาม ส่วน go live เป็นกริยา — คนขายของสดในไลฟ์เรียก live seller",
+      "distractors": [
+        "life stream",
+        "lifestyle",
+        "livestock"
+      ]
+    },
+    {
+      "id": "thumbnail",
+      "word": "thumbnail",
+      "pos": "noun",
+      "ipa": "/ˈθʌmneɪl/",
+      "reading_th": "ธัมบ์-เนล",
+      "meaning_th": "ภาพหน้าปกคลิป",
+      "emoji": "🖼️",
+      "example_en": "A good thumbnail makes people click.",
+      "example_th": "ภาพหน้าปกดี ๆ ทำให้คนอยากกด",
+      "cefr": "B2",
+      "note_th": "thumbnail แปลตรงตัวว่าเล็บหัวแม่มือ คือรูปเล็ก ๆ ขนาดเท่าเล็บ — ตัว b ไม่ออกเสียง",
+      "distractors": [
+        "thumbtack",
+        "thimble",
+        "trumpet"
+      ]
+    },
+    {
+      "id": "vlog",
+      "word": "vlog",
+      "pos": "noun",
+      "ipa": "/vlɑːɡ/",
+      "reading_th": "วล็อก",
+      "meaning_th": "คลิปบันทึกชีวิตประจำวัน",
+      "emoji": "🎥",
+      "example_en": "He posts a travel vlog every Sunday.",
+      "example_th": "เขาลงคลิปเที่ยวทุกวันอาทิตย์",
+      "cefr": "B1",
+      "note_th": "vlog มาจาก video + blog คนทำเรียก vlogger — ออกเสียง ว ไม่ใช่ บ",
+      "distractors": [
+        "blog",
+        "clog",
+        "flog"
+      ]
+    },
+    {
+      "id": "podcast",
+      "word": "podcast",
+      "pos": "noun",
+      "ipa": "/ˈpɑːdkæst/",
+      "reading_th": "พอด-แคสท์",
+      "meaning_th": "พอดแคสต์ รายการเสียงที่ฟังย้อนหลังได้",
+      "emoji": "🎙️",
+      "example_en": "I listen to an English podcast on the bus.",
+      "example_th": "ฟังพอดแคสต์ภาษาอังกฤษตอนนั่งรถเมล์",
+      "cefr": "B1",
+      "note_th": "ใช้กริยา listen to a podcast ไม่ใช่ hear — หนึ่งตอนเรียก episode",
+      "distractors": [
+        "postcard",
+        "broadcast",
+        "podium"
+      ]
+    },
+    {
+      "id": "playlist",
+      "word": "playlist",
+      "pos": "noun",
+      "ipa": "/ˈpleɪlɪst/",
+      "reading_th": "เพลย์-ลิสต์",
+      "meaning_th": "เพลย์ลิสต์ รายการเพลงหรือคลิปที่จัดไว้",
+      "emoji": "🎵",
+      "example_en": "She made a playlist for the road trip.",
+      "example_th": "เธอจัดเพลย์ลิสต์ไว้สำหรับทริปขับรถ",
+      "cefr": "A2",
+      "note_th": "ใช้กริยา make หรือ create a playlist — เพลงหนึ่งเพลงในนั้นเรียก track",
+      "distractors": [
+        "play later",
+        "pay list",
+        "price list"
+      ]
+    },
+    {
+      "id": "subtitle",
+      "word": "subtitle",
+      "pos": "noun",
+      "ipa": "/ˈsʌbtaɪtl/",
+      "reading_th": "ซับ-ไท-เทิ่ล",
+      "meaning_th": "คำบรรยายใต้ภาพ",
+      "emoji": "🔤",
+      "example_en": "Turn on the subtitles to practise listening.",
+      "example_th": "เปิดซับไว้ฝึกฟังไปด้วย",
+      "cefr": "B1",
+      "note_th": "sub- แปลว่าใต้ เหมือน submarine ที่แปลว่าเรือใต้น้ำ — คนไทยเรียกสั้น ๆ ว่าซับ",
+      "distractors": [
+        "suitable",
+        "substitute",
+        "subtotal"
+      ]
+    },
+    {
+      "id": "voice_over",
+      "word": "voice-over",
+      "pos": "noun",
+      "ipa": "/ˈvɔɪs oʊvər/",
+      "reading_th": "ว็อยซ์-โอ-เวอร์",
+      "meaning_th": "เสียงพากย์ทับคลิป",
+      "emoji": "🗣️",
+      "example_en": "She added a voice-over to explain the recipe.",
+      "example_th": "เธอพากย์เสียงทับเพื่ออธิบายสูตรอาหาร",
+      "cefr": "B2",
+      "note_th": "voice-over คือเสียงเล่าทับภาพ ส่วน dub คือพากย์ทับเสียงพูดเดิมเป็นอีกภาษา",
+      "distractors": [
+        "voice mail",
+        "vice over",
+        "voice order"
+      ]
+    },
+    {
+      "id": "duet",
+      "word": "duet",
+      "pos": "noun",
+      "ipa": "/duˈet/",
+      "reading_th": "ดู-เอ็ท",
+      "meaning_th": "คลิปคู่ ถ่ายคู่ไปกับคลิปของคนอื่น",
+      "emoji": "👯",
+      "example_en": "He made a duet with her dance video.",
+      "example_th": "เขาทำคลิปคู่กับคลิปเต้นของเธอ",
+      "cefr": "B2",
+      "note_th": "duet เดิมแปลว่าร้องหรือเล่นดนตรีคู่ — เน้นเสียงพยางค์หลัง อ่าน ดู-เอ็ท ไม่ใช่ ดู-เอ็ด",
+      "distractors": [
+        "duel",
+        "debut",
+        "quiet"
+      ]
+    },
+    {
+      "id": "video",
+      "word": "video",
+      "pos": "noun",
+      "ipa": "/ˈvɪdioʊ/",
+      "reading_th": "วิ-ดี-โอ",
+      "meaning_th": "วิดีโอ คลิป",
+      "emoji": "📹",
+      "example_en": "This video is only fifteen seconds long.",
+      "example_th": "คลิปนี้ยาวแค่สิบห้าวินาที",
+      "cefr": "A1",
+      "note_th": "ออกเสียง วิ-ดี-โอ เน้นพยางค์แรก ไม่ใช่ วี-ดี-โอ — ย่อว่า vid ในภาษาพูด",
+      "distractors": [
+        "radio",
+        "widow",
+        "visit"
+      ]
+    },
+    {
+      "id": "replay",
+      "word": "replay",
+      "pos": "verb",
+      "ipa": "/ˌriːˈpleɪ/",
+      "reading_th": "รี-เพลย์",
+      "meaning_th": "เล่นซ้ำ ดูใหม่อีกรอบ",
+      "emoji": "🔂",
+      "example_en": "I replayed that part five times.",
+      "example_th": "ย้อนดูตอนนั้นซ้ำห้ารอบ",
+      "cefr": "B1",
+      "note_th": "replay ออกเสียงคล้าย reply แต่คนละคำ — reply แปลว่าตอบกลับ",
+      "distractors": [
+        "reply",
+        "repair",
+        "relay"
+      ]
+    },
+    {
+      "id": "algorithm",
+      "word": "algorithm",
+      "pos": "noun",
+      "ipa": "/ˈælɡərɪðəm/",
+      "reading_th": "อัล-กอ-ริ-ทึ่ม",
+      "meaning_th": "อัลกอริทึม ระบบที่เลือกคลิปมาให้เราดู",
+      "emoji": "🧠",
+      "example_en": "The algorithm keeps showing me dog videos.",
+      "example_th": "ระบบเอาแต่ดันคลิปหมามาให้ดู",
+      "cefr": "B2",
+      "note_th": "ตัว th ในคำนี้ออกเสียงเบา ๆ ว่า ทึ่ม ไม่ใช่ ทม — ชาวเน็ตพูดเล่นว่า the algorithm loves you",
+      "distractors": [
+        "allergy",
+        "logarithm",
+        "aluminium"
+      ]
+    },
+    {
+      "id": "creator",
+      "word": "creator",
+      "pos": "noun",
+      "ipa": "/kriˈeɪtər/",
+      "reading_th": "ครี-เอ-เตอร์",
+      "meaning_th": "ครีเอเตอร์ คนทำคอนเทนต์",
+      "emoji": "🎬",
+      "example_en": "She quit her job to be a full-time creator.",
+      "example_th": "เธอลาออกจากงานมาเป็นครีเอเตอร์เต็มตัว",
+      "cefr": "B1",
+      "note_th": "creator มาจากกริยา create — คนที่มีคนตามเยอะจนชวนคนซื้อของได้เรียก influencer",
+      "distractors": [
+        "creature",
+        "curator",
+        "cleaner"
+      ]
+    },
+    {
+      "id": "sponsor",
+      "word": "sponsor",
+      "pos": "noun",
+      "ipa": "/ˈspɑːnsər/",
+      "reading_th": "สปอน-เซอร์",
+      "meaning_th": "ผู้สนับสนุนที่จ่ายเงินให้",
+      "emoji": "💰",
+      "example_en": "A milk brand is the sponsor of her channel.",
+      "example_th": "แบรนด์นมเป็นสปอนเซอร์ของช่องเธอ",
+      "cefr": "B1",
+      "note_th": "sponsor เป็นได้ทั้งคำนามและกริยา — This video is sponsored by... คือประโยคที่ต้องบอกคนดูตามกฎ",
+      "distractors": [
+        "sponge",
+        "spinner",
+        "sensor"
+      ]
+    },
+    {
+      "id": "sponsored_post",
+      "word": "sponsored post",
+      "pos": "noun",
+      "ipa": "/ˈspɑːnsərd poʊst/",
+      "reading_th": "สปอน-เซอร์ด โพสต์",
+      "meaning_th": "โพสต์โฆษณาที่ได้รับเงินจ้าง",
+      "emoji": "📢",
+      "example_en": "You must label a sponsored post clearly.",
+      "example_th": "โพสต์ที่รับเงินจ้างต้องติดป้ายบอกให้ชัด",
+      "cefr": "B2",
+      "note_th": "ในไทยติดแท็ก โฆษณา ฝรั่งใช้ #ad หรือ #sponsored — ไม่บอกถือว่าผิดกฎโฆษณา",
+      "distractors": [
+        "sponsored port",
+        "sponsor post",
+        "sponsored past"
+      ]
+    },
+    {
+      "id": "brand_deal",
+      "word": "brand deal",
+      "pos": "noun",
+      "ipa": "/brænd diːl/",
+      "reading_th": "แบรนด์ ดีล",
+      "meaning_th": "ดีลรับงานให้แบรนด์",
+      "emoji": "🤝",
+      "example_en": "He turned down the brand deal because he does not use the product.",
+      "example_th": "เขาปฏิเสธดีลนั้นเพราะไม่ได้ใช้สินค้าจริง",
+      "cefr": "B2",
+      "note_th": "พูดว่า land a brand deal แปลว่าได้งานแบรนด์มา — อีกคำที่เจอบ่อยคือ collaboration",
+      "distractors": [
+        "brand dial",
+        "bread deal",
+        "brave deal"
+      ]
+    },
+    {
+      "id": "collab",
+      "word": "collab",
+      "pos": "noun",
+      "ipa": "/kəˈlæb/",
+      "reading_th": "คอล-แล็บ",
+      "meaning_th": "การร่วมงานกันของสองฝ่าย",
+      "emoji": "👫",
+      "example_en": "Their collab video came out today.",
+      "example_th": "คลิปที่ร่วมงานกันของทั้งคู่ออกวันนี้",
+      "cefr": "B2",
+      "note_th": "collab ย่อจาก collaboration ใช้ในภาษาพูด ถ้าเขียนทางการให้ใช้คำเต็ม",
+      "distractors": [
+        "collapse",
+        "collar",
+        "college"
+      ]
+    },
+    {
+      "id": "shoutout",
+      "word": "shoutout",
+      "pos": "noun",
+      "ipa": "/ˈʃaʊtaʊt/",
+      "reading_th": "เช้าท์-เอ๊าท์",
+      "meaning_th": "การเอ่ยถึงเพื่อช่วยโปรโมต",
+      "emoji": "📣",
+      "example_en": "Thanks for the shoutout in your video.",
+      "example_th": "ขอบคุณที่พูดถึงเราในคลิปนะ",
+      "cefr": "B2",
+      "note_th": "ใช้กับการขอบคุณหรือโปรโมตให้กันฟรี ๆ — give someone a shoutout คือเอ่ยชื่อให้",
+      "distractors": [
+        "shortcut",
+        "shutout",
+        "shootout"
+      ]
+    },
+    {
+      "id": "giveaway",
+      "word": "giveaway",
+      "pos": "noun",
+      "ipa": "/ˈɡɪvəweɪ/",
+      "reading_th": "กิฟ-เว่-เอ",
+      "meaning_th": "กิจกรรมแจกของฟรี",
+      "emoji": "🎁",
+      "example_en": "Follow and comment to join the giveaway.",
+      "example_th": "กดติดตามและคอมเมนต์เพื่อร่วมกิจกรรมแจกของ",
+      "cefr": "B1",
+      "note_th": "giveaway เป็นคำนามเขียนติดกัน ส่วน give away แยกคำเป็นกริยาแปลว่ายกให้ไปเลย",
+      "distractors": [
+        "getaway",
+        "giveback",
+        "gateway"
+      ]
+    },
+    {
+      "id": "monetize",
+      "word": "monetize",
+      "pos": "verb",
+      "ipa": "/ˈmɑːnətaɪz/",
+      "reading_th": "มอ-นิ-ไทซ์",
+      "meaning_th": "ทำให้สร้างรายได้",
+      "emoji": "💵",
+      "example_en": "You need a thousand subscribers to monetize your channel.",
+      "example_th": "ต้องมีผู้ติดตามพันคนถึงจะเปิดหารายได้จากช่องได้",
+      "cefr": "B2",
+      "note_th": "อังกฤษสะกด monetise อเมริกันสะกด monetize — คำนามคือ monetization",
+      "distractors": [
+        "memorize",
+        "modernize",
+        "motorize"
+      ]
+    },
+    {
+      "id": "engagement",
+      "word": "engagement",
+      "pos": "noun",
+      "ipa": "/ɪnˈɡeɪdʒmənt/",
+      "reading_th": "เอน-เกจ-เมิ่นท์",
+      "meaning_th": "ยอดการมีส่วนร่วม ไลก์ คอมเมนต์ แชร์",
+      "emoji": "📊",
+      "example_en": "Short videos get the most engagement.",
+      "example_th": "คลิปสั้นได้ยอดมีส่วนร่วมมากที่สุด",
+      "cefr": "B2",
+      "note_th": "engagement ในโซเชียลคือยอดการมีส่วนร่วม แต่ในชีวิตทั่วไปแปลว่าการหมั้น อย่าสับสน",
+      "distractors": [
+        "enjoyment",
+        "engine room",
+        "enlargement"
+      ]
+    },
+    {
+      "id": "reach",
+      "word": "reach",
+      "pos": "noun",
+      "ipa": "/riːtʃ/",
+      "reading_th": "รีช",
+      "meaning_th": "จำนวนคนที่เห็นโพสต์",
+      "emoji": "🌐",
+      "example_en": "This post had a reach of fifty thousand people.",
+      "example_th": "โพสต์นี้มีคนเห็นห้าหมื่นคน",
+      "cefr": "B2",
+      "note_th": "reach นับจำนวนคน ส่วน impressions นับจำนวนครั้งที่โผล่ คนเดียวเห็นสามรอบก็นับสาม",
+      "distractors": [
+        "rich",
+        "reef",
+        "ranch"
+      ]
+    },
+    {
+      "id": "insight",
+      "word": "insights",
+      "pos": "noun",
+      "ipa": "/ˈɪnsaɪts/",
+      "reading_th": "อิน-ไซท์ส",
+      "meaning_th": "หน้าสถิติเชิงลึกของบัญชี",
+      "emoji": "📈",
+      "example_en": "Check your insights to see when your fans are online.",
+      "example_th": "ดูหน้าสถิติว่าคนติดตามออนไลน์ช่วงไหน",
+      "cefr": "B2",
+      "note_th": "ในแอปใช้พหูพจน์ Insights — คำเดี่ยว insight แปลว่าความเข้าใจลึกซึ้งในเรื่องใดเรื่องหนึ่ง",
+      "distractors": [
+        "inside",
+        "eyesight",
+        "incite"
+      ]
+    },
+    {
+      "id": "affiliate",
+      "word": "affiliate link",
+      "pos": "noun",
+      "ipa": "/əˈfɪliət lɪŋk/",
+      "reading_th": "อะ-ฟิ-ลิ-เอท ลิงก์",
+      "meaning_th": "ลิงก์ที่ได้ค่าคอมเมื่อมีคนกดซื้อ",
+      "emoji": "🔗",
+      "example_en": "The affiliate link is in the description.",
+      "example_th": "ลิงก์รับค่าคอมอยู่ในคำอธิบายใต้คลิป",
+      "cefr": "B2",
+      "note_th": "ค่าตอบแทนที่ได้เรียก commission — ในไทยเรียกทับศัพท์ว่าแอฟฟิลิเอต",
+      "distractors": [
+        "affiliate line",
+        "affordable link",
+        "official link"
+      ]
+    },
+    {
+      "id": "unboxing",
+      "word": "unboxing",
+      "pos": "noun",
+      "ipa": "/ʌnˈbɑːksɪŋ/",
+      "reading_th": "อัน-บ็อก-ซิ่ง",
+      "meaning_th": "คลิปแกะกล่องสินค้า",
+      "emoji": "📦",
+      "example_en": "His unboxing video has ten million views.",
+      "example_th": "คลิปแกะกล่องของเขามีคนดูสิบล้าน",
+      "cefr": "B1",
+      "note_th": "un- เติมหน้า box แปลว่าเอาออกจากกล่อง — ใช้เป็นกริยาได้ด้วย เช่น let us unbox this",
+      "distractors": [
+        "unpacking",
+        "unbooking",
+        "unblocking"
+      ]
+    },
+    {
+      "id": "ad",
+      "word": "ad",
+      "pos": "noun",
+      "ipa": "/æd/",
+      "reading_th": "แอด",
+      "meaning_th": "โฆษณา",
+      "emoji": "📺",
+      "example_en": "I skipped the ad after five seconds.",
+      "example_th": "กดข้ามโฆษณาหลังผ่านไปห้าวินาที",
+      "cefr": "A2",
+      "note_th": "ad ย่อจาก advertisement อังกฤษย่อว่า advert — กดข้ามพูดว่า skip the ad",
+      "distractors": [
+        "add",
+        "aid",
+        "app"
+      ]
+    },
+    {
+      "id": "troll",
+      "word": "troll",
+      "pos": "noun",
+      "ipa": "/troʊl/",
+      "reading_th": "โทรล",
+      "meaning_th": "คนที่คอยป่วนคอมเมนต์ให้คนอื่นหัวร้อน",
+      "emoji": "👹",
+      "example_en": "Do not feed the trolls.",
+      "example_th": "อย่าไปตอบพวกที่มาป่วน",
+      "cefr": "B2",
+      "note_th": "do not feed the trolls เป็นสำนวนเน็ต แปลว่าอย่าไปตอบโต้ เดี๋ยวเขาก็เบื่อไปเอง",
+      "distractors": [
+        "trolley",
+        "toll",
+        "drill"
+      ]
+    },
+    {
+      "id": "hater",
+      "word": "hater",
+      "pos": "noun",
+      "ipa": "/ˈheɪtər/",
+      "reading_th": "เฮ-เตอร์",
+      "meaning_th": "คนที่คอยว่าคนอื่นเรื่อย ๆ",
+      "emoji": "😠",
+      "example_en": "She ignores the haters and keeps posting.",
+      "example_th": "เธอไม่สนพวกที่มาว่า แล้วก็โพสต์ต่อไป",
+      "cefr": "B1",
+      "note_th": "hater มาจากกริยา hate — ต่างจาก troll ตรงที่ troll ป่วนเพื่อความสนุก ส่วน hater เกลียดจริง",
+      "distractors": [
+        "heater",
+        "hatter",
+        "later"
+      ]
+    },
+    {
+      "id": "cyberbullying",
+      "word": "cyberbullying",
+      "pos": "noun",
+      "ipa": "/ˈsaɪbərbʊliɪŋ/",
+      "reading_th": "ไซ-เบอร์-บุล-ลี่-อิ้ง",
+      "meaning_th": "การกลั่นแกล้งกันบนโลกออนไลน์",
+      "emoji": "💔",
+      "example_en": "Report cyberbullying instead of fighting back.",
+      "example_th": "เจอการกลั่นแกล้งออนไลน์ให้กดรายงาน อย่าไปตอบโต้",
+      "cefr": "B2",
+      "note_th": "cyber- แปลว่าบนโลกออนไลน์ ต่อกับ bully ที่แปลว่าแกล้งคนอื่น — ถ้าเจอให้บอกผู้ใหญ่ด้วย",
+      "distractors": [
+        "cyber shopping",
+        "cyberbanking",
+        "cyclebullying"
+      ]
+    },
+    {
+      "id": "fake_news",
+      "word": "fake news",
+      "pos": "noun",
+      "ipa": "/feɪk nuːz/",
+      "reading_th": "เฟค นิวส์",
+      "meaning_th": "ข่าวปลอม",
+      "emoji": "📰",
+      "example_en": "That post is fake news, so do not share it.",
+      "example_th": "โพสต์นั้นเป็นข่าวปลอม อย่าไปแชร์ต่อ",
+      "cefr": "B1",
+      "note_th": "news เป็นคำนามนับไม่ได้ พูดว่า a piece of news ไม่พูดว่า a news",
+      "distractors": [
+        "face news",
+        "fake nose",
+        "fast news"
+      ]
+    },
+    {
+      "id": "clickbait",
+      "word": "clickbait",
+      "pos": "noun",
+      "ipa": "/ˈklɪkbeɪt/",
+      "reading_th": "คลิก-เบท",
+      "meaning_th": "พาดหัวหลอกล่อให้กด",
+      "emoji": "🪝",
+      "example_en": "That title is pure clickbait.",
+      "example_th": "ชื่อคลิปนั้นล่อให้กดล้วน ๆ",
+      "cefr": "B2",
+      "note_th": "bait แปลว่าเหยื่อล่อปลา — clickbait คือเหยื่อล่อให้คนกดนั่นเอง",
+      "distractors": [
+        "click bite",
+        "cricket bat",
+        "clip boat"
+      ]
+    },
+    {
+      "id": "scam",
+      "word": "scam",
+      "pos": "noun",
+      "ipa": "/skæm/",
+      "reading_th": "สแกม",
+      "meaning_th": "กลโกง การหลอกเอาเงิน",
+      "emoji": "⚠️",
+      "example_en": "That free phone offer is a scam.",
+      "example_th": "โปรแจกมือถือฟรีนั่นคือกลโกง",
+      "cefr": "B1",
+      "note_th": "คนโกงเรียก scammer และถ้าโดนหลอกพูดว่า I got scammed",
+      "distractors": [
+        "scan",
+        "spam",
+        "slam"
+      ]
+    },
+    {
+      "id": "report_post",
+      "word": "report a post",
+      "pos": "phrase",
+      "ipa": "/rɪˈpɔːrt ə poʊst/",
+      "reading_th": "ริ-พอร์ท อะ โพสต์",
+      "meaning_th": "กดรายงานโพสต์ที่ไม่เหมาะสม",
+      "emoji": "🚩",
+      "example_en": "You can report a post that breaks the rules.",
+      "example_th": "โพสต์ที่ผิดกฎกดรายงานได้เลย",
+      "cefr": "B1",
+      "note_th": "report ในโซเชียลคือแจ้งแพลตฟอร์ม ต่างจาก report ในที่ทำงานที่แปลว่ารายงานผลงาน",
+      "distractors": [
+        "repair a post",
+        "reply a post",
+        "resort a post"
+      ]
+    },
+    {
+      "id": "guidelines",
+      "word": "community guidelines",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːnəti ˈɡaɪdlaɪnz/",
+      "reading_th": "คอม-มิว-นิ-ตี้ ไกด์-ไลน์ส",
+      "meaning_th": "กฎการใช้งานของแพลตฟอร์ม",
+      "emoji": "📜",
+      "example_en": "His video was removed for breaking the community guidelines.",
+      "example_th": "คลิปเขาโดนลบเพราะผิดกฎของแพลตฟอร์ม",
+      "cefr": "B2",
+      "note_th": "ผิดกฎพูดว่า break หรือ violate the guidelines — โดนลงโทษเรียก strike",
+      "distractors": [
+        "community guidebooks",
+        "commodity guidelines",
+        "community grandlines"
+      ]
+    },
+    {
+      "id": "cringe",
+      "word": "cringe",
+      "pos": "adjective",
+      "ipa": "/krɪndʒ/",
+      "reading_th": "คริ้นจ์",
+      "meaning_th": "น่าขนลุก เขินแทน",
+      "emoji": "😬",
+      "example_en": "My old posts are so cringe.",
+      "example_th": "โพสต์เก่า ๆ ของเราน่าขนลุกมาก",
+      "cefr": "B2",
+      "note_th": "เดิม cringe เป็นกริยาแปลว่าหดตัวเพราะเขิน วัยรุ่นเอามาใช้เป็นคำคุณศัพท์ ใช้ในภาษาพูดเท่านั้น",
+      "distractors": [
+        "fringe",
+        "crunch",
+        "change"
+      ]
+    },
+    {
+      "id": "vibe",
+      "word": "vibe",
+      "pos": "noun",
+      "ipa": "/vaɪb/",
+      "reading_th": "ไวบ์",
+      "meaning_th": "บรรยากาศ ความรู้สึกที่ได้จากสิ่งนั้น",
+      "emoji": "✨",
+      "example_en": "This cafe has a really good vibe.",
+      "example_th": "คาเฟ่นี้บรรยากาศดีมาก",
+      "cefr": "B2",
+      "note_th": "vibe ย่อจาก vibration — พูดว่า good vibes only แปลว่าเอาแต่เรื่องดี ๆ",
+      "distractors": [
+        "vile",
+        "bribe",
+        "vice"
+      ]
+    },
+    {
+      "id": "flex",
+      "word": "flex",
+      "pos": "verb",
+      "ipa": "/fleks/",
+      "reading_th": "เฟล็กซ์",
+      "meaning_th": "อวด โชว์ของหรือความสำเร็จ",
+      "emoji": "💪",
+      "example_en": "He is always flexing his new shoes.",
+      "example_th": "เขาเอาแต่อวดรองเท้าใหม่",
+      "cefr": "B2",
+      "note_th": "เดิม flex แปลว่าเกร็งกล้ามเนื้อ วัยรุ่นใช้แปลว่าอวด — weird flex but ok คือมุกล้อคนอวดเรื่องแปลก ๆ",
+      "distractors": [
+        "flax",
+        "flee",
+        "fled"
+      ]
+    },
+    {
+      "id": "fomo",
+      "word": "FOMO",
+      "pos": "noun",
+      "ipa": "/ˈfoʊmoʊ/",
+      "reading_th": "โฟ-โม่",
+      "meaning_th": "อาการกลัวตกกระแส กลัวพลาดสิ่งที่คนอื่นได้ทำ",
+      "emoji": "😰",
+      "example_en": "I get FOMO when I see everyone travelling.",
+      "example_th": "เห็นคนอื่นไปเที่ยวกันหมดแล้วรู้สึกกลัวตกกระแส",
+      "cefr": "B2",
+      "note_th": "FOMO ย่อจาก fear of missing out อ่านเป็นคำเดียวว่า โฟ-โม่ ไม่ต้องสะกดทีละตัว",
+      "distractors": [
+        "FOMU",
+        "FOBO",
+        "FORM"
+      ]
+    },
+    {
+      "id": "meme",
+      "word": "meme",
+      "pos": "noun",
+      "ipa": "/miːm/",
+      "reading_th": "มีม",
+      "meaning_th": "มีม ภาพหรือมุกที่คนเอาไปเล่นต่อกัน",
+      "emoji": "🤣",
+      "example_en": "That cat meme is everywhere this week.",
+      "example_th": "มีมแมวอันนั้นเกลื่อนเน็ตทั้งอาทิตย์",
+      "cefr": "B1",
+      "note_th": "ออกเสียง มีม พยางค์เดียว ไม่ใช่ มี-เม่ — คำนี้นักชีววิทยาคิดขึ้นตั้งแต่ปี 1976 ก่อนมีอินเทอร์เน็ต",
+      "distractors": [
+        "mime",
+        "memo",
+        "mean"
+      ]
+    },
+    {
+      "id": "detox",
+      "word": "digital detox",
+      "pos": "noun",
+      "ipa": "/ˈdɪdʒɪtl ˈdiːtɑːks/",
+      "reading_th": "ดิ-จิ-ทัล ดี-ท็อกซ์",
+      "meaning_th": "การพักจากหน้าจอและโซเชียล",
+      "emoji": "🌿",
+      "example_en": "I did a digital detox for one weekend.",
+      "example_th": "พักจากมือถือหนึ่งเสาร์อาทิตย์",
+      "cefr": "B2",
+      "note_th": "detox เดิมใช้กับการล้างสารพิษในร่างกาย — digital detox คือล้างพิษจากหน้าจอ",
+      "distractors": [
+        "digital deluxe",
+        "digital detail",
+        "digital dentist"
+      ]
+    }
+  ]
+}

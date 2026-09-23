@@ -123,14 +123,14 @@
     },
     {
       "id": "social_media",
+      "file": "social_media.json",
       "name_en": "Social Media",
       "name_th": "โซเชียลมีเดีย",
       "emoji": "📱",
       "color_start": "#67E8F9",
       "color_end": "#0E7490",
-      "available": false,
-      "mascot_costume": "streamer",
-      "description_th": "โพสต์ แชต คอมเมนต์ และคำที่เจอทุกวันบนโซเชียล"
+      "available": true,
+      "image": "worlds/social_media.webp"
     },
     {
       "id": "love",

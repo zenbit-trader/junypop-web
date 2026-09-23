@@ -1,0 +1,1 @@
+window.JUNYPOP_CC = { url: "https://hqjdpoomzrqywtswwqan.supabase.co", anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhxamRwb29tenJxeXd0c3d3cWFuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg4MTMzNzIsImV4cCI6MjEwNDM4OTM3Mn0.-N1Nz8XGh8wKZKt1zRelZae1KEPVqY1yXWKpHF24BQ8" };

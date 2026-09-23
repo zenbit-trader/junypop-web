@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>ห้องบัญชาการ JUNYPOP</title>
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/icons/Icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="JUNYPOP CC">
+<meta name="theme-color" content="#2F5FE0">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;500;600;700;800&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --paper:#F6F5FA; --surface:#FCFCFB; --sunk:#EEEDF4; --line:#E3E1EC;
+  --ink:#171530; --ink-2:#52514E; --ink-3:#8A88A0;
+  --brand:#2F5FE0; --brand-2:#7A46D6; --brand-soft:#E9EEFC;
+  --series-1:#2a78d6; --seq-250:#86b6ef; --seq-350:#5598e7; --seq-450:#2a78d6; --seq-550:#1c5cab; --seq-650:#104281;
+  --good:#0ca30c; --warn:#fab219; --critical:#d03b3b;
+  --good-bg:#E6F6E6; --warn-bg:#FFF4D6; --critical-bg:#FBE3E3; --warn-ink:#7a5200;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    color-scheme:dark;
+    --paper:#111020; --surface:#1a1a19; --sunk:#232232; --line:#33324A;
+    --ink:#FFFFFF; --ink-2:#c3c2b7; --ink-3:#8E8CA8;
+    --brand:#8AA8FB; --brand-2:#B394F6; --brand-soft:#262A4A;
+    --series-1:#3987e5; --seq-450:#3987e5; --seq-550:#256abf; --seq-650:#184f95;
+    --good-bg:#153A15; --warn-bg:#3E3010; --critical-bg:#3F1A1A; --warn-ink:#fab219;
+  }
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:Sarabun,'Segoe UI',Tahoma,sans-serif;font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+button,input,select,textarea{font-family:inherit}
+.app{max-width:960px;margin:0 auto;padding-left:16px;padding-right:16px;padding-block:calc(14px + env(safe-area-inset-top,0px)) 96px}
+.top{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.mark{width:42px;height:42px;border-radius:13px;background:linear-gradient(140deg,var(--brand),var(--brand-2));color:#fff;display:grid;place-items:center;font-weight:800;font-size:15px;flex:none}
+.top h1{font-size:19px;margin:0;line-height:1.25;font-weight:700}
+.top .sub{font-size:12.5px;color:var(--ink-3);margin:0}
+.livedot{margin-left:auto;display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;color:var(--good);background:var(--good-bg);border-radius:999px;padding:3px 10px;white-space:nowrap}
+.livedot i{width:8px;height:8px;border-radius:50%;background:var(--good);display:inline-block;animation:pulse 1.6s infinite}
+.livedot.off{color:var(--ink-3);background:var(--sunk)} .livedot.off i{background:var(--ink-3);animation:none}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.livedot i{animation:none}}
+.fresh{font-size:12.5px;color:var(--ink-3);margin:0 0 14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.fresh b{color:var(--ink-2);font-weight:600}
+.tabs{position:fixed;left:0;right:0;bottom:0;background:var(--surface);border-top:1px solid var(--line);padding:6px 8px calc(6px + env(safe-area-inset-bottom,0px));display:flex;justify-content:space-around;z-index:20}
+.tab{border:0;background:none;color:var(--ink-3);font-size:11.5px;font-weight:600;display:flex;flex-direction:column;align-items:center;gap:2px;padding:4px 8px;border-radius:12px;cursor:pointer;min-width:58px}
+.tab svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.tab[aria-selected="true"]{color:var(--brand);background:var(--brand-soft)}
+.tab:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+section[role="tabpanel"][hidden]{display:none}
+@media(min-width:720px){
+  .tabs{position:sticky;top:0;bottom:auto;border-top:0;border-bottom:1px solid var(--line);justify-content:flex-start;gap:6px;padding:8px 0;margin:0 0 18px;background:var(--paper)}
+  .tab{flex-direction:row;gap:7px;font-size:14px;padding:7px 14px}
+  .app{padding-bottom:40px}
+}
+h2{font-size:15px;font-weight:700;margin:22px 0 10px;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+h2 small{font-weight:500;color:var(--ink-3);font-size:12.5px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:14px 16px}
+.empty{background:var(--sunk);border:1px dashed var(--line);border-radius:14px;padding:16px;color:var(--ink-2);font-size:14px;text-align:center}
+.hero{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:end;background:linear-gradient(135deg,var(--brand),var(--brand-2));color:#fff;border-radius:18px;padding:16px 18px}
+.hero .lbl{font-size:13px;opacity:.9;margin:0}
+.hero .val{font-size:52px;font-weight:700;line-height:1.05;margin:2px 0 0}
+.hero .delta{font-size:13px;margin:6px 0 0;opacity:.95}
+.hero svg{width:120px;height:44px;display:block}
+.now{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:10px}
+.now .n{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:8px 10px;text-align:center}
+.now .n b{display:block;font-size:22px;font-weight:700;line-height:1.1}
+.now .n span{font-size:11.5px;color:var(--ink-3)}
+.tiles{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:10px}
+@media(min-width:720px){.tiles{grid-template-columns:repeat(4,1fr)}}
+.tile{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px 10px}
+.tile .lbl{font-size:12.5px;color:var(--ink-2);margin:0}
+.tile .val{font-size:26px;font-weight:600;line-height:1.15;margin:2px 0 0}
+.tile .val small{font-size:13px;color:var(--ink-3);font-weight:500;margin-left:2px}
+.tile .foot{display:flex;justify-content:space-between;align-items:center;gap:8px;margin-top:6px;min-height:20px}
+.status{display:inline-flex;align-items:center;gap:5px;font-size:11.5px;font-weight:700;border-radius:999px;padding:2px 9px;white-space:nowrap}
+.status.ok{background:var(--good-bg);color:var(--good)}
+.status.warn{background:var(--warn-bg);color:var(--warn-ink)}
+.status.bad{background:var(--critical-bg);color:var(--critical)}
+.status.muted{background:var(--sunk);color:var(--ink-3)}
+.todo{display:grid;gap:8px}
+.item{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px 14px}
+.item .n{width:28px;height:28px;border-radius:9px;background:var(--brand-soft);color:var(--brand);font-weight:700;display:grid;place-items:center;font-size:14px}
+.item b{display:block;font-size:14.5px;font-weight:600}
+.item span{font-size:13px;color:var(--ink-2)}
+.btn{border:0;border-radius:999px;padding:8px 14px;font-size:13.5px;font-weight:700;cursor:pointer;white-space:nowrap}
+.btn.p{background:var(--brand);color:#fff}
+.btn.s{background:var(--sunk);color:var(--ink)}
+.btn.d{background:var(--critical-bg);color:var(--critical)}
+.btn:disabled{opacity:.5;cursor:default}
+.btn:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+.alerts{display:grid;gap:8px}
+.alert{display:flex;gap:10px;align-items:flex-start;border-radius:12px;padding:10px 12px;font-size:13.5px;border:1px solid transparent}
+.alert.warn{background:var(--warn-bg);border-color:color-mix(in srgb,var(--warn) 40%,transparent)}
+.alert.bad{background:var(--critical-bg);border-color:color-mix(in srgb,var(--critical) 35%,transparent)}
+.alert.ok{background:var(--good-bg);border-color:color-mix(in srgb,var(--good) 35%,transparent)}
+.alert.info{background:var(--brand-soft);border-color:color-mix(in srgb,var(--brand) 30%,transparent)}
+.funnel{display:grid;gap:6px}
+.frow{display:grid;grid-template-columns:118px 1fr 74px;gap:10px;align-items:center;font-size:13.5px}
+.frow .bar{height:22px;border-radius:0 4px 4px 0;background:var(--seq-450);min-width:2px}
+.frow .v{text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+.frow .pct{font-size:12px;color:var(--ink-3);font-weight:500;display:block}
+.frow.s1 .bar{background:var(--seq-250)} .frow.s2 .bar{background:var(--seq-350)} .frow.s3 .bar{background:var(--seq-450)} .frow.s4 .bar{background:var(--seq-550)} .frow.s5 .bar{background:var(--seq-650)}
+.tbl{width:100%;border-collapse:collapse;font-size:13.5px}
+.tbl th{text-align:left;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);font-weight:700;padding:6px 8px;border-bottom:1px solid var(--line)}
+.tbl td{padding:9px 8px;border-bottom:1px solid var(--line);vertical-align:middle}
+.tbl tr:last-child td{border-bottom:0}
+.tbl .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.mini{height:8px;border-radius:0 3px 3px 0;background:var(--series-1);min-width:2px}
+.tblwrap{overflow-x:auto}
+.chan{display:flex;align-items:center;gap:8px;font-weight:600}
+.chan i{width:9px;height:9px;border-radius:50%;background:var(--series-1);flex:none;display:inline-block}
+.meter{height:10px;border-radius:999px;background:var(--seq-250);overflow:hidden;margin:8px 0 4px}
+.meter i{display:block;height:100%;background:var(--seq-550);border-radius:999px}
+.form{display:grid;gap:10px}
+.form label{display:grid;gap:4px;font-size:13px;color:var(--ink-2);font-weight:600}
+.form select,.form input,.form textarea{font-size:14px;padding:9px 11px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);width:100%}
+.form .row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:5px 12px;font-size:13px;font-weight:600;cursor:pointer;color:var(--ink)}
+.chip[aria-pressed="true"]{background:var(--brand-soft);border-color:var(--brand);color:var(--brand)}
+.clips{display:grid;gap:8px}
+.clip{display:grid;grid-template-columns:44px 1fr auto;gap:12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:10px 12px}
+.clip .th{width:44px;height:78px;border-radius:9px;display:grid;place-items:center;color:#fff;font-size:10px;font-weight:800;text-align:center;line-height:1.2;padding:4px;background:linear-gradient(160deg,var(--c1,#2F5FE0),var(--c2,#8B36C9))}
+.clip b{display:block;font-size:14px}
+.clip span{font-size:12.5px;color:var(--ink-2)}
+.clip .acts{display:grid;gap:5px}
+.q{display:grid;gap:8px}
+.qi{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:start;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:13.5px}
+.qi b{display:block;font-weight:600}
+.qi span{font-size:12.5px;color:var(--ink-3);display:block}
+.qi .res{font-size:13px;color:var(--ink-2);margin-top:4px}
+.toast{position:fixed;left:16px;right:16px;bottom:calc(84px + env(safe-area-inset-bottom,0px));margin:0 auto;max-width:440px;background:var(--ink);color:var(--paper);border-radius:14px;padding:12px 16px;font-size:14px;font-weight:600;opacity:0;transform:translateY(8px);transition:.2s;pointer-events:none;z-index:30;text-align:center}
+.toast.on{opacity:1;transform:none}
+@media(min-width:720px){.toast{bottom:24px}}
+@media(prefers-reduced-motion:reduce){.toast{transition:none}}
+.note{font-size:12.5px;color:var(--ink-3);margin:8px 0 0}
+pre.cap{white-space:pre-wrap;font-family:inherit;font-size:13px;background:var(--sunk);border-radius:10px;padding:10px 12px;margin:8px 0 0;color:var(--ink-2)}
+.gate{max-width:420px;margin:60px auto;text-align:center;color:var(--ink-2)}
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <header class="top">
+    <div class="mark">JP</div>
+    <div>
+      <h1>ห้องบัญชาการ JUNYPOP</h1>
+      <p class="sub">วัดผล · สั่งงาน · วางแผน ในหน้าเดียว</p>
+    </div>
+    <span class="livedot off" id="livedot"><i></i><span id="livetext">กำลังเชื่อมต่อ</span></span>
+  </header>
+  <p class="fresh"><span>อัปเดต <b id="fresh-at">—</b></span><span id="budget-line"></span></p>
+
+  <nav class="tabs" role="tablist" aria-label="ส่วนหลัก">
+    <button class="tab" role="tab" id="t-today" aria-selected="true" aria-controls="p-today"><svg viewBox="0 0 24 24"><path d="M3 12l9-8 9 8"/><path d="M5 10v10h14V10"/></svg>วันนี้</button>
+    <button class="tab" role="tab" id="t-chan" aria-selected="false" aria-controls="p-chan"><svg viewBox="0 0 24 24"><path d="M4 19V9M10 19V5M16 19v-7M22 19H2"/></svg>ช่องทาง</button>
+    <button class="tab" role="tab" id="t-ads" aria-selected="false" aria-controls="p-ads"><svg viewBox="0 0 24 24"><path d="M3 11l14-6v14L3 13z"/><path d="M17 8a4 4 0 010 8"/></svg>โฆษณา</button>
+    <button class="tab" role="tab" id="t-content" aria-selected="false" aria-controls="p-content"><svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M10 9l5 3-5 3z"/></svg>คอนเทนต์</button>
+    <button class="tab" role="tab" id="t-queue" aria-selected="false" aria-controls="p-queue"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h10M4 18h6"/><path d="M17 15l2 2 4-4"/></svg>คำสั่ง <span id="q-badge"></span></button>
+  </nav>
+
+  <section role="tabpanel" id="p-today" aria-labelledby="t-today">
+    <div id="hero"></div>
+    <div class="now" id="now"></div>
+    <div class="tiles" id="tiles"></div>
+    <p class="note">"คนเข้าเว็บ" นับจากบัญชีผู้เล่นชั่วคราวที่เกมสร้างตอนเปิด — บอทของ Google อาจถูกนับด้วย ตัวเลขที่เชื่อถือได้จริงคือ "เล่นจบบทแรก"</p>
+    <h2>สิ่งที่ควรทำตอนนี้ <small>Claude สรุปจากตัวเลขล่าสุด</small></h2>
+    <div class="todo" id="todos"></div>
+    <h2>แจ้งเตือน</h2>
+    <div class="alerts" id="alerts"></div>
+  </section>
+
+  <section role="tabpanel" id="p-chan" aria-labelledby="t-chan" hidden>
+    <h2>Funnel 7 วันล่าสุด <small>จากฐานข้อมูลของเราเอง</small></h2>
+    <div id="funnel"></div>
+    <h2>ช่องทางไหนพาคนมา <small>7 วัน · ที่มาจาก UTM</small></h2>
+    <div id="channels"></div>
+    <h2>14 วันย้อนหลัง <small>คนเข้า / จบบทแรก / คนเล่นต่อวัน</small></h2>
+    <div id="series"></div>
+  </section>
+
+  <section role="tabpanel" id="p-ads" aria-labelledby="t-ads" hidden>
+    <h2>งบเดือนนี้</h2>
+    <div id="budget"></div>
+    <h2>แอดที่กำลังวิ่ง <small>Meta</small></h2>
+    <div id="ads"></div>
+    <h2>สั่งแคมเปญใหม่ <small>Claude ตั้งค่าให้ · คุณอนุมัติก่อนเริ่มจ่าย</small></h2>
+    <div class="card form">
+      <label>เป้าหมาย<select id="f-goal"><option>คนเล่นจบบทแรก (เว็บ)</option><option>ติดตั้งแอป (สโตร์)</option><option>สมัคร Plus</option></select></label>
+      <label>กลุ่มเป้าหมาย<div class="chips" id="f-aud"><button type="button" class="chip" aria-pressed="true">นักเรียน 18–24</button><button type="button" class="chip" aria-pressed="false">วัยทำงาน TOEIC 25–40</button><button type="button" class="chip" aria-pressed="false">พ่อแม่ 30–45</button><button type="button" class="chip" aria-pressed="false">รีทาร์เก็ต</button></div></label>
+      <div class="row">
+        <label>งบต่อวัน (บาท)<input id="f-budget" type="number" value="200" min="100" step="50"></label>
+        <label>ครีเอทีฟ<select id="f-cre"><option>คลิป 5 คำ (3 แบบ)</option><option>คลิป "พูดผิด" (3 แบบ)</option><option>ให้ Claude ทำใหม่</option></select></label>
+      </div>
+      <label>โน้ตถึง Claude<textarea id="f-note" rows="2" placeholder="เช่น เน้นคนเชียงราย, ห้ามใช้คำว่า TOEIC"></textarea></label>
+      <div><button class="btn p" id="f-submit" type="button">ส่งคำสั่งสร้างแคมเปญ</button></div>
+    </div>
+  </section>
+
+  <section role="tabpanel" id="p-content" aria-labelledby="t-content" hidden>
+    <h2>คลิปพร้อมโพสต์ <small id="clips-count"></small></h2>
+    <div class="clips" id="clips"></div>
+    <h2>ขอคลิปใหม่ <small>ผลิตอัตโนมัติ ต้นทุน ฿0</small></h2>
+    <div class="card form">
+      <div class="row">
+        <label>แบบ<select id="c-format"><option value="five-words">5 คำใน 15 วิ</option><option value="mistake">คนไทยพูดผิดบ่อย</option></select></label>
+        <label>จำนวน<select id="c-count"><option>2</option><option selected>5</option><option>10</option></select></label>
+      </div>
+      <label>หมวด<div class="chips" id="c-world"><button type="button" class="chip" aria-pressed="true" data-v="">สุ่ม</button><button type="button" class="chip" aria-pressed="false" data-v="restaurant">ร้านอาหาร</button><button type="button" class="chip" aria-pressed="false" data-v="travel">ท่องเที่ยว</button><button type="button" class="chip" aria-pressed="false" data-v="office">ออฟฟิศ</button><button type="button" class="chip" aria-pressed="false" data-v="school">โรงเรียน</button><button type="button" class="chip" aria-pressed="false" data-v="daily_life">ชีวิตประจำวัน</button></div></label>
+      <div><button class="btn p" id="c-submit" type="button">สั่งผลิต</button></div>
+    </div>
+    <h2>โพสต์แล้ว <small id="posted-count"></small></h2>
+    <div class="clips" id="posted"></div>
+  </section>
+
+  <section role="tabpanel" id="p-queue" aria-labelledby="t-queue" hidden>
+    <h2>คิวคำสั่ง <small>ทุกปุ่มในหน้านี้มาลงที่นี่ · Claude ทำแล้วรายงานกลับ</small></h2>
+    <div class="q" id="queue"></div>
+    <p class="note">หน้านี้ไม่ถือกุญแจฐานข้อมูล — ทำได้แค่อ่านตัวเลขรวม, ส่งคำสั่ง, ยกเลิกคำสั่ง และติ๊กว่าโพสต์คลิปแล้ว ทุกอย่างที่เกี่ยวกับเงิน Claude จะขออนุมัติซ้ำก่อนทำเสมอ</p>
+  </section>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="config.js"></script>
+<script>
+(function () {
+  'use strict';
+  var $ = function (id) { return document.getElementById(id); };
+  var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) { return ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]; }); };
+  var fmt = function (n) { n = Number(n || 0); return n >= 10000 ? (n/1000).toFixed(1) + 'K' : n.toLocaleString('en-US'); };
+  var pct = function (a, b) { return b > 0 ? Math.round(a / b * 100) : 0; };
+  var TARGETS = { activation: 25, signup: 20, cpa: 12 };
+  var CFG = window.JUNYPOP_CC || {};
+  var POLL_MS = 30000;
+
+  // The token rides in the URL fragment, so it never reaches a server log
+  // and never sits in this file. Remember it so a home-screen icon works.
+  var token = (location.hash || '').replace(/^#/, '').trim();
+  try {
+    if (token) localStorage.setItem('jp_cc_token', token);
+    else token = localStorage.getItem('jp_cc_token') || '';
+  } catch (e) {}
+
+  if (!token || !CFG.url || !CFG.anonKey) {
+    $('app').innerHTML = '<div class="gate"><h1 style="font-size:20px">ห้องบัญชาการ JUNYPOP</h1><p>ต้องเปิดจากลิงก์ที่มีรหัสเท่านั้น (ลิงก์ที่ Claude ส่งให้)</p></div>';
+    return;
+  }
+
+  function rpc(fn, params) {
+    return fetch(CFG.url + '/rest/v1/rpc/' + fn, {
+      method: 'POST',
+      headers: { 'apikey': CFG.anonKey, 'Authorization': 'Bearer ' + CFG.anonKey, 'Content-Type': 'application/json' },
+      body: JSON.stringify(params)
+    }).then(function (r) {
+      if (!r.ok) return r.text().then(function (t) { throw new Error('HTTP ' + r.status + ' ' + t.slice(0, 120)); });
+      return r.status === 204 ? null : r.json();
+    });
+  }
+
+  // ---- tabs
+  var tabs = [].slice.call(document.querySelectorAll('[role="tab"]'));
+  var panels = [].slice.call(document.querySelectorAll('[role="tabpanel"]'));
+  function show(id) {
+    tabs.forEach(function (t) { t.setAttribute('aria-selected', t.id === id ? 'true' : 'false'); });
+    panels.forEach(function (p) { p.hidden = p.getAttribute('aria-labelledby') !== id; });
+    try { localStorage.setItem('jp_cc_tab', id); } catch (e) {}
+    window.scrollTo({ top: 0 });
+  }
+  tabs.forEach(function (t) { t.addEventListener('click', function () { show(t.id); }); });
+  try { var saved = localStorage.getItem('jp_cc_tab'); if (saved && $(saved)) show(saved); } catch (e) {}
+
+  var toast = $('toast'), timer;
+  function say(msg) { toast.textContent = msg; toast.classList.add('on'); clearTimeout(timer); timer = setTimeout(function () { toast.classList.remove('on'); }, 2600); }
+
+  var live = null;
+  function thaiDate(iso) {
+    if (!iso) return '—';
+    var d = new Date(iso); if (isNaN(d)) return iso;
+    return d.toLocaleString('th-TH', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+  }
+  function spark(points, w, h, stroke) {
+    if (!points || points.length < 2) return '';
+    var max = Math.max.apply(null, points.concat([1]));
+    var step = w / (points.length - 1);
+    var pts = points.map(function (v, i) { return (i * step).toFixed(1) + ',' + (h - 4 - (v / max) * (h - 8)).toFixed(1); });
+    var last = pts[pts.length - 1].split(',');
+    return '<svg viewBox="0 0 ' + w + ' ' + h + '" aria-hidden="true"><polyline points="' + pts.join(' ') + '" fill="none" stroke="' + stroke + '" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="' + last[0] + '" cy="' + last[1] + '" r="3.5" fill="' + stroke + '"/></svg>';
+  }
+  function tile(lbl, val, small, svg, foot) {
+    return '<div class="tile"><p class="lbl">' + esc(lbl) + '</p><p class="val">' + esc(val) + (small ? '<small>' + esc(small) + '</small>' : '') + '</p><div class="foot">' + foot + svg + '</div></div>';
+  }
+  function badge(ok, label) { return '<span class="status ' + (ok ? 'ok">✓ ' : 'bad">✕ ') + esc(label) + '</span>'; }
+
+  function renderToday() {
+    var s = live.summary || {}, t = s.today || {}, y = s.yesterday || {}, l7 = s.last7 || {}, f = s.funnel7 || {}, nw = live.live || {};
+    var series = (s.series14 || []).map(function (r) { return r.first_lessons || 0; });
+    var avg7 = series.slice(-7).reduce(function (a, b) { return a + b; }, 0) / Math.max(1, Math.min(7, series.length));
+    var delta = (t.first_lessons || 0) - (y.first_lessons || 0);
+    $('hero').innerHTML =
+      '<div><p class="lbl">คนเล่นจบบทเรียนแรก · วันนี้</p><p class="val">' + fmt(t.first_lessons) + '</p>' +
+      '<p class="delta">' + (delta >= 0 ? '▲ +' : '▼ ') + delta + ' จากเมื่อวาน · เฉลี่ย 7 วัน ' + avg7.toFixed(1) + ' คน</p></div>' +
+      spark(series.slice(-7), 120, 44, 'rgba(255,255,255,.95)');
+    $('now').innerHTML =
+      '<div class="n"><b>' + fmt(nw.playing_now) + '</b><span>กำลังเล่นอยู่ (10 นาที)</span></div>' +
+      '<div class="n"><b>' + fmt(nw.sessions_last_hour) + '</b><span>เกมที่เล่นจบใน 1 ชม.</span></div>' +
+      '<div class="n"><b>' + fmt(nw.new_users_last_hour) + '</b><span>คนใหม่ใน 1 ชม.</span></div>';
+    var act = pct(f.first_lesson || 0, f.visitors || 0);
+    var sg = pct(f.signups || 0, f.first_lesson || 0);
+    var ads = live.ads || null;
+    var spend = ads && ads.spend7 ? ads.spend7 : 0;
+    var cpa = spend > 0 && (f.first_lesson || 0) > 0 ? spend / f.first_lesson : null;
+    var vis14 = (s.series14 || []).map(function (r) { return r.visitors || 0; });
+    $('tiles').innerHTML =
+      tile('คนเข้าเว็บ · วันนี้', fmt(t.visitors), '', spark(vis14.slice(-7), 64, 22, 'var(--series-1)'), '') +
+      tile('เล่นจบบทแรก · 7 วัน', fmt(f.first_lesson), '· ' + act + '%', '', badge(act >= TARGETS.activation, 'เป้า ' + TARGETS.activation + '%')) +
+      tile('สมัครสมาชิก · 7 วัน', fmt(l7.signups), '· ' + sg + '%', '', badge(sg >= TARGETS.signup, 'เป้า ' + TARGETS.signup + '%')) +
+      (cpa == null
+        ? tile('ต้นทุนต่อคนเล่นจบ', '—', '', '', '<span class="status muted">ยังไม่ยิงแอด</span>')
+        : tile('ต้นทุนต่อคนเล่นจบ', '฿' + cpa.toFixed(2), '', '', badge(cpa <= TARGETS.cpa, 'เพดาน ฿' + TARGETS.cpa)));
+  }
+  function renderNotes() {
+    var notes = live.notes || {}, cmds = live.commands || [];
+    var todos = notes.todos || [];
+    $('todos').innerHTML = todos.length ? todos.map(function (t, i) {
+      var done = cmds.some(function (c) { return c.text === t.action && c.status !== 'cancelled'; });
+      return '<div class="item"><div class="n">' + (i + 1) + '</div><div><b>' + esc(t.title) + '</b><span>' + esc(t.detail) + '</span></div>' +
+        (t.action ? '<button class="btn ' + (t.money ? 'p' : 's') + '" type="button" data-cmd="' + esc(t.action) + '"' + (t.money ? ' data-money="1"' : '') + (done ? ' disabled' : '') + '>' + (done ? 'ส่งแล้ว' : (t.money ? 'อนุมัติ' : 'ทำเลย')) + '</button>' : '<span></span>') + '</div>';
+    }).join('') : '<div class="empty">ยังไม่มีข้อเสนอ</div>';
+    var alerts = notes.alerts || [];
+    $('alerts').innerHTML = alerts.length ? alerts.map(function (a) { return '<div class="alert ' + esc(a.level || 'info') + '"><div><b>' + esc(a.title) + '</b>' + (a.detail ? ' — ' + esc(a.detail) : '') + '</div></div>'; }).join('') : '<div class="empty">ไม่มีเรื่องด่วน</div>';
+  }
+  var LABELS = { seo: 'Google (SEO)', meta: 'Meta', facebook: 'Meta', fb: 'Meta', ig: 'Meta', tiktok: 'TikTok', 'google-ads': 'Google Ads', referral: 'ชวนเพื่อน', line: 'LINE', direct: 'เข้าตรง' };
+  function label(src) { if (LABELS[src]) return LABELS[src]; return src && src.indexOf('ref:') === 0 ? src.slice(4) : src; }
+  function renderChannels() {
+    var f = (live.summary || {}).funnel7 || {};
+    var top = f.visitors || 1;
+    var rows = [['เข้าเว็บ', f.visitors], ['กดเริ่มเล่น', f.played], ['เล่นจบบทแรก ★', f.first_lesson], ['สมัครสมาชิก', f.signups], ['ซื้อ Plus', f.plus]];
+    $('funnel').innerHTML = '<div class="card funnel">' + rows.map(function (r, i) {
+      var v = r[1] || 0;
+      return '<div class="frow s' + (i + 1) + '"><span>' + esc(r[0]) + '</span><div class="bar" style="width:' + Math.max(0.5, v / top * 100).toFixed(1) + '%"></div><span class="v">' + fmt(v) + '<span class="pct">' + pct(v, top) + '%</span></span></div>';
+    }).join('') + '</div>';
+    var ch = live.channels7 || [];
+    if (!ch.length) { $('channels').innerHTML = '<div class="empty">ยังไม่มีผู้ใช้ใหม่ใน 7 วันนี้</div>'; }
+    else {
+      var maxv = Math.max.apply(null, ch.map(function (c) { return c.visitors || 0; }).concat([1]));
+      $('channels').innerHTML = '<div class="card tblwrap"><table class="tbl"><thead><tr><th>ช่องทาง</th><th class="num">เข้าเว็บ</th><th></th><th class="num">จบบทแรก</th><th class="num">สมัคร</th></tr></thead><tbody>' +
+        ch.map(function (c) {
+          return '<tr><td><span class="chan"><i></i>' + esc(label(c.source)) + '</span></td><td class="num">' + fmt(c.visitors) + '</td><td><div class="mini" style="width:' + ((c.visitors || 0) / maxv * 100).toFixed(0) + '%"></div></td><td class="num">' + fmt(c.first_lessons) + ' · ' + pct(c.first_lessons || 0, c.visitors || 0) + '%</td><td class="num">' + fmt(c.signups) + '</td></tr>';
+        }).join('') + '</tbody></table></div>';
+    }
+    var sr = (live.summary || {}).series14 || [];
+    $('series').innerHTML = sr.length ? '<div class="card tblwrap"><table class="tbl"><thead><tr><th>วัน</th><th class="num">เข้าเว็บ</th><th class="num">จบบทแรก</th><th class="num">คนเล่น</th></tr></thead><tbody>' +
+      sr.slice().reverse().map(function (r) {
+        var d = new Date(r.day); var lbl = isNaN(d) ? r.day : d.toLocaleDateString('th-TH', { weekday: 'short', day: 'numeric', month: 'short' });
+        return '<tr><td>' + esc(lbl) + '</td><td class="num">' + fmt(r.visitors) + '</td><td class="num">' + fmt(r.first_lessons) + '</td><td class="num">' + fmt(r.dau) + '</td></tr>';
+      }).join('') + '</tbody></table></div>' : '';
+  }
+  function renderAds() {
+    var ads = live.ads || null;
+    var cap = (ads && ads.monthly_cap) || 10000, spent = (ads && ads.spent_month) || 0;
+    $('budget').innerHTML = '<div class="card"><div style="display:flex;justify-content:space-between;font-size:14px"><span>ใช้ไป <b>฿' + fmt(spent) + '</b></span><span>เหลือ <b>฿' + fmt(cap - spent) + '</b></span></div><div class="meter"><i style="width:' + Math.min(100, spent / cap * 100).toFixed(0) + '%"></i></div><p class="note">' + esc((ads && ads.note) || 'ยังไม่เริ่มยิงแอด — เริ่มได้เมื่อระบบวัดผลเก็บข้อมูลจริงครบ 3 วัน (ตามกฎที่ตกลง)') + '</p></div>';
+    $('budget-line').textContent = 'งบเดือนนี้ ฿' + fmt(spent) + ' / ฿' + fmt(cap);
+    var list = (ads && ads.adsets) || [];
+    $('ads').innerHTML = list.length ? '<div class="adset">' + list.map(function (x) {
+      var st = x.status === 'paused' ? '<span class="status muted">หยุดอยู่</span>' : (x.cpa != null && x.cpa > TARGETS.cpa ? '<span class="status warn">! CPA เกินเป้า</span>' : '<span class="status ok">✓ กำลังวิ่ง</span>');
+      return '<div class="card" style="margin-bottom:10px"><div style="display:flex;justify-content:space-between;gap:10px;align-items:center;margin-bottom:6px"><b>' + esc(x.name) + '</b>' + st + '</div>' +
+        '<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;font-size:12.5px;color:var(--ink-2);margin:6px 0 10px"><span>ใช้ไป/วัน<b style="display:block;font-size:16px;color:var(--ink)">฿' + fmt(x.daily) + '</b></span><span>จบบทแรก<b style="display:block;font-size:16px;color:var(--ink)">' + fmt(x.conversions) + '</b></span><span>CPA<b style="display:block;font-size:16px;color:var(--ink)">' + (x.cpa == null ? '—' : '฿' + Number(x.cpa).toFixed(2)) + '</b></span></div>' +
+        '<div style="display:flex;gap:6px;flex-wrap:wrap"><button class="btn p" type="button" data-cmd="เพิ่มงบแอด ' + esc(x.name) + ' +30%" data-money="1">เพิ่มงบ +30%</button><button class="btn s" type="button" data-cmd="ทำครีเอทีฟใหม่ 3 แบบให้แอด ' + esc(x.name) + '">ครีเอทีฟใหม่</button><button class="btn d" type="button" data-cmd="หยุดแอด ' + esc(x.name) + '" data-money="1">หยุด</button></div></div>';
+    }).join('') + '</div>' : '<div class="empty">ยังไม่มีแอดที่กำลังวิ่ง — ใช้ฟอร์มด้านล่างเพื่อสั่งแคมเปญแรก</div>';
+  }
+  var WORLD_COLORS = { restaurant: ['#FB923C', '#EA580C'], daily_life: ['#4ADE80', '#16A34A'], shopping: ['#F472B6', '#DB2777'], travel: ['#38BDF8', '#0284C7'], office: ['#A78BFA', '#6D28D9'], business: ['#64748B', '#334155'], school: ['#FBBF24', '#D97706'] };
+  function renderClips() {
+    var clips = live.clips || [];
+    var ready = clips.filter(function (c) { return c.status !== 'posted'; });
+    var posted = clips.filter(function (c) { return c.status === 'posted'; });
+    $('clips-count').textContent = ready.length ? ready.length + ' คลิป · แคปชันพร้อม' : '';
+    $('posted-count').textContent = posted.length ? posted.length + ' คลิป' : '';
+    function row(c, isPosted) {
+      var col = WORLD_COLORS[c.world] || ['#2F5FE0', '#8B36C9'];
+      return '<div class="clip"><div class="th" style="--c1:' + col[0] + ';--c2:' + col[1] + '">' + esc(c.title.split(' ').slice(0, 3).join(' ')) + '</div><div><b>' + esc(c.title) + '</b><span>' + esc((c.seconds ? c.seconds + ' วิ · ' : '') + (isPosted ? 'โพสต์ ' + thaiDate(c.posted_at) : 'ผลิต ' + thaiDate(c.created_at))) + '</span>' +
+        (c.caption && !isPosted ? '<details><summary style="font-size:12.5px;color:var(--brand);cursor:pointer">ดูแคปชัน</summary><pre class="cap">' + esc(c.caption) + '</pre></details>' : '') + '</div>' +
+        (isPosted ? '<span class="status ok">✓</span>' : '<div class="acts"><button class="btn p" type="button" data-posted="' + esc(c.id) + '">โพสต์แล้ว</button></div>') + '</div>';
+    }
+    $('clips').innerHTML = ready.length ? ready.map(function (c) { return row(c, false); }).join('') : '<div class="empty">ไม่มีคลิปค้าง — สั่งผลิตด้านล่างได้เลย</div>';
+    $('posted').innerHTML = posted.length ? posted.slice(0, 20).map(function (c) { return row(c, true); }).join('') : '<div class="empty">ยังไม่มี</div>';
+  }
+  function renderQueue() {
+    var cmds = live.commands || [];
+    var open = cmds.filter(function (c) { return c.status === 'queued' || c.status === 'working'; }).length;
+    $('q-badge').textContent = open ? '(' + open + ')' : '';
+    $('queue').innerHTML = cmds.length ? cmds.map(function (c) {
+      var st = { queued: '<span class="status warn">รอ</span>', working: '<span class="status warn">กำลังทำ</span>', done: '<span class="status ok">✓ เสร็จ</span>', cancelled: '<span class="status muted">ยกเลิก</span>', blocked: '<span class="status bad">ติด</span>' }[c.status] || '<span class="status muted">' + esc(c.status) + '</span>';
+      return '<div class="qi"><div><b>' + esc(c.text) + '</b><span>สั่งเมื่อ ' + thaiDate(c.created_at) + (c.done_at ? ' · เสร็จ ' + thaiDate(c.done_at) : '') + '</span>' + (c.result ? '<div class="res">' + esc(c.result) + '</div>' : '') +
+        (c.status === 'queued' ? '<button class="btn s" type="button" style="margin-top:6px;padding:4px 10px;font-size:12px" data-cancel="' + esc(c.id) + '">ยกเลิก</button>' : '') + '</div>' + st + '</div>';
+    }).join('') : '<div class="empty">ยังไม่มีคำสั่ง</div>';
+  }
+  function renderAll() {
+    renderToday(); renderNotes(); renderChannels(); renderAds(); renderClips(); renderQueue();
+    $('fresh-at').textContent = thaiDate(live.fetched_at);
+  }
+
+  var failures = 0;
+  function refresh() {
+    return rpc('marketing_live', { p_token: token }).then(function (data) {
+      live = data; failures = 0;
+      $('livedot').className = 'livedot'; $('livetext').textContent = 'สด · ทุก 30 วิ';
+      renderAll();
+    }).catch(function (e) {
+      failures++;
+      $('livedot').className = 'livedot off';
+      $('livetext').textContent = /403|42501|forbidden/i.test(String(e.message)) ? 'ลิงก์ไม่ถูกต้อง' : 'เชื่อมต่อไม่ได้';
+      if (!live) { $('hero').innerHTML = '<div class="empty">' + (/forbidden|403/i.test(String(e.message)) ? 'รหัสในลิงก์ไม่ถูกต้อง — ขอลิงก์ใหม่จาก Claude' : 'ยังดึงตัวเลขไม่ได้ — จะลองใหม่เอง') + '</div>'; }
+    });
+  }
+  refresh();
+  setInterval(function () { if (!document.hidden) refresh(); }, POLL_MS);
+  document.addEventListener('visibilitychange', function () { if (!document.hidden) refresh(); });
+
+  function enqueue(text, money) {
+    rpc('marketing_enqueue', { p_token: token, p_text: text, p_money: !!money })
+      .then(function () { say('ส่งคำสั่งแล้ว: ' + text); return refresh(); })
+      .catch(function (e) { say('ส่งไม่สำเร็จ: ' + e.message); });
+  }
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest ? e.target.closest('[data-cmd]') : null;
+    if (b) { enqueue(b.getAttribute('data-cmd'), b.getAttribute('data-money') === '1'); return; }
+    var p = e.target.closest ? e.target.closest('[data-posted]') : null;
+    if (p) { rpc('marketing_page_update', { p_token: token, p_kind: 'clip_posted', p_id: p.getAttribute('data-posted') }).then(function () { say('บันทึกแล้ว'); return refresh(); }).catch(function () { say('บันทึกไม่สำเร็จ'); }); return; }
+    var x = e.target.closest ? e.target.closest('[data-cancel]') : null;
+    if (x) { rpc('marketing_page_update', { p_token: token, p_kind: 'cancel_command', p_id: String(x.getAttribute('data-cancel')) }).then(refresh).catch(function () {}); }
+  });
+  document.querySelectorAll('.chips').forEach(function (group) {
+    group.addEventListener('click', function (e) {
+      var c = e.target.closest('.chip'); if (!c) return;
+      group.querySelectorAll('.chip').forEach(function (k) { k.setAttribute('aria-pressed', 'false'); });
+      c.setAttribute('aria-pressed', 'true');
+    });
+  });
+  $('f-submit').addEventListener('click', function () {
+    var goal = $('f-goal').value, aud = document.querySelector('#f-aud .chip[aria-pressed="true"]').textContent;
+    var budget = $('f-budget').value, cre = $('f-cre').value, note = $('f-note').value.trim();
+    enqueue('สร้างแคมเปญ: ' + goal + ' · ' + aud + ' · ฿' + budget + '/วัน · ' + cre + (note ? ' · โน้ต: ' + note : ''), true);
+  });
+  $('c-submit').addEventListener('click', function () {
+    var f = $('c-format').value, n = $('c-count').value;
+    var w = document.querySelector('#c-world .chip[aria-pressed="true"]');
+    enqueue('ผลิตคลิป --format ' + f + ' --count ' + n + (w.getAttribute('data-v') ? ' --world ' + w.getAttribute('data-v') : ''), false);
+  });
+})();
+</script>
+</body>
+</html>

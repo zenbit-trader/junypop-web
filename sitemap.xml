@@ -24,6 +24,8 @@
   <url><loc>https://junypop.com/quiz/business/</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
   <url><loc>https://junypop.com/w/school/</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://junypop.com/quiz/school/</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
+  <url><loc>https://junypop.com/w/social_media/</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://junypop.com/quiz/social_media/</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
   <url><loc>https://junypop.com/word/kitchen/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/bedroom/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/bathroom/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
@@ -1099,4 +1101,102 @@
   <url><loc>https://junypop.com/word/freshman/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/senior/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/future/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sign_up/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/log_out/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/forgot_password/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/profile/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/profile_picture/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cover_photo/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/bio/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/handle/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/verified/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/settings/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/privacy/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/two_factor/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/delete_account/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/notification/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/post/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/upload/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/caption/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/hashtag/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/tag/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mention/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/album/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/photo_filter/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/crop/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/edit_post/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/pin_post/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/delete_post/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/feed/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/scroll/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/like/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/react/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/emoji/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sticker/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/repost/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/quote/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/thread/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/poll/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/bookmark/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/screenshot/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/swipe/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/double_tap/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/timeline/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/trending/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/follow/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/unfollow/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/friend_request/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/add_friend/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mutual/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/block/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mute/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/unblock/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/close_friends/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/subscriber/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dm/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/group_chat/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/seen/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/typing/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/story/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/reel/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/go_live/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/livestream/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/thumbnail/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/vlog/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/podcast/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/playlist/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/subtitle/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/voice_over/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/duet/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/video/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/replay/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/algorithm/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/creator/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sponsor/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sponsored_post/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/brand_deal/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/collab/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/shoutout/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/giveaway/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/monetize/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/engagement/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/reach/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/insight/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/affiliate/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/unboxing/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/ad/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/troll/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/hater/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cyberbullying/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fake_news/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/clickbait/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/scam/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/report_post/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/guidelines/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cringe/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/vibe/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/flex/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fomo/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/meme/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/detox/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
 </urlset>
