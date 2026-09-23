@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="th">
 <head>
   <!--
     If you are serving your web app in a path other than the root, change the
@@ -18,7 +18,21 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="JUNYPOP — เกมฝึกจำคำศัพท์ภาษาอังกฤษสำหรับคนไทย เล่นให้ติด จำศัพท์ให้ได้">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="JUNYPOP เกมท่องศัพท์อังกฤษฉบับคนไทย 1,075 คำ 11 เวิลด์ มีเสียงเจ้าของภาษาทุกคำ เล่นฟรีในเบราว์เซอร์ ไม่ต้องติดตั้ง">
+  <link rel="canonical" href="https://junypop.com/">
+
+  <!-- Link previews (LINE, Facebook, X) -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="JUNYPOP">
+  <meta property="og:locale" content="th_TH">
+  <meta property="og:url" content="https://junypop.com/">
+  <meta property="og:title" content="JUNYPOP — เกมท่องศัพท์อังกฤษ เล่นให้ติด จำศัพท์ให้ได้">
+  <meta property="og:description" content="1,075 คำ 11 เวิลด์ เสียงเจ้าของภาษาทุกคำ ระบบทบทวนอัจฉริยะที่รู้ว่าคุณกำลังจะลืมคำไหน เล่นฟรีในเบราว์เซอร์">
+  <meta property="og:image" content="https://junypop.com/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
 
   <!-- iOS meta tags & icons -->
   <meta name="mobile-web-app-capable" content="yes">
@@ -29,10 +43,89 @@
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
 
-  <title>JUNYPOP — เกมฝึกจำคำศัพท์</title>
+  <title>JUNYPOP — เกมท่องศัพท์อังกฤษสำหรับคนไทย</title>
   <link rel="manifest" href="manifest.json">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "JUNYPOP",
+    "url": "https://junypop.com/",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Web, iOS, Android",
+    "inLanguage": "th",
+    "description": "เกมท่องศัพท์ภาษาอังกฤษสำหรับคนไทย 1,075 คำ 11 เวิลด์ พร้อมเสียงเจ้าของภาษาและระบบทบทวนอัจฉริยะ",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "THB" }
+  }
+  </script>
+
+  <style>
+    /* The boot screen below is what a crawler reads and what a visitor sees
+       while the game loads. Dart removes it on the first painted frame
+       (window.junypop.bootDone), so it must not depend on Flutter. */
+    html, body { margin: 0; padding: 0; background: #2F5FE0; }
+    #jp-boot {
+      position: fixed; inset: 0; overflow-y: auto; z-index: 10;
+      background: linear-gradient(160deg, #2F5FE0 0%, #6B3FD4 62%, #8B36C9 100%);
+      color: #fff; font-family: Sarabun, 'Segoe UI', Tahoma, sans-serif;
+      display: flex; align-items: center; justify-content: center;
+      padding: 32px 20px calc(32px + env(safe-area-inset-bottom, 0px));
+    }
+    #jp-boot .inner { max-width: 560px; text-align: center; }
+    #jp-boot img { width: 132px; height: 132px; object-fit: contain; }
+    #jp-boot h1 { font-size: 30px; line-height: 1.35; margin: 14px 0 6px; font-weight: 800; }
+    #jp-boot .motto { font-size: 17px; margin: 0 0 18px; color: rgba(255,255,255,.92); }
+    #jp-boot ul { list-style: none; padding: 0; margin: 0 auto 20px; display: grid; gap: 8px; max-width: 420px; }
+    #jp-boot li { font-size: 15px; line-height: 1.5; color: rgba(255,255,255,.9); }
+    #jp-boot .load { font-size: 14px; color: rgba(255,255,255,.75); }
+    #jp-boot .dots::after { content: '…'; animation: jpdots 1.2s steps(4, end) infinite; }
+    @keyframes jpdots { 0% { opacity: .3 } 50% { opacity: 1 } 100% { opacity: .3 } }
+    @media (prefers-reduced-motion: reduce) { #jp-boot .dots::after { animation: none } }
+  </style>
 </head>
 <body>
+  <div id="jp-boot">
+    <div class="inner">
+      <img src="assets/assets/images/mascot/pose_happy.webp" alt="น้อง Juny มาสคอตของ JUNYPOP" width="132" height="132">
+      <h1>JUNYPOP — เกมท่องศัพท์อังกฤษฉบับคนไทย</h1>
+      <p class="motto">เล่นให้ติด จำศัพท์ให้ได้</p>
+      <ul>
+        <li>1,075 คำ 11 เวิลด์ ตั้งแต่ชีวิตประจำวัน ร้านอาหาร ไปจนถึงออฟฟิศและโรงเรียน</li>
+        <li>เสียงอ่านเจ้าของภาษาทุกคำ เลือกได้ทั้งเสียงหญิงและชาย</li>
+        <li>ระบบทบทวนอัจฉริยะที่พาคำที่กำลังจะลืมกลับมาให้ทบทวนพอดีจังหวะ</li>
+        <li>เล่นฟรีในเบราว์เซอร์ ไม่ต้องติดตั้ง และเก็บความคืบหน้าไว้ได้เมื่อสมัครสมาชิก</li>
+      </ul>
+      <p class="load dots">กำลังโหลดเกม</p>
+    </div>
+  </div>
+
+  <script>
+    // Take the boot screen down the moment the engine paints — inline and
+    // dependency-free on purpose: if junypop_analytics.js ever fails to
+    // load, the game must still be visible and clickable.
+    (function () {
+      window.addEventListener('flutter-first-frame', function () {
+        var boot = document.getElementById('jp-boot');
+        if (boot) boot.remove();
+      });
+      // Last resort on a very slow connection: never block taps forever.
+      setTimeout(function () {
+        var boot = document.getElementById('jp-boot');
+        if (boot) boot.style.pointerEvents = 'none';
+      }, 20000);
+    })();
+  </script>
+
+  <!--
+    Measurement (docs/MARKETING_PLAN.md, E1). Every id empty = no cookie,
+    no third-party script and no consent bar; only the first-party record
+    of where the visitor came from. The ids live in
+    junypop_analytics_config.js, which the SEO pages load as well.
+  -->
+  <script src="junypop_analytics_config.js"></script>
+  <script src="junypop_analytics.js"></script>
+
   <!--
     You can customize the "flutter_bootstrap.js" script.
     This is useful to provide a custom configuration to the Flutter loader
