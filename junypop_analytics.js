@@ -173,7 +173,9 @@
 
   // name -> [meta standard event or null, tiktok standard event or null]
   var STANDARD = {
-    page_view: [null, null],
+    // Meta's own PageView, not a custom copy of it: retargeting audiences
+    // ("everyone who visited the site") are built from the standard event.
+    page_view: ['PageView', null],
     play_start: [null, 'ClickButton'],
     lesson_complete: [null, 'CompleteRegistration'],
     signup: ['CompleteRegistration', 'Subscribe'],
