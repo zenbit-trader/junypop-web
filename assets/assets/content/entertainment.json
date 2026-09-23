@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "entertainment",
+    "name_en": "Movies & Music",
+    "name_th": "หนังและเพลง",
+    "emoji": "🎬",
+    "color_start": "#E879F9",
+    "color_end": "#C026D3",
+    "description_th": "ไปโรงหนัง ดูซีรีส์ ฟังเพลง ไปคอนเสิร์ต ไปจนถึงศัพท์แฟนคลับและงานประกาศรางวัล",
+    "mascot_costume": "popstar",
+    "lessons": [
+      {
+        "id": "entertainment_1",
+        "title_en": "At the Cinema",
+        "title_th": "ไปดูหนัง",
+        "emoji": "🍿",
+        "word_ids": [
+          "cinema",
+          "box_office",
+          "showtime",
+          "sold_out",
+          "front_row",
+          "popcorn",
+          "trailer",
+          "premiere",
+          "blockbuster",
+          "sequel",
+          "dubbed",
+          "opening_credits",
+          "end_credits",
+          "spoiler"
+        ]
+      },
+      {
+        "id": "entertainment_2",
+        "title_en": "Film Genres",
+        "title_th": "แนวหนัง",
+        "emoji": "🎭",
+        "word_ids": [
+          "comedy",
+          "drama",
+          "romance",
+          "thriller",
+          "sci_fi",
+          "fantasy",
+          "mystery",
+          "superhero",
+          "animation",
+          "documentary",
+          "based_on_true_story",
+          "plot",
+          "plot_twist",
+          "main_character"
+        ]
+      },
+      {
+        "id": "entertainment_3",
+        "title_en": "Making a Movie",
+        "title_th": "ในกองถ่าย",
+        "emoji": "🎬",
+        "word_ids": [
+          "director",
+          "actor",
+          "actress",
+          "audition",
+          "script",
+          "scene",
+          "take",
+          "costume",
+          "makeup_artist",
+          "special_effects",
+          "stunt",
+          "soundtrack",
+          "behind_the_scenes",
+          "wrap"
+        ]
+      },
+      {
+        "id": "entertainment_4",
+        "title_en": "Series & Streaming",
+        "title_th": "ซีรีส์และสตรีมมิ่ง",
+        "emoji": "📺",
+        "word_ids": [
+          "series",
+          "episode",
+          "season",
+          "streaming",
+          "subscription",
+          "watchlist",
+          "binge_watch",
+          "marathon",
+          "cliffhanger",
+          "finale",
+          "spin_off",
+          "recap",
+          "rewatch",
+          "plot_hole"
+        ]
+      },
+      {
+        "id": "entertainment_5",
+        "title_en": "Listening to Music",
+        "title_th": "ฟังเพลง",
+        "emoji": "🎵",
+        "word_ids": [
+          "song",
+          "lyrics",
+          "melody",
+          "chorus",
+          "beat",
+          "tune",
+          "catchy",
+          "hit_song",
+          "on_repeat",
+          "cover_song",
+          "remix",
+          "instrumental",
+          "karaoke",
+          "sing_along"
+        ]
+      },
+      {
+        "id": "entertainment_6",
+        "title_en": "Bands & Concerts",
+        "title_th": "วงดนตรีและคอนเสิร์ต",
+        "emoji": "🎤",
+        "word_ids": [
+          "band",
+          "singer",
+          "guitarist",
+          "drummer",
+          "concert",
+          "stage",
+          "lineup",
+          "opening_act",
+          "sound_check",
+          "backstage",
+          "encore",
+          "fan",
+          "dance_move",
+          "music_video"
+        ]
+      },
+      {
+        "id": "entertainment_7",
+        "title_en": "Awards & Fandom",
+        "title_th": "รางวัลและแฟนคลับ",
+        "emoji": "🏆",
+        "word_ids": [
+          "award",
+          "nominate",
+          "red_carpet",
+          "celebrity",
+          "idol",
+          "debut",
+          "comeback",
+          "fandom",
+          "fanclub",
+          "merch",
+          "autograph",
+          "theme_song",
+          "tearjerker",
+          "must_watch"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "cinema",
+      "word": "cinema",
+      "pos": "noun",
+      "ipa": "/ˈsɪnəmə/",
+      "reading_th": "ซิ-นิ-มา",
+      "meaning_th": "โรงภาพยนตร์",
+      "emoji": "🎦",
+      "example_en": "There is a new cinema in the mall.",
+      "example_th": "ในห้างมีโรงหนังเปิดใหม่",
+      "cefr": "A2",
+      "note_th": "อังกฤษใช้ cinema อเมริกันใช้ movie theater — ทั้งคู่แปลว่าโรงหนังเหมือนกัน",
+      "distractors": [
+        "camera",
+        "citizen",
+        "ceremony"
+      ]
+    },
+    {
+      "id": "box_office",
+      "word": "box office",
+      "pos": "noun",
+      "ipa": "/bɑːks ˈɔːfɪs/",
+      "reading_th": "บ็อกซ์ ออ-ฟิศ",
+      "meaning_th": "ช่องขายตั๋ว และรายได้รวมของหนัง",
+      "emoji": "🎟️",
+      "example_en": "The film made a billion baht at the box office.",
+      "example_th": "หนังเรื่องนี้ทำรายได้พันล้านบาท",
+      "cefr": "B2",
+      "note_th": "box office เป็นได้ทั้งช่องขายตั๋วหน้าโรง และตัวเลขรายได้ของหนังทั้งเรื่อง",
+      "distractors": [
+        "back office",
+        "box officer",
+        "post office"
+      ]
+    },
+    {
+      "id": "showtime",
+      "word": "showtime",
+      "pos": "noun",
+      "ipa": "/ˈʃoʊtaɪm/",
+      "reading_th": "โชว์-ไทม์",
+      "meaning_th": "รอบฉาย",
+      "emoji": "🕗",
+      "example_en": "Check the showtime before you leave the house.",
+      "example_th": "เช็กรอบฉายก่อนออกจากบ้านนะ",
+      "cefr": "B1",
+      "note_th": "showtime คือเวลาที่หนังเริ่มฉาย — ถ้าจะถามว่าหนังยาวแค่ไหนใช้คำว่า running time",
+      "distractors": [
+        "showroom",
+        "shortime",
+        "snowtime"
+      ]
+    },
+    {
+      "id": "sold_out",
+      "word": "sold out",
+      "pos": "adjective",
+      "ipa": "/soʊld aʊt/",
+      "reading_th": "โซลด์ เอ๊าท์",
+      "meaning_th": "ตั๋วขายหมดแล้ว",
+      "emoji": "🚫",
+      "example_en": "The nine o'clock show is sold out.",
+      "example_th": "รอบสามทุ่มตั๋วหมดแล้ว",
+      "cefr": "B1",
+      "note_th": "sold out ใช้กับตั๋วคอนเสิร์ตและสินค้าในร้านได้เหมือนกัน แปลว่าหมดเกลี้ยง",
+      "distractors": [
+        "sold up",
+        "old out",
+        "solve out"
+      ]
+    },
+    {
+      "id": "front_row",
+      "word": "front row",
+      "pos": "noun",
+      "ipa": "/frʌnt roʊ/",
+      "reading_th": "ฟรอนท์ โรว์",
+      "meaning_th": "แถวหน้าสุด",
+      "emoji": "💺",
+      "example_en": "Only the front row seats were left.",
+      "example_th": "เหลือแต่ที่นั่งแถวหน้าสุด",
+      "cefr": "A2",
+      "note_th": "row อ่านว่า โรว์ แปลว่าแถว — ในโรงหนังแถวหน้าสุดมักเหลือเพราะต้องแหงนคอดู",
+      "distractors": [
+        "front raw",
+        "front road",
+        "front door"
+      ]
+    },
+    {
+      "id": "popcorn",
+      "word": "popcorn",
+      "pos": "noun",
+      "ipa": "/ˈpɑːpkɔːrn/",
+      "reading_th": "ป๊อป-คอร์น",
+      "meaning_th": "ป๊อปคอร์น",
+      "emoji": "🍿",
+      "example_en": "A large popcorn costs more than the ticket.",
+      "example_th": "ป๊อปคอร์นถังใหญ่แพงกว่าค่าตั๋วอีก",
+      "cefr": "A1",
+      "note_th": "popcorn เป็นคำนามนับไม่ได้ พูดว่า a bag of popcorn ไม่ใช่ two popcorns",
+      "distractors": [
+        "popsicle",
+        "peppercorn",
+        "unicorn"
+      ]
+    },
+    {
+      "id": "trailer",
+      "word": "trailer",
+      "pos": "noun",
+      "ipa": "/ˈtreɪlər/",
+      "reading_th": "เทรล-เลอร์",
+      "meaning_th": "ตัวอย่างหนัง",
+      "emoji": "📽️",
+      "example_en": "The trailer looked better than the whole movie.",
+      "example_th": "ตัวอย่างหนังดูดีกว่าตัวหนังเต็มอีก",
+      "cefr": "B1",
+      "note_th": "trailer คือตัวอย่างหนัง ส่วนตัวอย่างสั้นกว่านั้นเรียก teaser — คำนี้ยังแปลว่ารถพ่วงได้ด้วย",
+      "distractors": [
+        "traveler",
+        "tailor",
+        "trainer"
+      ]
+    },
+    {
+      "id": "premiere",
+      "word": "premiere",
+      "pos": "noun",
+      "ipa": "/prɪˈmɪr/",
+      "reading_th": "พรี-เมียร์",
+      "meaning_th": "รอบปฐมทัศน์ การฉายรอบแรก",
+      "emoji": "✨",
+      "example_en": "The cast walked in together at the premiere.",
+      "example_th": "นักแสดงเดินเข้างานรอบปฐมทัศน์พร้อมกัน",
+      "cefr": "B2",
+      "note_th": "premiere สะกดลงท้าย -re แบบฝรั่งเศส อย่าสับสนกับ premier ที่แปลว่านายกรัฐมนตรี",
+      "distractors": [
+        "premium",
+        "primary",
+        "preview"
+      ]
+    },
+    {
+      "id": "blockbuster",
+      "word": "blockbuster",
+      "pos": "noun",
+      "ipa": "/ˈblɑːkbʌstər/",
+      "reading_th": "บล็อก-บัส-เตอร์",
+      "meaning_th": "หนังฟอร์มยักษ์ที่ทำเงินถล่มทลาย",
+      "emoji": "💥",
+      "example_en": "Every summer brings another superhero blockbuster.",
+      "example_th": "หน้าร้อนทีไรก็มีหนังซูเปอร์ฮีโร่ฟอร์มยักษ์มาอีกเรื่อง",
+      "cefr": "B2",
+      "note_th": "เดิมเป็นชื่อระเบิดลูกใหญ่สมัยสงคราม ต่อมาใช้เรียกหนังที่ดังระเบิด",
+      "distractors": [
+        "blockchain",
+        "backbuster",
+        "blocknote"
+      ]
+    },
+    {
+      "id": "sequel",
+      "word": "sequel",
+      "pos": "noun",
+      "ipa": "/ˈsiːkwəl/",
+      "reading_th": "ซี-เควิ่ล",
+      "meaning_th": "ภาคต่อ",
+      "emoji": "2️⃣",
+      "example_en": "The sequel comes out next year.",
+      "example_th": "ภาคต่อจะฉายปีหน้า",
+      "cefr": "B2",
+      "note_th": "sequel คือภาคต่อที่เล่าเรื่องหลังจากภาคแรก ส่วนภาคที่ย้อนไปเล่าก่อนหน้าเรียก prequel",
+      "distractors": [
+        "equal",
+        "squirrel",
+        "seagull"
+      ]
+    },
+    {
+      "id": "dubbed",
+      "word": "dubbed",
+      "pos": "adjective",
+      "ipa": "/dʌbd/",
+      "reading_th": "ดับบ์ด",
+      "meaning_th": "พากย์ทับเป็นอีกภาษา",
+      "emoji": "🔊",
+      "example_en": "I prefer subtitles to a dubbed version.",
+      "example_th": "เราชอบดูซับมากกว่าดูเวอร์ชันพากย์",
+      "cefr": "B2",
+      "note_th": "dubbed คือพากย์ทับเสียงเดิม ส่วน subtitled คือใส่ซับไว้ด้านล่างแต่เสียงยังเป็นต้นฉบับ",
+      "distractors": [
+        "doubled",
+        "rubbed",
+        "dabbed"
+      ]
+    },
+    {
+      "id": "opening_credits",
+      "word": "opening credits",
+      "pos": "noun",
+      "ipa": "/ˈoʊpənɪŋ ˈkredɪts/",
+      "reading_th": "โอ-เพิ่น-นิ่ง เคร-ดิทส์",
+      "meaning_th": "ชื่อทีมงานตอนต้นเรื่อง",
+      "emoji": "🎞️",
+      "example_en": "We walked in during the opening credits.",
+      "example_th": "เราเดินเข้าไปตอนขึ้นชื่อทีมงานต้นเรื่องพอดี",
+      "cefr": "B2",
+      "note_th": "credits คือรายชื่อคนทำงาน ใช้พหูพจน์เสมอ — ต้นเรื่องคือ opening ท้ายเรื่องคือ closing หรือ end",
+      "distractors": [
+        "opening credit card",
+        "opening credibility",
+        "opening cabinets"
+      ]
+    },
+    {
+      "id": "end_credits",
+      "word": "end credits",
+      "pos": "noun",
+      "ipa": "/end ˈkredɪts/",
+      "reading_th": "เอนด์ เคร-ดิทส์",
+      "meaning_th": "ชื่อทีมงานท้ายเรื่อง",
+      "emoji": "🔚",
+      "example_en": "Stay until the end credits, there is an extra scene.",
+      "example_th": "อยู่จนจบเครดิตนะ มีฉากแถมด้วย",
+      "cefr": "B2",
+      "note_th": "ฉากแถมหลังเครดิตเรียก post-credit scene คนไทยเรียกกันว่าฉากคั่นจบ",
+      "distractors": [
+        "end credibility",
+        "and credits",
+        "end cards"
+      ]
+    },
+    {
+      "id": "spoiler",
+      "word": "spoiler",
+      "pos": "noun",
+      "ipa": "/ˈspɔɪlər/",
+      "reading_th": "สปอย-เลอร์",
+      "meaning_th": "การเล่าเนื้อหาสำคัญจนเสียอรรถรส",
+      "emoji": "🤫",
+      "example_en": "Do not tell me the ending, no spoilers.",
+      "example_th": "อย่าเพิ่งบอกตอนจบนะ ห้ามสปอย",
+      "cefr": "B2",
+      "note_th": "คนไทยพูดว่าสปอยล์ ตรงกับกริยา spoil ที่แปลว่าทำให้เสีย — คำนามคือ spoiler",
+      "distractors": [
+        "spoil",
+        "sparkler",
+        "soldier"
+      ]
+    },
+    {
+      "id": "comedy",
+      "word": "comedy",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmədi/",
+      "reading_th": "คอ-มิ-ดี้",
+      "meaning_th": "หนังหรือละครแนวตลก",
+      "emoji": "😂",
+      "example_en": "We watched a comedy to cheer her up.",
+      "example_th": "เราเปิดหนังตลกดูเพื่อให้เธออารมณ์ดีขึ้น",
+      "cefr": "A2",
+      "note_th": "comedy คือแนวตลก ส่วนคนที่เล่นตลกบนเวทีเรียก comedian",
+      "distractors": [
+        "committee",
+        "commodity",
+        "community"
+      ]
+    },
+    {
+      "id": "drama",
+      "word": "drama",
+      "pos": "noun",
+      "ipa": "/ˈdrɑːmə/",
+      "reading_th": "ดรา-ม่า",
+      "meaning_th": "หนังหรือละครแนวชีวิตเข้มข้น",
+      "emoji": "🎭",
+      "example_en": "That drama made everyone in the room cry.",
+      "example_th": "เรื่องนั้นทำเอาคนทั้งห้องร้องไห้",
+      "cefr": "B1",
+      "note_th": "drama เป็นชื่อแนว และในภาษาพูดยังแปลว่าเรื่องวุ่นวายเกินเหตุ เช่น too much drama",
+      "distractors": [
+        "dream",
+        "drawer",
+        "diagram"
+      ]
+    },
+    {
+      "id": "romance",
+      "word": "romance",
+      "pos": "noun",
+      "ipa": "/ˈroʊmæns/",
+      "reading_th": "โร-แมนซ์",
+      "meaning_th": "หนังหรือนิยายแนวรัก",
+      "emoji": "💞",
+      "example_en": "She only watches romance films.",
+      "example_th": "เธอดูแต่หนังแนวรัก",
+      "cefr": "B1",
+      "note_th": "romance คือแนวเรื่องรัก ส่วน romantic เป็นคำคุณศัพท์ — แนวผสมตลกเรียก rom-com",
+      "distractors": [
+        "roman",
+        "remains",
+        "resonance"
+      ]
+    },
+    {
+      "id": "thriller",
+      "word": "thriller",
+      "pos": "noun",
+      "ipa": "/ˈθrɪlər/",
+      "reading_th": "ธริล-เลอร์",
+      "meaning_th": "หนังแนวระทึกขวัญ",
+      "emoji": "😱",
+      "example_en": "I cannot sleep after watching a thriller.",
+      "example_th": "ดูหนังระทึกขวัญแล้วนอนไม่หลับ",
+      "cefr": "B2",
+      "note_th": "thriller ลุ้นระทึกแต่ไม่จำเป็นต้องมีผี ส่วน horror คือหนังผีหนังสยองขวัญ",
+      "distractors": [
+        "driller",
+        "traveler",
+        "chiller"
+      ]
+    },
+    {
+      "id": "sci_fi",
+      "word": "sci-fi",
+      "pos": "noun",
+      "ipa": "/ˈsaɪ faɪ/",
+      "reading_th": "ไซ-ไฟ",
+      "meaning_th": "แนววิทยาศาสตร์ล้ำยุค",
+      "emoji": "🚀",
+      "example_en": "He loves sci-fi movies about space travel.",
+      "example_th": "เขาชอบหนังไซไฟเกี่ยวกับการเดินทางในอวกาศ",
+      "cefr": "B2",
+      "note_th": "ย่อจาก science fiction อ่านว่า ไซ-ไฟ ไม่ใช่ สกาย-ไฟ",
+      "distractors": [
+        "wi-fi",
+        "hi-fi",
+        "sky-fi"
+      ]
+    },
+    {
+      "id": "fantasy",
+      "word": "fantasy",
+      "pos": "noun",
+      "ipa": "/ˈfæntəsi/",
+      "reading_th": "แฟน-ตะ-ซี่",
+      "meaning_th": "แนวจินตนาการ เวทมนตร์",
+      "emoji": "🧙",
+      "example_en": "The fantasy series has dragons and magic.",
+      "example_th": "ซีรีส์แนวแฟนตาซีเรื่องนี้มีมังกรกับเวทมนตร์",
+      "cefr": "B1",
+      "note_th": "fantasy มีเวทมนตร์และโลกสมมติ ส่วน sci-fi อธิบายด้วยวิทยาศาสตร์และเทคโนโลยี",
+      "distractors": [
+        "factory",
+        "fancy",
+        "fantastic"
+      ]
+    },
+    {
+      "id": "mystery",
+      "word": "mystery",
+      "pos": "noun",
+      "ipa": "/ˈmɪstəri/",
+      "reading_th": "มิส-เตอ-รี่",
+      "meaning_th": "แนวปริศนาสืบสวน",
+      "emoji": "🔍",
+      "example_en": "I guessed the killer halfway through the mystery.",
+      "example_th": "ดูหนังสืบสวนไปได้ครึ่งเรื่องก็เดาคนร้ายออก",
+      "cefr": "B1",
+      "note_th": "mystery เน้นปริศนาว่าใครทำ ส่วน crime เน้นตัวอาชญากรรมและการสืบสวนของตำรวจ",
+      "distractors": [
+        "ministry",
+        "misery",
+        "history"
+      ]
+    },
+    {
+      "id": "superhero",
+      "word": "superhero",
+      "pos": "noun",
+      "ipa": "/ˈsuːpərhɪroʊ/",
+      "reading_th": "ซู-เปอร์-ฮี-โร่",
+      "meaning_th": "ยอดมนุษย์ ซูเปอร์ฮีโร่",
+      "emoji": "🦸",
+      "example_en": "Every superhero movie ends with a big fight.",
+      "example_th": "หนังซูเปอร์ฮีโร่จบด้วยฉากต่อสู้ใหญ่ทุกเรื่อง",
+      "cefr": "A2",
+      "note_th": "super- เติมหน้าคำแปลว่าเหนือกว่าปกติ เหมือน supermarket, superstar",
+      "distractors": [
+        "superhuman",
+        "superior",
+        "supermarket"
+      ]
+    },
+    {
+      "id": "animation",
+      "word": "animation",
+      "pos": "noun",
+      "ipa": "/ˌænɪˈmeɪʃn/",
+      "reading_th": "แอ-นิ-เม-ชั่น",
+      "meaning_th": "หนังการ์ตูน แอนิเมชัน",
+      "emoji": "🐭",
+      "example_en": "This animation took five years to finish.",
+      "example_th": "แอนิเมชันเรื่องนี้ใช้เวลาทำห้าปี",
+      "cefr": "B1",
+      "note_th": "animation คือตัวงาน ส่วนคนทำเรียก animator — การ์ตูนญี่ปุ่นเรียกเฉพาะว่า anime",
+      "distractors": [
+        "imagination",
+        "animal",
+        "admiration"
+      ]
+    },
+    {
+      "id": "documentary",
+      "word": "documentary",
+      "pos": "noun",
+      "ipa": "/ˌdɑːkjuˈmentri/",
+      "reading_th": "ด็อก-กิว-เมน-ทะ-รี่",
+      "meaning_th": "สารคดี",
+      "emoji": "🌍",
+      "example_en": "The documentary follows one family for ten years.",
+      "example_th": "สารคดีเรื่องนี้ตามติดครอบครัวหนึ่งนานสิบปี",
+      "cefr": "B2",
+      "note_th": "ชาวเน็ตย่อว่า doc หรือ docu — มาจาก document ที่แปลว่าเอกสารบันทึก",
+      "distractors": [
+        "dictionary",
+        "documents",
+        "commentary"
+      ]
+    },
+    {
+      "id": "based_on_true_story",
+      "word": "based on a true story",
+      "pos": "phrase",
+      "ipa": "/beɪst ɑːn ə truː ˈstɔːri/",
+      "reading_th": "เบสด์ ออน อะ ทรู สตอ-รี่",
+      "meaning_th": "สร้างจากเรื่องจริง",
+      "emoji": "📖",
+      "example_en": "The film is based on a true story from the 1970s.",
+      "example_th": "หนังเรื่องนี้สร้างจากเรื่องจริงในยุค 1970",
+      "cefr": "B2",
+      "note_th": "based on a true story แปลว่าอิงเรื่องจริงแต่ดัดแปลงได้ ส่วน a true story คือเรื่องจริงล้วน",
+      "distractors": [
+        "based on a new story",
+        "placed on a true story",
+        "based on a top story"
+      ]
+    },
+    {
+      "id": "plot",
+      "word": "plot",
+      "pos": "noun",
+      "ipa": "/plɑːt/",
+      "reading_th": "พลอท",
+      "meaning_th": "เนื้อเรื่อง โครงเรื่อง",
+      "emoji": "🧾",
+      "example_en": "The acting was great but the plot was boring.",
+      "example_th": "การแสดงดีมากแต่เนื้อเรื่องน่าเบื่อ",
+      "cefr": "B1",
+      "note_th": "plot คือลำดับเหตุการณ์ในเรื่อง ส่วน story คือเรื่องราวโดยรวม — คำนี้ยังแปลว่าที่ดินแปลงหนึ่งได้ด้วย",
+      "distractors": [
+        "pilot",
+        "plate",
+        "pot"
+      ]
+    },
+    {
+      "id": "plot_twist",
+      "word": "plot twist",
+      "pos": "noun",
+      "ipa": "/plɑːt twɪst/",
+      "reading_th": "พลอท ทวิสท์",
+      "meaning_th": "จุดหักมุมของเรื่อง",
+      "emoji": "🔀",
+      "example_en": "Nobody saw that plot twist coming.",
+      "example_th": "ไม่มีใครคาดคิดว่าเรื่องจะหักมุมแบบนั้น",
+      "cefr": "B2",
+      "note_th": "twist แปลว่าบิด รวมกันแปลว่าเรื่องหักมุม — ชาวเน็ตใช้เล่าเรื่องในชีวิตจริงได้ด้วย",
+      "distractors": [
+        "plot list",
+        "pilot twist",
+        "plot twin"
+      ]
+    },
+    {
+      "id": "main_character",
+      "word": "main character",
+      "pos": "noun",
+      "ipa": "/meɪn ˈkerəktər/",
+      "reading_th": "เมน แค-แรค-เตอร์",
+      "meaning_th": "ตัวละครหลัก",
+      "emoji": "⭐",
+      "example_en": "The main character never says a word until the end.",
+      "example_th": "ตัวละครหลักไม่พูดสักคำจนถึงตอนจบ",
+      "cefr": "B1",
+      "note_th": "main character เรียกอีกอย่างว่า protagonist ส่วนตัวร้ายคู่ปรับเรียก villain หรือ antagonist",
+      "distractors": [
+        "main charger",
+        "mean character",
+        "main chapter"
+      ]
+    },
+    {
+      "id": "director",
+      "word": "director",
+      "pos": "noun",
+      "ipa": "/dəˈrektər/",
+      "reading_th": "ดิ-เรค-เตอร์",
+      "meaning_th": "ผู้กำกับ",
+      "emoji": "🎬",
+      "example_en": "The director asked for one more take.",
+      "example_th": "ผู้กำกับขอถ่ายอีกเทคหนึ่ง",
+      "cefr": "B1",
+      "note_th": "director ในวงการหนังคือผู้กำกับ แต่ในบริษัทแปลว่ากรรมการบริหาร ต้องดูบริบท",
+      "distractors": [
+        "direction",
+        "detector",
+        "decorator"
+      ]
+    },
+    {
+      "id": "actor",
+      "word": "actor",
+      "pos": "noun",
+      "ipa": "/ˈæktər/",
+      "reading_th": "แอค-เตอร์",
+      "meaning_th": "นักแสดงชาย",
+      "emoji": "👨‍🎤",
+      "example_en": "That actor learned Thai for the role.",
+      "example_th": "นักแสดงคนนั้นเรียนภาษาไทยเพื่อบทนี้",
+      "cefr": "A2",
+      "note_th": "ปัจจุบันฝรั่งใช้ actor กับทุกเพศได้แล้ว แต่ actress ยังใช้อยู่โดยเฉพาะในงานประกาศรางวัล",
+      "distractors": [
+        "author",
+        "doctor",
+        "factor"
+      ]
+    },
+    {
+      "id": "actress",
+      "word": "actress",
+      "pos": "noun",
+      "ipa": "/ˈæktrəs/",
+      "reading_th": "แอค-เทรส",
+      "meaning_th": "นักแสดงหญิง",
+      "emoji": "👩‍🎤",
+      "example_en": "She won best actress for that film.",
+      "example_th": "เธอได้รางวัลนักแสดงนำหญิงยอดเยี่ยมจากหนังเรื่องนั้น",
+      "cefr": "A2",
+      "note_th": "ปัจจัย -ess บอกเพศหญิง เหมือน waitress — หลายคำแบบนี้กำลังเลิกใช้ในภาษาอังกฤษสมัยใหม่",
+      "distractors": [
+        "address",
+        "actors",
+        "mattress"
+      ]
+    },
+    {
+      "id": "audition",
+      "word": "audition",
+      "pos": "noun",
+      "ipa": "/ɔːˈdɪʃn/",
+      "reading_th": "ออ-ดิ-ชั่น",
+      "meaning_th": "การคัดเลือกนักแสดงหรือนักร้อง",
+      "emoji": "🪑",
+      "example_en": "Three hundred people came to the audition.",
+      "example_th": "มีคนมาออดิชันสามร้อยคน",
+      "cefr": "B2",
+      "note_th": "audition เป็นได้ทั้งคำนามและกริยา — ผ่านรอบคัดเลือกพูดว่า get the part หรือ land the role",
+      "distractors": [
+        "addition",
+        "ambition",
+        "audience"
+      ]
+    },
+    {
+      "id": "script",
+      "word": "script",
+      "pos": "noun",
+      "ipa": "/skrɪpt/",
+      "reading_th": "สคริปต์",
+      "meaning_th": "บทหนังหรือบทละคร",
+      "emoji": "📜",
+      "example_en": "He rewrote the script four times.",
+      "example_th": "เขาเขียนบทใหม่ถึงสี่รอบ",
+      "cefr": "B1",
+      "note_th": "script คือบททั้งเล่ม ส่วน line คือบทพูดของตัวละครหนึ่งประโยค",
+      "distractors": [
+        "scrap",
+        "strict",
+        "skirt"
+      ]
+    },
+    {
+      "id": "scene",
+      "word": "scene",
+      "pos": "noun",
+      "ipa": "/siːn/",
+      "reading_th": "ซีน",
+      "meaning_th": "ฉากในหนัง",
+      "emoji": "🎞️",
+      "example_en": "The kitchen scene took two days to shoot.",
+      "example_th": "ฉากในครัวถ่ายกันสองวัน",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน seen แต่คนละคำ — scene คือฉาก ส่วน seen คือช่องสามของ see",
+      "distractors": [
+        "seen",
+        "scent",
+        "screen"
+      ]
+    },
+    {
+      "id": "take",
+      "word": "take",
+      "pos": "noun",
+      "ipa": "/teɪk/",
+      "reading_th": "เทค",
+      "meaning_th": "การถ่ายหนึ่งครั้ง เทค",
+      "emoji": "🎯",
+      "example_en": "They got it right on the first take.",
+      "example_th": "ถ่ายเทคแรกก็ผ่านเลย",
+      "cefr": "B2",
+      "note_th": "ในกองถ่าย take คือการถ่ายหนึ่งรอบ — ถ้าต้องถ่ายใหม่ผู้กำกับจะพูดว่า take two",
+      "distractors": [
+        "tape",
+        "talk",
+        "taker"
+      ]
+    },
+    {
+      "id": "costume",
+      "word": "costume",
+      "pos": "noun",
+      "ipa": "/ˈkɑːstuːm/",
+      "reading_th": "คอส-ทูม",
+      "meaning_th": "ชุดแสดง เครื่องแต่งกายในเรื่อง",
+      "emoji": "👘",
+      "example_en": "Her costume weighed almost ten kilos.",
+      "example_th": "ชุดที่เธอใส่หนักเกือบสิบกิโล",
+      "cefr": "B1",
+      "note_th": "costume คือชุดแสดงหรือชุดแฟนซี ส่วนเสื้อผ้าใส่ทั่วไปคือ clothes",
+      "distractors": [
+        "custom",
+        "customer",
+        "consume"
+      ]
+    },
+    {
+      "id": "makeup_artist",
+      "word": "makeup artist",
+      "pos": "noun",
+      "ipa": "/ˈmeɪkʌp ˈɑːrtɪst/",
+      "reading_th": "เมค-อัพ อาร์-ทิสท์",
+      "meaning_th": "ช่างแต่งหน้า",
+      "emoji": "💄",
+      "example_en": "The makeup artist worked on him for three hours.",
+      "example_th": "ช่างแต่งหน้าใช้เวลาแต่งให้เขาสามชั่วโมง",
+      "cefr": "B1",
+      "note_th": "makeup เขียนติดกันเป็นคำนามแปลว่าเครื่องสำอาง ส่วน make up แยกคำแปลว่าคืนดีกัน",
+      "distractors": [
+        "make-up artist shop",
+        "makeup article",
+        "mockup artist"
+      ]
+    },
+    {
+      "id": "special_effects",
+      "word": "special effects",
+      "pos": "noun",
+      "ipa": "/ˈspeʃl ɪˈfekts/",
+      "reading_th": "สเปเชี่ยล เอ็ฟ-เฟคส์",
+      "meaning_th": "เทคนิคพิเศษทางภาพ",
+      "emoji": "🪄",
+      "example_en": "The special effects still look good today.",
+      "example_th": "เทคนิคภาพของเรื่องนี้ดูดีมาจนถึงทุกวันนี้",
+      "cefr": "B2",
+      "note_th": "ย่อว่า SFX หรือ VFX สำหรับงานที่ทำด้วยคอมพิวเตอร์ — ใช้พหูพจน์เสมอ",
+      "distractors": [
+        "special effort",
+        "spatial effects",
+        "special affects"
+      ]
+    },
+    {
+      "id": "stunt",
+      "word": "stunt",
+      "pos": "noun",
+      "ipa": "/stʌnt/",
+      "reading_th": "สตันท์",
+      "meaning_th": "ฉากผาดโผน",
+      "emoji": "🤸",
+      "example_en": "He does his own stunts without a double.",
+      "example_th": "เขาเล่นฉากผาดโผนเองโดยไม่ใช้ตัวแสดงแทน",
+      "cefr": "B2",
+      "note_th": "คนแสดงแทนในฉากเสี่ยงเรียก stuntman หรือ stunt double",
+      "distractors": [
+        "student",
+        "stung",
+        "strut"
+      ]
+    },
+    {
+      "id": "soundtrack",
+      "word": "soundtrack",
+      "pos": "noun",
+      "ipa": "/ˈsaʊndtræk/",
+      "reading_th": "ซาวด์-แทร็ค",
+      "meaning_th": "เพลงประกอบทั้งหมดของเรื่อง",
+      "emoji": "💿",
+      "example_en": "The soundtrack is better than the film.",
+      "example_th": "เพลงประกอบเพราะกว่าตัวหนังอีก",
+      "cefr": "B2",
+      "note_th": "soundtrack คือชุดเพลงประกอบทั้งเรื่อง ส่วนเพลงหลักเพลงเดียวเรียก theme song",
+      "distractors": [
+        "sound check",
+        "soundproof",
+        "racetrack"
+      ]
+    },
+    {
+      "id": "behind_the_scenes",
+      "word": "behind the scenes",
+      "pos": "phrase",
+      "ipa": "/bɪˈhaɪnd ðə siːnz/",
+      "reading_th": "บิ-ไฮนด์ เดอะ ซีนส์",
+      "meaning_th": "เบื้องหลังการถ่ายทำ",
+      "emoji": "🎥",
+      "example_en": "The behind the scenes clip is funnier than the movie.",
+      "example_th": "คลิปเบื้องหลังตลกกว่าตัวหนังอีก",
+      "cefr": "B2",
+      "note_th": "ย่อว่า BTS ในวงการสื่อ ซึ่งคนละความหมายกับชื่อวงดนตรีและรถไฟฟ้า",
+      "distractors": [
+        "behind the screens",
+        "behind the seasons",
+        "beyond the scenes"
+      ]
+    },
+    {
+      "id": "wrap",
+      "word": "wrap",
+      "pos": "verb",
+      "ipa": "/ræp/",
+      "reading_th": "แร็พ",
+      "meaning_th": "ปิดกล้อง ถ่ายทำเสร็จ",
+      "emoji": "🎬",
+      "example_en": "That is a wrap, everyone go home.",
+      "example_th": "ปิดกล้องแล้ว ทุกคนกลับบ้านได้",
+      "cefr": "B2",
+      "note_th": "ตัว w ไม่ออกเสียง อ่านว่า แร็พ เหมือนเพลงแร็ป — that is a wrap แปลว่าถ่ายจบแล้ว",
+      "distractors": [
+        "rap",
+        "trap",
+        "warp"
+      ]
+    },
+    {
+      "id": "series",
+      "word": "series",
+      "pos": "noun",
+      "ipa": "/ˈsɪriːz/",
+      "reading_th": "ซี-รีส์",
+      "meaning_th": "ซีรีส์ ละครหลายตอน",
+      "emoji": "📺",
+      "example_en": "That series has six seasons already.",
+      "example_th": "ซีรีส์เรื่องนั้นมีหกซีซั่นแล้ว",
+      "cefr": "B1",
+      "note_th": "series สะกดเหมือนกันทั้งเอกพจน์และพหูพจน์ พูดว่า one series, two series ไม่มี seriess",
+      "distractors": [
+        "serious",
+        "service",
+        "cereal"
+      ]
+    },
+    {
+      "id": "episode",
+      "word": "episode",
+      "pos": "noun",
+      "ipa": "/ˈepɪsoʊd/",
+      "reading_th": "เอ-พิ-โซด",
+      "meaning_th": "ตอนหนึ่งตอน",
+      "emoji": "🔢",
+      "example_en": "The first episode is only twenty minutes long.",
+      "example_th": "ตอนแรกยาวแค่ยี่สิบนาที",
+      "cefr": "B1",
+      "note_th": "ย่อว่า ep ในภาษาพูดและในแอป — ตอนพิเศษเรียก special episode",
+      "distractors": [
+        "epidemic",
+        "exposed",
+        "episodes list"
+      ]
+    },
+    {
+      "id": "season",
+      "word": "season",
+      "pos": "noun",
+      "ipa": "/ˈsiːzn/",
+      "reading_th": "ซี-เซิ่น",
+      "meaning_th": "ซีซั่น ชุดตอนหนึ่งปี",
+      "emoji": "🗓️",
+      "example_en": "The new season starts in October.",
+      "example_th": "ซีซั่นใหม่เริ่มฉายเดือนตุลาคม",
+      "cefr": "B1",
+      "note_th": "season ในซีรีส์คือชุดตอน แต่ความหมายเดิมคือฤดูกาล เช่น rainy season",
+      "distractors": [
+        "reason",
+        "session",
+        "seasoning"
+      ]
+    },
+    {
+      "id": "streaming",
+      "word": "streaming",
+      "pos": "noun",
+      "ipa": "/ˈstriːmɪŋ/",
+      "reading_th": "สตรีม-มิ่ง",
+      "meaning_th": "การดูหรือฟังผ่านเน็ตโดยไม่ต้องโหลด",
+      "emoji": "📡",
+      "example_en": "Streaming uses a lot of mobile data.",
+      "example_th": "การดูผ่านเน็ตกินเน็ตมือถือเยอะ",
+      "cefr": "B2",
+      "note_th": "streaming คือดูสด ๆ ผ่านเน็ต ส่วน download คือโหลดเก็บไว้ในเครื่องก่อน",
+      "distractors": [
+        "steaming",
+        "screaming",
+        "straining"
+      ]
+    },
+    {
+      "id": "subscription",
+      "word": "subscription",
+      "pos": "noun",
+      "ipa": "/səbˈskrɪpʃn/",
+      "reading_th": "ซับ-สคริพ-ชั่น",
+      "meaning_th": "ค่าสมาชิกรายเดือน",
+      "emoji": "💳",
+      "example_en": "I cancelled my subscription after the free month.",
+      "example_th": "พอหมดเดือนฟรีก็ยกเลิกค่าสมาชิกเลย",
+      "cefr": "B2",
+      "note_th": "subscription คือแพ็กเกจที่จ่ายรายเดือน ส่วนกริยาคือ subscribe",
+      "distractors": [
+        "prescription",
+        "description",
+        "suspension"
+      ]
+    },
+    {
+      "id": "watchlist",
+      "word": "watchlist",
+      "pos": "noun",
+      "ipa": "/ˈwɑːtʃlɪst/",
+      "reading_th": "วอทช์-ลิสต์",
+      "meaning_th": "รายการเรื่องที่อยากดู",
+      "emoji": "📋",
+      "example_en": "My watchlist is longer than my life.",
+      "example_th": "รายการที่อยากดูยาวกว่าชีวิตอีก",
+      "cefr": "B2",
+      "note_th": "เติมเรื่องเข้าไปพูดว่า add it to my watchlist — คนไทยเรียกว่ากองดอง",
+      "distractors": [
+        "watchtower",
+        "wishlist",
+        "washlist"
+      ]
+    },
+    {
+      "id": "binge_watch",
+      "word": "binge-watch",
+      "pos": "verb",
+      "ipa": "/bɪndʒ wɑːtʃ/",
+      "reading_th": "บินจ์-วอทช์",
+      "meaning_th": "ดูรวดเดียวหลายตอนติด",
+      "emoji": "🛋️",
+      "example_en": "We binge-watched the whole season in one night.",
+      "example_th": "เราดูรวดเดียวจบทั้งซีซั่นในคืนเดียว",
+      "cefr": "B2",
+      "note_th": "binge แปลว่าทำอะไรหนัก ๆ รวดเดียว — คำนี้เพิ่งเกิดตอนสตรีมมิ่งเริ่มดัง",
+      "distractors": [
+        "bridge-watch",
+        "binge-watcher",
+        "beach-watch"
+      ]
+    },
+    {
+      "id": "marathon",
+      "word": "marathon",
+      "pos": "noun",
+      "ipa": "/ˈmerəθɑːn/",
+      "reading_th": "มา-รา-ธอน",
+      "meaning_th": "การดูยาวรวดเดียวหลายเรื่อง",
+      "emoji": "⏱️",
+      "example_en": "We had a movie marathon all weekend.",
+      "example_th": "เรานั่งดูหนังยาวรวดทั้งเสาร์อาทิตย์",
+      "cefr": "B2",
+      "note_th": "marathon เดิมคือการวิ่งระยะไกล แต่ a movie marathon คือดูหนังยาวติดกันหลายเรื่อง",
+      "distractors": [
+        "matador",
+        "marathon runner",
+        "metathon"
+      ]
+    },
+    {
+      "id": "cliffhanger",
+      "word": "cliffhanger",
+      "pos": "noun",
+      "ipa": "/ˈklɪfhæŋər/",
+      "reading_th": "คลิฟ-แฮง-เกอร์",
+      "meaning_th": "ตอนจบค้างคาให้ลุ้นต่อ",
+      "emoji": "🧗",
+      "example_en": "They ended the season on a cliffhanger.",
+      "example_th": "ปิดซีซั่นด้วยตอนจบค้างคา",
+      "cefr": "B2",
+      "note_th": "cliff แปลว่าหน้าผา hang แปลว่าห้อย รวมกันคือค้างเติ่งอยู่ปากเหว",
+      "distractors": [
+        "coathanger",
+        "clifftop",
+        "cliffhang"
+      ]
+    },
+    {
+      "id": "finale",
+      "word": "finale",
+      "pos": "noun",
+      "ipa": "/fɪˈnæli/",
+      "reading_th": "ฟิ-นา-เล่",
+      "meaning_th": "ตอนจบของซีซั่นหรือทั้งเรื่อง",
+      "emoji": "🎆",
+      "example_en": "Twenty million people watched the finale.",
+      "example_th": "มีคนดูตอนจบยี่สิบล้านคน",
+      "cefr": "B2",
+      "note_th": "ยืมมาจากภาษาอิตาลี อ่าน ฟิ-นา-เล่ ไม่ใช่ ไฟ-นาล — ต่างจาก final ที่แปลว่าสุดท้าย",
+      "distractors": [
+        "final",
+        "finally",
+        "finale song"
+      ]
+    },
+    {
+      "id": "spin_off",
+      "word": "spin-off",
+      "pos": "noun",
+      "ipa": "/ˈspɪn ɔːf/",
+      "reading_th": "สปิน-ออฟ",
+      "meaning_th": "เรื่องแยกที่ตัวละครเดิมไปมีเรื่องของตัวเอง",
+      "emoji": "↗️",
+      "example_en": "The side character got his own spin-off.",
+      "example_th": "ตัวประกอบได้ไปมีเรื่องแยกของตัวเอง",
+      "cefr": "B2",
+      "note_th": "spin-off คือเรื่องแยกที่เล่าคนละเส้น ส่วน sequel คือภาคต่อของเรื่องเดิม",
+      "distractors": [
+        "spin-out",
+        "sign-off",
+        "spin-up"
+      ]
+    },
+    {
+      "id": "recap",
+      "word": "recap",
+      "pos": "noun",
+      "ipa": "/ˈriːkæp/",
+      "reading_th": "รี-แคป",
+      "meaning_th": "การสรุปตอนที่แล้ว",
+      "emoji": "⏮️",
+      "example_en": "I watched a recap because I forgot everything.",
+      "example_th": "ลืมหมดแล้วเลยไปดูคลิปสรุปตอนก่อน",
+      "cefr": "B2",
+      "note_th": "recap ย่อจาก recapitulate ใช้ได้ทั้งในซีรีส์และในที่ประชุม เช่น a quick recap",
+      "distractors": [
+        "reclaim",
+        "recipe",
+        "reccap"
+      ]
+    },
+    {
+      "id": "rewatch",
+      "word": "rewatch",
+      "pos": "verb",
+      "ipa": "/ˌriːˈwɑːtʃ/",
+      "reading_th": "รี-วอทช์",
+      "meaning_th": "กลับมาดูซ้ำอีกรอบ",
+      "emoji": "🔁",
+      "example_en": "I rewatch this show every December.",
+      "example_th": "เรากลับมาดูเรื่องนี้ซ้ำทุกเดือนธันวาคม",
+      "cefr": "B1",
+      "note_th": "re- แปลว่าทำซ้ำ เหมือน replay, rewrite — เรื่องที่ดูซ้ำได้ไม่เบื่อเรียก rewatchable",
+      "distractors": [
+        "research",
+        "rewatcher",
+        "rematch"
+      ]
+    },
+    {
+      "id": "plot_hole",
+      "word": "plot hole",
+      "pos": "noun",
+      "ipa": "/plɑːt hoʊl/",
+      "reading_th": "พลอท โฮล",
+      "meaning_th": "จุดที่เนื้อเรื่องไม่สมเหตุสมผล",
+      "emoji": "🕳️",
+      "example_en": "That ending leaves a huge plot hole.",
+      "example_th": "ตอนจบทิ้งช่องโหว่ของเนื้อเรื่องไว้เบ้อเริ่ม",
+      "cefr": "B2",
+      "note_th": "hole แปลว่ารู รวมกันคือรูรั่วในเนื้อเรื่องที่อธิบายไม่ได้",
+      "distractors": [
+        "plot whole",
+        "pot hole",
+        "plot pole"
+      ]
+    },
+    {
+      "id": "song",
+      "word": "song",
+      "pos": "noun",
+      "ipa": "/sɔːŋ/",
+      "reading_th": "ซอง",
+      "meaning_th": "เพลง",
+      "emoji": "🎵",
+      "example_en": "This song always makes me feel better.",
+      "example_th": "เพลงนี้ฟังทีไรก็รู้สึกดีขึ้นทุกที",
+      "cefr": "A1",
+      "note_th": "song คือเพลงที่มีเนื้อร้อง ส่วน music เป็นคำรวมของดนตรีทั้งหมดและนับไม่ได้",
+      "distractors": [
+        "sung",
+        "song book",
+        "strong"
+      ]
+    },
+    {
+      "id": "lyrics",
+      "word": "lyrics",
+      "pos": "noun",
+      "ipa": "/ˈlɪrɪks/",
+      "reading_th": "ลิ-ริกส์",
+      "meaning_th": "เนื้อเพลง",
+      "emoji": "📝",
+      "example_en": "I love the melody but the lyrics are sad.",
+      "example_th": "ชอบทำนองนะ แต่เนื้อเพลงเศร้ามาก",
+      "cefr": "B1",
+      "note_th": "ใช้พหูพจน์เสมอ lyrics — คนแต่งเนื้อเพลงเรียก lyricist หรือ songwriter",
+      "distractors": [
+        "lyric sheet",
+        "liquids",
+        "limericks"
+      ]
+    },
+    {
+      "id": "melody",
+      "word": "melody",
+      "pos": "noun",
+      "ipa": "/ˈmelədi/",
+      "reading_th": "เม-โล-ดี้",
+      "meaning_th": "ทำนอง",
+      "emoji": "🎶",
+      "example_en": "The melody stayed in my head all day.",
+      "example_th": "ทำนองเพลงวนอยู่ในหัวทั้งวัน",
+      "cefr": "B1",
+      "note_th": "melody คือทำนองที่ร้องตามได้ ส่วน harmony คือเสียงประสานที่ซ้อนอยู่ข้างใต้",
+      "distractors": [
+        "malady",
+        "remedy",
+        "medley"
+      ]
+    },
+    {
+      "id": "chorus",
+      "word": "chorus",
+      "pos": "noun",
+      "ipa": "/ˈkɔːrəs/",
+      "reading_th": "คอ-รัส",
+      "meaning_th": "ท่อนฮุคที่ร้องซ้ำ",
+      "emoji": "🔂",
+      "example_en": "Everyone only knows the chorus.",
+      "example_th": "ทุกคนร้องได้แค่ท่อนฮุค",
+      "cefr": "B2",
+      "note_th": "คนไทยเรียกท่อนฮุค ฝรั่งเรียก chorus หรือ hook — ท่อนก่อนหน้าเรียก verse",
+      "distractors": [
+        "course",
+        "chores",
+        "cactus"
+      ]
+    },
+    {
+      "id": "beat",
+      "word": "beat",
+      "pos": "noun",
+      "ipa": "/biːt/",
+      "reading_th": "บีท",
+      "meaning_th": "จังหวะเพลง",
+      "emoji": "🥁",
+      "example_en": "You can dance to that beat easily.",
+      "example_th": "จังหวะนี้เต้นตามง่ายมาก",
+      "cefr": "B1",
+      "note_th": "beat คือจังหวะที่เคาะตาม ส่วน rhythm คือรูปแบบจังหวะโดยรวมของทั้งเพลง",
+      "distractors": [
+        "beet",
+        "bit",
+        "boat"
+      ]
+    },
+    {
+      "id": "tune",
+      "word": "tune",
+      "pos": "noun",
+      "ipa": "/tuːn/",
+      "reading_th": "ทูน",
+      "meaning_th": "ทำนองเพลงที่จำได้ติดหู",
+      "emoji": "🎼",
+      "example_en": "He was humming a tune in the shower.",
+      "example_th": "เขาฮัมเพลงอยู่ในห้องน้ำ",
+      "cefr": "B1",
+      "note_th": "in tune แปลว่าร้องตรงคีย์ ส่วน out of tune แปลว่าเพี้ยน — เป็นกริยาก็ได้ tune a guitar",
+      "distractors": [
+        "toon",
+        "tone",
+        "town"
+      ]
+    },
+    {
+      "id": "catchy",
+      "word": "catchy",
+      "pos": "adjective",
+      "ipa": "/ˈkætʃi/",
+      "reading_th": "แคช-ชี่",
+      "meaning_th": "ติดหูง่าย",
+      "emoji": "🪝",
+      "example_en": "That jingle is so catchy it is annoying.",
+      "example_th": "เพลงโฆษณานั้นติดหูจนน่ารำคาญ",
+      "cefr": "B2",
+      "note_th": "มาจาก catch ที่แปลว่าจับ — catchy คือจับหูคนฟังไว้ได้ ใช้กับชื่อแบรนด์ได้ด้วย",
+      "distractors": [
+        "cheeky",
+        "patchy",
+        "catching"
+      ]
+    },
+    {
+      "id": "hit_song",
+      "word": "hit song",
+      "pos": "noun",
+      "ipa": "/hɪt sɔːŋ/",
+      "reading_th": "ฮิท ซอง",
+      "meaning_th": "เพลงดัง เพลงฮิต",
+      "emoji": "🔥",
+      "example_en": "One hit song can pay for a whole album.",
+      "example_th": "เพลงดังเพลงเดียวก็เลี้ยงทั้งอัลบั้มได้",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่าเพลงฮิต ตรงกับ hit — ศิลปินที่ดังเพลงเดียวแล้วหายไปเรียก one-hit wonder",
+      "distractors": [
+        "hit list",
+        "big song",
+        "hot song"
+      ]
+    },
+    {
+      "id": "on_repeat",
+      "word": "on repeat",
+      "pos": "phrase",
+      "ipa": "/ɑːn rɪˈpiːt/",
+      "reading_th": "ออน ริ-พีท",
+      "meaning_th": "เปิดวนซ้ำไม่หยุด",
+      "emoji": "♾️",
+      "example_en": "That track has been on repeat all week.",
+      "example_th": "เพลงนั้นเปิดวนทั้งอาทิตย์แล้ว",
+      "cefr": "B2",
+      "note_th": "พูดว่า I have it on repeat แปลว่าฟังวนไม่เลิก ใช้กับซีรีส์ก็ได้",
+      "distractors": [
+        "on receipt",
+        "in repeat",
+        "on retreat"
+      ]
+    },
+    {
+      "id": "cover_song",
+      "word": "cover song",
+      "pos": "noun",
+      "ipa": "/ˈkʌvər sɔːŋ/",
+      "reading_th": "คัฟ-เวอร์ ซอง",
+      "meaning_th": "เพลงที่คนอื่นเอาไปร้องใหม่",
+      "emoji": "🎤",
+      "example_en": "Her cover song is more famous than the original.",
+      "example_th": "เพลงที่เธอเอามาร้องใหม่ดังกว่าต้นฉบับอีก",
+      "cefr": "B2",
+      "note_th": "ต้นฉบับเรียก the original — cover ใช้เป็นกริยาได้ เช่น she covered that song",
+      "distractors": [
+        "cover letter",
+        "clever song",
+        "cover charge"
+      ]
+    },
+    {
+      "id": "remix",
+      "word": "remix",
+      "pos": "noun",
+      "ipa": "/ˈriːmɪks/",
+      "reading_th": "รี-มิกซ์",
+      "meaning_th": "เพลงที่เอามาเรียบเรียงใหม่",
+      "emoji": "🎛️",
+      "example_en": "The remix is faster than the original.",
+      "example_th": "เวอร์ชันรีมิกซ์เร็วกว่าต้นฉบับ",
+      "cefr": "B2",
+      "note_th": "remix คือเอาเพลงเดิมมาปรับเสียงและจังหวะ ต่างจาก cover ที่ร้องใหม่ทั้งเพลง",
+      "distractors": [
+        "rematch",
+        "reindex",
+        "remind"
+      ]
+    },
+    {
+      "id": "instrumental",
+      "word": "instrumental",
+      "pos": "noun",
+      "ipa": "/ˌɪnstrəˈmentl/",
+      "reading_th": "อิน-สทรู-เมน-เทิ่ล",
+      "meaning_th": "เวอร์ชันบรรเลงที่ไม่มีเสียงร้อง",
+      "emoji": "🎹",
+      "example_en": "I study with the instrumental version.",
+      "example_th": "อ่านหนังสือกับเวอร์ชันบรรเลง",
+      "cefr": "B2",
+      "note_th": "มาจาก instrument ที่แปลว่าเครื่องดนตรี — คาราโอเกะใช้เวอร์ชันนี้แหละ",
+      "distractors": [
+        "installment",
+        "environmental",
+        "instructional"
+      ]
+    },
+    {
+      "id": "karaoke",
+      "word": "karaoke",
+      "pos": "noun",
+      "ipa": "/ˌkeriˈoʊki/",
+      "reading_th": "แค-ริ-โอ-กี้",
+      "meaning_th": "คาราโอเกะ",
+      "emoji": "🎙️",
+      "example_en": "We went to karaoke after the party.",
+      "example_th": "เลิกปาร์ตี้แล้วไปร้องคาราโอเกะกันต่อ",
+      "cefr": "B1",
+      "note_th": "ฝรั่งออกเสียงว่า แค-ริ-โอ-กี้ ไม่ใช่ คา-รา-โอ-เกะ แบบญี่ปุ่น ฟังแล้วอาจงงตอนแรก",
+      "distractors": [
+        "karate",
+        "kimono",
+        "kayak"
+      ]
+    },
+    {
+      "id": "sing_along",
+      "word": "sing along",
+      "pos": "verb",
+      "ipa": "/sɪŋ əˈlɔːŋ/",
+      "reading_th": "ซิง อะ-ลอง",
+      "meaning_th": "ร้องตามไปด้วย",
+      "emoji": "👐",
+      "example_en": "The whole crowd started to sing along.",
+      "example_th": "คนทั้งงานเริ่มร้องตามกันหมด",
+      "cefr": "B1",
+      "note_th": "along แปลว่าไปด้วยกัน — ใช้รูปเดียวกันได้กับ dance along, play along",
+      "distractors": [
+        "sing alone",
+        "swing along",
+        "sign along"
+      ]
+    },
+    {
+      "id": "band",
+      "word": "band",
+      "pos": "noun",
+      "ipa": "/bænd/",
+      "reading_th": "แบนด์",
+      "meaning_th": "วงดนตรี",
+      "emoji": "🎸",
+      "example_en": "Their band started in a school garage.",
+      "example_th": "วงของพวกเขาเริ่มจากโรงรถที่โรงเรียน",
+      "cefr": "A2",
+      "note_th": "band ใช้กับวงที่เล่นเครื่องดนตรี ส่วนกลุ่มนักร้องเต้นเรียก group — คำนี้ยังแปลว่าสายรัดได้ด้วย",
+      "distractors": [
+        "bend",
+        "brand",
+        "bank"
+      ]
+    },
+    {
+      "id": "singer",
+      "word": "singer",
+      "pos": "noun",
+      "ipa": "/ˈsɪŋər/",
+      "reading_th": "ซิง-เงอร์",
+      "meaning_th": "นักร้อง",
+      "emoji": "🧑‍🎤",
+      "example_en": "The singer lost her voice before the show.",
+      "example_th": "นักร้องเสียงหายก่อนขึ้นโชว์",
+      "cefr": "A1",
+      "note_th": "นักร้องนำเรียก lead singer ส่วนคนที่ทั้งร้องทั้งแต่งเพลงเองเรียก singer-songwriter",
+      "distractors": [
+        "finger",
+        "ginger",
+        "sinker"
+      ]
+    },
+    {
+      "id": "guitarist",
+      "word": "guitarist",
+      "pos": "noun",
+      "ipa": "/ɡɪˈtɑːrɪst/",
+      "reading_th": "กิ-ทา-ริสท์",
+      "meaning_th": "มือกีตาร์",
+      "emoji": "🎸",
+      "example_en": "The guitarist broke a string mid-song.",
+      "example_th": "มือกีตาร์สายขาดกลางเพลง",
+      "cefr": "B1",
+      "note_th": "ตัว u ใน guitar ไม่ออกเสียง — เติม -ist ทำเป็นคนเล่น เหมือน pianist, violinist",
+      "distractors": [
+        "guitar",
+        "tourist",
+        "guiterist"
+      ]
+    },
+    {
+      "id": "drummer",
+      "word": "drummer",
+      "pos": "noun",
+      "ipa": "/ˈdrʌmər/",
+      "reading_th": "ดรัม-เมอร์",
+      "meaning_th": "มือกลอง",
+      "emoji": "🥁",
+      "example_en": "The drummer counted the band in.",
+      "example_th": "มือกลองนับให้วงเข้าจังหวะ",
+      "cefr": "B1",
+      "note_th": "เติม -er ทำเป็นคนเล่นก็ได้ เหมือน drummer, singer — แต่กีตาร์กับเปียโนใช้ -ist",
+      "distractors": [
+        "dreamer",
+        "drama",
+        "trimmer"
+      ]
+    },
+    {
+      "id": "concert",
+      "word": "concert",
+      "pos": "noun",
+      "ipa": "/ˈkɑːnsərt/",
+      "reading_th": "คอน-เสิร์ท",
+      "meaning_th": "คอนเสิร์ต",
+      "emoji": "🎆",
+      "example_en": "The concert starts at seven sharp.",
+      "example_th": "คอนเสิร์ตเริ่มหนึ่งทุ่มตรง",
+      "cefr": "A2",
+      "note_th": "go to a concert ใช้ to — ส่วนงานที่มีหลายวงเล่นหลายวันเรียก festival",
+      "distractors": [
+        "consent",
+        "content",
+        "convert"
+      ]
+    },
+    {
+      "id": "stage",
+      "word": "stage",
+      "pos": "noun",
+      "ipa": "/steɪdʒ/",
+      "reading_th": "สเตจ",
+      "meaning_th": "เวที",
+      "emoji": "🎪",
+      "example_en": "She walked onto the stage to a huge cheer.",
+      "example_th": "เธอเดินขึ้นเวทีท่ามกลางเสียงเชียร์",
+      "cefr": "B1",
+      "note_th": "on stage แปลว่าอยู่บนเวที — คำนี้ยังแปลว่าขั้นตอนหรือช่วงหนึ่งของกระบวนการได้ด้วย",
+      "distractors": [
+        "stadium",
+        "storage",
+        "stack"
+      ]
+    },
+    {
+      "id": "lineup",
+      "word": "lineup",
+      "pos": "noun",
+      "ipa": "/ˈlaɪnʌp/",
+      "reading_th": "ไลน์-อัพ",
+      "meaning_th": "รายชื่อศิลปินที่จะขึ้นแสดง",
+      "emoji": "📃",
+      "example_en": "They announced the festival lineup today.",
+      "example_th": "วันนี้ประกาศรายชื่อศิลปินของเทศกาลแล้ว",
+      "cefr": "B2",
+      "note_th": "lineup ใช้กับรายชื่อศิลปินและรายชื่อผู้เล่นในทีมกีฬาได้เหมือนกัน",
+      "distractors": [
+        "linen",
+        "line-out",
+        "lining"
+      ]
+    },
+    {
+      "id": "opening_act",
+      "word": "opening act",
+      "pos": "noun",
+      "ipa": "/ˈoʊpənɪŋ ækt/",
+      "reading_th": "โอ-เพิ่น-นิ่ง แอคท์",
+      "meaning_th": "วงเปิด ศิลปินที่เล่นก่อนวงหลัก",
+      "emoji": "🎫",
+      "example_en": "The opening act was better than the main band.",
+      "example_th": "วงเปิดเล่นดีกว่าวงหลักอีก",
+      "cefr": "B2",
+      "note_th": "วงหลักเรียก headliner หรือ main act ส่วนวงเปิดเรียก opening act หรือ support act",
+      "distractors": [
+        "opening fact",
+        "opening hours",
+        "opening pact"
+      ]
+    },
+    {
+      "id": "sound_check",
+      "word": "sound check",
+      "pos": "noun",
+      "ipa": "/saʊnd tʃek/",
+      "reading_th": "ซาวด์ เช็ค",
+      "meaning_th": "การทดสอบเสียงก่อนแสดง",
+      "emoji": "🎚️",
+      "example_en": "The sound check took longer than the show.",
+      "example_th": "เช็กเสียงนานกว่าตัวโชว์อีก",
+      "cefr": "B2",
+      "note_th": "ใช้กริยา do a sound check — ก่อนขึ้นเวทีจริงทุกวงต้องเช็กเสียงกับทีมงานก่อน",
+      "distractors": [
+        "sound chest",
+        "soundtrack",
+        "round check"
+      ]
+    },
+    {
+      "id": "backstage",
+      "word": "backstage",
+      "pos": "noun",
+      "ipa": "/ˌbækˈsteɪdʒ/",
+      "reading_th": "แบ็ค-สเตจ",
+      "meaning_th": "หลังเวที",
+      "emoji": "🚪",
+      "example_en": "Only staff can go backstage.",
+      "example_th": "เฉพาะทีมงานเท่านั้นที่เข้าหลังเวทีได้",
+      "cefr": "B2",
+      "note_th": "บัตรที่เข้าหลังเวทีได้เรียก backstage pass — เป็นได้ทั้งคำนามและคำวิเศษณ์",
+      "distractors": [
+        "backpack",
+        "backyard",
+        "backspace"
+      ]
+    },
+    {
+      "id": "encore",
+      "word": "encore",
+      "pos": "noun",
+      "ipa": "/ˈɑːŋkɔːr/",
+      "reading_th": "อ็อง-คอร์",
+      "meaning_th": "เพลงพิเศษที่เล่นเพิ่มตอนท้าย",
+      "emoji": "👏",
+      "example_en": "The crowd shouted until they played an encore.",
+      "example_th": "คนดูตะโกนจนวงกลับมาเล่นเพลงพิเศษ",
+      "cefr": "B2",
+      "note_th": "ยืมจากภาษาฝรั่งเศส อ่าน อ็อง-คอร์ ตัว e ตัวแรกไม่ออกเสียงเป็น เอ็น",
+      "distractors": [
+        "encode",
+        "income",
+        "anchor"
+      ]
+    },
+    {
+      "id": "fan",
+      "word": "fan",
+      "pos": "noun",
+      "ipa": "/fæn/",
+      "reading_th": "แฟน",
+      "meaning_th": "แฟนคลับ คนที่ชื่นชอบ",
+      "emoji": "🙌",
+      "example_en": "I have been a fan since their first album.",
+      "example_th": "เราเป็นแฟนคลับตั้งแต่อัลบั้มแรกเลย",
+      "cefr": "A2",
+      "note_th": "fan ในภาษาอังกฤษแปลว่าคนที่ชื่นชอบ ไม่ได้แปลว่าคนรักแบบที่คนไทยใช้ — และยังแปลว่าพัดลมด้วย",
+      "distractors": [
+        "van",
+        "fun",
+        "fang"
+      ]
+    },
+    {
+      "id": "dance_move",
+      "word": "dance move",
+      "pos": "noun",
+      "ipa": "/dæns muːv/",
+      "reading_th": "แดนซ์ มูฟ",
+      "meaning_th": "ท่าเต้น",
+      "emoji": "💃",
+      "example_en": "Everyone copied that dance move online.",
+      "example_th": "ทุกคนเต้นตามท่านั้นกันทั้งเน็ต",
+      "cefr": "B1",
+      "note_th": "ท่าเต้นทั้งเพลงเรียก choreography ย่อว่า choreo ส่วนท่าเดียวเรียก move",
+      "distractors": [
+        "dance movie",
+        "dance mood",
+        "chance move"
+      ]
+    },
+    {
+      "id": "music_video",
+      "word": "music video",
+      "pos": "noun",
+      "ipa": "/ˈmjuːzɪk ˈvɪdioʊ/",
+      "reading_th": "มิว-สิค วิ-ดี-โอ",
+      "meaning_th": "มิวสิกวิดีโอ",
+      "emoji": "📹",
+      "example_en": "The music video was filmed in one take.",
+      "example_th": "มิวสิกวิดีโอถ่ายรวดเดียวจบในเทคเดียว",
+      "cefr": "A2",
+      "note_th": "ย่อว่า MV ซึ่งคนเอเชียใช้กันทั่วไป ส่วนฝรั่งมักพูดเต็มว่า music video",
+      "distractors": [
+        "music studio",
+        "magic video",
+        "music vinyl"
+      ]
+    },
+    {
+      "id": "award",
+      "word": "award",
+      "pos": "noun",
+      "ipa": "/əˈwɔːrd/",
+      "reading_th": "อะ-วอร์ด",
+      "meaning_th": "รางวัล",
+      "emoji": "🏆",
+      "example_en": "The film took home four awards.",
+      "example_th": "หนังเรื่องนี้คว้าไปสี่รางวัล",
+      "cefr": "B1",
+      "note_th": "award คือรางวัลที่คณะกรรมการมอบให้ ส่วน prize มักเป็นของรางวัลจากการแข่งขันหรือจับฉลาก",
+      "distractors": [
+        "awkward",
+        "aboard",
+        "reward"
+      ]
+    },
+    {
+      "id": "nominate",
+      "word": "nominate",
+      "pos": "verb",
+      "ipa": "/ˈnɑːmɪneɪt/",
+      "reading_th": "นอ-มิ-เนท",
+      "meaning_th": "เสนอชื่อเข้าชิงรางวัล",
+      "emoji": "📣",
+      "example_en": "They nominate five films in each category.",
+      "example_th": "แต่ละสาขาจะเสนอชื่อเข้าชิงห้าเรื่อง",
+      "cefr": "B2",
+      "note_th": "คำนามคือ nomination ส่วนคนที่ถูกเสนอชื่อเรียก nominee",
+      "distractors": [
+        "dominate",
+        "nominal",
+        "eliminate"
+      ]
+    },
+    {
+      "id": "red_carpet",
+      "word": "red carpet",
+      "pos": "noun",
+      "ipa": "/red ˈkɑːrpɪt/",
+      "reading_th": "เรด คาร์-เพ็ท",
+      "meaning_th": "พรมแดง",
+      "emoji": "🧣",
+      "example_en": "She wore a green dress on the red carpet.",
+      "example_th": "เธอใส่ชุดสีเขียวเดินพรมแดง",
+      "cefr": "B2",
+      "note_th": "สำนวน roll out the red carpet แปลว่าต้อนรับอย่างสมเกียรติ ใช้นอกวงการบันเทิงได้ด้วย",
+      "distractors": [
+        "red carport",
+        "read carpet",
+        "red cabinet"
+      ]
+    },
+    {
+      "id": "celebrity",
+      "word": "celebrity",
+      "pos": "noun",
+      "ipa": "/səˈlebrəti/",
+      "reading_th": "เซ-เล็บ-ริ-ตี้",
+      "meaning_th": "คนดัง",
+      "emoji": "🕶️",
+      "example_en": "Every celebrity at the party arrived late.",
+      "example_th": "คนดังทุกคนในงานมาสายหมด",
+      "cefr": "B2",
+      "note_th": "ย่อว่า celeb ในภาษาพูด — คนไทยเรียกทับศัพท์ว่าเซเลบ ตรงกับคำย่อนี้พอดี",
+      "distractors": [
+        "celebration",
+        "cemetery",
+        "security"
+      ]
+    },
+    {
+      "id": "idol",
+      "word": "idol",
+      "pos": "noun",
+      "ipa": "/ˈaɪdl/",
+      "reading_th": "ไอ-ดอล",
+      "meaning_th": "ไอดอล ศิลปินที่แฟนคลับเทิดทูน",
+      "emoji": "🌟",
+      "example_en": "She met her idol for thirty seconds.",
+      "example_th": "เธอได้เจอไอดอลของตัวเองสามสิบวินาที",
+      "cefr": "B2",
+      "note_th": "ออกเสียง ไอ-เดิ่ล ไม่ใช่ ไอ-ดอล แบบไทย — อย่าสับสนกับ ideal ที่แปลว่าสมบูรณ์แบบ",
+      "distractors": [
+        "ideal",
+        "idle",
+        "island"
+      ]
+    },
+    {
+      "id": "debut",
+      "word": "debut",
+      "pos": "noun",
+      "ipa": "/deɪˈbjuː/",
+      "reading_th": "เด-บิว",
+      "meaning_th": "การเปิดตัวครั้งแรก",
+      "emoji": "🎉",
+      "example_en": "Their debut sold out in one minute.",
+      "example_th": "งานเปิดตัวของพวกเขาบัตรหมดในหนึ่งนาที",
+      "cefr": "B2",
+      "note_th": "ยืมจากภาษาฝรั่งเศส ตัว t ท้ายไม่ออกเสียง อ่าน เด-บิว ไม่ใช่ เด-บัท",
+      "distractors": [
+        "debate",
+        "debit",
+        "detour"
+      ]
+    },
+    {
+      "id": "comeback",
+      "word": "comeback",
+      "pos": "noun",
+      "ipa": "/ˈkʌmbæk/",
+      "reading_th": "คัม-แบ็ค",
+      "meaning_th": "การกลับมาของศิลปินพร้อมผลงานใหม่",
+      "emoji": "🔙",
+      "example_en": "Fans waited three years for the comeback.",
+      "example_th": "แฟนคลับรอการกลับมาสามปี",
+      "cefr": "B2",
+      "note_th": "comeback เขียนติดกันเป็นคำนาม ส่วน come back แยกคำเป็นกริยาแปลว่ากลับมา",
+      "distractors": [
+        "come back",
+        "cutback",
+        "comeback kid"
+      ]
+    },
+    {
+      "id": "fandom",
+      "word": "fandom",
+      "pos": "noun",
+      "ipa": "/ˈfændəm/",
+      "reading_th": "แฟน-ดอม",
+      "meaning_th": "กลุ่มแฟนคลับทั้งหมดรวมกัน",
+      "emoji": "🌈",
+      "example_en": "The fandom raised money for a charity.",
+      "example_th": "กลุ่มแฟนคลับรวมเงินบริจาคให้การกุศล",
+      "cefr": "B2",
+      "note_th": "ปัจจัย -dom บอกความเป็นอาณาจักรหรือกลุ่มก้อน เหมือน kingdom, freedom",
+      "distractors": [
+        "random",
+        "freedom",
+        "fanfare"
+      ]
+    },
+    {
+      "id": "fanclub",
+      "word": "fan club",
+      "pos": "noun",
+      "ipa": "/fæn klʌb/",
+      "reading_th": "แฟน คลับ",
+      "meaning_th": "ชมรมแฟนคลับที่มีสมาชิก",
+      "emoji": "🎗️",
+      "example_en": "The fan club gets tickets one day early.",
+      "example_th": "สมาชิกแฟนคลับได้ซื้อบัตรก่อนหนึ่งวัน",
+      "cefr": "B1",
+      "note_th": "fan club คือชมรมที่สมัครสมาชิกได้ ส่วน fandom คือกลุ่มแฟนทั้งหมดที่ไม่ต้องสมัคร",
+      "distractors": [
+        "fan cup",
+        "van club",
+        "fun club"
+      ]
+    },
+    {
+      "id": "merch",
+      "word": "merch",
+      "pos": "noun",
+      "ipa": "/mɜːrtʃ/",
+      "reading_th": "เมิร์ช",
+      "meaning_th": "สินค้าที่ระลึกของศิลปิน",
+      "emoji": "👕",
+      "example_en": "The merch line was longer than the entrance.",
+      "example_th": "คิวซื้อของที่ระลึกยาวกว่าคิวเข้างานอีก",
+      "cefr": "B2",
+      "note_th": "merch ย่อจาก merchandise ใช้ในภาษาพูด — คนไทยเรียกทับศัพท์ว่าเมิร์ชเหมือนกัน",
+      "distractors": [
+        "march",
+        "merge",
+        "match"
+      ]
+    },
+    {
+      "id": "autograph",
+      "word": "autograph",
+      "pos": "noun",
+      "ipa": "/ˈɔːtəɡræf/",
+      "reading_th": "ออ-โต-กราฟ",
+      "meaning_th": "ลายเซ็นของคนดัง",
+      "emoji": "✒️",
+      "example_en": "He got an autograph on his ticket.",
+      "example_th": "เขาขอลายเซ็นบนตั๋วของตัวเอง",
+      "cefr": "B2",
+      "note_th": "autograph คือลายเซ็นคนดังที่ขอไว้เป็นที่ระลึก ส่วน signature คือลายเซ็นในเอกสาร",
+      "distractors": [
+        "autopilot",
+        "photograph",
+        "paragraph"
+      ]
+    },
+    {
+      "id": "theme_song",
+      "word": "theme song",
+      "pos": "noun",
+      "ipa": "/θiːm sɔːŋ/",
+      "reading_th": "ธีม ซอง",
+      "meaning_th": "เพลงหลักประจำเรื่อง",
+      "emoji": "🎼",
+      "example_en": "I can hum the theme song from memory.",
+      "example_th": "เราฮัมเพลงหลักของเรื่องได้ขึ้นใจ",
+      "cefr": "B1",
+      "note_th": "theme ออกเสียง ธีม ด้วยลิ้นแตะฟัน ไม่ใช่ ทีม ที่แปลว่าทีมงาน",
+      "distractors": [
+        "team song",
+        "theme park",
+        "theme sign"
+      ]
+    },
+    {
+      "id": "tearjerker",
+      "word": "tearjerker",
+      "pos": "noun",
+      "ipa": "/ˈtɪrdʒɜːrkər/",
+      "reading_th": "เทียร์-เจอร์-เกอร์",
+      "meaning_th": "หนังเรียกน้ำตา",
+      "emoji": "😭",
+      "example_en": "Bring tissues, it is a real tearjerker.",
+      "example_th": "พกทิชชู่ไปด้วย เรื่องนี้เรียกน้ำตาของจริง",
+      "cefr": "B2",
+      "note_th": "tear ในที่นี้อ่าน เทียร์ แปลว่าน้ำตา ถ้าอ่าน แทร์ จะแปลว่าฉีกขาด สะกดเหมือนกันเป๊ะ",
+      "distractors": [
+        "teamworker",
+        "tearoom",
+        "tear jerk"
+      ]
+    },
+    {
+      "id": "must_watch",
+      "word": "must-watch",
+      "pos": "adjective",
+      "ipa": "/mʌst wɑːtʃ/",
+      "reading_th": "มัสท์-วอทช์",
+      "meaning_th": "ที่ควรดูให้ได้",
+      "emoji": "✅",
+      "example_en": "This documentary is a must-watch.",
+      "example_th": "สารคดีเรื่องนี้ควรดูให้ได้สักครั้ง",
+      "cefr": "B2",
+      "note_th": "สร้างคำแบบเดียวกันได้อีก เช่น must-read, must-try, must-have แปลว่าห้ามพลาด",
+      "distractors": [
+        "most-watch",
+        "must-watched",
+        "must-match"
+      ]
+    }
+  ]
+}

@@ -28,6 +28,8 @@
   <url><loc>https://junypop.com/quiz/social_media/</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
   <url><loc>https://junypop.com/w/love/</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
   <url><loc>https://junypop.com/quiz/love/</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
+  <url><loc>https://junypop.com/w/entertainment/</loc><lastmod>2026-09-24</lastmod><priority>0.8</priority></url>
+  <url><loc>https://junypop.com/quiz/entertainment/</loc><lastmod>2026-09-24</lastmod><priority>0.7</priority></url>
   <url><loc>https://junypop.com/word/kitchen/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/bedroom/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/bathroom/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
@@ -1299,4 +1301,102 @@
   <url><loc>https://junypop.com/word/take_it_slow/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/self_love/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/single_life/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cinema/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/box_office/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/showtime/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sold_out/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/front_row/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/popcorn/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/trailer/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/premiere/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/blockbuster/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sequel/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dubbed/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/opening_credits/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/end_credits/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/spoiler/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/comedy/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/drama/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/romance/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/thriller/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sci_fi/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fantasy/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mystery/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/superhero/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/animation/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/documentary/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/based_on_true_story/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/plot/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/plot_twist/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/main_character/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/director/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/actor/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/actress/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/audition/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/script/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/scene/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/take/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/costume/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/makeup_artist/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/special_effects/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/stunt/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/soundtrack/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/behind_the_scenes/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/wrap/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/series/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/episode/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/season/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/streaming/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/subscription/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/watchlist/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/binge_watch/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/marathon/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cliffhanger/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/finale/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/spin_off/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/recap/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/rewatch/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/plot_hole/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/song/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/lyrics/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/melody/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/chorus/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/beat/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/tune/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/catchy/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/hit_song/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/on_repeat/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cover_song/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/remix/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/instrumental/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/karaoke/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sing_along/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/band/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/singer/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/guitarist/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/drummer/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/concert/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/stage/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/lineup/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/opening_act/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sound_check/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/backstage/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/encore/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fan/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dance_move/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/music_video/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/award/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/nominate/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/red_carpet/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/celebrity/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/idol/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/debut/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/comeback/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fandom/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fanclub/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/merch/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/autograph/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/theme_song/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/tearjerker/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/must_watch/</loc><lastmod>2026-09-24</lastmod><priority>0.6</priority></url>
 </urlset>

@@ -145,14 +145,14 @@
     },
     {
       "id": "entertainment",
+      "file": "entertainment.json",
       "name_en": "Movies & Music",
       "name_th": "หนังและเพลง",
       "emoji": "🎬",
       "color_start": "#E879F9",
       "color_end": "#C026D3",
-      "available": false,
-      "mascot_costume": "popstar",
-      "description_th": "ดูหนัง ฟังเพลง คอนเสิร์ต และซีรีส์"
+      "available": true,
+      "image": "worlds/entertainment.webp"
     },
     {
       "id": "sports",
