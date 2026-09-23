@@ -1,0 +1,21 @@
+{
+  "_comment": "หอคอยศัพท์ seasons: a season is a Bangkok calendar quarter. Names cycle by quarter; the number keeps counting (season 0 = Jul–Sep 2026 = prologue). Edit names/colours here, never in Dart.",
+  "prologue": { "nameTh": "ปฐมบท", "emoji": "🌱", "color": "#4B5563", "colorEnd": "#1F2937" },
+  "quarters": [
+    { "quarter": 1, "nameTh": "แสงใหม่", "emoji": "🌅", "color": "#B45309", "colorEnd": "#F59E0B" },
+    { "quarter": 2, "nameTh": "ไฟร้อน", "emoji": "🔥", "color": "#9F1239", "colorEnd": "#F97316" },
+    { "quarter": 3, "nameTh": "สายฝน", "emoji": "🌧️", "color": "#4C1D95", "colorEnd": "#2563EB" },
+    { "quarter": 4, "nameTh": "ลมหนาว", "emoji": "❄️", "color": "#1E3A8A", "colorEnd": "#0E7490" }
+  ],
+  "rewards": [
+    { "emoji": "👑", "title": "จ้าวหอคอย {tag}", "who": "อันดับ 1" },
+    { "emoji": "🏅", "title": "ท็อป 10", "who": "ฉายาถาวร" },
+    { "emoji": "🎖️", "title": "ท็อป 100", "who": "กรอบอวาตาร์" }
+  ],
+  "rules": [
+    "ซีซั่นละ 3 เดือน จบแล้วรีแรงค์ ทุกคนกลับไปเริ่มชั้น 1 พร้อมกัน",
+    "อันดับดูจาก ชั้นสูงสุด → คะแนนรวม → ใครถึงก่อน",
+    "วันสุดท้ายของซีซั่น อันดับจะถูกล็อกและแจกฉายาถาวรที่ติดโปรไฟล์ตลอดไป",
+    "ชั้นและคำที่เรียนไปไม่หาย หายแค่อันดับ"
+  ]
+}
