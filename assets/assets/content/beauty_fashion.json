@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "beauty_fashion",
+    "name_en": "Beauty & Fashion",
+    "name_th": "ความงามและแฟชั่น",
+    "emoji": "💄",
+    "color_start": "#D8B4FE",
+    "color_end": "#7E22CE",
+    "description_th": "เสื้อผ้า เครื่องประดับ แต่งหน้า ดูแลผิว ทำผมทำเล็บ ไปจนถึงศัพท์ในร้านและบนรันเวย์",
+    "mascot_costume": "stylist",
+    "lessons": [
+      {
+        "id": "beauty_fashion_1",
+        "title_en": "Clothes & Fit",
+        "title_th": "เสื้อผ้าและทรง",
+        "emoji": "👗",
+        "word_ids": [
+          "outfit",
+          "closet",
+          "trendy",
+          "vintage",
+          "oversized",
+          "fitted",
+          "sleeve",
+          "collar",
+          "zipper",
+          "hem",
+          "fabric",
+          "denim",
+          "silk",
+          "leather"
+        ]
+      },
+      {
+        "id": "beauty_fashion_2",
+        "title_en": "Patterns & Style",
+        "title_th": "ลวดลายและสไตล์",
+        "emoji": "✨",
+        "word_ids": [
+          "striped",
+          "floral",
+          "pastel",
+          "elegant",
+          "glamorous",
+          "minimal",
+          "bold",
+          "matching",
+          "accessorize",
+          "collection",
+          "designer",
+          "fashion_show",
+          "runway",
+          "mannequin"
+        ]
+      },
+      {
+        "id": "beauty_fashion_3",
+        "title_en": "Accessories & Shoes",
+        "title_th": "เครื่องประดับและรองเท้า",
+        "emoji": "👜",
+        "word_ids": [
+          "earrings",
+          "necklace",
+          "bracelet",
+          "scarf",
+          "handbag",
+          "tote_bag",
+          "wristwatch",
+          "heels",
+          "sneakers",
+          "sandals",
+          "flip_flops",
+          "boots",
+          "cap",
+          "full_length_mirror"
+        ]
+      },
+      {
+        "id": "beauty_fashion_4",
+        "title_en": "Makeup",
+        "title_th": "แต่งหน้า",
+        "emoji": "💋",
+        "word_ids": [
+          "makeup",
+          "foundation",
+          "concealer",
+          "contour",
+          "cheek_tint",
+          "mascara",
+          "eyeliner",
+          "eyeshadow",
+          "brow_pencil",
+          "lipstick",
+          "lip_gloss",
+          "lip_balm",
+          "palette",
+          "makeup_remover"
+        ]
+      },
+      {
+        "id": "beauty_fashion_5",
+        "title_en": "Skincare",
+        "title_th": "ดูแลผิว",
+        "emoji": "🧴",
+        "word_ids": [
+          "skincare",
+          "cleanser",
+          "toner",
+          "moisturizer",
+          "serum",
+          "primer",
+          "powder",
+          "sheet_mask",
+          "uv_protection",
+          "acne",
+          "pores",
+          "wrinkle",
+          "oily_skin",
+          "glow"
+        ]
+      },
+      {
+        "id": "beauty_fashion_6",
+        "title_en": "Hair & Nails",
+        "title_th": "ผมและเล็บ",
+        "emoji": "💇",
+        "word_ids": [
+          "haircut",
+          "trim",
+          "bangs",
+          "ponytail",
+          "braid",
+          "curl",
+          "straighten",
+          "straightener",
+          "dye",
+          "highlights",
+          "conditioner",
+          "hair_tie",
+          "nail_polish",
+          "manicure"
+        ]
+      },
+      {
+        "id": "beauty_fashion_7",
+        "title_en": "At the Salon & Shop",
+        "title_th": "ที่ร้านเสริมสวยและร้านเสื้อ",
+        "emoji": "💅",
+        "word_ids": [
+          "salon",
+          "stylist",
+          "pedicure",
+          "tailor",
+          "alteration",
+          "measurement",
+          "natural_look",
+          "bare_face",
+          "whitening",
+          "anti_aging",
+          "freckles",
+          "eyebrow",
+          "eyelash",
+          "perfume"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "outfit",
+      "word": "outfit",
+      "pos": "noun",
+      "ipa": "/ˈaʊtfɪt/",
+      "reading_th": "เอาท์-ฟิท",
+      "meaning_th": "ชุดที่ใส่ทั้งเซ็ต",
+      "emoji": "👗",
+      "example_en": "That outfit looks great on you.",
+      "example_th": "ชุดนั้นใส่แล้วดูดีมาก",
+      "cefr": "B1",
+      "note_th": "หมายถึงทั้งชุดที่ใส่ในวันนั้น ไม่ใช่เสื้อตัวเดียว — OOTD ย่อมาจาก outfit of the day",
+      "distractors": [
+        "output",
+        "outlet",
+        "offside"
+      ]
+    },
+    {
+      "id": "closet",
+      "word": "closet",
+      "pos": "noun",
+      "ipa": "/ˈklɒzɪt/",
+      "reading_th": "คลอส-เซ็ท",
+      "meaning_th": "ตู้เสื้อผ้า",
+      "emoji": "🚪",
+      "example_en": "My closet is full but I have nothing to wear.",
+      "example_th": "ตู้เสื้อผ้าเต็มแต่ไม่มีอะไรจะใส่",
+      "cefr": "B1",
+      "note_th": "อเมริกันใช้ closet ส่วนอังกฤษใช้ wardrobe",
+      "distractors": [
+        "classic",
+        "cloth",
+        "collect"
+      ]
+    },
+    {
+      "id": "trendy",
+      "word": "trendy",
+      "pos": "adjective",
+      "ipa": "/ˈtrendi/",
+      "reading_th": "เทรน-ดี",
+      "meaning_th": "ทันสมัยตามกระแส",
+      "emoji": "🔥",
+      "example_en": "That cafe is very trendy right now.",
+      "example_th": "ร้านคาเฟ่นั้นกำลังฮิตสุด ๆ ตอนนี้",
+      "cefr": "B1",
+      "note_th": "ถ้าอยากชมว่าดูดีแบบไม่ตกยุคใช้ stylish จะฟังดูมีรสนิยมกว่า",
+      "distractors": [
+        "trainee",
+        "friendly",
+        "tragedy"
+      ]
+    },
+    {
+      "id": "vintage",
+      "word": "vintage",
+      "pos": "adjective",
+      "ipa": "/ˈvɪntɪdʒ/",
+      "reading_th": "วิน-ทิจ",
+      "meaning_th": "สไตล์ย้อนยุคที่มีเสน่ห์",
+      "emoji": "🕰️",
+      "example_en": "She collects vintage dresses.",
+      "example_th": "เธอสะสมชุดสไตล์ย้อนยุค",
+      "cefr": "B2",
+      "note_th": "ต่างจาก old ตรงที่ vintage แปลว่าเก่าอย่างมีคุณค่า ไม่ใช่เก่าโทรม",
+      "distractors": [
+        "village",
+        "vantage",
+        "vanilla"
+      ]
+    },
+    {
+      "id": "oversized",
+      "word": "oversized",
+      "pos": "adjective",
+      "ipa": "/ˈəʊvəsaɪzd/",
+      "reading_th": "โอ-เวอร์-ไซซด์",
+      "meaning_th": "ทรงหลวมใหญ่กว่าตัว",
+      "emoji": "🧥",
+      "example_en": "He wore an oversized hoodie.",
+      "example_th": "เขาใส่ฮู้ดตัวโคร่ง",
+      "cefr": "B1",
+      "note_th": "คนไทยเรียก 'ตัวโคร่ง' — เป็นทรงที่ตั้งใจให้ใหญ่ ไม่ใช่ใส่ผิดไซซ์",
+      "distractors": [
+        "overpriced",
+        "overnight",
+        "overseas"
+      ]
+    },
+    {
+      "id": "fitted",
+      "word": "fitted",
+      "pos": "adjective",
+      "ipa": "/ˈfɪtɪd/",
+      "reading_th": "ฟิท-ทิด",
+      "meaning_th": "ทรงเข้ารูป",
+      "emoji": "📏",
+      "example_en": "A fitted shirt looks smarter for work.",
+      "example_th": "เสื้อเชิ้ตทรงเข้ารูปดูเรียบร้อยกว่าเวลาไปทำงาน",
+      "cefr": "B1",
+      "note_th": "ตรงข้ามกับ loose (หลวม) — ร้านฝรั่งเรียกทรงนี้ว่า slim fit ก็ได้",
+      "distractors": [
+        "fitting",
+        "fighting",
+        "fated"
+      ]
+    },
+    {
+      "id": "sleeve",
+      "word": "sleeve",
+      "pos": "noun",
+      "ipa": "/sliːv/",
+      "reading_th": "สลีฟ",
+      "meaning_th": "แขนเสื้อ",
+      "emoji": "👕",
+      "example_en": "This shirt has short sleeves.",
+      "example_th": "เสื้อตัวนี้เป็นแขนสั้น",
+      "cefr": "A2",
+      "note_th": "sleeveless = แขนกุด ส่วน long-sleeved = แขนยาว",
+      "distractors": [
+        "sleep",
+        "slice",
+        "sleeve note"
+      ]
+    },
+    {
+      "id": "collar",
+      "word": "collar",
+      "pos": "noun",
+      "ipa": "/ˈkɒlə/",
+      "reading_th": "คอล-ลาร์",
+      "meaning_th": "ปกเสื้อ",
+      "emoji": "👔",
+      "example_en": "Iron the collar carefully.",
+      "example_th": "รีดปกเสื้อให้เรียบ ๆ",
+      "cefr": "B1",
+      "note_th": "white-collar และ blue-collar ใช้เรียกงานออฟฟิศกับงานใช้แรงงาน",
+      "distractors": [
+        "colour",
+        "caller",
+        "cellar"
+      ]
+    },
+    {
+      "id": "zipper",
+      "word": "zipper",
+      "pos": "noun",
+      "ipa": "/ˈzɪpə/",
+      "reading_th": "ซิพ-เพอร์",
+      "meaning_th": "ซิป",
+      "emoji": "🧵",
+      "example_en": "The zipper on my bag is broken.",
+      "example_th": "ซิปกระเป๋าฉันพัง",
+      "cefr": "A2",
+      "note_th": "อังกฤษแบบอังกฤษเรียกสั้น ๆ ว่า zip",
+      "distractors": [
+        "slipper",
+        "zebra",
+        "dipper"
+      ]
+    },
+    {
+      "id": "hem",
+      "word": "hem",
+      "pos": "noun",
+      "ipa": "/hem/",
+      "reading_th": "เฮ็ม",
+      "meaning_th": "ชายเสื้อหรือชายกระโปรงที่เย็บพับไว้",
+      "emoji": "✂️",
+      "example_en": "The hem of these jeans is too long.",
+      "example_th": "ชายกางเกงยีนส์ตัวนี้ยาวเกินไป",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาได้ด้วย: hem the trousers = เย็บเก็บชายกางเกง",
+      "distractors": [
+        "him",
+        "ham",
+        "hen"
+      ]
+    },
+    {
+      "id": "fabric",
+      "word": "fabric",
+      "pos": "noun",
+      "ipa": "/ˈfæbrɪk/",
+      "reading_th": "แฟบ-ริค",
+      "meaning_th": "เนื้อผ้า",
+      "emoji": "🧶",
+      "example_en": "This fabric feels soft and cool.",
+      "example_th": "เนื้อผ้านี้สัมผัสนุ่มและเย็นสบาย",
+      "cefr": "B1",
+      "note_th": "เป็นคำนามนับไม่ได้เวลาพูดถึงเนื้อผ้าโดยรวม",
+      "distractors": [
+        "factory",
+        "fabulous",
+        "flexible"
+      ]
+    },
+    {
+      "id": "denim",
+      "word": "denim",
+      "pos": "noun",
+      "ipa": "/ˈdenɪm/",
+      "reading_th": "เดน-นิม",
+      "meaning_th": "ผ้ายีนส์",
+      "emoji": "👖",
+      "example_en": "A denim jacket goes with everything.",
+      "example_th": "แจ็คเก็ตยีนส์ใส่กับอะไรก็เข้า",
+      "cefr": "B1",
+      "note_th": "denim คือชื่อผ้า ส่วน jeans คือกางเกงที่ทำจากผ้านี้",
+      "distractors": [
+        "dennim",
+        "devil",
+        "demand"
+      ]
+    },
+    {
+      "id": "silk",
+      "word": "silk",
+      "pos": "noun",
+      "ipa": "/sɪlk/",
+      "reading_th": "ซิลค์",
+      "meaning_th": "ผ้าไหม",
+      "emoji": "🪡",
+      "example_en": "Thai silk is famous around the world.",
+      "example_th": "ผ้าไหมไทยมีชื่อเสียงไปทั่วโลก",
+      "cefr": "B1",
+      "note_th": "สำนวน smooth as silk = นุ่มลื่นไม่มีสะดุด",
+      "distractors": [
+        "silver",
+        "milk",
+        "sink"
+      ]
+    },
+    {
+      "id": "leather",
+      "word": "leather",
+      "pos": "noun",
+      "ipa": "/ˈleðə/",
+      "reading_th": "เลธ-เธอร์",
+      "meaning_th": "หนังสัตว์ที่ใช้ทำของ",
+      "emoji": "🥾",
+      "example_en": "She bought a leather belt.",
+      "example_th": "เธอซื้อเข็มขัดหนัง",
+      "cefr": "B1",
+      "note_th": "ออกเสียง เลธ-เธอร์ อย่าสับสนกับ weather และ feather ที่สัมผัสกัน",
+      "distractors": [
+        "weather",
+        "feather",
+        "letter"
+      ]
+    },
+    {
+      "id": "striped",
+      "word": "striped",
+      "pos": "adjective",
+      "ipa": "/straɪpt/",
+      "reading_th": "สไตรพท์",
+      "meaning_th": "ลายทาง",
+      "emoji": "🦓",
+      "example_en": "He always wears striped shirts.",
+      "example_th": "เขาใส่เสื้อลายทางตลอด",
+      "cefr": "B1",
+      "note_th": "ลายจุดคือ polka dot ส่วนลายสก็อตคือ plaid",
+      "distractors": [
+        "stripped",
+        "striking",
+        "stirred"
+      ]
+    },
+    {
+      "id": "floral",
+      "word": "floral",
+      "pos": "adjective",
+      "ipa": "/ˈflɔːrəl/",
+      "reading_th": "ฟลอ-เริล",
+      "meaning_th": "ลายดอกไม้",
+      "emoji": "🌸",
+      "example_en": "A floral dress is perfect for summer.",
+      "example_th": "ชุดลายดอกเหมาะกับหน้าร้อนมาก",
+      "cefr": "B2",
+      "note_th": "มาจาก flora ที่แปลว่าพืชพรรณ ใช้กับกลิ่นน้ำหอมได้ด้วย",
+      "distractors": [
+        "flooring",
+        "flavour",
+        "formal"
+      ]
+    },
+    {
+      "id": "pastel",
+      "word": "pastel",
+      "pos": "adjective",
+      "ipa": "/ˈpæstl/",
+      "reading_th": "พาส-เทล",
+      "meaning_th": "สีอ่อนหวานนุ่มตา",
+      "emoji": "🎨",
+      "example_en": "Pastel colours are popular this season.",
+      "example_th": "สีพาสเทลกำลังฮิตในซีซั่นนี้",
+      "cefr": "B2",
+      "note_th": "สีตรงข้ามคือ neon หรือ vivid ที่สดจัดจ้าน",
+      "distractors": [
+        "pasta",
+        "postal",
+        "pistol"
+      ]
+    },
+    {
+      "id": "elegant",
+      "word": "elegant",
+      "pos": "adjective",
+      "ipa": "/ˈelɪɡənt/",
+      "reading_th": "เอ-ลิ-เกินท์",
+      "meaning_th": "ดูหรูเรียบและมีรสนิยม",
+      "emoji": "🤍",
+      "example_en": "She looked elegant in a simple black dress.",
+      "example_th": "เธอดูหรูเรียบในชุดดำเรียบง่าย",
+      "cefr": "B2",
+      "note_th": "เป็นคำชมที่ปลอดภัยและสุภาพที่สุดคำหนึ่งในภาษาอังกฤษ",
+      "distractors": [
+        "elephant",
+        "eloquent",
+        "elegance"
+      ]
+    },
+    {
+      "id": "glamorous",
+      "word": "glamorous",
+      "pos": "adjective",
+      "ipa": "/ˈɡlæmərəs/",
+      "reading_th": "แกลม-เมอ-เริส",
+      "meaning_th": "หรูหราสะดุดตาแบบดารา",
+      "emoji": "💎",
+      "example_en": "The actress wore a glamorous gown.",
+      "example_th": "นักแสดงหญิงใส่ชุดราตรีหรูหรา",
+      "cefr": "B2",
+      "note_th": "คำนามคือ glamour — คนไทยเรียกทับศัพท์ว่า 'แกลม'",
+      "distractors": [
+        "generous",
+        "gracious",
+        "gorgeous"
+      ]
+    },
+    {
+      "id": "minimal",
+      "word": "minimal",
+      "pos": "adjective",
+      "ipa": "/ˈmɪnɪməl/",
+      "reading_th": "มิ-นิ-เมิล",
+      "meaning_th": "เรียบง่ายไม่เยอะ",
+      "emoji": "⚪",
+      "example_en": "I prefer a minimal style with two colours.",
+      "example_th": "ฉันชอบสไตล์เรียบง่ายที่ใช้แค่สองสี",
+      "cefr": "B2",
+      "note_th": "สไตล์นี้ฝรั่งเรียกว่า minimalism ซึ่งเน้นน้อยแต่มาก",
+      "distractors": [
+        "minimum",
+        "criminal",
+        "musical"
+      ]
+    },
+    {
+      "id": "bold",
+      "word": "bold",
+      "pos": "adjective",
+      "ipa": "/bəʊld/",
+      "reading_th": "โบลด์",
+      "meaning_th": "จัดจ้านโดดเด่น กล้าใช้สีหรือทรง",
+      "emoji": "❤️‍🔥",
+      "example_en": "Red lipstick is a bold choice.",
+      "example_th": "ลิปสติกสีแดงเป็นตัวเลือกที่จัดจ้าน",
+      "cefr": "B2",
+      "note_th": "ในโปรแกรมพิมพ์งาน bold แปลว่าตัวหนา มาจากความหมายเดียวกันคือเด่นชัด",
+      "distractors": [
+        "bald",
+        "gold",
+        "board"
+      ]
+    },
+    {
+      "id": "matching",
+      "word": "matching",
+      "pos": "adjective",
+      "ipa": "/ˈmætʃɪŋ/",
+      "reading_th": "แมท-ชิง",
+      "meaning_th": "เข้าชุดกัน",
+      "emoji": "👫",
+      "example_en": "They wore matching jackets.",
+      "example_th": "พวกเขาใส่แจ็คเก็ตเข้าชุดกัน",
+      "cefr": "B1",
+      "note_th": "คู่รักใส่ชุดเข้าคู่กันฝรั่งเรียก matching outfits",
+      "distractors": [
+        "marching",
+        "watching",
+        "catching"
+      ]
+    },
+    {
+      "id": "accessorize",
+      "word": "accessorize",
+      "pos": "verb",
+      "ipa": "/əkˈsesəraɪz/",
+      "reading_th": "แอค-เซส-เซอ-ไรซ์",
+      "meaning_th": "แต่งเติมด้วยเครื่องประดับ",
+      "emoji": "💍",
+      "example_en": "Accessorize the dress with a thin belt.",
+      "example_th": "แต่งชุดเพิ่มด้วยเข็มขัดเส้นเล็ก",
+      "cefr": "B2",
+      "note_th": "มาจาก accessory (เครื่องประดับ) เติม -ize ให้กลายเป็นกริยา",
+      "distractors": [
+        "accommodate",
+        "authorize",
+        "apologize"
+      ]
+    },
+    {
+      "id": "collection",
+      "word": "collection",
+      "pos": "noun",
+      "ipa": "/kəˈlekʃən/",
+      "reading_th": "เคอ-เลค-ชัน",
+      "meaning_th": "คอลเลกชันเสื้อผ้าที่ออกมาเป็นชุด",
+      "emoji": "🗃️",
+      "example_en": "The new collection comes out in March.",
+      "example_th": "คอลเลกชันใหม่ออกเดือนมีนาคม",
+      "cefr": "B1",
+      "note_th": "แบรนด์ออกปีละสองครั้งหลัก ๆ คือ spring/summer และ fall/winter",
+      "distractors": [
+        "correction",
+        "connection",
+        "collision"
+      ]
+    },
+    {
+      "id": "designer",
+      "word": "designer",
+      "pos": "noun",
+      "ipa": "/dɪˈzaɪnə/",
+      "reading_th": "ดิ-ไซ-เนอร์",
+      "meaning_th": "นักออกแบบเสื้อผ้า",
+      "emoji": "✏️",
+      "example_en": "A young designer made this jacket.",
+      "example_th": "นักออกแบบรุ่นใหม่เป็นคนทำแจ็คเก็ตตัวนี้",
+      "cefr": "B1",
+      "note_th": "designer bag = กระเป๋าแบรนด์เนม เพราะออกแบบโดยดีไซเนอร์ชื่อดัง",
+      "distractors": [
+        "designed",
+        "dispenser",
+        "director"
+      ]
+    },
+    {
+      "id": "fashion_show",
+      "word": "fashion show",
+      "pos": "noun",
+      "ipa": "/ˈfæʃən ʃəʊ/",
+      "reading_th": "แฟช-ชัน-โชว์",
+      "meaning_th": "งานแสดงแฟชั่น",
+      "emoji": "🎟️",
+      "example_en": "We got tickets to a fashion show.",
+      "example_th": "เราได้ตั๋วเข้างานแสดงแฟชั่น",
+      "cefr": "A2",
+      "note_th": "ช่วงที่แบรนด์ดังโชว์พร้อมกันเรียก fashion week",
+      "distractors": [
+        "talent show",
+        "fashion sense",
+        "game show"
+      ]
+    },
+    {
+      "id": "runway",
+      "word": "runway",
+      "pos": "noun",
+      "ipa": "/ˈrʌnweɪ/",
+      "reading_th": "รัน-เวย์",
+      "meaning_th": "เวทีทางเดินแบบ",
+      "emoji": "🚶",
+      "example_en": "She walked the runway with confidence.",
+      "example_th": "เธอเดินแบบบนรันเวย์อย่างมั่นใจ",
+      "cefr": "B2",
+      "note_th": "คำเดียวกับทางวิ่งเครื่องบิน — ในวงการแฟชั่นอังกฤษเรียก catwalk",
+      "distractors": [
+        "railway",
+        "roadway",
+        "runaway"
+      ]
+    },
+    {
+      "id": "mannequin",
+      "word": "mannequin",
+      "pos": "noun",
+      "ipa": "/ˈmænɪkɪn/",
+      "reading_th": "แมน-นิ-คิน",
+      "meaning_th": "หุ่นโชว์เสื้อ",
+      "emoji": "🗿",
+      "example_en": "The mannequin in the window wears the new dress.",
+      "example_th": "หุ่นโชว์ที่หน้าร้านใส่ชุดใหม่",
+      "cefr": "B2",
+      "note_th": "มาจากภาษาฝรั่งเศส จึงออกเสียงลงท้ายว่า คิน ไม่ใช่ ควิน",
+      "distractors": [
+        "machine",
+        "magazine",
+        "mandarin"
+      ]
+    },
+    {
+      "id": "earrings",
+      "word": "earrings",
+      "pos": "noun",
+      "ipa": "/ˈɪərɪŋz/",
+      "reading_th": "เอีย-ริงส์",
+      "meaning_th": "ต่างหู",
+      "emoji": "💎",
+      "example_en": "These gold earrings were a gift.",
+      "example_th": "ต่างหูทองคู่นี้เป็นของขวัญ",
+      "cefr": "A2",
+      "note_th": "ปกติใช้รูปพหูพจน์เพราะมีสองข้าง ถ้าข้างเดียวพูดว่า an earring",
+      "distractors": [
+        "evenings",
+        "earphones",
+        "eyelashes"
+      ]
+    },
+    {
+      "id": "necklace",
+      "word": "necklace",
+      "pos": "noun",
+      "ipa": "/ˈnekləs/",
+      "reading_th": "เน็ค-เลิส",
+      "meaning_th": "สร้อยคอ",
+      "emoji": "📿",
+      "example_en": "She wore a silver necklace.",
+      "example_th": "เธอใส่สร้อยคอเงิน",
+      "cefr": "A2",
+      "note_th": "ท้ายคำออกเสียง เลิส ไม่ใช่ เลซ แม้จะสะกด lace",
+      "distractors": [
+        "neckline",
+        "bracelet",
+        "shoelace"
+      ]
+    },
+    {
+      "id": "bracelet",
+      "word": "bracelet",
+      "pos": "noun",
+      "ipa": "/ˈbreɪslət/",
+      "reading_th": "เบรซ-เลิท",
+      "meaning_th": "กำไลข้อมือ",
+      "emoji": "⌚",
+      "example_en": "He gave her a beaded bracelet.",
+      "example_th": "เขาให้กำไลลูกปัดกับเธอ",
+      "cefr": "B1",
+      "note_th": "กำไลข้อเท้าเรียก anklet ใช้หลักการตั้งชื่อเดียวกัน",
+      "distractors": [
+        "breakfast",
+        "brake light",
+        "bracket"
+      ]
+    },
+    {
+      "id": "scarf",
+      "word": "scarf",
+      "pos": "noun",
+      "ipa": "/skɑːf/",
+      "reading_th": "สการ์ฟ",
+      "meaning_th": "ผ้าพันคอ",
+      "emoji": "🧣",
+      "example_en": "Take a scarf, it is cold up north.",
+      "example_th": "เอาผ้าพันคอไปด้วย ทางเหนืออากาศหนาว",
+      "cefr": "A2",
+      "note_th": "พหูพจน์ใช้ได้ทั้ง scarves และ scarfs",
+      "distractors": [
+        "sharp",
+        "shelf",
+        "scared"
+      ]
+    },
+    {
+      "id": "handbag",
+      "word": "handbag",
+      "pos": "noun",
+      "ipa": "/ˈhændbæɡ/",
+      "reading_th": "แฮนด์-แบ็ก",
+      "meaning_th": "กระเป๋าถือ",
+      "emoji": "👛",
+      "example_en": "Her handbag matches her shoes.",
+      "example_th": "กระเป๋าถือของเธอเข้ากับรองเท้า",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียก purse ส่วนอังกฤษ purse แปลว่ากระเป๋าสตางค์",
+      "distractors": [
+        "handmade",
+        "backpack",
+        "handbook"
+      ]
+    },
+    {
+      "id": "tote_bag",
+      "word": "tote bag",
+      "pos": "noun",
+      "ipa": "/təʊt bæɡ/",
+      "reading_th": "โทท-แบ็ก",
+      "meaning_th": "กระเป๋าผ้าใบใหญ่",
+      "emoji": "🛍️",
+      "example_en": "I use a tote bag instead of plastic.",
+      "example_th": "ฉันใช้กระเป๋าผ้าแทนถุงพลาสติก",
+      "cefr": "B1",
+      "note_th": "tote เป็นกริยาแปลว่าหิ้วหรือแบก จึงหมายถึงถุงหิ้วใบใหญ่",
+      "distractors": [
+        "total bag",
+        "tool bag",
+        "tea bag"
+      ]
+    },
+    {
+      "id": "wristwatch",
+      "word": "wristwatch",
+      "pos": "noun",
+      "ipa": "/ˈrɪstwɒtʃ/",
+      "reading_th": "ริสท์-วอทช์",
+      "meaning_th": "นาฬิกาข้อมือ",
+      "emoji": "⌚",
+      "example_en": "His wristwatch is worth more than my car.",
+      "example_th": "นาฬิกาข้อมือของเขาแพงกว่ารถฉันอีก",
+      "cefr": "B1",
+      "note_th": "ตัว w ใน wrist ไม่ออกเสียง อ่านว่า ริสท์",
+      "distractors": [
+        "wristband",
+        "stopwatch",
+        "wrestling"
+      ]
+    },
+    {
+      "id": "heels",
+      "word": "heels",
+      "pos": "noun",
+      "ipa": "/hiːlz/",
+      "reading_th": "ฮีลส์",
+      "meaning_th": "รองเท้าส้นสูง",
+      "emoji": "👠",
+      "example_en": "I cannot walk far in heels.",
+      "example_th": "ฉันใส่ส้นสูงเดินไกลไม่ไหว",
+      "cefr": "B1",
+      "note_th": "เรียกเต็มว่า high heels ส่วน heel เดี่ยว ๆ แปลว่าส้นเท้า",
+      "distractors": [
+        "hills",
+        "heals",
+        "wheels"
+      ]
+    },
+    {
+      "id": "sneakers",
+      "word": "sneakers",
+      "pos": "noun",
+      "ipa": "/ˈsniːkəz/",
+      "reading_th": "สนีก-เกอร์ส",
+      "meaning_th": "รองเท้าผ้าใบ",
+      "emoji": "👟",
+      "example_en": "These sneakers are comfortable for walking.",
+      "example_th": "รองเท้าผ้าใบคู่นี้ใส่เดินสบาย",
+      "cefr": "A2",
+      "note_th": "อังกฤษแบบอังกฤษเรียก trainers",
+      "distractors": [
+        "speakers",
+        "snacks",
+        "slippers"
+      ]
+    },
+    {
+      "id": "sandals",
+      "word": "sandals",
+      "pos": "noun",
+      "ipa": "/ˈsændlz/",
+      "reading_th": "แซน-เดิลส์",
+      "meaning_th": "รองเท้ารัดส้น",
+      "emoji": "🩴",
+      "example_en": "Sandals are fine for the beach.",
+      "example_th": "รองเท้ารัดส้นใส่ไปทะเลได้",
+      "cefr": "A2",
+      "note_th": "ต่างจาก flip-flops ตรงที่ sandals มีสายรัดส้น เดินได้มั่นคงกว่า",
+      "distractors": [
+        "scandals",
+        "candles",
+        "sandwiches"
+      ]
+    },
+    {
+      "id": "flip_flops",
+      "word": "flip-flops",
+      "pos": "noun",
+      "ipa": "/ˈflɪp flɒps/",
+      "reading_th": "ฟลิพ-ฟลอปส์",
+      "meaning_th": "รองเท้าแตะคีบ",
+      "emoji": "🩴",
+      "example_en": "Do not wear flip-flops to the office.",
+      "example_th": "อย่าใส่รองเท้าแตะคีบไปออฟฟิศ",
+      "cefr": "B1",
+      "note_th": "ชื่อมาจากเสียงเวลาเดิน — ออสเตรเลียเรียก thongs",
+      "distractors": [
+        "flip chart",
+        "flap jacks",
+        "flop house"
+      ]
+    },
+    {
+      "id": "boots",
+      "word": "boots",
+      "pos": "noun",
+      "ipa": "/buːts/",
+      "reading_th": "บูทส์",
+      "meaning_th": "รองเท้าบูท",
+      "emoji": "🥾",
+      "example_en": "Wear boots if the ground is muddy.",
+      "example_th": "ถ้าพื้นเป็นโคลนให้ใส่รองเท้าบูท",
+      "cefr": "A2",
+      "note_th": "รองเท้าบูทยางกันฝนเรียก rain boots หรือ wellies ในอังกฤษ",
+      "distractors": [
+        "boats",
+        "booths",
+        "beets"
+      ]
+    },
+    {
+      "id": "cap",
+      "word": "cap",
+      "pos": "noun",
+      "ipa": "/kæp/",
+      "reading_th": "แค็พ",
+      "meaning_th": "หมวกแก๊ป",
+      "emoji": "🧢",
+      "example_en": "He wears a cap to block the sun.",
+      "example_th": "เขาใส่หมวกแก๊ปกันแดด",
+      "cefr": "A2",
+      "note_th": "หมวกมีปีกรอบเรียก hat ส่วนมีปีกด้านหน้าอย่างเดียวเรียก cap",
+      "distractors": [
+        "cup",
+        "cape",
+        "gap"
+      ]
+    },
+    {
+      "id": "full_length_mirror",
+      "word": "full-length mirror",
+      "pos": "noun",
+      "ipa": "/fʊl leŋθ ˈmɪrə/",
+      "reading_th": "ฟูล-เลงธ์-เมีย-เรอร์",
+      "meaning_th": "กระจกเงาเต็มตัว",
+      "emoji": "🪞",
+      "example_en": "Check the outfit in a full-length mirror.",
+      "example_th": "ส่องชุดในกระจกเต็มตัวก่อน",
+      "cefr": "B1",
+      "note_th": "full-length แปลว่าเต็มความยาว ใช้กับหนังยาวเต็มเรื่องก็ได้",
+      "distractors": [
+        "side mirror",
+        "full moon",
+        "rear mirror"
+      ]
+    },
+    {
+      "id": "makeup",
+      "word": "makeup",
+      "pos": "noun",
+      "ipa": "/ˈmeɪkʌp/",
+      "reading_th": "เมค-อัพ",
+      "meaning_th": "เครื่องสำอาง การแต่งหน้า",
+      "emoji": "💄",
+      "example_en": "She does her makeup in ten minutes.",
+      "example_th": "เธอแต่งหน้าเสร็จในสิบนาที",
+      "cefr": "A2",
+      "note_th": "เขียนติดกันเป็นคำนาม ส่วนกริยาเขียนแยกว่า make up",
+      "distractors": [
+        "mockup",
+        "markup",
+        "wake up"
+      ]
+    },
+    {
+      "id": "foundation",
+      "word": "foundation",
+      "pos": "noun",
+      "ipa": "/faʊnˈdeɪʃən/",
+      "reading_th": "ฟาวน์-เด-ชัน",
+      "meaning_th": "รองพื้น",
+      "emoji": "🧴",
+      "example_en": "This foundation matches my skin tone.",
+      "example_th": "รองพื้นตัวนี้เข้ากับสีผิวฉัน",
+      "cefr": "B1",
+      "note_th": "แปลว่ารากฐานของอาคารหรือมูลนิธิได้ด้วย ดูจากบริบท",
+      "distractors": [
+        "fountain",
+        "formation",
+        "fascination"
+      ]
+    },
+    {
+      "id": "concealer",
+      "word": "concealer",
+      "pos": "noun",
+      "ipa": "/kənˈsiːlə/",
+      "reading_th": "เคิน-ซี-เลอร์",
+      "meaning_th": "คอนซีลเลอร์ ใช้ปกปิดรอย",
+      "emoji": "🖌️",
+      "example_en": "A little concealer hides dark circles.",
+      "example_th": "คอนซีลเลอร์นิดเดียวก็ปกปิดรอยคล้ำใต้ตาได้",
+      "cefr": "B2",
+      "note_th": "มาจากกริยา conceal ที่แปลว่าปกปิด",
+      "distractors": [
+        "container",
+        "controller",
+        "counselor"
+      ]
+    },
+    {
+      "id": "contour",
+      "word": "contour",
+      "pos": "noun",
+      "ipa": "/ˈkɒntʊə/",
+      "reading_th": "คอน-ทัวร์",
+      "meaning_th": "การแต่งหน้าให้ดูมีมิติ",
+      "emoji": "🔺",
+      "example_en": "A light contour makes the face look slimmer.",
+      "example_th": "คอนทัวร์บาง ๆ ช่วยให้หน้าดูเรียวขึ้น",
+      "cefr": "B2",
+      "note_th": "คู่กับ highlight ที่ใช้เน้นส่วนที่อยากให้ดูนูนขึ้น",
+      "distractors": [
+        "counter",
+        "contract",
+        "control"
+      ]
+    },
+    {
+      "id": "cheek_tint",
+      "word": "cheek tint",
+      "pos": "noun",
+      "ipa": "/tʃiːk tɪnt/",
+      "reading_th": "ชีค-ทินท์",
+      "meaning_th": "สีแต่งแก้มเนื้อบางเบา",
+      "emoji": "🌷",
+      "example_en": "A cheek tint gives a fresh, natural colour.",
+      "example_th": "สีแต่งแก้มให้สีสดใสดูเป็นธรรมชาติ",
+      "cefr": "B2",
+      "note_th": "tint แปลว่าสีอ่อน ๆ ที่แต่งแต้ม ใช้กับปากได้ด้วย: lip tint",
+      "distractors": [
+        "cheek bone",
+        "chest tint",
+        "check point"
+      ]
+    },
+    {
+      "id": "mascara",
+      "word": "mascara",
+      "pos": "noun",
+      "ipa": "/mæˈskɑːrə/",
+      "reading_th": "แมส-คา-รา",
+      "meaning_th": "มาสคาร่าปัดขนตา",
+      "emoji": "👁️",
+      "example_en": "Waterproof mascara survives the rain.",
+      "example_th": "มาสคาร่ากันน้ำทนฝนได้",
+      "cefr": "B1",
+      "note_th": "ถ้ากันน้ำต้องใช้ makeup remover สูตรน้ำมันถึงจะเช็ดออก",
+      "distractors": [
+        "massacre",
+        "macaron",
+        "mask"
+      ]
+    },
+    {
+      "id": "eyeliner",
+      "word": "eyeliner",
+      "pos": "noun",
+      "ipa": "/ˈaɪlaɪnə/",
+      "reading_th": "อาย-ไล-เนอร์",
+      "meaning_th": "อายไลเนอร์เขียนขอบตา",
+      "emoji": "✒️",
+      "example_en": "Her eyeliner is always perfectly straight.",
+      "example_th": "อายไลเนอร์ของเธอเขียนตรงเป๊ะตลอด",
+      "cefr": "B1",
+      "note_th": "ทรงที่ปัดปลายขึ้นเรียก winged eyeliner หรือตาแมว",
+      "distractors": [
+        "airliner",
+        "eyesight",
+        "headliner"
+      ]
+    },
+    {
+      "id": "eyeshadow",
+      "word": "eyeshadow",
+      "pos": "noun",
+      "ipa": "/ˈaɪʃædəʊ/",
+      "reading_th": "อาย-แช-โดว์",
+      "meaning_th": "อายแชโดว์ทาเปลือกตา",
+      "emoji": "🎨",
+      "example_en": "Brown eyeshadow works for the office.",
+      "example_th": "อายแชโดว์สีน้ำตาลใส่ไปทำงานได้",
+      "cefr": "B1",
+      "note_th": "เนื้อวิบวับเรียก shimmer ส่วนเนื้อด้านเรียก matte",
+      "distractors": [
+        "eyebrow",
+        "sunshade",
+        "eye drop"
+      ]
+    },
+    {
+      "id": "brow_pencil",
+      "word": "brow pencil",
+      "pos": "noun",
+      "ipa": "/braʊ ˈpensl/",
+      "reading_th": "เบรา-เพน-ซิล",
+      "meaning_th": "ดินสอเขียนคิ้ว",
+      "emoji": "✏️",
+      "example_en": "She fills her brows with a brow pencil.",
+      "example_th": "เธอเขียนคิ้วด้วยดินสอเขียนคิ้ว",
+      "cefr": "B1",
+      "note_th": "brow เป็นคำสั้นของ eyebrow ใช้ในวงการความงามบ่อยกว่า",
+      "distractors": [
+        "brown pencil",
+        "eye pencil",
+        "blow pen"
+      ]
+    },
+    {
+      "id": "lipstick",
+      "word": "lipstick",
+      "pos": "noun",
+      "ipa": "/ˈlɪpstɪk/",
+      "reading_th": "ลิพ-สติค",
+      "meaning_th": "ลิปสติก",
+      "emoji": "💋",
+      "example_en": "That lipstick suits your skin tone.",
+      "example_th": "ลิปสติกแท่งนั้นเข้ากับสีผิวคุณ",
+      "cefr": "A2",
+      "note_th": "เนื้อด้านเรียก matte lipstick ส่วนเนื้อครีมเรียก satin",
+      "distractors": [
+        "chopstick",
+        "lip balm",
+        "lip service"
+      ]
+    },
+    {
+      "id": "lip_gloss",
+      "word": "lip gloss",
+      "pos": "noun",
+      "ipa": "/lɪp ɡlɒs/",
+      "reading_th": "ลิพ-กลอส",
+      "meaning_th": "ลิปกลอสเนื้อวาว",
+      "emoji": "✨",
+      "example_en": "Lip gloss makes lips look fuller.",
+      "example_th": "ลิปกลอสทำให้ปากดูอิ่มขึ้น",
+      "cefr": "B1",
+      "note_th": "gloss แปลว่าความเงาวาว ตรงข้ามกับ matte ที่แปลว่าเนื้อด้าน",
+      "distractors": [
+        "lip balm",
+        "hair gloss",
+        "lip line"
+      ]
+    },
+    {
+      "id": "lip_balm",
+      "word": "lip balm",
+      "pos": "noun",
+      "ipa": "/lɪp bɑːm/",
+      "reading_th": "ลิพ-บาล์ม",
+      "meaning_th": "ลิปมันบำรุงปาก",
+      "emoji": "🧈",
+      "example_en": "Use lip balm when your lips are dry.",
+      "example_th": "ปากแห้งให้ทาลิปมัน",
+      "cefr": "B1",
+      "note_th": "ตัว l ใน balm ไม่ออกเสียง อ่านว่า บาล์ม",
+      "distractors": [
+        "lip gloss",
+        "hand cream",
+        "bath bomb"
+      ]
+    },
+    {
+      "id": "palette",
+      "word": "palette",
+      "pos": "noun",
+      "ipa": "/ˈpælət/",
+      "reading_th": "แพล-เลิท",
+      "meaning_th": "ตลับสีหลายเฉดในกล่องเดียว",
+      "emoji": "🎨",
+      "example_en": "This palette has twelve shades.",
+      "example_th": "พาเลตต์นี้มีสิบสองเฉดสี",
+      "cefr": "B2",
+      "note_th": "ออกเสียง แพล-เลิท ไม่ใช่ พา-เลท และคนละคำกับ pallet ที่แปลว่าแท่นวางของ",
+      "distractors": [
+        "pallet",
+        "parachute",
+        "politic"
+      ]
+    },
+    {
+      "id": "makeup_remover",
+      "word": "makeup remover",
+      "pos": "noun",
+      "ipa": "/ˈmeɪkʌp rɪˈmuːvə/",
+      "reading_th": "เมค-อัพ-ริ-มู-เวอร์",
+      "meaning_th": "ผลิตภัณฑ์เช็ดเครื่องสำอาง",
+      "emoji": "🧽",
+      "example_en": "Never sleep without using makeup remover.",
+      "example_th": "อย่านอนโดยไม่เช็ดเครื่องสำอางเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "แบบเช็ดออกด้วยสำลีเรียก micellar water ซึ่งฮิตมาก",
+      "distractors": [
+        "nail remover",
+        "makeup artist",
+        "stain remover"
+      ]
+    },
+    {
+      "id": "skincare",
+      "word": "skincare",
+      "pos": "noun",
+      "ipa": "/ˈskɪnkeə/",
+      "reading_th": "สกิน-แคร์",
+      "meaning_th": "การดูแลผิว",
+      "emoji": "🧖",
+      "example_en": "My skincare routine takes five minutes.",
+      "example_th": "ขั้นตอนดูแลผิวของฉันใช้เวลาห้านาที",
+      "cefr": "B1",
+      "note_th": "คำที่มากับมันบ่อยคือ routine = ขั้นตอนที่ทำเป็นประจำ",
+      "distractors": [
+        "haircare",
+        "skin tone",
+        "healthcare"
+      ]
+    },
+    {
+      "id": "cleanser",
+      "word": "cleanser",
+      "pos": "noun",
+      "ipa": "/ˈklenzə/",
+      "reading_th": "เคลน-เซอร์",
+      "meaning_th": "ผลิตภัณฑ์ทำความสะอาดผิวหน้า",
+      "emoji": "🫧",
+      "example_en": "Use a gentle cleanser twice a day.",
+      "example_th": "ใช้คลีนเซอร์สูตรอ่อนโยนวันละสองครั้ง",
+      "cefr": "B2",
+      "note_th": "โฟมล้างหน้าเรียก facial foam ส่วน cleanser ครอบคลุมทุกเนื้อสัมผัส",
+      "distractors": [
+        "cleaner",
+        "closer",
+        "clencher"
+      ]
+    },
+    {
+      "id": "toner",
+      "word": "toner",
+      "pos": "noun",
+      "ipa": "/ˈtəʊnə/",
+      "reading_th": "โท-เนอร์",
+      "meaning_th": "โทนเนอร์ปรับสภาพผิว",
+      "emoji": "💧",
+      "example_en": "Apply toner right after washing your face.",
+      "example_th": "ทาโทนเนอร์ทันทีหลังล้างหน้า",
+      "cefr": "B2",
+      "note_th": "เกาหลีเรียกขั้นตอนนี้ว่า skin ซึ่งทำให้คนไทยสับสนบ่อย",
+      "distractors": [
+        "tuner",
+        "owner",
+        "corner"
+      ]
+    },
+    {
+      "id": "moisturizer",
+      "word": "moisturizer",
+      "pos": "noun",
+      "ipa": "/ˈmɔɪstʃəraɪzə/",
+      "reading_th": "มอยส์-เจอ-ไร-เซอร์",
+      "meaning_th": "ครีมบำรุงให้ความชุ่มชื้น",
+      "emoji": "🥛",
+      "example_en": "Oily skin still needs a light moisturizer.",
+      "example_th": "ผิวมันก็ยังต้องใช้ครีมบำรุงสูตรบางเบา",
+      "cefr": "B2",
+      "note_th": "อังกฤษแบบอังกฤษสะกด moisturiser",
+      "distractors": [
+        "mobilizer",
+        "monitor",
+        "mortgage"
+      ]
+    },
+    {
+      "id": "serum",
+      "word": "serum",
+      "pos": "noun",
+      "ipa": "/ˈsɪərəm/",
+      "reading_th": "เซ-เริม",
+      "meaning_th": "เซรั่มเข้มข้นบำรุงผิว",
+      "emoji": "💉",
+      "example_en": "This serum helps with dark spots.",
+      "example_th": "เซรั่มตัวนี้ช่วยเรื่องจุดด่างดำ",
+      "cefr": "B2",
+      "note_th": "เนื้อเข้มข้นกว่าครีม จึงทาก่อนครีมบำรุงเสมอ",
+      "distractors": [
+        "cereal",
+        "sermon",
+        "syrup"
+      ]
+    },
+    {
+      "id": "primer",
+      "word": "primer",
+      "pos": "noun",
+      "ipa": "/ˈpraɪmə/",
+      "reading_th": "ไพร-เมอร์",
+      "meaning_th": "ไพรเมอร์ที่ทาก่อนแต่งหน้า",
+      "emoji": "🧴",
+      "example_en": "Primer keeps makeup on all day.",
+      "example_th": "ไพรเมอร์ช่วยให้เครื่องสำอางติดทนทั้งวัน",
+      "cefr": "B2",
+      "note_th": "ช่างทาสีก็ใช้คำนี้ แปลว่าสีรองพื้น หลักการเดียวกันคือทาก่อนชั้นจริง",
+      "distractors": [
+        "prime time",
+        "printer",
+        "premier"
+      ]
+    },
+    {
+      "id": "powder",
+      "word": "powder",
+      "pos": "noun",
+      "ipa": "/ˈpaʊdə/",
+      "reading_th": "พาว-เดอร์",
+      "meaning_th": "แป้ง",
+      "emoji": "🤍",
+      "example_en": "A little powder stops the shine.",
+      "example_th": "แป้งนิดหน่อยช่วยลดความมัน",
+      "cefr": "A2",
+      "note_th": "แป้งอัดแข็งเรียก compact powder ส่วนแป้งฝุ่นเรียก loose powder",
+      "distractors": [
+        "powder room",
+        "powerful",
+        "louder"
+      ]
+    },
+    {
+      "id": "sheet_mask",
+      "word": "sheet mask",
+      "pos": "noun",
+      "ipa": "/ʃiːt mɑːsk/",
+      "reading_th": "ชีท-มาสก์",
+      "meaning_th": "แผ่นมาสก์หน้า",
+      "emoji": "🎭",
+      "example_en": "I use a sheet mask before a big day.",
+      "example_th": "ฉันมาส์กหน้าก่อนวันสำคัญ",
+      "cefr": "B1",
+      "note_th": "เป็นสินค้าที่เกาหลีทำให้ดังไปทั่วโลก ฝรั่งรู้จักคำนี้ดี",
+      "distractors": [
+        "face towel",
+        "sheet music",
+        "dust mask"
+      ]
+    },
+    {
+      "id": "uv_protection",
+      "word": "UV protection",
+      "pos": "noun",
+      "ipa": "/juː viː prəˈtekʃən/",
+      "reading_th": "ยู-วี-โพร-เทค-ชัน",
+      "meaning_th": "การป้องกันรังสียูวี",
+      "emoji": "🌞",
+      "example_en": "This cream gives strong UV protection.",
+      "example_th": "ครีมตัวนี้ป้องกันรังสียูวีได้ดี",
+      "cefr": "B2",
+      "note_th": "ค่า SPF บอกระดับการป้องกัน ยิ่งเลขสูงยิ่งกันได้นาน",
+      "distractors": [
+        "UV light",
+        "fire protection",
+        "data protection"
+      ]
+    },
+    {
+      "id": "acne",
+      "word": "acne",
+      "pos": "noun",
+      "ipa": "/ˈækni/",
+      "reading_th": "แอค-นี",
+      "meaning_th": "สิว",
+      "emoji": "😣",
+      "example_en": "Stress can make acne worse.",
+      "example_th": "ความเครียดทำให้สิวขึ้นหนักกว่าเดิม",
+      "cefr": "B1",
+      "note_th": "ออกเสียงสองพยางค์ แอค-นี ไม่ใช่ เอค",
+      "distractors": [
+        "ankle",
+        "acorn",
+        "agency"
+      ]
+    },
+    {
+      "id": "pores",
+      "word": "pores",
+      "pos": "noun",
+      "ipa": "/pɔːz/",
+      "reading_th": "พอร์ส",
+      "meaning_th": "รูขุมขน",
+      "emoji": "🔬",
+      "example_en": "This toner makes pores look smaller.",
+      "example_th": "โทนเนอร์นี้ทำให้รูขุมขนดูเล็กลง",
+      "cefr": "B2",
+      "note_th": "clogged pores = รูขุมขนอุดตัน ซึ่งเป็นต้นเหตุของสิว",
+      "distractors": [
+        "pours",
+        "paws",
+        "ports"
+      ]
+    },
+    {
+      "id": "wrinkle",
+      "word": "wrinkle",
+      "pos": "noun",
+      "ipa": "/ˈrɪŋkl/",
+      "reading_th": "ริง-เคิล",
+      "meaning_th": "ริ้วรอยเหี่ยวย่น",
+      "emoji": "〰️",
+      "example_en": "Sunscreen helps prevent wrinkles.",
+      "example_th": "ครีมกันแดดช่วยป้องกันริ้วรอย",
+      "cefr": "B2",
+      "note_th": "ตัว w ไม่ออกเสียง เหมือน wrist และ write",
+      "distractors": [
+        "sprinkle",
+        "twinkle",
+        "wriggle"
+      ]
+    },
+    {
+      "id": "oily_skin",
+      "word": "oily skin",
+      "pos": "noun",
+      "ipa": "/ˈɔɪli skɪn/",
+      "reading_th": "ออย-ลี-สกิน",
+      "meaning_th": "ผิวมัน",
+      "emoji": "💦",
+      "example_en": "Oily skin needs light products.",
+      "example_th": "ผิวมันต้องใช้ผลิตภัณฑ์เนื้อบางเบา",
+      "cefr": "B1",
+      "note_th": "ผิวแห้งคือ dry skin ผิวแพ้ง่ายคือ sensitive skin ผิวผสมคือ combination skin",
+      "distractors": [
+        "only skin",
+        "oily food",
+        "olive skin"
+      ]
+    },
+    {
+      "id": "glow",
+      "word": "glow",
+      "pos": "noun",
+      "ipa": "/ɡləʊ/",
+      "reading_th": "โกลว์",
+      "meaning_th": "ความเปล่งปลั่งของผิว",
+      "emoji": "🌟",
+      "example_en": "Her skin has a healthy glow.",
+      "example_th": "ผิวของเธอดูเปล่งปลั่งสุขภาพดี",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาได้ด้วย และ glow up หมายถึงเปลี่ยนลุคจนดูดีขึ้นมาก",
+      "distractors": [
+        "grow",
+        "glue",
+        "flow"
+      ]
+    },
+    {
+      "id": "haircut",
+      "word": "haircut",
+      "pos": "noun",
+      "ipa": "/ˈheəkʌt/",
+      "reading_th": "แฮร์-คัท",
+      "meaning_th": "การตัดผมหรือทรงผมที่ตัด",
+      "emoji": "✂️",
+      "example_en": "I need a haircut before the wedding.",
+      "example_th": "ฉันต้องตัดผมก่อนไปงานแต่ง",
+      "cefr": "A2",
+      "note_th": "พูดว่า get a haircut ไม่ใช่ cut my hair ถ้าไปให้ช่างตัด",
+      "distractors": [
+        "hairstyle",
+        "haircare",
+        "shortcut"
+      ]
+    },
+    {
+      "id": "trim",
+      "word": "trim",
+      "pos": "noun",
+      "ipa": "/trɪm/",
+      "reading_th": "ทริม",
+      "meaning_th": "การเล็มปลายผมนิดหน่อย",
+      "emoji": "💈",
+      "example_en": "Just a trim, please, not too short.",
+      "example_th": "ขอแค่เล็มปลายนะคะ อย่าสั้นมาก",
+      "cefr": "B1",
+      "note_th": "ประโยคนี้ใช้ได้จริงในร้านตัดผมต่างประเทศ ช่วยกันพลาด",
+      "distractors": [
+        "trip",
+        "team",
+        "tram"
+      ]
+    },
+    {
+      "id": "bangs",
+      "word": "bangs",
+      "pos": "noun",
+      "ipa": "/bæŋz/",
+      "reading_th": "แบงส์",
+      "meaning_th": "ผมหน้าม้า",
+      "emoji": "💇‍♀️",
+      "example_en": "She cut bangs last week.",
+      "example_th": "เธอตัดผมหน้าม้าเมื่อสัปดาห์ที่แล้ว",
+      "cefr": "B1",
+      "note_th": "อังกฤษแบบอังกฤษเรียก fringe",
+      "distractors": [
+        "banks",
+        "beans",
+        "bands"
+      ]
+    },
+    {
+      "id": "ponytail",
+      "word": "ponytail",
+      "pos": "noun",
+      "ipa": "/ˈpəʊniteɪl/",
+      "reading_th": "โพ-นี-เทล",
+      "meaning_th": "ผมมัดหางม้า",
+      "emoji": "🐴",
+      "example_en": "She tied her hair in a ponytail.",
+      "example_th": "เธอมัดผมเป็นหางม้า",
+      "cefr": "B1",
+      "note_th": "มัดสูงเรียก high ponytail มัดต่ำเรียก low ponytail",
+      "distractors": [
+        "pony ride",
+        "cocktail",
+        "pigtail"
+      ]
+    },
+    {
+      "id": "braid",
+      "word": "braid",
+      "pos": "noun",
+      "ipa": "/breɪd/",
+      "reading_th": "เบรด",
+      "meaning_th": "ผมเปีย",
+      "emoji": "🧑‍🎨",
+      "example_en": "A braid keeps hair out of your face.",
+      "example_th": "ถักเปียช่วยไม่ให้ผมมาบังหน้า",
+      "cefr": "B2",
+      "note_th": "ออกเสียงเหมือน bread แต่สะกดต่างกัน",
+      "distractors": [
+        "bread",
+        "brand",
+        "brave"
+      ]
+    },
+    {
+      "id": "curl",
+      "word": "curl",
+      "pos": "verb",
+      "ipa": "/kɜːl/",
+      "reading_th": "เคิร์ล",
+      "meaning_th": "ดัดผมให้เป็นลอน",
+      "emoji": "🌀",
+      "example_en": "I curl my hair for parties only.",
+      "example_th": "ฉันดัดผมเป็นลอนเฉพาะตอนไปงาน",
+      "cefr": "B1",
+      "note_th": "curly hair = ผมหยิก ส่วน wavy hair = ผมลอนใหญ่",
+      "distractors": [
+        "girl",
+        "cure",
+        "curb"
+      ]
+    },
+    {
+      "id": "straighten",
+      "word": "straighten",
+      "pos": "verb",
+      "ipa": "/ˈstreɪtn/",
+      "reading_th": "สเตรท-เทิน",
+      "meaning_th": "ยืดผมให้ตรง",
+      "emoji": "➖",
+      "example_en": "She straightens her hair every morning.",
+      "example_th": "เธอยืดผมทุกเช้า",
+      "cefr": "B2",
+      "note_th": "ทำถาวรที่ร้านเรียก hair rebonding ซึ่งคนไทยเรียกยืดผมถาวร",
+      "distractors": [
+        "strengthen",
+        "straight",
+        "strangle"
+      ]
+    },
+    {
+      "id": "straightener",
+      "word": "straightener",
+      "pos": "noun",
+      "ipa": "/ˈstreɪtnə/",
+      "reading_th": "สเตรท-เทิน-เนอร์",
+      "meaning_th": "เครื่องหนีบผม",
+      "emoji": "🔌",
+      "example_en": "Do not leave the straightener on.",
+      "example_th": "อย่าเปิดเครื่องหนีบผมทิ้งไว้",
+      "cefr": "B2",
+      "note_th": "เรียก hair straightener เต็ม ๆ ก็ได้ ส่วนที่ม้วนลอนคือ curling iron",
+      "distractors": [
+        "strainer",
+        "stretcher",
+        "strangler"
+      ]
+    },
+    {
+      "id": "dye",
+      "word": "dye",
+      "pos": "verb",
+      "ipa": "/daɪ/",
+      "reading_th": "ดาย",
+      "meaning_th": "ย้อมสีผม",
+      "emoji": "🎨",
+      "example_en": "She wants to dye her hair brown.",
+      "example_th": "เธออยากย้อมผมสีน้ำตาล",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน die (ตาย) เป๊ะ ๆ ต้องดูบริบทให้ดี",
+      "distractors": [
+        "die",
+        "dry",
+        "day"
+      ]
+    },
+    {
+      "id": "highlights",
+      "word": "highlights",
+      "pos": "noun",
+      "ipa": "/ˈhaɪlaɪts/",
+      "reading_th": "ไฮ-ไลท์ส",
+      "meaning_th": "ผมไฮไลต์ที่ทำสีอ่อนเป็นช่อ",
+      "emoji": "💫",
+      "example_en": "Blonde highlights suit her hair.",
+      "example_th": "ไฮไลต์สีบลอนด์เข้ากับผมของเธอ",
+      "cefr": "B2",
+      "note_th": "เทคนิคที่อ่อนโยนกว่าเรียก balayage ซึ่งไล่สีจากปลายผม",
+      "distractors": [
+        "headlights",
+        "spotlights",
+        "highways"
+      ]
+    },
+    {
+      "id": "conditioner",
+      "word": "conditioner",
+      "pos": "noun",
+      "ipa": "/kənˈdɪʃənə/",
+      "reading_th": "เคิน-ดิช-ชัน-เนอร์",
+      "meaning_th": "ครีมนวดผม",
+      "emoji": "🧴",
+      "example_en": "Leave the conditioner on for two minutes.",
+      "example_th": "ทิ้งครีมนวดไว้สองนาที",
+      "cefr": "B1",
+      "note_th": "air conditioner (แอร์) ใช้คำเดียวกัน แปลว่าสิ่งที่ปรับสภาพ",
+      "distractors": [
+        "condition",
+        "commissioner",
+        "confectioner"
+      ]
+    },
+    {
+      "id": "hair_tie",
+      "word": "hair tie",
+      "pos": "noun",
+      "ipa": "/heə taɪ/",
+      "reading_th": "แฮร์-ไท",
+      "meaning_th": "ยางรัดผม",
+      "emoji": "⭕",
+      "example_en": "Do you have a spare hair tie?",
+      "example_th": "มียางรัดผมเผื่อไหม",
+      "cefr": "A2",
+      "note_th": "อังกฤษเรียก hair band ส่วนกิ๊บติดผมคือ hair clip",
+      "distractors": [
+        "bow tie",
+        "hair pin",
+        "hair spray"
+      ]
+    },
+    {
+      "id": "nail_polish",
+      "word": "nail polish",
+      "pos": "noun",
+      "ipa": "/neɪl ˈpɒlɪʃ/",
+      "reading_th": "เนล-พอ-ลิช",
+      "meaning_th": "ยาทาเล็บ",
+      "emoji": "💅",
+      "example_en": "This nail polish dries in a minute.",
+      "example_th": "ยาทาเล็บขวดนี้แห้งในหนึ่งนาที",
+      "cefr": "B1",
+      "note_th": "อังกฤษแบบอังกฤษเรียก nail varnish",
+      "distractors": [
+        "shoe polish",
+        "nail file",
+        "nail clipper"
+      ]
+    },
+    {
+      "id": "manicure",
+      "word": "manicure",
+      "pos": "noun",
+      "ipa": "/ˈmænɪkjʊə/",
+      "reading_th": "แมน-นิ-เคียว",
+      "meaning_th": "การทำเล็บมือ",
+      "emoji": "🤲",
+      "example_en": "I booked a manicure for Friday.",
+      "example_th": "ฉันจองคิวทำเล็บมือวันศุกร์",
+      "cefr": "B2",
+      "note_th": "mani- มาจากภาษาละตินแปลว่ามือ ส่วน pedi- แปลว่าเท้า",
+      "distractors": [
+        "miniature",
+        "magazine",
+        "menu card"
+      ]
+    },
+    {
+      "id": "salon",
+      "word": "salon",
+      "pos": "noun",
+      "ipa": "/ˈsælɒn/",
+      "reading_th": "ซา-ลอน",
+      "meaning_th": "ร้านเสริมสวย",
+      "emoji": "💈",
+      "example_en": "The salon opens at ten.",
+      "example_th": "ร้านเสริมสวยเปิดสิบโมง",
+      "cefr": "B1",
+      "note_th": "ร้านตัดผมชายเรียก barber shop",
+      "distractors": [
+        "saloon",
+        "salad",
+        "solid"
+      ]
+    },
+    {
+      "id": "stylist",
+      "word": "stylist",
+      "pos": "noun",
+      "ipa": "/ˈstaɪlɪst/",
+      "reading_th": "สไต-ลิสท์",
+      "meaning_th": "ช่างทำผมหรือผู้จัดสไตล์การแต่งตัว",
+      "emoji": "🧑‍🎤",
+      "example_en": "Ask the stylist what suits your face.",
+      "example_th": "ถามช่างว่าทรงไหนเหมาะกับหน้าเรา",
+      "cefr": "B1",
+      "note_th": "ช่างที่แต่งตัวให้ดาราเรียก fashion stylist ส่วนช่างผมคือ hairstylist",
+      "distractors": [
+        "specialist",
+        "stylish",
+        "soloist"
+      ]
+    },
+    {
+      "id": "pedicure",
+      "word": "pedicure",
+      "pos": "noun",
+      "ipa": "/ˈpedɪkjʊə/",
+      "reading_th": "เพ-ดิ-เคียว",
+      "meaning_th": "การทำเล็บเท้า",
+      "emoji": "🦶",
+      "example_en": "A pedicure takes about an hour.",
+      "example_th": "ทำเล็บเท้าใช้เวลาประมาณหนึ่งชั่วโมง",
+      "cefr": "B2",
+      "note_th": "ร้านไทยมักเรียกรวมว่า mani-pedi ซึ่งฝรั่งก็ใช้คำนี้เหมือนกัน",
+      "distractors": [
+        "pedestrian",
+        "medicare",
+        "procedure"
+      ]
+    },
+    {
+      "id": "tailor",
+      "word": "tailor",
+      "pos": "noun",
+      "ipa": "/ˈteɪlə/",
+      "reading_th": "เท-เลอร์",
+      "meaning_th": "ช่างตัดเย็บเสื้อผ้า",
+      "emoji": "🧵",
+      "example_en": "A tailor can fix the shoulders.",
+      "example_th": "ช่างตัดเสื้อแก้ช่วงไหล่ให้ได้",
+      "cefr": "B1",
+      "note_th": "เป็นกริยาแปลว่าปรับให้พอดีกับความต้องการ เช่น tailor-made",
+      "distractors": [
+        "trailer",
+        "sailor",
+        "teller"
+      ]
+    },
+    {
+      "id": "alteration",
+      "word": "alteration",
+      "pos": "noun",
+      "ipa": "/ˌɔːltəˈreɪʃən/",
+      "reading_th": "ออล-เทอ-เร-ชัน",
+      "meaning_th": "การแก้ไขเสื้อผ้าให้พอดีตัว",
+      "emoji": "📐",
+      "example_en": "The alteration will be ready tomorrow.",
+      "example_th": "แก้เสื้อเสร็จพรุ่งนี้",
+      "cefr": "B2",
+      "note_th": "ร้านแก้เสื้อฝรั่งเขียนป้ายว่า alterations ใช้รูปพหูพจน์",
+      "distractors": [
+        "altercation",
+        "alternative",
+        "administration"
+      ]
+    },
+    {
+      "id": "measurement",
+      "word": "measurement",
+      "pos": "noun",
+      "ipa": "/ˈmeʒəmənt/",
+      "reading_th": "เมช-เชอร์-เมินท์",
+      "meaning_th": "ขนาดสัดส่วนที่วัดได้",
+      "emoji": "📏",
+      "example_en": "The tailor took my measurements.",
+      "example_th": "ช่างวัดตัวฉันแล้ว",
+      "cefr": "B2",
+      "note_th": "ออกเสียง เมช ไม่ใช่ มีส — มาจากกริยา measure",
+      "distractors": [
+        "management",
+        "movement",
+        "monument"
+      ]
+    },
+    {
+      "id": "natural_look",
+      "word": "natural look",
+      "pos": "noun",
+      "ipa": "/ˈnætʃrəl lʊk/",
+      "reading_th": "แนช-เชอ-เริล-ลุค",
+      "meaning_th": "ลุคแต่งหน้าบางเบาเหมือนไม่ได้แต่ง",
+      "emoji": "🍃",
+      "example_en": "He prefers a natural look on a first date.",
+      "example_th": "เขาชอบลุคธรรมชาติในเดตแรก",
+      "cefr": "B1",
+      "note_th": "ฝรั่งเรียกอีกอย่างว่า no-makeup makeup look",
+      "distractors": [
+        "natural gas",
+        "new look",
+        "nature walk"
+      ]
+    },
+    {
+      "id": "bare_face",
+      "word": "bare face",
+      "pos": "noun",
+      "ipa": "/beə feɪs/",
+      "reading_th": "แบร์-เฟซ",
+      "meaning_th": "หน้าสด ไม่แต่งหน้าเลย",
+      "emoji": "😊",
+      "example_en": "I go out with a bare face on weekends.",
+      "example_th": "เสาร์อาทิตย์ฉันออกจากบ้านแบบหน้าสด",
+      "cefr": "B2",
+      "note_th": "bare แปลว่าเปล่า ๆ ไม่มีอะไรปกปิด เช่น barefoot = เท้าเปล่า",
+      "distractors": [
+        "bear face",
+        "brave face",
+        "bar fight"
+      ]
+    },
+    {
+      "id": "whitening",
+      "word": "whitening",
+      "pos": "adjective",
+      "ipa": "/ˈwaɪtnɪŋ/",
+      "reading_th": "ไว-เทิน-นิง",
+      "meaning_th": "สูตรทำให้ผิวกระจ่างใส",
+      "emoji": "🥛",
+      "example_en": "Whitening creams are everywhere in Asia.",
+      "example_th": "ครีมผิวขาวมีขายทั่วไปในเอเชีย",
+      "cefr": "B2",
+      "note_th": "ฝรั่งนิยมคำว่า brightening มากกว่า เพราะ whitening ฟังดูอ่อนไหวเรื่องสีผิว",
+      "distractors": [
+        "widening",
+        "frightening",
+        "lightning"
+      ]
+    },
+    {
+      "id": "anti_aging",
+      "word": "anti-aging",
+      "pos": "adjective",
+      "ipa": "/ˌænti ˈeɪdʒɪŋ/",
+      "reading_th": "แอน-ติ-เอ-จิง",
+      "meaning_th": "สูตรชะลอวัย",
+      "emoji": "⏳",
+      "example_en": "She started using anti-aging cream at thirty.",
+      "example_th": "เธอเริ่มใช้ครีมชะลอวัยตอนอายุสามสิบ",
+      "cefr": "B2",
+      "note_th": "anti- แปลว่าต้าน เหมือน antibiotic ที่แปลว่ายาต้านเชื้อ",
+      "distractors": [
+        "anti-virus",
+        "anti-social",
+        "all-aging"
+      ]
+    },
+    {
+      "id": "freckles",
+      "word": "freckles",
+      "pos": "noun",
+      "ipa": "/ˈfreklz/",
+      "reading_th": "เฟรค-เคิลส์",
+      "meaning_th": "กระบนใบหน้า",
+      "emoji": "🟤",
+      "example_en": "Her freckles look cute in the sun.",
+      "example_th": "กระบนหน้าเธอดูน่ารักเวลาโดนแดด",
+      "cefr": "B2",
+      "note_th": "ต่างจาก dark spots (จุดด่างดำ) ตรงที่กระเป็นจุดเล็กกระจายตามธรรมชาติ",
+      "distractors": [
+        "fractures",
+        "wrinkles",
+        "freezers"
+      ]
+    },
+    {
+      "id": "eyebrow",
+      "word": "eyebrow",
+      "pos": "noun",
+      "ipa": "/ˈaɪbraʊ/",
+      "reading_th": "อาย-เบรา",
+      "meaning_th": "คิ้ว",
+      "emoji": "🤨",
+      "example_en": "She raised one eyebrow at me.",
+      "example_th": "เธอเลิกคิ้วข้างหนึ่งใส่ฉัน",
+      "cefr": "A2",
+      "note_th": "สำนวน raise an eyebrow = แสดงความประหลาดใจหรือไม่เห็นด้วย",
+      "distractors": [
+        "eyeball",
+        "elbow",
+        "rainbow"
+      ]
+    },
+    {
+      "id": "eyelash",
+      "word": "eyelash",
+      "pos": "noun",
+      "ipa": "/ˈaɪlæʃ/",
+      "reading_th": "อาย-แลช",
+      "meaning_th": "ขนตา",
+      "emoji": "👁️",
+      "example_en": "An eyelash fell into my eye.",
+      "example_th": "ขนตาร่วงเข้าตาฉัน",
+      "cefr": "B1",
+      "note_th": "ขนตาปลอมคือ false eyelashes ที่คนไทยเรียกทับศัพท์ว่าขนตาปลอม",
+      "distractors": [
+        "eyelid",
+        "whiplash",
+        "eye level"
+      ]
+    },
+    {
+      "id": "perfume",
+      "word": "perfume",
+      "pos": "noun",
+      "ipa": "/ˈpɜːfjuːm/",
+      "reading_th": "เพอร์-ฟิวม์",
+      "meaning_th": "น้ำหอม",
+      "emoji": "🌹",
+      "example_en": "Her perfume smells like jasmine.",
+      "example_th": "น้ำหอมของเธอกลิ่นเหมือนมะลิ",
+      "cefr": "B1",
+      "note_th": "น้ำหอมผู้ชายมักเรียก cologne ซึ่งเข้มข้นน้อยกว่า perfume",
+      "distractors": [
+        "performance",
+        "perform",
+        "portfolio"
+      ]
+    }
+  ]
+}

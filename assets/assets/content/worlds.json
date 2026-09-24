@@ -177,6 +177,17 @@
       "image": "worlds/nature_weather.webp"
     },
     {
+      "id": "beauty_fashion",
+      "file": "beauty_fashion.json",
+      "name_en": "Beauty & Fashion",
+      "name_th": "ความงามและแฟชั่น",
+      "emoji": "💄",
+      "color_start": "#D8B4FE",
+      "color_end": "#7E22CE",
+      "available": true,
+      "image": "worlds/beauty_fashion.webp"
+    },
+    {
       "id": "sports",
       "name_en": "Sports & Fitness",
       "name_th": "กีฬาและฟิตเนส",
@@ -208,17 +219,6 @@
       "available": false,
       "mascot_costume": "banker",
       "description_th": "ธนาคาร โอนเงิน ออมเงิน และบัตรเครดิต"
-    },
-    {
-      "id": "beauty_fashion",
-      "name_en": "Beauty & Fashion",
-      "name_th": "ความงามและแฟชั่น",
-      "emoji": "💄",
-      "color_start": "#D8B4FE",
-      "color_end": "#7E22CE",
-      "available": false,
-      "mascot_costume": "stylist",
-      "description_th": "เครื่องสำอาง สกินแคร์ เสื้อผ้า และสไตล์"
     }
   ]
 }
