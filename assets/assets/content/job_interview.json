@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "job_interview",
+    "name_en": "Job Interview",
+    "name_th": "สัมภาษณ์งาน",
+    "emoji": "🎤",
+    "color_start": "#7DD3FC",
+    "color_end": "#0369A1",
+    "description_th": "ตั้งแต่อ่านประกาศรับสมัคร เตรียมเอกสาร แนะนำตัว ตอบคำถามยอดฮิต ไปจนถึงต่อรองเงื่อนไขและตอบรับงาน",
+    "mascot_costume": "candidate",
+    "lessons": [
+      {
+        "id": "job_interview_1",
+        "title_en": "Job Ads & Applying",
+        "title_th": "ประกาศงานและการสมัคร",
+        "emoji": "📋",
+        "word_ids": [
+          "job_posting",
+          "job_description",
+          "opening",
+          "recruitment",
+          "recruiter",
+          "applicant",
+          "application_form",
+          "cover_letter",
+          "portfolio",
+          "attachment",
+          "hand_in",
+          "job_fair",
+          "qualification",
+          "requirement"
+        ]
+      },
+      {
+        "id": "job_interview_2",
+        "title_en": "Documents & Getting Ready",
+        "title_th": "เอกสารและการเตรียมตัว",
+        "emoji": "👔",
+        "word_ids": [
+          "certificate",
+          "transcript",
+          "shortlist",
+          "candidate",
+          "confirm",
+          "prepare",
+          "mock_interview",
+          "rehearse",
+          "dress_code",
+          "formal",
+          "suit",
+          "tie",
+          "punctual",
+          "arrive_early"
+        ]
+      },
+      {
+        "id": "job_interview_3",
+        "title_en": "Introducing Yourself",
+        "title_th": "แนะนำตัวและประสบการณ์",
+        "emoji": "🙋",
+        "word_ids": [
+          "introduce",
+          "impression",
+          "confidence",
+          "background",
+          "previous",
+          "responsibility",
+          "achievement",
+          "expertise",
+          "specialize",
+          "proficient",
+          "fluent",
+          "bilingual",
+          "internship",
+          "freelance"
+        ]
+      },
+      {
+        "id": "job_interview_4",
+        "title_en": "What They Look For",
+        "title_th": "คุณสมบัติที่บริษัทมองหา",
+        "emoji": "⭐",
+        "word_ids": [
+          "reliable",
+          "diligent",
+          "detail_oriented",
+          "problem_solving",
+          "leadership",
+          "ambition",
+          "motivation",
+          "flexible",
+          "adapt",
+          "stand_out",
+          "pressure",
+          "conflict",
+          "criticism",
+          "setback"
+        ]
+      },
+      {
+        "id": "job_interview_5",
+        "title_en": "Answering Well",
+        "title_th": "ตอบคำถามให้โดนใจ",
+        "emoji": "💬",
+        "word_ids": [
+          "elaborate",
+          "clarify",
+          "summarize",
+          "emphasize",
+          "demonstrate",
+          "point_out",
+          "specific",
+          "concise",
+          "honestly",
+          "communicate",
+          "prioritize",
+          "briefly",
+          "example",
+          "overall"
+        ]
+      },
+      {
+        "id": "job_interview_6",
+        "title_en": "Pay & Conditions",
+        "title_th": "ค่าตอบแทนและเงื่อนไข",
+        "emoji": "📑",
+        "word_ids": [
+          "probation",
+          "remote",
+          "hybrid",
+          "working_hours",
+          "annual_leave",
+          "allowance",
+          "provident_fund",
+          "severance",
+          "commission",
+          "pay_raise",
+          "training",
+          "workload",
+          "supervisor",
+          "coworker"
+        ]
+      },
+      {
+        "id": "job_interview_7",
+        "title_en": "After the Interview",
+        "title_th": "หลังสัมภาษณ์",
+        "emoji": "📨",
+        "word_ids": [
+          "follow_up",
+          "thank_you_email",
+          "second_round",
+          "background_check",
+          "offer_letter",
+          "counteroffer",
+          "decline",
+          "reject",
+          "rejection",
+          "withdraw",
+          "notice_period",
+          "start_date",
+          "onboarding",
+          "mentor"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "job_posting",
+      "word": "job posting",
+      "pos": "noun",
+      "ipa": "/dʒɒb ˈpəʊstɪŋ/",
+      "reading_th": "จ็อบ-โพส-ติง",
+      "meaning_th": "ประกาศรับสมัครงาน",
+      "emoji": "📢",
+      "example_en": "I found this job posting on LinkedIn.",
+      "example_th": "ฉันเจอประกาศรับสมัครงานนี้บนลิงก์ดอิน",
+      "cefr": "B1",
+      "note_th": "อังกฤษแบบอังกฤษมักใช้ job advert หรือ job ad แทน",
+      "distractors": [
+        "job hunting",
+        "job sharing",
+        "job rotation"
+      ]
+    },
+    {
+      "id": "job_description",
+      "word": "job description",
+      "pos": "noun",
+      "ipa": "/dʒɒb dɪˈskrɪpʃən/",
+      "reading_th": "จ็อบ-ดิส-คริป-ชัน",
+      "meaning_th": "รายละเอียดหน้าที่ของตำแหน่งงาน",
+      "emoji": "📝",
+      "example_en": "Read the job description before you apply.",
+      "example_th": "อ่านรายละเอียดงานให้ดีก่อนสมัคร",
+      "cefr": "B1",
+      "note_th": "ย่อว่า JD — ประกาศงานไทยหลายที่ก็ใช้คำนี้ทับศัพท์",
+      "distractors": [
+        "job interview",
+        "job title",
+        "job offer"
+      ]
+    },
+    {
+      "id": "opening",
+      "word": "opening",
+      "pos": "noun",
+      "ipa": "/ˈəʊpənɪŋ/",
+      "reading_th": "โอ-เพิน-นิง",
+      "meaning_th": "ตำแหน่งงานที่ว่างอยู่",
+      "emoji": "🚪",
+      "example_en": "We have an opening for a junior designer.",
+      "example_th": "เรามีตำแหน่งว่างสำหรับนักออกแบบระดับต้น",
+      "cefr": "B1",
+      "note_th": "opening แปลว่า 'การเปิด' ก็ได้ แต่ในบริบทงาน = ตำแหน่งที่ว่าง",
+      "distractors": [
+        "evening",
+        "offering",
+        "ordering"
+      ]
+    },
+    {
+      "id": "recruitment",
+      "word": "recruitment",
+      "pos": "noun",
+      "ipa": "/rɪˈkruːtmənt/",
+      "reading_th": "ริ-ครูท-เมินท์",
+      "meaning_th": "การรับสมัครและคัดเลือกคนเข้าทำงาน",
+      "emoji": "🧲",
+      "example_en": "The recruitment process takes about two weeks.",
+      "example_th": "ขั้นตอนการรับสมัครใช้เวลาประมาณสองสัปดาห์",
+      "cefr": "B2",
+      "note_th": "ต่างจาก recruiter ตรงที่อันนี้คือกระบวนการ ไม่ใช่ตัวคน",
+      "distractors": [
+        "retirement",
+        "requirement",
+        "replacement"
+      ]
+    },
+    {
+      "id": "recruiter",
+      "word": "recruiter",
+      "pos": "noun",
+      "ipa": "/rɪˈkruːtə/",
+      "reading_th": "ริ-ครู-เทอร์",
+      "meaning_th": "เจ้าหน้าที่สรรหาพนักงาน",
+      "emoji": "🕵️",
+      "example_en": "A recruiter called me about the position.",
+      "example_th": "เจ้าหน้าที่สรรหาโทรมาหาฉันเรื่องตำแหน่งนี้",
+      "cefr": "B1",
+      "note_th": "บางที่เรียก headhunter เมื่อเป็นคนนอกที่ตามล่าตัวผู้สมัครเก่ง ๆ",
+      "distractors": [
+        "reporter",
+        "retailer",
+        "researcher"
+      ]
+    },
+    {
+      "id": "applicant",
+      "word": "applicant",
+      "pos": "noun",
+      "ipa": "/ˈæplɪkənt/",
+      "reading_th": "แอพ-พลิ-เคินท์",
+      "meaning_th": "ผู้สมัครงาน",
+      "emoji": "🙋‍♂️",
+      "example_en": "Every applicant must send a portfolio.",
+      "example_th": "ผู้สมัครทุกคนต้องส่งแฟ้มผลงาน",
+      "cefr": "B1",
+      "note_th": "มาจาก apply + -ant = คนที่ทำกริยานั้น เหมือน assistant, participant",
+      "distractors": [
+        "appliance",
+        "applause",
+        "appointment"
+      ]
+    },
+    {
+      "id": "application_form",
+      "word": "application form",
+      "pos": "noun",
+      "ipa": "/ˌæplɪˈkeɪʃən fɔːm/",
+      "reading_th": "แอพ-พลิ-เค-ชัน-ฟอร์ม",
+      "meaning_th": "ใบสมัครงาน",
+      "emoji": "🗒️",
+      "example_en": "Fill in the application form in capital letters.",
+      "example_th": "กรอกใบสมัครด้วยตัวพิมพ์ใหญ่",
+      "cefr": "A2",
+      "note_th": "ถ้ากรอกออนไลน์ฝรั่งเรียก online application ไม่ต้องมีคำว่า form",
+      "distractors": [
+        "registration desk",
+        "order form",
+        "entry ticket"
+      ]
+    },
+    {
+      "id": "cover_letter",
+      "word": "cover letter",
+      "pos": "noun",
+      "ipa": "/ˈkʌvə ˌletə/",
+      "reading_th": "คัฟ-เวอร์-เลท-เทอร์",
+      "meaning_th": "จดหมายแนะนำตัวที่ส่งคู่กับเรซูเม่",
+      "emoji": "✉️",
+      "example_en": "Keep your cover letter under one page.",
+      "example_th": "เขียนจดหมายสมัครงานไม่ให้เกินหนึ่งหน้า",
+      "cefr": "B1",
+      "note_th": "คนไทยมักเรียกทับศัพท์ว่า 'คัฟเวอร์เลตเตอร์' — ไม่ใช่จดหมายปะหน้าเอกสารทั่วไป",
+      "distractors": [
+        "love letter",
+        "cover story",
+        "letter box"
+      ]
+    },
+    {
+      "id": "portfolio",
+      "word": "portfolio",
+      "pos": "noun",
+      "ipa": "/pɔːtˈfəʊliəʊ/",
+      "reading_th": "พอร์ท-โฟ-ลิ-โอ",
+      "meaning_th": "แฟ้มรวมผลงาน",
+      "emoji": "🗂️",
+      "example_en": "Her portfolio shows ten finished projects.",
+      "example_th": "แฟ้มผลงานของเธอมีงานที่เสร็จแล้วสิบชิ้น",
+      "cefr": "B1",
+      "note_th": "สายครีเอทีฟต้องมีเสมอ ส่วนสายอื่นใช้ work sample แทนได้",
+      "distractors": [
+        "port",
+        "postcard",
+        "folder"
+      ]
+    },
+    {
+      "id": "attachment",
+      "word": "attachment",
+      "pos": "noun",
+      "ipa": "/əˈtætʃmənt/",
+      "reading_th": "อะ-แทช-เมินท์",
+      "meaning_th": "ไฟล์ที่แนบไปกับอีเมล",
+      "emoji": "📎",
+      "example_en": "My resume is in the attachment.",
+      "example_th": "เรซูเม่ของฉันอยู่ในไฟล์แนบ",
+      "cefr": "B1",
+      "note_th": "กริยาคือ attach เช่น I attached my CV — อย่าลืม ed เวลาพูดถึงอดีต",
+      "distractors": [
+        "announcement",
+        "agreement",
+        "appointment"
+      ]
+    },
+    {
+      "id": "hand_in",
+      "word": "hand in",
+      "pos": "verb",
+      "ipa": "/hænd ɪn/",
+      "reading_th": "แฮนด์-อิน",
+      "meaning_th": "ยื่นหรือส่งเอกสารให้",
+      "emoji": "🤝",
+      "example_en": "Please hand in your documents at the front desk.",
+      "example_th": "กรุณายื่นเอกสารที่เคาน์เตอร์ด้านหน้า",
+      "cefr": "A2",
+      "note_th": "ใช้กับเอกสารที่ส่งให้คนรับโดยตรง ถ้าส่งออนไลน์ใช้ submit",
+      "distractors": [
+        "hand out",
+        "hang on",
+        "hold in"
+      ]
+    },
+    {
+      "id": "job_fair",
+      "word": "job fair",
+      "pos": "noun",
+      "ipa": "/dʒɒb feə/",
+      "reading_th": "จ็อบ-แฟร์",
+      "meaning_th": "งานมหกรรมจัดหางาน",
+      "emoji": "🎪",
+      "example_en": "I met three companies at the job fair.",
+      "example_th": "ฉันได้คุยกับสามบริษัทในงานมหกรรมจัดหางาน",
+      "cefr": "A2",
+      "note_th": "งานแบบนี้ในไทยมักจัดตามมหาวิทยาลัยและศูนย์ประชุม เตรียมเรซูเม่ไปหลายชุด",
+      "distractors": [
+        "book fair",
+        "job title",
+        "food fair"
+      ]
+    },
+    {
+      "id": "qualification",
+      "word": "qualification",
+      "pos": "noun",
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃən/",
+      "reading_th": "ควอ-ลิ-ฟิ-เค-ชัน",
+      "meaning_th": "คุณสมบัติหรือวุฒิที่ผู้สมัครมี",
+      "emoji": "🎓",
+      "example_en": "What qualification do you need for this job?",
+      "example_th": "งานนี้ต้องใช้วุฒิอะไรบ้าง",
+      "cefr": "B1",
+      "note_th": "พหูพจน์ qualifications ใช้บ่อยกว่า เพราะปกติมีหลายอย่าง",
+      "distractors": [
+        "quality control",
+        "quantity",
+        "quotation"
+      ]
+    },
+    {
+      "id": "requirement",
+      "word": "requirement",
+      "pos": "noun",
+      "ipa": "/rɪˈkwaɪəmənt/",
+      "reading_th": "ริ-ไคว-เออร์-เมินท์",
+      "meaning_th": "สิ่งที่บริษัทกำหนดว่าต้องมี",
+      "emoji": "✅",
+      "example_en": "Two years of experience is a requirement.",
+      "example_th": "ประสบการณ์สองปีเป็นสิ่งที่กำหนดไว้",
+      "cefr": "B1",
+      "note_th": "ประกาศงานมักแยกเป็น must-have (ต้องมี) กับ nice-to-have (มีก็ดี)",
+      "distractors": [
+        "retirement",
+        "refreshment",
+        "reminder"
+      ]
+    },
+    {
+      "id": "certificate",
+      "word": "certificate",
+      "pos": "noun",
+      "ipa": "/səˈtɪfɪkət/",
+      "reading_th": "เซอร์-ทิ-ฟิ-เคิท",
+      "meaning_th": "ใบประกาศนียบัตรหรือใบรับรอง",
+      "emoji": "📜",
+      "example_en": "Bring your language certificate to the interview.",
+      "example_th": "เอาใบรับรองผลสอบภาษาไปด้วยตอนสัมภาษณ์",
+      "cefr": "B1",
+      "note_th": "ระวังสับสนกับ certification ซึ่งหมายถึงการรับรองทั้งระบบ",
+      "distractors": [
+        "certainty",
+        "cartridge",
+        "curtain"
+      ]
+    },
+    {
+      "id": "transcript",
+      "word": "transcript",
+      "pos": "noun",
+      "ipa": "/ˈtrænskrɪpt/",
+      "reading_th": "ทราน-สคริปท์",
+      "meaning_th": "ใบแสดงผลการเรียน",
+      "emoji": "🧾",
+      "example_en": "They asked for a copy of my transcript.",
+      "example_th": "เขาขอสำเนาใบแสดงผลการเรียนของฉัน",
+      "cefr": "B2",
+      "note_th": "บริษัทไทยขอบ่อยตอนจบใหม่ ส่วนคนมีประสบการณ์แล้วมักไม่ต้องใช้",
+      "distractors": [
+        "transport",
+        "translation",
+        "transfer"
+      ]
+    },
+    {
+      "id": "shortlist",
+      "word": "shortlist",
+      "pos": "noun",
+      "ipa": "/ˈʃɔːtlɪst/",
+      "reading_th": "ช็อร์ท-ลิสท์",
+      "meaning_th": "รายชื่อผู้ผ่านการคัดเลือกรอบแรก",
+      "emoji": "📃",
+      "example_en": "You are on the shortlist for the second round.",
+      "example_th": "คุณอยู่ในรายชื่อผู้ผ่านเข้ารอบสอง",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาได้ด้วย: You have been shortlisted = คุณผ่านเข้ารอบ",
+      "distractors": [
+        "short cut",
+        "shopping list",
+        "short break"
+      ]
+    },
+    {
+      "id": "candidate",
+      "word": "candidate",
+      "pos": "noun",
+      "ipa": "/ˈkændɪdət/",
+      "reading_th": "แคน-ดิ-เดิท",
+      "meaning_th": "ผู้ที่ถูกพิจารณาให้เข้ารับตำแหน่ง",
+      "emoji": "👤",
+      "example_en": "We interviewed six candidates today.",
+      "example_th": "วันนี้เราสัมภาษณ์ผู้เข้าชิงตำแหน่งหกคน",
+      "cefr": "B1",
+      "note_th": "applicant = ทุกคนที่สมัคร ส่วน candidate = คนที่ถูกเลือกมาพิจารณาต่อ",
+      "distractors": [
+        "calendar",
+        "cabinet",
+        "container"
+      ]
+    },
+    {
+      "id": "confirm",
+      "word": "confirm",
+      "pos": "verb",
+      "ipa": "/kənˈfɜːm/",
+      "reading_th": "เคิน-เฟิร์ม",
+      "meaning_th": "ยืนยัน",
+      "emoji": "👍",
+      "example_en": "Please confirm the interview time by email.",
+      "example_th": "กรุณายืนยันเวลาสัมภาษณ์ทางอีเมล",
+      "cefr": "A2",
+      "note_th": "ตอบอีเมลนัดสัมภาษณ์ทุกครั้ง การเงียบถือว่าเสียมารยาทในวัฒนธรรมตะวันตก",
+      "distractors": [
+        "conform",
+        "confuse",
+        "control"
+      ]
+    },
+    {
+      "id": "prepare",
+      "word": "prepare",
+      "pos": "verb",
+      "ipa": "/prɪˈpeə/",
+      "reading_th": "พริ-แพร์",
+      "meaning_th": "เตรียมตัวหรือเตรียมของ",
+      "emoji": "🧠",
+      "example_en": "I prepare answers the night before.",
+      "example_th": "ฉันเตรียมคำตอบไว้ตั้งแต่คืนก่อน",
+      "cefr": "A2",
+      "note_th": "prepare for = เตรียมตัวสำหรับ ส่วน prepare something = เตรียมของสิ่งนั้น",
+      "distractors": [
+        "repair",
+        "prefer",
+        "present"
+      ]
+    },
+    {
+      "id": "mock_interview",
+      "word": "mock interview",
+      "pos": "noun",
+      "ipa": "/mɒk ˈɪntəvjuː/",
+      "reading_th": "ม็อค-อิน-เทอร์-วิว",
+      "meaning_th": "การซ้อมสัมภาษณ์เสมือนจริง",
+      "emoji": "🎭",
+      "example_en": "My friend gave me a mock interview.",
+      "example_th": "เพื่อนช่วยซ้อมสัมภาษณ์ให้ฉัน",
+      "cefr": "B2",
+      "note_th": "mock แปลว่า จำลอง เหมือน mock exam ที่โรงเรียนใช้",
+      "distractors": [
+        "mock exam",
+        "group interview",
+        "phone call"
+      ]
+    },
+    {
+      "id": "rehearse",
+      "word": "rehearse",
+      "pos": "verb",
+      "ipa": "/rɪˈhɜːs/",
+      "reading_th": "ริ-เฮิร์ส",
+      "meaning_th": "ซ้อมพูดหรือซ้อมแสดงล่วงหน้า",
+      "emoji": "🔁",
+      "example_en": "I rehearse my introduction in front of a mirror.",
+      "example_th": "ฉันซ้อมแนะนำตัวหน้ากระจก",
+      "cefr": "B2",
+      "note_th": "ออกเสียง ริ-เฮิร์ส ไม่ใช่ รี-เฮียส — คำนามคือ rehearsal",
+      "distractors": [
+        "reverse",
+        "release",
+        "research"
+      ]
+    },
+    {
+      "id": "dress_code",
+      "word": "dress code",
+      "pos": "noun",
+      "ipa": "/dres kəʊd/",
+      "reading_th": "เดรส-โค้ด",
+      "meaning_th": "ระเบียบการแต่งกาย",
+      "emoji": "🧥",
+      "example_en": "The dress code for the interview is business formal.",
+      "example_th": "การแต่งกายสำหรับสัมภาษณ์คือชุดทางการ",
+      "cefr": "B1",
+      "note_th": "business formal = สูท, business casual = เชิ้ตไม่ต้องมีไท",
+      "distractors": [
+        "area code",
+        "dress size",
+        "zip code"
+      ]
+    },
+    {
+      "id": "formal",
+      "word": "formal",
+      "pos": "adjective",
+      "ipa": "/ˈfɔːməl/",
+      "reading_th": "ฟอร์-เมิล",
+      "meaning_th": "เป็นทางการ",
+      "emoji": "🎩",
+      "example_en": "Wear something formal, not jeans.",
+      "example_th": "ใส่ชุดที่เป็นทางการ อย่าใส่ยีนส์",
+      "cefr": "B1",
+      "note_th": "ตรงข้ามคือ casual — ถ้าไม่แน่ใจให้แต่งทางการไว้ก่อนปลอดภัยกว่า",
+      "distractors": [
+        "former",
+        "normal",
+        "friendly"
+      ]
+    },
+    {
+      "id": "suit",
+      "word": "suit",
+      "pos": "noun",
+      "ipa": "/suːt/",
+      "reading_th": "สูท",
+      "meaning_th": "ชุดสูท",
+      "emoji": "🤵",
+      "example_en": "He wore a dark blue suit.",
+      "example_th": "เขาใส่สูทสีน้ำเงินเข้ม",
+      "cefr": "A2",
+      "note_th": "ออกเสียง สูท ไม่ใช่ ซุ-อิท และเป็นกริยาแปลว่า เหมาะกับ ได้ด้วย",
+      "distractors": [
+        "soup",
+        "sweet",
+        "shoot"
+      ]
+    },
+    {
+      "id": "tie",
+      "word": "tie",
+      "pos": "noun",
+      "ipa": "/taɪ/",
+      "reading_th": "ไท",
+      "meaning_th": "เนคไท",
+      "emoji": "👔",
+      "example_en": "Your tie looks very neat.",
+      "example_th": "เนคไทของคุณดูเรียบร้อยมาก",
+      "cefr": "A1",
+      "note_th": "tie เป็นกริยาแปลว่า 'ผูก' ได้ด้วย เช่น tie your shoes",
+      "distractors": [
+        "toe",
+        "tea",
+        "tail"
+      ]
+    },
+    {
+      "id": "punctual",
+      "word": "punctual",
+      "pos": "adjective",
+      "ipa": "/ˈpʌŋktʃuəl/",
+      "reading_th": "พังค์-ชวล",
+      "meaning_th": "ตรงต่อเวลา",
+      "emoji": "⏰",
+      "example_en": "Managers love staff who are punctual.",
+      "example_th": "หัวหน้าชอบพนักงานที่ตรงต่อเวลา",
+      "cefr": "B2",
+      "note_th": "คำนามคือ punctuality ซึ่งฝรั่งถือว่าเป็นคุณสมบัติสำคัญมาก",
+      "distractors": [
+        "punishment",
+        "practical",
+        "particular"
+      ]
+    },
+    {
+      "id": "arrive_early",
+      "word": "arrive early",
+      "pos": "verb",
+      "ipa": "/əˈraɪv ˈɜːli/",
+      "reading_th": "อะ-ไรฟ์-เออร์-ลี",
+      "meaning_th": "ไปถึงก่อนเวลานัด",
+      "emoji": "🏃",
+      "example_en": "Always arrive early for an interview.",
+      "example_th": "ไปถึงก่อนเวลานัดสัมภาษณ์เสมอ",
+      "cefr": "A2",
+      "note_th": "ฝรั่งถือว่ามาก่อน 10-15 นาทีคือดี ถ้ามาตรงเป๊ะถือว่าเฉียดฉิว",
+      "distractors": [
+        "arrive late",
+        "leave early",
+        "wake up early"
+      ]
+    },
+    {
+      "id": "introduce",
+      "word": "introduce",
+      "pos": "verb",
+      "ipa": "/ˌɪntrəˈdjuːs/",
+      "reading_th": "อิน-ทระ-ดิวส์",
+      "meaning_th": "แนะนำตัวหรือแนะนำให้รู้จัก",
+      "emoji": "🙋",
+      "example_en": "Let me introduce myself in one minute.",
+      "example_th": "ขอแนะนำตัวในหนึ่งนาที",
+      "cefr": "A2",
+      "note_th": "introduce myself ต้องมี myself เสมอ พูดแค่ introduce ฝรั่งจะงงว่าแนะนำใคร",
+      "distractors": [
+        "introduction",
+        "produce",
+        "interrupt"
+      ]
+    },
+    {
+      "id": "impression",
+      "word": "impression",
+      "pos": "noun",
+      "ipa": "/ɪmˈpreʃən/",
+      "reading_th": "อิม-เพรส-ชัน",
+      "meaning_th": "ความรู้สึกแรกที่คนอื่นมีต่อเรา",
+      "emoji": "✨",
+      "example_en": "You never get a second chance to make a first impression.",
+      "example_th": "โอกาสสร้างความประทับใจแรกมีแค่ครั้งเดียว",
+      "cefr": "B1",
+      "note_th": "วลีที่ต้องจำคือ make a good first impression",
+      "distractors": [
+        "expression",
+        "impossible",
+        "invitation"
+      ]
+    },
+    {
+      "id": "confidence",
+      "word": "confidence",
+      "pos": "noun",
+      "ipa": "/ˈkɒnfɪdəns/",
+      "reading_th": "คอน-ฟิ-เดินซ์",
+      "meaning_th": "ความมั่นใจในตัวเอง",
+      "emoji": "💪",
+      "example_en": "Speak with confidence, even if you are nervous.",
+      "example_th": "พูดอย่างมั่นใจ แม้จะตื่นเต้นก็ตาม",
+      "cefr": "B1",
+      "note_th": "คำคุณศัพท์คือ confident — อย่าสับสนกับ confidential ที่แปลว่าเป็นความลับ",
+      "distractors": [
+        "conference",
+        "consequence",
+        "convenience"
+      ]
+    },
+    {
+      "id": "background",
+      "word": "background",
+      "pos": "noun",
+      "ipa": "/ˈbækɡraʊnd/",
+      "reading_th": "แบ็ค-กราวด์",
+      "meaning_th": "ภูมิหลังด้านการศึกษาและการทำงาน",
+      "emoji": "📚",
+      "example_en": "Tell me about your background in design.",
+      "example_th": "เล่าภูมิหลังด้านการออกแบบของคุณให้ฟังหน่อย",
+      "cefr": "B1",
+      "note_th": "ในบริบทสัมภาษณ์หมายถึงประวัติการเรียนและการทำงาน ไม่ใช่ฉากหลังรูป",
+      "distractors": [
+        "backpack",
+        "backyard",
+        "foreground"
+      ]
+    },
+    {
+      "id": "previous",
+      "word": "previous",
+      "pos": "adjective",
+      "ipa": "/ˈpriːviəs/",
+      "reading_th": "พรี-เวียส",
+      "meaning_th": "ก่อนหน้านี้",
+      "emoji": "⏮️",
+      "example_en": "In my previous job I led a small team.",
+      "example_th": "ที่ทำงานก่อนหน้านี้ฉันดูแลทีมเล็ก ๆ",
+      "cefr": "B1",
+      "note_th": "สุภาพกว่าการพูดว่า old job และไม่ควรพูดถึงที่เก่าในแง่ลบ",
+      "distractors": [
+        "precious",
+        "obvious",
+        "serious"
+      ]
+    },
+    {
+      "id": "responsibility",
+      "word": "responsibility",
+      "pos": "noun",
+      "ipa": "/rɪˌspɒnsəˈbɪləti/",
+      "reading_th": "ริ-สปอน-สิ-บิ-ลิ-ที",
+      "meaning_th": "หน้าที่ความรับผิดชอบ",
+      "emoji": "🧭",
+      "example_en": "My main responsibility was customer support.",
+      "example_th": "หน้าที่หลักของฉันคือดูแลลูกค้า",
+      "cefr": "B1",
+      "note_th": "พูดว่า I was responsible for… เป็นรูปประโยคที่ใช้บ่อยที่สุดในการเล่างาน",
+      "distractors": [
+        "possibility",
+        "reputation",
+        "relationship"
+      ]
+    },
+    {
+      "id": "achievement",
+      "word": "achievement",
+      "pos": "noun",
+      "ipa": "/əˈtʃiːvmənt/",
+      "reading_th": "อะ-ชีฟ-เมินท์",
+      "meaning_th": "ผลงานที่ทำสำเร็จและภูมิใจ",
+      "emoji": "🏆",
+      "example_en": "My biggest achievement was launching the app.",
+      "example_th": "ผลงานที่ภูมิใจที่สุดคือการเปิดตัวแอป",
+      "cefr": "B1",
+      "note_th": "ตอบให้มีตัวเลขเสมอ เช่น เพิ่มยอด 20% ฝรั่งให้น้ำหนักกับผลลัพธ์ที่วัดได้",
+      "distractors": [
+        "agreement",
+        "adjustment",
+        "advertisement"
+      ]
+    },
+    {
+      "id": "expertise",
+      "word": "expertise",
+      "pos": "noun",
+      "ipa": "/ˌekspɜːˈtiːz/",
+      "reading_th": "เอ็ค-สเปอร์-ทีซ",
+      "meaning_th": "ความเชี่ยวชาญเฉพาะทาง",
+      "emoji": "🔧",
+      "example_en": "My expertise is in social media content.",
+      "example_th": "ความเชี่ยวชาญของฉันคือคอนเทนต์โซเชียลมีเดีย",
+      "cefr": "B2",
+      "note_th": "เป็นคำนามนับไม่ได้ ห้ามเติม s",
+      "distractors": [
+        "experiment",
+        "expectation",
+        "expense"
+      ]
+    },
+    {
+      "id": "specialize",
+      "word": "specialize",
+      "pos": "verb",
+      "ipa": "/ˈspeʃəlaɪz/",
+      "reading_th": "สเป-เชิล-ไลซ์",
+      "meaning_th": "เชี่ยวชาญด้านใดด้านหนึ่งเป็นพิเศษ",
+      "emoji": "🎯",
+      "example_en": "I specialize in mobile app design.",
+      "example_th": "ฉันเชี่ยวชาญด้านการออกแบบแอปมือถือ",
+      "cefr": "B2",
+      "note_th": "ตามด้วย in เสมอ: specialize in something",
+      "distractors": [
+        "socialize",
+        "speculate",
+        "simplify"
+      ]
+    },
+    {
+      "id": "proficient",
+      "word": "proficient",
+      "pos": "adjective",
+      "ipa": "/prəˈfɪʃənt/",
+      "reading_th": "โพร-ฟิ-เชินท์",
+      "meaning_th": "ชำนาญและทำได้ดี",
+      "emoji": "🛠️",
+      "example_en": "She is proficient in Excel and Figma.",
+      "example_th": "เธอใช้เอ็กเซลและฟิกม่าได้ชำนาญ",
+      "cefr": "B2",
+      "note_th": "ใช้กับทักษะ เช่น proficient in Excel ส่วน fluent ใช้กับภาษาเท่านั้น",
+      "distractors": [
+        "sufficient",
+        "efficient",
+        "patient"
+      ]
+    },
+    {
+      "id": "fluent",
+      "word": "fluent",
+      "pos": "adjective",
+      "ipa": "/ˈfluːənt/",
+      "reading_th": "ฟลู-เอินท์",
+      "meaning_th": "พูดภาษาได้คล่อง",
+      "emoji": "🗣️",
+      "example_en": "He is fluent in English and Chinese.",
+      "example_th": "เขาพูดอังกฤษและจีนได้คล่อง",
+      "cefr": "B1",
+      "note_th": "fluent in + ภาษา — ระดับรองลงมาคือ conversational แล้วก็ basic",
+      "distractors": [
+        "fluid",
+        "frequent",
+        "florist"
+      ]
+    },
+    {
+      "id": "bilingual",
+      "word": "bilingual",
+      "pos": "adjective",
+      "ipa": "/baɪˈlɪŋɡwəl/",
+      "reading_th": "ไบ-ลิง-เกวิล",
+      "meaning_th": "ใช้ได้สองภาษา",
+      "emoji": "🌐",
+      "example_en": "The job needs a bilingual assistant.",
+      "example_th": "งานนี้ต้องการผู้ช่วยที่ใช้ได้สองภาษา",
+      "cefr": "B2",
+      "note_th": "bi- แปลว่าสอง เหมือน bicycle — สามภาษาคือ trilingual",
+      "distractors": [
+        "biological",
+        "binocular",
+        "bicycle"
+      ]
+    },
+    {
+      "id": "internship",
+      "word": "internship",
+      "pos": "noun",
+      "ipa": "/ˈɪntɜːnʃɪp/",
+      "reading_th": "อิน-เทิร์น-ชิพ",
+      "meaning_th": "การฝึกงาน",
+      "emoji": "📎",
+      "example_en": "I did a six-month internship at a bank.",
+      "example_th": "ฉันฝึกงานที่ธนาคารหกเดือน",
+      "cefr": "B1",
+      "note_th": "คนฝึกงานเรียกว่า intern ส่วน internship คือตัวโครงการฝึกงาน",
+      "distractors": [
+        "internet",
+        "interview",
+        "international"
+      ]
+    },
+    {
+      "id": "freelance",
+      "word": "freelance",
+      "pos": "adjective",
+      "ipa": "/ˈfriːlɑːns/",
+      "reading_th": "ฟรี-แลนซ์",
+      "meaning_th": "รับงานอิสระ ไม่ได้เป็นพนักงานประจำ",
+      "emoji": "💻",
+      "example_en": "I took freelance work between jobs.",
+      "example_th": "ฉันรับงานอิสระในช่วงที่ว่างจากงานประจำ",
+      "cefr": "B1",
+      "note_th": "ใช้เป็นคำนามก็ได้: I work freelance = ฉันทำงานอิสระ",
+      "distractors": [
+        "free time",
+        "freedom",
+        "free trial"
+      ]
+    },
+    {
+      "id": "reliable",
+      "word": "reliable",
+      "pos": "adjective",
+      "ipa": "/rɪˈlaɪəbl/",
+      "reading_th": "ริ-ไล-อะ-เบิล",
+      "meaning_th": "ไว้ใจได้ ทำตามที่รับปาก",
+      "emoji": "🤞",
+      "example_en": "They want someone reliable, not just clever.",
+      "example_th": "เขาต้องการคนที่ไว้ใจได้ ไม่ใช่แค่เก่ง",
+      "cefr": "B1",
+      "note_th": "มาจาก rely on = พึ่งพาได้ ตรงข้ามคือ unreliable",
+      "distractors": [
+        "readable",
+        "religious",
+        "remarkable"
+      ]
+    },
+    {
+      "id": "diligent",
+      "word": "diligent",
+      "pos": "adjective",
+      "ipa": "/ˈdɪlɪdʒənt/",
+      "reading_th": "ดิ-ลิ-เจินท์",
+      "meaning_th": "ขยันขันแข็งและตั้งใจทำ",
+      "emoji": "🐝",
+      "example_en": "She is diligent and never leaves work unfinished.",
+      "example_th": "เธอขยันและไม่เคยทิ้งงานค้าง",
+      "cefr": "B2",
+      "note_th": "สุภาพและเป็นทางการกว่า hardworking ใช้ในจดหมายสมัครงานได้ดี",
+      "distractors": [
+        "different",
+        "delicate",
+        "distant"
+      ]
+    },
+    {
+      "id": "detail_oriented",
+      "word": "detail-oriented",
+      "pos": "adjective",
+      "ipa": "/ˈdiːteɪl ˈɔːrientɪd/",
+      "reading_th": "ดี-เทล-ออ-เรียน-เทิด",
+      "meaning_th": "ใส่ใจรายละเอียด",
+      "emoji": "🔍",
+      "example_en": "This job suits a detail-oriented person.",
+      "example_th": "งานนี้เหมาะกับคนที่ใส่ใจรายละเอียด",
+      "cefr": "B2",
+      "note_th": "ฝรั่งเขียนแบบนี้ในเรซูเม่บ่อยมาก อย่าลืมขีดกลางระหว่างสองคำ",
+      "distractors": [
+        "result-driven",
+        "open-minded",
+        "easy-going"
+      ]
+    },
+    {
+      "id": "problem_solving",
+      "word": "problem-solving",
+      "pos": "noun",
+      "ipa": "/ˈprɒbləm ˌsɒlvɪŋ/",
+      "reading_th": "พร็อบ-เลิม-ซอล-วิง",
+      "meaning_th": "ทักษะการแก้ปัญหา",
+      "emoji": "🧩",
+      "example_en": "Give an example of your problem-solving skills.",
+      "example_th": "ยกตัวอย่างทักษะการแก้ปัญหาของคุณ",
+      "cefr": "B2",
+      "note_th": "ใช้เป็นคำคุณศัพท์ก็ได้ เช่น problem-solving skills",
+      "distractors": [
+        "decision-making",
+        "time-saving",
+        "record-keeping"
+      ]
+    },
+    {
+      "id": "leadership",
+      "word": "leadership",
+      "pos": "noun",
+      "ipa": "/ˈliːdəʃɪp/",
+      "reading_th": "ลี-เดอร์-ชิพ",
+      "meaning_th": "ภาวะผู้นำ",
+      "emoji": "🧑‍✈️",
+      "example_en": "The role needs strong leadership.",
+      "example_th": "ตำแหน่งนี้ต้องการภาวะผู้นำที่เข้มแข็ง",
+      "cefr": "B2",
+      "note_th": "ไม่ได้แปลว่าตำแหน่งหัวหน้าเสมอไป การพาทีมทำงานสำเร็จก็นับ",
+      "distractors": [
+        "ownership",
+        "friendship",
+        "membership"
+      ]
+    },
+    {
+      "id": "ambition",
+      "word": "ambition",
+      "pos": "noun",
+      "ipa": "/æmˈbɪʃən/",
+      "reading_th": "แอม-บิ-ชัน",
+      "meaning_th": "ความมุ่งมั่นอยากไปให้ถึงเป้าหมาย",
+      "emoji": "🚀",
+      "example_en": "My ambition is to lead a design team.",
+      "example_th": "ความมุ่งมั่นของฉันคือได้นำทีมออกแบบ",
+      "cefr": "B2",
+      "note_th": "คำคุณศัพท์คือ ambitious — ในบริบทงานถือเป็นคำชม ไม่ใช่คำติ",
+      "distractors": [
+        "addiction",
+        "attention",
+        "admission"
+      ]
+    },
+    {
+      "id": "motivation",
+      "word": "motivation",
+      "pos": "noun",
+      "ipa": "/ˌməʊtɪˈveɪʃən/",
+      "reading_th": "โม-ทิ-เว-ชัน",
+      "meaning_th": "แรงจูงใจในการทำงาน",
+      "emoji": "🔥",
+      "example_en": "What is your motivation for changing jobs?",
+      "example_th": "อะไรเป็นแรงจูงใจให้คุณเปลี่ยนงาน",
+      "cefr": "B1",
+      "note_th": "กริยาคือ motivate เช่น What motivates you? เป็นคำถามคลาสสิก",
+      "distractors": [
+        "imagination",
+        "operation",
+        "vacation"
+      ]
+    },
+    {
+      "id": "flexible",
+      "word": "flexible",
+      "pos": "adjective",
+      "ipa": "/ˈfleksəbl/",
+      "reading_th": "เฟล็ก-สิ-เบิล",
+      "meaning_th": "ยืดหยุ่น ปรับตามสถานการณ์ได้",
+      "emoji": "🤸",
+      "example_en": "I am flexible about working hours.",
+      "example_th": "ฉันยืดหยุ่นเรื่องเวลาทำงาน",
+      "cefr": "B1",
+      "note_th": "ตอบว่ายืดหยุ่นได้ช่วยเพิ่มโอกาส แต่อย่ารับปากเกินที่ทำไหว",
+      "distractors": [
+        "fragile",
+        "familiar",
+        "favourite"
+      ]
+    },
+    {
+      "id": "adapt",
+      "word": "adapt",
+      "pos": "verb",
+      "ipa": "/əˈdæpt/",
+      "reading_th": "อะ-แดพท์",
+      "meaning_th": "ปรับตัวให้เข้ากับสิ่งใหม่",
+      "emoji": "🔄",
+      "example_en": "New staff must adapt to our tools quickly.",
+      "example_th": "พนักงานใหม่ต้องปรับตัวเข้ากับเครื่องมือของเราให้เร็ว",
+      "cefr": "B1",
+      "note_th": "ระวังสับสนกับ adopt ที่แปลว่ารับเลี้ยงหรือนำมาใช้",
+      "distractors": [
+        "adopt",
+        "admit",
+        "advance"
+      ]
+    },
+    {
+      "id": "stand_out",
+      "word": "stand out",
+      "pos": "verb",
+      "ipa": "/stænd aʊt/",
+      "reading_th": "สแตนด์-เอาท์",
+      "meaning_th": "โดดเด่นกว่าคนอื่น",
+      "emoji": "🌟",
+      "example_en": "A good portfolio helps you stand out.",
+      "example_th": "แฟ้มผลงานที่ดีช่วยให้คุณโดดเด่น",
+      "cefr": "B1",
+      "note_th": "ใช้ได้ทั้งคนและสิ่งของ เช่น Your portfolio stands out",
+      "distractors": [
+        "stand up",
+        "stay out",
+        "step out"
+      ]
+    },
+    {
+      "id": "pressure",
+      "word": "pressure",
+      "pos": "noun",
+      "ipa": "/ˈpreʃə/",
+      "reading_th": "เพรส-เชอร์",
+      "meaning_th": "ความกดดัน",
+      "emoji": "😤",
+      "example_en": "Can you work under pressure?",
+      "example_th": "คุณทำงานภายใต้ความกดดันได้ไหม",
+      "cefr": "B1",
+      "note_th": "วลีสำคัญคือ work under pressure — อย่าใช้ press ที่แปลว่ากด",
+      "distractors": [
+        "pleasure",
+        "picture",
+        "passenger"
+      ]
+    },
+    {
+      "id": "conflict",
+      "word": "conflict",
+      "pos": "noun",
+      "ipa": "/ˈkɒnflɪkt/",
+      "reading_th": "คอน-ฟลิคท์",
+      "meaning_th": "ความขัดแย้งระหว่างคน",
+      "emoji": "⚡",
+      "example_en": "How do you handle conflict in a team?",
+      "example_th": "คุณรับมือความขัดแย้งในทีมอย่างไร",
+      "cefr": "B2",
+      "note_th": "เน้นพยางค์แรกเมื่อเป็นคำนาม CON-flict ส่วนกริยาเน้นหลัง con-FLICT",
+      "distractors": [
+        "comfort",
+        "contact",
+        "concert"
+      ]
+    },
+    {
+      "id": "criticism",
+      "word": "criticism",
+      "pos": "noun",
+      "ipa": "/ˈkrɪtɪsɪzəm/",
+      "reading_th": "คริ-ทิ-ซิ-เซิม",
+      "meaning_th": "คำวิจารณ์หรือคำติ",
+      "emoji": "🗯️",
+      "example_en": "I take criticism as free advice.",
+      "example_th": "ฉันมองคำวิจารณ์เป็นคำแนะนำฟรี",
+      "cefr": "B2",
+      "note_th": "constructive criticism = คำติเพื่อก่อ ซึ่งเป็นคำตอบที่ดีเวลาถูกถาม",
+      "distractors": [
+        "crisis",
+        "creativity",
+        "curiosity"
+      ]
+    },
+    {
+      "id": "setback",
+      "word": "setback",
+      "pos": "noun",
+      "ipa": "/ˈsetbæk/",
+      "reading_th": "เซ็ท-แบ็ค",
+      "meaning_th": "อุปสรรคที่ทำให้งานสะดุด",
+      "emoji": "🚧",
+      "example_en": "The delay was a setback, but we finished on time.",
+      "example_th": "ความล่าช้าเป็นอุปสรรค แต่เราก็ทำเสร็จทันเวลา",
+      "cefr": "B2",
+      "note_th": "เบากว่า failure และฟังดูเป็นมืออาชีพกว่าเวลาพูดถึงงานที่ไม่สำเร็จ",
+      "distractors": [
+        "feedback",
+        "backup",
+        "shortcut"
+      ]
+    },
+    {
+      "id": "elaborate",
+      "word": "elaborate",
+      "pos": "verb",
+      "ipa": "/ɪˈlæbəreɪt/",
+      "reading_th": "อิ-แล็บ-บะ-เรท",
+      "meaning_th": "ขยายความให้ละเอียดขึ้น",
+      "emoji": "📖",
+      "example_en": "Could you elaborate on that project?",
+      "example_th": "ช่วยขยายความเรื่องโปรเจกต์นั้นหน่อยได้ไหม",
+      "cefr": "B2",
+      "note_th": "เป็นคำสุภาพที่ผู้สัมภาษณ์ใช้บ่อยเมื่ออยากฟังรายละเอียดเพิ่ม",
+      "distractors": [
+        "eliminate",
+        "evaluate",
+        "celebrate"
+      ]
+    },
+    {
+      "id": "clarify",
+      "word": "clarify",
+      "pos": "verb",
+      "ipa": "/ˈklærɪfaɪ/",
+      "reading_th": "แคล-ริ-ไฟ",
+      "meaning_th": "อธิบายให้ชัดเจนขึ้น",
+      "emoji": "💡",
+      "example_en": "Let me clarify what I meant.",
+      "example_th": "ขออธิบายให้ชัดเจนว่าฉันหมายถึงอะไร",
+      "cefr": "B2",
+      "note_th": "ถามกลับได้ไม่เสียมารยาท: Could you clarify the question?",
+      "distractors": [
+        "classify",
+        "clean up",
+        "close off"
+      ]
+    },
+    {
+      "id": "summarize",
+      "word": "summarize",
+      "pos": "verb",
+      "ipa": "/ˈsʌməraɪz/",
+      "reading_th": "ซัม-มะ-ไรซ์",
+      "meaning_th": "สรุปใจความสำคัญ",
+      "emoji": "📌",
+      "example_en": "Can you summarize your experience in one minute?",
+      "example_th": "ช่วยสรุปประสบการณ์ของคุณในหนึ่งนาทีได้ไหม",
+      "cefr": "B2",
+      "note_th": "อังกฤษแบบอังกฤษสะกด summarise — คำนามคือ summary",
+      "distractors": [
+        "memorize",
+        "supervise",
+        "surprise"
+      ]
+    },
+    {
+      "id": "emphasize",
+      "word": "emphasize",
+      "pos": "verb",
+      "ipa": "/ˈemfəsaɪz/",
+      "reading_th": "เอ็ม-ฟะ-ไซซ์",
+      "meaning_th": "เน้นย้ำให้เห็นความสำคัญ",
+      "emoji": "❗",
+      "example_en": "I want to emphasize my teamwork experience.",
+      "example_th": "ฉันอยากเน้นย้ำประสบการณ์การทำงานเป็นทีม",
+      "cefr": "B2",
+      "note_th": "อังกฤษแบบอังกฤษสะกด emphasise ส่วนคำนามคือ emphasis",
+      "distractors": [
+        "organize",
+        "apologize",
+        "exercise"
+      ]
+    },
+    {
+      "id": "demonstrate",
+      "word": "demonstrate",
+      "pos": "verb",
+      "ipa": "/ˈdemənstreɪt/",
+      "reading_th": "เดม-เมิน-สเตรท",
+      "meaning_th": "แสดงให้เห็นด้วยตัวอย่างจริง",
+      "emoji": "🖐️",
+      "example_en": "Numbers demonstrate your results better than words.",
+      "example_th": "ตัวเลขแสดงผลงานได้ดีกว่าคำพูด",
+      "cefr": "B2",
+      "note_th": "ในเรซูเม่ใช้ demonstrated เพื่อบอกว่าเคยพิสูจน์ผลงานมาแล้ว",
+      "distractors": [
+        "dominate",
+        "decorate",
+        "dedicate"
+      ]
+    },
+    {
+      "id": "point_out",
+      "word": "point out",
+      "pos": "verb",
+      "ipa": "/pɔɪnt aʊt/",
+      "reading_th": "พอยท์-เอาท์",
+      "meaning_th": "ชี้ให้เห็นหรือบอกให้รู้",
+      "emoji": "👉",
+      "example_en": "She pointed out a mistake in my resume.",
+      "example_th": "เธอชี้ให้เห็นข้อผิดพลาดในเรซูเม่ของฉัน",
+      "cefr": "B1",
+      "note_th": "รูปอดีตคือ pointed out",
+      "distractors": [
+        "print out",
+        "pick up",
+        "put off"
+      ]
+    },
+    {
+      "id": "specific",
+      "word": "specific",
+      "pos": "adjective",
+      "ipa": "/spəˈsɪfɪk/",
+      "reading_th": "สเปอ-ซิ-ฟิค",
+      "meaning_th": "เฉพาะเจาะจง ไม่กว้างเกินไป",
+      "emoji": "🎯",
+      "example_en": "Give a specific example, not a general answer.",
+      "example_th": "ยกตัวอย่างที่เฉพาะเจาะจง อย่าตอบกว้าง ๆ",
+      "cefr": "B1",
+      "note_th": "เทคนิค STAR (สถานการณ์ งาน สิ่งที่ทำ ผลลัพธ์) ช่วยให้ตอบเฉพาะเจาะจง",
+      "distractors": [
+        "scientific",
+        "terrific",
+        "pacific"
+      ]
+    },
+    {
+      "id": "concise",
+      "word": "concise",
+      "pos": "adjective",
+      "ipa": "/kənˈsaɪs/",
+      "reading_th": "เคิน-ไซส์",
+      "meaning_th": "สั้นกระชับได้ใจความ",
+      "emoji": "✂️",
+      "example_en": "Keep your answers concise and clear.",
+      "example_th": "ตอบให้กระชับและชัดเจน",
+      "cefr": "B2",
+      "note_th": "ออกเสียง เคิน-ไซส์ ไม่ใช่ คอน-ซิส — คำตอบที่ดีอยู่ที่ 1-2 นาที",
+      "distractors": [
+        "precise",
+        "consider",
+        "content"
+      ]
+    },
+    {
+      "id": "honestly",
+      "word": "honestly",
+      "pos": "adverb",
+      "ipa": "/ˈɒnɪstli/",
+      "reading_th": "ออ-นิส-ลี",
+      "meaning_th": "อย่างตรงไปตรงมา",
+      "emoji": "🙏",
+      "example_en": "Honestly, I still have a lot to learn.",
+      "example_th": "พูดตรง ๆ ว่าฉันยังต้องเรียนรู้อีกมาก",
+      "cefr": "B1",
+      "note_th": "ตัว h ไม่ออกเสียง อ่านว่า 'ออ-นิส-ลี'",
+      "distractors": [
+        "honeymoon",
+        "hopefully",
+        "hardly"
+      ]
+    },
+    {
+      "id": "communicate",
+      "word": "communicate",
+      "pos": "verb",
+      "ipa": "/kəˈmjuːnɪkeɪt/",
+      "reading_th": "เคอ-มิว-นิ-เคท",
+      "meaning_th": "สื่อสารให้เข้าใจตรงกัน",
+      "emoji": "📣",
+      "example_en": "I communicate with the team every morning.",
+      "example_th": "ฉันสื่อสารกับทีมทุกเช้า",
+      "cefr": "B1",
+      "note_th": "คำนามคือ communication ซึ่งเป็นทักษะที่ประกาศงานขอบ่อยที่สุด",
+      "distractors": [
+        "commute",
+        "complicate",
+        "compensate"
+      ]
+    },
+    {
+      "id": "prioritize",
+      "word": "prioritize",
+      "pos": "verb",
+      "ipa": "/praɪˈɒrətaɪz/",
+      "reading_th": "ไพร-ออ-ริ-ไทซ์",
+      "meaning_th": "จัดลำดับความสำคัญ",
+      "emoji": "🔢",
+      "example_en": "I prioritize urgent tasks in the morning.",
+      "example_th": "ฉันจัดลำดับงานด่วนไว้ตอนเช้า",
+      "cefr": "B2",
+      "note_th": "อังกฤษแบบอังกฤษสะกด prioritise — คำนามคือ priority",
+      "distractors": [
+        "privatize",
+        "practise",
+        "provide"
+      ]
+    },
+    {
+      "id": "briefly",
+      "word": "briefly",
+      "pos": "adverb",
+      "ipa": "/ˈbriːfli/",
+      "reading_th": "บรีฟ-ลี",
+      "meaning_th": "อย่างสั้น ๆ พอสังเขป",
+      "emoji": "⏱️",
+      "example_en": "Briefly tell me why you left your last job.",
+      "example_th": "เล่าสั้น ๆ ว่าทำไมคุณถึงออกจากงานที่แล้ว",
+      "cefr": "B1",
+      "note_th": "มาจาก brief ที่แปลว่าสั้น ถ้าเขาบอกคำนี้แปลว่าอย่าตอบยาว",
+      "distractors": [
+        "bravely",
+        "barely",
+        "brightly"
+      ]
+    },
+    {
+      "id": "example",
+      "word": "example",
+      "pos": "noun",
+      "ipa": "/ɪɡˈzɑːmpl/",
+      "reading_th": "อิก-ซาม-เพิล",
+      "meaning_th": "ตัวอย่างประกอบคำตอบ",
+      "emoji": "📎",
+      "example_en": "For example, I once saved the team two hours a day.",
+      "example_th": "ตัวอย่างเช่น ครั้งหนึ่งฉันช่วยทีมประหยัดเวลาวันละสองชั่วโมง",
+      "cefr": "A2",
+      "note_th": "วลีที่ใช้บ่อยคือ for example และ for instance ความหมายเหมือนกัน",
+      "distractors": [
+        "excellent",
+        "exchange",
+        "exam"
+      ]
+    },
+    {
+      "id": "overall",
+      "word": "overall",
+      "pos": "adverb",
+      "ipa": "/ˌəʊvərˈɔːl/",
+      "reading_th": "โอ-เวอร์-ออล",
+      "meaning_th": "โดยรวมแล้ว",
+      "emoji": "🧾",
+      "example_en": "Overall, I enjoy working with data.",
+      "example_th": "โดยรวมแล้วฉันชอบทำงานกับข้อมูล",
+      "cefr": "B1",
+      "note_th": "ใช้ขึ้นต้นประโยคสรุปตอนท้ายคำตอบ ทำให้ฟังเป็นระเบียบขึ้น",
+      "distractors": [
+        "over there",
+        "after all",
+        "overnight"
+      ]
+    },
+    {
+      "id": "probation",
+      "word": "probation",
+      "pos": "noun",
+      "ipa": "/prəˈbeɪʃən/",
+      "reading_th": "โพร-เบ-ชัน",
+      "meaning_th": "ช่วงทดลองงาน",
+      "emoji": "🗓️",
+      "example_en": "There is a four-month probation for new staff.",
+      "example_th": "พนักงานใหม่มีช่วงทดลองงานสี่เดือน",
+      "cefr": "B2",
+      "note_th": "คนไทยเรียกทับศัพท์ว่า 'โปรฯ' เช่น ผ่านโปรแล้ว = passed probation",
+      "distractors": [
+        "production",
+        "promotion",
+        "protection"
+      ]
+    },
+    {
+      "id": "remote",
+      "word": "remote",
+      "pos": "adjective",
+      "ipa": "/rɪˈməʊt/",
+      "reading_th": "ริ-โมท",
+      "meaning_th": "ทำงานจากที่บ้านหรือที่ไหนก็ได้",
+      "emoji": "🏠",
+      "example_en": "This is a fully remote position.",
+      "example_th": "ตำแหน่งนี้ทำงานทางไกลได้เต็มรูปแบบ",
+      "cefr": "B1",
+      "note_th": "work from home ย่อว่า WFH เป็นคำที่ใช้กันทั่วไปหลังโควิด",
+      "distractors": [
+        "removed",
+        "reduced",
+        "relaxed"
+      ]
+    },
+    {
+      "id": "hybrid",
+      "word": "hybrid",
+      "pos": "adjective",
+      "ipa": "/ˈhaɪbrɪd/",
+      "reading_th": "ไฮ-บริด",
+      "meaning_th": "ทำงานสลับระหว่างออฟฟิศกับที่บ้าน",
+      "emoji": "🔀",
+      "example_en": "We use a hybrid schedule: three days in the office.",
+      "example_th": "เราใช้ตารางแบบผสม เข้าออฟฟิศสามวัน",
+      "cefr": "B2",
+      "note_th": "ถามให้ชัดว่ากี่วันต่อสัปดาห์ เพราะแต่ละบริษัทนิยามไม่เหมือนกัน",
+      "distractors": [
+        "humid",
+        "hidden",
+        "highlight"
+      ]
+    },
+    {
+      "id": "working_hours",
+      "word": "working hours",
+      "pos": "noun",
+      "ipa": "/ˈwɜːkɪŋ aʊəz/",
+      "reading_th": "เวิร์ค-คิง-อาวเออร์ส",
+      "meaning_th": "เวลาทำงานในแต่ละวัน",
+      "emoji": "🕘",
+      "example_en": "What are the working hours for this role?",
+      "example_th": "ตำแหน่งนี้เวลาทำงานกี่โมงถึงกี่โมง",
+      "cefr": "A2",
+      "note_th": "ถามเรื่อง overtime ควบไปด้วยว่าได้ค่าล่วงเวลาหรือไม่",
+      "distractors": [
+        "opening hours",
+        "rush hours",
+        "happy hours"
+      ]
+    },
+    {
+      "id": "annual_leave",
+      "word": "annual leave",
+      "pos": "noun",
+      "ipa": "/ˈænjuəl liːv/",
+      "reading_th": "แอน-นวล-ลีฟ",
+      "meaning_th": "วันลาพักร้อนต่อปี",
+      "emoji": "🏖️",
+      "example_en": "The package includes twelve days of annual leave.",
+      "example_th": "สวัสดิการรวมวันลาพักร้อนสิบสองวัน",
+      "cefr": "B1",
+      "note_th": "ต่างจาก sick leave (ลาป่วย) และ personal leave (ลากิจ)",
+      "distractors": [
+        "sick leave",
+        "annual report",
+        "maternity leave"
+      ]
+    },
+    {
+      "id": "allowance",
+      "word": "allowance",
+      "pos": "noun",
+      "ipa": "/əˈlaʊəns/",
+      "reading_th": "อะ-ลาว-เอินซ์",
+      "meaning_th": "เงินช่วยเหลือพิเศษนอกจากเงินเดือน",
+      "emoji": "💵",
+      "example_en": "They give a travel allowance every month.",
+      "example_th": "เขาให้ค่าเดินทางทุกเดือน",
+      "cefr": "B2",
+      "note_th": "ที่พบบ่อยในไทยคือค่าเดินทาง ค่าโทรศัพท์ และค่าอาหาร",
+      "distractors": [
+        "appearance",
+        "attendance",
+        "assistance"
+      ]
+    },
+    {
+      "id": "provident_fund",
+      "word": "provident fund",
+      "pos": "noun",
+      "ipa": "/ˈprɒvɪdənt fʌnd/",
+      "reading_th": "พรอ-วิ-เดินท์-ฟันด์",
+      "meaning_th": "กองทุนสำรองเลี้ยงชีพ",
+      "emoji": "🏦",
+      "example_en": "The company adds five percent to the provident fund.",
+      "example_th": "บริษัทสมทบกองทุนสำรองเลี้ยงชีพห้าเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "เป็นสวัสดิการที่คนไทยถามบ่อยมากตอนสัมภาษณ์",
+      "distractors": [
+        "pension plan",
+        "provided food",
+        "private fund"
+      ]
+    },
+    {
+      "id": "severance",
+      "word": "severance",
+      "pos": "noun",
+      "ipa": "/ˈsevərəns/",
+      "reading_th": "เซ-เวอ-เรินซ์",
+      "meaning_th": "เงินชดเชยเมื่อถูกเลิกจ้าง",
+      "emoji": "📤",
+      "example_en": "By law they must pay severance.",
+      "example_th": "ตามกฎหมายเขาต้องจ่ายเงินชดเชย",
+      "cefr": "B2",
+      "note_th": "ในไทยกฎหมายกำหนดตามอายุงาน ยิ่งทำงานนานยิ่งได้มาก",
+      "distractors": [
+        "service",
+        "silence",
+        "seniority"
+      ]
+    },
+    {
+      "id": "commission",
+      "word": "commission",
+      "pos": "noun",
+      "ipa": "/kəˈmɪʃən/",
+      "reading_th": "เคอ-มิช-ชัน",
+      "meaning_th": "ค่านายหน้าที่ได้ตามยอดขาย",
+      "emoji": "💹",
+      "example_en": "Sales staff earn a commission on every deal.",
+      "example_th": "ฝ่ายขายได้ค่าคอมมิชชั่นจากทุกดีล",
+      "cefr": "B2",
+      "note_th": "ถามให้ชัดว่าเป็น capped (มีเพดาน) หรือ uncapped (ไม่มีเพดาน)",
+      "distractors": [
+        "competition",
+        "communication",
+        "collection"
+      ]
+    },
+    {
+      "id": "pay_raise",
+      "word": "pay raise",
+      "pos": "noun",
+      "ipa": "/peɪ reɪz/",
+      "reading_th": "เพย์-เรซ",
+      "meaning_th": "การขึ้นเงินเดือน",
+      "emoji": "📈",
+      "example_en": "Staff get a pay raise after one year.",
+      "example_th": "พนักงานได้ขึ้นเงินเดือนหลังทำงานครบหนึ่งปี",
+      "cefr": "B1",
+      "note_th": "อังกฤษแบบอังกฤษใช้ pay rise ส่วนอเมริกันใช้ pay raise",
+      "distractors": [
+        "pay cut",
+        "pay day",
+        "price rise"
+      ]
+    },
+    {
+      "id": "training",
+      "word": "training",
+      "pos": "noun",
+      "ipa": "/ˈtreɪnɪŋ/",
+      "reading_th": "เทรน-นิง",
+      "meaning_th": "การอบรมเพื่อเพิ่มทักษะ",
+      "emoji": "📘",
+      "example_en": "New staff get two weeks of training.",
+      "example_th": "พนักงานใหม่ได้อบรมสองสัปดาห์",
+      "cefr": "A2",
+      "note_th": "ถามว่ามี on-the-job training (สอนหน้างาน) หรือคอร์สแยกต่างหาก",
+      "distractors": [
+        "traveling",
+        "trading",
+        "trending"
+      ]
+    },
+    {
+      "id": "workload",
+      "word": "workload",
+      "pos": "noun",
+      "ipa": "/ˈwɜːkləʊd/",
+      "reading_th": "เวิร์ค-โหลด",
+      "meaning_th": "ปริมาณงานที่ต้องรับผิดชอบ",
+      "emoji": "📦",
+      "example_en": "How heavy is the workload in busy months?",
+      "example_th": "ช่วงเดือนที่งานเยอะปริมาณงานหนักแค่ไหน",
+      "cefr": "B2",
+      "note_th": "ถามคำถามนี้ช่วงท้ายได้ ไม่ถือว่าเสียมารยาทและช่วยให้เห็นภาพจริง",
+      "distractors": [
+        "download",
+        "workshop",
+        "workspace"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "word": "supervisor",
+      "pos": "noun",
+      "ipa": "/ˈsuːpəvaɪzə/",
+      "reading_th": "ซู-เพอร์-ไว-เซอร์",
+      "meaning_th": "หัวหน้างานที่ดูแลเราโดยตรง",
+      "emoji": "🧑‍💼",
+      "example_en": "Who would be my supervisor in this team?",
+      "example_th": "ในทีมนี้ใครจะเป็นหัวหน้างานของฉัน",
+      "cefr": "B1",
+      "note_th": "ต่างจาก manager ตรงที่ supervisor ดูแลใกล้ชิดระดับหน้างาน",
+      "distractors": [
+        "survivor",
+        "supporter",
+        "superstar"
+      ]
+    },
+    {
+      "id": "coworker",
+      "word": "coworker",
+      "pos": "noun",
+      "ipa": "/ˈkəʊwɜːkə/",
+      "reading_th": "โค-เวิร์ค-เกอร์",
+      "meaning_th": "คนที่ทำงานอยู่ทีมเดียวกับเรา",
+      "emoji": "👥",
+      "example_en": "I learned a lot from a coworker in my last job.",
+      "example_th": "ฉันเรียนรู้เยอะจากคนที่ทำงานด้วยกันในงานที่แล้ว",
+      "cefr": "A2",
+      "note_th": "อเมริกันใช้ coworker อังกฤษใช้ colleague ความหมายเดียวกัน",
+      "distractors": [
+        "customer",
+        "commuter",
+        "contractor"
+      ]
+    },
+    {
+      "id": "follow_up",
+      "word": "follow up",
+      "pos": "verb",
+      "ipa": "/ˈfɒləʊ ʌp/",
+      "reading_th": "ฟอล-โล-อัพ",
+      "meaning_th": "ติดตามผลหลังจากติดต่อไปแล้ว",
+      "emoji": "🔔",
+      "example_en": "I will follow up if I hear nothing in a week.",
+      "example_th": "ถ้าหนึ่งสัปดาห์ยังไม่มีข่าว ฉันจะติดตามผล",
+      "cefr": "B1",
+      "note_th": "เว้นระยะ 5-7 วันทำการก่อนติดตาม อย่าถามซ้ำทุกวัน",
+      "distractors": [
+        "fill up",
+        "follow along",
+        "fall behind"
+      ]
+    },
+    {
+      "id": "thank_you_email",
+      "word": "thank-you email",
+      "pos": "noun",
+      "ipa": "/ˈθæŋk juː ˈiːmeɪl/",
+      "reading_th": "แธงค์-ยู-อี-เมล",
+      "meaning_th": "อีเมลขอบคุณที่ส่งหลังสัมภาษณ์",
+      "emoji": "💌",
+      "example_en": "Send a short thank-you email the same day.",
+      "example_th": "ส่งอีเมลขอบคุณสั้น ๆ ภายในวันเดียวกัน",
+      "cefr": "B1",
+      "note_th": "ฝรั่งถือเป็นมารยาทสำคัญ คนไทยมักลืม — ทำแล้วได้เปรียบ",
+      "distractors": [
+        "welcome letter",
+        "thank-you card",
+        "group email"
+      ]
+    },
+    {
+      "id": "second_round",
+      "word": "second round",
+      "pos": "noun",
+      "ipa": "/ˈsekənd raʊnd/",
+      "reading_th": "เซ-เคินด์-ราวด์",
+      "meaning_th": "การสัมภาษณ์รอบที่สอง",
+      "emoji": "2️⃣",
+      "example_en": "They invited me to a second round with the director.",
+      "example_th": "เขาเรียกฉันสัมภาษณ์รอบสองกับผู้อำนวยการ",
+      "cefr": "B1",
+      "note_th": "รอบสองมักเจอหัวหน้าจริงและถามลึกกว่าเดิม เตรียมตัวอย่างงานไว้ให้พร้อม",
+      "distractors": [
+        "second hand",
+        "final score",
+        "next station"
+      ]
+    },
+    {
+      "id": "background_check",
+      "word": "background check",
+      "pos": "noun",
+      "ipa": "/ˈbækɡraʊnd tʃek/",
+      "reading_th": "แบ็ค-กราวด์-เช็ค",
+      "meaning_th": "การตรวจสอบประวัติผู้สมัคร",
+      "emoji": "🔎",
+      "example_en": "The offer depends on a background check.",
+      "example_th": "การเสนองานขึ้นอยู่กับผลตรวจสอบประวัติ",
+      "cefr": "B2",
+      "note_th": "เตรียมชื่อผู้รับรอง (reference) ไว้ล่วงหน้าและขออนุญาตเขาก่อน",
+      "distractors": [
+        "health check",
+        "security guard",
+        "credit card"
+      ]
+    },
+    {
+      "id": "offer_letter",
+      "word": "offer letter",
+      "pos": "noun",
+      "ipa": "/ˈɒfə ˌletə/",
+      "reading_th": "ออฟ-เฟอร์-เลท-เทอร์",
+      "meaning_th": "จดหมายเสนอจ้างงานอย่างเป็นทางการ",
+      "emoji": "📄",
+      "example_en": "Read the offer letter before you sign anything.",
+      "example_th": "อ่านจดหมายเสนอจ้างให้ดีก่อนเซ็นอะไร",
+      "cefr": "B2",
+      "note_th": "ดูให้ครบทั้งเงินเดือน สวัสดิการ วันเริ่มงาน และช่วงทดลองงาน",
+      "distractors": [
+        "open letter",
+        "order slip",
+        "office memo"
+      ]
+    },
+    {
+      "id": "counteroffer",
+      "word": "counteroffer",
+      "pos": "noun",
+      "ipa": "/ˈkaʊntərˌɒfə/",
+      "reading_th": "เคาน์-เทอร์-ออฟ-เฟอร์",
+      "meaning_th": "ข้อเสนอกลับที่เราขอเพิ่มจากของเดิม",
+      "emoji": "↔️",
+      "example_en": "I made a counteroffer and they accepted it.",
+      "example_th": "ฉันยื่นข้อเสนอกลับไป แล้วเขาก็ตกลง",
+      "cefr": "B2",
+      "note_th": "ต่อรองได้ 1 ครั้งอย่างสุภาพ พร้อมเหตุผลว่าทำไมเราคุ้มค่า",
+      "distractors": [
+        "special offer",
+        "counter service",
+        "cash offer"
+      ]
+    },
+    {
+      "id": "decline",
+      "word": "decline",
+      "pos": "verb",
+      "ipa": "/dɪˈklaɪn/",
+      "reading_th": "ดิ-ไคลน์",
+      "meaning_th": "ปฏิเสธอย่างสุภาพ",
+      "emoji": "🙅",
+      "example_en": "I had to decline the offer politely.",
+      "example_th": "ฉันต้องปฏิเสธข้อเสนออย่างสุภาพ",
+      "cefr": "B2",
+      "note_th": "สุภาพกว่า refuse หรือ say no มาก ใช้กับข้อเสนอและคำเชิญได้",
+      "distractors": [
+        "design",
+        "deadline",
+        "delay"
+      ]
+    },
+    {
+      "id": "reject",
+      "word": "reject",
+      "pos": "verb",
+      "ipa": "/rɪˈdʒekt/",
+      "reading_th": "ริ-เจ็คท์",
+      "meaning_th": "ไม่รับหรือไม่ผ่าน",
+      "emoji": "❌",
+      "example_en": "Companies reject most applications in the first week.",
+      "example_th": "บริษัทคัดใบสมัครส่วนใหญ่ออกตั้งแต่สัปดาห์แรก",
+      "cefr": "B1",
+      "note_th": "reject ตรงกว่าและแรงกว่า decline ซึ่งสุภาพกว่า",
+      "distractors": [
+        "report",
+        "respect",
+        "request"
+      ]
+    },
+    {
+      "id": "rejection",
+      "word": "rejection",
+      "pos": "noun",
+      "ipa": "/rɪˈdʒekʃən/",
+      "reading_th": "ริ-เจ็ค-ชัน",
+      "meaning_th": "การถูกปฏิเสธ",
+      "emoji": "💔",
+      "example_en": "Every rejection teaches you something.",
+      "example_th": "การถูกปฏิเสธทุกครั้งสอนอะไรเราเสมอ",
+      "cefr": "B2",
+      "note_th": "rejection email มักเป็นแบบฟอร์ม อย่าเก็บมาคิดมาก ถามขอ feedback ได้",
+      "distractors": [
+        "reflection",
+        "reaction",
+        "religion"
+      ]
+    },
+    {
+      "id": "withdraw",
+      "word": "withdraw",
+      "pos": "verb",
+      "ipa": "/wɪðˈdrɔː/",
+      "reading_th": "วิธ-ดรอ",
+      "meaning_th": "ถอนตัวออกจากกระบวนการ",
+      "emoji": "↩️",
+      "example_en": "I had to withdraw my application.",
+      "example_th": "ฉันต้องถอนใบสมัครออก",
+      "cefr": "B2",
+      "note_th": "withdraw ใช้กับการถอนเงินจาก ATM ได้ด้วย",
+      "distractors": [
+        "withstand",
+        "wander",
+        "wonder"
+      ]
+    },
+    {
+      "id": "notice_period",
+      "word": "notice period",
+      "pos": "noun",
+      "ipa": "/ˈnəʊtɪs ˈpɪəriəd/",
+      "reading_th": "โน-ทิส-เพีย-เรียด",
+      "meaning_th": "ระยะเวลาที่ต้องแจ้งล่วงหน้าก่อนออกจากงาน",
+      "emoji": "📆",
+      "example_en": "My notice period is thirty days.",
+      "example_th": "ฉันต้องแจ้งล่วงหน้าสามสิบวัน",
+      "cefr": "B2",
+      "note_th": "ในไทยส่วนใหญ่ 30 วัน ต้องบอกนายจ้างใหม่ตั้งแต่ตอนคุยวันเริ่มงาน",
+      "distractors": [
+        "trial period",
+        "notice board",
+        "rest period"
+      ]
+    },
+    {
+      "id": "start_date",
+      "word": "start date",
+      "pos": "noun",
+      "ipa": "/stɑːt deɪt/",
+      "reading_th": "สตาร์ท-เดท",
+      "meaning_th": "วันแรกที่เริ่มงาน",
+      "emoji": "🚩",
+      "example_en": "Can we move the start date to next month?",
+      "example_th": "ขอเลื่อนวันเริ่มงานเป็นเดือนหน้าได้ไหม",
+      "cefr": "A2",
+      "note_th": "เลื่อนได้ถ้ามีเหตุผล แต่ควรบอกตั้งแต่ก่อนเซ็นสัญญา",
+      "distractors": [
+        "due date",
+        "start line",
+        "birth date"
+      ]
+    },
+    {
+      "id": "onboarding",
+      "word": "onboarding",
+      "pos": "noun",
+      "ipa": "/ˈɒnbɔːdɪŋ/",
+      "reading_th": "ออน-บอร์ด-ดิง",
+      "meaning_th": "กระบวนการรับพนักงานใหม่เข้าทำงาน",
+      "emoji": "🛬",
+      "example_en": "Onboarding takes the whole first week.",
+      "example_th": "การรับพนักงานใหม่ใช้เวลาทั้งสัปดาห์แรก",
+      "cefr": "B2",
+      "note_th": "ครอบคลุมทั้งเซ็นเอกสาร รับอุปกรณ์ และแนะนำทีม",
+      "distractors": [
+        "boarding pass",
+        "onlooking",
+        "outsourcing"
+      ]
+    },
+    {
+      "id": "mentor",
+      "word": "mentor",
+      "pos": "noun",
+      "ipa": "/ˈmentɔː/",
+      "reading_th": "เมน-เทอร์",
+      "meaning_th": "พี่เลี้ยงที่คอยสอนงานและให้คำแนะนำ",
+      "emoji": "🧑‍🏫",
+      "example_en": "Each new hire gets a mentor for three months.",
+      "example_th": "พนักงานใหม่ทุกคนมีพี่เลี้ยงสามเดือน",
+      "cefr": "B2",
+      "note_th": "ต่างจาก supervisor ตรงที่ mentor สอนและให้คำแนะนำ แต่ไม่ได้ประเมินผลงานเรา",
+      "distractors": [
+        "monitor",
+        "member",
+        "manager"
+      ]
+    }
+  ]
+}

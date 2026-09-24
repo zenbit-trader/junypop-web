@@ -155,6 +155,17 @@
       "image": "worlds/entertainment.webp"
     },
     {
+      "id": "job_interview",
+      "file": "job_interview.json",
+      "name_en": "Job Interview",
+      "name_th": "สัมภาษณ์งาน",
+      "emoji": "🎤",
+      "color_start": "#7DD3FC",
+      "color_end": "#0369A1",
+      "available": true,
+      "image": "worlds/job_interview.webp"
+    },
+    {
       "id": "sports",
       "name_en": "Sports & Fitness",
       "name_th": "กีฬาและฟิตเนส",
@@ -208,17 +219,6 @@
       "available": false,
       "mascot_costume": "ranger",
       "description_th": "สภาพอากาศ ฤดูกาล สัตว์ และธรรมชาติ"
-    },
-    {
-      "id": "job_interview",
-      "name_en": "Job Interview",
-      "name_th": "สัมภาษณ์งาน",
-      "emoji": "🎤",
-      "color_start": "#7DD3FC",
-      "color_end": "#0369A1",
-      "available": false,
-      "mascot_costume": "candidate",
-      "description_th": "สมัครงาน เขียนเรซูเม่ และตอบคำถามสัมภาษณ์"
     }
   ]
 }
