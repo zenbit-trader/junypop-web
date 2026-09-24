@@ -32,6 +32,8 @@
   <url><loc>https://junypop.com/quiz/entertainment/</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://junypop.com/w/job_interview/</loc><lastmod>2026-09-25</lastmod><priority>0.8</priority></url>
   <url><loc>https://junypop.com/quiz/job_interview/</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
+  <url><loc>https://junypop.com/w/nature_weather/</loc><lastmod>2026-09-25</lastmod><priority>0.8</priority></url>
+  <url><loc>https://junypop.com/quiz/nature_weather/</loc><lastmod>2026-09-25</lastmod><priority>0.7</priority></url>
   <url><loc>https://junypop.com/word/kitchen/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/bedroom/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/bathroom/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
@@ -1499,4 +1501,102 @@
   <url><loc>https://junypop.com/word/start_date/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/onboarding/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
   <url><loc>https://junypop.com/word/mentor/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sky/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cloudy/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/windy/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/humid/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/breeze/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/chilly/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mild/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/shade/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/shadow/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dew/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mist/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/fog/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/frost/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sunlight/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/drizzle/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/downpour/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/puddle/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/thunder/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/lightning/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/storm/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/typhoon/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/monsoon/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/hail/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/flood/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/flash_flood/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/drought/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/heatwave/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/weather_report/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dry_season/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/rainy_season/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cool_season/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/climate/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/freezing/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/boiling/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sea_breeze/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dawn/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dusk/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/moonlight/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/starry/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/full_moon/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/eclipse/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/rainbow/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/horizon/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/cliff/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/valley/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/hill/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/peak/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/canyon/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/meadow/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/desert/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/jungle/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/glacier/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/volcano/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/hot_spring/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/canal/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/rice_field/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/riverbank/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/pond/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/swamp/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/coast/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/shore/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/reef/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/tide/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/mangrove/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/coral/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/dolphin/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sea_turtle/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/jellyfish/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/seagull/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/sand_dune/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/trunk/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/root/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/leaf/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/petal/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/seed/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/bamboo/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/palm_tree/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/lotus/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/orchid/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/moss/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/vine/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/bush/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/butterfly/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/firefly/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/earthquake/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/landslide/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/wildfire/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/tsunami/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/erosion/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/pollution/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/recycle/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/litter/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/habitat/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/species/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/extinct/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/conservation/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/global_warming/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
+  <url><loc>https://junypop.com/word/greenhouse/</loc><lastmod>2026-09-25</lastmod><priority>0.6</priority></url>
 </urlset>

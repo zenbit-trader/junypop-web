@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "nature_weather",
+    "name_en": "Nature & Weather",
+    "name_th": "ธรรมชาติและอากาศ",
+    "emoji": "🌦️",
+    "color_start": "#A7F3D0",
+    "color_end": "#0F766E",
+    "description_th": "คุยเรื่องฟ้าฝน ฤดูกาล ภูเขา ทะเล ต้นไม้ ไปจนถึงภัยธรรมชาติและการดูแลสิ่งแวดล้อม",
+    "mascot_costume": "ranger",
+    "lessons": [
+      {
+        "id": "nature_weather_1",
+        "title_en": "Everyday Weather",
+        "title_th": "อากาศประจำวัน",
+        "emoji": "☀️",
+        "word_ids": [
+          "sky",
+          "cloudy",
+          "windy",
+          "humid",
+          "breeze",
+          "chilly",
+          "mild",
+          "shade",
+          "shadow",
+          "dew",
+          "mist",
+          "fog",
+          "frost",
+          "sunlight"
+        ]
+      },
+      {
+        "id": "nature_weather_2",
+        "title_en": "Rain & Storms",
+        "title_th": "ฝนและพายุ",
+        "emoji": "🌧️",
+        "word_ids": [
+          "drizzle",
+          "downpour",
+          "puddle",
+          "thunder",
+          "lightning",
+          "storm",
+          "typhoon",
+          "monsoon",
+          "hail",
+          "flood",
+          "flash_flood",
+          "drought",
+          "heatwave",
+          "weather_report"
+        ]
+      },
+      {
+        "id": "nature_weather_3",
+        "title_en": "Seasons & Sky",
+        "title_th": "ฤดูกาลและท้องฟ้า",
+        "emoji": "🌙",
+        "word_ids": [
+          "dry_season",
+          "rainy_season",
+          "cool_season",
+          "climate",
+          "freezing",
+          "boiling",
+          "sea_breeze",
+          "dawn",
+          "dusk",
+          "moonlight",
+          "starry",
+          "full_moon",
+          "eclipse",
+          "rainbow"
+        ]
+      },
+      {
+        "id": "nature_weather_4",
+        "title_en": "Landscapes",
+        "title_th": "ภูมิประเทศ",
+        "emoji": "🏞️",
+        "word_ids": [
+          "horizon",
+          "cliff",
+          "valley",
+          "hill",
+          "peak",
+          "canyon",
+          "meadow",
+          "desert",
+          "jungle",
+          "glacier",
+          "volcano",
+          "hot_spring",
+          "canal",
+          "rice_field"
+        ]
+      },
+      {
+        "id": "nature_weather_5",
+        "title_en": "Water & Coast",
+        "title_th": "สายน้ำและชายฝั่ง",
+        "emoji": "🌊",
+        "word_ids": [
+          "riverbank",
+          "pond",
+          "swamp",
+          "coast",
+          "shore",
+          "reef",
+          "tide",
+          "mangrove",
+          "coral",
+          "dolphin",
+          "sea_turtle",
+          "jellyfish",
+          "seagull",
+          "sand_dune"
+        ]
+      },
+      {
+        "id": "nature_weather_6",
+        "title_en": "Plants & Small Creatures",
+        "title_th": "ต้นไม้และสัตว์ตัวน้อย",
+        "emoji": "🌳",
+        "word_ids": [
+          "trunk",
+          "root",
+          "leaf",
+          "petal",
+          "seed",
+          "bamboo",
+          "palm_tree",
+          "lotus",
+          "orchid",
+          "moss",
+          "vine",
+          "bush",
+          "butterfly",
+          "firefly"
+        ]
+      },
+      {
+        "id": "nature_weather_7",
+        "title_en": "Disasters & the Environment",
+        "title_th": "ภัยธรรมชาติและสิ่งแวดล้อม",
+        "emoji": "🌏",
+        "word_ids": [
+          "earthquake",
+          "landslide",
+          "wildfire",
+          "tsunami",
+          "erosion",
+          "pollution",
+          "recycle",
+          "litter",
+          "habitat",
+          "species",
+          "extinct",
+          "conservation",
+          "global_warming",
+          "greenhouse"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "sky",
+      "word": "sky",
+      "pos": "noun",
+      "ipa": "/skaɪ/",
+      "reading_th": "สกาย",
+      "meaning_th": "ท้องฟ้า",
+      "emoji": "🌤️",
+      "example_en": "The sky is clear today.",
+      "example_th": "วันนี้ท้องฟ้าโปร่ง",
+      "cefr": "A1",
+      "note_th": "พหูพจน์คือ skies ใช้ตอนพูดถึงท้องฟ้าหลายที่ เช่น blue skies",
+      "distractors": [
+        "ski",
+        "sea",
+        "star"
+      ]
+    },
+    {
+      "id": "cloudy",
+      "word": "cloudy",
+      "pos": "adjective",
+      "ipa": "/ˈklaʊdi/",
+      "reading_th": "คลาว-ดี",
+      "meaning_th": "มีเมฆมาก",
+      "emoji": "☁️",
+      "example_en": "It is cloudy, so it may rain later.",
+      "example_th": "ฟ้าครึ้ม เดี๋ยวฝนอาจตก",
+      "cefr": "A1",
+      "note_th": "cloud (เมฆ) + y = มีเมฆ เหมือน rain → rainy, wind → windy",
+      "distractors": [
+        "crowdy",
+        "clearly",
+        "loudly"
+      ]
+    },
+    {
+      "id": "windy",
+      "word": "windy",
+      "pos": "adjective",
+      "ipa": "/ˈwɪndi/",
+      "reading_th": "วิน-ดี",
+      "meaning_th": "ลมแรง",
+      "emoji": "🌬️",
+      "example_en": "It gets windy near the beach in the evening.",
+      "example_th": "แถวชายหาดตอนเย็นลมแรง",
+      "cefr": "A1",
+      "note_th": "พยากรณ์อากาศฝรั่งพูดว่า windy conditions แปลว่าลมแรงต่อเนื่อง",
+      "distractors": [
+        "wendy",
+        "sandy",
+        "wide"
+      ]
+    },
+    {
+      "id": "humid",
+      "word": "humid",
+      "pos": "adjective",
+      "ipa": "/ˈhjuːmɪd/",
+      "reading_th": "ฮิว-มิด",
+      "meaning_th": "อากาศชื้น",
+      "emoji": "💧",
+      "example_en": "Bangkok is hot and humid all year.",
+      "example_th": "กรุงเทพฯ ร้อนและชื้นทั้งปี",
+      "cefr": "B1",
+      "note_th": "คำนามคือ humidity — เป็นคำที่อธิบายอากาศเมืองไทยได้ตรงที่สุด",
+      "distractors": [
+        "humble",
+        "hungry",
+        "humor"
+      ]
+    },
+    {
+      "id": "breeze",
+      "word": "breeze",
+      "pos": "noun",
+      "ipa": "/briːz/",
+      "reading_th": "บรีซ",
+      "meaning_th": "ลมพัดเบา ๆ",
+      "emoji": "🍃",
+      "example_en": "A cool breeze came through the window.",
+      "example_th": "ลมเย็น ๆ พัดเข้ามาทางหน้าต่าง",
+      "cefr": "B1",
+      "note_th": "สำนวน It's a breeze แปลว่า ง่ายมาก",
+      "distractors": [
+        "freeze",
+        "bridge",
+        "breathe"
+      ]
+    },
+    {
+      "id": "chilly",
+      "word": "chilly",
+      "pos": "adjective",
+      "ipa": "/ˈtʃɪli/",
+      "reading_th": "ชิล-ลี",
+      "meaning_th": "หนาวนิด ๆ",
+      "emoji": "🧊",
+      "example_en": "The mornings are chilly in December.",
+      "example_th": "เดือนธันวาคมตอนเช้าอากาศเย็น",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน chili (พริก) แต่คนละคำ ระวังสับสน",
+      "distractors": [
+        "chili",
+        "cheerful",
+        "cheaply"
+      ]
+    },
+    {
+      "id": "mild",
+      "word": "mild",
+      "pos": "adjective",
+      "ipa": "/maɪld/",
+      "reading_th": "ไมลด์",
+      "meaning_th": "อากาศกำลังสบาย ไม่ร้อนไม่หนาว",
+      "emoji": "🙂",
+      "example_en": "The weather is mild in the north this month.",
+      "example_th": "เดือนนี้อากาศทางเหนือกำลังสบาย",
+      "cefr": "B1",
+      "note_th": "ใช้กับรสชาติได้ด้วย เช่น mild curry = แกงไม่เผ็ด",
+      "distractors": [
+        "wild",
+        "mind",
+        "mile"
+      ]
+    },
+    {
+      "id": "shade",
+      "word": "shade",
+      "pos": "noun",
+      "ipa": "/ʃeɪd/",
+      "reading_th": "เชด",
+      "meaning_th": "ร่มเงาที่บังแดด",
+      "emoji": "⛱️",
+      "example_en": "Let's sit in the shade of that tree.",
+      "example_th": "ไปนั่งใต้ร่มเงาต้นไม้ต้นนั้นกัน",
+      "cefr": "B1",
+      "note_th": "shade = บริเวณที่ร่ม ส่วน shadow = เงาที่เป็นรูปร่างของสิ่งของ",
+      "distractors": [
+        "shake",
+        "share",
+        "shape"
+      ]
+    },
+    {
+      "id": "shadow",
+      "word": "shadow",
+      "pos": "noun",
+      "ipa": "/ˈʃædəʊ/",
+      "reading_th": "แช-โดว์",
+      "meaning_th": "เงาที่ทอดเป็นรูปร่าง",
+      "emoji": "👤",
+      "example_en": "My shadow is long in the late afternoon.",
+      "example_th": "ตอนบ่ายแก่ ๆ เงาของฉันยาว",
+      "cefr": "B1",
+      "note_th": "สำนวน afraid of your own shadow = ขี้กลัวมาก",
+      "distractors": [
+        "shallow",
+        "meadow",
+        "swallow"
+      ]
+    },
+    {
+      "id": "dew",
+      "word": "dew",
+      "pos": "noun",
+      "ipa": "/djuː/",
+      "reading_th": "ดิว",
+      "meaning_th": "น้ำค้าง",
+      "emoji": "💦",
+      "example_en": "There is dew on the grass every morning.",
+      "example_th": "ทุกเช้ามีน้ำค้างบนหญ้า",
+      "cefr": "B2",
+      "note_th": "ออกเสียงเหมือน due และ Jew ในสำเนียงอเมริกัน",
+      "distractors": [
+        "due",
+        "few",
+        "den"
+      ]
+    },
+    {
+      "id": "mist",
+      "word": "mist",
+      "pos": "noun",
+      "ipa": "/mɪst/",
+      "reading_th": "มิสท์",
+      "meaning_th": "หมอกบาง ๆ",
+      "emoji": "🌫️",
+      "example_en": "A light mist covered the rice fields.",
+      "example_th": "หมอกบาง ๆ ปกคลุมทุ่งนา",
+      "cefr": "B1",
+      "note_th": "บางกว่า fog — ถ้ามองทะลุได้เรียก mist ถ้าทึบเรียก fog",
+      "distractors": [
+        "missed",
+        "must",
+        "mask"
+      ]
+    },
+    {
+      "id": "fog",
+      "word": "fog",
+      "pos": "noun",
+      "ipa": "/fɒɡ/",
+      "reading_th": "ฟ็อก",
+      "meaning_th": "หมอกหนา",
+      "emoji": "🌁",
+      "example_en": "Thick fog closed the airport this morning.",
+      "example_th": "หมอกหนาทำให้สนามบินปิดเมื่อเช้า",
+      "cefr": "B1",
+      "note_th": "คำคุณศัพท์คือ foggy เช่น a foggy morning",
+      "distractors": [
+        "frog",
+        "log",
+        "fork"
+      ]
+    },
+    {
+      "id": "frost",
+      "word": "frost",
+      "pos": "noun",
+      "ipa": "/frɒst/",
+      "reading_th": "ฟรอสท์",
+      "meaning_th": "น้ำค้างแข็ง",
+      "emoji": "❄️",
+      "example_en": "Frost appears on the mountain in winter.",
+      "example_th": "หน้าหนาวมีน้ำค้างแข็งบนภูเขา",
+      "cefr": "B2",
+      "note_th": "คนไทยเรียกว่า 'แม่คะนิ้ง' ซึ่งเจอได้บนดอยสูงในฤดูหนาว",
+      "distractors": [
+        "forest",
+        "first",
+        "frozen"
+      ]
+    },
+    {
+      "id": "sunlight",
+      "word": "sunlight",
+      "pos": "noun",
+      "ipa": "/ˈsʌnlaɪt/",
+      "reading_th": "ซัน-ไลท์",
+      "meaning_th": "แสงแดด",
+      "emoji": "🌞",
+      "example_en": "Plants need sunlight and water.",
+      "example_th": "ต้นไม้ต้องการแสงแดดและน้ำ",
+      "cefr": "A2",
+      "note_th": "แสงแดดที่ส่องเข้าห้องเรียก natural light ฟังดูนุ่มนวลกว่า",
+      "distractors": [
+        "sunset",
+        "streetlight",
+        "sunburn"
+      ]
+    },
+    {
+      "id": "drizzle",
+      "word": "drizzle",
+      "pos": "noun",
+      "ipa": "/ˈdrɪzl/",
+      "reading_th": "ดริซ-เซิล",
+      "meaning_th": "ฝนปรอย ๆ",
+      "emoji": "🌦️",
+      "example_en": "It was only a drizzle, so we kept walking.",
+      "example_th": "ฝนแค่ปรอย ๆ เราเลยเดินต่อ",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาได้ด้วย: It's drizzling = ฝนกำลังปรอย",
+      "distractors": [
+        "dazzle",
+        "dribble",
+        "drill"
+      ]
+    },
+    {
+      "id": "downpour",
+      "word": "downpour",
+      "pos": "noun",
+      "ipa": "/ˈdaʊnpɔː/",
+      "reading_th": "ดาวน์-พอร์",
+      "meaning_th": "ฝนตกหนักมาก",
+      "emoji": "🌧️",
+      "example_en": "We got stuck in a sudden downpour.",
+      "example_th": "เราติดอยู่กลางฝนที่ตกหนักกะทันหัน",
+      "cefr": "B2",
+      "note_th": "สำนวนที่เจ้าของภาษาใช้บ่อยคือ It's pouring = ฝนเทกระหน่ำ",
+      "distractors": [
+        "download",
+        "doorway",
+        "downtown"
+      ]
+    },
+    {
+      "id": "puddle",
+      "word": "puddle",
+      "pos": "noun",
+      "ipa": "/ˈpʌdl/",
+      "reading_th": "พัด-เดิล",
+      "meaning_th": "แอ่งน้ำขังบนพื้น",
+      "emoji": "🕳️",
+      "example_en": "A car splashed water from a puddle onto me.",
+      "example_th": "รถวิ่งผ่านแอ่งน้ำแล้วสาดใส่ฉัน",
+      "cefr": "B1",
+      "note_th": "อย่าสับสนกับ paddle ที่แปลว่าไม้พาย ต่างกันแค่ตัวเดียว",
+      "distractors": [
+        "paddle",
+        "pebble",
+        "bundle"
+      ]
+    },
+    {
+      "id": "thunder",
+      "word": "thunder",
+      "pos": "noun",
+      "ipa": "/ˈθʌndə/",
+      "reading_th": "ธัน-เดอร์",
+      "meaning_th": "เสียงฟ้าร้อง",
+      "emoji": "🌩️",
+      "example_en": "The thunder woke the baby up.",
+      "example_th": "เสียงฟ้าร้องทำให้เด็กตื่น",
+      "cefr": "A2",
+      "note_th": "thunder คือ 'เสียง' ส่วน lightning คือ 'แสง' ที่ฟาดลงมา",
+      "distractors": [
+        "wonder",
+        "thunderstorm",
+        "under"
+      ]
+    },
+    {
+      "id": "lightning",
+      "word": "lightning",
+      "pos": "noun",
+      "ipa": "/ˈlaɪtnɪŋ/",
+      "reading_th": "ไลท์-นิง",
+      "meaning_th": "ฟ้าแลบหรือฟ้าผ่า",
+      "emoji": "⚡",
+      "example_en": "Never stand under a tree during lightning.",
+      "example_th": "อย่ายืนใต้ต้นไม้ตอนฟ้าผ่าเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "ไม่มี e — lightening (มี e) แปลว่าทำให้สว่างขึ้น คนละคำ",
+      "distractors": [
+        "lighting",
+        "frightening",
+        "tightening"
+      ]
+    },
+    {
+      "id": "storm",
+      "word": "storm",
+      "pos": "noun",
+      "ipa": "/stɔːm/",
+      "reading_th": "สตอร์ม",
+      "meaning_th": "พายุ",
+      "emoji": "🌀",
+      "example_en": "The storm knocked down three trees.",
+      "example_th": "พายุทำให้ต้นไม้ล้มสามต้น",
+      "cefr": "A2",
+      "note_th": "สำนวน the calm before the storm = ความสงบก่อนพายุจะมา",
+      "distractors": [
+        "store",
+        "stone",
+        "steam"
+      ]
+    },
+    {
+      "id": "typhoon",
+      "word": "typhoon",
+      "pos": "noun",
+      "ipa": "/taɪˈfuːn/",
+      "reading_th": "ไท-ฟูน",
+      "meaning_th": "พายุไต้ฝุ่น",
+      "emoji": "🌪️",
+      "example_en": "The typhoon hit the coast last night.",
+      "example_th": "ไต้ฝุ่นเข้าชายฝั่งเมื่อคืน",
+      "cefr": "B2",
+      "note_th": "แถบเอเชียเรียก typhoon ส่วนแอตแลนติกเรียก hurricane — ลมแบบเดียวกัน",
+      "distractors": [
+        "tycoon",
+        "tsunami",
+        "tornado"
+      ]
+    },
+    {
+      "id": "monsoon",
+      "word": "monsoon",
+      "pos": "noun",
+      "ipa": "/mɒnˈsuːn/",
+      "reading_th": "มอน-ซูน",
+      "meaning_th": "ลมมรสุม",
+      "emoji": "💨",
+      "example_en": "The monsoon brings rain from May to October.",
+      "example_th": "ลมมรสุมพาฝนมาตั้งแต่พฤษภาคมถึงตุลาคม",
+      "cefr": "B2",
+      "note_th": "คนไทยคุ้นกับคำนี้ในข่าวพยากรณ์อากาศ เช่น มรสุมตะวันตกเฉียงใต้",
+      "distractors": [
+        "moonshine",
+        "mansion",
+        "maroon"
+      ]
+    },
+    {
+      "id": "hail",
+      "word": "hail",
+      "pos": "noun",
+      "ipa": "/heɪl/",
+      "reading_th": "เฮล",
+      "meaning_th": "ลูกเห็บ",
+      "emoji": "🧊",
+      "example_en": "Hail damaged the car roof.",
+      "example_th": "ลูกเห็บทำหลังคารถเสียหาย",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาแปลว่าโบกเรียกได้ด้วย เช่น hail a taxi",
+      "distractors": [
+        "hall",
+        "heal",
+        "nail"
+      ]
+    },
+    {
+      "id": "flood",
+      "word": "flood",
+      "pos": "noun",
+      "ipa": "/flʌd/",
+      "reading_th": "ฟลัด",
+      "meaning_th": "น้ำท่วม",
+      "emoji": "🌊",
+      "example_en": "The flood closed the road for two days.",
+      "example_th": "น้ำท่วมทำให้ถนนปิดสองวัน",
+      "cefr": "B1",
+      "note_th": "ออกเสียง ฟลัด ไม่ใช่ ฟลูด แม้จะสะกดด้วย oo",
+      "distractors": [
+        "blood",
+        "food",
+        "fluid"
+      ]
+    },
+    {
+      "id": "flash_flood",
+      "word": "flash flood",
+      "pos": "noun",
+      "ipa": "/flæʃ flʌd/",
+      "reading_th": "แฟลช-ฟลัด",
+      "meaning_th": "น้ำป่าไหลหลาก",
+      "emoji": "⚠️",
+      "example_en": "A flash flood swept through the village.",
+      "example_th": "น้ำป่าไหลหลากซัดเข้าหมู่บ้าน",
+      "cefr": "B2",
+      "note_th": "อันตรายกว่าน้ำท่วมธรรมดาเพราะมาเร็วมาก มักเกิดในหุบเขา",
+      "distractors": [
+        "flash sale",
+        "heavy rain",
+        "high tide"
+      ]
+    },
+    {
+      "id": "drought",
+      "word": "drought",
+      "pos": "noun",
+      "ipa": "/draʊt/",
+      "reading_th": "เดราท์",
+      "meaning_th": "ภัยแล้ง",
+      "emoji": "🏜️",
+      "example_en": "The drought hurt rice farmers badly.",
+      "example_th": "ภัยแล้งทำให้ชาวนาเดือดร้อนหนัก",
+      "cefr": "B2",
+      "note_th": "สะกด gh แต่ออกเสียง 'เดราท์' ไม่มีเสียง ก ท้ายคำ",
+      "distractors": [
+        "draught",
+        "doubt",
+        "brought"
+      ]
+    },
+    {
+      "id": "heatwave",
+      "word": "heatwave",
+      "pos": "noun",
+      "ipa": "/ˈhiːtweɪv/",
+      "reading_th": "ฮีท-เวฟ",
+      "meaning_th": "คลื่นความร้อน อากาศร้อนจัดต่อเนื่อง",
+      "emoji": "🥵",
+      "example_en": "The heatwave lasted for ten days.",
+      "example_th": "คลื่นความร้อนกินเวลาสิบวัน",
+      "cefr": "B2",
+      "note_th": "ข่าวฝรั่งใช้บ่อยช่วงหน้าร้อน มักมาคู่กับคำเตือนเรื่องสุขภาพ",
+      "distractors": [
+        "heartbeat",
+        "hot spring",
+        "tidal wave"
+      ]
+    },
+    {
+      "id": "weather_report",
+      "word": "weather report",
+      "pos": "noun",
+      "ipa": "/ˈweðə rɪˈpɔːt/",
+      "reading_th": "เวธ-เธอร์-ริ-พอร์ท",
+      "meaning_th": "รายงานพยากรณ์อากาศ",
+      "emoji": "📺",
+      "example_en": "The weather report says it will rain tonight.",
+      "example_th": "พยากรณ์อากาศบอกว่าคืนนี้ฝนจะตก",
+      "cefr": "A2",
+      "note_th": "weather ออกเสียง เวธ-เธอร์ อย่าสับสนกับ whether ที่แปลว่า 'หรือไม่'",
+      "distractors": [
+        "news report",
+        "traffic report",
+        "weather balloon"
+      ]
+    },
+    {
+      "id": "dry_season",
+      "word": "dry season",
+      "pos": "noun",
+      "ipa": "/draɪ ˈsiːzn/",
+      "reading_th": "ดราย-ซี-เซิน",
+      "meaning_th": "ฤดูแล้ง",
+      "emoji": "🌾",
+      "example_en": "The dry season is the best time to visit.",
+      "example_th": "ฤดูแล้งเป็นช่วงที่เหมาะจะมาเที่ยวที่สุด",
+      "cefr": "A2",
+      "note_th": "เมืองไทยแบ่งเป็นสามฤดู ฝรั่งจึงมักงงเวลาเราพูดถึง 'หน้าร้อน' สามเดือน",
+      "distractors": [
+        "dry cleaning",
+        "high season",
+        "dry land"
+      ]
+    },
+    {
+      "id": "rainy_season",
+      "word": "rainy season",
+      "pos": "noun",
+      "ipa": "/ˈreɪni ˈsiːzn/",
+      "reading_th": "เร-นี-ซี-เซิน",
+      "meaning_th": "ฤดูฝน",
+      "emoji": "☔",
+      "example_en": "Bring an umbrella in the rainy season.",
+      "example_th": "หน้าฝนพกร่มไว้ด้วย",
+      "cefr": "A2",
+      "note_th": "ฝรั่งเรียกช่วงนี้ว่า wet season ก็ได้ ความหมายเดียวกัน",
+      "distractors": [
+        "rainy day",
+        "wet market",
+        "spring season"
+      ]
+    },
+    {
+      "id": "cool_season",
+      "word": "cool season",
+      "pos": "noun",
+      "ipa": "/kuːl ˈsiːzn/",
+      "reading_th": "คูล-ซี-เซิน",
+      "meaning_th": "ฤดูหนาวแบบเมืองไทย",
+      "emoji": "🧣",
+      "example_en": "The cool season runs from November to February.",
+      "example_th": "ฤดูหนาวอยู่ช่วงพฤศจิกายนถึงกุมภาพันธ์",
+      "cefr": "A2",
+      "note_th": "ฝรั่งใช้ winter กับอากาศติดลบ ของไทยเรียก cool season จะตรงกว่า",
+      "distractors": [
+        "cool drink",
+        "warm season",
+        "cool down"
+      ]
+    },
+    {
+      "id": "climate",
+      "word": "climate",
+      "pos": "noun",
+      "ipa": "/ˈklaɪmət/",
+      "reading_th": "ไคล-เมิท",
+      "meaning_th": "ภูมิอากาศของพื้นที่โดยรวม",
+      "emoji": "🌍",
+      "example_en": "Thailand has a tropical climate.",
+      "example_th": "ประเทศไทยมีภูมิอากาศแบบร้อนชื้น",
+      "cefr": "B1",
+      "note_th": "climate = ภาพรวมระยะยาว ส่วน weather = อากาศวันนี้",
+      "distractors": [
+        "climax",
+        "climb",
+        "cabinet"
+      ]
+    },
+    {
+      "id": "freezing",
+      "word": "freezing",
+      "pos": "adjective",
+      "ipa": "/ˈfriːzɪŋ/",
+      "reading_th": "ฟรีซ-ซิง",
+      "meaning_th": "หนาวจับใจ",
+      "emoji": "🥶",
+      "example_en": "It is freezing on the mountain at night.",
+      "example_th": "บนดอยตอนกลางคืนหนาวจับใจ",
+      "cefr": "A2",
+      "note_th": "เป็นคำเกินจริงที่ใช้บ่อย ไม่จำเป็นต้อง 0 องศาจริง ๆ",
+      "distractors": [
+        "freeing",
+        "breezing",
+        "pleasing"
+      ]
+    },
+    {
+      "id": "boiling",
+      "word": "boiling",
+      "pos": "adjective",
+      "ipa": "/ˈbɔɪlɪŋ/",
+      "reading_th": "บอย-ลิง",
+      "meaning_th": "ร้อนจนทนไม่ไหว",
+      "emoji": "🔥",
+      "example_en": "It was boiling in the car park.",
+      "example_th": "ที่จอดรถร้อนจนทนไม่ไหว",
+      "cefr": "B1",
+      "note_th": "ตรงข้ามกับ freezing — ทั้งคู่เป็นคำพูดเกินจริงในชีวิตประจำวัน",
+      "distractors": [
+        "bowling",
+        "boring",
+        "building"
+      ]
+    },
+    {
+      "id": "sea_breeze",
+      "word": "sea breeze",
+      "pos": "noun",
+      "ipa": "/siː briːz/",
+      "reading_th": "ซี-บรีซ",
+      "meaning_th": "ลมทะเลที่พัดเข้าฝั่ง",
+      "emoji": "🏖️",
+      "example_en": "The sea breeze makes the afternoon bearable.",
+      "example_th": "ลมทะเลทำให้ตอนบ่ายพอทนไหว",
+      "cefr": "B1",
+      "note_th": "ตรงข้ามคือ land breeze ที่พัดจากฝั่งออกทะเลตอนกลางคืน",
+      "distractors": [
+        "sea level",
+        "sea food",
+        "land slide"
+      ]
+    },
+    {
+      "id": "dawn",
+      "word": "dawn",
+      "pos": "noun",
+      "ipa": "/dɔːn/",
+      "reading_th": "ดอว์น",
+      "meaning_th": "รุ่งอรุณ ช่วงฟ้าเริ่มสาง",
+      "emoji": "🌅",
+      "example_en": "We started the hike at dawn.",
+      "example_th": "เราเริ่มเดินป่าตอนฟ้าสาง",
+      "cefr": "B2",
+      "note_th": "สำนวน from dawn till dusk = ตั้งแต่เช้าจรดค่ำ",
+      "distractors": [
+        "down",
+        "damn",
+        "lawn"
+      ]
+    },
+    {
+      "id": "dusk",
+      "word": "dusk",
+      "pos": "noun",
+      "ipa": "/dʌsk/",
+      "reading_th": "ดัสค์",
+      "meaning_th": "พลบค่ำ ช่วงแสงสุดท้าย",
+      "emoji": "🌆",
+      "example_en": "Mosquitoes come out at dusk.",
+      "example_th": "ยุงออกมาตอนพลบค่ำ",
+      "cefr": "B2",
+      "note_th": "ป้ายตามสวนสาธารณะเขียนว่า open from dawn to dusk บ่อยมาก",
+      "distractors": [
+        "dust",
+        "desk",
+        "disk"
+      ]
+    },
+    {
+      "id": "moonlight",
+      "word": "moonlight",
+      "pos": "noun",
+      "ipa": "/ˈmuːnlaɪt/",
+      "reading_th": "มูน-ไลท์",
+      "meaning_th": "แสงจันทร์",
+      "emoji": "🌝",
+      "example_en": "The beach looks silver in the moonlight.",
+      "example_th": "ชายหาดดูเป็นสีเงินใต้แสงจันทร์",
+      "cefr": "B1",
+      "note_th": "เป็นกริยาแปลว่าทำงานเสริมตอนกลางคืนได้ด้วย",
+      "distractors": [
+        "midnight",
+        "morning light",
+        "moonwalk"
+      ]
+    },
+    {
+      "id": "starry",
+      "word": "starry",
+      "pos": "adjective",
+      "ipa": "/ˈstɑːri/",
+      "reading_th": "สตาร์-รี",
+      "meaning_th": "เต็มไปด้วยดาว",
+      "emoji": "✨",
+      "example_en": "We slept under a starry sky.",
+      "example_th": "เรานอนใต้ท้องฟ้าที่เต็มไปด้วยดาว",
+      "cefr": "B1",
+      "note_th": "ภาพวาดดังของแวนโก๊ะชื่อ The Starry Night",
+      "distractors": [
+        "story",
+        "stary",
+        "scary"
+      ]
+    },
+    {
+      "id": "full_moon",
+      "word": "full moon",
+      "pos": "noun",
+      "ipa": "/fʊl muːn/",
+      "reading_th": "ฟูล-มูน",
+      "meaning_th": "พระจันทร์เต็มดวง",
+      "emoji": "🌕",
+      "example_en": "Loy Krathong falls on a full moon night.",
+      "example_th": "ลอยกระทงตรงกับคืนพระจันทร์เต็มดวง",
+      "cefr": "A2",
+      "note_th": "ข้างขึ้นข้างแรมคือ waxing และ waning ตามลำดับ",
+      "distractors": [
+        "half moon",
+        "new moon",
+        "full stop"
+      ]
+    },
+    {
+      "id": "eclipse",
+      "word": "eclipse",
+      "pos": "noun",
+      "ipa": "/ɪˈklɪps/",
+      "reading_th": "อิ-คลิปส์",
+      "meaning_th": "สุริยุปราคาหรือจันทรุปราคา",
+      "emoji": "🌘",
+      "example_en": "We watched the eclipse through dark glasses.",
+      "example_th": "เราดูสุริยุปราคาผ่านแว่นกรองแสง",
+      "cefr": "B2",
+      "note_th": "solar eclipse = สุริยุปราคา, lunar eclipse = จันทรุปราคา",
+      "distractors": [
+        "ellipse",
+        "elapse",
+        "escape"
+      ]
+    },
+    {
+      "id": "rainbow",
+      "word": "rainbow",
+      "pos": "noun",
+      "ipa": "/ˈreɪnbəʊ/",
+      "reading_th": "เรน-โบว์",
+      "meaning_th": "รุ้งกินน้ำ",
+      "emoji": "🌈",
+      "example_en": "A rainbow appeared after the rain stopped.",
+      "example_th": "รุ้งขึ้นหลังฝนหยุดตก",
+      "cefr": "A2",
+      "note_th": "สำนวน chase rainbows = ไล่ตามสิ่งที่เป็นไปไม่ได้",
+      "distractors": [
+        "raindrop",
+        "elbow",
+        "window"
+      ]
+    },
+    {
+      "id": "horizon",
+      "word": "horizon",
+      "pos": "noun",
+      "ipa": "/həˈraɪzn/",
+      "reading_th": "เฮอ-ไร-เซิน",
+      "meaning_th": "เส้นขอบฟ้า",
+      "emoji": "🌄",
+      "example_en": "The sun sank below the horizon.",
+      "example_th": "ดวงอาทิตย์ลับเส้นขอบฟ้า",
+      "cefr": "B2",
+      "note_th": "สำนวน on the horizon = กำลังจะเกิดขึ้นในไม่ช้า",
+      "distractors": [
+        "horizontal",
+        "hurricane",
+        "heritage"
+      ]
+    },
+    {
+      "id": "cliff",
+      "word": "cliff",
+      "pos": "noun",
+      "ipa": "/klɪf/",
+      "reading_th": "คลิฟ",
+      "meaning_th": "หน้าผา",
+      "emoji": "🧗",
+      "example_en": "The temple sits on top of a cliff.",
+      "example_th": "วัดตั้งอยู่บนยอดหน้าผา",
+      "cefr": "B1",
+      "note_th": "คำคุ้นหูคือ cliffhanger = ตอนจบที่ค้างคาชวนลุ้น",
+      "distractors": [
+        "clip",
+        "chief",
+        "cliffhanger"
+      ]
+    },
+    {
+      "id": "valley",
+      "word": "valley",
+      "pos": "noun",
+      "ipa": "/ˈvæli/",
+      "reading_th": "แวล-ลี",
+      "meaning_th": "หุบเขา",
+      "emoji": "⛰️",
+      "example_en": "Fog filled the valley in the morning.",
+      "example_th": "ตอนเช้าหมอกลงเต็มหุบเขา",
+      "cefr": "B1",
+      "note_th": "Silicon Valley ก็มาจากคำนี้ แปลตรงตัวว่าหุบเขาซิลิคอน",
+      "distractors": [
+        "volley",
+        "value",
+        "alley"
+      ]
+    },
+    {
+      "id": "hill",
+      "word": "hill",
+      "pos": "noun",
+      "ipa": "/hɪl/",
+      "reading_th": "ฮิล",
+      "meaning_th": "เนินเขา",
+      "emoji": "🌄",
+      "example_en": "Our village is on a small hill.",
+      "example_th": "หมู่บ้านของเราอยู่บนเนินเขาเล็ก ๆ",
+      "cefr": "A2",
+      "note_th": "เล็กกว่า mountain — ภาษาไทยเรียกรวมว่าเขาได้ทั้งคู่ ฝรั่งแยกชัด",
+      "distractors": [
+        "heal",
+        "hall",
+        "hire"
+      ]
+    },
+    {
+      "id": "peak",
+      "word": "peak",
+      "pos": "noun",
+      "ipa": "/piːk/",
+      "reading_th": "พีค",
+      "meaning_th": "ยอดเขา",
+      "emoji": "🏔️",
+      "example_en": "It took four hours to reach the peak.",
+      "example_th": "ใช้เวลาสี่ชั่วโมงกว่าจะถึงยอดเขา",
+      "cefr": "B1",
+      "note_th": "ใช้กับจุดสูงสุดของอย่างอื่นได้ เช่น peak hours = ชั่วโมงเร่งด่วน",
+      "distractors": [
+        "peek",
+        "pick",
+        "pack"
+      ]
+    },
+    {
+      "id": "canyon",
+      "word": "canyon",
+      "pos": "noun",
+      "ipa": "/ˈkænjən/",
+      "reading_th": "แคน-เยิน",
+      "meaning_th": "หุบเหวลึกที่มีผาสองข้าง",
+      "emoji": "🏜️",
+      "example_en": "The river cut a deep canyon.",
+      "example_th": "แม่น้ำกัดเซาะจนเกิดหุบเหวลึก",
+      "cefr": "B2",
+      "note_th": "ที่ดังที่สุดคือ Grand Canyon ในสหรัฐอเมริกา",
+      "distractors": [
+        "cannon",
+        "cabin",
+        "crayon"
+      ]
+    },
+    {
+      "id": "meadow",
+      "word": "meadow",
+      "pos": "noun",
+      "ipa": "/ˈmedəʊ/",
+      "reading_th": "เมด-โดว์",
+      "meaning_th": "ทุ่งหญ้า",
+      "emoji": "🌼",
+      "example_en": "Cows were resting in the meadow.",
+      "example_th": "วัวนอนพักอยู่ในทุ่งหญ้า",
+      "cefr": "B2",
+      "note_th": "ต่างจาก field ตรงที่ meadow เป็นทุ่งหญ้าธรรมชาติ ไม่ได้ปลูกเพื่อเก็บเกี่ยว",
+      "distractors": [
+        "shadow",
+        "medal",
+        "melody"
+      ]
+    },
+    {
+      "id": "desert",
+      "word": "desert",
+      "pos": "noun",
+      "ipa": "/ˈdezət/",
+      "reading_th": "เดส-เซิร์ท",
+      "meaning_th": "ทะเลทราย",
+      "emoji": "🐪",
+      "example_en": "The desert is cold at night.",
+      "example_th": "ทะเลทรายตอนกลางคืนหนาว",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์แรก DE-sert ส่วน dessert (ของหวาน) เน้นพยางค์หลัง",
+      "distractors": [
+        "dessert",
+        "deserve",
+        "decent"
+      ]
+    },
+    {
+      "id": "jungle",
+      "word": "jungle",
+      "pos": "noun",
+      "ipa": "/ˈdʒʌŋɡl/",
+      "reading_th": "จัง-เกิล",
+      "meaning_th": "ป่าทึบเขตร้อน",
+      "emoji": "🌴",
+      "example_en": "A narrow path led into the jungle.",
+      "example_th": "ทางแคบ ๆ พาเข้าไปในป่าทึบ",
+      "cefr": "B1",
+      "note_th": "สำนวน concrete jungle = เมืองใหญ่ที่มีแต่ตึก",
+      "distractors": [
+        "juggle",
+        "jingle",
+        "jumble"
+      ]
+    },
+    {
+      "id": "glacier",
+      "word": "glacier",
+      "pos": "noun",
+      "ipa": "/ˈɡlæsiə/",
+      "reading_th": "แกล-เซียร์",
+      "meaning_th": "ธารน้ำแข็ง",
+      "emoji": "🧊",
+      "example_en": "That glacier is melting every year.",
+      "example_th": "ธารน้ำแข็งนั้นละลายลงทุกปี",
+      "cefr": "B2",
+      "note_th": "อเมริกันออกเสียง เกล-เชอร์ ส่วนอังกฤษออกเสียง แกล-เซียร์",
+      "distractors": [
+        "glassware",
+        "glamour",
+        "gracious"
+      ]
+    },
+    {
+      "id": "volcano",
+      "word": "volcano",
+      "pos": "noun",
+      "ipa": "/vɒlˈkeɪnəʊ/",
+      "reading_th": "วอล-เค-โน",
+      "meaning_th": "ภูเขาไฟ",
+      "emoji": "🌋",
+      "example_en": "The volcano last erupted in 1980.",
+      "example_th": "ภูเขาไฟลูกนี้ระเบิดครั้งล่าสุดปี 1980",
+      "cefr": "B1",
+      "note_th": "พหูพจน์ได้ทั้ง volcanoes และ volcanos",
+      "distractors": [
+        "balcony",
+        "tornado",
+        "vulture"
+      ]
+    },
+    {
+      "id": "hot_spring",
+      "word": "hot spring",
+      "pos": "noun",
+      "ipa": "/hɒt sprɪŋ/",
+      "reading_th": "ฮ็อท-สปริง",
+      "meaning_th": "น้ำพุร้อน",
+      "emoji": "♨️",
+      "example_en": "We soaked our feet in the hot spring.",
+      "example_th": "เราแช่เท้าในน้ำพุร้อน",
+      "cefr": "B1",
+      "note_th": "ญี่ปุ่นเรียก onsen ส่วนไทยมีที่ดังอยู่แถวเชียงใหม่และระนอง",
+      "distractors": [
+        "hot pot",
+        "spring roll",
+        "cold spring"
+      ]
+    },
+    {
+      "id": "canal",
+      "word": "canal",
+      "pos": "noun",
+      "ipa": "/kəˈnæl/",
+      "reading_th": "เคอ-แนล",
+      "meaning_th": "คลอง",
+      "emoji": "🛶",
+      "example_en": "A boat came down the canal.",
+      "example_th": "เรือลำหนึ่งแล่นมาตามคลอง",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์หลัง เคอ-แนล ไม่ใช่ แค-เนิล",
+      "distractors": [
+        "channel",
+        "cancel",
+        "carnival"
+      ]
+    },
+    {
+      "id": "rice_field",
+      "word": "rice field",
+      "pos": "noun",
+      "ipa": "/raɪs fiːld/",
+      "reading_th": "ไรซ์-ฟีลด์",
+      "meaning_th": "ทุ่งนา",
+      "emoji": "🌾",
+      "example_en": "Green rice fields stretch to the hills.",
+      "example_th": "ทุ่งนาเขียวทอดยาวไปถึงเนินเขา",
+      "cefr": "A2",
+      "note_th": "นาที่มีน้ำขังเรียก paddy field ก็ได้ ฝรั่งเข้าใจทั้งสองคำ",
+      "distractors": [
+        "rice cooker",
+        "corn field",
+        "ice field"
+      ]
+    },
+    {
+      "id": "riverbank",
+      "word": "riverbank",
+      "pos": "noun",
+      "ipa": "/ˈrɪvəbæŋk/",
+      "reading_th": "ริฟ-เวอร์-แบงค์",
+      "meaning_th": "ริมตลิ่งของแม่น้ำ",
+      "emoji": "🏞️",
+      "example_en": "We sat on the riverbank and watched the boats.",
+      "example_th": "เรานั่งริมตลิ่งดูเรือแล่นผ่าน",
+      "cefr": "B1",
+      "note_th": "bank ในที่นี้ไม่ได้แปลว่าธนาคาร แต่แปลว่าตลิ่ง",
+      "distractors": [
+        "river mouth",
+        "money bank",
+        "sand bank"
+      ]
+    },
+    {
+      "id": "pond",
+      "word": "pond",
+      "pos": "noun",
+      "ipa": "/pɒnd/",
+      "reading_th": "พอนด์",
+      "meaning_th": "บ่อน้ำหรือสระเล็ก ๆ",
+      "emoji": "🦆",
+      "example_en": "There are fish in the pond behind the temple.",
+      "example_th": "ในบ่อหลังวัดมีปลา",
+      "cefr": "A2",
+      "note_th": "เล็กกว่า lake — ในสวนสาธารณะไทยส่วนใหญ่คือ pond ไม่ใช่ lake",
+      "distractors": [
+        "pound",
+        "pond weed",
+        "bond"
+      ]
+    },
+    {
+      "id": "swamp",
+      "word": "swamp",
+      "pos": "noun",
+      "ipa": "/swɒmp/",
+      "reading_th": "สวอมพ์",
+      "meaning_th": "หนองน้ำหรือที่ลุ่มน้ำขัง",
+      "emoji": "🐊",
+      "example_en": "Birds nest in the swamp all year.",
+      "example_th": "นกทำรังในหนองน้ำตลอดปี",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาแปลว่าท่วมท้นได้ เช่น I am swamped with work = งานท่วมหัว",
+      "distractors": [
+        "stamp",
+        "sweep",
+        "swap"
+      ]
+    },
+    {
+      "id": "coast",
+      "word": "coast",
+      "pos": "noun",
+      "ipa": "/kəʊst/",
+      "reading_th": "โคสท์",
+      "meaning_th": "ชายฝั่งทะเล",
+      "emoji": "🗺️",
+      "example_en": "The east coast has calmer water.",
+      "example_th": "ชายฝั่งตะวันออกคลื่นสงบกว่า",
+      "cefr": "B1",
+      "note_th": "coast = แนวชายฝั่งบนแผนที่ ส่วน shore = ตรงที่น้ำจรดพื้น",
+      "distractors": [
+        "cost",
+        "ghost",
+        "roast"
+      ]
+    },
+    {
+      "id": "shore",
+      "word": "shore",
+      "pos": "noun",
+      "ipa": "/ʃɔː/",
+      "reading_th": "ชอร์",
+      "meaning_th": "ริมฝั่งที่คลื่นซัดถึง",
+      "emoji": "🏝️",
+      "example_en": "We walked along the shore at sunset.",
+      "example_th": "เราเดินเลียบริมฝั่งตอนพระอาทิตย์ตก",
+      "cefr": "B1",
+      "note_th": "สำนวน on shore = บนฝั่ง ตรงข้ามกับ offshore = นอกชายฝั่ง",
+      "distractors": [
+        "sure",
+        "store",
+        "short"
+      ]
+    },
+    {
+      "id": "reef",
+      "word": "reef",
+      "pos": "noun",
+      "ipa": "/riːf/",
+      "reading_th": "รีฟ",
+      "meaning_th": "แนวปะการังใต้น้ำ",
+      "emoji": "🐠",
+      "example_en": "The reef is full of small fish.",
+      "example_th": "แนวปะการังเต็มไปด้วยปลาตัวเล็ก",
+      "cefr": "B2",
+      "note_th": "ที่ดังที่สุดคือ Great Barrier Reef ของออสเตรเลีย",
+      "distractors": [
+        "roof",
+        "beef",
+        "relief"
+      ]
+    },
+    {
+      "id": "tide",
+      "word": "tide",
+      "pos": "noun",
+      "ipa": "/taɪd/",
+      "reading_th": "ไทด์",
+      "meaning_th": "น้ำขึ้นน้ำลง",
+      "emoji": "🌊",
+      "example_en": "The tide is low, so we can walk to the island.",
+      "example_th": "น้ำลงแล้ว เราเดินไปเกาะได้",
+      "cefr": "B2",
+      "note_th": "high tide = น้ำขึ้น, low tide = น้ำลง — สำคัญมากเวลาไปเที่ยวทะเล",
+      "distractors": [
+        "tidy",
+        "tied",
+        "ride"
+      ]
+    },
+    {
+      "id": "mangrove",
+      "word": "mangrove",
+      "pos": "noun",
+      "ipa": "/ˈmæŋɡrəʊv/",
+      "reading_th": "แมง-โกรฟ",
+      "meaning_th": "ป่าชายเลน",
+      "emoji": "🌱",
+      "example_en": "The mangrove protects the coast from storms.",
+      "example_th": "ป่าชายเลนช่วยปกป้องชายฝั่งจากพายุ",
+      "cefr": "B2",
+      "note_th": "ไทยมีป่าชายเลนเยอะแถวจันทบุรีและกระบี่",
+      "distractors": [
+        "mango",
+        "grove",
+        "mongoose"
+      ]
+    },
+    {
+      "id": "coral",
+      "word": "coral",
+      "pos": "noun",
+      "ipa": "/ˈkɒrəl/",
+      "reading_th": "คอ-เริล",
+      "meaning_th": "ปะการัง",
+      "emoji": "🪸",
+      "example_en": "Do not step on the coral when you snorkel.",
+      "example_th": "อย่าเหยียบปะการังตอนดำน้ำตื้น",
+      "cefr": "B1",
+      "note_th": "coral reef = แนวปะการัง ส่วน coral ยังเป็นชื่อสีส้มอมชมพูด้วย",
+      "distractors": [
+        "choral",
+        "collar",
+        "cereal"
+      ]
+    },
+    {
+      "id": "dolphin",
+      "word": "dolphin",
+      "pos": "noun",
+      "ipa": "/ˈdɒlfɪn/",
+      "reading_th": "ดอล-ฟิน",
+      "meaning_th": "โลมา",
+      "emoji": "🐬",
+      "example_en": "A dolphin followed our boat.",
+      "example_th": "โลมาว่ายตามเรือของเรา",
+      "cefr": "A2",
+      "note_th": "เป็นสัตว์เลี้ยงลูกด้วยนม ไม่ใช่ปลา แม้จะอยู่ในทะเล",
+      "distractors": [
+        "dolphin fish",
+        "goldfish",
+        "dauphin"
+      ]
+    },
+    {
+      "id": "sea_turtle",
+      "word": "sea turtle",
+      "pos": "noun",
+      "ipa": "/siː ˈtɜːtl/",
+      "reading_th": "ซี-เทอร์-เทิล",
+      "meaning_th": "เต่าทะเล",
+      "emoji": "🐢",
+      "example_en": "A sea turtle laid eggs on this beach.",
+      "example_th": "เต่าทะเลขึ้นมาวางไข่ที่หาดนี้",
+      "cefr": "A2",
+      "note_th": "เต่าบกเรียก tortoise ส่วนเต่าน้ำเรียก turtle",
+      "distractors": [
+        "sea horse",
+        "land turtle",
+        "sea lion"
+      ]
+    },
+    {
+      "id": "jellyfish",
+      "word": "jellyfish",
+      "pos": "noun",
+      "ipa": "/ˈdʒelifɪʃ/",
+      "reading_th": "เจล-ลี-ฟิช",
+      "meaning_th": "แมงกะพรุน",
+      "emoji": "🎐",
+      "example_en": "Watch out, there is a jellyfish in the water.",
+      "example_th": "ระวังนะ ในน้ำมีแมงกะพรุน",
+      "cefr": "B1",
+      "note_th": "พหูพจน์ใช้ jellyfish เหมือนเดิม ไม่เติม es",
+      "distractors": [
+        "starfish",
+        "swordfish",
+        "shellfish"
+      ]
+    },
+    {
+      "id": "seagull",
+      "word": "seagull",
+      "pos": "noun",
+      "ipa": "/ˈsiːɡʌl/",
+      "reading_th": "ซี-กัล",
+      "meaning_th": "นกนางนวล",
+      "emoji": "🕊️",
+      "example_en": "A seagull stole a chip from my hand.",
+      "example_th": "นกนางนวลโฉบขโมยมันฝรั่งทอดจากมือฉัน",
+      "cefr": "B1",
+      "note_th": "เรียกสั้น ๆ ว่า gull ก็ได้ เจอบ่อยตามท่าเรือและหาด",
+      "distractors": [
+        "sea shell",
+        "eagle",
+        "seal"
+      ]
+    },
+    {
+      "id": "sand_dune",
+      "word": "sand dune",
+      "pos": "noun",
+      "ipa": "/sænd djuːn/",
+      "reading_th": "แซนด์-ดูน",
+      "meaning_th": "เนินทราย",
+      "emoji": "🏜️",
+      "example_en": "We climbed a sand dune to see the sunset.",
+      "example_th": "เราปีนเนินทรายขึ้นไปดูพระอาทิตย์ตก",
+      "cefr": "B2",
+      "note_th": "dune คือเนินทรายที่ลมพัดมากองรวมกัน มักอยู่ในทะเลทรายหรือริมทะเล",
+      "distractors": [
+        "sand castle",
+        "snow hill",
+        "sand paper"
+      ]
+    },
+    {
+      "id": "trunk",
+      "word": "trunk",
+      "pos": "noun",
+      "ipa": "/trʌŋk/",
+      "reading_th": "ทรังค์",
+      "meaning_th": "ลำต้นของต้นไม้",
+      "emoji": "🪵",
+      "example_en": "This trunk is too thick to hug.",
+      "example_th": "ลำต้นนี้ใหญ่เกินกว่าจะโอบได้",
+      "cefr": "B1",
+      "note_th": "แปลว่างวงช้างและกระโปรงท้ายรถได้ด้วย ดูจากบริบท",
+      "distractors": [
+        "truck",
+        "drunk",
+        "track"
+      ]
+    },
+    {
+      "id": "root",
+      "word": "root",
+      "pos": "noun",
+      "ipa": "/ruːt/",
+      "reading_th": "รูท",
+      "meaning_th": "รากของต้นไม้",
+      "emoji": "🌿",
+      "example_en": "The root of this tree broke the path.",
+      "example_th": "รากต้นไม้ต้นนี้ดันทางเดินจนแตก",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน route ในสำเนียงอเมริกัน แต่คนละความหมาย",
+      "distractors": [
+        "route",
+        "roof",
+        "boot"
+      ]
+    },
+    {
+      "id": "leaf",
+      "word": "leaf",
+      "pos": "noun",
+      "ipa": "/liːf/",
+      "reading_th": "ลีฟ",
+      "meaning_th": "ใบไม้",
+      "emoji": "🍃",
+      "example_en": "A dry leaf fell on my shoulder.",
+      "example_th": "ใบไม้แห้งร่วงลงบนไหล่ฉัน",
+      "cefr": "A1",
+      "note_th": "พหูพจน์เปลี่ยนรูปเป็น leaves",
+      "distractors": [
+        "leave",
+        "life",
+        "beef"
+      ]
+    },
+    {
+      "id": "petal",
+      "word": "petal",
+      "pos": "noun",
+      "ipa": "/ˈpetl/",
+      "reading_th": "เพ็ท-เทิล",
+      "meaning_th": "กลีบดอกไม้",
+      "emoji": "🌸",
+      "example_en": "One petal fell into my tea.",
+      "example_th": "กลีบดอกไม้หนึ่งกลีบร่วงลงในชา",
+      "cefr": "B2",
+      "note_th": "ระวังสับสนกับ pedal (แป้นเหยียบ) และ metal (โลหะ) เสียงใกล้กันมาก",
+      "distractors": [
+        "pedal",
+        "metal",
+        "petrol"
+      ]
+    },
+    {
+      "id": "seed",
+      "word": "seed",
+      "pos": "noun",
+      "ipa": "/siːd/",
+      "reading_th": "ซีด",
+      "meaning_th": "เมล็ดพันธุ์",
+      "emoji": "🌰",
+      "example_en": "Plant the seed about two centimetres deep.",
+      "example_th": "ปลูกเมล็ดลึกประมาณสองเซนติเมตร",
+      "cefr": "A2",
+      "note_th": "สำนวน plant a seed = เริ่มต้นสิ่งเล็ก ๆ ที่จะโตในอนาคต",
+      "distractors": [
+        "seat",
+        "speed",
+        "sheet"
+      ]
+    },
+    {
+      "id": "bamboo",
+      "word": "bamboo",
+      "pos": "noun",
+      "ipa": "/ˌbæmˈbuː/",
+      "reading_th": "แบม-บู",
+      "meaning_th": "ไผ่",
+      "emoji": "🎋",
+      "example_en": "They built the bridge from bamboo.",
+      "example_th": "เขาสร้างสะพานจากไผ่",
+      "cefr": "B1",
+      "note_th": "เป็นคำนามนับไม่ได้เวลาพูดถึงวัสดุ ไม่ต้องเติม s",
+      "distractors": [
+        "banana",
+        "balloon",
+        "tattoo"
+      ]
+    },
+    {
+      "id": "palm_tree",
+      "word": "palm tree",
+      "pos": "noun",
+      "ipa": "/pɑːm triː/",
+      "reading_th": "พาล์ม-ทรี",
+      "meaning_th": "ต้นปาล์มหรือต้นมะพร้าว",
+      "emoji": "🌴",
+      "example_en": "A palm tree gives very little shade.",
+      "example_th": "ต้นปาล์มให้ร่มเงาน้อยมาก",
+      "cefr": "A2",
+      "note_th": "ตัว l ไม่ออกเสียง อ่านว่า พาล์ม ไม่ใช่ พัล-ม",
+      "distractors": [
+        "pine tree",
+        "palm oil",
+        "plum tree"
+      ]
+    },
+    {
+      "id": "lotus",
+      "word": "lotus",
+      "pos": "noun",
+      "ipa": "/ˈləʊtəs/",
+      "reading_th": "โล-เทิส",
+      "meaning_th": "ดอกบัว",
+      "emoji": "🪷",
+      "example_en": "She bought a lotus for the temple.",
+      "example_th": "เธอซื้อดอกบัวไปไหว้พระ",
+      "cefr": "B1",
+      "note_th": "ดอกไม้สัญลักษณ์ของพุทธศาสนา ฝรั่งรู้จักในชื่อ lotus flower",
+      "distractors": [
+        "locust",
+        "lettuce",
+        "notice"
+      ]
+    },
+    {
+      "id": "orchid",
+      "word": "orchid",
+      "pos": "noun",
+      "ipa": "/ˈɔːkɪd/",
+      "reading_th": "ออร์-คิด",
+      "meaning_th": "กล้วยไม้",
+      "emoji": "🌺",
+      "example_en": "Thailand exports orchids around the world.",
+      "example_th": "ไทยส่งออกกล้วยไม้ไปทั่วโลก",
+      "cefr": "B1",
+      "note_th": "ch ออกเสียง ค ไม่ใช่ ช — อ่านว่า ออร์-คิด",
+      "distractors": [
+        "orchard",
+        "orbit",
+        "archive"
+      ]
+    },
+    {
+      "id": "moss",
+      "word": "moss",
+      "pos": "noun",
+      "ipa": "/mɒs/",
+      "reading_th": "มอส",
+      "meaning_th": "ตะไคร่น้ำหรือมอส",
+      "emoji": "🟢",
+      "example_en": "The steps are slippery with moss.",
+      "example_th": "บันไดลื่นเพราะมีตะไคร่",
+      "cefr": "B2",
+      "note_th": "สุภาษิต A rolling stone gathers no moss = คนที่ย้ายไปเรื่อยไม่สะสมอะไร",
+      "distractors": [
+        "mess",
+        "boss",
+        "mouse"
+      ]
+    },
+    {
+      "id": "vine",
+      "word": "vine",
+      "pos": "noun",
+      "ipa": "/vaɪn/",
+      "reading_th": "ไวน์",
+      "meaning_th": "เถาวัลย์หรือไม้เลื้อย",
+      "emoji": "🍇",
+      "example_en": "A vine climbed up the old wall.",
+      "example_th": "เถาวัลย์เลื้อยขึ้นกำแพงเก่า",
+      "cefr": "B2",
+      "note_th": "ออกเสียงเหมือน wine แต่ขึ้นต้นด้วยเสียง ว ที่ใช้ฟันบนแตะริมฝีปากล่าง",
+      "distractors": [
+        "wine",
+        "fine",
+        "vein"
+      ]
+    },
+    {
+      "id": "bush",
+      "word": "bush",
+      "pos": "noun",
+      "ipa": "/bʊʃ/",
+      "reading_th": "บุช",
+      "meaning_th": "พุ่มไม้เตี้ย",
+      "emoji": "🌿",
+      "example_en": "A bird hid inside the bush.",
+      "example_th": "นกตัวหนึ่งซ่อนอยู่ในพุ่มไม้",
+      "cefr": "A2",
+      "note_th": "beat around the bush = พูดอ้อมค้อมไม่เข้าประเด็น ใช้บ่อยมาก",
+      "distractors": [
+        "brush",
+        "push",
+        "bug"
+      ]
+    },
+    {
+      "id": "butterfly",
+      "word": "butterfly",
+      "pos": "noun",
+      "ipa": "/ˈbʌtəflaɪ/",
+      "reading_th": "บัท-เทอร์-ฟลาย",
+      "meaning_th": "ผีเสื้อ",
+      "emoji": "🦋",
+      "example_en": "A blue butterfly landed on the flower.",
+      "example_th": "ผีเสื้อสีฟ้าเกาะบนดอกไม้",
+      "cefr": "A2",
+      "note_th": "สำนวน butterflies in my stomach = ตื่นเต้นจนท้องไส้ปั่นป่วน",
+      "distractors": [
+        "dragonfly",
+        "firefly",
+        "butter"
+      ]
+    },
+    {
+      "id": "firefly",
+      "word": "firefly",
+      "pos": "noun",
+      "ipa": "/ˈfaɪəflaɪ/",
+      "reading_th": "ไฟ-เออร์-ฟลาย",
+      "meaning_th": "หิ่งห้อย",
+      "emoji": "🪰",
+      "example_en": "Fireflies light up the mangrove at night.",
+      "example_th": "หิ่งห้อยส่องแสงในป่าชายเลนตอนกลางคืน",
+      "cefr": "B2",
+      "note_th": "พหูพจน์คือ fireflies เปลี่ยน y เป็น ies",
+      "distractors": [
+        "fireplace",
+        "firework",
+        "housefly"
+      ]
+    },
+    {
+      "id": "earthquake",
+      "word": "earthquake",
+      "pos": "noun",
+      "ipa": "/ˈɜːθkweɪk/",
+      "reading_th": "เอิร์ธ-เควก",
+      "meaning_th": "แผ่นดินไหว",
+      "emoji": "🏚️",
+      "example_en": "The earthquake shook the whole building.",
+      "example_th": "แผ่นดินไหวทำให้ทั้งตึกสั่น",
+      "cefr": "B1",
+      "note_th": "ความรุนแรงวัดด้วย magnitude เช่น a magnitude 6 earthquake",
+      "distractors": [
+        "earthworm",
+        "earth day",
+        "heartache"
+      ]
+    },
+    {
+      "id": "landslide",
+      "word": "landslide",
+      "pos": "noun",
+      "ipa": "/ˈlændslaɪd/",
+      "reading_th": "แลนด์-สไลด์",
+      "meaning_th": "ดินถล่ม",
+      "emoji": "⛰️",
+      "example_en": "Heavy rain caused a landslide on the hill road.",
+      "example_th": "ฝนหนักทำให้ดินถล่มบนถนนขึ้นเขา",
+      "cefr": "B2",
+      "note_th": "ใช้กับการเลือกตั้งที่ชนะขาดลอยได้ด้วย: a landslide victory",
+      "distractors": [
+        "waterslide",
+        "landmark",
+        "landing"
+      ]
+    },
+    {
+      "id": "wildfire",
+      "word": "wildfire",
+      "pos": "noun",
+      "ipa": "/ˈwaɪldfaɪə/",
+      "reading_th": "ไวลด์-ไฟ-เออร์",
+      "meaning_th": "ไฟป่า",
+      "emoji": "🔥",
+      "example_en": "Smoke from the wildfire reached the city.",
+      "example_th": "ควันจากไฟป่าลอยมาถึงในเมือง",
+      "cefr": "B2",
+      "note_th": "สำนวน spread like wildfire = แพร่กระจายเร็วมาก",
+      "distractors": [
+        "campfire",
+        "wildlife",
+        "bonfire"
+      ]
+    },
+    {
+      "id": "tsunami",
+      "word": "tsunami",
+      "pos": "noun",
+      "ipa": "/tsuːˈnɑːmi/",
+      "reading_th": "สึ-นา-มิ",
+      "meaning_th": "คลื่นยักษ์สึนามิ",
+      "emoji": "🌊",
+      "example_en": "The tsunami warning sounded at noon.",
+      "example_th": "สัญญาณเตือนสึนามิดังตอนเที่ยง",
+      "cefr": "B2",
+      "note_th": "มาจากภาษาญี่ปุ่น แปลตรงตัวว่า 'คลื่นท่าเรือ'",
+      "distractors": [
+        "typhoon",
+        "salami",
+        "tornado"
+      ]
+    },
+    {
+      "id": "erosion",
+      "word": "erosion",
+      "pos": "noun",
+      "ipa": "/ɪˈrəʊʒən/",
+      "reading_th": "อิ-โร-ชัน",
+      "meaning_th": "การกัดเซาะของดินหรือชายฝั่ง",
+      "emoji": "🪨",
+      "example_en": "Erosion is eating the beach every year.",
+      "example_th": "การกัดเซาะกินชายหาดไปทุกปี",
+      "cefr": "B2",
+      "note_th": "ใช้เชิงเปรียบเทียบได้ เช่น erosion of trust = ความเชื่อใจที่ค่อย ๆ หายไป",
+      "distractors": [
+        "explosion",
+        "emotion",
+        "invasion"
+      ]
+    },
+    {
+      "id": "pollution",
+      "word": "pollution",
+      "pos": "noun",
+      "ipa": "/pəˈluːʃən/",
+      "reading_th": "เพอ-ลู-ชัน",
+      "meaning_th": "มลพิษ",
+      "emoji": "🏭",
+      "example_en": "Air pollution gets worse in the burning season.",
+      "example_th": "มลพิษทางอากาศแย่ลงในช่วงเผาไร่",
+      "cefr": "B1",
+      "note_th": "PM2.5 ที่คนไทยพูดถึงคือหนึ่งใน air pollution",
+      "distractors": [
+        "population",
+        "solution",
+        "pollen"
+      ]
+    },
+    {
+      "id": "recycle",
+      "word": "recycle",
+      "pos": "verb",
+      "ipa": "/riːˈsaɪkl/",
+      "reading_th": "รี-ไซ-เคิล",
+      "meaning_th": "นำกลับมาใช้ใหม่",
+      "emoji": "♻️",
+      "example_en": "We recycle bottles and cans every week.",
+      "example_th": "เราแยกขวดและกระป๋องไปรีไซเคิลทุกสัปดาห์",
+      "cefr": "A2",
+      "note_th": "สามคำที่มาคู่กันคือ reduce, reuse, recycle",
+      "distractors": [
+        "repeat",
+        "bicycle",
+        "receive"
+      ]
+    },
+    {
+      "id": "litter",
+      "word": "litter",
+      "pos": "noun",
+      "ipa": "/ˈlɪtə/",
+      "reading_th": "ลิท-เทอร์",
+      "meaning_th": "ขยะที่ทิ้งเกลื่อนกลาด",
+      "emoji": "🗑️",
+      "example_en": "Please do not leave litter on the trail.",
+      "example_th": "อย่าทิ้งขยะเรี่ยราดบนเส้นทางเดิน",
+      "cefr": "B1",
+      "note_th": "เป็นกริยาได้ด้วย ป้ายเตือนฝรั่งเขียนว่า No littering",
+      "distractors": [
+        "letter",
+        "little",
+        "liter"
+      ]
+    },
+    {
+      "id": "habitat",
+      "word": "habitat",
+      "pos": "noun",
+      "ipa": "/ˈhæbɪtæt/",
+      "reading_th": "แฮบ-บิ-แทท",
+      "meaning_th": "ถิ่นที่อยู่อาศัยของสัตว์",
+      "emoji": "🏕️",
+      "example_en": "This forest is the habitat of wild elephants.",
+      "example_th": "ป่าแห่งนี้เป็นถิ่นอาศัยของช้างป่า",
+      "cefr": "B2",
+      "note_th": "habitat loss = การสูญเสียถิ่นที่อยู่ เป็นสาเหตุหลักที่สัตว์สูญพันธุ์",
+      "distractors": [
+        "habit",
+        "inhabitant",
+        "hibernate"
+      ]
+    },
+    {
+      "id": "species",
+      "word": "species",
+      "pos": "noun",
+      "ipa": "/ˈspiːʃiːz/",
+      "reading_th": "สปี-ชีส์",
+      "meaning_th": "ชนิดของสิ่งมีชีวิต",
+      "emoji": "🧬",
+      "example_en": "This park protects over 200 bird species.",
+      "example_th": "อุทยานแห่งนี้คุ้มครองนกกว่า 200 ชนิด",
+      "cefr": "B2",
+      "note_th": "เอกพจน์และพหูพจน์เขียนเหมือนกัน ไม่มีคำว่า specie ในความหมายนี้",
+      "distractors": [
+        "special",
+        "spices",
+        "speech"
+      ]
+    },
+    {
+      "id": "extinct",
+      "word": "extinct",
+      "pos": "adjective",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "reading_th": "อิค-สติงค์ท์",
+      "meaning_th": "สูญพันธุ์ไปแล้ว",
+      "emoji": "🦕",
+      "example_en": "That fish became extinct fifty years ago.",
+      "example_th": "ปลาชนิดนั้นสูญพันธุ์ไปเมื่อห้าสิบปีก่อน",
+      "cefr": "B2",
+      "note_th": "ใกล้สูญพันธุ์ใช้ endangered ซึ่งยังพอช่วยได้",
+      "distractors": [
+        "instinct",
+        "extent",
+        "exact"
+      ]
+    },
+    {
+      "id": "conservation",
+      "word": "conservation",
+      "pos": "noun",
+      "ipa": "/ˌkɒnsəˈveɪʃən/",
+      "reading_th": "คอน-เซอร์-เว-ชัน",
+      "meaning_th": "การอนุรักษ์ธรรมชาติ",
+      "emoji": "🌱",
+      "example_en": "Conservation work saved the sea turtles here.",
+      "example_th": "งานอนุรักษ์ช่วยเต่าทะเลที่นี่ไว้ได้",
+      "cefr": "B2",
+      "note_th": "คนทำงานด้านนี้เรียก conservationist",
+      "distractors": [
+        "conversation",
+        "construction",
+        "concentration"
+      ]
+    },
+    {
+      "id": "global_warming",
+      "word": "global warming",
+      "pos": "noun",
+      "ipa": "/ˈɡləʊbl ˈwɔːmɪŋ/",
+      "reading_th": "โกล-เบิล-วอร์ม-มิง",
+      "meaning_th": "ภาวะโลกร้อน",
+      "emoji": "🌡️",
+      "example_en": "Global warming is raising sea levels.",
+      "example_th": "ภาวะโลกร้อนทำให้ระดับน้ำทะเลสูงขึ้น",
+      "cefr": "B2",
+      "note_th": "คำที่นักวิทยาศาสตร์นิยมใช้กว่าคือ climate change เพราะครอบคลุมกว่า",
+      "distractors": [
+        "global market",
+        "warm welcome",
+        "green energy"
+      ]
+    },
+    {
+      "id": "greenhouse",
+      "word": "greenhouse",
+      "pos": "noun",
+      "ipa": "/ˈɡriːnhaʊs/",
+      "reading_th": "กรีน-เฮาส์",
+      "meaning_th": "เรือนกระจกปลูกต้นไม้",
+      "emoji": "🏡",
+      "example_en": "They grow strawberries in a greenhouse.",
+      "example_th": "เขาปลูกสตรอว์เบอร์รีในเรือนกระจก",
+      "cefr": "B2",
+      "note_th": "greenhouse gas = ก๊าซเรือนกระจก ซึ่งเป็นต้นเหตุของโลกร้อน",
+      "distractors": [
+        "green tea",
+        "guesthouse",
+        "greenery"
+      ]
+    }
+  ]
+}
