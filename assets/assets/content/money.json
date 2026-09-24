@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "money",
+    "name_en": "Money & Banking",
+    "name_th": "การเงินและธนาคาร",
+    "emoji": "💳",
+    "color_start": "#6EE7B7",
+    "color_end": "#047857",
+    "description_th": "เปิดบัญชี ฝากถอน บัตรและการจ่ายเงิน หนี้และดอกเบี้ย วางแผนการเงิน ลงทุน ประกัน และระวังมิจฉาชีพ",
+    "mascot_costume": "banker",
+    "lessons": [
+      {
+        "id": "money_1",
+        "title_en": "At the Bank",
+        "title_th": "ที่ธนาคาร",
+        "emoji": "🏦",
+        "word_ids": [
+          "savings_account",
+          "current_account",
+          "passbook",
+          "initial_deposit",
+          "withdraw_cash",
+          "account_balance",
+          "statement",
+          "transfer_money",
+          "bank_branch",
+          "teller",
+          "queue_ticket",
+          "account_number",
+          "signature_card",
+          "bank_fee"
+        ]
+      },
+      {
+        "id": "money_2",
+        "title_en": "Cards & Paying",
+        "title_th": "บัตรและการจ่ายเงิน",
+        "emoji": "💳",
+        "word_ids": [
+          "atm_card",
+          "pin_code",
+          "cardholder",
+          "card_reader",
+          "card_limit",
+          "online_banking",
+          "banking_app",
+          "qr_payment",
+          "scan_to_pay",
+          "e_wallet",
+          "promptpay",
+          "cash_withdrawal",
+          "transaction_fee",
+          "cash_back"
+        ]
+      },
+      {
+        "id": "money_3",
+        "title_en": "Borrowing & Debt",
+        "title_th": "กู้ยืมและหนี้สิน",
+        "emoji": "📉",
+        "word_ids": [
+          "home_loan",
+          "mortgage",
+          "borrower",
+          "lender",
+          "repay",
+          "monthly_payment",
+          "minimum_payment",
+          "interest_rate",
+          "overdue",
+          "late_fee",
+          "credit_score",
+          "debt_free",
+          "guarantee",
+          "collateral"
+        ]
+      },
+      {
+        "id": "money_4",
+        "title_en": "Planning & Saving",
+        "title_th": "วางแผนและออมเงิน",
+        "emoji": "🐷",
+        "word_ids": [
+          "monthly_budget",
+          "daily_expenses",
+          "income_tax",
+          "salary_slip",
+          "bonus_payment",
+          "allowance_money",
+          "saving_goal",
+          "savings_plan",
+          "emergency_fund",
+          "piggy_bank",
+          "spending_habit",
+          "overspend",
+          "cut_back",
+          "fixed_deposit"
+        ]
+      },
+      {
+        "id": "money_5",
+        "title_en": "Shops & Receipts",
+        "title_th": "ร้านค้าและใบเสร็จ",
+        "emoji": "🧾",
+        "word_ids": [
+          "bargain_hunt",
+          "price_tag",
+          "receipt_copy",
+          "refund_money",
+          "cashier_counter",
+          "small_change",
+          "coin_purse",
+          "money_belt",
+          "counterfeit",
+          "money_changer",
+          "currency",
+          "foreign_exchange",
+          "go_dutch",
+          "tip_money"
+        ]
+      },
+      {
+        "id": "money_6",
+        "title_en": "Investing & Insurance",
+        "title_th": "ลงทุนและประกัน",
+        "emoji": "📈",
+        "word_ids": [
+          "investment",
+          "stock_market",
+          "share_price",
+          "dividend",
+          "mutual_fund",
+          "gold_bar",
+          "capital_gain",
+          "break_even",
+          "high_risk",
+          "inflation",
+          "insurance_policy",
+          "premium_payment",
+          "beneficiary",
+          "pension"
+        ]
+      },
+      {
+        "id": "money_7",
+        "title_en": "Scams & Giving",
+        "title_th": "มิจฉาชีพและการให้",
+        "emoji": "🛡️",
+        "word_ids": [
+          "scam_call",
+          "phishing",
+          "fraud_alert",
+          "freeze_the_account",
+          "proof_of_income",
+          "bankrupt",
+          "annual_fee",
+          "retirement_fund",
+          "interest_earned",
+          "return_on_investment",
+          "owe",
+          "pay_back",
+          "donation",
+          "good_cause"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "savings_account",
+      "word": "savings account",
+      "pos": "noun",
+      "ipa": "/ˈseɪvɪŋz əˈkaʊnt/",
+      "reading_th": "เซฟ-วิงส์-อะ-เคาท์",
+      "meaning_th": "บัญชีออมทรัพย์",
+      "emoji": "🏦",
+      "example_en": "I opened a savings account for my son.",
+      "example_th": "ฉันเปิดบัญชีออมทรัพย์ให้ลูกชาย",
+      "cefr": "B1",
+      "note_th": "savings มี s เสมอในชื่อบัญชี เพราะหมายถึงเงินออมหลายก้อน",
+      "distractors": [
+        "saving grace",
+        "current account",
+        "email account"
+      ]
+    },
+    {
+      "id": "current_account",
+      "word": "current account",
+      "pos": "noun",
+      "ipa": "/ˈkʌrənt əˈkaʊnt/",
+      "reading_th": "เคอ-เรินท์-อะ-เคาท์",
+      "meaning_th": "บัญชีกระแสรายวัน",
+      "emoji": "📑",
+      "example_en": "A current account comes with a chequebook.",
+      "example_th": "บัญชีกระแสรายวันมาพร้อมสมุดเช็ค",
+      "cefr": "B2",
+      "note_th": "อเมริกันเรียก checking account ซึ่งเจอบ่อยกว่าในหนังและซีรีส์",
+      "distractors": [
+        "currency account",
+        "savings account",
+        "corporate account"
+      ]
+    },
+    {
+      "id": "passbook",
+      "word": "passbook",
+      "pos": "noun",
+      "ipa": "/ˈpɑːsbʊk/",
+      "reading_th": "พาส-บุ๊ค",
+      "meaning_th": "สมุดบัญชีธนาคาร",
+      "emoji": "📓",
+      "example_en": "Bring your passbook and ID card.",
+      "example_th": "เอาสมุดบัญชีกับบัตรประชาชนมาด้วย",
+      "cefr": "B1",
+      "note_th": "ฝรั่งหลายชาติเลิกใช้สมุดแล้ว จึงต้องอธิบายว่า a small book the bank stamps",
+      "distractors": [
+        "passport",
+        "notebook",
+        "password"
+      ]
+    },
+    {
+      "id": "initial_deposit",
+      "word": "initial deposit",
+      "pos": "noun",
+      "ipa": "/ɪˈnɪʃl dɪˈpɒzɪt/",
+      "reading_th": "อิ-นิ-เชิล-ดิ-พอส-ซิท",
+      "meaning_th": "เงินฝากก้อนแรกตอนเปิดบัญชี",
+      "emoji": "💵",
+      "example_en": "The initial deposit is five hundred baht.",
+      "example_th": "เงินฝากครั้งแรกห้าร้อยบาท",
+      "cefr": "B2",
+      "note_th": "บางธนาคารเรียกว่า opening deposit ความหมายเดียวกัน",
+      "distractors": [
+        "final payment",
+        "initial letter",
+        "security deposit"
+      ]
+    },
+    {
+      "id": "withdraw_cash",
+      "word": "withdraw cash",
+      "pos": "verb",
+      "ipa": "/wɪðˈdrɔː kæʃ/",
+      "reading_th": "วิธ-ดรอ-แคช",
+      "meaning_th": "ถอนเงินสด",
+      "emoji": "🏧",
+      "example_en": "I withdraw cash once a week.",
+      "example_th": "ฉันถอนเงินสดสัปดาห์ละครั้ง",
+      "cefr": "B1",
+      "note_th": "ตรงข้ามคือ deposit — ตู้ ATM ย่อมาจาก automated teller machine",
+      "distractors": [
+        "withhold tax",
+        "draw cash",
+        "wire money"
+      ]
+    },
+    {
+      "id": "account_balance",
+      "word": "account balance",
+      "pos": "noun",
+      "ipa": "/əˈkaʊnt ˈbæləns/",
+      "reading_th": "อะ-เคาท์-แบล-เลินซ์",
+      "meaning_th": "ยอดเงินคงเหลือในบัญชี",
+      "emoji": "🔢",
+      "example_en": "Check your account balance before you pay.",
+      "example_th": "เช็กยอดเงินคงเหลือก่อนจ่าย",
+      "cefr": "B1",
+      "note_th": "ยอดที่ใช้ได้จริงเรียก available balance ซึ่งอาจน้อยกว่ายอดคงเหลือ",
+      "distractors": [
+        "bank balance sheet",
+        "account name",
+        "balance beam"
+      ]
+    },
+    {
+      "id": "statement",
+      "word": "statement",
+      "pos": "noun",
+      "ipa": "/ˈsteɪtmənt/",
+      "reading_th": "สเตท-เมินท์",
+      "meaning_th": "รายการเดินบัญชี",
+      "emoji": "📄",
+      "example_en": "The bank sends a statement every month.",
+      "example_th": "ธนาคารส่งรายการเดินบัญชีมาทุกเดือน",
+      "cefr": "B2",
+      "note_th": "ขอย้อนหลังเรียก bank statement ซึ่งใช้ยื่นขอวีซ่าได้",
+      "distractors": [
+        "settlement",
+        "statue",
+        "stationery"
+      ]
+    },
+    {
+      "id": "transfer_money",
+      "word": "transfer money",
+      "pos": "verb",
+      "ipa": "/trænsˈfɜː ˈmʌni/",
+      "reading_th": "ทราน-สเฟอร์-มัน-นี",
+      "meaning_th": "โอนเงิน",
+      "emoji": "📲",
+      "example_en": "I will transfer money to you tonight.",
+      "example_th": "เดี๋ยวคืนนี้ฉันโอนเงินให้",
+      "cefr": "B1",
+      "note_th": "โอนข้ามประเทศเรียก wire transfer หรือ international transfer",
+      "distractors": [
+        "transform money",
+        "transport goods",
+        "trade money"
+      ]
+    },
+    {
+      "id": "bank_branch",
+      "word": "bank branch",
+      "pos": "noun",
+      "ipa": "/bæŋk brɑːntʃ/",
+      "reading_th": "แบงค์-บรานช์",
+      "meaning_th": "สาขาของธนาคาร",
+      "emoji": "🏢",
+      "example_en": "The nearest bank branch is in the mall.",
+      "example_th": "สาขาธนาคารที่ใกล้ที่สุดอยู่ในห้าง",
+      "cefr": "B1",
+      "note_th": "สำนักงานใหญ่เรียก head office ส่วนสาขาย่อยในห้างเรียก mini branch",
+      "distractors": [
+        "tree branch",
+        "bank note",
+        "main office"
+      ]
+    },
+    {
+      "id": "teller",
+      "word": "teller",
+      "pos": "noun",
+      "ipa": "/ˈtelə/",
+      "reading_th": "เทล-เลอร์",
+      "meaning_th": "พนักงานเคาน์เตอร์ธนาคาร",
+      "emoji": "🧑‍💼",
+      "example_en": "Ask the teller to update your passbook.",
+      "example_th": "ขอให้พนักงานปรับสมุดบัญชีให้",
+      "cefr": "B2",
+      "note_th": "มาจาก tell ที่แปลว่านับ (ความหมายเก่า) จึงเป็นคนนับเงินให้เรา",
+      "distractors": [
+        "teacher",
+        "tailor",
+        "seller"
+      ]
+    },
+    {
+      "id": "queue_ticket",
+      "word": "queue ticket",
+      "pos": "noun",
+      "ipa": "/kjuː ˈtɪkɪt/",
+      "reading_th": "คิว-ทิค-เก็ท",
+      "meaning_th": "บัตรคิว",
+      "emoji": "🎫",
+      "example_en": "Take a queue ticket from the machine.",
+      "example_th": "กดบัตรคิวจากตู้",
+      "cefr": "B1",
+      "note_th": "เรียกคิวถัดไปว่า Now serving number 42 ตามจอที่ขึ้น",
+      "distractors": [
+        "cue card",
+        "lottery ticket",
+        "queue line"
+      ]
+    },
+    {
+      "id": "account_number",
+      "word": "account number",
+      "pos": "noun",
+      "ipa": "/əˈkaʊnt ˈnʌmbə/",
+      "reading_th": "อะ-เคาท์-นัม-เบอร์",
+      "meaning_th": "เลขที่บัญชี",
+      "emoji": "🔟",
+      "example_en": "Send me your account number, not a photo.",
+      "example_th": "ส่งเลขบัญชีมาเลย ไม่ต้องส่งรูป",
+      "cefr": "A2",
+      "note_th": "ธนาคารไม่มีวันโทรมาขอเลขบัญชีหรือรหัส ถ้ามีคือมิจฉาชีพ",
+      "distractors": [
+        "phone number",
+        "account name",
+        "serial number"
+      ]
+    },
+    {
+      "id": "signature_card",
+      "word": "signature card",
+      "pos": "noun",
+      "ipa": "/ˈsɪɡnətʃə kɑːd/",
+      "reading_th": "ซิก-เนอ-เชอร์-การ์ด",
+      "meaning_th": "บัตรตัวอย่างลายเซ็นที่ธนาคารเก็บไว้",
+      "emoji": "✍️",
+      "example_en": "Your signature must match the signature card.",
+      "example_th": "ลายเซ็นต้องตรงกับบัตรตัวอย่างลายเซ็น",
+      "cefr": "B2",
+      "note_th": "sign เป็นกริยา ส่วน signature เป็นคำนาม — คนไทยมักใช้สลับกัน",
+      "distractors": [
+        "signal card",
+        "credit card",
+        "name card"
+      ]
+    },
+    {
+      "id": "bank_fee",
+      "word": "bank fee",
+      "pos": "noun",
+      "ipa": "/bæŋk fiː/",
+      "reading_th": "แบงค์-ฟี",
+      "meaning_th": "ค่าธรรมเนียมธนาคาร",
+      "emoji": "💸",
+      "example_en": "This account has no monthly bank fee.",
+      "example_th": "บัญชีนี้ไม่มีค่าธรรมเนียมรายเดือน",
+      "cefr": "B1",
+      "note_th": "ค่าธรรมเนียมถอนข้ามเขตเรียก cross-region fee",
+      "distractors": [
+        "bank free",
+        "entrance fee",
+        "bank loan"
+      ]
+    },
+    {
+      "id": "atm_card",
+      "word": "ATM card",
+      "pos": "noun",
+      "ipa": "/ˌeɪ tiː ˈem kɑːd/",
+      "reading_th": "เอ-ที-เอ็ม-การ์ด",
+      "meaning_th": "บัตรเอทีเอ็ม",
+      "emoji": "💳",
+      "example_en": "The machine ate my ATM card.",
+      "example_th": "ตู้กลืนบัตรเอทีเอ็มของฉัน",
+      "cefr": "A2",
+      "note_th": "เครื่องกลืนบัตรพูดว่า the machine swallowed my card ก็ได้",
+      "distractors": [
+        "SIM card",
+        "ID card",
+        "gift card"
+      ]
+    },
+    {
+      "id": "pin_code",
+      "word": "PIN code",
+      "pos": "noun",
+      "ipa": "/pɪn kəʊd/",
+      "reading_th": "พิน-โค้ด",
+      "meaning_th": "รหัสประจำบัตร",
+      "emoji": "🔢",
+      "example_en": "Never tell anyone your PIN code.",
+      "example_th": "อย่าบอกรหัสบัตรกับใครเด็ดขาด",
+      "cefr": "A2",
+      "note_th": "PIN ย่อจาก personal identification number จึงพูดว่า PIN number ซ้ำความ",
+      "distractors": [
+        "zip code",
+        "pin board",
+        "QR code"
+      ]
+    },
+    {
+      "id": "cardholder",
+      "word": "cardholder",
+      "pos": "noun",
+      "ipa": "/ˈkɑːdhəʊldə/",
+      "reading_th": "การ์ด-โฮล-เดอร์",
+      "meaning_th": "ผู้ถือบัตร",
+      "emoji": "🙋",
+      "example_en": "Only the cardholder can sign here.",
+      "example_th": "เฉพาะผู้ถือบัตรเท่านั้นที่เซ็นตรงนี้ได้",
+      "cefr": "B2",
+      "note_th": "-holder แปลว่าผู้ถือ เหมือน shareholder และ passport holder",
+      "distractors": [
+        "card reader",
+        "shareholder",
+        "card sleeve"
+      ]
+    },
+    {
+      "id": "card_reader",
+      "word": "card reader",
+      "pos": "noun",
+      "ipa": "/kɑːd ˈriːdə/",
+      "reading_th": "การ์ด-รี-เดอร์",
+      "meaning_th": "เครื่องรูดหรืออ่านบัตร",
+      "emoji": "📟",
+      "example_en": "Tap your card on the card reader.",
+      "example_th": "แตะบัตรที่เครื่องอ่านบัตร",
+      "cefr": "B2",
+      "note_th": "เครื่องรูดแถบแม่เหล็กเรียก swipe machine ส่วนแบบแตะคือ contactless reader",
+      "distractors": [
+        "card holder",
+        "news reader",
+        "code reader"
+      ]
+    },
+    {
+      "id": "card_limit",
+      "word": "card limit",
+      "pos": "noun",
+      "ipa": "/kɑːd ˈlɪmɪt/",
+      "reading_th": "การ์ด-ลิ-มิท",
+      "meaning_th": "วงเงินสูงสุดของบัตร",
+      "emoji": "🚧",
+      "example_en": "My card limit is fifty thousand baht.",
+      "example_th": "วงเงินบัตรของฉันคือห้าหมื่นบาท",
+      "cefr": "B2",
+      "note_th": "เรียกเต็มว่า credit limit — ขอเพิ่มวงเงินคือ request a limit increase",
+      "distractors": [
+        "time limit",
+        "speed limit",
+        "card fee"
+      ]
+    },
+    {
+      "id": "online_banking",
+      "word": "online banking",
+      "pos": "noun",
+      "ipa": "/ˈɒnlaɪn ˈbæŋkɪŋ/",
+      "reading_th": "ออน-ไลน์-แบงค์-กิง",
+      "meaning_th": "ธนาคารออนไลน์",
+      "emoji": "💻",
+      "example_en": "Online banking saves a trip to the branch.",
+      "example_th": "ธนาคารออนไลน์ช่วยให้ไม่ต้องไปสาขา",
+      "cefr": "B1",
+      "note_th": "ล็อกอินจากคอมพิวเตอร์ ส่วนบนมือถือเรียก mobile banking",
+      "distractors": [
+        "online shopping",
+        "internet cafe",
+        "offline mode"
+      ]
+    },
+    {
+      "id": "banking_app",
+      "word": "banking app",
+      "pos": "noun",
+      "ipa": "/ˈbæŋkɪŋ æp/",
+      "reading_th": "แบงค์-กิง-แอพ",
+      "meaning_th": "แอปธนาคารบนมือถือ",
+      "emoji": "📱",
+      "example_en": "Open the banking app and scan the code.",
+      "example_th": "เปิดแอปธนาคารแล้วสแกนโค้ด",
+      "cefr": "A2",
+      "note_th": "ตัวยืนยันตัวตนที่ส่งมาทาง SMS เรียก OTP = one-time password",
+      "distractors": [
+        "shopping app",
+        "banking hall",
+        "app store"
+      ]
+    },
+    {
+      "id": "qr_payment",
+      "word": "QR payment",
+      "pos": "noun",
+      "ipa": "/ˌkjuː ˈɑː ˈpeɪmənt/",
+      "reading_th": "คิว-อาร์-เพย์-เมินท์",
+      "meaning_th": "การจ่ายเงินด้วยคิวอาร์โค้ด",
+      "emoji": "📴",
+      "example_en": "Street food stalls take QR payment now.",
+      "example_th": "ร้านอาหารข้างทางรับจ่ายด้วยคิวอาร์โค้ดแล้ว",
+      "cefr": "A2",
+      "note_th": "ไทยใช้คล่องกว่าหลายประเทศตะวันตกมาก ฝรั่งมักทึ่งเรื่องนี้",
+      "distractors": [
+        "bar code",
+        "cash payment",
+        "QR scanner"
+      ]
+    },
+    {
+      "id": "scan_to_pay",
+      "word": "scan to pay",
+      "pos": "verb",
+      "ipa": "/skæn tə peɪ/",
+      "reading_th": "สแกน-ทู-เพย์",
+      "meaning_th": "สแกนเพื่อจ่ายเงิน",
+      "emoji": "📷",
+      "example_en": "Just scan to pay, no cash needed.",
+      "example_th": "แค่สแกนจ่าย ไม่ต้องใช้เงินสด",
+      "cefr": "A2",
+      "note_th": "ร้านที่รับเฉพาะเงินสดเขียนว่า cash only",
+      "distractors": [
+        "scan to print",
+        "tap to pay",
+        "sign to pay"
+      ]
+    },
+    {
+      "id": "e_wallet",
+      "word": "e-wallet",
+      "pos": "noun",
+      "ipa": "/ˈiː wɒlɪt/",
+      "reading_th": "อี-วอล-เล็ท",
+      "meaning_th": "กระเป๋าเงินอิเล็กทรอนิกส์",
+      "emoji": "👛",
+      "example_en": "Top up your e-wallet at the counter.",
+      "example_th": "เติมเงินกระเป๋าอิเล็กทรอนิกส์ที่เคาน์เตอร์",
+      "cefr": "B1",
+      "note_th": "e- ย่อจาก electronic เหมือน e-mail และ e-book",
+      "distractors": [
+        "e-book",
+        "wallet chain",
+        "e-ticket"
+      ]
+    },
+    {
+      "id": "promptpay",
+      "word": "promptpay",
+      "pos": "noun",
+      "ipa": "/ˈprɒmptpeɪ/",
+      "reading_th": "พร้อมท์-เพย์",
+      "meaning_th": "พร้อมเพย์ ระบบโอนด้วยเบอร์โทรหรือเลขบัตรประชาชน",
+      "emoji": "⚡",
+      "example_en": "Send it by promptpay to my phone number.",
+      "example_th": "โอนพร้อมเพย์มาที่เบอร์ฉันเลย",
+      "cefr": "B1",
+      "note_th": "อธิบายฝรั่งว่า instant transfer using a phone number จะเข้าใจทันที",
+      "distractors": [
+        "prepaid card",
+        "prompt reply",
+        "pay later"
+      ]
+    },
+    {
+      "id": "cash_withdrawal",
+      "word": "cash withdrawal",
+      "pos": "noun",
+      "ipa": "/kæʃ wɪðˈdrɔːəl/",
+      "reading_th": "แคช-วิธ-ดรอ-เอิล",
+      "meaning_th": "รายการถอนเงินสด",
+      "emoji": "🏧",
+      "example_en": "There is a limit on daily cash withdrawal.",
+      "example_th": "การถอนเงินสดต่อวันมีวงเงินจำกัด",
+      "cefr": "B2",
+      "note_th": "ถอนจากตู้ธนาคารอื่นมักมีค่าธรรมเนียมเรียก out-of-network fee",
+      "distractors": [
+        "cash deposit",
+        "cash flow",
+        "card renewal"
+      ]
+    },
+    {
+      "id": "transaction_fee",
+      "word": "transaction fee",
+      "pos": "noun",
+      "ipa": "/trænˈzækʃən fiː/",
+      "reading_th": "แทรน-แซค-ชัน-ฟี",
+      "meaning_th": "ค่าธรรมเนียมต่อรายการ",
+      "emoji": "🧮",
+      "example_en": "Foreign cards pay a transaction fee here.",
+      "example_th": "บัตรต่างประเทศเสียค่าธรรมเนียมต่อรายการที่นี่",
+      "cefr": "B2",
+      "note_th": "ค่าธรรมเนียมแปลงสกุลเงินเรียก foreign transaction fee",
+      "distractors": [
+        "transition fee",
+        "translation fee",
+        "entrance fee"
+      ]
+    },
+    {
+      "id": "cash_back",
+      "word": "cash back",
+      "pos": "noun",
+      "ipa": "/kæʃ bæk/",
+      "reading_th": "แคช-แบ็ค",
+      "meaning_th": "เงินคืนจากการใช้จ่าย",
+      "emoji": "🔙",
+      "example_en": "This card gives one percent cash back.",
+      "example_th": "บัตรใบนี้ให้เงินคืนหนึ่งเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "ต่างจาก point reward ตรงที่ได้เป็นเงินคืนไม่ใช่คะแนน",
+      "distractors": [
+        "pay back",
+        "cash flow",
+        "come back"
+      ]
+    },
+    {
+      "id": "home_loan",
+      "word": "home loan",
+      "pos": "noun",
+      "ipa": "/həʊm ləʊn/",
+      "reading_th": "โฮม-โลน",
+      "meaning_th": "สินเชื่อบ้าน",
+      "emoji": "🏠",
+      "example_en": "We applied for a home loan last month.",
+      "example_th": "เรายื่นขอสินเชื่อบ้านเมื่อเดือนที่แล้ว",
+      "cefr": "B2",
+      "note_th": "เงินดาวน์เรียก down payment ส่วนยอดกู้เรียก loan amount",
+      "distractors": [
+        "home work",
+        "car loan",
+        "home page"
+      ]
+    },
+    {
+      "id": "mortgage",
+      "word": "mortgage",
+      "pos": "noun",
+      "ipa": "/ˈmɔːɡɪdʒ/",
+      "reading_th": "มอร์-กิจ",
+      "meaning_th": "การจำนองบ้านกับธนาคาร",
+      "emoji": "📜",
+      "example_en": "Their mortgage runs for thirty years.",
+      "example_th": "การจำนองของเขาผ่อนสามสิบปี",
+      "cefr": "B2",
+      "note_th": "ตัว t ไม่ออกเสียง อ่านว่า มอร์-กิจ ไม่ใช่ มอร์ท-เกจ",
+      "distractors": [
+        "message",
+        "marriage",
+        "mileage"
+      ]
+    },
+    {
+      "id": "borrower",
+      "word": "borrower",
+      "pos": "noun",
+      "ipa": "/ˈbɒrəʊə/",
+      "reading_th": "บอ-โร-เออร์",
+      "meaning_th": "ผู้กู้เงิน",
+      "emoji": "🙇",
+      "example_en": "The borrower must show proof of income.",
+      "example_th": "ผู้กู้ต้องแสดงหลักฐานรายได้",
+      "cefr": "B2",
+      "note_th": "คู่กับ lender เสมอ — borrower รับเงินมา lender ให้เงินไป",
+      "distractors": [
+        "burrower",
+        "barrow",
+        "browser"
+      ]
+    },
+    {
+      "id": "lender",
+      "word": "lender",
+      "pos": "noun",
+      "ipa": "/ˈlendə/",
+      "reading_th": "เลน-เดอร์",
+      "meaning_th": "ผู้ให้กู้",
+      "emoji": "🏦",
+      "example_en": "Compare rates from three lenders.",
+      "example_th": "เทียบดอกเบี้ยจากผู้ให้กู้สามเจ้า",
+      "cefr": "B2",
+      "note_th": "ธนาคารที่ปล่อยกู้เรียก the lender ส่วนเจ้าหนี้นอกระบบคือ loan shark",
+      "distractors": [
+        "leader",
+        "blender",
+        "vendor"
+      ]
+    },
+    {
+      "id": "repay",
+      "word": "repay",
+      "pos": "verb",
+      "ipa": "/rɪˈpeɪ/",
+      "reading_th": "ริ-เพย์",
+      "meaning_th": "ชำระคืน",
+      "emoji": "🔁",
+      "example_en": "I repay the loan every payday.",
+      "example_th": "ฉันผ่อนคืนเงินกู้ทุกวันเงินเดือนออก",
+      "cefr": "B2",
+      "note_th": "คำนามคือ repayment เช่น monthly repayment",
+      "distractors": [
+        "replay",
+        "repair",
+        "report"
+      ]
+    },
+    {
+      "id": "monthly_payment",
+      "word": "monthly payment",
+      "pos": "noun",
+      "ipa": "/ˈmʌnθli ˈpeɪmənt/",
+      "reading_th": "มันธ์-ลี-เพย์-เมินท์",
+      "meaning_th": "ยอดผ่อนต่อเดือน",
+      "emoji": "📆",
+      "example_en": "The monthly payment is eight thousand baht.",
+      "example_th": "ยอดผ่อนต่อเดือนแปดพันบาท",
+      "cefr": "B1",
+      "note_th": "คนไทยเรียกทับศัพท์ว่า ผ่อน ฝรั่งพูดว่า pay in instalments",
+      "distractors": [
+        "monthly salary",
+        "down payment",
+        "monthly report"
+      ]
+    },
+    {
+      "id": "minimum_payment",
+      "word": "minimum payment",
+      "pos": "noun",
+      "ipa": "/ˈmɪnɪməm ˈpeɪmənt/",
+      "reading_th": "มิ-นิ-เมิม-เพย์-เมินท์",
+      "meaning_th": "ยอดขั้นต่ำที่ต้องจ่ายบัตรเครดิต",
+      "emoji": "⚠️",
+      "example_en": "Paying only the minimum payment costs more later.",
+      "example_th": "จ่ายแค่ขั้นต่ำสุดท้ายจะเสียมากกว่าเดิม",
+      "cefr": "B2",
+      "note_th": "เป็นกับดักหนี้บัตรที่คนไทยเจอบ่อยที่สุด เพราะดอกเบี้ยเดินต่อ",
+      "distractors": [
+        "maximum payment",
+        "minimum wage",
+        "minimum order"
+      ]
+    },
+    {
+      "id": "interest_rate",
+      "word": "interest rate",
+      "pos": "noun",
+      "ipa": "/ˈɪntrəst reɪt/",
+      "reading_th": "อิน-เทอ-เรสท์-เรท",
+      "meaning_th": "อัตราดอกเบี้ย",
+      "emoji": "📊",
+      "example_en": "The interest rate went up again.",
+      "example_th": "อัตราดอกเบี้ยขึ้นอีกแล้ว",
+      "cefr": "B2",
+      "note_th": "interest ที่นี่แปลว่าดอกเบี้ย ไม่ใช่ความสนใจ",
+      "distractors": [
+        "exchange rate",
+        "interest group",
+        "success rate"
+      ]
+    },
+    {
+      "id": "overdue",
+      "word": "overdue",
+      "pos": "adjective",
+      "ipa": "/ˌəʊvəˈdjuː/",
+      "reading_th": "โอ-เวอร์-ดิว",
+      "meaning_th": "เลยกำหนดชำระ",
+      "emoji": "⏰",
+      "example_en": "The bill is two weeks overdue.",
+      "example_th": "บิลเลยกำหนดมาสองสัปดาห์แล้ว",
+      "cefr": "B2",
+      "note_th": "due date = วันครบกำหนด ถ้าเลยแล้วเรียก past due ก็ได้",
+      "distractors": [
+        "overdone",
+        "overview",
+        "overtime"
+      ]
+    },
+    {
+      "id": "late_fee",
+      "word": "late fee",
+      "pos": "noun",
+      "ipa": "/leɪt fiː/",
+      "reading_th": "เลท-ฟี",
+      "meaning_th": "ค่าปรับจ่ายช้า",
+      "emoji": "💢",
+      "example_en": "A late fee is added after the due date.",
+      "example_th": "เลยกำหนดแล้วจะถูกคิดค่าปรับ",
+      "cefr": "B1",
+      "note_th": "ขอยกเว้นได้ถ้าเป็นครั้งแรก พูดว่า Could you waive the late fee?",
+      "distractors": [
+        "late night",
+        "entry fee",
+        "late charge card"
+      ]
+    },
+    {
+      "id": "credit_score",
+      "word": "credit score",
+      "pos": "noun",
+      "ipa": "/ˈkredɪt skɔː/",
+      "reading_th": "เคร-ดิท-สกอร์",
+      "meaning_th": "คะแนนเครดิตที่สะท้อนวินัยการเงิน",
+      "emoji": "🎯",
+      "example_en": "A good credit score gets you a lower rate.",
+      "example_th": "คะแนนเครดิตดีช่วยให้ได้ดอกเบี้ยถูกลง",
+      "cefr": "B2",
+      "note_th": "ในไทยข้อมูลนี้อยู่กับเครดิตบูโร ซึ่งฝรั่งเรียก credit bureau เหมือนกัน",
+      "distractors": [
+        "credit card",
+        "high score",
+        "score board"
+      ]
+    },
+    {
+      "id": "debt_free",
+      "word": "debt-free",
+      "pos": "adjective",
+      "ipa": "/det friː/",
+      "reading_th": "เดท-ฟรี",
+      "meaning_th": "ปลอดหนี้",
+      "emoji": "🎉",
+      "example_en": "She became debt-free at thirty-five.",
+      "example_th": "เธอปลอดหนี้ตอนอายุสามสิบห้า",
+      "cefr": "B2",
+      "note_th": "ตัว b ใน debt ไม่ออกเสียง อ่านว่า เดท เท่านั้น",
+      "distractors": [
+        "duty-free",
+        "debt trap",
+        "death free"
+      ]
+    },
+    {
+      "id": "guarantee",
+      "word": "guarantee",
+      "pos": "noun",
+      "ipa": "/ˌɡærənˈtiː/",
+      "reading_th": "แก-เริน-ที",
+      "meaning_th": "การค้ำประกัน",
+      "emoji": "🤝",
+      "example_en": "The bank asked for a guarantee from my uncle.",
+      "example_th": "ธนาคารขอให้ลุงของฉันค้ำประกัน",
+      "cefr": "B2",
+      "note_th": "คนค้ำเรียก guarantor ซึ่งรับผิดชอบหนี้ถ้าผู้กู้ไม่จ่าย",
+      "distractors": [
+        "guard entry",
+        "warranty card",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "collateral",
+      "word": "collateral",
+      "pos": "noun",
+      "ipa": "/kəˈlætərəl/",
+      "reading_th": "เคอ-แลท-เทอ-เริล",
+      "meaning_th": "หลักทรัพย์ค้ำประกัน",
+      "emoji": "🏡",
+      "example_en": "They used the land as collateral.",
+      "example_th": "เขาใช้ที่ดินเป็นหลักทรัพย์ค้ำประกัน",
+      "cefr": "B2",
+      "note_th": "สินเชื่อที่ไม่ต้องมีหลักทรัพย์เรียก unsecured loan ซึ่งดอกเบี้ยแพงกว่า",
+      "distractors": [
+        "collateral damage",
+        "cathedral",
+        "colleague"
+      ]
+    },
+    {
+      "id": "monthly_budget",
+      "word": "monthly budget",
+      "pos": "noun",
+      "ipa": "/ˈmʌnθli ˈbʌdʒɪt/",
+      "reading_th": "มันธ์-ลี-บัด-เจ็ท",
+      "meaning_th": "งบประมาณรายเดือน",
+      "emoji": "📋",
+      "example_en": "Write a monthly budget before payday.",
+      "example_th": "ทำงบรายเดือนไว้ก่อนเงินเดือนออก",
+      "cefr": "B1",
+      "note_th": "วิธียอดนิยมคือ 50/30/20 คือจำเป็น 50 อยากได้ 30 ออม 20",
+      "distractors": [
+        "monthly meeting",
+        "budget airline",
+        "yearly plan"
+      ]
+    },
+    {
+      "id": "daily_expenses",
+      "word": "daily expenses",
+      "pos": "noun",
+      "ipa": "/ˈdeɪli ɪkˈspensɪz/",
+      "reading_th": "เด-ลี-อิค-สเพน-ซิส",
+      "meaning_th": "ค่าใช้จ่ายประจำวัน",
+      "emoji": "🧾",
+      "example_en": "Track your daily expenses for one week.",
+      "example_th": "จดค่าใช้จ่ายรายวันดูสักหนึ่งสัปดาห์",
+      "cefr": "B1",
+      "note_th": "ค่าใช้จ่ายประจำที่หลีกเลี่ยงไม่ได้เรียก fixed costs",
+      "distractors": [
+        "daily routine",
+        "travel expenses",
+        "daily news"
+      ]
+    },
+    {
+      "id": "income_tax",
+      "word": "income tax",
+      "pos": "noun",
+      "ipa": "/ˈɪnkʌm tæks/",
+      "reading_th": "อิน-คัม-แท็กซ์",
+      "meaning_th": "ภาษีเงินได้",
+      "emoji": "🏛️",
+      "example_en": "File your income tax before March.",
+      "example_th": "ยื่นภาษีเงินได้ก่อนเดือนมีนาคม",
+      "cefr": "B2",
+      "note_th": "ยื่นภาษีเรียก file taxes ส่วนเงินคืนภาษีคือ tax refund",
+      "distractors": [
+        "income statement",
+        "sales tax",
+        "taxi fare"
+      ]
+    },
+    {
+      "id": "salary_slip",
+      "word": "salary slip",
+      "pos": "noun",
+      "ipa": "/ˈsæləri slɪp/",
+      "reading_th": "แซล-เลอ-รี-สลิพ",
+      "meaning_th": "สลิปเงินเดือน",
+      "emoji": "🧾",
+      "example_en": "Keep your salary slip for the loan.",
+      "example_th": "เก็บสลิปเงินเดือนไว้ใช้ยื่นกู้",
+      "cefr": "B1",
+      "note_th": "ฝรั่งเรียก payslip หรือ pay stub ในอเมริกา",
+      "distractors": [
+        "sales slip",
+        "salary cap",
+        "slip road"
+      ]
+    },
+    {
+      "id": "bonus_payment",
+      "word": "bonus payment",
+      "pos": "noun",
+      "ipa": "/ˈbəʊnəs ˈpeɪmənt/",
+      "reading_th": "โบ-เนิส-เพย์-เมินท์",
+      "meaning_th": "เงินโบนัสที่จ่ายเพิ่ม",
+      "emoji": "🎁",
+      "example_en": "The bonus payment comes in December.",
+      "example_th": "เงินโบนัสออกเดือนธันวาคม",
+      "cefr": "B1",
+      "note_th": "โบนัสสิ้นปีเรียก year-end bonus หรือ thirteenth month pay",
+      "distractors": [
+        "bonus round",
+        "down payment",
+        "extra time"
+      ]
+    },
+    {
+      "id": "allowance_money",
+      "word": "allowance money",
+      "pos": "noun",
+      "ipa": "/əˈlaʊəns ˈmʌni/",
+      "reading_th": "อะ-ลาว-เอินซ์-มัน-นี",
+      "meaning_th": "เงินที่ให้ใช้เป็นประจำ เช่น ค่าขนม",
+      "emoji": "👛",
+      "example_en": "My parents gave me allowance money every Monday.",
+      "example_th": "พ่อแม่ให้เงินค่าขนมทุกวันจันทร์",
+      "cefr": "B1",
+      "note_th": "เด็กอังกฤษเรียก pocket money ส่วนอเมริกันเรียก allowance",
+      "distractors": [
+        "pocket size",
+        "loose change",
+        "advance money"
+      ]
+    },
+    {
+      "id": "saving_goal",
+      "word": "saving goal",
+      "pos": "noun",
+      "ipa": "/ˈseɪvɪŋ ɡəʊl/",
+      "reading_th": "เซฟ-วิง-โกล",
+      "meaning_th": "เป้าหมายการออมเงิน",
+      "emoji": "🎯",
+      "example_en": "My saving goal is a trip to Japan.",
+      "example_th": "เป้าหมายการออมของฉันคือไปเที่ยวญี่ปุ่น",
+      "cefr": "B1",
+      "note_th": "ตั้งเป้าให้ชัดเป็นตัวเลขและวันที่ ฝรั่งเรียกว่า SMART goal",
+      "distractors": [
+        "saving grace",
+        "goal keeper",
+        "spending plan"
+      ]
+    },
+    {
+      "id": "savings_plan",
+      "word": "savings plan",
+      "pos": "noun",
+      "ipa": "/ˈseɪvɪŋz plæn/",
+      "reading_th": "เซฟ-วิงส์-แพลน",
+      "meaning_th": "แผนการออมที่ตั้งไว้",
+      "emoji": "🗂️",
+      "example_en": "A savings plan works better than willpower.",
+      "example_th": "มีแผนออมได้ผลกว่าใช้ใจล้วน ๆ",
+      "cefr": "B2",
+      "note_th": "วิธีที่ได้ผลคือ pay yourself first คือหักเงินออมทันทีที่เงินเดือนเข้า",
+      "distractors": [
+        "saving grace",
+        "floor plan",
+        "spending spree"
+      ]
+    },
+    {
+      "id": "emergency_fund",
+      "word": "emergency fund",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːdʒənsi fʌnd/",
+      "reading_th": "อิ-เมอร์-เจิน-ซี-ฟันด์",
+      "meaning_th": "เงินสำรองฉุกเฉิน",
+      "emoji": "🚨",
+      "example_en": "Keep six months of costs in an emergency fund.",
+      "example_th": "เก็บเงินสำรองฉุกเฉินไว้หกเดือนของรายจ่าย",
+      "cefr": "B2",
+      "note_th": "ควรเก็บในบัญชีที่ถอนง่าย ไม่ใช่เอาไปลงทุนที่เสี่ยง",
+      "distractors": [
+        "emergency exit",
+        "mutual fund",
+        "energy fund"
+      ]
+    },
+    {
+      "id": "piggy_bank",
+      "word": "piggy bank",
+      "pos": "noun",
+      "ipa": "/ˈpɪɡi bæŋk/",
+      "reading_th": "พิก-กี้-แบงค์",
+      "meaning_th": "กระปุกออมสิน",
+      "emoji": "🐷",
+      "example_en": "My kid breaks the piggy bank every year.",
+      "example_th": "ลูกฉันทุบกระปุกออมสินทุกปี",
+      "cefr": "A2",
+      "note_th": "สำนวน raid the piggy bank = ควักเงินเก็บออกมาใช้",
+      "distractors": [
+        "piggy back",
+        "food bank",
+        "money box office"
+      ]
+    },
+    {
+      "id": "spending_habit",
+      "word": "spending habit",
+      "pos": "noun",
+      "ipa": "/ˈspendɪŋ ˈhæbɪt/",
+      "reading_th": "สเพน-ดิง-แฮ-บิท",
+      "meaning_th": "นิสัยการใช้จ่าย",
+      "emoji": "🔄",
+      "example_en": "Apps can show your spending habits.",
+      "example_th": "แอปช่วยให้เห็นนิสัยการใช้จ่ายของเรา",
+      "cefr": "B2",
+      "note_th": "ซื้อของโดยไม่ได้วางแผนเรียก impulse buying",
+      "distractors": [
+        "sleeping habit",
+        "spending spree",
+        "shopping mall"
+      ]
+    },
+    {
+      "id": "overspend",
+      "word": "overspend",
+      "pos": "verb",
+      "ipa": "/ˌəʊvəˈspend/",
+      "reading_th": "โอ-เวอร์-สเพนด์",
+      "meaning_th": "ใช้จ่ายเกินตัว",
+      "emoji": "💸",
+      "example_en": "I always overspend during sales.",
+      "example_th": "ช่วงลดราคาฉันใช้เงินเกินตัวตลอด",
+      "cefr": "B2",
+      "note_th": "over- แปลว่าเกิน เหมือน oversleep และ overeat",
+      "distractors": [
+        "oversleep",
+        "overtake",
+        "overhear"
+      ]
+    },
+    {
+      "id": "cut_back",
+      "word": "cut back",
+      "pos": "verb",
+      "ipa": "/kʌt bæk/",
+      "reading_th": "คัท-แบ็ค",
+      "meaning_th": "ลดการใช้จ่ายลง",
+      "emoji": "✂️",
+      "example_en": "We cut back on coffee this month.",
+      "example_th": "เดือนนี้เราลดค่ากาแฟลง",
+      "cefr": "B2",
+      "note_th": "ตามด้วย on เสมอ: cut back on something",
+      "distractors": [
+        "cut off",
+        "give back",
+        "cut in"
+      ]
+    },
+    {
+      "id": "fixed_deposit",
+      "word": "fixed deposit",
+      "pos": "noun",
+      "ipa": "/fɪkst dɪˈpɒzɪt/",
+      "reading_th": "ฟิกซ์ท์-ดิ-พอส-ซิท",
+      "meaning_th": "เงินฝากประจำ",
+      "emoji": "🔒",
+      "example_en": "A fixed deposit pays more but locks your money.",
+      "example_th": "ฝากประจำได้ดอกเบี้ยสูงกว่าแต่ถอนไม่ได้",
+      "cefr": "B2",
+      "note_th": "อเมริกันเรียก certificate of deposit ย่อว่า CD",
+      "distractors": [
+        "fixed price",
+        "security deposit",
+        "mixed deposit"
+      ]
+    },
+    {
+      "id": "bargain_hunt",
+      "word": "bargain hunt",
+      "pos": "verb",
+      "ipa": "/ˈbɑːɡɪn hʌnt/",
+      "reading_th": "บาร์-เกิน-ฮันท์",
+      "meaning_th": "ตระเวนหาของถูก",
+      "emoji": "🔍",
+      "example_en": "She loves to bargain hunt online.",
+      "example_th": "เธอชอบตระเวนหาของถูกออนไลน์",
+      "cefr": "B2",
+      "note_th": "bargain แปลว่าของถูกคุ้มค่า ส่วนต่อราคาใช้ haggle",
+      "distractors": [
+        "treasure hunt",
+        "bargain sale",
+        "house hunt"
+      ]
+    },
+    {
+      "id": "price_tag",
+      "word": "price tag",
+      "pos": "noun",
+      "ipa": "/praɪs tæɡ/",
+      "reading_th": "ไพรซ์-แท็ก",
+      "meaning_th": "ป้ายราคา",
+      "emoji": "🏷️",
+      "example_en": "Check the price tag before you try it on.",
+      "example_th": "ดูป้ายราคาก่อนลองใส่",
+      "cefr": "A2",
+      "note_th": "ป้ายลดราคาเรียก sale tag ส่วนราคาเต็มคือ original price",
+      "distractors": [
+        "name tag",
+        "price list",
+        "hash tag"
+      ]
+    },
+    {
+      "id": "receipt_copy",
+      "word": "receipt copy",
+      "pos": "noun",
+      "ipa": "/rɪˈsiːt ˈkɒpi/",
+      "reading_th": "ริ-ซีท-ค็อพ-ปี้",
+      "meaning_th": "สำเนาใบเสร็จ",
+      "emoji": "🧾",
+      "example_en": "Keep the receipt copy for the warranty.",
+      "example_th": "เก็บสำเนาใบเสร็จไว้ใช้เคลมประกัน",
+      "cefr": "B1",
+      "note_th": "ตัว p ใน receipt ไม่ออกเสียง อ่านว่า ริ-ซีท",
+      "distractors": [
+        "recipe book",
+        "hard copy",
+        "receipt book"
+      ]
+    },
+    {
+      "id": "refund_money",
+      "word": "refund money",
+      "pos": "verb",
+      "ipa": "/ˈriːfʌnd ˈmʌni/",
+      "reading_th": "รี-ฟันด์-มัน-นี",
+      "meaning_th": "คืนเงิน",
+      "emoji": "↩️",
+      "example_en": "The shop will refund money within seven days.",
+      "example_th": "ร้านจะคืนเงินภายในเจ็ดวัน",
+      "cefr": "B1",
+      "note_th": "เปลี่ยนสินค้าเรียก exchange ส่วนคืนเงินเรียก refund",
+      "distractors": [
+        "refuse money",
+        "return goods",
+        "refill money"
+      ]
+    },
+    {
+      "id": "cashier_counter",
+      "word": "cashier counter",
+      "pos": "noun",
+      "ipa": "/kæˈʃɪə ˈkaʊntə/",
+      "reading_th": "แค-เชีย-เคาน์-เทอร์",
+      "meaning_th": "เคาน์เตอร์ชำระเงิน",
+      "emoji": "🛒",
+      "example_en": "Pay at the cashier counter near the exit.",
+      "example_th": "จ่ายที่เคาน์เตอร์แคชเชียร์ใกล้ทางออก",
+      "cefr": "A2",
+      "note_th": "ช่องจ่ายเร็วสำหรับของไม่กี่ชิ้นเรียก express lane",
+      "distractors": [
+        "cash machine",
+        "information desk",
+        "cashew counter"
+      ]
+    },
+    {
+      "id": "small_change",
+      "word": "small change",
+      "pos": "noun",
+      "ipa": "/smɔːl tʃeɪndʒ/",
+      "reading_th": "สมอล-เชนจ์",
+      "meaning_th": "เงินทอนเหรียญเล็ก ๆ น้อย ๆ",
+      "emoji": "🪙",
+      "example_en": "Do you have small change for the bus?",
+      "example_th": "มีเศษเหรียญสำหรับขึ้นรถเมล์ไหม",
+      "cefr": "B1",
+      "note_th": "change แปลว่าเงินทอนได้ด้วย เช่น Keep the change = ไม่ต้องทอน",
+      "distractors": [
+        "big change",
+        "small talk",
+        "loose end"
+      ]
+    },
+    {
+      "id": "coin_purse",
+      "word": "coin purse",
+      "pos": "noun",
+      "ipa": "/kɔɪn pɜːs/",
+      "reading_th": "คอยน์-เพิร์ส",
+      "meaning_th": "กระเป๋าใส่เหรียญ",
+      "emoji": "👝",
+      "example_en": "My coin purse is full of one-baht coins.",
+      "example_th": "กระเป๋าเหรียญของฉันเต็มไปด้วยเหรียญบาท",
+      "cefr": "B1",
+      "note_th": "ธนบัตรเก็บใน wallet ส่วนเหรียญเก็บใน coin purse",
+      "distractors": [
+        "coin toss",
+        "purse strings",
+        "card holder"
+      ]
+    },
+    {
+      "id": "money_belt",
+      "word": "money belt",
+      "pos": "noun",
+      "ipa": "/ˈmʌni belt/",
+      "reading_th": "มัน-นี-เบลท์",
+      "meaning_th": "เข็มขัดซ่อนเงินสำหรับนักเดินทาง",
+      "emoji": "🧳",
+      "example_en": "Wear a money belt in crowded markets.",
+      "example_th": "ใส่เข็มขัดซ่อนเงินเวลาไปตลาดที่คนแน่น",
+      "cefr": "B2",
+      "note_th": "ซ่อนใต้เสื้อเสมอ ถ้าใส่ทับข้างนอกก็เท่ากับบอกโจรว่าเงินอยู่ตรงนี้",
+      "distractors": [
+        "seat belt",
+        "money bag",
+        "belt loop"
+      ]
+    },
+    {
+      "id": "counterfeit",
+      "word": "counterfeit",
+      "pos": "adjective",
+      "ipa": "/ˈkaʊntəfɪt/",
+      "reading_th": "เคาน์-เทอร์-ฟิท",
+      "meaning_th": "ปลอมแปลง",
+      "emoji": "🚫",
+      "example_en": "The shop found a counterfeit note.",
+      "example_th": "ร้านเจอธนบัตรปลอม",
+      "cefr": "B2",
+      "note_th": "ใช้กับสินค้าแบรนด์เนมปลอมได้ด้วย เช่น counterfeit bags",
+      "distractors": [
+        "counter offer",
+        "comfort fit",
+        "counterpart"
+      ]
+    },
+    {
+      "id": "money_changer",
+      "word": "money changer",
+      "pos": "noun",
+      "ipa": "/ˈmʌni ˈtʃeɪndʒə/",
+      "reading_th": "มัน-นี-เชน-เจอร์",
+      "meaning_th": "ร้านรับแลกเงิน",
+      "emoji": "💱",
+      "example_en": "The money changer gives a better rate than the bank.",
+      "example_th": "ร้านแลกเงินให้เรตดีกว่าธนาคาร",
+      "cefr": "B1",
+      "note_th": "อัตราที่เห็นบนป้ายมีสองแถว buying rate คือเรตที่ร้านรับซื้อจากเรา",
+      "distractors": [
+        "money maker",
+        "game changer",
+        "money order"
+      ]
+    },
+    {
+      "id": "currency",
+      "word": "currency",
+      "pos": "noun",
+      "ipa": "/ˈkʌrənsi/",
+      "reading_th": "เคอ-เริน-ซี",
+      "meaning_th": "สกุลเงิน",
+      "emoji": "💴",
+      "example_en": "Which currency do you want, dollars or yen?",
+      "example_th": "จะเอาสกุลไหน ดอลลาร์หรือเยน",
+      "cefr": "B1",
+      "note_th": "สกุลเงินไทยคือ Thai baht ตัวย่อ THB ตามมาตรฐานสากล",
+      "distractors": [
+        "currently",
+        "curtain",
+        "urgency"
+      ]
+    },
+    {
+      "id": "foreign_exchange",
+      "word": "foreign exchange",
+      "pos": "noun",
+      "ipa": "/ˈfɒrən ɪksˈtʃeɪndʒ/",
+      "reading_th": "ฟอ-เริน-อิคซ์-เชนจ์",
+      "meaning_th": "การแลกเปลี่ยนเงินตราต่างประเทศ",
+      "emoji": "🌐",
+      "example_en": "The foreign exchange booth is past customs.",
+      "example_th": "จุดแลกเงินต่างประเทศอยู่เลยด่านศุลกากร",
+      "cefr": "B2",
+      "note_th": "ย่อว่า forex หรือ FX ในข่าวเศรษฐกิจ",
+      "distractors": [
+        "foreign student",
+        "stock exchange",
+        "free exchange"
+      ]
+    },
+    {
+      "id": "go_dutch",
+      "word": "go dutch",
+      "pos": "verb",
+      "ipa": "/ɡəʊ dʌtʃ/",
+      "reading_th": "โก-ดัตช์",
+      "meaning_th": "ต่างคนต่างจ่ายค่าอาหารของตัวเอง",
+      "emoji": "🍽️",
+      "example_en": "Let's go dutch on this dinner.",
+      "example_th": "มื้อนี้ต่างคนต่างจ่ายนะ",
+      "cefr": "B2",
+      "note_th": "สำนวนเก่าที่ยังใช้กันอยู่ พูดว่า Let's split it ก็ได้และเป็นกลางกว่า",
+      "distractors": [
+        "go dark",
+        "go halves free",
+        "go deep"
+      ]
+    },
+    {
+      "id": "tip_money",
+      "word": "tip money",
+      "pos": "noun",
+      "ipa": "/tɪp ˈmʌni/",
+      "reading_th": "ทิพ-มัน-นี",
+      "meaning_th": "เงินทิป",
+      "emoji": "🙏",
+      "example_en": "Leave the tip money on the table.",
+      "example_th": "วางเงินทิปไว้บนโต๊ะ",
+      "cefr": "B1",
+      "note_th": "อเมริกาคาดหวัง 15-20% ส่วนไทยให้เท่าไรก็ได้ตามใจ",
+      "distractors": [
+        "tip toe",
+        "top money",
+        "pin money"
+      ]
+    },
+    {
+      "id": "investment",
+      "word": "investment",
+      "pos": "noun",
+      "ipa": "/ɪnˈvestmənt/",
+      "reading_th": "อิน-เวสท์-เมินท์",
+      "meaning_th": "การลงทุน",
+      "emoji": "🌱",
+      "example_en": "Education is the best investment.",
+      "example_th": "การศึกษาคือการลงทุนที่ดีที่สุด",
+      "cefr": "B2",
+      "note_th": "กริยาคือ invest เช่น invest in a fund",
+      "distractors": [
+        "involvement",
+        "instrument",
+        "investigation"
+      ]
+    },
+    {
+      "id": "stock_market",
+      "word": "stock market",
+      "pos": "noun",
+      "ipa": "/stɒk ˈmɑːkɪt/",
+      "reading_th": "สต็อค-มาร์-เก็ท",
+      "meaning_th": "ตลาดหุ้น",
+      "emoji": "🏛️",
+      "example_en": "The stock market closed lower today.",
+      "example_th": "ตลาดหุ้นปิดลบวันนี้",
+      "cefr": "B2",
+      "note_th": "ตลาดหุ้นไทยคือ SET ย่อจาก Stock Exchange of Thailand",
+      "distractors": [
+        "flea market",
+        "stock room",
+        "night market"
+      ]
+    },
+    {
+      "id": "share_price",
+      "word": "share price",
+      "pos": "noun",
+      "ipa": "/ʃeə praɪs/",
+      "reading_th": "แชร์-ไพรซ์",
+      "meaning_th": "ราคาหุ้นต่อหน่วย",
+      "emoji": "💹",
+      "example_en": "Their share price doubled in a year.",
+      "example_th": "ราคาหุ้นของเขาขึ้นเท่าตัวในหนึ่งปี",
+      "cefr": "B2",
+      "note_th": "อเมริกันเรียกหุ้นว่า stock ส่วนอังกฤษเรียก share",
+      "distractors": [
+        "fair price",
+        "share house",
+        "spare price"
+      ]
+    },
+    {
+      "id": "dividend",
+      "word": "dividend",
+      "pos": "noun",
+      "ipa": "/ˈdɪvɪdend/",
+      "reading_th": "ดิ-วิ-เดนด์",
+      "meaning_th": "เงินปันผล",
+      "emoji": "🎁",
+      "example_en": "This fund pays a dividend twice a year.",
+      "example_th": "กองทุนนี้จ่ายเงินปันผลปีละสองครั้ง",
+      "cefr": "B2",
+      "note_th": "หุ้นที่จ่ายปันผลสม่ำเสมอเรียก dividend stock",
+      "distractors": [
+        "divide",
+        "diversity",
+        "dividend wall"
+      ]
+    },
+    {
+      "id": "mutual_fund",
+      "word": "mutual fund",
+      "pos": "noun",
+      "ipa": "/ˈmjuːtʃuəl fʌnd/",
+      "reading_th": "มิว-ชวล-ฟันด์",
+      "meaning_th": "กองทุนรวม",
+      "emoji": "📦",
+      "example_en": "A mutual fund spreads the risk for you.",
+      "example_th": "กองทุนรวมช่วยกระจายความเสี่ยงให้เรา",
+      "cefr": "B2",
+      "note_th": "mutual แปลว่าร่วมกัน เพราะเป็นเงินหลายคนรวมกันลงทุน",
+      "distractors": [
+        "mutual friend",
+        "emergency fund",
+        "musical band"
+      ]
+    },
+    {
+      "id": "gold_bar",
+      "word": "gold bar",
+      "pos": "noun",
+      "ipa": "/ɡəʊld bɑː/",
+      "reading_th": "โกลด์-บาร์",
+      "meaning_th": "ทองคำแท่ง",
+      "emoji": "🥇",
+      "example_en": "My grandmother keeps a gold bar in the safe.",
+      "example_th": "ยายเก็บทองคำแท่งไว้ในตู้เซฟ",
+      "cefr": "B1",
+      "note_th": "ทองรูปพรรณเรียก gold jewellery ส่วนราคาทองคือ gold price",
+      "distractors": [
+        "chocolate bar",
+        "gold fish",
+        "bar code"
+      ]
+    },
+    {
+      "id": "capital_gain",
+      "word": "capital gain",
+      "pos": "noun",
+      "ipa": "/ˈkæpɪtl ɡeɪn/",
+      "reading_th": "แค-พิ-เทิล-เกน",
+      "meaning_th": "กำไรจากการขายสินทรัพย์",
+      "emoji": "📈",
+      "example_en": "He made a capital gain on the land.",
+      "example_th": "เขาได้กำไรจากการขายที่ดิน",
+      "cefr": "B2",
+      "note_th": "ภาษีจากกำไรแบบนี้เรียก capital gains tax ซึ่งหลายประเทศเก็บ",
+      "distractors": [
+        "capital city",
+        "weight gain",
+        "capital letter"
+      ]
+    },
+    {
+      "id": "break_even",
+      "word": "break even",
+      "pos": "verb",
+      "ipa": "/breɪk ˈiːvn/",
+      "reading_th": "เบรค-อี-เวิน",
+      "meaning_th": "เท่าทุน ไม่กำไรไม่ขาดทุน",
+      "emoji": "⚖️",
+      "example_en": "The shop needs two years to break even.",
+      "example_th": "ร้านต้องใช้เวลาสองปีกว่าจะคืนทุน",
+      "cefr": "B2",
+      "note_th": "จุดคุ้มทุนเรียก break-even point เขียนมีขีดเมื่อเป็นคำนาม",
+      "distractors": [
+        "break up",
+        "break down",
+        "even out"
+      ]
+    },
+    {
+      "id": "high_risk",
+      "word": "high risk",
+      "pos": "adjective",
+      "ipa": "/haɪ rɪsk/",
+      "reading_th": "ไฮ-ริสค์",
+      "meaning_th": "ความเสี่ยงสูง",
+      "emoji": "⚠️",
+      "example_en": "Crypto is a high risk investment.",
+      "example_th": "คริปโตเป็นการลงทุนความเสี่ยงสูง",
+      "cefr": "B2",
+      "note_th": "คู่กับสำนวน high risk, high return ที่แปลว่าเสี่ยงมากผลตอบแทนมาก",
+      "distractors": [
+        "high rise",
+        "low risk",
+        "high road"
+      ]
+    },
+    {
+      "id": "inflation",
+      "word": "inflation",
+      "pos": "noun",
+      "ipa": "/ɪnˈfleɪʃən/",
+      "reading_th": "อิน-เฟล-ชัน",
+      "meaning_th": "เงินเฟ้อ",
+      "emoji": "🎈",
+      "example_en": "Inflation makes the same money buy less.",
+      "example_th": "เงินเฟ้อทำให้เงินเท่าเดิมซื้อของได้น้อยลง",
+      "cefr": "B2",
+      "note_th": "มาจาก inflate ที่แปลว่าพองขึ้น เหมือนลูกโป่งที่ราคาพองตาม",
+      "distractors": [
+        "invitation",
+        "installation",
+        "innovation"
+      ]
+    },
+    {
+      "id": "insurance_policy",
+      "word": "insurance policy",
+      "pos": "noun",
+      "ipa": "/ɪnˈʃʊərəns ˈpɒləsi/",
+      "reading_th": "อิน-ชัว-เริน-ซ์-พอล-ลิ-ซี",
+      "meaning_th": "กรมธรรม์ประกัน",
+      "emoji": "📜",
+      "example_en": "Read the insurance policy before you sign.",
+      "example_th": "อ่านกรมธรรม์ให้ดีก่อนเซ็น",
+      "cefr": "B2",
+      "note_th": "ประกันชีวิตคือ life insurance ประกันสุขภาพคือ health insurance",
+      "distractors": [
+        "company policy",
+        "privacy policy",
+        "insurance agent"
+      ]
+    },
+    {
+      "id": "premium_payment",
+      "word": "premium payment",
+      "pos": "noun",
+      "ipa": "/ˈpriːmiəm ˈpeɪmənt/",
+      "reading_th": "พรี-เมียม-เพย์-เมินท์",
+      "meaning_th": "ค่าเบี้ยประกันที่ต้องจ่าย",
+      "emoji": "💰",
+      "example_en": "The premium payment is due every June.",
+      "example_th": "ค่าเบี้ยประกันครบกำหนดทุกเดือนมิถุนายน",
+      "cefr": "B2",
+      "note_th": "premium ในบริบทประกันแปลว่าเบี้ยประกัน ไม่ใช่ของพรีเมียม",
+      "distractors": [
+        "premium seat",
+        "down payment",
+        "premier league"
+      ]
+    },
+    {
+      "id": "beneficiary",
+      "word": "beneficiary",
+      "pos": "noun",
+      "ipa": "/ˌbenɪˈfɪʃəri/",
+      "reading_th": "เบ-นิ-ฟิ-เชอ-รี",
+      "meaning_th": "ผู้รับผลประโยชน์",
+      "emoji": "👨‍👩‍👧",
+      "example_en": "Write your wife as the beneficiary.",
+      "example_th": "ระบุภรรยาเป็นผู้รับผลประโยชน์",
+      "cefr": "B2",
+      "note_th": "อัปเดตชื่อทุกครั้งที่สถานะครอบครัวเปลี่ยน ไม่งั้นเงินอาจไปผิดคน",
+      "distractors": [
+        "beneficial",
+        "benefactor",
+        "bureaucracy"
+      ]
+    },
+    {
+      "id": "pension",
+      "word": "pension",
+      "pos": "noun",
+      "ipa": "/ˈpenʃən/",
+      "reading_th": "เพน-ชัน",
+      "meaning_th": "เงินบำนาญ",
+      "emoji": "👴",
+      "example_en": "He lives on a small pension.",
+      "example_th": "เขาใช้ชีวิตด้วยเงินบำนาญก้อนเล็ก ๆ",
+      "cefr": "B2",
+      "note_th": "ในอังกฤษ pension ยังหมายถึงกองทุนที่นายจ้างสมทบให้ด้วย",
+      "distractors": [
+        "tension",
+        "passion",
+        "mansion"
+      ]
+    },
+    {
+      "id": "scam_call",
+      "word": "scam call",
+      "pos": "noun",
+      "ipa": "/skæm kɔːl/",
+      "reading_th": "สแกม-คอล",
+      "meaning_th": "สายมิจฉาชีพ",
+      "emoji": "📞",
+      "example_en": "I got a scam call about a parcel.",
+      "example_th": "ฉันได้สายมิจฉาชีพอ้างเรื่องพัสดุ",
+      "cefr": "B1",
+      "note_th": "คนโกงเรียก scammer ส่วนเหยื่อเรียก victim",
+      "distractors": [
+        "spam mail",
+        "sales call",
+        "scan call"
+      ]
+    },
+    {
+      "id": "phishing",
+      "word": "phishing",
+      "pos": "noun",
+      "ipa": "/ˈfɪʃɪŋ/",
+      "reading_th": "ฟิช-ชิง",
+      "meaning_th": "การหลอกเอาข้อมูลผ่านลิงก์ปลอม",
+      "emoji": "🎣",
+      "example_en": "That email is phishing, do not click it.",
+      "example_th": "อีเมลนั้นเป็นลิงก์หลอก อย่ากด",
+      "cefr": "B2",
+      "note_th": "สะกดด้วย ph เลียนคำว่า fishing เพราะเป็นการตกเหยื่อเหมือนกัน",
+      "distractors": [
+        "fishing",
+        "phrasing",
+        "flashing"
+      ]
+    },
+    {
+      "id": "fraud_alert",
+      "word": "fraud alert",
+      "pos": "noun",
+      "ipa": "/frɔːd əˈlɜːt/",
+      "reading_th": "ฟรอด-อะ-เลิร์ท",
+      "meaning_th": "การแจ้งเตือนธุรกรรมน่าสงสัย",
+      "emoji": "🚨",
+      "example_en": "The bank sent a fraud alert to my phone.",
+      "example_th": "ธนาคารส่งการแจ้งเตือนธุรกรรมน่าสงสัยมาที่มือถือ",
+      "cefr": "B2",
+      "note_th": "ถ้าได้รับแล้วไม่ใช่เรา ให้โทรหาเบอร์หลังบัตรทันที อย่ากดลิงก์ในข้อความ",
+      "distractors": [
+        "flood alert",
+        "food allergy",
+        "fraud squad"
+      ]
+    },
+    {
+      "id": "freeze_the_account",
+      "word": "freeze the account",
+      "pos": "verb",
+      "ipa": "/friːz ði əˈkaʊnt/",
+      "reading_th": "ฟรีซ-ดิ-อะ-เคาท์",
+      "meaning_th": "อายัดบัญชี",
+      "emoji": "🧊",
+      "example_en": "Call the bank to freeze the account at once.",
+      "example_th": "โทรหาธนาคารเพื่ออายัดบัญชีทันที",
+      "cefr": "B2",
+      "note_th": "ประโยคฉุกเฉินที่ควรจำ: I need to freeze my account immediately",
+      "distractors": [
+        "close the account",
+        "free the account",
+        "check the account"
+      ]
+    },
+    {
+      "id": "proof_of_income",
+      "word": "proof of income",
+      "pos": "noun",
+      "ipa": "/pruːf əv ˈɪnkʌm/",
+      "reading_th": "พรูฟ-ออฟ-อิน-คัม",
+      "meaning_th": "หลักฐานแสดงรายได้",
+      "emoji": "📑",
+      "example_en": "The bank asked for proof of income.",
+      "example_th": "ธนาคารขอหลักฐานรายได้",
+      "cefr": "B2",
+      "note_th": "สำหรับฟรีแลนซ์มักใช้ statement ย้อนหลัง 6 เดือนแทนสลิปเงินเดือน",
+      "distractors": [
+        "proof of address",
+        "loss of income",
+        "proof reading"
+      ]
+    },
+    {
+      "id": "bankrupt",
+      "word": "bankrupt",
+      "pos": "adjective",
+      "ipa": "/ˈbæŋkrʌpt/",
+      "reading_th": "แบงค์-รัพท์",
+      "meaning_th": "ล้มละลาย",
+      "emoji": "📉",
+      "example_en": "The company went bankrupt last year.",
+      "example_th": "บริษัทล้มละลายเมื่อปีที่แล้ว",
+      "cefr": "B2",
+      "note_th": "คำนามคือ bankruptcy — ใช้ go bankrupt ไม่ใช่ be bankrupted",
+      "distractors": [
+        "bank robber",
+        "backup",
+        "bank run"
+      ]
+    },
+    {
+      "id": "annual_fee",
+      "word": "annual fee",
+      "pos": "noun",
+      "ipa": "/ˈænjuəl fiː/",
+      "reading_th": "แอน-นวล-ฟี",
+      "meaning_th": "ค่าธรรมเนียมรายปี",
+      "emoji": "🗓️",
+      "example_en": "Ask them to waive the annual fee.",
+      "example_th": "ขอให้เขายกเว้นค่าธรรมเนียมรายปี",
+      "cefr": "B2",
+      "note_th": "waive แปลว่ายกเว้นให้ — ประโยคนี้ใช้ต่อรองกับธนาคารได้จริง",
+      "distractors": [
+        "annual leave",
+        "entry fee",
+        "manual fee"
+      ]
+    },
+    {
+      "id": "retirement_fund",
+      "word": "retirement fund",
+      "pos": "noun",
+      "ipa": "/rɪˈtaɪəmənt fʌnd/",
+      "reading_th": "ริ-ไท-เออร์-เมินท์-ฟันด์",
+      "meaning_th": "เงินกองทุนไว้ใช้ยามเกษียณ",
+      "emoji": "🏖️",
+      "example_en": "Start a retirement fund in your twenties.",
+      "example_th": "เริ่มเก็บเงินเกษียณตั้งแต่อายุยี่สิบกว่า",
+      "cefr": "B2",
+      "note_th": "ในไทยคือกองทุนสำรองเลี้ยงชีพและ RMF ส่วนอเมริกาเรียก 401(k)",
+      "distractors": [
+        "requirement fund",
+        "emergency fund",
+        "return flight"
+      ]
+    },
+    {
+      "id": "interest_earned",
+      "word": "interest earned",
+      "pos": "noun",
+      "ipa": "/ˈɪntrəst ɜːnd/",
+      "reading_th": "อิน-เทอ-เรสท์-เอิร์นด์",
+      "meaning_th": "ดอกเบี้ยที่ได้รับ",
+      "emoji": "🪙",
+      "example_en": "The interest earned was only forty baht.",
+      "example_th": "ดอกเบี้ยที่ได้มีแค่สี่สิบบาท",
+      "cefr": "B2",
+      "note_th": "ดอกเบี้ยทบต้นเรียก compound interest ซึ่งทำให้เงินโตเร็วขึ้นมาก",
+      "distractors": [
+        "interest paid",
+        "interest group",
+        "income earned"
+      ]
+    },
+    {
+      "id": "return_on_investment",
+      "word": "return on investment",
+      "pos": "noun",
+      "ipa": "/rɪˈtɜːn ɒn ɪnˈvestmənt/",
+      "reading_th": "ริ-เทิร์น-ออน-อิน-เวสท์-เมินท์",
+      "meaning_th": "ผลตอบแทนจากการลงทุน",
+      "emoji": "📊",
+      "example_en": "The return on investment was eight percent.",
+      "example_th": "ผลตอบแทนจากการลงทุนอยู่ที่แปดเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "ย่อว่า ROI ซึ่งใช้กันทั่วไปในที่ประชุมธุรกิจ",
+      "distractors": [
+        "return ticket",
+        "point of interest",
+        "rate of exchange"
+      ]
+    },
+    {
+      "id": "owe",
+      "word": "owe",
+      "pos": "verb",
+      "ipa": "/əʊ/",
+      "reading_th": "โอว์",
+      "meaning_th": "ติดหนี้อยู่",
+      "emoji": "🤲",
+      "example_en": "I owe my friend two hundred baht.",
+      "example_th": "ฉันติดหนี้เพื่อนสองร้อยบาท",
+      "cefr": "B1",
+      "note_th": "ออกเสียงแค่พยางค์เดียวว่า โอว์ ตัว w ไม่ออกเสียง",
+      "distractors": [
+        "own",
+        "oh",
+        "old"
+      ]
+    },
+    {
+      "id": "pay_back",
+      "word": "pay back",
+      "pos": "verb",
+      "ipa": "/peɪ bæk/",
+      "reading_th": "เพย์-แบ็ค",
+      "meaning_th": "จ่ายคืนเงินที่ยืมมา",
+      "emoji": "💵",
+      "example_en": "I will pay you back on Friday.",
+      "example_th": "ฉันจะคืนเงินให้วันศุกร์",
+      "cefr": "B1",
+      "note_th": "ใช้กับการแก้แค้นได้ด้วย เช่น payback time ที่แปลว่าถึงเวลาเอาคืน",
+      "distractors": [
+        "pay off",
+        "give up",
+        "buy back"
+      ]
+    },
+    {
+      "id": "donation",
+      "word": "donation",
+      "pos": "noun",
+      "ipa": "/dəʊˈneɪʃən/",
+      "reading_th": "โด-เน-ชัน",
+      "meaning_th": "เงินหรือของที่บริจาค",
+      "emoji": "🎗️",
+      "example_en": "They collected donations for the flood victims.",
+      "example_th": "พวกเขารวบรวมเงินบริจาคช่วยผู้ประสบภัยน้ำท่วม",
+      "cefr": "B1",
+      "note_th": "เงินทำบุญที่วัดก็ใช้คำนี้ได้ หรือพูดว่า merit-making ให้ฝรั่งเข้าใจบริบทไทย",
+      "distractors": [
+        "donut shop",
+        "dedication",
+        "nomination"
+      ]
+    },
+    {
+      "id": "good_cause",
+      "word": "good cause",
+      "pos": "noun",
+      "ipa": "/ɡʊd kɔːz/",
+      "reading_th": "กุด-คอส",
+      "meaning_th": "เรื่องที่ควรสนับสนุนเพื่อส่วนรวม",
+      "emoji": "💚",
+      "example_en": "The money goes to a good cause.",
+      "example_th": "เงินก้อนนี้ไปสู่เรื่องที่ดีต่อส่วนรวม",
+      "cefr": "B2",
+      "note_th": "cause ในที่นี้แปลว่าอุดมการณ์หรือเรื่องที่คนรวมตัวกันสนับสนุน",
+      "distractors": [
+        "good course",
+        "lost cause",
+        "good deal"
+      ]
+    }
+  ]
+}

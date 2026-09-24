@@ -189,36 +189,36 @@
     },
     {
       "id": "sports",
+      "file": "sports.json",
       "name_en": "Sports & Fitness",
       "name_th": "กีฬาและฟิตเนส",
       "emoji": "⚽",
       "color_start": "#86EFAC",
       "color_end": "#15803D",
-      "available": false,
-      "mascot_costume": "athlete",
-      "description_th": "ออกกำลังกาย ฟิตเนส และกีฬายอดนิยม"
+      "available": true,
+      "image": "worlds/sports.webp"
     },
     {
       "id": "getting_around",
+      "file": "getting_around.json",
       "name_en": "Getting Around",
       "name_th": "เดินทางในเมือง",
       "emoji": "🚕",
       "color_start": "#FDE047",
       "color_end": "#CA8A04",
-      "available": false,
-      "mascot_costume": "driver",
-      "description_th": "แท็กซี่ รถไฟฟ้า ถามทาง และการเดินทางในเมือง"
+      "available": true,
+      "image": "worlds/getting_around.webp"
     },
     {
       "id": "money",
+      "file": "money.json",
       "name_en": "Money & Banking",
       "name_th": "การเงินและธนาคาร",
       "emoji": "💳",
       "color_start": "#6EE7B7",
       "color_end": "#047857",
-      "available": false,
-      "mascot_costume": "banker",
-      "description_th": "ธนาคาร โอนเงิน ออมเงิน และบัตรเครดิต"
+      "available": true,
+      "image": "worlds/money.webp"
     }
   ]
 }

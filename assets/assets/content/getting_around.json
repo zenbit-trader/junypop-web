@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "getting_around",
+    "name_en": "Getting Around",
+    "name_th": "เดินทางในเมือง",
+    "emoji": "🚕",
+    "color_start": "#FDE047",
+    "color_end": "#CA8A04",
+    "description_th": "รถเมล์ รถไฟฟ้า แท็กซี่ วินมอเตอร์ไซค์ เรือ ถนนและป้ายจราจร ถามทาง บัตรโดยสาร และปัญหาระหว่างทาง",
+    "mascot_costume": "driver",
+    "lessons": [
+      {
+        "id": "getting_around_1",
+        "title_en": "Bus & Train",
+        "title_th": "รถเมล์และรถไฟฟ้า",
+        "emoji": "🚈",
+        "word_ids": [
+          "bus_shelter",
+          "bus_lane",
+          "skytrain",
+          "subway",
+          "boarding_platform",
+          "carriage",
+          "turnstile",
+          "fare",
+          "top_up",
+          "ticket_machine",
+          "commuter",
+          "transfer",
+          "express_bus",
+          "minibus"
+        ]
+      },
+      {
+        "id": "getting_around_2",
+        "title_en": "Taxis & Rides",
+        "title_th": "แท็กซี่และเรียกรถ",
+        "emoji": "🚖",
+        "word_ids": [
+          "taxi_queue",
+          "meter",
+          "ride_hailing",
+          "pick_up_point",
+          "drop_off",
+          "surge_price",
+          "tuk_tuk",
+          "songthaew",
+          "motorbike_taxi",
+          "delivery_rider",
+          "scooter",
+          "seat_belt",
+          "rear_seat",
+          "front_seat"
+        ]
+      },
+      {
+        "id": "getting_around_3",
+        "title_en": "Roads & Signs",
+        "title_th": "ถนนและป้ายจราจร",
+        "emoji": "🚦",
+        "word_ids": [
+          "junction",
+          "traffic_light",
+          "roundabout",
+          "two_way_street",
+          "u_turn",
+          "overpass",
+          "underpass",
+          "flyover",
+          "footbridge",
+          "zebra_crossing",
+          "crosswalk",
+          "sidewalk",
+          "pedestrian",
+          "signpost"
+        ]
+      },
+      {
+        "id": "getting_around_4",
+        "title_en": "Driving & Parking",
+        "title_th": "ขับรถและจอดรถ",
+        "emoji": "🅿️",
+        "word_ids": [
+          "speed_limit",
+          "speed_camera",
+          "traffic_police",
+          "toll",
+          "petrol_station",
+          "fuel",
+          "license_plate",
+          "car_park",
+          "parking_space",
+          "parking_fee",
+          "lane",
+          "honk",
+          "bicycle_lane",
+          "motorcycle_helmet"
+        ]
+      },
+      {
+        "id": "getting_around_5",
+        "title_en": "Asking the Way",
+        "title_th": "ถามทางและบอกทาง",
+        "emoji": "🧭",
+        "word_ids": [
+          "straight_ahead",
+          "make_a_turn",
+          "across_from",
+          "around_the_corner",
+          "city_block",
+          "well_known_spot",
+          "map_app",
+          "live_tracking",
+          "route",
+          "get_on",
+          "get_off",
+          "miss_the_bus",
+          "shortcut",
+          "detour"
+        ]
+      },
+      {
+        "id": "getting_around_6",
+        "title_en": "When Things Go Wrong",
+        "title_th": "เมื่อมีปัญหาระหว่างทาง",
+        "emoji": "🚧",
+        "word_ids": [
+          "rush_hour",
+          "traffic_jam",
+          "breakdown",
+          "flat_tire",
+          "spare_tire",
+          "tow_truck",
+          "roadwork",
+          "road_closed",
+          "pothole",
+          "traffic_cone",
+          "standing_room",
+          "pickpocket",
+          "u_turn_bridge",
+          "river_boat"
+        ]
+      },
+      {
+        "id": "getting_around_7",
+        "title_en": "Tickets & Passes",
+        "title_th": "ตั๋วและบัตรโดยสาร",
+        "emoji": "🎫",
+        "word_ids": [
+          "single_trip",
+          "day_pass",
+          "monthly_pass",
+          "contactless",
+          "student_fare",
+          "peak_fare",
+          "off_peak",
+          "entry_gate",
+          "exit_gate",
+          "first_train",
+          "last_train",
+          "pier",
+          "longtail_boat",
+          "life_jacket"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "bus_shelter",
+      "word": "bus shelter",
+      "pos": "noun",
+      "ipa": "/bʌs ˈʃeltə/",
+      "reading_th": "บัส-เชล-เทอร์",
+      "meaning_th": "ศาลาที่พักรอรถเมล์",
+      "emoji": "🚏",
+      "example_en": "We waited in the bus shelter during the rain.",
+      "example_th": "เรารอในศาลารถเมล์ตอนฝนตก",
+      "cefr": "B1",
+      "note_th": "shelter แปลว่าที่กำบัง จึงหมายถึงป้ายที่มีหลังคา ไม่ใช่เสาป้ายเปล่า ๆ",
+      "distractors": [
+        "bus driver",
+        "rain coat",
+        "bus route"
+      ]
+    },
+    {
+      "id": "bus_lane",
+      "word": "bus lane",
+      "pos": "noun",
+      "ipa": "/bʌs leɪn/",
+      "reading_th": "บัส-เลน",
+      "meaning_th": "ช่องทางเดินรถเฉพาะรถเมล์",
+      "emoji": "🛣️",
+      "example_en": "Cars cannot use the bus lane at rush hour.",
+      "example_th": "ชั่วโมงเร่งด่วนรถยนต์ห้ามวิ่งช่องรถเมล์",
+      "cefr": "B1",
+      "note_th": "ป้ายเขียนว่า BUS ONLY ซึ่งแปลว่าเฉพาะรถเมล์เท่านั้น",
+      "distractors": [
+        "fast lane",
+        "bus fare",
+        "bus tour"
+      ]
+    },
+    {
+      "id": "skytrain",
+      "word": "skytrain",
+      "pos": "noun",
+      "ipa": "/ˈskaɪtreɪn/",
+      "reading_th": "สกาย-เทรน",
+      "meaning_th": "รถไฟฟ้าลอยฟ้า",
+      "emoji": "🚝",
+      "example_en": "The skytrain is faster than a taxi at five.",
+      "example_th": "ห้าโมงเย็นนั่งรถไฟฟ้าเร็วกว่านั่งแท็กซี่",
+      "cefr": "A2",
+      "note_th": "ฝรั่งทั่วไปเรียกระบบแบบนี้ว่า elevated train ส่วน BTS เป็นชื่อเฉพาะของไทย",
+      "distractors": [
+        "sky diving",
+        "sky view",
+        "steam train"
+      ]
+    },
+    {
+      "id": "subway",
+      "word": "subway",
+      "pos": "noun",
+      "ipa": "/ˈsʌbweɪ/",
+      "reading_th": "ซับ-เวย์",
+      "meaning_th": "รถไฟใต้ดิน",
+      "emoji": "🚇",
+      "example_en": "Take the subway to the blue line.",
+      "example_th": "นั่งรถไฟใต้ดินไปสายสีน้ำเงิน",
+      "cefr": "A2",
+      "note_th": "อังกฤษเรียก the Underground หรือ the Tube ส่วนที่อังกฤษ subway แปลว่าทางลอดใต้ถนน",
+      "distractors": [
+        "sideway",
+        "highway",
+        "sandwich shop"
+      ]
+    },
+    {
+      "id": "boarding_platform",
+      "word": "boarding platform",
+      "pos": "noun",
+      "ipa": "/ˈbɔːdɪŋ ˈplætfɔːm/",
+      "reading_th": "บอร์ด-ดิง-แพลท-ฟอร์ม",
+      "meaning_th": "ชานชาลาที่ยืนรอขึ้นรถ",
+      "emoji": "🛤️",
+      "example_en": "Stand behind the yellow line on the boarding platform.",
+      "example_th": "ยืนหลังเส้นเหลืองบนชานชาลา",
+      "cefr": "B1",
+      "note_th": "ประกาศในสถานีพูดว่า mind the gap = ระวังช่องว่างระหว่างรถกับชานชาลา",
+      "distractors": [
+        "landing pad",
+        "boarding pass",
+        "loading dock"
+      ]
+    },
+    {
+      "id": "carriage",
+      "word": "carriage",
+      "pos": "noun",
+      "ipa": "/ˈkærɪdʒ/",
+      "reading_th": "แค-ริจ",
+      "meaning_th": "ตู้โดยสารของรถไฟ",
+      "emoji": "🚋",
+      "example_en": "The first carriage is for women only.",
+      "example_th": "ตู้แรกสำหรับผู้หญิงเท่านั้น",
+      "cefr": "B2",
+      "note_th": "อเมริกันเรียก car เช่น the front car ส่วนอังกฤษใช้ carriage",
+      "distractors": [
+        "marriage",
+        "cabbage",
+        "courage"
+      ]
+    },
+    {
+      "id": "turnstile",
+      "word": "turnstile",
+      "pos": "noun",
+      "ipa": "/ˈtɜːnstaɪl/",
+      "reading_th": "เทิร์น-สไตล์",
+      "meaning_th": "ประตูหมุนสำหรับผ่านเข้าสถานี",
+      "emoji": "🚪",
+      "example_en": "Tap your card at the turnstile.",
+      "example_th": "แตะบัตรที่ประตูหมุน",
+      "cefr": "B2",
+      "note_th": "ถ้าบัตรเงินไม่พอประตูจะไม่เปิด ฝรั่งพูดว่า the gate did not open",
+      "distractors": [
+        "turntable",
+        "hairstyle",
+        "turn signal"
+      ]
+    },
+    {
+      "id": "fare",
+      "word": "fare",
+      "pos": "noun",
+      "ipa": "/feə/",
+      "reading_th": "แฟร์",
+      "meaning_th": "ค่าโดยสาร",
+      "emoji": "💸",
+      "example_en": "The fare depends on the distance.",
+      "example_th": "ค่าโดยสารขึ้นอยู่กับระยะทาง",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน fair (ยุติธรรม) — ค่ารถเรียก fare เท่านั้น ไม่ใช่ price",
+      "distractors": [
+        "fair",
+        "fear",
+        "far"
+      ]
+    },
+    {
+      "id": "top_up",
+      "word": "top up",
+      "pos": "verb",
+      "ipa": "/tɒp ʌp/",
+      "reading_th": "ท็อพ-อัพ",
+      "meaning_th": "เติมเงินเข้าบัตรหรือเบอร์",
+      "emoji": "🔋",
+      "example_en": "I need to top up my travel card.",
+      "example_th": "ฉันต้องเติมเงินบัตรโดยสาร",
+      "cefr": "B1",
+      "note_th": "อเมริกันพูดว่า reload หรือ add value",
+      "distractors": [
+        "fill in",
+        "turn up",
+        "tip off"
+      ]
+    },
+    {
+      "id": "ticket_machine",
+      "word": "ticket machine",
+      "pos": "noun",
+      "ipa": "/ˈtɪkɪt məˈʃiːn/",
+      "reading_th": "ทิค-เก็ท-เมอ-ชีน",
+      "meaning_th": "ตู้ขายตั๋วอัตโนมัติ",
+      "emoji": "🎰",
+      "example_en": "The ticket machine only takes coins.",
+      "example_th": "ตู้ขายตั๋วรับแต่เหรียญ",
+      "cefr": "A2",
+      "note_th": "ปุ่มที่ต้องหาคือ English ซึ่งมักอยู่มุมขวาบนของหน้าจอ",
+      "distractors": [
+        "washing machine",
+        "ticket office",
+        "vending stall"
+      ]
+    },
+    {
+      "id": "commuter",
+      "word": "commuter",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːtə/",
+      "reading_th": "เคอ-มิว-เทอร์",
+      "meaning_th": "คนที่เดินทางไป-กลับที่ทำงานเป็นประจำ",
+      "emoji": "🧑‍💼",
+      "example_en": "Commuters fill the train before eight.",
+      "example_th": "คนเดินทางไปทำงานเต็มขบวนก่อนแปดโมง",
+      "cefr": "B2",
+      "note_th": "กริยาคือ commute เช่น I commute two hours a day",
+      "distractors": [
+        "computer",
+        "customer",
+        "consumer"
+      ]
+    },
+    {
+      "id": "transfer",
+      "word": "transfer",
+      "pos": "verb",
+      "ipa": "/trænsˈfɜː/",
+      "reading_th": "ทราน-สเฟอร์",
+      "meaning_th": "เปลี่ยนสายหรือเปลี่ยนขบวน",
+      "emoji": "🔄",
+      "example_en": "Transfer to the green line at the next stop.",
+      "example_th": "เปลี่ยนไปสายสีเขียวที่สถานีหน้า",
+      "cefr": "B1",
+      "note_th": "ใช้กับการโอนเงินและย้ายงานได้ด้วย ความหมายกลางคือย้ายจากที่หนึ่งไปอีกที่",
+      "distractors": [
+        "transport",
+        "translate",
+        "transform"
+      ]
+    },
+    {
+      "id": "express_bus",
+      "word": "express bus",
+      "pos": "noun",
+      "ipa": "/ɪkˈspres bʌs/",
+      "reading_th": "เอ็ค-สเพรส-บัส",
+      "meaning_th": "รถเมล์ด่วนที่จอดน้อยป้าย",
+      "emoji": "🚌",
+      "example_en": "The express bus skips ten stops.",
+      "example_th": "รถด่วนข้ามป้ายไปสิบป้าย",
+      "cefr": "B1",
+      "note_th": "ตรงข้ามคือ local bus หรือ all-stop service ที่จอดทุกป้าย",
+      "distractors": [
+        "express way",
+        "school bus",
+        "express mail"
+      ]
+    },
+    {
+      "id": "minibus",
+      "word": "minibus",
+      "pos": "noun",
+      "ipa": "/ˈmɪnibʌs/",
+      "reading_th": "มิ-นิ-บัส",
+      "meaning_th": "รถตู้โดยสารขนาดเล็ก",
+      "emoji": "🚐",
+      "example_en": "A minibus leaves when all seats are full.",
+      "example_th": "รถตู้ออกเมื่อที่นั่งเต็ม",
+      "cefr": "B1",
+      "note_th": "รถตู้ในไทยฝรั่งมักเรียกว่า van หรือ minivan ก็เข้าใจ",
+      "distractors": [
+        "minimart",
+        "mini skirt",
+        "midi bus"
+      ]
+    },
+    {
+      "id": "taxi_queue",
+      "word": "taxi queue",
+      "pos": "noun",
+      "ipa": "/ˈtæksi kjuː/",
+      "reading_th": "แท็ก-ซี่-คิว",
+      "meaning_th": "แถวรอเรียกแท็กซี่",
+      "emoji": "🚕",
+      "example_en": "The taxi queue moves quickly here.",
+      "example_th": "แถวแท็กซี่ที่นี่ขยับเร็ว",
+      "cefr": "B1",
+      "note_th": "queue ออกเสียง คิว ตัวอักษรหลัง q ไม่ออกเสียงเลยสักตัว",
+      "distractors": [
+        "ticket queue",
+        "taxi meter",
+        "taxi driver"
+      ]
+    },
+    {
+      "id": "meter",
+      "word": "meter",
+      "pos": "noun",
+      "ipa": "/ˈmiːtə/",
+      "reading_th": "มี-เทอร์",
+      "meaning_th": "มิเตอร์วัดค่าโดยสาร",
+      "emoji": "🔢",
+      "example_en": "Please use the meter, not a fixed price.",
+      "example_th": "กดมิเตอร์ด้วยนะคะ ไม่เอาราคาเหมา",
+      "cefr": "B1",
+      "note_th": "ประโยคนี้ใช้ได้จริงกับแท็กซี่ที่ไม่ยอมกดมิเตอร์",
+      "distractors": [
+        "metre",
+        "matter",
+        "monitor"
+      ]
+    },
+    {
+      "id": "ride_hailing",
+      "word": "ride-hailing",
+      "pos": "noun",
+      "ipa": "/raɪd ˈheɪlɪŋ/",
+      "reading_th": "ไรด์-เฮล-ลิง",
+      "meaning_th": "บริการเรียกรถผ่านแอป",
+      "emoji": "📲",
+      "example_en": "Ride-hailing apps show the price first.",
+      "example_th": "แอปเรียกรถบอกราคาก่อนเดินทาง",
+      "cefr": "B2",
+      "note_th": "hail แปลว่าโบกเรียก เช่น hail a taxi ที่แปลว่าโบกแท็กซี่",
+      "distractors": [
+        "ride sharing",
+        "road hailing",
+        "rail hauling"
+      ]
+    },
+    {
+      "id": "pick_up_point",
+      "word": "pick-up point",
+      "pos": "noun",
+      "ipa": "/ˈpɪk ʌp pɔɪnt/",
+      "reading_th": "พิค-อัพ-พอยท์",
+      "meaning_th": "จุดนัดรับผู้โดยสาร",
+      "emoji": "📍",
+      "example_en": "The pick-up point is behind the mall.",
+      "example_th": "จุดรับรถอยู่หลังห้าง",
+      "cefr": "B1",
+      "note_th": "ในแอปเรียกรถจะเขียนว่า pickup ติดกันโดยไม่มีขีด",
+      "distractors": [
+        "drop-off point",
+        "pick up line",
+        "meeting room"
+      ]
+    },
+    {
+      "id": "drop_off",
+      "word": "drop off",
+      "pos": "verb",
+      "ipa": "/drɒp ɒf/",
+      "reading_th": "ดร็อพ-ออฟ",
+      "meaning_th": "ส่งลงตรงจุดหมาย",
+      "emoji": "🛬",
+      "example_en": "Can you drop me off at the corner?",
+      "example_th": "จอดส่งตรงหัวมุมได้ไหมคะ",
+      "cefr": "B1",
+      "note_th": "drop me off here = ส่งฉันตรงนี้ เป็นประโยคที่ใช้บ่อยที่สุดบนแท็กซี่",
+      "distractors": [
+        "drop in",
+        "pick up",
+        "take off"
+      ]
+    },
+    {
+      "id": "surge_price",
+      "word": "surge price",
+      "pos": "noun",
+      "ipa": "/sɜːdʒ praɪs/",
+      "reading_th": "เสิร์จ-ไพรซ์",
+      "meaning_th": "ราคาที่พุ่งขึ้นตอนคนเรียกรถเยอะ",
+      "emoji": "📈",
+      "example_en": "Surge price doubles the fare when it rains.",
+      "example_th": "ฝนตกทีราคาพุ่งเป็นสองเท่า",
+      "cefr": "B2",
+      "note_th": "surge แปลว่าพุ่งสูงขึ้นอย่างรวดเร็ว ใช้กับไฟฟ้าและคลื่นได้ด้วย",
+      "distractors": [
+        "sale price",
+        "search price",
+        "service charge"
+      ]
+    },
+    {
+      "id": "tuk_tuk",
+      "word": "tuk-tuk",
+      "pos": "noun",
+      "ipa": "/ˈtʊk tʊk/",
+      "reading_th": "ตุ๊ก-ตุ๊ก",
+      "meaning_th": "รถตุ๊กตุ๊กสามล้อ",
+      "emoji": "🛺",
+      "example_en": "Agree on the price before you take a tuk-tuk.",
+      "example_th": "ตกลงราคาก่อนขึ้นตุ๊กตุ๊ก",
+      "cefr": "A2",
+      "note_th": "เป็นคำไทยที่เข้าพจนานุกรมอังกฤษแล้ว ฝรั่งเรียกตามเสียงเครื่องยนต์",
+      "distractors": [
+        "took took",
+        "tug boat",
+        "tick tock"
+      ]
+    },
+    {
+      "id": "songthaew",
+      "word": "songthaew",
+      "pos": "noun",
+      "ipa": "/ˈsɒŋtæʊ/",
+      "reading_th": "สอง-แถว",
+      "meaning_th": "รถสองแถว",
+      "emoji": "🛻",
+      "example_en": "A songthaew runs along this road all day.",
+      "example_th": "รถสองแถววิ่งตามถนนเส้นนี้ทั้งวัน",
+      "cefr": "B1",
+      "note_th": "อธิบายฝรั่งว่า a shared pick-up truck with two benches จะเห็นภาพทันที",
+      "distractors": [
+        "song thai",
+        "sun view",
+        "song show"
+      ]
+    },
+    {
+      "id": "motorbike_taxi",
+      "word": "motorbike taxi",
+      "pos": "noun",
+      "ipa": "/ˈməʊtəbaɪk ˈtæksi/",
+      "reading_th": "โม-เตอร์-ไบค์-แท็ก-ซี่",
+      "meaning_th": "วินมอเตอร์ไซค์",
+      "emoji": "🏍️",
+      "example_en": "A motorbike taxi beats the traffic jam.",
+      "example_th": "วินมอเตอร์ไซค์แทรกรถติดได้",
+      "cefr": "B1",
+      "note_th": "คนขับเรียก rider ส่วนเสื้อกั๊กสีส้มเรียก vest",
+      "distractors": [
+        "motor show",
+        "water taxi",
+        "bike lane"
+      ]
+    },
+    {
+      "id": "delivery_rider",
+      "word": "delivery rider",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪvəri ˈraɪdə/",
+      "reading_th": "ดิ-ลิฟ-เวอ-รี-ไร-เดอร์",
+      "meaning_th": "คนขับส่งอาหารหรือพัสดุ",
+      "emoji": "📦",
+      "example_en": "The delivery rider called me from downstairs.",
+      "example_th": "คนส่งของโทรมาจากข้างล่าง",
+      "cefr": "B1",
+      "note_th": "งานแบบนี้ฝรั่งเรียกรวมว่า gig work คืองานรับเป็นรอบ ๆ",
+      "distractors": [
+        "delivery room",
+        "deliver letter",
+        "rider jacket"
+      ]
+    },
+    {
+      "id": "scooter",
+      "word": "scooter",
+      "pos": "noun",
+      "ipa": "/ˈskuːtə/",
+      "reading_th": "สกู๊ต-เตอร์",
+      "meaning_th": "มอเตอร์ไซค์เกียร์อัตโนมัติคันเล็ก",
+      "emoji": "🛵",
+      "example_en": "We rented a scooter for the island.",
+      "example_th": "เราเช่ามอเตอร์ไซค์คันเล็กไว้ขี่บนเกาะ",
+      "cefr": "B1",
+      "note_th": "แบบไฟฟ้ายืนขี่เรียก e-scooter ซึ่งคนละแบบกัน",
+      "distractors": [
+        "shooter",
+        "skater",
+        "cooler"
+      ]
+    },
+    {
+      "id": "seat_belt",
+      "word": "seat belt",
+      "pos": "noun",
+      "ipa": "/siːt belt/",
+      "reading_th": "ซีท-เบลท์",
+      "meaning_th": "เข็มขัดนิรภัย",
+      "emoji": "🔒",
+      "example_en": "Put on your seat belt in the back seat too.",
+      "example_th": "นั่งเบาะหลังก็ต้องคาดเข็มขัดนิรภัย",
+      "cefr": "A2",
+      "note_th": "พูดว่า buckle up ก็ได้ แปลว่าคาดเข็มขัดให้เรียบร้อย",
+      "distractors": [
+        "safety net",
+        "belt bag",
+        "seat cover"
+      ]
+    },
+    {
+      "id": "rear_seat",
+      "word": "rear seat",
+      "pos": "noun",
+      "ipa": "/rɪə siːt/",
+      "reading_th": "เรีย-ซีท",
+      "meaning_th": "เบาะหลัง",
+      "emoji": "💺",
+      "example_en": "Children should sit in the rear seat.",
+      "example_th": "เด็กควรนั่งเบาะหลัง",
+      "cefr": "B1",
+      "note_th": "rear แปลว่าด้านหลัง เช่น rear mirror = กระจกมองหลัง",
+      "distractors": [
+        "real seat",
+        "rare seat",
+        "front row"
+      ]
+    },
+    {
+      "id": "front_seat",
+      "word": "front seat",
+      "pos": "noun",
+      "ipa": "/frʌnt siːt/",
+      "reading_th": "ฟรันท์-ซีท",
+      "meaning_th": "เบาะหน้า",
+      "emoji": "🪑",
+      "example_en": "I always sit in the front seat of a taxi.",
+      "example_th": "ฉันนั่งเบาะหน้าแท็กซี่ตลอด",
+      "cefr": "A2",
+      "note_th": "ที่นั่งข้างคนขับฝรั่งเรียกเล่น ๆ ว่า shotgun เช่น I call shotgun!",
+      "distractors": [
+        "front door",
+        "back seat",
+        "front desk"
+      ]
+    },
+    {
+      "id": "junction",
+      "word": "junction",
+      "pos": "noun",
+      "ipa": "/ˈdʒʌŋkʃən/",
+      "reading_th": "จังค์-ชัน",
+      "meaning_th": "สี่แยกหรือจุดที่ถนนมาบรรจบกัน",
+      "emoji": "➕",
+      "example_en": "Turn right at the next junction.",
+      "example_th": "เลี้ยวขวาที่แยกหน้า",
+      "cefr": "B2",
+      "note_th": "สี่แยกใหญ่ในเมืองเรียก intersection ก็ได้ ความหมายใกล้กันมาก",
+      "distractors": [
+        "function",
+        "junior",
+        "injection"
+      ]
+    },
+    {
+      "id": "traffic_light",
+      "word": "traffic light",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk laɪt/",
+      "reading_th": "แทรฟ-ฟิค-ไลท์",
+      "meaning_th": "สัญญาณไฟจราจร",
+      "emoji": "🚦",
+      "example_en": "Wait at the traffic light, it is still red.",
+      "example_th": "รอไฟจราจรก่อน ยังแดงอยู่",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียก stoplight ก็ได้ ส่วนไฟเขียวคือ green light",
+      "distractors": [
+        "traffic jam",
+        "street lamp",
+        "flash light"
+      ]
+    },
+    {
+      "id": "roundabout",
+      "word": "roundabout",
+      "pos": "noun",
+      "ipa": "/ˈraʊndəbaʊt/",
+      "reading_th": "ราวด์-อะ-เบาท์",
+      "meaning_th": "วงเวียน",
+      "emoji": "🔁",
+      "example_en": "Take the second exit at the roundabout.",
+      "example_th": "ออกทางที่สองของวงเวียน",
+      "cefr": "B2",
+      "note_th": "อเมริกันเรียก traffic circle ส่วน roundabout ยังแปลว่าอ้อมค้อมได้",
+      "distractors": [
+        "round trip",
+        "run about",
+        "route about"
+      ]
+    },
+    {
+      "id": "two_way_street",
+      "word": "two-way street",
+      "pos": "noun",
+      "ipa": "/tuː weɪ striːt/",
+      "reading_th": "ทู-เวย์-สตรีท",
+      "meaning_th": "ถนนที่วิ่งได้สองทาง",
+      "emoji": "↔️",
+      "example_en": "This is a two-way street, so look both ways.",
+      "example_th": "ถนนนี้วิ่งสองทาง ดูให้ดีทั้งสองฝั่ง",
+      "cefr": "B1",
+      "note_th": "ใช้เปรียบเรื่องความสัมพันธ์ได้ว่า Respect is a two-way street",
+      "distractors": [
+        "one-way street",
+        "two-lane road",
+        "second street"
+      ]
+    },
+    {
+      "id": "u_turn",
+      "word": "U-turn",
+      "pos": "noun",
+      "ipa": "/ˈjuː tɜːn/",
+      "reading_th": "ยู-เทิร์น",
+      "meaning_th": "การกลับรถ",
+      "emoji": "↩️",
+      "example_en": "Make a U-turn after the bridge.",
+      "example_th": "กลับรถหลังสะพาน",
+      "cefr": "B1",
+      "note_th": "ใช้เปรียบการเปลี่ยนใจกลับลำได้ เช่น a policy U-turn",
+      "distractors": [
+        "you turn",
+        "left turn",
+        "turn signal"
+      ]
+    },
+    {
+      "id": "overpass",
+      "word": "overpass",
+      "pos": "noun",
+      "ipa": "/ˈəʊvəpɑːs/",
+      "reading_th": "โอ-เวอร์-พาส",
+      "meaning_th": "สะพานข้ามแยกสำหรับรถ",
+      "emoji": "🌉",
+      "example_en": "Use the overpass to avoid the lights.",
+      "example_th": "ขึ้นสะพานข้ามแยกจะได้ไม่ติดไฟแดง",
+      "cefr": "B2",
+      "note_th": "over- แปลว่าเหนือ เหมือน overhead และ overtake",
+      "distractors": [
+        "overtake",
+        "underpass",
+        "overnight"
+      ]
+    },
+    {
+      "id": "underpass",
+      "word": "underpass",
+      "pos": "noun",
+      "ipa": "/ˈʌndəpɑːs/",
+      "reading_th": "อัน-เดอร์-พาส",
+      "meaning_th": "อุโมงค์ลอดใต้ถนน",
+      "emoji": "🕳️",
+      "example_en": "The underpass floods when it rains hard.",
+      "example_th": "อุโมงค์ลอดน้ำท่วมเวลาฝนตกหนัก",
+      "cefr": "B2",
+      "note_th": "under- แปลว่าใต้ ตรงข้ามกับ overpass พอดี",
+      "distractors": [
+        "overpass",
+        "underground",
+        "underwear"
+      ]
+    },
+    {
+      "id": "flyover",
+      "word": "flyover",
+      "pos": "noun",
+      "ipa": "/ˈflaɪəʊvə/",
+      "reading_th": "ฟลาย-โอ-เวอร์",
+      "meaning_th": "ทางยกระดับข้ามเมือง",
+      "emoji": "🛣️",
+      "example_en": "The flyover saves twenty minutes.",
+      "example_th": "ทางยกระดับช่วยประหยัดยี่สิบนาที",
+      "cefr": "B2",
+      "note_th": "เป็นคำอังกฤษแบบอังกฤษ ส่วนอเมริกันใช้ overpass กับทุกแบบ",
+      "distractors": [
+        "flyer",
+        "fly away",
+        "leftover"
+      ]
+    },
+    {
+      "id": "footbridge",
+      "word": "footbridge",
+      "pos": "noun",
+      "ipa": "/ˈfʊtbrɪdʒ/",
+      "reading_th": "ฟุท-บริดจ์",
+      "meaning_th": "สะพานลอยคนข้าม",
+      "emoji": "🚶‍♀️",
+      "example_en": "Cross at the footbridge, it is safer.",
+      "example_th": "ข้ามสะพานลอยปลอดภัยกว่า",
+      "cefr": "B1",
+      "note_th": "foot ในที่นี้แปลว่าเดินเท้า เหมือน footpath = ทางเดินเท้า",
+      "distractors": [
+        "football bridge",
+        "foot path",
+        "drawbridge"
+      ]
+    },
+    {
+      "id": "zebra_crossing",
+      "word": "zebra crossing",
+      "pos": "noun",
+      "ipa": "/ˈzebrə ˈkrɒsɪŋ/",
+      "reading_th": "เซบ-รา-ครอส-ซิง",
+      "meaning_th": "ทางม้าลาย",
+      "emoji": "🦓",
+      "example_en": "Cars must stop at a zebra crossing.",
+      "example_th": "รถต้องหยุดให้คนข้ามทางม้าลาย",
+      "cefr": "B1",
+      "note_th": "ชื่อมาจากลายขาวดำเหมือนม้าลาย — ไทยก็เรียกทางม้าลายเหมือนกัน",
+      "distractors": [
+        "zebra stripe",
+        "cross road",
+        "zigzag line"
+      ]
+    },
+    {
+      "id": "crosswalk",
+      "word": "crosswalk",
+      "pos": "noun",
+      "ipa": "/ˈkrɒswɔːk/",
+      "reading_th": "ครอส-วอล์ค",
+      "meaning_th": "ทางข้ามถนนสำหรับคนเดิน",
+      "emoji": "🚸",
+      "example_en": "Wait for the signal at the crosswalk.",
+      "example_th": "รอสัญญาณตรงทางข้าม",
+      "cefr": "B1",
+      "note_th": "เป็นคำอเมริกัน ส่วนอังกฤษใช้ zebra crossing หรือ pedestrian crossing",
+      "distractors": [
+        "boardwalk",
+        "crossword",
+        "sidewalk"
+      ]
+    },
+    {
+      "id": "sidewalk",
+      "word": "sidewalk",
+      "pos": "noun",
+      "ipa": "/ˈsaɪdwɔːk/",
+      "reading_th": "ไซด์-วอล์ค",
+      "meaning_th": "ทางเท้า",
+      "emoji": "🚶",
+      "example_en": "Motorbikes should not ride on the sidewalk.",
+      "example_th": "มอเตอร์ไซค์ไม่ควรขี่บนทางเท้า",
+      "cefr": "A2",
+      "note_th": "อังกฤษเรียก pavement ซึ่งในอเมริกาแปลว่าผิวถนน ต้องระวังสับสน",
+      "distractors": [
+        "side road",
+        "boardwalk",
+        "side street"
+      ]
+    },
+    {
+      "id": "pedestrian",
+      "word": "pedestrian",
+      "pos": "noun",
+      "ipa": "/pəˈdestriən/",
+      "reading_th": "เพอ-เดส-เทรียน",
+      "meaning_th": "คนเดินเท้า",
+      "emoji": "🚶‍♂️",
+      "example_en": "Give way to pedestrians here.",
+      "example_th": "ตรงนี้ให้ทางคนเดินเท้าก่อน",
+      "cefr": "B2",
+      "note_th": "ped- มาจากภาษาละตินแปลว่าเท้า เหมือน pedicure และ pedal",
+      "distractors": [
+        "predecessor",
+        "pediatrician",
+        "pedestal"
+      ]
+    },
+    {
+      "id": "signpost",
+      "word": "signpost",
+      "pos": "noun",
+      "ipa": "/ˈsaɪnpəʊst/",
+      "reading_th": "ไซน์-โพสต์",
+      "meaning_th": "ป้ายบอกทาง",
+      "emoji": "🪧",
+      "example_en": "Follow the signpost to the old town.",
+      "example_th": "เดินตามป้ายบอกทางไปเมืองเก่า",
+      "cefr": "B2",
+      "note_th": "ป้ายบอกระยะทางเรียก distance sign ส่วนป้ายเตือนคือ warning sign",
+      "distractors": [
+        "sign language",
+        "lamp post",
+        "sign board"
+      ]
+    },
+    {
+      "id": "speed_limit",
+      "word": "speed limit",
+      "pos": "noun",
+      "ipa": "/spiːd ˈlɪmɪt/",
+      "reading_th": "สปีด-ลิ-มิท",
+      "meaning_th": "ความเร็วสูงสุดที่กฎหมายกำหนด",
+      "emoji": "🚸",
+      "example_en": "The speed limit here is 80.",
+      "example_th": "ตรงนี้จำกัดความเร็วที่ 80",
+      "cefr": "B1",
+      "note_th": "ขับเกินเรียก speeding ซึ่งเป็นความผิดที่โดนปรับบ่อยที่สุด",
+      "distractors": [
+        "speed bump",
+        "time limit",
+        "weight limit"
+      ]
+    },
+    {
+      "id": "speed_camera",
+      "word": "speed camera",
+      "pos": "noun",
+      "ipa": "/spiːd ˈkæmərə/",
+      "reading_th": "สปีด-แคม-เมอ-รา",
+      "meaning_th": "กล้องจับความเร็ว",
+      "emoji": "📷",
+      "example_en": "Slow down, there is a speed camera ahead.",
+      "example_th": "ชะลอหน่อย ข้างหน้ามีกล้องจับความเร็ว",
+      "cefr": "B2",
+      "note_th": "กล้องตรวจจับฝ่าไฟแดงเรียก red light camera",
+      "distractors": [
+        "security camera",
+        "speed dial",
+        "traffic light"
+      ]
+    },
+    {
+      "id": "traffic_police",
+      "word": "traffic police",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk pəˈliːs/",
+      "reading_th": "แทรฟ-ฟิค-เพอ-ลีส",
+      "meaning_th": "ตำรวจจราจร",
+      "emoji": "👮",
+      "example_en": "The traffic police stopped our car.",
+      "example_th": "ตำรวจจราจรเรียกรถเราจอด",
+      "cefr": "B1",
+      "note_th": "ใบสั่งเรียก ticket หรือ fine เช่น I got a speeding ticket",
+      "distractors": [
+        "police station",
+        "traffic jam",
+        "tourist police"
+      ]
+    },
+    {
+      "id": "toll",
+      "word": "toll",
+      "pos": "noun",
+      "ipa": "/təʊl/",
+      "reading_th": "โทล",
+      "meaning_th": "ค่าผ่านทางด่วน",
+      "emoji": "🎟️",
+      "example_en": "The toll is fifty baht to the airport.",
+      "example_th": "ค่าทางด่วนไปสนามบินห้าสิบบาท",
+      "cefr": "B2",
+      "note_th": "ด่านเก็บเงินเรียก toll booth ส่วนทางด่วนเรียก tollway หรือ expressway",
+      "distractors": [
+        "tall",
+        "tool",
+        "told"
+      ]
+    },
+    {
+      "id": "petrol_station",
+      "word": "petrol station",
+      "pos": "noun",
+      "ipa": "/ˈpetrəl ˈsteɪʃən/",
+      "reading_th": "เพท-เริล-สเต-ชัน",
+      "meaning_th": "ปั๊มน้ำมัน",
+      "emoji": "⛽",
+      "example_en": "Stop at the petrol station before the highway.",
+      "example_th": "แวะปั๊มน้ำมันก่อนขึ้นทางหลวง",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก gas station เพราะเรียกน้ำมันว่า gasoline",
+      "distractors": [
+        "police station",
+        "power station",
+        "petrol pump"
+      ]
+    },
+    {
+      "id": "fuel",
+      "word": "fuel",
+      "pos": "noun",
+      "ipa": "/ˈfjuːəl/",
+      "reading_th": "ฟิว-เอิล",
+      "meaning_th": "เชื้อเพลิง",
+      "emoji": "🛢️",
+      "example_en": "We are low on fuel.",
+      "example_th": "น้ำมันเราใกล้หมดแล้ว",
+      "cefr": "B1",
+      "note_th": "ใช้เปรียบพลังงานของคนได้ เช่น food is fuel for the body",
+      "distractors": [
+        "fool",
+        "full",
+        "fire"
+      ]
+    },
+    {
+      "id": "license_plate",
+      "word": "license plate",
+      "pos": "noun",
+      "ipa": "/ˈlaɪsns pleɪt/",
+      "reading_th": "ไล-เซินส์-เพลท",
+      "meaning_th": "ป้ายทะเบียนรถ",
+      "emoji": "🔢",
+      "example_en": "Take a photo of the license plate.",
+      "example_th": "ถ่ายรูปป้ายทะเบียนไว้",
+      "cefr": "B1",
+      "note_th": "อังกฤษเรียก number plate — ถ่ายไว้ก่อนขึ้นแท็กซี่เพื่อความปลอดภัย",
+      "distractors": [
+        "driving licence",
+        "name plate",
+        "plate number"
+      ]
+    },
+    {
+      "id": "car_park",
+      "word": "car park",
+      "pos": "noun",
+      "ipa": "/kɑː pɑːk/",
+      "reading_th": "คาร์-พาร์ค",
+      "meaning_th": "ลานจอดรถ",
+      "emoji": "🅿️",
+      "example_en": "The car park is full on weekends.",
+      "example_th": "เสาร์อาทิตย์ลานจอดรถเต็ม",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียก parking lot ส่วนอาคารจอดรถคือ parking garage",
+      "distractors": [
+        "car wash",
+        "theme park",
+        "car pool"
+      ]
+    },
+    {
+      "id": "parking_space",
+      "word": "parking space",
+      "pos": "noun",
+      "ipa": "/ˈpɑːkɪŋ speɪs/",
+      "reading_th": "พาร์ค-คิง-สเปซ",
+      "meaning_th": "ช่องจอดรถหนึ่งช่อง",
+      "emoji": "🚗",
+      "example_en": "I found a parking space near the lift.",
+      "example_th": "ฉันเจอช่องจอดใกล้ลิฟต์",
+      "cefr": "B1",
+      "note_th": "ที่จอดคนพิการเรียก accessible parking หรือ disabled bay",
+      "distractors": [
+        "packing space",
+        "parking fee",
+        "open space"
+      ]
+    },
+    {
+      "id": "parking_fee",
+      "word": "parking fee",
+      "pos": "noun",
+      "ipa": "/ˈpɑːkɪŋ fiː/",
+      "reading_th": "พาร์ค-คิง-ฟี",
+      "meaning_th": "ค่าจอดรถ",
+      "emoji": "🧾",
+      "example_en": "The parking fee is twenty baht an hour.",
+      "example_th": "ค่าจอดรถชั่วโมงละยี่สิบบาท",
+      "cefr": "B1",
+      "note_th": "จอดฟรีเรียก free parking ส่วนจอดตามเวลาที่กำหนดเรียก time-limited",
+      "distractors": [
+        "entrance fee",
+        "parking ticket",
+        "service fee"
+      ]
+    },
+    {
+      "id": "lane",
+      "word": "lane",
+      "pos": "noun",
+      "ipa": "/leɪn/",
+      "reading_th": "เลน",
+      "meaning_th": "ช่องจราจร",
+      "emoji": "🛣️",
+      "example_en": "Move to the left lane before the exit.",
+      "example_th": "ย้ายไปเลนซ้ายก่อนถึงทางออก",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน rain แต่ขึ้นต้นด้วย l — คนไทยมักออกเสียงสลับกัน",
+      "distractors": [
+        "line",
+        "land",
+        "lean"
+      ]
+    },
+    {
+      "id": "honk",
+      "word": "honk",
+      "pos": "verb",
+      "ipa": "/hɒŋk/",
+      "reading_th": "ฮ็องค์",
+      "meaning_th": "บีบแตร",
+      "emoji": "📢",
+      "example_en": "Do not honk in front of the hospital.",
+      "example_th": "อย่าบีบแตรหน้าโรงพยาบาล",
+      "cefr": "B2",
+      "note_th": "อังกฤษนิยมพูดว่า beep the horn ส่วนแตรเรียก horn",
+      "distractors": [
+        "hook",
+        "hunk",
+        "honey"
+      ]
+    },
+    {
+      "id": "bicycle_lane",
+      "word": "bicycle lane",
+      "pos": "noun",
+      "ipa": "/ˈbaɪsɪkl leɪn/",
+      "reading_th": "ไบ-ซิ-เคิล-เลน",
+      "meaning_th": "ช่องทางจักรยาน",
+      "emoji": "🚲",
+      "example_en": "The new bicycle lane runs by the river.",
+      "example_th": "ช่องทางจักรยานใหม่เลียบแม่น้ำ",
+      "cefr": "B1",
+      "note_th": "เรียกสั้น ๆ ว่า bike lane ก็ได้ ฝรั่งใช้บ่อยกว่า",
+      "distractors": [
+        "bus lane",
+        "bicycle shop",
+        "bike rack"
+      ]
+    },
+    {
+      "id": "motorcycle_helmet",
+      "word": "motorcycle helmet",
+      "pos": "noun",
+      "ipa": "/ˈməʊtəsaɪkl ˈhelmɪt/",
+      "reading_th": "โม-เตอร์-ไซ-เคิล-เฮล-เมิท",
+      "meaning_th": "หมวกกันน็อก",
+      "emoji": "🪖",
+      "example_en": "Always wear a motorcycle helmet, even for a short ride.",
+      "example_th": "ใส่หมวกกันน็อกเสมอ แม้จะไปใกล้ ๆ",
+      "cefr": "B1",
+      "note_th": "คนไทยเรียกทับศัพท์จาก knock — ฝรั่งเรียกสั้น ๆ ว่า helmet เท่านั้น",
+      "distractors": [
+        "bicycle basket",
+        "safety belt",
+        "motor oil"
+      ]
+    },
+    {
+      "id": "straight_ahead",
+      "word": "straight ahead",
+      "pos": "adverb",
+      "ipa": "/streɪt əˈhed/",
+      "reading_th": "สเตรท-อะ-เฮด",
+      "meaning_th": "ตรงไปข้างหน้า",
+      "emoji": "⬆️",
+      "example_en": "The station is straight ahead.",
+      "example_th": "สถานีอยู่ตรงไปข้างหน้า",
+      "cefr": "A2",
+      "note_th": "ตอบคนถามทางได้สั้น ๆ ว่า Straight ahead, then left",
+      "distractors": [
+        "straight away",
+        "right ahead",
+        "look ahead"
+      ]
+    },
+    {
+      "id": "make_a_turn",
+      "word": "make a turn",
+      "pos": "verb",
+      "ipa": "/meɪk ə tɜːn/",
+      "reading_th": "เมค-อะ-เทิร์น",
+      "meaning_th": "เลี้ยว",
+      "emoji": "↪️",
+      "example_en": "Make a turn after the temple.",
+      "example_th": "เลี้ยวหลังจากผ่านวัด",
+      "cefr": "A2",
+      "note_th": "พูดว่า take a turn ก็ได้ และเติมทิศทางท้ายประโยคเสมอ",
+      "distractors": [
+        "make a stop",
+        "take a break",
+        "make a call"
+      ]
+    },
+    {
+      "id": "across_from",
+      "word": "across from",
+      "pos": "preposition",
+      "ipa": "/əˈkrɒs frɒm/",
+      "reading_th": "อะ-ครอส-ฟรอม",
+      "meaning_th": "ตรงข้ามกับ",
+      "emoji": "🔄",
+      "example_en": "The pharmacy is across from the bank.",
+      "example_th": "ร้านขายยาอยู่ตรงข้ามธนาคาร",
+      "cefr": "A2",
+      "note_th": "อังกฤษนิยมพูดว่า opposite the bank ซึ่งความหมายเดียวกัน",
+      "distractors": [
+        "access from",
+        "around from",
+        "apart from"
+      ]
+    },
+    {
+      "id": "around_the_corner",
+      "word": "around the corner",
+      "pos": "adverb",
+      "ipa": "/əˈraʊnd ðə ˈkɔːnə/",
+      "reading_th": "อะ-ราวด์-เดอะ-คอร์-เนอร์",
+      "meaning_th": "เลยหัวมุมไปนิดเดียว",
+      "emoji": "📐",
+      "example_en": "The coffee shop is just around the corner.",
+      "example_th": "ร้านกาแฟอยู่เลยหัวมุมไปนิดเดียว",
+      "cefr": "B1",
+      "note_th": "ใช้กับเวลาได้ด้วย แปลว่าใกล้จะถึงแล้ว เช่น Summer is around the corner",
+      "distractors": [
+        "round the clock",
+        "across the road",
+        "along the street"
+      ]
+    },
+    {
+      "id": "city_block",
+      "word": "city block",
+      "pos": "noun",
+      "ipa": "/ˈsɪti blɒk/",
+      "reading_th": "ซิ-ตี้-บล็อค",
+      "meaning_th": "ระยะหนึ่งช่วงตึกระหว่างสองแยก",
+      "emoji": "🏢",
+      "example_en": "Walk two city blocks and turn left.",
+      "example_th": "เดินไปสองช่วงตึกแล้วเลี้ยวซ้าย",
+      "cefr": "B1",
+      "note_th": "ฝรั่งบอกทางด้วยจำนวนบล็อกบ่อยมาก คนไทยไม่ค่อยคุ้นเพราะเมืองเราไม่เป็นตาราง",
+      "distractors": [
+        "city centre",
+        "road block",
+        "city hall"
+      ]
+    },
+    {
+      "id": "well_known_spot",
+      "word": "well-known spot",
+      "pos": "noun",
+      "ipa": "/wel nəʊn spɒt/",
+      "reading_th": "เวล-โนน-สปอท",
+      "meaning_th": "จุดสังเกตที่คนรู้จักกันดี",
+      "emoji": "⭐",
+      "example_en": "Meet me at a well-known spot like the clock tower.",
+      "example_th": "นัดเจอกันที่จุดที่คนรู้จัก เช่น หอนาฬิกา",
+      "cefr": "B1",
+      "note_th": "ถ้าเป็นจุดสังเกตขนาดใหญ่ใช้ landmark ก็ได้",
+      "distractors": [
+        "well done spot",
+        "quiet corner",
+        "known problem"
+      ]
+    },
+    {
+      "id": "map_app",
+      "word": "map app",
+      "pos": "noun",
+      "ipa": "/mæp æp/",
+      "reading_th": "แมพ-แอพ",
+      "meaning_th": "แอปแผนที่นำทาง",
+      "emoji": "🗺️",
+      "example_en": "My map app says twelve minutes.",
+      "example_th": "แอปแผนที่บอกว่าสิบสองนาที",
+      "cefr": "A2",
+      "note_th": "ฟีเจอร์ที่ควรใช้คือ offline map เผื่อเน็ตหลุดระหว่างทาง",
+      "distractors": [
+        "chat app",
+        "map book",
+        "app store"
+      ]
+    },
+    {
+      "id": "live_tracking",
+      "word": "live tracking",
+      "pos": "noun",
+      "ipa": "/laɪv ˈtrækɪŋ/",
+      "reading_th": "ไลฟ์-แทรค-กิง",
+      "meaning_th": "การติดตามตำแหน่งแบบเรียลไทม์",
+      "emoji": "📡",
+      "example_en": "Live tracking shows the bus two stops away.",
+      "example_th": "ระบบติดตามบอกว่ารถเมล์อยู่ห่างสองป้าย",
+      "cefr": "B2",
+      "note_th": "ETA ที่เห็นในแอปย่อมาจาก estimated time of arrival",
+      "distractors": [
+        "live streaming",
+        "life tracking",
+        "back tracking"
+      ]
+    },
+    {
+      "id": "route",
+      "word": "route",
+      "pos": "noun",
+      "ipa": "/ruːt/",
+      "reading_th": "รูท",
+      "meaning_th": "เส้นทางที่ใช้เดินทาง",
+      "emoji": "🧭",
+      "example_en": "This route avoids the city centre.",
+      "example_th": "เส้นทางนี้เลี่ยงใจกลางเมือง",
+      "cefr": "B1",
+      "note_th": "อเมริกันออกเสียงได้ทั้ง รูท และ เราท์ ส่วนอังกฤษใช้ รูท อย่างเดียว",
+      "distractors": [
+        "root",
+        "rout",
+        "routine"
+      ]
+    },
+    {
+      "id": "get_on",
+      "word": "get on",
+      "pos": "verb",
+      "ipa": "/ɡet ɒn/",
+      "reading_th": "เก็ท-ออน",
+      "meaning_th": "ขึ้นรถโดยสาร",
+      "emoji": "🚏",
+      "example_en": "Get on the bus at the front door.",
+      "example_th": "ขึ้นรถเมล์ทางประตูหน้า",
+      "cefr": "A2",
+      "note_th": "ใช้ get on กับรถเมล์ รถไฟ เครื่องบิน แต่ใช้ get in กับรถเก๋งและแท็กซี่",
+      "distractors": [
+        "get off",
+        "get up",
+        "get in"
+      ]
+    },
+    {
+      "id": "get_off",
+      "word": "get off",
+      "pos": "verb",
+      "ipa": "/ɡet ɒf/",
+      "reading_th": "เก็ท-ออฟ",
+      "meaning_th": "ลงจากรถโดยสาร",
+      "emoji": "🚶‍♂️",
+      "example_en": "Get off at the third stop.",
+      "example_th": "ลงป้ายที่สาม",
+      "cefr": "A2",
+      "note_th": "ถามคนขับว่า Can you tell me when to get off? ได้ ไม่เสียมารยาท",
+      "distractors": [
+        "get on",
+        "take off",
+        "get out"
+      ]
+    },
+    {
+      "id": "miss_the_bus",
+      "word": "miss the bus",
+      "pos": "verb",
+      "ipa": "/mɪs ðə bʌs/",
+      "reading_th": "มิส-เดอะ-บัส",
+      "meaning_th": "ตกรถ",
+      "emoji": "😩",
+      "example_en": "I missed the bus by one minute.",
+      "example_th": "ฉันตกรถไปนาทีเดียว",
+      "cefr": "A2",
+      "note_th": "ใช้เปรียบว่าพลาดโอกาสได้ด้วย เช่น miss the boat",
+      "distractors": [
+        "catch the bus",
+        "miss the point",
+        "wait the bus"
+      ]
+    },
+    {
+      "id": "shortcut",
+      "word": "shortcut",
+      "pos": "noun",
+      "ipa": "/ˈʃɔːtkʌt/",
+      "reading_th": "ช็อร์ท-คัท",
+      "meaning_th": "ทางลัด",
+      "emoji": "✂️",
+      "example_en": "The driver knows a shortcut through the soi.",
+      "example_th": "คนขับรู้ทางลัดในซอย",
+      "cefr": "B1",
+      "note_th": "ซอยที่คนไทยเรียก ฝรั่งเรียก alley หรือ lane ถ้าเล็กมาก",
+      "distractors": [
+        "short trip",
+        "shortlist",
+        "haircut"
+      ]
+    },
+    {
+      "id": "detour",
+      "word": "detour",
+      "pos": "noun",
+      "ipa": "/ˈdiːtʊə/",
+      "reading_th": "ดี-ทัวร์",
+      "meaning_th": "ทางอ้อมที่ต้องเลี่ยงไป",
+      "emoji": "↪️",
+      "example_en": "We took a detour because of the parade.",
+      "example_th": "เราต้องอ้อมเพราะมีขบวนแห่",
+      "cefr": "B2",
+      "note_th": "ป้ายในอังกฤษเขียนว่า diversion ส่วนอเมริกาเขียน detour",
+      "distractors": [
+        "detail",
+        "detect",
+        "day tour"
+      ]
+    },
+    {
+      "id": "rush_hour",
+      "word": "rush hour",
+      "pos": "noun",
+      "ipa": "/rʌʃ aʊə/",
+      "reading_th": "รัช-อาวเออร์",
+      "meaning_th": "ชั่วโมงเร่งด่วน",
+      "emoji": "⏰",
+      "example_en": "Avoid rush hour if you can.",
+      "example_th": "ถ้าเลี่ยงชั่วโมงเร่งด่วนได้ก็ควรเลี่ยง",
+      "cefr": "B1",
+      "note_th": "เป็นเอกพจน์เสมอแม้จะกินเวลาหลายชั่วโมง",
+      "distractors": [
+        "happy hour",
+        "lunch hour",
+        "rush order"
+      ]
+    },
+    {
+      "id": "traffic_jam",
+      "word": "traffic jam",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk dʒæm/",
+      "reading_th": "แทรฟ-ฟิค-แจม",
+      "meaning_th": "รถติด",
+      "emoji": "🚗",
+      "example_en": "We sat in a traffic jam for an hour.",
+      "example_th": "เราติดอยู่ในรถติดหนึ่งชั่วโมง",
+      "cefr": "A2",
+      "note_th": "พูดสั้น ๆ ว่า The traffic is bad ก็ได้ และ jam ยังแปลว่าแยมทาขนมปัง",
+      "distractors": [
+        "traffic light",
+        "door jam",
+        "paper jam"
+      ]
+    },
+    {
+      "id": "breakdown",
+      "word": "breakdown",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkdaʊn/",
+      "reading_th": "เบรค-ดาวน์",
+      "meaning_th": "รถเสียกลางทาง",
+      "emoji": "🔧",
+      "example_en": "A breakdown blocked the middle lane.",
+      "example_th": "รถเสียจอดขวางเลนกลาง",
+      "cefr": "B2",
+      "note_th": "กริยาคือ break down เขียนแยก เช่น My car broke down",
+      "distractors": [
+        "break time",
+        "breakfast",
+        "countdown"
+      ]
+    },
+    {
+      "id": "flat_tire",
+      "word": "flat tire",
+      "pos": "noun",
+      "ipa": "/flæt ˈtaɪə/",
+      "reading_th": "แฟลท-ไท-เออร์",
+      "meaning_th": "ยางแบน",
+      "emoji": "🛞",
+      "example_en": "We stopped to fix a flat tire.",
+      "example_th": "เราจอดซ่อมยางแบน",
+      "cefr": "B1",
+      "note_th": "อังกฤษสะกด tyre ส่วนอเมริกันสะกด tire",
+      "distractors": [
+        "flat rate",
+        "flat fire",
+        "spare part"
+      ]
+    },
+    {
+      "id": "spare_tire",
+      "word": "spare tire",
+      "pos": "noun",
+      "ipa": "/speə ˈtaɪə/",
+      "reading_th": "สแปร์-ไท-เออร์",
+      "meaning_th": "ยางอะไหล่",
+      "emoji": "🛞",
+      "example_en": "Check that the spare tire has air.",
+      "example_th": "เช็กว่ายางอะไหล่มีลมไหม",
+      "cefr": "B2",
+      "note_th": "ล้อเล่นกันว่าไขมันรอบเอวคือ spare tire เหมือนกัน",
+      "distractors": [
+        "spare time",
+        "space tire",
+        "spare key"
+      ]
+    },
+    {
+      "id": "tow_truck",
+      "word": "tow truck",
+      "pos": "noun",
+      "ipa": "/təʊ trʌk/",
+      "reading_th": "โท-ทรัค",
+      "meaning_th": "รถลาก",
+      "emoji": "🚛",
+      "example_en": "A tow truck came in twenty minutes.",
+      "example_th": "รถลากมาถึงในยี่สิบนาที",
+      "cefr": "B2",
+      "note_th": "tow ออกเสียง โท ไม่ใช่ ทาว — กริยาแปลว่าลากจูง",
+      "distractors": [
+        "toy truck",
+        "two trucks",
+        "tool box"
+      ]
+    },
+    {
+      "id": "roadwork",
+      "word": "roadwork",
+      "pos": "noun",
+      "ipa": "/ˈrəʊdwɜːk/",
+      "reading_th": "โรด-เวิร์ค",
+      "meaning_th": "งานซ่อมถนน",
+      "emoji": "🚧",
+      "example_en": "Roadwork slows everything down here.",
+      "example_th": "งานซ่อมถนนทำให้ทุกอย่างช้าไปหมด",
+      "cefr": "B2",
+      "note_th": "อเมริกันใช้รูปพหูพจน์ roadworks ส่วนป้ายมักเขียนว่า MEN AT WORK",
+      "distractors": [
+        "homework",
+        "road trip",
+        "network"
+      ]
+    },
+    {
+      "id": "road_closed",
+      "word": "road closed",
+      "pos": "adjective",
+      "ipa": "/rəʊd kləʊzd/",
+      "reading_th": "โรด-โคลสด์",
+      "meaning_th": "ถนนปิดการจราจร",
+      "emoji": "⛔",
+      "example_en": "The sign says road closed ahead.",
+      "example_th": "ป้ายบอกว่าถนนข้างหน้าปิด",
+      "cefr": "B1",
+      "note_th": "ถนนปิดชั่วคราวเพราะน้ำท่วมหรืออุบัติเหตุใช้คำนี้ได้หมด",
+      "distractors": [
+        "shop closed",
+        "road open",
+        "close call"
+      ]
+    },
+    {
+      "id": "pothole",
+      "word": "pothole",
+      "pos": "noun",
+      "ipa": "/ˈpɒthəʊl/",
+      "reading_th": "พ็อท-โฮล",
+      "meaning_th": "หลุมบ่อบนถนน",
+      "emoji": "🕳️",
+      "example_en": "Watch out for the pothole after the bridge.",
+      "example_th": "ระวังหลุมหลังสะพาน",
+      "cefr": "B2",
+      "note_th": "pot ในที่นี้แปลว่าหม้อ เพราะหลุมมีรูปร่างเหมือนก้นหม้อ",
+      "distractors": [
+        "port hole",
+        "pit stop",
+        "hot pot"
+      ]
+    },
+    {
+      "id": "traffic_cone",
+      "word": "traffic cone",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk kəʊn/",
+      "reading_th": "แทรฟ-ฟิค-โคน",
+      "meaning_th": "กรวยจราจร",
+      "emoji": "🚧",
+      "example_en": "Traffic cones block the left lane.",
+      "example_th": "กรวยจราจรปิดเลนซ้ายไว้",
+      "cefr": "B1",
+      "note_th": "ฝรั่งเรียกเล่น ๆ ว่า witch hat เพราะรูปทรงเหมือนหมวกแม่มด",
+      "distractors": [
+        "ice cream cone",
+        "traffic light",
+        "corn field"
+      ]
+    },
+    {
+      "id": "standing_room",
+      "word": "standing room",
+      "pos": "noun",
+      "ipa": "/ˈstændɪŋ ruːm/",
+      "reading_th": "สแตน-ดิง-รูม",
+      "meaning_th": "ที่ว่างให้ยืนเมื่อที่นั่งเต็ม",
+      "emoji": "🧍",
+      "example_en": "Only standing room is left on this train.",
+      "example_th": "ขบวนนี้เหลือแต่ที่ยืน",
+      "cefr": "B2",
+      "note_th": "ในคอนเสิร์ตก็ใช้คำนี้ หมายถึงบัตรยืนที่ไม่มีที่นั่ง",
+      "distractors": [
+        "waiting room",
+        "standing order",
+        "living room"
+      ]
+    },
+    {
+      "id": "pickpocket",
+      "word": "pickpocket",
+      "pos": "noun",
+      "ipa": "/ˈpɪkpɒkɪt/",
+      "reading_th": "พิค-พ็อค-เก็ท",
+      "meaning_th": "นักล้วงกระเป๋า",
+      "emoji": "🥷",
+      "example_en": "Watch your bag, pickpockets work in crowds.",
+      "example_th": "ระวังกระเป๋า นักล้วงชอบทำงานตอนคนแน่น",
+      "cefr": "B2",
+      "note_th": "ป้ายเตือนในยุโรปเขียนว่า Beware of pickpockets",
+      "distractors": [
+        "pocket money",
+        "pick up",
+        "picnic basket"
+      ]
+    },
+    {
+      "id": "u_turn_bridge",
+      "word": "U-turn bridge",
+      "pos": "noun",
+      "ipa": "/ˈjuː tɜːn brɪdʒ/",
+      "reading_th": "ยู-เทิร์น-บริดจ์",
+      "meaning_th": "สะพานกลับรถ",
+      "emoji": "🌉",
+      "example_en": "Use the U-turn bridge two kilometres ahead.",
+      "example_th": "ใช้สะพานกลับรถอีกสองกิโลเมตรข้างหน้า",
+      "cefr": "B2",
+      "note_th": "เป็นสิ่งที่ฝรั่งไม่ค่อยมี ต้องอธิบายว่า a bridge built just for turning back",
+      "distractors": [
+        "toll bridge",
+        "turning point",
+        "foot bridge"
+      ]
+    },
+    {
+      "id": "river_boat",
+      "word": "river boat",
+      "pos": "noun",
+      "ipa": "/ˈrɪvə bəʊt/",
+      "reading_th": "ริฟ-เวอร์-โบท",
+      "meaning_th": "เรือโดยสารในแม่น้ำ",
+      "emoji": "⛴️",
+      "example_en": "The river boat is cheaper than a taxi.",
+      "example_th": "เรือในแม่น้ำถูกกว่านั่งแท็กซี่",
+      "cefr": "A2",
+      "note_th": "เรือด่วนเจ้าพระยาฝรั่งเรียก express boat ตามชื่อบริการ",
+      "distractors": [
+        "river bank",
+        "rowing boat",
+        "river bus"
+      ]
+    },
+    {
+      "id": "single_trip",
+      "word": "single trip",
+      "pos": "noun",
+      "ipa": "/ˈsɪŋɡl trɪp/",
+      "reading_th": "ซิง-เกิล-ทริพ",
+      "meaning_th": "ตั๋วเที่ยวเดียว",
+      "emoji": "🎟️",
+      "example_en": "A single trip costs less than a day pass.",
+      "example_th": "ตั๋วเที่ยวเดียวถูกกว่าบัตรรายวัน",
+      "cefr": "B1",
+      "note_th": "ไปกลับเรียก return ticket ในอังกฤษ หรือ round trip ในอเมริกา",
+      "distractors": [
+        "single room",
+        "short trip",
+        "business trip"
+      ]
+    },
+    {
+      "id": "day_pass",
+      "word": "day pass",
+      "pos": "noun",
+      "ipa": "/deɪ pɑːs/",
+      "reading_th": "เดย์-พาส",
+      "meaning_th": "บัตรโดยสารไม่จำกัดเที่ยวหนึ่งวัน",
+      "emoji": "📅",
+      "example_en": "Buy a day pass if you travel a lot today.",
+      "example_th": "ถ้าวันนี้เดินทางเยอะ ซื้อบัตรรายวันคุ้มกว่า",
+      "cefr": "B1",
+      "note_th": "ถ้าใช้เกินสามเที่ยวต่อวันมักคุ้มกว่าซื้อตั๋วทีละใบ",
+      "distractors": [
+        "day off",
+        "boarding pass",
+        "day trip"
+      ]
+    },
+    {
+      "id": "monthly_pass",
+      "word": "monthly pass",
+      "pos": "noun",
+      "ipa": "/ˈmʌnθli pɑːs/",
+      "reading_th": "มันธ์-ลี-พาส",
+      "meaning_th": "บัตรโดยสารรายเดือน",
+      "emoji": "🗓️",
+      "example_en": "A monthly pass saves commuters money.",
+      "example_th": "บัตรรายเดือนช่วยคนเดินทางประจำประหยัดเงิน",
+      "cefr": "B1",
+      "note_th": "บางระบบเรียก travel card หรือ season ticket ในอังกฤษ",
+      "distractors": [
+        "monthly salary",
+        "month end",
+        "weekly pass"
+      ]
+    },
+    {
+      "id": "contactless",
+      "word": "contactless",
+      "pos": "adjective",
+      "ipa": "/ˈkɒntæktləs/",
+      "reading_th": "คอน-แทค-เลิส",
+      "meaning_th": "แบบแตะจ่ายโดยไม่ต้องสอดบัตร",
+      "emoji": "📶",
+      "example_en": "This gate takes contactless cards.",
+      "example_th": "ประตูนี้รับบัตรแบบแตะจ่าย",
+      "cefr": "B2",
+      "note_th": "-less แปลว่าไม่มี เช่น wireless, useless, endless",
+      "distractors": [
+        "cordless",
+        "careless",
+        "contact list"
+      ]
+    },
+    {
+      "id": "student_fare",
+      "word": "student fare",
+      "pos": "noun",
+      "ipa": "/ˈstjuːdnt feə/",
+      "reading_th": "สตู-เดินท์-แฟร์",
+      "meaning_th": "ค่าโดยสารราคานักเรียนนักศึกษา",
+      "emoji": "🎓",
+      "example_en": "Show your card to get the student fare.",
+      "example_th": "แสดงบัตรเพื่อรับราคานักเรียน",
+      "cefr": "B1",
+      "note_th": "ผู้สูงอายุเรียก senior fare ส่วนเด็กเรียก child fare",
+      "distractors": [
+        "student loan",
+        "senior fare",
+        "student visa"
+      ]
+    },
+    {
+      "id": "peak_fare",
+      "word": "peak fare",
+      "pos": "noun",
+      "ipa": "/piːk feə/",
+      "reading_th": "พีค-แฟร์",
+      "meaning_th": "ค่าโดยสารช่วงคนแน่น",
+      "emoji": "💰",
+      "example_en": "Peak fare applies before nine.",
+      "example_th": "ราคาช่วงเร่งด่วนใช้ก่อนเก้าโมง",
+      "cefr": "B2",
+      "note_th": "ช่วงเวลาที่คิดราคานี้เขียนว่า peak hours บนป้ายราคา",
+      "distractors": [
+        "peak time",
+        "pick fare",
+        "flat fare"
+      ]
+    },
+    {
+      "id": "off_peak",
+      "word": "off-peak",
+      "pos": "adjective",
+      "ipa": "/ˌɒf ˈpiːk/",
+      "reading_th": "ออฟ-พีค",
+      "meaning_th": "ช่วงนอกเวลาเร่งด่วน",
+      "emoji": "🕙",
+      "example_en": "Off-peak tickets are thirty percent cheaper.",
+      "example_th": "ตั๋วนอกชั่วโมงเร่งด่วนถูกกว่าสามสิบเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "ใช้กับโรงแรมและตั๋วเครื่องบินได้ด้วย แปลว่านอกฤดูท่องเที่ยว",
+      "distractors": [
+        "on peak",
+        "off road",
+        "off duty"
+      ]
+    },
+    {
+      "id": "entry_gate",
+      "word": "entry gate",
+      "pos": "noun",
+      "ipa": "/ˈentri ɡeɪt/",
+      "reading_th": "เอน-ทรี-เกท",
+      "meaning_th": "ประตูทางเข้าสถานี",
+      "emoji": "🚪",
+      "example_en": "Tap in at the entry gate.",
+      "example_th": "แตะบัตรที่ประตูทางเข้า",
+      "cefr": "B1",
+      "note_th": "ถ้าบัตรมีปัญหาให้บอกเจ้าหน้าที่ว่า My card will not scan",
+      "distractors": [
+        "exit gate",
+        "entry fee",
+        "front gate"
+      ]
+    },
+    {
+      "id": "exit_gate",
+      "word": "exit gate",
+      "pos": "noun",
+      "ipa": "/ˈeksɪt ɡeɪt/",
+      "reading_th": "เอ็ค-ซิท-เกท",
+      "meaning_th": "ประตูทางออกสถานี",
+      "emoji": "🚶",
+      "example_en": "Keep your card until the exit gate.",
+      "example_th": "เก็บบัตรไว้จนถึงประตูทางออก",
+      "cefr": "B1",
+      "note_th": "ระบบแบบแตะเข้า-แตะออกเรียก tap in และ tap out",
+      "distractors": [
+        "entry gate",
+        "emergency exit",
+        "exit poll"
+      ]
+    },
+    {
+      "id": "first_train",
+      "word": "first train",
+      "pos": "noun",
+      "ipa": "/fɜːst treɪn/",
+      "reading_th": "เฟิร์สท์-เทรน",
+      "meaning_th": "รถไฟเที่ยวแรกของวัน",
+      "emoji": "🌅",
+      "example_en": "The first train leaves at six.",
+      "example_th": "รถไฟเที่ยวแรกออกหกโมง",
+      "cefr": "A2",
+      "note_th": "ตารางเดินรถเรียก timetable หรือ schedule ในอเมริกา",
+      "distractors": [
+        "fast train",
+        "first class",
+        "first stop"
+      ]
+    },
+    {
+      "id": "last_train",
+      "word": "last train",
+      "pos": "noun",
+      "ipa": "/lɑːst treɪn/",
+      "reading_th": "ลาสท์-เทรน",
+      "meaning_th": "รถไฟเที่ยวสุดท้าย",
+      "emoji": "🌙",
+      "example_en": "Do not miss the last train at midnight.",
+      "example_th": "อย่าตกรถไฟเที่ยวสุดท้ายตอนเที่ยงคืน",
+      "cefr": "A2",
+      "note_th": "สำนวน miss the last train ใช้เปรียบพลาดโอกาสสุดท้ายได้",
+      "distractors": [
+        "fast train",
+        "last call",
+        "last stop"
+      ]
+    },
+    {
+      "id": "pier",
+      "word": "pier",
+      "pos": "noun",
+      "ipa": "/pɪə/",
+      "reading_th": "เพียร์",
+      "meaning_th": "ท่าเรือ",
+      "emoji": "⚓",
+      "example_en": "Get off the boat at the next pier.",
+      "example_th": "ลงเรือที่ท่าถัดไป",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน peer ที่แปลว่าเพื่อนร่วมรุ่น",
+      "distractors": [
+        "peer",
+        "pear",
+        "pierce"
+      ]
+    },
+    {
+      "id": "longtail_boat",
+      "word": "longtail boat",
+      "pos": "noun",
+      "ipa": "/ˈlɒŋteɪl bəʊt/",
+      "reading_th": "ลอง-เทล-โบท",
+      "meaning_th": "เรือหางยาว",
+      "emoji": "🛶",
+      "example_en": "A longtail boat took us to the island.",
+      "example_th": "เรือหางยาวพาเราไปเกาะ",
+      "cefr": "B1",
+      "note_th": "ชื่อมาจากใบพัดที่ต่อท้ายยาว ฝรั่งที่มาไทยรู้จักคำนี้ดี",
+      "distractors": [
+        "long boat",
+        "tail gate",
+        "speed boat"
+      ]
+    },
+    {
+      "id": "life_jacket",
+      "word": "life jacket",
+      "pos": "noun",
+      "ipa": "/laɪf ˈdʒækɪt/",
+      "reading_th": "ไลฟ์-แจ็ค-เก็ท",
+      "meaning_th": "เสื้อชูชีพ",
+      "emoji": "🦺",
+      "example_en": "Wear a life jacket on the boat.",
+      "example_th": "ใส่เสื้อชูชีพตอนอยู่บนเรือ",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียก life vest ส่วนห่วงยางชูชีพคือ life buoy",
+      "distractors": [
+        "life guard",
+        "rain jacket",
+        "life style"
+      ]
+    }
+  ]
+}

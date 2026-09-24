@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "sports",
+    "name_en": "Sports & Fitness",
+    "name_th": "กีฬาและฟิตเนส",
+    "emoji": "⚽",
+    "color_start": "#86EFAC",
+    "color_end": "#15803D",
+    "description_th": "กีฬายอดฮิต ศัพท์ในสนาม ฟิตเนสและเวท ร่างกายและอาการบาดเจ็บ โภชนาการ ทีม และผลการแข่งขัน",
+    "mascot_costume": "athlete",
+    "lessons": [
+      {
+        "id": "sports_1",
+        "title_en": "Popular Sports",
+        "title_th": "กีฬายอดฮิต",
+        "emoji": "🏸",
+        "word_ids": [
+          "badminton",
+          "volleyball",
+          "tennis",
+          "boxing",
+          "muay_thai",
+          "swimming",
+          "cycling",
+          "jogging",
+          "golf",
+          "table_tennis",
+          "weightlifting",
+          "yoga_mat",
+          "jump_rope",
+          "fun_run"
+        ]
+      },
+      {
+        "id": "sports_2",
+        "title_en": "On the Field",
+        "title_th": "ในสนามแข่ง",
+        "emoji": "🥅",
+        "word_ids": [
+          "referee",
+          "whistle",
+          "foul",
+          "penalty",
+          "free_kick",
+          "corner_kick",
+          "offside",
+          "own_goal",
+          "halftime",
+          "kickoff",
+          "extra_time",
+          "hat_trick",
+          "stadium",
+          "crowd"
+        ]
+      },
+      {
+        "id": "sports_3",
+        "title_en": "At the Gym",
+        "title_th": "ที่ฟิตเนส",
+        "emoji": "🏋️",
+        "word_ids": [
+          "gym_membership",
+          "personal_trainer",
+          "treadmill",
+          "dumbbell",
+          "barbell",
+          "squat",
+          "push_up",
+          "pull_up",
+          "plank",
+          "reps",
+          "warm_up",
+          "warm_down",
+          "cardio",
+          "sweat"
+        ]
+      },
+      {
+        "id": "sports_4",
+        "title_en": "Body & Injuries",
+        "title_th": "ร่างกายและอาการบาดเจ็บ",
+        "emoji": "🩹",
+        "word_ids": [
+          "muscle",
+          "biceps",
+          "abs",
+          "posture",
+          "cramp",
+          "sore",
+          "twisted_ankle",
+          "stamina",
+          "endurance",
+          "flexibility",
+          "recovery",
+          "shin_guard",
+          "knee_pad",
+          "mouthguard"
+        ]
+      },
+      {
+        "id": "sports_5",
+        "title_en": "Fuel & Diet",
+        "title_th": "อาหารและพลังงาน",
+        "emoji": "🥤",
+        "word_ids": [
+          "protein",
+          "carbs",
+          "supplement",
+          "hydrate",
+          "sports_drink",
+          "metabolism",
+          "body_fat",
+          "lean",
+          "bulk_up",
+          "burn_calories",
+          "locker_room",
+          "sprint",
+          "lap",
+          "finish_line"
+        ]
+      },
+      {
+        "id": "sports_6",
+        "title_en": "The Team",
+        "title_th": "ทีมและผู้เล่น",
+        "emoji": "👕",
+        "word_ids": [
+          "coach",
+          "captain",
+          "striker",
+          "goalkeeper",
+          "defender",
+          "midfielder",
+          "substitute",
+          "starting_eleven",
+          "jersey",
+          "cheer",
+          "rival",
+          "league",
+          "playoff",
+          "semifinal"
+        ]
+      },
+      {
+        "id": "sports_7",
+        "title_en": "Results & Skills",
+        "title_th": "ผลการแข่งและทักษะ",
+        "emoji": "🏆",
+        "word_ids": [
+          "trophy",
+          "medal",
+          "runner_up",
+          "underdog",
+          "draw",
+          "rematch",
+          "win_streak",
+          "match_point",
+          "ace",
+          "smash",
+          "dribble",
+          "rebound",
+          "starting_line",
+          "referee_card"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "badminton",
+      "word": "badminton",
+      "pos": "noun",
+      "ipa": "/ˈbædmɪntən/",
+      "reading_th": "แบด-มิน-เทิน",
+      "meaning_th": "แบดมินตัน",
+      "emoji": "🏸",
+      "example_en": "We play badminton every Sunday morning.",
+      "example_th": "เราเล่นแบดมินตันทุกเช้าวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "กีฬาที่คนไทยเก่งระดับโลก ฝรั่งออกเสียง แบด-มิน-เทิน ไม่ใช่ แบด",
+      "distractors": [
+        "badge",
+        "bedminster",
+        "bad manner"
+      ]
+    },
+    {
+      "id": "volleyball",
+      "word": "volleyball",
+      "pos": "noun",
+      "ipa": "/ˈvɒlibɔːl/",
+      "reading_th": "วอล-ลี-บอล",
+      "meaning_th": "วอลเลย์บอล",
+      "emoji": "🏐",
+      "example_en": "The volleyball team won again last night.",
+      "example_th": "ทีมวอลเลย์บอลชนะอีกแล้วเมื่อคืน",
+      "cefr": "A2",
+      "note_th": "ตบเรียก spike หรือ smash ส่วนกันลูกเหนือตาข่ายเรียก block",
+      "distractors": [
+        "valley ball",
+        "baseball",
+        "volley shot"
+      ]
+    },
+    {
+      "id": "tennis",
+      "word": "tennis",
+      "pos": "noun",
+      "ipa": "/ˈtenɪs/",
+      "reading_th": "เทน-นิส",
+      "meaning_th": "เทนนิส",
+      "emoji": "🎾",
+      "example_en": "He takes tennis lessons twice a week.",
+      "example_th": "เขาเรียนเทนนิสสัปดาห์ละสองครั้ง",
+      "cefr": "A1",
+      "note_th": "คะแนนนับแปลก ๆ คือ 15-30-40 แล้วค่อย game ซึ่งมาจากหน้าปัดนาฬิกา",
+      "distractors": [
+        "tenant",
+        "tension",
+        "ten miss"
+      ]
+    },
+    {
+      "id": "boxing",
+      "word": "boxing",
+      "pos": "noun",
+      "ipa": "/ˈbɒksɪŋ/",
+      "reading_th": "บ็อก-ซิง",
+      "meaning_th": "มวยสากล",
+      "emoji": "🥊",
+      "example_en": "Boxing keeps him in great shape.",
+      "example_th": "การชกมวยทำให้เขาหุ่นดีมาก",
+      "cefr": "A2",
+      "note_th": "boxing ring = เวทีมวย ส่วน Boxing Day คือวันที่ 26 ธันวาคม ไม่เกี่ยวกับมวย",
+      "distractors": [
+        "bowling",
+        "booking",
+        "blocking"
+      ]
+    },
+    {
+      "id": "muay_thai",
+      "word": "muay thai",
+      "pos": "noun",
+      "ipa": "/ˈmuːeɪ taɪ/",
+      "reading_th": "มวย-ไทย",
+      "meaning_th": "มวยไทย",
+      "emoji": "🇹🇭",
+      "example_en": "Many tourists train muay thai in Chiang Mai.",
+      "example_th": "นักท่องเที่ยวหลายคนมาฝึกมวยไทยที่เชียงใหม่",
+      "cefr": "A2",
+      "note_th": "ฝรั่งเรียกว่า the art of eight limbs เพราะใช้หมัด ศอก เข่า และแข้ง",
+      "distractors": [
+        "thai boxing ring",
+        "muay farang",
+        "kick boxer"
+      ]
+    },
+    {
+      "id": "swimming",
+      "word": "swimming",
+      "pos": "noun",
+      "ipa": "/ˈswɪmɪŋ/",
+      "reading_th": "สวิม-มิง",
+      "meaning_th": "ว่ายน้ำ",
+      "emoji": "🏊",
+      "example_en": "Swimming is easy on the knees.",
+      "example_th": "ว่ายน้ำไม่ทำร้ายหัวเข่า",
+      "cefr": "A1",
+      "note_th": "ท่าฟรีสไตล์เรียก freestyle ท่ากบเรียก breaststroke",
+      "distractors": [
+        "swinging",
+        "steaming",
+        "spinning"
+      ]
+    },
+    {
+      "id": "cycling",
+      "word": "cycling",
+      "pos": "noun",
+      "ipa": "/ˈsaɪklɪŋ/",
+      "reading_th": "ไซ-คลิง",
+      "meaning_th": "การปั่นจักรยาน",
+      "emoji": "🚴",
+      "example_en": "Cycling to work saves money.",
+      "example_th": "ปั่นจักรยานไปทำงานช่วยประหยัดเงิน",
+      "cefr": "A2",
+      "note_th": "นักปั่นเรียก cyclist ส่วนจักรยานเสือภูเขาคือ mountain bike",
+      "distractors": [
+        "circling",
+        "sailing",
+        "recycling"
+      ]
+    },
+    {
+      "id": "jogging",
+      "word": "jogging",
+      "pos": "noun",
+      "ipa": "/ˈdʒɒɡɪŋ/",
+      "reading_th": "จ็อก-กิง",
+      "meaning_th": "การวิ่งเหยาะ ๆ",
+      "emoji": "🏃",
+      "example_en": "I go jogging in the park at six.",
+      "example_th": "ฉันไปวิ่งเหยาะ ๆ ที่สวนตอนหกโมง",
+      "cefr": "A2",
+      "note_th": "ช้ากว่า running — วิ่งเร็วเต็มที่ในระยะสั้นเรียก sprint",
+      "distractors": [
+        "logging",
+        "juggling",
+        "jamming"
+      ]
+    },
+    {
+      "id": "golf",
+      "word": "golf",
+      "pos": "noun",
+      "ipa": "/ɡɒlf/",
+      "reading_th": "กอล์ฟ",
+      "meaning_th": "กอล์ฟ",
+      "emoji": "⛳",
+      "example_en": "A round of golf takes four hours.",
+      "example_th": "ตีกอล์ฟหนึ่งรอบใช้เวลาสี่ชั่วโมง",
+      "cefr": "A2",
+      "note_th": "ตีต่ำกว่ามาตรฐานหนึ่งเรียก birdie ส่วนลงหลุมทีเดียวคือ hole in one",
+      "distractors": [
+        "gulf",
+        "gold",
+        "goal"
+      ]
+    },
+    {
+      "id": "table_tennis",
+      "word": "table tennis",
+      "pos": "noun",
+      "ipa": "/ˈteɪbl ˈtenɪs/",
+      "reading_th": "เท-เบิล-เทน-นิส",
+      "meaning_th": "ปิงปอง",
+      "emoji": "🏓",
+      "example_en": "There is a table tennis table in the office.",
+      "example_th": "ในออฟฟิศมีโต๊ะปิงปอง",
+      "cefr": "A2",
+      "note_th": "เรียก ping-pong ก็ได้ แต่ชื่อทางการในโอลิมปิกคือ table tennis",
+      "distractors": [
+        "table manner",
+        "lawn tennis",
+        "table football"
+      ]
+    },
+    {
+      "id": "weightlifting",
+      "word": "weightlifting",
+      "pos": "noun",
+      "ipa": "/ˈweɪtlɪftɪŋ/",
+      "reading_th": "เวท-ลิฟท์-ติง",
+      "meaning_th": "กีฬายกน้ำหนัก",
+      "emoji": "🏋️‍♀️",
+      "example_en": "Thailand has won medals in weightlifting.",
+      "example_th": "ไทยเคยได้เหรียญจากกีฬายกน้ำหนัก",
+      "cefr": "B1",
+      "note_th": "ยกเวทในฟิตเนสทั่วไปเรียก lifting weights ไม่ใช่กีฬาแข่งขัน",
+      "distractors": [
+        "weight loss",
+        "shoplifting",
+        "waiting list"
+      ]
+    },
+    {
+      "id": "yoga_mat",
+      "word": "yoga mat",
+      "pos": "noun",
+      "ipa": "/ˈjəʊɡə mæt/",
+      "reading_th": "โย-คะ-แมท",
+      "meaning_th": "เสื่อโยคะ",
+      "emoji": "🧘",
+      "example_en": "Roll out your yoga mat over there.",
+      "example_th": "ปูเสื่อโยคะตรงนั้นได้เลย",
+      "cefr": "A2",
+      "note_th": "ท่าโยคะเรียก pose เช่น downward dog ที่ฝรั่งรู้จักกันดี",
+      "distractors": [
+        "door mat",
+        "yoga pose",
+        "bath mat"
+      ]
+    },
+    {
+      "id": "jump_rope",
+      "word": "jump rope",
+      "pos": "noun",
+      "ipa": "/dʒʌmp rəʊp/",
+      "reading_th": "จัมพ์-โรพ",
+      "meaning_th": "เชือกกระโดด",
+      "emoji": "🪢",
+      "example_en": "Ten minutes of jump rope burns a lot.",
+      "example_th": "กระโดดเชือกสิบนาทีเผาผลาญเยอะมาก",
+      "cefr": "B1",
+      "note_th": "อังกฤษแบบอังกฤษเรียก skipping rope",
+      "distractors": [
+        "jump start",
+        "tight rope",
+        "rope ladder"
+      ]
+    },
+    {
+      "id": "fun_run",
+      "word": "fun run",
+      "pos": "noun",
+      "ipa": "/fʌn rʌn/",
+      "reading_th": "ฟัน-รัน",
+      "meaning_th": "งานวิ่งเพื่อสุขภาพระยะสั้น",
+      "emoji": "🎽",
+      "example_en": "The fun run starts at the stadium gate.",
+      "example_th": "งานวิ่งเริ่มที่ประตูสนามกีฬา",
+      "cefr": "B1",
+      "note_th": "ระยะไกลกว่านี้คือ half marathon (21 กม.) และ marathon (42 กม.)",
+      "distractors": [
+        "fun fair",
+        "dry run",
+        "home run"
+      ]
+    },
+    {
+      "id": "referee",
+      "word": "referee",
+      "pos": "noun",
+      "ipa": "/ˌrefəˈriː/",
+      "reading_th": "เรฟ-เฟอ-รี",
+      "meaning_th": "ผู้ตัดสิน",
+      "emoji": "🧑‍⚖️",
+      "example_en": "The referee stopped the match.",
+      "example_th": "ผู้ตัดสินสั่งหยุดการแข่งขัน",
+      "cefr": "B1",
+      "note_th": "เรียกสั้น ๆ ว่า ref ได้ — กีฬาบางชนิดเรียก umpire เช่น เทนนิสและเบสบอล",
+      "distractors": [
+        "reference",
+        "refugee",
+        "refinery"
+      ]
+    },
+    {
+      "id": "whistle",
+      "word": "whistle",
+      "pos": "noun",
+      "ipa": "/ˈwɪsl/",
+      "reading_th": "วิส-เซิล",
+      "meaning_th": "นกหวีด",
+      "emoji": "📣",
+      "example_en": "The whistle ended the first half.",
+      "example_th": "เสียงนกหวีดจบครึ่งแรก",
+      "cefr": "B1",
+      "note_th": "ตัว t ไม่ออกเสียง อ่านว่า วิส-เซิล เหมือน castle และ listen",
+      "distractors": [
+        "wrestle",
+        "thistle",
+        "missile"
+      ]
+    },
+    {
+      "id": "foul",
+      "word": "foul",
+      "pos": "noun",
+      "ipa": "/faʊl/",
+      "reading_th": "ฟาวล์",
+      "meaning_th": "การเล่นผิดกติกา",
+      "emoji": "🚫",
+      "example_en": "That tackle was a clear foul.",
+      "example_th": "การเข้าสกัดครั้งนั้นฟาวล์ชัดเจน",
+      "cefr": "B1",
+      "note_th": "ออกเสียงเหมือน fowl ที่แปลว่าสัตว์ปีก",
+      "distractors": [
+        "fowl",
+        "fall",
+        "fuel"
+      ]
+    },
+    {
+      "id": "penalty",
+      "word": "penalty",
+      "pos": "noun",
+      "ipa": "/ˈpenəlti/",
+      "reading_th": "เพ-เนิล-ที",
+      "meaning_th": "การลงโทษ หรือจุดโทษ",
+      "emoji": "⚽",
+      "example_en": "He scored from the penalty spot.",
+      "example_th": "เขายิงจุดโทษเข้า",
+      "cefr": "B1",
+      "note_th": "ในงานทั่วไปแปลว่าค่าปรับได้ด้วย เช่น late payment penalty",
+      "distractors": [
+        "personality",
+        "plenty",
+        "property"
+      ]
+    },
+    {
+      "id": "free_kick",
+      "word": "free kick",
+      "pos": "noun",
+      "ipa": "/friː kɪk/",
+      "reading_th": "ฟรี-คิก",
+      "meaning_th": "ลูกฟรีคิก",
+      "emoji": "🦶",
+      "example_en": "They scored from a free kick.",
+      "example_th": "พวกเขายิงประตูจากลูกฟรีคิก",
+      "cefr": "B1",
+      "note_th": "แบบยิงเข้าประตูได้เลยเรียก direct free kick",
+      "distractors": [
+        "free throw",
+        "kick off",
+        "free time"
+      ]
+    },
+    {
+      "id": "corner_kick",
+      "word": "corner kick",
+      "pos": "noun",
+      "ipa": "/ˈkɔːnə kɪk/",
+      "reading_th": "คอร์-เนอร์-คิก",
+      "meaning_th": "ลูกเตะมุม",
+      "emoji": "🚩",
+      "example_en": "The corner kick went straight to the keeper.",
+      "example_th": "ลูกเตะมุมลอยเข้ามือผู้รักษาประตูพอดี",
+      "cefr": "B1",
+      "note_th": "เรียกสั้น ๆ ว่า corner ก็ได้ เช่น They won a corner",
+      "distractors": [
+        "corner shop",
+        "penalty kick",
+        "kick back"
+      ]
+    },
+    {
+      "id": "offside",
+      "word": "offside",
+      "pos": "noun",
+      "ipa": "/ˌɒfˈsaɪd/",
+      "reading_th": "ออฟ-ไซด์",
+      "meaning_th": "ล้ำหน้า",
+      "emoji": "🚩",
+      "example_en": "The goal did not count because of offside.",
+      "example_th": "ประตูไม่นับเพราะล้ำหน้า",
+      "cefr": "B2",
+      "note_th": "กติกาที่คนดูเถียงกันมากที่สุดในฟุตบอล",
+      "distractors": [
+        "offshore",
+        "outside",
+        "offer side"
+      ]
+    },
+    {
+      "id": "own_goal",
+      "word": "own goal",
+      "pos": "noun",
+      "ipa": "/əʊn ɡəʊl/",
+      "reading_th": "โอน-โกล",
+      "meaning_th": "การทำเข้าประตูตัวเอง",
+      "emoji": "😱",
+      "example_en": "They lost after an own goal in the last minute.",
+      "example_th": "พวกเขาแพ้เพราะทำเข้าประตูตัวเองนาทีสุดท้าย",
+      "cefr": "B2",
+      "note_th": "ใช้เปรียบเทียบได้ว่าทำอะไรที่ย้อนกลับมาทำร้ายตัวเอง",
+      "distractors": [
+        "open goal",
+        "own home",
+        "old goal"
+      ]
+    },
+    {
+      "id": "halftime",
+      "word": "halftime",
+      "pos": "noun",
+      "ipa": "/ˌhɑːfˈtaɪm/",
+      "reading_th": "ฮาล์ฟ-ไทม์",
+      "meaning_th": "ช่วงพักครึ่ง",
+      "emoji": "⏸️",
+      "example_en": "We got snacks at halftime.",
+      "example_th": "เราไปซื้อของกินตอนพักครึ่ง",
+      "cefr": "B1",
+      "note_th": "ตัว l ใน half ไม่ออกเสียง อ่านว่า ฮาล์ฟ",
+      "distractors": [
+        "half price",
+        "part time",
+        "high time"
+      ]
+    },
+    {
+      "id": "kickoff",
+      "word": "kickoff",
+      "pos": "noun",
+      "ipa": "/ˈkɪkɒf/",
+      "reading_th": "คิก-ออฟ",
+      "meaning_th": "การเริ่มเกม",
+      "emoji": "🕐",
+      "example_en": "Kickoff is at seven tonight.",
+      "example_th": "เกมเริ่มหนึ่งทุ่มคืนนี้",
+      "cefr": "B1",
+      "note_th": "ใช้กับการเริ่มโครงการได้ด้วย เช่น kickoff meeting",
+      "distractors": [
+        "kick back",
+        "take off",
+        "knock off"
+      ]
+    },
+    {
+      "id": "extra_time",
+      "word": "extra time",
+      "pos": "noun",
+      "ipa": "/ˈekstrə taɪm/",
+      "reading_th": "เอ็ค-สตรา-ไทม์",
+      "meaning_th": "ช่วงต่อเวลาพิเศษ",
+      "emoji": "⏱️",
+      "example_en": "The match went to extra time.",
+      "example_th": "เกมต้องต่อเวลาพิเศษ",
+      "cefr": "B2",
+      "note_th": "อเมริกันเรียก overtime — ถ้ายังเสมอก็ไปยิงจุดโทษ (penalty shootout)",
+      "distractors": [
+        "spare time",
+        "full time",
+        "extra mile"
+      ]
+    },
+    {
+      "id": "hat_trick",
+      "word": "hat-trick",
+      "pos": "noun",
+      "ipa": "/ˈhæt trɪk/",
+      "reading_th": "แฮท-ทริค",
+      "meaning_th": "การทำสามประตูในเกมเดียว",
+      "emoji": "🎩",
+      "example_en": "He scored a hat-trick in twenty minutes.",
+      "example_th": "เขายิงแฮตทริกภายในยี่สิบนาที",
+      "cefr": "B2",
+      "note_th": "มาจากกีฬาคริกเกต ที่เคยให้หมวกเป็นรางวัลเมื่อทำสำเร็จสามครั้งติด",
+      "distractors": [
+        "hat stand",
+        "card trick",
+        "back flip"
+      ]
+    },
+    {
+      "id": "stadium",
+      "word": "stadium",
+      "pos": "noun",
+      "ipa": "/ˈsteɪdiəm/",
+      "reading_th": "สเต-เดียม",
+      "meaning_th": "สนามกีฬา",
+      "emoji": "🏟️",
+      "example_en": "The stadium holds fifty thousand people.",
+      "example_th": "สนามกีฬาจุคนได้ห้าหมื่นคน",
+      "cefr": "A2",
+      "note_th": "สนามในร่มเล็กกว่าเรียก arena เช่น อารีน่าแบดมินตัน",
+      "distractors": [
+        "studio",
+        "station",
+        "stadium seat"
+      ]
+    },
+    {
+      "id": "crowd",
+      "word": "crowd",
+      "pos": "noun",
+      "ipa": "/kraʊd/",
+      "reading_th": "คราวด์",
+      "meaning_th": "ฝูงชนผู้ชม",
+      "emoji": "👥",
+      "example_en": "The crowd went quiet after the goal.",
+      "example_th": "ผู้ชมเงียบกริบหลังเสียประตู",
+      "cefr": "B1",
+      "note_th": "สำนวน stand out from the crowd = โดดเด่นกว่าคนอื่น",
+      "distractors": [
+        "cloud",
+        "crown",
+        "cruel"
+      ]
+    },
+    {
+      "id": "gym_membership",
+      "word": "gym membership",
+      "pos": "noun",
+      "ipa": "/dʒɪm ˈmembəʃɪp/",
+      "reading_th": "จิม-เมม-เบอร์-ชิพ",
+      "meaning_th": "สมาชิกฟิตเนส",
+      "emoji": "🎫",
+      "example_en": "My gym membership costs 800 baht a month.",
+      "example_th": "ค่าสมาชิกฟิตเนสของฉันเดือนละ 800 บาท",
+      "cefr": "B1",
+      "note_th": "สัญญารายปีเรียก annual plan ส่วนรายเดือนคือ monthly plan",
+      "distractors": [
+        "club meeting",
+        "gym class",
+        "member card"
+      ]
+    },
+    {
+      "id": "personal_trainer",
+      "word": "personal trainer",
+      "pos": "noun",
+      "ipa": "/ˈpɜːsənl ˈtreɪnə/",
+      "reading_th": "เพอร์-เซิน-เนิล-เทรน-เนอร์",
+      "meaning_th": "เทรนเนอร์ส่วนตัว",
+      "emoji": "🧑‍🏫",
+      "example_en": "A personal trainer fixed my squat form.",
+      "example_th": "เทรนเนอร์ส่วนตัวช่วยแก้ท่าสควอทให้ฉัน",
+      "cefr": "B1",
+      "note_th": "ย่อว่า PT ซึ่งฟิตเนสไทยก็ใช้คำนี้",
+      "distractors": [
+        "personal trainee",
+        "private teacher",
+        "personal assistant"
+      ]
+    },
+    {
+      "id": "treadmill",
+      "word": "treadmill",
+      "pos": "noun",
+      "ipa": "/ˈtredmɪl/",
+      "reading_th": "เทรด-มิล",
+      "meaning_th": "ลู่วิ่งไฟฟ้า",
+      "emoji": "🏃‍♀️",
+      "example_en": "I run on the treadmill when it rains.",
+      "example_th": "ฝนตกฉันก็วิ่งบนลู่วิ่งแทน",
+      "cefr": "B1",
+      "note_th": "ใช้เปรียบชีวิตที่วนซ้ำจนน่าเบื่อได้ เช่น stuck on a treadmill",
+      "distractors": [
+        "windmill",
+        "threadmill",
+        "tread water"
+      ]
+    },
+    {
+      "id": "dumbbell",
+      "word": "dumbbell",
+      "pos": "noun",
+      "ipa": "/ˈdʌmbel/",
+      "reading_th": "ดัม-เบล",
+      "meaning_th": "ดัมเบล",
+      "emoji": "🏋️",
+      "example_en": "Start with a light dumbbell.",
+      "example_th": "เริ่มจากดัมเบลน้ำหนักเบาก่อน",
+      "cefr": "B1",
+      "note_th": "มีตัว b สองตัว dumb + bell — ตัว b ใน dumb ไม่ออกเสียง",
+      "distractors": [
+        "doorbell",
+        "bluebell",
+        "dumpling"
+      ]
+    },
+    {
+      "id": "barbell",
+      "word": "barbell",
+      "pos": "noun",
+      "ipa": "/ˈbɑːbel/",
+      "reading_th": "บาร์-เบล",
+      "meaning_th": "บาร์เบลแบบยาวใส่แผ่นน้ำหนัก",
+      "emoji": "🏋️‍♂️",
+      "example_en": "Load the barbell with ten kilos each side.",
+      "example_th": "ใส่แผ่นน้ำหนักบาร์เบลข้างละสิบกิโล",
+      "cefr": "B2",
+      "note_th": "แผ่นน้ำหนักที่ใส่เรียก plates ส่วนตัวล็อกเรียก collar",
+      "distractors": [
+        "dumbbell",
+        "barbecue",
+        "bar bill"
+      ]
+    },
+    {
+      "id": "squat",
+      "word": "squat",
+      "pos": "noun",
+      "ipa": "/skwɒt/",
+      "reading_th": "สควอท",
+      "meaning_th": "ท่าย่อเข่าฝึกขา",
+      "emoji": "🦵",
+      "example_en": "Keep your back straight during a squat.",
+      "example_th": "ตอนทำสควอทให้หลังตรงไว้",
+      "cefr": "B2",
+      "note_th": "ท่าที่คู่กันคือ deadlift (ยกพื้น) และ bench press (นอนดันบาร์)",
+      "distractors": [
+        "squad",
+        "square",
+        "squash"
+      ]
+    },
+    {
+      "id": "push_up",
+      "word": "push-up",
+      "pos": "noun",
+      "ipa": "/ˈpʊʃ ʌp/",
+      "reading_th": "พุช-อัพ",
+      "meaning_th": "วิดพื้น",
+      "emoji": "💪",
+      "example_en": "He does fifty push-ups every morning.",
+      "example_th": "เขาวิดพื้นห้าสิบครั้งทุกเช้า",
+      "cefr": "B1",
+      "note_th": "อังกฤษแบบอังกฤษเรียก press-up",
+      "distractors": [
+        "pull-up",
+        "push cart",
+        "pop up"
+      ]
+    },
+    {
+      "id": "pull_up",
+      "word": "pull-up",
+      "pos": "noun",
+      "ipa": "/ˈpʊl ʌp/",
+      "reading_th": "พูล-อัพ",
+      "meaning_th": "ท่าดึงข้อ",
+      "emoji": "🧗‍♂️",
+      "example_en": "I still cannot do one pull-up.",
+      "example_th": "ฉันยังดึงข้อไม่ได้สักครั้ง",
+      "cefr": "B1",
+      "note_th": "ถ้าหงายมือจับเรียก chin-up ซึ่งง่ายกว่านิดหนึ่ง",
+      "distractors": [
+        "push-up",
+        "pull over",
+        "pile up"
+      ]
+    },
+    {
+      "id": "plank",
+      "word": "plank",
+      "pos": "noun",
+      "ipa": "/plæŋk/",
+      "reading_th": "แพลงค์",
+      "meaning_th": "ท่าแพลงก์เกร็งลำตัว",
+      "emoji": "🧍",
+      "example_en": "Hold the plank for one minute.",
+      "example_th": "ค้างท่าแพลงก์ไว้หนึ่งนาที",
+      "cefr": "B2",
+      "note_th": "แปลว่าไม้กระดานยาว ท่านี้ได้ชื่อเพราะตัวต้องตรงเหมือนไม้กระดาน",
+      "distractors": [
+        "plant",
+        "blank",
+        "plate"
+      ]
+    },
+    {
+      "id": "reps",
+      "word": "reps",
+      "pos": "noun",
+      "ipa": "/reps/",
+      "reading_th": "เรพส์",
+      "meaning_th": "จำนวนครั้งที่ทำต่อเซ็ต",
+      "emoji": "🔢",
+      "example_en": "Three sets of twelve reps.",
+      "example_th": "สามเซ็ต เซ็ตละสิบสองครั้ง",
+      "cefr": "B2",
+      "note_th": "ย่อมาจาก repetitions — เทรนเนอร์พูดว่า 'สิบเรพ' กันทั่วโลก",
+      "distractors": [
+        "ribs",
+        "raps",
+        "reply"
+      ]
+    },
+    {
+      "id": "warm_up",
+      "word": "warm-up",
+      "pos": "noun",
+      "ipa": "/ˈwɔːm ʌp/",
+      "reading_th": "วอร์ม-อัพ",
+      "meaning_th": "การอบอุ่นร่างกายก่อนเล่น",
+      "emoji": "🤸",
+      "example_en": "Never skip the warm-up.",
+      "example_th": "อย่าข้ามการอบอุ่นร่างกายเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "เป็นกริยาเขียนแยกว่า warm up ส่วนคำนามมีขีดกลาง",
+      "distractors": [
+        "warm water",
+        "wake up",
+        "wrap up"
+      ]
+    },
+    {
+      "id": "warm_down",
+      "word": "warm down",
+      "pos": "verb",
+      "ipa": "/wɔːm daʊn/",
+      "reading_th": "วอร์ม-ดาวน์",
+      "meaning_th": "ผ่อนคลายร่างกายหลังออกกำลัง",
+      "emoji": "🧘‍♂️",
+      "example_en": "Walk slowly to warm down after running.",
+      "example_th": "หลังวิ่งให้เดินช้า ๆ เพื่อผ่อนคลายร่างกาย",
+      "cefr": "B2",
+      "note_th": "อเมริกันนิยมพูดว่า cool down มากกว่า",
+      "distractors": [
+        "warm up",
+        "calm down",
+        "wind up"
+      ]
+    },
+    {
+      "id": "cardio",
+      "word": "cardio",
+      "pos": "noun",
+      "ipa": "/ˈkɑːdiəʊ/",
+      "reading_th": "คาร์-ดิ-โอ",
+      "meaning_th": "การออกกำลังกายแบบเพิ่มอัตราการเต้นหัวใจ",
+      "emoji": "❤️",
+      "example_en": "Do cardio three times a week.",
+      "example_th": "ทำคาร์ดิโอสัปดาห์ละสามครั้ง",
+      "cefr": "B2",
+      "note_th": "ย่อจาก cardiovascular exercise — ตรงข้ามกับเวทเทรนนิ่ง",
+      "distractors": [
+        "cardigan",
+        "carton",
+        "calendar"
+      ]
+    },
+    {
+      "id": "sweat",
+      "word": "sweat",
+      "pos": "noun",
+      "ipa": "/swet/",
+      "reading_th": "สเวท",
+      "meaning_th": "เหงื่อ",
+      "emoji": "💦",
+      "example_en": "Wipe the sweat off the machine after use.",
+      "example_th": "เช็ดเหงื่อออกจากเครื่องหลังใช้เสร็จ",
+      "cefr": "B1",
+      "note_th": "ออกเสียง สเวท ไม่ใช่ สวีท — สำนวน No sweat! แปลว่าสบายมาก",
+      "distractors": [
+        "sweet",
+        "swear",
+        "sweater"
+      ]
+    },
+    {
+      "id": "muscle",
+      "word": "muscle",
+      "pos": "noun",
+      "ipa": "/ˈmʌsl/",
+      "reading_th": "มัส-เซิล",
+      "meaning_th": "กล้ามเนื้อ",
+      "emoji": "💪",
+      "example_en": "Rest lets the muscle grow.",
+      "example_th": "การพักช่วยให้กล้ามเนื้อโต",
+      "cefr": "B1",
+      "note_th": "ตัว c ไม่ออกเสียง อ่านว่า มัส-เซิล พ้องเสียงกับ mussel (หอยแมลงภู่)",
+      "distractors": [
+        "mussel",
+        "missile",
+        "muzzle"
+      ]
+    },
+    {
+      "id": "biceps",
+      "word": "biceps",
+      "pos": "noun",
+      "ipa": "/ˈbaɪseps/",
+      "reading_th": "ไบ-เซพส์",
+      "meaning_th": "กล้ามเนื้อต้นแขนด้านหน้า",
+      "emoji": "🦾",
+      "example_en": "Curls work the biceps.",
+      "example_th": "ท่าเคิร์ลใช้กล้ามต้นแขนด้านหน้า",
+      "cefr": "B2",
+      "note_th": "มี s ท้ายคำแม้เป็นเอกพจน์ ส่วนด้านหลังแขนคือ triceps",
+      "distractors": [
+        "triceps",
+        "bicycle",
+        "biscuits"
+      ]
+    },
+    {
+      "id": "abs",
+      "word": "abs",
+      "pos": "noun",
+      "ipa": "/æbz/",
+      "reading_th": "แอบส์",
+      "meaning_th": "กล้ามท้อง",
+      "emoji": "🧍‍♂️",
+      "example_en": "Abs come from the kitchen, not the gym.",
+      "example_th": "กล้ามท้องมาจากการกิน ไม่ใช่แค่เข้าฟิตเนส",
+      "cefr": "B2",
+      "note_th": "ย่อจาก abdominal muscles — six-pack คือกล้ามท้องที่เห็นชัดหกลอน",
+      "distractors": [
+        "arms",
+        "ribs",
+        "apps"
+      ]
+    },
+    {
+      "id": "posture",
+      "word": "posture",
+      "pos": "noun",
+      "ipa": "/ˈpɒstʃə/",
+      "reading_th": "พอส-เชอร์",
+      "meaning_th": "ท่าทางการวางตัวของร่างกาย",
+      "emoji": "🪑",
+      "example_en": "Bad posture causes back pain.",
+      "example_th": "ท่านั่งที่ไม่ดีทำให้ปวดหลัง",
+      "cefr": "B2",
+      "note_th": "นั่งทำงานนาน ๆ ฝรั่งเตือนเรื่อง text neck = คอยื่นจากการก้มมือถือ",
+      "distractors": [
+        "posture pillow",
+        "pasture",
+        "picture"
+      ]
+    },
+    {
+      "id": "cramp",
+      "word": "cramp",
+      "pos": "noun",
+      "ipa": "/kræmp/",
+      "reading_th": "แครมพ์",
+      "meaning_th": "ตะคริว",
+      "emoji": "😖",
+      "example_en": "I got a cramp in my calf.",
+      "example_th": "ฉันเป็นตะคริวที่น่อง",
+      "cefr": "B2",
+      "note_th": "ดื่มน้ำให้พอและยืดกล้ามเนื้อช่วยลดโอกาสเป็นตะคริว",
+      "distractors": [
+        "clamp",
+        "camp",
+        "crab"
+      ]
+    },
+    {
+      "id": "sore",
+      "word": "sore",
+      "pos": "adjective",
+      "ipa": "/sɔː/",
+      "reading_th": "ซอร์",
+      "meaning_th": "ปวดระบมจากการใช้งานหนัก",
+      "emoji": "🥴",
+      "example_en": "My legs are sore from yesterday.",
+      "example_th": "ขาฉันระบมจากเมื่อวาน",
+      "cefr": "B1",
+      "note_th": "อาการปวดหลังออกกำลังวันถัดมาฝรั่งเรียก DOMS",
+      "distractors": [
+        "sour",
+        "sort",
+        "snore"
+      ]
+    },
+    {
+      "id": "twisted_ankle",
+      "word": "twisted ankle",
+      "pos": "noun",
+      "ipa": "/ˈtwɪstɪd ˈæŋkl/",
+      "reading_th": "ทวิส-ทิด-แอง-เคิล",
+      "meaning_th": "ข้อเท้าพลิก",
+      "emoji": "🦶",
+      "example_en": "He left the game with a twisted ankle.",
+      "example_th": "เขาออกจากสนามเพราะข้อเท้าพลิก",
+      "cefr": "B1",
+      "note_th": "อาการหนักกว่านี้คือ sprain ที่เอ็นฉีก ส่วน fracture คือกระดูกหัก",
+      "distractors": [
+        "twisted arm",
+        "broken ankle",
+        "ankle band"
+      ]
+    },
+    {
+      "id": "stamina",
+      "word": "stamina",
+      "pos": "noun",
+      "ipa": "/ˈstæmɪnə/",
+      "reading_th": "สแตม-มิ-นา",
+      "meaning_th": "ความอึดในระยะยาว",
+      "emoji": "🔋",
+      "example_en": "Swimming builds stamina fast.",
+      "example_th": "ว่ายน้ำช่วยสร้างความอึดได้เร็ว",
+      "cefr": "B2",
+      "note_th": "ถ้าพูดถึงพลังงานช่วงสั้น ๆ ใช้ energy ส่วนความอึดยาว ๆ ใช้ stamina",
+      "distractors": [
+        "stamp",
+        "stadium",
+        "vitamin"
+      ]
+    },
+    {
+      "id": "endurance",
+      "word": "endurance",
+      "pos": "noun",
+      "ipa": "/ɪnˈdjʊərəns/",
+      "reading_th": "อิน-ดิว-เริน-ซ์",
+      "meaning_th": "ความทนทานต่อการออกแรงนาน ๆ",
+      "emoji": "🚴‍♂️",
+      "example_en": "Marathon runners need endurance.",
+      "example_th": "นักวิ่งมาราธอนต้องมีความทนทาน",
+      "cefr": "B2",
+      "note_th": "มาจากกริยา endure = ทนทาน — คล้าย stamina แต่เน้นการทนได้นาน",
+      "distractors": [
+        "insurance",
+        "entrance",
+        "assurance"
+      ]
+    },
+    {
+      "id": "flexibility",
+      "word": "flexibility",
+      "pos": "noun",
+      "ipa": "/ˌfleksəˈbɪləti/",
+      "reading_th": "เฟล็ก-สิ-บิ-ลิ-ที",
+      "meaning_th": "ความยืดหยุ่นของร่างกาย",
+      "emoji": "🤸‍♀️",
+      "example_en": "Yoga improves flexibility.",
+      "example_th": "โยคะช่วยเพิ่มความยืดหยุ่นของร่างกาย",
+      "cefr": "B2",
+      "note_th": "ใช้กับคนที่ยืดหยุ่นเรื่องเวลาได้ด้วย เช่น work flexibility",
+      "distractors": [
+        "visibility",
+        "possibility",
+        "reliability"
+      ]
+    },
+    {
+      "id": "recovery",
+      "word": "recovery",
+      "pos": "noun",
+      "ipa": "/rɪˈkʌvəri/",
+      "reading_th": "ริ-คัฟ-เวอ-รี",
+      "meaning_th": "ช่วงพักฟื้นให้ร่างกายกลับมาพร้อม",
+      "emoji": "😴",
+      "example_en": "Sleep is the best recovery tool.",
+      "example_th": "การนอนคือเครื่องมือพักฟื้นที่ดีที่สุด",
+      "cefr": "B2",
+      "note_th": "rest day = วันพักที่ไม่ออกกำลัง ซึ่งจำเป็นพอ ๆ กับวันซ้อม",
+      "distractors": [
+        "discovery",
+        "delivery",
+        "refinery"
+      ]
+    },
+    {
+      "id": "shin_guard",
+      "word": "shin guard",
+      "pos": "noun",
+      "ipa": "/ʃɪn ɡɑːd/",
+      "reading_th": "ชิน-การ์ด",
+      "meaning_th": "สนับแข้ง",
+      "emoji": "🦵",
+      "example_en": "Footballers must wear shin guards.",
+      "example_th": "นักฟุตบอลต้องใส่สนับแข้ง",
+      "cefr": "B2",
+      "note_th": "shin คือหน้าแข้ง ส่วน calf คือน่องด้านหลัง",
+      "distractors": [
+        "shin bone",
+        "arm guard",
+        "life guard"
+      ]
+    },
+    {
+      "id": "knee_pad",
+      "word": "knee pad",
+      "pos": "noun",
+      "ipa": "/niː pæd/",
+      "reading_th": "นี-แพด",
+      "meaning_th": "สนับเข่า",
+      "emoji": "🛡️",
+      "example_en": "Volleyball players wear knee pads.",
+      "example_th": "นักวอลเลย์บอลใส่สนับเข่า",
+      "cefr": "B1",
+      "note_th": "ตัว k ใน knee ไม่ออกเสียง เหมือน knife และ know",
+      "distractors": [
+        "key pad",
+        "note pad",
+        "elbow pad"
+      ]
+    },
+    {
+      "id": "mouthguard",
+      "word": "mouthguard",
+      "pos": "noun",
+      "ipa": "/ˈmaʊθɡɑːd/",
+      "reading_th": "เมาธ์-การ์ด",
+      "meaning_th": "ฟันยางกันกระแทก",
+      "emoji": "🦷",
+      "example_en": "Boxers train with a mouthguard.",
+      "example_th": "นักมวยซ้อมโดยใส่ฟันยาง",
+      "cefr": "B2",
+      "note_th": "ทันตแพทย์เรียกแบบสั่งทำว่า custom mouthguard",
+      "distractors": [
+        "mouthwash",
+        "body guard",
+        "mouth piece"
+      ]
+    },
+    {
+      "id": "protein",
+      "word": "protein",
+      "pos": "noun",
+      "ipa": "/ˈprəʊtiːn/",
+      "reading_th": "โพร-ทีน",
+      "meaning_th": "โปรตีน",
+      "emoji": "🍗",
+      "example_en": "Eat protein after a workout.",
+      "example_th": "กินโปรตีนหลังออกกำลังกาย",
+      "cefr": "B1",
+      "note_th": "ออกเสียงสองพยางค์ โพร-ทีน ไม่ใช่ โพร-เท-อิน",
+      "distractors": [
+        "protest",
+        "portion",
+        "protection"
+      ]
+    },
+    {
+      "id": "carbs",
+      "word": "carbs",
+      "pos": "noun",
+      "ipa": "/kɑːbz/",
+      "reading_th": "คาร์บส์",
+      "meaning_th": "คาร์โบไฮเดรต",
+      "emoji": "🍚",
+      "example_en": "Rice and noodles are carbs.",
+      "example_th": "ข้าวและเส้นคือคาร์โบไฮเดรต",
+      "cefr": "B1",
+      "note_th": "ย่อจาก carbohydrates — low-carb diet คือการกินแบบลดแป้ง",
+      "distractors": [
+        "cabs",
+        "curbs",
+        "crabs"
+      ]
+    },
+    {
+      "id": "supplement",
+      "word": "supplement",
+      "pos": "noun",
+      "ipa": "/ˈsʌplɪmənt/",
+      "reading_th": "ซัพ-พลิ-เมินท์",
+      "meaning_th": "อาหารเสริม",
+      "emoji": "💊",
+      "example_en": "He takes a vitamin supplement daily.",
+      "example_th": "เขากินวิตามินเสริมทุกวัน",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาแปลว่าเสริมเพิ่มได้ด้วย เช่น supplement your income",
+      "distractors": [
+        "settlement",
+        "compliment",
+        "equipment"
+      ]
+    },
+    {
+      "id": "hydrate",
+      "word": "hydrate",
+      "pos": "verb",
+      "ipa": "/ˈhaɪdreɪt/",
+      "reading_th": "ไฮ-เดรท",
+      "meaning_th": "เติมน้ำให้ร่างกาย",
+      "emoji": "🚰",
+      "example_en": "Hydrate before you feel thirsty.",
+      "example_th": "ดื่มน้ำก่อนจะรู้สึกกระหาย",
+      "cefr": "B2",
+      "note_th": "dehydrated = ขาดน้ำ ซึ่งเป็นอาการที่พบบ่อยในอากาศร้อนแบบบ้านเรา",
+      "distractors": [
+        "hibernate",
+        "hydrant",
+        "migrate"
+      ]
+    },
+    {
+      "id": "sports_drink",
+      "word": "sports drink",
+      "pos": "noun",
+      "ipa": "/spɔːts drɪŋk/",
+      "reading_th": "สปอร์ทส์-ดริงค์",
+      "meaning_th": "เครื่องดื่มเกลือแร่",
+      "emoji": "🥤",
+      "example_en": "A sports drink replaces lost salt.",
+      "example_th": "เครื่องดื่มเกลือแร่ช่วยทดแทนเกลือที่เสียไป",
+      "cefr": "B1",
+      "note_th": "ต่างจาก energy drink ที่เน้นคาเฟอีนและน้ำตาลมากกว่า",
+      "distractors": [
+        "soft drink",
+        "energy bar",
+        "sport shoes"
+      ]
+    },
+    {
+      "id": "metabolism",
+      "word": "metabolism",
+      "pos": "noun",
+      "ipa": "/məˈtæbəlɪzəm/",
+      "reading_th": "เมอ-แทบ-โบ-ลิ-เซิม",
+      "meaning_th": "ระบบเผาผลาญของร่างกาย",
+      "emoji": "🔥",
+      "example_en": "Muscle raises your metabolism.",
+      "example_th": "กล้ามเนื้อช่วยเพิ่มการเผาผลาญ",
+      "cefr": "B2",
+      "note_th": "คนเผาผลาญเร็วฝรั่งพูดว่า a fast metabolism",
+      "distractors": [
+        "mechanism",
+        "metropolis",
+        "meteorology"
+      ]
+    },
+    {
+      "id": "body_fat",
+      "word": "body fat",
+      "pos": "noun",
+      "ipa": "/ˈbɒdi fæt/",
+      "reading_th": "บอ-ดี-แฟท",
+      "meaning_th": "ไขมันในร่างกาย",
+      "emoji": "📊",
+      "example_en": "His body fat dropped to twelve percent.",
+      "example_th": "ไขมันในร่างกายของเขาลดเหลือสิบสองเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "วัดเป็นเปอร์เซ็นต์เรียก body fat percentage",
+      "distractors": [
+        "body language",
+        "belly fat",
+        "body weight"
+      ]
+    },
+    {
+      "id": "lean",
+      "word": "lean",
+      "pos": "adjective",
+      "ipa": "/liːn/",
+      "reading_th": "ลีน",
+      "meaning_th": "ผอมแบบมีกล้าม ไขมันน้อย",
+      "emoji": "🏃‍♂️",
+      "example_en": "Chicken breast is a lean protein.",
+      "example_th": "อกไก่เป็นโปรตีนไขมันต่ำ",
+      "cefr": "B2",
+      "note_th": "เป็นกริยาแปลว่าเอนหรือพิงได้ด้วย เช่น lean on the wall",
+      "distractors": [
+        "learn",
+        "line",
+        "clean"
+      ]
+    },
+    {
+      "id": "bulk_up",
+      "word": "bulk up",
+      "pos": "verb",
+      "ipa": "/bʌlk ʌp/",
+      "reading_th": "บัลค์-อัพ",
+      "meaning_th": "เพิ่มน้ำหนักและกล้ามเนื้อ",
+      "emoji": "🍖",
+      "example_en": "He wants to bulk up before the season.",
+      "example_th": "เขาอยากเพิ่มกล้ามก่อนเปิดฤดูกาล",
+      "cefr": "B2",
+      "note_th": "ตรงข้ามคือ cut ที่แปลว่าลดไขมันให้เห็นกล้ามชัดขึ้น",
+      "distractors": [
+        "back up",
+        "build in",
+        "bulk buy"
+      ]
+    },
+    {
+      "id": "burn_calories",
+      "word": "burn calories",
+      "pos": "verb",
+      "ipa": "/bɜːn ˈkæləriz/",
+      "reading_th": "เบิร์น-แค-ลอ-รีส์",
+      "meaning_th": "เผาผลาญแคลอรี",
+      "emoji": "🔥",
+      "example_en": "Walking fast burns calories too.",
+      "example_th": "เดินเร็วก็เผาผลาญแคลอรีได้เหมือนกัน",
+      "cefr": "B1",
+      "note_th": "แคลอรีที่ร่างกายใช้ตอนอยู่เฉย ๆ เรียก BMR",
+      "distractors": [
+        "count calories",
+        "burn out",
+        "earn credit"
+      ]
+    },
+    {
+      "id": "locker_room",
+      "word": "locker room",
+      "pos": "noun",
+      "ipa": "/ˈlɒkə ruːm/",
+      "reading_th": "ล็อก-เกอร์-รูม",
+      "meaning_th": "ห้องเก็บของและเปลี่ยนเสื้อผ้า",
+      "emoji": "🚪",
+      "example_en": "Leave your bag in the locker room.",
+      "example_th": "ฝากกระเป๋าไว้ในห้องล็อกเกอร์",
+      "cefr": "B1",
+      "note_th": "อังกฤษเรียก changing room ส่วน locker room เป็นอเมริกัน",
+      "distractors": [
+        "living room",
+        "lock door",
+        "luggage room"
+      ]
+    },
+    {
+      "id": "sprint",
+      "word": "sprint",
+      "pos": "verb",
+      "ipa": "/sprɪnt/",
+      "reading_th": "สปรินท์",
+      "meaning_th": "วิ่งเร็วสุดแรงในระยะสั้น",
+      "emoji": "💨",
+      "example_en": "Sprint for twenty seconds, then walk.",
+      "example_th": "วิ่งเร็วยี่สิบวินาที แล้วเดิน",
+      "cefr": "B2",
+      "note_th": "ในการทำงานแบบ agile ก็ยืมคำนี้มาใช้เรียกรอบทำงานสั้น ๆ",
+      "distractors": [
+        "sprinkle",
+        "print",
+        "spring"
+      ]
+    },
+    {
+      "id": "lap",
+      "word": "lap",
+      "pos": "noun",
+      "ipa": "/læp/",
+      "reading_th": "แล็พ",
+      "meaning_th": "รอบสนามหรือรอบสระ",
+      "emoji": "🔄",
+      "example_en": "Swim ten laps before you stop.",
+      "example_th": "ว่ายให้ครบสิบรอบก่อนพัก",
+      "cefr": "B1",
+      "note_th": "แปลว่าตักได้ด้วย เช่น sit on my lap = นั่งบนตัก",
+      "distractors": [
+        "lamp",
+        "leap",
+        "laptop"
+      ]
+    },
+    {
+      "id": "finish_line",
+      "word": "finish line",
+      "pos": "noun",
+      "ipa": "/ˈfɪnɪʃ laɪn/",
+      "reading_th": "ฟิน-นิช-ไลน์",
+      "meaning_th": "เส้นชัย",
+      "emoji": "🏁",
+      "example_en": "She crossed the finish line first.",
+      "example_th": "เธอเข้าเส้นชัยเป็นคนแรก",
+      "cefr": "B1",
+      "note_th": "สำนวน cross the finish line = ทำสิ่งที่ยากจนสำเร็จ",
+      "distractors": [
+        "front line",
+        "finish time",
+        "final line"
+      ]
+    },
+    {
+      "id": "coach",
+      "word": "coach",
+      "pos": "noun",
+      "ipa": "/kəʊtʃ/",
+      "reading_th": "โค้ช",
+      "meaning_th": "ผู้ฝึกสอน",
+      "emoji": "📋",
+      "example_en": "The coach changed the plan at halftime.",
+      "example_th": "โค้ชเปลี่ยนแผนตอนพักครึ่ง",
+      "cefr": "A2",
+      "note_th": "ในอังกฤษ coach ยังแปลว่ารถบัสระหว่างเมืองด้วย",
+      "distractors": [
+        "couch",
+        "cockroach",
+        "catch"
+      ]
+    },
+    {
+      "id": "captain",
+      "word": "captain",
+      "pos": "noun",
+      "ipa": "/ˈkæptɪn/",
+      "reading_th": "แคพ-เทิน",
+      "meaning_th": "กัปตันทีม",
+      "emoji": "🎖️",
+      "example_en": "The captain wears the armband.",
+      "example_th": "กัปตันทีมใส่ปลอกแขน",
+      "cefr": "A2",
+      "note_th": "กัปตันเครื่องบินและเรือก็ใช้คำเดียวกัน",
+      "distractors": [
+        "caption",
+        "capital",
+        "curtain"
+      ]
+    },
+    {
+      "id": "striker",
+      "word": "striker",
+      "pos": "noun",
+      "ipa": "/ˈstraɪkə/",
+      "reading_th": "สไตร-เกอร์",
+      "meaning_th": "กองหน้า",
+      "emoji": "⚽",
+      "example_en": "Their striker scored twice.",
+      "example_th": "กองหน้าของพวกเขายิงสองประตู",
+      "cefr": "B1",
+      "note_th": "ตำแหน่งใกล้กันคือ forward และ winger ที่เล่นริมเส้น",
+      "distractors": [
+        "sticker",
+        "stroller",
+        "stranger"
+      ]
+    },
+    {
+      "id": "goalkeeper",
+      "word": "goalkeeper",
+      "pos": "noun",
+      "ipa": "/ˈɡəʊlkiːpə/",
+      "reading_th": "โกล-คี-เพอร์",
+      "meaning_th": "ผู้รักษาประตู",
+      "emoji": "🧤",
+      "example_en": "The goalkeeper saved the penalty.",
+      "example_th": "ผู้รักษาประตูเซฟลูกจุดโทษไว้ได้",
+      "cefr": "B1",
+      "note_th": "เรียกสั้น ๆ ว่า keeper หรือ goalie",
+      "distractors": [
+        "gatekeeper",
+        "housekeeper",
+        "goal line"
+      ]
+    },
+    {
+      "id": "defender",
+      "word": "defender",
+      "pos": "noun",
+      "ipa": "/dɪˈfendə/",
+      "reading_th": "ดิ-เฟน-เดอร์",
+      "meaning_th": "กองหลัง",
+      "emoji": "🛡️",
+      "example_en": "A tall defender blocked the shot.",
+      "example_th": "กองหลังตัวสูงบล็อกลูกยิงไว้ได้",
+      "cefr": "B1",
+      "note_th": "กองหลังตัวกลางเรียก centre-back ตัวริมเรียก full-back",
+      "distractors": [
+        "depender",
+        "defeated",
+        "descender"
+      ]
+    },
+    {
+      "id": "midfielder",
+      "word": "midfielder",
+      "pos": "noun",
+      "ipa": "/ˈmɪdfiːldə/",
+      "reading_th": "มิด-ฟีล-เดอร์",
+      "meaning_th": "กองกลาง",
+      "emoji": "🎯",
+      "example_en": "The midfielder passed it perfectly.",
+      "example_th": "กองกลางจ่ายบอลได้สมบูรณ์แบบ",
+      "cefr": "B1",
+      "note_th": "กองกลางตัวรับเรียก defensive midfielder ย่อว่า DM",
+      "distractors": [
+        "outfielder",
+        "middle finger",
+        "mid season"
+      ]
+    },
+    {
+      "id": "substitute",
+      "word": "substitute",
+      "pos": "noun",
+      "ipa": "/ˈsʌbstɪtjuːt/",
+      "reading_th": "ซับ-สติ-ทิวท์",
+      "meaning_th": "ตัวสำรองที่ลงเปลี่ยน",
+      "emoji": "🔁",
+      "example_en": "The substitute scored in the last minute.",
+      "example_th": "ตัวสำรองยิงประตูนาทีสุดท้าย",
+      "cefr": "B2",
+      "note_th": "เรียกสั้นว่า sub ได้ และใช้กับการแทนที่สิ่งของได้ด้วย",
+      "distractors": [
+        "substance",
+        "subscribe",
+        "institute"
+      ]
+    },
+    {
+      "id": "starting_eleven",
+      "word": "starting eleven",
+      "pos": "noun",
+      "ipa": "/ˈstɑːtɪŋ ɪˈlevn/",
+      "reading_th": "สตาร์ท-ติง-อิ-เลฟ-เวิน",
+      "meaning_th": "สิบเอ็ดตัวจริงที่ลงสนาม",
+      "emoji": "📝",
+      "example_en": "He is back in the starting eleven.",
+      "example_th": "เขากลับมาอยู่ในสิบเอ็ดตัวจริงแล้ว",
+      "cefr": "B2",
+      "note_th": "กีฬาอื่นพูดว่า starting lineup ซึ่งใช้ได้ทั่วไปกว่า",
+      "distractors": [
+        "starting point",
+        "lucky eleven",
+        "final eleven"
+      ]
+    },
+    {
+      "id": "jersey",
+      "word": "jersey",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːzi/",
+      "reading_th": "เจอร์-ซี",
+      "meaning_th": "เสื้อแข่งของทีม",
+      "emoji": "👕",
+      "example_en": "I bought a jersey with his number.",
+      "example_th": "ฉันซื้อเสื้อแข่งที่มีเบอร์ของเขา",
+      "cefr": "B1",
+      "note_th": "อังกฤษเรียก kit หรือ shirt ส่วนอเมริกันใช้ jersey",
+      "distractors": [
+        "journey",
+        "jury",
+        "jockey"
+      ]
+    },
+    {
+      "id": "cheer",
+      "word": "cheer",
+      "pos": "verb",
+      "ipa": "/tʃɪə/",
+      "reading_th": "เชียร์",
+      "meaning_th": "ส่งเสียงเชียร์",
+      "emoji": "📣",
+      "example_en": "We cheer for the home team.",
+      "example_th": "เราเชียร์ทีมเจ้าบ้าน",
+      "cefr": "A2",
+      "note_th": "cheer someone up = ปลอบใจให้ร่าเริงขึ้น คนละความหมาย",
+      "distractors": [
+        "chair",
+        "cheap",
+        "chef"
+      ]
+    },
+    {
+      "id": "rival",
+      "word": "rival",
+      "pos": "noun",
+      "ipa": "/ˈraɪvl/",
+      "reading_th": "ไร-เวิล",
+      "meaning_th": "คู่แข่งคู่ปรับ",
+      "emoji": "😤",
+      "example_en": "They play their biggest rival on Sunday.",
+      "example_th": "วันอาทิตย์พวกเขาเจอคู่ปรับตัวฉกาจ",
+      "cefr": "B2",
+      "note_th": "เกมที่เจอคู่ปรับเรียก derby ซึ่งแฟนบอลรอทั้งปี",
+      "distractors": [
+        "river",
+        "revival",
+        "arrival"
+      ]
+    },
+    {
+      "id": "league",
+      "word": "league",
+      "pos": "noun",
+      "ipa": "/liːɡ/",
+      "reading_th": "ลีก",
+      "meaning_th": "ลีกการแข่งขัน",
+      "emoji": "🗂️",
+      "example_en": "They finished third in the league.",
+      "example_th": "พวกเขาจบอันดับสามของลีก",
+      "cefr": "B1",
+      "note_th": "ออกเสียง ลีก ไม่ใช่ เลก — สำนวน out of my league = เกินเอื้อม",
+      "distractors": [
+        "legal",
+        "leak",
+        "ledge"
+      ]
+    },
+    {
+      "id": "playoff",
+      "word": "playoff",
+      "pos": "noun",
+      "ipa": "/ˈpleɪɒf/",
+      "reading_th": "เพลย์-ออฟ",
+      "meaning_th": "รอบตัดเชือกหาผู้ชนะ",
+      "emoji": "🎫",
+      "example_en": "One more win and we reach the playoff.",
+      "example_th": "ชนะอีกนัดเดียวเราก็เข้ารอบเพลย์ออฟ",
+      "cefr": "B2",
+      "note_th": "ลีกไทยและอังกฤษใช้คำนี้เหมือนกัน ไม่ต้องแปล",
+      "distractors": [
+        "play list",
+        "kick off",
+        "pay off"
+      ]
+    },
+    {
+      "id": "semifinal",
+      "word": "semifinal",
+      "pos": "noun",
+      "ipa": "/ˌsemiˈfaɪnl/",
+      "reading_th": "เซ-มิ-ไฟ-เนิล",
+      "meaning_th": "รอบรองชนะเลิศ",
+      "emoji": "4️⃣",
+      "example_en": "Four teams are left in the semifinal.",
+      "example_th": "เหลือสี่ทีมในรอบรองชนะเลิศ",
+      "cefr": "B1",
+      "note_th": "semi- แปลว่าครึ่ง ส่วนรอบก่อนรองคือ quarterfinal",
+      "distractors": [
+        "seminar",
+        "semicolon",
+        "final round"
+      ]
+    },
+    {
+      "id": "trophy",
+      "word": "trophy",
+      "pos": "noun",
+      "ipa": "/ˈtrəʊfi/",
+      "reading_th": "โทร-ฟี",
+      "meaning_th": "ถ้วยรางวัล",
+      "emoji": "🏆",
+      "example_en": "The captain lifted the trophy.",
+      "example_th": "กัปตันทีมชูถ้วยรางวัล",
+      "cefr": "B1",
+      "note_th": "สำนวน trophy cabinet = ตู้โชว์ถ้วยรางวัลของสโมสร",
+      "distractors": [
+        "trolley",
+        "atrophy",
+        "topic"
+      ]
+    },
+    {
+      "id": "medal",
+      "word": "medal",
+      "pos": "noun",
+      "ipa": "/ˈmedl/",
+      "reading_th": "เมด-เดิล",
+      "meaning_th": "เหรียญรางวัล",
+      "emoji": "🥇",
+      "example_en": "She won a gold medal in Tokyo.",
+      "example_th": "เธอได้เหรียญทองที่โตเกียว",
+      "cefr": "A2",
+      "note_th": "อย่าสับสนกับ metal (โลหะ) ที่ออกเสียงคล้ายกันมาก",
+      "distractors": [
+        "metal",
+        "model",
+        "meddle"
+      ]
+    },
+    {
+      "id": "runner_up",
+      "word": "runner-up",
+      "pos": "noun",
+      "ipa": "/ˌrʌnər ˈʌp/",
+      "reading_th": "รัน-เนอร์-อัพ",
+      "meaning_th": "ผู้ได้ที่สอง",
+      "emoji": "🥈",
+      "example_en": "The runner-up still gets a medal.",
+      "example_th": "ผู้ได้ที่สองก็ยังได้เหรียญ",
+      "cefr": "B2",
+      "note_th": "พหูพจน์คือ runners-up เติม s ที่คำแรก",
+      "distractors": [
+        "running up",
+        "warm up",
+        "round up"
+      ]
+    },
+    {
+      "id": "underdog",
+      "word": "underdog",
+      "pos": "noun",
+      "ipa": "/ˈʌndədɒɡ/",
+      "reading_th": "อัน-เดอร์-ด็อก",
+      "meaning_th": "ทีมรองบ่อนที่ถูกมองว่าจะแพ้",
+      "emoji": "🐕",
+      "example_en": "Everyone loves an underdog story.",
+      "example_th": "ใคร ๆ ก็ชอบเรื่องราวของทีมรองบ่อน",
+      "cefr": "B2",
+      "note_th": "ตรงข้ามคือ favourite ที่แปลว่าทีมเต็งชนะ",
+      "distractors": [
+        "underground",
+        "hot dog",
+        "underwear"
+      ]
+    },
+    {
+      "id": "draw",
+      "word": "draw",
+      "pos": "noun",
+      "ipa": "/drɔː/",
+      "reading_th": "ดรอว์",
+      "meaning_th": "ผลเสมอ",
+      "emoji": "🤝",
+      "example_en": "The match ended in a draw.",
+      "example_th": "การแข่งขันจบลงด้วยผลเสมอ",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก tie — ส่วน draw ที่แปลว่าวาดรูปเป็นคนละความหมาย",
+      "distractors": [
+        "drawer",
+        "drop",
+        "dry"
+      ]
+    },
+    {
+      "id": "rematch",
+      "word": "rematch",
+      "pos": "noun",
+      "ipa": "/ˈriːmætʃ/",
+      "reading_th": "รี-แมทช์",
+      "meaning_th": "การแข่งซ้ำอีกครั้ง",
+      "emoji": "🔂",
+      "example_en": "They want a rematch next month.",
+      "example_th": "พวกเขาอยากแข่งใหม่เดือนหน้า",
+      "cefr": "B2",
+      "note_th": "re- แปลว่าทำอีกครั้ง เหมือน replay และ rerun",
+      "distractors": [
+        "remark",
+        "research",
+        "remote"
+      ]
+    },
+    {
+      "id": "win_streak",
+      "word": "win streak",
+      "pos": "noun",
+      "ipa": "/wɪn striːk/",
+      "reading_th": "วิน-สตรีค",
+      "meaning_th": "สถิติชนะติดต่อกัน",
+      "emoji": "📈",
+      "example_en": "Their win streak reached eight games.",
+      "example_th": "สถิติชนะติดต่อกันของพวกเขาไปถึงแปดนัด",
+      "cefr": "B2",
+      "note_th": "streak คำเดียวกับสตรีคเรียนต่อเนื่องใน JUNYPOP นั่นเอง",
+      "distractors": [
+        "win rate",
+        "lose streak",
+        "wind break"
+      ]
+    },
+    {
+      "id": "match_point",
+      "word": "match point",
+      "pos": "noun",
+      "ipa": "/mætʃ pɔɪnt/",
+      "reading_th": "แมทช์-พอยท์",
+      "meaning_th": "แต้มชี้ขาดที่ถ้าได้จะชนะทันที",
+      "emoji": "❗",
+      "example_en": "She saved three match points.",
+      "example_th": "เธอแก้แต้มชี้ขาดได้สามครั้ง",
+      "cefr": "B2",
+      "note_th": "ในวอลเลย์บอลเรียก set point เมื่อเป็นแต้มปิดเซ็ต",
+      "distractors": [
+        "meeting point",
+        "match box",
+        "main point"
+      ]
+    },
+    {
+      "id": "ace",
+      "word": "ace",
+      "pos": "noun",
+      "ipa": "/eɪs/",
+      "reading_th": "เอซ",
+      "meaning_th": "ลูกเสิร์ฟที่คู่แข่งรับไม่ได้เลย",
+      "emoji": "🎾",
+      "example_en": "He served three aces in a row.",
+      "example_th": "เขาเสิร์ฟเอซสามลูกติด",
+      "cefr": "B2",
+      "note_th": "ใช้ชมคนเก่งได้ด้วย เช่น She is an ace at maths",
+      "distractors": [
+        "age",
+        "case",
+        "face"
+      ]
+    },
+    {
+      "id": "smash",
+      "word": "smash",
+      "pos": "verb",
+      "ipa": "/smæʃ/",
+      "reading_th": "สแมช",
+      "meaning_th": "ตบลูกแรง ๆ ลงพื้นสนาม",
+      "emoji": "💥",
+      "example_en": "She smashed the shuttlecock down the line.",
+      "example_th": "เธอตบลูกขนไก่ลงเส้นข้าง",
+      "cefr": "B2",
+      "note_th": "แปลว่าทุบให้แตกได้ด้วย และ smash hit = ผลงานที่ดังเปรี้ยง",
+      "distractors": [
+        "smart",
+        "splash",
+        "smooth"
+      ]
+    },
+    {
+      "id": "dribble",
+      "word": "dribble",
+      "pos": "verb",
+      "ipa": "/ˈdrɪbl/",
+      "reading_th": "ดริบ-เบิล",
+      "meaning_th": "เลี้ยงลูกบอล",
+      "emoji": "⛹️",
+      "example_en": "He can dribble past two defenders.",
+      "example_th": "เขาเลี้ยงบอลผ่านกองหลังสองคนได้",
+      "cefr": "B2",
+      "note_th": "ใช้ได้ทั้งฟุตบอลและบาสเกตบอล แต่ลักษณะการเลี้ยงต่างกัน",
+      "distractors": [
+        "drizzle",
+        "double",
+        "dribbles out"
+      ]
+    },
+    {
+      "id": "rebound",
+      "word": "rebound",
+      "pos": "noun",
+      "ipa": "/ˈriːbaʊnd/",
+      "reading_th": "รี-บาวด์",
+      "meaning_th": "ลูกกระดอนกลับหลังยิงไม่ลง",
+      "emoji": "🏀",
+      "example_en": "He grabbed the rebound and scored.",
+      "example_th": "เขาเก็บลูกกระดอนแล้วทำแต้ม",
+      "cefr": "B2",
+      "note_th": "ในเรื่องความรัก on the rebound แปลว่าคบใหม่ทันทีหลังอกหัก",
+      "distractors": [
+        "refund",
+        "rewind",
+        "rebuild"
+      ]
+    },
+    {
+      "id": "starting_line",
+      "word": "starting line",
+      "pos": "noun",
+      "ipa": "/ˈstɑːtɪŋ laɪn/",
+      "reading_th": "สตาร์ท-ติง-ไลน์",
+      "meaning_th": "เส้นเริ่มต้นการแข่ง",
+      "emoji": "🚦",
+      "example_en": "Runners lined up at the starting line.",
+      "example_th": "นักวิ่งเข้าแถวที่เส้นเริ่มต้น",
+      "cefr": "B1",
+      "note_th": "ในลู่วิ่งเรียกจุดเริ่มว่า starting blocks ที่ใช้ถีบตัวออก",
+      "distractors": [
+        "finish line",
+        "start button",
+        "straight line"
+      ]
+    },
+    {
+      "id": "referee_card",
+      "word": "referee card",
+      "pos": "noun",
+      "ipa": "/ˌrefəˈriː kɑːd/",
+      "reading_th": "เรฟ-เฟอ-รี-การ์ด",
+      "meaning_th": "ใบเหลืองใบแดงที่ผู้ตัดสินใช้",
+      "emoji": "🟨",
+      "example_en": "The referee card came out after the foul.",
+      "example_th": "ผู้ตัดสินควักใบเตือนหลังจังหวะฟาวล์",
+      "cefr": "B2",
+      "note_th": "yellow card = ใบเหลืองเตือน, red card = ใบแดงไล่ออกจากสนาม",
+      "distractors": [
+        "credit card",
+        "score card",
+        "report card"
+      ]
+    }
+  ]
+}
