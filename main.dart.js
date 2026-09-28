@@ -102906,7 +102906,7 @@ p.push(B.m6)
 p.push(A.Sh(!1,B.X,k,k,!0,k,k,k,!0,k,B.Np,k,k,k,k,new A.aI3(a),!1,k,k,k,k,B.ahC,k,B.ahw,B.rY,k))
 p.push(B.m6)
 i=i.ok.ax
-p.push(A.t("JUNYPOP v1.2.0",k,k,k,k,i==null?k:i.P(B.aw),k,k))
+p.push(A.t("JUNYPOP v1.2.1",k,k,k,k,i==null?k:i.P(B.aw),k,k))
 p.push(B.a0)
 p.push(A.aQv(B.Nk,B.ahM,l.gagQ()))
 return new A.eA(new A.ae(0,1/0,0,h.a.b*0.9),A.lM(A.aa(p,B.q,k,B.f,B.Q),new A.a0(20,16,20,20+g.f.d),!1),k)}}
@@ -105057,7 +105057,7 @@ l=e.d1(0)
 p=9
 f=$.bg().b
 f===$&&A.a()
-e=A.a_(["p_events",l,"p_platform",A.aRx(),"p_app_version","1.2.0"],h,g)
+e=A.a_(["p_events",l,"p_platform",A.aRx(),"p_app_version","1.2.1"],h,g)
 d=f.CW
 d===$&&A.a()
 d.b.I(0,A.j8(f.x,h,h))
@@ -106630,7 +106630,7 @@ else if(b1)c6="review"
 else c6=b2?"test":"lesson"
 c5.m(0,"kind",c6)
 c5.m(0,"platform",A.aRx())
-c5.m(0,"app_version","1.2.0")
+c5.m(0,"app_version","1.2.1")
 if(b9)c5.I(0,A.a_(["floor",b8.a,"season",c8.f.k2,"question_count",b8.d,"pass_count",b8.e,"passed",f],c3,c4))
 b8=b7==null
 c5.m(0,d0,b8?c9:b7.a)
@@ -106734,7 +106734,7 @@ n=m.f.at
 if(n!=null)o.m(0,"world",n)
 n=m.f.ax
 if(n!=null)o.m(0,"lesson",n)
-s.qu(A.a_(["kind","feedback","mood",a,"text",r,"source",b,"platform",q,"app_version","1.2.0","context",o],p,t.z))
+s.qu(A.a_(["kind","feedback","mood",a,"text",r,"source",b,"platform",q,"app_version","1.2.1","context",o],p,t.z))
 m.er()
 m.Y()
 return!0},
