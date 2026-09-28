@@ -94,45 +94,6 @@
     },
   });
 
-  // ------------------------------------------------------------------ โฆษณา
-  O.page('ads', {
-    title: 'โฆษณา', icon: 'ads', group: 'การตลาด', sub: 'Meta + Apple Ads · แผนปรับปรุงอยู่ในคำแนะนำของ Claude',
-    load: () => O.rpc('office_ads'),
-    render(d) {
-      const doc = d.doc || {}, ap = doc.apple || null, sets = doc.adsets || [];
-      const fx = (ap && ap.fx_rate_thb_per_usd) || 33.5;
-      const apMonth = ap ? (ap.spend_month_usd || 0) * fx : 0;
-      const month = (doc.spent_month || 0) + apMonth, cap = doc.monthly_cap || 10000;
-      let h = '<div class="note">ตอนนี้ตัวเลขโฆษณา<b>ซิงก์เมื่อ Claude รัน ads-sync / apple-sync</b> (Meta ล่าสุด ' + esc(fresh(doc.synced_at)) + ' · Apple ล่าสุด ' + esc(fresh(ap && ap.synced_at)) + ') · เฟส 2 จะซิงก์เองทุก 15 นาที' +
-        (O.me.role !== 'viewer' ? ' <button class="btn sm" data-enqueue="ads-sync + apple-sync (อัปเดตหน้าโฆษณา)">ขอซิงก์ตอนนี้</button>' : '') + '</div>';
-      h += card('งบเดือนนี้', '<div class="row"><span class="num" style="font-size:30px;font-weight:800">' + O.baht(month) + '</span><span class="muted">จากเพดาน ' + O.baht(cap) + '/เดือน</span><span class="grow"></span><span class="num">วันนี้ Meta ' + O.baht(doc.spend_today, 2) + '</span></div>' +
-        '<div class="meter' + (month > cap * 0.9 ? ' warn' : '') + '" style="margin-top:8px"><span style="width:' + Math.min(100, Math.max(1, (100 * month) / cap)) + '%"></span></div>' +
-        '<div class="small muted" style="margin-top:6px">Meta ' + O.baht(doc.spent_month, 2) + ' (นับเฉพาะแคมเปญชื่อ JUNYPOP… เพราะบัญชีใช้ร่วมกับธุรกิจอื่น) · Apple ≈' + O.baht(apMonth, 2) + ' (' + num(ap ? ap.spend_month_usd : 0, 2) + ' USD × ' + num(fx, 2) + ')</div>',
-      { right: chip('meta', fresh(doc.synced_at)) + ' ' + chip('apple', fresh(ap && ap.synced_at)) });
-
-      const byAd = d.db_by_ad || [];
-      const hasToday = sets.some((s) => s.spend_today != null);
-      h += card('Meta · ad set', sets.length ? '<div class="tablewrap"><table><thead><tr><th>ad set</th><th>สถานะ</th><th class="r">งบ</th><th class="r">วันนี้</th><th class="r">7 วันก่อนหน้า</th><th class="r">ผลลัพธ์ (pixel)</th><th class="r">CPA</th></tr></thead><tbody>' + sets.map((s) =>
-        '<tr><td><b>' + esc(s.name) + '</b><span class="sub">' + esc(s.campaign || '') + '</span></td><td>' + pill(s.status === 'active' ? 'ACTIVE' : 'PAUSED', s.status === 'active' ? 'good' : 'neutral') + '</td><td class="r num">' + (s.lifetime ? O.baht(s.lifetime) + ' ตลอด' : s.daily ? O.baht(s.daily) + '/วัน' : '—') + '</td><td class="r num">' + (s.spend_today == null ? '—' : O.baht(s.spend_today, 2)) + '</td><td class="r num">' + O.baht(s.spend7, 2) + '</td><td class="r num">' + num(s.conversions) + '</td><td class="r">' + (s.cpa == null ? '—' : pill(O.baht(s.cpa, 2), s.cpa <= 12 ? 'good' : 'crit')) + '</td></tr>').join('') + '</tbody></table></div>' +
-        '<div class="small muted" style="margin-top:6px">' + esc(doc.note || '') + ' · Meta นับ "7 วัน" ไม่รวมวันนี้' + (hasToday ? '' : ' (ยอดรายวันต่อ ad set ยังไม่มีในข้อมูลซิงก์ — รวมทั้งบัญชีวันนี้ ' + O.baht(doc.spend_today, 2) + ')') + ' · ผลลัพธ์ = conversion จาก pixel (เฉพาะผู้ยอมรับคุกกี้)</div>' : '<div class="empty">ยังไม่มีแคมเปญ JUNYPOP ที่รันอยู่</div>', { right: chip('meta', fresh(doc.synced_at)) });
-
-      h += card('ฐานข้อมูลเราเห็นอะไรจากแต่ละโฆษณา', byAd.length ? '<div class="tablewrap"><table><thead><tr><th>แคมเปญ (utm_campaign)</th><th>โฆษณา (utm_content)</th><th class="r">มาถึงเกม</th><th class="r">เล่น</th><th class="r">จบบทแรก</th><th class="r">เปิดบัญชี</th><th class="r">Plus</th></tr></thead><tbody>' +
-        byAd.map((r) => '<tr><td>' + esc(r.campaign) + '</td><td>' + esc(r.content || '—') + '</td><td class="r num">' + num(r.visitors) + '</td><td class="r num">' + num(r.played) + '</td><td class="r num">' + num(r.first_lessons) + '</td><td class="r num">' + num(r.signups) + '</td><td class="r num">' + num(r.plus) + '</td></tr>').join('') + '</tbody></table></div>' +
-        '<div class="small muted" style="margin-top:6px">นับจากลิงก์ที่มี utm ของเรา (first touch) · ไม่ขึ้นกับคุกกี้ · คนที่กดไป App Store จากหน้า /app/ จะไม่อยู่ในตารางนี้ (ดูฝั่ง App Store Connect ในเฟส 5)</div>' : '<div class="empty">ยังไม่มีผู้เล่นที่มาจากลิงก์ที่ติด utm</div>', { right: chip('db', 'สด') });
-
-      if (ap) {
-        const c = ap.campaign || {};
-        h += card('Apple Ads · ค้นหาใน App Store', c.id ? '<div class="tree"><div class="node"><div class="head"><span class="statusdot ' + (c.serving_status === 'RUNNING' ? '' : 'warn') + '"></span><span class="name">' + esc(c.name) + '</span>' + O.plat('ios') + pill(c.status || '—', 'neutral') + pill(c.serving_status || '—', c.serving_status === 'RUNNING' ? 'good' : 'warn') + pill('$' + num(c.daily_usd, 2) + '/วัน', 'money') + '</div>' +
-          (c.serving_reason ? '<div class="note" style="margin-top:8px">' + esc(ap.note || c.serving_reason) + '</div>' : '') + '</div>' +
-          (ap.adgroups || []).map((g) => '<div class="node adset"><div class="head"><span class="name">กลุ่มโฆษณา ' + esc(g.name) + '</span>' + pill(g.serving_status || g.status || '—', 'neutral') + (g.search_match ? pill('Search Match', 'neutral') : '') + pill('คีย์เวิร์ด ' + num(g.keyword_count), 'neutral') + '</div>' +
-            '<div class="kv"><div>ใช้ 7 วัน<b class="num">$' + num(g.spend7_usd, 2) + ' <span class="muted small">≈' + O.baht((g.spend7_usd || 0) * fx) + '</span></b></div><div>Impressions<b class="num">' + num(g.impressions7) + '</b></div><div>แตะ<b class="num">' + num(g.taps7) + '</b></div><div>ติดตั้ง (Apple นับ)<b class="num">' + num(g.installs7) + '</b></div><div>CPT<b class="num">' + (g.cpt_usd == null ? '—' : '$' + num(g.cpt_usd, 2)) + '</b></div><div>CPA<b class="num">' + (g.cpa_usd == null ? '—' : '$' + num(g.cpa_usd, 2)) + '</b></div><div>CPT สูงสุด<b class="num">$' + num(g.max_cpt_usd, 2) + '</b></div></div></div>').join('') + '</div>'
-          : '<div class="empty">ไม่มีแคมเปญ Apple Ads ชื่อ JUNYPOP…</div>', { lead: 'อัตรา ' + num(fx, 2) + ' ฿/$ · ' + (ap.fx_date || ''), right: chip('apple', fresh(ap.synced_at)) });
-      }
-      h += card('แผนปรับปรุงโฆษณา', O.soon('เฟส 2', 'แผนมีเวอร์ชัน (สมมติฐาน · สิ่งที่เรียนรู้ · ครีเอทีฟถัดไป · แผนงบ) พร้อมปุ่มอนุมัติ และกฎ guardrail ที่หยุดโฆษณาเองเมื่อใช้ ≥฿200 แล้ว 0 ผลลัพธ์ · ระหว่างนี้ข้อเสนอของ Claude อยู่ในการ์ด "Claude แนะนำ" หน้าภาพรวม'));
-      return h;
-    },
-  });
-
   // ------------------------------------------------------------------ App Store
   O.page('store', {
     title: 'App Store', icon: 'store', group: 'ผู้ใช้', sub: 'สิ่งที่รู้ตอนนี้ฝั่ง iOS · ข้อมูลจาก Apple โดยตรงมาในเฟส 5',

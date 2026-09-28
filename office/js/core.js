@@ -50,8 +50,8 @@
   // Sources: what each chip means (shown on tap) — docs/OFFICE_PLAN.html §3.
   const SRC = (O.SRC = {
     db: { label: 'ฐานข้อมูล', note: 'สิ่งที่เกมบันทึกจริงใน Supabase (ทุกแพลตฟอร์ม) · ไม่รวมบัญชีผู้ดูแลและบอท' },
-    meta: { label: 'Meta Ads', note: 'ตัวเลขจาก Meta Marketing API เฉพาะแคมเปญชื่อ JUNYPOP… · Meta รีเฟรชเองทุก ~15 นาที และแก้ conversion ย้อนหลังได้ 28 วัน · ตอนนี้ซิงก์เมื่อ Claude รัน ads-sync (อัตโนมัติในเฟส 2)' },
-    apple: { label: 'Apple Ads', note: 'โฆษณาค้นหาใน App Store · บัญชีเป็น USD แปลงเป็นบาทโดยประมาณ · ซิงก์เมื่อ Claude รัน apple-sync (อัตโนมัติในเฟส 2)' },
+    meta: { label: 'Meta Ads', note: 'ตัวเลขจาก Meta Marketing API เฉพาะแคมเปญชื่อ JUNYPOP… · Meta รีเฟรชเองทุก ~15 นาที และแก้ conversion ย้อนหลังได้ 28 วัน · ซิงก์อัตโนมัติทุก 15 นาที' },
+    apple: { label: 'Apple Ads', note: 'โฆษณาค้นหาใน App Store · บัญชีเป็น USD แปลงเป็นบาทโดยประมาณ · ซิงก์อัตโนมัติทุก 15 นาที' },
     iap: { label: 'Apple IAP', note: 'การซื้อ/ต่ออายุ/คืนเงิน JUNYPOP Plus บน iOS ที่ Apple แจ้งเข้าระบบเราทันที · Sandbox (ทดสอบ) ไม่นับ' },
     stripe: { label: 'Stripe', note: 'การซื้อ Plus บนเว็บ แจ้งเข้าระบบทันที' },
     ga4: { label: 'GA4 · เว็บ', note: 'Google Analytics นับเฉพาะผู้ที่กดยอมรับคุกกี้บนเว็บ · เชื่อมในเฟส 3' },

@@ -123,7 +123,10 @@
         '<div class="card"><div class="kv"><div>ชื่อในเกม<b>' + esc(pr.username || '—') + '</b></div><div>บัญชี<b>' + esc(METHOD[p.signup_method] || 'guest') + '</b></div><div>ที่มา<b>' + esc(srcLabel(p.source)) + '</b></div><div>เริ่มเล่น<b>' + esc(O.date(p.created_at, true)) + '</b></div>' +
         '<div>XP<b class="num">' + num(pr.xp) + '</b></div><div>เหรียญ<b class="num">' + num(pr.coins) + '</b></div><div>สตรีค<b class="num">' + num(pr.streak) + ' (สูงสุด ' + num(pr.longest_streak) + ')</b></div><div>ตอบถูก/ผิด<b class="num">' + num(pr.correct) + '/' + num(pr.wrong) + '</b></div>' +
         '<div>คำที่จำแม่น<b class="num">' + num(w.mastered) + ' / ' + num(w.tracked) + '</b></div><div>เวลาเล่นรวม<b class="num">' + num((pr.total_play_ms || 0) / 60000) + ' นาที</b></div><div>Plus ถึง<b>' + esc(pr.plus_until ? O.date(pr.plus_until) : '—') + '</b></div><div>แคมเปญ<b>' + esc(acq.cmp || '—') + '</b></div></div>' +
-        (O.me.role === 'owner' ? '<div class="row" style="margin-top:10px"><button class="btn sm" data-reveal="' + esc(id) + '">' + O.ico('lock') + 'ดูอีเมล (บันทึกการเปิดดู)</button><span id="revealed" class="small"></span></div>' : '') + '</div>' +
+        '<div class="row" style="margin-top:10px">' +
+        (O.me.role === 'owner' ? '<button class="btn sm" data-reveal="' + esc(id) + '">' + O.ico('lock') + 'ดูอีเมล (บันทึกการเปิดดู)</button><span id="revealed" class="small"></span>' : '') +
+        (O.me.role !== 'viewer' ? '<button class="btn sm ghost" data-internal="' + esc(id) + '" data-v="' + (p.is_internal ? '0' : '1') + '">' + (p.is_internal ? 'นับกลับเข้าสถิติ' : 'ไม่นับบัญชีนี้ในสถิติ (ทดสอบ/ทีมงาน)') + '</button>' : '') +
+        (p.is_internal ? pill('ไม่นับในสถิติ', 'warn') : '') + '</div></div>' +
         O.card('ทุกการกระทำ (ล่าสุดก่อน)', (t.events || []).length ? '<div class="timeline">' + t.events.map((e) => '<div class="tl"><div class="when">' + esc(O.date(e.at, true)) + '</div><div>' + eventLine(e) + '</div></div>').join('') + '</div>' : '<div class="empty">ยังไม่มีการกระทำที่บันทึก</div>', { right: chip('db', 'สด') }) +
         '<div class="small muted">ก่อนแอป v1.2 เห็นเฉพาะการกระทำที่ส่งถึงเซิร์ฟเวอร์ (เล่นจบ หอคอย ดวล เหรียญ การซื้อ) — การเปิดแอป เข้าหน้า เห็นหน้าขาย จะเพิ่มในแอป v1.2</div>';
       document.querySelector('.drawerpanel').innerHTML = html;
@@ -142,6 +145,17 @@
     }
     const row = e.target.closest ? e.target.closest('[data-person]') : null;
     if (row) { openPerson(row.getAttribute('data-person')); return; }
+    const inn = e.target.closest ? e.target.closest('[data-internal]') : null;
+    if (inn) {
+      inn.disabled = true;
+      try {
+        const on = inn.getAttribute('data-v') === '1';
+        await O.rpc('office_set_internal', { p_uid: inn.getAttribute('data-internal'), p_internal: on, p_note: on ? 'ทำเครื่องหมายจากหน้าผู้เล่น' : null });
+        O.say(on ? 'ไม่นับบัญชีนี้ในสถิติแล้ว' : 'นับกลับเข้าสถิติแล้ว');
+        O.closeDrawer(); O.refresh();
+      } catch (err) { O.say(O.errText(err)); inn.disabled = false; }
+      return;
+    }
     const rv = e.target.closest ? e.target.closest('[data-reveal]') : null;
     if (rv) {
       rv.disabled = true;

@@ -204,8 +204,8 @@
   const DEFS = [
     ['db', 'ฐานข้อมูล (Supabase)', 'ทุกอย่างที่เกมบันทึกจริง: โปรไฟล์ เซสชัน คำตอบรายคำ XP เหรียญ หอคอย ดวล การซื้อ', 'ยังไม่รู้แพลตฟอร์มแน่นอนจนถึงแอป v1.2 (ตอนนี้เดาจาก Apple / user agent / ร่องรอยเว็บ) · ผลเล่นที่ส่งไม่สำเร็จถูกทิ้งเงียบ ๆ (แก้ใน v1.2)', 'ทุกแพลตฟอร์ม', 'สด'],
     ['events', 'อีเวนต์แอป', 'เปิดแอป เข้าหน้า เห็นหน้าขาย แชร์ ตั้งค่า ข้อผิดพลาด พร้อมแพลตฟอร์มและเวอร์ชัน', 'เริ่มเก็บเมื่อแอป v1.2 ออก', 'เว็บ · iOS · Android', 'เฟส 4'],
-    ['meta', 'Meta Ads', 'สถานะโฆษณา งบ การแสดงผล คลิก ค่าใช้จ่าย conversion จาก pixel', 'นับเฉพาะแคมเปญชื่อ JUNYPOP… · conversion แก้ย้อนหลังได้ 28 วัน · ตอนนี้ซิงก์เมื่อ Claude รันคำสั่ง', 'ตาม ad set', 'เมื่อ Claude ซิงก์ (อัตโนมัติ 15 นาทีในเฟส 2)'],
-    ['apple', 'Apple Ads', 'โฆษณาค้นหาใน App Store: สถานะ งบ แตะ ติดตั้ง ต่อคีย์เวิร์ด', 'บัญชีเป็น USD แปลงเป็นบาทโดยประมาณ', 'iOS', 'เมื่อ Claude ซิงก์ (อัตโนมัติในเฟส 2)'],
+    ['meta', 'Meta Ads', 'สถานะโฆษณา งบ การแสดงผล คลิก ค่าใช้จ่าย conversion จาก pixel', 'นับเฉพาะแคมเปญชื่อ JUNYPOP… · conversion แก้ย้อนหลังได้ 28 วัน · Meta รีเฟรชเองทุก ~15 นาที', 'ตาม ad set', 'ทุก 15 นาที (หลังรัน SQL 0019)'],
+    ['apple', 'Apple Ads', 'โฆษณาค้นหาใน App Store: สถานะ งบ แตะ ติดตั้ง ต่อคีย์เวิร์ด', 'บัญชีเป็น USD แปลงเป็นบาทโดยประมาณ · ติดตั้งที่ Apple นับ = เฉพาะจากโฆษณาค้นหา', 'iOS', 'ทุก 15 นาที (หลังรัน SQL 0019)'],
     ['iap', 'Apple IAP', 'ซื้อ/ต่ออายุ/ยกเลิก/คืนเงิน Plus บน iOS', 'Sandbox แยกออก ไม่นับรายได้', 'iOS', 'ทันที'],
     ['stripe', 'Stripe', 'การซื้อ Plus บนเว็บ', '—', 'เว็บ', 'ทันที'],
     ['ga4', 'GA4 · เว็บ', 'ผู้ใช้ออนไลน์ตอนนี้ ที่มา อุปกรณ์ หน้า landing', 'นับเฉพาะคนกดยอมรับคุกกี้ · ล่าช้า 2–6 ชม.', 'เว็บ', 'เฟส 3'],
@@ -213,7 +213,7 @@
   ];
   O.page('sources', {
     title: 'แหล่งข้อมูล', icon: 'db', group: 'ระบบ', sub: 'ตัวเลขแต่ละตัวมาจากไหน เชื่อได้แค่ไหน',
-    load: () => O.rpc('office_sources'),
+    load: async () => { const [s, i] = await Promise.all([O.rpc('office_sources'), O.rpc('office_internal_list').catch(() => null)]); s.internal = i; return s; },
     render(d) {
       const t = d.times || {};
       const at = { db: t.db, events: null, meta: t.meta, apple: t.apple_ads, iap: t.iap, stripe: t.stripe, ga4: null, asc: null };
@@ -223,6 +223,22 @@
         const st = !connected ? pill('ยังไม่เชื่อม', 'neutral') : at[k] ? pill('มีข้อมูล', 'good') : pill('ยังไม่มีรายการ', 'warn');
         return '<div class="srccard"><div class="h">' + chip(k, null, { label: n }) + st + '</div><p><b>นับ:</b> ' + esc(def) + '</p><p><b>ข้อจำกัด:</b> ' + esc(miss) + '</p><div class="row">' + pill(plat, 'neutral') + '<span class="muted">' + esc(cad) + '</span><span class="grow"></span><span class="muted">ล่าสุด ' + esc(k === 'db' ? 'สด' : at[k] ? O.ago(at[k]) : '—') + '</span></div></div>';
       }).join('') + '</div>';
+      const sync = d.sync || [];
+      const jobs = (d.cron && d.cron.jobs) || [];
+      const cronNote = d.cron && d.cron.installed === false
+        ? 'ยังไม่ได้เปิด pg_cron — Supabase → Database → Extensions เปิด pg_cron และ pg_net แล้วรัน SQL 0019 อีกครั้ง'
+        : 'ยังไม่ได้รัน SQL 0019';
+      const jobHtml = jobs.length
+        ? '<div class="kv">' + jobs.map((j) => '<div>' + esc(j.name) + '<b>' + esc(j.schedule) + ' ' + (j.active ? pill('ทำงาน', 'good') : pill('ปิด', 'neutral')) + '</b><span class="small muted">' + esc(j.last ? (j.last.status + ' · ' + O.ago(j.last.at)) : 'ยังไม่เคยรัน') + '</span></div>').join('') + '</div>'
+        : '<div class="small muted">' + cronNote + '</div>';
+      const logHtml = sync.length
+        ? '<div class="tablewrap" style="margin-top:10px"><table><thead><tr><th>เวลา</th><th>แหล่ง</th><th>ผล</th><th class="r">แถว</th><th>หมายเหตุ</th></tr></thead><tbody>' + sync.slice(0, 12).map((l) => '<tr><td>' + esc(O.date(l.started_at, true)) + '</td><td>' + esc(l.source) + ' <span class="muted small">' + esc(l.trigger) + '</span></td><td>' + (l.ok ? pill('สำเร็จ', 'good') : l.ok === false ? pill('ล้มเหลว', 'crit') : pill('กำลังทำ', 'neutral')) + '</td><td class="r num">' + num(l.rows) + '</td><td class="small" style="white-space:normal">' + esc(String(l.error || '').slice(0, 160)) + '</td></tr>').join('') + '</tbody></table></div>'
+        : '';
+      h += card('การซิงก์อัตโนมัติ', jobHtml + logHtml, { right: chip('db') });
+      const internal = d.internal || [];
+      if (internal.length) {
+        h += card('บัญชีที่ไม่นับในสถิติ', '<div class="tablewrap"><table><thead><tr><th>ผู้เล่น</th><th>หมายเหตุ</th><th>โดย</th><th></th></tr></thead><tbody>' + internal.map((u) => '<tr><td><code>' + esc(String(u.user_id).slice(0, 6)) + '</code> ' + esc(u.username || '') + '</td><td class="small">' + esc(u.note || '') + '</td><td class="small">' + esc(u.added_by || '') + ' · ' + esc(O.date(u.added_at)) + '</td><td>' + (O.me.role !== 'viewer' ? '<button class="btn sm ghost" data-internal="' + esc(u.user_id) + '" data-v="0">นับกลับ</button>' : '') + '</td></tr>').join('') + '</tbody></table></div><div class="small muted" style="margin-top:6px">บัญชีทดสอบหรือทีมงาน ไม่ถูกนับเป็นผู้เล่น ผู้มาเยือน หรือ DAU</div>', { right: chip('db') });
+      }
       const rows = d.rows || {};
       const mb = (d.db_bytes || 0) / 1048576;
       h += '<div class="grid"><div class="c6">' + card('ขนาดข้อมูล', '<div class="small" style="display:flex;justify-content:space-between"><span>ฐานข้อมูล</span><b class="num">' + num(mb, 1) + ' / 500 MB</b></div><div class="meter' + (mb > 400 ? ' warn' : '') + '"><span style="width:' + Math.min(100, Math.max(1, mb / 5)) + '%"></span></div><div class="small muted" style="margin:4px 0 10px">แผน Free · เตือนที่ 400 MB</div>' +
