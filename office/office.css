@@ -368,3 +368,9 @@ details.more{margin-top:8px}
 details.more summary{cursor:pointer;font-size:13px;font-weight:700;color:var(--brand-ink)}
 .stale-note{font-size:12.5px;color:var(--warn-ink);background:var(--warn-bg);border-radius:8px;padding:4px 10px;display:inline-block}
 .field input:focus,.field select:focus,.gatebox input:focus{outline:2px solid var(--brand);outline-offset:1px;border-color:transparent}
+
+/* เสียงลูกค้า (0021) */
+.fbitem{padding:12px 12px 12px 14px;border-left:4px solid var(--line);border-bottom:1px solid var(--line);border-radius:4px}
+.fbitem:last-child{border-bottom:0}
+.fbitem select{font:inherit;font-size:13px;padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--surface,transparent);color:inherit}
+.neg{color:var(--crit-ink)}

@@ -57,7 +57,7 @@
     ga4: { label: 'GA4 · เว็บ', note: 'Google Analytics นับเฉพาะผู้ที่กดยอมรับคุกกี้บนเว็บ · เชื่อมในเฟส 3' },
     asc: { label: 'App Store Connect', note: 'ดาวน์โหลด impressions รีวิว จาก Apple (ช้า 2–5 วัน) · เชื่อมในเฟส 5' },
     claude: { label: 'Claude', note: 'ข้อเสนอที่ Claude เขียนหลังอ่านตัวเลข · ทำงานเมื่อ Claude เข้ามาอ่านคิว' },
-    events: { label: 'อีเวนต์แอป', note: 'เปิดแอป เข้าหน้า เห็นหน้าขาย แชร์ ฯลฯ ระบุแพลตฟอร์มทุกแถว · เริ่มเก็บเมื่อแอป v1.2 ออก' },
+    events: { label: 'อีเวนต์แอป', note: 'เปิดแอป เข้าหน้า เห็นหน้าขาย แชร์ ข้อผิดพลาด ฟีดแบ็ก — แอปส่งเองพร้อมแพลตฟอร์มและเวอร์ชัน (แอป v1.2 ขึ้นไป) · ส่งเป็นชุดทุก ~20 วินาที' },
   });
   O.chip = (src, fresh, opts) => {
     opts = opts || {};
@@ -69,6 +69,16 @@
   const PLAT = { web: 'เว็บ', ios: 'iOS', android: 'Android', na: 'ไม่ระบุ', bot: 'บอท' };
   O.platLabel = (p) => PLAT[p] || p;
   O.plat = (p) => '<span class="plat ' + esc(p) + '">' + esc(PLAT[p] || p) + '</span>';
+  // App events (client_events, 0021) and feedback faces, shared by the pages.
+  O.EVENT = {
+    app_open: 'เปิดแอป', app_resume: 'กลับเข้าแอป', screen_view: 'เข้าหน้า', play_start: 'เริ่มเล่น', play_quit: 'ออกกลางเกม',
+    lesson_complete: 'เล่นจบ', paywall_view: 'เห็นหน้า Plus', purchase_start: 'กดซื้อ', purchase_done: 'ซื้อสำเร็จ', purchase_fail: 'ซื้อไม่สำเร็จ',
+    plus_purchase: 'ซื้อ Plus', share: 'แชร์', invite: 'ชวนเพื่อน', settings_change: 'เปลี่ยนตั้งค่า', signup: 'เปิดบัญชี', sign_out: 'ออกจากระบบ',
+    no_hearts: 'หัวใจหมด', heart_refill: 'เติมหัวใจ', weak_drill: 'ฝึกจุดอ่อน', ad_reward: 'ดูโฆษณารับหัวใจ',
+    feedback_prompt: 'เห็นคำถามฟีดแบ็ก', feedback_dismiss: 'ข้ามคำถามฟีดแบ็ก', error: 'ข้อผิดพลาด', submit_rejected: 'ผลเล่นถูกเซิร์ฟเวอร์ปฏิเสธ',
+  };
+  O.SCREEN = { home: 'หน้าหลัก', worlds: 'เวิลด์', battle: 'ต่อสู้', progress: 'ความสำเร็จ', shop: 'ร้านค้า' };
+  O.MOOD = { 1: ['😞', 'ไม่ชอบ', 'crit'], 2: ['😐', 'เฉยๆ', 'warn'], 3: ['😊', 'ชอบ', 'good'] };
   O.spark = (series, big) => {
     const s = (series || []).map((v) => Number(v) || 0);
     if (s.length < 2) return '';

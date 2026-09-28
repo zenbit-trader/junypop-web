@@ -9,7 +9,7 @@
   const srcLabel = (s) => SRC_LABEL[s] || (s && s.startsWith('ref:') ? 'ลิงก์จาก ' + s.slice(4) : s);
   const KIND = { lesson: 'บทเรียน', review: 'ทบทวน', boss: 'บอส', speed: 'Speed Run', battle: 'ดวลเพื่อน', tower: 'หอคอย', test: 'ข้อสอบท้ายบท' };
   const METHOD = { email: 'อีเมล', google: 'Google', apple: 'Apple' };
-  const HOW = { apple: 'Apple (แน่นอน)', ua: 'user agent (ค่อนข้างแน่)', 'web-signal': 'สัญญาณเว็บ', none: 'ไม่มีสัญญาณ' };
+  const HOW = { app: 'แอปบอกเอง (แน่นอน)', apple: 'Apple (แน่นอน)', ua: 'user agent (ค่อนข้างแน่)', 'web-signal': 'สัญญาณเว็บ', none: 'ไม่มีสัญญาณ' };
   const DOW = ['จ.', 'อ.', 'พ.', 'พฤ.', 'ศ.', 'ส.', 'อา.'];
 
   const seg = (name, cur, opts) => '<div class="seg" role="group">' + opts.map(([v, l, dis]) => '<button data-f="' + name + '" data-v="' + v + '" aria-pressed="' + (String(cur) === String(v)) + '"' + (dis ? ' disabled title="' + esc(dis) + '"' : '') + '>' + l + '</button>').join('') + '</div>';
@@ -26,7 +26,7 @@
       const f = d.funnel || {};
       const rangeTh = d.days === 1 ? 'วันนี้' : d.days + ' วัน';
       let h = '';
-      if (d.platform !== 'all') h += '<div class="note"><b>กรอง: ' + esc(O.platLabel(d.platform)) + '</b> · ก่อนแอป v1.2 ระบบเดาแพลตฟอร์มจากสัญญาณอ้อม (Apple IAP / Sign in with Apple / user agent / ร่องรอยเว็บ) — ดูสัดส่วนความมั่นใจด้านล่าง</div>';
+      if (d.platform !== 'all') h += '<div class="note"><b>กรอง: ' + esc(O.platLabel(d.platform)) + '</b> · บัญชีที่เกิดบนแอป v1.2 ขึ้นไป แอปบอกแพลตฟอร์มเอง (แน่นอน) · บัญชีก่อนหน้านั้นระบบเดาจากสัญญาณอ้อม (Apple IAP / Sign in with Apple / user agent / ร่องรอยเว็บ) — ดูสัดส่วนความมั่นใจด้านล่าง</div>';
 
       const steps = [['ผู้มาเยือน', f.visitors, null], ['เล่น', f.played, 40], ['จบบทแรก', f.first_lesson, 25], ['เปิดบัญชี', f.signup, 20], ['Plus', f.plus, 2]];
       const funnel = '<div class="funnel">' + steps.map(([l, v, target], i) => {
@@ -74,7 +74,7 @@
       const kinds = Object.entries(d.kinds || {}).sort((x, y) => y[1] - x[1]);
       const kmax = Math.max(1, ...kinds.map((k) => k[1]));
       const worlds = d.worlds || [];
-      h += '<div class="grid"><div class="c5">' + card('โหมดที่เล่น · ' + rangeTh, kinds.length ? '<div class="bars">' + kinds.map(([k, n]) => bar(KIND[k] || k, n, kmax)).join('') + '</div><div class="small muted" style="margin-top:6px">ข้อสอบท้ายบทยังถูกบันทึกเป็น "บทเรียน" — จะแก้ในแอป v1.2</div>' : '<div class="empty">ยังไม่มีการเล่นในช่วงนี้</div>', { right: chip('db', 'สด') }) + '</div>' +
+      h += '<div class="grid"><div class="c5">' + card('โหมดที่เล่น · ' + rangeTh, kinds.length ? '<div class="bars">' + kinds.map(([k, n]) => bar(KIND[k] || k, n, kmax)).join('') + '</div><div class="small muted" style="margin-top:6px">ข้อสอบท้ายบทแยกเป็นของตัวเองตั้งแต่แอป v1.2 (ก่อนหน้านั้นนับรวมใน "บทเรียน")</div>' : '<div class="empty">ยังไม่มีการเล่นในช่วงนี้</div>', { right: chip('db', 'สด') }) + '</div>' +
         '<div class="c7">' + card('แต่ละโลก · ' + rangeTh, worlds.length ? '<div class="tablewrap"><table><thead><tr><th>โลก</th><th class="r">เล่นจบ</th><th class="r">ผู้เล่น</th><th class="r">ตอบถูก</th><th class="r">ดาวเฉลี่ย</th><th class="r">ผ่านบอส</th></tr></thead><tbody>' + worlds.map((w) =>
           '<tr><td>' + esc(w.name || w.world) + '</td><td class="r num">' + num(w.sessions) + '</td><td class="r num">' + num(w.players) + '</td><td class="r num">' + (w.accuracy == null ? '—' : w.accuracy + '%') + '</td><td class="r num">' + num(w.stars, 1) + '</td><td class="r num">' + num(w.boss_clears) + '</td></tr>').join('') + '</tbody></table></div>' : '<div class="empty">ยังไม่มีข้อมูล</div>', { right: chip('db', 'สด') }) + '</div></div>';
 
@@ -92,16 +92,44 @@
 
       const rec = d.recent || [];
       h += card('ผู้เล่นล่าสุด', rec.length ? '<div class="tablewrap"><table><thead><tr><th>รหัส</th><th>แพลตฟอร์ม</th><th>ที่มา</th><th>บัญชี</th><th class="r">เล่นจบ</th><th class="r">XP</th><th>Plus</th><th>ล่าสุด</th></tr></thead><tbody>' + rec.map((p) =>
-        '<tr style="cursor:pointer" data-person="' + esc(p.id) + '"><td><code>' + esc(p.id.slice(0, 6)) + '</code></td><td>' + O.plat(p.platform) + (p.how !== 'apple' ? ' <span class="small muted">' + (p.how === 'ua' ? '' : 'ประมาณ') + '</span>' : '') + '</td><td>' + esc(srcLabel(p.source)) + '</td><td>' + esc(METHOD[p.method] || 'guest') + '</td><td class="r num">' + num(p.sessions) + '</td><td class="r num">' + num(p.xp) + '</td><td>' + (p.plus ? pill('Plus', 'brand') : '<span class="muted">—</span>') + '</td><td>' + esc(O.date(p.seen, true)) + '</td></tr>').join('') + '</tbody></table></div>' +
+        '<tr style="cursor:pointer" data-person="' + esc(p.id) + '"><td><code>' + esc(p.id.slice(0, 6)) + '</code></td><td>' + O.plat(p.platform) + (p.how === 'apple' || p.how === 'app' || p.how === 'ua' ? '' : ' <span class="small muted">ประมาณ</span>') + '</td><td>' + esc(srcLabel(p.source)) + '</td><td>' + esc(METHOD[p.method] || 'guest') + '</td><td class="r num">' + num(p.sessions) + '</td><td class="r num">' + num(p.xp) + '</td><td>' + (p.plus ? pill('Plus', 'brand') : '<span class="muted">—</span>') + '</td><td>' + esc(O.date(p.seen, true)) + '</td></tr>').join('') + '</tbody></table></div>' +
         '<div class="small muted" style="margin-top:6px">รหัสนามแฝง · กดแถวเพื่อดูทุกการกระทำของผู้เล่นคนนั้น · เจ้าของเปิดดูอีเมลได้ทีละคน (บันทึกทุกครั้ง)</div>' : '<div class="empty">ยังไม่มีผู้เล่น</div>', { right: chip('db', 'สด') });
       return h;
     },
   });
 
+  // One line of detail for an app event (props are whatever the app sent).
+  function appDetail(name, p) {
+    p = p || {};
+    switch (name) {
+      case 'screen_view': return O.SCREEN[p.screen] || p.screen || '';
+      case 'play_start': case 'play_quit': case 'lesson_complete':
+        return [KIND[p.kind] || p.kind, p.lesson_id || p.world_id, p.answered != null ? 'ตอบ ' + p.answered + '/' + p.total : p.total != null ? 'ถูก ' + p.correct + '/' + p.total : '', p.seconds != null ? p.seconds + ' วิ' : ''].filter(Boolean).join(' · ');
+      case 'paywall_view': return p.trigger || '';
+      case 'share': return p.what || '';
+      case 'settings_change': return (p.key || '') + ' = ' + String(p.value);
+      case 'app_open': return (p.first ? 'ครั้งแรก · ' : '') + 'เล่นมาแล้ว ' + (p.sessions || 0) + ' รอบ · level ' + (p.level || 0);
+      case 'error': return String(p.message || '').slice(0, 140) + (p.where ? ' (' + p.where + ')' : '');
+      case 'submit_rejected': return (KIND[p.kind] || p.kind || '') + ' · ' + (p.code || '') + ' ' + String(p.message || '').slice(0, 100);
+      default: return Object.keys(p).length ? JSON.stringify(p).slice(0, 120) : '';
+    }
+  }
+
   function eventLine(e) {
     const kind = KIND[e.kind] || e.kind;
+    const where = e.platform ? ' ' + O.plat(e.platform) + (e.v ? ' <span class="small muted">v' + esc(e.v) + '</span>' : '') : '';
     switch (e.type) {
-      case 'session': return '<b>' + esc(kind) + '</b> ' + esc(e.world || '') + (e.lesson ? ' · ' + esc(e.lesson) : '') + ' · ถูก ' + num(e.correct) + '/' + num(e.total) + ' · ' + '★'.repeat(e.stars || 0) + ' · +' + num(e.xp) + ' XP · ' + num((e.ms || 0) / 1000) + ' วิ';
+      case 'session': return '<b>' + esc(kind) + '</b> ' + esc(e.world || '') + (e.lesson ? ' · ' + esc(e.lesson) : '') + ' · ถูก ' + num(e.correct) + '/' + num(e.total) + ' · ' + '★'.repeat(e.stars || 0) + ' · +' + num(e.xp) + ' XP · ' + num((e.ms || 0) / 1000) + ' วิ' + where;
+      case 'app': {
+        const bad = e.name === 'error' || e.name === 'submit_rejected';
+        const d = appDetail(e.name, e.props);
+        return '<span class="' + (bad ? 'neg' : 'muted') + '">' + (bad ? '<b>' : '') + esc(O.EVENT[e.name] || e.name) + (bad ? '</b>' : '') + (d ? ' · ' + esc(d) : '') + '</span>' + where;
+      }
+      case 'feedback': {
+        const m = O.MOOD[e.mood];
+        return '<b>ส่งฟีดแบ็ก</b> ' + (m ? pill(m[0] + ' ' + m[1], m[2]) + ' ' : '') + (e.text ? '“' + esc(e.text) + '”' : '') + ' <span class="small muted">' + (e.source === 'prompt' ? 'จากคำถามหลังเล่น' : 'จากตั้งค่า') + '</span>' + where;
+      }
+      case 'apple_event': return '<b>Apple แจ้ง</b> ' + esc(e.event) + (e.subtype ? ' / ' + esc(e.subtype) : '') + (e.product ? ' · ' + esc(String(e.product).replace('junypop_plus_', '')) : '') + (e.env && e.env !== 'Production' ? ' ' + pill('Sandbox', 'neutral') : '');
       case 'tower': return '<b>หอคอย ชั้น ' + num(e.floor) + '</b> ' + (e.passed ? pill('ผ่าน', 'good') : pill('ตก', 'crit')) + ' ถูก ' + num(e.correct) + '/' + num(e.total);
       case 'battle_created': return '<b>สร้างคำท้า</b> ' + esc(e.kind === 'speed' ? 'Speed Run' : 'ดวล');
       case 'battle_played': return '<b>เล่นคำท้า</b> ถูก ' + num(e.correct) + '/' + num(e.total);
@@ -121,14 +149,15 @@
       const acq = (pr.acq && pr.acq.first) || {};
       const html = '<div class="dhead"><h2>ผู้เล่น <code>' + esc(id.slice(0, 6)) + '</code> ' + O.plat(p.platform) + '</h2><button class="btn sm" data-close-drawer="1">ปิด</button></div>' +
         '<div class="card"><div class="kv"><div>ชื่อในเกม<b>' + esc(pr.username || '—') + '</b></div><div>บัญชี<b>' + esc(METHOD[p.signup_method] || 'guest') + '</b></div><div>ที่มา<b>' + esc(srcLabel(p.source)) + '</b></div><div>เริ่มเล่น<b>' + esc(O.date(p.created_at, true)) + '</b></div>' +
-        '<div>XP<b class="num">' + num(pr.xp) + '</b></div><div>เหรียญ<b class="num">' + num(pr.coins) + '</b></div><div>สตรีค<b class="num">' + num(pr.streak) + ' (สูงสุด ' + num(pr.longest_streak) + ')</b></div><div>ตอบถูก/ผิด<b class="num">' + num(pr.correct) + '/' + num(pr.wrong) + '</b></div>' +
+        '<div>XP<b class="num">' + num(pr.xp) + '</b></div><div>เหรียญ<b class="num">' + num(pr.coins) + '</b></div><div>หัวใจ<b class="num">' + num(pr.hearts) + '</b></div><div>ตอบถูก/ผิด<b class="num">' + num(pr.correct) + '/' + num(pr.wrong) + '</b></div>' +
+        '<div>แอปล่าสุด<b>' + (pr.last_platform ? O.plat(pr.last_platform) + (pr.app_version ? ' v' + esc(pr.app_version) : '') + ' · ' + esc(O.ago(pr.app_seen_at)) : '<span class="muted">ก่อน v1.2</span>') + '</b></div>' +
         '<div>คำที่จำแม่น<b class="num">' + num(w.mastered) + ' / ' + num(w.tracked) + '</b></div><div>เวลาเล่นรวม<b class="num">' + num((pr.total_play_ms || 0) / 60000) + ' นาที</b></div><div>Plus ถึง<b>' + esc(pr.plus_until ? O.date(pr.plus_until) : '—') + '</b></div><div>แคมเปญ<b>' + esc(acq.cmp || '—') + '</b></div></div>' +
         '<div class="row" style="margin-top:10px">' +
         (O.me.role === 'owner' ? '<button class="btn sm" data-reveal="' + esc(id) + '">' + O.ico('lock') + 'ดูอีเมล (บันทึกการเปิดดู)</button><span id="revealed" class="small"></span>' : '') +
         (O.me.role !== 'viewer' ? '<button class="btn sm ghost" data-internal="' + esc(id) + '" data-v="' + (p.is_internal ? '0' : '1') + '">' + (p.is_internal ? 'นับกลับเข้าสถิติ' : 'ไม่นับบัญชีนี้ในสถิติ (ทดสอบ/ทีมงาน)') + '</button>' : '') +
         (p.is_internal ? pill('ไม่นับในสถิติ', 'warn') : '') + '</div></div>' +
         O.card('ทุกการกระทำ (ล่าสุดก่อน)', (t.events || []).length ? '<div class="timeline">' + t.events.map((e) => '<div class="tl"><div class="when">' + esc(O.date(e.at, true)) + '</div><div>' + eventLine(e) + '</div></div>').join('') + '</div>' : '<div class="empty">ยังไม่มีการกระทำที่บันทึก</div>', { right: chip('db', 'สด') }) +
-        '<div class="small muted">ก่อนแอป v1.2 เห็นเฉพาะการกระทำที่ส่งถึงเซิร์ฟเวอร์ (เล่นจบ หอคอย ดวล เหรียญ การซื้อ) — การเปิดแอป เข้าหน้า เห็นหน้าขาย จะเพิ่มในแอป v1.2</div>';
+        '<div class="small muted">ตัวหนา = สิ่งที่เซิร์ฟเวอร์บันทึก (เล่นจบ หอคอย ดวล เหรียญ การซื้อ ฟีดแบ็ก) · ตัวเทา = อีเวนต์ที่แอป v1.2 ขึ้นไปส่งมา (เปิดแอป เข้าหน้า เห็นหน้า Plus ออกกลางเกม แชร์ ข้อผิดพลาด) · แสดงล่าสุด 300 รายการ</div>';
       document.querySelector('.drawerpanel').innerHTML = html;
     } catch (e) {
       document.querySelector('.drawerpanel .loading').outerHTML = '<div class="errbox">' + esc(O.errText(e)) + '</div>';

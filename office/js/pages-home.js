@@ -13,8 +13,9 @@
   O.page('overview', {
     title: 'ภาพรวม', icon: 'home', group: 'หลัก',
     sub: 'สรุปวันนี้ · เปิดทุกเช้า 30 วินาที',
-    load: () => Promise.all([O.rpc('office_overview'), O.rpc('office_alerts_list', { p_limit: 30 })]),
-    render([ov, al]) {
+    load: () => Promise.all([O.rpc('office_overview'), O.rpc('office_alerts_list', { p_limit: 30 }),
+      O.rpc('office_feedback', { p_days: 7, p_limit: 3 }).catch(() => null)]),
+    render([ov, al, fb]) {
       O.setBadge('alerts', al.unread);
       O.setBadge('commands', ov.inbox.money_queued);
       const days = ov.days || [];
@@ -24,7 +25,7 @@
 
       h += '<div class="inbox" aria-label="งานที่รอคุณ">' +
         '<a class="' + (ov.inbox.alerts_unread ? 'warn' : '') + '" data-go="alerts"><span class="n num">' + num(ov.inbox.alerts_unread) + '</span>แจ้งเตือนยังไม่รับทราบ</a>' +
-        '<a data-go="feedback"><span class="n">—</span>ฟีดแบ็กใหม่</a>' +
+        '<a class="' + (fb && fb.new_all ? 'warn' : '') + '" data-go="feedback"><span class="n num">' + (fb ? num(fb.new_all) : '—') + '</span>ฟีดแบ็กใหม่</a>' +
         '<a class="' + (ov.inbox.money_queued ? 'money' : '') + '" data-go="commands"><span class="n num">' + num(ov.inbox.money_queued) + '</span>คำสั่งใช้เงินในคิว</a>' +
         '<a data-go="commands"><span class="n num">' + num(ov.inbox.queued) + '</span>คำสั่งรอ Claude</a>' +
         '<span class="small muted" style="align-self:center">Claude ทำงานล่าสุด ' + esc(O.ago(ov.heartbeat)) + '</span></div>';
@@ -49,7 +50,7 @@
         '<div class="delta"><span class="' + dirOf(hero.today, hero.yesterday) + '">' + (hero.today >= hero.yesterday ? '▲ ' : '▼ ') + signed(hero.today - hero.yesterday) + '</span><span class="muted">vs เมื่อวาน ' + num(hero.yesterday) + '</span>' +
         (act != null ? pill('เปิดใช้งาน 7 วัน ' + act + '% · เป้า 25%', act >= 25 ? 'good' : 'warn') : '') + '</div></div><div style="width:min(100%,320px)">' + O.spark(hero.series, true) + '<div class="small muted" style="text-align:right">14 วันย้อนหลัง</div></div></div>' +
         (tot ? '<div class="splitbar" role="img" aria-label="แยกแพลตฟอร์ม"><span class="web" style="width:' + (100 * (split.web || 0)) / tot + '%"></span><span class="ios" style="width:' + (100 * (split.ios || 0)) / tot + '%"></span><span class="na" style="width:' + (100 * (split.na || 0)) / tot + '%"></span></div>' +
-          '<div class="splitlegend"><span class="web"><i></i>เว็บ ' + num(split.web || 0) + '</span><span class="ios"><i></i>iOS ' + num(split.ios || 0) + '</span><span class="na"><i></i>ไม่ระบุ ' + num(split.na || 0) + '</span><span class="muted">แยกจากสัญญาณอ้อม (ประมาณ) จนกว่าแอป v1.2 · Android — ยังไม่เปิด</span></div>' : '');
+          '<div class="splitlegend"><span class="web"><i></i>เว็บ ' + num(split.web || 0) + '</span><span class="ios"><i></i>iOS ' + num(split.ios || 0) + '</span><span class="na"><i></i>ไม่ระบุ ' + num(split.na || 0) + '</span><span class="muted">บัญชีใหม่จากแอป v1.2 = แน่นอน · บัญชีเก่า = เดาจากสัญญาณอ้อม · Android — ยังไม่เปิด</span></div>' : '');
 
       h += '<div class="grid"><div class="c4">' + card('Claude แนะนำ', recs, { lead: ov.notes_at ? 'เขียนเมื่อ ' + O.date(ov.notes_at, true) : '', right: chip('claude') }) + '</div><div class="c8">' + card('จบบทแรกวันนี้', heroHtml) + '</div></div>';
 
@@ -82,13 +83,13 @@
 
       h += '<div class="grid"><div class="c6">' + card('โฆษณา', '<div class="mini"><div class="big num">' + num(ads.active_meta) + '</div><div class="txt"><div class="t">ad set ของ Meta ที่ ACTIVE · เดือนนี้ ' + O.baht((ads.meta_month || 0) + (ads.apple_month_thb || 0)) + ' / ' + O.baht(ads.cap) + '</div>' +
         '<div class="s">Apple Ads: ' + esc(ads.apple_status || '—') + (ads.apple_reason ? ' (' + esc(ads.apple_reason) + ')' : '') + '</div></div><button class="btn sm" data-go="ads">ดูโฆษณา</button></div><div style="margin-top:8px">' + chip('meta', fresh(ads.synced_at)) + ' ' + chip('apple', fresh(ads.apple_synced_at)) + '</div>') + '</div>' +
-        '<div class="c6">' + card('เสียงลูกค้า', O.soon('เฟส 4–5', 'ยังไม่มีช่องรับฟีดแบ็กในแอป และยังไม่ได้ดึงรีวิว App Store · หน้านี้จะสรุปรีวิวใหม่ ดาวเฉลี่ย และธีมยอดฮิต') + '<div style="margin-top:8px"><button class="btn sm" data-go="feedback">ดูแผน</button></div>') + '</div></div>';
+        '<div class="c6">' + card('เสียงลูกค้า · 7 วัน', feedbackMini(fb) + '<div style="margin-top:8px"><button class="btn sm" data-go="feedback">ดูทั้งหมด</button></div>', { right: chip('events') }) + '</div></div>';
 
-      const health = [['ฐานข้อมูล', src.db, 'db'], ['Meta Ads', src.meta, 'meta'], ['Apple Ads', src.apple_ads, 'apple'], ['Apple IAP', src.iap, 'iap'], ['Stripe', src.stripe, 'stripe'], ['Claude', src.claude, 'claude'], ['GA4', null, 'ga4'], ['App Store Connect', null, 'asc'], ['อีเวนต์แอป', null, 'events']];
+      const health = [['ฐานข้อมูล', src.db, 'db'], ['Meta Ads', src.meta, 'meta'], ['Apple Ads', src.apple_ads, 'apple'], ['Apple IAP', src.iap, 'iap'], ['Stripe', src.stripe, 'stripe'], ['Claude', src.claude, 'claude'], ['GA4', null, 'ga4'], ['App Store Connect', null, 'asc'], ['อีเวนต์แอป', fb && fb.app ? fb.app.last_event_at : null, 'events']];
       h += '<div class="health"><span>แหล่งข้อมูล:</span>' + health.map(([l, t, k]) => {
         const age = t ? (Date.now() - new Date(t).getTime()) / 3600000 : null;
         const cls = t == null ? 'off' : (k === 'meta' || k === 'apple' || k === 'claude') && age > 24 ? 'warn' : '';
-        return '<span class="h ' + cls + '"><i></i>' + esc(l) + ' <span class="muted">' + esc(t == null ? (k === 'iap' || k === 'stripe' ? 'ยังไม่มีรายการ' : 'ยังไม่เชื่อม') : k === 'db' ? 'สด' : O.ago(t)) + '</span></span>';
+        return '<span class="h ' + cls + '"><i></i>' + esc(l) + ' <span class="muted">' + esc(t == null ? (k === 'iap' || k === 'stripe' ? 'ยังไม่มีรายการ' : k === 'events' ? 'รอแอป v1.2' : 'ยังไม่เชื่อม') : k === 'db' ? 'สด' : O.ago(t)) + '</span></span>';
       }).join('') + '<a data-go="sources" style="cursor:pointer">รายละเอียด →</a></div>';
       return h;
     },
@@ -103,7 +104,7 @@
       const byProd = Object.entries(r.apple_by_product || {});
       let h = '<div class="lagbanner">' + O.ico('info') + '<span>ยังไม่ได้เชื่อม App Store Connect — ดาวน์โหลด, impressions, อัตราแปลง, crash และรีวิวจะมาในเฟส 5 (ต้องใช้ API key ระดับ Admin) · ตัวเลขด้านล่างมาจากฐานข้อมูลเราและ Apple IAP</span></div>';
       h += '<div class="tiles" style="grid-template-columns:repeat(4,minmax(0,1fr))">' +
-        metric({ label: 'ผู้เล่น iOS ใหม่ 30 วัน', value: num(f.visitors), src: 'db', fresh: 'ประมาณ', sub: 'จาก Sign in with Apple / การซื้อผ่าน Apple / user agent ของแอป', note: 'ก่อนแอป v1.2 ระบบเดาแพลตฟอร์มจากสัญญาณอ้อม — ดูหน้าแหล่งข้อมูล' }) +
+        metric({ label: 'ผู้เล่น iOS ใหม่ 30 วัน', value: num(f.visitors), src: 'db', fresh: 'ประมาณ', sub: 'บัญชีใหม่: แอปบอกเอง · บัญชีเก่า: Sign in with Apple / การซื้อผ่าน Apple / user agent', note: 'บัญชีที่เกิดบนแอป v1.2 ขึ้นไประบุแพลตฟอร์มแน่นอน บัญชีก่อนหน้านั้นเดาจากสัญญาณอ้อม — ดูหน้าแหล่งข้อมูล' }) +
         metric({ label: 'จบบทแรก (iOS) 30 วัน', value: num(f.first_lesson), delta: (O.pct(f.first_lesson, f.visitors) ?? '—') + '%', vs: 'ของผู้เล่นใหม่', src: 'db', fresh: 'ประมาณ' }) +
         metric({ label: 'Plus ผ่าน App Store ที่ active', value: num(r.apple_active), src: 'iap', fresh: 'ทันที', sub: 'ใหม่ 30 วัน ' + num(r.apple_new) + (r.sandbox ? ' · Sandbox ' + num(r.sandbox) + ' ไม่นับ' : '') }) +
         metric({ label: 'ผู้เล่น iOS ที่ active 7 วัน', value: num((p.active || {}).wau), src: 'db', fresh: 'ประมาณ' }) + '</div>';
@@ -115,13 +116,109 @@
   });
 
   // ------------------------------------------------------------------ เสียงลูกค้า
+  const STATUS = { new: ['ใหม่', 'brand'], read: ['อ่านแล้ว', 'neutral'], planned: ['จะทำ', 'warn'], done: ['ทำแล้ว', 'good'], wontfix: ['ไม่ทำ', 'neutral'] };
+  const TAG = { fix: ['ต้องแก้', 'crit'], add: ['ควรเพิ่ม', 'brand'], improve: ['ควรปรับ', 'warn'], praise: ['คำชม', 'good'], other: ['อื่นๆ', 'neutral'] };
+  const moodPill = (m) => (O.MOOD[m] ? pill(O.MOOD[m][0] + ' ' + O.MOOD[m][1], O.MOOD[m][2]) : pill('💬 ข้อความ', 'neutral'));
+
+  // Small summary for the overview card.
+  function feedbackMini(fb) {
+    if (!fb) return '<div class="empty">รอรัน SQL 0021 (เฟส 4)</div>';
+    const sm = fb.summary || {}, md = sm.mood || {};
+    if (!sm.total) return '<div class="empty">ยังไม่มีฟีดแบ็กใน 7 วัน · ปุ่ม "ส่งความคิดเห็น" อยู่ในตั้งค่า และแอปถามหลังจบบทที่ 3</div>';
+    return '<div class="mini"><div class="big num">' + num(sm.total) + '</div><div class="txt"><div class="t">😞 ' + num(md['1']) + ' · 😐 ' + num(md['2']) + ' · 😊 ' + num(md['3']) + '</div><div class="s">ใหม่ยังไม่อ่าน ' + num(fb.new_all) + '</div></div></div>' +
+      (fb.items || []).filter((i) => i.text).slice(0, 2).map((i) => '<div class="small" style="margin-top:6px">' + (O.MOOD[i.mood] ? O.MOOD[i.mood][0] + ' ' : '') + '“' + esc(String(i.text).slice(0, 120)) + '”</div>').join('');
+  }
+
+  const fbParams = (p) => ({ d: [7, 30, 90].includes(Number(p.d)) ? Number(p.d) : 30, s: ['all', 'new', 'planned'].includes(p.s) ? p.s : 'all' });
+  const fbSeg = (name, cur, opts) => '<div class="seg" role="group">' + opts.map(([v, l]) => '<button data-fbf="' + name + '" data-v="' + v + '" aria-pressed="' + (String(cur) === String(v)) + '">' + l + '</button>').join('') + '</div>';
+
   O.page('feedback', {
-    title: 'เสียงลูกค้า', icon: 'chat', group: 'การตลาด', sub: 'ลูกค้าพูดอะไร ควรแก้ เพิ่ม ปรับอะไร',
-    render: () => '<div class="lagbanner">' + O.ico('info') + '<span>ตอนนี้ยังไม่มีช่องทางรับฟีดแบ็กเลย — หน้านี้จะเริ่มมีข้อมูลตามลำดับด้านล่าง</span></div>' +
-      '<div class="grid"><div class="c4">' + card('1 · ฟีดแบ็กในแอป', O.soon('เฟส 4 (แอป v1.2)', 'ปุ่ม "ส่งความคิดเห็น" ในตั้งค่า + ถาม 😞😐😊 หลังจบบทที่ 3 แล้วทุก 10 เซสชัน (ไม่เกิน 1 ครั้ง/14 วัน)')) + '</div>' +
-      '<div class="c4">' + card('2 · รีวิว App Store', O.soon('เฟส 5', 'ดึงรีวิวทุกชั่วโมง แจ้งเตือนรีวิว 1–3 ดาว Claude ร่างคำตอบภาษาไทย คุณกดอนุมัติก่อนส่ง')) + '</div>' +
-      '<div class="c4">' + card('3 · คอมเมนต์ Facebook / Messenger', O.soon('เฟส 6', 'คอมเมนต์บนโฆษณาและเพจ + ข้อความ Messenger ตอบกลับหลังอนุมัติ')) + '</div></div>' +
-      card('บอร์ดทิศทาง', '<div class="themes"><div class="theme"><h3>' + pill('ต้องแก้', 'crit') + '</h3><div class="small muted">ยังไม่มีข้อมูล</div></div><div class="theme"><h3>' + pill('ควรเพิ่ม', 'brand') + '</h3><div class="small muted">ยังไม่มีข้อมูล</div></div><div class="theme"><h3>' + pill('ควรปรับ', 'warn') + '</h3><div class="small muted">ยังไม่มีข้อมูล</div></div></div><div class="small muted" style="margin-top:8px">Claude จะจัดกลุ่มทุกวันจันทร์ด้วยธีม: เสียง/TTS · ความยาก · หัวใจ/paywall · ราคา · บั๊ก · คอนเทนต์ · UI · สอนไม่เข้าใจ · ล็อกอิน/ซิงก์ · คำชม</div>', { right: chip('claude') }),
+    title: 'เสียงลูกค้า', icon: 'chat', group: 'การตลาด', sub: 'ลูกค้าพูดอะไร ควรแก้ เพิ่ม ปรับอะไร · แอปทำงานดีไหม',
+    filters(raw) {
+      const q = fbParams(raw);
+      return fbSeg('s', q.s, [['all', 'ทั้งหมด'], ['new', 'ยังไม่อ่าน'], ['planned', 'จะทำ']]) + ' ' + fbSeg('d', q.d, [[7, '7 วัน'], [30, '30 วัน'], [90, '90 วัน']]);
+    },
+    load: (raw) => O.rpc('office_feedback', { p_days: fbParams(raw).d, p_limit: 300 }),
+    render(fb, raw) {
+      const q = fbParams(raw || O.state.params || {});
+      const sm = fb.summary || {}, md = sm.mood || {}, pl = sm.platform || {}, pr = fb.prompts || {}, app = fb.app || {};
+      const canEdit = O.me.role !== 'viewer';
+      const range = q.d + ' วัน';
+      const answered = sm.prompt || 0, shown = pr.shown || 0;
+      let h = '';
+      h += '<div class="tiles" style="grid-template-columns:repeat(4,minmax(0,1fr))">' +
+        O.metric({ label: 'ฟีดแบ็ก · ' + range, value: num(sm.total), src: 'events', fresh: 'ทันที', sub: 'มีข้อความ ' + num(sm.with_text) + ' · เว็บ ' + num(pl.web) + ' · iOS ' + num(pl.ios), note: 'ไม่รวมบัญชีทีมงานและบัญชีทดสอบ' }) +
+        O.metric({ label: 'ยังไม่อ่าน (ทั้งหมด)', value: num(fb.new_all), src: 'events', pill: fb.new_all ? ['รอคุณ', 'warn'] : ['ว่าง', 'good'] }) +
+        O.metric({ label: 'หน้า 😞 / 😐 / 😊', value: num(md['1']) + ' / ' + num(md['2']) + ' / ' + num(md['3']), src: 'events', sub: sm.total ? 'พอใจ ' + O.pct(md['3'], sm.total) + '% · ไม่พอใจ ' + O.pct(md['1'], sm.total) + '%' : '—' }) +
+        O.metric({ label: 'ตอบคำถามหลังเล่น', value: shown ? O.pct(answered, shown) + '%' : '—', src: 'events', sub: 'ถาม ' + num(shown) + ' ครั้ง · ตอบ ' + num(answered) + ' · ข้าม ' + num(pr.dismissed), note: 'คำถาม "JUNYPOP เป็นยังไงบ้าง?" บนหน้าผลลัพธ์ หลังจบบทที่ 3 แล้วทุก 10 รอบ (ไม่เกิน 1 ครั้ง/14 วัน)' }) + '</div>';
+
+      let items = fb.items || [];
+      if (q.s !== 'all') items = items.filter((i) => i.status === q.s);
+      const row = (i) => '<div class="fbitem" style="border-left-color:' + (i.mood === 1 ? 'var(--crit)' : i.mood === 3 ? 'var(--good)' : 'var(--line)') + '">' +
+        '<div class="row" style="gap:6px;flex-wrap:wrap">' + moodPill(i.mood) + pill((STATUS[i.status] || [i.status])[0], (STATUS[i.status] || [0, 'neutral'])[1]) + (i.tag ? pill(TAG[i.tag][0], TAG[i.tag][1]) : '') + (i.internal ? pill('ทีมงาน/ทดสอบ', 'neutral') : '') + '</div>' +
+        (i.text ? '<div style="margin:8px 0;white-space:pre-wrap">' + esc(i.text) + '</div>' : '<div class="small muted" style="margin:6px 0">เลือกหน้าอย่างเดียว ไม่ได้พิมพ์</div>') +
+        '<div class="small muted">' + esc(O.date(i.at, true)) + ' · ' + (i.platform ? O.plat(i.platform) : 'ไม่ระบุ') + (i.v ? ' v' + esc(i.v) : '') + ' · ' + (i.source === 'prompt' ? 'จากคำถามหลังเล่น' : 'จากตั้งค่า') +
+        ' · จบ ' + num((i.context || {}).lessons) + ' บท · ' + num((i.context || {}).sessions) + ' รอบ' + ((i.context || {}).plus ? ' · Plus' : '') +
+        ' · <a data-person="' + esc(i.user_id) + '" style="cursor:pointer">ผู้เล่น ' + esc(String(i.user_id).slice(0, 6)) + (i.username ? ' (' + esc(i.username) + ')' : '') + '</a></div>' +
+        (i.note ? '<div class="small" style="margin-top:4px">📝 ' + esc(i.note) + '</div>' : '') +
+        (canEdit ? '<div class="acts" style="margin-top:8px;display:flex;gap:6px;flex-wrap:wrap">' +
+          [['read', 'อ่านแล้ว'], ['planned', 'จะทำ'], ['done', 'ทำแล้ว'], ['wontfix', 'ไม่ทำ']].filter(([k]) => k !== i.status).map(([k, l]) => '<button class="btn sm' + (k === 'planned' ? ' primary' : ' ghost') + '" data-fbset="' + i.id + '" data-status="' + k + '">' + l + '</button>').join('') +
+          '<select data-fbtag="' + i.id + '" aria-label="หมวด"><option value="">หมวด…</option>' + Object.entries(TAG).map(([k, [l]]) => '<option value="' + k + '"' + (i.tag === k ? ' selected' : '') + '>' + l + '</option>').join('') + '</select>' +
+          '<button class="btn sm ghost" data-fbnote="' + i.id + '">โน้ต</button></div>' : '') + '</div>';
+
+      const board = ['fix', 'add', 'improve'].map((k) => {
+        const list = (fb.items || []).filter((i) => i.tag === k && i.status !== 'wontfix');
+        return '<div class="theme"><h3>' + pill(TAG[k][0], TAG[k][1]) + ' <span class="small muted">' + num(list.length) + '</span></h3>' +
+          (list.length ? list.slice(0, 5).map((i) => '<div class="small" style="margin-top:4px">' + (i.status === 'done' ? '✅ ' : i.status === 'planned' ? '🛠 ' : '• ') + esc(String(i.text || O.MOOD[i.mood]?.[1] || '').slice(0, 90)) + '</div>').join('') : '<div class="small muted">ยังไม่มี</div>') + '</div>';
+      }).join('');
+
+      h += '<div class="grid"><div class="c8">' + card('ข้อความจากผู้เล่น · ' + range + (q.s !== 'all' ? ' · ' + (q.s === 'new' ? 'ยังไม่อ่าน' : 'จะทำ') : ''), items.length ? items.map(row).join('') : '<div class="empty">ยังไม่มีฟีดแบ็กในช่วงนี้ · ผู้เล่นส่งได้จาก ตั้งค่า → ส่งความคิดเห็น และแอปถามหลังจบบทที่ 3</div>', { right: chip('events', 'ทันที') }) + '</div>' +
+        '<div class="c4">' + card('บอร์ดทิศทาง', '<div class="themes" style="grid-template-columns:1fr">' + board + '</div><div class="small muted" style="margin-top:8px">ติดหมวดที่ข้อความแต่ละอัน · Claude ช่วยจัดหมวดและสรุปธีมได้ (สั่งในหน้าคำสั่งถึง Claude)</div>', { right: chip('claude') }) +
+        card('ช่องทางที่จะตามมา', '<div class="small">' + O.soon('เฟส 5', 'รีวิว App Store: ดึงทุกชั่วโมง แจ้งเตือน 1–3 ดาว Claude ร่างคำตอบให้อนุมัติ') + O.soon('เฟส 6', 'คอมเมนต์ Facebook / Messenger') + '</div>') + '</div></div>';
+
+      // How the app itself is doing (client_events).
+      const ev = Object.entries(app.events24 || {}).sort((a, b) => b[1] - a[1]);
+      const evMax = Math.max(1, ...ev.map((e) => e[1]));
+      const vers = app.versions || [];
+      const errs = app.errors || [];
+      const p24 = app.platform24 || {};
+      h += '<div class="grid"><div class="c6">' + card('แอปทำงานยังไง · 24 ชม.', (ev.length ? '<div class="bars">' + ev.slice(0, 12).map(([k, n]) => O.bar(O.EVENT[k] || k, n, evMax, k === 'error' || k === 'submit_rejected' ? 's3' : '')).join('') + '</div>' : '<div class="empty">ยังไม่มีอีเวนต์ — เริ่มเมื่อผู้เล่นใช้แอป v1.2 (เว็บได้ทันทีหลัง deploy, iOS หลัง Apple อนุมัติ)</div>') +
+        '<div class="small muted" style="margin-top:6px">คนที่ส่งอีเวนต์ 24 ชม.: เว็บ ' + num(p24.web) + ' · iOS ' + num(p24.ios) + (p24.android ? ' · Android ' + num(p24.android) : '') + ' · ผลเล่นถูกปฏิเสธ 7 วัน ' + num(app.rejected7) + '</div>', { right: chip('events', app.last_event_at ? O.ago(app.last_event_at) : 'รอ v1.2') }) + '</div>' +
+        '<div class="c6">' + card('เวอร์ชันที่ใช้อยู่ · 7 วัน', vers.length ? '<div class="tablewrap"><table><thead><tr><th>แพลตฟอร์ม</th><th>เวอร์ชัน</th><th class="r">ผู้เล่น</th><th>ล่าสุด</th></tr></thead><tbody>' + vers.map((v) => '<tr><td>' + O.plat(v.platform || 'na') + '</td><td>' + esc(v.version || '—') + '</td><td class="r num">' + num(v.players7) + '</td><td>' + esc(O.ago(v.last_seen)) + '</td></tr>').join('') + '</tbody></table></div>' : '<div class="empty">ยังไม่มีผู้เล่นบนแอป v1.2</div>', { right: chip('events') }) +
+        card('ข้อผิดพลาด · 7 วัน', errs.length ? '<div class="tablewrap"><table><thead><tr><th>ข้อความ</th><th class="r">ครั้ง</th><th class="r">คน</th><th>ล่าสุด</th></tr></thead><tbody>' + errs.map((x) => '<tr><td style="white-space:normal">' + (x.kind === 'submit_rejected' ? pill('ผลเล่นถูกปฏิเสธ', 'crit') + ' ' : '') + esc(x.message) + ' <span class="small muted">' + esc(O.platLabel(x.platform || 'na')) + (x.v ? ' v' + esc(x.v) : '') + '</span></td><td class="r num">' + num(x.n) + '</td><td class="r num">' + num(x.players) + '</td><td>' + esc(O.ago(x.last)) + '</td></tr>').join('') + '</tbody></table></div>' : '<div class="empty">ไม่มีข้อผิดพลาด 🎉</div>', { right: chip('events') }) + '</div></div>';
+      return h;
+    },
+  });
+
+  document.addEventListener('click', async (e) => {
+    const f = e.target.closest ? e.target.closest('[data-fbf]') : null;
+    if (f) {
+      const q = fbParams(O.state.params || {});
+      q[f.getAttribute('data-fbf')] = f.getAttribute('data-v');
+      O.go('feedback', { d: q.d, s: q.s });
+      return;
+    }
+    const t = e.target.closest ? e.target.closest('[data-fbset],[data-fbnote]') : null;
+    if (!t) return;
+    t.disabled = true;
+    try {
+      if (t.hasAttribute('data-fbset')) {
+        await O.rpc('office_feedback_set', { p_id: Number(t.getAttribute('data-fbset')), p_status: t.getAttribute('data-status') });
+      } else {
+        const note = window.prompt('โน้ตภายใน (ผู้เล่นไม่เห็น)');
+        if (note == null) { t.disabled = false; return; }
+        await O.rpc('office_feedback_set', { p_id: Number(t.getAttribute('data-fbnote')), p_note: note });
+      }
+      O.refresh();
+    } catch (err) { O.say(O.errText(err)); t.disabled = false; }
+  });
+  document.addEventListener('change', async (e) => {
+    const t = e.target.closest ? e.target.closest('[data-fbtag]') : null;
+    if (!t) return;
+    try {
+      await O.rpc('office_feedback_set', { p_id: Number(t.getAttribute('data-fbtag')), p_tag: t.value });
+      O.refresh();
+    } catch (err) { O.say(O.errText(err)); }
   });
 
   // Shared buttons used on these pages.
