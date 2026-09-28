@@ -96,7 +96,7 @@ svg{display:block}
 .iconbtn{position:relative;width:38px;height:38px;border-radius:11px;border:1px solid var(--line);background:var(--surface);display:grid;place-items:center;color:var(--ink-2)}
 .iconbtn .dot{position:absolute;top:-4px;right:-4px;background:var(--crit);color:#fff;font-size:10.5px;font-weight:800;border-radius:999px;padding:0 5px;min-width:18px;height:18px;display:grid;place-items:center;border:2px solid var(--paper)}
 
-.content{padding:18px 24px calc(24px + env(safe-area-inset-bottom,0px));max-width:1280px;width:100%;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+.content{padding:18px 24px calc(24px + env(safe-area-inset-bottom,0px));max-width:1560px;width:100%;margin:0 auto;display:flex;flex-direction:column;gap:16px}
 .grid{display:grid;gap:14px;grid-template-columns:repeat(12,minmax(0,1fr))}
 .c3{grid-column:span 3}.c4{grid-column:span 4}.c5{grid-column:span 5}.c6{grid-column:span 6}.c7{grid-column:span 7}.c8{grid-column:span 8}.c12{grid-column:span 12}
 .card{background:var(--surface);border-radius:var(--radius);box-shadow:var(--shadow);padding:16px;min-width:0}
