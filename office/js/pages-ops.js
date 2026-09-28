@@ -28,12 +28,22 @@
           '<div class="dl">' + chip(a.source) + '<span>' + esc(O.date(a.created_at, true)) + '</span>' + (a.acked_at ? '<span>รับทราบโดย ' + esc(a.acked_name || '—') + ' ' + esc(O.date(a.acked_at, true)) + '</span>' : '') + '</div>' +
           (!a.acked_at && canAct() ? '<div class="acts"><button class="btn sm primary" data-ack="' + a.id + '">รับทราบ</button><button class="btn sm ghost" data-snooze="' + a.id + '">ปิดเสียง 24 ชม.</button>' + (a.link ? '<button class="btn sm ghost" data-go="' + esc(String(a.link).replace(/^#/, '').split('/')[0]) + '">ดูข้อมูล →</button>' : '') + '</div>' : '') + '</div></div>';
       };
-      let h = '<div class="note">ตอนนี้แจ้งเตือนอยู่ในหน้านี้ (เด้งสดเมื่อเปิดหน้าไว้) · การส่งเข้า <b>LINE</b> + Web Push + สรุปเช้า 08:00 มาในเฟส 3 · ระบบสร้างแจ้งเตือนเองเมื่อมีคนซื้อ Plus, Apple คืนเงิน/ยกเลิก และ Claude เพิ่มเรื่องที่ควรรู้</div>';
+      const linked = !!O.me.line_linked;
+      const lineCard = card('LINE ของฉัน', linked
+        ? '<div class="row">' + pill('ผูกแล้ว', 'good') + '<span class="small">เรื่องด่วนเด้งเข้า LINE ทันที</span></div>' +
+          '<ul class="small" style="margin:8px 0 0;padding-left:18px"><li>เรื่องเตือน (สีเหลือง) รอพ้นช่วงเงียบ 23:00–07:00</li><li>สรุปทุกเช้า 08:00</li><li>พิมพ์ "สถิติ" ในแชท JUNYPOP Office เพื่อดูตัวเลขวันนี้</li></ul>' +
+          '<div style="margin-top:10px"><button class="btn sm ghost" data-lineunlink="1">เลิกผูก LINE</button></div>'
+        : '<ol class="small" style="margin:0;padding-left:18px"><li>แอดเพื่อน <a href="https://line.me/R/ti/p/@793ymief" target="_blank" rel="noopener"><b>JUNYPOP Office</b> (@793ymief)</a></li><li>กดปุ่มด้านล่างเพื่อรับรหัส 6 หลัก</li><li>ส่งรหัสนั้นในแชท JUNYPOP Office</li></ol>' +
+          '<div style="margin-top:10px"><button class="btn sm primary" data-linecode="1">ขอรหัส 6 หลัก</button></div>',
+      { right: chip('db', null, { label: 'LINE' }) });
+      let h = '<div class="note">แจ้งเตือนด่วนและสรุปเช้า 08:00 ส่งเข้า <b>LINE</b> ของผู้ดูแลที่ผูกบัญชีแล้ว · ระบบสร้างแจ้งเตือนเองจากการซื้อ Plus, Apple คืนเงิน/ยกเลิก, โฆษณา (ทุก 15 นาที), เว็บล่ม (ทุก 5 นาที) และเรื่องที่ Claude เพิ่ม</div>';
       h += '<div class="grid"><div class="c8">' + groups.map(([t, items]) => items.length ? card(t, items.map(row).join('')) : '').join('') +
         ((d.items || []).length ? '' : card('ยังไม่มีแจ้งเตือน', '<div class="empty">เมื่อมีเหตุการณ์ (ซื้อ Plus, คืนเงิน, โฆษณามีปัญหา) จะขึ้นที่นี่</div>')) + '</div>' +
-        '<div class="c4">' + card('กฎที่ทำงานอยู่ตอนนี้', '<div class="tablewrap"><table><tbody>' +
-          [['Plus ใหม่ (เว็บ/App Store)', 'info'], ['App Store คืนเงิน/เพิกถอน', 'urgent'], ['Plus หมดอายุ/ยกเลิก', 'warn'], ['เรื่องที่ Claude เพิ่มเอง', 'ตามเรื่อง']].map(([n, l]) => '<tr><td>' + esc(n) + '</td><td>' + (LEVEL[l] ? pill(LEVEL[l][0], LEVEL[l][1]) : pill(l, 'neutral')) + '</td></tr>').join('') +
-          '</tbody></table></div>' + O.soon('เฟส 3', 'เว็บล่ม · ไม่มีใครเล่น 3 ชม. · ใช้เงินโฆษณาเกินแผน · โฆษณาถูกปฏิเสธ · รีวิว 1–2 ดาว · แหล่งข้อมูลค้าง พร้อมช่วงเงียบ 23:00–07:00')) + '</div></div>';
+        '<div class="c4">' + lineCard + card('กฎที่ทำงานอยู่ตอนนี้', '<div class="tablewrap"><table><tbody>' +
+          [['เว็บ junypop.com เปิดไม่ได้ 2 ครั้งติด', 'urgent'], ['โฆษณาถูกปฏิเสธ / มีปัญหา', 'urgent'], ['ใช้เงินโฆษณาวันนี้เกินแผน / ครบเพดานเดือน', 'urgent'], ['หยุดโฆษณาเว็บอัตโนมัติ (กฎ ฿200)', 'urgent'], ['App Store คืนเงิน/เพิกถอน', 'urgent'],
+           ['งบเดือนใช้ไป 90%', 'warn'], ['Apple Ads ไม่แสดง / ค่าคลิกแพง', 'warn'], ['Plus หมดอายุ/ยกเลิก', 'warn'], ['Plus ใหม่ (เว็บ/App Store)', 'info'], ['เรื่องที่ Claude เพิ่มเอง', 'ตามเรื่อง']]
+            .map(([n, l]) => '<tr><td>' + esc(n) + '</td><td>' + (LEVEL[l] ? pill(LEVEL[l][0], LEVEL[l][1]) : pill(l, 'neutral')) + '</td></tr>').join('') +
+          '</tbody></table></div><div class="small muted" style="margin-top:6px">ด่วน = เข้า LINE ทันทีแม้กลางคืน · เตือน = เข้า LINE นอกช่วงเงียบ 23:00–07:00 · ข้อมูล = ในหน้านี้เท่านั้น · แก้เกณฑ์โฆษณาได้ในหน้าโฆษณา</div>') + '</div></div>';
       return h;
     },
   });
@@ -101,10 +111,10 @@
       const ROLE = { owner: ['เจ้าของ', 'brand'], admin: ['แอดมิน', 'neutral'], viewer: ['ดูอย่างเดียว', 'neutral'] };
       let h = '';
       if (d.staff) {
-        h += card('ผู้ดูแลระบบ', '<div class="tablewrap"><table><thead><tr><th>ชื่อ</th><th>อีเมล</th><th>บทบาท</th><th>TOTP</th><th>เข้าล่าสุด</th><th>สถานะ</th>' + (owner ? '<th></th>' : '') + '</tr></thead><tbody>' + d.staff.items.map((s) => {
+        h += card('ผู้ดูแลระบบ', '<div class="tablewrap"><table><thead><tr><th>ชื่อ</th><th>อีเมล</th><th>บทบาท</th><th>TOTP</th><th>LINE</th><th>เข้าล่าสุด</th><th>สถานะ</th>' + (owner ? '<th></th>' : '') + '</tr></thead><tbody>' + d.staff.items.map((s) => {
           const r = ROLE[s.role] || [s.role, 'neutral'];
           const self = s.user_id === O.me.user_id;
-          return '<tr><td><b>' + esc(s.display_name || '—') + '</b>' + (self ? ' <span class="small muted">(คุณ)</span>' : '') + '</td><td>' + esc(s.email || '—') + '</td><td>' + pill(r[0], r[1]) + '</td><td>' + (s.mfa ? pill('เปิด', 'good') : pill('ยังไม่ตั้ง', 'warn')) + '</td><td>' + esc(s.last_seen_at ? O.date(s.last_seen_at, true) : 'ยังไม่เคยเข้า') + '</td><td>' +
+          return '<tr><td><b>' + esc(s.display_name || '—') + '</b>' + (self ? ' <span class="small muted">(คุณ)</span>' : '') + '</td><td>' + esc(s.email || '—') + '</td><td>' + pill(r[0], r[1]) + '</td><td>' + (s.mfa ? pill('เปิด', 'good') : pill('ยังไม่ตั้ง', 'warn')) + '</td><td>' + (s.line ? pill('ผูกแล้ว', 'good') : '<span class="muted small">—</span>') + '</td><td>' + esc(s.last_seen_at ? O.date(s.last_seen_at, true) : 'ยังไม่เคยเข้า') + '</td><td>' +
             (s.disabled ? pill('ระงับ', 'crit') : s.must_change_password ? pill('รอเปลี่ยนรหัส', 'warn') : pill('ใช้งาน', 'good')) + '</td>' +
             (owner ? '<td style="white-space:nowrap">' + (s.role !== 'owner' ? '<button class="btn sm" data-staff="reset" data-id="' + s.user_id + '">ออกรหัสใหม่</button> <button class="btn sm ghost" data-staff="role" data-id="' + s.user_id + '" data-role="' + s.role + '">' + (s.role === 'admin' ? 'ลดเป็นดูอย่างเดียว' : 'ตั้งเป็นแอดมิน') + '</button> <button class="btn sm ' + (s.disabled ? '' : 'danger') + '" data-staff="disable" data-id="' + s.user_id + '" data-v="' + (s.disabled ? '0' : '1') + '">' + (s.disabled ? 'เปิดใช้' : 'ระงับ') + '</button> <button class="btn sm ghost" data-staff="delete" data-id="' + s.user_id + '" data-name="' + esc(s.display_name || s.email) + '">ลบ</button>' : '') + '</td>' : '') + '</tr>';
         }).join('') + '</tbody></table></div><div class="small muted" style="margin-top:6px">เจ้าของ = ทุกอย่าง (ออกรหัส อนุมัติเงิน ดูอีเมลผู้เล่น) · แอดมิน = ทุกหน้า รับทราบแจ้งเตือน สั่งงานที่ไม่ใช้เงิน · ดูอย่างเดียว = อ่านได้ ไม่เห็นอีเมล · ระงับมีผลทันที</div>', { right: chip('db') });
@@ -134,9 +144,25 @@
   }
 
   document.addEventListener('click', async (e) => {
-    const t = e.target.closest ? e.target.closest('[data-snooze],[data-posted],[data-clipreq],[data-tpl],[data-send],[data-cancel],[data-staff],[data-closemodal],[data-mypw],[data-enroll],[data-confirm]') : null;
+    const t = e.target.closest ? e.target.closest('[data-snooze],[data-posted],[data-clipreq],[data-tpl],[data-send],[data-cancel],[data-staff],[data-closemodal],[data-mypw],[data-enroll],[data-confirm],[data-linecode],[data-lineunlink]') : null;
     if (!t) return;
     if (t.hasAttribute('data-closemodal')) { O.closeModal(); O.refresh(); return; }
+    if (t.hasAttribute('data-linecode')) {
+      t.disabled = true;
+      try {
+        const r = await O.rpc('office_line_code');
+        O.modal('<h2>รหัสผูก LINE</h2><div class="otp"><code>' + esc(r.code) + '</code><button class="btn sm" data-copy="' + esc(r.code) + '">' + ico('copy') + 'คัดลอก</button></div>' +
+          '<ol class="small" style="margin:0;padding-left:18px"><li>เปิดแชท <a href="https://line.me/R/ti/p/@793ymief" target="_blank" rel="noopener">JUNYPOP Office</a> ใน LINE (แอดเพื่อนก่อนถ้ายังไม่ได้แอด)</li><li>ส่งรหัส 6 หลักนี้ในแชท</li><li>บอทจะตอบว่า "ผูกบัญชีแล้ว"</li></ol>' +
+          '<div class="small muted">รหัสใช้ได้ 30 นาที ครั้งเดียว</div><button class="btn primary" data-closemodal="1" style="justify-content:center">ส่งแล้ว</button>');
+      } catch (err) { O.say(O.errText(err)); }
+      t.disabled = false;
+      return;
+    }
+    if (t.hasAttribute('data-lineunlink')) {
+      t.disabled = true;
+      try { await O.rpc('office_line_unlink'); O.me.line_linked = false; O.say('เลิกผูก LINE แล้ว'); O.refresh(); } catch (err) { O.say(O.errText(err)); t.disabled = false; }
+      return;
+    }
     if (t.hasAttribute('data-tpl')) { const i = document.getElementById('ct'); if (i) { i.value = t.getAttribute('data-tpl'); i.focus(); } return; }
     if (t.hasAttribute('data-enroll')) { O.say('ออกจากระบบแล้วเข้าใหม่ ระบบจะพาตั้งรหัส 6 หลัก'); return; }
     if (t.hasAttribute('data-mypw')) {
