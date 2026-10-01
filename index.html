@@ -54,6 +54,17 @@
   <title>JUNYPOP — เกมท่องศัพท์อังกฤษสำหรับคนไทย</title>
   <link rel="manifest" href="manifest.json">
 
+  <!--
+    Cold-load speed (measured 2026-10-02 on a throttled phone): the engine
+    only starts fetching its 1 MB script after flutter_bootstrap.js has run,
+    ~0.5 s in, so ask for it right away, and open the Supabase connection
+    early. CanvasKit is deliberately NOT preloaded (a 1.5–3 MB fetch that
+    starts before the small boot scripts starves them on slow links) and
+    stays on Google's CDN, which serves it brotli-compressed.
+  -->
+  <link rel="preload" href="main.dart.js" as="script">
+  <link rel="preconnect" href="https://hqjdpoomzrqywtswwqan.supabase.co" crossorigin>
+
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
