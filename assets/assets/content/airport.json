@@ -71,9 +71,9 @@
           "prohibited",
           "allowed",
           "laptop",
-          "jacket",
+          "pocket",
           "empty",
-          "shoes",
+          "lighter",
           "scissors"
         ],
         "image": "lessons/airport_3.webp"
@@ -137,7 +137,7 @@
           "overhead_bin",
           "tray_table",
           "landing",
-          "take_off",
+          "takeoff",
           "meal",
           "pilot",
           "headphones",
@@ -846,23 +846,22 @@
       "image": "words/laptop.webp"
     },
     {
-      "id": "jacket",
-      "word": "jacket",
+      "id": "pocket",
+      "word": "pocket",
       "pos": "noun",
-      "ipa": "/ˈdʒækɪt/",
-      "reading_th": "แจ๊ค-เก็ต",
-      "meaning_th": "แจ็กเก็ต / เสื้อคลุม",
-      "emoji": "🧥",
-      "example_en": "You need to take off your jacket here.",
-      "example_th": "คุณต้องถอดเสื้อแจ็กเก็ตตรงนี้",
-      "cefr": "A1",
-      "note_th": null,
+      "ipa": "/ˈpɑːkɪt/",
+      "reading_th": "พ็อค-เก็ต",
+      "meaning_th": "กระเป๋าเสื้อ / กระเป๋ากางเกง",
+      "emoji": null,
+      "example_en": "Please empty your pockets before the scanner.",
+      "example_th": "กรุณาเอาของออกจากกระเป๋ากางเกงให้หมดก่อนผ่านเครื่องสแกน",
+      "cefr": "A2",
+      "note_th": "pocket คือกระเป๋าที่เย็บติดกับเสื้อผ้า ถ้าเป็นกระเป๋าที่ถือหรือสะพายใช้ bag",
       "distractors": [
-        "coat",
-        "sweater",
-        "vest"
-      ],
-      "image": "words/jacket.webp"
+        "wallet",
+        "bag",
+        "purse"
+      ]
     },
     {
       "id": "empty",
@@ -883,23 +882,22 @@
       ]
     },
     {
-      "id": "shoes",
-      "word": "shoes",
+      "id": "lighter",
+      "word": "lighter",
       "pos": "noun",
-      "ipa": "/ʃuːz/",
-      "reading_th": "ชูส์",
-      "meaning_th": "รองเท้า",
-      "emoji": "👟",
-      "example_en": "Do I have to take my shoes off?",
-      "example_th": "ฉันต้องถอดรองเท้าไหม",
-      "cefr": "A1",
-      "note_th": null,
+      "ipa": "/ˈlaɪtər/",
+      "reading_th": "ไล-เทอร์",
+      "meaning_th": "ไฟแช็ก",
+      "emoji": null,
+      "example_en": "You cannot bring a lighter through security.",
+      "example_th": "คุณนำไฟแช็กผ่านจุดตรวจไม่ได้",
+      "cefr": "A2",
+      "note_th": "lighter ในสนามบินคือไฟแช็ก (คำนาม) อย่าสับสนกับ lighter ที่แปลว่า เบากว่า",
       "distractors": [
-        "socks",
-        "gloves",
-        "hat"
-      ],
-      "image": "words/shoes.webp"
+        "scissors",
+        "battery",
+        "bottle"
+      ]
     },
     {
       "id": "scissors",
@@ -1531,23 +1529,22 @@
       "image": "words/landing.webp"
     },
     {
-      "id": "take_off",
-      "word": "take off",
-      "pos": "verb",
-      "ipa": "/ˌteɪk ˈɔːf/",
+      "id": "takeoff",
+      "word": "takeoff",
+      "pos": "noun",
+      "ipa": "/ˈteɪkɔːf/",
       "reading_th": "เทค-ออฟ",
-      "meaning_th": "(เครื่องบิน) ขึ้นบิน / ถอด (เสื้อผ้า)",
+      "meaning_th": "การบินขึ้น (ของเครื่องบิน)",
       "emoji": "🛫",
-      "example_en": "The plane will take off in ten minutes.",
-      "example_th": "เครื่องบินจะขึ้นบินในอีกสิบนาที",
+      "example_en": "Please fasten your seat belt for takeoff.",
+      "example_th": "กรุณารัดเข็มขัดนิรภัยเพื่อเตรียมบินขึ้น",
       "cefr": "A2",
-      "note_th": "take off มีสองความหมายที่เจอในสนามบิน: เครื่องขึ้นบิน และ ถอด (เสื้อ รองเท้า) ส่วนคำนามเขียนติดกันเป็น takeoff",
+      "note_th": "takeoff เขียนติดกันเป็นคำนาม = การบินขึ้น ส่วน take off (แยกคำ) เป็นกริยา แปลว่า เครื่องขึ้นบิน หรือ ถอดเสื้อผ้า",
       "distractors": [
-        "land",
-        "leave",
-        "lift"
-      ],
-      "image": "words/take_off.webp"
+        "landing",
+        "delay",
+        "arrival"
+      ]
     },
     {
       "id": "meal",

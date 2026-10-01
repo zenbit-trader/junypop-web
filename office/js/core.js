@@ -13,6 +13,7 @@
   const ICONS = {
     home: '<path d="M3 11l9-8 9 8"/><path d="M5 10v10h14V10"/>',
     users: '<circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0113 0"/><circle cx="17" cy="9" r="2.5"/><path d="M15.5 14.5a5 5 0 016 5"/>',
+    tower: '<path d="M9 21V8l3-5 3 5v13"/><path d="M9 12h6"/><path d="M9 16h6"/><path d="M4 21h16"/>',
     store: '<path d="M3 9l1.5-5h15L21 9"/><path d="M3 9h18v11H3z"/><path d="M9 20v-6h6v6"/>',
     ads: '<path d="M3 11l14-6v14L3 13z"/><path d="M17 8a4 4 0 010 8"/>',
     chat: '<path d="M21 12a8 8 0 01-11.6 7.1L4 20l1.1-4.4A8 8 0 1121 12z"/>',
@@ -384,7 +385,7 @@
   }
 
   let started = false;
-  const ORDER = ['overview', 'players', 'store', 'ads', 'feedback', 'alerts', 'content', 'commands', 'staff', 'sources'];
+  const ORDER = ['overview', 'players', 'tower', 'store', 'ads', 'feedback', 'alerts', 'content', 'commands', 'staff', 'sources'];
   function startApp() {
     PAGES.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
     shell();

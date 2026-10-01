@@ -206,6 +206,7 @@
     if (typeof params === 'string') {
       try { params = JSON.parse(params); } catch (e) { params = {}; }
     }
+    if (name === 'play_start') { inGame = true; hideConsentBar(); }
     if (!NEEDS_CONSENT) { log('event (no tracker configured)', name, params); return; }
     if (consent !== 'yes') {
       if (consent !== 'no' && queue.length < 50) queue.push([name, params]);
@@ -248,8 +249,38 @@
     return b;
   }
 
+  // The bar sits over the bottom of the screen — exactly where the game's
+  // "ต่อไป" and answer buttons are. So it is only ever shown on the home
+  // screen: hidden the moment a lesson starts (track('play_start')) and
+  // shown again when Dart reports the home screen (window.junypop.homeVisible).
+  // An ad visitor (?start=1 / utm_medium=paid) lands straight in a lesson,
+  // so for them nothing is shown until that first lesson is over — on
+  // 2026-10-01 the bar hid "ต่อไป" from 27 of 27 such visitors, none of whom
+  // finished. Events keep queueing meanwhile, so nothing is lost.
+  var INSTANT_START = (function () {
+    try {
+      var q = new URLSearchParams(window.location.search);
+      return q.has('start') || q.get('utm_medium') === 'paid';
+    } catch (e) { return false; }
+  })();
+  var inGame = false;
+  var consentBar = null;
+
+  function consentPending() { return NEEDS_CONSENT && consent !== 'yes' && consent !== 'no'; }
+
+  function hideConsentBar() {
+    if (consentBar) { consentBar.remove(); consentBar = null; }
+  }
+
+  function homeVisible() {
+    inGame = false;
+    if (consentPending() && !consentBar) showConsentBar();
+  }
+
   function showConsentBar() {
+    if (consentBar || !consentPending()) return;
     var bar = document.createElement('div');
+    consentBar = bar;
     styleBar(bar);
     var text = document.createElement('div');
     text.style.cssText = 'flex:1 1 240px;min-width:200px';
@@ -259,8 +290,8 @@
     actions.style.cssText = 'display:flex;gap:8px;flex:0 0 auto';
     var no = button('ไม่ใช้', false);
     var yes = button('ยอมรับ', true);
-    no.onclick = function () { ls(K_CONSENT, 'no'); consent = 'no'; queue.length = 0; bar.remove(); };
-    yes.onclick = function () { ls(K_CONSENT, 'yes'); consent = 'yes'; bar.remove(); flush(); };
+    no.onclick = function () { ls(K_CONSENT, 'no'); consent = 'no'; queue.length = 0; hideConsentBar(); };
+    yes.onclick = function () { ls(K_CONSENT, 'yes'); consent = 'yes'; hideConsentBar(); flush(); };
     actions.appendChild(no);
     actions.appendChild(yes);
     bar.appendChild(text);
@@ -300,6 +331,7 @@
     acquisition: function () { var a = acquisition(); return a ? JSON.stringify(a) : ''; },
     inviteCode: inviteCode,
     bootDone: bootDone,
+    homeVisible: homeVisible,
     consentState: function () { return NEEDS_CONSENT ? (consent || 'ask') : 'off'; }
   };
 
@@ -307,8 +339,15 @@
   track('page_view', { path: window.location.pathname });
   markVisit();
 
-  if (NEEDS_CONSENT && consent !== 'yes' && consent !== 'no') {
-    if (document.readyState === 'loading') {
+  if (consentPending()) {
+    if (INSTANT_START) {
+      // Straight into a lesson: ask afterwards. If no lesson has started
+      // 12 s after the first frame, the visitor is on the home screen after
+      // all (no hearts, nothing unlocked) and may be asked now.
+      window.addEventListener('flutter-first-frame', function () {
+        setTimeout(function () { if (!inGame) homeVisible(); }, 12000);
+      });
+    } else if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', showConsentBar);
     } else {
       showConsentBar();
