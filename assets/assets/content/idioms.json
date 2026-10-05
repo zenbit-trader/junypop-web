@@ -29,7 +29,8 @@
           "have_a_blast",
           "lose_track_of_time",
           "in_a_nutshell"
-        ]
+        ],
+        "image": "lessons/idioms_1.webp"
       },
       {
         "id": "idioms_2",
@@ -51,7 +52,8 @@
           "learn_the_ropes",
           "go_the_extra_mile",
           "touch_base"
-        ]
+        ],
+        "image": "lessons/idioms_2.webp"
       },
       {
         "id": "idioms_3",
@@ -73,7 +75,8 @@
           "a_steal",
           "on_a_shoestring",
           "from_rags_to_riches"
-        ]
+        ],
+        "image": "lessons/idioms_3.webp"
       },
       {
         "id": "idioms_4",
@@ -95,7 +98,8 @@
           "blow_off_steam",
           "get_on_my_nerves",
           "mixed_feelings"
-        ]
+        ],
+        "image": "lessons/idioms_4.webp"
       },
       {
         "id": "idioms_5",
@@ -117,7 +121,8 @@
           "play_hard_to_get",
           "two_peas_in_a_pod",
           "clear_the_air"
-        ]
+        ],
+        "image": "lessons/idioms_5.webp"
       },
       {
         "id": "idioms_6",
@@ -139,7 +144,8 @@
           "second_thoughts",
           "beginners_luck",
           "long_shot"
-        ]
+        ],
+        "image": "lessons/idioms_6.webp"
       },
       {
         "id": "idioms_7",
@@ -161,7 +167,8 @@
           "crack_of_dawn",
           "in_the_long_run",
           "step_on_it"
-        ]
+        ],
+        "image": "lessons/idioms_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "break the bank",
         "break a leg",
         "cut corners"
-      ]
+      ],
+      "image": "words/break_the_ice.webp"
     },
     {
       "id": "hit_it_off",
@@ -200,7 +208,8 @@
         "hit the roof",
         "hit the jackpot",
         "call it a day"
-      ]
+      ],
+      "image": "words/hit_it_off.webp"
     },
     {
       "id": "long_time_no_see",

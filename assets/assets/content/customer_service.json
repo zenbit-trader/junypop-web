@@ -29,7 +29,8 @@
           "inquiry",
           "one_moment_please",
           "put_through"
-        ]
+        ],
+        "image": "lessons/customer_service_1.webp"
       },
       {
         "id": "customer_service_2",
@@ -51,7 +52,8 @@
           "in_detail",
           "root_cause",
           "narrow_down"
-        ]
+        ],
+        "image": "lessons/customer_service_2.webp"
       },
       {
         "id": "customer_service_3",
@@ -73,7 +75,8 @@
           "assure",
           "irate",
           "fault"
-        ]
+        ],
+        "image": "lessons/customer_service_3.webp"
       },
       {
         "id": "customer_service_4",
@@ -95,7 +98,8 @@
           "reimburse",
           "processing_time",
           "service_center"
-        ]
+        ],
+        "image": "lessons/customer_service_4.webp"
       },
       {
         "id": "customer_service_5",
@@ -117,7 +121,8 @@
           "reference_number",
           "chargeback",
           "consumer"
-        ]
+        ],
+        "image": "lessons/customer_service_5.webp"
       },
       {
         "id": "customer_service_6",
@@ -139,7 +144,8 @@
           "self_service",
           "knowledge_base",
           "template"
-        ]
+        ],
+        "image": "lessons/customer_service_6.webp"
       },
       {
         "id": "customer_service_7",
@@ -161,7 +167,8 @@
           "close_the_case",
           "complimentary",
           "courteous"
-        ]
+        ],
+        "image": "lessons/customer_service_7.webp"
       }
     ]
   },

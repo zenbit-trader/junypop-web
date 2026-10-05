@@ -29,7 +29,8 @@
           "shortage",
           "component",
           "recall"
-        ]
+        ],
+        "image": "lessons/toeic_2_1.webp"
       },
       {
         "title_en": "Shipping & Logistics",
@@ -51,7 +52,8 @@
           "expedite",
           "lead_time",
           "bulk"
-        ]
+        ],
+        "image": "lessons/toeic_2_2.webp"
       },
       {
         "title_en": "Real Estate & Facilities",
@@ -73,7 +75,8 @@
           "plumbing",
           "real_estate_agent",
           "vacant"
-        ]
+        ],
+        "image": "lessons/toeic_2_3.webp"
       },
       {
         "title_en": "Orders & Invoices",
@@ -95,7 +98,8 @@
           "itemized",
           "backorder",
           "remit"
-        ]
+        ],
+        "image": "lessons/toeic_2_4.webp"
       },
       {
         "title_en": "Policies & Regulations",
@@ -117,7 +121,8 @@
           "sanction",
           "disclose",
           "in_accordance_with"
-        ]
+        ],
+        "image": "lessons/toeic_2_5.webp"
       },
       {
         "title_en": "Media & Events",
@@ -139,7 +144,8 @@
           "broadcast",
           "press_conference",
           "catering"
-        ]
+        ],
+        "image": "lessons/toeic_2_6.webp"
       },
       {
         "title_en": "Connectors & Formal Verbs",
@@ -161,7 +167,8 @@
           "anticipate",
           "accordingly",
           "nevertheless"
-        ]
+        ],
+        "image": "lessons/toeic_2_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "manufacturer",
         "manual",
         "maintain"
-      ]
+      ],
+      "image": "words/manufacture.webp"
     },
     {
       "id": "assembly_line",
@@ -200,7 +208,8 @@
         "production line",
         "assembly hall",
         "front line"
-      ]
+      ],
+      "image": "words/assembly_line.webp"
     },
     {
       "id": "inspect",
@@ -218,7 +227,8 @@
         "expect",
         "suspect",
         "respect"
-      ]
+      ],
+      "image": "words/inspect.webp"
     },
     {
       "id": "defect",
@@ -236,7 +246,8 @@
         "defeat",
         "effect",
         "detect"
-      ]
+      ],
+      "image": "words/defect.webp"
     },
     {
       "id": "durable",
@@ -254,7 +265,8 @@
         "double",
         "durability",
         "disable"
-      ]
+      ],
+      "image": "words/durable.webp"
     },
     {
       "id": "raw_material",
@@ -272,7 +284,8 @@
         "raw data",
         "material",
         "ingredient"
-      ]
+      ],
+      "image": "words/raw_material.webp"
     },
     {
       "id": "machinery",
@@ -290,7 +303,8 @@
         "machine",
         "mechanic",
         "mechanism"
-      ]
+      ],
+      "image": "words/machinery.webp"
     },
     {
       "id": "output",
@@ -308,7 +322,8 @@
         "input",
         "outlet",
         "outcome"
-      ]
+      ],
+      "image": "words/output.webp"
     },
     {
       "id": "standard",
@@ -326,7 +341,8 @@
         "standing",
         "status",
         "stand"
-      ]
+      ],
+      "image": "words/standard.webp"
     },
     {
       "id": "malfunction",
@@ -344,7 +360,8 @@
         "function",
         "multifunction",
         "malnutrition"
-      ]
+      ],
+      "image": "words/malfunction.webp"
     },
     {
       "id": "efficient",
@@ -362,7 +379,8 @@
         "effective",
         "sufficient",
         "efficiency"
-      ]
+      ],
+      "image": "words/efficient.webp"
     },
     {
       "id": "shortage",
@@ -380,7 +398,8 @@
         "surplus",
         "shortcut",
         "storage"
-      ]
+      ],
+      "image": "words/shortage.webp"
     },
     {
       "id": "component",
@@ -398,7 +417,8 @@
         "compartment",
         "opponent",
         "complement"
-      ]
+      ],
+      "image": "words/component.webp"
     },
     {
       "id": "recall",
@@ -416,7 +436,8 @@
         "recycle",
         "call back",
         "refund"
-      ]
+      ],
+      "image": "words/recall.webp"
     },
     {
       "id": "freight",
@@ -434,7 +455,8 @@
         "fright",
         "flight",
         "weight"
-      ]
+      ],
+      "image": "words/freight.webp"
     },
     {
       "id": "cargo",
@@ -452,7 +474,8 @@
         "carton",
         "carriage",
         "cardio"
-      ]
+      ],
+      "image": "words/cargo.webp"
     },
     {
       "id": "dispatch",
@@ -470,7 +493,8 @@
         "display",
         "disrupt",
         "patch"
-      ]
+      ],
+      "image": "words/dispatch.webp"
     },
     {
       "id": "courier",
@@ -488,7 +512,8 @@
         "career",
         "carrier",
         "curious"
-      ]
+      ],
+      "image": "words/courier.webp"
     },
     {
       "id": "tracking_number",
@@ -506,7 +531,8 @@
         "serial number",
         "order number",
         "account number"
-      ]
+      ],
+      "image": "words/tracking_number.webp"
     },
     {
       "id": "consignment",
@@ -524,7 +550,8 @@
         "assignment",
         "consent",
         "commitment"
-      ]
+      ],
+      "image": "words/consignment.webp"
     },
     {
       "id": "distribute",
@@ -542,7 +569,8 @@
         "contribute",
         "attribute",
         "disturb"
-      ]
+      ],
+      "image": "words/distribute.webp"
     },
     {
       "id": "in_transit",
@@ -560,7 +588,8 @@
         "in stock",
         "in storage",
         "in person"
-      ]
+      ],
+      "image": "words/in_transit.webp"
     },
     {
       "id": "fragile",
@@ -578,7 +607,8 @@
         "agile",
         "flexible",
         "fragrant"
-      ]
+      ],
+      "image": "words/fragile.webp"
     },
     {
       "id": "customs_clearance",
@@ -596,7 +626,8 @@
         "customs duty",
         "security clearance",
         "customer service"
-      ]
+      ],
+      "image": "words/customs_clearance.webp"
     },
     {
       "id": "load",
@@ -614,7 +645,8 @@
         "unload",
         "lord",
         "road"
-      ]
+      ],
+      "image": "words/load.webp"
     },
     {
       "id": "expedite",
@@ -632,7 +664,8 @@
         "expand",
         "expect",
         "expire"
-      ]
+      ],
+      "image": "words/expedite.webp"
     },
     {
       "id": "lead_time",
@@ -650,7 +683,8 @@
         "lead role",
         "deadline",
         "overtime"
-      ]
+      ],
+      "image": "words/lead_time.webp"
     },
     {
       "id": "bulk",
@@ -668,7 +702,8 @@
         "bull",
         "bunch",
         "bulb"
-      ]
+      ],
+      "image": "words/bulk.webp"
     },
     {
       "id": "commercial",
@@ -686,7 +721,8 @@
         "residential",
         "commerce",
         "commission"
-      ]
+      ],
+      "image": "words/commercial.webp"
     },
     {
       "id": "occupancy",
@@ -704,7 +740,8 @@
         "occupation",
         "vacancy",
         "occupant"
-      ]
+      ],
+      "image": "words/occupancy.webp"
     },
     {
       "id": "ventilation",
@@ -722,7 +759,8 @@
         "validation",
         "vacation",
         "vibration"
-      ]
+      ],
+      "image": "words/ventilation.webp"
     },
     {
       "id": "property",
@@ -740,7 +778,8 @@
         "properly",
         "poverty",
         "priority"
-      ]
+      ],
+      "image": "words/property.webp"
     },
     {
       "id": "facility",
@@ -758,7 +797,8 @@
         "faculty",
         "facilitate",
         "fatality"
-      ]
+      ],
+      "image": "words/facility.webp"
     },
     {
       "id": "renovate",
@@ -776,7 +816,8 @@
         "innovate",
         "renew",
         "remove"
-      ]
+      ],
+      "image": "words/renovate.webp"
     },
     {
       "id": "floor_space",
@@ -794,7 +835,8 @@
         "floor plan",
         "office space",
         "parking space"
-      ]
+      ],
+      "image": "words/floor_space.webp"
     },
     {
       "id": "square_meter",
@@ -812,7 +854,8 @@
         "square foot",
         "kilometer",
         "square root"
-      ]
+      ],
+      "image": "words/square_meter.webp"
     },
     {
       "id": "premises",
@@ -830,7 +873,8 @@
         "promises",
         "premium",
         "premise"
-      ]
+      ],
+      "image": "words/premises.webp"
     },
     {
       "id": "spacious",
@@ -848,7 +892,8 @@
         "special",
         "specious",
         "gracious"
-      ]
+      ],
+      "image": "words/spacious.webp"
     },
     {
       "id": "relocate",
@@ -866,7 +911,8 @@
         "locate",
         "relate",
         "reload"
-      ]
+      ],
+      "image": "words/relocate.webp"
     },
     {
       "id": "plumbing",
@@ -884,7 +930,8 @@
         "plumber",
         "plunge",
         "climbing"
-      ]
+      ],
+      "image": "words/plumbing.webp"
     },
     {
       "id": "real_estate_agent",
@@ -902,7 +949,8 @@
         "travel agent",
         "estate",
         "real estate"
-      ]
+      ],
+      "image": "words/real_estate_agent.webp"
     },
     {
       "id": "vacant",
@@ -920,7 +968,8 @@
         "vacation",
         "occupied",
         "vague"
-      ]
+      ],
+      "image": "words/vacant.webp"
     },
     {
       "id": "purchase_order",
@@ -938,7 +987,8 @@
         "purchase",
         "work order",
         "order form"
-      ]
+      ],
+      "image": "words/purchase_order.webp"
     },
     {
       "id": "quotation",
@@ -956,7 +1006,8 @@
         "question",
         "quota",
         "quantity"
-      ]
+      ],
+      "image": "words/quotation.webp"
     },
     {
       "id": "place_an_order",
@@ -974,7 +1025,8 @@
         "take an order",
         "make a deal",
         "place a bet"
-      ]
+      ],
+      "image": "words/place_an_order.webp"
     },
     {
       "id": "merchandise",
@@ -992,7 +1044,8 @@
         "merchant",
         "machinery",
         "mechanism"
-      ]
+      ],
+      "image": "words/merchandise.webp"
     },
     {
       "id": "retailer",
@@ -1010,7 +1063,8 @@
         "wholesaler",
         "retail",
         "tailor"
-      ]
+      ],
+      "image": "words/retailer.webp"
     },
     {
       "id": "payment_terms",
@@ -1028,7 +1082,8 @@
         "payment method",
         "terms of service",
         "payment plan"
-      ]
+      ],
+      "image": "words/payment_terms.webp"
     },
     {
       "id": "wire_transfer",
@@ -1046,7 +1101,8 @@
         "bank transfer",
         "wireless",
         "transfer fee"
-      ]
+      ],
+      "image": "words/wire_transfer.webp"
     },
     {
       "id": "prepaid",
@@ -1064,7 +1120,8 @@
         "postpaid",
         "unpaid",
         "repaid"
-      ]
+      ],
+      "image": "words/prepaid.webp"
     },
     {
       "id": "discrepancy",
@@ -1082,7 +1139,8 @@
         "dependency",
         "discount",
         "description"
-      ]
+      ],
+      "image": "words/discrepancy.webp"
     },
     {
       "id": "surcharge",
@@ -1100,7 +1158,8 @@
         "discharge",
         "service fee",
         "charger"
-      ]
+      ],
+      "image": "words/surcharge.webp"
     },
     {
       "id": "net",
@@ -1118,7 +1177,8 @@
         "gross",
         "nest",
         "neat"
-      ]
+      ],
+      "image": "words/net.webp"
     },
     {
       "id": "itemized",
@@ -1136,7 +1196,8 @@
         "optimized",
         "organized",
         "item"
-      ]
+      ],
+      "image": "words/itemized.webp"
     },
     {
       "id": "backorder",
@@ -1154,7 +1215,8 @@
         "back office",
         "preorder",
         "reorder"
-      ]
+      ],
+      "image": "words/backorder.webp"
     },
     {
       "id": "remit",
@@ -1172,7 +1234,8 @@
         "remind",
         "permit",
         "submit"
-      ]
+      ],
+      "image": "words/remit.webp"
     },
     {
       "id": "policy",
@@ -1190,7 +1253,8 @@
         "police",
         "politics",
         "polish"
-      ]
+      ],
+      "image": "words/policy.webp"
     },
     {
       "id": "guideline",
@@ -1208,7 +1272,8 @@
         "deadline",
         "guidance",
         "headline"
-      ]
+      ],
+      "image": "words/guideline.webp"
     },
     {
       "id": "mandatory",
@@ -1226,7 +1291,8 @@
         "optional",
         "voluntary",
         "monetary"
-      ]
+      ],
+      "image": "words/mandatory.webp"
     },
     {
       "id": "compliance",
@@ -1244,7 +1310,8 @@
         "appliance",
         "complaint",
         "complexity"
-      ]
+      ],
+      "image": "words/compliance.webp"
     },
     {
       "id": "violation",
@@ -1262,7 +1329,8 @@
         "violence",
         "vacation",
         "valuation"
-      ]
+      ],
+      "image": "words/violation.webp"
     },
     {
       "id": "restrict",
@@ -1280,7 +1348,8 @@
         "restrain",
         "district",
         "strict"
-      ]
+      ],
+      "image": "words/restrict.webp"
     },
     {
       "id": "code_of_conduct",
@@ -1298,7 +1367,8 @@
         "dress code",
         "code of ethics",
         "conductor"
-      ]
+      ],
+      "image": "words/code_of_conduct.webp"
     },
     {
       "id": "impose",
@@ -1316,7 +1386,8 @@
         "expose",
         "propose",
         "oppose"
-      ]
+      ],
+      "image": "words/impose.webp"
     },
     {
       "id": "liability",
@@ -1334,7 +1405,8 @@
         "reliability",
         "ability",
         "stability"
-      ]
+      ],
+      "image": "words/liability.webp"
     },
     {
       "id": "strictly",
@@ -1352,7 +1424,8 @@
         "strict",
         "directly",
         "swiftly"
-      ]
+      ],
+      "image": "words/strictly.webp"
     },
     {
       "id": "exempt",
@@ -1370,7 +1443,8 @@
         "exam",
         "example",
         "except"
-      ]
+      ],
+      "image": "words/exempt.webp"
     },
     {
       "id": "sanction",
@@ -1388,7 +1462,8 @@
         "section",
         "auction",
         "suction"
-      ]
+      ],
+      "image": "words/sanction.webp"
     },
     {
       "id": "disclose",
@@ -1406,7 +1481,8 @@
         "close",
         "enclose",
         "discuss"
-      ]
+      ],
+      "image": "words/disclose.webp"
     },
     {
       "id": "in_accordance_with",
@@ -1424,7 +1500,8 @@
         "according to",
         "in addition to",
         "in charge of"
-      ]
+      ],
+      "image": "words/in_accordance_with.webp"
     },
     {
       "id": "press_release",
@@ -1442,7 +1519,8 @@
         "news report",
         "release date",
         "press pass"
-      ]
+      ],
+      "image": "words/press_release.webp"
     },
     {
       "id": "keynote",
@@ -1460,7 +1538,8 @@
         "keyboard",
         "key point",
         "footnote"
-      ]
+      ],
+      "image": "words/keynote.webp"
     },
     {
       "id": "banquet",
@@ -1478,7 +1557,8 @@
         "bouquet",
         "basket",
         "blanket"
-      ]
+      ],
+      "image": "words/banquet.webp"
     },
     {
       "id": "sponsorship",
@@ -1496,7 +1576,8 @@
         "scholarship",
         "membership",
         "ownership"
-      ]
+      ],
+      "image": "words/sponsorship.webp"
     },
     {
       "id": "fundraiser",
@@ -1514,7 +1595,8 @@
         "fundraising",
         "founder",
         "sunrise"
-      ]
+      ],
+      "image": "words/fundraiser.webp"
     },
     {
       "id": "journalist",
@@ -1532,7 +1614,8 @@
         "journal",
         "journey",
         "novelist"
-      ]
+      ],
+      "image": "words/journalist.webp"
     },
     {
       "id": "editorial",
@@ -1550,7 +1633,8 @@
         "editor",
         "edition",
         "tutorial"
-      ]
+      ],
+      "image": "words/editorial.webp"
     },
     {
       "id": "circulation",
@@ -1568,7 +1652,8 @@
         "calculation",
         "circle",
         "regulation"
-      ]
+      ],
+      "image": "words/circulation.webp"
     },
     {
       "id": "coverage",
@@ -1586,7 +1671,8 @@
         "cover",
         "courage",
         "coverage area"
-      ]
+      ],
+      "image": "words/coverage.webp"
     },
     {
       "id": "exhibitor",
@@ -1604,7 +1690,8 @@
         "exhibit",
         "editor",
         "visitor"
-      ]
+      ],
+      "image": "words/exhibitor.webp"
     },
     {
       "id": "commemorate",
@@ -1622,7 +1709,8 @@
         "commend",
         "memorize",
         "celebrate"
-      ]
+      ],
+      "image": "words/commemorate.webp"
     },
     {
       "id": "broadcast",
@@ -1640,7 +1728,8 @@
         "podcast",
         "forecast",
         "broad"
-      ]
+      ],
+      "image": "words/broadcast.webp"
     },
     {
       "id": "press_conference",
@@ -1658,7 +1747,8 @@
         "news conference",
         "press pass",
         "video conference"
-      ]
+      ],
+      "image": "words/press_conference.webp"
     },
     {
       "id": "catering",
@@ -1676,7 +1766,8 @@
         "caterer",
         "catalog",
         "cleaning"
-      ]
+      ],
+      "image": "words/catering.webp"
     },
     {
       "id": "in_order_to",
@@ -1694,7 +1785,8 @@
         "in order",
         "in case of",
         "so that"
-      ]
+      ],
+      "image": "words/in_order_to.webp"
     },
     {
       "id": "thus",
@@ -1712,7 +1804,8 @@
         "this",
         "those",
         "thug"
-      ]
+      ],
+      "image": "words/thus.webp"
     },
     {
       "id": "provided_that",
@@ -1730,7 +1823,8 @@
         "provide",
         "unless",
         "even though"
-      ]
+      ],
+      "image": "words/provided_that.webp"
     },
     {
       "id": "regardless_of",
@@ -1748,7 +1842,8 @@
         "regarding",
         "in regard to",
         "regards"
-      ]
+      ],
+      "image": "words/regardless_of.webp"
     },
     {
       "id": "as_well_as",
@@ -1766,7 +1861,8 @@
         "as well",
         "as long as",
         "as soon as"
-      ]
+      ],
+      "image": "words/as_well_as.webp"
     },
     {
       "id": "in_the_event_of",
@@ -1784,7 +1880,8 @@
         "in case of",
         "in the end",
         "event"
-      ]
+      ],
+      "image": "words/in_the_event_of.webp"
     },
     {
       "id": "meanwhile",
@@ -1802,7 +1899,8 @@
         "while",
         "meantime",
         "meaningful"
-      ]
+      ],
+      "image": "words/meanwhile.webp"
     },
     {
       "id": "implement",
@@ -1820,7 +1918,8 @@
         "improvement",
         "complement",
         "implant"
-      ]
+      ],
+      "image": "words/implement.webp"
     },
     {
       "id": "accommodate",
@@ -1838,7 +1937,8 @@
         "accumulate",
         "accompany",
         "commemorate"
-      ]
+      ],
+      "image": "words/accommodate.webp"
     },
     {
       "id": "ensure",
@@ -1856,7 +1956,8 @@
         "insure",
         "assure",
         "endure"
-      ]
+      ],
+      "image": "words/ensure.webp"
     },
     {
       "id": "acquire",
@@ -1874,7 +1975,8 @@
         "require",
         "inquire",
         "acquit"
-      ]
+      ],
+      "image": "words/acquire.webp"
     },
     {
       "id": "anticipate",
@@ -1892,7 +1994,8 @@
         "participate",
         "appreciate",
         "animate"
-      ]
+      ],
+      "image": "words/anticipate.webp"
     },
     {
       "id": "accordingly",
@@ -1910,7 +2013,8 @@
         "according to",
         "accordion",
         "recordingly"
-      ]
+      ],
+      "image": "words/accordingly.webp"
     },
     {
       "id": "nevertheless",
@@ -1928,7 +2032,8 @@
         "nonetheless",
         "never",
         "regardless"
-      ]
+      ],
+      "image": "words/nevertheless.webp"
     }
   ]
 }

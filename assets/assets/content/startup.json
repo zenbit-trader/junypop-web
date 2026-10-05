@@ -29,7 +29,8 @@
           "market_research",
           "validate",
           "innovation"
-        ]
+        ],
+        "image": "lessons/startup_1.webp"
       },
       {
         "id": "startup_2",
@@ -51,7 +52,8 @@
           "metric",
           "landing_page",
           "waitlist"
-        ]
+        ],
+        "image": "lessons/startup_2.webp"
       },
       {
         "id": "startup_3",
@@ -73,7 +75,8 @@
           "burn_rate",
           "crowdfunding",
           "projection"
-        ]
+        ],
+        "image": "lessons/startup_3.webp"
       },
       {
         "id": "startup_4",
@@ -95,7 +98,8 @@
           "net_worth",
           "majority",
           "payout"
-        ]
+        ],
+        "image": "lessons/startup_4.webp"
       },
       {
         "id": "startup_5",
@@ -117,7 +121,8 @@
           "etf",
           "yield",
           "passive_income"
-        ]
+        ],
+        "image": "lessons/startup_5.webp"
       },
       {
         "id": "startup_6",
@@ -139,7 +144,8 @@
           "private_key",
           "altcoin",
           "rug_pull"
-        ]
+        ],
+        "image": "lessons/startup_6.webp"
       },
       {
         "id": "startup_7",
@@ -161,7 +167,8 @@
           "cash_flow",
           "franchise",
           "layoff"
-        ]
+        ],
+        "image": "lessons/startup_7.webp"
       }
     ]
   },

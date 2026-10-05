@@ -29,7 +29,8 @@
           "trace",
           "still_life",
           "artwork"
-        ]
+        ],
+        "image": "lessons/hobbies_art_1.webp"
       },
       {
         "id": "hobbies_art_2",
@@ -51,7 +52,8 @@
           "exposure",
           "pose",
           "golden_hour"
-        ]
+        ],
+        "image": "lessons/hobbies_art_2.webp"
       },
       {
         "id": "hobbies_art_3",
@@ -73,7 +75,8 @@
           "sheet_music",
           "out_of_tune",
           "busk"
-        ]
+        ],
+        "image": "lessons/hobbies_art_3.webp"
       },
       {
         "id": "hobbies_art_4",
@@ -95,7 +98,8 @@
           "diy",
           "hammer",
           "woodwork"
-        ]
+        ],
+        "image": "lessons/hobbies_art_4.webp"
       },
       {
         "id": "hobbies_art_5",
@@ -117,7 +121,8 @@
           "take_turns",
           "shuffle",
           "jigsaw"
-        ]
+        ],
+        "image": "lessons/hobbies_art_5.webp"
       },
       {
         "id": "hobbies_art_6",
@@ -139,7 +144,8 @@
           "campsite",
           "flashlight",
           "fresh_air"
-        ]
+        ],
+        "image": "lessons/hobbies_art_6.webp"
       },
       {
         "id": "hobbies_art_7",
@@ -161,7 +167,8 @@
           "display",
           "curator",
           "inspiration"
-        ]
+        ],
+        "image": "lessons/hobbies_art_7.webp"
       }
     ]
   },

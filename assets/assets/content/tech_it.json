@@ -29,7 +29,8 @@
           "hard_drive",
           "processor",
           "ethernet"
-        ]
+        ],
+        "image": "lessons/tech_it_1.webp"
       },
       {
         "id": "tech_it_2",
@@ -51,7 +52,8 @@
           "open_source",
           "upgrade",
           "user_friendly"
-        ]
+        ],
+        "image": "lessons/tech_it_2.webp"
       },
       {
         "id": "tech_it_3",
@@ -73,7 +75,8 @@
           "framework",
           "repository",
           "front_end"
-        ]
+        ],
+        "image": "lessons/tech_it_3.webp"
       },
       {
         "id": "tech_it_4",
@@ -95,7 +98,8 @@
           "cache",
           "real_time",
           "archive"
-        ]
+        ],
+        "image": "lessons/tech_it_4.webp"
       },
       {
         "id": "tech_it_5",
@@ -117,7 +121,8 @@
           "antivirus",
           "vpn",
           "access"
-        ]
+        ],
+        "image": "lessons/tech_it_5.webp"
       },
       {
         "id": "tech_it_6",
@@ -139,7 +144,8 @@
           "deepfake",
           "accuracy",
           "voice_assistant"
-        ]
+        ],
+        "image": "lessons/tech_it_6.webp"
       },
       {
         "id": "tech_it_7",
@@ -161,7 +167,8 @@
           "workaround",
           "overheat",
           "corrupted"
-        ]
+        ],
+        "image": "lessons/tech_it_7.webp"
       }
     ]
   },

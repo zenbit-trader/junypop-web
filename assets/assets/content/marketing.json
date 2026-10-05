@@ -29,7 +29,8 @@
           "mascot",
           "brand_guidelines",
           "premium"
-        ]
+        ],
+        "image": "lessons/marketing_1.webp"
       },
       {
         "id": "marketing_2",
@@ -51,7 +52,8 @@
           "ugc",
           "brief",
           "repurpose"
-        ]
+        ],
+        "image": "lessons/marketing_2.webp"
       },
       {
         "id": "marketing_3",
@@ -73,7 +75,8 @@
           "bounce_rate",
           "pixel",
           "placement"
-        ]
+        ],
+        "image": "lessons/marketing_3.webp"
       },
       {
         "id": "marketing_4",
@@ -95,7 +98,8 @@
           "rate_card",
           "authentic",
           "live_commerce"
-        ]
+        ],
+        "image": "lessons/marketing_4.webp"
       },
       {
         "id": "marketing_5",
@@ -117,7 +121,8 @@
           "free_trial",
           "referral",
           "early_bird"
-        ]
+        ],
+        "image": "lessons/marketing_5.webp"
       },
       {
         "id": "marketing_6",
@@ -139,7 +144,8 @@
           "quantitative",
           "sample_size",
           "nps"
-        ]
+        ],
+        "image": "lessons/marketing_6.webp"
       },
       {
         "id": "marketing_7",
@@ -161,7 +167,8 @@
           "double_down",
           "optimize",
           "open_rate"
-        ]
+        ],
+        "image": "lessons/marketing_7.webp"
       }
     ]
   },

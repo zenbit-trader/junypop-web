@@ -29,7 +29,8 @@
           "bcc",
           "recipient",
           "to_whom_it_may_concern"
-        ]
+        ],
+        "image": "lessons/email_meetings_1.webp"
       },
       {
         "id": "email_meetings_2",
@@ -51,7 +52,8 @@
           "acknowledge",
           "keep_me_posted",
           "approval"
-        ]
+        ],
+        "image": "lessons/email_meetings_2.webp"
       },
       {
         "id": "email_meetings_3",
@@ -73,7 +75,8 @@
           "pencil_in",
           "back_to_back",
           "recurring"
-        ]
+        ],
+        "image": "lessons/email_meetings_3.webp"
       },
       {
         "id": "email_meetings_4",
@@ -95,7 +98,8 @@
           "adjourn",
           "ground_rules",
           "put_forward"
-        ]
+        ],
+        "image": "lessons/email_meetings_4.webp"
       },
       {
         "id": "email_meetings_5",
@@ -117,7 +121,8 @@
           "correct_me_if_im_wrong",
           "constructive",
           "agree_to_disagree"
-        ]
+        ],
+        "image": "lessons/email_meetings_5.webp"
       },
       {
         "id": "email_meetings_6",
@@ -139,7 +144,8 @@
           "cut_out",
           "host",
           "conference_call"
-        ]
+        ],
+        "image": "lessons/email_meetings_6.webp"
       },
       {
         "id": "email_meetings_7",
@@ -161,7 +167,8 @@
           "status_update",
           "eod",
           "consensus"
-        ]
+        ],
+        "image": "lessons/email_meetings_7.webp"
       }
     ]
   },

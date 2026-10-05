@@ -29,7 +29,8 @@
           "third",
           "fifth",
           "twentieth"
-        ]
+        ],
+        "image": "lessons/numbers_math_1.webp"
       },
       {
         "id": "numbers_math_2",
@@ -51,7 +52,8 @@
           "proportion",
           "round_up",
           "approximately"
-        ]
+        ],
+        "image": "lessons/numbers_math_2.webp"
       },
       {
         "id": "numbers_math_3",
@@ -73,7 +75,8 @@
           "odd",
           "equation",
           "formula"
-        ]
+        ],
+        "image": "lessons/numbers_math_3.webp"
       },
       {
         "id": "numbers_math_4",
@@ -95,7 +98,8 @@
           "area",
           "perimeter",
           "diameter"
-        ]
+        ],
+        "image": "lessons/numbers_math_4.webp"
       },
       {
         "id": "numbers_math_5",
@@ -117,7 +121,8 @@
           "kilogram",
           "liter",
           "celsius"
-        ]
+        ],
+        "image": "lessons/numbers_math_5.webp"
       },
       {
         "id": "numbers_math_6",
@@ -139,7 +144,8 @@
           "probability",
           "bar_chart",
           "pie_chart"
-        ]
+        ],
+        "image": "lessons/numbers_math_6.webp"
       },
       {
         "id": "numbers_math_7",
@@ -161,7 +167,8 @@
           "roughly",
           "figure",
           "convert"
-        ]
+        ],
+        "image": "lessons/numbers_math_7.webp"
       }
     ]
   },

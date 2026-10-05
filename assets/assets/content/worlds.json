@@ -230,7 +230,8 @@
       "available": true,
       "plus": true,
       "collection": "exam",
-      "file": "toeic_1.json"
+      "file": "toeic_1.json",
+      "image": "worlds/toeic_1.webp"
     },
     {
       "id": "toeic_2",
@@ -242,7 +243,8 @@
       "available": true,
       "plus": true,
       "collection": "exam",
-      "file": "toeic_2.json"
+      "file": "toeic_2.json",
+      "image": "worlds/toeic_2.webp"
     },
     {
       "id": "ielts_basics",
@@ -254,7 +256,8 @@
       "available": true,
       "plus": true,
       "collection": "exam",
-      "file": "ielts_basics.json"
+      "file": "ielts_basics.json",
+      "image": "worlds/ielts_basics.webp"
     },
     {
       "id": "high_school",
@@ -266,7 +269,8 @@
       "available": true,
       "plus": true,
       "collection": "exam",
-      "file": "high_school.json"
+      "file": "high_school.json",
+      "image": "worlds/high_school.webp"
     },
     {
       "id": "science",
@@ -278,7 +282,8 @@
       "available": true,
       "plus": true,
       "collection": "exam",
-      "file": "science.json"
+      "file": "science.json",
+      "image": "worlds/science.webp"
     },
     {
       "id": "numbers_math",
@@ -290,7 +295,8 @@
       "available": true,
       "plus": true,
       "collection": "exam",
-      "file": "numbers_math.json"
+      "file": "numbers_math.json",
+      "image": "worlds/numbers_math.webp"
     },
     {
       "id": "email_meetings",
@@ -302,7 +308,8 @@
       "available": true,
       "plus": true,
       "collection": "work",
-      "file": "email_meetings.json"
+      "file": "email_meetings.json",
+      "image": "worlds/email_meetings.webp"
     },
     {
       "id": "marketing",
@@ -314,7 +321,8 @@
       "available": true,
       "plus": true,
       "collection": "work",
-      "file": "marketing.json"
+      "file": "marketing.json",
+      "image": "worlds/marketing.webp"
     },
     {
       "id": "tech_it",
@@ -326,7 +334,8 @@
       "available": true,
       "plus": true,
       "collection": "work",
-      "file": "tech_it.json"
+      "file": "tech_it.json",
+      "image": "worlds/tech_it.webp"
     },
     {
       "id": "startup",
@@ -338,7 +347,8 @@
       "available": true,
       "plus": true,
       "collection": "work",
-      "file": "startup.json"
+      "file": "startup.json",
+      "image": "worlds/startup.webp"
     },
     {
       "id": "legal",
@@ -350,7 +360,8 @@
       "available": true,
       "plus": true,
       "collection": "work",
-      "file": "legal.json"
+      "file": "legal.json",
+      "image": "worlds/legal.webp"
     },
     {
       "id": "customer_service",
@@ -362,7 +373,8 @@
       "available": true,
       "plus": true,
       "collection": "work",
-      "file": "customer_service.json"
+      "file": "customer_service.json",
+      "image": "worlds/customer_service.webp"
     },
     {
       "id": "renting",
@@ -374,7 +386,8 @@
       "available": true,
       "plus": true,
       "collection": "abroad",
-      "file": "renting.json"
+      "file": "renting.json",
+      "image": "worlds/renting.webp"
     },
     {
       "id": "university",
@@ -386,7 +399,8 @@
       "available": true,
       "plus": true,
       "collection": "abroad",
-      "file": "university.json"
+      "file": "university.json",
+      "image": "worlds/university.webp"
     },
     {
       "id": "emergency",
@@ -398,7 +412,8 @@
       "available": true,
       "plus": true,
       "collection": "abroad",
-      "file": "emergency.json"
+      "file": "emergency.json",
+      "image": "worlds/emergency.webp"
     },
     {
       "id": "idioms",
@@ -410,7 +425,8 @@
       "available": true,
       "plus": true,
       "collection": "abroad",
-      "file": "idioms.json"
+      "file": "idioms.json",
+      "image": "worlds/idioms.webp"
     },
     {
       "id": "phrasal_verbs",
@@ -422,7 +438,8 @@
       "available": true,
       "plus": true,
       "collection": "abroad",
-      "file": "phrasal_verbs.json"
+      "file": "phrasal_verbs.json",
+      "image": "worlds/phrasal_verbs.webp"
     },
     {
       "id": "thai_mistakes",
@@ -434,7 +451,8 @@
       "available": true,
       "plus": true,
       "collection": "abroad",
-      "file": "thai_mistakes.json"
+      "file": "thai_mistakes.json",
+      "image": "worlds/thai_mistakes.webp"
     },
     {
       "id": "household",
@@ -446,7 +464,8 @@
       "available": true,
       "plus": true,
       "collection": "home",
-      "file": "household.json"
+      "file": "household.json",
+      "image": "worlds/household.webp"
     },
     {
       "id": "cooking",
@@ -458,7 +477,8 @@
       "available": true,
       "plus": true,
       "collection": "home",
-      "file": "cooking.json"
+      "file": "cooking.json",
+      "image": "worlds/cooking.webp"
     },
     {
       "id": "family",
@@ -470,7 +490,8 @@
       "available": true,
       "plus": true,
       "collection": "home",
-      "file": "family.json"
+      "file": "family.json",
+      "image": "worlds/family.webp"
     },
     {
       "id": "pets",
@@ -482,7 +503,8 @@
       "available": true,
       "plus": true,
       "collection": "home",
-      "file": "pets.json"
+      "file": "pets.json",
+      "image": "worlds/pets.webp"
     },
     {
       "id": "feelings",
@@ -494,7 +516,8 @@
       "available": true,
       "plus": true,
       "collection": "home",
-      "file": "feelings.json"
+      "file": "feelings.json",
+      "image": "worlds/feelings.webp"
     },
     {
       "id": "personality",
@@ -506,7 +529,8 @@
       "available": true,
       "plus": true,
       "collection": "home",
-      "file": "personality.json"
+      "file": "personality.json",
+      "image": "worlds/personality.webp"
     },
     {
       "id": "world_food",
@@ -518,7 +542,8 @@
       "available": true,
       "plus": true,
       "collection": "lifestyle",
-      "file": "world_food.json"
+      "file": "world_food.json",
+      "image": "worlds/world_food.webp"
     },
     {
       "id": "cafe_desserts",
@@ -530,7 +555,8 @@
       "available": true,
       "plus": true,
       "collection": "lifestyle",
-      "file": "cafe_desserts.json"
+      "file": "cafe_desserts.json",
+      "image": "worlds/cafe_desserts.webp"
     },
     {
       "id": "festivals",
@@ -542,7 +568,8 @@
       "available": true,
       "plus": true,
       "collection": "lifestyle",
-      "file": "festivals.json"
+      "file": "festivals.json",
+      "image": "worlds/festivals.webp"
     },
     {
       "id": "hobbies_art",
@@ -554,7 +581,8 @@
       "available": true,
       "plus": true,
       "collection": "lifestyle",
-      "file": "hobbies_art.json"
+      "file": "hobbies_art.json",
+      "image": "worlds/hobbies_art.webp"
     },
     {
       "id": "books_reading",
@@ -566,7 +594,8 @@
       "available": true,
       "plus": true,
       "collection": "lifestyle",
-      "file": "books_reading.json"
+      "file": "books_reading.json",
+      "image": "worlds/books_reading.webp"
     },
     {
       "id": "driving_cars",
@@ -578,7 +607,8 @@
       "available": true,
       "plus": true,
       "collection": "lifestyle",
-      "file": "driving_cars.json"
+      "file": "driving_cars.json",
+      "image": "worlds/driving_cars.webp"
     }
   ],
   "collections": [

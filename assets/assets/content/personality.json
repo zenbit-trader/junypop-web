@@ -29,7 +29,8 @@
           "brave",
           "gentle",
           "warm_hearted"
-        ]
+        ],
+        "image": "lessons/personality_1.webp"
       },
       {
         "id": "personality_2",
@@ -51,7 +52,8 @@
           "careless",
           "ungrateful",
           "two_faced"
-        ]
+        ],
+        "image": "lessons/personality_2.webp"
       },
       {
         "id": "personality_3",
@@ -73,7 +75,8 @@
           "hilarious",
           "witty",
           "down_to_earth"
-        ]
+        ],
+        "image": "lessons/personality_3.webp"
       },
       {
         "id": "personality_4",
@@ -95,7 +98,8 @@
           "multitask",
           "self_motivated",
           "go_getter"
-        ]
+        ],
+        "image": "lessons/personality_4.webp"
       },
       {
         "id": "personality_5",
@@ -117,7 +121,8 @@
           "wise",
           "naive",
           "realistic"
-        ]
+        ],
+        "image": "lessons/personality_5.webp"
       },
       {
         "id": "personality_6",
@@ -139,7 +144,8 @@
           "night_owl",
           "morning_person",
           "stingy"
-        ]
+        ],
+        "image": "lessons/personality_6.webp"
       },
       {
         "id": "personality_7",
@@ -161,7 +167,8 @@
           "quirk",
           "temperament",
           "mean_well"
-        ]
+        ],
+        "image": "lessons/personality_7.webp"
       }
     ]
   },

@@ -29,7 +29,8 @@
           "tidy_up",
           "trash_can",
           "take_out_the_trash"
-        ]
+        ],
+        "image": "lessons/household_1.webp"
       },
       {
         "id": "household_2",
@@ -51,7 +52,8 @@
           "shrink",
           "fade",
           "bleach"
-        ]
+        ],
+        "image": "lessons/household_2.webp"
       },
       {
         "id": "household_3",
@@ -73,7 +75,8 @@
           "dish_soap",
           "dish_rack",
           "dishwasher"
-        ]
+        ],
+        "image": "lessons/household_3.webp"
       },
       {
         "id": "household_4",
@@ -95,7 +98,8 @@
           "box_cutter",
           "duct_tape",
           "sandpaper"
-        ]
+        ],
+        "image": "lessons/household_4.webp"
       },
       {
         "id": "household_5",
@@ -117,7 +121,8 @@
           "outlet",
           "loosen",
           "tighten"
-        ]
+        ],
+        "image": "lessons/household_5.webp"
       },
       {
         "id": "household_6",
@@ -139,7 +144,8 @@
           "backyard",
           "garage",
           "driveway"
-        ]
+        ],
+        "image": "lessons/household_6.webp"
       },
       {
         "id": "household_7",
@@ -161,7 +167,8 @@
           "attic",
           "stack",
           "hook"
-        ]
+        ],
+        "image": "lessons/household_7.webp"
       }
     ]
   },

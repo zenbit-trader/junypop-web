@@ -29,7 +29,8 @@
           "stepfather",
           "half_brother",
           "twins"
-        ]
+        ],
+        "image": "lessons/family_1.webp"
       },
       {
         "id": "family_2",
@@ -51,7 +52,8 @@
           "stay_at_home_dad",
           "commitment",
           "faithful"
-        ]
+        ],
+        "image": "lessons/family_2.webp"
       },
       {
         "id": "family_3",
@@ -73,7 +75,8 @@
           "nanny",
           "nap",
           "teething"
-        ]
+        ],
+        "image": "lessons/family_3.webp"
       },
       {
         "id": "family_4",
@@ -95,7 +98,8 @@
           "naughty",
           "rebellious",
           "leave_the_nest"
-        ]
+        ],
+        "image": "lessons/family_4.webp"
       },
       {
         "id": "family_5",
@@ -117,7 +121,8 @@
           "heirloom",
           "hand_down",
           "family_album"
-        ]
+        ],
+        "image": "lessons/family_5.webp"
       },
       {
         "id": "family_6",
@@ -139,7 +144,8 @@
           "sibling_rivalry",
           "run_in_the_family",
           "eldest"
-        ]
+        ],
+        "image": "lessons/family_6.webp"
       },
       {
         "id": "family_7",
@@ -161,7 +167,8 @@
           "heir",
           "old_age",
           "legacy"
-        ]
+        ],
+        "image": "lessons/family_7.webp"
       }
     ]
   },

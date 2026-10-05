@@ -29,7 +29,8 @@
           "e_book",
           "audiobook",
           "picture_book"
-        ]
+        ],
+        "image": "lessons/books_reading_1.webp"
       },
       {
         "id": "books_reading_2",
@@ -51,7 +52,8 @@
           "glossary",
           "edition",
           "epilogue"
-        ]
+        ],
+        "image": "lessons/books_reading_2.webp"
       },
       {
         "id": "books_reading_3",
@@ -73,7 +75,8 @@
           "twist",
           "foreshadowing",
           "love_interest"
-        ]
+        ],
+        "image": "lessons/books_reading_3.webp"
       },
       {
         "id": "books_reading_4",
@@ -95,7 +98,8 @@
           "pre_order",
           "reread",
           "e_reader"
-        ]
+        ],
+        "image": "lessons/books_reading_4.webp"
       },
       {
         "id": "books_reading_5",
@@ -117,7 +121,8 @@
           "thought_provoking",
           "cliche",
           "satisfying"
-        ]
+        ],
+        "image": "lessons/books_reading_5.webp"
       },
       {
         "id": "books_reading_6",
@@ -139,7 +144,8 @@
           "writers_block",
           "royalties",
           "ghostwriter"
-        ]
+        ],
+        "image": "lessons/books_reading_6.webp"
       },
       {
         "id": "books_reading_7",
@@ -161,7 +167,8 @@
           "fact_check",
           "op_ed",
           "paywall"
-        ]
+        ],
+        "image": "lessons/books_reading_7.webp"
       }
     ]
   },

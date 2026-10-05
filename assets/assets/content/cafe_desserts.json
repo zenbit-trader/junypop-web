@@ -29,7 +29,8 @@
           "syrup",
           "whipped_cream",
           "caffeine"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_1.webp"
       },
       {
         "id": "cafe_desserts_2",
@@ -51,7 +52,8 @@
           "thai_tea",
           "fruit_tea",
           "chamomile"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_2.webp"
       },
       {
         "id": "cafe_desserts_3",
@@ -73,7 +75,8 @@
           "sourdough",
           "baguette",
           "pie"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_3.webp"
       },
       {
         "id": "cafe_desserts_4",
@@ -95,7 +98,8 @@
           "waffle",
           "eclair",
           "caramel"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_4.webp"
       },
       {
         "id": "cafe_desserts_5",
@@ -117,7 +121,8 @@
           "lollipop",
           "cocoa",
           "shaved_ice"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_5.webp"
       },
       {
         "id": "cafe_desserts_6",
@@ -139,7 +144,8 @@
           "menu_board",
           "lid",
           "cafe_hopping"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_6.webp"
       },
       {
         "id": "cafe_desserts_7",
@@ -161,7 +167,8 @@
           "chilled",
           "room_temperature",
           "refreshing"
-        ]
+        ],
+        "image": "lessons/cafe_desserts_7.webp"
       }
     ]
   },

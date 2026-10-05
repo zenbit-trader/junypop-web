@@ -29,7 +29,8 @@
           "deputy",
           "shift",
           "retirement"
-        ]
+        ],
+        "image": "lessons/toeic_1_1.webp"
       },
       {
         "title_en": "Meetings & Schedules",
@@ -51,7 +52,8 @@
           "convene",
           "weekly",
           "prior_to"
-        ]
+        ],
+        "image": "lessons/toeic_1_2.webp"
       },
       {
         "title_en": "Documents & Contracts",
@@ -73,7 +75,8 @@
           "hard_copy",
           "comply_with",
           "specification"
-        ]
+        ],
+        "image": "lessons/toeic_1_3.webp"
       },
       {
         "title_en": "Business Travel",
@@ -95,7 +98,8 @@
           "travel_agency",
           "board",
           "carpool"
-        ]
+        ],
+        "image": "lessons/toeic_1_4.webp"
       },
       {
         "title_en": "Finance & Budgets",
@@ -117,7 +121,8 @@
           "allocate",
           "write_off",
           "cost_effective"
-        ]
+        ],
+        "image": "lessons/toeic_1_5.webp"
       },
       {
         "title_en": "Hiring & Personnel",
@@ -139,7 +144,8 @@
           "induction",
           "human_resources",
           "appoint"
-        ]
+        ],
+        "image": "lessons/toeic_1_6.webp"
       },
       {
         "title_en": "Announcements & Ads",
@@ -161,7 +167,8 @@
           "billboard",
           "attention",
           "unveil"
-        ]
+        ],
+        "image": "lessons/toeic_1_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "execution",
         "exclusive",
         "expensive"
-      ]
+      ],
+      "image": "words/executive.webp"
     },
     {
       "id": "accountant",
@@ -200,7 +208,8 @@
         "account",
         "accounting",
         "assistant"
-      ]
+      ],
+      "image": "words/accountant.webp"
     },
     {
       "id": "clerk",
@@ -218,7 +227,8 @@
         "cleric",
         "click",
         "clock"
-      ]
+      ],
+      "image": "words/clerk.webp"
     },
     {
       "id": "secretary",
@@ -236,7 +246,8 @@
         "secret",
         "security",
         "sector"
-      ]
+      ],
+      "image": "words/secretary.webp"
     },
     {
       "id": "headquarters",
@@ -254,7 +265,8 @@
         "headline",
         "quarter",
         "headset"
-      ]
+      ],
+      "image": "words/headquarters.webp"
     },
     {
       "id": "division",
@@ -272,7 +284,8 @@
         "decision",
         "vision",
         "revision"
-      ]
+      ],
+      "image": "words/division.webp"
     },
     {
       "id": "personnel",
@@ -290,7 +303,8 @@
         "personal",
         "person",
         "pension"
-      ]
+      ],
+      "image": "words/personnel.webp"
     },
     {
       "id": "representative",
@@ -308,7 +322,8 @@
         "reputation",
         "presentation",
         "receptionist"
-      ]
+      ],
+      "image": "words/representative.webp"
     },
     {
       "id": "subordinate",
@@ -326,7 +341,8 @@
         "coordinate",
         "superior",
         "subscriber"
-      ]
+      ],
+      "image": "words/subordinate.webp"
     },
     {
       "id": "trainee",
@@ -344,7 +360,8 @@
         "trainer",
         "trainee program",
         "retainer"
-      ]
+      ],
+      "image": "words/trainee.webp"
     },
     {
       "id": "in_charge_of",
@@ -362,7 +379,8 @@
         "in case of",
         "in front of",
         "in spite of"
-      ]
+      ],
+      "image": "words/in_charge_of.webp"
     },
     {
       "id": "deputy",
@@ -380,7 +398,8 @@
         "duty",
         "debut",
         "deposit"
-      ]
+      ],
+      "image": "words/deputy.webp"
     },
     {
       "id": "shift",
@@ -398,7 +417,8 @@
         "shelf",
         "swift",
         "sheet"
-      ]
+      ],
+      "image": "words/shift.webp"
     },
     {
       "id": "retirement",
@@ -416,7 +436,8 @@
         "requirement",
         "retreat",
         "resignation"
-      ]
+      ],
+      "image": "words/retirement.webp"
     },
     {
       "id": "take_part_in",
@@ -434,7 +455,8 @@
         "take place",
         "take off",
         "take over"
-      ]
+      ],
+      "image": "words/take_part_in.webp"
     },
     {
       "id": "conference",
@@ -452,7 +474,8 @@
         "confidence",
         "difference",
         "reference"
-      ]
+      ],
+      "image": "words/conference.webp"
     },
     {
       "id": "briefing",
@@ -470,7 +493,8 @@
         "brief",
         "briefcase",
         "bridging"
-      ]
+      ],
+      "image": "words/briefing.webp"
     },
     {
       "id": "teleconference",
@@ -488,7 +512,8 @@
         "telephone",
         "telescope",
         "conference"
-      ]
+      ],
+      "image": "words/teleconference.webp"
     },
     {
       "id": "participant",
@@ -506,7 +531,8 @@
         "participate",
         "partner",
         "patient"
-      ]
+      ],
+      "image": "words/participant.webp"
     },
     {
       "id": "arrange",
@@ -524,7 +550,8 @@
         "arrive",
         "range",
         "orange"
-      ]
+      ],
+      "image": "words/arrange.webp"
     },
     {
       "id": "turnout",
@@ -542,7 +569,8 @@
         "turnover",
         "outcome",
         "turning"
-      ]
+      ],
+      "image": "words/turnout.webp"
     },
     {
       "id": "upcoming",
@@ -560,7 +588,8 @@
         "incoming",
         "outgoing",
         "ongoing"
-      ]
+      ],
+      "image": "words/upcoming.webp"
     },
     {
       "id": "proceed",
@@ -578,7 +607,8 @@
         "precede",
         "process",
         "proceeds"
-      ]
+      ],
+      "image": "words/proceed.webp"
     },
     {
       "id": "venue",
@@ -596,7 +626,8 @@
         "avenue",
         "revenue",
         "menu"
-      ]
+      ],
+      "image": "words/venue.webp"
     },
     {
       "id": "overrun",
@@ -614,7 +645,8 @@
         "overdue",
         "outrun",
         "override"
-      ]
+      ],
+      "image": "words/overrun.webp"
     },
     {
       "id": "convene",
@@ -632,7 +664,8 @@
         "convince",
         "convenient",
         "convey"
-      ]
+      ],
+      "image": "words/convene.webp"
     },
     {
       "id": "weekly",
@@ -650,7 +683,8 @@
         "weakly",
         "weekend",
         "biweekly"
-      ]
+      ],
+      "image": "words/weekly.webp"
     },
     {
       "id": "prior_to",
@@ -668,7 +702,8 @@
         "due to",
         "prior",
         "previous"
-      ]
+      ],
+      "image": "words/prior_to.webp"
     },
     {
       "id": "duplicate",
@@ -686,7 +721,8 @@
         "duplex",
         "triplicate",
         "complicate"
-      ]
+      ],
+      "image": "words/duplicate.webp"
     },
     {
       "id": "letterhead",
@@ -704,7 +740,8 @@
         "headline",
         "letterbox",
         "newsletter"
-      ]
+      ],
+      "image": "words/letterhead.webp"
     },
     {
       "id": "effective",
@@ -722,7 +759,8 @@
         "efficient",
         "affective",
         "defective"
-      ]
+      ],
+      "image": "words/effective.webp"
     },
     {
       "id": "checklist",
@@ -740,7 +778,8 @@
         "checkout",
         "shortlist",
         "playlist"
-      ]
+      ],
+      "image": "words/checklist.webp"
     },
     {
       "id": "approve",
@@ -758,7 +797,8 @@
         "improve",
         "prove",
         "approach"
-      ]
+      ],
+      "image": "words/approve.webp"
     },
     {
       "id": "endorse",
@@ -776,7 +816,8 @@
         "enforce",
         "indoors",
         "endure"
-      ]
+      ],
+      "image": "words/endorse.webp"
     },
     {
       "id": "enclosed",
@@ -794,7 +835,8 @@
         "closed",
         "included",
         "attached"
-      ]
+      ],
+      "image": "words/enclosed.webp"
     },
     {
       "id": "legible",
@@ -812,7 +854,8 @@
         "eligible",
         "illegible",
         "legal"
-      ]
+      ],
+      "image": "words/legible.webp"
     },
     {
       "id": "proposal",
@@ -830,7 +873,8 @@
         "purpose",
         "proposition",
         "disposal"
-      ]
+      ],
+      "image": "words/proposal.webp"
     },
     {
       "id": "paperwork",
@@ -848,7 +892,8 @@
         "homework",
         "paper",
         "network"
-      ]
+      ],
+      "image": "words/paperwork.webp"
     },
     {
       "id": "memo",
@@ -866,7 +911,8 @@
         "memory",
         "menu",
         "demo"
-      ]
+      ],
+      "image": "words/memo.webp"
     },
     {
       "id": "hard_copy",
@@ -884,7 +930,8 @@
         "soft copy",
         "hardware",
         "photocopy"
-      ]
+      ],
+      "image": "words/hard_copy.webp"
     },
     {
       "id": "comply_with",
@@ -902,7 +949,8 @@
         "complain about",
         "compete with",
         "complete with"
-      ]
+      ],
+      "image": "words/comply_with.webp"
     },
     {
       "id": "specification",
@@ -920,7 +968,8 @@
         "specialization",
         "verification",
         "certification"
-      ]
+      ],
+      "image": "words/specification.webp"
     },
     {
       "id": "business_trip",
@@ -938,7 +987,8 @@
         "business class",
         "field trip",
         "road trip"
-      ]
+      ],
+      "image": "words/business_trip.webp"
     },
     {
       "id": "accommodation",
@@ -956,7 +1006,8 @@
         "recommendation",
         "communication",
         "association"
-      ]
+      ],
+      "image": "words/accommodation.webp"
     },
     {
       "id": "expense_claim",
@@ -974,7 +1025,8 @@
         "expense",
         "insurance claim",
         "baggage claim"
-      ]
+      ],
+      "image": "words/expense_claim.webp"
     },
     {
       "id": "layover",
@@ -992,7 +1044,8 @@
         "leftover",
         "hangover",
         "takeover"
-      ]
+      ],
+      "image": "words/layover.webp"
     },
     {
       "id": "passenger",
@@ -1010,7 +1063,8 @@
         "messenger",
         "pedestrian",
         "passage"
-      ]
+      ],
+      "image": "words/passenger.webp"
     },
     {
       "id": "depart",
@@ -1028,7 +1082,8 @@
         "department",
         "deposit",
         "disappear"
-      ]
+      ],
+      "image": "words/depart.webp"
     },
     {
       "id": "domestic",
@@ -1046,7 +1101,8 @@
         "dramatic",
         "diplomatic",
         "democratic"
-      ]
+      ],
+      "image": "words/domestic.webp"
     },
     {
       "id": "overseas",
@@ -1064,7 +1120,8 @@
         "oversee",
         "overcome",
         "overview"
-      ]
+      ],
+      "image": "words/overseas.webp"
     },
     {
       "id": "rental_car",
@@ -1082,7 +1139,8 @@
         "rental fee",
         "company car",
         "taxi cab"
-      ]
+      ],
+      "image": "words/rental_car.webp"
     },
     {
       "id": "economy_class",
@@ -1100,7 +1158,8 @@
         "business class",
         "economics",
         "first class"
-      ]
+      ],
+      "image": "words/economy_class.webp"
     },
     {
       "id": "mileage",
@@ -1118,7 +1177,8 @@
         "mile",
         "millage",
         "message"
-      ]
+      ],
+      "image": "words/mileage.webp"
     },
     {
       "id": "travel_agency",
@@ -1136,7 +1196,8 @@
         "travel agent",
         "advertising agency",
         "employment agency"
-      ]
+      ],
+      "image": "words/travel_agency.webp"
     },
     {
       "id": "board",
@@ -1154,7 +1215,8 @@
         "bored",
         "broad",
         "aboard"
-      ]
+      ],
+      "image": "words/board.webp"
     },
     {
       "id": "carpool",
@@ -1172,7 +1234,8 @@
         "car wash",
         "pool",
         "car park"
-      ]
+      ],
+      "image": "words/carpool.webp"
     },
     {
       "id": "turnover",
@@ -1190,7 +1253,8 @@
         "turnout",
         "takeover",
         "overturn"
-      ]
+      ],
+      "image": "words/turnover.webp"
     },
     {
       "id": "expenditure",
@@ -1208,7 +1272,8 @@
         "expense",
         "experience",
         "expansion"
-      ]
+      ],
+      "image": "words/expenditure.webp"
     },
     {
       "id": "payment",
@@ -1226,7 +1291,8 @@
         "pavement",
         "parliament",
         "repayment"
-      ]
+      ],
+      "image": "words/payment.webp"
     },
     {
       "id": "quarter",
@@ -1244,7 +1310,8 @@
         "quarterly",
         "quartet",
         "headquarters"
-      ]
+      ],
+      "image": "words/quarter.webp"
     },
     {
       "id": "fiscal_year",
@@ -1262,7 +1329,8 @@
         "financial year",
         "fiscal policy",
         "leap year"
-      ]
+      ],
+      "image": "words/fiscal_year.webp"
     },
     {
       "id": "audit",
@@ -1280,7 +1348,8 @@
         "auditor",
         "audio",
         "addition"
-      ]
+      ],
+      "image": "words/audit.webp"
     },
     {
       "id": "accounting",
@@ -1298,7 +1367,8 @@
         "accountant",
         "counting",
         "account"
-      ]
+      ],
+      "image": "words/accounting.webp"
     },
     {
       "id": "overhead",
@@ -1316,7 +1386,8 @@
         "overhead bin",
         "overheat",
         "overdue"
-      ]
+      ],
+      "image": "words/overhead.webp"
     },
     {
       "id": "fund",
@@ -1334,7 +1405,8 @@
         "found",
         "fun",
         "funding"
-      ]
+      ],
+      "image": "words/fund.webp"
     },
     {
       "id": "petty_cash",
@@ -1352,7 +1424,8 @@
         "pocket money",
         "petty crime",
         "cash flow"
-      ]
+      ],
+      "image": "words/petty_cash.webp"
     },
     {
       "id": "outstanding",
@@ -1370,7 +1443,8 @@
         "standing",
         "understanding",
         "outgoing"
-      ]
+      ],
+      "image": "words/outstanding.webp"
     },
     {
       "id": "allocate",
@@ -1388,7 +1462,8 @@
         "locate",
         "allow",
         "advocate"
-      ]
+      ],
+      "image": "words/allocate.webp"
     },
     {
       "id": "write_off",
@@ -1406,7 +1481,8 @@
         "write down",
         "write up",
         "pay off"
-      ]
+      ],
+      "image": "words/write_off.webp"
     },
     {
       "id": "cost_effective",
@@ -1424,7 +1500,8 @@
         "effective",
         "costly",
         "cost-free"
-      ]
+      ],
+      "image": "words/cost_effective.webp"
     },
     {
       "id": "employment",
@@ -1442,7 +1519,8 @@
         "employer",
         "enjoyment",
         "equipment"
-      ]
+      ],
+      "image": "words/employment.webp"
     },
     {
       "id": "qualified",
@@ -1460,7 +1538,8 @@
         "quality",
         "quantified",
         "classified"
-      ]
+      ],
+      "image": "words/qualified.webp"
     },
     {
       "id": "experienced",
@@ -1478,7 +1557,8 @@
         "experiment",
         "expensive",
         "experience"
-      ]
+      ],
+      "image": "words/experienced.webp"
     },
     {
       "id": "payroll",
@@ -1496,7 +1576,8 @@
         "payment",
         "payday",
         "payslip"
-      ]
+      ],
+      "image": "words/payroll.webp"
     },
     {
       "id": "evaluation",
@@ -1514,7 +1595,8 @@
         "evolution",
         "valuation",
         "education"
-      ]
+      ],
+      "image": "words/evaluation.webp"
     },
     {
       "id": "performance",
@@ -1532,7 +1614,8 @@
         "performer",
         "perform",
         "preference"
-      ]
+      ],
+      "image": "words/performance.webp"
     },
     {
       "id": "workforce",
@@ -1550,7 +1633,8 @@
         "workload",
         "workshop",
         "workplace"
-      ]
+      ],
+      "image": "words/workforce.webp"
     },
     {
       "id": "wage",
@@ -1568,7 +1652,8 @@
         "wedge",
         "wave",
         "wager"
-      ]
+      ],
+      "image": "words/wage.webp"
     },
     {
       "id": "sick_leave",
@@ -1586,7 +1671,8 @@
         "sick day",
         "annual leave",
         "sick pay"
-      ]
+      ],
+      "image": "words/sick_leave.webp"
     },
     {
       "id": "lay_off",
@@ -1604,7 +1690,8 @@
         "take off",
         "lay out",
         "lie down"
-      ]
+      ],
+      "image": "words/lay_off.webp"
     },
     {
       "id": "resignation",
@@ -1622,7 +1709,8 @@
         "registration",
         "designation",
         "reservation"
-      ]
+      ],
+      "image": "words/resignation.webp"
     },
     {
       "id": "induction",
@@ -1640,7 +1728,8 @@
         "introduction",
         "deduction",
         "production"
-      ]
+      ],
+      "image": "words/induction.webp"
     },
     {
       "id": "human_resources",
@@ -1658,7 +1747,8 @@
         "natural resources",
         "human rights",
         "public relations"
-      ]
+      ],
+      "image": "words/human_resources.webp"
     },
     {
       "id": "appoint",
@@ -1676,7 +1766,8 @@
         "appointment",
         "point",
         "apply"
-      ]
+      ],
+      "image": "words/appoint.webp"
     },
     {
       "id": "brochure",
@@ -1694,7 +1785,8 @@
         "brooch",
         "broker",
         "pamphlet"
-      ]
+      ],
+      "image": "words/brochure.webp"
     },
     {
       "id": "flyer",
@@ -1712,7 +1804,8 @@
         "flier",
         "fryer",
         "flight"
-      ]
+      ],
+      "image": "words/flyer.webp"
     },
     {
       "id": "newsletter",
@@ -1730,7 +1823,8 @@
         "newspaper",
         "letter",
         "news feed"
-      ]
+      ],
+      "image": "words/newsletter.webp"
     },
     {
       "id": "promotional",
@@ -1748,7 +1842,8 @@
         "professional",
         "provisional",
         "emotional"
-      ]
+      ],
+      "image": "words/promotional.webp"
     },
     {
       "id": "eligible",
@@ -1766,7 +1861,8 @@
         "illegible",
         "legible",
         "eligibility"
-      ]
+      ],
+      "image": "words/eligible.webp"
     },
     {
       "id": "redeem",
@@ -1784,7 +1880,8 @@
         "redo",
         "reduce",
         "deem"
-      ]
+      ],
+      "image": "words/redeem.webp"
     },
     {
       "id": "grand_opening",
@@ -1802,7 +1899,8 @@
         "grand prize",
         "opening hours",
         "open house"
-      ]
+      ],
+      "image": "words/grand_opening.webp"
     },
     {
       "id": "limited",
@@ -1820,7 +1918,8 @@
         "limit",
         "unlimited",
         "limitation"
-      ]
+      ],
+      "image": "words/limited.webp"
     },
     {
       "id": "notify",
@@ -1838,7 +1937,8 @@
         "note",
         "modify",
         "nullify"
-      ]
+      ],
+      "image": "words/notify.webp"
     },
     {
       "id": "publicity",
@@ -1856,7 +1956,8 @@
         "public",
         "publish",
         "popularity"
-      ]
+      ],
+      "image": "words/publicity.webp"
     },
     {
       "id": "trade_show",
@@ -1874,7 +1975,8 @@
         "trade fair",
         "talk show",
         "showroom"
-      ]
+      ],
+      "image": "words/trade_show.webp"
     },
     {
       "id": "billboard",
@@ -1892,7 +1994,8 @@
         "bulletin board",
         "blackboard",
         "bill"
-      ]
+      ],
+      "image": "words/billboard.webp"
     },
     {
       "id": "attention",
@@ -1910,7 +2013,8 @@
         "intention",
         "attendance",
         "tension"
-      ]
+      ],
+      "image": "words/attention.webp"
     },
     {
       "id": "unveil",
@@ -1928,7 +2032,8 @@
         "veil",
         "unfold",
         "reveal"
-      ]
+      ],
+      "image": "words/unveil.webp"
     }
   ]
 }

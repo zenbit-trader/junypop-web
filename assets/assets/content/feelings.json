@@ -29,7 +29,8 @@
           "ecstatic",
           "enthusiastic",
           "blissful"
-        ]
+        ],
+        "image": "lessons/feelings_1.webp"
       },
       {
         "id": "feelings_2",
@@ -51,7 +52,8 @@
           "tearful",
           "sorrow",
           "devastated"
-        ]
+        ],
+        "image": "lessons/feelings_2.webp"
       },
       {
         "id": "feelings_3",
@@ -73,7 +75,8 @@
           "cranky",
           "rage",
           "hostile"
-        ]
+        ],
+        "image": "lessons/feelings_3.webp"
       },
       {
         "id": "feelings_4",
@@ -95,7 +98,8 @@
           "concerned",
           "intimidated",
           "jumpy"
-        ]
+        ],
+        "image": "lessons/feelings_4.webp"
       },
       {
         "id": "feelings_5",
@@ -117,7 +121,8 @@
           "soothing",
           "mellow",
           "refreshed"
-        ]
+        ],
+        "image": "lessons/feelings_5.webp"
       },
       {
         "id": "feelings_6",
@@ -139,7 +144,8 @@
           "ashamed",
           "humiliated",
           "bewildered"
-        ]
+        ],
+        "image": "lessons/feelings_6.webp"
       },
       {
         "id": "feelings_7",
@@ -161,7 +167,8 @@
           "drained",
           "self_esteem",
           "well_being"
-        ]
+        ],
+        "image": "lessons/feelings_7.webp"
       }
     ]
   },

@@ -29,7 +29,8 @@
           "speedometer",
           "engine",
           "horn"
-        ]
+        ],
+        "image": "lessons/driving_cars_1.webp"
       },
       {
         "id": "driving_cars_2",
@@ -51,7 +52,8 @@
           "change_lanes",
           "hazard_lights",
           "high_beam"
-        ]
+        ],
+        "image": "lessons/driving_cars_2.webp"
       },
       {
         "id": "driving_cars_3",
@@ -73,7 +75,8 @@
           "right_of_way",
           "no_overtaking",
           "drive_on_the_left"
-        ]
+        ],
+        "image": "lessons/driving_cars_3.webp"
       },
       {
         "id": "driving_cars_4",
@@ -95,7 +98,8 @@
           "child_seat",
           "gps",
           "drop_off_location"
-        ]
+        ],
+        "image": "lessons/driving_cars_4.webp"
       },
       {
         "id": "driving_cars_5",
@@ -117,7 +121,8 @@
           "parallel_parking",
           "valet_parking",
           "car_wash"
-        ]
+        ],
+        "image": "lessons/driving_cars_5.webp"
       },
       {
         "id": "driving_cars_6",
@@ -139,7 +144,8 @@
           "tire_pressure",
           "roadside_assistance",
           "tow"
-        ]
+        ],
+        "image": "lessons/driving_cars_6.webp"
       },
       {
         "id": "driving_cars_7",
@@ -161,7 +167,8 @@
           "hit_and_run",
           "road_rage",
           "exchange_details"
-        ]
+        ],
+        "image": "lessons/driving_cars_7.webp"
       }
     ]
   },

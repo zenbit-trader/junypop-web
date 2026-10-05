@@ -29,7 +29,8 @@
           "gpa",
           "international_student",
           "student_visa"
-        ]
+        ],
+        "image": "lessons/university_1.webp"
       },
       {
         "id": "university_2",
@@ -51,7 +52,8 @@
           "sports_center",
           "common_room",
           "shuttle_bus"
-        ]
+        ],
+        "image": "lessons/university_2.webp"
       },
       {
         "id": "university_3",
@@ -73,7 +75,8 @@
           "drop",
           "course_catalog",
           "coursework"
-        ]
+        ],
+        "image": "lessons/university_3.webp"
       },
       {
         "id": "university_4",
@@ -95,7 +98,8 @@
           "concept",
           "keep_up",
           "fall_behind"
-        ]
+        ],
+        "image": "lessons/university_4.webp"
       },
       {
         "id": "university_5",
@@ -117,7 +121,8 @@
           "source",
           "abstract",
           "extension"
-        ]
+        ],
+        "image": "lessons/university_5.webp"
       },
       {
         "id": "university_6",
@@ -139,7 +144,8 @@
           "past_paper",
           "all_nighter",
           "finals_week"
-        ]
+        ],
+        "image": "lessons/university_6.webp"
       },
       {
         "id": "university_7",
@@ -161,7 +167,8 @@
           "networking",
           "volunteer",
           "final_year"
-        ]
+        ],
+        "image": "lessons/university_7.webp"
       }
     ]
   },

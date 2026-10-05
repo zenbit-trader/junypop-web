@@ -29,7 +29,8 @@
           "gossip",
           "in_shape",
           "outdated"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_1.webp"
       },
       {
         "id": "thai_mistakes_2",
@@ -51,7 +52,8 @@
           "remind",
           "stuff",
           "sympathetic"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_2.webp"
       },
       {
         "id": "thai_mistakes_3",
@@ -73,7 +75,8 @@
           "make_yourself_at_home",
           "really",
           "waste_time"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_3.webp"
       },
       {
         "id": "thai_mistakes_4",
@@ -95,7 +98,8 @@
           "agree_with",
           "in_time",
           "explain"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_4.webp"
       },
       {
         "id": "thai_mistakes_5",
@@ -117,7 +121,8 @@
           "glasses",
           "trousers",
           "progress"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_5.webp"
       },
       {
         "id": "thai_mistakes_6",
@@ -139,7 +144,8 @@
           "sheet",
           "quite",
           "collect"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_6.webp"
       },
       {
         "id": "thai_mistakes_7",
@@ -161,7 +167,8 @@
           "elderly",
           "westerner",
           "after_you"
-        ]
+        ],
+        "image": "lessons/thai_mistakes_7.webp"
       }
     ]
   },

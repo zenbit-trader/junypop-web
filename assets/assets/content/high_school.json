@@ -29,7 +29,8 @@
           "conclude",
           "interpret",
           "refer_to"
-        ]
+        ],
+        "image": "lessons/high_school_1.webp"
       },
       {
         "id": "high_school_2",
@@ -51,7 +52,8 @@
           "context",
           "excerpt",
           "origin"
-        ]
+        ],
+        "image": "lessons/high_school_2.webp"
       },
       {
         "id": "high_school_3",
@@ -73,7 +75,8 @@
           "innocent",
           "mysterious",
           "wealthy"
-        ]
+        ],
+        "image": "lessons/high_school_3.webp"
       },
       {
         "id": "high_school_4",
@@ -95,7 +98,8 @@
           "moreover",
           "unless",
           "otherwise"
-        ]
+        ],
+        "image": "lessons/high_school_4.webp"
       },
       {
         "id": "high_school_5",
@@ -117,7 +121,8 @@
           "heritage",
           "population",
           "monarchy"
-        ]
+        ],
+        "image": "lessons/high_school_5.webp"
       },
       {
         "id": "high_school_6",
@@ -139,7 +144,8 @@
           "fable",
           "metaphor",
           "tragedy"
-        ]
+        ],
+        "image": "lessons/high_school_6.webp"
       },
       {
         "id": "high_school_7",
@@ -161,7 +167,8 @@
           "antonym",
           "true_or_false",
           "open_ended"
-        ]
+        ],
+        "image": "lessons/high_school_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "skip",
         "swim",
         "skin"
-      ]
+      ],
+      "image": "words/skim.webp"
     },
     {
       "id": "portray",
@@ -200,7 +208,8 @@
         "portrait",
         "betray",
         "portal"
-      ]
+      ],
+      "image": "words/portray.webp"
     },
     {
       "id": "convey",
@@ -218,7 +227,8 @@
         "convoy",
         "convince",
         "convert"
-      ]
+      ],
+      "image": "words/convey.webp"
     },
     {
       "id": "define",
@@ -236,7 +246,8 @@
         "defend",
         "decline",
         "refine"
-      ]
+      ],
+      "image": "words/define.webp"
     },
     {
       "id": "identify",
@@ -254,7 +265,8 @@
         "identity",
         "verify",
         "notify"
-      ]
+      ],
+      "image": "words/identify.webp"
     },
     {
       "id": "state",
@@ -272,7 +284,8 @@
         "status",
         "start",
         "stay"
-      ]
+      ],
+      "image": "words/state.webp"
     },
     {
       "id": "illustrate",
@@ -290,7 +303,8 @@
         "illustration",
         "frustrate",
         "imitate"
-      ]
+      ],
+      "image": "words/illustrate.webp"
     },
     {
       "id": "indicate",
@@ -308,7 +322,8 @@
         "indicator",
         "dedicate",
         "imitate"
-      ]
+      ],
+      "image": "words/indicate.webp"
     },
     {
       "id": "imply",
@@ -326,7 +341,8 @@
         "apply",
         "reply",
         "employ"
-      ]
+      ],
+      "image": "words/imply.webp"
     },
     {
       "id": "infer",
@@ -344,7 +360,8 @@
         "inferior",
         "offer",
         "refer"
-      ]
+      ],
+      "image": "words/infer.webp"
     },
     {
       "id": "evaluate",
@@ -362,7 +379,8 @@
         "value",
         "elevate",
         "estimate"
-      ]
+      ],
+      "image": "words/evaluate.webp"
     },
     {
       "id": "conclude",
@@ -380,7 +398,8 @@
         "include",
         "exclude",
         "confuse"
-      ]
+      ],
+      "image": "words/conclude.webp"
     },
     {
       "id": "interpret",
@@ -398,7 +417,8 @@
         "interrupt",
         "introduce",
         "interview"
-      ]
+      ],
+      "image": "words/interpret.webp"
     },
     {
       "id": "refer_to",
@@ -416,7 +436,8 @@
         "prefer to",
         "reply to",
         "belong to"
-      ]
+      ],
+      "image": "words/refer_to.webp"
     },
     {
       "id": "passage",
@@ -434,7 +455,8 @@
         "package",
         "passenger",
         "message"
-      ]
+      ],
+      "image": "words/passage.webp"
     },
     {
       "id": "paragraph",
@@ -452,7 +474,8 @@
         "photograph",
         "paradise",
         "sentence"
-      ]
+      ],
+      "image": "words/paragraph.webp"
     },
     {
       "id": "topic",
@@ -470,7 +493,8 @@
         "tropic",
         "topping",
         "subject"
-      ]
+      ],
+      "image": "words/topic.webp"
     },
     {
       "id": "main_idea",
@@ -488,7 +512,8 @@
         "main course",
         "big deal",
         "key point"
-      ]
+      ],
+      "image": "words/main_idea.webp"
     },
     {
       "id": "detail",
@@ -506,7 +531,8 @@
         "retail",
         "deal",
         "data"
-      ]
+      ],
+      "image": "words/detail.webp"
     },
     {
       "id": "purpose",
@@ -524,7 +550,8 @@
         "propose",
         "purchase",
         "process"
-      ]
+      ],
+      "image": "words/purpose.webp"
     },
     {
       "id": "tone",
@@ -542,7 +569,8 @@
         "tune",
         "stone",
         "zone"
-      ]
+      ],
+      "image": "words/tone.webp"
     },
     {
       "id": "attitude",
@@ -560,7 +588,8 @@
         "altitude",
         "aptitude",
         "gratitude"
-      ]
+      ],
+      "image": "words/attitude.webp"
     },
     {
       "id": "author",
@@ -578,7 +607,8 @@
         "actor",
         "editor",
         "authority"
-      ]
+      ],
+      "image": "words/author.webp"
     },
     {
       "id": "title",
@@ -596,7 +626,8 @@
         "tile",
         "total",
         "label"
-      ]
+      ],
+      "image": "words/title.webp"
     },
     {
       "id": "column",
@@ -614,7 +645,8 @@
         "colon",
         "volume",
         "columnist"
-      ]
+      ],
+      "image": "words/column.webp"
     },
     {
       "id": "context",

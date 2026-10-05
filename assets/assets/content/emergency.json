@@ -29,7 +29,8 @@
           "unconscious",
           "breathing",
           "panic"
-        ]
+        ],
+        "image": "lessons/emergency_1.webp"
       },
       {
         "id": "emergency_2",
@@ -51,7 +52,8 @@
           "collision",
           "scald",
           "heatstroke"
-        ]
+        ],
+        "image": "lessons/emergency_2.webp"
       },
       {
         "id": "emergency_3",
@@ -73,7 +75,8 @@
           "stairwell",
           "crawl",
           "put_out"
-        ]
+        ],
+        "image": "lessons/emergency_3.webp"
       },
       {
         "id": "emergency_4",
@@ -95,7 +98,8 @@
           "assault",
           "harassment",
           "cctv"
-        ]
+        ],
+        "image": "lessons/emergency_4.webp"
       },
       {
         "id": "emergency_5",
@@ -117,7 +121,8 @@
           "sandbag",
           "eruption",
           "relief"
-        ]
+        ],
+        "image": "lessons/emergency_5.webp"
       },
       {
         "id": "emergency_6",
@@ -139,7 +144,8 @@
           "serial_number",
           "file_a_claim",
           "consulate"
-        ]
+        ],
+        "image": "lessons/emergency_6.webp"
       },
       {
         "id": "emergency_7",
@@ -161,7 +167,8 @@
           "wet_floor",
           "mind_the_gap",
           "out_of_order"
-        ]
+        ],
+        "image": "lessons/emergency_7.webp"
       }
     ]
   },

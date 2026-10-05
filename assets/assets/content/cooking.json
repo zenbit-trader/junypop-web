@@ -29,7 +29,8 @@
           "optional",
           "swap",
           "homemade"
-        ]
+        ],
+        "image": "lessons/cooking_1.webp"
       },
       {
         "id": "cooking_2",
@@ -51,7 +52,8 @@
           "peeler",
           "grater",
           "tongs"
-        ]
+        ],
+        "image": "lessons/cooking_2.webp"
       },
       {
         "id": "cooking_3",
@@ -73,7 +75,8 @@
           "reduce",
           "reheat",
           "wok"
-        ]
+        ],
+        "image": "lessons/cooking_3.webp"
       },
       {
         "id": "cooking_4",
@@ -95,7 +98,8 @@
           "sprinkle",
           "pungent",
           "broth"
-        ]
+        ],
+        "image": "lessons/cooking_4.webp"
       },
       {
         "id": "cooking_5",
@@ -117,7 +121,8 @@
           "glaze",
           "rolling_pin",
           "baking_sheet"
-        ]
+        ],
+        "image": "lessons/cooking_5.webp"
       },
       {
         "id": "cooking_6",
@@ -139,7 +144,8 @@
           "sharp",
           "fire_blanket",
           "food_poisoning"
-        ]
+        ],
+        "image": "lessons/cooking_6.webp"
       },
       {
         "id": "cooking_7",
@@ -161,7 +167,8 @@
           "filling",
           "plating",
           "comfort_food"
-        ]
+        ],
+        "image": "lessons/cooking_7.webp"
       }
     ]
   },

@@ -29,7 +29,8 @@
           "fireworks",
           "resolution",
           "celebrate"
-        ]
+        ],
+        "image": "lessons/festivals_1.webp"
       },
       {
         "id": "festivals_2",
@@ -51,7 +52,8 @@
           "thankful",
           "feast",
           "harvest"
-        ]
+        ],
+        "image": "lessons/festivals_2.webp"
       },
       {
         "id": "festivals_3",
@@ -73,7 +75,8 @@
           "blessing",
           "chinese_new_year",
           "red_envelope"
-        ]
+        ],
+        "image": "lessons/festivals_3.webp"
       },
       {
         "id": "festivals_4",
@@ -95,7 +98,8 @@
           "confetti",
           "party_hat",
           "rsvp"
-        ]
+        ],
+        "image": "lessons/festivals_4.webp"
       },
       {
         "id": "festivals_5",
@@ -117,7 +121,8 @@
           "first_dance",
           "ordination",
           "funeral"
-        ]
+        ],
+        "image": "lessons/festivals_5.webp"
       },
       {
         "id": "festivals_6",
@@ -139,7 +144,8 @@
           "easter",
           "lion_dance",
           "ramadan"
-        ]
+        ],
+        "image": "lessons/festivals_6.webp"
       },
       {
         "id": "festivals_7",
@@ -161,7 +167,8 @@
           "same_to_you",
           "happy_anniversary",
           "have_a_good_one"
-        ]
+        ],
+        "image": "lessons/festivals_7.webp"
       }
     ]
   },

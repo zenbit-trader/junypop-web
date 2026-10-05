@@ -29,7 +29,8 @@
           "motivate",
           "distance_learning",
           "dropout"
-        ]
+        ],
+        "image": "lessons/ielts_basics_1.webp"
       },
       {
         "title_en": "Environment & Climate",
@@ -51,7 +52,8 @@
           "preserve",
           "sea_level",
           "endangered"
-        ]
+        ],
+        "image": "lessons/ielts_basics_2.webp"
       },
       {
         "title_en": "Technology & Society",
@@ -73,7 +75,8 @@
           "breakthrough",
           "misinformation",
           "face_to_face"
-        ]
+        ],
+        "image": "lessons/ielts_basics_3.webp"
       },
       {
         "title_en": "Health & Lifestyle",
@@ -95,7 +98,8 @@
           "hygiene",
           "moderate",
           "chronic"
-        ]
+        ],
+        "image": "lessons/ielts_basics_4.webp"
       },
       {
         "title_en": "Cities & Urban Life",
@@ -117,7 +121,8 @@
           "green_space",
           "density",
           "high_rise"
-        ]
+        ],
+        "image": "lessons/ielts_basics_5.webp"
       },
       {
         "title_en": "Describing Trends",
@@ -139,7 +144,8 @@
           "account_for",
           "respectively",
           "dip"
-        ]
+        ],
+        "image": "lessons/ielts_basics_6.webp"
       },
       {
         "title_en": "Opinion & Argument",
@@ -161,7 +167,8 @@
           "credible",
           "by_and_large",
           "arguably"
-        ]
+        ],
+        "image": "lessons/ielts_basics_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "syllabus",
         "circulation",
         "criteria"
-      ]
+      ],
+      "image": "words/curriculum.webp"
     },
     {
       "id": "tuition",
@@ -200,7 +208,8 @@
         "tutor",
         "intuition",
         "tradition"
-      ]
+      ],
+      "image": "words/tuition.webp"
     },
     {
       "id": "academic",
@@ -218,7 +227,8 @@
         "academy",
         "economic",
         "athletic"
-      ]
+      ],
+      "image": "words/academic.webp"
     },
     {
       "id": "literacy",
@@ -236,7 +246,8 @@
         "literature",
         "literally",
         "legacy"
-      ]
+      ],
+      "image": "words/literacy.webp"
     },
     {
       "id": "assessment",
@@ -254,7 +265,8 @@
         "assignment",
         "assistance",
         "agreement"
-      ]
+      ],
+      "image": "words/assessment.webp"
     },
     {
       "id": "rote_learning",
@@ -272,7 +284,8 @@
         "remote learning",
         "note-taking",
         "rota"
-      ]
+      ],
+      "image": "words/rote_learning.webp"
     },
     {
       "id": "discipline",
@@ -290,7 +303,8 @@
         "disciple",
         "decline",
         "display"
-      ]
+      ],
+      "image": "words/discipline.webp"
     },
     {
       "id": "undergraduate",
@@ -308,7 +322,8 @@
         "graduate",
         "underground",
         "undertake"
-      ]
+      ],
+      "image": "words/undergraduate.webp"
     },
     {
       "id": "postgraduate",
@@ -326,7 +341,8 @@
         "postage",
         "undergraduate",
         "postpone"
-      ]
+      ],
+      "image": "words/postgraduate.webp"
     },
     {
       "id": "vocational",
@@ -344,7 +360,8 @@
         "vacation",
         "vocal",
         "national"
-      ]
+      ],
+      "image": "words/vocational.webp"
     },
     {
       "id": "peer",
@@ -362,7 +379,8 @@
         "pier",
         "pair",
         "pear"
-      ]
+      ],
+      "image": "words/peer.webp"
     },
     {
       "id": "motivate",
@@ -380,7 +398,8 @@
         "meditate",
         "motion",
         "cultivate"
-      ]
+      ],
+      "image": "words/motivate.webp"
     },
     {
       "id": "distance_learning",
@@ -398,7 +417,8 @@
         "long distance",
         "lifelong learning",
         "distant"
-      ]
+      ],
+      "image": "words/distance_learning.webp"
     },
     {
       "id": "dropout",
@@ -416,7 +436,8 @@
         "drop off",
         "drought",
         "checkout"
-      ]
+      ],
+      "image": "words/dropout.webp"
     },
     {
       "id": "emission",
@@ -434,7 +455,8 @@
         "admission",
         "omission",
         "mission"
-      ]
+      ],
+      "image": "words/emission.webp"
     },
     {
       "id": "carbon_footprint",
@@ -452,7 +474,8 @@
         "carbon copy",
         "footstep",
         "fingerprint"
-      ]
+      ],
+      "image": "words/carbon_footprint.webp"
     },
     {
       "id": "renewable",
@@ -470,7 +493,8 @@
         "reusable",
         "removable",
         "reliable"
-      ]
+      ],
+      "image": "words/renewable.webp"
     },
     {
       "id": "fossil_fuel",
@@ -488,7 +512,8 @@
         "fossil",
         "biofuel",
         "solid fuel"
-      ]
+      ],
+      "image": "words/fossil_fuel.webp"
     },
     {
       "id": "deforestation",
@@ -506,7 +531,8 @@
         "reforestation",
         "destination",
         "demonstration"
-      ]
+      ],
+      "image": "words/deforestation.webp"
     },
     {
       "id": "biodiversity",
@@ -524,7 +550,8 @@
         "biology",
         "diversity",
         "biography"
-      ]
+      ],
+      "image": "words/biodiversity.webp"
     },
     {
       "id": "sustainable",
@@ -542,7 +569,8 @@
         "suitable",
         "stainless",
         "substantial"
-      ]
+      ],
+      "image": "words/sustainable.webp"
     },
     {
       "id": "degradation",
@@ -560,7 +588,8 @@
         "graduation",
         "dedication",
         "decoration"
-      ]
+      ],
+      "image": "words/degradation.webp"
     },
     {
       "id": "contaminate",
@@ -578,7 +607,8 @@
         "contemplate",
         "pollute",
         "eliminate"
-      ]
+      ],
+      "image": "words/contaminate.webp"
     },
     {
       "id": "scarcity",
@@ -596,7 +626,8 @@
         "security",
         "scary",
         "sincerity"
-      ]
+      ],
+      "image": "words/scarcity.webp"
     },
     {
       "id": "waste",
@@ -614,7 +645,8 @@
         "waist",
         "west",
         "wasted"
-      ]
+      ],
+      "image": "words/waste.webp"
     },
     {
       "id": "preserve",
@@ -632,7 +664,8 @@
         "reserve",
         "deserve",
         "conserve"
-      ]
+      ],
+      "image": "words/preserve.webp"
     },
     {
       "id": "sea_level",
@@ -650,7 +683,8 @@
         "sea view",
         "sea floor",
         "water level"
-      ]
+      ],
+      "image": "words/sea_level.webp"
     },
     {
       "id": "endangered",
@@ -668,7 +702,8 @@
         "dangerous",
         "extinct",
         "endorsed"
-      ]
+      ],
+      "image": "words/endangered.webp"
     },
     {
       "id": "digital_divide",
@@ -686,7 +721,8 @@
         "digital detox",
         "division",
         "digital age"
-      ]
+      ],
+      "image": "words/digital_divide.webp"
     },
     {
       "id": "virtual",
@@ -704,7 +740,8 @@
         "visual",
         "vertical",
         "actual"
-      ]
+      ],
+      "image": "words/virtual.webp"
     },
     {
       "id": "advancement",
@@ -722,7 +759,8 @@
         "advantage",
         "advertisement",
         "adventure"
-      ]
+      ],
+      "image": "words/advancement.webp"
     },
     {
       "id": "digital",
@@ -740,7 +778,8 @@
         "digit",
         "visual",
         "manual"
-      ]
+      ],
+      "image": "words/digital.webp"
     },
     {
       "id": "anonymity",
@@ -758,7 +797,8 @@
         "anonymous",
         "animosity",
         "anatomy"
-      ]
+      ],
+      "image": "words/anonymity.webp"
     },
     {
       "id": "surveillance",
@@ -776,7 +816,8 @@
         "survey",
         "survival",
         "surveyor"
-      ]
+      ],
+      "image": "words/surveillance.webp"
     },
     {
       "id": "dependence",
@@ -794,7 +835,8 @@
         "independence",
         "dependent",
         "defense"
-      ]
+      ],
+      "image": "words/dependence.webp"
     },
     {
       "id": "isolation",
@@ -812,7 +854,8 @@
         "insulation",
         "installation",
         "island"
-      ]
+      ],
+      "image": "words/isolation.webp"
     },
     {
       "id": "inequality",
@@ -830,7 +873,8 @@
         "equality",
         "inequity",
         "quality"
-      ]
+      ],
+      "image": "words/inequality.webp"
     },
     {
       "id": "accessible",
@@ -848,7 +892,8 @@
         "acceptable",
         "assessable",
         "accessory"
-      ]
+      ],
+      "image": "words/accessible.webp"
     },
     {
       "id": "obsolete",
@@ -866,7 +911,8 @@
         "absolute",
         "outdated",
         "obscure"
-      ]
+      ],
+      "image": "words/obsolete.webp"
     },
     {
       "id": "breakthrough",
@@ -884,7 +930,8 @@
         "breakdown",
         "breakup",
         "throughout"
-      ]
+      ],
+      "image": "words/breakthrough.webp"
     },
     {
       "id": "misinformation",
@@ -902,7 +949,8 @@
         "information",
         "disinformation",
         "misunderstanding"
-      ]
+      ],
+      "image": "words/misinformation.webp"
     },
     {
       "id": "face_to_face",
@@ -920,7 +968,8 @@
         "in person",
         "face value",
         "face-off"
-      ]
+      ],
+      "image": "words/face_to_face.webp"
     },
     {
       "id": "obesity",
@@ -938,7 +987,8 @@
         "obese",
         "obsessed",
         "opacity"
-      ]
+      ],
+      "image": "words/obesity.webp"
     },
     {
       "id": "sedentary",
@@ -956,7 +1006,8 @@
         "secondary",
         "sedative",
         "stationary"
-      ]
+      ],
+      "image": "words/sedentary.webp"
     },
     {
       "id": "balanced_diet",
@@ -974,7 +1025,8 @@
         "crash diet",
         "balance",
         "vegetarian diet"
-      ]
+      ],
+      "image": "words/balanced_diet.webp"
     },
     {
       "id": "longevity",
@@ -992,7 +1044,8 @@
         "longitude",
         "length",
         "leniency"
-      ]
+      ],
+      "image": "words/longevity.webp"
     },
     {
       "id": "sleep_deprivation",
@@ -1010,7 +1063,8 @@
         "sleep disorder",
         "depression",
         "deprivation"
-      ]
+      ],
+      "image": "words/sleep_deprivation.webp"
     },
     {
       "id": "life_expectancy",
@@ -1028,7 +1082,8 @@
         "life span",
         "life insurance",
         "expectation"
-      ]
+      ],
+      "image": "words/life_expectancy.webp"
     },
     {
       "id": "preventive",
@@ -1046,7 +1101,8 @@
         "preventable",
         "prevention",
         "persuasive"
-      ]
+      ],
+      "image": "words/preventive.webp"
     },
     {
       "id": "epidemic",
@@ -1064,7 +1120,8 @@
         "pandemic",
         "academic",
         "endemic"
-      ]
+      ],
+      "image": "words/epidemic.webp"
     },
     {
       "id": "addiction",
@@ -1082,7 +1139,8 @@
         "addition",
         "prediction",
         "attraction"
-      ]
+      ],
+      "image": "words/addiction.webp"
     },
     {
       "id": "consumption",
@@ -1100,7 +1158,8 @@
         "consumer",
         "assumption",
         "construction"
-      ]
+      ],
+      "image": "words/consumption.webp"
     },
     {
       "id": "processed_food",
@@ -1118,7 +1177,8 @@
         "fast food",
         "frozen food",
         "fresh food"
-      ]
+      ],
+      "image": "words/processed_food.webp"
     },
     {
       "id": "hygiene",
@@ -1136,7 +1196,8 @@
         "hygienic",
         "hyphen",
         "oxygen"
-      ]
+      ],
+      "image": "words/hygiene.webp"
     },
     {
       "id": "moderate",
@@ -1154,7 +1215,8 @@
         "modern",
         "modest",
         "mediate"
-      ]
+      ],
+      "image": "words/moderate.webp"
     },
     {
       "id": "chronic",
@@ -1172,7 +1234,8 @@
         "acute",
         "chronicle",
         "clinic"
-      ]
+      ],
+      "image": "words/chronic.webp"
     },
     {
       "id": "urban",
@@ -1190,7 +1253,8 @@
         "rural",
         "urbane",
         "suburban"
-      ]
+      ],
+      "image": "words/urban.webp"
     },
     {
       "id": "rural",
@@ -1208,7 +1272,8 @@
         "ruler",
         "royal",
         "moral"
-      ]
+      ],
+      "image": "words/rural.webp"
     },
     {
       "id": "infrastructure",
@@ -1226,7 +1291,8 @@
         "instructor",
         "structure",
         "interstate"
-      ]
+      ],
+      "image": "words/infrastructure.webp"
     },
     {
       "id": "congestion",
@@ -1244,7 +1310,8 @@
         "connection",
         "suggestion",
         "digestion"
-      ]
+      ],
+      "image": "words/congestion.webp"
     },
     {
       "id": "overcrowding",
@@ -1262,7 +1329,8 @@
         "overcrowded",
         "crowdfunding",
         "overloading"
-      ]
+      ],
+      "image": "words/overcrowding.webp"
     },
     {
       "id": "suburb",
@@ -1280,7 +1348,8 @@
         "subway",
         "suburban",
         "superb"
-      ]
+      ],
+      "image": "words/suburb.webp"
     },
     {
       "id": "public_transport",
@@ -1298,7 +1367,8 @@
         "public transit",
         "transportation",
         "public service"
-      ]
+      ],
+      "image": "words/public_transport.webp"
     },
     {
       "id": "housing",
@@ -1316,7 +1386,8 @@
         "house",
         "household",
         "housekeeping"
-      ]
+      ],
+      "image": "words/housing.webp"
     },
     {
       "id": "migration",
@@ -1334,7 +1405,8 @@
         "immigration",
         "emigration",
         "migraine"
-      ]
+      ],
+      "image": "words/migration.webp"
     },
     {
       "id": "overpopulation",
@@ -1352,7 +1424,8 @@
         "popularity",
         "overproduction",
         "population"
-      ]
+      ],
+      "image": "words/overpopulation.webp"
     },
     {
       "id": "cost_of_living",
@@ -1370,7 +1443,8 @@
         "standard of living",
         "living room",
         "cost price"
-      ]
+      ],
+      "image": "words/cost_of_living.webp"
     },
     {
       "id": "green_space",
@@ -1388,7 +1462,8 @@
         "open space",
         "greenhouse",
         "green card"
-      ]
+      ],
+      "image": "words/green_space.webp"
     },
     {
       "id": "density",
@@ -1406,7 +1481,8 @@
         "destiny",
         "dentistry",
         "identity"
-      ]
+      ],
+      "image": "words/density.webp"
     },
     {
       "id": "high_rise",
@@ -1424,7 +1500,8 @@
         "high street",
         "skyline",
         "high season"
-      ]
+      ],
+      "image": "words/high_rise.webp"
     },
     {
       "id": "fluctuate",
@@ -1442,7 +1519,8 @@
         "fluent",
         "frustrate",
         "fluctuation"
-      ]
+      ],
+      "image": "words/fluctuate.webp"
     },
     {
       "id": "steadily",
@@ -1460,7 +1538,8 @@
         "steady",
         "readily",
         "suddenly"
-      ]
+      ],
+      "image": "words/steadily.webp"
     },
     {
       "id": "sharply",
@@ -1478,7 +1557,8 @@
         "sharp",
         "slightly",
         "shortly"
-      ]
+      ],
+      "image": "words/sharply.webp"
     },
     {
       "id": "gradually",
@@ -1496,7 +1576,8 @@
         "gradual",
         "actually",
         "gratefully"
-      ]
+      ],
+      "image": "words/gradually.webp"
     },
     {
       "id": "plummet",
@@ -1514,7 +1595,8 @@
         "plumber",
         "plum",
         "plunge"
-      ]
+      ],
+      "image": "words/plummet.webp"
     },
     {
       "id": "soar",
@@ -1532,7 +1614,8 @@
         "sore",
         "sour",
         "saw"
-      ]
+      ],
+      "image": "words/soar.webp"
     },
     {
       "id": "remain_stable",
@@ -1550,7 +1633,8 @@
         "remain silent",
         "stay still",
         "stabilize"
-      ]
+      ],
+      "image": "words/remain_stable.webp"
     },
     {
       "id": "minority",
@@ -1568,7 +1652,8 @@
         "majority",
         "minor",
         "maturity"
-      ]
+      ],
+      "image": "words/minority.webp"
     },
     {
       "id": "significant",
@@ -1586,7 +1671,8 @@
         "signature",
         "insignificant",
         "sufficient"
-      ]
+      ],
+      "image": "words/significant.webp"
     },
     {
       "id": "nearly",
@@ -1604,7 +1690,8 @@
         "nearby",
         "clearly",
         "neatly"
-      ]
+      ],
+      "image": "words/nearly.webp"
     },
     {
       "id": "overtake",
@@ -1622,7 +1709,8 @@
         "undertake",
         "take over",
         "overlook"
-      ]
+      ],
+      "image": "words/overtake.webp"
     },
     {
       "id": "account_for",
@@ -1640,7 +1728,8 @@
         "account",
         "count on",
         "look for"
-      ]
+      ],
+      "image": "words/account_for.webp"
     },
     {
       "id": "respectively",
@@ -1658,7 +1747,8 @@
         "respectfully",
         "respectable",
         "relatively"
-      ]
+      ],
+      "image": "words/respectively.webp"
     },
     {
       "id": "dip",
@@ -1676,7 +1766,8 @@
         "deep",
         "drop",
         "tip"
-      ]
+      ],
+      "image": "words/dip.webp"
     },
     {
       "id": "furthermore",
@@ -1694,7 +1785,8 @@
         "further",
         "moreover",
         "furthest"
-      ]
+      ],
+      "image": "words/furthermore.webp"
     },
     {
       "id": "conversely",
@@ -1712,7 +1804,8 @@
         "conversation",
         "converse",
         "inversely"
-      ]
+      ],
+      "image": "words/conversely.webp"
     },
     {
       "id": "hence",
@@ -1730,7 +1823,8 @@
         "hence forth",
         "whence",
         "thence"
-      ]
+      ],
+      "image": "words/hence.webp"
     },
     {
       "id": "admittedly",
@@ -1748,7 +1842,8 @@
         "admitted",
         "admirably",
         "additionally"
-      ]
+      ],
+      "image": "words/admittedly.webp"
     },
     {
       "id": "in_conclusion",
@@ -1766,7 +1861,8 @@
         "in addition",
         "in contrast",
         "conclusion"
-      ]
+      ],
+      "image": "words/in_conclusion.webp"
     },
     {
       "id": "justify",
@@ -1784,7 +1880,8 @@
         "justice",
         "classify",
         "testify"
-      ]
+      ],
+      "image": "words/justify.webp"
     },
     {
       "id": "outweigh",
@@ -1802,7 +1899,8 @@
         "overweight",
         "outway",
         "outgrow"
-      ]
+      ],
+      "image": "words/outweigh.webp"
     },
     {
       "id": "drawback",
@@ -1820,7 +1918,8 @@
         "setback",
         "feedback",
         "draw"
-      ]
+      ],
+      "image": "words/drawback.webp"
     },
     {
       "id": "advocate",
@@ -1838,7 +1937,8 @@
         "avocado",
         "allocate",
         "advertise"
-      ]
+      ],
+      "image": "words/advocate.webp"
     },
     {
       "id": "controversial",
@@ -1856,7 +1956,8 @@
         "conventional",
         "controversy",
         "commercial"
-      ]
+      ],
+      "image": "words/controversial.webp"
     },
     {
       "id": "viewpoint",
@@ -1874,7 +1975,8 @@
         "view",
         "checkpoint",
         "pinpoint"
-      ]
+      ],
+      "image": "words/viewpoint.webp"
     },
     {
       "id": "credible",
@@ -1892,7 +1994,8 @@
         "incredible",
         "edible",
         "creditable"
-      ]
+      ],
+      "image": "words/credible.webp"
     },
     {
       "id": "by_and_large",
@@ -1910,7 +2013,8 @@
         "at large",
         "by far",
         "large and small"
-      ]
+      ],
+      "image": "words/by_and_large.webp"
     },
     {
       "id": "arguably",
@@ -1928,7 +2032,8 @@
         "arguable",
         "argument",
         "allegedly"
-      ]
+      ],
+      "image": "words/arguably.webp"
     }
   ]
 }
