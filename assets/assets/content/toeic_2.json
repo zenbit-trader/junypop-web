@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "toeic_2",
+    "name_en": "TOEIC Essentials 2",
+    "name_th": "TOEIC ชุด 2",
+    "emoji": "📋",
+    "color_start": "#818CF8",
+    "color_end": "#4F46E5",
+    "description_th": "ศัพท์ TOEIC ชุดสอง ระดับสูงขึ้น การผลิต โลจิสติกส์ สัญญา และคำเชื่อมที่ออกสอบประจำ",
+    "mascot_costume": "suit",
+    "lessons": [
+      {
+        "title_en": "Manufacturing & Quality",
+        "title_th": "การผลิตและคุณภาพ",
+        "emoji": "🏭",
+        "id": "toeic_2_1",
+        "word_ids": [
+          "manufacture",
+          "assembly_line",
+          "inspect",
+          "defect",
+          "durable",
+          "raw_material",
+          "machinery",
+          "output",
+          "standard",
+          "malfunction",
+          "efficient",
+          "shortage",
+          "component",
+          "recall"
+        ]
+      },
+      {
+        "title_en": "Shipping & Logistics",
+        "title_th": "ขนส่งและโลจิสติกส์",
+        "emoji": "🚚",
+        "id": "toeic_2_2",
+        "word_ids": [
+          "freight",
+          "cargo",
+          "dispatch",
+          "courier",
+          "tracking_number",
+          "consignment",
+          "distribute",
+          "in_transit",
+          "fragile",
+          "customs_clearance",
+          "load",
+          "expedite",
+          "lead_time",
+          "bulk"
+        ]
+      },
+      {
+        "title_en": "Real Estate & Facilities",
+        "title_th": "อสังหาฯ และอาคารสถานที่",
+        "emoji": "🏬",
+        "id": "toeic_2_3",
+        "word_ids": [
+          "commercial",
+          "occupancy",
+          "ventilation",
+          "property",
+          "facility",
+          "renovate",
+          "floor_space",
+          "square_meter",
+          "premises",
+          "spacious",
+          "relocate",
+          "plumbing",
+          "real_estate_agent",
+          "vacant"
+        ]
+      },
+      {
+        "title_en": "Orders & Invoices",
+        "title_th": "คำสั่งซื้อและใบแจ้งหนี้",
+        "emoji": "🧾",
+        "id": "toeic_2_4",
+        "word_ids": [
+          "purchase_order",
+          "quotation",
+          "place_an_order",
+          "merchandise",
+          "retailer",
+          "payment_terms",
+          "wire_transfer",
+          "prepaid",
+          "discrepancy",
+          "surcharge",
+          "net",
+          "itemized",
+          "backorder",
+          "remit"
+        ]
+      },
+      {
+        "title_en": "Policies & Regulations",
+        "title_th": "นโยบายและกฎระเบียบ",
+        "emoji": "📜",
+        "id": "toeic_2_5",
+        "word_ids": [
+          "policy",
+          "guideline",
+          "mandatory",
+          "compliance",
+          "violation",
+          "restrict",
+          "code_of_conduct",
+          "impose",
+          "liability",
+          "strictly",
+          "exempt",
+          "sanction",
+          "disclose",
+          "in_accordance_with"
+        ]
+      },
+      {
+        "title_en": "Media & Events",
+        "title_th": "สื่อและอีเวนต์",
+        "emoji": "🎤",
+        "id": "toeic_2_6",
+        "word_ids": [
+          "press_release",
+          "keynote",
+          "banquet",
+          "sponsorship",
+          "fundraiser",
+          "journalist",
+          "editorial",
+          "circulation",
+          "coverage",
+          "exhibitor",
+          "commemorate",
+          "broadcast",
+          "press_conference",
+          "catering"
+        ]
+      },
+      {
+        "title_en": "Connectors & Formal Verbs",
+        "title_th": "คำเชื่อมและกริยาทางการ",
+        "emoji": "🔗",
+        "id": "toeic_2_7",
+        "word_ids": [
+          "in_order_to",
+          "thus",
+          "provided_that",
+          "regardless_of",
+          "as_well_as",
+          "in_the_event_of",
+          "meanwhile",
+          "implement",
+          "accommodate",
+          "ensure",
+          "acquire",
+          "anticipate",
+          "accordingly",
+          "nevertheless"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "manufacture",
+      "word": "manufacture",
+      "pos": "verb",
+      "ipa": "/ˌmænjuˈfæktʃər/",
+      "reading_th": "แมน-นิว-แฟค-เชอร์",
+      "meaning_th": "ผลิต(ในโรงงาน)",
+      "emoji": "🏭",
+      "example_en": "The company will manufacture electric cars in Rayong.",
+      "example_th": "บริษัทจะผลิตรถยนต์ไฟฟ้าที่ระยอง",
+      "cefr": "B1",
+      "note_th": "manufacture = ผลิตจำนวนมากในโรงงาน ส่วน produce ใช้กว้างกว่า (รวมเกษตร) — manufacturer = ผู้ผลิต ออก Part 7 ทุกชุด",
+      "distractors": [
+        "manufacturer",
+        "manual",
+        "maintain"
+      ]
+    },
+    {
+      "id": "assembly_line",
+      "word": "assembly line",
+      "pos": "phrase",
+      "ipa": "/əˈsembli laɪn/",
+      "reading_th": "แอส-เซม-บลี ไลน์",
+      "meaning_th": "สายการประกอบ",
+      "emoji": "⚙️",
+      "example_en": "Robots now work on the assembly line beside people.",
+      "example_th": "ตอนนี้หุ่นยนต์ทำงานบนสายการประกอบเคียงข้างคน",
+      "cefr": "B1",
+      "note_th": "assembly line = สายพานที่ประกอบชิ้นส่วนเป็นสินค้า — assemble = ประกอบ (เช่น assemble furniture จาก IKEA) ไม่ใช่แค่รวมคน",
+      "distractors": [
+        "production line",
+        "assembly hall",
+        "front line"
+      ]
+    },
+    {
+      "id": "inspect",
+      "word": "inspect",
+      "pos": "verb",
+      "ipa": "/ɪnˈspekt/",
+      "reading_th": "อิน-สเปคท์",
+      "meaning_th": "ตรวจสอบอย่างละเอียด",
+      "emoji": "🔎",
+      "example_en": "Engineers inspect every machine once a month.",
+      "example_th": "วิศวกรตรวจสอบเครื่องจักรทุกเครื่องเดือนละครั้ง",
+      "cefr": "B1",
+      "note_th": "inspect = ตรวจดูละเอียดเพื่อหาปัญหา — inspection = การตรวจ, inspector = ผู้ตรวจ; safety inspection ออก Part 4 บ่อย",
+      "distractors": [
+        "expect",
+        "suspect",
+        "respect"
+      ]
+    },
+    {
+      "id": "defect",
+      "word": "defect",
+      "pos": "noun",
+      "ipa": "/ˈdiːfekt/",
+      "reading_th": "ดี-เฟคท์",
+      "meaning_th": "ข้อบกพร่อง / ตำหนิ(ในสินค้า)",
+      "emoji": "❌",
+      "example_en": "The phone was returned because of a screen defect.",
+      "example_th": "โทรศัพท์ถูกส่งคืนเพราะหน้าจอมีตำหนิ",
+      "cefr": "B2",
+      "note_th": "defect = ข้อบกพร่องจากการผลิต คุณศัพท์ defective = ชำรุด — จดหมายร้องเรียนใน Part 7 มักขึ้นต้นว่า the product is defective",
+      "distractors": [
+        "defeat",
+        "effect",
+        "detect"
+      ]
+    },
+    {
+      "id": "durable",
+      "word": "durable",
+      "pos": "adjective",
+      "ipa": "/ˈdʊrəbl/",
+      "reading_th": "ดิว-ระ-เบิล",
+      "meaning_th": "ทนทาน",
+      "emoji": "🧱",
+      "example_en": "These boots are durable enough for daily use.",
+      "example_th": "รองเท้าบู๊ตคู่นี้ทนทานพอสำหรับใช้ทุกวัน",
+      "cefr": "B1",
+      "note_th": "durable = ใช้ได้นานไม่พังง่าย คำนาม durability — โฆษณาสินค้าใน TOEIC ชอบคู่ durable and lightweight",
+      "distractors": [
+        "double",
+        "durability",
+        "disable"
+      ]
+    },
+    {
+      "id": "raw_material",
+      "word": "raw material",
+      "pos": "phrase",
+      "ipa": "/rɔː məˈtɪriəl/",
+      "reading_th": "รอ มะ-เทีย-เรียล",
+      "meaning_th": "วัตถุดิบ",
+      "emoji": "🪵",
+      "example_en": "The price of raw material has risen sharply this year.",
+      "example_th": "ราคาวัตถุดิบพุ่งขึ้นอย่างมากในปีนี้",
+      "cefr": "B1",
+      "note_th": "raw = ดิบ (raw fish, raw data) — raw materials มักใช้พหูพจน์ เช่น import raw materials from abroad",
+      "distractors": [
+        "raw data",
+        "material",
+        "ingredient"
+      ]
+    },
+    {
+      "id": "machinery",
+      "word": "machinery",
+      "pos": "noun",
+      "ipa": "/məˈʃiːnəri/",
+      "reading_th": "มะ-ชี-เนอ-รี",
+      "meaning_th": "เครื่องจักร(โดยรวม)",
+      "emoji": "🏗️",
+      "example_en": "Heavy machinery must be switched off during the inspection.",
+      "example_th": "ต้องปิดเครื่องจักรหนักระหว่างการตรวจสอบ",
+      "cefr": "B1",
+      "note_th": "machinery นับไม่ได้ = เครื่องจักรทั้งหมด ส่วน machine = เครื่องเดียว (นับได้) — a piece of machinery; Part 5 ชอบหลอกเรื่องนับได้/ไม่ได้",
+      "distractors": [
+        "machine",
+        "mechanic",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "output",
+      "word": "output",
+      "pos": "noun",
+      "ipa": "/ˈaʊtpʊt/",
+      "reading_th": "เอาท์-พุท",
+      "meaning_th": "ผลผลิต / ปริมาณที่ผลิตได้",
+      "emoji": "📦",
+      "example_en": "Factory output increased after the new machines arrived.",
+      "example_th": "ผลผลิตของโรงงานเพิ่มขึ้นหลังเครื่องจักรใหม่มาถึง",
+      "cefr": "B1",
+      "note_th": "output = ปริมาณที่ผลิตออกมา ตรงข้ามกับ input — ในงานคอมพิวเตอร์ก็ใช้คำเดียวกัน (ข้อมูลเข้า/ออก)",
+      "distractors": [
+        "input",
+        "outlet",
+        "outcome"
+      ]
+    },
+    {
+      "id": "standard",
+      "word": "standard",
+      "pos": "noun",
+      "ipa": "/ˈstændərd/",
+      "reading_th": "สแตน-เดิร์ด",
+      "meaning_th": "มาตรฐาน",
+      "emoji": "📏",
+      "example_en": "All products must meet the international safety standard.",
+      "example_th": "สินค้าทุกชิ้นต้องผ่านมาตรฐานความปลอดภัยสากล",
+      "cefr": "B1",
+      "note_th": "meet the standard = ได้มาตรฐาน, high standards = มาตรฐานสูง — เป็นคำคุณศัพท์ได้ด้วย: standard size = ขนาดมาตรฐาน",
+      "distractors": [
+        "standing",
+        "status",
+        "stand"
+      ]
+    },
+    {
+      "id": "malfunction",
+      "word": "malfunction",
+      "pos": "verb",
+      "ipa": "/ˌmælˈfʌŋkʃn/",
+      "reading_th": "แมล-ฟังค์-ชั่น",
+      "meaning_th": "ทำงานผิดปกติ / ขัดข้อง",
+      "emoji": "⚠️",
+      "example_en": "The printer began to malfunction after the power cut.",
+      "example_th": "เครื่องพิมพ์เริ่มทำงานผิดปกติหลังไฟดับ",
+      "cefr": "B2",
+      "note_th": "mal- = ไม่ดี + function = ทำงาน; เป็นคำนามได้ (a malfunction) — ใน Part 3 มักเป็นสาเหตุที่ต้องโทรเรียกช่าง",
+      "distractors": [
+        "function",
+        "multifunction",
+        "malnutrition"
+      ]
+    },
+    {
+      "id": "efficient",
+      "word": "efficient",
+      "pos": "adjective",
+      "ipa": "/ɪˈfɪʃnt/",
+      "reading_th": "อิ-ฟิ-เชินท์",
+      "meaning_th": "มีประสิทธิภาพ(ไม่สิ้นเปลือง)",
+      "emoji": "⚡",
+      "example_en": "The new system is more efficient than the old one.",
+      "example_th": "ระบบใหม่มีประสิทธิภาพมากกว่าระบบเก่า",
+      "cefr": "B1",
+      "note_th": "efficient = ทำได้ดีโดยไม่เปลืองเวลา/เงิน ส่วน effective = ได้ผลตามเป้า — energy-efficient = ประหยัดพลังงาน",
+      "distractors": [
+        "effective",
+        "sufficient",
+        "efficiency"
+      ]
+    },
+    {
+      "id": "shortage",
+      "word": "shortage",
+      "pos": "noun",
+      "ipa": "/ˈʃɔːrtɪdʒ/",
+      "reading_th": "ชอร์-ทิจ",
+      "meaning_th": "การขาดแคลน(สินค้า/แรงงาน)",
+      "emoji": "📉",
+      "example_en": "A chip shortage slowed down car production worldwide.",
+      "example_th": "การขาดแคลนชิปทำให้การผลิตรถยนต์ทั่วโลกชะลอตัว",
+      "cefr": "B1",
+      "note_th": "a shortage of + สิ่งที่ขาด (labor shortage, water shortage) — ตรงข้าม surplus = เกินความต้องการ; ข่าวเศรษฐกิจใช้คู่นี้ตลอด",
+      "distractors": [
+        "surplus",
+        "shortcut",
+        "storage"
+      ]
+    },
+    {
+      "id": "component",
+      "word": "component",
+      "pos": "noun",
+      "ipa": "/kəmˈpoʊnənt/",
+      "reading_th": "คอม-โพ-เนินท์",
+      "meaning_th": "ชิ้นส่วนประกอบ",
+      "emoji": "🔩",
+      "example_en": "We import electronic components from Japan.",
+      "example_th": "เรานำเข้าชิ้นส่วนอิเล็กทรอนิกส์จากญี่ปุ่น",
+      "cefr": "B2",
+      "note_th": "component = ชิ้นส่วนที่ประกอบเป็นเครื่อง (ทางเทคนิค) ส่วน part ใช้ทั่วไป — spare parts = อะไหล่",
+      "distractors": [
+        "compartment",
+        "opponent",
+        "complement"
+      ]
+    },
+    {
+      "id": "recall",
+      "word": "recall",
+      "pos": "verb",
+      "ipa": "/rɪˈkɔːl/",
+      "reading_th": "ริ-คอล",
+      "meaning_th": "เรียกคืนสินค้า",
+      "emoji": "↩️",
+      "example_en": "The carmaker will recall thousands of vehicles for repairs.",
+      "example_th": "ผู้ผลิตรถจะเรียกคืนรถหลายพันคันเพื่อซ่อม",
+      "cefr": "B2",
+      "note_th": "recall = เรียกสินค้าที่มีปัญหากลับมาจากลูกค้า (product recall) — อีกความหมายคือ \"นึกออก\" ในภาษาทางการ",
+      "distractors": [
+        "recycle",
+        "call back",
+        "refund"
+      ]
+    },
+    {
+      "id": "freight",
+      "word": "freight",
+      "pos": "noun",
+      "ipa": "/freɪt/",
+      "reading_th": "เฟรท",
+      "meaning_th": "สินค้าขนส่ง / ค่าระวาง",
+      "emoji": "🚛",
+      "example_en": "Freight costs went up because of fuel prices.",
+      "example_th": "ค่าขนส่งสินค้าสูงขึ้นเพราะราคาน้ำมัน",
+      "cefr": "B2",
+      "note_th": "freight = สินค้าที่ขนทางรถ/เรือ/เครื่องบิน และค่าขนส่งนั้น — air freight, freight train; ออกเสียง \"เฟรท\" ไม่ใช่ \"ฟรีท\"",
+      "distractors": [
+        "fright",
+        "flight",
+        "weight"
+      ]
+    },
+    {
+      "id": "cargo",
+      "word": "cargo",
+      "pos": "noun",
+      "ipa": "/ˈkɑːrɡoʊ/",
+      "reading_th": "คาร์-โก",
+      "meaning_th": "สินค้าบรรทุก(บนเรือ/เครื่อง)",
+      "emoji": "🚢",
+      "example_en": "The ship carries cargo from Laem Chabang to Shanghai.",
+      "example_th": "เรือขนสินค้าจากแหลมฉบังไปเซี่ยงไฮ้",
+      "cefr": "B1",
+      "note_th": "cargo = ของที่บรรทุกบนพาหนะ (cargo ship, cargo plane) นับไม่ได้ — ส่วน freight เน้นระบบขนส่งและค่าใช้จ่าย",
+      "distractors": [
+        "carton",
+        "carriage",
+        "cardio"
+      ]
+    },
+    {
+      "id": "dispatch",
+      "word": "dispatch",
+      "pos": "verb",
+      "ipa": "/dɪˈspætʃ/",
+      "reading_th": "ดิส-แพทช์",
+      "meaning_th": "จัดส่งออกจากคลัง",
+      "emoji": "📤",
+      "example_en": "We dispatch all orders within twenty-four hours.",
+      "example_th": "เราจัดส่งคำสั่งซื้อทั้งหมดภายใน 24 ชั่วโมง",
+      "cefr": "B2",
+      "note_th": "dispatch = ส่งออกไปอย่างเป็นทางการ (สินค้า เจ้าหน้าที่) — Your order has been dispatched คืออีเมลที่ได้หลังสั่งของออนไลน์",
+      "distractors": [
+        "display",
+        "disrupt",
+        "patch"
+      ]
+    },
+    {
+      "id": "courier",
+      "word": "courier",
+      "pos": "noun",
+      "ipa": "/ˈkʊriər/",
+      "reading_th": "คู-เรียร์",
+      "meaning_th": "บริษัทขนส่งพัสดุด่วน",
+      "emoji": "🛵",
+      "example_en": "Send the contract by courier so it arrives tomorrow.",
+      "example_th": "ส่งสัญญาทางขนส่งด่วนจะได้ถึงพรุ่งนี้",
+      "cefr": "B1",
+      "note_th": "courier = บริการส่งด่วนเฉพาะชิ้น (Kerry, DHL) หรือคนส่ง — ส่วน postal service คือไปรษณีย์ปกติ",
+      "distractors": [
+        "career",
+        "carrier",
+        "curious"
+      ]
+    },
+    {
+      "id": "tracking_number",
+      "word": "tracking number",
+      "pos": "phrase",
+      "ipa": "/ˈtrækɪŋ ˈnʌmbər/",
+      "reading_th": "แทรค-กิ้ง นัม-เบอร์",
+      "meaning_th": "หมายเลขติดตามพัสดุ",
+      "emoji": "🔢",
+      "example_en": "Use the tracking number to check where your parcel is.",
+      "example_th": "ใช้หมายเลขติดตามเพื่อเช็กว่าพัสดุอยู่ไหน",
+      "cefr": "A2",
+      "note_th": "track = ติดตามเส้นทาง — Part 3 มักมีลูกค้าโทรถาม tracking number เพราะของยังไม่ถึง",
+      "distractors": [
+        "serial number",
+        "order number",
+        "account number"
+      ]
+    },
+    {
+      "id": "consignment",
+      "word": "consignment",
+      "pos": "noun",
+      "ipa": "/kənˈsaɪnmənt/",
+      "reading_th": "คัน-ไซน์-เมนท์",
+      "meaning_th": "สินค้าที่ส่งเป็นล็อต",
+      "emoji": "📦",
+      "example_en": "The first consignment of laptops arrives on Monday.",
+      "example_th": "แล็ปท็อปล็อตแรกจะมาถึงวันจันทร์",
+      "cefr": "B2",
+      "note_th": "consignment = ของหนึ่งล็อตที่ส่งไปให้ผู้รับ — ในธุรกิจค้าปลีก on consignment = ฝากขาย จ่ายเงินเมื่อขายได้",
+      "distractors": [
+        "assignment",
+        "consent",
+        "commitment"
+      ]
+    },
+    {
+      "id": "distribute",
+      "word": "distribute",
+      "pos": "verb",
+      "ipa": "/dɪˈstrɪbjuːt/",
+      "reading_th": "ดิส-ทริ-บิวท์",
+      "meaning_th": "กระจายสินค้า / แจกจ่าย",
+      "emoji": "🔀",
+      "example_en": "The company distributes its products to over 500 stores.",
+      "example_th": "บริษัทกระจายสินค้าไปยังร้านค้ากว่า 500 แห่ง",
+      "cefr": "B1",
+      "note_th": "distribute to = กระจายไปยัง — distributor = ผู้จัดจำหน่าย, distribution center = ศูนย์กระจายสินค้า ที่เจอใน Part 7 บ่อย",
+      "distractors": [
+        "contribute",
+        "attribute",
+        "disturb"
+      ]
+    },
+    {
+      "id": "in_transit",
+      "word": "in transit",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈtrænzɪt/",
+      "reading_th": "อิน แทรน-ซิท",
+      "meaning_th": "อยู่ระหว่างขนส่ง",
+      "emoji": "🛣️",
+      "example_en": "Your package is still in transit and will arrive Monday.",
+      "example_th": "พัสดุของคุณยังอยู่ระหว่างขนส่ง จะถึงวันจันทร์",
+      "cefr": "B1",
+      "note_th": "in transit = กำลังเดินทางอยู่ สถานะที่เห็นในแอปติดตามพัสดุ — damaged in transit = เสียหายระหว่างขนส่ง",
+      "distractors": [
+        "in stock",
+        "in storage",
+        "in person"
+      ]
+    },
+    {
+      "id": "fragile",
+      "word": "fragile",
+      "pos": "adjective",
+      "ipa": "/ˈfrædʒl/",
+      "reading_th": "แฟร-จิล",
+      "meaning_th": "แตกง่าย / เปราะบาง",
+      "emoji": "🥚",
+      "example_en": "Mark the box as fragile before shipping it.",
+      "example_th": "ติดป้ายแตกง่ายที่กล่องก่อนส่ง",
+      "cefr": "B1",
+      "note_th": "FRAGILE — HANDLE WITH CARE คือสติกเกอร์บนกล่องของแตกง่าย; ใช้กับเศรษฐกิจหรือสุขภาพที่เปราะบางได้ด้วย",
+      "distractors": [
+        "agile",
+        "flexible",
+        "fragrant"
+      ]
+    },
+    {
+      "id": "customs_clearance",
+      "word": "customs clearance",
+      "pos": "phrase",
+      "ipa": "/ˈkʌstəmz ˈklɪrəns/",
+      "reading_th": "คัส-เติมส์ เคลีย-เรินซ์",
+      "meaning_th": "พิธีการศุลกากร",
+      "emoji": "🛃",
+      "example_en": "The shipment is waiting for customs clearance at the port.",
+      "example_th": "สินค้ากำลังรอผ่านพิธีการศุลกากรที่ท่าเรือ",
+      "cefr": "B2",
+      "note_th": "clear customs = ผ่านด่านศุลกากร — ในงานนำเข้าส่งออก customs clearance เป็นขั้นตอนที่ทำให้ของมาช้าบ่อยที่สุด",
+      "distractors": [
+        "customs duty",
+        "security clearance",
+        "customer service"
+      ]
+    },
+    {
+      "id": "load",
+      "word": "load",
+      "pos": "verb",
+      "ipa": "/loʊd/",
+      "reading_th": "โลด",
+      "meaning_th": "บรรทุก / ขนของขึ้น",
+      "emoji": "🏗️",
+      "example_en": "Workers load the trucks early in the morning.",
+      "example_th": "คนงานขนของขึ้นรถบรรทุกตั้งแต่เช้าตรู่",
+      "cefr": "B1",
+      "note_th": "load / unload = ขนขึ้น / ขนลง — loading dock = ท่าขนของหลังร้าน; a truckload = ของเต็มคันรถ",
+      "distractors": [
+        "unload",
+        "lord",
+        "road"
+      ]
+    },
+    {
+      "id": "expedite",
+      "word": "expedite",
+      "pos": "verb",
+      "ipa": "/ˈekspədaɪt/",
+      "reading_th": "เอ็ค-สเปอ-ไดท์",
+      "meaning_th": "เร่งดำเนินการ",
+      "emoji": "🚀",
+      "example_en": "Can you expedite the order so it arrives before Friday?",
+      "example_th": "ช่วยเร่งคำสั่งซื้อให้ถึงก่อนวันศุกร์ได้ไหม",
+      "cefr": "B2",
+      "note_th": "expedite = ทำให้เร็วขึ้น ทางการกว่า speed up — expedited shipping = ส่งด่วนเสียเงินเพิ่ม ออกใน Part 7 ประจำ",
+      "distractors": [
+        "expand",
+        "expect",
+        "expire"
+      ]
+    },
+    {
+      "id": "lead_time",
+      "word": "lead time",
+      "pos": "phrase",
+      "ipa": "/liːd taɪm/",
+      "reading_th": "ลีด ไทม์",
+      "meaning_th": "ระยะเวลารอสินค้า",
+      "emoji": "⏳",
+      "example_en": "The lead time for custom furniture is six weeks.",
+      "example_th": "ระยะเวลารอเฟอร์นิเจอร์สั่งทำคือหกสัปดาห์",
+      "cefr": "B2",
+      "note_th": "lead time = เวลาตั้งแต่สั่งจนได้รับของ ออกเสียง \"ลีด\" — ซัพพลายเออร์จะบอก lead time ก่อนรับออร์เดอร์",
+      "distractors": [
+        "lead role",
+        "deadline",
+        "overtime"
+      ]
+    },
+    {
+      "id": "bulk",
+      "word": "bulk",
+      "pos": "noun",
+      "ipa": "/bʌlk/",
+      "reading_th": "บัลค์",
+      "meaning_th": "จำนวนมาก / ล็อตใหญ่",
+      "emoji": "🏢",
+      "example_en": "We buy paper in bulk to get a lower price.",
+      "example_th": "เราซื้อกระดาษครั้งละมากๆ เพื่อให้ได้ราคาถูกลง",
+      "cefr": "B1",
+      "note_th": "in bulk = ซื้อทีละมากๆ ไม่แยกชิ้น — bulk order / bulk discount = ส่วนลดเมื่อซื้อเยอะ; the bulk of = ส่วนใหญ่ของ",
+      "distractors": [
+        "bull",
+        "bunch",
+        "bulb"
+      ]
+    },
+    {
+      "id": "commercial",
+      "word": "commercial",
+      "pos": "adjective",
+      "ipa": "/kəˈmɜːrʃl/",
+      "reading_th": "คอม-เมอร์-เชิล",
+      "meaning_th": "เชิงพาณิชย์ / เพื่อการค้า",
+      "emoji": "🏬",
+      "example_en": "This area is zoned for commercial use only.",
+      "example_th": "พื้นที่นี้กำหนดให้ใช้เชิงพาณิชย์เท่านั้น",
+      "cefr": "B1",
+      "note_th": "commercial property = อสังหาฯ เพื่อการค้า ตรงข้าม residential = เพื่ออยู่อาศัย — เป็นคำนามได้ด้วย: a TV commercial = โฆษณาทีวี",
+      "distractors": [
+        "residential",
+        "commerce",
+        "commission"
+      ]
+    },
+    {
+      "id": "occupancy",
+      "word": "occupancy",
+      "pos": "noun",
+      "ipa": "/ˈɑːkjəpənsi/",
+      "reading_th": "ออค-คิว-เพิน-ซี",
+      "meaning_th": "การเข้าใช้พื้นที่ / อัตราการเข้าพัก",
+      "emoji": "🏨",
+      "example_en": "Hotel occupancy reaches ninety percent in high season.",
+      "example_th": "อัตราเข้าพักโรงแรมแตะเก้าสิบเปอร์เซ็นต์ในฤดูท่องเที่ยว",
+      "cefr": "B2",
+      "note_th": "occupancy rate = อัตราห้องที่มีคนใช้ (โรงแรม ออฟฟิศ) — maximum occupancy 50 = ป้ายจำกัดคนในห้อง; occupied = มีคนใช้อยู่",
+      "distractors": [
+        "occupation",
+        "vacancy",
+        "occupant"
+      ]
+    },
+    {
+      "id": "ventilation",
+      "word": "ventilation",
+      "pos": "noun",
+      "ipa": "/ˌventɪˈleɪʃn/",
+      "reading_th": "เวน-ทิ-เล-ชั่น",
+      "meaning_th": "การระบายอากาศ",
+      "emoji": "🌬️",
+      "example_en": "The warehouse needs better ventilation in the summer.",
+      "example_th": "คลังสินค้าต้องระบายอากาศให้ดีขึ้นในหน้าร้อน",
+      "cefr": "B2",
+      "note_th": "ventilation system = ระบบระบายอากาศ (กริยา ventilate) — ในการตรวจอาคาร poor ventilation เป็นข้อร้องเรียนยอดฮิต",
+      "distractors": [
+        "validation",
+        "vacation",
+        "vibration"
+      ]
+    },
+    {
+      "id": "property",
+      "word": "property",
+      "pos": "noun",
+      "ipa": "/ˈprɑːpərti/",
+      "reading_th": "พร็อพ-เพอร์-ที",
+      "meaning_th": "อสังหาริมทรัพย์ / ทรัพย์สิน",
+      "emoji": "🏘️",
+      "example_en": "They invested in property near the new train station.",
+      "example_th": "พวกเขาลงทุนในอสังหาริมทรัพย์ใกล้สถานีรถไฟใหม่",
+      "cefr": "B1",
+      "note_th": "property = ที่ดินและอาคาร (นับได้: a property) หรือทรัพย์สินโดยรวม (นับไม่ได้) — property developer = ผู้พัฒนาอสังหาฯ",
+      "distractors": [
+        "properly",
+        "poverty",
+        "priority"
+      ]
+    },
+    {
+      "id": "facility",
+      "word": "facility",
+      "pos": "noun",
+      "ipa": "/fəˈsɪləti/",
+      "reading_th": "ฟะ-ซิ-ลิ-ที",
+      "meaning_th": "สิ่งอำนวยความสะดวก / อาคารสถานที่",
+      "emoji": "🏟️",
+      "example_en": "The new facility includes a gym and a cafeteria.",
+      "example_th": "อาคารใหม่มีฟิตเนสและโรงอาหาร",
+      "cefr": "B1",
+      "note_th": "facilities (พหูพจน์) = สิ่งอำนวยความสะดวก ส่วน a facility = อาคาร/โรงงานแห่งหนึ่ง เช่น a storage facility",
+      "distractors": [
+        "faculty",
+        "facilitate",
+        "fatality"
+      ]
+    },
+    {
+      "id": "renovate",
+      "word": "renovate",
+      "pos": "verb",
+      "ipa": "/ˈrenəveɪt/",
+      "reading_th": "เร-โน-เวท",
+      "meaning_th": "ปรับปรุงซ่อมแซม(อาคาร)",
+      "emoji": "🔨",
+      "example_en": "They will renovate the lobby during the holidays.",
+      "example_th": "พวกเขาจะปรับปรุงล็อบบี้ช่วงวันหยุด",
+      "cefr": "B1",
+      "note_th": "renovate = รีโนเวตอาคารเก่าให้ใหม่ คำนาม renovation — closed for renovation คือป้ายที่ Part 4 ชอบประกาศ",
+      "distractors": [
+        "innovate",
+        "renew",
+        "remove"
+      ]
+    },
+    {
+      "id": "floor_space",
+      "word": "floor space",
+      "pos": "phrase",
+      "ipa": "/flɔːr speɪs/",
+      "reading_th": "ฟลอร์ สเปซ",
+      "meaning_th": "พื้นที่ใช้สอย",
+      "emoji": "📏",
+      "example_en": "The new store has twice the floor space of the old one.",
+      "example_th": "ร้านใหม่มีพื้นที่ใช้สอยเป็นสองเท่าของร้านเก่า",
+      "cefr": "B1",
+      "note_th": "floor space = พื้นที่ภายในอาคารที่ใช้งานได้จริง นับไม่ได้ — ประกาศให้เช่ามักบอก 300 sq m of floor space",
+      "distractors": [
+        "floor plan",
+        "office space",
+        "parking space"
+      ]
+    },
+    {
+      "id": "square_meter",
+      "word": "square meter",
+      "pos": "phrase",
+      "ipa": "/skwer ˈmiːtər/",
+      "reading_th": "สแควร์ มี-เทอร์",
+      "meaning_th": "ตารางเมตร",
+      "emoji": "📐",
+      "example_en": "The office space is about 200 square meters.",
+      "example_th": "พื้นที่ออฟฟิศประมาณ 200 ตารางเมตร",
+      "cefr": "A2",
+      "note_th": "square meter ย่อ sq m หรือ m² — สะกดแบบอังกฤษคือ metre; อเมริกันบอกพื้นที่บ้านเป็น square feet",
+      "distractors": [
+        "square foot",
+        "kilometer",
+        "square root"
+      ]
+    },
+    {
+      "id": "premises",
+      "word": "premises",
+      "pos": "noun",
+      "ipa": "/ˈpremɪsɪz/",
+      "reading_th": "เพรม-มิส-เซส",
+      "meaning_th": "บริเวณสถานที่(ของบริษัท/ร้าน)",
+      "emoji": "🚧",
+      "example_en": "Smoking is not allowed anywhere on the premises.",
+      "example_th": "ห้ามสูบบุหรี่ทุกจุดในบริเวณสถานที่",
+      "cefr": "B2",
+      "note_th": "premises ใช้รูปพหูพจน์เสมอ = ตัวอาคารพร้อมที่ดินของกิจการ — on the premises = ในบริเวณ, leave the premises = ออกจากพื้นที่",
+      "distractors": [
+        "promises",
+        "premium",
+        "premise"
+      ]
+    },
+    {
+      "id": "spacious",
+      "word": "spacious",
+      "pos": "adjective",
+      "ipa": "/ˈspeɪʃəs/",
+      "reading_th": "สเป-เชิส",
+      "meaning_th": "กว้างขวาง",
+      "emoji": "🛋️",
+      "example_en": "The apartment has a spacious living room with a balcony.",
+      "example_th": "อพาร์ตเมนต์มีห้องนั่งเล่นกว้างขวางพร้อมระเบียง",
+      "cefr": "B1",
+      "note_th": "spacious มาจาก space — ประกาศขายบ้านชอบใช้ spacious and bright; ตรงข้ามคือ cramped = คับแคบ",
+      "distractors": [
+        "special",
+        "specious",
+        "gracious"
+      ]
+    },
+    {
+      "id": "relocate",
+      "word": "relocate",
+      "pos": "verb",
+      "ipa": "/ˌriːˈloʊkeɪt/",
+      "reading_th": "รี-โล-เคท",
+      "meaning_th": "ย้ายที่ตั้ง",
+      "emoji": "🚚",
+      "example_en": "The company will relocate its warehouse to Chonburi.",
+      "example_th": "บริษัทจะย้ายคลังสินค้าไปชลบุรี",
+      "cefr": "B2",
+      "note_th": "relocate = ย้ายสำนักงาน/ย้ายไปทำงานเมืองอื่น (ทางการ) ส่วน move ใช้ทั่วไป — relocation package = เงินช่วยย้ายถิ่นของพนักงาน",
+      "distractors": [
+        "locate",
+        "relate",
+        "reload"
+      ]
+    },
+    {
+      "id": "plumbing",
+      "word": "plumbing",
+      "pos": "noun",
+      "ipa": "/ˈplʌmɪŋ/",
+      "reading_th": "พลัม-มิ่ง",
+      "meaning_th": "ระบบประปา",
+      "emoji": "🚰",
+      "example_en": "The old building needs new plumbing and wiring.",
+      "example_th": "ตึกเก่าต้องเปลี่ยนระบบประปาและสายไฟใหม่",
+      "cefr": "B2",
+      "note_th": "b ไม่ออกเสียง (พลัม-มิ่ง) — plumber = ช่างประปา ส่วน wiring = ระบบสายไฟ; ทั้งคู่โผล่ใน Part 3 ตอนแจ้งซ่อม",
+      "distractors": [
+        "plumber",
+        "plunge",
+        "climbing"
+      ]
+    },
+    {
+      "id": "real_estate_agent",
+      "word": "real estate agent",
+      "pos": "phrase",
+      "ipa": "/ˌriːəl ɪˈsteɪt ˈeɪdʒənt/",
+      "reading_th": "เรียล เอส-เตท เอ-เจินท์",
+      "meaning_th": "นายหน้าอสังหาริมทรัพย์",
+      "emoji": "🧑‍💼",
+      "example_en": "A real estate agent showed us three condos today.",
+      "example_th": "นายหน้าอสังหาฯ พาเราดูคอนโดสามห้องวันนี้",
+      "cefr": "B1",
+      "note_th": "real estate = อสังหาริมทรัพย์ (อเมริกัน) — อังกฤษใช้ estate agent; ใน TOEIC บทสนทนาดูบ้านมักมี agent คนนี้",
+      "distractors": [
+        "travel agent",
+        "estate",
+        "real estate"
+      ]
+    },
+    {
+      "id": "vacant",
+      "word": "vacant",
+      "pos": "adjective",
+      "ipa": "/ˈveɪkənt/",
+      "reading_th": "เว-เคินท์",
+      "meaning_th": "ว่าง(ไม่มีคนอยู่/ใช้)",
+      "emoji": "🪧",
+      "example_en": "The shop next door has been vacant for months.",
+      "example_th": "ร้านข้างๆ ว่างมาหลายเดือนแล้ว",
+      "cefr": "B1",
+      "note_th": "vacant = ว่างเพราะไม่มีคนครอบครอง (ห้อง ที่นั่ง ตำแหน่งงาน) — ป้ายห้องน้ำบนเครื่องบินเขียน VACANT / OCCUPIED",
+      "distractors": [
+        "vacation",
+        "occupied",
+        "vague"
+      ]
+    },
+    {
+      "id": "purchase_order",
+      "word": "purchase order",
+      "pos": "phrase",
+      "ipa": "/ˈpɜːrtʃəs ˈɔːrdər/",
+      "reading_th": "เพอร์-เชส ออร์-เดอร์",
+      "meaning_th": "ใบสั่งซื้อ",
+      "emoji": "🧾",
+      "example_en": "Please send a purchase order before we ship the goods.",
+      "example_th": "กรุณาส่งใบสั่งซื้อก่อนเราจัดส่งสินค้า",
+      "cefr": "B1",
+      "note_th": "purchase order ย่อ PO = เอกสารที่ผู้ซื้อออกให้ผู้ขาย — ฝ่ายจัดซื้อไทยพูดว่า \"เปิด PO\"; purchase เฉยๆ = ซื้อ (ทางการ)",
+      "distractors": [
+        "purchase",
+        "work order",
+        "order form"
+      ]
+    },
+    {
+      "id": "quotation",
+      "word": "quotation",
+      "pos": "noun",
+      "ipa": "/kwoʊˈteɪʃn/",
+      "reading_th": "โคว-เท-ชั่น",
+      "meaning_th": "ใบเสนอราคา",
+      "emoji": "💬",
+      "example_en": "We requested a quotation for 500 office chairs.",
+      "example_th": "เราขอใบเสนอราคาเก้าอี้สำนักงาน 500 ตัว",
+      "cefr": "B1",
+      "note_th": "quotation (หรือ quote) = เอกสารเสนอราคาก่อนซื้อ — request a quotation ย่อ RFQ; อีกความหมายคือข้อความที่ยกมาอ้าง",
+      "distractors": [
+        "question",
+        "quota",
+        "quantity"
+      ]
+    },
+    {
+      "id": "place_an_order",
+      "word": "place an order",
+      "pos": "phrase",
+      "ipa": "/pleɪs ən ˈɔːrdər/",
+      "reading_th": "เพลส แอน ออร์-เดอร์",
+      "meaning_th": "สั่งซื้อสินค้า",
+      "emoji": "🛒",
+      "example_en": "You can place an order online or by phone.",
+      "example_th": "คุณสั่งซื้อได้ทางออนไลน์หรือโทรศัพท์",
+      "cefr": "A2",
+      "note_th": "place an order ไม่ใช่ make an order — คู่กับ fill an order = จัดของตามคำสั่งซื้อ และ cancel an order = ยกเลิก",
+      "distractors": [
+        "take an order",
+        "make a deal",
+        "place a bet"
+      ]
+    },
+    {
+      "id": "merchandise",
+      "word": "merchandise",
+      "pos": "noun",
+      "ipa": "/ˈmɜːrtʃəndaɪs/",
+      "reading_th": "เมอร์-เชิน-ไดส์",
+      "meaning_th": "สินค้า(ที่วางขาย)",
+      "emoji": "🛍️",
+      "example_en": "All merchandise must be returned within fourteen days.",
+      "example_th": "สินค้าทั้งหมดต้องส่งคืนภายในสิบสี่วัน",
+      "cefr": "B2",
+      "note_th": "merchandise นับไม่ได้ = สินค้าในร้าน (ทางการ) ส่วน goods ใช้ทั่วไป — คำว่า merch ของศิลปินก็ย่อจากคำนี้",
+      "distractors": [
+        "merchant",
+        "machinery",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "retailer",
+      "word": "retailer",
+      "pos": "noun",
+      "ipa": "/ˈriːteɪlər/",
+      "reading_th": "รี-เทล-เลอร์",
+      "meaning_th": "ผู้ค้าปลีก",
+      "emoji": "🏪",
+      "example_en": "The retailer sells our products in all its branches.",
+      "example_th": "ผู้ค้าปลีกรายนี้ขายสินค้าของเราในทุกสาขา",
+      "cefr": "B1",
+      "note_th": "retailer = ร้านที่ขายให้ผู้บริโภค (7-Eleven, Lotus) ส่วน wholesaler = ผู้ค้าส่ง — ห่วงโซ่คือ manufacturer → wholesaler → retailer",
+      "distractors": [
+        "wholesaler",
+        "retail",
+        "tailor"
+      ]
+    },
+    {
+      "id": "payment_terms",
+      "word": "payment terms",
+      "pos": "phrase",
+      "ipa": "/ˈpeɪmənt tɜːrmz/",
+      "reading_th": "เพ-เมนท์ เทิร์มส",
+      "meaning_th": "เงื่อนไขการชำระเงิน",
+      "emoji": "📆",
+      "example_en": "Our payment terms are thirty days from the invoice date.",
+      "example_th": "เงื่อนไขชำระเงินของเราคือสามสิบวันนับจากวันที่ใบแจ้งหนี้",
+      "cefr": "B2",
+      "note_th": "payment terms บอกว่าต้องจ่ายเมื่อไร เช่น net 30 = ภายใน 30 วัน — Part 7 ชอบถามว่าลูกค้าต้องจ่ายภายในวันไหน",
+      "distractors": [
+        "payment method",
+        "terms of service",
+        "payment plan"
+      ]
+    },
+    {
+      "id": "wire_transfer",
+      "word": "wire transfer",
+      "pos": "phrase",
+      "ipa": "/ˈwaɪər ˈtrænsfɜːr/",
+      "reading_th": "ไว-เออร์ แทรนส์-เฟอร์",
+      "meaning_th": "การโอนเงินผ่านธนาคาร",
+      "emoji": "🏦",
+      "example_en": "We accept payment by wire transfer or credit card.",
+      "example_th": "เรารับชำระเงินด้วยการโอนผ่านธนาคารหรือบัตรเครดิต",
+      "cefr": "B1",
+      "note_th": "wire transfer (อเมริกัน) = bank transfer (อังกฤษ) = โอนเงินระหว่างบัญชี — ใบแจ้งหนี้ต่างประเทศมักระบุ wire transfer details",
+      "distractors": [
+        "bank transfer",
+        "wireless",
+        "transfer fee"
+      ]
+    },
+    {
+      "id": "prepaid",
+      "word": "prepaid",
+      "pos": "adjective",
+      "ipa": "/ˌpriːˈpeɪd/",
+      "reading_th": "พรี-เพด",
+      "meaning_th": "ชำระล่วงหน้าแล้ว",
+      "emoji": "💳",
+      "example_en": "Shipping is prepaid, so you pay nothing on delivery.",
+      "example_th": "ค่าส่งชำระล่วงหน้าแล้ว คุณไม่ต้องจ่ายตอนรับของ",
+      "cefr": "B1",
+      "note_th": "prepaid = จ่ายก่อนใช้ เช่น prepaid SIM, prepaid card — ตรงข้ามกับ postpaid (จ่ายทีหลัง) ที่ค่ายมือถือไทยใช้",
+      "distractors": [
+        "postpaid",
+        "unpaid",
+        "repaid"
+      ]
+    },
+    {
+      "id": "discrepancy",
+      "word": "discrepancy",
+      "pos": "noun",
+      "ipa": "/dɪˈskrepənsi/",
+      "reading_th": "ดิส-เครพ-เพิน-ซี",
+      "meaning_th": "ความไม่ตรงกัน(ของตัวเลข)",
+      "emoji": "🔍",
+      "example_en": "There is a discrepancy between the invoice and the order.",
+      "example_th": "ใบแจ้งหนี้กับคำสั่งซื้อมีตัวเลขไม่ตรงกัน",
+      "cefr": "B2",
+      "note_th": "discrepancy = ตัวเลข/ข้อมูลสองที่ไม่ตรงกัน — a discrepancy between A and B; นักบัญชีใช้คำนี้ทุกวัน",
+      "distractors": [
+        "dependency",
+        "discount",
+        "description"
+      ]
+    },
+    {
+      "id": "surcharge",
+      "word": "surcharge",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrtʃɑːrdʒ/",
+      "reading_th": "เซอร์-ชาร์จ",
+      "meaning_th": "ค่าธรรมเนียมเพิ่ม",
+      "emoji": "➕",
+      "example_en": "There is a surcharge for deliveries outside the city.",
+      "example_th": "มีค่าธรรมเนียมเพิ่มสำหรับการจัดส่งนอกเมือง",
+      "cefr": "B2",
+      "note_th": "surcharge = เงินที่บวกเพิ่มจากราคาปกติ เช่น fuel surcharge ของสายการบิน, late surcharge — ต่างจาก fee ที่เป็นค่าบริการปกติ",
+      "distractors": [
+        "discharge",
+        "service fee",
+        "charger"
+      ]
+    },
+    {
+      "id": "net",
+      "word": "net",
+      "pos": "adjective",
+      "ipa": "/net/",
+      "reading_th": "เน็ท",
+      "meaning_th": "สุทธิ(หลังหักแล้ว)",
+      "emoji": "🧮",
+      "example_en": "The net amount after the discount is 8,500 baht.",
+      "example_th": "ยอดสุทธิหลังหักส่วนลดคือ 8,500 บาท",
+      "cefr": "B1",
+      "note_th": "net = หลังหักแล้ว (net price, net income) ตรงข้าม gross = ก่อนหัก — payment terms net 30 = จ่ายเต็มภายใน 30 วัน",
+      "distractors": [
+        "gross",
+        "nest",
+        "neat"
+      ]
+    },
+    {
+      "id": "itemized",
+      "word": "itemized",
+      "pos": "adjective",
+      "ipa": "/ˈaɪtəmaɪzd/",
+      "reading_th": "ไอ-เทม-ไมซ์ด์",
+      "meaning_th": "แยกรายการ(ทีละชิ้น)",
+      "emoji": "📝",
+      "example_en": "Please send an itemized invoice for the repairs.",
+      "example_th": "กรุณาส่งใบแจ้งหนี้แยกรายการค่าซ่อม",
+      "cefr": "B2",
+      "note_th": "itemized bill / receipt = แจกแจงทุกรายการพร้อมราคา ใช้ตอนเบิกบริษัท — มาจาก item = รายการ",
+      "distractors": [
+        "optimized",
+        "organized",
+        "item"
+      ]
+    },
+    {
+      "id": "backorder",
+      "word": "backorder",
+      "pos": "noun",
+      "ipa": "/ˈbækɔːrdər/",
+      "reading_th": "แบค-ออร์-เดอร์",
+      "meaning_th": "สินค้าสั่งจองรอของเข้า",
+      "emoji": "📭",
+      "example_en": "The blue model is on backorder until next month.",
+      "example_th": "รุ่นสีน้ำเงินต้องสั่งจองรอของจนถึงเดือนหน้า",
+      "cefr": "B2",
+      "note_th": "on backorder = ของหมดชั่วคราวแต่สั่งได้ รอของเข้า — ต่างจาก out of stock ที่ไม่รับออร์เดอร์; สะกดแยก back order ก็ได้",
+      "distractors": [
+        "back office",
+        "preorder",
+        "reorder"
+      ]
+    },
+    {
+      "id": "remit",
+      "word": "remit",
+      "pos": "verb",
+      "ipa": "/rɪˈmɪt/",
+      "reading_th": "ริ-มิท",
+      "meaning_th": "ส่งเงินชำระ",
+      "emoji": "💸",
+      "example_en": "Please remit payment to the account listed below.",
+      "example_th": "กรุณาส่งเงินชำระเข้าบัญชีด้านล่าง",
+      "cefr": "B2",
+      "note_th": "remit payment = โอนเงินชำระ (ทางการ ใช้ในใบแจ้งหนี้) — คำนาม remittance คือเงินที่แรงงานส่งกลับบ้าน",
+      "distractors": [
+        "remind",
+        "permit",
+        "submit"
+      ]
+    },
+    {
+      "id": "policy",
+      "word": "policy",
+      "pos": "noun",
+      "ipa": "/ˈpɑːləsi/",
+      "reading_th": "พอ-ลิ-ซี",
+      "meaning_th": "นโยบาย",
+      "emoji": "📘",
+      "example_en": "Our return policy allows refunds within thirty days.",
+      "example_th": "นโยบายคืนสินค้าของเราให้คืนเงินได้ภายในสามสิบวัน",
+      "cefr": "B1",
+      "note_th": "company policy / return policy / privacy policy — อีกความหมายคือกรมธรรม์ประกัน (insurance policy); พหูพจน์ policies",
+      "distractors": [
+        "police",
+        "politics",
+        "polish"
+      ]
+    },
+    {
+      "id": "guideline",
+      "word": "guideline",
+      "pos": "noun",
+      "ipa": "/ˈɡaɪdlaɪn/",
+      "reading_th": "ไกด์-ไลน์",
+      "meaning_th": "แนวทางปฏิบัติ",
+      "emoji": "🧭",
+      "example_en": "Follow the guidelines when you post on social media for work.",
+      "example_th": "ปฏิบัติตามแนวทางเมื่อโพสต์โซเชียลในนามบริษัท",
+      "cefr": "B1",
+      "note_th": "guidelines (มักพหูพจน์) = แนวทางแนะนำ ไม่ถึงกับเป็นกฎที่ลงโทษ — ต่างจาก rules/regulations ที่บังคับ",
+      "distractors": [
+        "deadline",
+        "guidance",
+        "headline"
+      ]
+    },
+    {
+      "id": "mandatory",
+      "word": "mandatory",
+      "pos": "adjective",
+      "ipa": "/ˈmændətɔːri/",
+      "reading_th": "แมน-ดะ-ทอ-รี",
+      "meaning_th": "บังคับ / ต้องทำ",
+      "emoji": "❗",
+      "example_en": "Safety training is mandatory for all new workers.",
+      "example_th": "การอบรมความปลอดภัยเป็นข้อบังคับสำหรับคนงานใหม่ทุกคน",
+      "cefr": "B2",
+      "note_th": "mandatory = required = บังคับ ตรงข้าม optional / voluntary — Part 7 ชอบถาม Which activity is mandatory?",
+      "distractors": [
+        "optional",
+        "voluntary",
+        "monetary"
+      ]
+    },
+    {
+      "id": "compliance",
+      "word": "compliance",
+      "pos": "noun",
+      "ipa": "/kəmˈplaɪəns/",
+      "reading_th": "คัม-พลาย-เอินซ์",
+      "meaning_th": "การปฏิบัติตามกฎ",
+      "emoji": "✔️",
+      "example_en": "The factory passed its compliance check last week.",
+      "example_th": "โรงงานผ่านการตรวจการปฏิบัติตามกฎเมื่อสัปดาห์ก่อน",
+      "cefr": "B2",
+      "note_th": "in compliance with = เป็นไปตาม (กฎหมาย/มาตรฐาน) — compliance department ในบริษัทใหญ่ดูแลไม่ให้ทำผิดกฎ",
+      "distractors": [
+        "appliance",
+        "complaint",
+        "complexity"
+      ]
+    },
+    {
+      "id": "violation",
+      "word": "violation",
+      "pos": "noun",
+      "ipa": "/ˌvaɪəˈleɪʃn/",
+      "reading_th": "ไว-โอ-เล-ชั่น",
+      "meaning_th": "การฝ่าฝืน / ละเมิด",
+      "emoji": "🚫",
+      "example_en": "Parking here is a violation of city rules.",
+      "example_th": "การจอดรถตรงนี้เป็นการฝ่าฝืนกฎของเมือง",
+      "cefr": "B2",
+      "note_th": "a violation of + กฎ — กริยา violate = ฝ่าฝืน; traffic violation = ทำผิดกฎจราจร ที่คนไทยเจอเวลาโดนใบสั่ง",
+      "distractors": [
+        "violence",
+        "vacation",
+        "valuation"
+      ]
+    },
+    {
+      "id": "restrict",
+      "word": "restrict",
+      "pos": "verb",
+      "ipa": "/rɪˈstrɪkt/",
+      "reading_th": "ริ-สทริคท์",
+      "meaning_th": "จำกัด / ควบคุมไม่ให้เกิน",
+      "emoji": "🔒",
+      "example_en": "The city will restrict traffic in the old town.",
+      "example_th": "เมืองจะจำกัดการจราจรในเขตเมืองเก่า",
+      "cefr": "B2",
+      "note_th": "restrict access to = จำกัดการเข้าถึง — restricted area = เขตหวงห้าม ป้ายที่ Part 1 ชอบมีในรูป; คำนาม restriction",
+      "distractors": [
+        "restrain",
+        "district",
+        "strict"
+      ]
+    },
+    {
+      "id": "code_of_conduct",
+      "word": "code of conduct",
+      "pos": "phrase",
+      "ipa": "/koʊd əv ˈkɑːndʌkt/",
+      "reading_th": "โคด ออฟ คอน-ดัคท์",
+      "meaning_th": "จรรยาบรรณ / ระเบียบความประพฤติ",
+      "emoji": "📘",
+      "example_en": "Every new employee signs the code of conduct.",
+      "example_th": "พนักงานใหม่ทุกคนลงนามรับจรรยาบรรณบริษัท",
+      "cefr": "B2",
+      "note_th": "code ในที่นี้ = ชุดกฎ ไม่ใช่รหัส: dress code, code of conduct — conduct = ความประพฤติ (นาม) / ดำเนินการ (กริยา)",
+      "distractors": [
+        "dress code",
+        "code of ethics",
+        "conductor"
+      ]
+    },
+    {
+      "id": "impose",
+      "word": "impose",
+      "pos": "verb",
+      "ipa": "/ɪmˈpoʊz/",
+      "reading_th": "อิม-โพส",
+      "meaning_th": "กำหนด(ภาษี/ค่าปรับ)ให้ต้องรับ",
+      "emoji": "⚖️",
+      "example_en": "The government will impose a new tax on sugary drinks.",
+      "example_th": "รัฐบาลจะกำหนดภาษีใหม่กับเครื่องดื่มหวาน",
+      "cefr": "B2",
+      "note_th": "impose a tax / a fine / a ban on something — ใช้กับสิ่งที่คนไม่อยากได้; impose on someone = รบกวน ใช้ในมารยาท",
+      "distractors": [
+        "expose",
+        "propose",
+        "oppose"
+      ]
+    },
+    {
+      "id": "liability",
+      "word": "liability",
+      "pos": "noun",
+      "ipa": "/ˌlaɪəˈbɪləti/",
+      "reading_th": "ไล-อะ-บิ-ลิ-ที",
+      "meaning_th": "ความรับผิด(ตามกฎหมาย) / หนี้สิน",
+      "emoji": "⚖️",
+      "example_en": "The company accepts no liability for lost items.",
+      "example_th": "บริษัทไม่รับผิดชอบต่อสิ่งของที่สูญหาย",
+      "cefr": "B2",
+      "note_th": "liability = ความรับผิดทางกฎหมาย (liability insurance) และในบัญชี = หนี้สิน ตรงข้าม asset — liable for = ต้องรับผิดต่อ",
+      "distractors": [
+        "reliability",
+        "ability",
+        "stability"
+      ]
+    },
+    {
+      "id": "strictly",
+      "word": "strictly",
+      "pos": "adverb",
+      "ipa": "/ˈstrɪktli/",
+      "reading_th": "สทริคท์-ลี",
+      "meaning_th": "อย่างเคร่งครัด",
+      "emoji": "📏",
+      "example_en": "Smoking is strictly prohibited inside the warehouse.",
+      "example_th": "ห้ามสูบบุหรี่ในคลังสินค้าโดยเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "strictly prohibited / strictly confidential / strictly speaking (พูดอย่างเคร่งครัด) — เป็นคำเน้นที่ป้ายเตือนภาษาอังกฤษใช้ตลอด",
+      "distractors": [
+        "strict",
+        "directly",
+        "swiftly"
+      ]
+    },
+    {
+      "id": "exempt",
+      "word": "exempt",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzempt/",
+      "reading_th": "อิก-เซมพท์",
+      "meaning_th": "ได้รับยกเว้น",
+      "emoji": "🆓",
+      "example_en": "Small businesses are exempt from this new tax.",
+      "example_th": "ธุรกิจขนาดเล็กได้รับยกเว้นภาษีใหม่นี้",
+      "cefr": "B2",
+      "note_th": "exempt from + สิ่งที่ไม่ต้องทำ/จ่าย — tax-exempt = ปลอดภาษี; คำนาม exemption เช่น tax exemption ที่เห็นตอนยื่นภาษี",
+      "distractors": [
+        "exam",
+        "example",
+        "except"
+      ]
+    },
+    {
+      "id": "sanction",
+      "word": "sanction",
+      "pos": "noun",
+      "ipa": "/ˈsæŋkʃn/",
+      "reading_th": "แซงค์-ชั่น",
+      "meaning_th": "มาตรการลงโทษ",
+      "emoji": "🚫",
+      "example_en": "The company faces sanctions for breaking safety rules.",
+      "example_th": "บริษัทเผชิญมาตรการลงโทษจากการละเมิดกฎความปลอดภัย",
+      "cefr": "B2",
+      "note_th": "sanctions (พหูพจน์) = บทลงโทษ/มาตรการคว่ำบาตรในข่าวต่างประเทศ — คำนี้ยังหมายถึง \"อนุมัติ\" ได้ด้วย (ทางการมาก) ดูบริบท",
+      "distractors": [
+        "section",
+        "auction",
+        "suction"
+      ]
+    },
+    {
+      "id": "disclose",
+      "word": "disclose",
+      "pos": "verb",
+      "ipa": "/dɪsˈkloʊz/",
+      "reading_th": "ดิส-โคลส",
+      "meaning_th": "เปิดเผย(ข้อมูล)",
+      "emoji": "🔓",
+      "example_en": "Employees must not disclose customer data to anyone.",
+      "example_th": "พนักงานห้ามเปิดเผยข้อมูลลูกค้าแก่ผู้ใด",
+      "cefr": "B2",
+      "note_th": "disclose = เปิดเผยข้อมูลที่ควรเป็นความลับ (ทางการ) — non-disclosure agreement (NDA) คือสัญญาห้ามเปิดเผยที่พนักงานใหม่ต้องเซ็น",
+      "distractors": [
+        "close",
+        "enclose",
+        "discuss"
+      ]
+    },
+    {
+      "id": "in_accordance_with",
+      "word": "in accordance with",
+      "pos": "phrase",
+      "ipa": "/ɪn əˈkɔːrdns wɪð/",
+      "reading_th": "อิน อะ-คอร์-เดินซ์ วิธ",
+      "meaning_th": "ตามที่กำหนดใน",
+      "emoji": "📜",
+      "example_en": "Refunds are handled in accordance with company policy.",
+      "example_th": "การคืนเงินดำเนินการตามนโยบายบริษัท",
+      "cefr": "B2",
+      "note_th": "in accordance with + กฎ/นโยบาย/ข้อตกลง = ตามที่ระบุไว้ ทางการกว่า according to — Part 5 ชอบให้เติม with",
+      "distractors": [
+        "according to",
+        "in addition to",
+        "in charge of"
+      ]
+    },
+    {
+      "id": "press_release",
+      "word": "press release",
+      "pos": "phrase",
+      "ipa": "/pres rɪˈliːs/",
+      "reading_th": "เพรส ริ-ลีส",
+      "meaning_th": "ข่าวแจกสื่อมวลชน",
+      "emoji": "📰",
+      "example_en": "The company issued a press release about the merger.",
+      "example_th": "บริษัทออกข่าวประชาสัมพันธ์เรื่องการควบรวมกิจการ",
+      "cefr": "B2",
+      "note_th": "press release = เอกสารข่าวที่บริษัทส่งให้นักข่าว — issue a press release; press ในที่นี้แปลว่าสื่อมวลชน ไม่ใช่กด",
+      "distractors": [
+        "news report",
+        "release date",
+        "press pass"
+      ]
+    },
+    {
+      "id": "keynote",
+      "word": "keynote",
+      "pos": "noun",
+      "ipa": "/ˈkiːnoʊt/",
+      "reading_th": "คี-โนท",
+      "meaning_th": "ปาฐกถาหลัก(ของงาน)",
+      "emoji": "🎤",
+      "example_en": "The keynote will be given by a famous economist.",
+      "example_th": "ปาฐกถาหลักจะบรรยายโดยนักเศรษฐศาสตร์ชื่อดัง",
+      "cefr": "B2",
+      "note_th": "keynote speech / keynote speaker = วิทยากรหลักเปิดงาน — Part 4 มักเป็นเสียงพิธีกรแนะนำ keynote speaker",
+      "distractors": [
+        "keyboard",
+        "key point",
+        "footnote"
+      ]
+    },
+    {
+      "id": "banquet",
+      "word": "banquet",
+      "pos": "noun",
+      "ipa": "/ˈbæŋkwɪt/",
+      "reading_th": "แบง-ควิท",
+      "meaning_th": "งานเลี้ยงอาหารค่ำอย่างเป็นทางการ",
+      "emoji": "🍽️",
+      "example_en": "The awards banquet will be held at the Grand Hotel.",
+      "example_th": "งานเลี้ยงมอบรางวัลจะจัดที่โรงแรมแกรนด์",
+      "cefr": "B2",
+      "note_th": "banquet = งานเลี้ยงโต๊ะจีนแบบทางการ มีพิธีการ — banquet hall = ห้องจัดเลี้ยงของโรงแรม; ออกเสียง t ท้ายด้วย",
+      "distractors": [
+        "bouquet",
+        "basket",
+        "blanket"
+      ]
+    },
+    {
+      "id": "sponsorship",
+      "word": "sponsorship",
+      "pos": "noun",
+      "ipa": "/ˈspɑːnsərʃɪp/",
+      "reading_th": "สปอน-เซอร์-ชิพ",
+      "meaning_th": "การสนับสนุนเงินจัดงาน",
+      "emoji": "🤝",
+      "example_en": "The marathon depends on sponsorship from local banks.",
+      "example_th": "งานมาราธอนพึ่งพาเงินสนับสนุนจากธนาคารท้องถิ่น",
+      "cefr": "B2",
+      "note_th": "sponsorship = เงิน/ของที่บริษัทให้งานแลกกับการโชว์โลโก้ — sponsorship package ใน Part 7 มักแจกแจงว่าได้อะไรบ้าง",
+      "distractors": [
+        "scholarship",
+        "membership",
+        "ownership"
+      ]
+    },
+    {
+      "id": "fundraiser",
+      "word": "fundraiser",
+      "pos": "noun",
+      "ipa": "/ˈfʌndreɪzər/",
+      "reading_th": "ฟันด์-เร-เซอร์",
+      "meaning_th": "งานระดมทุน",
+      "emoji": "🎗️",
+      "example_en": "The school held a fundraiser for new computers.",
+      "example_th": "โรงเรียนจัดงานระดมทุนเพื่อซื้อคอมพิวเตอร์ใหม่",
+      "cefr": "B2",
+      "note_th": "fundraiser = งาน (หรือคน) ระดมเงินบริจาค — raise funds = ระดมทุน; charity fundraiser ออก Part 7 ในรูปจดหมายเชิญ",
+      "distractors": [
+        "fundraising",
+        "founder",
+        "sunrise"
+      ]
+    },
+    {
+      "id": "journalist",
+      "word": "journalist",
+      "pos": "noun",
+      "ipa": "/ˈdʒɜːrnəlɪst/",
+      "reading_th": "เจอร์-นะ-ลิสท์",
+      "meaning_th": "นักข่าว",
+      "emoji": "🎙️",
+      "example_en": "A journalist asked the CEO about the new factory.",
+      "example_th": "นักข่าวถามซีอีโอเรื่องโรงงานใหม่",
+      "cefr": "B1",
+      "note_th": "journalist = นักข่าวทั่วไป ส่วน reporter = คนรายงานข่าวหน้ากล้อง/ภาคสนาม — journal = วารสาร/บันทึก",
+      "distractors": [
+        "journal",
+        "journey",
+        "novelist"
+      ]
+    },
+    {
+      "id": "editorial",
+      "word": "editorial",
+      "pos": "noun",
+      "ipa": "/ˌedɪˈtɔːriəl/",
+      "reading_th": "เอ-ดิ-ทอ-เรียล",
+      "meaning_th": "บทบรรณาธิการ",
+      "emoji": "✒️",
+      "example_en": "The editorial criticized the new tax plan.",
+      "example_th": "บทบรรณาธิการวิจารณ์แผนภาษีใหม่",
+      "cefr": "B2",
+      "note_th": "editorial = บทความแสดงความเห็นของกองบรรณาธิการ (ไม่ใช่ข่าว) — เป็นคำคุณศัพท์ได้: editorial team = ทีมบรรณาธิการ",
+      "distractors": [
+        "editor",
+        "edition",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "circulation",
+      "word": "circulation",
+      "pos": "noun",
+      "ipa": "/ˌsɜːrkjəˈleɪʃn/",
+      "reading_th": "เซอร์-คิว-เล-ชั่น",
+      "meaning_th": "ยอดจำหน่าย(หนังสือพิมพ์)",
+      "emoji": "🗞️",
+      "example_en": "The magazine has a circulation of 50,000 copies.",
+      "example_th": "นิตยสารมียอดจำหน่าย 50,000 ฉบับ",
+      "cefr": "B2",
+      "note_th": "circulation = จำนวนฉบับที่กระจายถึงผู้อ่าน — อีกความหมายคือการไหลเวียน (blood circulation); in circulation = ยังใช้อยู่ (เงิน)",
+      "distractors": [
+        "calculation",
+        "circle",
+        "regulation"
+      ]
+    },
+    {
+      "id": "coverage",
+      "word": "coverage",
+      "pos": "noun",
+      "ipa": "/ˈkʌvərɪdʒ/",
+      "reading_th": "คัฟ-เวอ-ริจ",
+      "meaning_th": "การรายงานข่าว / ความครอบคลุม",
+      "emoji": "📡",
+      "example_en": "The product launch received wide media coverage.",
+      "example_th": "การเปิดตัวสินค้าได้รับการรายงานข่าวอย่างกว้างขวาง",
+      "cefr": "B2",
+      "note_th": "media coverage = การที่สื่อนำไปรายงาน — ยังใช้กับประกัน (insurance coverage) และสัญญาณมือถือ (no coverage = ไม่มีสัญญาณ)",
+      "distractors": [
+        "cover",
+        "courage",
+        "coverage area"
+      ]
+    },
+    {
+      "id": "exhibitor",
+      "word": "exhibitor",
+      "pos": "noun",
+      "ipa": "/ɪɡˈzɪbɪtər/",
+      "reading_th": "อิก-ซิ-บิ-เทอร์",
+      "meaning_th": "ผู้ออกบูธแสดงสินค้า",
+      "emoji": "🏷️",
+      "example_en": "Each exhibitor gets a booth and two free passes.",
+      "example_th": "ผู้ออกบูธแต่ละรายได้บูธหนึ่งบูธและบัตรผ่านฟรีสองใบ",
+      "cefr": "B2",
+      "note_th": "exhibitor = บริษัทที่ออกบูธในงานแสดงสินค้า ส่วน visitor = คนเดินชม — exhibitor registration ออกใน Part 7 ประจำ",
+      "distractors": [
+        "exhibit",
+        "editor",
+        "visitor"
+      ]
+    },
+    {
+      "id": "commemorate",
+      "word": "commemorate",
+      "pos": "verb",
+      "ipa": "/kəˈmeməreɪt/",
+      "reading_th": "คะ-เมม-โม-เรท",
+      "meaning_th": "จัดงานรำลึก / ฉลองวาระ",
+      "emoji": "🏛️",
+      "example_en": "The event will commemorate the company's fiftieth anniversary.",
+      "example_th": "งานนี้จัดขึ้นเพื่อฉลองครบรอบ 50 ปีของบริษัท",
+      "cefr": "B2",
+      "note_th": "commemorate = ทำสิ่งใดเพื่อระลึกถึงเหตุการณ์/บุคคล — commemorative = ที่ระลึก เช่น commemorative stamp, commemorative plaque",
+      "distractors": [
+        "commend",
+        "memorize",
+        "celebrate"
+      ]
+    },
+    {
+      "id": "broadcast",
+      "word": "broadcast",
+      "pos": "verb",
+      "ipa": "/ˈbrɔːdkæst/",
+      "reading_th": "บรอด-แคสท์",
+      "meaning_th": "ออกอากาศ / แพร่ภาพ",
+      "emoji": "📺",
+      "example_en": "The ceremony will be broadcast live on television.",
+      "example_th": "พิธีจะถ่ายทอดสดทางโทรทัศน์",
+      "cefr": "B1",
+      "note_th": "broadcast ช่อง 2 (past = broadcast เหมือนเดิม) — live broadcast = ถ่ายทอดสด; broadcaster = สถานี/ผู้ประกาศ",
+      "distractors": [
+        "podcast",
+        "forecast",
+        "broad"
+      ]
+    },
+    {
+      "id": "press_conference",
+      "word": "press conference",
+      "pos": "phrase",
+      "ipa": "/pres ˈkɑːnfərəns/",
+      "reading_th": "เพรส คอน-เฟอ-เรนซ์",
+      "meaning_th": "การแถลงข่าว",
+      "emoji": "🎙️",
+      "example_en": "The CEO will hold a press conference tomorrow morning.",
+      "example_th": "ซีอีโอจะแถลงข่าวพรุ่งนี้เช้า",
+      "cefr": "B1",
+      "note_th": "hold / call a press conference = จัดแถลงข่าวให้นักข่าวถาม — ต่างจาก press release ที่เป็นเอกสารส่งให้สื่อ",
+      "distractors": [
+        "news conference",
+        "press pass",
+        "video conference"
+      ]
+    },
+    {
+      "id": "catering",
+      "word": "catering",
+      "pos": "noun",
+      "ipa": "/ˈkeɪtərɪŋ/",
+      "reading_th": "เค-เทอ-ริ่ง",
+      "meaning_th": "บริการจัดเลี้ยง",
+      "emoji": "🍱",
+      "example_en": "We hired a catering company for the staff party.",
+      "example_th": "เราจ้างบริษัทจัดเลี้ยงสำหรับงานปาร์ตี้พนักงาน",
+      "cefr": "B1",
+      "note_th": "catering = จัดอาหารให้งาน (ไม่ใช่ร้านอาหาร) กริยา cater for/to — ใน Part 3 ผู้จัดงานชอบโทรจองกับ caterer",
+      "distractors": [
+        "caterer",
+        "catalog",
+        "cleaning"
+      ]
+    },
+    {
+      "id": "in_order_to",
+      "word": "in order to",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈɔːrdər tuː/",
+      "reading_th": "อิน ออร์-เดอร์ ทู",
+      "meaning_th": "เพื่อที่จะ",
+      "emoji": "🎯",
+      "example_en": "We hired more staff in order to meet the deadline.",
+      "example_th": "เราจ้างพนักงานเพิ่มเพื่อให้ทันกำหนดส่ง",
+      "cefr": "B1",
+      "note_th": "in order to + กริยา (ไม่ผัน) = so as to — ถ้าตามด้วยประโยคใช้ in order that หรือ so that; Part 5 ชอบให้เลือกระหว่าง to / for",
+      "distractors": [
+        "in order",
+        "in case of",
+        "so that"
+      ]
+    },
+    {
+      "id": "thus",
+      "word": "thus",
+      "pos": "adverb",
+      "ipa": "/ðʌs/",
+      "reading_th": "ธัส",
+      "meaning_th": "ดังนั้น (ทางการ)",
+      "emoji": "➡️",
+      "example_en": "Costs fell, and thus profits rose.",
+      "example_th": "ต้นทุนลด ด้วยเหตุนี้กำไรจึงเพิ่ม",
+      "cefr": "B2",
+      "note_th": "thus = therefore แบบสั้นและเป็นทางการ ใช้ในรายงานมากกว่าพูด — thus far = จนถึงตอนนี้ (so far)",
+      "distractors": [
+        "this",
+        "those",
+        "thug"
+      ]
+    },
+    {
+      "id": "provided_that",
+      "word": "provided that",
+      "pos": "phrase",
+      "ipa": "/prəˈvaɪdɪd ðæt/",
+      "reading_th": "โพร-ไว-ดิด แธท",
+      "meaning_th": "โดยมีเงื่อนไขว่า",
+      "emoji": "📋",
+      "example_en": "You may work from home provided that you attend meetings.",
+      "example_th": "คุณทำงานจากบ้านได้ โดยมีเงื่อนไขว่าต้องเข้าประชุม",
+      "cefr": "B2",
+      "note_th": "provided that = if แบบเข้มงวดมีเงื่อนไข (providing that ก็ได้) — ภาษาสัญญาใช้บ่อย ตามด้วยประโยคเต็ม",
+      "distractors": [
+        "provide",
+        "unless",
+        "even though"
+      ]
+    },
+    {
+      "id": "regardless_of",
+      "word": "regardless of",
+      "pos": "phrase",
+      "ipa": "/rɪˈɡɑːrdləs əv/",
+      "reading_th": "ริ-การ์ด-เลส ออฟ",
+      "meaning_th": "โดยไม่คำนึงถึง",
+      "emoji": "🙈",
+      "example_en": "Everyone gets the same bonus regardless of position.",
+      "example_th": "ทุกคนได้โบนัสเท่ากันโดยไม่คำนึงถึงตำแหน่ง",
+      "cefr": "B2",
+      "note_th": "regardless of + คำนาม (regardless of age / price) — ถ้าใช้ลอยๆ ท้ายประโยค regardless = ยังไงก็ตาม; อย่าสะกด irregardless",
+      "distractors": [
+        "regarding",
+        "in regard to",
+        "regards"
+      ]
+    },
+    {
+      "id": "as_well_as",
+      "word": "as well as",
+      "pos": "phrase",
+      "ipa": "/əz wel əz/",
+      "reading_th": "แอส เวล แอส",
+      "meaning_th": "รวมทั้ง / และยัง",
+      "emoji": "➕",
+      "example_en": "The price covers lunch as well as the training materials.",
+      "example_th": "ราคารวมอาหารกลางวันรวมทั้งเอกสารอบรม",
+      "cefr": "B1",
+      "note_th": "A as well as B = A และ B ด้วย (เน้น A) — กริยาผันตาม A: The manager, as well as the staff, is coming",
+      "distractors": [
+        "as well",
+        "as long as",
+        "as soon as"
+      ]
+    },
+    {
+      "id": "in_the_event_of",
+      "word": "in the event of",
+      "pos": "phrase",
+      "ipa": "/ɪn ði ɪˈvent əv/",
+      "reading_th": "อิน ธิ อิ-เวนท์ ออฟ",
+      "meaning_th": "ในกรณีที่เกิด",
+      "emoji": "🚨",
+      "example_en": "In the event of a fire, use the stairs, not the elevator.",
+      "example_th": "ในกรณีเกิดไฟไหม้ ให้ใช้บันได ไม่ใช่ลิฟต์",
+      "cefr": "B2",
+      "note_th": "in the event of + คำนาม = ถ้าเกิด (ทางการ ใช้ในป้ายและกรมธรรม์) — ถ้าตามด้วยประโยคใช้ in the event that",
+      "distractors": [
+        "in case of",
+        "in the end",
+        "event"
+      ]
+    },
+    {
+      "id": "meanwhile",
+      "word": "meanwhile",
+      "pos": "adverb",
+      "ipa": "/ˈmiːnwaɪl/",
+      "reading_th": "มีน-ไวล์",
+      "meaning_th": "ในขณะเดียวกัน",
+      "emoji": "⏱️",
+      "example_en": "The engineers fixed the server. Meanwhile, staff worked offline.",
+      "example_th": "วิศวกรซ่อมเซิร์ฟเวอร์ ในขณะเดียวกันพนักงานก็ทำงานแบบออฟไลน์",
+      "cefr": "B1",
+      "note_th": "meanwhile = ระหว่างนั้น/ในเวลาเดียวกัน ขึ้นประโยคใหม่ — ส่วน while ใช้เชื่อมในประโยคเดียว (while I was working)",
+      "distractors": [
+        "while",
+        "meantime",
+        "meaningful"
+      ]
+    },
+    {
+      "id": "implement",
+      "word": "implement",
+      "pos": "verb",
+      "ipa": "/ˈɪmplɪment/",
+      "reading_th": "อิม-พลิ-เมนท์",
+      "meaning_th": "นำไปปฏิบัติ / เริ่มใช้จริง",
+      "emoji": "🛠️",
+      "example_en": "We will implement the new system in January.",
+      "example_th": "เราจะเริ่มใช้ระบบใหม่ในเดือนมกราคม",
+      "cefr": "B2",
+      "note_th": "implement a plan / a policy / a system = เอาแผนไปทำจริง — คำนาม implementation; ตรงกับที่ออฟฟิศไทยพูดว่า \"อิมพลีเมนต์\"",
+      "distractors": [
+        "improvement",
+        "complement",
+        "implant"
+      ]
+    },
+    {
+      "id": "accommodate",
+      "word": "accommodate",
+      "pos": "verb",
+      "ipa": "/əˈkɑːmədeɪt/",
+      "reading_th": "อะ-คอม-โม-เดท",
+      "meaning_th": "รองรับ(จำนวน/ความต้องการ)",
+      "emoji": "🏨",
+      "example_en": "The hall can accommodate up to 300 guests.",
+      "example_th": "ห้องโถงรองรับแขกได้ถึง 300 คน",
+      "cefr": "B2",
+      "note_th": "accommodate = รับได้/จัดให้ตามต้องการ เช่น accommodate your request — สะกด cc + mm เหมือน accommodation",
+      "distractors": [
+        "accumulate",
+        "accompany",
+        "commemorate"
+      ]
+    },
+    {
+      "id": "ensure",
+      "word": "ensure",
+      "pos": "verb",
+      "ipa": "/ɪnˈʃʊr/",
+      "reading_th": "อิน-ชัวร์",
+      "meaning_th": "ทำให้แน่ใจว่า / รับรองว่า",
+      "emoji": "🛡️",
+      "example_en": "Please ensure that all doors are locked at night.",
+      "example_th": "กรุณาตรวจให้แน่ใจว่าประตูทุกบานล็อกตอนกลางคืน",
+      "cefr": "B1",
+      "note_th": "ensure that + ประโยค = ทำให้แน่ใจ ส่วน insure = ทำประกัน และ assure someone = ทำให้คนมั่นใจ — สามคำนี้ Part 5 ชอบหลอก",
+      "distractors": [
+        "insure",
+        "assure",
+        "endure"
+      ]
+    },
+    {
+      "id": "acquire",
+      "word": "acquire",
+      "pos": "verb",
+      "ipa": "/əˈkwaɪər/",
+      "reading_th": "อะ-ไคว-เออร์",
+      "meaning_th": "ได้มา / ซื้อกิจการ",
+      "emoji": "🤝",
+      "example_en": "The firm plans to acquire two smaller competitors.",
+      "example_th": "บริษัทวางแผนซื้อกิจการคู่แข่งรายเล็กสองราย",
+      "cefr": "B2",
+      "note_th": "acquire a company = ซื้อกิจการ (คำนาม acquisition, M&A = mergers and acquisitions) — ใช้กับทักษะได้ด้วย: acquire new skills",
+      "distractors": [
+        "require",
+        "inquire",
+        "acquit"
+      ]
+    },
+    {
+      "id": "anticipate",
+      "word": "anticipate",
+      "pos": "verb",
+      "ipa": "/ænˈtɪsɪpeɪt/",
+      "reading_th": "แอน-ทิ-ซิ-เพท",
+      "meaning_th": "คาดการณ์ล่วงหน้า",
+      "emoji": "🔭",
+      "example_en": "We anticipate strong demand for the new model.",
+      "example_th": "เราคาดว่าจะมีความต้องการรุ่นใหม่สูง",
+      "cefr": "B2",
+      "note_th": "anticipate = คาดว่าจะเกิดและเตรียมรับมือ — anticipated delivery date = วันที่คาดว่าจะส่ง; ทางการกว่า expect",
+      "distractors": [
+        "participate",
+        "appreciate",
+        "animate"
+      ]
+    },
+    {
+      "id": "accordingly",
+      "word": "accordingly",
+      "pos": "adverb",
+      "ipa": "/əˈkɔːrdɪŋli/",
+      "reading_th": "อะ-คอร์-ดิ้ง-ลี",
+      "meaning_th": "ตามนั้น / อย่างสอดคล้องกัน",
+      "emoji": "🔄",
+      "example_en": "Prices have changed, so please update the menu accordingly.",
+      "example_th": "ราคาเปลี่ยนแล้ว กรุณาปรับเมนูให้สอดคล้องกัน",
+      "cefr": "B2",
+      "note_th": "accordingly วางท้ายประโยค = ให้เหมาะกับสถานการณ์ที่เพิ่งพูดถึง — ต่างจาก according to = ตามที่ (according to the report)",
+      "distractors": [
+        "according to",
+        "accordion",
+        "recordingly"
+      ]
+    },
+    {
+      "id": "nevertheless",
+      "word": "nevertheless",
+      "pos": "adverb",
+      "ipa": "/ˌnevərðəˈles/",
+      "reading_th": "เน-เวอร์-เธอะ-เลส",
+      "meaning_th": "ถึงกระนั้นก็ตาม",
+      "emoji": "🧗",
+      "example_en": "The project was difficult. Nevertheless, the team finished on time.",
+      "example_th": "โปรเจกต์ยาก ถึงกระนั้นทีมก็เสร็จทันเวลา",
+      "cefr": "B2",
+      "note_th": "nevertheless = however แบบเน้นกว่า (\"ถึงอย่างนั้นก็ยัง\") — สะกดติดกันเป็นคำเดียว ใช้ขึ้นประโยคแล้วตามด้วยคอมมา",
+      "distractors": [
+        "nonetheless",
+        "never",
+        "regardless"
+      ]
+    }
+  ]
+}

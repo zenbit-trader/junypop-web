@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "high_school",
+    "name_en": "High School English",
+    "name_th": "ศัพท์ ม.ปลาย",
+    "emoji": "🏫",
+    "color_start": "#F59E0B",
+    "color_end": "#B45309",
+    "description_th": "ศัพท์ที่ออกข้อสอบ ม.ปลาย O-NET และ A-Level อ่านจับใจความ ไวยากรณ์ และคำเชื่อม",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "high_school_1",
+        "title_en": "Reading Verbs",
+        "title_th": "กริยาอ่านจับใจความ",
+        "emoji": "📖",
+        "word_ids": [
+          "skim",
+          "portray",
+          "convey",
+          "define",
+          "identify",
+          "state",
+          "illustrate",
+          "indicate",
+          "imply",
+          "infer",
+          "evaluate",
+          "conclude",
+          "interpret",
+          "refer_to"
+        ]
+      },
+      {
+        "id": "high_school_2",
+        "title_en": "Academic Nouns",
+        "title_th": "คำนามในข้อสอบ",
+        "emoji": "📝",
+        "word_ids": [
+          "passage",
+          "paragraph",
+          "topic",
+          "main_idea",
+          "detail",
+          "purpose",
+          "tone",
+          "attitude",
+          "author",
+          "title",
+          "column",
+          "context",
+          "excerpt",
+          "origin"
+        ]
+      },
+      {
+        "id": "high_school_3",
+        "title_en": "Character Words",
+        "title_th": "บรรยายนิสัยตัวละคร",
+        "emoji": "🎭",
+        "word_ids": [
+          "modest",
+          "reckless",
+          "cowardly",
+          "ruthless",
+          "talented",
+          "stern",
+          "timid",
+          "cunning",
+          "cautious",
+          "noble",
+          "courageous",
+          "innocent",
+          "mysterious",
+          "wealthy"
+        ]
+      },
+      {
+        "id": "high_school_4",
+        "title_en": "Connectors",
+        "title_th": "คำเชื่อมเหตุและผล",
+        "emoji": "🔗",
+        "word_ids": [
+          "because_of",
+          "due_to",
+          "therefore",
+          "as_a_result",
+          "consequently",
+          "however",
+          "although",
+          "despite",
+          "whereas",
+          "in_contrast",
+          "in_addition",
+          "moreover",
+          "unless",
+          "otherwise"
+        ]
+      },
+      {
+        "id": "high_school_5",
+        "title_en": "History & Society",
+        "title_th": "ประวัติศาสตร์และสังคม",
+        "emoji": "🏛️",
+        "word_ids": [
+          "era",
+          "century",
+          "civilization",
+          "empire",
+          "kingdom",
+          "war",
+          "revolution",
+          "independence",
+          "government",
+          "citizen",
+          "democracy",
+          "heritage",
+          "population",
+          "monarchy"
+        ]
+      },
+      {
+        "id": "high_school_6",
+        "title_en": "Literature",
+        "title_th": "วรรณกรรมและเรื่องเล่า",
+        "emoji": "📚",
+        "word_ids": [
+          "novel",
+          "chapter",
+          "poem",
+          "poet",
+          "fiction",
+          "narrator",
+          "theme",
+          "moral",
+          "villain",
+          "legend",
+          "myth",
+          "fable",
+          "metaphor",
+          "tragedy"
+        ]
+      },
+      {
+        "id": "high_school_7",
+        "title_en": "Exam Instructions",
+        "title_th": "คำสั่งในข้อสอบ",
+        "emoji": "✅",
+        "word_ids": [
+          "choose",
+          "complete",
+          "blank",
+          "underline",
+          "correct",
+          "incorrect",
+          "option",
+          "according_to",
+          "the_following",
+          "except",
+          "synonym",
+          "antonym",
+          "true_or_false",
+          "open_ended"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "skim",
+      "word": "skim",
+      "pos": "verb",
+      "ipa": "/skɪm/",
+      "reading_th": "สกิม",
+      "meaning_th": "อ่านผ่านๆ / อ่านคร่าวๆ",
+      "emoji": "👀",
+      "example_en": "Skim the passage first to find the main idea.",
+      "example_th": "อ่านบทความผ่านๆ ก่อนเพื่อหาใจความสำคัญ",
+      "cefr": "B1",
+      "note_th": "skim = กวาดตาอ่านเร็วๆ เพื่อจับภาพรวม ส่วน scan = กวาดตาหาข้อมูลเฉพาะ เช่น ตัวเลขหรือชื่อ — เทคนิคทำข้อสอบอ่านให้ทันเวลา",
+      "distractors": [
+        "skip",
+        "swim",
+        "skin"
+      ]
+    },
+    {
+      "id": "portray",
+      "word": "portray",
+      "pos": "verb",
+      "ipa": "/pɔːrˈtreɪ/",
+      "reading_th": "พอร์-เทรย์",
+      "meaning_th": "วาดภาพ / นำเสนอ (ตัวละคร)",
+      "emoji": "🎨",
+      "example_en": "The author portrays the king as a lonely old man.",
+      "example_th": "ผู้เขียนวาดภาพกษัตริย์ให้เป็นชายชราผู้โดดเดี่ยว",
+      "cefr": "B2",
+      "note_th": "portray A as B = นำเสนอ A ในแบบ B (คำนาม portrayal, และ portrait = ภาพเหมือน) — โจทย์ \"How is the mother portrayed in the story?\" = ตัวละครแม่ถูกวาดภาพไว้อย่างไร",
+      "distractors": [
+        "portrait",
+        "betray",
+        "portal"
+      ]
+    },
+    {
+      "id": "convey",
+      "word": "convey",
+      "pos": "verb",
+      "ipa": "/kənˈveɪ/",
+      "reading_th": "คัน-เวย์",
+      "meaning_th": "สื่อ / ถ่ายทอด (ความหมาย)",
+      "emoji": "📡",
+      "example_en": "The poem conveys a feeling of deep sadness.",
+      "example_th": "บทกวีสื่อถึงความรู้สึกเศร้าลึกๆ",
+      "cefr": "B2",
+      "note_th": "convey = ส่งผ่านความหมาย ความรู้สึก หรือข้อความ (convey a message) — โจทย์ \"What does the writer want to convey?\" คือถามสิ่งที่ผู้เขียนต้องการสื่อ ซึ่งก็คือ main idea อีกแบบ",
+      "distractors": [
+        "convoy",
+        "convince",
+        "convert"
+      ]
+    },
+    {
+      "id": "define",
+      "word": "define",
+      "pos": "verb",
+      "ipa": "/dɪˈfaɪn/",
+      "reading_th": "ดิ-ไฟน์",
+      "meaning_th": "ให้คำจำกัดความ / นิยาม",
+      "emoji": "📘",
+      "example_en": "Can you define the word in your own words?",
+      "example_th": "คุณนิยามคำนี้ด้วยคำพูดของตัวเองได้ไหม",
+      "cefr": "B1",
+      "note_th": "คำนามคือ definition (คำนิยาม) — ในข้อสอบมักเจอ \"The word X is defined as...\" ให้หาความหมายจากบริบทรอบๆ",
+      "distractors": [
+        "defend",
+        "decline",
+        "refine"
+      ]
+    },
+    {
+      "id": "identify",
+      "word": "identify",
+      "pos": "verb",
+      "ipa": "/aɪˈdentəfaɪ/",
+      "reading_th": "ไอ-เดน-ทิ-ฟาย",
+      "meaning_th": "ระบุ / ชี้ตัว",
+      "emoji": "🔍",
+      "example_en": "Identify the main problem in the second paragraph.",
+      "example_th": "ระบุปัญหาหลักในย่อหน้าที่สอง",
+      "cefr": "B1",
+      "note_th": "identify = ชี้ว่าอะไรคืออะไร — ต่างจาก identity (ตัวตน) ที่เป็นคำนาม เช่น ID card = identity card",
+      "distractors": [
+        "identity",
+        "verify",
+        "notify"
+      ]
+    },
+    {
+      "id": "state",
+      "word": "state",
+      "pos": "verb",
+      "ipa": "/steɪt/",
+      "reading_th": "สเตท",
+      "meaning_th": "กล่าว / ระบุไว้",
+      "emoji": "📣",
+      "example_en": "The article states that sleep improves memory.",
+      "example_th": "บทความระบุว่าการนอนช่วยให้ความจำดีขึ้น",
+      "cefr": "B1",
+      "note_th": "state ในข้อสอบ = กล่าวไว้ชัดเจนในบทความ (stated directly) ตรงข้ามกับ implied (บอกเป็นนัย) — อย่าสับสนกับ state ที่แปลว่ารัฐ",
+      "distractors": [
+        "status",
+        "start",
+        "stay"
+      ]
+    },
+    {
+      "id": "illustrate",
+      "word": "illustrate",
+      "pos": "verb",
+      "ipa": "/ˈɪləstreɪt/",
+      "reading_th": "อิล-ลัส-เทรท",
+      "meaning_th": "แสดงให้เห็น / ยกตัวอย่างประกอบ",
+      "emoji": "🖼️",
+      "example_en": "The writer illustrates the problem with a real example.",
+      "example_th": "ผู้เขียนแสดงให้เห็นปัญหาด้วยตัวอย่างจริง",
+      "cefr": "B2",
+      "note_th": "illustrate = ทำให้ชัดด้วยตัวอย่างหรือภาพ (คำนาม illustration = ภาพประกอบ) — โจทย์ \"Why does the author mention X?\" คำตอบมักเป็น to illustrate... = เพื่อยกตัวอย่างให้เห็นภาพ",
+      "distractors": [
+        "illustration",
+        "frustrate",
+        "imitate"
+      ]
+    },
+    {
+      "id": "indicate",
+      "word": "indicate",
+      "pos": "verb",
+      "ipa": "/ˈɪndɪkeɪt/",
+      "reading_th": "อิน-ดิ-เคท",
+      "meaning_th": "บ่งชี้ / แสดงว่า",
+      "emoji": "📊",
+      "example_en": "The chart indicates a rise in online learning.",
+      "example_th": "แผนภูมิบ่งชี้ว่าการเรียนออนไลน์เพิ่มขึ้น",
+      "cefr": "B1",
+      "note_th": "indicate ใช้กับหลักฐาน ตัวเลข สัญญาณ ที่ \"ชี้\" ไปทางคำตอบ — คู่กับ show และ suggest ซึ่งออกข้อสอบเป็นชุดเดียวกัน",
+      "distractors": [
+        "indicator",
+        "dedicate",
+        "imitate"
+      ]
+    },
+    {
+      "id": "imply",
+      "word": "imply",
+      "pos": "verb",
+      "ipa": "/ɪmˈplaɪ/",
+      "reading_th": "อิม-พลาย",
+      "meaning_th": "บอกเป็นนัย",
+      "emoji": "😏",
+      "example_en": "The last sentence implies that the plan will fail.",
+      "example_th": "ประโยคสุดท้ายบอกเป็นนัยว่าแผนจะล้มเหลว",
+      "cefr": "B2",
+      "note_th": "ผู้เขียน imply (บอกเป็นนัย) ส่วนผู้อ่าน infer (อนุมาน) — โจทย์ \"It can be implied that...\" ให้หาคำตอบที่ไม่ได้เขียนตรงๆ แต่เดาได้จากเนื้อเรื่อง",
+      "distractors": [
+        "apply",
+        "reply",
+        "employ"
+      ]
+    },
+    {
+      "id": "infer",
+      "word": "infer",
+      "pos": "verb",
+      "ipa": "/ɪnˈfɜːr/",
+      "reading_th": "อิน-เฟอร์",
+      "meaning_th": "อนุมาน / สรุปจากหลักฐาน",
+      "emoji": "🧩",
+      "example_en": "We can infer that the man was angry.",
+      "example_th": "เราอนุมานได้ว่าผู้ชายคนนั้นโกรธ",
+      "cefr": "B2",
+      "note_th": "\"What can be inferred from the passage?\" คือข้อที่เด็กไทยผิดบ่อยสุด — คำตอบต้องสรุปจากเบาะแสในเรื่อง ไม่ใช่ลอกประโยคมาตรงๆ และไม่ใช่เดาเอาเอง",
+      "distractors": [
+        "inferior",
+        "offer",
+        "refer"
+      ]
+    },
+    {
+      "id": "evaluate",
+      "word": "evaluate",
+      "pos": "verb",
+      "ipa": "/ɪˈvæljueɪt/",
+      "reading_th": "อิ-แวล-ยู-เอท",
+      "meaning_th": "ประเมิน / ประเมินค่า",
+      "emoji": "⚖️",
+      "example_en": "Evaluate the writer's argument: is it strong or weak?",
+      "example_th": "ประเมินข้อโต้แย้งของผู้เขียนว่าหนักแน่นหรืออ่อน",
+      "cefr": "B2",
+      "note_th": "evaluate = ตัดสินว่าดีแค่ไหนหลังพิจารณาหลักฐาน (คำนาม evaluation) — ข้อสอบระดับสูงถาม \"Evaluate the effectiveness of...\" ต้องให้ทั้งข้อดีข้อเสียและสรุป",
+      "distractors": [
+        "value",
+        "elevate",
+        "estimate"
+      ]
+    },
+    {
+      "id": "conclude",
+      "word": "conclude",
+      "pos": "verb",
+      "ipa": "/kənˈkluːd/",
+      "reading_th": "คัน-คลูด",
+      "meaning_th": "สรุป / ลงความเห็น",
+      "emoji": "🏁",
+      "example_en": "From the results, we can conclude that the medicine works.",
+      "example_th": "จากผลการทดลอง เราสรุปได้ว่ายาตัวนี้ได้ผล",
+      "cefr": "B1",
+      "note_th": "conclude = สรุปเป็นข้อสรุป (conclusion) หลังพิจารณาหลักฐาน — ย่อหน้าสุดท้ายของเรียงความมักขึ้นต้นว่า In conclusion,",
+      "distractors": [
+        "include",
+        "exclude",
+        "confuse"
+      ]
+    },
+    {
+      "id": "interpret",
+      "word": "interpret",
+      "pos": "verb",
+      "ipa": "/ɪnˈtɜːrprət/",
+      "reading_th": "อิน-เทอร์-พริท",
+      "meaning_th": "ตีความ",
+      "emoji": "🗝️",
+      "example_en": "Readers interpret the ending of the story in different ways.",
+      "example_th": "ผู้อ่านตีความตอนจบของเรื่องต่างกันไป",
+      "cefr": "B2",
+      "note_th": "interpret = ตีความหมาย และยังแปลว่า \"ล่าม\" ด้วย (interpreter = ล่ามแปลสด ส่วน translator = นักแปลเอกสาร)",
+      "distractors": [
+        "interrupt",
+        "introduce",
+        "interview"
+      ]
+    },
+    {
+      "id": "refer_to",
+      "word": "refer to",
+      "pos": "phrase",
+      "ipa": "/rɪˈfɜːr tuː/",
+      "reading_th": "ริ-เฟอร์ ทู",
+      "meaning_th": "หมายถึง / อ้างถึง",
+      "emoji": "👉",
+      "example_en": "The word \"they\" in line 5 refers to the students.",
+      "example_th": "คำว่า they ในบรรทัดที่ 5 หมายถึงนักเรียน",
+      "cefr": "B1",
+      "note_th": "\"The word it refers to ___\" ออกข้อสอบทุกปี — ย้อนกลับไปหาคำนามที่สรรพนามนั้นแทน ส่วนใหญ่อยู่ในประโยคก่อนหน้า",
+      "distractors": [
+        "prefer to",
+        "reply to",
+        "belong to"
+      ]
+    },
+    {
+      "id": "passage",
+      "word": "passage",
+      "pos": "noun",
+      "ipa": "/ˈpæsɪdʒ/",
+      "reading_th": "แพส-ซิจ",
+      "meaning_th": "บทความ (ที่ให้อ่านในข้อสอบ)",
+      "emoji": "📄",
+      "example_en": "Read the passage and answer the questions below.",
+      "example_th": "อ่านบทความแล้วตอบคำถามด้านล่าง",
+      "cefr": "B1",
+      "note_th": "passage = ข้อความยาวที่ตัดมาให้อ่านในข้อสอบ (reading passage) — อีกความหมายคือทางเดินแคบๆ หรือการผ่านไปของเวลา",
+      "distractors": [
+        "package",
+        "passenger",
+        "message"
+      ]
+    },
+    {
+      "id": "paragraph",
+      "word": "paragraph",
+      "pos": "noun",
+      "ipa": "/ˈpærəɡræf/",
+      "reading_th": "แพ-ระ-กราฟ",
+      "meaning_th": "ย่อหน้า",
+      "emoji": "📑",
+      "example_en": "The third paragraph explains the causes of the flood.",
+      "example_th": "ย่อหน้าที่สามอธิบายสาเหตุของน้ำท่วม",
+      "cefr": "A2",
+      "note_th": "ข้อสอบชอบถาม \"What is the main idea of paragraph 2?\" — ประโยคแรกของย่อหน้า (topic sentence) มักบอกใจความสำคัญ",
+      "distractors": [
+        "photograph",
+        "paradise",
+        "sentence"
+      ]
+    },
+    {
+      "id": "topic",
+      "word": "topic",
+      "pos": "noun",
+      "ipa": "/ˈtɑːpɪk/",
+      "reading_th": "ท็อพ-พิค",
+      "meaning_th": "หัวข้อ",
+      "emoji": "🏷️",
+      "example_en": "The topic of this passage is climate change.",
+      "example_th": "หัวข้อของบทความนี้คือการเปลี่ยนแปลงสภาพภูมิอากาศ",
+      "cefr": "A2",
+      "note_th": "topic = เรื่องที่พูดถึง (ตอบสั้นๆ ได้เป็นวลี) ส่วน main idea = สิ่งที่ผู้เขียนต้องการบอกเกี่ยวกับ topic นั้น (ตอบเป็นประโยค)",
+      "distractors": [
+        "tropic",
+        "topping",
+        "subject"
+      ]
+    },
+    {
+      "id": "main_idea",
+      "word": "main idea",
+      "pos": "phrase",
+      "ipa": "/meɪn aɪˈdiːə/",
+      "reading_th": "เมน ไอ-เดีย",
+      "meaning_th": "ใจความสำคัญ",
+      "emoji": "🎯",
+      "example_en": "What is the main idea of the passage?",
+      "example_th": "ใจความสำคัญของบทความนี้คืออะไร",
+      "cefr": "B1",
+      "note_th": "คำตอบ main idea ต้องครอบคลุมทั้งเรื่อง — ถ้าตัวเลือกไหนพูดถึงแค่รายละเอียดเดียวหรือกว้างเกินไป ตัดทิ้งได้เลย",
+      "distractors": [
+        "main course",
+        "big deal",
+        "key point"
+      ]
+    },
+    {
+      "id": "detail",
+      "word": "detail",
+      "pos": "noun",
+      "ipa": "/ˈdiːteɪl/",
+      "reading_th": "ดี-เทล",
+      "meaning_th": "รายละเอียด",
+      "emoji": "🔬",
+      "example_en": "Which detail supports the writer's opinion?",
+      "example_th": "รายละเอียดข้อไหนสนับสนุนความเห็นของผู้เขียน",
+      "cefr": "A2",
+      "note_th": "supporting details = รายละเอียดที่มาสนับสนุนใจความสำคัญ — in detail = อย่างละเอียด (explain it in detail)",
+      "distractors": [
+        "retail",
+        "deal",
+        "data"
+      ]
+    },
+    {
+      "id": "purpose",
+      "word": "purpose",
+      "pos": "noun",
+      "ipa": "/ˈpɜːrpəs/",
+      "reading_th": "เพอร์-เพิส",
+      "meaning_th": "จุดประสงค์",
+      "emoji": "🧭",
+      "example_en": "The purpose of this article is to warn readers about scams.",
+      "example_th": "จุดประสงค์ของบทความนี้คือเตือนผู้อ่านเรื่องกลโกง",
+      "cefr": "B1",
+      "note_th": "\"What is the author's purpose?\" ตัวเลือกมักเป็น to inform (ให้ข้อมูล) to persuade (โน้มน้าว) to entertain (ให้ความบันเทิง) — สังเกตน้ำเสียงและประเภทข้อความ",
+      "distractors": [
+        "propose",
+        "purchase",
+        "process"
+      ]
+    },
+    {
+      "id": "tone",
+      "word": "tone",
+      "pos": "noun",
+      "ipa": "/toʊn/",
+      "reading_th": "โทน",
+      "meaning_th": "น้ำเสียง (ของผู้เขียน)",
+      "emoji": "🎵",
+      "example_en": "The tone of the letter is friendly and warm.",
+      "example_th": "น้ำเสียงของจดหมายฉบับนี้เป็นมิตรและอบอุ่น",
+      "cefr": "B1",
+      "note_th": "tone ในข้อสอบ = อารมณ์ที่ผู้เขียนส่งผ่านคำที่เลือกใช้ เช่น humorous, serious, critical, optimistic — เรียนคำบรรยายอารมณ์ไว้เยอะๆ จะตอบได้",
+      "distractors": [
+        "tune",
+        "stone",
+        "zone"
+      ]
+    },
+    {
+      "id": "attitude",
+      "word": "attitude",
+      "pos": "noun",
+      "ipa": "/ˈætɪtuːd/",
+      "reading_th": "แอท-ทิ-ทูด",
+      "meaning_th": "ทัศนคติ / ท่าที",
+      "emoji": "🤔",
+      "example_en": "The writer's attitude toward social media is negative.",
+      "example_th": "ทัศนคติของผู้เขียนที่มีต่อโซเชียลมีเดียเป็นลบ",
+      "cefr": "B1",
+      "note_th": "attitude toward/towards something = ทัศนคติต่อสิ่งนั้น — โจทย์มักให้เลือกระหว่าง positive, negative, neutral",
+      "distractors": [
+        "altitude",
+        "aptitude",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "author",
+      "word": "author",
+      "pos": "noun",
+      "ipa": "/ˈɔːθər/",
+      "reading_th": "ออ-เธอร์",
+      "meaning_th": "ผู้เขียน / ผู้แต่ง",
+      "emoji": "✍️",
+      "example_en": "The author of this book is a famous Thai doctor.",
+      "example_th": "ผู้เขียนหนังสือเล่มนี้เป็นหมอชาวไทยที่มีชื่อเสียง",
+      "cefr": "A2",
+      "note_th": "author = ผู้แต่งหนังสือ/บทความ ใช้แทน writer ได้ แต่ฟังดูเป็นทางการกว่า — ข้อสอบใช้สลับกัน \"the author/the writer suggests...\"",
+      "distractors": [
+        "actor",
+        "editor",
+        "authority"
+      ]
+    },
+    {
+      "id": "title",
+      "word": "title",
+      "pos": "noun",
+      "ipa": "/ˈtaɪtl/",
+      "reading_th": "ไท-เทิล",
+      "meaning_th": "ชื่อเรื่อง",
+      "emoji": "🔤",
+      "example_en": "Which title is the best for this passage?",
+      "example_th": "ชื่อเรื่องไหนเหมาะกับบทความนี้ที่สุด",
+      "cefr": "A2",
+      "note_th": "\"What is the best title?\" คือโจทย์ main idea ในรูปแบบสั้นๆ — เลือกชื่อที่ครอบคลุมทั้งเรื่อง ไม่แคบและไม่กว้างเกินไป",
+      "distractors": [
+        "tile",
+        "total",
+        "label"
+      ]
+    },
+    {
+      "id": "column",
+      "word": "column",
+      "pos": "noun",
+      "ipa": "/ˈkɑːləm/",
+      "reading_th": "คอ-เลิม",
+      "meaning_th": "คอลัมน์ (ในหนังสือพิมพ์)",
+      "emoji": "📰",
+      "example_en": "She writes a weekly column about teenage life.",
+      "example_th": "เธอเขียนคอลัมน์รายสัปดาห์เกี่ยวกับชีวิตวัยรุ่น",
+      "cefr": "B1",
+      "note_th": "n ท้ายคำไม่ออกเสียง อ่าน คอ-เลิม — column = บทความประจำที่ออกความเห็น (columnist = คอลัมนิสต์) โจทย์แหล่งที่มามักให้เลือก a newspaper column กับ a news report ซึ่งต่างกันที่มีความเห็นหรือไม่",
+      "distractors": [
+        "colon",
+        "volume",
+        "columnist"
+      ]
+    },
+    {
+      "id": "context",
+      "word": "context",
+      "pos": "noun",
+      "ipa": "/ˈkɑːntekst/",
+      "reading_th": "คอน-เท็กซท์",
+      "meaning_th": "บริบท",
+      "emoji": "🧱",
+      "example_en": "Guess the meaning of the word from its context.",
+      "example_th": "เดาความหมายของคำจากบริบทรอบข้าง",
+      "cefr": "B1",
+      "note_th": "context clues = เบาะแสจากคำรอบๆ ใช้เดาศัพท์ที่ไม่รู้ — โจทย์ \"The word X in line 3 is closest in meaning to...\" ให้ดูบริบท ไม่ใช่ความหมายในพจนานุกรม",
+      "distractors": [
+        "contest",
+        "contact",
+        "content"
+      ]
+    },
+    {
+      "id": "excerpt",
+      "word": "excerpt",
+      "pos": "noun",
+      "ipa": "/ˈeksɜːrpt/",
+      "reading_th": "เอ็ค-เซิร์พท์",
+      "meaning_th": "ข้อความตัดตอน / บางส่วนจากเรื่อง",
+      "emoji": "✂️",
+      "example_en": "This excerpt is taken from a novel about a young nurse.",
+      "example_th": "ข้อความนี้ตัดตอนมาจากนวนิยายเกี่ยวกับพยาบาลสาว",
+      "cefr": "B2",
+      "note_th": "excerpt = ส่วนที่ตัดมาจากหนังสือ บทความ หรือสุนทรพจน์ — ข้อสอบมักเขียนว่า \"Read the following excerpt\" แล้วถามว่ามาจากแหล่งใด อย่าสับสนกับ except (ยกเว้น)",
+      "distractors": [
+        "except",
+        "expert",
+        "extract"
+      ]
+    },
+    {
+      "id": "origin",
+      "word": "origin",
+      "pos": "noun",
+      "ipa": "/ˈɔːrɪdʒɪn/",
+      "reading_th": "ออ-ริ-จิน",
+      "meaning_th": "ต้นกำเนิด / ที่มา",
+      "emoji": "🌱",
+      "example_en": "The passage explains the origin of the Songkran festival.",
+      "example_th": "บทความอธิบายที่มาของเทศกาลสงกรานต์",
+      "cefr": "B1",
+      "note_th": "origin (คำนาม) original (ต้นฉบับ/ดั้งเดิม) originally (แต่เดิม) — ข้อสอบชอบถาม \"Where did X originate?\" และบนฉลากสินค้า country of origin = ประเทศผู้ผลิต",
+      "distractors": [
+        "original",
+        "organ",
+        "orange"
+      ]
+    },
+    {
+      "id": "modest",
+      "word": "modest",
+      "pos": "adjective",
+      "ipa": "/ˈmɑːdɪst/",
+      "reading_th": "มอด-ดิสท์",
+      "meaning_th": "ถ่อมตัว / ไม่โอ้อวด",
+      "emoji": "🙇",
+      "example_en": "The modest champion said her team deserved the credit.",
+      "example_th": "แชมป์ผู้ถ่อมตัวบอกว่าทีมของเธอสมควรได้รับเครดิต",
+      "cefr": "B1",
+      "note_th": "modest = ไม่คุยโวเรื่องความสำเร็จ (คำนาม modesty) — ยังแปลว่า เล็กน้อย/พอประมาณ ได้ด้วย เช่น a modest salary = เงินเดือนไม่มาก ข้อสอบชอบถามความหมายที่สองนี้",
+      "distractors": [
+        "modern",
+        "model",
+        "moderate"
+      ]
+    },
+    {
+      "id": "reckless",
+      "word": "reckless",
+      "pos": "adjective",
+      "ipa": "/ˈrekləs/",
+      "reading_th": "เร็ค-เลิส",
+      "meaning_th": "บุ่มบ่าม / ไม่ระวัง",
+      "emoji": "🏍️",
+      "example_en": "The reckless boy jumped from the roof into the pool.",
+      "example_th": "เด็กชายผู้บุ่มบ่ามกระโดดจากหลังคาลงสระ",
+      "cefr": "B2",
+      "note_th": "reckless = ทำโดยไม่สนผลที่ตามมา (reckless driving = ขับรถประมาท เป็นข้อหาในกฎหมาย) — ตรงข้ามกับ cautious (ระมัดระวัง) สองคำนี้มักออกเป็นคู่ในข้อสอบ",
+      "distractors": [
+        "restless",
+        "careless",
+        "wreck"
+      ]
+    },
+    {
+      "id": "cowardly",
+      "word": "cowardly",
+      "pos": "adjective",
+      "ipa": "/ˈkaʊərdli/",
+      "reading_th": "คาว-เอิร์ด-ลี",
+      "meaning_th": "ขี้ขลาด",
+      "emoji": "🐔",
+      "example_en": "It was cowardly of him to blame his little sister.",
+      "example_th": "มันขี้ขลาดมากที่เขาโยนความผิดให้น้องสาวตัวเล็ก",
+      "cefr": "B2",
+      "note_th": "cowardly ลงท้าย -ly แต่เป็นคำคุณศัพท์ ไม่ใช่คำวิเศษณ์ (เหมือน friendly, lovely) คำนาม coward = คนขี้ขลาด — ตรงข้ามกับ brave/courageous",
+      "distractors": [
+        "coward",
+        "cowboy",
+        "courageous"
+      ]
+    },
+    {
+      "id": "ruthless",
+      "word": "ruthless",
+      "pos": "adjective",
+      "ipa": "/ˈruːθləs/",
+      "reading_th": "รูธ-เลิส",
+      "meaning_th": "โหดเหี้ยม / ไร้ความปรานี",
+      "emoji": "🗡️",
+      "example_en": "The ruthless general showed no mercy to the prisoners.",
+      "example_th": "แม่ทัพผู้โหดเหี้ยมไม่แสดงความปรานีต่อเชลยเลย",
+      "cefr": "B2",
+      "note_th": "ruth (ความสงสาร คำโบราณ) + -less (ไร้) = ไร้ความปรานี — ใช้กับนักธุรกิจและตัวร้ายในเรื่อง: a ruthless businessman = นักธุรกิจที่ทำทุกอย่างเพื่อชนะ",
+      "distractors": [
+        "restless",
+        "truthful",
+        "useless"
+      ]
+    },
+    {
+      "id": "talented",
+      "word": "talented",
+      "pos": "adjective",
+      "ipa": "/ˈtæləntɪd/",
+      "reading_th": "แท-เลิน-ทิด",
+      "meaning_th": "มีพรสวรรค์",
+      "emoji": "🎻",
+      "example_en": "The talented girl could play the piano at age four.",
+      "example_th": "เด็กหญิงผู้มีพรสวรรค์เล่นเปียโนได้ตั้งแต่อายุสี่ขวบ",
+      "cefr": "B1",
+      "note_th": "talent (พรสวรรค์) → talented (มีพรสวรรค์) ความหมายเดียวกับ gifted — talented at/in something ใช้ได้ทั้งสอง และ talent show = รายการประกวดความสามารถ",
+      "distractors": [
+        "talent",
+        "tolerant",
+        "tanned"
+      ]
+    },
+    {
+      "id": "stern",
+      "word": "stern",
+      "pos": "adjective",
+      "ipa": "/stɜːrn/",
+      "reading_th": "สเติร์น",
+      "meaning_th": "เข้มงวด / เคร่งขรึม",
+      "emoji": "😠",
+      "example_en": "The stern teacher never smiled during class.",
+      "example_th": "ครูผู้เคร่งขรึมไม่เคยยิ้มเลยระหว่างสอน",
+      "cefr": "B2",
+      "note_th": "stern = จริงจัง เข้มงวด ไม่ยิ้ม (a stern look = สีหน้าเคร่ง) ใกล้กับ strict แต่เน้นที่ท่าทาง — ตัวละครพ่อหรือครูในเรื่องมักถูกบรรยายด้วยคำนี้",
+      "distractors": [
+        "stem",
+        "storm",
+        "strict"
+      ]
+    },
+    {
+      "id": "timid",
+      "word": "timid",
+      "pos": "adjective",
+      "ipa": "/ˈtɪmɪd/",
+      "reading_th": "ทิม-มิด",
+      "meaning_th": "ขี้กลัว / ไม่กล้าแสดงออก",
+      "emoji": "🐭",
+      "example_en": "The timid kitten hid under the sofa all day.",
+      "example_th": "ลูกแมวขี้กลัวซ่อนใต้โซฟาทั้งวัน",
+      "cefr": "B2",
+      "note_th": "timid = ขี้กลัว ไม่กล้า (กว่า shy ที่แค่เขิน) ตรงข้ามกับ bold/confident — ตัวละครที่ timid ตอนต้นเรื่องมักโตขึ้นกล้าขึ้นตอนจบ ซึ่งเป็นโจทย์ character development",
+      "distractors": [
+        "timed",
+        "tiny",
+        "timing"
+      ]
+    },
+    {
+      "id": "cunning",
+      "word": "cunning",
+      "pos": "adjective",
+      "ipa": "/ˈkʌnɪŋ/",
+      "reading_th": "คัน-นิง",
+      "meaning_th": "เจ้าเล่ห์",
+      "emoji": "🦊",
+      "example_en": "The cunning fox tricked the crow into dropping the cheese.",
+      "example_th": "สุนัขจิ้งจอกเจ้าเล่ห์หลอกให้อีกาทำชีสหล่น",
+      "cefr": "B2",
+      "note_th": "cunning = ฉลาดแบบหลอกลวง (as cunning as a fox) ใกล้กับ sly และ crafty — ต่างจาก clever ที่ฉลาดในแง่ดี ในนิทานอีสป fox คือตัวแทนของ cunning",
+      "distractors": [
+        "running",
+        "canning",
+        "clever"
+      ]
+    },
+    {
+      "id": "cautious",
+      "word": "cautious",
+      "pos": "adjective",
+      "ipa": "/ˈkɔːʃəs/",
+      "reading_th": "คอ-เชิส",
+      "meaning_th": "ระมัดระวัง / รอบคอบ",
+      "emoji": "🐢",
+      "example_en": "The cautious driver slowed down before the bridge.",
+      "example_th": "คนขับที่ระมัดระวังชะลอความเร็วก่อนถึงสะพาน",
+      "cefr": "B1",
+      "note_th": "cautious = ระวังตัว ไม่เสี่ยง (คำนาม caution ที่เห็นบนป้าย CAUTION: WET FLOOR) — ตรงข้ามกับ reckless (บุ่มบ่าม) ตัวละครแบบ cautious มักเป็นคนวางแผนก่อนลงมือ",
+      "distractors": [
+        "caution",
+        "curious",
+        "conscious"
+      ]
+    },
+    {
+      "id": "noble",
+      "word": "noble",
+      "pos": "adjective",
+      "ipa": "/ˈnoʊbl/",
+      "reading_th": "โน-เบิล",
+      "meaning_th": "สูงส่ง / มีคุณธรรม",
+      "emoji": "🛡️",
+      "example_en": "The noble knight gave his last coin to the beggar.",
+      "example_th": "อัศวินผู้สูงส่งมอบเหรียญสุดท้ายของเขาให้ขอทาน",
+      "cefr": "B2",
+      "note_th": "noble = มีคุณธรรมสูงส่ง (a noble cause = จุดประสงค์อันสูงส่ง) และ = ชนชั้นสูง/ขุนนาง (a noble family) — รางวัล Nobel สะกดต่างกันและเน้นเสียงพยางค์หลัง",
+      "distractors": [
+        "Nobel",
+        "mobile",
+        "nobody"
+      ]
+    },
+    {
+      "id": "courageous",
+      "word": "courageous",
+      "pos": "adjective",
+      "ipa": "/kəˈreɪdʒəs/",
+      "reading_th": "คะ-เร-เจิส",
+      "meaning_th": "องอาจ / กล้าหาญมาก",
+      "emoji": "🦁",
+      "example_en": "The courageous girl spoke up when nobody else would.",
+      "example_th": "เด็กหญิงผู้กล้าหาญกล้าพูดออกมาเมื่อไม่มีใครกล้า",
+      "cefr": "B2",
+      "note_th": "courage (ความกล้า) → courageous ความหมายเดียวกับ brave แต่เป็นทางการกว่า มักใช้ในข้อสอบแทน brave เพื่อวัดศัพท์ — ตรงข้ามกับ cowardly ระวังสะกด -ous ท้ายคำ",
+      "distractors": [
+        "courage",
+        "cowardly",
+        "contagious"
+      ]
+    },
+    {
+      "id": "innocent",
+      "word": "innocent",
+      "pos": "adjective",
+      "ipa": "/ˈɪnəsnt/",
+      "reading_th": "อิน-โน-เซินท์",
+      "meaning_th": "บริสุทธิ์ / ไร้เดียงสา",
+      "emoji": "👼",
+      "example_en": "The innocent child believed every word the stranger said.",
+      "example_th": "เด็กไร้เดียงสาเชื่อทุกคำที่คนแปลกหน้าพูด",
+      "cefr": "B1",
+      "note_th": "innocent มี 2 ความหมายที่ออกสอบ: ไร้เดียงสาไม่รู้เรื่องร้ายของโลก และ ไม่มีความผิด (found innocent = ศาลตัดสินว่าบริสุทธิ์ ตรงข้าม guilty)",
+      "distractors": [
+        "guilty",
+        "incident",
+        "ignorant"
+      ]
+    },
+    {
+      "id": "mysterious",
+      "word": "mysterious",
+      "pos": "adjective",
+      "ipa": "/mɪˈstɪriəs/",
+      "reading_th": "มิส-เทีย-เรียส",
+      "meaning_th": "ลึกลับ",
+      "emoji": "🕵️",
+      "example_en": "A mysterious stranger arrived in the village one night.",
+      "example_th": "คนแปลกหน้าผู้ลึกลับมาถึงหมู่บ้านในคืนหนึ่ง",
+      "cefr": "B1",
+      "note_th": "mystery (คำนาม = ความลึกลับ/เรื่องสืบสวน) → mysterious (คำคุณศัพท์) — ตัวละคร mysterious คือคนที่เรื่องยังไม่เฉลยว่าเป็นใคร ข้อสอบมักให้ infer ตัวตนจากเบาะแส",
+      "distractors": [
+        "mystery",
+        "serious",
+        "miserable"
+      ]
+    },
+    {
+      "id": "wealthy",
+      "word": "wealthy",
+      "pos": "adjective",
+      "ipa": "/ˈwelθi/",
+      "reading_th": "เวล-ธี",
+      "meaning_th": "ร่ำรวย / มั่งคั่ง",
+      "emoji": "💎",
+      "example_en": "The wealthy merchant owned half the houses in town.",
+      "example_th": "พ่อค้าผู้ร่ำรวยเป็นเจ้าของบ้านครึ่งเมือง",
+      "cefr": "B1",
+      "note_th": "wealth (ความมั่งคั่ง) → wealthy = rich แต่ทางการกว่า ตรงข้าม poor — ระวัง th ออกเสียง เวล-ธี ไม่ใช่ เวล-ตี้ และ healthy (สุขภาพดี) สะกดคล้ายกันมาก",
+      "distractors": [
+        "healthy",
+        "wealth",
+        "poor"
+      ]
+    },
+    {
+      "id": "because_of",
+      "word": "because of",
+      "pos": "phrase",
+      "ipa": "/bɪˈkɔːz əv/",
+      "reading_th": "บิ-คอซ ออฟ",
+      "meaning_th": "เพราะ (ตามด้วยคำนาม)",
+      "emoji": "🌧️",
+      "example_en": "The match was cancelled because of the heavy rain.",
+      "example_th": "การแข่งขันถูกยกเลิกเพราะฝนตกหนัก",
+      "cefr": "A2",
+      "note_th": "because of + คำนาม (because of the rain) ส่วน because + ประโยค (because it rained) — จุดที่ข้อสอบไวยากรณ์ออกบ่อยที่สุดจุดหนึ่ง",
+      "distractors": [
+        "in spite of",
+        "instead of",
+        "in front of"
+      ]
+    },
+    {
+      "id": "due_to",
+      "word": "due to",
+      "pos": "phrase",
+      "ipa": "/duː tuː/",
+      "reading_th": "ดู ทู",
+      "meaning_th": "เนื่องมาจาก",
+      "emoji": "⚠️",
+      "example_en": "The flight was delayed due to bad weather.",
+      "example_th": "เที่ยวบินล่าช้าเนื่องมาจากสภาพอากาศแย่",
+      "cefr": "B1",
+      "note_th": "due to = because of แต่เป็นทางการกว่า ตามด้วยคำนามเหมือนกัน — เจอบ่อยในประกาศ ข่าว และอีเมลทางการ",
+      "distractors": [
+        "up to",
+        "next to",
+        "thanks to"
+      ]
+    },
+    {
+      "id": "therefore",
+      "word": "therefore",
+      "pos": "adverb",
+      "ipa": "/ˈðerfɔːr/",
+      "reading_th": "แธร์-ฟอร์",
+      "meaning_th": "ดังนั้น",
+      "emoji": "➡️",
+      "example_en": "He did not study; therefore, he failed the test.",
+      "example_th": "เขาไม่อ่านหนังสือ ดังนั้นเขาจึงสอบตก",
+      "cefr": "B1",
+      "note_th": "therefore ขึ้นประโยคใหม่แล้วตามด้วยจุลภาค (; therefore, / . Therefore,) — ต่างจาก so ที่เชื่อมในประโยคเดียวกันและเป็นภาษาพูด",
+      "distractors": [
+        "there",
+        "wherever",
+        "whatever"
+      ]
+    },
+    {
+      "id": "as_a_result",
+      "word": "as a result",
+      "pos": "phrase",
+      "ipa": "/æz ə rɪˈzʌlt/",
+      "reading_th": "แอส อะ ริ-ซัลท์",
+      "meaning_th": "ผลก็คือ / เป็นผลให้",
+      "emoji": "📉",
+      "example_en": "Prices went up. As a result, people bought less.",
+      "example_th": "ราคาสินค้าสูงขึ้น ผลก็คือผู้คนซื้อน้อยลง",
+      "cefr": "B1",
+      "note_th": "as a result (ตามด้วยจุลภาค) = ผลลัพธ์ แต่ as a result of + คำนาม = เนื่องจาก — สองรูปนี้ความหมายกลับด้านกัน ระวัง!",
+      "distractors": [
+        "as usual",
+        "at last",
+        "as well"
+      ]
+    },
+    {
+      "id": "consequently",
+      "word": "consequently",
+      "pos": "adverb",
+      "ipa": "/ˈkɑːnsəkwentli/",
+      "reading_th": "คอน-ซิ-เควนท์-ลี",
+      "meaning_th": "ด้วยเหตุนี้ / ส่งผลให้",
+      "emoji": "🔁",
+      "example_en": "The river dried up; consequently, the farmers lost their crops.",
+      "example_th": "แม่น้ำแห้งขอด ส่งผลให้ชาวนาสูญเสียพืชผล",
+      "cefr": "B2",
+      "note_th": "consequently = therefore = as a result ใช้แทนกันได้หมด ข้อสอบมักให้เลือกคำเชื่อมแสดง \"ผล\" — คำนาม consequence = ผลที่ตามมา",
+      "distractors": [
+        "frequently",
+        "constantly",
+        "confidently"
+      ]
+    },
+    {
+      "id": "however",
+      "word": "however",
+      "pos": "adverb",
+      "ipa": "/haʊˈevər/",
+      "reading_th": "ฮาว-เอ-เวอร์",
+      "meaning_th": "อย่างไรก็ตาม",
+      "emoji": "↔️",
+      "example_en": "The hotel was cheap. However, the room was dirty.",
+      "example_th": "โรงแรมราคาถูก อย่างไรก็ตาม ห้องสกปรก",
+      "cefr": "A2",
+      "note_th": "however ขึ้นประโยคใหม่ + จุลภาค ส่วน but เชื่อมในประโยคเดียว — ห้ามเขียน \"cheap, however the room\" ซึ่งเป็นข้อผิดที่ออกสอบบ่อย",
+      "distractors": [
+        "whatever",
+        "whenever",
+        "moreover"
+      ]
+    },
+    {
+      "id": "although",
+      "word": "although",
+      "pos": "adverb",
+      "ipa": "/ɔːlˈðoʊ/",
+      "reading_th": "ออล-โธ",
+      "meaning_th": "แม้ว่า",
+      "emoji": "🌦️",
+      "example_en": "Although it was raining, we still went to the beach.",
+      "example_th": "แม้ว่าฝนจะตก เราก็ยังไปทะเล",
+      "cefr": "A2",
+      "note_th": "although เป็นคำเชื่อม ตามด้วยประโยคเต็ม (although it rained) — ห้ามใช้ but ในประโยคเดียวกัน: Although..., but... ผิดแบบไทยๆ",
+      "distractors": [
+        "though",
+        "all",
+        "through"
+      ]
+    },
+    {
+      "id": "despite",
+      "word": "despite",
+      "pos": "preposition",
+      "ipa": "/dɪˈspaɪt/",
+      "reading_th": "ดิ-สไปท์",
+      "meaning_th": "ทั้งๆ ที่ / แม้จะมี",
+      "emoji": "💪",
+      "example_en": "Despite the pain, she finished the marathon.",
+      "example_th": "ทั้งๆ ที่เจ็บ เธอก็วิ่งมาราธอนจนจบ",
+      "cefr": "B1",
+      "note_th": "despite + คำนาม/V-ing (despite the rain, despite being tired) ไม่มี of — in spite of ความหมายเดียวกันแต่มี of คู่ที่ออกสอบทุกปี",
+      "distractors": [
+        "despise",
+        "deposit",
+        "spite"
+      ]
+    },
+    {
+      "id": "whereas",
+      "word": "whereas",
+      "pos": "adverb",
+      "ipa": "/werˈæz/",
+      "reading_th": "แวร์-แอส",
+      "meaning_th": "ในขณะที่ (ต่างกัน)",
+      "emoji": "⚖️",
+      "example_en": "Tom loves spicy food, whereas his sister hates it.",
+      "example_th": "ทอมชอบอาหารเผ็ด ในขณะที่น้องสาวของเขาเกลียดมัน",
+      "cefr": "B2",
+      "note_th": "whereas เป็นคำเชื่อมเปรียบเทียบสองสิ่งที่ต่างกัน มักมีจุลภาคนำหน้า — ใช้ while แทนได้ในความหมายนี้",
+      "distractors": [
+        "wherever",
+        "whether",
+        "where"
+      ]
+    },
+    {
+      "id": "in_contrast",
+      "word": "in contrast",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈkɑːntræst/",
+      "reading_th": "อิน คอน-แทรสท์",
+      "meaning_th": "ในทางตรงกันข้าม",
+      "emoji": "🌓",
+      "example_en": "City life is noisy. In contrast, village life is quiet.",
+      "example_th": "ชีวิตในเมืองวุ่นวาย ในทางตรงกันข้าม ชีวิตในหมู่บ้านเงียบสงบ",
+      "cefr": "B2",
+      "note_th": "in contrast ใช้เปิดประโยคเปรียบเทียบสิ่งที่ต่างกันชัดเจน — in contrast to/with + คำนาม ส่วน on the other hand ใช้เสนอมุมมองอีกด้าน",
+      "distractors": [
+        "in control",
+        "in common",
+        "in conclusion"
+      ]
+    },
+    {
+      "id": "in_addition",
+      "word": "in addition",
+      "pos": "phrase",
+      "ipa": "/ɪn əˈdɪʃn/",
+      "reading_th": "อิน แอด-ดิ-ชั่น",
+      "meaning_th": "นอกจากนี้",
+      "emoji": "➕",
+      "example_en": "The hotel has a pool. In addition, breakfast is free.",
+      "example_th": "โรงแรมมีสระว่ายน้ำ นอกจากนี้ อาหารเช้ายังฟรีอีกด้วย",
+      "cefr": "B1",
+      "note_th": "in addition เปิดประโยคใหม่เพื่อเพิ่มข้อมูล ส่วน in addition to + คำนาม = นอกเหนือจาก — เป็นคำทางการของ also",
+      "distractors": [
+        "in advance",
+        "in fact",
+        "in order"
+      ]
+    },
+    {
+      "id": "moreover",
+      "word": "moreover",
+      "pos": "adverb",
+      "ipa": "/mɔːrˈoʊvər/",
+      "reading_th": "มอร์-โอ-เวอร์",
+      "meaning_th": "ยิ่งไปกว่านั้น",
+      "emoji": "📈",
+      "example_en": "The phone is expensive. Moreover, the battery is weak.",
+      "example_th": "โทรศัพท์เครื่องนี้แพง ยิ่งไปกว่านั้น แบตเตอรี่ยังอ่อนอีก",
+      "cefr": "B2",
+      "note_th": "moreover = furthermore = in addition เป็นคำเชื่อมเพิ่มน้ำหนักให้เหตุผลเดิม — เหมาะกับเรียงความ ไม่ค่อยใช้ในภาษาพูด",
+      "distractors": [
+        "however",
+        "whatever",
+        "forever"
+      ]
+    },
+    {
+      "id": "unless",
+      "word": "unless",
+      "pos": "adverb",
+      "ipa": "/ənˈles/",
+      "reading_th": "อัน-เลส",
+      "meaning_th": "เว้นแต่ / ถ้าไม่",
+      "emoji": "🚫",
+      "example_en": "You cannot enter unless you have a ticket.",
+      "example_th": "คุณเข้าไม่ได้ เว้นแต่จะมีตั๋ว",
+      "cefr": "B1",
+      "note_th": "unless = if not ดังนั้นห้ามใส่ not ซ้ำ (unless you don't ผิด) — เป็นคำเชื่อมเงื่อนไขที่ออกใน conditional sentences ทุกปี",
+      "distractors": [
+        "useless",
+        "until",
+        "unlike"
+      ]
+    },
+    {
+      "id": "otherwise",
+      "word": "otherwise",
+      "pos": "adverb",
+      "ipa": "/ˈʌðərwaɪz/",
+      "reading_th": "อะ-เธอร์-ไวซ์",
+      "meaning_th": "มิฉะนั้น / ไม่เช่นนั้น",
+      "emoji": "⏰",
+      "example_en": "Leave now; otherwise, you will miss the bus.",
+      "example_th": "ออกเดี๋ยวนี้เลย ไม่เช่นนั้นคุณจะพลาดรถเมล์",
+      "cefr": "B1",
+      "note_th": "otherwise = if not, then... บอกผลถ้าไม่ทำตาม — อีกความหมายคือ \"นอกจากนั้น\" เช่น otherwise healthy = ส่วนอื่นแข็งแรงดี",
+      "distractors": [
+        "likewise",
+        "clockwise",
+        "anyway"
+      ]
+    },
+    {
+      "id": "era",
+      "word": "era",
+      "pos": "noun",
+      "ipa": "/ˈɪrə/",
+      "reading_th": "เอีย-ระ",
+      "meaning_th": "ยุค / สมัย",
+      "emoji": "⏳",
+      "example_en": "The Sukhothai era is known for its beautiful Buddha images.",
+      "example_th": "สมัยสุโขทัยเป็นที่รู้จักจากพระพุทธรูปที่งดงาม",
+      "cefr": "B1",
+      "note_th": "era = ช่วงเวลาในประวัติศาสตร์ที่มีลักษณะเฉพาะ (the digital era, the Ayutthaya era) — period กว้างกว่าและสั้นกว่าได้ ส่วน age ใช้กับยุคใหญ่ๆ เช่น the Stone Age",
+      "distractors": [
+        "area",
+        "error",
+        "ear"
+      ]
+    },
+    {
+      "id": "century",
+      "word": "century",
+      "pos": "noun",
+      "ipa": "/ˈsentʃəri/",
+      "reading_th": "เซน-ชะ-รี",
+      "meaning_th": "ศตวรรษ (100 ปี)",
+      "emoji": "🗓️",
+      "example_en": "The temple was built in the sixteenth century.",
+      "example_th": "วัดนี้สร้างขึ้นในศตวรรษที่สิบหก",
+      "cefr": "B1",
+      "note_th": "the 21st century = ค.ศ. 2001–2100 (เลขศตวรรษมากกว่าเลขปีอยู่หนึ่ง) — decade = 10 ปี, century = 100 ปี, millennium = 1,000 ปี",
+      "distractors": [
+        "decade",
+        "country",
+        "sentry"
+      ]
+    },
+    {
+      "id": "civilization",
+      "word": "civilization",
+      "pos": "noun",
+      "ipa": "/ˌsɪvələˈzeɪʃn/",
+      "reading_th": "ซิ-วิ-ไล-เซ-ชั่น",
+      "meaning_th": "อารยธรรม",
+      "emoji": "🏯",
+      "example_en": "The Khmer civilization built the great temples of Angkor.",
+      "example_th": "อารยธรรมขอมสร้างปราสาทอันยิ่งใหญ่แห่งนครวัด",
+      "cefr": "B2",
+      "note_th": "civilization = สังคมที่มีเมือง กฎหมาย ศิลปะ เช่น ancient civilizations ของอียิปต์ กรีก จีน — ตัดเหลือ civilized = เจริญแล้ว มีอารยะ",
+      "distractors": [
+        "civilian",
+        "organization",
+        "colonization"
+      ]
+    },
+    {
+      "id": "empire",
+      "word": "empire",
+      "pos": "noun",
+      "ipa": "/ˈempaɪər/",
+      "reading_th": "เอ็ม-ไพ-เออร์",
+      "meaning_th": "จักรวรรดิ",
+      "emoji": "👑",
+      "example_en": "The Roman Empire controlled most of Europe.",
+      "example_th": "จักรวรรดิโรมันควบคุมพื้นที่ส่วนใหญ่ของยุโรป",
+      "cefr": "B1",
+      "note_th": "empire = หลายดินแดนรวมอยู่ใต้ผู้ปกครองเดียว (emperor = จักรพรรดิ) ใหญ่กว่า kingdom ที่มี king ปกครองประเทศเดียว",
+      "distractors": [
+        "umpire",
+        "emperor",
+        "entire"
+      ]
+    },
+    {
+      "id": "kingdom",
+      "word": "kingdom",
+      "pos": "noun",
+      "ipa": "/ˈkɪŋdəm/",
+      "reading_th": "คิง-เดิม",
+      "meaning_th": "ราชอาณาจักร",
+      "emoji": "🏰",
+      "example_en": "The Kingdom of Thailand has a long history.",
+      "example_th": "ราชอาณาจักรไทยมีประวัติศาสตร์ยาวนาน",
+      "cefr": "B1",
+      "note_th": "ชื่อทางการของไทยคือ the Kingdom of Thailand — the UK = the United Kingdom ส่วนใน biology คำว่า kingdom หมายถึงอาณาจักรสิ่งมีชีวิต",
+      "distractors": [
+        "freedom",
+        "king",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "war",
+      "word": "war",
+      "pos": "noun",
+      "ipa": "/wɔːr/",
+      "reading_th": "วอร์",
+      "meaning_th": "สงคราม",
+      "emoji": "⚔️",
+      "example_en": "Millions of people died during the Second World War.",
+      "example_th": "ผู้คนหลายล้านเสียชีวิตในช่วงสงครามโลกครั้งที่สอง",
+      "cefr": "A2",
+      "note_th": "World War II อ่านว่า World War Two — go to war = ทำสงคราม, at war with = กำลังรบกับ, civil war = สงครามกลางเมือง",
+      "distractors": [
+        "warm",
+        "wall",
+        "peace"
+      ]
+    },
+    {
+      "id": "revolution",
+      "word": "revolution",
+      "pos": "noun",
+      "ipa": "/ˌrevəˈluːʃn/",
+      "reading_th": "เร-โว-ลู-ชั่น",
+      "meaning_th": "การปฏิวัติ",
+      "emoji": "✊",
+      "example_en": "The French Revolution changed the whole of Europe.",
+      "example_th": "การปฏิวัติฝรั่งเศสเปลี่ยนแปลงยุโรปทั้งทวีป",
+      "cefr": "B2",
+      "note_th": "revolution = การเปลี่ยนแปลงครั้งใหญ่แบบพลิกโฉม ทั้งทางการเมืองและเทคโนโลยี เช่น the Industrial Revolution = การปฏิวัติอุตสาหกรรม",
+      "distractors": [
+        "resolution",
+        "evolution",
+        "revelation"
+      ]
+    },
+    {
+      "id": "independence",
+      "word": "independence",
+      "pos": "noun",
+      "ipa": "/ˌɪndɪˈpendəns/",
+      "reading_th": "อิน-ดิ-เพน-เดินส์",
+      "meaning_th": "เอกราช / ความเป็นอิสระ",
+      "emoji": "🎆",
+      "example_en": "India gained independence from Britain in 1947.",
+      "example_th": "อินเดียได้รับเอกราชจากอังกฤษในปี 1947",
+      "cefr": "B1",
+      "note_th": "gain/declare independence = ได้/ประกาศเอกราช คำคุณศัพท์คือ independent — ไทยเป็นประเทศเดียวในภูมิภาคที่ไม่เคยเป็น colony จึงไม่มี Independence Day",
+      "distractors": [
+        "dependence",
+        "independent",
+        "confidence"
+      ]
+    },
+    {
+      "id": "government",
+      "word": "government",
+      "pos": "noun",
+      "ipa": "/ˈɡʌvərnmənt/",
+      "reading_th": "กัฟ-เวิร์น-เมินท์",
+      "meaning_th": "รัฐบาล",
+      "emoji": "🏛️",
+      "example_en": "The government plans to build more hospitals.",
+      "example_th": "รัฐบาลวางแผนสร้างโรงพยาบาลเพิ่ม",
+      "cefr": "A2",
+      "note_th": "สะกดมี n ตรงกลางที่ไม่ค่อยออกเสียง govern-ment (govern = ปกครอง) — ข้อสอบ spelling ชอบจับผิดตรงนี้",
+      "distractors": [
+        "governor",
+        "parliament",
+        "management"
+      ]
+    },
+    {
+      "id": "citizen",
+      "word": "citizen",
+      "pos": "noun",
+      "ipa": "/ˈsɪtɪzn/",
+      "reading_th": "ซิ-ทิ-เซิน",
+      "meaning_th": "พลเมือง",
+      "emoji": "🪪",
+      "example_en": "Every citizen has the right to vote.",
+      "example_th": "พลเมืองทุกคนมีสิทธิ์ลงคะแนนเสียง",
+      "cefr": "B1",
+      "note_th": "citizen = คนที่มีสัญชาติและสิทธิ์ของประเทศนั้น (citizenship = สัญชาติ/ความเป็นพลเมือง) — senior citizen = ผู้สูงอายุ",
+      "distractors": [
+        "city",
+        "civilian",
+        "resident"
+      ]
+    },
+    {
+      "id": "democracy",
+      "word": "democracy",
+      "pos": "noun",
+      "ipa": "/dɪˈmɑːkrəsi/",
+      "reading_th": "ดิ-ม็อค-ระ-ซี",
+      "meaning_th": "ประชาธิปไตย",
+      "emoji": "🗳️",
+      "example_en": "In a democracy, people choose their leaders by voting.",
+      "example_th": "ในระบอบประชาธิปไตย ประชาชนเลือกผู้นำด้วยการลงคะแนน",
+      "cefr": "B1",
+      "note_th": "democracy (คำนาม) democratic (คำคุณศัพท์) — จากภาษากรีก demos (ประชาชน) + kratos (อำนาจ) จำง่ายว่าอำนาจของประชาชน",
+      "distractors": [
+        "democratic",
+        "diplomacy",
+        "monarchy"
+      ]
+    },
+    {
+      "id": "heritage",
+      "word": "heritage",
+      "pos": "noun",
+      "ipa": "/ˈherɪtɪdʒ/",
+      "reading_th": "เฮ-ริ-ทิจ",
+      "meaning_th": "มรดก (ทางวัฒนธรรม)",
+      "emoji": "🏯",
+      "example_en": "Ayutthaya is a World Heritage site protected by UNESCO.",
+      "example_th": "อยุธยาเป็นแหล่งมรดกโลกที่ได้รับการคุ้มครองโดยยูเนสโก",
+      "cefr": "B2",
+      "note_th": "heritage = สิ่งที่สืบทอดจากอดีต (วัด ประเพณี ภาษา) cultural heritage = มรดกทางวัฒนธรรม — ต่างจาก inheritance = มรดกเงินทองที่ตกทอดในครอบครัว",
+      "distractors": [
+        "inheritance",
+        "herb",
+        "hermit"
+      ]
+    },
+    {
+      "id": "population",
+      "word": "population",
+      "pos": "noun",
+      "ipa": "/ˌpɑːpjuˈleɪʃn/",
+      "reading_th": "ป็อป-พิว-เล-ชั่น",
+      "meaning_th": "ประชากร",
+      "emoji": "👥",
+      "example_en": "The population of Bangkok is over ten million.",
+      "example_th": "ประชากรของกรุงเทพฯ มีมากกว่าสิบล้านคน",
+      "cefr": "B1",
+      "note_th": "population ใช้กริยาเอกพจน์ (The population is...) — ข้อสอบกราฟและสถิติชอบใช้คำนี้คู่กับ increase/decrease",
+      "distractors": [
+        "popular",
+        "pollution",
+        "publication"
+      ]
+    },
+    {
+      "id": "monarchy",
+      "word": "monarchy",
+      "pos": "noun",
+      "ipa": "/ˈmɑːnərki/",
+      "reading_th": "มอ-นาร์-คี",
+      "meaning_th": "ระบอบกษัตริย์ / ราชาธิปไตย",
+      "emoji": "👑",
+      "example_en": "Thailand is a constitutional monarchy with an elected parliament.",
+      "example_th": "ประเทศไทยปกครองด้วยระบอบกษัตริย์ภายใต้รัฐธรรมนูญ มีรัฐสภาจากการเลือกตั้ง",
+      "cefr": "B2",
+      "note_th": "monarch = กษัตริย์/พระราชินีผู้ปกครอง monarchy = ระบอบ — constitutional monarchy = ประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข วลีที่ใช้บรรยายประเทศไทยในข้อสอบสังคม",
+      "distractors": [
+        "monastery",
+        "democracy",
+        "monarch"
+      ]
+    },
+    {
+      "id": "novel",
+      "word": "novel",
+      "pos": "noun",
+      "ipa": "/ˈnɑːvl/",
+      "reading_th": "น็อฟ-เวิล",
+      "meaning_th": "นวนิยาย",
+      "emoji": "📕",
+      "example_en": "Her first novel sold a million copies.",
+      "example_th": "นวนิยายเล่มแรกของเธอขายได้หนึ่งล้านเล่ม",
+      "cefr": "B1",
+      "note_th": "novel = นิยายเล่มยาว ส่วน short story = เรื่องสั้น novelist = นักเขียนนิยาย — ในฐานะคำคุณศัพท์ novel แปลว่าแปลกใหม่ (a novel idea)",
+      "distractors": [
+        "noodle",
+        "navel",
+        "level"
+      ]
+    },
+    {
+      "id": "chapter",
+      "word": "chapter",
+      "pos": "noun",
+      "ipa": "/ˈtʃæptər/",
+      "reading_th": "แชพ-เทอร์",
+      "meaning_th": "บท (ของหนังสือ)",
+      "emoji": "🔖",
+      "example_en": "Read chapter five before class tomorrow.",
+      "example_th": "อ่านบทที่ห้ามาก่อนเรียนพรุ่งนี้",
+      "cefr": "A2",
+      "note_th": "chapter = บทในหนังสือ (chapter one/the first chapter) — สำนวน a new chapter in my life = ชีวิตบทใหม่",
+      "distractors": [
+        "charter",
+        "character",
+        "captain"
+      ]
+    },
+    {
+      "id": "poem",
+      "word": "poem",
+      "pos": "noun",
+      "ipa": "/ˈpoʊəm/",
+      "reading_th": "โพ-เอิม",
+      "meaning_th": "บทกวี / กลอน",
+      "emoji": "🌹",
+      "example_en": "She wrote a poem about the rainy season.",
+      "example_th": "เธอเขียนบทกวีเกี่ยวกับฤดูฝน",
+      "cefr": "A2",
+      "note_th": "poem = บทกวีหนึ่งบท (นับได้) poetry = กวีนิพนธ์โดยรวม (นับไม่ได้) poet = กวี — สามคำนี้ออกสอบเรื่อง word form บ่อย",
+      "distractors": [
+        "poetry",
+        "pome",
+        "poll"
+      ]
+    },
+    {
+      "id": "poet",
+      "word": "poet",
+      "pos": "noun",
+      "ipa": "/ˈpoʊət/",
+      "reading_th": "โพ-เอ็ท",
+      "meaning_th": "กวี / นักกลอน",
+      "emoji": "🪶",
+      "example_en": "Sunthorn Phu is the most famous poet in Thailand.",
+      "example_th": "สุนทรภู่เป็นกวีที่มีชื่อเสียงที่สุดของไทย",
+      "cefr": "B1",
+      "note_th": "poet = คนแต่งบทกวี (ออกเสียง โพ-เอ็ท สองพยางค์) — ตัวอย่างระดับโลกคือ Shakespeare ซึ่งเป็นทั้ง poet และ playwright (นักเขียนบทละคร)",
+      "distractors": [
+        "pet",
+        "post",
+        "pilot"
+      ]
+    },
+    {
+      "id": "fiction",
+      "word": "fiction",
+      "pos": "noun",
+      "ipa": "/ˈfɪkʃn/",
+      "reading_th": "ฟิค-ชั่น",
+      "meaning_th": "เรื่องแต่ง / บันเทิงคดี",
+      "emoji": "🐉",
+      "example_en": "I prefer fiction to history books.",
+      "example_th": "ฉันชอบเรื่องแต่งมากกว่าหนังสือประวัติศาสตร์",
+      "cefr": "B1",
+      "note_th": "fiction = เรื่องที่แต่งขึ้น ตรงข้ามกับ non-fiction (สารคดี ชีวประวัติ) — science fiction ย่อเป็น sci-fi",
+      "distractors": [
+        "friction",
+        "faction",
+        "function"
+      ]
+    },
+    {
+      "id": "narrator",
+      "word": "narrator",
+      "pos": "noun",
+      "ipa": "/ˈnæreɪtər/",
+      "reading_th": "แน-เร-เทอร์",
+      "meaning_th": "ผู้เล่าเรื่อง",
+      "emoji": "🎙️",
+      "example_en": "The narrator of the story is a ten-year-old girl.",
+      "example_th": "ผู้เล่าเรื่องนี้เป็นเด็กหญิงอายุสิบขวบ",
+      "cefr": "B2",
+      "note_th": "narrator ต่างจาก author — ผู้เขียนคือคนจริง ส่วนผู้เล่าคือ \"เสียง\" ในเรื่อง ถ้าเล่าด้วย I เรียก first-person narrator",
+      "distractors": [
+        "navigator",
+        "operator",
+        "character"
+      ]
+    },
+    {
+      "id": "theme",
+      "word": "theme",
+      "pos": "noun",
+      "ipa": "/θiːm/",
+      "reading_th": "ธีม",
+      "meaning_th": "แก่นเรื่อง / แนวคิดหลัก",
+      "emoji": "💫",
+      "example_en": "The theme of the story is friendship.",
+      "example_th": "แก่นเรื่องของเรื่องนี้คือมิตรภาพ",
+      "cefr": "B1",
+      "note_th": "theme = แก่นที่เรื่องต้องการสื่อ (love, courage, loss) ส่วน plot = ลำดับเหตุการณ์ — ตอบ theme เป็นคำนามนามธรรม ไม่ใช่เล่าเรื่อง",
+      "distractors": [
+        "them",
+        "team",
+        "thesis"
+      ]
+    },
+    {
+      "id": "moral",
+      "word": "moral",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrəl/",
+      "reading_th": "มอ-เริล",
+      "meaning_th": "คติสอนใจ / ข้อคิด",
+      "emoji": "🧠",
+      "example_en": "The moral of the story is to never give up.",
+      "example_th": "ข้อคิดของเรื่องนี้คืออย่ายอมแพ้",
+      "cefr": "B1",
+      "note_th": "\"What is the moral of the story?\" = เรื่องนี้สอนอะไร เจอกับนิทานอีสป — ถ้าเป็นคำคุณศัพท์ moral แปลว่าเกี่ยวกับศีลธรรม",
+      "distractors": [
+        "morale",
+        "mortal",
+        "model"
+      ]
+    },
+    {
+      "id": "villain",
+      "word": "villain",
+      "pos": "noun",
+      "ipa": "/ˈvɪlən/",
+      "reading_th": "วิล-เลิน",
+      "meaning_th": "ตัวร้าย",
+      "emoji": "🦹",
+      "example_en": "The villain tries to steal the magic ring.",
+      "example_th": "ตัวร้ายพยายามขโมยแหวนวิเศษ",
+      "cefr": "B1",
+      "note_th": "villain คู่ตรงข้ามกับ hero — ออกเสียง วิล-เลิน ไม่ใช่ วิล-เลน และสะกด -ain ไม่ใช่ -ian",
+      "distractors": [
+        "village",
+        "villa",
+        "violin"
+      ]
+    },
+    {
+      "id": "legend",
+      "word": "legend",
+      "pos": "noun",
+      "ipa": "/ˈledʒənd/",
+      "reading_th": "เล-เจินด์",
+      "meaning_th": "ตำนาน",
+      "emoji": "🐲",
+      "example_en": "According to legend, a giant once lived on this mountain.",
+      "example_th": "ตามตำนาน เคยมียักษ์อาศัยอยู่บนภูเขาลูกนี้",
+      "cefr": "B1",
+      "note_th": "legend = เรื่องเล่าเก่าแก่ที่อาจมีเค้าความจริง (ตำนานพระนางจามเทวี) ส่วน myth = เรื่องเทพเจ้าและการสร้างโลก — legendary = ระดับตำนาน",
+      "distractors": [
+        "lesson",
+        "leader",
+        "legal"
+      ]
+    },
+    {
+      "id": "myth",
+      "word": "myth",
+      "pos": "noun",
+      "ipa": "/mɪθ/",
+      "reading_th": "มิธ",
+      "meaning_th": "เทพปกรณัม / ความเชื่อผิดๆ",
+      "emoji": "⚡",
+      "example_en": "Greek myths explain how the world began.",
+      "example_th": "เทพปกรณัมกรีกอธิบายว่าโลกเกิดขึ้นได้อย่างไร",
+      "cefr": "B2",
+      "note_th": "myth มีสองความหมายที่ออกสอบ: เรื่องเล่าเทพเจ้า (mythology) และ \"ความเชื่อที่ไม่จริง\" เช่น It's a myth that... — ระวัง th ท้ายคำให้แลบลิ้น",
+      "distractors": [
+        "math",
+        "mist",
+        "mouth"
+      ]
+    },
+    {
+      "id": "fable",
+      "word": "fable",
+      "pos": "noun",
+      "ipa": "/ˈfeɪbl/",
+      "reading_th": "เฟ-เบิล",
+      "meaning_th": "นิทานสอนใจ (ตัวละครสัตว์)",
+      "emoji": "🐢",
+      "example_en": "The fable of the tortoise and the hare teaches patience.",
+      "example_th": "นิทานเต่ากับกระต่ายสอนเรื่องความอดทน",
+      "cefr": "B2",
+      "note_th": "fable = นิทานสั้นๆ ที่สัตว์พูดได้และจบด้วย moral — นิทานอีสป (Aesop's fables) คือต้นแบบ ออกสอบอ่านจับใจความบ่อยเพราะสั้น",
+      "distractors": [
+        "table",
+        "cable",
+        "label"
+      ]
+    },
+    {
+      "id": "metaphor",
+      "word": "metaphor",
+      "pos": "noun",
+      "ipa": "/ˈmetəfɔːr/",
+      "reading_th": "เม-ทะ-ฟอร์",
+      "meaning_th": "อุปลักษณ์ / การเปรียบเป็น",
+      "emoji": "🌊",
+      "example_en": "\"Time is money\" is a famous metaphor.",
+      "example_th": "\"เวลาเป็นเงินเป็นทอง\" เป็นอุปลักษณ์ที่มีชื่อเสียง",
+      "cefr": "B2",
+      "note_th": "metaphor เปรียบตรงๆ ว่า \"เป็น\" (He is a lion) ส่วน simile ใช้ like/as (He is like a lion) — คู่นี้ออกข้อสอบวรรณกรรมประจำ",
+      "distractors": [
+        "simile",
+        "method",
+        "meteor"
+      ]
+    },
+    {
+      "id": "tragedy",
+      "word": "tragedy",
+      "pos": "noun",
+      "ipa": "/ˈtrædʒədi/",
+      "reading_th": "แทร-จิ-ดี",
+      "meaning_th": "โศกนาฏกรรม",
+      "emoji": "🎭",
+      "example_en": "Romeo and Juliet is a tragedy about young love.",
+      "example_th": "โรมิโอกับจูเลียตเป็นโศกนาฏกรรมเกี่ยวกับรักวัยเยาว์",
+      "cefr": "B2",
+      "note_th": "tragedy = ละครหรือเรื่องที่จบเศร้า ตรงข้ามกับ comedy — ในข่าว tragedy = เหตุการณ์สลด คำคุณศัพท์ tragic",
+      "distractors": [
+        "strategy",
+        "tragic",
+        "comedy"
+      ]
+    },
+    {
+      "id": "choose",
+      "word": "choose",
+      "pos": "verb",
+      "ipa": "/tʃuːz/",
+      "reading_th": "ชูซ",
+      "meaning_th": "เลือก",
+      "emoji": "☑️",
+      "example_en": "Choose the best answer for each question.",
+      "example_th": "เลือกคำตอบที่ดีที่สุดสำหรับแต่ละข้อ",
+      "cefr": "A2",
+      "note_th": "choose (ปัจจุบัน) chose (อดีต) chosen (ช่อง 3) — คำนามคือ choice สะกดต่างกัน ข้อสอบชอบหลอกด้วย choose/chose",
+      "distractors": [
+        "choice",
+        "cheese",
+        "chase"
+      ]
+    },
+    {
+      "id": "complete",
+      "word": "complete",
+      "pos": "verb",
+      "ipa": "/kəmˈpliːt/",
+      "reading_th": "คัม-พลีท",
+      "meaning_th": "เติมให้สมบูรณ์ / ทำให้เสร็จ",
+      "emoji": "✏️",
+      "example_en": "Complete the sentences with the correct form of the verb.",
+      "example_th": "เติมประโยคให้สมบูรณ์ด้วยรูปกริยาที่ถูกต้อง",
+      "cefr": "A2",
+      "note_th": "\"Complete the dialogue/the table\" = เติมส่วนที่หายไป — เป็นคำคุณศัพท์ได้ด้วย: a complete sentence = ประโยคที่สมบูรณ์",
+      "distractors": [
+        "compete",
+        "compile",
+        "compare"
+      ]
+    },
+    {
+      "id": "blank",
+      "word": "blank",
+      "pos": "noun",
+      "ipa": "/blæŋk/",
+      "reading_th": "แบลงค์",
+      "meaning_th": "ช่องว่าง (ให้เติมคำ)",
+      "emoji": "⬜",
+      "example_en": "Fill in each blank with one word from the box.",
+      "example_th": "เติมคำจากกล่องลงในช่องว่างแต่ละช่อง",
+      "cefr": "A2",
+      "note_th": "fill in the blanks = เติมคำในช่องว่าง (ข้อสอบ cloze) — สำนวน my mind went blank = สมองว่างเปล่า นึกอะไรไม่ออกตอนสอบ",
+      "distractors": [
+        "black",
+        "bank",
+        "block"
+      ]
+    },
+    {
+      "id": "underline",
+      "word": "underline",
+      "pos": "verb",
+      "ipa": "/ˌʌndərˈlaɪn/",
+      "reading_th": "อัน-เดอร์-ไลน์",
+      "meaning_th": "ขีดเส้นใต้",
+      "emoji": "📏",
+      "example_en": "Underline the verb in each sentence.",
+      "example_th": "ขีดเส้นใต้คำกริยาในแต่ละประโยค",
+      "cefr": "A2",
+      "note_th": "the underlined word = คำที่ขีดเส้นใต้ไว้ (โจทย์หาความหมายคำ) — ต่างจาก highlight ที่ใช้ปากกาเน้นสี",
+      "distractors": [
+        "underground",
+        "outline",
+        "understand"
+      ]
+    },
+    {
+      "id": "correct",
+      "word": "correct",
+      "pos": "adjective",
+      "ipa": "/kəˈrekt/",
+      "reading_th": "คะ-เร็คท์",
+      "meaning_th": "ถูกต้อง",
+      "emoji": "✔️",
+      "example_en": "Which of these sentences is grammatically correct?",
+      "example_th": "ประโยคใดต่อไปนี้ถูกต้องตามไวยากรณ์",
+      "cefr": "A2",
+      "note_th": "correct เป็นกริยาได้ด้วย = แก้ให้ถูก (correct the mistakes) — ในข้อสอบ \"Which is NOT correct?\" อย่าลืมดูคำว่า NOT ตัวพิมพ์ใหญ่",
+      "distractors": [
+        "collect",
+        "connect",
+        "direct"
+      ]
+    },
+    {
+      "id": "incorrect",
+      "word": "incorrect",
+      "pos": "adjective",
+      "ipa": "/ˌɪnkəˈrekt/",
+      "reading_th": "อิน-คะ-เร็คท์",
+      "meaning_th": "ไม่ถูกต้อง / ผิด",
+      "emoji": "❌",
+      "example_en": "Find the incorrect word and fix it.",
+      "example_th": "หาคำที่ผิดแล้วแก้ให้ถูก",
+      "cefr": "A2",
+      "note_th": "ข้อสอบ error identification จะบอกว่า \"Choose the underlined part that is incorrect\" — in- แปลว่าไม่ เหมือน inconvenient, incomplete",
+      "distractors": [
+        "indirect",
+        "insecure",
+        "uncorrected"
+      ]
+    },
+    {
+      "id": "option",
+      "word": "option",
+      "pos": "noun",
+      "ipa": "/ˈɑːpʃn/",
+      "reading_th": "อ็อพ-ชั่น",
+      "meaning_th": "ตัวเลือก",
+      "emoji": "🔢",
+      "example_en": "Only one option is correct, so read all four.",
+      "example_th": "มีเพียงตัวเลือกเดียวที่ถูก ดังนั้นอ่านให้ครบทั้งสี่ข้อ",
+      "cefr": "B1",
+      "note_th": "option = ตัวเลือก a–d ในข้อสอบ (answer options/choices) — เทคนิค: ตัวเลือกที่มีคำว่า always, never, all, only มักผิด เพราะบทความไม่ค่อยพูดสุดโต่งขนาดนั้น",
+      "distractors": [
+        "opinion",
+        "operation",
+        "portion"
+      ]
+    },
+    {
+      "id": "according_to",
+      "word": "according to",
+      "pos": "phrase",
+      "ipa": "/əˈkɔːrdɪŋ tuː/",
+      "reading_th": "อะ-คอร์-ดิง ทู",
+      "meaning_th": "ตามที่ (…กล่าว)",
+      "emoji": "📜",
+      "example_en": "According to the passage, why did the boy leave home?",
+      "example_th": "ตามบทความ เหตุใดเด็กชายจึงออกจากบ้าน",
+      "cefr": "B1",
+      "note_th": "according to + แหล่งข้อมูล (the passage, the writer, the chart) = คำตอบต้องมีในบทความเท่านั้น ห้ามใช้ความรู้ส่วนตัว — ห้ามพูด according to me",
+      "distractors": [
+        "due to",
+        "in order to",
+        "thanks to"
+      ]
+    },
+    {
+      "id": "the_following",
+      "word": "the following",
+      "pos": "phrase",
+      "ipa": "/ðə ˈfɑːloʊɪŋ/",
+      "reading_th": "เดอะ ฟอล-โล-อิง",
+      "meaning_th": "ต่อไปนี้ / ดังต่อไปนี้",
+      "emoji": "📋",
+      "example_en": "Which of the following is mentioned in the passage?",
+      "example_th": "ข้อใดต่อไปนี้ถูกกล่าวถึงในบทความ",
+      "cefr": "B1",
+      "note_th": "\"Which of the following...\" คือประโยคคำถามที่เจอบ่อยที่สุดในข้อสอบ = ตัวเลือกข้างล่างข้อไหน — follow = ตาม ดังนั้น the following = สิ่งที่ตามมา",
+      "distractors": [
+        "the former",
+        "the latter",
+        "the above"
+      ]
+    },
+    {
+      "id": "except",
+      "word": "except",
+      "pos": "preposition",
+      "ipa": "/ɪkˈsept/",
+      "reading_th": "อิก-เซ็พท์",
+      "meaning_th": "ยกเว้น",
+      "emoji": "🚷",
+      "example_en": "All of the following are true EXCEPT one.",
+      "example_th": "ข้อต่อไปนี้เป็นจริงทั้งหมด ยกเว้นหนึ่งข้อ",
+      "cefr": "A2",
+      "note_th": "โจทย์ EXCEPT = หาข้อที่ผิดหรือไม่มีในเรื่อง (3 ถูก 1 ผิด) — อย่าสับสนกับ accept (ยอมรับ) ที่ออกเสียงคล้ายกัน",
+      "distractors": [
+        "accept",
+        "expect",
+        "excerpt"
+      ]
+    },
+    {
+      "id": "synonym",
+      "word": "synonym",
+      "pos": "noun",
+      "ipa": "/ˈsɪnənɪm/",
+      "reading_th": "ซิน-โน-นิม",
+      "meaning_th": "คำที่มีความหมายเหมือนกัน",
+      "emoji": "🟰",
+      "example_en": "\"Big\" is a synonym for \"large\".",
+      "example_th": "big เป็นคำที่มีความหมายเหมือนกับ large",
+      "cefr": "B1",
+      "note_th": "โจทย์ \"closest in meaning to\" ก็คือหา synonym — จำคู่กับ antonym (ตรงข้าม) syn- = เหมือน/ร่วม, ant(i)- = ต้าน",
+      "distractors": [
+        "antonym",
+        "homonym",
+        "symbol"
+      ]
+    },
+    {
+      "id": "antonym",
+      "word": "antonym",
+      "pos": "noun",
+      "ipa": "/ˈæntənɪm/",
+      "reading_th": "แอน-โท-นิม",
+      "meaning_th": "คำที่มีความหมายตรงข้าม",
+      "emoji": "🔃",
+      "example_en": "What is the antonym of \"ancient\"?",
+      "example_th": "คำที่มีความหมายตรงข้ามกับ ancient คือคำใด",
+      "cefr": "B1",
+      "note_th": "antonym = คำตรงข้าม เช่น hot/cold, brave/cowardly — ข้อสอบมักถาม \"The word X is the opposite of...\" ซึ่งก็คือหา antonym",
+      "distractors": [
+        "synonym",
+        "acronym",
+        "anthem"
+      ]
+    },
+    {
+      "id": "true_or_false",
+      "word": "true or false",
+      "pos": "phrase",
+      "ipa": "/truː ɔːr fɔːls/",
+      "reading_th": "ทรู ออร์ ฟอลส์",
+      "meaning_th": "ถูกหรือผิด (ข้อสอบแบบ T/F)",
+      "emoji": "🔘",
+      "example_en": "Decide whether each sentence is true or false.",
+      "example_th": "ตัดสินว่าแต่ละประโยคถูกหรือผิด",
+      "cefr": "A2",
+      "note_th": "ข้อสอบ true/false บางชุดมีตัวเลือกที่สาม not given = บทความไม่ได้บอก อย่าเดาจากความรู้ตัวเอง — false (ออกเสียง ฟอลส์) ไม่ใช่ fault",
+      "distractors": [
+        "right or wrong",
+        "yes or no",
+        "trick or treat"
+      ]
+    },
+    {
+      "id": "open_ended",
+      "word": "open-ended",
+      "pos": "adjective",
+      "ipa": "/ˌoʊpən ˈendɪd/",
+      "reading_th": "โอ-เพิน-เอน-ดิด",
+      "meaning_th": "ปลายเปิด / อัตนัย",
+      "emoji": "✍️",
+      "example_en": "The last part of the exam has three open-ended questions.",
+      "example_th": "ส่วนสุดท้ายของข้อสอบมีคำถามปลายเปิดสามข้อ",
+      "cefr": "B2",
+      "note_th": "open-ended question = คำถามที่ต้องเขียนตอบเอง ไม่มีตัวเลือก (อัตนัย) ตรงข้ามกับ closed/yes-no question — ในข้อสอบพูด ผู้สัมภาษณ์ใช้คำถามปลายเปิดเพื่อให้พูดยาวๆ",
+      "distractors": [
+        "open-minded",
+        "opening",
+        "closed"
+      ]
+    }
+  ]
+}

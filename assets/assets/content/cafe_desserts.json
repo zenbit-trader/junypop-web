@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "cafe_desserts",
+    "name_en": "Café & Desserts",
+    "name_th": "คาเฟ่และของหวาน",
+    "emoji": "🧋",
+    "color_start": "#E9B384",
+    "color_end": "#9A5B2E",
+    "description_th": "สั่งกาแฟแบบคนรู้จริง เมนูชานม ขนมอบ และศัพท์คาเฟ่ที่เจอทุกวัน",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "cafe_desserts_1",
+        "title_en": "Coffee Orders",
+        "title_th": "สั่งกาแฟ",
+        "emoji": "☕",
+        "word_ids": [
+          "espresso",
+          "latte",
+          "cappuccino",
+          "americano",
+          "mocha",
+          "cold_brew",
+          "iced",
+          "decaf",
+          "oat_milk",
+          "shot",
+          "foam",
+          "syrup",
+          "whipped_cream",
+          "caffeine"
+        ]
+      },
+      {
+        "id": "cafe_desserts_2",
+        "title_en": "Tea & Bubble Tea",
+        "title_th": "ชาและชานมไข่มุก",
+        "emoji": "🧋",
+        "word_ids": [
+          "matcha",
+          "green_tea",
+          "milk_tea",
+          "tapioca",
+          "pearls",
+          "jelly",
+          "brown_sugar",
+          "less_sweet",
+          "herbal_tea",
+          "chai",
+          "jasmine_tea",
+          "thai_tea",
+          "fruit_tea",
+          "chamomile"
+        ]
+      },
+      {
+        "id": "cafe_desserts_3",
+        "title_en": "Bakery & Pastries",
+        "title_th": "ขนมอบและเพสตรี",
+        "emoji": "🥐",
+        "word_ids": [
+          "bakery",
+          "croissant",
+          "bagel",
+          "muffin",
+          "scone",
+          "pastry",
+          "bun",
+          "toast",
+          "butter",
+          "cream_cheese",
+          "cinnamon_roll",
+          "sourdough",
+          "baguette",
+          "pie"
+        ]
+      },
+      {
+        "id": "cafe_desserts_4",
+        "title_en": "Cakes & Desserts",
+        "title_th": "เค้กและของหวาน",
+        "emoji": "🍰",
+        "word_ids": [
+          "cheesecake",
+          "brownie",
+          "cupcake",
+          "frosting",
+          "sponge_cake",
+          "pudding",
+          "custard",
+          "macaron",
+          "tart",
+          "mousse",
+          "pancake",
+          "waffle",
+          "eclair",
+          "caramel"
+        ]
+      },
+      {
+        "id": "cafe_desserts_5",
+        "title_en": "Ice Cream & Sweets",
+        "title_th": "ไอศกรีมและขนมหวาน",
+        "emoji": "🍦",
+        "word_ids": [
+          "scoop",
+          "cone",
+          "sundae",
+          "gelato",
+          "sorbet",
+          "popsicle",
+          "vanilla",
+          "strawberry",
+          "sprinkles",
+          "marshmallow",
+          "gummy",
+          "lollipop",
+          "cocoa",
+          "shaved_ice"
+        ]
+      },
+      {
+        "id": "cafe_desserts_6",
+        "title_en": "Café Life",
+        "title_th": "ชีวิตในคาเฟ่",
+        "emoji": "🪑",
+        "word_ids": [
+          "barista",
+          "coffee_shop",
+          "loyalty_card",
+          "for_here",
+          "to_go",
+          "refill",
+          "mug",
+          "tumbler",
+          "saucer",
+          "regular",
+          "brunch",
+          "menu_board",
+          "lid",
+          "cafe_hopping"
+        ]
+      },
+      {
+        "id": "cafe_desserts_7",
+        "title_en": "Sweetness & Drinks",
+        "title_th": "ระดับความหวานและเครื่องดื่ม",
+        "emoji": "🥤",
+        "word_ids": [
+          "sweetness_level",
+          "extra_shot",
+          "less_ice",
+          "half_sweet",
+          "smooth",
+          "frothy",
+          "milky",
+          "aromatic",
+          "nutty",
+          "sweet_tooth",
+          "fizzy",
+          "chilled",
+          "room_temperature",
+          "refreshing"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "espresso",
+      "word": "espresso",
+      "pos": "noun",
+      "ipa": "/eˈspresoʊ/",
+      "reading_th": "เอส-เพรส-โซ่",
+      "meaning_th": "เอสเพรสโซ",
+      "emoji": "☕",
+      "example_en": "A double espresso, please, no sugar.",
+      "example_th": "ขอดับเบิลเอสเพรสโซ ไม่ใส่น้ำตาลค่ะ",
+      "cefr": "A2",
+      "note_th": "สะกด espresso ไม่มี x — ออกเสียง เอส-เพรส-โซ่ ไม่ใช่ เอ็กซ์-เพรส-โซ่ และเป็นฐานของกาแฟเกือบทุกแก้วในคาเฟ่",
+      "distractors": [
+        "express",
+        "expression",
+        "impress"
+      ]
+    },
+    {
+      "id": "latte",
+      "word": "latte",
+      "pos": "noun",
+      "ipa": "/ˈlɑːteɪ/",
+      "reading_th": "ลา-เต้",
+      "meaning_th": "ลาเต้",
+      "emoji": "🥛",
+      "example_en": "I'll have an iced latte with oat milk.",
+      "example_th": "ขอลาเต้เย็นใส่นมข้าวโอ๊ต",
+      "cefr": "A1",
+      "note_th": "latte = เอสเพรสโซ + นมร้อนเยอะๆ ฟองบาง — ถ้าในอิตาลีสั่ง latte เฉยๆ จะได้นมเปล่า ต้องพูด caffè latte",
+      "distractors": [
+        "late",
+        "later",
+        "lettuce"
+      ]
+    },
+    {
+      "id": "cappuccino",
+      "word": "cappuccino",
+      "pos": "noun",
+      "ipa": "/ˌkæpʊˈtʃiːnoʊ/",
+      "reading_th": "คา-ปู-ชิ-โน่",
+      "meaning_th": "คาปูชิโน",
+      "emoji": "☕",
+      "example_en": "The cappuccino comes with a thick layer of foam.",
+      "example_th": "คาปูชิโนมาพร้อมชั้นฟองนมหนา",
+      "cefr": "A2",
+      "note_th": "cappuccino ฟองนมหนากว่าและนมน้อยกว่า latte — สะกดยาก จำว่า pp กับ cc และคนอิตาลีดื่มตอนเช้าเท่านั้น",
+      "distractors": [
+        "Capricorn",
+        "macchiato",
+        "mocha"
+      ]
+    },
+    {
+      "id": "americano",
+      "word": "americano",
+      "pos": "noun",
+      "ipa": "/əˌmerɪˈkɑːnoʊ/",
+      "reading_th": "อะ-เม-ริ-คา-โน่",
+      "meaning_th": "อเมริกาโน",
+      "emoji": "🖤",
+      "example_en": "An iced americano keeps me awake all afternoon.",
+      "example_th": "อเมริกาโนเย็นทำให้ฉันตื่นได้ทั้งบ่าย",
+      "cefr": "A2",
+      "note_th": "americano = เอสเพรสโซเติมน้ำร้อน ไม่มีนม — ชื่อมาจากทหารอเมริกันในอิตาลีที่ชอบกาแฟอ่อนกว่า ที่ไทยสั่ง iced americano บ่อยที่สุด",
+      "distractors": [
+        "American",
+        "macchiato",
+        "africano"
+      ]
+    },
+    {
+      "id": "mocha",
+      "word": "mocha",
+      "pos": "noun",
+      "ipa": "/ˈmoʊkə/",
+      "reading_th": "โม-ค่า",
+      "meaning_th": "มอคค่า (กาแฟช็อกโกแลต)",
+      "emoji": "🍫",
+      "example_en": "A mocha is perfect when you want coffee and chocolate.",
+      "example_th": "มอคค่าเหมาะเวลาอยากได้ทั้งกาแฟและช็อกโกแลต",
+      "cefr": "A2",
+      "note_th": "mocha = ลาเต้ + ช็อกโกแลต ออกเสียง โม-ค่า — ชื่อมาจากเมืองท่า Mocha ในเยเมนที่ส่งออกกาแฟสมัยก่อน",
+      "distractors": [
+        "matcha",
+        "macho",
+        "mock"
+      ]
+    },
+    {
+      "id": "cold_brew",
+      "word": "cold brew",
+      "pos": "noun",
+      "ipa": "/ˌkoʊld ˈbruː/",
+      "reading_th": "โคลด์ บรู",
+      "meaning_th": "กาแฟสกัดเย็น",
+      "emoji": "🧊",
+      "example_en": "Cold brew is smoother and less bitter than iced coffee.",
+      "example_th": "กาแฟสกัดเย็นนุ่มและขมน้อยกว่ากาแฟเย็นทั่วไป",
+      "cefr": "B1",
+      "note_th": "cold brew = แช่กาแฟบดในน้ำเย็น 12–24 ชม. ไม่ใช่กาแฟร้อนใส่น้ำแข็ง — brew เป็นกริยาแปลว่าชงกาแฟ/ชา",
+      "distractors": [
+        "cold coffee",
+        "brewery",
+        "cold drink"
+      ]
+    },
+    {
+      "id": "iced",
+      "word": "iced",
+      "pos": "adjective",
+      "ipa": "/aɪst/",
+      "reading_th": "ไอซ์ท์",
+      "meaning_th": "แบบเย็น (ใส่น้ำแข็ง)",
+      "emoji": "🧊",
+      "example_en": "Would you like that hot or iced?",
+      "example_th": "รับแบบร้อนหรือเย็นดีคะ",
+      "cefr": "A1",
+      "note_th": "ต้องมี d: iced latte, iced tea — คนไทยมักพูด ice coffee ซึ่งผิด เพราะ iced แปลว่า \"ถูกใส่น้ำแข็งแล้ว\"",
+      "distractors": [
+        "ice",
+        "icy",
+        "ice cube"
+      ]
+    },
+    {
+      "id": "decaf",
+      "word": "decaf",
+      "pos": "noun",
+      "ipa": "/ˈdiːkæf/",
+      "reading_th": "ดี-แคฟ",
+      "meaning_th": "กาแฟไม่มีคาเฟอีน",
+      "emoji": "😴",
+      "example_en": "Make mine a decaf, it's already 8 pm.",
+      "example_th": "ขอเป็นแบบไม่มีคาเฟอีนนะ สองทุ่มแล้ว",
+      "cefr": "B1",
+      "note_th": "decaf ย่อจาก decaffeinated ใช้ได้ทั้งคำนามและคุณศัพท์ (a decaf latte) — ถ้าร้านไม่มีจะตอบว่า Sorry, we don't do decaf",
+      "distractors": [
+        "default",
+        "decade",
+        "decay"
+      ]
+    },
+    {
+      "id": "oat_milk",
+      "word": "oat milk",
+      "pos": "noun",
+      "ipa": "/ˈoʊt mɪlk/",
+      "reading_th": "โอ๊ต มิลค์",
+      "meaning_th": "นมข้าวโอ๊ต",
+      "emoji": "🌾",
+      "example_en": "Can I swap the regular milk for oat milk?",
+      "example_th": "ขอเปลี่ยนนมธรรมดาเป็นนมข้าวโอ๊ตได้ไหม",
+      "cefr": "A2",
+      "note_th": "นมทางเลือกเรียกรวมว่า plant milk: oat milk, almond milk, soy milk — ร้านมักคิดเพิ่ม 10–20 บาท พูดว่า oat milk is extra",
+      "distractors": [
+        "almond milk",
+        "goat milk",
+        "oatmeal"
+      ]
+    },
+    {
+      "id": "shot",
+      "word": "shot",
+      "pos": "noun",
+      "ipa": "/ʃɑːt/",
+      "reading_th": "ช็อต",
+      "meaning_th": "ช็อต (กาแฟหนึ่งหน่วย)",
+      "emoji": "🥃",
+      "example_en": "This latte has two shots of espresso.",
+      "example_th": "ลาเต้แก้วนี้มีเอสเพรสโซสองช็อต",
+      "cefr": "A2",
+      "note_th": "shot = เอสเพรสโซ 1 หน่วย (ประมาณ 30 มล.) — single shot / double shot ร้านไทยจะถามว่า กี่ช็อต ก็มาจากคำนี้",
+      "distractors": [
+        "shoot",
+        "short",
+        "sheet"
+      ]
+    },
+    {
+      "id": "foam",
+      "word": "foam",
+      "pos": "noun",
+      "ipa": "/foʊm/",
+      "reading_th": "โฟม",
+      "meaning_th": "ฟองนม",
+      "emoji": "🫧",
+      "example_en": "The barista made a heart in the milk foam.",
+      "example_th": "บาริสต้าทำรูปหัวใจบนฟองนม",
+      "cefr": "A2",
+      "note_th": "milk foam = ฟองนม ส่วนลวดลายบนฟองเรียก latte art — ไม่เอาฟองพูดว่า no foam, please",
+      "distractors": [
+        "form",
+        "phone",
+        "farm"
+      ]
+    },
+    {
+      "id": "syrup",
+      "word": "syrup",
+      "pos": "noun",
+      "ipa": "/ˈsɪrəp/",
+      "reading_th": "ไซ-รัป",
+      "meaning_th": "ไซรัป / น้ำเชื่อม",
+      "emoji": "🍯",
+      "example_en": "Add a pump of vanilla syrup to my latte.",
+      "example_th": "เพิ่มไซรัปวานิลลาหนึ่งปั๊มในลาเต้ของฉัน",
+      "cefr": "A2",
+      "note_th": "ไซรัปในคาเฟ่นับเป็น pump: one pump of caramel syrup — ส่วนน้ำเชื่อมใส่กาแฟเย็นไทยคือ simple syrup",
+      "distractors": [
+        "slurp",
+        "stirrup",
+        "sugar"
+      ]
+    },
+    {
+      "id": "whipped_cream",
+      "word": "whipped cream",
+      "pos": "noun",
+      "ipa": "/ˌwɪpt ˈkriːm/",
+      "reading_th": "วิปท์ ครีม",
+      "meaning_th": "วิปครีม",
+      "emoji": "🍦",
+      "example_en": "Do you want whipped cream on your mocha?",
+      "example_th": "รับวิปครีมบนมอคค่าไหมคะ",
+      "cefr": "A2",
+      "note_th": "whipped cream = ครีมตีจนฟู มี -ed เพราะถูกตี (whip) — คนไทยเรียกวิปครีม ร้านมักถามว่า with or without whipped cream?",
+      "distractors": [
+        "whip",
+        "ice cream",
+        "cream cheese"
+      ]
+    },
+    {
+      "id": "caffeine",
+      "word": "caffeine",
+      "pos": "noun",
+      "ipa": "/kæˈfiːn/",
+      "reading_th": "แคฟ-ฟีน",
+      "meaning_th": "คาเฟอีน",
+      "emoji": "⚡",
+      "example_en": "I need some caffeine before the meeting.",
+      "example_th": "ฉันต้องการคาเฟอีนสักหน่อยก่อนประชุม",
+      "cefr": "B1",
+      "note_th": "สะกด caffeine (ff, ei) — caffeine-free = ไม่มีคาเฟอีน และคำว่า caffeine fix หมายถึง \"ขอกาแฟสักแก้วให้ตื่น\"",
+      "distractors": [
+        "cafeteria",
+        "coffee bean",
+        "cocaine"
+      ]
+    },
+    {
+      "id": "matcha",
+      "word": "matcha",
+      "pos": "noun",
+      "ipa": "/ˈmætʃə/",
+      "reading_th": "มัท-ฉะ",
+      "meaning_th": "มัทฉะ (ชาเขียวผง)",
+      "emoji": "🍵",
+      "example_en": "The matcha latte here is not too sweet.",
+      "example_th": "มัทฉะลาเต้ที่นี่ไม่หวานเกินไป",
+      "cefr": "A2",
+      "note_th": "matcha = ชาเขียวบดละเอียดเป็นผง ชงทั้งใบ จึงเข้มกว่า green tea ทั่วไป — เมนูฮิตคือ matcha latte และ matcha cake",
+      "distractors": [
+        "mocha",
+        "match",
+        "mascot"
+      ]
+    },
+    {
+      "id": "green_tea",
+      "word": "green tea",
+      "pos": "noun",
+      "ipa": "/ˌɡriːn ˈtiː/",
+      "reading_th": "กรีน ที",
+      "meaning_th": "ชาเขียว",
+      "emoji": "🍵",
+      "example_en": "Green tea without sugar is good for you.",
+      "example_th": "ชาเขียวไม่ใส่น้ำตาลดีต่อสุขภาพ",
+      "cefr": "A1",
+      "note_th": "ชาเขียวขวดหวานๆ ของไทยฝรั่งอาจงง เพราะ green tea ของเขาคือชาร้อนไม่หวาน — ระบุว่า sweet green tea หรือ unsweetened",
+      "distractors": [
+        "black tea",
+        "matcha",
+        "green beans"
+      ]
+    },
+    {
+      "id": "milk_tea",
+      "word": "milk tea",
+      "pos": "noun",
+      "ipa": "/ˈmɪlk tiː/",
+      "reading_th": "มิลค์ ที",
+      "meaning_th": "ชานม",
+      "emoji": "🧋",
+      "example_en": "One brown sugar milk tea with pearls, please.",
+      "example_th": "ขอชานมบราวน์ชูการ์ใส่ไข่มุกหนึ่งแก้วค่ะ",
+      "cefr": "A1",
+      "note_th": "milk tea = ชานมทุกแบบ ส่วน bubble tea เน้นว่ามีไข่มุก — ชาไข่มุกเรียก boba ในอเมริกาด้วย",
+      "distractors": [
+        "milkshake",
+        "iced tea",
+        "tea leaf"
+      ]
+    },
+    {
+      "id": "tapioca",
+      "word": "tapioca",
+      "pos": "noun",
+      "ipa": "/ˌtæpiˈoʊkə/",
+      "reading_th": "แท-พิ-โอ-ค่า",
+      "meaning_th": "แป้งมันสำปะหลัง / สาคู",
+      "emoji": "⚪",
+      "example_en": "Bubble tea pearls are made from tapioca.",
+      "example_th": "ไข่มุกในชานมทำจากแป้งมันสำปะหลัง",
+      "cefr": "B1",
+      "note_th": "tapioca pearls = ไข่มุกชานม tapioca ยังหมายถึงสาคูในขนมไทยด้วย — มันสำปะหลังหัวสดคือ cassava",
+      "distractors": [
+        "tapas",
+        "tiramisu",
+        "cassava"
+      ]
+    },
+    {
+      "id": "pearls",
+      "word": "pearls",
+      "pos": "noun",
+      "ipa": "/pɜːrlz/",
+      "reading_th": "เพิร์ลส์",
+      "meaning_th": "ไข่มุก (ในชานม)",
+      "emoji": "🫧",
+      "example_en": "Extra pearls cost ten baht more.",
+      "example_th": "เพิ่มไข่มุกคิดเพิ่มสิบบาท",
+      "cefr": "A2",
+      "note_th": "ไข่มุกชานมพูดว่า pearls หรือ boba ไม่ใช่ bubble (bubble คือฟองจากการเขย่า) — ขอเยอะๆ ว่า extra pearls",
+      "distractors": [
+        "pears",
+        "peels",
+        "bubbles"
+      ]
+    },
+    {
+      "id": "jelly",
+      "word": "jelly",
+      "pos": "noun",
+      "ipa": "/ˈdʒeli/",
+      "reading_th": "เจล-ลี่",
+      "meaning_th": "เยลลี่ (ท็อปปิง)",
+      "emoji": "🍮",
+      "example_en": "I'd like grass jelly instead of pearls.",
+      "example_th": "ขอเปลี่ยนไข่มุกเป็นเฉาก๊วย",
+      "cefr": "A2",
+      "note_th": "grass jelly = เฉาก๊วย coffee jelly = เยลลี่กาแฟ — ในอเมริกา jelly ยังหมายถึงแยมใสทาขนมปังด้วย",
+      "distractors": [
+        "jealous",
+        "jellyfish",
+        "jam"
+      ]
+    },
+    {
+      "id": "brown_sugar",
+      "word": "brown sugar",
+      "pos": "noun",
+      "ipa": "/ˌbraʊn ˈʃʊɡər/",
+      "reading_th": "บราวน์ ชู-เกอร์",
+      "meaning_th": "น้ำตาลทรายแดง",
+      "emoji": "🟤",
+      "example_en": "Brown sugar pearls taste like caramel.",
+      "example_th": "ไข่มุกน้ำตาลทรายแดงรสเหมือนคาราเมล",
+      "cefr": "A2",
+      "note_th": "brown sugar milk tea เป็นเมนูดังจากไต้หวัน — น้ำตาลทรายแดง/น้ำตาลอ้อยใช้ brown sugar ส่วนน้ำตาลโตนด/มะพร้าวคือ palm sugar",
+      "distractors": [
+        "white sugar",
+        "sugar cane",
+        "brownie"
+      ]
+    },
+    {
+      "id": "less_sweet",
+      "word": "less sweet",
+      "pos": "phrase",
+      "ipa": "/ˌles ˈswiːt/",
+      "reading_th": "เลส สวีท",
+      "meaning_th": "หวานน้อย",
+      "emoji": "🤏",
+      "example_en": "Can you make it less sweet, please?",
+      "example_th": "ทำหวานน้อยได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "หวานน้อย = less sweet หวานปกติ = regular sweetness ไม่หวาน = no sugar — ร้านชานมอาจถามว่า How sweet do you want it?",
+      "distractors": [
+        "more sweet",
+        "less ice",
+        "sweeter"
+      ]
+    },
+    {
+      "id": "herbal_tea",
+      "word": "herbal tea",
+      "pos": "noun",
+      "ipa": "/ˈɜːrbəl tiː/",
+      "reading_th": "เออร์-เบิล ที",
+      "meaning_th": "ชาสมุนไพร",
+      "emoji": "🌿",
+      "example_en": "Herbal tea has no caffeine, so it's fine at night.",
+      "example_th": "ชาสมุนไพรไม่มีคาเฟอีน ดื่มตอนกลางคืนได้",
+      "cefr": "B1",
+      "note_th": "h ใน herbal แบบอเมริกันไม่ออกเสียง (เออร์-เบิล) แบบอังกฤษออก (เฮอร์-เบิล) — น้ำเก๊กฮวย น้ำใบเตย ก็อธิบายว่า Thai herbal tea ได้",
+      "distractors": [
+        "herb",
+        "herbal medicine",
+        "hot tea"
+      ]
+    },
+    {
+      "id": "chai",
+      "word": "chai",
+      "pos": "noun",
+      "ipa": "/tʃaɪ/",
+      "reading_th": "ชาย",
+      "meaning_th": "ชานมเครื่องเทศอินเดีย",
+      "emoji": "🫖",
+      "example_en": "A chai latte is sweet and full of spices.",
+      "example_th": "ชายลาเต้หวานและเต็มไปด้วยเครื่องเทศ",
+      "cefr": "B1",
+      "note_th": "chai แปลว่า \"ชา\" ในภาษาฮินดี แต่ในคาเฟ่ตะวันตกหมายถึงชานมใส่อบเชย กระวาน ขิง — chai tea จึงซ้ำซ้อนแต่ก็ใช้กัน",
+      "distractors": [
+        "chain",
+        "chat",
+        "chia"
+      ]
+    },
+    {
+      "id": "jasmine_tea",
+      "word": "jasmine tea",
+      "pos": "noun",
+      "ipa": "/ˈdʒæzmɪn tiː/",
+      "reading_th": "แจส-มิน ที",
+      "meaning_th": "ชามะลิ",
+      "emoji": "🌼",
+      "example_en": "Chinese restaurants often serve free jasmine tea.",
+      "example_th": "ร้านอาหารจีนมักเสิร์ฟชามะลิฟรี",
+      "cefr": "A2",
+      "note_th": "jasmine = มะลิ ข้าวหอมมะลิก็คือ jasmine rice — ชามะลิเป็นชาเขียวอบกลิ่นมะลิ ไม่ใช่ชาสมุนไพร",
+      "distractors": [
+        "jasmine rice",
+        "ginger tea",
+        "oolong tea"
+      ]
+    },
+    {
+      "id": "thai_tea",
+      "word": "Thai tea",
+      "pos": "noun",
+      "ipa": "/ˌtaɪ ˈtiː/",
+      "reading_th": "ไท ที",
+      "meaning_th": "ชาไทย / ชาเย็น",
+      "emoji": "🧡",
+      "example_en": "Foreigners love the bright orange Thai tea.",
+      "example_th": "ชาวต่างชาติชอบชาไทยสีส้มสดใส",
+      "cefr": "A1",
+      "note_th": "ชาเย็นในเมนูภาษาอังกฤษคือ Thai iced tea หรือ Thai tea — คนต่างชาติจำสีส้มและนมข้นได้ดี เป็นเมนูไทยที่ดังระดับโลก",
+      "distractors": [
+        "tie",
+        "thigh",
+        "Thai coffee"
+      ]
+    },
+    {
+      "id": "fruit_tea",
+      "word": "fruit tea",
+      "pos": "noun",
+      "ipa": "/ˈfruːt tiː/",
+      "reading_th": "ฟรุต ที",
+      "meaning_th": "ชาผลไม้",
+      "emoji": "🍑",
+      "example_en": "The peach fruit tea has real fruit pieces inside.",
+      "example_th": "ชาพีชมีชิ้นผลไม้จริงอยู่ข้างใน",
+      "cefr": "A2",
+      "note_th": "fruit tea = ชา (มักเป็นชาเขียวหรือชาดำ) ผสมน้ำผลไม้และเนื้อผลไม้ — เมนูขายดีช่วงหน้าร้อน เช่น peach tea, lychee tea",
+      "distractors": [
+        "fruit juice",
+        "iced tea",
+        "fruit salad"
+      ]
+    },
+    {
+      "id": "chamomile",
+      "word": "chamomile",
+      "pos": "noun",
+      "ipa": "/ˈkæməmaɪl/",
+      "reading_th": "แค-โม-ไมล์",
+      "meaning_th": "ชาคาโมมายล์ (ดอกคาโมมายล์)",
+      "emoji": "🌼",
+      "example_en": "A cup of chamomile helps me sleep better.",
+      "example_th": "คาโมมายล์สักถ้วยช่วยให้ฉันหลับดีขึ้น",
+      "cefr": "B1",
+      "note_th": "ออกเสียง แค-โม-ไมล์ หรือ แค-โม-มีล ได้ทั้งคู่ — chamomile tea ไม่มีคาเฟอีน คาเฟ่มักแนะนำให้ดื่มก่อนนอน",
+      "distractors": [
+        "camouflage",
+        "caramel",
+        "chameleon"
+      ]
+    },
+    {
+      "id": "bakery",
+      "word": "bakery",
+      "pos": "noun",
+      "ipa": "/ˈbeɪkəri/",
+      "reading_th": "เบ-เกอ-รี่",
+      "meaning_th": "ร้านขนมอบ / เบเกอรี่",
+      "emoji": "🏪",
+      "example_en": "The bakery sells out of croissants by ten.",
+      "example_th": "ร้านเบเกอรี่ขายครัวซองต์หมดก่อนสิบโมง",
+      "cefr": "A1",
+      "note_th": "bakery = ร้าน ไม่ใช่ขนม — คนไทยพูดว่า \"กินเบเกอรี่\" แต่ฝรั่งพูดว่า eat pastries หรือ baked goods",
+      "distractors": [
+        "baker",
+        "battery",
+        "pastry shop"
+      ]
+    },
+    {
+      "id": "croissant",
+      "word": "croissant",
+      "pos": "noun",
+      "ipa": "/krwɑːˈsɑːnt/",
+      "reading_th": "ครัว-ซองต์",
+      "meaning_th": "ครัวซองต์",
+      "emoji": "🥐",
+      "example_en": "A butter croissant and a flat white, please.",
+      "example_th": "ขอครัวซองต์เนยกับแฟลตไวท์หนึ่งแก้วค่ะ",
+      "cefr": "A2",
+      "note_th": "เป็นคำฝรั่งเศส ตัว t ท้ายไม่ออกเสียง ครัว-ซอง — ฝรั่งชอบ a flaky, buttery croissant (กรอบเป็นชั้นและหอมเนย)",
+      "distractors": [
+        "crescent",
+        "crouton",
+        "crossing"
+      ]
+    },
+    {
+      "id": "bagel",
+      "word": "bagel",
+      "pos": "noun",
+      "ipa": "/ˈbeɪɡəl/",
+      "reading_th": "เบ-เกิล",
+      "meaning_th": "เบเกิล (ขนมปังวงแหวน)",
+      "emoji": "🥯",
+      "example_en": "I like my bagel toasted with cream cheese.",
+      "example_th": "ฉันชอบเบเกิลปิ้งทาครีมชีส",
+      "cefr": "A2",
+      "note_th": "bagel = ขนมปังรูปโดนัทเนื้อหนึบ ต้มก่อนอบ — อาหารเช้านิวยอร์กคลาสสิกคือ bagel with cream cheese",
+      "distractors": [
+        "beagle",
+        "bangle",
+        "bugle"
+      ]
+    },
+    {
+      "id": "muffin",
+      "word": "muffin",
+      "pos": "noun",
+      "ipa": "/ˈmʌfɪn/",
+      "reading_th": "มัฟ-ฟิน",
+      "meaning_th": "มัฟฟิน",
+      "emoji": "🧁",
+      "example_en": "The blueberry muffin is still warm.",
+      "example_th": "มัฟฟินบลูเบอร์รี่ยังอุ่นอยู่เลย",
+      "cefr": "A1",
+      "note_th": "muffin หน้าตาคล้ายคัพเค้กแต่ไม่มีครีมแต่งหน้าและหวานน้อยกว่า — English muffin เป็นขนมปังกลมแบน คนละอย่างกันเลย",
+      "distractors": [
+        "muffler",
+        "puffin",
+        "mitten"
+      ]
+    },
+    {
+      "id": "scone",
+      "word": "scone",
+      "pos": "noun",
+      "ipa": "/skoʊn/",
+      "reading_th": "สโกน",
+      "meaning_th": "สโกน",
+      "emoji": "🫓",
+      "example_en": "A scone with jam and cream is a British treat.",
+      "example_th": "สโกนกับแยมและครีมเป็นของกินเล่นแบบอังกฤษ",
+      "cefr": "B1",
+      "note_th": "scone กินกับ clotted cream และ jam ในช่วง afternoon tea — คนอังกฤษเถียงกันเองว่าออกเสียง สโกน หรือ สก็อน",
+      "distractors": [
+        "stone",
+        "scoop",
+        "cone"
+      ]
+    },
+    {
+      "id": "pastry",
+      "word": "pastry",
+      "pos": "noun",
+      "ipa": "/ˈpeɪstri/",
+      "reading_th": "เพส-ตรี้",
+      "meaning_th": "ขนมอบ (แป้งพาย/เพสตรี)",
+      "emoji": "🥐",
+      "example_en": "Which pastry goes well with this coffee?",
+      "example_th": "ขนมอบชิ้นไหนเข้ากับกาแฟแก้วนี้",
+      "cefr": "A2",
+      "note_th": "pastry = ขนมอบที่ทำจากแป้งชั้นๆ เช่น croissant, Danish — ที่คนไทยเรียก \"เบเกอรี่\" ส่วนใหญ่ตรงกับคำว่า pastries",
+      "distractors": [
+        "pasta",
+        "paste",
+        "poetry"
+      ]
+    },
+    {
+      "id": "bun",
+      "word": "bun",
+      "pos": "noun",
+      "ipa": "/bʌn/",
+      "reading_th": "บัน",
+      "meaning_th": "ขนมปังก้อนกลม",
+      "emoji": "🥯",
+      "example_en": "Try the garlic cream cheese bun.",
+      "example_th": "ลองขนมปังกระเทียมครีมชีสดูสิ",
+      "cefr": "A2",
+      "note_th": "bun = ขนมปังก้อนกลมนุ่ม ทั้งขนมปังเบอร์เกอร์ (burger bun) และซาลาเปา (steamed bun) — ไม่ใช่ bread ที่เป็นแถว",
+      "distractors": [
+        "bum",
+        "ban",
+        "bin"
+      ]
+    },
+    {
+      "id": "toast",
+      "word": "toast",
+      "pos": "noun",
+      "ipa": "/toʊst/",
+      "reading_th": "โทสต์",
+      "meaning_th": "ขนมปังปิ้ง",
+      "emoji": "🍞",
+      "example_en": "The honey toast is big enough for two people.",
+      "example_th": "ฮันนี่โทสต์ชิ้นใหญ่พอสำหรับสองคน",
+      "cefr": "A1",
+      "note_th": "toast นับไม่ได้ — ขนมปังปิ้งหนึ่งแผ่น = a slice of toast ไม่ใช่ a toast (a toast คือการชนแก้วอวยพร)",
+      "distractors": [
+        "toaster",
+        "roast",
+        "taste"
+      ]
+    },
+    {
+      "id": "butter",
+      "word": "butter",
+      "pos": "noun",
+      "ipa": "/ˈbʌtər/",
+      "reading_th": "บัท-เทอร์",
+      "meaning_th": "เนย",
+      "emoji": "🧈",
+      "example_en": "Spread some butter on the warm bread.",
+      "example_th": "ทาเนยบนขนมปังอุ่นๆ",
+      "cefr": "A1",
+      "note_th": "butter = เนยจากนม ส่วนเนยเทียมคือ margarine — คำคุณศัพท์ buttery แปลว่าหอมเนย ใช้ชมครัวซองต์",
+      "distractors": [
+        "batter",
+        "better",
+        "bitter"
+      ]
+    },
+    {
+      "id": "cream_cheese",
+      "word": "cream cheese",
+      "pos": "noun",
+      "ipa": "/ˌkriːm ˈtʃiːz/",
+      "reading_th": "ครีม ชีส",
+      "meaning_th": "ครีมชีส",
+      "emoji": "🧀",
+      "example_en": "Spread the cream cheese thick on the warm bagel.",
+      "example_th": "ทาครีมชีสหนาๆ บนเบเกิลอุ่นๆ",
+      "cefr": "A2",
+      "note_th": "cream cheese = ชีสนุ่มทาขนมปัง เป็นส่วนผสมหลักของ cheesecake และหน้าซินนามอนโรล — bagel with cream cheese คืออาหารเช้านิวยอร์ก",
+      "distractors": [
+        "cream",
+        "cheddar",
+        "sour cream"
+      ]
+    },
+    {
+      "id": "cinnamon_roll",
+      "word": "cinnamon roll",
+      "pos": "noun",
+      "ipa": "/ˈsɪnəmən roʊl/",
+      "reading_th": "ซิน-นะ-มอน โรล",
+      "meaning_th": "ซินนามอนโรล",
+      "emoji": "🌀",
+      "example_en": "The cinnamon roll smells amazing when it's baking.",
+      "example_th": "ซินนามอนโรลหอมมากตอนกำลังอบ",
+      "cefr": "A2",
+      "note_th": "cinnamon = อบเชย — cinnamon roll คือขนมปังม้วนไส้อบเชยราดไอซิ่ง ฮิตจาก Cinnabon ที่ห้างไทย",
+      "distractors": [
+        "egg roll",
+        "spring roll",
+        "sausage roll"
+      ]
+    },
+    {
+      "id": "sourdough",
+      "word": "sourdough",
+      "pos": "noun",
+      "ipa": "/ˈsaʊərdoʊ/",
+      "reading_th": "ซาว-เออร์-โด",
+      "meaning_th": "ขนมปังซาวร์โดว์ (หมักยีสต์ธรรมชาติ)",
+      "emoji": "🍞",
+      "example_en": "Sourdough takes two days to make properly.",
+      "example_th": "ซาวร์โดว์ใช้เวลาทำอย่างถูกต้องสองวัน",
+      "cefr": "B1",
+      "note_th": "sourdough = ขนมปังเปลือกกรอบ เนื้อเหนียว รสเปรี้ยวอ่อนๆ จากยีสต์ธรรมชาติ — ฮิตมากในคาเฟ่ยุคโควิดที่คนทำเอง",
+      "distractors": [
+        "dough",
+        "sour cream",
+        "sauerkraut"
+      ]
+    },
+    {
+      "id": "baguette",
+      "word": "baguette",
+      "pos": "noun",
+      "ipa": "/bæˈɡet/",
+      "reading_th": "บา-แก็ต",
+      "meaning_th": "ขนมปังฝรั่งเศส (บาแก็ต)",
+      "emoji": "🥖",
+      "example_en": "A fresh baguette should be crusty outside.",
+      "example_th": "บาแก็ตสดๆ ต้องเปลือกกรอบด้านนอก",
+      "cefr": "A2",
+      "note_th": "baguette = ขนมปังแท่งยาวฝรั่งเศส ออกเสียง บา-แก็ต — ขนมปังที่ใช้ทำ banh mi ของเวียดนามก็เป็น baguette",
+      "distractors": [
+        "bucket",
+        "banquet",
+        "basket"
+      ]
+    },
+    {
+      "id": "pie",
+      "word": "pie",
+      "pos": "noun",
+      "ipa": "/paɪ/",
+      "reading_th": "พาย",
+      "meaning_th": "พาย",
+      "emoji": "🥧",
+      "example_en": "Grandma's apple pie is the best dessert.",
+      "example_th": "พายแอปเปิลของคุณยายคือของหวานที่ดีที่สุด",
+      "cefr": "A1",
+      "note_th": "pie มีทั้งหวาน (apple pie) และคาว (chicken pie) — a piece of pie / a slice of pie = พายหนึ่งชิ้น และ easy as pie = ง่ายมาก",
+      "distractors": [
+        "pay",
+        "pine",
+        "tart"
+      ]
+    },
+    {
+      "id": "cheesecake",
+      "word": "cheesecake",
+      "pos": "noun",
+      "ipa": "/ˈtʃiːzkeɪk/",
+      "reading_th": "ชีส-เค้ก",
+      "meaning_th": "ชีสเค้ก",
+      "emoji": "🍰",
+      "example_en": "The blueberry cheesecake is their best seller.",
+      "example_th": "บลูเบอร์รี่ชีสเค้กคือเมนูขายดีที่สุดของร้าน",
+      "cefr": "A2",
+      "note_th": "cheesecake เขียนติดกันคำเดียว — Basque cheesecake (ชีสเค้กหน้าไหม้) และ New York cheesecake คือสองแบบที่คาเฟ่ไทยขายดี",
+      "distractors": [
+        "cheese",
+        "cupcake",
+        "cheese toast"
+      ]
+    },
+    {
+      "id": "brownie",
+      "word": "brownie",
+      "pos": "noun",
+      "ipa": "/ˈbraʊni/",
+      "reading_th": "บราว-นี่",
+      "meaning_th": "บราวนี่",
+      "emoji": "🟫",
+      "example_en": "A warm brownie with ice cream, please.",
+      "example_th": "ขอบราวนี่อุ่นๆ กับไอศกรีมค่ะ",
+      "cefr": "A1",
+      "note_th": "brownie = เค้กช็อกโกแลตเนื้อหนึบแน่น มักตัดเป็นสี่เหลี่ยม — fudgy brownie = เนื้อหนึบเข้ม ส่วน brownie points = คะแนนความดี",
+      "distractors": [
+        "brown",
+        "browser",
+        "bronze"
+      ]
+    },
+    {
+      "id": "cupcake",
+      "word": "cupcake",
+      "pos": "noun",
+      "ipa": "/ˈkʌpkeɪk/",
+      "reading_th": "คัพ-เค้ก",
+      "meaning_th": "คัพเค้ก",
+      "emoji": "🧁",
+      "example_en": "She baked a dozen cupcakes for the party.",
+      "example_th": "เธออบคัพเค้กสิบสองชิ้นสำหรับปาร์ตี้",
+      "cefr": "A1",
+      "note_th": "cupcake = เค้กชิ้นเล็กในถ้วยกระดาษ มีครีมแต่งหน้า ต่างจาก muffin ที่ไม่มีครีม — a dozen = สิบสองชิ้น ใช้นับขนมบ่อย",
+      "distractors": [
+        "muffin",
+        "cup",
+        "pancake"
+      ]
+    },
+    {
+      "id": "frosting",
+      "word": "frosting",
+      "pos": "noun",
+      "ipa": "/ˈfrɔːstɪŋ/",
+      "reading_th": "ฟรอส-ติง",
+      "meaning_th": "ครีมแต่งหน้าเค้ก",
+      "emoji": "🎂",
+      "example_en": "The frosting on this cake is too sweet for me.",
+      "example_th": "ครีมแต่งหน้าเค้กก้อนนี้หวานไปสำหรับฉัน",
+      "cefr": "B1",
+      "note_th": "frosting (อเมริกัน) = icing (อังกฤษ) = ครีมหรือน้ำตาลเคลือบหน้าเค้ก — cream cheese frosting คือแบบที่อยู่บน carrot cake",
+      "distractors": [
+        "frost",
+        "icing",
+        "roasting"
+      ]
+    },
+    {
+      "id": "sponge_cake",
+      "word": "sponge cake",
+      "pos": "noun",
+      "ipa": "/ˈspʌndʒ keɪk/",
+      "reading_th": "สปันจ์ เค้ก",
+      "meaning_th": "เค้กเนื้อนุ่มฟู (สปันจ์เค้ก)",
+      "emoji": "🍰",
+      "example_en": "A good sponge cake is light and fluffy.",
+      "example_th": "สปันจ์เค้กที่ดีต้องเบาและฟู",
+      "cefr": "B1",
+      "note_th": "sponge = ฟองน้ำ sponge cake จึงหมายถึงเค้กเนื้อฟูเหมือนฟองน้ำ — เป็นฐานของเค้กวันเกิดและเค้กไข่ไต้หวัน (castella)",
+      "distractors": [
+        "sponge",
+        "pound cake",
+        "sponge bath"
+      ]
+    },
+    {
+      "id": "pudding",
+      "word": "pudding",
+      "pos": "noun",
+      "ipa": "/ˈpʊdɪŋ/",
+      "reading_th": "พุด-ดิ้ง",
+      "meaning_th": "พุดดิ้ง",
+      "emoji": "🍮",
+      "example_en": "The mango pudding is smooth and cold.",
+      "example_th": "พุดดิ้งมะม่วงเนียนและเย็นชื่นใจ",
+      "cefr": "A2",
+      "note_th": "pudding ในอเมริกา = ขนมเนื้อนุ่มๆ แบบคัสตาร์ด แต่ในอังกฤษ pudding ยังแปลว่า \"ของหวาน\" ทุกชนิด (What's for pudding?)",
+      "distractors": [
+        "padding",
+        "pulling",
+        "pouring"
+      ]
+    },
+    {
+      "id": "custard",
+      "word": "custard",
+      "pos": "noun",
+      "ipa": "/ˈkʌstərd/",
+      "reading_th": "คัส-ตาร์ด",
+      "meaning_th": "คัสตาร์ด (ครีมไข่)",
+      "emoji": "🥧",
+      "example_en": "The egg tart is filled with soft custard.",
+      "example_th": "ทาร์ตไข่มีไส้คัสตาร์ดนุ่มๆ",
+      "cefr": "B1",
+      "note_th": "custard = ครีมไข่กับนมที่ใช้เป็นไส้ขนม เช่น egg tart และ cream puff — สังขยาไทยอธิบายได้ว่า Thai coconut custard",
+      "distractors": [
+        "mustard",
+        "custody",
+        "crust"
+      ]
+    },
+    {
+      "id": "macaron",
+      "word": "macaron",
+      "pos": "noun",
+      "ipa": "/ˌmækəˈrɑːn/",
+      "reading_th": "มา-กา-รง",
+      "meaning_th": "มาการอง",
+      "emoji": "🩷",
+      "example_en": "Each macaron costs almost a hundred baht.",
+      "example_th": "มาการองชิ้นละเกือบร้อยบาท",
+      "cefr": "B1",
+      "note_th": "macaron (ฝรั่งเศส) = ขนมเปลือกกรอบสีสันสดใส ส่วน macaroon คือขนมมะพร้าว — ออกเสียงฝรั่งเศสว่า มา-กา-รง",
+      "distractors": [
+        "macaroon",
+        "macaroni",
+        "macramé"
+      ]
+    },
+    {
+      "id": "tart",
+      "word": "tart",
+      "pos": "noun",
+      "ipa": "/tɑːrt/",
+      "reading_th": "ทาร์ต",
+      "meaning_th": "ทาร์ต",
+      "emoji": "🥧",
+      "example_en": "The lemon tart is sour in a good way.",
+      "example_th": "เลมอนทาร์ตเปรี้ยวแบบกำลังดี",
+      "cefr": "A2",
+      "note_th": "tart = พายเปิดหน้า ไม่มีแป้งปิดด้านบน (egg tart, fruit tart) ส่วน pie มีฝาปิด — tart เป็น adjective แปลว่าเปรี้ยวก็ได้",
+      "distractors": [
+        "tartar",
+        "start",
+        "dart"
+      ]
+    },
+    {
+      "id": "mousse",
+      "word": "mousse",
+      "pos": "noun",
+      "ipa": "/muːs/",
+      "reading_th": "มูส",
+      "meaning_th": "มูส (ขนมเนื้อฟูนุ่ม)",
+      "emoji": "🍫",
+      "example_en": "The chocolate mousse melts on your tongue.",
+      "example_th": "ช็อกโกแลตมูสละลายบนลิ้น",
+      "cefr": "B1",
+      "note_th": "mousse ออกเสียงเหมือน moose (กวางมูส) — เป็นของหวานฝรั่งเศสเนื้อเบาฟูจากวิปครีมหรือไข่ขาว และยังเป็นชื่อมูสจัดแต่งผมด้วย",
+      "distractors": [
+        "moose",
+        "mouse",
+        "mouth"
+      ]
+    },
+    {
+      "id": "pancake",
+      "word": "pancake",
+      "pos": "noun",
+      "ipa": "/ˈpænkeɪk/",
+      "reading_th": "แพน-เค้ก",
+      "meaning_th": "แพนเค้ก",
+      "emoji": "🥞",
+      "example_en": "A stack of pancakes with maple syrup, please.",
+      "example_th": "ขอแพนเค้กซ้อนกันราดเมเปิลไซรัปค่ะ",
+      "cefr": "A1",
+      "note_th": "แพนเค้กอเมริกันหนาฟู ส่วน crepe บางพับ — a stack of pancakes = แพนเค้กซ้อนหลายชั้น และ souffle pancake คือแบบญี่ปุ่นฟูนุ่ม",
+      "distractors": [
+        "cupcake",
+        "pan",
+        "frying pan"
+      ]
+    },
+    {
+      "id": "waffle",
+      "word": "waffle",
+      "pos": "noun",
+      "ipa": "/ˈwɑːfəl/",
+      "reading_th": "วอฟ-เฟิล",
+      "meaning_th": "วาฟเฟิล",
+      "emoji": "🧇",
+      "example_en": "The waffle is crispy outside and soft inside.",
+      "example_th": "วาฟเฟิลกรอบนอกนุ่มใน",
+      "cefr": "A1",
+      "note_th": "waffle ทำในพิมพ์ตาราง (waffle iron) — Belgian waffle เป็นแบบหนาช่องลึก และ waffle ยังเป็นกริยาแปลว่าพูดวกวนได้",
+      "distractors": [
+        "falafel",
+        "wobble",
+        "wafer"
+      ]
+    },
+    {
+      "id": "eclair",
+      "word": "eclair",
+      "pos": "noun",
+      "ipa": "/ɪˈkler/",
+      "reading_th": "เอ-แคลร์",
+      "meaning_th": "เอแคลร์",
+      "emoji": "🍩",
+      "example_en": "An eclair is filled with cream and topped with chocolate.",
+      "example_th": "เอแคลร์สอดไส้ครีมและราดช็อกโกแลตด้านบน",
+      "cefr": "B1",
+      "note_th": "eclair = ขนมแป้งชูยาวๆ ไส้ครีม หน้าช็อกโกแลต — เป็นเพสตรีฝรั่งเศสเช่นเดียวกับ cream puff (ลูกกลม)",
+      "distractors": [
+        "clear",
+        "cream puff",
+        "elixir"
+      ]
+    },
+    {
+      "id": "caramel",
+      "word": "caramel",
+      "pos": "noun",
+      "ipa": "/ˈkærəməl/",
+      "reading_th": "คา-รา-เมล",
+      "meaning_th": "คาราเมล",
+      "emoji": "🍮",
+      "example_en": "Drizzle the caramel over the pudding.",
+      "example_th": "ราดคาราเมลลงบนพุดดิ้ง",
+      "cefr": "A2",
+      "note_th": "caramel = น้ำตาลเคี่ยวจนเป็นสีน้ำตาล มีทั้ง caramel sauce และ salted caramel ที่ฮิตมาก — ออกเสียง คา-รา-เมล หรือ คาร์-เมล ก็ได้",
+      "distractors": [
+        "camel",
+        "carousel",
+        "vanilla"
+      ]
+    },
+    {
+      "id": "scoop",
+      "word": "scoop",
+      "pos": "noun",
+      "ipa": "/skuːp/",
+      "reading_th": "สกูป",
+      "meaning_th": "ไอศกรีมหนึ่งลูก (หนึ่งสกูป)",
+      "emoji": "🍨",
+      "example_en": "Two scoops of ice cream in a cup, please.",
+      "example_th": "ขอไอศกรีมสองลูกใส่ถ้วยค่ะ",
+      "cefr": "A2",
+      "note_th": "ไอศกรีมนับเป็น scoop: one scoop / two scoops — ที่ไทยมักพูดว่า \"ลูก\" และ scoop ยังเป็นกริยาแปลว่าตัก",
+      "distractors": [
+        "scope",
+        "scooter",
+        "soup"
+      ]
+    },
+    {
+      "id": "cone",
+      "word": "cone",
+      "pos": "noun",
+      "ipa": "/koʊn/",
+      "reading_th": "โคน",
+      "meaning_th": "โคน (กรวยไอศกรีม)",
+      "emoji": "🍦",
+      "example_en": "Would you like a cup or a cone?",
+      "example_th": "รับเป็นถ้วยหรือโคนดีคะ",
+      "cefr": "A1",
+      "note_th": "cone = กรวยไอศกรีมกินได้ ร้านจะถาม Cup or cone? — waffle cone กรอบหอม ส่วน sugar cone แบบธรรมดา",
+      "distractors": [
+        "corn",
+        "coin",
+        "cane"
+      ]
+    },
+    {
+      "id": "sundae",
+      "word": "sundae",
+      "pos": "noun",
+      "ipa": "/ˈsʌndeɪ/",
+      "reading_th": "ซัน-เดย์",
+      "meaning_th": "ซันเดย์ (ไอศกรีมราดซอสและท็อปปิง)",
+      "emoji": "🍨",
+      "example_en": "The chocolate sundae is big enough to share.",
+      "example_th": "ช็อกโกแลตซันเดย์ใหญ่พอแบ่งกันกิน",
+      "cefr": "A2",
+      "note_th": "sundae ออกเสียงเหมือน Sunday แต่สะกด -ae — คือไอศกรีมราดซอส ใส่วิปครีม ถั่ว เชอร์รี่ ที่แมคโดนัลด์ก็มี",
+      "distractors": [
+        "Sunday",
+        "sunny",
+        "sun"
+      ]
+    },
+    {
+      "id": "gelato",
+      "word": "gelato",
+      "pos": "noun",
+      "ipa": "/dʒəˈlɑːtoʊ/",
+      "reading_th": "เจ-ลา-โต้",
+      "meaning_th": "เจลาโต้ (ไอศกรีมอิตาเลียน)",
+      "emoji": "🍧",
+      "example_en": "Italian gelato has less fat than regular ice cream.",
+      "example_th": "เจลาโต้อิตาเลียนไขมันน้อยกว่าไอศกรีมทั่วไป",
+      "cefr": "B1",
+      "note_th": "gelato = ไอศกรีมสไตล์อิตาเลียน เนื้อแน่นเนียน อากาศน้อย — ร้านมักมีรส pistachio และ stracciatella ที่ฝรั่งชอบ",
+      "distractors": [
+        "gelatin",
+        "jello",
+        "gel"
+      ]
+    },
+    {
+      "id": "sorbet",
+      "word": "sorbet",
+      "pos": "noun",
+      "ipa": "/sɔːrˈbeɪ/",
+      "reading_th": "ซอร์-เบ",
+      "meaning_th": "ซอร์เบต์ (ไอศกรีมผลไม้ไม่มีนม)",
+      "emoji": "🍋",
+      "example_en": "Lemon sorbet is refreshing after a heavy meal.",
+      "example_th": "เลมอนซอร์เบต์สดชื่นหลังมื้อหนัก",
+      "cefr": "B1",
+      "note_th": "sorbet ไม่มีนมและไข่ จึงเป็นตัวเลือกของคน vegan และแพ้นม — ออกเสียง ซอร์-เบ ตัว t ไม่ออกเสียง",
+      "distractors": [
+        "sherbet",
+        "sober",
+        "sorbitol"
+      ]
+    },
+    {
+      "id": "popsicle",
+      "word": "popsicle",
+      "pos": "noun",
+      "ipa": "/ˈpɑːpsɪkəl/",
+      "reading_th": "ป็อป-ซิ-เคิล",
+      "meaning_th": "ไอติมแท่ง",
+      "emoji": "🍡",
+      "example_en": "Kids love a cold popsicle on hot days.",
+      "example_th": "เด็กๆ ชอบไอติมแท่งเย็นๆ ในวันร้อน",
+      "cefr": "A2",
+      "note_th": "popsicle (อเมริกัน) = ice lolly (อังกฤษ) = ไอติมแท่งเสียบไม้ — เป็นชื่อยี่ห้อที่กลายเป็นคำทั่วไป เหมือนแฟ้บหรือมาม่าของไทย",
+      "distractors": [
+        "pop",
+        "pumpkin",
+        "bicycle"
+      ]
+    },
+    {
+      "id": "vanilla",
+      "word": "vanilla",
+      "pos": "noun",
+      "ipa": "/vəˈnɪlə/",
+      "reading_th": "วา-นิล-ลา",
+      "meaning_th": "วานิลลา",
+      "emoji": "🍦",
+      "example_en": "Vanilla is still the most popular ice cream flavor.",
+      "example_th": "วานิลลายังเป็นรสไอศกรีมที่คนนิยมที่สุด",
+      "cefr": "A1",
+      "note_th": "สะกด vanilla มี ll — ในภาษาพูด vanilla ยังแปลว่า \"ธรรมดา ไม่มีอะไรพิเศษ\" เช่น a vanilla plan",
+      "distractors": [
+        "villa",
+        "villain",
+        "manila"
+      ]
+    },
+    {
+      "id": "strawberry",
+      "word": "strawberry",
+      "pos": "noun",
+      "ipa": "/ˈstrɔːberi/",
+      "reading_th": "สตรอ-เบอ-รี่",
+      "meaning_th": "สตรอว์เบอร์รี่",
+      "emoji": "🍓",
+      "example_en": "Strawberry season in Thailand is December to February.",
+      "example_th": "ฤดูสตรอว์เบอร์รี่ของไทยคือธันวาคมถึงกุมภาพันธ์",
+      "cefr": "A1",
+      "note_th": "พหูพจน์ strawberries (เปลี่ยน y เป็น ies) — ออกเสียง สตรอ-เบอ-รี่ ไม่มีเสียง ว และ strawberry shortcake คือเค้กยอดฮิตญี่ปุ่น",
+      "distractors": [
+        "blueberry",
+        "straw",
+        "raspberry"
+      ]
+    },
+    {
+      "id": "sprinkles",
+      "word": "sprinkles",
+      "pos": "noun",
+      "ipa": "/ˈsprɪŋkəlz/",
+      "reading_th": "สปริง-เคิลส์",
+      "meaning_th": "เม็ดน้ำตาลหลากสี (โรยหน้า)",
+      "emoji": "🎉",
+      "example_en": "My niece wants rainbow sprinkles on everything.",
+      "example_th": "หลานสาวฉันอยากได้เม็ดน้ำตาลสีรุ้งบนทุกอย่าง",
+      "cefr": "A2",
+      "note_th": "sprinkles = เม็ดน้ำตาลสีๆ โรยโดนัทและไอศกรีม ใช้รูปพหูพจน์เสมอ — กริยา sprinkle แปลว่าโรย",
+      "distractors": [
+        "sparkles",
+        "wrinkles",
+        "sprint"
+      ]
+    },
+    {
+      "id": "marshmallow",
+      "word": "marshmallow",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrʃmeloʊ/",
+      "reading_th": "มาร์ช-เมล-โล่",
+      "meaning_th": "มาร์ชเมลโลว์",
+      "emoji": "🔥",
+      "example_en": "We roasted marshmallows over the campfire.",
+      "example_th": "เราย่างมาร์ชเมลโลว์บนกองไฟ",
+      "cefr": "A2",
+      "note_th": "marshmallow = ขนมนุ่มฟูสีขาว ใส่ในโกโก้ร้อนหรือย่างไฟ — s'mores คือมาร์ชเมลโลว์ย่างประกบช็อกโกแลตกับแครกเกอร์",
+      "distractors": [
+        "marsh",
+        "mellow",
+        "meadow"
+      ]
+    },
+    {
+      "id": "gummy",
+      "word": "gummy",
+      "pos": "adjective",
+      "ipa": "/ˈɡʌmi/",
+      "reading_th": "กัม-มี่",
+      "meaning_th": "เยลลี่หนึบ (กัมมี่)",
+      "emoji": "🐻",
+      "example_en": "Gummy bears are my favorite candy.",
+      "example_th": "กัมมี่แบร์คือลูกอมที่ฉันชอบที่สุด",
+      "cefr": "A2",
+      "note_th": "gummy = เนื้อหนึบเหมือนหมากฝรั่ง ใช้กับขนมอย่าง gummy bears, gummy worms — และ gummy vitamins คือวิตามินแบบเคี้ยวหนึบ",
+      "distractors": [
+        "gum",
+        "yummy",
+        "dummy"
+      ]
+    },
+    {
+      "id": "lollipop",
+      "word": "lollipop",
+      "pos": "noun",
+      "ipa": "/ˈlɑːlipɑːp/",
+      "reading_th": "ลอล-ลิ-ป็อป",
+      "meaning_th": "อมยิ้ม",
+      "emoji": "🍭",
+      "example_en": "The dentist gave my son a sugar-free lollipop.",
+      "example_th": "หมอฟันให้อมยิ้มไม่มีน้ำตาลกับลูกชายฉัน",
+      "cefr": "A1",
+      "note_th": "lollipop = ลูกอมเสียบไม้ ที่ไทยเรียกอมยิ้ม — ชื่อย่อในภาษาพูดคือ lolly (อังกฤษ) ซึ่งหมายถึงลูกอมทั่วไปด้วย",
+      "distractors": [
+        "lolly",
+        "lipstick",
+        "pop"
+      ]
+    },
+    {
+      "id": "cocoa",
+      "word": "cocoa",
+      "pos": "noun",
+      "ipa": "/ˈkoʊkoʊ/",
+      "reading_th": "โค-โค่",
+      "meaning_th": "โกโก้",
+      "emoji": "🍫",
+      "example_en": "Hot cocoa with marshmallows warms you up.",
+      "example_th": "โกโก้ร้อนใส่มาร์ชเมลโลว์ทำให้อุ่นขึ้น",
+      "cefr": "A1",
+      "note_th": "cocoa = ผงโกโก้และเครื่องดื่มโกโก้ ส่วน cacao คือเมล็ดดิบ — ออกเสียง โค-โค่ ไม่ใช่ โค-โค-อา",
+      "distractors": [
+        "coconut",
+        "coca",
+        "cacao"
+      ]
+    },
+    {
+      "id": "shaved_ice",
+      "word": "shaved ice",
+      "pos": "noun",
+      "ipa": "/ˌʃeɪvd ˈaɪs/",
+      "reading_th": "เชฟด์ ไอซ์",
+      "meaning_th": "น้ำแข็งไส",
+      "emoji": "🍧",
+      "example_en": "Korean shaved ice comes with red beans and condensed milk.",
+      "example_th": "น้ำแข็งไสเกาหลีมาพร้อมถั่วแดงและนมข้น",
+      "cefr": "A2",
+      "note_th": "shaved ice = น้ำแข็งไสไทย บิงซู (bingsu) เกาหลี และ kakigori ญี่ปุ่น — shaved มี d เพราะแปลว่าถูกไส/โกนแล้ว",
+      "distractors": [
+        "ice cube",
+        "shave",
+        "snow cone"
+      ]
+    },
+    {
+      "id": "barista",
+      "word": "barista",
+      "pos": "noun",
+      "ipa": "/bəˈriːstə/",
+      "reading_th": "บา-ริส-ต้า",
+      "meaning_th": "บาริสต้า (คนชงกาแฟ)",
+      "emoji": "🧑‍🍳",
+      "example_en": "The barista remembers my order every morning.",
+      "example_th": "บาริสต้าจำออเดอร์ของฉันได้ทุกเช้า",
+      "cefr": "A2",
+      "note_th": "barista มาจากภาษาอิตาลี ใช้ได้ทั้งชายหญิง — ไม่ใช่ bartender ซึ่งเป็นคนชงเหล้าที่บาร์",
+      "distractors": [
+        "bartender",
+        "barrister",
+        "baker"
+      ]
+    },
+    {
+      "id": "coffee_shop",
+      "word": "coffee shop",
+      "pos": "noun",
+      "ipa": "/ˈkɔːfi ʃɑːp/",
+      "reading_th": "คอฟ-ฟี่ ช็อป",
+      "meaning_th": "ร้านกาแฟ",
+      "emoji": "🏬",
+      "example_en": "There's a new coffee shop near my office.",
+      "example_th": "มีร้านกาแฟเปิดใหม่ใกล้ออฟฟิศฉัน",
+      "cefr": "A1",
+      "note_th": "coffee shop และ café ใช้แทนกันได้ — คนไทยพูด \"คาเฟ่\" ทุกอย่าง แต่ฝรั่งมักใช้ coffee shop ถ้าร้านเน้นกาแฟ",
+      "distractors": [
+        "coffee table",
+        "workshop",
+        "shopping"
+      ]
+    },
+    {
+      "id": "loyalty_card",
+      "word": "loyalty card",
+      "pos": "noun",
+      "ipa": "/ˈlɔɪəlti kɑːrd/",
+      "reading_th": "ลอย-เยิล-ตี้ คาร์ด",
+      "meaning_th": "บัตรสะสมแต้ม",
+      "emoji": "🎫",
+      "example_en": "Stamp my loyalty card, please. One more for a free drink!",
+      "example_th": "ขอแสตมป์บัตรสะสมแต้มด้วยค่ะ อีกดวงเดียวได้แก้วฟรีแล้ว",
+      "cefr": "B1",
+      "note_th": "loyalty card = บัตรสะสมแต้ม/แสตมป์ของร้าน ส่วนบัตรสมาชิกห้างคือ member card — loyalty แปลว่าความภักดีต่อร้าน",
+      "distractors": [
+        "credit card",
+        "royalty card",
+        "gift card"
+      ]
+    },
+    {
+      "id": "for_here",
+      "word": "for here",
+      "pos": "phrase",
+      "ipa": "/fər ˈhɪr/",
+      "reading_th": "ฟอร์ เฮียร์",
+      "meaning_th": "ทานที่ร้าน",
+      "emoji": "🪑",
+      "example_en": "For here or to go? — For here, please.",
+      "example_th": "ทานที่นี่หรือกลับบ้าน — ทานที่นี่ค่ะ",
+      "cefr": "A1",
+      "note_th": "For here or to go? คือคำถามแรกที่พนักงานถามในอเมริกา — อังกฤษใช้ Eat in or take away? ตอบสั้นๆ ได้เลยว่า For here",
+      "distractors": [
+        "from here",
+        "over here",
+        "in here"
+      ]
+    },
+    {
+      "id": "to_go",
+      "word": "to go",
+      "pos": "phrase",
+      "ipa": "/tə ˈɡoʊ/",
+      "reading_th": "ทู โก",
+      "meaning_th": "ใส่กลับบ้าน (สั่งกลับ)",
+      "emoji": "🥡",
+      "example_en": "One iced latte to go, please.",
+      "example_th": "ขอลาเต้เย็นหนึ่งแก้วกลับบ้านค่ะ",
+      "cefr": "A1",
+      "note_th": "to go วางท้ายออเดอร์ = ซื้อกลับ (อเมริกัน) ส่วนอังกฤษพูด takeaway — a to-go cup คือแก้วกระดาษแบบถือไป",
+      "distractors": [
+        "to get",
+        "let's go",
+        "to come"
+      ]
+    },
+    {
+      "id": "refill",
+      "word": "refill",
+      "pos": "noun",
+      "ipa": "/ˈriːfɪl/",
+      "reading_th": "รี-ฟิล",
+      "meaning_th": "เติม (เครื่องดื่ม) อีกครั้ง",
+      "emoji": "🔄",
+      "example_en": "Is the coffee refill free here?",
+      "example_th": "ที่นี่เติมกาแฟฟรีไหม",
+      "cefr": "A2",
+      "note_th": "free refills = เติมได้ไม่จำกัด (พบในร้านอเมริกัน) — ใช้เป็นกริยาได้ด้วย Could you refill my water?",
+      "distractors": [
+        "refund",
+        "fulfill",
+        "refuel"
+      ]
+    },
+    {
+      "id": "mug",
+      "word": "mug",
+      "pos": "noun",
+      "ipa": "/mʌɡ/",
+      "reading_th": "มัก",
+      "meaning_th": "แก้วมัก (แก้วมีหูใบใหญ่)",
+      "emoji": "☕",
+      "example_en": "Bring your own mug and get ten baht off.",
+      "example_th": "นำแก้วมักมาเองลดสิบบาท",
+      "cefr": "A1",
+      "note_th": "mug = แก้วเซรามิกใบใหญ่มีหู ส่วน cup เล็กกว่ามีจานรอง — a mug of coffee ให้ความรู้สึกสบายๆ ที่บ้าน",
+      "distractors": [
+        "mud",
+        "bug",
+        "jug"
+      ]
+    },
+    {
+      "id": "tumbler",
+      "word": "tumbler",
+      "pos": "noun",
+      "ipa": "/ˈtʌmblər/",
+      "reading_th": "ทัม-เบลอร์",
+      "meaning_th": "แก้วเก็บอุณหภูมิ (แก้วพกพา)",
+      "emoji": "🥤",
+      "example_en": "My tumbler keeps the coffee hot for hours.",
+      "example_th": "แก้วเก็บอุณหภูมิของฉันทำให้กาแฟร้อนได้หลายชั่วโมง",
+      "cefr": "B1",
+      "note_th": "tumbler ในไทยหมายถึงแก้วพกพาเก็บอุณหภูมิ (Starbucks tumbler) — ฝรั่งอาจพูดว่า travel mug หรือ reusable cup ด้วย",
+      "distractors": [
+        "tumble",
+        "thimble",
+        "blender"
+      ]
+    },
+    {
+      "id": "saucer",
+      "word": "saucer",
+      "pos": "noun",
+      "ipa": "/ˈsɔːsər/",
+      "reading_th": "ซอ-เซอร์",
+      "meaning_th": "จานรองแก้ว",
+      "emoji": "🍽️",
+      "example_en": "The hot tea came in a cup with a saucer.",
+      "example_th": "ชาร้อนเสิร์ฟในถ้วยพร้อมจานรอง",
+      "cefr": "B1",
+      "note_th": "a cup and saucer = ถ้วยพร้อมจานรอง — ออกเสียง ซอ-เซอร์ ไม่ใช่ ซอส-เซอร์ และ flying saucer คือจานบิน",
+      "distractors": [
+        "sauce",
+        "source",
+        "soccer"
+      ]
+    },
+    {
+      "id": "regular",
+      "word": "regular",
+      "pos": "noun",
+      "ipa": "/ˈreɡjələr/",
+      "reading_th": "เร็ก-กิว-ลาร์",
+      "meaning_th": "ลูกค้าประจำ",
+      "emoji": "🙋",
+      "example_en": "He's a regular, he comes in every single day.",
+      "example_th": "เขาเป็นลูกค้าประจำ มาทุกวันเลย",
+      "cefr": "B1",
+      "note_th": "regular เป็นคำนาม = ขาประจำ และเป็นคุณศัพท์ = ขนาดปกติ (a regular latte) — regular customer ก็ใช้ได้",
+      "distractors": [
+        "regularly",
+        "rectangular",
+        "register"
+      ]
+    },
+    {
+      "id": "brunch",
+      "word": "brunch",
+      "pos": "noun",
+      "ipa": "/brʌntʃ/",
+      "reading_th": "บรันช์",
+      "meaning_th": "มื้อสายควบเที่ยง (บรันช์)",
+      "emoji": "🍳",
+      "example_en": "Let's do brunch at that new café on Sunday.",
+      "example_th": "วันอาทิตย์ไปกินบรันช์ที่คาเฟ่ใหม่กันเถอะ",
+      "cefr": "A2",
+      "note_th": "brunch = breakfast + lunch มื้อสายๆ วันหยุด — คาเฟ่ไทยมีเมนู brunch เช่น eggs Benedict และ avocado toast",
+      "distractors": [
+        "branch",
+        "bunch",
+        "lunch"
+      ]
+    },
+    {
+      "id": "menu_board",
+      "word": "menu board",
+      "pos": "noun",
+      "ipa": "/ˈmenjuː bɔːrd/",
+      "reading_th": "เม-นู บอร์ด",
+      "meaning_th": "ป้ายเมนูหน้าเคาน์เตอร์",
+      "emoji": "📋",
+      "example_en": "The prices are on the menu board above the counter.",
+      "example_th": "ราคาอยู่บนป้ายเมนูเหนือเคาน์เตอร์",
+      "cefr": "A2",
+      "note_th": "menu board = ป้ายเมนูติดผนัง/กระดานดำ ที่ร้านกาแฟมักเขียนด้วยชอล์ก — ถ้าเป็นเล่มที่ถือดูคือ menu เฉยๆ",
+      "distractors": [
+        "billboard",
+        "keyboard",
+        "menu bar"
+      ]
+    },
+    {
+      "id": "lid",
+      "word": "lid",
+      "pos": "noun",
+      "ipa": "/lɪd/",
+      "reading_th": "ลิด",
+      "meaning_th": "ฝาแก้ว / ฝาปิด",
+      "emoji": "🥤",
+      "example_en": "Can I get a lid for this cup?",
+      "example_th": "ขอฝาปิดแก้วนี้ได้ไหม",
+      "cefr": "A2",
+      "note_th": "lid = ฝาแบบวางปิด (แก้วกาแฟ กล่อง หม้อ) ส่วน cap = ฝาเกลียวขวด — sippy lid คือฝายกดื่มไม่ต้องใช้หลอด",
+      "distractors": [
+        "lip",
+        "led",
+        "kid"
+      ]
+    },
+    {
+      "id": "cafe_hopping",
+      "word": "café hopping",
+      "pos": "noun",
+      "ipa": "/kæˈfeɪ ˌhɑːpɪŋ/",
+      "reading_th": "คา-เฟ่ ฮ็อป-ปิง",
+      "meaning_th": "ตระเวนคาเฟ่",
+      "emoji": "🗺️",
+      "example_en": "We went café hopping in Chiang Mai all weekend.",
+      "example_th": "เราตระเวนคาเฟ่ที่เชียงใหม่ทั้งสุดสัปดาห์",
+      "cefr": "B1",
+      "note_th": "hopping = กระโดดจากที่หนึ่งไปอีกที่ ใช้กับ café hopping, bar hopping, island hopping — เป็นกิจกรรมยอดฮิตของคนไทยและ #cafehopping",
+      "distractors": [
+        "hiking",
+        "shopping",
+        "bar hopping"
+      ]
+    },
+    {
+      "id": "sweetness_level",
+      "word": "sweetness level",
+      "pos": "noun",
+      "ipa": "/ˈswiːtnəs ˌlevəl/",
+      "reading_th": "สวีท-เนส เล-เวิล",
+      "meaning_th": "ระดับความหวาน",
+      "emoji": "📊",
+      "example_en": "What sweetness level would you like, 50 or 100?",
+      "example_th": "รับระดับความหวานเท่าไหร่ดีคะ 50 หรือ 100",
+      "cefr": "A2",
+      "note_th": "ร้านชานมถามว่า sweetness level? ตอบเป็นเปอร์เซ็นต์ได้เลย: 25%, 50%, 100% — sweetness เป็นคำนามของ sweet",
+      "distractors": [
+        "sweet tooth",
+        "sugar level",
+        "sweetener"
+      ]
+    },
+    {
+      "id": "extra_shot",
+      "word": "extra shot",
+      "pos": "phrase",
+      "ipa": "/ˌekstrə ˈʃɑːt/",
+      "reading_th": "เอ็กซ์-ตร้า ช็อต",
+      "meaning_th": "เพิ่มช็อตกาแฟ",
+      "emoji": "➕",
+      "example_en": "Can I add an extra shot to my latte?",
+      "example_th": "ขอเพิ่มช็อตในลาเต้ได้ไหม",
+      "cefr": "A2",
+      "note_th": "extra shot = เพิ่มเอสเพรสโซอีกหนึ่งช็อต มักคิดเพิ่ม 10–15 บาท — extra ใช้นำหน้าได้ทุกอย่าง: extra ice, extra cheese",
+      "distractors": [
+        "extra ice",
+        "big shot",
+        "double"
+      ]
+    },
+    {
+      "id": "less_ice",
+      "word": "less ice",
+      "pos": "phrase",
+      "ipa": "/ˌles ˈaɪs/",
+      "reading_th": "เลส ไอซ์",
+      "meaning_th": "น้ำแข็งน้อย",
+      "emoji": "🧊",
+      "example_en": "Iced americano with less ice, please.",
+      "example_th": "ขออเมริกาโนเย็นน้ำแข็งน้อยค่ะ",
+      "cefr": "A1",
+      "note_th": "น้ำแข็งน้อย = less ice ไม่ใส่น้ำแข็ง = no ice น้ำแข็งเยอะ = extra ice — น้ำแข็งนับไม่ได้จึงใช้ less ไม่ใช่ fewer",
+      "distractors": [
+        "no ice",
+        "less sweet",
+        "iced"
+      ]
+    },
+    {
+      "id": "half_sweet",
+      "word": "half sweet",
+      "pos": "phrase",
+      "ipa": "/ˌhæf ˈswiːt/",
+      "reading_th": "ฮาล์ฟ สวีท",
+      "meaning_th": "หวานครึ่งเดียว (หวาน 50%)",
+      "emoji": "🧋",
+      "example_en": "I always order my milk tea half sweet.",
+      "example_th": "ฉันสั่งชานมหวานครึ่งเดียวเสมอ",
+      "cefr": "A2",
+      "note_th": "half sweet = หวาน 50% เป็นคำสั้นๆ ที่ร้านชานมเข้าใจทันที — ถ้าร้านใช้ระบบเปอร์เซ็นต์ก็พูดว่า fifty percent sugar",
+      "distractors": [
+        "half price",
+        "semi-sweet",
+        "half full"
+      ]
+    },
+    {
+      "id": "smooth",
+      "word": "smooth",
+      "pos": "adjective",
+      "ipa": "/smuːð/",
+      "reading_th": "สมูธ",
+      "meaning_th": "นุ่มละมุน / เนียน",
+      "emoji": "🫧",
+      "example_en": "This cold brew is really smooth, not bitter at all.",
+      "example_th": "กาแฟสกัดเย็นแก้วนี้นุ่มละมุนมาก ไม่ขมเลย",
+      "cefr": "B1",
+      "note_th": "smooth ใช้ชมกาแฟ/เหล้าที่ดื่มง่าย ไม่บาดคอ และบรรยายเนื้อสัมผัสเนียน — smoothie ก็มาจากคำนี้",
+      "distractors": [
+        "smoothie",
+        "smash",
+        "soothe"
+      ]
+    },
+    {
+      "id": "frothy",
+      "word": "frothy",
+      "pos": "adjective",
+      "ipa": "/ˈfrɔːθi/",
+      "reading_th": "ฟรอ-ธี่",
+      "meaning_th": "มีฟองเยอะ (ฟองละเอียด)",
+      "emoji": "🫧",
+      "example_en": "I like my cappuccino extra frothy.",
+      "example_th": "ฉันชอบคาปูชิโนฟองเยอะเป็นพิเศษ",
+      "cefr": "B2",
+      "note_th": "froth = ฟองละเอียดบนกาแฟ frothy = มีฟองเยอะ — เครื่องตีฟองนมคือ milk frother ที่คนทำกาแฟที่บ้านนิยมซื้อ",
+      "distractors": [
+        "filthy",
+        "frosty",
+        "foamy"
+      ]
+    },
+    {
+      "id": "milky",
+      "word": "milky",
+      "pos": "adjective",
+      "ipa": "/ˈmɪlki/",
+      "reading_th": "มิล-กี้",
+      "meaning_th": "นมเยอะ / รสนม",
+      "emoji": "🥛",
+      "example_en": "Thai tea is sweet and milky.",
+      "example_th": "ชาไทยหวานและรสนมเข้ม",
+      "cefr": "A2",
+      "note_th": "milky = รสนมนำ เช่น milky tea ส่วน too milky = นมเยอะไปจนกลบกาแฟ — the Milky Way คือทางช้างเผือก",
+      "distractors": [
+        "silky",
+        "milk",
+        "mild"
+      ]
+    },
+    {
+      "id": "aromatic",
+      "word": "aromatic",
+      "pos": "adjective",
+      "ipa": "/ˌærəˈmætɪk/",
+      "reading_th": "แอ-โร-แม-ติก",
+      "meaning_th": "หอมกรุ่น (กลิ่นหอม)",
+      "emoji": "👃",
+      "example_en": "Freshly ground beans make the coffee more aromatic.",
+      "example_th": "เมล็ดกาแฟบดสดทำให้กาแฟหอมกรุ่นยิ่งขึ้น",
+      "cefr": "B2",
+      "note_th": "aroma = กลิ่นหอม (คำนาม) aromatic = หอม (คุณศัพท์) ใช้กับกาแฟ ชา เครื่องเทศ — ข้าวหอมมะลิคือ aromatic rice",
+      "distractors": [
+        "automatic",
+        "aroma",
+        "romantic"
+      ]
+    },
+    {
+      "id": "nutty",
+      "word": "nutty",
+      "pos": "adjective",
+      "ipa": "/ˈnʌti/",
+      "reading_th": "นัท-ตี้",
+      "meaning_th": "รสถั่ว / หอมถั่ว",
+      "emoji": "🥜",
+      "example_en": "This coffee has a nutty, chocolate flavor.",
+      "example_th": "กาแฟตัวนี้มีรสหอมถั่วและช็อกโกแลต",
+      "cefr": "B2",
+      "note_th": "nutty เป็นคำบรรยายกาแฟและชาที่เจอบนถุงเมล็ด: nutty, fruity, floral — ในภาษาพูด nutty ยังแปลว่าเพี้ยน บ้าๆ",
+      "distractors": [
+        "naughty",
+        "nutrient",
+        "nasty"
+      ]
+    },
+    {
+      "id": "sweet_tooth",
+      "word": "sweet tooth",
+      "pos": "noun",
+      "ipa": "/ˌswiːt ˈtuːθ/",
+      "reading_th": "สวีท ทูธ",
+      "meaning_th": "ความชอบของหวาน (คนขี้หวาน)",
+      "emoji": "🦷",
+      "example_en": "I have a sweet tooth, so I always order dessert.",
+      "example_th": "ฉันเป็นคนชอบของหวาน เลยสั่งของหวานทุกครั้ง",
+      "cefr": "B1",
+      "note_th": "have a sweet tooth = ชอบกินของหวาน (ขี้หวาน) ใช้ tooth เอกพจน์เสมอ — ตรงข้ามคือ I'm not a dessert person",
+      "distractors": [
+        "sweet teeth",
+        "sweetheart",
+        "toothache"
+      ]
+    },
+    {
+      "id": "fizzy",
+      "word": "fizzy",
+      "pos": "adjective",
+      "ipa": "/ˈfɪzi/",
+      "reading_th": "ฟิซ-ซี่",
+      "meaning_th": "ซ่า / มีฟองก๊าซ",
+      "emoji": "🥤",
+      "example_en": "The lemon soda is nice and fizzy.",
+      "example_th": "โซดามะนาวซ่ากำลังดี",
+      "cefr": "A2",
+      "note_th": "fizzy drinks = น้ำอัดลม (อังกฤษ) อเมริกันพูด soda หรือ sparkling — โซดาหมดซ่าแล้วพูดว่า it's gone flat",
+      "distractors": [
+        "dizzy",
+        "fuzzy",
+        "busy"
+      ]
+    },
+    {
+      "id": "chilled",
+      "word": "chilled",
+      "pos": "adjective",
+      "ipa": "/tʃɪld/",
+      "reading_th": "ชิลด์",
+      "meaning_th": "แช่เย็น",
+      "emoji": "❄️",
+      "example_en": "Serve the dessert chilled, not frozen.",
+      "example_th": "เสิร์ฟของหวานแบบแช่เย็น ไม่ใช่แช่แข็ง",
+      "cefr": "B1",
+      "note_th": "chilled = แช่เย็นให้เย็นฉ่ำ (ไม่ใส่น้ำแข็ง) ต่างจาก iced ที่ใส่น้ำแข็ง และ frozen = แช่แข็ง — chill ในภาษาพูดแปลว่าชิลๆ ด้วย",
+      "distractors": [
+        "child",
+        "chili",
+        "chilly"
+      ]
+    },
+    {
+      "id": "room_temperature",
+      "word": "room temperature",
+      "pos": "noun",
+      "ipa": "/ˌruːm ˈtemprətʃər/",
+      "reading_th": "รูม เท็ม-เพอ-ระ-เจอร์",
+      "meaning_th": "อุณหภูมิห้อง (ไม่ร้อนไม่เย็น)",
+      "emoji": "🌡️",
+      "example_en": "Could I have water at room temperature, please?",
+      "example_th": "ขอน้ำเปล่าอุณหภูมิห้องได้ไหมคะ",
+      "cefr": "B1",
+      "note_th": "น้ำเปล่าไม่เย็น = room temperature water — จำเป็นมากในต่างประเทศเพราะร้านมักเสิร์ฟน้ำใส่น้ำแข็งเป็นค่าเริ่มต้น",
+      "distractors": [
+        "body temperature",
+        "room service",
+        "room number"
+      ]
+    },
+    {
+      "id": "refreshing",
+      "word": "refreshing",
+      "pos": "adjective",
+      "ipa": "/rɪˈfreʃɪŋ/",
+      "reading_th": "รี-เฟรช-ชิง",
+      "meaning_th": "สดชื่น (ดื่มแล้วชื่นใจ)",
+      "emoji": "🍋",
+      "example_en": "An iced lemon tea is so refreshing on a hot day.",
+      "example_th": "ชามะนาวเย็นๆ สดชื่นมากในวันร้อน",
+      "cefr": "B1",
+      "note_th": "refreshing ใช้ชมเครื่องดื่มที่ดื่มแล้วชื่นใจ และใช้กับความคิดใหม่ๆ ได้ (a refreshing change) — refreshments = ของว่างและเครื่องดื่มในงาน",
+      "distractors": [
+        "refreshment",
+        "fresh",
+        "refreshed"
+      ]
+    }
+  ]
+}

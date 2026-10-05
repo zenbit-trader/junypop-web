@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "driving_cars",
+    "name_en": "Driving & Cars",
+    "name_th": "รถยนต์และการขับขี่",
+    "emoji": "🚗",
+    "color_start": "#67E8F9",
+    "color_end": "#0E7490",
+    "description_th": "เช่ารถ ขับรถต่างประเทศ ป้ายจราจร ปั๊มน้ำมัน และคุยกับช่างตอนรถเสีย",
+    "mascot_costume": "traveler",
+    "lessons": [
+      {
+        "id": "driving_cars_1",
+        "title_en": "Parts of a Car",
+        "title_th": "ส่วนประกอบของรถ",
+        "emoji": "🚘",
+        "word_ids": [
+          "brake",
+          "gas_pedal",
+          "clutch",
+          "gear",
+          "windshield",
+          "wiper",
+          "headlight",
+          "bumper",
+          "hood",
+          "tire",
+          "side_mirror",
+          "speedometer",
+          "engine",
+          "horn"
+        ]
+      },
+      {
+        "id": "driving_cars_2",
+        "title_en": "On the Road",
+        "title_th": "บนท้องถนน",
+        "emoji": "🛣️",
+        "word_ids": [
+          "steer",
+          "turn_signal",
+          "merge",
+          "highway",
+          "exit_ramp",
+          "blind_spot",
+          "tailgate",
+          "reverse",
+          "dead_end",
+          "bend",
+          "cruise_control",
+          "change_lanes",
+          "hazard_lights",
+          "high_beam"
+        ]
+      },
+      {
+        "id": "driving_cars_3",
+        "title_en": "Signs & Rules",
+        "title_th": "ป้ายจราจรและกฎ",
+        "emoji": "🛑",
+        "word_ids": [
+          "road_sign",
+          "stop_sign",
+          "wrong_way",
+          "no_parking",
+          "give_way",
+          "school_zone",
+          "run_a_red_light",
+          "traffic_fine",
+          "drivers_license",
+          "drunk_driving",
+          "speeding_ticket",
+          "right_of_way",
+          "no_overtaking",
+          "drive_on_the_left"
+        ]
+      },
+      {
+        "id": "driving_cars_4",
+        "title_en": "Renting a Car",
+        "title_th": "เช่ารถและประกัน",
+        "emoji": "🔑",
+        "word_ids": [
+          "rental_agreement",
+          "automatic",
+          "manual",
+          "unlimited_mileage",
+          "full_coverage",
+          "excess",
+          "scratched",
+          "dent",
+          "fuel_policy",
+          "international_driving_permit",
+          "additional_driver",
+          "child_seat",
+          "gps",
+          "drop_off_location"
+        ]
+      },
+      {
+        "id": "driving_cars_5",
+        "title_en": "Fuel & Parking",
+        "title_th": "เติมน้ำมัน ชาร์จ และจอดรถ",
+        "emoji": "⛽",
+        "word_ids": [
+          "fill_up",
+          "petrol",
+          "diesel",
+          "fuel_gauge",
+          "run_out_of_gas",
+          "pump",
+          "electric_car",
+          "charging_station",
+          "charge",
+          "fast_charger",
+          "charging_cable",
+          "parallel_parking",
+          "valet_parking",
+          "car_wash"
+        ]
+      },
+      {
+        "id": "driving_cars_6",
+        "title_en": "At the Mechanic",
+        "title_th": "รถเสียและอู่ซ่อม",
+        "emoji": "🔧",
+        "word_ids": [
+          "mechanic",
+          "auto_repair_shop",
+          "wont_start",
+          "jump_start",
+          "dead_battery",
+          "radiator",
+          "engine_light",
+          "oil_change",
+          "stall",
+          "puncture",
+          "brake_pad",
+          "tire_pressure",
+          "roadside_assistance",
+          "tow"
+        ]
+      },
+      {
+        "id": "driving_cars_7",
+        "title_en": "Accidents & Police",
+        "title_th": "อุบัติเหตุและด่านตำรวจ",
+        "emoji": "🚔",
+        "word_ids": [
+          "rear_end",
+          "pile_up",
+          "fender_bender",
+          "skid",
+          "dashcam",
+          "airbag",
+          "checkpoint",
+          "registration",
+          "breathalyzer",
+          "insurance_claim",
+          "at_fault",
+          "hit_and_run",
+          "road_rage",
+          "exchange_details"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "brake",
+      "word": "brake",
+      "pos": "noun",
+      "ipa": "/breɪk/",
+      "reading_th": "เบรค",
+      "meaning_th": "เบรก",
+      "emoji": "🦶",
+      "example_en": "Press the brake gently when the road is wet.",
+      "example_th": "เหยียบเบรกเบาๆ ตอนถนนเปียก",
+      "cefr": "A2",
+      "note_th": "ออกเสียงเหมือน break (พัง/พัก) เป๊ะ แต่สะกดต่างกัน — เหยียบเบรก = hit the brakes / brake (กริยา) และเบรกมือคือ handbrake หรือ parking brake",
+      "distractors": [
+        "break",
+        "bake",
+        "brick"
+      ]
+    },
+    {
+      "id": "gas_pedal",
+      "word": "gas pedal",
+      "pos": "noun",
+      "ipa": "/ˈɡæs ˌpedl/",
+      "reading_th": "แก๊ส เพ-เดิล",
+      "meaning_th": "คันเร่ง",
+      "emoji": "🏎️",
+      "example_en": "Your foot should hover over the gas pedal, not rest on it.",
+      "example_th": "เท้าควรแตะเหนือคันเร่ง ไม่ใช่วางทับไว้",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก gas pedal อังกฤษเรียก accelerator — เหยียบคันเร็ว = step on the gas / hit the gas และ pedal คือแป้นเหยียบทุกชนิด รวมถึงจักรยาน",
+      "distractors": [
+        "gas station",
+        "bike pedal",
+        "gas tank"
+      ]
+    },
+    {
+      "id": "clutch",
+      "word": "clutch",
+      "pos": "noun",
+      "ipa": "/klʌtʃ/",
+      "reading_th": "คลัทช์",
+      "meaning_th": "คลัตช์",
+      "emoji": "⚙️",
+      "example_en": "Release the clutch slowly or the car will jump.",
+      "example_th": "ปล่อยคลัตช์ช้าๆ ไม่งั้นรถจะกระตุก",
+      "cefr": "B1",
+      "note_th": "แป้นซ้ายสุดในรถเกียร์ธรรมดา ออกเสียง คลัทช์ — เป็นกริยาแปลว่ากำแน่น และในภาษาเกม clutch = พลิกชนะตอนจวนตัว",
+      "distractors": [
+        "crutch",
+        "catch",
+        "clue"
+      ]
+    },
+    {
+      "id": "gear",
+      "word": "gear",
+      "pos": "noun",
+      "ipa": "/ɡɪr/",
+      "reading_th": "เกียร์",
+      "meaning_th": "เกียร์รถ",
+      "emoji": "🔩",
+      "example_en": "Shift to a lower gear before you go down the hill.",
+      "example_th": "เปลี่ยนเป็นเกียร์ต่ำก่อนลงเขา",
+      "cefr": "A2",
+      "note_th": "เปลี่ยนเกียร์ = change gear / shift gears เกียร์ว่าง = neutral เกียร์ถอย = reverse — gear ยังแปลว่าอุปกรณ์ เช่น camping gear ด้วย",
+      "distractors": [
+        "cheer",
+        "deer",
+        "beer"
+      ]
+    },
+    {
+      "id": "windshield",
+      "word": "windshield",
+      "pos": "noun",
+      "ipa": "/ˈwɪndʃiːld/",
+      "reading_th": "วินด์-ชีลด์",
+      "meaning_th": "กระจกหน้ารถ",
+      "emoji": "🪟",
+      "example_en": "A stone cracked my windshield on the highway.",
+      "example_th": "หินกระเด็นมาทำกระจกหน้ารถฉันร้าวบนทางหลวง",
+      "cefr": "B1",
+      "note_th": "wind = ลม shield = โล่ กันลม — อเมริกันใช้ windshield อังกฤษใช้ windscreen และกระจกบังลมหลังคือ rear window",
+      "distractors": [
+        "windmill",
+        "shield",
+        "wind chime"
+      ]
+    },
+    {
+      "id": "wiper",
+      "word": "wiper",
+      "pos": "noun",
+      "ipa": "/ˈwaɪpər/",
+      "reading_th": "ไว-เพอร์",
+      "meaning_th": "ที่ปัดน้ำฝน",
+      "emoji": "🌧️",
+      "example_en": "Turn the wiper on, I can hardly see the road.",
+      "example_th": "เปิดที่ปัดน้ำฝนหน่อย ฉันแทบมองไม่เห็นถนน",
+      "cefr": "B1",
+      "note_th": "มาจาก wipe = เช็ด มักพูดพหูพจน์ windshield wipers เพราะมีสองอัน — ยางปัดน้ำฝนคือ wiper blade เปลี่ยนก่อนหน้าฝนทุกปี",
+      "distractors": [
+        "viper",
+        "wipe",
+        "whisper"
+      ]
+    },
+    {
+      "id": "headlight",
+      "word": "headlight",
+      "pos": "noun",
+      "ipa": "/ˈhedlaɪt/",
+      "reading_th": "เฮด-ไลท์",
+      "meaning_th": "ไฟหน้ารถ",
+      "emoji": "💡",
+      "example_en": "One headlight is out, so the police may stop you.",
+      "example_th": "ไฟหน้าดับไปข้างหนึ่ง ตำรวจอาจเรียกคุณได้",
+      "cefr": "A2",
+      "note_th": "ไฟหน้า headlights ไฟท้าย taillights ไฟเบรก brake lights — สำนวน like a deer in the headlights = ตกใจจนตัวแข็งทำอะไรไม่ถูก",
+      "distractors": [
+        "headline",
+        "flashlight",
+        "headphone"
+      ]
+    },
+    {
+      "id": "bumper",
+      "word": "bumper",
+      "pos": "noun",
+      "ipa": "/ˈbʌmpər/",
+      "reading_th": "บัม-เพอร์",
+      "meaning_th": "กันชน",
+      "emoji": "🚙",
+      "example_en": "Someone hit my bumper in the parking lot and drove off.",
+      "example_th": "มีคนชนกันชนรถฉันในลานจอดแล้วขับหนีไป",
+      "cefr": "B1",
+      "note_th": "bump = ชนเบาๆ กันชนรับการชน — สติกเกอร์ท้ายรถคือ bumper sticker และ bumper to bumper = รถติดจนกันชนชิดกัน",
+      "distractors": [
+        "jumper",
+        "bump",
+        "pumper"
+      ]
+    },
+    {
+      "id": "hood",
+      "word": "hood",
+      "pos": "noun",
+      "ipa": "/hʊd/",
+      "reading_th": "ฮูด",
+      "meaning_th": "ฝากระโปรงหน้ารถ",
+      "emoji": "🚗",
+      "example_en": "Open the hood so the mechanic can check the engine.",
+      "example_th": "เปิดฝากระโปรงหน้าให้ช่างตรวจเครื่องยนต์",
+      "cefr": "B1",
+      "note_th": "อเมริกันเรียก hood อังกฤษเรียก bonnet — กระโปรงหลังอเมริกันเรียก trunk อังกฤษเรียก boot เช่ารถที่ไหนก็ควรรู้ทั้งคู่ และ hood ยังแปลว่าฮู้ดเสื้อ",
+      "distractors": [
+        "hook",
+        "wood",
+        "hoodie"
+      ]
+    },
+    {
+      "id": "tire",
+      "word": "tire",
+      "pos": "noun",
+      "ipa": "/ˈtaɪər/",
+      "reading_th": "ไท-เออร์",
+      "meaning_th": "ยางรถ",
+      "emoji": "🛞",
+      "example_en": "Check every tire before a long drive.",
+      "example_th": "ตรวจยางทุกเส้นก่อนขับทางไกล",
+      "cefr": "A2",
+      "note_th": "อเมริกันสะกด tire อังกฤษสะกด tyre ออกเสียงเหมือนกัน — ออกเสียงเหมือน tired (เหนื่อย) ตัดด้วย เปลี่ยนยาง = change a tire",
+      "distractors": [
+        "tired",
+        "tie",
+        "tier"
+      ]
+    },
+    {
+      "id": "side_mirror",
+      "word": "side mirror",
+      "pos": "noun",
+      "ipa": "/ˈsaɪd ˌmɪrər/",
+      "reading_th": "ไซด์ มิ-เรอร์",
+      "meaning_th": "กระจกมองข้าง",
+      "emoji": "🪞",
+      "example_en": "Fold the side mirror in when you park on a narrow street.",
+      "example_th": "พับกระจกมองข้างเข้าเมื่อจอดในซอยแคบ",
+      "cefr": "A2",
+      "note_th": "กระจกมองข้าง side mirror หรือ wing mirror (อังกฤษ) กระจกมองหลัง rearview mirror — ปรับกระจก = adjust the mirrors ทำก่อนออกรถเสมอ",
+      "distractors": [
+        "rearview mirror",
+        "side door",
+        "sideways"
+      ]
+    },
+    {
+      "id": "speedometer",
+      "word": "speedometer",
+      "pos": "noun",
+      "ipa": "/spiˈdɑːmɪtər/",
+      "reading_th": "สปี-ดอ-มิ-เทอร์",
+      "meaning_th": "มาตรวัดความเร็ว",
+      "emoji": "⏲️",
+      "example_en": "Keep an eye on the speedometer near the school.",
+      "example_th": "คอยดูมาตรวัดความเร็วตอนขับผ่านโรงเรียน",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์ที่สอง spee-DOM-eter ไม่ใช่ สปีด-มิ-เตอร์ — มาตรวัดระยะทางคือ odometer และหน้าปัดทั้งหมดเรียก dashboard",
+      "distractors": [
+        "thermometer",
+        "odometer",
+        "speed camera"
+      ]
+    },
+    {
+      "id": "engine",
+      "word": "engine",
+      "pos": "noun",
+      "ipa": "/ˈendʒɪn/",
+      "reading_th": "เอน-จิ้น",
+      "meaning_th": "เครื่องยนต์",
+      "emoji": "⚙️",
+      "example_en": "Turn off the engine while you wait for the train.",
+      "example_th": "ดับเครื่องยนต์ระหว่างรอรถไฟผ่าน",
+      "cefr": "A2",
+      "note_th": "สตาร์ทเครื่อง = start the engine ดับเครื่อง = turn off the engine — ส่วน motor ใช้กับมอเตอร์ไฟฟ้า และ search engine คือ Google นั่นเอง",
+      "distractors": [
+        "engineer",
+        "engage",
+        "ending"
+      ]
+    },
+    {
+      "id": "horn",
+      "word": "horn",
+      "pos": "noun",
+      "ipa": "/hɔːrn/",
+      "reading_th": "ฮอร์น",
+      "meaning_th": "แตรรถ",
+      "emoji": "📣",
+      "example_en": "Don't use your horn near the hospital.",
+      "example_th": "อย่าบีบแตรใกล้โรงพยาบาล",
+      "cefr": "A2",
+      "note_th": "บีบแตร = honk the horn / sound the horn — ในหลายประเทศบีบแตรโดยไม่จำเป็นโดนปรับ และ horn ยังแปลว่าเขาสัตว์กับแตรเครื่องดนตรี",
+      "distractors": [
+        "corn",
+        "horse",
+        "thorn"
+      ]
+    },
+    {
+      "id": "steer",
+      "word": "steer",
+      "pos": "verb",
+      "ipa": "/stɪr/",
+      "reading_th": "สเตียร์",
+      "meaning_th": "บังคับพวงมาลัย",
+      "emoji": "🎡",
+      "example_en": "Steer gently to the left to avoid the hole.",
+      "example_th": "หักพวงมาลัยไปทางซ้ายเบาๆ เพื่อหลบหลุม",
+      "cefr": "B1",
+      "note_th": "พวงมาลัย = steering wheel มาจากคำนี้ — steer clear of = หลีกเลี่ยง ใช้กับเรื่องทั่วไปได้ steer clear of that road at five",
+      "distractors": [
+        "stare",
+        "stir",
+        "steel"
+      ]
+    },
+    {
+      "id": "turn_signal",
+      "word": "turn signal",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrn ˌsɪɡnəl/",
+      "reading_th": "เทิร์น ซิก-เนิล",
+      "meaning_th": "ไฟเลี้ยว",
+      "emoji": "↪️",
+      "example_en": "Use your turn signal before you change lanes.",
+      "example_th": "เปิดไฟเลี้ยวก่อนเปลี่ยนเลน",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียก turn signal หรือ blinker อังกฤษเรียก indicator — เปิดไฟเลี้ยว = signal / put your turn signal on คนไทยพูดว่า เปิดไฟเลี้ยว แต่ห้ามแปลว่า open",
+      "distractors": [
+        "traffic signal",
+        "turn left",
+        "signature"
+      ]
+    },
+    {
+      "id": "merge",
+      "word": "merge",
+      "pos": "verb",
+      "ipa": "/mɜːrdʒ/",
+      "reading_th": "เมิร์จ",
+      "meaning_th": "แทรกเข้าเลน / รวมเข้าทาง",
+      "emoji": "🔀",
+      "example_en": "Speed up a little to merge safely onto the highway.",
+      "example_th": "เร่งขึ้นอีกนิดเพื่อแทรกเข้าทางหลวงอย่างปลอดภัย",
+      "cefr": "B1",
+      "note_th": "ป้าย Merge = ทางรวม เตรียมแทรกเข้า — มารยาทสลับคันเว้นคันเรียก zipper merge และในคอมก็ใช้ merge files รวมไฟล์",
+      "distractors": [
+        "merchant",
+        "emerge",
+        "margin"
+      ]
+    },
+    {
+      "id": "highway",
+      "word": "highway",
+      "pos": "noun",
+      "ipa": "/ˈhaɪweɪ/",
+      "reading_th": "ไฮ-เวย์",
+      "meaning_th": "ทางหลวง",
+      "emoji": "🛣️",
+      "example_en": "Take the highway, it is faster than the old road.",
+      "example_th": "ใช้ทางหลวงเถอะ เร็วกว่าถนนสายเก่า",
+      "cefr": "A2",
+      "note_th": "อเมริกัน highway / freeway อังกฤษ motorway — ทางด่วนที่เก็บเงินในไทยคือ expressway หรือ tollway ส่วนถนนธรรมดาคือ road",
+      "distractors": [
+        "hallway",
+        "highland",
+        "runway"
+      ]
+    },
+    {
+      "id": "exit_ramp",
+      "word": "exit ramp",
+      "pos": "noun",
+      "ipa": "/ˈeksɪt ˌræmp/",
+      "reading_th": "เอ็ค-ซิท แรมป์",
+      "meaning_th": "ทางลงจากทางด่วน",
+      "emoji": "↘️",
+      "example_en": "Take the next exit ramp and turn right at the light.",
+      "example_th": "ลงทางด่วนที่ทางลงถัดไปแล้วเลี้ยวขวาที่ไฟแดง",
+      "cefr": "B1",
+      "note_th": "ramp = ทางลาด ทางขึ้นคือ on-ramp ทางลงคือ off-ramp หรือ exit ramp — ป้ายจะบอก Exit 12 และ GPS จะพูดว่า take the exit",
+      "distractors": [
+        "exit gate",
+        "fire exit",
+        "wheelchair ramp"
+      ]
+    },
+    {
+      "id": "blind_spot",
+      "word": "blind spot",
+      "pos": "noun",
+      "ipa": "/ˈblaɪnd ˌspɑːt/",
+      "reading_th": "ไบลนด์ สปอต",
+      "meaning_th": "จุดบอดที่กระจกมองไม่เห็น",
+      "emoji": "🙈",
+      "example_en": "Check your blind spot before you pull out.",
+      "example_th": "เหลียวดูจุดบอดก่อนออกรถ",
+      "cefr": "B1",
+      "note_th": "blind = มองไม่เห็น spot = จุด — ต้องหันหัวดูจริงๆ เรียก shoulder check และรถใหม่มี blind spot monitor เตือนให้",
+      "distractors": [
+        "hot spot",
+        "blind date",
+        "parking spot"
+      ]
+    },
+    {
+      "id": "tailgate",
+      "word": "tailgate",
+      "pos": "verb",
+      "ipa": "/ˈteɪlɡeɪt/",
+      "reading_th": "เทล-เกท",
+      "meaning_th": "ขับจี้ท้าย",
+      "emoji": "😠",
+      "example_en": "Don't tailgate the truck, you can't see past it.",
+      "example_th": "อย่าขับจี้ท้ายรถบรรทุก คุณมองข้างหน้าไม่เห็น",
+      "cefr": "B2",
+      "note_th": "tail = หาง gate = ประตู ขับชิดท้ายรถคันหน้าเกินไป — คนทำเรียก tailgater และควรเว้น a two-second gap ตามหลักฝรั่ง",
+      "distractors": [
+        "tailor",
+        "tollgate",
+        "tail light"
+      ]
+    },
+    {
+      "id": "reverse",
+      "word": "reverse",
+      "pos": "verb",
+      "ipa": "/rɪˈvɜːrs/",
+      "reading_th": "ริ-เวิร์ส",
+      "meaning_th": "ถอยหลัง",
+      "emoji": "🔙",
+      "example_en": "Reverse slowly, there is a bike behind you.",
+      "example_th": "ถอยช้าๆ มีจักรยานอยู่ข้างหลัง",
+      "cefr": "B1",
+      "note_th": "อังกฤษใช้ reverse อเมริกันใช้ back up — เกียร์ R คือ reverse และถอยเข้าซอง = reverse into the space ส่วนกล้องถอยหลังคือ reversing camera",
+      "distractors": [
+        "reserve",
+        "review",
+        "rehearse"
+      ]
+    },
+    {
+      "id": "dead_end",
+      "word": "dead end",
+      "pos": "noun",
+      "ipa": "/ˌded ˈend/",
+      "reading_th": "เดด เอนด์",
+      "meaning_th": "ทางตัน",
+      "emoji": "⛔",
+      "example_en": "The map says this road is a dead end.",
+      "example_th": "แผนที่บอกว่าถนนสายนี้เป็นทางตัน",
+      "cefr": "B1",
+      "note_th": "ป้ายในอเมริกาเขียน DEAD END อังกฤษเขียน No Through Road — ใช้เปรียบเทียบได้ a dead-end job = งานที่ไม่มีทางก้าวหน้า",
+      "distractors": [
+        "deadline",
+        "dead body",
+        "loose end"
+      ]
+    },
+    {
+      "id": "bend",
+      "word": "bend",
+      "pos": "noun",
+      "ipa": "/bend/",
+      "reading_th": "เบนด์",
+      "meaning_th": "ทางโค้ง",
+      "emoji": "↩️",
+      "example_en": "Slow down, there is a sharp bend after the bridge.",
+      "example_th": "ชะลอหน่อย มีโค้งหักศอกหลังสะพาน",
+      "cefr": "B1",
+      "note_th": "a sharp bend = โค้งแคบ a blind bend = โค้งมองไม่เห็นทาง — อเมริกันมักพูดว่า curve ส่วน bend เป็นกริยาแปลว่างอ เช่น bend your knees",
+      "distractors": [
+        "band",
+        "bent",
+        "blend"
+      ]
+    },
+    {
+      "id": "cruise_control",
+      "word": "cruise control",
+      "pos": "noun",
+      "ipa": "/ˈkruːz kənˌtroʊl/",
+      "reading_th": "ครูซ คอน-โทรล",
+      "meaning_th": "ระบบควบคุมความเร็วอัตโนมัติ",
+      "emoji": "🎛️",
+      "example_en": "I set the cruise control to ninety on the long straight road.",
+      "example_th": "ฉันตั้งครูซคอนโทรลไว้ที่เก้าสิบบนถนนตรงยาวๆ",
+      "cefr": "B1",
+      "note_th": "cruise = ล่องเรือ/แล่นสบายๆ ตั้งความเร็วแล้วยกเท้าได้ — ตั้งค่า = set the cruise control และแบบปรับตามคันหน้าคือ adaptive cruise control",
+      "distractors": [
+        "remote control",
+        "cruise ship",
+        "crash control"
+      ]
+    },
+    {
+      "id": "change_lanes",
+      "word": "change lanes",
+      "pos": "phrase",
+      "ipa": "/ˌtʃeɪndʒ ˈleɪnz/",
+      "reading_th": "เชนจ์ เลนส์",
+      "meaning_th": "เปลี่ยนเลน",
+      "emoji": "↔️",
+      "example_en": "Check your mirror every time you change lanes.",
+      "example_th": "ดูกระจกทุกครั้งที่เปลี่ยนเลน",
+      "cefr": "A2",
+      "note_th": "ใช้พหูพจน์ change lanes เพราะออกจากเลนหนึ่งเข้าอีกเลน — เปลี่ยนเลนปาดหน้ากะทันหันคือ cut someone off ซึ่งเป็นต้นเหตุ road rage",
+      "distractors": [
+        "change gear",
+        "change rooms",
+        "stay in lane"
+      ]
+    },
+    {
+      "id": "hazard_lights",
+      "word": "hazard lights",
+      "pos": "noun",
+      "ipa": "/ˈhæzərd ˌlaɪts/",
+      "reading_th": "แฮ-เซิร์ด ไลท์ส",
+      "meaning_th": "ไฟฉุกเฉิน",
+      "emoji": "⚠️",
+      "example_en": "Put your hazard lights on if the car stops on the road.",
+      "example_th": "เปิดไฟฉุกเฉินถ้ารถดับกลางถนน",
+      "cefr": "B1",
+      "note_th": "hazard = อันตราย ปุ่มสามเหลี่ยมแดง — คนไทยเปิดไฟฉุกเฉินตอนขับตรงผ่านสี่แยก ซึ่งต่างประเทศไม่ทำและถือว่าผิด ใช้เฉพาะตอนรถจอดเสีย",
+      "distractors": [
+        "headlights",
+        "fairy lights",
+        "hazard pay"
+      ]
+    },
+    {
+      "id": "high_beam",
+      "word": "high beam",
+      "pos": "noun",
+      "ipa": "/ˈhaɪ ˌbiːm/",
+      "reading_th": "ไฮ บีม",
+      "meaning_th": "ไฟสูง",
+      "emoji": "🔆",
+      "example_en": "Switch off the high beam when another car comes.",
+      "example_th": "ปิดไฟสูงเมื่อมีรถสวนมา",
+      "cefr": "B1",
+      "note_th": "ไฟสูง high beam ไฟต่ำ low beam (อังกฤษ dipped headlights) — กะพริบไฟสูงใส่คันหน้า = flash your high beams เป็นสัญญาณเตือน",
+      "distractors": [
+        "low beam",
+        "sunbeam",
+        "high heels"
+      ]
+    },
+    {
+      "id": "road_sign",
+      "word": "road sign",
+      "pos": "noun",
+      "ipa": "/ˈroʊd ˌsaɪn/",
+      "reading_th": "โรด ไซน์",
+      "meaning_th": "ป้ายจราจร",
+      "emoji": "🪧",
+      "example_en": "Learn every road sign before the driving test.",
+      "example_th": "เรียนรู้ป้ายจราจรทุกป้ายก่อนสอบใบขับขี่",
+      "cefr": "A2",
+      "note_th": "ป้ายจราจร = road sign / traffic sign — สอบใบขับขี่ต่างประเทศจะมีข้อสอบป้ายล้วนๆ และป้ายสามเหลี่ยมคือเตือน วงกลมคือบังคับ",
+      "distractors": [
+        "road map",
+        "sign language",
+        "roadwork"
+      ]
+    },
+    {
+      "id": "stop_sign",
+      "word": "stop sign",
+      "pos": "noun",
+      "ipa": "/ˈstɑːp ˌsaɪn/",
+      "reading_th": "สต็อป ไซน์",
+      "meaning_th": "ป้ายหยุด",
+      "emoji": "🛑",
+      "example_en": "You must come to a full stop at a stop sign.",
+      "example_th": "ต้องหยุดสนิทที่ป้ายหยุด",
+      "cefr": "A2",
+      "note_th": "ป้ายแปดเหลี่ยมสีแดง — ต่างประเทศต้องหยุดสนิท (come to a complete stop) แม้ไม่มีรถ คนไทยชอบแค่ชะลอแล้วโดนใบสั่ง และ roll through a stop sign = ไม่หยุดสนิท",
+      "distractors": [
+        "bus stop",
+        "stop watch",
+        "stop light"
+      ]
+    },
+    {
+      "id": "wrong_way",
+      "word": "wrong way",
+      "pos": "noun",
+      "ipa": "/ˌrɔːŋ ˈweɪ/",
+      "reading_th": "รอง เวย์",
+      "meaning_th": "ผิดทาง / ย้อนศร",
+      "emoji": "🚫",
+      "example_en": "A sign said WRONG WAY, so I turned around fast.",
+      "example_th": "มีป้ายบอกว่าผิดทาง ฉันเลยรีบกลับรถ",
+      "cefr": "A2",
+      "note_th": "ป้ายแดงขาวนี้เจอตอนกำลังจะขับย้อนศร — ขับย้อนศรคือ drive the wrong way และ go the wrong way ยังใช้กับการหลงทางเดินเท้าได้",
+      "distractors": [
+        "one way",
+        "long way",
+        "wrong turn"
+      ]
+    },
+    {
+      "id": "no_parking",
+      "word": "no parking",
+      "pos": "phrase",
+      "ipa": "/ˌnoʊ ˈpɑːrkɪŋ/",
+      "reading_th": "โน พาร์ค-กิ้ง",
+      "meaning_th": "ห้ามจอด",
+      "emoji": "🅿️",
+      "example_en": "There is a no parking sign, so we'll get a ticket here.",
+      "example_th": "มีป้ายห้ามจอด เราจะโดนใบสั่งถ้าจอดตรงนี้",
+      "cefr": "A1",
+      "note_th": "no parking = ห้ามจอดทิ้งไว้ ส่วน no stopping = ห้ามหยุดแม้แต่นิดเดียว เข้มกว่า — ฟุตพาธขาวแดงไทยอธิบายฝรั่งว่า red and white curb means no parking",
+      "distractors": [
+        "no entry",
+        "free parking",
+        "no smoking"
+      ]
+    },
+    {
+      "id": "give_way",
+      "word": "give way",
+      "pos": "phrase",
+      "ipa": "/ˌɡɪv ˈweɪ/",
+      "reading_th": "กิฟ เวย์",
+      "meaning_th": "ให้ทาง",
+      "emoji": "🔻",
+      "example_en": "You must give way to cars already on the roundabout.",
+      "example_th": "ต้องให้ทางรถที่อยู่ในวงเวียนก่อน",
+      "cefr": "B1",
+      "note_th": "ป้ายสามเหลี่ยมกลับหัว อังกฤษและออสเตรเลียเขียน GIVE WAY อเมริกาเขียน YIELD — ให้ทางคนเดินถนนคือ give way to pedestrians กฎที่คนไทยมักลืม",
+      "distractors": [
+        "give up",
+        "make way",
+        "give in"
+      ]
+    },
+    {
+      "id": "school_zone",
+      "word": "school zone",
+      "pos": "noun",
+      "ipa": "/ˈskuːl ˌzoʊn/",
+      "reading_th": "สคูล โซน",
+      "meaning_th": "เขตโรงเรียน (ลดความเร็ว)",
+      "emoji": "🏫",
+      "example_en": "The limit drops to thirty in a school zone.",
+      "example_th": "ความเร็วจำกัดลดเหลือสามสิบในเขตโรงเรียน",
+      "cefr": "A2",
+      "note_th": "ค่าปรับขับเร็วในเขตโรงเรียนแพงเป็นสองเท่าในหลายประเทศ — เขตอื่นที่เจอคือ construction zone (เขตก่อสร้าง) และ tow-away zone (เขตยกรถ)",
+      "distractors": [
+        "time zone",
+        "school bus",
+        "comfort zone"
+      ]
+    },
+    {
+      "id": "run_a_red_light",
+      "word": "run a red light",
+      "pos": "phrase",
+      "ipa": "/ˌrʌn ə ˌred ˈlaɪt/",
+      "reading_th": "รัน อะ เรด ไลท์",
+      "meaning_th": "ฝ่าไฟแดง",
+      "emoji": "🚦",
+      "example_en": "If you run a red light here, a camera will catch you.",
+      "example_th": "ถ้าฝ่าไฟแดงตรงนี้ กล้องจะจับได้",
+      "cefr": "B1",
+      "note_th": "ฝ่าไฟแดงใช้ run ไม่ใช่ break หรือ pass — ไฟเหลืองคือ amber (อังกฤษ) หรือ yellow (อเมริกัน) และกล้องจับไฟแดงคือ red light camera",
+      "distractors": [
+        "run a business",
+        "run out",
+        "see a red light"
+      ]
+    },
+    {
+      "id": "traffic_fine",
+      "word": "traffic fine",
+      "pos": "noun",
+      "ipa": "/ˈtræfɪk ˌfaɪn/",
+      "reading_th": "แทรฟ-ฟิค ไฟน์",
+      "meaning_th": "ค่าปรับจราจร",
+      "emoji": "💸",
+      "example_en": "I paid a traffic fine online to avoid the queue.",
+      "example_th": "ฉันจ่ายค่าปรับจราจรออนไลน์เพื่อเลี่ยงการต่อคิว",
+      "cefr": "B1",
+      "note_th": "fine ในที่นี้ = ค่าปรับ ไม่ใช่ สบายดี — จ่ายค่าปรับ = pay a fine และใบสั่งที่ได้รับคือ ticket ถ้าเช่ารถ ค่าปรับจะตามไปเก็บกับบัตรเครดิตทีหลัง",
+      "distractors": [
+        "traffic jam",
+        "parking fee",
+        "traffic light"
+      ]
+    },
+    {
+      "id": "drivers_license",
+      "word": "driver's license",
+      "pos": "noun",
+      "ipa": "/ˈdraɪvərz ˌlaɪsns/",
+      "reading_th": "ไดร-เวอร์ส ไล-เซินส์",
+      "meaning_th": "ใบขับขี่",
+      "emoji": "🪪",
+      "example_en": "Can I see your driver's license and registration, please?",
+      "example_th": "ขอดูใบขับขี่และทะเบียนรถหน่อยครับ",
+      "cefr": "A2",
+      "note_th": "อเมริกัน driver's license อังกฤษ driving licence (สะกด c) — สอบใบขับขี่ = take a driving test และใบขับขี่ชั่วคราวคือ learner's permit",
+      "distractors": [
+        "license plate",
+        "driver's seat",
+        "fishing license"
+      ]
+    },
+    {
+      "id": "drunk_driving",
+      "word": "drunk driving",
+      "pos": "noun",
+      "ipa": "/ˌdrʌŋk ˈdraɪvɪŋ/",
+      "reading_th": "ดรังค์ ไดร-วิ่ง",
+      "meaning_th": "เมาแล้วขับ",
+      "emoji": "🍺",
+      "example_en": "Drunk driving causes most road deaths during Songkran.",
+      "example_th": "เมาแล้วขับเป็นสาเหตุการตายบนถนนส่วนใหญ่ช่วงสงกรานต์",
+      "cefr": "B1",
+      "note_th": "อังกฤษเรียก drink-driving อเมริกาเรียก DUI (driving under the influence) — สโลแกนสากล don't drink and drive และคนขับที่ไม่ดื่มคือ designated driver",
+      "distractors": [
+        "drunk dialing",
+        "reckless driving",
+        "test driving"
+      ]
+    },
+    {
+      "id": "speeding_ticket",
+      "word": "speeding ticket",
+      "pos": "noun",
+      "ipa": "/ˈspiːdɪŋ ˌtɪkɪt/",
+      "reading_th": "สปีด-ดิ้ง ทิค-เก็ต",
+      "meaning_th": "ใบสั่งขับเร็ว",
+      "emoji": "📨",
+      "example_en": "A speeding ticket arrived in the mail two weeks later.",
+      "example_th": "ใบสั่งขับเร็วส่งมาทางไปรษณีย์สองสัปดาห์ต่อมา",
+      "cefr": "B1",
+      "note_th": "speeding = ขับเร็วเกินกำหนด ticket = ใบสั่ง — โดนใบสั่ง = get a ticket และตำรวจจะพูดว่า do you know how fast you were going?",
+      "distractors": [
+        "parking ticket",
+        "plane ticket",
+        "speed bump"
+      ]
+    },
+    {
+      "id": "right_of_way",
+      "word": "right of way",
+      "pos": "noun",
+      "ipa": "/ˌraɪt əv ˈweɪ/",
+      "reading_th": "ไรท์ ออฟ เวย์",
+      "meaning_th": "สิทธิ์ไปก่อน",
+      "emoji": "👉",
+      "example_en": "Pedestrians have the right of way at a zebra crossing.",
+      "example_th": "คนเดินเท้ามีสิทธิ์ไปก่อนที่ทางม้าลาย",
+      "cefr": "B2",
+      "note_th": "right = สิทธิ์ ไม่ใช่ขวา — ใครมีสิทธิ์ไปก่อน = who has the right of way? เป็นคำถามที่ประกันใช้ตัดสินว่าใครผิดตอนชน",
+      "distractors": [
+        "right turn",
+        "right away",
+        "out of the way"
+      ]
+    },
+    {
+      "id": "no_overtaking",
+      "word": "no overtaking",
+      "pos": "phrase",
+      "ipa": "/ˌnoʊ oʊvərˈteɪkɪŋ/",
+      "reading_th": "โน โอ-เวอร์-เทค-กิ้ง",
+      "meaning_th": "ห้ามแซง",
+      "emoji": "🚷",
+      "example_en": "There is a no overtaking sign on this whole mountain road.",
+      "example_th": "มีป้ายห้ามแซงตลอดถนนภูเขาสายนี้",
+      "cefr": "B1",
+      "note_th": "overtake = แซง (อังกฤษ) อเมริกันใช้ pass และป้ายเขียนว่า NO PASSING — เส้นทึบสีเหลืองกลางถนนก็หมายถึงห้ามแซงเหมือนกัน",
+      "distractors": [
+        "no parking",
+        "no entry",
+        "no undertaking"
+      ]
+    },
+    {
+      "id": "drive_on_the_left",
+      "word": "drive on the left",
+      "pos": "phrase",
+      "ipa": "/ˌdraɪv ɑːn ðə ˈleft/",
+      "reading_th": "ไดรฟ์ ออน เดอะ เลฟท์",
+      "meaning_th": "ขับชิดซ้าย (พวงมาลัยขวา)",
+      "emoji": "🇹🇭",
+      "example_en": "In Thailand we drive on the left, like in Japan and the UK.",
+      "example_th": "ในไทยเราขับชิดซ้ายเหมือนญี่ปุ่นและอังกฤษ",
+      "cefr": "A2",
+      "note_th": "ไทย ญี่ปุ่น อังกฤษ ออสเตรเลีย ขับซ้าย ส่วนอเมริกา ยุโรป จีน ขับขวา drive on the right — รถพวงมาลัยขวาคือ right-hand drive ย่อ RHD",
+      "distractors": [
+        "turn to the left",
+        "drive on the right",
+        "keep to the left"
+      ]
+    },
+    {
+      "id": "rental_agreement",
+      "word": "rental agreement",
+      "pos": "noun",
+      "ipa": "/ˈrentl əˌɡriːmənt/",
+      "reading_th": "เรน-เทิล อะ-กรี-เมนท์",
+      "meaning_th": "สัญญาเช่ารถ",
+      "emoji": "📄",
+      "example_en": "Read the rental agreement before you sign anything.",
+      "example_th": "อ่านสัญญาเช่ารถก่อนเซ็นอะไรทั้งนั้น",
+      "cefr": "B1",
+      "note_th": "เอกสารที่เคาน์เตอร์เช่ารถให้เซ็น ระบุวันคืน ประกัน และค่าปรับ — ใช้กับเช่าบ้านได้ด้วย และบริษัทเช่ารถคือ car rental company / car hire (อังกฤษ)",
+      "distractors": [
+        "rental fee",
+        "prenuptial agreement",
+        "retail agreement"
+      ]
+    },
+    {
+      "id": "automatic",
+      "word": "automatic",
+      "pos": "adjective",
+      "ipa": "/ˌɔːtəˈmætɪk/",
+      "reading_th": "ออ-โท-แม-ทิค",
+      "meaning_th": "เกียร์อัตโนมัติ",
+      "emoji": "🅰️",
+      "example_en": "I can only drive an automatic, is this car automatic?",
+      "example_th": "ฉันขับได้แต่เกียร์ออโต้ รถคันนี้เป็นเกียร์ออโต้ไหม",
+      "cefr": "A2",
+      "note_th": "คนไทยพูดว่า ออโต้ แต่ฝรั่งพูดเต็ม automatic — ตอนจองรถในยุโรปต้องเลือกให้ดี เพราะรถส่วนใหญ่เป็นเกียร์ธรรมดาและราคาถูกกว่า",
+      "distractors": [
+        "automotive",
+        "authentic",
+        "aromatic"
+      ]
+    },
+    {
+      "id": "manual",
+      "word": "manual",
+      "pos": "adjective",
+      "ipa": "/ˈmænjuəl/",
+      "reading_th": "แมน-นวล",
+      "meaning_th": "เกียร์ธรรมดา / เกียร์กระปุก",
+      "emoji": "🅼",
+      "example_en": "A manual car is cheaper to rent in Europe.",
+      "example_th": "รถเกียร์ธรรมดาเช่าถูกกว่าในยุโรป",
+      "cefr": "A2",
+      "note_th": "manual = ใช้มือ (ต้องเปลี่ยนเกียร์เอง) อเมริกันเรียก stick shift — เป็นคำนามแปลว่าคู่มือ the owner's manual อยู่ในช่องเก็บของหน้ารถ",
+      "distractors": [
+        "mutual",
+        "menu",
+        "mental"
+      ]
+    },
+    {
+      "id": "unlimited_mileage",
+      "word": "unlimited mileage",
+      "pos": "noun",
+      "ipa": "/ʌnˌlɪmɪtɪd ˈmaɪlɪdʒ/",
+      "reading_th": "อัน-ลิ-มิ-เท็ด ไมล์-เลจ",
+      "meaning_th": "ไม่จำกัดระยะทาง",
+      "emoji": "♾️",
+      "example_en": "Choose unlimited mileage if you plan a long road trip.",
+      "example_th": "เลือกแบบไม่จำกัดระยะทางถ้าวางแผนขับทางไกล",
+      "cefr": "B1",
+      "note_th": "mileage = ระยะทางที่ขับได้ (จาก mile แม้ประเทศนั้นใช้กิโลเมตร) — ถ้าจำกัด เกินมาจะคิดต่อกิโล และรถมือสองก็ถามว่า what's the mileage?",
+      "distractors": [
+        "unlimited data",
+        "low mileage",
+        "unlimited refills"
+      ]
+    },
+    {
+      "id": "full_coverage",
+      "word": "full coverage",
+      "pos": "noun",
+      "ipa": "/ˌfʊl ˈkʌvərɪdʒ/",
+      "reading_th": "ฟูล คัฟ-เวอ-เรจ",
+      "meaning_th": "ประกันคุ้มครองเต็ม",
+      "emoji": "🛡️",
+      "example_en": "Full coverage costs more but you pay nothing if you crash.",
+      "example_th": "ประกันเต็มแพงกว่า แต่ถ้าชนคุณไม่ต้องจ่ายอะไรเลย",
+      "cefr": "B1",
+      "note_th": "เคาน์เตอร์เช่ารถจะเสนอ full coverage หรือ zero excess — ประกันพื้นฐานที่รวมอยู่แล้วมักเรียก basic cover / CDW (collision damage waiver)",
+      "distractors": [
+        "full tank",
+        "news coverage",
+        "half coverage"
+      ]
+    },
+    {
+      "id": "excess",
+      "word": "excess",
+      "pos": "noun",
+      "ipa": "/ˈekses/",
+      "reading_th": "เอ็ค-เซส",
+      "meaning_th": "ค่าเสียหายส่วนแรก (ประกัน)",
+      "emoji": "💵",
+      "example_en": "The excess is 500 euros if the car gets damaged.",
+      "example_th": "ค่าเสียหายส่วนแรกคือ 500 ยูโรถ้ารถเกิดเสียหาย",
+      "cefr": "B2",
+      "note_th": "อังกฤษ excess อเมริกัน deductible = เงินที่คุณต้องจ่ายเองก่อนประกันจ่ายที่เหลือ — บริษัทเช่ารถจะบล็อกเงินในบัตรเครดิตเท่าจำนวนนี้ ถามไว้ก่อนว่า how much is the excess?",
+      "distractors": [
+        "access",
+        "excuse",
+        "express"
+      ]
+    },
+    {
+      "id": "scratched",
+      "word": "scratched",
+      "pos": "adjective",
+      "ipa": "/skrætʃt/",
+      "reading_th": "สแครชท์",
+      "meaning_th": "เป็นรอยขีดข่วน",
+      "emoji": "〰️",
+      "example_en": "The back door was already scratched when I picked up the car.",
+      "example_th": "ประตูหลังเป็นรอยอยู่แล้วตอนฉันรับรถ",
+      "cefr": "B1",
+      "note_th": "ถ่ายรูปรอยทุกจุดก่อนขับออก แล้วบอกพนักงานว่า it's scratched here — รอยเล็กมากเรียก minor scratch รอยลึกเรียก deep scratch ค่าซ่อมต่างกันมาก",
+      "distractors": [
+        "stretched",
+        "scattered",
+        "snatched"
+      ]
+    },
+    {
+      "id": "dent",
+      "word": "dent",
+      "pos": "noun",
+      "ipa": "/dent/",
+      "reading_th": "เดนท์",
+      "meaning_th": "รอยบุบ",
+      "emoji": "🔨",
+      "example_en": "There is a small dent on the hood, please note it down.",
+      "example_th": "มีรอยบุบเล็กๆ ที่ฝากระโปรง ช่วยจดไว้ด้วย",
+      "cefr": "B1",
+      "note_th": "dent = บุบ scratch = ขีด — คู่หูที่พนักงานเช็กรถใช้ตลอด any dents or scratches? และสำนวน make a dent in = ทำให้ลดลงได้นิดหน่อย",
+      "distractors": [
+        "tent",
+        "dental",
+        "dense"
+      ]
+    },
+    {
+      "id": "fuel_policy",
+      "word": "fuel policy",
+      "pos": "noun",
+      "ipa": "/ˈfjuːəl ˌpɑːləsi/",
+      "reading_th": "ฟิว-เอิล พอ-ลิ-ซี่",
+      "meaning_th": "เงื่อนไขน้ำมันตอนคืนรถ",
+      "emoji": "📋",
+      "example_en": "The fuel policy is full to full, so fill it before you return it.",
+      "example_th": "เงื่อนไขน้ำมันคือเต็มถังรับ เต็มถังคืน ต้องเติมก่อนคืน",
+      "cefr": "B2",
+      "note_th": "full to full = รับเต็มคืนเต็ม เป็นแบบที่คุ้มสุด — ถ้าคืนไม่เต็มจะโดนคิดค่าน้ำมันแพงกว่าปั๊มมาก policy ในที่นี้ = นโยบาย/เงื่อนไข ไม่ใช่กรมธรรม์",
+      "distractors": [
+        "fuel pump",
+        "return policy",
+        "privacy policy"
+      ]
+    },
+    {
+      "id": "international_driving_permit",
+      "word": "international driving permit",
+      "pos": "noun",
+      "ipa": "/ˌɪntərˌnæʃnəl ˈdraɪvɪŋ ˌpɜːrmɪt/",
+      "reading_th": "อิน-เทอร์-แนช-ชั่น-เนิล ไดร-วิ่ง เพอร์-มิท",
+      "meaning_th": "ใบขับขี่สากล",
+      "emoji": "🌐",
+      "example_en": "Japan requires an international driving permit from Thai drivers.",
+      "example_th": "ญี่ปุ่นกำหนดให้คนไทยต้องมีใบขับขี่สากล",
+      "cefr": "B1",
+      "note_th": "ย่อว่า IDP ขอได้ที่กรมการขนส่งทางบก ใช้คู่กับใบขับขี่ไทย ไม่ใช่แทน — เน้นคำว่า permit (อนุญาต) ไม่ใช่ license และบางประเทศเช่น ญี่ปุ่น ไม่มีจะเช่ารถไม่ได้",
+      "distractors": [
+        "work permit",
+        "international flight",
+        "driving test"
+      ]
+    },
+    {
+      "id": "additional_driver",
+      "word": "additional driver",
+      "pos": "noun",
+      "ipa": "/əˌdɪʃənl ˈdraɪvər/",
+      "reading_th": "แอด-ดิ-ชั่น-เนิล ไดร-เวอร์",
+      "meaning_th": "ผู้ขับร่วม (คนขับคนที่สอง)",
+      "emoji": "👥",
+      "example_en": "Add my wife as an additional driver so we can share the driving.",
+      "example_th": "ใส่ชื่อภรรยาผมเป็นผู้ขับร่วมด้วย เราจะได้ผลัดกันขับ",
+      "cefr": "B1",
+      "note_th": "ถ้าคนที่ไม่ได้ระบุชื่อขับแล้วชน ประกันไม่จ่าย — มีค่าธรรมเนียมต่อวัน additional driver fee และต้องเอาใบขับขี่ของคนนั้นมาโชว์ด้วย",
+      "distractors": [
+        "designated driver",
+        "additional charge",
+        "taxi driver"
+      ]
+    },
+    {
+      "id": "child_seat",
+      "word": "child seat",
+      "pos": "noun",
+      "ipa": "/ˈtʃaɪld ˌsiːt/",
+      "reading_th": "ไชลด์ ซีท",
+      "meaning_th": "คาร์ซีทเด็ก",
+      "emoji": "👶",
+      "example_en": "We need a child seat for our two-year-old.",
+      "example_th": "เราต้องการคาร์ซีทสำหรับลูกวัยสองขวบ",
+      "cefr": "A2",
+      "note_th": "คนไทยเรียกคาร์ซีท ฝรั่งพูดว่า child seat หรือ car seat — บริษัทเช่ารถมีให้เช่าแยกต่อวัน เด็กโตใช้ booster seat และเป็นกฎหมายบังคับในไทยตั้งแต่ปี 2565",
+      "distractors": [
+        "back seat",
+        "child lock",
+        "high chair"
+      ]
+    },
+    {
+      "id": "gps",
+      "word": "GPS",
+      "pos": "noun",
+      "ipa": "/ˌdʒiː piː ˈes/",
+      "reading_th": "จี-พี-เอส",
+      "meaning_th": "ระบบนำทาง GPS",
+      "emoji": "📍",
+      "example_en": "The GPS said turn left, but the road was closed.",
+      "example_th": "จีพีเอสบอกให้เลี้ยวซ้าย แต่ถนนปิด",
+      "cefr": "A2",
+      "note_th": "อ่านทีละตัว จี-พี-เอส — อังกฤษเรียกเครื่องนำทางในรถว่า sat nav และเช่ารถมักเสนอ GPS เพิ่มเงิน แต่ใช้ Google Maps ในมือถือฟรีดีกว่า",
+      "distractors": [
+        "GPA",
+        "GDP",
+        "USB"
+      ]
+    },
+    {
+      "id": "drop_off_location",
+      "word": "drop-off location",
+      "pos": "noun",
+      "ipa": "/ˈdrɑːp ɔːf loʊˌkeɪʃn/",
+      "reading_th": "ดรอป-ออฟ โล-เค-ชั่น",
+      "meaning_th": "จุดคืนรถ",
+      "emoji": "🏁",
+      "example_en": "Our drop-off location is the airport, not the city branch.",
+      "example_th": "จุดคืนรถของเราคือสนามบิน ไม่ใช่สาขาในเมือง",
+      "cefr": "B1",
+      "note_th": "คู่กับ pick-up location (จุดรับรถ) — คืนคนละที่กับที่รับเรียก one-way rental มีค่าธรรมเนียมเพิ่ม และคืนรถหลังเวลาทำการใช้ key drop box",
+      "distractors": [
+        "pick-up location",
+        "drop-down menu",
+        "vacation location"
+      ]
+    },
+    {
+      "id": "fill_up",
+      "word": "fill up",
+      "pos": "phrase",
+      "ipa": "/ˌfɪl ˈʌp/",
+      "reading_th": "ฟิล อัพ",
+      "meaning_th": "เติมน้ำมันเต็มถัง",
+      "emoji": "⛽",
+      "example_en": "Let's fill up before we get on the highway.",
+      "example_th": "เติมน้ำมันให้เต็มก่อนขึ้นทางหลวงกันเถอะ",
+      "cefr": "A2",
+      "note_th": "บอกเด็กปั๊มว่า fill it up, please = เต็มถัง — ถ้าเติมเป็นจำนวนเงินพูดว่า 500 baht of 95, please และ fill up ยังใช้กับการกินจนอิ่มได้",
+      "distractors": [
+        "fill in",
+        "fill out",
+        "pick up"
+      ]
+    },
+    {
+      "id": "petrol",
+      "word": "petrol",
+      "pos": "noun",
+      "ipa": "/ˈpetrəl/",
+      "reading_th": "เพ-เทริล",
+      "meaning_th": "น้ำมันเบนซิน",
+      "emoji": "🛢️",
+      "example_en": "Petrol is much more expensive in Europe than in Thailand.",
+      "example_th": "น้ำมันเบนซินในยุโรปแพงกว่าในไทยมาก",
+      "cefr": "A2",
+      "note_th": "อังกฤษ petrol อเมริกัน gas / gasoline — เบนซินเป็นคำไทยที่ฝรั่งไม่เข้าใจ (benzene คือสารเคมี) และแก๊สโซฮอล์คือ gasohol / E10",
+      "distractors": [
+        "patrol",
+        "pedal",
+        "petal"
+      ]
+    },
+    {
+      "id": "diesel",
+      "word": "diesel",
+      "pos": "noun",
+      "ipa": "/ˈdiːzl/",
+      "reading_th": "ดี-เซิล",
+      "meaning_th": "น้ำมันดีเซล",
+      "emoji": "🚛",
+      "example_en": "Never put diesel in a petrol car.",
+      "example_th": "อย่าเติมดีเซลใส่รถเบนซินเด็ดขาด",
+      "cefr": "A2",
+      "note_th": "ออกเสียง ดี-เซิล ไม่ใช่ ดี-เซล — ในยุโรปหัวจ่ายดีเซลเป็นสีดำ เบนซินสีเขียว เติมผิดเรียก misfuelling ค่าซ่อมหลายหมื่น ถามพนักงานก่อนเสมอ",
+      "distractors": [
+        "easel",
+        "decimal",
+        "dessert"
+      ]
+    },
+    {
+      "id": "fuel_gauge",
+      "word": "fuel gauge",
+      "pos": "noun",
+      "ipa": "/ˈfjuːəl ˌɡeɪdʒ/",
+      "reading_th": "ฟิว-เอิล เกจ",
+      "meaning_th": "เกจน้ำมัน",
+      "emoji": "📊",
+      "example_en": "The fuel gauge is on empty, how far is the next station?",
+      "example_th": "เกจน้ำมันอยู่ที่ขีดว่างแล้ว ปั๊มถัดไปอีกไกลไหม",
+      "cefr": "B1",
+      "note_th": "gauge สะกดแปลกแต่ออกเสียง เกจ — F = full E = empty และลูกศรเล็กๆ ข้างสัญลักษณ์ปั๊มบอกว่าฝาถังอยู่ฝั่งไหน ประหยัดเวลาตอนขับรถเช่า",
+      "distractors": [
+        "fuel tank",
+        "gauge",
+        "fuel pump"
+      ]
+    },
+    {
+      "id": "run_out_of_gas",
+      "word": "run out of gas",
+      "pos": "phrase",
+      "ipa": "/ˌrʌn aʊt əv ˈɡæs/",
+      "reading_th": "รัน เอาท์ ออฟ แก๊ส",
+      "meaning_th": "น้ำมันหมด",
+      "emoji": "😱",
+      "example_en": "We almost run out of gas every time he drives.",
+      "example_th": "น้ำมันเกือบหมดทุกครั้งที่เขาขับ",
+      "cefr": "A2",
+      "note_th": "run out of = หมด ใช้กับทุกอย่าง run out of money, run out of time — อังกฤษพูด run out of petrol และ ran out of gas ยังแปลว่าหมดแรงได้ด้วย",
+      "distractors": [
+        "run out of time",
+        "run away",
+        "fill up with gas"
+      ]
+    },
+    {
+      "id": "pump",
+      "word": "pump",
+      "pos": "noun",
+      "ipa": "/pʌmp/",
+      "reading_th": "พัมพ์",
+      "meaning_th": "หัวจ่ายน้ำมัน",
+      "emoji": "⛽",
+      "example_en": "Pull up to pump number four and pay inside.",
+      "example_th": "จอดที่หัวจ่ายหมายเลขสี่แล้วจ่ายเงินข้างใน",
+      "cefr": "A2",
+      "note_th": "ในอเมริกาและยุโรปเติมเองที่ pump แล้วบอกเลขหัวจ่ายที่เคาน์เตอร์ pump four, please — เป็นกริยา pump gas = เติมน้ำมัน และ pump ยังแปลว่าปั๊มลม/ปั๊มน้ำ",
+      "distractors": [
+        "bump",
+        "pumpkin",
+        "jump"
+      ]
+    },
+    {
+      "id": "electric_car",
+      "word": "electric car",
+      "pos": "noun",
+      "ipa": "/ɪˌlektrɪk ˈkɑːr/",
+      "reading_th": "อิ-เล็ค-ทริค คาร์",
+      "meaning_th": "รถยนต์ไฟฟ้า",
+      "emoji": "🔋",
+      "example_en": "My electric car costs almost nothing to charge at home.",
+      "example_th": "รถไฟฟ้าของฉันชาร์จที่บ้านแทบไม่เสียเงินเลย",
+      "cefr": "A2",
+      "note_th": "ย่อว่า EV (electric vehicle) — รถน้ำมันเรียก petrol car หรือ gas car และรถผสมคือ hybrid คนไทยพูดว่ารถ EV ฝรั่งก็เข้าใจ",
+      "distractors": [
+        "electric fan",
+        "sports car",
+        "electric bill"
+      ]
+    },
+    {
+      "id": "charging_station",
+      "word": "charging station",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːrdʒɪŋ ˌsteɪʃn/",
+      "reading_th": "ชาร์จ-จิ้ง สเต-ชั่น",
+      "meaning_th": "สถานีชาร์จรถไฟฟ้า",
+      "emoji": "🔌",
+      "example_en": "The app shows every charging station on the route.",
+      "example_th": "แอปแสดงสถานีชาร์จทุกแห่งตลอดเส้นทาง",
+      "cefr": "A2",
+      "note_th": "สถานีชาร์จ = charging station / charging point (อังกฤษ) — จุดชาร์จหนึ่งหัวคือ charger และปั๊มน้ำมันแบบเดิมคือ gas station / petrol station",
+      "distractors": [
+        "gas station",
+        "police station",
+        "charging cable"
+      ]
+    },
+    {
+      "id": "charge",
+      "word": "charge",
+      "pos": "verb",
+      "ipa": "/tʃɑːrdʒ/",
+      "reading_th": "ชาร์จ",
+      "meaning_th": "ชาร์จไฟ",
+      "emoji": "🔋",
+      "example_en": "It takes forty minutes to charge the car to eighty percent.",
+      "example_th": "ใช้เวลาสี่สิบนาทีในการชาร์จรถถึงแปดสิบเปอร์เซ็นต์",
+      "cefr": "A2",
+      "note_th": "ชาร์จรถ ชาร์จมือถือ ใช้ charge เหมือนกัน — แต่ charge ยังแปลว่าคิดเงิน they charge 10 baht per unit ดูบริบทให้ดี",
+      "distractors": [
+        "change",
+        "chart",
+        "church"
+      ]
+    },
+    {
+      "id": "fast_charger",
+      "word": "fast charger",
+      "pos": "noun",
+      "ipa": "/ˈfæst ˌtʃɑːrdʒər/",
+      "reading_th": "ฟาสท์ ชาร์จ-เจอร์",
+      "meaning_th": "เครื่องชาร์จเร็ว",
+      "emoji": "⚡",
+      "example_en": "Use a fast charger on long trips and a slow one at home.",
+      "example_th": "ใช้เครื่องชาร์จเร็วตอนเดินทางไกล และชาร์จช้าที่บ้าน",
+      "cefr": "B1",
+      "note_th": "ชาร์จเร็วคือ DC fast charger ชาร์จช้าที่บ้านคือ AC charger / wall box — ชาร์จเร็วบ่อยแบตเสื่อมเร็ว ใช้คำว่า battery health เหมือนมือถือ",
+      "distractors": [
+        "phone charger",
+        "fast food",
+        "fast lane"
+      ]
+    },
+    {
+      "id": "charging_cable",
+      "word": "charging cable",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːrdʒɪŋ ˌkeɪbl/",
+      "reading_th": "ชาร์จ-จิ้ง เค-เบิล",
+      "meaning_th": "สายชาร์จ",
+      "emoji": "🔌",
+      "example_en": "Keep the charging cable in the trunk, not every station has one.",
+      "example_th": "เก็บสายชาร์จไว้ท้ายรถ ไม่ใช่ทุกสถานีจะมีให้",
+      "cefr": "A2",
+      "note_th": "สายชาร์จ = charging cable หัวปลั๊กคือ connector / plug — มาตรฐานหัวชาร์จในไทยคือ Type 2 และ CCS2 ถามว่า which connector does it have?",
+      "distractors": [
+        "cable car",
+        "charging station",
+        "cable TV"
+      ]
+    },
+    {
+      "id": "parallel_parking",
+      "word": "parallel parking",
+      "pos": "noun",
+      "ipa": "/ˌpærəlel ˈpɑːrkɪŋ/",
+      "reading_th": "แพ-ระ-เลล พาร์ค-กิ้ง",
+      "meaning_th": "จอดเทียบขนานขอบทาง",
+      "emoji": "🅿️",
+      "example_en": "Parallel parking is the hardest part of the driving test.",
+      "example_th": "การจอดเทียบขนานคือส่วนที่ยากที่สุดของการสอบใบขับขี่",
+      "cefr": "B1",
+      "note_th": "จอดขนานถนนระหว่างรถสองคัน — จอดถอยเข้าซองคือ reverse parking และจอดเฉียงคือ angle parking สอบขับขี่ฝรั่งมีทั้งสามแบบ",
+      "distractors": [
+        "valet parking",
+        "parallel lines",
+        "parking lot"
+      ]
+    },
+    {
+      "id": "valet_parking",
+      "word": "valet parking",
+      "pos": "noun",
+      "ipa": "/ˈvæleɪ ˌpɑːrkɪŋ/",
+      "reading_th": "แว-เล พาร์ค-กิ้ง",
+      "meaning_th": "บริการรับจอดรถ",
+      "emoji": "🧑‍✈️",
+      "example_en": "The hotel offers valet parking for three hundred baht.",
+      "example_th": "โรงแรมมีบริการรับจอดรถสามร้อยบาท",
+      "cefr": "B1",
+      "note_th": "ออกเสียง แว-เล ไม่ออกเสียง t เพราะมาจากฝรั่งเศส — คนรับจอดคือ valet ให้ทิปนิดหน่อย และจอดเองคือ self-parking",
+      "distractors": [
+        "parallel parking",
+        "valley parking",
+        "free parking"
+      ]
+    },
+    {
+      "id": "car_wash",
+      "word": "car wash",
+      "pos": "noun",
+      "ipa": "/ˈkɑːr ˌwɑːʃ/",
+      "reading_th": "คาร์ วอช",
+      "meaning_th": "บริการล้างรถ",
+      "emoji": "🫧",
+      "example_en": "Take the car through the car wash before you return it.",
+      "example_th": "เอารถเข้าล้างก่อนคืน",
+      "cefr": "A1",
+      "note_th": "ร้านล้างรถและเครื่องล้างอัตโนมัติเรียก car wash เหมือนกัน — ล้างมือแบบไทยอธิบายว่า hand wash และล้างแบบไม่ใช้น้ำคือ waterless car wash",
+      "distractors": [
+        "car park",
+        "mouthwash",
+        "car race"
+      ]
+    },
+    {
+      "id": "mechanic",
+      "word": "mechanic",
+      "pos": "noun",
+      "ipa": "/məˈkænɪk/",
+      "reading_th": "มะ-แคน-นิค",
+      "meaning_th": "ช่างซ่อมรถ",
+      "emoji": "🧑‍🔧",
+      "example_en": "The mechanic said the noise comes from the brakes.",
+      "example_th": "ช่างบอกว่าเสียงดังมาจากเบรก",
+      "cefr": "A2",
+      "note_th": "เน้นพยางค์กลาง me-CHAN-ic และ ch ออกเสียง k — ส่วน mechanical = เชิงกล และ mechanics = วิชากลศาสตร์ ช่างซ่อมรถไทยพูดว่า my mechanic ได้เลย",
+      "distractors": [
+        "mechanism",
+        "magician",
+        "machine"
+      ]
+    },
+    {
+      "id": "auto_repair_shop",
+      "word": "auto repair shop",
+      "pos": "noun",
+      "ipa": "/ˌɔːtoʊ rɪˈper ˌʃɑːp/",
+      "reading_th": "ออ-โท ริ-แพร์ ช็อป",
+      "meaning_th": "อู่ซ่อมรถ",
+      "emoji": "🏭",
+      "example_en": "Is there an auto repair shop open on Sunday near here?",
+      "example_th": "แถวนี้มีอู่ซ่อมรถที่เปิดวันอาทิตย์ไหม",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียกอู่ว่า auto repair shop หรือ auto shop อังกฤษเรียก garage — ส่วนเข้าศูนย์ของยี่ห้อรถคือ take it to the dealer และเช็กระยะคือ a service",
+      "distractors": [
+        "auto parts shop",
+        "body shop",
+        "car dealer"
+      ]
+    },
+    {
+      "id": "wont_start",
+      "word": "won't start",
+      "pos": "phrase",
+      "ipa": "/ˌwoʊnt ˈstɑːrt/",
+      "reading_th": "โวนท์ สตาร์ท",
+      "meaning_th": "สตาร์ทไม่ติด",
+      "emoji": "🚫",
+      "example_en": "My car won't start, can you send someone?",
+      "example_th": "รถฉันสตาร์ทไม่ติด ส่งคนมาช่วยได้ไหม",
+      "cefr": "A2",
+      "note_th": "ประโยคแรกที่ต้องโทรบอกอู่ the car won't start — won't ใช้กับของที่ไม่ยอมทำงาน the door won't open, the phone won't turn on ไม่ใช่ can't",
+      "distractors": [
+        "won't stop",
+        "can't start",
+        "won't move"
+      ]
+    },
+    {
+      "id": "jump_start",
+      "word": "jump start",
+      "pos": "verb",
+      "ipa": "/ˌdʒʌmp ˈstɑːrt/",
+      "reading_th": "จัมพ์ สตาร์ท",
+      "meaning_th": "พ่วงแบตสตาร์ทรถ",
+      "emoji": "🔌",
+      "example_en": "Can you jump start my car with your cables?",
+      "example_th": "ช่วยพ่วงแบตสตาร์ทรถฉันด้วยสายของคุณได้ไหม",
+      "cefr": "B1",
+      "note_th": "พ่วงแบตจากรถอีกคัน สายพ่วงคือ jumper cables (อเมริกัน) / jump leads (อังกฤษ) — ใช้เปรียบเทียบได้ jump-start the economy = กระตุ้นเศรษฐกิจ",
+      "distractors": [
+        "kick start",
+        "jump rope",
+        "head start"
+      ]
+    },
+    {
+      "id": "dead_battery",
+      "word": "dead battery",
+      "pos": "noun",
+      "ipa": "/ˌded ˈbætəri/",
+      "reading_th": "เดด แบท-เทอ-รี่",
+      "meaning_th": "แบตเตอรี่หมด / แบตเสื่อม",
+      "emoji": "🪫",
+      "example_en": "A dead battery is the most common reason a car won't start.",
+      "example_th": "แบตหมดเป็นสาเหตุที่พบบ่อยที่สุดที่รถสตาร์ทไม่ติด",
+      "cefr": "A2",
+      "note_th": "แบตหมดใช้ dead ไม่ใช่ finished — the battery is dead / flat (อังกฤษ) ใช้กับมือถือได้ my phone is dead และแบตเสื่อมถาวรคือ the battery needs replacing",
+      "distractors": [
+        "low battery",
+        "dead end",
+        "battery pack"
+      ]
+    },
+    {
+      "id": "radiator",
+      "word": "radiator",
+      "pos": "noun",
+      "ipa": "/ˈreɪdieɪtər/",
+      "reading_th": "เร-ดิ-เอ-เทอร์",
+      "meaning_th": "หม้อน้ำรถ",
+      "emoji": "🌡️",
+      "example_en": "Steam is coming from the radiator, pull over now.",
+      "example_th": "มีไอน้ำพุ่งจากหม้อน้ำ จอดข้างทางเดี๋ยวนี้",
+      "cefr": "B1",
+      "note_th": "หม้อน้ำไทยคือ radiator ไม่ใช่ water pot — น้ำในหม้อน้ำคือ coolant และเครื่องร้อนเกินคือ the engine is overheating อาการยอดฮิตหน้าร้อนเมืองไทย",
+      "distractors": [
+        "radio",
+        "refrigerator",
+        "radiation"
+      ]
+    },
+    {
+      "id": "engine_light",
+      "word": "engine light",
+      "pos": "noun",
+      "ipa": "/ˈendʒɪn ˌlaɪt/",
+      "reading_th": "เอน-จิ้น ไลท์",
+      "meaning_th": "ไฟเตือนเครื่องยนต์",
+      "emoji": "🟠",
+      "example_en": "The engine light came on this morning, is it serious?",
+      "example_th": "ไฟเตือนเครื่องยนต์ขึ้นเมื่อเช้า ร้ายแรงไหม",
+      "cefr": "B1",
+      "note_th": "ชื่อเต็ม check engine light ไฟสีส้มรูปเครื่องยนต์ — ไฟเตือนขึ้นใช้ came on / is on และช่างจะเสียบเครื่องอ่านโค้ด read the error code",
+      "distractors": [
+        "headlight",
+        "engine oil",
+        "warning sign"
+      ]
+    },
+    {
+      "id": "oil_change",
+      "word": "oil change",
+      "pos": "noun",
+      "ipa": "/ˈɔɪl ˌtʃeɪndʒ/",
+      "reading_th": "ออยล์ เชนจ์",
+      "meaning_th": "เปลี่ยนถ่ายน้ำมันเครื่อง",
+      "emoji": "🛢️",
+      "example_en": "The car is due for an oil change next week.",
+      "example_th": "รถถึงกำหนดเปลี่ยนถ่ายน้ำมันเครื่องสัปดาห์หน้า",
+      "cefr": "B1",
+      "note_th": "น้ำมันเครื่อง = engine oil / motor oil ไม่ใช่ gas — ถึงกำหนดใช้ due for และสติกเกอร์บอกระยะครั้งถัดไปคือ next service",
+      "distractors": [
+        "oil spill",
+        "gear change",
+        "olive oil"
+      ]
+    },
+    {
+      "id": "stall",
+      "word": "stall",
+      "pos": "verb",
+      "ipa": "/stɔːl/",
+      "reading_th": "สตอล",
+      "meaning_th": "เครื่องดับกลางคัน",
+      "emoji": "💀",
+      "example_en": "The car may stall if you release the clutch too fast.",
+      "example_th": "รถอาจดับถ้าปล่อยคลัตช์เร็วเกินไป",
+      "cefr": "B2",
+      "note_th": "รถเกียร์ธรรมดาดับตอนออกตัวคืออาการ stall มือใหม่ทุกคนเคยเจอ — stall ยังแปลว่าแผงลอยในตลาด (market stall) และถ่วงเวลา (stop stalling!)",
+      "distractors": [
+        "stool",
+        "steal",
+        "still"
+      ]
+    },
+    {
+      "id": "puncture",
+      "word": "puncture",
+      "pos": "noun",
+      "ipa": "/ˈpʌŋktʃər/",
+      "reading_th": "พังค์-เชอร์",
+      "meaning_th": "ยางรั่ว",
+      "emoji": "📌",
+      "example_en": "A nail gave me a puncture on the way to work.",
+      "example_th": "ตะปูทำยางฉันรั่วระหว่างทางไปทำงาน",
+      "cefr": "B1",
+      "note_th": "ยางรั่วช้าๆ = a slow puncture ยางแบนแล้ว = a flat tire ยางระเบิด = a blowout — ร้านปะยางพูดว่า can you repair the puncture?",
+      "distractors": [
+        "punctual",
+        "puncher",
+        "pumpkin"
+      ]
+    },
+    {
+      "id": "brake_pad",
+      "word": "brake pad",
+      "pos": "noun",
+      "ipa": "/ˈbreɪk ˌpæd/",
+      "reading_th": "เบรค แพด",
+      "meaning_th": "ผ้าเบรก",
+      "emoji": "🟫",
+      "example_en": "The brake pad is worn out, that is why it squeaks.",
+      "example_th": "ผ้าเบรกหมดแล้ว เสียงเลยดังเอี๊ยด",
+      "cefr": "B1",
+      "note_th": "ผ้าเบรก = brake pads (มักพหูพจน์) จานเบรก = brake disc — เสียงเอี๊ยดคือ squeak และหมดสภาพคือ worn out ศัพท์ที่ช่างจะพูดตอนคิดเงิน",
+      "distractors": [
+        "mouse pad",
+        "brake light",
+        "knee pad"
+      ]
+    },
+    {
+      "id": "tire_pressure",
+      "word": "tire pressure",
+      "pos": "noun",
+      "ipa": "/ˈtaɪər ˌpreʃər/",
+      "reading_th": "ไท-เออร์ เพรช-เชอร์",
+      "meaning_th": "ลมยาง",
+      "emoji": "🎈",
+      "example_en": "Check the tire pressure once a month at the gas station.",
+      "example_th": "เช็กลมยางเดือนละครั้งที่ปั๊ม",
+      "cefr": "B1",
+      "note_th": "เติมลมยาง = put air in the tires ค่าที่แนะนำเขียนอยู่ที่ขอบประตูคนขับ หน่วย psi — ลมอ่อนคือ underinflated และรถใหม่มีไฟเตือน TPMS",
+      "distractors": [
+        "blood pressure",
+        "peer pressure",
+        "tire tread"
+      ]
+    },
+    {
+      "id": "roadside_assistance",
+      "word": "roadside assistance",
+      "pos": "noun",
+      "ipa": "/ˈroʊdsaɪd əˌsɪstəns/",
+      "reading_th": "โรด-ไซด์ อะ-ซิส-เทินส์",
+      "meaning_th": "บริการช่วยเหลือฉุกเฉินข้างทาง",
+      "emoji": "🆘",
+      "example_en": "Call roadside assistance, the number is on the rental key.",
+      "example_th": "โทรเรียกบริการช่วยเหลือข้างทาง เบอร์อยู่ที่พวงกุญแจรถเช่า",
+      "cefr": "B2",
+      "note_th": "บริการที่มากับประกันหรือบริษัทเช่ารถ ช่วยลากรถ พ่วงแบต เปลี่ยนยาง — roadside = ข้างถนน และ assistance เป็นคำทางการของ help",
+      "distractors": [
+        "road safety",
+        "first aid",
+        "customer assistance"
+      ]
+    },
+    {
+      "id": "tow",
+      "word": "tow",
+      "pos": "verb",
+      "ipa": "/toʊ/",
+      "reading_th": "โท",
+      "meaning_th": "ลากรถ",
+      "emoji": "🚚",
+      "example_en": "They had to tow the car to the nearest garage.",
+      "example_th": "พวกเขาต้องลากรถไปอู่ที่ใกล้ที่สุด",
+      "cefr": "B1",
+      "note_th": "ออกเสียง โท เหมือน toe (นิ้วเท้า) ไม่ใช่ ทาว — รถลากคือ tow truck รถโดนยกเพราะจอดผิดคือ my car got towed และป้าย tow-away zone = เขตยกรถ",
+      "distractors": [
+        "toe",
+        "two",
+        "tour"
+      ]
+    },
+    {
+      "id": "rear_end",
+      "word": "rear-end",
+      "pos": "verb",
+      "ipa": "/ˌrɪr ˈend/",
+      "reading_th": "เรียร์-เอนด์",
+      "meaning_th": "ชนท้าย",
+      "emoji": "💥",
+      "example_en": "A taxi tried to rear-end me at the red light.",
+      "example_th": "แท็กซี่เกือบชนท้ายฉันตอนติดไฟแดง",
+      "cefr": "B2",
+      "note_th": "rear = ด้านหลัง ชนท้ายคันหน้า — I got rear-ended = โดนชนท้าย และตามกฎส่วนใหญ่คันหลังผิดเสมอ (the car behind is at fault)",
+      "distractors": [
+        "rear seat",
+        "dead end",
+        "front-end"
+      ]
+    },
+    {
+      "id": "pile_up",
+      "word": "pile-up",
+      "pos": "noun",
+      "ipa": "/ˈpaɪl ʌp/",
+      "reading_th": "ไพล์-อัพ",
+      "meaning_th": "รถชนกันหลายคันต่อเนื่อง",
+      "emoji": "🚗",
+      "example_en": "A ten-car pile-up blocked the highway for an hour.",
+      "example_th": "รถชนกันสิบคันปิดทางหลวงไปหนึ่งชั่วโมง",
+      "cefr": "B2",
+      "note_th": "pile = กอง ชนกันซ้อนเป็นกอง มักเกิดจากหมอกหรือขับจี้ท้ายบนทางด่วน — ข่าวจะพาดหัวว่า a 20-car pile-up ส่วนชนกันธรรมดาสองคันคือ crash / collision",
+      "distractors": [
+        "pick-up",
+        "pile of cars",
+        "build-up"
+      ]
+    },
+    {
+      "id": "fender_bender",
+      "word": "fender bender",
+      "pos": "noun",
+      "ipa": "/ˈfendər ˌbendər/",
+      "reading_th": "เฟน-เดอร์ เบน-เดอร์",
+      "meaning_th": "อุบัติเหตุชนเล็กน้อย",
+      "emoji": "🤏",
+      "example_en": "It was just a fender bender, nobody was hurt.",
+      "example_th": "แค่เฉี่ยวชนเล็กน้อย ไม่มีใครบาดเจ็บ",
+      "cefr": "B2",
+      "note_th": "fender = บังโคลน bender = ทำให้งอ ชนเบาๆ แค่บุบ — คำอเมริกันแบบพูดเล่นๆ ใช้ตอนบอกว่าไม่ร้ายแรง ส่วนอังกฤษพูดว่า a minor bump",
+      "distractors": [
+        "fender",
+        "bender",
+        "gender"
+      ]
+    },
+    {
+      "id": "skid",
+      "word": "skid",
+      "pos": "verb",
+      "ipa": "/skɪd/",
+      "reading_th": "สคิด",
+      "meaning_th": "รถลื่นไถล",
+      "emoji": "🌀",
+      "example_en": "Cars skid easily on this road when it rains.",
+      "example_th": "รถลื่นไถลง่ายบนถนนสายนี้ตอนฝนตก",
+      "cefr": "B2",
+      "note_th": "ล้อล็อกแล้วรถไถล = skid รอยยางดำบนถนนคือ skid marks — ระบบกันล้อล็อก ABS ก็มีเพื่อกัน skid นี่เอง และ hydroplane = ลื่นบนน้ำ",
+      "distractors": [
+        "skip",
+        "skill",
+        "ski"
+      ]
+    },
+    {
+      "id": "dashcam",
+      "word": "dashcam",
+      "pos": "noun",
+      "ipa": "/ˈdæʃkæm/",
+      "reading_th": "แดช-แคม",
+      "meaning_th": "กล้องติดรถยนต์",
+      "emoji": "📹",
+      "example_en": "My dashcam recorded the whole accident.",
+      "example_th": "กล้องติดรถของฉันบันทึกอุบัติเหตุไว้ทั้งหมด",
+      "cefr": "B1",
+      "note_th": "ย่อจาก dashboard camera — หลักฐานชั้นดีให้ประกันและตำรวจ dashcam footage และบางประเทศเช่น ออสเตรีย ห้ามใช้ เช็กก่อนขับต่างประเทศ",
+      "distractors": [
+        "webcam",
+        "dashboard",
+        "bodycam"
+      ]
+    },
+    {
+      "id": "airbag",
+      "word": "airbag",
+      "pos": "noun",
+      "ipa": "/ˈerbæɡ/",
+      "reading_th": "แอร์-แบ็ก",
+      "meaning_th": "ถุงลมนิรภัย",
+      "emoji": "🎈",
+      "example_en": "The airbag went off and saved the driver's life.",
+      "example_th": "ถุงลมนิรภัยทำงานและช่วยชีวิตคนขับไว้",
+      "cefr": "B1",
+      "note_th": "ถุงลมทำงาน = the airbag went off / deployed — เด็กเล็กห้ามนั่งหน้าเพราะแรงถุงลม และรถราคาถูกจะโฆษณาว่า six airbags เป็นจุดขาย",
+      "distractors": [
+        "air bed",
+        "handbag",
+        "air pump"
+      ]
+    },
+    {
+      "id": "checkpoint",
+      "word": "checkpoint",
+      "pos": "noun",
+      "ipa": "/ˈtʃekpɔɪnt/",
+      "reading_th": "เช็ค-พอยท์",
+      "meaning_th": "ด่านตรวจ",
+      "emoji": "🚧",
+      "example_en": "There is a police checkpoint ahead, slow down.",
+      "example_th": "มีด่านตรวจตำรวจข้างหน้า ชะลอหน่อย",
+      "cefr": "B1",
+      "note_th": "ด่านตรวจไทยอธิบายฝรั่งว่า police checkpoint ด่านเป่าแอลกอฮอล์คือ sobriety checkpoint — ในเกมและซอฟต์แวร์ checkpoint แปลว่าจุดเซฟ",
+      "distractors": [
+        "checkout",
+        "checklist",
+        "viewpoint"
+      ]
+    },
+    {
+      "id": "registration",
+      "word": "registration",
+      "pos": "noun",
+      "ipa": "/ˌredʒɪˈstreɪʃn/",
+      "reading_th": "เร-จิส-เตร-ชั่น",
+      "meaning_th": "ทะเบียนรถ / เอกสารจดทะเบียน",
+      "emoji": "📑",
+      "example_en": "Keep the registration in the glove box, not at home.",
+      "example_th": "เก็บเอกสารทะเบียนรถไว้ในช่องเก็บของหน้ารถ ไม่ใช่ที่บ้าน",
+      "cefr": "B1",
+      "note_th": "ตำรวจจะขอ license and registration คู่กันเสมอ — เล่มทะเบียนสีน้ำเงินของไทยคือ registration book และป้ายทะเบียนคือ license plate ต่างกัน",
+      "distractors": [
+        "reservation",
+        "resignation",
+        "regulation"
+      ]
+    },
+    {
+      "id": "breathalyzer",
+      "word": "breathalyzer",
+      "pos": "noun",
+      "ipa": "/ˈbreθəlaɪzər/",
+      "reading_th": "เบรธ-ธะ-ไล-เซอร์",
+      "meaning_th": "เครื่องเป่าแอลกอฮอล์",
+      "emoji": "😮‍💨",
+      "example_en": "The officer asked him to blow into the breathalyzer.",
+      "example_th": "เจ้าหน้าที่ขอให้เขาเป่าเครื่องวัดแอลกอฮอล์",
+      "cefr": "B2",
+      "note_th": "breath + analyzer เป่าตรวจ = take a breath test / blow into the breathalyzer — ถ้าเกินคือ over the limit และปฏิเสธเป่าในหลายประเทศมีโทษเท่ากับเมา",
+      "distractors": [
+        "breathing",
+        "analyzer",
+        "stethoscope"
+      ]
+    },
+    {
+      "id": "insurance_claim",
+      "word": "insurance claim",
+      "pos": "noun",
+      "ipa": "/ɪnˈʃʊrəns ˌkleɪm/",
+      "reading_th": "อิน-ชัว-เรินส์ เคลม",
+      "meaning_th": "การเคลมประกัน",
+      "emoji": "📝",
+      "example_en": "File an insurance claim within seven days of the accident.",
+      "example_th": "ยื่นเคลมประกันภายในเจ็ดวันหลังเกิดเหตุ",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่า เคลม ก็มาจากคำนี้ แต่ฝรั่งใช้ make / file a claim — คนมาเคลมที่จุดเกิดเหตุคือ insurance adjuster และเอกสารแลกกันคือ claim form",
+      "distractors": [
+        "insurance policy",
+        "baggage claim",
+        "insurance premium"
+      ]
+    },
+    {
+      "id": "at_fault",
+      "word": "at fault",
+      "pos": "phrase",
+      "ipa": "/ət ˈfɔːlt/",
+      "reading_th": "แอท ฟอลท์",
+      "meaning_th": "เป็นฝ่ายผิด",
+      "emoji": "👈",
+      "example_en": "The police said the other driver was at fault.",
+      "example_th": "ตำรวจบอกว่าคนขับอีกฝ่ายเป็นฝ่ายผิด",
+      "cefr": "B2",
+      "note_th": "ใครผิด = who is at fault? ไม่ใช่ who is wrong — ฝ่ายผิดจะโดนประกันขึ้นเบี้ย และ fault ออกเสียง ฟอลท์ ไม่ใช่ เฟาท์ เหมือน false",
+      "distractors": [
+        "at risk",
+        "at first",
+        "by default"
+      ]
+    },
+    {
+      "id": "hit_and_run",
+      "word": "hit-and-run",
+      "pos": "noun",
+      "ipa": "/ˌhɪt ən ˈrʌn/",
+      "reading_th": "ฮิท-แอนด์-รัน",
+      "meaning_th": "ชนแล้วหนี",
+      "emoji": "🏃",
+      "example_en": "The hit-and-run was caught on a shop's camera.",
+      "example_th": "เหตุชนแล้วหนีถูกกล้องหน้าร้านจับภาพไว้ได้",
+      "cefr": "B1",
+      "note_th": "ตรงกับไทยคำต่อคำ ชน + หนี — เป็นคำคุณศัพท์ได้ a hit-and-run driver และถือเป็นอาชญากรรม ต่างจาก accident ธรรมดาที่แค่ทำประกัน",
+      "distractors": [
+        "hit the road",
+        "run away",
+        "hit-or-miss"
+      ]
+    },
+    {
+      "id": "road_rage",
+      "word": "road rage",
+      "pos": "noun",
+      "ipa": "/ˈroʊd ˌreɪdʒ/",
+      "reading_th": "โรด เรจ",
+      "meaning_th": "อาการโมโหบนถนน",
+      "emoji": "🤬",
+      "example_en": "Road rage is common in Bangkok's traffic jams.",
+      "example_th": "อาการโมโหบนถนนพบบ่อยตอนรถติดในกรุงเทพฯ",
+      "cefr": "B2",
+      "note_th": "rage = โกรธจัด ขับปาดหน้า ลงมาทะเลาะ — คนที่เป็นเรียก a road rager และวิธีเลี่ยงที่ฝรั่งแนะนำคือ don't engage ไม่ตอบโต้",
+      "distractors": [
+        "road trip",
+        "road race",
+        "rampage"
+      ]
+    },
+    {
+      "id": "exchange_details",
+      "word": "exchange details",
+      "pos": "phrase",
+      "ipa": "/ɪksˌtʃeɪndʒ ˈdiːteɪlz/",
+      "reading_th": "อิคส์-เชนจ์ ดี-เทลส์",
+      "meaning_th": "แลกข้อมูลติดต่อหลังชนกัน",
+      "emoji": "🤝",
+      "example_en": "After a small crash, just exchange details and take photos.",
+      "example_th": "ถ้าชนเล็กน้อย แค่แลกข้อมูลติดต่อแล้วถ่ายรูปไว้",
+      "cefr": "B1",
+      "note_th": "แลกชื่อ เบอร์ ทะเบียน และชื่อประกัน — ประโยคสำคัญคือ let's exchange details ถ้าอีกฝ่ายไม่ยอมแลกให้โทรตำรวจทันที และ details ยังหมายถึงรายละเอียดทั่วไป",
+      "distractors": [
+        "exchange rate",
+        "exchange money",
+        "change details"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "phrasal_verbs",
+    "name_en": "Phrasal Verbs",
+    "name_th": "Phrasal verbs ใช้บ่อย",
+    "emoji": "🔗",
+    "color_start": "#5EEAD4",
+    "color_end": "#0F766E",
+    "description_th": "กริยาวลีที่คนไทยกลัวที่สุด 98 ตัว ใช้บ่อยที่สุดในชีวิตจริง จัดเป็นกลุ่มจำง่าย",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "phrasal_verbs_1",
+        "title_en": "Daily Routine",
+        "title_th": "ชีวิตประจำวัน",
+        "emoji": "🏠",
+        "word_ids": [
+          "turn_on",
+          "turn_off",
+          "stay_up",
+          "sleep_in",
+          "hurry_up",
+          "clean_up",
+          "put_away",
+          "throw_away",
+          "eat_out",
+          "go_out",
+          "chill_out",
+          "work_out",
+          "run_out_of",
+          "plug_in"
+        ]
+      },
+      {
+        "id": "phrasal_verbs_2",
+        "title_en": "Relationships",
+        "title_th": "ความสัมพันธ์",
+        "emoji": "❤️",
+        "word_ids": [
+          "get_along",
+          "fall_for",
+          "fall_out",
+          "get_over",
+          "split_up",
+          "settle_down",
+          "look_after",
+          "bring_up",
+          "grow_up",
+          "let_down",
+          "count_on",
+          "look_up_to",
+          "put_up_with",
+          "get_together"
+        ]
+      },
+      {
+        "id": "phrasal_verbs_3",
+        "title_en": "At Work",
+        "title_th": "ที่ทำงาน",
+        "emoji": "💼",
+        "word_ids": [
+          "set_up",
+          "carry_out",
+          "come_up_with",
+          "figure_out",
+          "work_on",
+          "sort_out",
+          "take_over",
+          "take_on",
+          "call_off",
+          "put_off",
+          "wrap_up",
+          "catch_up",
+          "keep_up_with",
+          "deal_with"
+        ]
+      },
+      {
+        "id": "phrasal_verbs_4",
+        "title_en": "On the Road",
+        "title_th": "ออกเดินทาง",
+        "emoji": "🚗",
+        "word_ids": [
+          "set_off",
+          "get_away",
+          "get_in",
+          "get_out",
+          "pull_over",
+          "slow_down",
+          "speed_up",
+          "turn_around",
+          "break_down",
+          "look_around",
+          "show_around",
+          "see_off",
+          "run_into",
+          "come_along"
+        ]
+      },
+      {
+        "id": "phrasal_verbs_5",
+        "title_en": "Money Moves",
+        "title_th": "เรื่องเงิน",
+        "emoji": "💰",
+        "word_ids": [
+          "pay_off",
+          "save_up",
+          "splash_out",
+          "rip_off",
+          "chip_in",
+          "add_up",
+          "cut_down_on",
+          "give_away",
+          "take_out",
+          "put_aside",
+          "fork_out",
+          "take_back",
+          "go_up",
+          "come_down"
+        ]
+      },
+      {
+        "id": "phrasal_verbs_6",
+        "title_en": "Problems",
+        "title_th": "เจอปัญหา",
+        "emoji": "🧯",
+        "word_ids": [
+          "mess_up",
+          "go_wrong",
+          "end_up",
+          "fall_apart",
+          "go_through",
+          "get_through",
+          "look_into",
+          "turn_out",
+          "calm_down",
+          "keep_on",
+          "bounce_back",
+          "get_by",
+          "come_up",
+          "cut_off"
+        ]
+      },
+      {
+        "id": "phrasal_verbs_7",
+        "title_en": "Talking",
+        "title_th": "การสื่อสาร",
+        "emoji": "🗣️",
+        "word_ids": [
+          "speak_up",
+          "hang_up",
+          "hold_on",
+          "call_back",
+          "get_back_to",
+          "reach_out",
+          "find_out",
+          "look_up",
+          "turn_down",
+          "go_on",
+          "come_across",
+          "stand_for",
+          "leave_out",
+          "open_up"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "turn_on",
+      "word": "turn on",
+      "pos": "phrase",
+      "ipa": "/tɜːrn ɑːn/",
+      "reading_th": "เทิร์น ออน",
+      "meaning_th": "เปิด (ไฟ เครื่องใช้)",
+      "emoji": "💡",
+      "example_en": "Could you turn on the light, please?",
+      "example_th": "ช่วยเปิดไฟหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "แยกได้: turn on the TV หรือ turn the TV on — คนไทยชอบพูด open the light ซึ่งผิด เปิดของที่ใช้ไฟฟ้าต้องใช้ turn on",
+      "distractors": [
+        "turn off",
+        "turn up",
+        "put on"
+      ]
+    },
+    {
+      "id": "turn_off",
+      "word": "turn off",
+      "pos": "phrase",
+      "ipa": "/tɜːrn ɔːf/",
+      "reading_th": "เทิร์น ออฟ",
+      "meaning_th": "ปิด (ไฟ เครื่องใช้)",
+      "emoji": "🔌",
+      "example_en": "Please turn off your phone during the movie.",
+      "example_th": "กรุณาปิดโทรศัพท์ระหว่างชมภาพยนตร์",
+      "cefr": "A2",
+      "note_th": "แยกได้: turn off the fan หรือ turn it off (ถ้าเป็นสรรพนามต้องแทรกกลางเสมอ) — จำคู่ on/off เหมือนสวิตช์",
+      "distractors": [
+        "turn on",
+        "turn down",
+        "take off"
+      ]
+    },
+    {
+      "id": "stay_up",
+      "word": "stay up",
+      "pos": "phrase",
+      "ipa": "/steɪ ʌp/",
+      "reading_th": "สเตย์ อัพ",
+      "meaning_th": "อยู่ดึก ไม่ยอมนอน",
+      "emoji": "🌙",
+      "example_en": "I stay up late watching series almost every night.",
+      "example_th": "ฉันอยู่ดึกดูซีรีส์แทบทุกคืน",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — up คือยังตื่นอยู่ (ตรงข้ามกับล้มตัวลงนอน) ใช้คู่กับ late หรือ all night บ่อยมาก",
+      "distractors": [
+        "sleep in",
+        "stay in",
+        "get up"
+      ]
+    },
+    {
+      "id": "sleep_in",
+      "word": "sleep in",
+      "pos": "phrase",
+      "ipa": "/sliːp ɪn/",
+      "reading_th": "สลีพ อิน",
+      "meaning_th": "นอนตื่นสาย",
+      "emoji": "😴",
+      "example_en": "On Sundays I like to sleep in until ten.",
+      "example_th": "วันอาทิตย์ฉันชอบนอนตื่นสายถึงสิบโมง",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — in คือยังอยู่ในเตียง ใช้กับวันหยุดที่ตั้งใจนอนยาว ต่างจาก oversleep ที่แปลว่าตื่นสายโดยไม่ตั้งใจ",
+      "distractors": [
+        "stay up",
+        "sleep over",
+        "sleep on it"
+      ]
+    },
+    {
+      "id": "hurry_up",
+      "word": "hurry up",
+      "pos": "phrase",
+      "ipa": "/ˈhɜːri ʌp/",
+      "reading_th": "เฮอ-รี่ อัพ",
+      "meaning_th": "รีบๆ หน่อย",
+      "emoji": "🏃",
+      "example_en": "Hurry up or we'll miss the train!",
+      "example_th": "รีบๆ หน่อย ไม่งั้นเราตกรถไฟแน่",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — up เติมเข้าไปให้เร่งแรงขึ้น พูดสั้นๆ ว่า Hurry up! ได้เลย ฟังดูเป็นกันเองกว่า Be quick",
+      "distractors": [
+        "speed up",
+        "hold on",
+        "cheer up"
+      ]
+    },
+    {
+      "id": "clean_up",
+      "word": "clean up",
+      "pos": "phrase",
+      "ipa": "/kliːn ʌp/",
+      "reading_th": "คลีน อัพ",
+      "meaning_th": "ทำความสะอาดให้เรียบร้อย",
+      "emoji": "🧹",
+      "example_en": "Let's clean up the kitchen before Mom gets home.",
+      "example_th": "มาเก็บกวาดห้องครัวก่อนแม่กลับบ้านกันเถอะ",
+      "cefr": "A2",
+      "note_th": "แยกได้: clean up the mess / clean it up — up ให้ความรู้สึกว่าทำจนเสร็จสะอาดหมดจด ต่างจาก clean เฉยๆ ที่แค่ทำความสะอาด",
+      "distractors": [
+        "clear up",
+        "put away",
+        "wash up"
+      ]
+    },
+    {
+      "id": "put_away",
+      "word": "put away",
+      "pos": "phrase",
+      "ipa": "/pʊt əˈweɪ/",
+      "reading_th": "พุท อะ-เวย์",
+      "meaning_th": "เก็บเข้าที่",
+      "emoji": "🗄️",
+      "example_en": "Please put away your toys before dinner.",
+      "example_th": "เก็บของเล่นเข้าที่ก่อนกินข้าวเย็นนะ",
+      "cefr": "A2",
+      "note_th": "แยกได้: put away the dishes / put them away — away คือพ้นสายตาไปอยู่ที่ของมัน ใช้กับจาน เสื้อผ้า มือถือ (Put your phone away!)",
+      "distractors": [
+        "throw away",
+        "put off",
+        "clean up"
+      ]
+    },
+    {
+      "id": "throw_away",
+      "word": "throw away",
+      "pos": "phrase",
+      "ipa": "/θroʊ əˈweɪ/",
+      "reading_th": "โธรว์ อะ-เวย์",
+      "meaning_th": "ทิ้งลงถังขยะ",
+      "emoji": "🗑️",
+      "example_en": "Don't throw away the receipt, we might need it.",
+      "example_th": "อย่าทิ้งใบเสร็จนะ เราอาจต้องใช้",
+      "cefr": "A2",
+      "note_th": "แยกได้: throw away the box / throw it away — คนไทยมักพูด throw เฉยๆ ซึ่งแปลว่าขว้าง ต้องมี away ถึงจะเป็นทิ้ง",
+      "distractors": [
+        "put away",
+        "give away",
+        "throw up"
+      ]
+    },
+    {
+      "id": "eat_out",
+      "word": "eat out",
+      "pos": "phrase",
+      "ipa": "/iːt aʊt/",
+      "reading_th": "อีท เอาท์",
+      "meaning_th": "กินข้าวนอกบ้าน",
+      "emoji": "🍽️",
+      "example_en": "We eat out every Friday to celebrate the weekend.",
+      "example_th": "เรากินข้าวนอกบ้านทุกวันศุกร์เพื่อฉลองสุดสัปดาห์",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — out = นอกบ้าน ส่วน eat in = กินที่บ้าน และที่ร้านพนักงานจะถาม Eat in or take away?",
+      "distractors": [
+        "eat up",
+        "go out",
+        "take out"
+      ]
+    },
+    {
+      "id": "go_out",
+      "word": "go out",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ aʊt/",
+      "reading_th": "โก เอาท์",
+      "meaning_th": "ออกไปเที่ยวข้างนอก",
+      "emoji": "🌃",
+      "example_en": "Do you want to go out for a drink tonight?",
+      "example_th": "คืนนี้อยากออกไปดื่มข้างนอกไหม",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — ออกไปเที่ยวหรือสังสรรค์ ไม่ใช่แค่เดินออกประตู ส่วน go out with someone = คบเป็นแฟนกัน",
+      "distractors": [
+        "eat out",
+        "get out",
+        "go on"
+      ]
+    },
+    {
+      "id": "chill_out",
+      "word": "chill out",
+      "pos": "phrase",
+      "ipa": "/tʃɪl aʊt/",
+      "reading_th": "ชิล เอาท์",
+      "meaning_th": "พักผ่อนชิลๆ ใจเย็นๆ",
+      "emoji": "🛋️",
+      "example_en": "After work I just chill out with some music.",
+      "example_th": "หลังเลิกงานฉันแค่พักชิลๆ ฟังเพลง",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ภาษาพูด — คนไทยพูดชิลก็มาจากคำนี้ แต่ฝรั่งพูดเต็ม chill out และใช้บอกคนที่หัวร้อนได้ว่า Chill out!",
+      "distractors": [
+        "calm down",
+        "hang out",
+        "cool off"
+      ]
+    },
+    {
+      "id": "work_out",
+      "word": "work out",
+      "pos": "phrase",
+      "ipa": "/wɜːrk aʊt/",
+      "reading_th": "เวิร์ค เอาท์",
+      "meaning_th": "ออกกำลังกาย / ลงตัวสำเร็จ",
+      "emoji": "🏋️",
+      "example_en": "I work out at the gym three times a week.",
+      "example_th": "ฉันออกกำลังกายที่ยิมสัปดาห์ละสามครั้ง",
+      "cefr": "A2",
+      "note_th": "สองความหมายใช้บ่อยพอกัน: ออกกำลัง (ไม่มีกรรม) และ it worked out = เรื่องลงตัว — คนไทยพูดเวิร์คก็มาจากตรงนี้",
+      "distractors": [
+        "work on",
+        "warm up",
+        "run out of"
+      ]
+    },
+    {
+      "id": "run_out_of",
+      "word": "run out of",
+      "pos": "phrase",
+      "ipa": "/rʌn aʊt əv/",
+      "reading_th": "รัน เอาท์ ออฟ",
+      "meaning_th": "ของหมด ใช้จนหมด",
+      "emoji": "🧻",
+      "example_en": "We always run out of milk by Thursday.",
+      "example_th": "นมบ้านเราหมดทุกทีพอถึงวันพฤหัส",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ สามคำติดกันเสมอ — ใช้กับของกิน เงิน เวลา แบต (run out of battery) จำว่าของวิ่งหนีออกไปจนหมด",
+      "distractors": [
+        "run into",
+        "use up",
+        "work out"
+      ]
+    },
+    {
+      "id": "plug_in",
+      "word": "plug in",
+      "pos": "phrase",
+      "ipa": "/plʌɡ ɪn/",
+      "reading_th": "พลัก อิน",
+      "meaning_th": "เสียบปลั๊ก",
+      "emoji": "🔋",
+      "example_en": "Plug in your laptop before the battery dies.",
+      "example_th": "เสียบปลั๊กโน้ตบุ๊กก่อนแบตจะหมด",
+      "cefr": "A2",
+      "note_th": "แยกได้: plug in the charger / plug it in — ตรงข้ามคือ unplug (คำเดียว) ส่วนปลั๊กเสียบที่ผนังเรียก socket หรือ outlet",
+      "distractors": [
+        "turn on",
+        "plug up",
+        "log in"
+      ]
+    },
+    {
+      "id": "get_along",
+      "word": "get along",
+      "pos": "phrase",
+      "ipa": "/ɡet əˈlɔːŋ/",
+      "reading_th": "เก็ท อะ-ลอง",
+      "meaning_th": "เข้ากันได้ดี",
+      "emoji": "🤝",
+      "example_en": "I get along with my new roommate really well.",
+      "example_th": "ฉันเข้ากับรูมเมทคนใหม่ได้ดีมาก",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ตามด้วย with — จำว่าเดินไปด้วยกันตามทาง (along) ได้เรื่อยๆ ฝั่งอังกฤษพูด get on with ก็ความหมายเดียวกัน",
+      "distractors": [
+        "get together",
+        "get over",
+        "go along"
+      ]
+    },
+    {
+      "id": "fall_for",
+      "word": "fall for",
+      "pos": "phrase",
+      "ipa": "/fɔːl fɔːr/",
+      "reading_th": "ฟอล ฟอร์",
+      "meaning_th": "ตกหลุมรัก / หลงกล",
+      "emoji": "😍",
+      "example_en": "I think she's starting to fall for him.",
+      "example_th": "ฉันว่าเธอเริ่มตกหลุมรักเขาแล้วนะ",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — ตกหลุมรักคน หรือตกหลุมพรางหลอกลวง (Don't fall for that scam!) ภาพเดียวกันคือล้มลงไปโดยไม่ทันตั้งตัว",
+      "distractors": [
+        "fall out",
+        "fall apart",
+        "go for"
+      ]
+    },
+    {
+      "id": "fall_out",
+      "word": "fall out",
+      "pos": "phrase",
+      "ipa": "/fɔːl aʊt/",
+      "reading_th": "ฟอล เอาท์",
+      "meaning_th": "ทะเลาะจนเลิกคบ",
+      "emoji": "💔",
+      "example_en": "They fall out over money almost every month.",
+      "example_th": "พวกเขาทะเลาะกันเรื่องเงินแทบทุกเดือน",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ตามด้วย with คน / over เรื่อง — ภาพคือหลุดออกจากกลุ่มเพื่อน คำนามคือ falling-out = การทะเลาะครั้งใหญ่",
+      "distractors": [
+        "fall for",
+        "split up",
+        "fall behind"
+      ]
+    },
+    {
+      "id": "get_over",
+      "word": "get over",
+      "pos": "phrase",
+      "ipa": "/ɡet ˈoʊvər/",
+      "reading_th": "เก็ท โอ-เวอร์",
+      "meaning_th": "ทำใจได้ หายจาก",
+      "emoji": "🌈",
+      "example_en": "It took me a year to get over the breakup.",
+      "example_th": "ฉันใช้เวลาหนึ่งปีกว่าจะทำใจได้หลังเลิกกัน",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — ข้าม (over) ความเศร้าหรือไข้หวัดไปได้ ใช้ได้ทั้ง get over an ex และ get over a cold ส่วน Get over it! = เลิกฟูมฟายได้แล้ว",
+      "distractors": [
+        "get along",
+        "get through",
+        "go over"
+      ]
+    },
+    {
+      "id": "split_up",
+      "word": "split up",
+      "pos": "phrase",
+      "ipa": "/splɪt ʌp/",
+      "reading_th": "สปลิท อัพ",
+      "meaning_th": "เลิกกัน แยกทาง",
+      "emoji": "🚪",
+      "example_en": "Did you hear that Nan and Beam split up last week?",
+      "example_th": "ได้ข่าวไหมว่าแนนกับบีมเลิกกันเมื่ออาทิตย์ก่อน",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — split = ผ่าแยกเป็นสองส่วน ใช้ได้ทั้งคู่รักและวงดนตรี ส่วนแบ่งกลุ่มทำงานก็ใช้ split up into groups",
+      "distractors": [
+        "fall out",
+        "settle down",
+        "split the bill"
+      ]
+    },
+    {
+      "id": "settle_down",
+      "word": "settle down",
+      "pos": "phrase",
+      "ipa": "/ˈsetəl daʊn/",
+      "reading_th": "เซท-เทิล ดาวน์",
+      "meaning_th": "ลงหลักปักฐาน",
+      "emoji": "🏡",
+      "example_en": "After years of travelling, he wants to settle down in Chiang Mai.",
+      "example_th": "หลังเที่ยวมาหลายปี เขาอยากลงหลักปักฐานที่เชียงใหม่",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — เลิกเร่ร่อนแล้วปักหลักมีครอบครัว ญาติผู้ใหญ่ชอบถาม When are you going to settle down? อีกความหมายคือสงบลง (Settle down, kids!)",
+      "distractors": [
+        "settle in",
+        "split up",
+        "calm down"
+      ]
+    },
+    {
+      "id": "look_after",
+      "word": "look after",
+      "pos": "phrase",
+      "ipa": "/lʊk ˈæftər/",
+      "reading_th": "ลุค อาฟ-เทอร์",
+      "meaning_th": "ดูแล เลี้ยงดู",
+      "emoji": "🧑‍🍼",
+      "example_en": "Can you look after my cat while I'm away?",
+      "example_th": "ช่วยดูแลแมวฉันตอนฉันไม่อยู่ได้ไหม",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ กรรมอยู่หลัง after เสมอ — เหมือน take care of ทุกประการ ฝั่งอังกฤษใช้ look after บ่อยกว่า",
+      "distractors": [
+        "look for",
+        "look up to",
+        "look into"
+      ]
+    },
+    {
+      "id": "bring_up",
+      "word": "bring up",
+      "pos": "phrase",
+      "ipa": "/brɪŋ ʌp/",
+      "reading_th": "บริง อัพ",
+      "meaning_th": "เลี้ยงดูจนโต / ยกเรื่องขึ้นมาพูด",
+      "emoji": "👨‍👧",
+      "example_en": "My grandmother helped bring up all five of us.",
+      "example_th": "คุณยายช่วยเลี้ยงดูพวกเราทั้งห้าคนจนโต",
+      "cefr": "B1",
+      "note_th": "แยกได้: bring up a child / bring her up — อีกความหมายคือยกประเด็นขึ้นมา (Don't bring up politics at dinner.) จำว่ายกขึ้นมาทั้งสองแบบ",
+      "distractors": [
+        "grow up",
+        "bring back",
+        "look after"
+      ]
+    },
+    {
+      "id": "grow_up",
+      "word": "grow up",
+      "pos": "phrase",
+      "ipa": "/ɡroʊ ʌp/",
+      "reading_th": "โกรว์ อัพ",
+      "meaning_th": "เติบโตขึ้น โตเป็นผู้ใหญ่",
+      "emoji": "🌱",
+      "example_en": "I grew up in a small town, but I want my kids to grow up here.",
+      "example_th": "ฉันโตมาในเมืองเล็กๆ แต่อยากให้ลูกโตที่นี่",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — grow up คือตัวเองโต ส่วน bring up คือคนอื่นเลี้ยงเราให้โต อีกแบบคือด่าว่า Grow up! = โตได้แล้ว อย่าทำตัวเป็นเด็ก",
+      "distractors": [
+        "bring up",
+        "get up",
+        "grow out of"
+      ]
+    },
+    {
+      "id": "let_down",
+      "word": "let down",
+      "pos": "phrase",
+      "ipa": "/let daʊn/",
+      "reading_th": "เล็ท ดาวน์",
+      "meaning_th": "ทำให้ผิดหวัง",
+      "emoji": "😞",
+      "example_en": "Please don't let me down this time.",
+      "example_th": "ครั้งนี้อย่าทำให้ฉันผิดหวังนะ",
+      "cefr": "B1",
+      "note_th": "แยกได้และมักแทรกกรรมกลาง let someone down — ภาพคือปล่อยให้คนที่หวังพึ่งตกลงมา คำนาม a letdown = เรื่องน่าผิดหวัง",
+      "distractors": [
+        "put down",
+        "let go",
+        "calm down"
+      ]
+    },
+    {
+      "id": "count_on",
+      "word": "count on",
+      "pos": "phrase",
+      "ipa": "/kaʊnt ɑːn/",
+      "reading_th": "เคานท์ ออน",
+      "meaning_th": "พึ่งพาได้ ไว้ใจได้",
+      "emoji": "🫱",
+      "example_en": "You can always count on me when you need help.",
+      "example_th": "คุณพึ่งฉันได้เสมอเวลาต้องการความช่วยเหลือ",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — นับรวมคนนั้นไว้ในแผนได้เลย ความหมายเดียวกับ rely on / depend on ส่วน Count me in! = นับฉันด้วยคนนะ",
+      "distractors": [
+        "depend on",
+        "count in",
+        "look up to"
+      ]
+    },
+    {
+      "id": "look_up_to",
+      "word": "look up to",
+      "pos": "phrase",
+      "ipa": "/lʊk ʌp tuː/",
+      "reading_th": "ลุค อัพ ทู",
+      "meaning_th": "นับถือ ยึดเป็นแบบอย่าง",
+      "emoji": "🌟",
+      "example_en": "Many young players look up to Buakaw.",
+      "example_th": "นักกีฬารุ่นเยาว์หลายคนยึดบัวขาวเป็นแบบอย่าง",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ สามคำติดกัน — แหงนมอง (up) คนที่อยู่สูงกว่าด้วยความนับถือ ตรงข้ามคือ look down on = ดูถูก",
+      "distractors": [
+        "look down on",
+        "look after",
+        "look up"
+      ]
+    },
+    {
+      "id": "put_up_with",
+      "word": "put up with",
+      "pos": "phrase",
+      "ipa": "/pʊt ʌp wɪð/",
+      "reading_th": "พุท อัพ วิธ",
+      "meaning_th": "ทนกับ อดทนรับ",
+      "emoji": "😑",
+      "example_en": "I can't put up with his snoring any longer.",
+      "example_th": "ฉันทนเสียงกรนของเขาต่อไปไม่ไหวแล้ว",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ สามคำติดกัน — ความหมายเดียวกับ tolerate แต่เป็นภาษาพูด มักใช้ในประโยคปฏิเสธ can't put up with",
+      "distractors": [
+        "put off",
+        "deal with",
+        "put down"
+      ]
+    },
+    {
+      "id": "get_together",
+      "word": "get together",
+      "pos": "phrase",
+      "ipa": "/ɡet təˈɡeðər/",
+      "reading_th": "เก็ท ทู-เก-เธอร์",
+      "meaning_th": "นัดเจอกัน รวมตัว",
+      "emoji": "🥂",
+      "example_en": "Let's get together for dinner next week.",
+      "example_th": "สัปดาห์หน้านัดเจอกันกินข้าวเย็นเถอะ",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — คำนาม a get-together = งานรวมตัวเล็กๆ ไม่เป็นทางการ ส่วน get together with someone อาจแปลว่าเริ่มคบกันก็ได้",
+      "distractors": [
+        "get along",
+        "go out",
+        "catch up"
+      ]
+    },
+    {
+      "id": "set_up",
+      "word": "set up",
+      "pos": "phrase",
+      "ipa": "/set ʌp/",
+      "reading_th": "เซ็ท อัพ",
+      "meaning_th": "ติดตั้ง จัดเตรียม ก่อตั้ง",
+      "emoji": "🛠️",
+      "example_en": "IT will set up your email on the first day.",
+      "example_th": "ฝ่ายไอทีจะติดตั้งอีเมลให้คุณในวันแรก",
+      "cefr": "A2",
+      "note_th": "แยกได้: set up a meeting / set it up — ใช้กับระบบ ประชุม บริษัท (set up a company) ส่วนคำนาม setup = การตั้งค่าหรือโต๊ะทำงาน",
+      "distractors": [
+        "set off",
+        "put up",
+        "sort out"
+      ]
+    },
+    {
+      "id": "carry_out",
+      "word": "carry out",
+      "pos": "phrase",
+      "ipa": "/ˈkæri aʊt/",
+      "reading_th": "แค-รี่ เอาท์",
+      "meaning_th": "ดำเนินการ ปฏิบัติตามแผน",
+      "emoji": "📋",
+      "example_en": "The team will carry out the survey next month.",
+      "example_th": "ทีมจะดำเนินการสำรวจในเดือนหน้า",
+      "cefr": "B1",
+      "note_th": "แยกได้: carry out a plan / carry it out — ศัพท์ทางการในรายงานและข่าว ใช้กับ research, survey, order ไม่ใช่แบกของออกไป",
+      "distractors": [
+        "carry on",
+        "take out",
+        "figure out"
+      ]
+    },
+    {
+      "id": "come_up_with",
+      "word": "come up with",
+      "pos": "phrase",
+      "ipa": "/kʌm ʌp wɪð/",
+      "reading_th": "คัม อัพ วิธ",
+      "meaning_th": "คิดไอเดียขึ้นมาได้",
+      "emoji": "💡",
+      "example_en": "We need to come up with a name for the app.",
+      "example_th": "เราต้องคิดชื่อแอปขึ้นมาให้ได้",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ สามคำติดกัน — ไอเดียลอยขึ้นมา (up) พร้อมกับ (with) เรา ใช้กับ idea, plan, solution, excuse",
+      "distractors": [
+        "come across",
+        "come up",
+        "figure out"
+      ]
+    },
+    {
+      "id": "figure_out",
+      "word": "figure out",
+      "pos": "phrase",
+      "ipa": "/ˈfɪɡjər aʊt/",
+      "reading_th": "ฟิก-เกอร์ เอาท์",
+      "meaning_th": "คิดออก หาคำตอบได้",
+      "emoji": "🧩",
+      "example_en": "I can't figure out how to use this printer.",
+      "example_th": "ฉันคิดไม่ออกว่าจะใช้เครื่องพิมพ์นี้ยังไง",
+      "cefr": "B1",
+      "note_th": "แยกได้: figure out the answer / figure it out — ภาษาอเมริกัน ใช้แทน understand/solve ได้แทบทุกที่ ฝั่งอังกฤษพูด work out",
+      "distractors": [
+        "find out",
+        "come up with",
+        "sort out"
+      ]
+    },
+    {
+      "id": "work_on",
+      "word": "work on",
+      "pos": "phrase",
+      "ipa": "/wɜːrk ɑːn/",
+      "reading_th": "เวิร์ค ออน",
+      "meaning_th": "กำลังทำ (งาน) อยู่",
+      "emoji": "👩‍💻",
+      "example_en": "I'm working on the slides for Monday's meeting.",
+      "example_th": "ฉันกำลังทำสไลด์สำหรับประชุมวันจันทร์อยู่",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — ตอบหัวหน้าว่า I'm working on it. = กำลังจัดการอยู่ครับ ใช้กับการพัฒนาตัวเองด้วย work on my English",
+      "distractors": [
+        "work out",
+        "carry out",
+        "deal with"
+      ]
+    },
+    {
+      "id": "sort_out",
+      "word": "sort out",
+      "pos": "phrase",
+      "ipa": "/sɔːrt aʊt/",
+      "reading_th": "ซอร์ท เอาท์",
+      "meaning_th": "จัดการให้เรียบร้อย แก้ไข",
+      "emoji": "✅",
+      "example_en": "Let me sort out the visa problem before we book.",
+      "example_th": "ขอฉันจัดการเรื่องวีซ่าให้เรียบร้อยก่อนจองนะ",
+      "cefr": "B1",
+      "note_th": "แยกได้: sort out the problem / sort it out — ภาษาอังกฤษฝั่งอังกฤษชอบมาก ใช้ได้ทั้งแยกของเป็นหมวดและเคลียร์ปัญหา",
+      "distractors": [
+        "figure out",
+        "deal with",
+        "sort through"
+      ]
+    },
+    {
+      "id": "take_over",
+      "word": "take over",
+      "pos": "phrase",
+      "ipa": "/teɪk ˈoʊvər/",
+      "reading_th": "เทค โอ-เวอร์",
+      "meaning_th": "เข้ามารับช่วงต่อ ครอบครอง",
+      "emoji": "👑",
+      "example_en": "Who will take over the project when Jane leaves?",
+      "example_th": "ใครจะรับช่วงโปรเจกต์ต่อตอนเจนลาออก",
+      "cefr": "B1",
+      "note_th": "แยกได้: take over the shop / take it over — ใช้กับการรับช่วงงาน กิจการ หรือบริษัทซื้อบริษัท (a takeover) ไม่ใช่เทคโอเวอร์แฟนคนอื่นนะ",
+      "distractors": [
+        "take on",
+        "take out",
+        "hand over"
+      ]
+    },
+    {
+      "id": "take_on",
+      "word": "take on",
+      "pos": "phrase",
+      "ipa": "/teɪk ɑːn/",
+      "reading_th": "เทค ออน",
+      "meaning_th": "รับงานเพิ่ม รับคนเข้าทำงาน",
+      "emoji": "📥",
+      "example_en": "Don't take on more work than you can handle.",
+      "example_th": "อย่ารับงานเพิ่มเกินกว่าที่จะรับไหว",
+      "cefr": "B1",
+      "note_th": "แยกได้: take on a task / take it on — แบกความรับผิดชอบขึ้นบ่า ใช้กับงาน ลูกค้า หรือรับพนักงานใหม่ (take on staff)",
+      "distractors": [
+        "take over",
+        "take up",
+        "put on"
+      ]
+    },
+    {
+      "id": "call_off",
+      "word": "call off",
+      "pos": "phrase",
+      "ipa": "/kɔːl ɔːf/",
+      "reading_th": "คอล ออฟ",
+      "meaning_th": "ยกเลิก (นัด งาน)",
+      "emoji": "❌",
+      "example_en": "They had to call off the meeting because of the storm.",
+      "example_th": "พวกเขาต้องยกเลิกการประชุมเพราะพายุ",
+      "cefr": "B1",
+      "note_th": "แยกได้: call off the event / call it off — ความหมายเดียวกับ cancel แต่เป็นภาษาพูด ใช้กับงานแต่ง นัดหมาย การประท้วง",
+      "distractors": [
+        "put off",
+        "call back",
+        "cut off"
+      ]
+    },
+    {
+      "id": "put_off",
+      "word": "put off",
+      "pos": "phrase",
+      "ipa": "/pʊt ɔːf/",
+      "reading_th": "พุท ออฟ",
+      "meaning_th": "เลื่อนออกไป ผัดวันประกันพรุ่ง",
+      "emoji": "📅",
+      "example_en": "Stop putting off the dentist appointment!",
+      "example_th": "เลิกเลื่อนนัดหมอฟันได้แล้ว",
+      "cefr": "B1",
+      "note_th": "แยกได้: put off the trip / put it off — ต่างจาก call off ที่ยกเลิกเลย put off แค่เลื่อน เหมือน postpone ส่วน put me off = ทำให้หมดอารมณ์",
+      "distractors": [
+        "call off",
+        "put away",
+        "put on"
+      ]
+    },
+    {
+      "id": "wrap_up",
+      "word": "wrap up",
+      "pos": "phrase",
+      "ipa": "/ræp ʌp/",
+      "reading_th": "แร็พ อัพ",
+      "meaning_th": "สรุปปิดงาน ทำให้เสร็จ",
+      "emoji": "🎁",
+      "example_en": "Let's wrap up the meeting with a quick summary.",
+      "example_th": "มาปิดประชุมด้วยการสรุปสั้นๆ กันเถอะ",
+      "cefr": "B1",
+      "note_th": "แยกได้: wrap up the project / wrap it up — ห่อของให้เสร็จเรียบร้อย ผู้ดำเนินรายการชอบพูด Let's wrap it up. ตอนใกล้หมดเวลา",
+      "distractors": [
+        "wind up",
+        "set up",
+        "sum up"
+      ]
+    },
+    {
+      "id": "catch_up",
+      "word": "catch up",
+      "pos": "phrase",
+      "ipa": "/kætʃ ʌp/",
+      "reading_th": "แคทช์ อัพ",
+      "meaning_th": "ตามให้ทัน / คุยอัปเดตชีวิต",
+      "emoji": "🏃‍♀️",
+      "example_en": "I need to catch up on emails after the holiday.",
+      "example_th": "ฉันต้องตามอีเมลให้ทันหลังวันหยุด",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — catch up on งานที่ค้าง หรือ catch up with เพื่อนที่ไม่ได้เจอนาน (Let's catch up over coffee!) ภาพคือวิ่งไล่ให้ทัน",
+      "distractors": [
+        "keep up with",
+        "catch on",
+        "get together"
+      ]
+    },
+    {
+      "id": "keep_up_with",
+      "word": "keep up with",
+      "pos": "phrase",
+      "ipa": "/kiːp ʌp wɪð/",
+      "reading_th": "คีพ อัพ วิธ",
+      "meaning_th": "ตามให้ทันตลอด ไม่ตกขบวน",
+      "emoji": "📈",
+      "example_en": "It's hard to keep up with all the new AI tools.",
+      "example_th": "ตามเครื่องมือ AI ใหม่ๆ ให้ทันตลอดนี่ยากจริง",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ สามคำติดกัน — catch up คือไล่ให้ทันครั้งเดียว แต่ keep up with คือรักษาระดับให้ทันต่อเนื่อง ใช้กับข่าว เทรนด์ เพื่อนร่วมชั้น",
+      "distractors": [
+        "catch up",
+        "keep up",
+        "put up with"
+      ]
+    },
+    {
+      "id": "deal_with",
+      "word": "deal with",
+      "pos": "phrase",
+      "ipa": "/diːl wɪð/",
+      "reading_th": "ดีล วิธ",
+      "meaning_th": "รับมือ จัดการกับ",
+      "emoji": "🧯",
+      "example_en": "Customer service has to deal with angry callers daily.",
+      "example_th": "ฝ่ายบริการลูกค้าต้องรับมือกับคนโทรมาโวยทุกวัน",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — ใช้กับปัญหา คน หรืออารมณ์ ประโยคปลงๆ คือ I'll deal with it. ส่วน Deal with it! = ทำใจรับซะ",
+      "distractors": [
+        "sort out",
+        "put up with",
+        "deal in"
+      ]
+    },
+    {
+      "id": "set_off",
+      "word": "set off",
+      "pos": "phrase",
+      "ipa": "/set ɔːf/",
+      "reading_th": "เซ็ท ออฟ",
+      "meaning_th": "ออกเดินทาง (เริ่มทริป)",
+      "emoji": "🧳",
+      "example_en": "We set off for Khao Yai at six in the morning.",
+      "example_th": "เราออกเดินทางไปเขาใหญ่ตอนหกโมงเช้า",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้เมื่อแปลว่าออกเดินทาง (ฝั่งอังกฤษใช้บ่อย เหมือน set out) — ระวัง set off the alarm = ทำสัญญาณเตือนดัง",
+      "distractors": [
+        "set up",
+        "take off",
+        "get away"
+      ]
+    },
+    {
+      "id": "get_away",
+      "word": "get away",
+      "pos": "phrase",
+      "ipa": "/ɡet əˈweɪ/",
+      "reading_th": "เก็ท อะ-เวย์",
+      "meaning_th": "หนีไปพักผ่อน หลุดพ้น",
+      "emoji": "🏝️",
+      "example_en": "I just want to get away from the city this weekend.",
+      "example_th": "สุดสัปดาห์นี้ฉันแค่อยากหนีจากเมืองไปพัก",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — คำนาม a getaway = ทริปสั้นๆ หนีเมือง ส่วน get away with = ทำผิดแล้วรอดตัว (He got away with cheating.)",
+      "distractors": [
+        "get out",
+        "set off",
+        "run away"
+      ]
+    },
+    {
+      "id": "get_in",
+      "word": "get in",
+      "pos": "phrase",
+      "ipa": "/ɡet ɪn/",
+      "reading_th": "เก็ท อิน",
+      "meaning_th": "ขึ้นรถ (เก๋ง แท็กซี่) / มาถึง",
+      "emoji": "🚕",
+      "example_en": "Get in, I'll drive you to the airport.",
+      "example_th": "ขึ้นรถมา เดี๋ยวขับไปส่งสนามบิน",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — รถเล็กที่ต้องก้มเข้าไปใช้ get in / get out ส่วนรถเมล์ รถไฟ เครื่องบินที่เดินขึ้นใช้ get on / get off อีกความหมาย: What time did you get in? = ถึงกี่โมง",
+      "distractors": [
+        "get out",
+        "get on",
+        "come in"
+      ]
+    },
+    {
+      "id": "get_out",
+      "word": "get out",
+      "pos": "phrase",
+      "ipa": "/ɡet aʊt/",
+      "reading_th": "เก็ท เอาท์",
+      "meaning_th": "ลงจากรถ / ออกไปข้างนอก",
+      "emoji": "🚪",
+      "example_en": "Let's get out of the car and stretch our legs.",
+      "example_th": "ลงจากรถไปยืดเส้นยืดสายกันเถอะ",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ตามด้วย of เมื่อมีกรรม — get out of the taxi แต่ Get out! เฉยๆ ที่ตะโกนใส่คนแปลว่าออกไปเดี๋ยวนี้ หรือใช้ตกใจแบบ ไม่จริงน่า!",
+      "distractors": [
+        "get in",
+        "get off",
+        "go out"
+      ]
+    },
+    {
+      "id": "pull_over",
+      "word": "pull over",
+      "pos": "phrase",
+      "ipa": "/pʊl ˈoʊvər/",
+      "reading_th": "พุล โอ-เวอร์",
+      "meaning_th": "จอดรถข้างทาง",
+      "emoji": "🛑",
+      "example_en": "Can you pull over at the 7-Eleven ahead?",
+      "example_th": "จอดข้างทางที่เซเว่นข้างหน้าได้ไหม",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้เมื่อตัวเองจอด แต่ตำรวจ pull someone over = เรียกให้จอด — ภาพคือดึงพวงมาลัยเบี่ยงไปด้านข้าง",
+      "distractors": [
+        "pull up",
+        "turn around",
+        "slow down"
+      ]
+    },
+    {
+      "id": "slow_down",
+      "word": "slow down",
+      "pos": "phrase",
+      "ipa": "/sloʊ daʊn/",
+      "reading_th": "สโลว์ ดาวน์",
+      "meaning_th": "ชะลอความเร็ว ช้าลง",
+      "emoji": "🐢",
+      "example_en": "Slow down, the road is wet and slippery.",
+      "example_th": "ชะลอความเร็วหน่อย ถนนเปียกลื่น",
+      "cefr": "A2",
+      "note_th": "แยกได้ถ้ามีกรรม (slow the car down) — ใช้กับรถ การพูด หรือชีวิต (You need to slow down. = พักบ้างเถอะ) ตรงข้ามคือ speed up",
+      "distractors": [
+        "speed up",
+        "calm down",
+        "pull over"
+      ]
+    },
+    {
+      "id": "speed_up",
+      "word": "speed up",
+      "pos": "phrase",
+      "ipa": "/spiːd ʌp/",
+      "reading_th": "สปีด อัพ",
+      "meaning_th": "เร่งความเร็ว",
+      "emoji": "💨",
+      "example_en": "The driver started to speed up on the highway.",
+      "example_th": "คนขับเริ่มเร่งความเร็วบนทางหลวง",
+      "cefr": "A2",
+      "note_th": "แยกได้: speed up the process / speed it up — hurry up ใช้กับคน แต่ speed up ใช้กับรถ เครื่องจักร หรือขั้นตอนงานก็ได้",
+      "distractors": [
+        "slow down",
+        "hurry up",
+        "pick up"
+      ]
+    },
+    {
+      "id": "turn_around",
+      "word": "turn around",
+      "pos": "phrase",
+      "ipa": "/tɜːrn əˈraʊnd/",
+      "reading_th": "เทิร์น อะ-ราวน์",
+      "meaning_th": "กลับรถ หันกลับ",
+      "emoji": "🔄",
+      "example_en": "We missed the exit, so we have to turn around.",
+      "example_th": "เราเลยทางออกมา เลยต้องกลับรถ",
+      "cefr": "A2",
+      "note_th": "แยกได้ถ้ามีกรรม (turn the car around) — ในธุรกิจ turn the company around = พลิกฟื้นบริษัทจากขาดทุน (a turnaround)",
+      "distractors": [
+        "turn down",
+        "pull over",
+        "go back"
+      ]
+    },
+    {
+      "id": "break_down",
+      "word": "break down",
+      "pos": "phrase",
+      "ipa": "/breɪk daʊn/",
+      "reading_th": "เบรค ดาวน์",
+      "meaning_th": "รถเสียกลางทาง / ร้องไห้ฟูมฟาย",
+      "emoji": "🚗",
+      "example_en": "Our van might break down if we don't fix the engine.",
+      "example_th": "รถตู้เราอาจเสียกลางทางถ้าไม่ซ่อมเครื่อง",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — ใช้กับรถและเครื่องจักรที่หยุดทำงาน กับคนแปลว่าสติแตกร้องไห้ ส่วนคำนาม breakdown = รายการแจกแจงค่าใช้จ่าย",
+      "distractors": [
+        "break up",
+        "fall apart",
+        "break in"
+      ]
+    },
+    {
+      "id": "look_around",
+      "word": "look around",
+      "pos": "phrase",
+      "ipa": "/lʊk əˈraʊnd/",
+      "reading_th": "ลุค อะ-ราวน์",
+      "meaning_th": "เดินดูรอบๆ",
+      "emoji": "👀",
+      "example_en": "We have an hour to look around the old town.",
+      "example_th": "เรามีเวลาหนึ่งชั่วโมงเดินดูรอบๆ เมืองเก่า",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — ในร้านค้าพนักงานถาม Can I help you? ตอบ I'm just looking around. = แค่ดูเฉยๆ ครับ ประโยคช่วยชีวิตนักช้อป",
+      "distractors": [
+        "look after",
+        "show around",
+        "look for"
+      ]
+    },
+    {
+      "id": "show_around",
+      "word": "show around",
+      "pos": "phrase",
+      "ipa": "/ʃoʊ əˈraʊnd/",
+      "reading_th": "โชว์ อะ-ราวน์",
+      "meaning_th": "พาเดินชม พาทัวร์",
+      "emoji": "🗺️",
+      "example_en": "Let me show you around the office first.",
+      "example_th": "ขอพาคุณเดินชมออฟฟิศก่อนนะ",
+      "cefr": "B1",
+      "note_th": "แยกเสมอ กรรมอยู่กลาง show someone around — ตามด้วยสถานที่ได้ show you around Bangkok ใช้ตอนรับแขกหรือพนักงานใหม่",
+      "distractors": [
+        "look around",
+        "show off",
+        "show up"
+      ]
+    },
+    {
+      "id": "see_off",
+      "word": "see off",
+      "pos": "phrase",
+      "ipa": "/siː ɔːf/",
+      "reading_th": "ซี ออฟ",
+      "meaning_th": "ไปส่งที่สนามบิน/สถานี",
+      "emoji": "👋",
+      "example_en": "My whole family came to see me off at the airport.",
+      "example_th": "ครอบครัวมาส่งฉันที่สนามบินกันทั้งบ้าน",
+      "cefr": "B1",
+      "note_th": "แยกเสมอ see someone off — คนไทยชอบพูด send you ซึ่งแปลว่าส่งพัสดุ ไปส่งคนต้องใช้ see off (ที่สถานี) หรือ drop off (ขับไปส่ง)",
+      "distractors": [
+        "see out",
+        "show around",
+        "set off"
+      ]
+    },
+    {
+      "id": "run_into",
+      "word": "run into",
+      "pos": "phrase",
+      "ipa": "/rʌn ˈɪntuː/",
+      "reading_th": "รัน อิน-ทู",
+      "meaning_th": "บังเอิญเจอ",
+      "emoji": "😮",
+      "example_en": "You'll never guess who I might run into at the mall.",
+      "example_th": "ทายไม่ถูกแน่ว่าฉันอาจบังเอิญเจอใครที่ห้าง",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — วิ่งไปชนเข้าโดยไม่ตั้งใจ ความหมายเดียวกับ bump into ใช้กับคนและปัญหา (run into trouble)",
+      "distractors": [
+        "run out of",
+        "come across",
+        "run over"
+      ]
+    },
+    {
+      "id": "come_along",
+      "word": "come along",
+      "pos": "phrase",
+      "ipa": "/kʌm əˈlɔːŋ/",
+      "reading_th": "คัม อะ-ลอง",
+      "meaning_th": "ไปด้วยกัน ติดสอยห้อยตาม",
+      "emoji": "🚶‍♂️",
+      "example_en": "We're going to the beach, why don't you come along?",
+      "example_th": "เราจะไปทะเลกัน มาด้วยกันสิ",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — ชวนคนมาร่วมทริปที่มีอยู่แล้ว อีกความหมายคือคืบหน้า How's the project coming along? = งานไปถึงไหนแล้ว",
+      "distractors": [
+        "come across",
+        "get along",
+        "come over"
+      ]
+    },
+    {
+      "id": "pay_off",
+      "word": "pay off",
+      "pos": "phrase",
+      "ipa": "/peɪ ɔːf/",
+      "reading_th": "เพย์ ออฟ",
+      "meaning_th": "จ่ายหนี้หมด / คุ้มค่าที่ลงแรง",
+      "emoji": "🎉",
+      "example_en": "I finally managed to pay off my credit card.",
+      "example_th": "ในที่สุดฉันก็จ่ายหนี้บัตรเครดิตหมดแล้ว",
+      "cefr": "B1",
+      "note_th": "แยกได้เมื่อมีกรรม pay off a loan / pay it off — ไม่มีกรรมแปลว่าคุ้มค่า Hard work pays off. = ความพยายามไม่เคยทรยศใคร",
+      "distractors": [
+        "pay for",
+        "fork out",
+        "pay up"
+      ]
+    },
+    {
+      "id": "save_up",
+      "word": "save up",
+      "pos": "phrase",
+      "ipa": "/seɪv ʌp/",
+      "reading_th": "เซฟ อัพ",
+      "meaning_th": "เก็บเงินเพื่อเป้าหมาย",
+      "emoji": "🐷",
+      "example_en": "I save up a little every month for a trip to Japan.",
+      "example_th": "ฉันเก็บเงินทีละนิดทุกเดือนไว้ไปเที่ยวญี่ปุ่น",
+      "cefr": "A2",
+      "note_th": "แยกได้ save up money / save it up — ตามด้วย for เป้าหมาย up ทำให้รู้สึกว่าเก็บสะสมจนก้อนโต ต่างจาก save เฉยๆ ที่แค่ประหยัด",
+      "distractors": [
+        "put aside",
+        "splash out",
+        "save on"
+      ]
+    },
+    {
+      "id": "splash_out",
+      "word": "splash out",
+      "pos": "phrase",
+      "ipa": "/splæʃ aʊt/",
+      "reading_th": "สแปลช เอาท์",
+      "meaning_th": "จ่ายหนักให้รางวัลตัวเอง",
+      "emoji": "🛍️",
+      "example_en": "After the bonus, I decided to splash out on a new bag.",
+      "example_th": "หลังได้โบนัส ฉันตัดสินใจจ่ายหนักซื้อกระเป๋าใหม่",
+      "cefr": "B2",
+      "note_th": "แยกไม่ได้ ตามด้วย on — ภาษาอังกฤษแบบอังกฤษ ภาพคือสาดเงินออกไป มักใช้กับของฟุ่มเฟือยที่ตั้งใจซื้อเป็นรางวัล",
+      "distractors": [
+        "fork out",
+        "save up",
+        "splash around"
+      ]
+    },
+    {
+      "id": "rip_off",
+      "word": "rip off",
+      "pos": "phrase",
+      "ipa": "/rɪp ɔːf/",
+      "reading_th": "ริพ ออฟ",
+      "meaning_th": "โก่งราคา หลอกเอาเงิน",
+      "emoji": "🏴‍☠️",
+      "example_en": "Some taxi drivers rip off tourists at the airport.",
+      "example_th": "แท็กซี่บางคันโก่งราคานักท่องเที่ยวที่สนามบิน",
+      "cefr": "B1",
+      "note_th": "แยกได้ rip someone off — rip = ฉีกกระชาก เหมือนกระชากเงินจากกระเป๋า คำนาม a rip-off = ของแพงเกินจริง ใช้บ่นร้านได้",
+      "distractors": [
+        "fork out",
+        "rip up",
+        "pay off"
+      ]
+    },
+    {
+      "id": "chip_in",
+      "word": "chip in",
+      "pos": "phrase",
+      "ipa": "/tʃɪp ɪn/",
+      "reading_th": "ชิพ อิน",
+      "meaning_th": "ลงขัน ช่วยออกเงิน",
+      "emoji": "🪙",
+      "example_en": "Let's all chip in to buy her a farewell gift.",
+      "example_th": "ทุกคนลงขันกันซื้อของขวัญอำลาให้เธอเถอะ",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — chip คือชิปโป๊กเกอร์ที่แต่ละคนโยนลงกองกลาง ใช้กับการแชร์ค่าของขวัญหรือค่าอาหาร และแปลว่าช่วยออกความเห็นก็ได้",
+      "distractors": [
+        "cash in",
+        "fork out",
+        "chip away"
+      ]
+    },
+    {
+      "id": "add_up",
+      "word": "add up",
+      "pos": "phrase",
+      "ipa": "/æd ʌp/",
+      "reading_th": "แอด อัพ",
+      "meaning_th": "รวมยอด / สมเหตุสมผล",
+      "emoji": "🧮",
+      "example_en": "Small daily expenses really add up over a month.",
+      "example_th": "ค่าใช้จ่ายเล็กๆ รายวันรวมกันเป็นก้อนโตได้ในหนึ่งเดือน",
+      "cefr": "B1",
+      "note_th": "แยกได้ add up the bills / add them up — ไม่มีกรรมใช้ได้สองแบบ: ยอดสะสมเพิ่ม และ It doesn't add up. = เรื่องนี้มันไม่สมเหตุสมผล",
+      "distractors": [
+        "add on",
+        "go up",
+        "count on"
+      ]
+    },
+    {
+      "id": "cut_down_on",
+      "word": "cut down on",
+      "pos": "phrase",
+      "ipa": "/kʌt daʊn ɑːn/",
+      "reading_th": "คัท ดาวน์ ออน",
+      "meaning_th": "ลดการใช้/การกินให้น้อยลง",
+      "emoji": "📉",
+      "example_en": "I'm trying to cut down on bubble tea this month.",
+      "example_th": "เดือนนี้ฉันพยายามลดชานมไข่มุกให้น้อยลง",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ สามคำติดกัน — ลดปริมาณแต่ไม่เลิก ใช้กับน้ำตาล เหล้า ค่าใช้จ่าย ส่วน cut out = ตัดออกไปเลย",
+      "distractors": [
+        "cut off",
+        "cut out",
+        "come down"
+      ]
+    },
+    {
+      "id": "give_away",
+      "word": "give away",
+      "pos": "phrase",
+      "ipa": "/ɡɪv əˈweɪ/",
+      "reading_th": "กิฟ อะ-เวย์",
+      "meaning_th": "ยกให้ฟรี บริจาค",
+      "emoji": "🎁",
+      "example_en": "I'm going to give away the clothes I never wear.",
+      "example_th": "ฉันจะยกเสื้อผ้าที่ไม่เคยใส่ให้คนอื่นฟรี",
+      "cefr": "A2",
+      "note_th": "แยกได้ give away old books / give them away — คำนาม a giveaway = กิจกรรมแจกของในโซเชียล อีกความหมายคือเผลอเปิดเผยความลับ",
+      "distractors": [
+        "give back",
+        "throw away",
+        "give in"
+      ]
+    },
+    {
+      "id": "take_out",
+      "word": "take out",
+      "pos": "phrase",
+      "ipa": "/teɪk aʊt/",
+      "reading_th": "เทค เอาท์",
+      "meaning_th": "ถอนเงิน ทำประกัน/กู้ / พาไปเลี้ยง",
+      "emoji": "🏧",
+      "example_en": "I need to take out some cash before the trip.",
+      "example_th": "ฉันต้องถอนเงินสดก่อนไปเที่ยว",
+      "cefr": "B1",
+      "note_th": "แยกได้ take out money / take it out — ใช้กับถอนเงิน take out a loan (กู้) take out insurance (ทำประกัน) และ take you out for dinner (พาไปเลี้ยง)",
+      "distractors": [
+        "take back",
+        "take over",
+        "take away"
+      ]
+    },
+    {
+      "id": "put_aside",
+      "word": "put aside",
+      "pos": "phrase",
+      "ipa": "/pʊt əˈsaɪd/",
+      "reading_th": "พุท อะ-ไซด์",
+      "meaning_th": "กันเงินแยกไว้ต่างหาก",
+      "emoji": "💵",
+      "example_en": "Try to put aside ten percent of your salary every month.",
+      "example_th": "พยายามกันเงินเดือนไว้สิบเปอร์เซ็นต์ทุกเดือน",
+      "cefr": "B1",
+      "note_th": "แยกได้ put aside money / put it aside — วางไว้ข้างๆ ไม่แตะ ความหมายเดียวกับ set aside ใช้กับเวลาได้ด้วย put aside an hour",
+      "distractors": [
+        "put away",
+        "save up",
+        "put down"
+      ]
+    },
+    {
+      "id": "fork_out",
+      "word": "fork out",
+      "pos": "phrase",
+      "ipa": "/fɔːrk aʊt/",
+      "reading_th": "ฟอร์ค เอาท์",
+      "meaning_th": "จำใจควักเงินจ่าย",
+      "emoji": "😩",
+      "example_en": "We had to fork out 5,000 baht to fix the air conditioner.",
+      "example_th": "เราต้องจำใจควักเงินห้าพันซ่อมแอร์",
+      "cefr": "B2",
+      "note_th": "แยกไม่ได้ ตามด้วยจำนวนเงินหรือ for/on — ภาษาพูดแบบบ่นๆ ว่าจ่ายทั้งที่ไม่อยาก ต่างจาก splash out ที่จ่ายอย่างมีความสุข",
+      "distractors": [
+        "splash out",
+        "chip in",
+        "fork over"
+      ]
+    },
+    {
+      "id": "take_back",
+      "word": "take back",
+      "pos": "phrase",
+      "ipa": "/teɪk bæk/",
+      "reading_th": "เทค แบ็ค",
+      "meaning_th": "เอาของไปคืนร้าน / ถอนคำพูด",
+      "emoji": "↩️",
+      "example_en": "The shirt doesn't fit, so I'll take it back tomorrow.",
+      "example_th": "เสื้อใส่ไม่พอดี พรุ่งนี้ฉันจะเอาไปคืนร้าน",
+      "cefr": "B1",
+      "note_th": "แยกได้ take back the shoes / take them back — ร้านจะถามว่า Do you have the receipt? ส่วน I take it back. = ขอถอนคำพูด",
+      "distractors": [
+        "take out",
+        "bring back",
+        "give back"
+      ]
+    },
+    {
+      "id": "go_up",
+      "word": "go up",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ ʌp/",
+      "reading_th": "โก อัพ",
+      "meaning_th": "ราคาขึ้น เพิ่มขึ้น",
+      "emoji": "📈",
+      "example_en": "Rent in this area will go up again next year.",
+      "example_th": "ค่าเช่าแถวนี้จะขึ้นอีกปีหน้า",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — ใช้กับราคา อุณหภูมิ ตัวเลข Prices have gone up. ถ้าเรา (คน) ขึ้นราคาใช้ put up prices",
+      "distractors": [
+        "come down",
+        "get up",
+        "add up"
+      ]
+    },
+    {
+      "id": "come_down",
+      "word": "come down",
+      "pos": "phrase",
+      "ipa": "/kʌm daʊn/",
+      "reading_th": "คัม ดาวน์",
+      "meaning_th": "ราคาลดลง",
+      "emoji": "📉",
+      "example_en": "Wait a month and the phone price will come down.",
+      "example_th": "รอสักเดือน ราคามือถือจะลงมาเอง",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — คู่กับ go up ใช้กับราคา ไข้ (The fever came down.) ส่วน come down with a cold = เริ่มเป็นหวัด",
+      "distractors": [
+        "go up",
+        "cut down on",
+        "come off"
+      ]
+    },
+    {
+      "id": "mess_up",
+      "word": "mess up",
+      "pos": "phrase",
+      "ipa": "/mes ʌp/",
+      "reading_th": "เมส อัพ",
+      "meaning_th": "ทำพัง ทำพลาด",
+      "emoji": "🙈",
+      "example_en": "I really messed up the presentation this morning.",
+      "example_th": "เมื่อเช้าฉันทำพรีเซนต์พังจริงๆ",
+      "cefr": "B1",
+      "note_th": "แยกได้ mess up the order / mess it up — ภาษาพูดใช้แทน make a mistake ยอมรับผิดแบบเป็นกันเอง I messed up. ส่วน screw up แรงและหยาบกว่า",
+      "distractors": [
+        "go wrong",
+        "mix up",
+        "make up"
+      ]
+    },
+    {
+      "id": "go_wrong",
+      "word": "go wrong",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ rɔːŋ/",
+      "reading_th": "โก รอง",
+      "meaning_th": "เกิดผิดพลาด ไม่เป็นไปตามแผน",
+      "emoji": "⚠️",
+      "example_en": "What could go wrong on a simple day trip?",
+      "example_th": "ทริปวันเดียวง่ายๆ จะมีอะไรผิดพลาดได้ล่ะ",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — ประธานคือเหตุการณ์ Something went wrong. (ข้อความ error ที่เห็นในแอปบ่อยๆ) ไม่ใช่คน",
+      "distractors": [
+        "mess up",
+        "go through",
+        "go off"
+      ]
+    },
+    {
+      "id": "end_up",
+      "word": "end up",
+      "pos": "phrase",
+      "ipa": "/end ʌp/",
+      "reading_th": "เอนด์ อัพ",
+      "meaning_th": "ลงเอยด้วย สุดท้ายก็",
+      "emoji": "🎯",
+      "example_en": "We wanted sushi but ended up eating pad thai.",
+      "example_th": "เราอยากกินซูชิแต่สุดท้ายลงเอยที่ผัดไทย",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ตามด้วย V-ing หรือสถานที่ — เล่าเรื่องที่ไม่ได้เป็นไปตามแผน ภาพคือจบลง (end) ตรงไหนสักแห่ง",
+      "distractors": [
+        "turn out",
+        "wind up",
+        "give up"
+      ]
+    },
+    {
+      "id": "fall_apart",
+      "word": "fall apart",
+      "pos": "phrase",
+      "ipa": "/fɔːl əˈpɑːrt/",
+      "reading_th": "ฟอล อะ-พาร์ท",
+      "meaning_th": "พังทลาย แตกเป็นเสี่ยง",
+      "emoji": "🧱",
+      "example_en": "Cheap shoes fall apart after a few months.",
+      "example_th": "รองเท้าถูกๆ พังหลุดเป็นชิ้นหลังใช้ไม่กี่เดือน",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — apart = แยกเป็นชิ้นๆ ใช้ได้ทั้งของ แผน ความสัมพันธ์ และสภาพจิตใจ (I'm falling apart.)",
+      "distractors": [
+        "break down",
+        "fall out",
+        "fall through"
+      ]
+    },
+    {
+      "id": "go_through",
+      "word": "go through",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ θruː/",
+      "reading_th": "โก ธรู",
+      "meaning_th": "ผ่านประสบการณ์ยากๆ / ตรวจดูทีละอย่าง",
+      "emoji": "🌧️",
+      "example_en": "She's going through a hard time after the divorce.",
+      "example_th": "เธอกำลังผ่านช่วงเวลายากลำบากหลังหย่า",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — ทะลุผ่าน (through) เหตุการณ์ อีกความหมายคือไล่ดูเอกสารทีละหน้า go through the contract",
+      "distractors": [
+        "get through",
+        "go over",
+        "go on"
+      ]
+    },
+    {
+      "id": "get_through",
+      "word": "get through",
+      "pos": "phrase",
+      "ipa": "/ɡet θruː/",
+      "reading_th": "เก็ท ธรู",
+      "meaning_th": "ผ่านพ้นไปได้ / โทรติด",
+      "emoji": "🏁",
+      "example_en": "Coffee is the only way I get through Monday mornings.",
+      "example_th": "กาแฟคือทางเดียวที่ทำให้ฉันผ่านเช้าวันจันทร์ไปได้",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — go through คือกำลังผ่าน (ยังอยู่ข้างใน) แต่ get through คือผ่านออกมาได้แล้ว อีกความหมาย I couldn't get through. = โทรไม่ติด",
+      "distractors": [
+        "go through",
+        "get over",
+        "get by"
+      ]
+    },
+    {
+      "id": "look_into",
+      "word": "look into",
+      "pos": "phrase",
+      "ipa": "/lʊk ˈɪntuː/",
+      "reading_th": "ลุค อิน-ทู",
+      "meaning_th": "ตรวจสอบ สืบดู",
+      "emoji": "🔍",
+      "example_en": "We'll look into the problem and call you back.",
+      "example_th": "เราจะตรวจสอบปัญหาแล้วโทรกลับหาคุณ",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — มองลึกเข้าไปข้างใน ประโยคมาตรฐานของฝ่ายบริการลูกค้า I'll look into it. = เดี๋ยวตรวจสอบให้ครับ",
+      "distractors": [
+        "look up",
+        "look after",
+        "look over"
+      ]
+    },
+    {
+      "id": "turn_out",
+      "word": "turn out",
+      "pos": "phrase",
+      "ipa": "/tɜːrn aʊt/",
+      "reading_th": "เทิร์น เอาท์",
+      "meaning_th": "ปรากฏว่า กลายเป็นว่า",
+      "emoji": "🎬",
+      "example_en": "The cheap hotel turned out to be the best part of the trip.",
+      "example_th": "โรงแรมถูกๆ กลายเป็นว่าดีที่สุดในทริป",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — ใช้ turn out to be หรือ It turns out that ... เล่าผลลัพธ์ที่ต่างจากที่คิด ส่วน How did it turn out? = ผลเป็นยังไง",
+      "distractors": [
+        "end up",
+        "turn down",
+        "turn up"
+      ]
+    },
+    {
+      "id": "calm_down",
+      "word": "calm down",
+      "pos": "phrase",
+      "ipa": "/kɑːm daʊn/",
+      "reading_th": "คาม ดาวน์",
+      "meaning_th": "ใจเย็นลง สงบสติ",
+      "emoji": "🧘",
+      "example_en": "Calm down and tell me exactly what happened.",
+      "example_th": "ใจเย็นๆ แล้วเล่ามาว่าเกิดอะไรขึ้น",
+      "cefr": "A2",
+      "note_th": "แยกได้ถ้ามีกรรม (calm the baby down) — ระวัง l ใน calm ไม่ออกเสียง อ่านว่า คาม และบอกคนโกรธว่า Calm down! อาจยิ่งโมโห ใช้ Take a breath. นุ่มกว่า",
+      "distractors": [
+        "slow down",
+        "chill out",
+        "cool down"
+      ]
+    },
+    {
+      "id": "keep_on",
+      "word": "keep on",
+      "pos": "phrase",
+      "ipa": "/kiːp ɑːn/",
+      "reading_th": "คีพ ออน",
+      "meaning_th": "ทำต่อไปไม่หยุด",
+      "emoji": "➡️",
+      "example_en": "Keep on practising and your English will improve.",
+      "example_th": "ฝึกต่อไปเรื่อยๆ แล้วภาษาอังกฤษจะดีขึ้น",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ตามด้วย V-ing เสมอ keep on trying — ความหมายเดียวกับ carry on และ continue ส่วน Keep it up! = ทำดีแล้ว ทำต่อไปนะ",
+      "distractors": [
+        "carry on",
+        "keep up",
+        "go on"
+      ]
+    },
+    {
+      "id": "bounce_back",
+      "word": "bounce back",
+      "pos": "phrase",
+      "ipa": "/baʊns bæk/",
+      "reading_th": "เบานซ์ แบ็ค",
+      "meaning_th": "ฟื้นตัวกลับมาได้",
+      "emoji": "🏀",
+      "example_en": "Thai tourism will bounce back after the low season.",
+      "example_th": "การท่องเที่ยวไทยจะฟื้นตัวกลับมาหลังโลว์ซีซั่น",
+      "cefr": "B2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — ลูกบอลเด้งกลับหลังตกพื้น ใช้กับคนที่หายป่วย ทีมที่แพ้แล้วชนะ หรือเศรษฐกิจ ตามด้วย from",
+      "distractors": [
+        "come back",
+        "get over",
+        "bounce off"
+      ]
+    },
+    {
+      "id": "get_by",
+      "word": "get by",
+      "pos": "phrase",
+      "ipa": "/ɡet baɪ/",
+      "reading_th": "เก็ท บาย",
+      "meaning_th": "พออยู่ได้ พอถูไถ",
+      "emoji": "🙂",
+      "example_en": "My Japanese is basic, but I can get by in Tokyo.",
+      "example_th": "ภาษาญี่ปุ่นฉันแค่พื้นฐาน แต่พอถูไถในโตเกียวได้",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ตามด้วย on เงิน หรือ with ภาษา — แค่ผ่านไปได้ ไม่ได้ดีเลิศ get by on 10,000 baht a month = อยู่ได้ด้วยเงินหมื่นเดียว",
+      "distractors": [
+        "get through",
+        "get along",
+        "go by"
+      ]
+    },
+    {
+      "id": "come_up",
+      "word": "come up",
+      "pos": "phrase",
+      "ipa": "/kʌm ʌp/",
+      "reading_th": "คัม อัพ",
+      "meaning_th": "(ปัญหา/เรื่อง) โผล่ขึ้นมากะทันหัน",
+      "emoji": "🚨",
+      "example_en": "If something urgent should come up, just call me.",
+      "example_th": "ถ้ามีเรื่องด่วนโผล่ขึ้นมา โทรหาฉันได้เลย",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — ข้ออ้างสุภาพยอดนิยมตอนยกเลิกนัด Sorry, something came up. ต่างจาก come up with ที่ต้องมีไอเดียตามหลัง",
+      "distractors": [
+        "come up with",
+        "come across",
+        "turn up"
+      ]
+    },
+    {
+      "id": "cut_off",
+      "word": "cut off",
+      "pos": "phrase",
+      "ipa": "/kʌt ɔːf/",
+      "reading_th": "คัท ออฟ",
+      "meaning_th": "ตัดขาด ถูกตัด (ไฟ น้ำ สาย)",
+      "emoji": "✂️",
+      "example_en": "They will cut off the water if we don't pay the bill.",
+      "example_th": "เขาจะตัดน้ำถ้าเราไม่จ่ายบิล",
+      "cefr": "B1",
+      "note_th": "แยกได้ cut off the power / cut it off — ใช้กับไฟ น้ำ เน็ต (We got cut off. = สายหลุด) และตัดขาดคน cut off a friend",
+      "distractors": [
+        "cut down on",
+        "call off",
+        "cut out"
+      ]
+    },
+    {
+      "id": "speak_up",
+      "word": "speak up",
+      "pos": "phrase",
+      "ipa": "/spiːk ʌp/",
+      "reading_th": "สปีค อัพ",
+      "meaning_th": "พูดดังขึ้น / กล้าออกความเห็น",
+      "emoji": "📢",
+      "example_en": "Could you speak up a bit? The line is bad.",
+      "example_th": "พูดดังขึ้นหน่อยได้ไหม สายไม่ค่อยดี",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ ไม่มีกรรม — up = ยกเสียงขึ้น อีกความหมายคือกล้าพูดในที่ประชุม Don't be afraid to speak up.",
+      "distractors": [
+        "speak out",
+        "turn up",
+        "open up"
+      ]
+    },
+    {
+      "id": "hang_up",
+      "word": "hang up",
+      "pos": "phrase",
+      "ipa": "/hæŋ ʌp/",
+      "reading_th": "แฮง อัพ",
+      "meaning_th": "วางสาย",
+      "emoji": "📴",
+      "example_en": "Don't hang up yet, I have one more question.",
+      "example_th": "อย่าเพิ่งวางสาย ฉันมีอีกคำถาม",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้เมื่อวางสาย (hang up on someone = วางสายใส่) — มาจากสมัยแขวนหูโทรศัพท์คืนที่ (up) ตรงข้ามคือ pick up = รับสาย",
+      "distractors": [
+        "hold on",
+        "hang out",
+        "call back"
+      ]
+    },
+    {
+      "id": "hold_on",
+      "word": "hold on",
+      "pos": "phrase",
+      "ipa": "/hoʊld ɑːn/",
+      "reading_th": "โฮลด์ ออน",
+      "meaning_th": "รอสักครู่ (ถือสายรอ)",
+      "emoji": "⏳",
+      "example_en": "Hold on a second, I'll get a pen.",
+      "example_th": "รอแป๊บนะ ขอหยิบปากกาก่อน",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — ใช้แทน wait แบบเป็นกันเอง ทั้งทางโทรศัพท์และต่อหน้า ความหมายเดียวกับ hang on ส่วน hold on tight = จับให้แน่น",
+      "distractors": [
+        "hang up",
+        "hold up",
+        "hurry up"
+      ]
+    },
+    {
+      "id": "call_back",
+      "word": "call back",
+      "pos": "phrase",
+      "ipa": "/kɔːl bæk/",
+      "reading_th": "คอล แบ็ค",
+      "meaning_th": "โทรกลับ",
+      "emoji": "📞",
+      "example_en": "She's in a meeting, can she call you back later?",
+      "example_th": "เธอติดประชุมอยู่ ให้โทรกลับทีหลังได้ไหม",
+      "cefr": "A2",
+      "note_th": "แยกได้ call back the customer / call her back — ประโยคมาตรฐานคือ I'll call you back. ส่วน ring back เป็นแบบอังกฤษ",
+      "distractors": [
+        "call off",
+        "get back to",
+        "text back"
+      ]
+    },
+    {
+      "id": "get_back_to",
+      "word": "get back to",
+      "pos": "phrase",
+      "ipa": "/ɡet bæk tuː/",
+      "reading_th": "เก็ท แบ็ค ทู",
+      "meaning_th": "ติดต่อกลับไปตอบ",
+      "emoji": "📧",
+      "example_en": "I'll get back to you with the price by Friday.",
+      "example_th": "ฉันจะติดต่อกลับไปแจ้งราคาภายในวันศุกร์",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ สามคำติดกัน — กว้างกว่า call back เพราะตอบทางอีเมลหรือแชทก็ได้ ประโยคปิดการสนทนาที่สุภาพมาก I'll get back to you.",
+      "distractors": [
+        "call back",
+        "get back",
+        "reach out"
+      ]
+    },
+    {
+      "id": "reach_out",
+      "word": "reach out",
+      "pos": "phrase",
+      "ipa": "/riːtʃ aʊt/",
+      "reading_th": "รีช เอาท์",
+      "meaning_th": "ติดต่อไปหา ยื่นมือเข้าหา",
+      "emoji": "🤲",
+      "example_en": "Feel free to reach out if you have any questions.",
+      "example_th": "ติดต่อมาได้เลยถ้ามีคำถาม",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ ตามด้วย to — ศัพท์อีเมลธุรกิจยุคใหม่ที่ฟังดูเป็นมิตรกว่า contact และใช้ปลอบว่าขอความช่วยเหลือได้ Reach out if you need to talk.",
+      "distractors": [
+        "get back to",
+        "reach for",
+        "look up"
+      ]
+    },
+    {
+      "id": "find_out",
+      "word": "find out",
+      "pos": "phrase",
+      "ipa": "/faɪnd aʊt/",
+      "reading_th": "ไฟนด์ เอาท์",
+      "meaning_th": "ค้นพบ สืบจนรู้",
+      "emoji": "🕵️",
+      "example_en": "Let me find out what time the museum opens.",
+      "example_th": "ขอฉันหาคำตอบก่อนว่าพิพิธภัณฑ์เปิดกี่โมง",
+      "cefr": "A2",
+      "note_th": "แยกได้ find out the truth / find it out — ต่างจาก know ตรงที่เป็นการเพิ่งรู้ How did you find out? = รู้ได้ยังไง คำยอดฮิตในละคร",
+      "distractors": [
+        "figure out",
+        "look up",
+        "find about"
+      ]
+    },
+    {
+      "id": "look_up",
+      "word": "look up",
+      "pos": "phrase",
+      "ipa": "/lʊk ʌp/",
+      "reading_th": "ลุค อัพ",
+      "meaning_th": "ค้นหาข้อมูล (ดิก กูเกิล)",
+      "emoji": "📖",
+      "example_en": "If you don't know a word, look it up in the app.",
+      "example_th": "ถ้าไม่รู้ศัพท์ก็ค้นในแอปสิ",
+      "cefr": "A2",
+      "note_th": "แยกได้ look up the word / look it up — ใช้กับดิกชันนารี กูเกิล แผนที่ ส่วน look up to (สามคำ) คือนับถือ คนละเรื่องกัน",
+      "distractors": [
+        "look up to",
+        "find out",
+        "look into"
+      ]
+    },
+    {
+      "id": "turn_down",
+      "word": "turn down",
+      "pos": "phrase",
+      "ipa": "/tɜːrn daʊn/",
+      "reading_th": "เทิร์น ดาวน์",
+      "meaning_th": "ปฏิเสธข้อเสนอ / หรี่เสียงลง",
+      "emoji": "🙅",
+      "example_en": "I had to turn down the job offer in Singapore.",
+      "example_th": "ฉันต้องปฏิเสธข้อเสนองานที่สิงคโปร์",
+      "cefr": "B1",
+      "note_th": "แยกได้ turn down the offer / turn it down — สุภาพกว่า reject และใช้กับหรี่เสียง/ไฟ (turn down the volume) จำว่าหมุนปุ่มลง",
+      "distractors": [
+        "turn off",
+        "turn up",
+        "turn out"
+      ]
+    },
+    {
+      "id": "go_on",
+      "word": "go on",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ ɑːn/",
+      "reading_th": "โก ออน",
+      "meaning_th": "เล่าต่อสิ / เกิดอะไรขึ้น",
+      "emoji": "🗨️",
+      "example_en": "Go on, what happened after she opened the door?",
+      "example_th": "เล่าต่อสิ หลังเธอเปิดประตูแล้วเกิดอะไรขึ้น",
+      "cefr": "A2",
+      "note_th": "แยกไม่ได้ — Go on. = พูดต่อ What's going on? = เกิดอะไรขึ้น และ go on and on = พูดไม่หยุดจนน่าเบื่อ",
+      "distractors": [
+        "carry on",
+        "go out",
+        "go off"
+      ]
+    },
+    {
+      "id": "come_across",
+      "word": "come across",
+      "pos": "phrase",
+      "ipa": "/kʌm əˈkrɔːs/",
+      "reading_th": "คัม อะ-ครอส",
+      "meaning_th": "ดูเหมือนเป็นคน... / เจอโดยบังเอิญ",
+      "emoji": "🎭",
+      "example_en": "Smile in the interview so you come across as friendly.",
+      "example_th": "ยิ้มตอนสัมภาษณ์จะได้ดูเป็นคนเป็นมิตร",
+      "cefr": "B2",
+      "note_th": "แยกไม่ได้ — come across as + adjective = ภาพที่คนอื่นมองเรา และ come across a word = บังเอิญเจอคำนั้นตอนอ่าน",
+      "distractors": [
+        "run into",
+        "come along",
+        "come over"
+      ]
+    },
+    {
+      "id": "stand_for",
+      "word": "stand for",
+      "pos": "phrase",
+      "ipa": "/stænd fɔːr/",
+      "reading_th": "สแตนด์ ฟอร์",
+      "meaning_th": "ย่อมาจาก / ยืนหยัดเพื่อ",
+      "emoji": "🔤",
+      "example_en": "What does BTS stand for in Bangkok?",
+      "example_th": "ที่กรุงเทพ BTS ย่อมาจากอะไร",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้ — ถามตัวย่อว่าย่อมาจากอะไร และ I won't stand for it. = ฉันไม่ยอมทนเรื่องนี้ คนละความหมายกับ stand up for = ปกป้อง",
+      "distractors": [
+        "stand up for",
+        "stand by",
+        "stand out"
+      ]
+    },
+    {
+      "id": "leave_out",
+      "word": "leave out",
+      "pos": "phrase",
+      "ipa": "/liːv aʊt/",
+      "reading_th": "ลีฟ เอาท์",
+      "meaning_th": "ตัดออก ไม่ใส่เข้าไป",
+      "emoji": "🚫",
+      "example_en": "Please leave out the chili, I can't eat spicy food.",
+      "example_th": "ไม่ใส่พริกนะ ฉันกินเผ็ดไม่ได้",
+      "cefr": "B1",
+      "note_th": "แยกได้ leave out the details / leave them out — ใช้สั่งอาหาร ตัดเนื้อหา และ feel left out = รู้สึกถูกทิ้งไม่ให้ร่วมกลุ่ม",
+      "distractors": [
+        "take out",
+        "leave behind",
+        "cut off"
+      ]
+    },
+    {
+      "id": "open_up",
+      "word": "open up",
+      "pos": "phrase",
+      "ipa": "/ˈoʊpən ʌp/",
+      "reading_th": "โอ-เพิน อัพ",
+      "meaning_th": "เปิดใจเล่าความรู้สึก",
+      "emoji": "💬",
+      "example_en": "It took months before he would open up about his past.",
+      "example_th": "ใช้เวลาหลายเดือนกว่าเขาจะยอมเปิดใจเล่าเรื่องอดีต",
+      "cefr": "B1",
+      "note_th": "แยกไม่ได้เมื่อแปลว่าเปิดใจ ตามด้วย to คน / about เรื่อง — ฝรั่งค่อนข้างสงวนเรื่องส่วนตัว การ open up จึงเป็นสัญญาณว่าไว้ใจ",
+      "distractors": [
+        "speak up",
+        "open out",
+        "cheer up"
+      ]
+    }
+  ]
+}

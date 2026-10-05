@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "feelings",
+    "name_en": "Feelings",
+    "name_th": "อารมณ์และความรู้สึก",
+    "emoji": "😊",
+    "color_start": "#F9A8D4",
+    "color_end": "#9D174D",
+    "description_th": "บอกความรู้สึกให้ตรงใจ ดีใจ เศร้า หงุดหงิด กังวล และคำที่ละเอียดกว่า happy/sad",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "feelings_1",
+        "title_en": "Shades of Happy",
+        "title_th": "ดีใจหลายระดับ",
+        "emoji": "😄",
+        "word_ids": [
+          "cheerful",
+          "glad",
+          "delighted",
+          "thrilled",
+          "joyful",
+          "pleased",
+          "appreciative",
+          "hopeful",
+          "upbeat",
+          "overjoyed",
+          "in_a_good_mood",
+          "ecstatic",
+          "enthusiastic",
+          "blissful"
+        ]
+      },
+      {
+        "id": "feelings_2",
+        "title_en": "Sad & Disappointed",
+        "title_th": "เศร้าและผิดหวัง",
+        "emoji": "😢",
+        "word_ids": [
+          "upset",
+          "disappointed",
+          "isolated",
+          "miserable",
+          "gloomy",
+          "depressed",
+          "down",
+          "hopeless",
+          "grief",
+          "mourn",
+          "disheartened",
+          "tearful",
+          "sorrow",
+          "devastated"
+        ]
+      },
+      {
+        "id": "feelings_3",
+        "title_en": "Anger & Annoyance",
+        "title_th": "โกรธและหงุดหงิด",
+        "emoji": "😠",
+        "word_ids": [
+          "annoyed",
+          "irritated",
+          "frustrated",
+          "furious",
+          "mad",
+          "grumpy",
+          "exasperated",
+          "outraged",
+          "resentful",
+          "lose_your_temper",
+          "offended",
+          "cranky",
+          "rage",
+          "hostile"
+        ]
+      },
+      {
+        "id": "feelings_4",
+        "title_en": "Fear & Worry",
+        "title_th": "กลัวและกังวล",
+        "emoji": "😨",
+        "word_ids": [
+          "anxious",
+          "afraid",
+          "terrified",
+          "frightened",
+          "alarmed",
+          "uneasy",
+          "insecure",
+          "tense",
+          "dread",
+          "paranoid",
+          "overwhelmed",
+          "concerned",
+          "intimidated",
+          "jumpy"
+        ]
+      },
+      {
+        "id": "feelings_5",
+        "title_en": "Calm & Relief",
+        "title_th": "สงบและโล่งใจ",
+        "emoji": "😌",
+        "word_ids": [
+          "calm",
+          "relaxed",
+          "relieved",
+          "peaceful",
+          "at_ease",
+          "carefree",
+          "secure",
+          "serene",
+          "reassured",
+          "chill",
+          "unwind",
+          "soothing",
+          "mellow",
+          "refreshed"
+        ]
+      },
+      {
+        "id": "feelings_6",
+        "title_en": "Surprise & Confusion",
+        "title_th": "ตกใจ ทึ่ง และงง",
+        "emoji": "😲",
+        "word_ids": [
+          "shocked",
+          "amazed",
+          "astonished",
+          "stunned",
+          "speechless",
+          "confused",
+          "puzzled",
+          "baffled",
+          "torn",
+          "curious",
+          "embarrassed",
+          "ashamed",
+          "humiliated",
+          "bewildered"
+        ]
+      },
+      {
+        "id": "feelings_7",
+        "title_en": "Talking About Mental Health",
+        "title_th": "พูดเรื่องใจอย่างอ่อนโยน",
+        "emoji": "🫶",
+        "word_ids": [
+          "mood",
+          "mood_swings",
+          "burnout",
+          "mental_health",
+          "therapy",
+          "therapist",
+          "cope",
+          "vent",
+          "self_care",
+          "vulnerable",
+          "numb",
+          "drained",
+          "self_esteem",
+          "well_being"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "cheerful",
+      "word": "cheerful",
+      "pos": "adjective",
+      "ipa": "/ˈtʃɪrfl/",
+      "reading_th": "เชียร์-ฟูล",
+      "meaning_th": "ร่าเริงแจ่มใส",
+      "emoji": "🌞",
+      "example_en": "She is always cheerful, even on Monday mornings.",
+      "example_th": "เธอร่าเริงเสมอ แม้แต่เช้าวันจันทร์",
+      "cefr": "A2",
+      "note_th": "cheerful = อารมณ์ดีสดใสจนคนรอบข้างสัมผัสได้ ต่างจาก happy ที่เป็นความรู้สึกข้างใน — cheer up! = ร่าเริงหน่อย",
+      "distractors": [
+        "careful",
+        "cheerless",
+        "chilly"
+      ]
+    },
+    {
+      "id": "glad",
+      "word": "glad",
+      "pos": "adjective",
+      "ipa": "/ɡlæd/",
+      "reading_th": "แกลด",
+      "meaning_th": "ดีใจ (ที่...)",
+      "emoji": "🙂",
+      "example_en": "I am glad you could come to the party.",
+      "example_th": "ดีใจนะที่คุณมางานปาร์ตี้ได้",
+      "cefr": "A2",
+      "note_th": "glad ใช้กับเรื่องเฉพาะเจาะจงเสมอ: glad to hear that, glad you're safe — ไม่พูดว่า a glad person",
+      "distractors": [
+        "good",
+        "grad",
+        "gland"
+      ]
+    },
+    {
+      "id": "delighted",
+      "word": "delighted",
+      "pos": "adjective",
+      "ipa": "/dɪˈlaɪtɪd/",
+      "reading_th": "ดิ-ไล-ทิด",
+      "meaning_th": "ยินดีเป็นอย่างยิ่ง",
+      "emoji": "🥰",
+      "example_en": "We are delighted to welcome you to the team.",
+      "example_th": "เรายินดีเป็นอย่างยิ่งที่ได้ต้อนรับคุณเข้าทีม",
+      "cefr": "B1",
+      "note_th": "delighted สุภาพและแรงกว่า happy ใช้ในอีเมลและจดหมายทางการบ่อยมาก — delighted to + กริยา / delighted with + สิ่งของ",
+      "distractors": [
+        "delicate",
+        "deleted",
+        "lighted"
+      ]
+    },
+    {
+      "id": "thrilled",
+      "word": "thrilled",
+      "pos": "adjective",
+      "ipa": "/θrɪld/",
+      "reading_th": "ธริลด์",
+      "meaning_th": "ตื่นเต้นดีใจสุดๆ",
+      "emoji": "🤩",
+      "example_en": "I was thrilled to get tickets to the concert.",
+      "example_th": "ฉันตื่นเต้นดีใจสุดๆ ที่ได้ตั๋วคอนเสิร์ต",
+      "cefr": "B1",
+      "note_th": "thrilled = ดีใจจนขนลุก มักใช้กับข่าวดีที่เพิ่งรู้ — thrilled to bits (อังกฤษ) = ดีใจจนบอกไม่ถูก",
+      "distractors": [
+        "threw",
+        "thrilling",
+        "trilled"
+      ]
+    },
+    {
+      "id": "joyful",
+      "word": "joyful",
+      "pos": "adjective",
+      "ipa": "/ˈdʒɔɪfl/",
+      "reading_th": "จอย-ฟูล",
+      "meaning_th": "เปี่ยมสุข",
+      "emoji": "🎉",
+      "example_en": "Songkran is a joyful time for the whole family.",
+      "example_th": "สงกรานต์เป็นช่วงเวลาเปี่ยมสุขของทั้งครอบครัว",
+      "cefr": "B1",
+      "note_th": "joyful ค่อนข้างเป็นภาษาเขียน ใช้บรรยายบรรยากาศและโอกาส (a joyful celebration) มากกว่าบอกอารมณ์ตัวเอง",
+      "distractors": [
+        "joyless",
+        "playful",
+        "jolly"
+      ]
+    },
+    {
+      "id": "pleased",
+      "word": "pleased",
+      "pos": "adjective",
+      "ipa": "/pliːzd/",
+      "reading_th": "พลีสด์",
+      "meaning_th": "ยินดี / พอใจ",
+      "emoji": "😌",
+      "example_en": "My boss was pleased with the final report.",
+      "example_th": "หัวหน้าพอใจกับรายงานฉบับสุดท้าย",
+      "cefr": "A2",
+      "note_th": "pleased with = พอใจกับผลงาน — Pleased to meet you = ยินดีที่ได้รู้จัก ประโยคสุภาพตอนเจอกันครั้งแรก",
+      "distractors": [
+        "please",
+        "placed",
+        "pressed"
+      ]
+    },
+    {
+      "id": "appreciative",
+      "word": "appreciative",
+      "pos": "adjective",
+      "ipa": "/əˈpriːʃətɪv/",
+      "reading_th": "อะ-พรี-ชะ-ทิฟ",
+      "meaning_th": "ซาบซึ้งขอบคุณ",
+      "emoji": "🙏",
+      "example_en": "The whole team was appreciative of your help this week.",
+      "example_th": "ทั้งทีมซาบซึ้งขอบคุณความช่วยเหลือของคุณสัปดาห์นี้",
+      "cefr": "B2",
+      "note_th": "appreciative of = รู้สึกขอบคุณและเห็นคุณค่า (เป็นทางการกว่า grateful) — appreciate (กริยา) ใช้บ่อยกว่า: I appreciate it = ขอบคุณมากนะ",
+      "distractors": [
+        "appreciate",
+        "apprehensive",
+        "appropriate"
+      ]
+    },
+    {
+      "id": "hopeful",
+      "word": "hopeful",
+      "pos": "adjective",
+      "ipa": "/ˈhoʊpfl/",
+      "reading_th": "โฮพ-ฟูล",
+      "meaning_th": "มีความหวัง",
+      "emoji": "🌅",
+      "example_en": "The doctors are hopeful that she will walk again.",
+      "example_th": "หมอมีความหวังว่าเธอจะเดินได้อีกครั้ง",
+      "cefr": "B1",
+      "note_th": "hopeful = รู้สึกว่าสิ่งดีๆ น่าจะเกิด ตรงข้ามกับ hopeless — hopefully ขึ้นต้นประโยคแปลว่า \"หวังว่า...\"",
+      "distractors": [
+        "helpful",
+        "hopeless",
+        "handful"
+      ]
+    },
+    {
+      "id": "upbeat",
+      "word": "upbeat",
+      "pos": "adjective",
+      "ipa": "/ˈʌpbiːt/",
+      "reading_th": "อัพ-บีท",
+      "meaning_th": "สดใสมองโลกแง่ดี",
+      "emoji": "🎵",
+      "example_en": "Despite the bad news, she stayed upbeat all day.",
+      "example_th": "แม้มีข่าวร้าย เธอก็ยังสดใสทั้งวัน",
+      "cefr": "B2",
+      "note_th": "upbeat ใช้กับทั้งคนและเพลง (an upbeat song = เพลงจังหวะสนุก) — มาจากศัพท์ดนตรี ตรงข้ามคือ downbeat",
+      "distractors": [
+        "update",
+        "offbeat",
+        "upset"
+      ]
+    },
+    {
+      "id": "overjoyed",
+      "word": "overjoyed",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈdʒɔɪd/",
+      "reading_th": "โอ-เวอร์-จอยด์",
+      "meaning_th": "ดีใจจนล้น",
+      "emoji": "😆",
+      "example_en": "They were overjoyed when the baby finally arrived.",
+      "example_th": "พวกเขาดีใจจนล้นเมื่อลูกคลอดออกมาในที่สุด",
+      "cefr": "B2",
+      "note_th": "over- = เกิน จึงแปลว่าดีใจเกินจะบรรยาย — มักใช้กับเหตุการณ์สำคัญในชีวิต เช่น เกิด แต่งงาน สอบติด",
+      "distractors": [
+        "overworked",
+        "enjoyed",
+        "overdone"
+      ]
+    },
+    {
+      "id": "in_a_good_mood",
+      "word": "in a good mood",
+      "pos": "phrase",
+      "ipa": "/ɪn ə ɡʊd muːd/",
+      "reading_th": "อิน อะ กู้ด มูด",
+      "meaning_th": "อารมณ์ดี",
+      "emoji": "😁",
+      "example_en": "The boss is in a good mood, so ask for leave now!",
+      "example_th": "หัวหน้ากำลังอารมณ์ดี รีบขอลาตอนนี้เลย!",
+      "cefr": "A2",
+      "note_th": "อารมณ์ดี = in a good mood อารมณ์เสีย = in a bad mood — ใช้ be + in a ... mood เสมอ ไม่พูดว่า have good mood",
+      "distractors": [
+        "in a bad mood",
+        "in a hurry",
+        "in good shape"
+      ]
+    },
+    {
+      "id": "ecstatic",
+      "word": "ecstatic",
+      "pos": "adjective",
+      "ipa": "/ɪkˈstætɪk/",
+      "reading_th": "เอค-สแต-ทิค",
+      "meaning_th": "ปลื้มสุดขีด",
+      "emoji": "🥳",
+      "example_en": "Fans were ecstatic when Thailand scored in the last minute.",
+      "example_th": "แฟนบอลปลื้มสุดขีดเมื่อไทยยิงประตูในนาทีสุดท้าย",
+      "cefr": "B2",
+      "note_th": "ecstatic = ระดับสูงสุดของความดีใจ (ecstasy = ความปีติ) — ใช้ในข่าวกีฬาและรีวิวบ่อย อย่าใช้กับเรื่องเล็กๆ",
+      "distractors": [
+        "static",
+        "elastic",
+        "erratic"
+      ]
+    },
+    {
+      "id": "enthusiastic",
+      "word": "enthusiastic",
+      "pos": "adjective",
+      "ipa": "/ɪnˌθuːziˈæstɪk/",
+      "reading_th": "เอน-ธู-ซิ-แอส-ติค",
+      "meaning_th": "กระตือรือร้น",
+      "emoji": "🙌",
+      "example_en": "The new intern is enthusiastic about every task.",
+      "example_th": "เด็กฝึกงานคนใหม่กระตือรือร้นกับทุกงาน",
+      "cefr": "B1",
+      "note_th": "enthusiastic about + สิ่งที่สนใจ — คำนี้โผล่ในประกาศรับสมัครงานตลอด (enthusiastic team player) และ enthusiasm = ความกระตือรือร้น",
+      "distractors": [
+        "enthusiasm",
+        "fantastic",
+        "energetic"
+      ]
+    },
+    {
+      "id": "blissful",
+      "word": "blissful",
+      "pos": "adjective",
+      "ipa": "/ˈblɪsfl/",
+      "reading_th": "บลิส-ฟูล",
+      "meaning_th": "เป็นสุขล้นเหลือ",
+      "emoji": "🌙",
+      "example_en": "We spent a blissful week on a quiet island.",
+      "example_th": "เราใช้เวลาหนึ่งสัปดาห์อย่างเป็นสุขล้นเหลือบนเกาะเงียบๆ",
+      "cefr": "B2",
+      "note_th": "blissful = สุขสงบเหมือนอยู่ในสวรรค์ (bliss = ความสุขสุดยอด) ใช้บรรยายช่วงเวลาและวันหยุด — blissfully unaware = สุขเพราะไม่รู้เรื่องเลย",
+      "distractors": [
+        "blissless",
+        "blistered",
+        "bashful"
+      ]
+    },
+    {
+      "id": "upset",
+      "word": "upset",
+      "pos": "adjective",
+      "ipa": "/ʌpˈset/",
+      "reading_th": "อัพ-เซ็ท",
+      "meaning_th": "เสียใจ / ไม่สบายใจ",
+      "emoji": "😟",
+      "example_en": "She was upset that nobody remembered her birthday.",
+      "example_th": "เธอเสียใจที่ไม่มีใครจำวันเกิดเธอได้",
+      "cefr": "A2",
+      "note_th": "upset = เศร้าปนโกรธนิดๆ ใช้ได้ทั้งกับคน (upset with you) และท้อง (an upset stomach = ท้องเสีย)",
+      "distractors": [
+        "upside",
+        "upstairs",
+        "sunset"
+      ]
+    },
+    {
+      "id": "disappointed",
+      "word": "disappointed",
+      "pos": "adjective",
+      "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+      "reading_th": "ดิส-อะ-พอยน์-ทิด",
+      "meaning_th": "ผิดหวัง",
+      "emoji": "😞",
+      "example_en": "I was disappointed with the ending of the movie.",
+      "example_th": "ฉันผิดหวังกับตอนจบของหนัง",
+      "cefr": "A2",
+      "note_th": "disappointed with / in + สิ่งที่ทำให้ผิดหวัง, disappointed that + ประโยค — ส่วน disappointing = น่าผิดหวัง (บรรยายสิ่งของ)",
+      "distractors": [
+        "disappointing",
+        "appointed",
+        "disapproved"
+      ]
+    },
+    {
+      "id": "isolated",
+      "word": "isolated",
+      "pos": "adjective",
+      "ipa": "/ˈaɪsəleɪtɪd/",
+      "reading_th": "ไอ-โซ-เล-ทิด",
+      "meaning_th": "โดดเดี่ยวตัดขาด",
+      "emoji": "🏝️",
+      "example_en": "Working from home can make you feel isolated.",
+      "example_th": "การทำงานจากบ้านอาจทำให้รู้สึกโดดเดี่ยวตัดขาด",
+      "cefr": "B2",
+      "note_th": "isolated = ถูกตัดขาดจากคนอื่น (feel isolated) ใช้ได้ทั้งความรู้สึกและสถานที่ (an isolated village) — self-isolate = กักตัว คำฮิตยุคโควิด",
+      "distractors": [
+        "insulated",
+        "isolate",
+        "escalated"
+      ]
+    },
+    {
+      "id": "miserable",
+      "word": "miserable",
+      "pos": "adjective",
+      "ipa": "/ˈmɪzrəbl/",
+      "reading_th": "มิ-เซอ-ระ-เบิ้ล",
+      "meaning_th": "ทุกข์ใจมาก",
+      "emoji": "😩",
+      "example_en": "He was miserable after losing his job.",
+      "example_th": "เขาทุกข์ใจมากหลังตกงาน",
+      "cefr": "B1",
+      "note_th": "miserable แรงกว่า sad มาก = ทุกข์จนชีวิตไม่มีความสุข — ใช้กับอากาศได้ miserable weather = อากาศแย่ชวนหดหู่",
+      "distractors": [
+        "memorable",
+        "reasonable",
+        "miser"
+      ]
+    },
+    {
+      "id": "gloomy",
+      "word": "gloomy",
+      "pos": "adjective",
+      "ipa": "/ˈɡluːmi/",
+      "reading_th": "กลู-มี่",
+      "meaning_th": "หม่นหมอง",
+      "emoji": "🌫️",
+      "example_en": "Everyone was gloomy after the team lost the final.",
+      "example_th": "ทุกคนหม่นหมองหลังทีมแพ้นัดชิง",
+      "cefr": "B1",
+      "note_th": "gloomy ใช้กับทั้งคน อากาศ และบรรยากาศ (a gloomy room = ห้องมืดทึม) — ให้ภาพความมืดสลัว",
+      "distractors": [
+        "bloomy",
+        "glossy",
+        "gloom"
+      ]
+    },
+    {
+      "id": "depressed",
+      "word": "depressed",
+      "pos": "adjective",
+      "ipa": "/dɪˈprest/",
+      "reading_th": "ดิ-เพรสท์",
+      "meaning_th": "ซึมเศร้า",
+      "emoji": "😶‍🌫️",
+      "example_en": "He has felt depressed for months and should see a doctor.",
+      "example_th": "เขารู้สึกซึมเศร้ามาหลายเดือนและควรไปพบแพทย์",
+      "cefr": "B1",
+      "note_th": "ภาษาพูดใช้ depressed แทน \"เศร้ามาก\" ได้ แต่ depression ทางการแพทย์คือโรคซึมเศร้า — ระวังใช้กับคนอื่นแบบไม่จริงจัง",
+      "distractors": [
+        "impressed",
+        "pressed",
+        "deprived"
+      ]
+    },
+    {
+      "id": "down",
+      "word": "down",
+      "pos": "adjective",
+      "ipa": "/daʊn/",
+      "reading_th": "ดาวน์",
+      "meaning_th": "หดหู่ / ซึมๆ",
+      "emoji": "⬇️",
+      "example_en": "You look a bit down today. Is everything okay?",
+      "example_th": "วันนี้ดูซึมๆ นะ ทุกอย่างโอเคไหม",
+      "cefr": "A2",
+      "note_th": "feel down / be down = เศร้าแบบไม่รุนแรง ใช้ถามเพื่อนได้แบบเบาๆ — down in the dumps = หดหู่สุดๆ",
+      "distractors": [
+        "dawn",
+        "drown",
+        "done"
+      ]
+    },
+    {
+      "id": "hopeless",
+      "word": "hopeless",
+      "pos": "adjective",
+      "ipa": "/ˈhoʊpləs/",
+      "reading_th": "โฮพ-เลส",
+      "meaning_th": "สิ้นหวัง",
+      "emoji": "🕳️",
+      "example_en": "The situation felt hopeless, but we kept trying.",
+      "example_th": "สถานการณ์ดูสิ้นหวัง แต่เราก็พยายามต่อ",
+      "cefr": "B1",
+      "note_th": "hopeless ยังแปลว่าห่วยแตกได้ (I'm hopeless at cooking = ทำอาหารไม่เป็นเลย) — บริบทบอกความหมาย",
+      "distractors": [
+        "helpless",
+        "hopeful",
+        "homeless"
+      ]
+    },
+    {
+      "id": "grief",
+      "word": "grief",
+      "pos": "noun",
+      "ipa": "/ɡriːf/",
+      "reading_th": "กรีฟ",
+      "meaning_th": "ความโศกเศร้าจากการสูญเสีย",
+      "emoji": "🖤",
+      "example_en": "It takes time to work through grief after losing a parent.",
+      "example_th": "ต้องใช้เวลากว่าจะผ่านความโศกเศร้าจากการสูญเสียพ่อแม่",
+      "cefr": "B2",
+      "note_th": "grief = ความเศร้าจากการสูญเสียคนรัก (noun) กริยาคือ grieve — Good grief! = อุทานว่า \"ให้ตายเถอะ\"",
+      "distractors": [
+        "brief",
+        "grieve",
+        "grease"
+      ]
+    },
+    {
+      "id": "mourn",
+      "word": "mourn",
+      "pos": "verb",
+      "ipa": "/mɔːrn/",
+      "reading_th": "มอร์น",
+      "meaning_th": "ไว้อาลัย",
+      "emoji": "🕯️",
+      "example_en": "The whole country will mourn the loss of the beloved singer.",
+      "example_th": "ทั้งประเทศจะไว้อาลัยต่อการจากไปของนักร้องที่รัก",
+      "cefr": "B2",
+      "note_th": "mourn ออกเสียงเหมือน morning แต่สะกดต่างกัน — in mourning = อยู่ในช่วงไว้ทุกข์, mourners = ผู้มาร่วมงานศพ",
+      "distractors": [
+        "morning",
+        "moan",
+        "mount"
+      ]
+    },
+    {
+      "id": "disheartened",
+      "word": "disheartened",
+      "pos": "adjective",
+      "ipa": "/dɪsˈhɑːrtnd/",
+      "reading_th": "ดิส-ฮาร์-เท่นด์",
+      "meaning_th": "ท้อใจ",
+      "emoji": "💔",
+      "example_en": "Do not be disheartened by one bad score.",
+      "example_th": "อย่าท้อใจเพราะคะแนนแย่แค่ครั้งเดียว",
+      "cefr": "B2",
+      "note_th": "disheartened = ท้อจนหมดกำลังใจหลังเจอผลลัพธ์แย่ — สุภาพกว่า discouraged เล็กน้อย ใช้ในการเรียนและกีฬา (disheartening = ทำให้ท้อ)",
+      "distractors": [
+        "discouraged",
+        "heartened",
+        "disheartening"
+      ]
+    },
+    {
+      "id": "tearful",
+      "word": "tearful",
+      "pos": "adjective",
+      "ipa": "/ˈtɪrfl/",
+      "reading_th": "เทียร์-ฟูล",
+      "meaning_th": "น้ำตาคลอ",
+      "emoji": "😭",
+      "example_en": "The graduates gave a tearful goodbye to their teachers.",
+      "example_th": "บัณฑิตกล่าวลาครูทั้งน้ำตา",
+      "cefr": "B2",
+      "note_th": "tearful = เกือบร้องไห้หรือร้องไห้อยู่ (a tearful farewell) — tear (น้ำตา) ออกเสียง \"เทียร์\" ไม่ใช่ \"แทร์\" ที่แปลว่าฉีก",
+      "distractors": [
+        "fearful",
+        "careful",
+        "cheerful"
+      ]
+    },
+    {
+      "id": "sorrow",
+      "word": "sorrow",
+      "pos": "noun",
+      "ipa": "/ˈsɒroʊ/",
+      "reading_th": "ซอ-โร",
+      "meaning_th": "ความเศร้าลึกๆ",
+      "emoji": "🌑",
+      "example_en": "Her eyes were full of sorrow when she spoke of home.",
+      "example_th": "ดวงตาของเธอเต็มไปด้วยความเศร้าเมื่อพูดถึงบ้านเกิด",
+      "cefr": "B2",
+      "note_th": "sorrow เป็นคำวรรณกรรม ใช้ในเพลง นิยาย และบทกวี — ภาษาพูดใช้ sadness; drown your sorrows = ดื่มลืมทุกข์",
+      "distractors": [
+        "sparrow",
+        "borrow",
+        "sorry"
+      ]
+    },
+    {
+      "id": "devastated",
+      "word": "devastated",
+      "pos": "adjective",
+      "ipa": "/ˈdevəsteɪtɪd/",
+      "reading_th": "เด-วะ-สเต-ทิด",
+      "meaning_th": "เสียใจอย่างรุนแรง",
+      "emoji": "🌪️",
+      "example_en": "She was devastated when her dog passed away.",
+      "example_th": "เธอเสียใจอย่างรุนแรงเมื่อหมาของเธอจากไป",
+      "cefr": "B2",
+      "note_th": "devastated = ใจสลายเหมือนโดนพายุถล่ม ใช้กับข่าวร้ายใหญ่ๆ — devastating news = ข่าวที่ทำให้ใจสลาย",
+      "distractors": [
+        "decorated",
+        "dedicated",
+        "deviated"
+      ]
+    },
+    {
+      "id": "annoyed",
+      "word": "annoyed",
+      "pos": "adjective",
+      "ipa": "/əˈnɔɪd/",
+      "reading_th": "อะ-นอยด์",
+      "meaning_th": "รำคาญ",
+      "emoji": "😒",
+      "example_en": "I get annoyed when people talk during the movie.",
+      "example_th": "ฉันรำคาญเวลาคนคุยกันตอนดูหนัง",
+      "cefr": "A2",
+      "note_th": "annoyed = รำคาญเล็กน้อย ยังไม่ถึงโกรธ — annoyed with + คน, annoyed at / by + สิ่งที่ทำ และ annoying = น่ารำคาญ",
+      "distractors": [
+        "annoying",
+        "enjoyed",
+        "avoided"
+      ]
+    },
+    {
+      "id": "irritated",
+      "word": "irritated",
+      "pos": "adjective",
+      "ipa": "/ˈɪrɪteɪtɪd/",
+      "reading_th": "อิ-ริ-เท-ทิด",
+      "meaning_th": "หงุดหงิด",
+      "emoji": "😤",
+      "example_en": "The slow Wi-Fi made everyone irritated.",
+      "example_th": "ไวไฟช้าทำให้ทุกคนหงุดหงิด",
+      "cefr": "B1",
+      "note_th": "irritated ใกล้เคียง annoyed แต่มีความร้อนรนกว่า — ใช้กับผิวหนังได้ด้วย irritated skin = ผิวระคายเคือง",
+      "distractors": [
+        "imitated",
+        "irrigated",
+        "initiated"
+      ]
+    },
+    {
+      "id": "frustrated",
+      "word": "frustrated",
+      "pos": "adjective",
+      "ipa": "/ˈfrʌstreɪtɪd/",
+      "reading_th": "ฟรัส-เตร-ทิด",
+      "meaning_th": "คับข้องใจ",
+      "emoji": "😖",
+      "example_en": "I feel frustrated because the app keeps crashing.",
+      "example_th": "ฉันรู้สึกคับข้องใจเพราะแอปเด้งตลอด",
+      "cefr": "B1",
+      "note_th": "frustrated = หงุดหงิดเพราะพยายามแล้วไม่สำเร็จ — คำนี้ตรงใจคนไทยที่ไม่มีคำแปลเป๊ะๆ ใช้ได้ทั้งเรื่องงานและการเรียน",
+      "distractors": [
+        "frustrating",
+        "fascinated",
+        "illustrated"
+      ]
+    },
+    {
+      "id": "furious",
+      "word": "furious",
+      "pos": "adjective",
+      "ipa": "/ˈfjʊriəs/",
+      "reading_th": "ฟิว-เรียส",
+      "meaning_th": "โกรธจัด",
+      "emoji": "🤬",
+      "example_en": "My mom was furious when I came home at 3 a.m.",
+      "example_th": "แม่โกรธจัดตอนฉันกลับบ้านตีสาม",
+      "cefr": "B1",
+      "note_th": "furious = โกรธระดับสูงสุด (angry < furious) — furious with + คน, furious about + เรื่อง และ fury = ความเดือดดาล",
+      "distractors": [
+        "curious",
+        "serious",
+        "famous"
+      ]
+    },
+    {
+      "id": "mad",
+      "word": "mad",
+      "pos": "adjective",
+      "ipa": "/mæd/",
+      "reading_th": "แมด",
+      "meaning_th": "โกรธ (ภาษาพูด)",
+      "emoji": "😡",
+      "example_en": "Are you still mad at me about yesterday?",
+      "example_th": "ยังโกรธฉันเรื่องเมื่อวานอยู่ไหม",
+      "cefr": "A2",
+      "note_th": "อเมริกัน mad = โกรธ (mad at someone) ส่วนอังกฤษ mad = บ้า — ถ้าไม่แน่ใจใช้ angry ปลอดภัยกว่า",
+      "distractors": [
+        "made",
+        "mud",
+        "sad"
+      ]
+    },
+    {
+      "id": "grumpy",
+      "word": "grumpy",
+      "pos": "adjective",
+      "ipa": "/ˈɡrʌmpi/",
+      "reading_th": "กรัม-พี่",
+      "meaning_th": "ขี้หงุดหงิด / อารมณ์บูด",
+      "emoji": "😾",
+      "example_en": "He is always grumpy before his first coffee.",
+      "example_th": "เขาอารมณ์บูดเสมอก่อนได้กาแฟแก้วแรก",
+      "cefr": "B1",
+      "note_th": "grumpy = อารมณ์ไม่ดีแบบน่ารักๆ มักใช้แซวเพื่อนหรือพ่อ — Grumpy Cat คือแมวมีมที่ดัง",
+      "distractors": [
+        "grimy",
+        "jumpy",
+        "crumpled"
+      ]
+    },
+    {
+      "id": "exasperated",
+      "word": "exasperated",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzæspəreɪtɪd/",
+      "reading_th": "อิก-แซส-เพอ-เร-ทิด",
+      "meaning_th": "เหลืออด / หงุดหงิดสุดทน",
+      "emoji": "🙄",
+      "example_en": "The teacher was exasperated by the same question for the fifth time.",
+      "example_th": "ครูเหลืออดกับคำถามเดิมเป็นครั้งที่ห้า",
+      "cefr": "B2",
+      "note_th": "exasperated = รำคาญจนสุดจะทนเพราะเรื่องเดิมซ้ำๆ — แรงกว่า annoyed และ frustrated; exasperating = น่าเหลืออด",
+      "distractors": [
+        "exaggerated",
+        "evaporated",
+        "separated"
+      ]
+    },
+    {
+      "id": "outraged",
+      "word": "outraged",
+      "pos": "adjective",
+      "ipa": "/ˈaʊtreɪdʒd/",
+      "reading_th": "เอาท์-เรจด์",
+      "meaning_th": "โกรธแค้น (เพราะความไม่ยุติธรรม)",
+      "emoji": "⚡",
+      "example_en": "Residents were outraged by the sudden rent increase.",
+      "example_th": "ชาวบ้านโกรธแค้นที่ค่าเช่าขึ้นกะทันหัน",
+      "cefr": "B2",
+      "note_th": "outraged = โกรธเพราะเห็นว่าไม่ถูกต้อง มักเป็นกลุ่มคน ใช้ในข่าว — outrage (noun) = ความไม่พอใจของสังคม",
+      "distractors": [
+        "outrageous",
+        "encouraged",
+        "outranked"
+      ]
+    },
+    {
+      "id": "resentful",
+      "word": "resentful",
+      "pos": "adjective",
+      "ipa": "/rɪˈzentfl/",
+      "reading_th": "ริ-เซนท์-ฟูล",
+      "meaning_th": "ขุ่นเคืองใจ (เก็บไว้นาน)",
+      "emoji": "💢",
+      "example_en": "She felt resentful that her sister got all the attention.",
+      "example_th": "เธอขุ่นเคืองใจที่น้องสาวได้รับความสนใจทั้งหมด",
+      "cefr": "B2",
+      "note_th": "resentful = โกรธแบบเก็บกดเพราะรู้สึกไม่เป็นธรรม ต่างจาก angry ที่ระเบิดออกมา — resentment = ความขุ่นเคืองที่สะสม",
+      "distractors": [
+        "respectful",
+        "restful",
+        "resourceful"
+      ]
+    },
+    {
+      "id": "lose_your_temper",
+      "word": "lose your temper",
+      "pos": "phrase",
+      "ipa": "/luːz jɔːr ˈtempər/",
+      "reading_th": "ลูส ยัวร์ เทม-เพอร์",
+      "meaning_th": "อารมณ์เสียระเบิดออกมา",
+      "emoji": "💥",
+      "example_en": "Try not to lose your temper with the customers.",
+      "example_th": "พยายามอย่าอารมณ์ระเบิดใส่ลูกค้า",
+      "cefr": "B1",
+      "note_th": "temper = อารมณ์ร้อน, lose your temper = คุมอารมณ์ไม่อยู่ — keep your temper = ข่มใจไว้ได้, have a short temper = ขี้โมโห",
+      "distractors": [
+        "lose your mind",
+        "keep your temper",
+        "lose your way"
+      ]
+    },
+    {
+      "id": "offended",
+      "word": "offended",
+      "pos": "adjective",
+      "ipa": "/əˈfendɪd/",
+      "reading_th": "ออฟ-เฟน-ดิด",
+      "meaning_th": "รู้สึกถูกดูหมิ่น",
+      "emoji": "😠",
+      "example_en": "He was offended by the joke about his accent.",
+      "example_th": "เขารู้สึกถูกดูหมิ่นจากมุกเรื่องสำเนียงของเขา",
+      "cefr": "B1",
+      "note_th": "offended = โกรธเพราะรู้สึกไม่ได้รับความเคารพ — No offense = ไม่ได้ว่านะ / None taken = ไม่ถือ ประโยคคู่ที่ใช้บ่อย",
+      "distractors": [
+        "defended",
+        "offensive",
+        "attended"
+      ]
+    },
+    {
+      "id": "cranky",
+      "word": "cranky",
+      "pos": "adjective",
+      "ipa": "/ˈkræŋki/",
+      "reading_th": "แครง-คี่",
+      "meaning_th": "งอแง / หงุดหงิดง่าย",
+      "emoji": "👶",
+      "example_en": "The baby gets cranky when she misses her nap.",
+      "example_th": "เด็กน้อยจะงอแงเวลาไม่ได้นอนกลางวัน",
+      "cefr": "B2",
+      "note_th": "cranky ใช้กับเด็กเล็กและคนนอนไม่พอ (อเมริกัน) — ใกล้เคียง grumpy แต่เน้นว่าเป็นเพราะเหนื่อยหรือหิว",
+      "distractors": [
+        "crunchy",
+        "crazy",
+        "cracked"
+      ]
+    },
+    {
+      "id": "rage",
+      "word": "rage",
+      "pos": "noun",
+      "ipa": "/reɪdʒ/",
+      "reading_th": "เรจ",
+      "meaning_th": "ความเดือดดาล",
+      "emoji": "🔥",
+      "example_en": "He punched the wall in a fit of rage.",
+      "example_th": "เขาต่อยกำแพงด้วยความเดือดดาล",
+      "cefr": "B2",
+      "note_th": "rage = โกรธรุนแรงจนขาดสติ (noun) — road rage = อาละวาดบนถนน, all the rage = กำลังฮิตสุดๆ (ความหมายต่างกันสิ้นเชิง)",
+      "distractors": [
+        "range",
+        "rare",
+        "rag"
+      ]
+    },
+    {
+      "id": "hostile",
+      "word": "hostile",
+      "pos": "adjective",
+      "ipa": "/ˈhɒstl/",
+      "reading_th": "ฮอส-ไทล์",
+      "meaning_th": "ไม่เป็นมิตร / มุ่งร้าย",
+      "emoji": "🧊",
+      "example_en": "The crowd became hostile when the show was cancelled.",
+      "example_th": "ฝูงชนเริ่มแสดงท่าทีไม่เป็นมิตรเมื่อการแสดงถูกยกเลิก",
+      "cefr": "B2",
+      "note_th": "hostile = ไม่เป็นมิตรถึงขั้นเป็นศัตรู (hostility = ความเป็นปฏิปักษ์) — a hostile work environment = ที่ทำงานที่เป็นพิษ",
+      "distractors": [
+        "hostel",
+        "hospital",
+        "hosting"
+      ]
+    },
+    {
+      "id": "anxious",
+      "word": "anxious",
+      "pos": "adjective",
+      "ipa": "/ˈæŋkʃəs/",
+      "reading_th": "แอง-เชิส",
+      "meaning_th": "วิตกกังวล",
+      "emoji": "😰",
+      "example_en": "I always feel anxious before a job interview.",
+      "example_th": "ฉันรู้สึกวิตกกังวลทุกครั้งก่อนสัมภาษณ์งาน",
+      "cefr": "B1",
+      "note_th": "anxious = กังวลแบบมีอาการทางกาย (ใจสั่น นอนไม่หลับ) แรงกว่า worried — anxiety = โรควิตกกังวล",
+      "distractors": [
+        "ancient",
+        "obvious",
+        "anxiety"
+      ]
+    },
+    {
+      "id": "afraid",
+      "word": "afraid",
+      "pos": "adjective",
+      "ipa": "/əˈfreɪd/",
+      "reading_th": "อะ-เฟรด",
+      "meaning_th": "หวาดกลัว / เกรงกลัว",
+      "emoji": "😧",
+      "example_en": "Many people are afraid of speaking English in public.",
+      "example_th": "หลายคนกลัวการพูดภาษาอังกฤษต่อหน้าคนอื่น",
+      "cefr": "A2",
+      "note_th": "afraid of + คำนาม/Ving — I'm afraid... ยังใช้บอกข่าวร้ายอย่างสุภาพ (I'm afraid we're closed = ขอโทษด้วย เราปิดแล้ว)",
+      "distractors": [
+        "affair",
+        "abroad",
+        "frayed"
+      ]
+    },
+    {
+      "id": "terrified",
+      "word": "terrified",
+      "pos": "adjective",
+      "ipa": "/ˈterɪfaɪd/",
+      "reading_th": "เท-ริ-ไฟด์",
+      "meaning_th": "กลัวสุดขีด",
+      "emoji": "😱",
+      "example_en": "She is terrified of cockroaches that can fly.",
+      "example_th": "เธอกลัวแมลงสาบบินสุดขีด",
+      "cefr": "B1",
+      "note_th": "terrified = scared ระดับสูงสุด (terror = ความสยอง) — terrified of + สิ่งที่กลัว, terrifying = น่ากลัวสุดๆ",
+      "distractors": [
+        "terrific",
+        "testified",
+        "verified"
+      ]
+    },
+    {
+      "id": "frightened",
+      "word": "frightened",
+      "pos": "adjective",
+      "ipa": "/ˈfraɪtnd/",
+      "reading_th": "ไฟร์-เท่นด์",
+      "meaning_th": "ตกใจกลัว",
+      "emoji": "🫣",
+      "example_en": "The children were frightened by the loud fireworks.",
+      "example_th": "เด็กๆ ตกใจกลัวเสียงพลุที่ดังมาก",
+      "cefr": "B1",
+      "note_th": "frightened = scared แต่เป็นทางการกว่าเล็กน้อย — frightened of = กลัว (ทั่วไป), frightened by = ตกใจเพราะสิ่งที่เกิดขึ้น",
+      "distractors": [
+        "frightening",
+        "brightened",
+        "tightened"
+      ]
+    },
+    {
+      "id": "alarmed",
+      "word": "alarmed",
+      "pos": "adjective",
+      "ipa": "/əˈlɑːrmd/",
+      "reading_th": "อะ-ลาร์มด์",
+      "meaning_th": "ตื่นตกใจ (เพราะอันตราย)",
+      "emoji": "🚨",
+      "example_en": "Residents were alarmed by the smoke coming from the factory.",
+      "example_th": "ชาวบ้านตื่นตกใจกับควันที่ลอยออกมาจากโรงงาน",
+      "cefr": "B2",
+      "note_th": "alarmed = ตกใจเพราะรู้สึกว่ามีอันตราย (alarmed at / by) — alarming = น่าตกใจ (an alarming rise in prices), alarm = สัญญาณเตือนภัย",
+      "distractors": [
+        "alarming",
+        "armed",
+        "charmed"
+      ]
+    },
+    {
+      "id": "uneasy",
+      "word": "uneasy",
+      "pos": "adjective",
+      "ipa": "/ʌnˈiːzi/",
+      "reading_th": "อัน-อี-ซี่",
+      "meaning_th": "ไม่สบายใจ / ตะขิดตะขวง",
+      "emoji": "😬",
+      "example_en": "I felt uneasy walking alone in the dark alley.",
+      "example_th": "ฉันรู้สึกไม่สบายใจตอนเดินคนเดียวในซอยมืด",
+      "cefr": "B2",
+      "note_th": "uneasy = กังวลลางๆ ว่ามีอะไรผิดปกติ — an uneasy silence = ความเงียบที่อึดอัด, uneasy about = ไม่สบายใจเรื่อง",
+      "distractors": [
+        "unease",
+        "easy",
+        "unusual"
+      ]
+    },
+    {
+      "id": "insecure",
+      "word": "insecure",
+      "pos": "adjective",
+      "ipa": "/ˌɪnsɪˈkjʊr/",
+      "reading_th": "อิน-ซิ-เคียวร์",
+      "meaning_th": "ไม่มั่นใจในตัวเอง",
+      "emoji": "🪞",
+      "example_en": "She feels insecure about her English accent.",
+      "example_th": "เธอรู้สึกไม่มั่นใจเรื่องสำเนียงอังกฤษของตัวเอง",
+      "cefr": "B1",
+      "note_th": "insecure = ไม่มั่นใจในตัวเองจนกลัวถูกตัดสิน ตรงข้ามกับ confident — ใช้กับระบบได้ด้วย (an insecure website = ไม่ปลอดภัย)",
+      "distractors": [
+        "unsure",
+        "secure",
+        "insincere"
+      ]
+    },
+    {
+      "id": "tense",
+      "word": "tense",
+      "pos": "adjective",
+      "ipa": "/tens/",
+      "reading_th": "เทนส์",
+      "meaning_th": "ตึงเครียด",
+      "emoji": "😬",
+      "example_en": "The room was tense before the exam results came out.",
+      "example_th": "บรรยากาศในห้องตึงเครียดก่อนผลสอบออก",
+      "cefr": "B1",
+      "note_th": "tense = ตึงเครียดทั้งกล้ามเนื้อ อารมณ์ และบรรยากาศ — tension = ความตึงเครียด ส่วน tense ในไวยากรณ์คือกาล (past tense)",
+      "distractors": [
+        "tents",
+        "tender",
+        "dense"
+      ]
+    },
+    {
+      "id": "dread",
+      "word": "dread",
+      "pos": "verb",
+      "ipa": "/dred/",
+      "reading_th": "เดรด",
+      "meaning_th": "หวาดหวั่น (สิ่งที่จะมาถึง)",
+      "emoji": "🗓️",
+      "example_en": "I dread going to the dentist every six months.",
+      "example_th": "ฉันหวาดหวั่นกับการไปหาหมอฟันทุกหกเดือน",
+      "cefr": "B2",
+      "note_th": "dread + Ving = กลัวสิ่งที่รู้ว่าต้องเจอแน่ๆ — I dread to think... = ไม่อยากคิดเลยว่า..., dreadful = แย่มาก",
+      "distractors": [
+        "dead",
+        "bread",
+        "tread"
+      ]
+    },
+    {
+      "id": "paranoid",
+      "word": "paranoid",
+      "pos": "adjective",
+      "ipa": "/ˈpærənɔɪd/",
+      "reading_th": "แพ-ระ-นอยด์",
+      "meaning_th": "หวาดระแวง",
+      "emoji": "👀",
+      "example_en": "He gets paranoid that his phone is listening to him.",
+      "example_th": "เขาหวาดระแวงว่าโทรศัพท์แอบฟังเขาอยู่",
+      "cefr": "B2",
+      "note_th": "ภาษาพูดใช้ paranoid = ระแวงเกินเหตุ (ไม่ใช่ความหมายทางการแพทย์) — paranoid about + เรื่องที่ระแวง",
+      "distractors": [
+        "parachute",
+        "paradox",
+        "paramedic"
+      ]
+    },
+    {
+      "id": "overwhelmed",
+      "word": "overwhelmed",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈwelmd/",
+      "reading_th": "โอ-เวอร์-เวลมด์",
+      "meaning_th": "รับไม่ไหว / ท่วมท้น",
+      "emoji": "🌊",
+      "example_en": "New mothers often feel overwhelmed in the first month.",
+      "example_th": "คุณแม่มือใหม่มักรู้สึกรับไม่ไหวในเดือนแรก",
+      "cefr": "B2",
+      "note_th": "overwhelmed = งานหรืออารมณ์ท่วมท้นจนจัดการไม่ไหว — ใช้ในด้านดีได้ด้วย overwhelmed by kindness = ซาบซึ้งจนพูดไม่ออก",
+      "distractors": [
+        "overworked",
+        "overlooked",
+        "overheard"
+      ]
+    },
+    {
+      "id": "concerned",
+      "word": "concerned",
+      "pos": "adjective",
+      "ipa": "/kənˈsɜːrnd/",
+      "reading_th": "คอน-เซิร์นด์",
+      "meaning_th": "เป็นห่วง",
+      "emoji": "🤔",
+      "example_en": "Teachers are concerned about students who skip lunch.",
+      "example_th": "ครูเป็นห่วงนักเรียนที่ไม่กินข้าวกลางวัน",
+      "cefr": "B1",
+      "note_th": "concerned = กังวลแบบสุภาพและเป็นห่วงคนอื่น เหมาะกับอีเมลทางการมากกว่า worried — concerned about / for",
+      "distractors": [
+        "confirmed",
+        "concerning",
+        "convinced"
+      ]
+    },
+    {
+      "id": "intimidated",
+      "word": "intimidated",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtɪmɪdeɪtɪd/",
+      "reading_th": "อิน-ทิ-มิ-เด-ทิด",
+      "meaning_th": "รู้สึกถูกข่ม / ประหม่า",
+      "emoji": "🧍",
+      "example_en": "I felt intimidated by the senior managers in the meeting.",
+      "example_th": "ฉันรู้สึกประหม่ากับผู้บริหารอาวุโสในที่ประชุม",
+      "cefr": "B2",
+      "note_th": "intimidated = กลัวและด้อยกว่าเมื่ออยู่ต่อหน้าคนที่ดูเหนือกว่า — intimidating = น่าเกรงขาม (อาคาร คน หรือข้อสอบ)",
+      "distractors": [
+        "imitated",
+        "initiated",
+        "intimate"
+      ]
+    },
+    {
+      "id": "jumpy",
+      "word": "jumpy",
+      "pos": "adjective",
+      "ipa": "/ˈdʒʌmpi/",
+      "reading_th": "จัม-พี่",
+      "meaning_th": "ขวัญอ่อน / ตกใจง่าย",
+      "emoji": "🫨",
+      "example_en": "After the horror movie I was jumpy all night.",
+      "example_th": "หลังดูหนังผี ฉันขวัญอ่อนทั้งคืน",
+      "cefr": "B2",
+      "note_th": "jumpy = ตกใจง่ายเพราะประสาทตึง (ภาษาพูด) — จาก jump ที่แปลว่าสะดุ้ง; make someone jump = ทำให้สะดุ้ง",
+      "distractors": [
+        "jump",
+        "bumpy",
+        "grumpy"
+      ]
+    },
+    {
+      "id": "calm",
+      "word": "calm",
+      "pos": "adjective",
+      "ipa": "/kɑːm/",
+      "reading_th": "คาล์ม",
+      "meaning_th": "สงบ / ใจเย็น",
+      "emoji": "🧘",
+      "example_en": "Stay calm and read the question again slowly.",
+      "example_th": "ใจเย็นๆ แล้วอ่านคำถามอีกครั้งช้าๆ",
+      "cefr": "A2",
+      "note_th": "calm ตัว l ไม่ออกเสียง — calm down = ใจเย็นลง, keep calm = ตั้งสติ (Keep Calm and Carry On โปสเตอร์ดังของอังกฤษ)",
+      "distractors": [
+        "clam",
+        "claim",
+        "palm"
+      ]
+    },
+    {
+      "id": "relaxed",
+      "word": "relaxed",
+      "pos": "adjective",
+      "ipa": "/rɪˈlækst/",
+      "reading_th": "ริ-แล็คสท์",
+      "meaning_th": "ผ่อนคลาย",
+      "emoji": "🛋️",
+      "example_en": "I feel so relaxed after a weekend at the beach.",
+      "example_th": "ฉันรู้สึกผ่อนคลายมากหลังไปทะเลสุดสัปดาห์",
+      "cefr": "A2",
+      "note_th": "relaxed = ตัวเราสบาย ส่วน relaxing = สิ่งนั้นทำให้สบาย (a relaxing massage) — ใช้ -ed กับคน -ing กับสิ่งของเป็นกฎที่คนไทยพลาดบ่อย",
+      "distractors": [
+        "relaxing",
+        "released",
+        "relapsed"
+      ]
+    },
+    {
+      "id": "relieved",
+      "word": "relieved",
+      "pos": "adjective",
+      "ipa": "/rɪˈliːvd/",
+      "reading_th": "ริ-ลีฟด์",
+      "meaning_th": "โล่งใจ",
+      "emoji": "😮‍💨",
+      "example_en": "I was relieved to hear that everyone was safe.",
+      "example_th": "ฉันโล่งใจที่ได้ยินว่าทุกคนปลอดภัย",
+      "cefr": "B1",
+      "note_th": "relieved = โล่งอกหลังจากกังวลมานาน — What a relief! = โล่งไปที, relieved to hear / that ...",
+      "distractors": [
+        "believed",
+        "received",
+        "relived"
+      ]
+    },
+    {
+      "id": "peaceful",
+      "word": "peaceful",
+      "pos": "adjective",
+      "ipa": "/ˈpiːsfl/",
+      "reading_th": "พีซ-ฟูล",
+      "meaning_th": "สงบสุข",
+      "emoji": "🕊️",
+      "example_en": "The temple garden is peaceful in the early morning.",
+      "example_th": "สวนในวัดสงบสุขมากตอนเช้าตรู่",
+      "cefr": "A2",
+      "note_th": "peaceful ใช้บรรยายสถานที่และบรรยากาศ ส่วน calm ใช้กับคนได้มากกว่า — rest in peace (R.I.P.) = ขอให้ไปสู่สุคติ",
+      "distractors": [
+        "painful",
+        "peaceless",
+        "piece"
+      ]
+    },
+    {
+      "id": "at_ease",
+      "word": "at ease",
+      "pos": "phrase",
+      "ipa": "/ət ˈiːz/",
+      "reading_th": "แอท อีส",
+      "meaning_th": "สบายใจไม่เกร็ง",
+      "emoji": "🤗",
+      "example_en": "The host made all the guests feel at ease.",
+      "example_th": "เจ้าภาพทำให้แขกทุกคนรู้สึกสบายใจ",
+      "cefr": "B1",
+      "note_th": "feel at ease = ไม่เกร็ง, put someone at ease = ทำให้คนอื่นสบายใจ — ตรงข้ามคือ ill at ease = อึดอัด",
+      "distractors": [
+        "at least",
+        "at once",
+        "with ease"
+      ]
+    },
+    {
+      "id": "carefree",
+      "word": "carefree",
+      "pos": "adjective",
+      "ipa": "/ˈkerfriː/",
+      "reading_th": "แคร์-ฟรี",
+      "meaning_th": "ไร้กังวล",
+      "emoji": "🏖️",
+      "example_en": "Those carefree summer days at university are gone.",
+      "example_th": "วันหน้าร้อนไร้กังวลสมัยมหาวิทยาลัยผ่านไปแล้ว",
+      "cefr": "B1",
+      "note_th": "carefree = ไม่มีเรื่องให้กังวล (ความหมายดี) ส่วน careless = สะเพร่า (ความหมายแย่) — คนไทยสับสนสองคำนี้บ่อยมาก",
+      "distractors": [
+        "careless",
+        "careful",
+        "care-free"
+      ]
+    },
+    {
+      "id": "secure",
+      "word": "secure",
+      "pos": "adjective",
+      "ipa": "/sɪˈkjʊr/",
+      "reading_th": "ซิ-เคียวร์",
+      "meaning_th": "มั่นคงปลอดภัย (ใจ)",
+      "emoji": "🔒",
+      "example_en": "Children need to feel secure to grow up happy.",
+      "example_th": "เด็กต้องรู้สึกมั่นคงปลอดภัยจึงจะโตมาอย่างมีความสุข",
+      "cefr": "B1",
+      "note_th": "feel secure = รู้สึกปลอดภัยไม่ต้องกลัวอะไร (ตรงข้าม insecure) — ใช้กับงานได้ a secure job = งานมั่นคง",
+      "distractors": [
+        "security",
+        "sincere",
+        "seduce"
+      ]
+    },
+    {
+      "id": "serene",
+      "word": "serene",
+      "pos": "adjective",
+      "ipa": "/səˈriːn/",
+      "reading_th": "ซะ-รีน",
+      "meaning_th": "สงบเยือกเย็น",
+      "emoji": "🌊",
+      "example_en": "Her face looked serene during meditation.",
+      "example_th": "ใบหน้าของเธอดูสงบเยือกเย็นระหว่างนั่งสมาธิ",
+      "cefr": "B2",
+      "note_th": "serene = สงบงดงามแบบไม่มีคลื่นรบกวน (serenity = ความสงบ) — ใช้ในรีวิวรีสอร์ทและสปา a serene lake",
+      "distractors": [
+        "siren",
+        "scene",
+        "severe"
+      ]
+    },
+    {
+      "id": "reassured",
+      "word": "reassured",
+      "pos": "adjective",
+      "ipa": "/ˌriːəˈʃʊrd/",
+      "reading_th": "รี-อะ-ชัวร์ด",
+      "meaning_th": "คลายกังวล (เพราะมีคนปลอบ)",
+      "emoji": "🤝",
+      "example_en": "I felt reassured after talking to the doctor.",
+      "example_th": "ฉันคลายกังวลหลังคุยกับหมอ",
+      "cefr": "B2",
+      "note_th": "reassure (กริยา) = ปลอบให้หายกังวล — reassured ต่างจาก relieved ตรงที่มีคนช่วยให้มั่นใจ ไม่ใช่เหตุการณ์คลี่คลายเอง",
+      "distractors": [
+        "reassuring",
+        "assured",
+        "rescued"
+      ]
+    },
+    {
+      "id": "chill",
+      "word": "chill",
+      "pos": "adjective",
+      "ipa": "/tʃɪl/",
+      "reading_th": "ชิล",
+      "meaning_th": "ชิลๆ / สบายๆ",
+      "emoji": "🍹",
+      "example_en": "The café has a chill vibe, perfect for reading.",
+      "example_th": "คาเฟ่นี้บรรยากาศชิลๆ เหมาะกับการอ่านหนังสือ",
+      "cefr": "B1",
+      "note_th": "chill ในภาษาพูด = สบายๆ ไม่เครียด (ใช้เป็นกริยาได้ chill out, let's chill) — ภาษาไทยยืมมาใช้ตรงตัวแล้ว แต่ความหมายเดิมคือเย็นเยียบ",
+      "distractors": [
+        "chilli",
+        "child",
+        "chilly"
+      ]
+    },
+    {
+      "id": "unwind",
+      "word": "unwind",
+      "pos": "verb",
+      "ipa": "/ʌnˈwaɪnd/",
+      "reading_th": "อัน-ไวนด์",
+      "meaning_th": "ผ่อนคลายหลังเครียด",
+      "emoji": "🛀",
+      "example_en": "A hot bath helps me unwind after work.",
+      "example_th": "อาบน้ำอุ่นช่วยให้ฉันผ่อนคลายหลังเลิกงาน",
+      "cefr": "B2",
+      "note_th": "unwind = คลายตัวเหมือนคลายลานนาฬิกา ใช้แทน relax ได้สวยกว่า — past tense: unwound",
+      "distractors": [
+        "rewind",
+        "unwound",
+        "unkind"
+      ]
+    },
+    {
+      "id": "soothing",
+      "word": "soothing",
+      "pos": "adjective",
+      "ipa": "/ˈsuːðɪŋ/",
+      "reading_th": "ซู-ธิง",
+      "meaning_th": "ช่วยให้สงบ / ปลอบประโลม",
+      "emoji": "🎶",
+      "example_en": "She has a soothing voice that calms the baby instantly.",
+      "example_th": "เธอมีน้ำเสียงปลอบประโลมที่ทำให้เด็กสงบทันที",
+      "cefr": "B2",
+      "note_th": "soothing บรรยายสิ่งที่ทำให้สบายขึ้น: เสียง ดนตรี ครีม ชา — soothe (กริยา) = ปลอบ หรือบรรเทา (soothe a sore throat)",
+      "distractors": [
+        "smoothing",
+        "soaking",
+        "seething"
+      ]
+    },
+    {
+      "id": "mellow",
+      "word": "mellow",
+      "pos": "adjective",
+      "ipa": "/ˈmeloʊ/",
+      "reading_th": "เมล-โล",
+      "meaning_th": "นุ่มนวลสบายๆ",
+      "emoji": "🎷",
+      "example_en": "I was in a mellow mood after the jazz concert.",
+      "example_th": "ฉันอารมณ์นุ่มนวลสบายๆ หลังดูคอนเสิร์ตแจ๊ส",
+      "cefr": "B2",
+      "note_th": "mellow ใช้กับอารมณ์ เพลง แสง และรสชาติ (ไวน์ กาแฟ) — mellow out = ใจเย็นลงเมื่ออายุมากขึ้น",
+      "distractors": [
+        "yellow",
+        "marshmallow",
+        "hollow"
+      ]
+    },
+    {
+      "id": "refreshed",
+      "word": "refreshed",
+      "pos": "adjective",
+      "ipa": "/rɪˈfreʃt/",
+      "reading_th": "ริ-เฟรชท์",
+      "meaning_th": "สดชื่นขึ้น",
+      "emoji": "🚿",
+      "example_en": "I woke up refreshed after nine hours of sleep.",
+      "example_th": "ฉันตื่นมาสดชื่นหลังนอนเก้าชั่วโมง",
+      "cefr": "B1",
+      "note_th": "refreshed = หายเหนื่อยสดชื่นเหมือนรีเฟรชหน้าเว็บ — refreshing = ทำให้สดชื่น (a refreshing drink) และ refreshments = ของว่างในงาน",
+      "distractors": [
+        "refreshing",
+        "reflected",
+        "freshened"
+      ]
+    },
+    {
+      "id": "shocked",
+      "word": "shocked",
+      "pos": "adjective",
+      "ipa": "/ʃɒkt/",
+      "reading_th": "ช็อคท์",
+      "meaning_th": "ตกตะลึง",
+      "emoji": "😳",
+      "example_en": "Everyone was shocked by the sudden announcement.",
+      "example_th": "ทุกคนตกตะลึงกับประกาศที่กะทันหัน",
+      "cefr": "A2",
+      "note_th": "shocked = ตกใจแบบรับไม่ทัน (มักเป็นข่าวร้าย) ส่วน surprised ใช้ได้ทั้งดีและร้าย — shocking = น่าตกใจ",
+      "distractors": [
+        "shocking",
+        "socked",
+        "shaken"
+      ]
+    },
+    {
+      "id": "amazed",
+      "word": "amazed",
+      "pos": "adjective",
+      "ipa": "/əˈmeɪzd/",
+      "reading_th": "อะ-เมซด์",
+      "meaning_th": "ทึ่ง",
+      "emoji": "🤯",
+      "example_en": "I was amazed at how fast she learned Thai.",
+      "example_th": "ฉันทึ่งที่เธอเรียนภาษาไทยได้เร็วขนาดนี้",
+      "cefr": "A2",
+      "note_th": "amazed at / by = ทึ่งกับ (ด้านดี) — amazing = น่าทึ่ง ใช้กับสิ่งของ อย่าพูดว่า I'm amazing เมื่อหมายถึงฉันทึ่ง",
+      "distractors": [
+        "amazing",
+        "amused",
+        "alarmed"
+      ]
+    },
+    {
+      "id": "astonished",
+      "word": "astonished",
+      "pos": "adjective",
+      "ipa": "/əˈstɒnɪʃt/",
+      "reading_th": "แอส-ตอน-นิชท์",
+      "meaning_th": "ประหลาดใจมาก",
+      "emoji": "😮",
+      "example_en": "The teacher was astonished that he finished the test in ten minutes.",
+      "example_th": "ครูประหลาดใจมากที่เขาทำข้อสอบเสร็จในสิบนาที",
+      "cefr": "B2",
+      "note_th": "astonished = surprised ระดับสุดขั้ว ค่อนข้างเป็นภาษาเขียน — astonishing = น่าประหลาดใจอย่างยิ่ง",
+      "distractors": [
+        "established",
+        "abolished",
+        "admonished"
+      ]
+    },
+    {
+      "id": "stunned",
+      "word": "stunned",
+      "pos": "adjective",
+      "ipa": "/stʌnd/",
+      "reading_th": "สตันด์",
+      "meaning_th": "อึ้ง",
+      "emoji": "😶",
+      "example_en": "We were stunned into silence by the news.",
+      "example_th": "เราอึ้งจนเงียบไปเลยเมื่อได้ยินข่าว",
+      "cefr": "B2",
+      "note_th": "stunned = ช็อกจนขยับหรือพูดไม่ออก — stun ยังแปลว่าทำให้สลบ (stun gun = ปืนช็อตไฟฟ้า) และ stunning = สวยจนตะลึง",
+      "distractors": [
+        "stunning",
+        "stained",
+        "stood"
+      ]
+    },
+    {
+      "id": "speechless",
+      "word": "speechless",
+      "pos": "adjective",
+      "ipa": "/ˈspiːtʃləs/",
+      "reading_th": "สปีช-เลส",
+      "meaning_th": "พูดไม่ออก",
+      "emoji": "🤐",
+      "example_en": "Her surprise gift left me speechless.",
+      "example_th": "ของขวัญเซอร์ไพรส์ของเธอทำให้ฉันพูดไม่ออก",
+      "cefr": "B1",
+      "note_th": "speechless ใช้ได้ทั้งดีใจจนพูดไม่ออกและโกรธจนพูดไม่ออก — leave someone speechless = ทำให้คนอื่นอึ้ง",
+      "distractors": [
+        "speech",
+        "sleepless",
+        "spotless"
+      ]
+    },
+    {
+      "id": "confused",
+      "word": "confused",
+      "pos": "adjective",
+      "ipa": "/kənˈfjuːzd/",
+      "reading_th": "คอน-ฟิวสด์",
+      "meaning_th": "สับสน",
+      "emoji": "😵‍💫",
+      "example_en": "I am confused about which bus goes to the airport.",
+      "example_th": "ฉันสับสนว่ารถเมล์คันไหนไปสนามบิน",
+      "cefr": "A2",
+      "note_th": "confused = คนสับสน, confusing = สิ่งที่ชวนสับสน (the map is confusing) — คนไทยชอบพูด \"I'm confusing\" ซึ่งแปลว่าฉันทำให้คนอื่นงง",
+      "distractors": [
+        "confusing",
+        "confined",
+        "conference"
+      ]
+    },
+    {
+      "id": "puzzled",
+      "word": "puzzled",
+      "pos": "adjective",
+      "ipa": "/ˈpʌzld/",
+      "reading_th": "พัซ-เซิ่ลด์",
+      "meaning_th": "งงจนต้องคิด",
+      "emoji": "🧩",
+      "example_en": "She looked puzzled when I explained the rules.",
+      "example_th": "เธอดูงงเมื่อฉันอธิบายกฎ",
+      "cefr": "B1",
+      "note_th": "puzzled = งงและพยายามหาคำตอบ เหมือนต่อจิ๊กซอว์ (a puzzled look = สีหน้างงๆ) — อ่อนกว่า confused นิดหน่อย",
+      "distractors": [
+        "puzzle",
+        "dazzled",
+        "muzzled"
+      ]
+    },
+    {
+      "id": "baffled",
+      "word": "baffled",
+      "pos": "adjective",
+      "ipa": "/ˈbæfld/",
+      "reading_th": "แบฟ-เฟิ่ลด์",
+      "meaning_th": "งงสนิท",
+      "emoji": "🤷",
+      "example_en": "Doctors were baffled by his strange symptoms.",
+      "example_th": "หมองงสนิทกับอาการแปลกๆ ของเขา",
+      "cefr": "B2",
+      "note_th": "baffled = งงจนหาคำอธิบายไม่ได้เลย (แรงกว่า puzzled) — baffling = ชวนงงสุดๆ ใช้ในข่าวและสารคดี",
+      "distractors": [
+        "battled",
+        "buffed",
+        "raffled"
+      ]
+    },
+    {
+      "id": "torn",
+      "word": "torn",
+      "pos": "adjective",
+      "ipa": "/tɔːrn/",
+      "reading_th": "ทอร์น",
+      "meaning_th": "ลังเลสองใจ",
+      "emoji": "🎭",
+      "example_en": "I am torn between staying in Chiang Mai and moving to Bangkok.",
+      "example_th": "ฉันลังเลสองใจระหว่างอยู่เชียงใหม่กับย้ายไปกรุงเทพ",
+      "cefr": "B1",
+      "note_th": "torn (จาก tear = ฉีก) = ใจถูกดึงสองทาง — be torn between A and B ใช้ตอบเวลาตัดสินใจไม่ได้ว่าเลือกอะไรดี",
+      "distractors": [
+        "tore",
+        "turn",
+        "thorn"
+      ]
+    },
+    {
+      "id": "curious",
+      "word": "curious",
+      "pos": "adjective",
+      "ipa": "/ˈkjʊriəs/",
+      "reading_th": "เคียว-เรียส",
+      "meaning_th": "อยากรู้อยากเห็น",
+      "emoji": "🔍",
+      "example_en": "I am curious to know how the trick works.",
+      "example_th": "ฉันอยากรู้ว่ากลนี้ทำได้ยังไง",
+      "cefr": "A2",
+      "note_th": "curious about + เรื่อง, curious to know — curiosity = ความอยากรู้ และ Curiosity killed the cat = อยากรู้มากไปอาจเดือดร้อน",
+      "distractors": [
+        "furious",
+        "serious",
+        "careful"
+      ]
+    },
+    {
+      "id": "embarrassed",
+      "word": "embarrassed",
+      "pos": "adjective",
+      "ipa": "/ɪmˈbærəst/",
+      "reading_th": "อิม-แบ-เริสท์",
+      "meaning_th": "อาย / ขายหน้า",
+      "emoji": "😳",
+      "example_en": "I was so embarrassed when I called the teacher Mom.",
+      "example_th": "ฉันอายมากตอนเผลอเรียกครูว่าแม่",
+      "cefr": "B1",
+      "note_th": "embarrassed = อายเพราะทำพลาดต่อหน้าคนอื่น ต่างจาก shy ที่เป็นนิสัยขี้อาย — สะกด rr และ ss คู่",
+      "distractors": [
+        "embarrassing",
+        "embraced",
+        "harassed"
+      ]
+    },
+    {
+      "id": "ashamed",
+      "word": "ashamed",
+      "pos": "adjective",
+      "ipa": "/əˈʃeɪmd/",
+      "reading_th": "อะ-เชมด์",
+      "meaning_th": "ละอายใจ",
+      "emoji": "🙈",
+      "example_en": "He felt ashamed of lying to his parents.",
+      "example_th": "เขาละอายใจที่โกหกพ่อแม่",
+      "cefr": "B1",
+      "note_th": "ashamed = ละอายเพราะทำสิ่งผิด (เกี่ยวกับศีลธรรม) ส่วน embarrassed = อายเพราะเสียหน้า — ashamed of + สิ่งที่ทำ",
+      "distractors": [
+        "shamed",
+        "ashen",
+        "assumed"
+      ]
+    },
+    {
+      "id": "humiliated",
+      "word": "humiliated",
+      "pos": "adjective",
+      "ipa": "/hjuːˈmɪlieɪtɪd/",
+      "reading_th": "ฮิว-มิ-ลิ-เอ-ทิด",
+      "meaning_th": "ขายหน้าอย่างแรง",
+      "emoji": "🙈",
+      "example_en": "I felt humiliated when the boss shouted at me in front of everyone.",
+      "example_th": "ฉันรู้สึกขายหน้าอย่างแรงเมื่อหัวหน้าตะคอกใส่ต่อหน้าทุกคน",
+      "cefr": "B2",
+      "note_th": "humiliated = เสียหน้ารุนแรงจนเสียศักดิ์ศรี แรงกว่า embarrassed มาก — humiliate someone = ทำให้คนอื่นขายหน้า (ในที่สาธารณะ)",
+      "distractors": [
+        "humid",
+        "illuminated",
+        "humble"
+      ]
+    },
+    {
+      "id": "bewildered",
+      "word": "bewildered",
+      "pos": "adjective",
+      "ipa": "/bɪˈwɪldərd/",
+      "reading_th": "บิ-วิล-เดิร์ด",
+      "meaning_th": "งงงวยไปหมด",
+      "emoji": "🌀",
+      "example_en": "The tourists looked bewildered at the busy station.",
+      "example_th": "นักท่องเที่ยวดูงงงวยไปหมดที่สถานีที่วุ่นวาย",
+      "cefr": "B2",
+      "note_th": "bewildered = งงจนไม่รู้จะไปทางไหน มักมาจากสิ่งรอบตัวที่มากเกินไป — bewildering = ชวนงง (a bewildering number of options)",
+      "distractors": [
+        "bewitched",
+        "wildered",
+        "withered"
+      ]
+    },
+    {
+      "id": "mood",
+      "word": "mood",
+      "pos": "noun",
+      "ipa": "/muːd/",
+      "reading_th": "มูด",
+      "meaning_th": "อารมณ์ (ชั่วขณะ)",
+      "emoji": "🎭",
+      "example_en": "Music can change my mood in seconds.",
+      "example_th": "ดนตรีเปลี่ยนอารมณ์ฉันได้ในไม่กี่วินาที",
+      "cefr": "A2",
+      "note_th": "mood = อารมณ์ชั่วคราวที่เปลี่ยนได้ — in the mood for = อยาก (in the mood for pizza), not in the mood = ไม่มีอารมณ์",
+      "distractors": [
+        "mode",
+        "moon",
+        "mud"
+      ]
+    },
+    {
+      "id": "mood_swings",
+      "word": "mood swings",
+      "pos": "noun",
+      "ipa": "/ˈmuːd swɪŋz/",
+      "reading_th": "มูด สวิงส์",
+      "meaning_th": "อารมณ์แปรปรวน",
+      "emoji": "🎢",
+      "example_en": "Lack of sleep can cause mood swings.",
+      "example_th": "การนอนไม่พออาจทำให้อารมณ์แปรปรวน",
+      "cefr": "B1",
+      "note_th": "mood swings = อารมณ์ขึ้นๆ ลงๆ เหมือนชิงช้า มักใช้เป็นพหูพจน์ — have / suffer from mood swings",
+      "distractors": [
+        "mood rings",
+        "mood board",
+        "swing moods"
+      ]
+    },
+    {
+      "id": "burnout",
+      "word": "burnout",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrnaʊt/",
+      "reading_th": "เบิร์น-เอาท์",
+      "meaning_th": "ภาวะหมดไฟ",
+      "emoji": "🔥",
+      "example_en": "Working late every night led to serious burnout.",
+      "example_th": "การทำงานดึกทุกคืนนำไปสู่ภาวะหมดไฟอย่างหนัก",
+      "cefr": "B1",
+      "note_th": "burnout (noun เขียนติด) = หมดไฟจากงาน ส่วนกริยาคือ burn out (I'm burned out = ฉันหมดไฟแล้ว) — WHO จัดเป็นภาวะจากการทำงาน",
+      "distractors": [
+        "blackout",
+        "burn",
+        "breakout"
+      ]
+    },
+    {
+      "id": "mental_health",
+      "word": "mental health",
+      "pos": "noun",
+      "ipa": "/ˌmentl ˈhelθ/",
+      "reading_th": "เมน-เทิ่ล เฮลธ์",
+      "meaning_th": "สุขภาพจิต",
+      "emoji": "🧠",
+      "example_en": "Taking care of your mental health is as important as exercise.",
+      "example_th": "การดูแลสุขภาพจิตสำคัญพอๆ กับการออกกำลังกาย",
+      "cefr": "B1",
+      "note_th": "mental health = สุขภาพจิต (กลางๆ ไม่ได้แปลว่าป่วย) — mental health day = วันลาพักใจ, mental illness = โรคทางจิตเวช",
+      "distractors": [
+        "dental health",
+        "mental illness",
+        "metal health"
+      ]
+    },
+    {
+      "id": "therapy",
+      "word": "therapy",
+      "pos": "noun",
+      "ipa": "/ˈθerəpi/",
+      "reading_th": "เธ-ระ-พี่",
+      "meaning_th": "การบำบัด",
+      "emoji": "🛋️",
+      "example_en": "She started therapy to deal with her anxiety.",
+      "example_th": "เธอเริ่มเข้ารับการบำบัดเพื่อจัดการความวิตกกังวล",
+      "cefr": "B1",
+      "note_th": "therapy ในบริบทนี้ = จิตบำบัด (talk therapy) — go to therapy / be in therapy ไม่ได้แปลว่าบ้า เป็นเรื่องปกติในวัฒนธรรมตะวันตก",
+      "distractors": [
+        "theory",
+        "therapist",
+        "treaty"
+      ]
+    },
+    {
+      "id": "therapist",
+      "word": "therapist",
+      "pos": "noun",
+      "ipa": "/ˈθerəpɪst/",
+      "reading_th": "เธ-ระ-พิสท์",
+      "meaning_th": "นักบำบัด",
+      "emoji": "👩‍⚕️",
+      "example_en": "My therapist taught me a breathing exercise for stress.",
+      "example_th": "นักบำบัดสอนวิธีหายใจเพื่อคลายเครียดให้ฉัน",
+      "cefr": "B1",
+      "note_th": "therapist = นักจิตบำบัด/นักจิตวิทยาที่ให้คำปรึกษา ส่วน psychiatrist = จิตแพทย์ที่สั่งยาได้ — the rapist เป็นมุกแยกคำที่ต้องระวังเวลาพิมพ์",
+      "distractors": [
+        "the rapist",
+        "theorist",
+        "typist"
+      ]
+    },
+    {
+      "id": "cope",
+      "word": "cope",
+      "pos": "verb",
+      "ipa": "/koʊp/",
+      "reading_th": "โคพ",
+      "meaning_th": "รับมือ",
+      "emoji": "🧗",
+      "example_en": "How do you cope with stress at work?",
+      "example_th": "คุณรับมือกับความเครียดที่ทำงานยังไง",
+      "cefr": "B1",
+      "note_th": "cope with = รับมือกับสิ่งที่ยาก — I can't cope = ฉันรับไม่ไหวแล้ว และ coping mechanism = วิธีรับมือของแต่ละคน",
+      "distractors": [
+        "cop",
+        "copy",
+        "hope"
+      ]
+    },
+    {
+      "id": "vent",
+      "word": "vent",
+      "pos": "verb",
+      "ipa": "/vent/",
+      "reading_th": "เวนท์",
+      "meaning_th": "ระบาย (ความรู้สึก)",
+      "emoji": "🗣️",
+      "example_en": "Sometimes I just need to vent to a friend.",
+      "example_th": "บางครั้งฉันแค่ต้องการระบายให้เพื่อนฟัง",
+      "cefr": "B2",
+      "note_th": "vent = ระบายอารมณ์เหมือนปล่อยไอน้ำออกจากช่องลม — vent to someone / vent about something และ Can I vent for a minute? = ขอบ่นแป๊บ",
+      "distractors": [
+        "rent",
+        "went",
+        "event"
+      ]
+    },
+    {
+      "id": "self_care",
+      "word": "self-care",
+      "pos": "noun",
+      "ipa": "/ˌself ˈker/",
+      "reading_th": "เซลฟ์ แคร์",
+      "meaning_th": "การดูแลใจตัวเอง",
+      "emoji": "🧖",
+      "example_en": "Saying no to extra work is also self-care.",
+      "example_th": "การปฏิเสธงานเพิ่มก็เป็นการดูแลตัวเองเหมือนกัน",
+      "cefr": "B1",
+      "note_th": "self-care = กิจกรรมดูแลกายใจตัวเอง (พักผ่อน ออกกำลัง ทำสปา) — คำฮิตในโซเชียล มี hyphen เสมอ",
+      "distractors": [
+        "self-love",
+        "skincare",
+        "self-help"
+      ]
+    },
+    {
+      "id": "vulnerable",
+      "word": "vulnerable",
+      "pos": "adjective",
+      "ipa": "/ˈvʌlnərəbl/",
+      "reading_th": "วัล-เนอ-ระ-เบิ้ล",
+      "meaning_th": "เปราะบาง / กล้าเปิดใจ",
+      "emoji": "🫧",
+      "example_en": "It takes courage to be vulnerable with someone.",
+      "example_th": "การยอมเปราะบางต่อหน้าใครสักคนต้องใช้ความกล้า",
+      "cefr": "B2",
+      "note_th": "vulnerable เดิมแปลว่าอ่อนแอเสี่ยงอันตราย แต่ในบริบทความสัมพันธ์ = กล้าแสดงความรู้สึกจริง (ความหมายดี) — vulnerable groups = กลุ่มเปราะบาง",
+      "distractors": [
+        "valuable",
+        "venerable",
+        "available"
+      ]
+    },
+    {
+      "id": "numb",
+      "word": "numb",
+      "pos": "adjective",
+      "ipa": "/nʌm/",
+      "reading_th": "นัม",
+      "meaning_th": "ชา / ไร้ความรู้สึก",
+      "emoji": "🧊",
+      "example_en": "After the breakup I felt numb for weeks.",
+      "example_th": "หลังเลิกกัน ฉันรู้สึกชาไร้ความรู้สึกไปหลายสัปดาห์",
+      "cefr": "B2",
+      "note_th": "numb ตัว b ไม่ออกเสียง — ใช้ได้ทั้งร่างกาย (my fingers are numb = นิ้วชา) และจิตใจที่ด้านชาจนไม่รู้สึกอะไร",
+      "distractors": [
+        "number",
+        "dumb",
+        "nap"
+      ]
+    },
+    {
+      "id": "drained",
+      "word": "drained",
+      "pos": "adjective",
+      "ipa": "/dreɪnd/",
+      "reading_th": "เดรนด์",
+      "meaning_th": "หมดแรงหมดใจ",
+      "emoji": "🪫",
+      "example_en": "I feel completely drained after a week of night shifts.",
+      "example_th": "ฉันรู้สึกหมดแรงหมดใจหลังเข้ากะดึกมาทั้งสัปดาห์",
+      "cefr": "B2",
+      "note_th": "drained = พลังถูกดูดออกจนหมด เหมือนน้ำไหลลงท่อ (drain) — emotionally drained = หมดใจ, แรงกว่า tired",
+      "distractors": [
+        "drowned",
+        "trained",
+        "dreaded"
+      ]
+    },
+    {
+      "id": "self_esteem",
+      "word": "self-esteem",
+      "pos": "noun",
+      "ipa": "/ˌself ɪˈstiːm/",
+      "reading_th": "เซลฟ์ เอส-ทีม",
+      "meaning_th": "ความภาคภูมิใจในตัวเอง",
+      "emoji": "🪞",
+      "example_en": "Small daily wins can slowly build your self-esteem.",
+      "example_th": "ชัยชนะเล็กๆ ในแต่ละวันช่วยสร้างความภาคภูมิใจในตัวเองได้ทีละน้อย",
+      "cefr": "B1",
+      "note_th": "self-esteem = การเห็นคุณค่าในตัวเอง (low / high self-esteem) — ต่างจาก confidence ที่เป็นความมั่นใจในการทำสิ่งหนึ่งๆ",
+      "distractors": [
+        "self-care",
+        "self-love",
+        "esteem"
+      ]
+    },
+    {
+      "id": "well_being",
+      "word": "well-being",
+      "pos": "noun",
+      "ipa": "/ˌwel ˈbiːɪŋ/",
+      "reading_th": "เวล บี-อิง",
+      "meaning_th": "ความอยู่ดีมีสุข",
+      "emoji": "🌱",
+      "example_en": "Companies now care more about employee well-being.",
+      "example_th": "บริษัทยุคนี้ใส่ใจความอยู่ดีมีสุขของพนักงานมากขึ้น",
+      "cefr": "B2",
+      "note_th": "well-being = สุขภาพกายใจรวมถึงความพอใจในชีวิต — ศัพท์ HR และรายงานสุขภาพ มี hyphen; wellness ใกล้เคียงแต่เน้นไลฟ์สไตล์",
+      "distractors": [
+        "wellness",
+        "welcome",
+        "being"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "cooking",
+    "name_en": "Cooking",
+    "name_th": "ครัวและทำอาหาร",
+    "emoji": "🍳",
+    "color_start": "#FDBA74",
+    "color_end": "#C2410C",
+    "description_th": "ทำอาหารตามสูตรภาษาอังกฤษ วิธีหั่น วิธีปรุง เครื่องปรุง และศัพท์ในรายการทำอาหาร",
+    "mascot_costume": "chef",
+    "lessons": [
+      {
+        "id": "cooking_1",
+        "title_en": "Reading a Recipe",
+        "title_th": "อ่านสูตรอาหาร",
+        "emoji": "📖",
+        "word_ids": [
+          "recipe",
+          "cookbook",
+          "serving",
+          "from_scratch",
+          "pinch",
+          "dash",
+          "batch",
+          "prep",
+          "leftovers",
+          "garnish",
+          "to_taste",
+          "optional",
+          "swap",
+          "homemade"
+        ]
+      },
+      {
+        "id": "cooking_2",
+        "title_en": "Cutting & Prep",
+        "title_th": "หั่นและเตรียมวัตถุดิบ",
+        "emoji": "🔪",
+        "word_ids": [
+          "pound",
+          "mince",
+          "grate",
+          "shred",
+          "squeeze",
+          "mash",
+          "marinate",
+          "thaw",
+          "scrape",
+          "pat_dry",
+          "strainer",
+          "peeler",
+          "grater",
+          "tongs"
+        ]
+      },
+      {
+        "id": "cooking_3",
+        "title_en": "Cooking Methods",
+        "title_th": "วิธีปรุง",
+        "emoji": "🥘",
+        "word_ids": [
+          "simmer",
+          "stir_fry",
+          "saute",
+          "deep_fry",
+          "poach",
+          "braise",
+          "stew",
+          "sear",
+          "blanch",
+          "flip",
+          "bring_to_a_boil",
+          "reduce",
+          "reheat",
+          "wok"
+        ]
+      },
+      {
+        "id": "cooking_4",
+        "title_en": "Seasoning & Flavour",
+        "title_th": "เครื่องปรุงและรสชาติ",
+        "emoji": "🧂",
+        "word_ids": [
+          "salt",
+          "pepper",
+          "fish_sauce",
+          "oyster_sauce",
+          "vinegar",
+          "garlic",
+          "seasoning",
+          "spice",
+          "herb",
+          "aftertaste",
+          "fragrant",
+          "sprinkle",
+          "pungent",
+          "broth"
+        ]
+      },
+      {
+        "id": "cooking_5",
+        "title_en": "Baking",
+        "title_th": "อบขนม",
+        "emoji": "🧁",
+        "word_ids": [
+          "flour",
+          "dough",
+          "batter",
+          "yeast",
+          "baking_powder",
+          "knead",
+          "whisk",
+          "sift",
+          "preheat",
+          "rise",
+          "golden_brown",
+          "glaze",
+          "rolling_pin",
+          "baking_sheet"
+        ]
+      },
+      {
+        "id": "cooking_6",
+        "title_en": "Measure & Safety",
+        "title_th": "ตวงและความปลอดภัยในครัว",
+        "emoji": "🥄",
+        "word_ids": [
+          "measuring_cup",
+          "tablespoon",
+          "teaspoon",
+          "gram",
+          "timer",
+          "apron",
+          "oven_mitt",
+          "raw",
+          "undercooked",
+          "overcook",
+          "burnt",
+          "sharp",
+          "fire_blanket",
+          "food_poisoning"
+        ]
+      },
+      {
+        "id": "cooking_7",
+        "title_en": "Describing a Dish",
+        "title_th": "บรรยายรสชาติจานเด็ด",
+        "emoji": "🍽️",
+        "word_ids": [
+          "melt_in_your_mouth",
+          "rubbery",
+          "flaky",
+          "fluffy",
+          "runny",
+          "well_seasoned",
+          "moist",
+          "soggy",
+          "tough",
+          "hearty",
+          "flavorful",
+          "filling",
+          "plating",
+          "comfort_food"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "recipe",
+      "word": "recipe",
+      "pos": "noun",
+      "ipa": "/ˈresəpi/",
+      "reading_th": "เรส-ซะ-พี่",
+      "meaning_th": "สูตรอาหาร",
+      "emoji": "📖",
+      "example_en": "This recipe only needs five ingredients.",
+      "example_th": "สูตรนี้ใช้วัตถุดิบแค่ห้าอย่าง",
+      "cefr": "A2",
+      "note_th": "ออกเสียง เรส-ซะ-พี่ (สามพยางค์) ไม่ใช่ รี-ไซป์ — ส่วน receipt คือใบเสร็จ คนไทยสับสนสองคำนี้บ่อยมาก",
+      "distractors": [
+        "receipt",
+        "receive",
+        "recipient"
+      ]
+    },
+    {
+      "id": "cookbook",
+      "word": "cookbook",
+      "pos": "noun",
+      "ipa": "/ˈkʊkbʊk/",
+      "reading_th": "คุค-บุค",
+      "meaning_th": "ตำราอาหาร",
+      "emoji": "📚",
+      "example_en": "My mother's old cookbook is covered in oil stains.",
+      "example_th": "ตำราอาหารเล่มเก่าของแม่เต็มไปด้วยคราบน้ำมัน",
+      "cefr": "A2",
+      "note_th": "cookbook = หนังสือรวมสูตรอาหาร (cookery book แบบอังกฤษ) — ทุกวันนี้คนดู recipe videos มากกว่า แต่เชฟดังยังออก cookbook กันทุกปี",
+      "distractors": [
+        "cooker",
+        "notebook",
+        "textbook"
+      ]
+    },
+    {
+      "id": "serving",
+      "word": "serving",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrvɪŋ/",
+      "reading_th": "เซอร์-วิ่ง",
+      "meaning_th": "หนึ่งที่ (ปริมาณต่อคน)",
+      "emoji": "🍽️",
+      "example_en": "One serving of this curry is about 300 calories.",
+      "example_th": "แกงนี้หนึ่งที่มีประมาณ 300 แคลอรี่",
+      "cefr": "A2",
+      "note_th": "Serves 4 หรือ 4 servings = พอสำหรับสี่คน — บนฉลากโภชนาการ serving size คือปริมาณต่อหนึ่งหน่วยบริโภค ไม่ใช่ทั้งถุง!",
+      "distractors": [
+        "server",
+        "service",
+        "saving"
+      ]
+    },
+    {
+      "id": "from_scratch",
+      "word": "from scratch",
+      "pos": "phrase",
+      "ipa": "/frəm skrætʃ/",
+      "reading_th": "ฟรอม สแครทช์",
+      "meaning_th": "ทำเองตั้งแต่ต้น (ไม่ใช้สำเร็จรูป)",
+      "emoji": "🥣",
+      "example_en": "She makes curry paste from scratch every weekend.",
+      "example_th": "เธอทำพริกแกงเองตั้งแต่ต้นทุกสุดสัปดาห์",
+      "cefr": "B1",
+      "note_th": "from scratch = เริ่มจากวัตถุดิบดิบล้วนๆ ไม่ใช้ของสำเร็จรูป — ใช้นอกครัวได้ด้วย เช่น start a business from scratch = เริ่มธุรกิจจากศูนย์",
+      "distractors": [
+        "from the start",
+        "scratch",
+        "from the box"
+      ]
+    },
+    {
+      "id": "pinch",
+      "word": "pinch",
+      "pos": "noun",
+      "ipa": "/pɪntʃ/",
+      "reading_th": "พินช์",
+      "meaning_th": "หยิบมือ (ปริมาณน้อยๆ)",
+      "emoji": "🤏",
+      "example_en": "Add a pinch of salt to the eggs.",
+      "example_th": "ใส่เกลือสักหยิบมือลงในไข่",
+      "cefr": "B1",
+      "note_th": "a pinch of = ปริมาณที่หยิบได้ด้วยนิ้วโป้งกับนิ้วชี้ ใช้กับเกลือ น้ำตาล เครื่องเทศ — pinch ยังแปลว่าหยิกด้วย",
+      "distractors": [
+        "punch",
+        "pitch",
+        "peach"
+      ]
+    },
+    {
+      "id": "dash",
+      "word": "dash",
+      "pos": "noun",
+      "ipa": "/dæʃ/",
+      "reading_th": "แดช",
+      "meaning_th": "นิดหน่อย (ของเหลว)",
+      "emoji": "💦",
+      "example_en": "Finish the soup with a dash of lime juice.",
+      "example_th": "ปิดท้ายซุปด้วยน้ำมะนาวนิดหน่อย",
+      "cefr": "B1",
+      "note_th": "a dash of ใช้กับของเหลว (น้ำมะนาว ซอส) ส่วน a pinch of ใช้กับของแห้ง — ทั้งคู่แปลว่านิดเดียว ไม่ต้องตวง",
+      "distractors": [
+        "dish",
+        "cash",
+        "splash"
+      ]
+    },
+    {
+      "id": "batch",
+      "word": "batch",
+      "pos": "noun",
+      "ipa": "/bætʃ/",
+      "reading_th": "แบทช์",
+      "meaning_th": "หนึ่งรอบการทำ / หนึ่งชุด",
+      "emoji": "🍪",
+      "example_en": "I made a big batch of cookies for the party.",
+      "example_th": "ฉันทำคุกกี้ชุดใหญ่สำหรับงานปาร์ตี้",
+      "cefr": "B1",
+      "note_th": "batch = ของที่ทำพร้อมกันในรอบเดียว เช่น a batch of bread, a batch of curry — batch cooking คือทำอาหารทีเดียวหลายมื้อแล้วแช่แข็ง",
+      "distractors": [
+        "match",
+        "patch",
+        "bunch"
+      ]
+    },
+    {
+      "id": "prep",
+      "word": "prep",
+      "pos": "verb",
+      "ipa": "/prep/",
+      "reading_th": "เพรพ",
+      "meaning_th": "เตรียมวัตถุดิบ",
+      "emoji": "🥬",
+      "example_en": "I prep all the vegetables before I turn on the stove.",
+      "example_th": "ฉันเตรียมผักทั้งหมดก่อนเปิดเตา",
+      "cefr": "B1",
+      "note_th": "prep ย่อจาก prepare ใช้กันในครัวจริง — ในสูตรจะเห็น Prep time: 15 min (เวลาเตรียม) กับ Cook time (เวลาปรุง) แยกกัน",
+      "distractors": [
+        "prepare",
+        "press",
+        "pray"
+      ]
+    },
+    {
+      "id": "leftovers",
+      "word": "leftovers",
+      "pos": "noun",
+      "ipa": "/ˈleftoʊvərz/",
+      "reading_th": "เลฟท์-โอ-เวอร์ส",
+      "meaning_th": "อาหารเหลือ",
+      "emoji": "🥡",
+      "example_en": "We ate leftovers from last night for lunch.",
+      "example_th": "เรากินอาหารเหลือจากเมื่อคืนเป็นมื้อกลางวัน",
+      "cefr": "B1",
+      "note_th": "leftovers มี s เสมอ (left over = เหลือจาก) — ขอห่อกลับบ้านที่ร้านพูดว่า Can I take the leftovers home? หรือขอ a box",
+      "distractors": [
+        "hangover",
+        "takeover",
+        "layover"
+      ]
+    },
+    {
+      "id": "garnish",
+      "word": "garnish",
+      "pos": "verb",
+      "ipa": "/ˈɡɑːrnɪʃ/",
+      "reading_th": "การ์-นิช",
+      "meaning_th": "ตกแต่งจาน",
+      "emoji": "🌿",
+      "example_en": "Garnish the soup with fresh coriander before serving.",
+      "example_th": "โรยผักชีสดแต่งหน้าซุปก่อนเสิร์ฟ",
+      "cefr": "B1",
+      "note_th": "garnish = ตกแต่งจานด้วยของกินได้ (ผักชี พริก มะนาว) เป็นคำนามได้ด้วย — ผักชีโรยหน้าแบบไทยคือ garnish ของแท้",
+      "distractors": [
+        "furnish",
+        "varnish",
+        "garage"
+      ]
+    },
+    {
+      "id": "to_taste",
+      "word": "to taste",
+      "pos": "phrase",
+      "ipa": "/tə teɪst/",
+      "reading_th": "ทู เทสท์",
+      "meaning_th": "ปรุงตามชอบ",
+      "emoji": "👅",
+      "example_en": "Add sugar and fish sauce to taste.",
+      "example_th": "ใส่น้ำตาลและน้ำปลาปรุงรสตามชอบ",
+      "cefr": "B1",
+      "note_th": "salt to taste = ใส่เกลือตามชอบ ไม่ระบุปริมาณ เจอในสูตรแทบทุกสูตร — ชิมแล้วปรับเอาเองแบบแม่ครัวไทย",
+      "distractors": [
+        "to test",
+        "to toast",
+        "to serve"
+      ]
+    },
+    {
+      "id": "optional",
+      "word": "optional",
+      "pos": "adjective",
+      "ipa": "/ˈɑːpʃənəl/",
+      "reading_th": "อ็อพ-ชั่น-เนิล",
+      "meaning_th": "ใส่หรือไม่ใส่ก็ได้",
+      "emoji": "❔",
+      "example_en": "The chili is optional if you do not like spicy food.",
+      "example_th": "พริกจะใส่หรือไม่ใส่ก็ได้ถ้าไม่ชอบเผ็ด",
+      "cefr": "B1",
+      "note_th": "ในสูตรจะเขียน (optional) ต่อท้ายวัตถุดิบที่ไม่ใส่ก็ไม่เสียรส — ตรงข้ามคือ required หรือ compulsory ใช้กับวิชาเรียนก็ได้ optional course",
+      "distractors": [
+        "option",
+        "original",
+        "operational"
+      ]
+    },
+    {
+      "id": "swap",
+      "word": "swap",
+      "pos": "verb",
+      "ipa": "/swɑːp/",
+      "reading_th": "สว็อป",
+      "meaning_th": "สลับใช้แทน",
+      "emoji": "🔁",
+      "example_en": "You can swap butter for coconut oil in this recipe.",
+      "example_th": "สูตรนี้ใช้น้ำมันมะพร้าวแทนเนยได้",
+      "cefr": "B1",
+      "note_th": "swap A for B = ใช้ B แทน A เป็นคำพูดทั่วไปที่ง่ายกว่า substitute — healthy swaps คือการเปลี่ยนวัตถุดิบให้สุขภาพดีขึ้น",
+      "distractors": [
+        "swipe",
+        "swamp",
+        "soap"
+      ]
+    },
+    {
+      "id": "homemade",
+      "word": "homemade",
+      "pos": "adjective",
+      "ipa": "/ˌhoʊmˈmeɪd/",
+      "reading_th": "โฮม-เมด",
+      "meaning_th": "ทำเองที่บ้าน",
+      "emoji": "🏠",
+      "example_en": "Nothing beats homemade chili paste from Grandma.",
+      "example_th": "ไม่มีอะไรสู้น้ำพริกทำเองของคุณยายได้",
+      "cefr": "A2",
+      "note_th": "homemade = ทำเองที่บ้าน ไม่ใช่ซื้อสำเร็จ (store-bought) — ร้านอาหารชอบเขียนว่า homemade เพื่อบอกว่าทำสดในร้าน",
+      "distractors": [
+        "handmade",
+        "homework",
+        "ready-made"
+      ]
+    },
+    {
+      "id": "pound",
+      "word": "pound",
+      "pos": "verb",
+      "ipa": "/paʊnd/",
+      "reading_th": "พาวด์",
+      "meaning_th": "ตำ / ทุบ",
+      "emoji": "🥣",
+      "example_en": "Pound the garlic and chili together in a mortar.",
+      "example_th": "ตำกระเทียมกับพริกรวมกันในครก",
+      "cefr": "B1",
+      "note_th": "pound = ตำหรือทุบแรงๆ (ส้มตำ = pounded papaya salad) ครกคือ mortar สากคือ pestle — pound ยังเป็นหน่วยน้ำหนักและสกุลเงินอังกฤษ",
+      "distractors": [
+        "pond",
+        "round",
+        "mash"
+      ]
+    },
+    {
+      "id": "mince",
+      "word": "mince",
+      "pos": "verb",
+      "ipa": "/mɪns/",
+      "reading_th": "มินซ์",
+      "meaning_th": "สับละเอียด",
+      "emoji": "🔪",
+      "example_en": "Mince the garlic as finely as you can.",
+      "example_th": "สับกระเทียมให้ละเอียดที่สุดเท่าที่จะทำได้",
+      "cefr": "B1",
+      "note_th": "mince = สับละเอียดกว่า chop มาก — minced pork คือหมูสับ (อเมริกันเรียก ground pork) กะเพราหมูสับก็ใช้คำนี้แหละ",
+      "distractors": [
+        "mint",
+        "since",
+        "mess"
+      ]
+    },
+    {
+      "id": "grate",
+      "word": "grate",
+      "pos": "verb",
+      "ipa": "/ɡreɪt/",
+      "reading_th": "เกรท",
+      "meaning_th": "ขูดฝอย",
+      "emoji": "🧀",
+      "example_en": "Grate some cheese on top of the pasta.",
+      "example_th": "ขูดชีสโรยหน้าพาสต้า",
+      "cefr": "B1",
+      "note_th": "grate ออกเสียงเหมือน great เป๊ะ — grated cheese ชีสขูด, grated coconut มะพร้าวขูด ส่วนเครื่องขูดคือ grater",
+      "distractors": [
+        "great",
+        "gate",
+        "grade"
+      ]
+    },
+    {
+      "id": "shred",
+      "word": "shred",
+      "pos": "verb",
+      "ipa": "/ʃred/",
+      "reading_th": "เชรด",
+      "meaning_th": "ฉีกฝอย / หั่นเส้น",
+      "emoji": "🥬",
+      "example_en": "Shred the cabbage thinly for the salad.",
+      "example_th": "หั่นกะหล่ำปลีเป็นเส้นบางๆ สำหรับสลัด",
+      "cefr": "B1",
+      "note_th": "shred = ฉีกหรือหั่นเป็นเส้นเล็กๆ เช่น shredded chicken (ไก่ฉีก) ส่วน grate ใช้กับของแข็งอย่างชีส — เครื่องทำลายเอกสารก็คือ shredder",
+      "distractors": [
+        "shed",
+        "thread",
+        "spread"
+      ]
+    },
+    {
+      "id": "squeeze",
+      "word": "squeeze",
+      "pos": "verb",
+      "ipa": "/skwiːz/",
+      "reading_th": "สควีซ",
+      "meaning_th": "บีบ / คั้น",
+      "emoji": "🍋",
+      "example_en": "Squeeze half a lime over the noodles.",
+      "example_th": "บีบมะนาวครึ่งลูกลงบนเส้น",
+      "cefr": "A2",
+      "note_th": "squeeze = บีบด้วยมือให้น้ำออก ใช้กับมะนาว ส้ม หลอดยาสีฟัน — freshly squeezed orange juice คือน้ำส้มคั้นสด",
+      "distractors": [
+        "sneeze",
+        "squeak",
+        "freeze"
+      ]
+    },
+    {
+      "id": "mash",
+      "word": "mash",
+      "pos": "verb",
+      "ipa": "/mæʃ/",
+      "reading_th": "แมช",
+      "meaning_th": "บด",
+      "emoji": "🥔",
+      "example_en": "Mash the potatoes while they are still hot.",
+      "example_th": "บดมันฝรั่งตอนยังร้อนอยู่",
+      "cefr": "B1",
+      "note_th": "mash = บดให้เละด้วยส้อมหรือที่บด เช่น mashed potatoes, mashed banana — ไม่ใช่ปั่น (blend) ซึ่งใช้เครื่อง",
+      "distractors": [
+        "mesh",
+        "mass",
+        "match"
+      ]
+    },
+    {
+      "id": "marinate",
+      "word": "marinate",
+      "pos": "verb",
+      "ipa": "/ˈmerɪneɪt/",
+      "reading_th": "แม-ริ-เนท",
+      "meaning_th": "หมัก",
+      "emoji": "🥩",
+      "example_en": "Marinate the chicken for at least one hour.",
+      "example_th": "หมักไก่อย่างน้อยหนึ่งชั่วโมง",
+      "cefr": "B1",
+      "note_th": "marinate = หมักเนื้อในซอสให้นุ่มและมีรส ส่วนน้ำหมักคือ marinade (คำนาม) — หมูหมักนุ่มของไทยคือ marinated pork",
+      "distractors": [
+        "marinade",
+        "marine",
+        "meditate"
+      ]
+    },
+    {
+      "id": "thaw",
+      "word": "thaw",
+      "pos": "verb",
+      "ipa": "/θɔː/",
+      "reading_th": "ธอ",
+      "meaning_th": "ละลายน้ำแข็ง (ของแช่แข็ง)",
+      "emoji": "🧊",
+      "example_en": "Thaw the shrimp in the fridge, not on the counter.",
+      "example_th": "ละลายกุ้งแช่แข็งในตู้เย็น ไม่ใช่วางไว้บนเคาน์เตอร์",
+      "cefr": "B1",
+      "note_th": "thaw และ defrost ใช้แทนกันได้ = เอาของแช่แข็งออกมาให้หายแข็ง — thaw ยังใช้กับหิมะละลายและความสัมพันธ์ที่ดีขึ้น",
+      "distractors": [
+        "throw",
+        "thought",
+        "thank"
+      ]
+    },
+    {
+      "id": "scrape",
+      "word": "scrape",
+      "pos": "verb",
+      "ipa": "/skreɪp/",
+      "reading_th": "สเครป",
+      "meaning_th": "ขูด / ปาดออก",
+      "emoji": "🥄",
+      "example_en": "Scrape the batter from the bowl with a spatula.",
+      "example_th": "ปาดแป้งจากชามด้วยพายยาง",
+      "cefr": "B1",
+      "note_th": "scrape = ขูดหรือปาดออกจากพื้นผิว เช่น scrape the plate (ขูดเศษอาหารทิ้ง) — scrape by แปลว่าเอาตัวรอดแบบเฉียดฉิว",
+      "distractors": [
+        "scrap",
+        "scratch",
+        "scream"
+      ]
+    },
+    {
+      "id": "pat_dry",
+      "word": "pat dry",
+      "pos": "phrase",
+      "ipa": "/pæt draɪ/",
+      "reading_th": "แพท ดราย",
+      "meaning_th": "ซับให้แห้ง",
+      "emoji": "🧻",
+      "example_en": "Pat dry the fish with paper towels before frying.",
+      "example_th": "ซับปลาให้แห้งด้วยกระดาษทิชชู่ก่อนทอด",
+      "cefr": "B1",
+      "note_th": "pat = ตบเบาๆ ดังนั้น pat dry = ซับให้แห้งด้วยกระดาษ ไม่ใช่ถู — เคล็ดลับให้หนังปลาและไก่กรอบ เจอในสูตรทอดแทบทุกสูตร",
+      "distractors": [
+        "dry out",
+        "pat down",
+        "wipe dry"
+      ]
+    },
+    {
+      "id": "strainer",
+      "word": "strainer",
+      "pos": "noun",
+      "ipa": "/ˈstreɪnər/",
+      "reading_th": "สเตรน-เนอร์",
+      "meaning_th": "กระชอน / ที่กรอง",
+      "emoji": "🥣",
+      "example_en": "Pour the noodles through a strainer over the sink.",
+      "example_th": "เทเส้นผ่านกระชอนเหนืออ่างล้างจาน",
+      "cefr": "B1",
+      "note_th": "strainer = กระชอนกรองของเหลว (strain = กรอง) ส่วนกระชอนรูใหญ่มีขาเรียก colander — ที่กรองชาก็คือ tea strainer",
+      "distractors": [
+        "trainer",
+        "stranger",
+        "colander"
+      ]
+    },
+    {
+      "id": "peeler",
+      "word": "peeler",
+      "pos": "noun",
+      "ipa": "/ˈpiːlər/",
+      "reading_th": "พีล-เลอร์",
+      "meaning_th": "ที่ปอกเปลือก",
+      "emoji": "🥕",
+      "example_en": "A peeler is faster than a knife for carrots.",
+      "example_th": "ที่ปอกเปลือกเร็วกว่ามีดสำหรับแครอท",
+      "cefr": "A2",
+      "note_th": "peeler มาจาก peel (ปอก) + -er เหมือน grater, toaster — ที่ปอกแบบมีดมะพร้าวบ้านเราฝรั่งเรียก Y-peeler",
+      "distractors": [
+        "pillar",
+        "dealer",
+        "peel"
+      ]
+    },
+    {
+      "id": "grater",
+      "word": "grater",
+      "pos": "noun",
+      "ipa": "/ˈɡreɪtər/",
+      "reading_th": "เกรท-เทอร์",
+      "meaning_th": "ที่ขูดฝอย",
+      "emoji": "🧀",
+      "example_en": "Clean the grater right away or the cheese sticks.",
+      "example_th": "ล้างที่ขูดทันทีไม่งั้นชีสจะติด",
+      "cefr": "B1",
+      "note_th": "grater = ที่ขูด (ชีส แครอท ขิง) แบบกล่องสี่ด้านคือ box grater — ระวังสะกด grater ไม่ใช่ greater (มากกว่า)",
+      "distractors": [
+        "greater",
+        "crater",
+        "waiter"
+      ]
+    },
+    {
+      "id": "tongs",
+      "word": "tongs",
+      "pos": "noun",
+      "ipa": "/tɔːŋz/",
+      "reading_th": "ทองส์",
+      "meaning_th": "ที่คีบอาหาร",
+      "emoji": "🥢",
+      "example_en": "Flip the meat with tongs, not with a fork.",
+      "example_th": "พลิกเนื้อด้วยที่คีบ ไม่ใช่ส้อม",
+      "cefr": "B1",
+      "note_th": "tongs มี s เสมอ นับเป็น a pair of tongs — ที่คีบหมูกระทะและที่คีบขนมปังในร้านเบเกอรี่คือคำนี้ อย่าสับสนกับ tongue (ลิ้น)",
+      "distractors": [
+        "tongue",
+        "tons",
+        "songs"
+      ]
+    },
+    {
+      "id": "simmer",
+      "word": "simmer",
+      "pos": "verb",
+      "ipa": "/ˈsɪmər/",
+      "reading_th": "ซิม-เมอร์",
+      "meaning_th": "เคี่ยวไฟอ่อน",
+      "emoji": "🍲",
+      "example_en": "Let the curry simmer for twenty minutes.",
+      "example_th": "เคี่ยวแกงด้วยไฟอ่อนยี่สิบนาที",
+      "cefr": "B1",
+      "note_th": "simmer = เดือดปุดๆ เบาๆ ไม่ใช่เดือดพล่าน (boil) — สูตรมักเขียน bring to a boil, then simmer = ต้มให้เดือดแล้วลดไฟเคี่ยว",
+      "distractors": [
+        "summer",
+        "shimmer",
+        "slimmer"
+      ]
+    },
+    {
+      "id": "stir_fry",
+      "word": "stir-fry",
+      "pos": "verb",
+      "ipa": "/ˈstɜːr fraɪ/",
+      "reading_th": "สเตอร์ ฟราย",
+      "meaning_th": "ผัด",
+      "emoji": "🥘",
+      "example_en": "Stir-fry the vegetables on high heat for two minutes.",
+      "example_th": "ผัดผักด้วยไฟแรงสองนาที",
+      "cefr": "A2",
+      "note_th": "ผัด = stir-fry (คนไปด้วยทอดไปด้วย) ไม่ใช่ fry เฉยๆ — ผัดกะเพรา ผัดผัก ก็เรียก stir-fried basil, stir-fried vegetables",
+      "distractors": [
+        "deep-fry",
+        "stir",
+        "french fry"
+      ]
+    },
+    {
+      "id": "saute",
+      "word": "sauté",
+      "pos": "verb",
+      "ipa": "/soʊˈteɪ/",
+      "reading_th": "โซ-เท",
+      "meaning_th": "ผัดน้ำมันน้อยไฟกลาง",
+      "emoji": "🧅",
+      "example_en": "Sauté the onion until it turns soft and golden.",
+      "example_th": "ผัดหอมใหญ่จนนิ่มและเป็นสีทอง",
+      "cefr": "B2",
+      "note_th": "มาจากภาษาฝรั่งเศส ออกเสียง โซ-เท — ใช้น้ำมันน้อย ไฟกลาง ส่วน stir-fry แบบไทยจีนใช้ไฟแรงกระทะร้อนจัด",
+      "distractors": [
+        "sauce",
+        "salty",
+        "sweat"
+      ]
+    },
+    {
+      "id": "deep_fry",
+      "word": "deep-fry",
+      "pos": "verb",
+      "ipa": "/ˈdiːp fraɪ/",
+      "reading_th": "ดีพ ฟราย",
+      "meaning_th": "ทอดน้ำมันท่วม",
+      "emoji": "🍤",
+      "example_en": "Deep-fry the chicken until the skin is crispy.",
+      "example_th": "ทอดไก่น้ำมันท่วมจนหนังกรอบ",
+      "cefr": "A2",
+      "note_th": "deep-fry = ทอดในน้ำมันท่วม (ไก่ทอด ปาท่องโก๋) ส่วน pan-fry = ทอดน้ำมันน้อยในกระทะ — หม้อทอดไร้น้ำมันคือ air fryer",
+      "distractors": [
+        "stir-fry",
+        "pan-fry",
+        "deep end"
+      ]
+    },
+    {
+      "id": "poach",
+      "word": "poach",
+      "pos": "verb",
+      "ipa": "/poʊtʃ/",
+      "reading_th": "โพช",
+      "meaning_th": "ลวกในน้ำร้อนไม่เดือด",
+      "emoji": "🥚",
+      "example_en": "Poach the egg for three minutes for a runny yolk.",
+      "example_th": "ลวกไข่ในน้ำร้อนสามนาทีให้ไข่แดงเยิ้ม",
+      "cefr": "B2",
+      "note_th": "poach = ต้มเบาๆ ในน้ำที่ไม่เดือดพล่าน ไข่ดาวน้ำคือ poached egg — poach อีกความหมายคือล่าสัตว์ผิดกฎหมาย",
+      "distractors": [
+        "poke",
+        "pouch",
+        "coach"
+      ]
+    },
+    {
+      "id": "braise",
+      "word": "braise",
+      "pos": "verb",
+      "ipa": "/breɪz/",
+      "reading_th": "เบรซ",
+      "meaning_th": "ตุ๋น (เคี่ยวนานในน้ำน้อย)",
+      "emoji": "🍖",
+      "example_en": "Braise the pork belly for two hours until it falls apart.",
+      "example_th": "ตุ๋นหมูสามชั้นสองชั่วโมงจนเนื้อยุ่ย",
+      "cefr": "B2",
+      "note_th": "braise = เอาเนื้อไปจี่ก่อนแล้วเคี่ยวในน้ำนิดหน่อยนานๆ จนนุ่ม หมูพะโล้คือ braised pork — คนไทยเรียกตุ๋นแต่ฝรั่งแยกกับ stew",
+      "distractors": [
+        "brace",
+        "praise",
+        "breeze"
+      ]
+    },
+    {
+      "id": "stew",
+      "word": "stew",
+      "pos": "noun",
+      "ipa": "/stuː/",
+      "reading_th": "สตู",
+      "meaning_th": "สตูว์ / อาหารตุ๋นน้ำข้น",
+      "emoji": "🍲",
+      "example_en": "Beef stew tastes even better the next day.",
+      "example_th": "สตูว์เนื้ออร่อยยิ่งขึ้นในวันถัดไป",
+      "cefr": "B1",
+      "note_th": "stew = ตุ๋นเนื้อกับผักในน้ำซุปจนเป็นอาหารจานเดียว เป็นทั้งคำนามและกริยา — ต่างจาก soup ตรงที่น้ำน้อยกว่าและชิ้นใหญ่กว่า",
+      "distractors": [
+        "stove",
+        "steward",
+        "soup"
+      ]
+    },
+    {
+      "id": "sear",
+      "word": "sear",
+      "pos": "verb",
+      "ipa": "/sɪr/",
+      "reading_th": "เซียร์",
+      "meaning_th": "จี่ไฟแรงให้ผิวไหม้เกรียม",
+      "emoji": "🥩",
+      "example_en": "Sear the steak for one minute on each side.",
+      "example_th": "จี่สเต๊กไฟแรงด้านละหนึ่งนาที",
+      "cefr": "B2",
+      "note_th": "sear = จี่ผิวเนื้อด้วยไฟแรงจัดให้เกรียมหอมโดยข้างในยังไม่สุก — ในรายการแข่งทำอาหารจะได้ยินคำนี้ตลอด",
+      "distractors": [
+        "seer",
+        "steer",
+        "sore"
+      ]
+    },
+    {
+      "id": "blanch",
+      "word": "blanch",
+      "pos": "verb",
+      "ipa": "/blæntʃ/",
+      "reading_th": "แบลนช์",
+      "meaning_th": "ลวกน้ำเดือดเร็วๆ",
+      "emoji": "🥦",
+      "example_en": "Blanch the morning glory for thirty seconds only.",
+      "example_th": "ลวกผักบุ้งแค่สามสิบวินาทีพอ",
+      "cefr": "B2",
+      "note_th": "blanch = ลวกผักในน้ำเดือดสั้นๆ แล้วแช่น้ำเย็นทันทีให้สีสด — ผักลวกจิ้มน้ำพริกของไทยคือ blanched vegetables",
+      "distractors": [
+        "branch",
+        "bleach",
+        "blank"
+      ]
+    },
+    {
+      "id": "flip",
+      "word": "flip",
+      "pos": "verb",
+      "ipa": "/flɪp/",
+      "reading_th": "ฟลิป",
+      "meaning_th": "พลิกกลับด้าน",
+      "emoji": "🥞",
+      "example_en": "Flip the pancake when you see bubbles on top.",
+      "example_th": "พลิกแพนเค้กเมื่อเห็นฟองขึ้นด้านบน",
+      "cefr": "A2",
+      "note_th": "flip = พลิกกลับด้าน (flip the egg, flip the steak) — flip-flops รองเท้าแตะก็มาจากเสียงตอนเดิน และ flip a coin = โยนเหรียญ",
+      "distractors": [
+        "flap",
+        "flop",
+        "slip"
+      ]
+    },
+    {
+      "id": "bring_to_a_boil",
+      "word": "bring to a boil",
+      "pos": "phrase",
+      "ipa": "/brɪŋ tə ə bɔɪl/",
+      "reading_th": "บริง ทู อะ บอยล์",
+      "meaning_th": "ต้มจนเดือด",
+      "emoji": "♨️",
+      "example_en": "Bring to a boil, then lower the heat and simmer.",
+      "example_th": "ต้มให้เดือด แล้วลดไฟลงเคี่ยวต่อ",
+      "cefr": "B1",
+      "note_th": "สูตรเขียน bring to a boil (ทำให้เดือด) แล้วต่อด้วย reduce heat and simmer (ลดไฟเคี่ยว) — เป็นขั้นตอนมาตรฐานของซุปทุกชนิด",
+      "distractors": [
+        "bring to a halt",
+        "boil over",
+        "bring up"
+      ]
+    },
+    {
+      "id": "reduce",
+      "word": "reduce",
+      "pos": "verb",
+      "ipa": "/rɪˈduːs/",
+      "reading_th": "ริ-ดิวซ์",
+      "meaning_th": "เคี่ยวให้งวด / ลด",
+      "emoji": "🥣",
+      "example_en": "Reduce the sauce until it coats the spoon.",
+      "example_th": "เคี่ยวซอสให้งวดจนเคลือบช้อน",
+      "cefr": "B1",
+      "note_th": "ในครัว reduce = เคี่ยวให้น้ำระเหยจนข้น (ซอสเข้มข้นเรียก reduction) — ความหมายทั่วไปคือลดลง เช่น reduce heat = ลดไฟ",
+      "distractors": [
+        "produce",
+        "reuse",
+        "refuse"
+      ]
+    },
+    {
+      "id": "reheat",
+      "word": "reheat",
+      "pos": "verb",
+      "ipa": "/riːˈhiːt/",
+      "reading_th": "รี-ฮีท",
+      "meaning_th": "อุ่นอาหารอีกครั้ง",
+      "emoji": "🔥",
+      "example_en": "Reheat the rice until it is steaming hot.",
+      "example_th": "อุ่นข้าวจนร้อนมีไอขึ้น",
+      "cefr": "B1",
+      "note_th": "re- (อีกครั้ง) + heat = อุ่นของที่เย็นแล้ว ใช้กับ leftovers คู่กัน — ป้ายเตือน do not reheat แปลว่าห้ามอุ่นซ้ำ",
+      "distractors": [
+        "preheat",
+        "repeat",
+        "retreat"
+      ]
+    },
+    {
+      "id": "wok",
+      "word": "wok",
+      "pos": "noun",
+      "ipa": "/wɑːk/",
+      "reading_th": "ว็อก",
+      "meaning_th": "กระทะก้นลึก",
+      "emoji": "🥘",
+      "example_en": "A hot wok gives fried rice its smoky taste.",
+      "example_th": "กระทะร้อนจัดทำให้ข้าวผัดมีกลิ่นหอมไหม้",
+      "cefr": "B1",
+      "note_th": "wok = กระทะจีนก้นลึกที่บ้านคนไทยใช้ผัดทุกอย่าง ฝรั่งต้องซื้อแยกต่างหาก — กลิ่นไหม้หอมจากกระทะเรียก wok hei",
+      "distractors": [
+        "walk",
+        "work",
+        "pan"
+      ]
+    },
+    {
+      "id": "salt",
+      "word": "salt",
+      "pos": "noun",
+      "ipa": "/sɔːlt/",
+      "reading_th": "ซอลท์",
+      "meaning_th": "เกลือ",
+      "emoji": "🧂",
+      "example_en": "This soup needs a little more salt.",
+      "example_th": "ซุปนี้ต้องการเกลือเพิ่มอีกนิด",
+      "cefr": "A1",
+      "note_th": "salt ออกเสียง ซอลท์ ตัว l ออกเสียงเบาๆ — sea salt เกลือทะเล, table salt เกลือป่น, salty = เค็ม (คำคุณศัพท์)",
+      "distractors": [
+        "sauce",
+        "sand",
+        "sugar"
+      ]
+    },
+    {
+      "id": "pepper",
+      "word": "pepper",
+      "pos": "noun",
+      "ipa": "/ˈpepər/",
+      "reading_th": "เพพ-เพอร์",
+      "meaning_th": "พริกไทย",
+      "emoji": "🌶️",
+      "example_en": "Add black pepper right before serving.",
+      "example_th": "ใส่พริกไทยดำก่อนเสิร์ฟ",
+      "cefr": "A1",
+      "note_th": "pepper เฉยๆ = พริกไทย (black/white pepper) ส่วนพริกเผ็ดคือ chili และพริกหวานลูกใหญ่คือ bell pepper — salt and pepper คือคู่เครื่องปรุงบนโต๊ะฝรั่ง",
+      "distractors": [
+        "paper",
+        "chili",
+        "pepper mint"
+      ]
+    },
+    {
+      "id": "fish_sauce",
+      "word": "fish sauce",
+      "pos": "noun",
+      "ipa": "/ˈfɪʃ sɔːs/",
+      "reading_th": "ฟิช ซอส",
+      "meaning_th": "น้ำปลา",
+      "emoji": "🐟",
+      "example_en": "Thai cooks use fish sauce instead of salt.",
+      "example_th": "แม่ครัวไทยใช้น้ำปลาแทนเกลือ",
+      "cefr": "A2",
+      "note_th": "น้ำปลา = fish sauce ตรงตัว ส่วน oyster sauce คือน้ำมันหอย — อธิบายฝรั่งว่า it is salty and gives umami พวกเขาจะเข้าใจทันที",
+      "distractors": [
+        "oyster sauce",
+        "soy sauce",
+        "fish oil"
+      ]
+    },
+    {
+      "id": "oyster_sauce",
+      "word": "oyster sauce",
+      "pos": "noun",
+      "ipa": "/ˈɔɪstər sɔːs/",
+      "reading_th": "ออย-สเตอร์ ซอส",
+      "meaning_th": "น้ำมันหอย",
+      "emoji": "🦪",
+      "example_en": "Oyster sauce gives stir-fried vegetables a glossy look.",
+      "example_th": "น้ำมันหอยทำให้ผัดผักดูเงาวาว",
+      "cefr": "A2",
+      "note_th": "น้ำมันหอย = oyster sauce (ซอสจากหอยนางรม) ไม่ใช่ oyster oil — คู่กับ fish sauce คือเครื่องปรุงหลักของผัดไทยทุกจาน",
+      "distractors": [
+        "fish sauce",
+        "oyster",
+        "soy sauce"
+      ]
+    },
+    {
+      "id": "vinegar",
+      "word": "vinegar",
+      "pos": "noun",
+      "ipa": "/ˈvɪnɪɡər/",
+      "reading_th": "วิน-นิ-เกอร์",
+      "meaning_th": "น้ำส้มสายชู",
+      "emoji": "🍶",
+      "example_en": "Mix vinegar and sugar to make the dipping sauce.",
+      "example_th": "ผสมน้ำส้มสายชูกับน้ำตาลทำน้ำจิ้ม",
+      "cefr": "A2",
+      "note_th": "vinegar ออกเสียง วิน-นิ-เกอร์ — น้ำส้มพริกดองบนโต๊ะก๋วยเตี๋ยวคือ chili vinegar และ apple cider vinegar คือน้ำส้มแอปเปิ้ล",
+      "distractors": [
+        "vintage",
+        "vinyl",
+        "ginger"
+      ]
+    },
+    {
+      "id": "garlic",
+      "word": "garlic",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːrlɪk/",
+      "reading_th": "การ์-ลิค",
+      "meaning_th": "กระเทียม",
+      "emoji": "🧄",
+      "example_en": "Fry the garlic until it smells good but is not brown.",
+      "example_th": "เจียวกระเทียมจนหอมแต่ยังไม่ไหม้",
+      "cefr": "A2",
+      "note_th": "garlic นับไม่ได้ ใช้ a clove of garlic = กระเทียมหนึ่งกลีบ, a head of garlic = หนึ่งหัว — กระเทียมเจียวคือ fried garlic",
+      "distractors": [
+        "ginger",
+        "garnish",
+        "onion"
+      ]
+    },
+    {
+      "id": "seasoning",
+      "word": "seasoning",
+      "pos": "noun",
+      "ipa": "/ˈsiːzənɪŋ/",
+      "reading_th": "ซี-เซิน-นิ่ง",
+      "meaning_th": "เครื่องปรุงรส",
+      "emoji": "🧂",
+      "example_en": "This seasoning has salt, pepper and dried herbs.",
+      "example_th": "เครื่องปรุงนี้มีเกลือ พริกไทย และสมุนไพรแห้ง",
+      "cefr": "B1",
+      "note_th": "seasoning = เครื่องปรุงรวมๆ และกริยา season = ปรุงรส (season the chicken) คนละความหมายกับ season ฤดูกาล — ผงปรุงรสคือ seasoning powder",
+      "distractors": [
+        "season",
+        "reasoning",
+        "dressing"
+      ]
+    },
+    {
+      "id": "spice",
+      "word": "spice",
+      "pos": "noun",
+      "ipa": "/spaɪs/",
+      "reading_th": "สไปซ์",
+      "meaning_th": "เครื่องเทศ",
+      "emoji": "🌶️",
+      "example_en": "Thai curry paste is full of spice and herbs.",
+      "example_th": "พริกแกงไทยเต็มไปด้วยเครื่องเทศและสมุนไพร",
+      "cefr": "A2",
+      "note_th": "spice = เครื่องเทศแห้ง (ยี่หร่า อบเชย พริกไทย) ส่วน herb = สมุนไพรใบสด — spicy แปลว่าเผ็ด แต่ spice ไม่จำเป็นต้องเผ็ด",
+      "distractors": [
+        "spicy",
+        "space",
+        "slice"
+      ]
+    },
+    {
+      "id": "herb",
+      "word": "herb",
+      "pos": "noun",
+      "ipa": "/ɜːrb/",
+      "reading_th": "เอิร์บ",
+      "meaning_th": "สมุนไพร (ใบ)",
+      "emoji": "🌿",
+      "example_en": "Basil is the most important herb in this dish.",
+      "example_th": "กะเพราคือสมุนไพรที่สำคัญที่สุดในจานนี้",
+      "cefr": "A2",
+      "note_th": "อเมริกันไม่ออกเสียง h อ่านว่า เอิร์บ (อังกฤษออกเสียง เฮิร์บ) — ตะไคร้ ใบมะกรูด โหระพา ล้วนเป็น Thai herbs",
+      "distractors": [
+        "hurt",
+        "harp",
+        "spice"
+      ]
+    },
+    {
+      "id": "aftertaste",
+      "word": "aftertaste",
+      "pos": "noun",
+      "ipa": "/ˈæftərteɪst/",
+      "reading_th": "แอฟ-เตอร์-เทสท์",
+      "meaning_th": "รสที่ค้างในปาก",
+      "emoji": "👅",
+      "example_en": "This sweetener leaves a bitter aftertaste.",
+      "example_th": "สารให้ความหวานตัวนี้ทิ้งรสขมติดปาก",
+      "cefr": "B2",
+      "note_th": "aftertaste = รสที่ยังค้างอยู่หลังกลืน มักพูดถึงรสไม่ดี (a bitter/metallic aftertaste) — นักชิมกาแฟและไวน์ใช้คำว่า finish แทน",
+      "distractors": [
+        "after dinner",
+        "taste test",
+        "appetite"
+      ]
+    },
+    {
+      "id": "fragrant",
+      "word": "fragrant",
+      "pos": "adjective",
+      "ipa": "/ˈfreɪɡrənt/",
+      "reading_th": "เฟร-เกรินท์",
+      "meaning_th": "หอม (กลิ่น)",
+      "emoji": "🌸",
+      "example_en": "Jasmine rice is fragrant even without any sauce.",
+      "example_th": "ข้าวหอมมะลิหอมแม้ไม่ราดซอสอะไรเลย",
+      "cefr": "B1",
+      "note_th": "fragrant = มีกลิ่นหอม (fragrance = น้ำหอม/กลิ่นหอม) ใช้กับข้าว ดอกไม้ ชา — ข้าวหอมมะลิบนถุงส่งออกเขียนว่า Thai fragrant rice",
+      "distractors": [
+        "flagrant",
+        "fragile",
+        "frequent"
+      ]
+    },
+    {
+      "id": "sprinkle",
+      "word": "sprinkle",
+      "pos": "verb",
+      "ipa": "/ˈsprɪŋkəl/",
+      "reading_th": "สปริง-เคิล",
+      "meaning_th": "โรย",
+      "emoji": "✨",
+      "example_en": "Sprinkle some sesame seeds on top.",
+      "example_th": "โรยงาด้านบนนิดหน่อย",
+      "cefr": "B1",
+      "note_th": "sprinkle = โรยของแห้งเบาๆ (งา น้ำตาล ชีส) ส่วนราดของเหลวคือ drizzle — เม็ดน้ำตาลสีๆ บนโดนัทเรียก sprinkles",
+      "distractors": [
+        "wrinkle",
+        "sparkle",
+        "sprint"
+      ]
+    },
+    {
+      "id": "pungent",
+      "word": "pungent",
+      "pos": "adjective",
+      "ipa": "/ˈpʌndʒənt/",
+      "reading_th": "พัน-เจินท์",
+      "meaning_th": "กลิ่นฉุน / รสฉุน",
+      "emoji": "🧅",
+      "example_en": "Shrimp paste has a pungent smell but tastes amazing.",
+      "example_th": "กะปิกลิ่นฉุนแต่รสชาติสุดยอด",
+      "cefr": "B2",
+      "note_th": "pungent = ฉุนแรงจนจี๊ดจมูก (กะปิ ทุเรียน หัวหอม วาซาบิ) ไม่ได้แปลว่าเหม็น — ใช้อธิบายกะปิให้ฝรั่งฟังได้สวยกว่า smelly",
+      "distractors": [
+        "pudding",
+        "urgent",
+        "pungency"
+      ]
+    },
+    {
+      "id": "broth",
+      "word": "broth",
+      "pos": "noun",
+      "ipa": "/brɔːθ/",
+      "reading_th": "บรอธ",
+      "meaning_th": "น้ำซุปใส / น้ำสต๊อก",
+      "emoji": "🍲",
+      "example_en": "Simmer the bones for hours to make a clear broth.",
+      "example_th": "เคี่ยวกระดูกหลายชั่วโมงให้ได้น้ำซุปใส",
+      "cefr": "B1",
+      "note_th": "broth = น้ำซุปที่ต้มจากกระดูกหรือผัก ใช้เป็นฐานของก๋วยเตี๋ยวและแกงจืด — ภาษาพูดใช้แทน stock ได้ และ bone broth คือน้ำซุปกระดูกยอดฮิตสายสุขภาพ",
+      "distractors": [
+        "brother",
+        "booth",
+        "breath"
+      ]
+    },
+    {
+      "id": "flour",
+      "word": "flour",
+      "pos": "noun",
+      "ipa": "/ˈflaʊər/",
+      "reading_th": "ฟลาว-เออร์",
+      "meaning_th": "แป้ง (ทำขนม)",
+      "emoji": "🌾",
+      "example_en": "Mix the flour and sugar in a large bowl.",
+      "example_th": "ผสมแป้งกับน้ำตาลในชามใบใหญ่",
+      "cefr": "A2",
+      "note_th": "flour ออกเสียงเหมือน flower เป๊ะ! — all-purpose flour แป้งอเนกประสงค์, rice flour แป้งข้าวเจ้า, tapioca flour แป้งมัน",
+      "distractors": [
+        "flower",
+        "floor",
+        "flavor"
+      ]
+    },
+    {
+      "id": "dough",
+      "word": "dough",
+      "pos": "noun",
+      "ipa": "/doʊ/",
+      "reading_th": "โด",
+      "meaning_th": "โด / ก้อนแป้งนวด",
+      "emoji": "🥖",
+      "example_en": "Let the dough rest for an hour before baking.",
+      "example_th": "พักโดไว้หนึ่งชั่วโมงก่อนอบ",
+      "cefr": "B1",
+      "note_th": "dough ออกเสียง โด (gh ไม่ออกเสียง) = แป้งนวดเป็นก้อนสำหรับขนมปัง พิซซ่า คุกกี้ — ต่างจาก batter ที่เหลวเทได้",
+      "distractors": [
+        "doughnut",
+        "though",
+        "batter"
+      ]
+    },
+    {
+      "id": "batter",
+      "word": "batter",
+      "pos": "noun",
+      "ipa": "/ˈbætər/",
+      "reading_th": "แบท-เทอร์",
+      "meaning_th": "แป้งเหลว (ชุบทอด / เทอบ)",
+      "emoji": "🥞",
+      "example_en": "Pour the batter into the hot pan to make pancakes.",
+      "example_th": "เทแป้งเหลวลงกระทะร้อนทำแพนเค้ก",
+      "cefr": "B1",
+      "note_th": "batter = แป้งผสมแบบเหลว ใช้ทำแพนเค้ก เค้ก หรือชุบทอด (tempura batter) — ระวังสะกด batter ไม่ใช่ butter (เนย)",
+      "distractors": [
+        "butter",
+        "better",
+        "dough"
+      ]
+    },
+    {
+      "id": "yeast",
+      "word": "yeast",
+      "pos": "noun",
+      "ipa": "/jiːst/",
+      "reading_th": "ยีสท์",
+      "meaning_th": "ยีสต์",
+      "emoji": "🧫",
+      "example_en": "The yeast makes the bread rise.",
+      "example_th": "ยีสต์ทำให้ขนมปังฟูขึ้น",
+      "cefr": "B1",
+      "note_th": "yeast = เชื้อยีสต์ที่ทำให้ขนมปังฟู (และทำให้เบียร์มีแอลกอฮอล์) — ยีสต์แห้งซองคือ instant yeast หรือ dry yeast",
+      "distractors": [
+        "east",
+        "yes",
+        "feast"
+      ]
+    },
+    {
+      "id": "baking_powder",
+      "word": "baking powder",
+      "pos": "noun",
+      "ipa": "/ˈbeɪkɪŋ ˌpaʊdər/",
+      "reading_th": "เบ-คิ่ง เพา-เดอร์",
+      "meaning_th": "ผงฟู",
+      "emoji": "🥄",
+      "example_en": "Do not forget the baking powder or the cake will be flat.",
+      "example_th": "อย่าลืมผงฟู ไม่งั้นเค้กจะแบน",
+      "cefr": "B1",
+      "note_th": "baking powder (ผงฟู) กับ baking soda (เบกกิ้งโซดา) ไม่เหมือนกัน ใส่ผิดเค้กไม่ขึ้น — ส่วน yeast ใช้กับขนมปังที่ต้องพักให้ขึ้น",
+      "distractors": [
+        "baking soda",
+        "flour",
+        "powder"
+      ]
+    },
+    {
+      "id": "knead",
+      "word": "knead",
+      "pos": "verb",
+      "ipa": "/niːd/",
+      "reading_th": "นีด",
+      "meaning_th": "นวดแป้ง",
+      "emoji": "👐",
+      "example_en": "Knead the dough for ten minutes until it is smooth.",
+      "example_th": "นวดโดสิบนาทีจนเนียน",
+      "cefr": "B1",
+      "note_th": "knead ออกเสียงเหมือน need เป๊ะ ตัว k ไม่ออกเสียง — ใช้กับแป้งเท่านั้น ส่วนนวดตัวคือ massage",
+      "distractors": [
+        "need",
+        "knee",
+        "kneel"
+      ]
+    },
+    {
+      "id": "whisk",
+      "word": "whisk",
+      "pos": "verb",
+      "ipa": "/wɪsk/",
+      "reading_th": "วิสค์",
+      "meaning_th": "ตีให้เข้ากัน / ตีไข่",
+      "emoji": "🥚",
+      "example_en": "Whisk the eggs until they are light and fluffy.",
+      "example_th": "ตีไข่จนฟูเบา",
+      "cefr": "B1",
+      "note_th": "whisk = ตีเร็วๆ ให้อากาศเข้าและเป็นคำนาม (ตะกร้อตีไข่) ด้วย — whisk someone away แปลว่าพาตัวไปอย่างรวดเร็ว",
+      "distractors": [
+        "whistle",
+        "wish",
+        "risk"
+      ]
+    },
+    {
+      "id": "sift",
+      "word": "sift",
+      "pos": "verb",
+      "ipa": "/sɪft/",
+      "reading_th": "ซิฟท์",
+      "meaning_th": "ร่อนแป้ง",
+      "emoji": "🫙",
+      "example_en": "Sift the flour to remove any lumps.",
+      "example_th": "ร่อนแป้งเพื่อเอาก้อนออก",
+      "cefr": "B2",
+      "note_th": "sift = ร่อนแป้งผ่านตะแกรงให้ละเอียดฟู ตะแกรงเรียก sifter หรือ sieve — sift through ยังแปลว่าคัดกรองข้อมูลจำนวนมาก",
+      "distractors": [
+        "shift",
+        "swift",
+        "sit"
+      ]
+    },
+    {
+      "id": "preheat",
+      "word": "preheat",
+      "pos": "verb",
+      "ipa": "/ˌpriːˈhiːt/",
+      "reading_th": "พรี-ฮีท",
+      "meaning_th": "เปิดเตาอบรอให้ร้อน",
+      "emoji": "🌡️",
+      "example_en": "Preheat the oven to 180 degrees before you start.",
+      "example_th": "เปิดเตาอบรอที่ 180 องศาก่อนเริ่ม",
+      "cefr": "B1",
+      "note_th": "pre- (ก่อน) + heat = ทำให้ร้อนล่วงหน้า เป็นประโยคแรกของสูตรอบแทบทุกสูตร — ระวังอุณหภูมิ: สูตรอเมริกันใช้ฟาเรนไฮต์ (°F)",
+      "distractors": [
+        "reheat",
+        "overheat",
+        "repeat"
+      ]
+    },
+    {
+      "id": "rise",
+      "word": "rise",
+      "pos": "verb",
+      "ipa": "/raɪz/",
+      "reading_th": "ไรซ์",
+      "meaning_th": "ขึ้นฟู (แป้ง)",
+      "emoji": "📈",
+      "example_en": "The dough should rise to double its size.",
+      "example_th": "โดควรขึ้นฟูเป็นสองเท่า",
+      "cefr": "B1",
+      "note_th": "rise = ขึ้นเอง (ไม่มีกรรม) ส่วน raise = ยกขึ้น (มีกรรม) คนไทยสลับกันบ่อย — ช่อง 2 คือ rose ช่อง 3 คือ risen",
+      "distractors": [
+        "raise",
+        "rice",
+        "rinse"
+      ]
+    },
+    {
+      "id": "golden_brown",
+      "word": "golden brown",
+      "pos": "adjective",
+      "ipa": "/ˌɡoʊldən ˈbraʊn/",
+      "reading_th": "โกล-เดิ้น บราวน์",
+      "meaning_th": "สีเหลืองทอง (สุกกำลังดี)",
+      "emoji": "🥐",
+      "example_en": "Bake the pie until the top is golden brown.",
+      "example_th": "อบพายจนหน้าเป็นสีเหลืองทอง",
+      "cefr": "B1",
+      "note_th": "golden brown = สีน้ำตาลทองที่บอกว่าสุกพอดี ใช้ทั้งอบและทอด — จำวลี until golden brown ไว้ เจอในสูตรทุกวัน",
+      "distractors": [
+        "dark brown",
+        "golden hour",
+        "light green"
+      ]
+    },
+    {
+      "id": "glaze",
+      "word": "glaze",
+      "pos": "noun",
+      "ipa": "/ɡleɪz/",
+      "reading_th": "เกลซ",
+      "meaning_th": "น้ำเคลือบเงา (บนขนม / เนื้อ)",
+      "emoji": "✨",
+      "example_en": "Brush the glaze over the donuts while they are warm.",
+      "example_th": "ทาน้ำเคลือบบนโดนัทตอนยังอุ่น",
+      "cefr": "B2",
+      "note_th": "glaze = ชั้นเคลือบเงาบางๆ (น้ำตาลบนโดนัท น้ำผึ้งบนหมู) เป็นกริยาได้ glazed donut — ไม่ใช่ frosting ที่หนาและเป็นครีม",
+      "distractors": [
+        "glass",
+        "gaze",
+        "graze"
+      ]
+    },
+    {
+      "id": "rolling_pin",
+      "word": "rolling pin",
+      "pos": "noun",
+      "ipa": "/ˈroʊlɪŋ pɪn/",
+      "reading_th": "โรล-ลิ่ง พิน",
+      "meaning_th": "ไม้นวดแป้ง / ไม้คลึงแป้ง",
+      "emoji": "🥖",
+      "example_en": "Roll the dough thin with a rolling pin.",
+      "example_th": "คลึงโดให้บางด้วยไม้นวดแป้ง",
+      "cefr": "B1",
+      "note_th": "roll out the dough = คลึงแป้งให้แบน ด้วย rolling pin (pin ในที่นี้คือแท่งกลม) — ในการ์ตูน แม่บ้านถือไม้นวดแป้งไล่ตีสามีก็ชิ้นนี้ 😄",
+      "distractors": [
+        "rolling paper",
+        "safety pin",
+        "spring roll"
+      ]
+    },
+    {
+      "id": "baking_sheet",
+      "word": "baking sheet",
+      "pos": "noun",
+      "ipa": "/ˈbeɪkɪŋ ʃiːt/",
+      "reading_th": "เบ-คิ่ง ชีท",
+      "meaning_th": "ถาดอบ",
+      "emoji": "🍪",
+      "example_en": "Place the cookies on a baking sheet two inches apart.",
+      "example_th": "วางคุกกี้บนถาดอบให้ห่างกันสองนิ้ว",
+      "cefr": "B1",
+      "note_th": "baking sheet = ถาดอบแบน ส่วนกระดาษรองอบคือ parchment paper หรือ baking paper — พิมพ์เค้กทรงสูงเรียก baking pan",
+      "distractors": [
+        "baking paper",
+        "bedsheet",
+        "baking pan"
+      ]
+    },
+    {
+      "id": "measuring_cup",
+      "word": "measuring cup",
+      "pos": "noun",
+      "ipa": "/ˈmeʒərɪŋ kʌp/",
+      "reading_th": "เมช-เชอ-ริ่ง คัพ",
+      "meaning_th": "ถ้วยตวง",
+      "emoji": "🥛",
+      "example_en": "Fill the measuring cup to the one-cup line.",
+      "example_th": "เติมถ้วยตวงถึงขีดหนึ่งถ้วย",
+      "cefr": "A2",
+      "note_th": "สูตรอเมริกันตวงเป็น cup (1 cup ≈ 240 มล.) ส่วนสูตรยุโรปชั่งเป็นกรัม — measuring spoons คือชุดช้อนตวง",
+      "distractors": [
+        "measuring tape",
+        "coffee cup",
+        "mixing bowl"
+      ]
+    },
+    {
+      "id": "tablespoon",
+      "word": "tablespoon",
+      "pos": "noun",
+      "ipa": "/ˈteɪbəlspuːn/",
+      "reading_th": "เท-เบิล-สปูน",
+      "meaning_th": "ช้อนโต๊ะ",
+      "emoji": "🥄",
+      "example_en": "Add two tablespoons of oyster sauce to the wok.",
+      "example_th": "ใส่น้ำมันหอยสองช้อนโต๊ะลงกระทะ",
+      "cefr": "A2",
+      "note_th": "tablespoon ย่อว่า tbsp (≈ 15 มล.) ส่วน teaspoon ย่อว่า tsp (≈ 5 มล.) ดูตัวย่อให้ดีเพราะต่างกันสามเท่า",
+      "distractors": [
+        "teaspoon",
+        "table",
+        "soup spoon"
+      ]
+    },
+    {
+      "id": "teaspoon",
+      "word": "teaspoon",
+      "pos": "noun",
+      "ipa": "/ˈtiːspuːn/",
+      "reading_th": "ที-สปูน",
+      "meaning_th": "ช้อนชา",
+      "emoji": "🍵",
+      "example_en": "Half a teaspoon of salt is enough for this soup.",
+      "example_th": "เกลือครึ่งช้อนชาก็พอสำหรับซุปนี้",
+      "cefr": "A2",
+      "note_th": "teaspoon ย่อ tsp ตัวเล็ก ส่วน tablespoon ย่อ Tbsp ตัวใหญ่ — สูตรฝรั่งมักเขียนว่า 1 tsp ใส่ผิดเป็นช้อนโต๊ะอาหารจะเค็มมาก",
+      "distractors": [
+        "tablespoon",
+        "teapot",
+        "teacup"
+      ]
+    },
+    {
+      "id": "gram",
+      "word": "gram",
+      "pos": "noun",
+      "ipa": "/ɡræm/",
+      "reading_th": "แกรม",
+      "meaning_th": "กรัม",
+      "emoji": "⚖️",
+      "example_en": "Weigh out 200 grams of flour for the cake.",
+      "example_th": "ชั่งแป้ง 200 กรัมสำหรับทำเค้ก",
+      "cefr": "A2",
+      "note_th": "gram ย่อว่า g และ kilogram ย่อว่า kg — ร้านเบเกอรี่มืออาชีพชั่งเป็นกรัมเสมอเพราะแม่นยำกว่าถ้วยตวง",
+      "distractors": [
+        "gram cracker",
+        "grand",
+        "kilometer"
+      ]
+    },
+    {
+      "id": "timer",
+      "word": "timer",
+      "pos": "noun",
+      "ipa": "/ˈtaɪmər/",
+      "reading_th": "ไท-เมอร์",
+      "meaning_th": "นาฬิกาจับเวลา",
+      "emoji": "⏲️",
+      "example_en": "Set a timer so the cookies do not burn.",
+      "example_th": "ตั้งเวลาไว้จะได้ไม่ลืมจนคุกกี้ไหม้",
+      "cefr": "A2",
+      "note_th": "set a timer = ตั้งเวลา (ใช้กับมือถือก็ได้) — the timer went off = เสียงเตือนดัง และ kitchen timer คือตัวจับเวลาแบบหมุน",
+      "distractors": [
+        "timber",
+        "time",
+        "tumor"
+      ]
+    },
+    {
+      "id": "apron",
+      "word": "apron",
+      "pos": "noun",
+      "ipa": "/ˈeɪprən/",
+      "reading_th": "เอ-เพริน",
+      "meaning_th": "ผ้ากันเปื้อน",
+      "emoji": "🥼",
+      "example_en": "Put on an apron before you fry anything.",
+      "example_th": "ใส่ผ้ากันเปื้อนก่อนทอดอะไรก็ตาม",
+      "cefr": "A2",
+      "note_th": "ออกเสียง เอ-เพริน ไม่ใช่ แอพ-รอน — ใช้ put on / take off an apron เหมือนเสื้อผ้า และคนรักครัวก็มักซื้อ apron สวยๆ",
+      "distractors": [
+        "april",
+        "napkin",
+        "uniform"
+      ]
+    },
+    {
+      "id": "oven_mitt",
+      "word": "oven mitt",
+      "pos": "noun",
+      "ipa": "/ˈʌvən mɪt/",
+      "reading_th": "อัฟ-เวิน มิท",
+      "meaning_th": "ถุงมือกันร้อน",
+      "emoji": "🧤",
+      "example_en": "Always use an oven mitt to take out the tray.",
+      "example_th": "ใช้ถุงมือกันร้อนหยิบถาดออกจากเตาทุกครั้ง",
+      "cefr": "B1",
+      "note_th": "mitt = ถุงมือแบบไม่มีนิ้ว (เหมือนถุงมือเบสบอล) — oven mitt ถุงมือกันร้อน ส่วนผ้าจับหม้อแบบแผ่นเรียก pot holder",
+      "distractors": [
+        "oven rack",
+        "glove",
+        "pot holder"
+      ]
+    },
+    {
+      "id": "raw",
+      "word": "raw",
+      "pos": "adjective",
+      "ipa": "/rɔː/",
+      "reading_th": "รอ",
+      "meaning_th": "ดิบ",
+      "emoji": "🥩",
+      "example_en": "Wash your hands after touching raw meat.",
+      "example_th": "ล้างมือหลังจับเนื้อดิบ",
+      "cefr": "A2",
+      "note_th": "raw = ดิบไม่ผ่านความร้อน (raw fish, raw egg) ส่วน rare คือสเต๊กสุกน้อย — ก้อยดิบ ลาบดิบ ก็คือ raw meat salad",
+      "distractors": [
+        "row",
+        "rare",
+        "law"
+      ]
+    },
+    {
+      "id": "undercooked",
+      "word": "undercooked",
+      "pos": "adjective",
+      "ipa": "/ˌʌndərˈkʊkt/",
+      "reading_th": "อัน-เดอร์-คุคท์",
+      "meaning_th": "สุกไม่พอ",
+      "emoji": "🍗",
+      "example_en": "The chicken is still pink, it is undercooked.",
+      "example_th": "ไก่ยังเป็นสีชมพูอยู่ มันสุกไม่พอ",
+      "cefr": "B1",
+      "note_th": "under- (น้อยกว่า) + cooked = ยังไม่สุกดี อันตรายกับไก่และหมู — ตรงข้ามคือ overcooked และคำกลางๆ ว่าสุกพอดีคือ cooked through",
+      "distractors": [
+        "overcooked",
+        "uncooked",
+        "underpaid"
+      ]
+    },
+    {
+      "id": "overcook",
+      "word": "overcook",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərˈkʊk/",
+      "reading_th": "โอ-เวอร์-คุค",
+      "meaning_th": "ทำสุกเกินไป",
+      "emoji": "⏰",
+      "example_en": "Do not overcook the shrimp or they will get rubbery.",
+      "example_th": "อย่าทำกุ้งสุกเกินไป ไม่งั้นเนื้อจะเหนียวเหมือนยาง",
+      "cefr": "B1",
+      "note_th": "over- = มากเกิน ใช้สร้างคำได้เยอะ: overcook, overeat, oversleep — overcooked pasta คือเส้นเละ ฝรั่งชอบ al dente (ยังมีความเด้ง)",
+      "distractors": [
+        "undercook",
+        "overlook",
+        "overbook"
+      ]
+    },
+    {
+      "id": "burnt",
+      "word": "burnt",
+      "pos": "adjective",
+      "ipa": "/bɜːrnt/",
+      "reading_th": "เบิร์นท์",
+      "meaning_th": "ไหม้",
+      "emoji": "🔥",
+      "example_en": "The toast is burnt, so make another one.",
+      "example_th": "ขนมปังไหม้แล้ว ปิ้งใหม่อีกแผ่น",
+      "cefr": "A2",
+      "note_th": "burnt = ไหม้ (คำคุณศัพท์) ส่วน burned เป็นช่อง 2 แบบอเมริกัน ใช้ได้ทั้งคู่ — กลิ่นไหม้คือ a burnt smell และ burnt out แปลว่าหมดไฟ",
+      "distractors": [
+        "burned out",
+        "bent",
+        "brunt"
+      ]
+    },
+    {
+      "id": "sharp",
+      "word": "sharp",
+      "pos": "adjective",
+      "ipa": "/ʃɑːrp/",
+      "reading_th": "ชาร์พ",
+      "meaning_th": "คม",
+      "emoji": "🔪",
+      "example_en": "A sharp knife is safer than a dull one.",
+      "example_th": "มีดคมปลอดภัยกว่ามีดทื่อ",
+      "cefr": "A2",
+      "note_th": "sharp = คม ตรงข้ามคือ dull หรือ blunt (ทื่อ) และ sharpen = ลับมีด — sharp ยังแปลว่าฉลาดเฉียบแหลม หรือตรงเวลาเป๊ะ (at 9 sharp)",
+      "distractors": [
+        "shape",
+        "sharply",
+        "dull"
+      ]
+    },
+    {
+      "id": "fire_blanket",
+      "word": "fire blanket",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər ˌblæŋkɪt/",
+      "reading_th": "ไฟ-เออร์ แบลง-เค็ท",
+      "meaning_th": "ผ้าห่มดับไฟ",
+      "emoji": "🧯",
+      "example_en": "Cover a burning pan with a fire blanket, never with water.",
+      "example_th": "คลุมกระทะที่ไฟลุกด้วยผ้าห่มดับไฟ ห้ามใช้น้ำเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "fire blanket = ผ้ากันไฟสำหรับคลุมไฟจากน้ำมัน (grease fire) ติดไว้ในครัวได้ — ไฟน้ำมันราดน้ำจะยิ่งลุก ให้ปิดฝาหรือคลุมผ้าแทน",
+      "distractors": [
+        "fire alarm",
+        "blanket",
+        "fire exit"
+      ]
+    },
+    {
+      "id": "food_poisoning",
+      "word": "food poisoning",
+      "pos": "noun",
+      "ipa": "/ˈfuːd ˌpɔɪzənɪŋ/",
+      "reading_th": "ฟู้ด พอย-เซิน-นิ่ง",
+      "meaning_th": "อาหารเป็นพิษ",
+      "emoji": "🤢",
+      "example_en": "He got food poisoning from the leftover seafood.",
+      "example_th": "เขาอาหารเป็นพิษเพราะกินซีฟู้ดที่เหลือค้าง",
+      "cefr": "B1",
+      "note_th": "I got food poisoning = ฉันอาหารเป็นพิษ (poison = ยาพิษ) — ใช้ได้ทั้งตอนลางานและบอกหมอ ส่วนท้องเสียธรรมดาคือ diarrhea",
+      "distractors": [
+        "food allergy",
+        "food waste",
+        "food court"
+      ]
+    },
+    {
+      "id": "melt_in_your_mouth",
+      "word": "melt in your mouth",
+      "pos": "phrase",
+      "ipa": "/melt ɪn jʊr maʊθ/",
+      "reading_th": "เมลท์ อิน ยัวร์ เมาธ์",
+      "meaning_th": "ละลายในปาก (นุ่มมาก)",
+      "emoji": "🤤",
+      "example_en": "The braised pork will melt in your mouth.",
+      "example_th": "หมูตุ๋นนุ่มละลายในปากเลย",
+      "cefr": "B1",
+      "note_th": "melt in your mouth = นุ่มจนไม่ต้องเคี้ยว คำชมสูงสุดของเนื้อและของหวาน — ใช้เป็นคำคุณศัพท์ว่า melt-in-your-mouth pork (ใส่ขีดกลาง)",
+      "distractors": [
+        "mouth-watering",
+        "word of mouth",
+        "melt down"
+      ]
+    },
+    {
+      "id": "rubbery",
+      "word": "rubbery",
+      "pos": "adjective",
+      "ipa": "/ˈrʌbəri/",
+      "reading_th": "รับ-เบอ-รี่",
+      "meaning_th": "เหนียวเหมือนยาง",
+      "emoji": "🦑",
+      "example_en": "Overcooked squid turns rubbery in seconds.",
+      "example_th": "ปลาหมึกสุกเกินไปจะเหนียวเหมือนยางภายในไม่กี่วินาที",
+      "cefr": "B1",
+      "note_th": "rubbery = เหนียวเด้งเหมือนยาง (rubber) ความหมายลบ ใช้กับปลาหมึก กุ้ง ไข่ที่สุกเกิน — ต่างจาก chewy ที่เป็นคำชมสำหรับไข่มุก",
+      "distractors": [
+        "rubber",
+        "robbery",
+        "buttery"
+      ]
+    },
+    {
+      "id": "flaky",
+      "word": "flaky",
+      "pos": "adjective",
+      "ipa": "/ˈfleɪki/",
+      "reading_th": "เฟล-กี้",
+      "meaning_th": "กรอบเป็นชั้นๆ (ร่วน)",
+      "emoji": "🥐",
+      "example_en": "A good croissant is flaky and buttery.",
+      "example_th": "ครัวซองต์ที่ดีต้องกรอบเป็นชั้นและหอมเนย",
+      "cefr": "B1",
+      "note_th": "flaky = แตกเป็นแผ่นบางๆ (flake = เกล็ด) ใช้ชมครัวซองต์ พาย และเนื้อปลาที่สุกพอดี — แต่ a flaky person แปลว่าคนไม่น่าเชื่อถือ ชอบเบี้ยวนัด",
+      "distractors": [
+        "flake",
+        "freaky",
+        "fluffy"
+      ]
+    },
+    {
+      "id": "fluffy",
+      "word": "fluffy",
+      "pos": "adjective",
+      "ipa": "/ˈflʌfi/",
+      "reading_th": "ฟลัฟ-ฟี่",
+      "meaning_th": "ฟูนุ่ม",
+      "emoji": "🥞",
+      "example_en": "These pancakes are so fluffy and light.",
+      "example_th": "แพนเค้กพวกนี้ฟูนุ่มเบามาก",
+      "cefr": "B1",
+      "note_th": "fluffy = ฟูเบาเหมือนปุยเมฆ ใช้กับแพนเค้ก ไข่ข้น ข้าวสวย (fluffy rice) และขนสัตว์ — ตรงข้ามคือ dense (แน่น)",
+      "distractors": [
+        "fluffy toy",
+        "flabby",
+        "fruity"
+      ]
+    },
+    {
+      "id": "runny",
+      "word": "runny",
+      "pos": "adjective",
+      "ipa": "/ˈrʌni/",
+      "reading_th": "รัน-นี่",
+      "meaning_th": "เยิ้ม / เหลวไหล",
+      "emoji": "🍳",
+      "example_en": "I like my fried egg with a runny yolk.",
+      "example_th": "ฉันชอบไข่ดาวที่ไข่แดงเยิ้ม",
+      "cefr": "B1",
+      "note_th": "runny = เหลวจนไหลได้ (ไข่แดงเยิ้ม ซอสเหลวเกินไป) — a runny nose คือน้ำมูกไหล คำเดียวกัน ใช้ได้ทั้งความหมายดีและไม่ดี",
+      "distractors": [
+        "running",
+        "funny",
+        "bunny"
+      ]
+    },
+    {
+      "id": "well_seasoned",
+      "word": "well-seasoned",
+      "pos": "adjective",
+      "ipa": "/ˌwel ˈsiːzənd/",
+      "reading_th": "เวล ซี-เซินด์",
+      "meaning_th": "ปรุงรสได้พอดี",
+      "emoji": "🧂",
+      "example_en": "The soup was well-seasoned and did not need any salt.",
+      "example_th": "ซุปปรุงรสมาพอดี ไม่ต้องเติมเกลือเลย",
+      "cefr": "B1",
+      "note_th": "well-seasoned = ปรุงรสกลมกล่อมพอดี ตรงข้ามคือ under-seasoned (จืดไป) — กระทะเหล็กที่ใช้จนลื่นก็เรียก well-seasoned pan และคนมีประสบการณ์ก็เช่นกัน",
+      "distractors": [
+        "seasonal",
+        "well done",
+        "well-known"
+      ]
+    },
+    {
+      "id": "moist",
+      "word": "moist",
+      "pos": "adjective",
+      "ipa": "/mɔɪst/",
+      "reading_th": "มอยสท์",
+      "meaning_th": "ชุ่มฉ่ำ (เค้ก / เนื้อ)",
+      "emoji": "🍰",
+      "example_en": "This chocolate cake is moist and not too sweet.",
+      "example_th": "เค้กช็อกโกแลตนี้ชุ่มฉ่ำและไม่หวานเกินไป",
+      "cefr": "B1",
+      "note_th": "moist = ชุ่มชื้นกำลังดี เป็นคำชมสำหรับเค้กและเนื้อ (ตรงข้าม dry) — แต่ฝรั่งหลายคนบอกว่าเกลียดเสียงคำนี้ที่สุด 😄",
+      "distractors": [
+        "most",
+        "mist",
+        "dry"
+      ]
+    },
+    {
+      "id": "soggy",
+      "word": "soggy",
+      "pos": "adjective",
+      "ipa": "/ˈsɑːɡi/",
+      "reading_th": "ซ็อก-กี้",
+      "meaning_th": "แฉะ / เหี่ยวนิ่มเพราะน้ำ",
+      "emoji": "🍟",
+      "example_en": "The fries got soggy on the way home.",
+      "example_th": "เฟรนช์ฟรายส์แฉะหมดระหว่างทางกลับบ้าน",
+      "cefr": "B1",
+      "note_th": "soggy = เปียกจนนิ่มเหี่ยว (ความหมายลบ) ใช้กับของที่ควรกรอบแต่ไม่กรอบ — ปัญหาคลาสสิกของอาหารเดลิเวอรี่",
+      "distractors": [
+        "soft",
+        "foggy",
+        "sugary"
+      ]
+    },
+    {
+      "id": "tough",
+      "word": "tough",
+      "pos": "adjective",
+      "ipa": "/tʌf/",
+      "reading_th": "ทัฟ",
+      "meaning_th": "เหนียว (เนื้อ)",
+      "emoji": "🥩",
+      "example_en": "The steak was tough because I cooked it too long.",
+      "example_th": "สเต๊กเหนียวเพราะฉันย่างนานเกินไป",
+      "cefr": "B1",
+      "note_th": "tough ออกเสียง ทัฟ (gh เป็นเสียง f) = เนื้อเหนียวเคี้ยวยาก ตรงข้ามกับ tender — นอกครัวแปลว่ายากลำบากหรือแข็งแกร่ง",
+      "distractors": [
+        "though",
+        "touch",
+        "tender"
+      ]
+    },
+    {
+      "id": "hearty",
+      "word": "hearty",
+      "pos": "adjective",
+      "ipa": "/ˈhɑːrti/",
+      "reading_th": "ฮาร์-ตี้",
+      "meaning_th": "อิ่มท้องให้พลัง (มื้อใหญ่)",
+      "emoji": "🍲",
+      "example_en": "A hearty bowl of noodle soup is perfect on a rainy day.",
+      "example_th": "ก๋วยเตี๋ยวชามใหญ่อิ่มท้องเหมาะกับวันฝนตก",
+      "cefr": "B2",
+      "note_th": "hearty = มื้อใหญ่ อุ่น อิ่ม ให้พลัง (hearty breakfast, hearty stew) — ไม่ใช่ heart-healthy ที่แปลว่าดีต่อหัวใจ",
+      "distractors": [
+        "healthy",
+        "hearth",
+        "heavy"
+      ]
+    },
+    {
+      "id": "flavorful",
+      "word": "flavorful",
+      "pos": "adjective",
+      "ipa": "/ˈfleɪvərfəl/",
+      "reading_th": "เฟล-เวอร์-ฟูล",
+      "meaning_th": "รสชาติจัดจ้าน / รสดี",
+      "emoji": "🤤",
+      "example_en": "Thai street food is cheap but very flavorful.",
+      "example_th": "อาหารข้างทางของไทยถูกแต่รสชาติจัดจ้านมาก",
+      "cefr": "B1",
+      "note_th": "flavorful = มีรสชาติดีเต็มปาก ตรงข้ามกับ bland (จืด) — ชมอาหารได้สุภาพกว่า delicious ซ้ำๆ: It is so flavorful!",
+      "distractors": [
+        "flavorless",
+        "colorful",
+        "fearful"
+      ]
+    },
+    {
+      "id": "filling",
+      "word": "filling",
+      "pos": "adjective",
+      "ipa": "/ˈfɪlɪŋ/",
+      "reading_th": "ฟิล-ลิ่ง",
+      "meaning_th": "กินแล้วอิ่มนาน",
+      "emoji": "🍚",
+      "example_en": "Sticky rice is cheap but very filling.",
+      "example_th": "ข้าวเหนียวราคาถูกแต่กินแล้วอิ่มนานมาก",
+      "cefr": "B1",
+      "note_th": "filling (คำคุณศัพท์) = อิ่มท้องนาน (fill = เติมให้เต็ม) — เป็นคำนามด้วยแปลว่าไส้ขนม (pie filling) และอุดฟันก็ใช้ filling",
+      "distractors": [
+        "fulfilling",
+        "feeling",
+        "falling"
+      ]
+    },
+    {
+      "id": "plating",
+      "word": "plating",
+      "pos": "noun",
+      "ipa": "/ˈpleɪtɪŋ/",
+      "reading_th": "เพลท-ติ้ง",
+      "meaning_th": "การจัดจาน",
+      "emoji": "🍽️",
+      "example_en": "The plating looks like art, but the food is cold.",
+      "example_th": "จัดจานสวยเหมือนงานศิลปะ แต่อาหารเย็นชืด",
+      "cefr": "B2",
+      "note_th": "plating = วิธีจัดอาหารลงจานให้สวย (plate เป็นกริยา = จัดจาน) — คำที่ได้ยินในรายการแข่งทำอาหารคู่กับ presentation",
+      "distractors": [
+        "planting",
+        "plate",
+        "painting"
+      ]
+    },
+    {
+      "id": "comfort_food",
+      "word": "comfort food",
+      "pos": "noun",
+      "ipa": "/ˈkʌmfərt fuːd/",
+      "reading_th": "คัม-เฟิร์ท ฟู้ด",
+      "meaning_th": "อาหารปลอบใจ / อาหารที่กินแล้วอุ่นใจ",
+      "emoji": "🍜",
+      "example_en": "Rice porridge is my comfort food when I am sick.",
+      "example_th": "ข้าวต้มคืออาหารปลอบใจของฉันเวลาป่วย",
+      "cefr": "B1",
+      "note_th": "comfort food = อาหารง่ายๆ ที่กินแล้วสบายใจ มักเป็นรสชาติวัยเด็ก — ของคนไทยคือข้าวต้ม ไข่เจียว ข้าวผัด ส่วนฝรั่งคือ mac and cheese",
+      "distractors": [
+        "fast food",
+        "junk food",
+        "street food"
+      ]
+    }
+  ]
+}

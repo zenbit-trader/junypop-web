@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "emergency",
+    "name_en": "Emergency & Safety",
+    "name_th": "ฉุกเฉินและความปลอดภัย",
+    "emoji": "🚨",
+    "color_start": "#F87171",
+    "color_end": "#B91C1C",
+    "description_th": "ขอความช่วยเหลือ แจ้งเหตุ และเอาตัวรอดในสถานการณ์ฉุกเฉินเป็นภาษาอังกฤษ",
+    "mascot_costume": "doctor",
+    "lessons": [
+      {
+        "id": "emergency_1",
+        "title_en": "Calling for Help",
+        "title_th": "โทรขอความช่วยเหลือ",
+        "emoji": "📞",
+        "word_ids": [
+          "emergency_number",
+          "call_for_help",
+          "operator",
+          "hotline",
+          "stay_calm",
+          "stay_on_the_line",
+          "location",
+          "emergency_contact",
+          "describe",
+          "rescue",
+          "victim",
+          "unconscious",
+          "breathing",
+          "panic"
+        ]
+      },
+      {
+        "id": "emergency_2",
+        "title_en": "Accidents",
+        "title_th": "อุบัติเหตุและการบาดเจ็บ",
+        "emoji": "🤕",
+        "word_ids": [
+          "slip",
+          "trip_over",
+          "fracture",
+          "concussion",
+          "choke",
+          "faint",
+          "cpr",
+          "electric_shock",
+          "sting",
+          "poisoning",
+          "drown",
+          "collision",
+          "scald",
+          "heatstroke"
+        ]
+      },
+      {
+        "id": "emergency_3",
+        "title_en": "Fire & Evacuation",
+        "title_th": "ไฟไหม้และการอพยพ",
+        "emoji": "🔥",
+        "word_ids": [
+          "fire_alarm",
+          "smoke",
+          "fire_extinguisher",
+          "fire_exit",
+          "evacuate",
+          "assembly_point",
+          "fire_drill",
+          "smoke_detector",
+          "firefighter",
+          "fire_truck",
+          "flames",
+          "stairwell",
+          "crawl",
+          "put_out"
+        ]
+      },
+      {
+        "id": "emergency_4",
+        "title_en": "Police & Crime",
+        "title_th": "ตำรวจและอาชญากรรม",
+        "emoji": "👮",
+        "word_ids": [
+          "police_station",
+          "crime",
+          "thief",
+          "robbery",
+          "burglary",
+          "bystander",
+          "suspect",
+          "police_report",
+          "arrest",
+          "case_number",
+          "break_in",
+          "assault",
+          "harassment",
+          "cctv"
+        ]
+      },
+      {
+        "id": "emergency_5",
+        "title_en": "Natural Disasters",
+        "title_th": "ภัยธรรมชาติ",
+        "emoji": "🌪️",
+        "word_ids": [
+          "disaster",
+          "aftershock",
+          "tremor",
+          "hurricane",
+          "tornado",
+          "shelter",
+          "siren",
+          "blackout",
+          "emergency_kit",
+          "high_ground",
+          "take_cover",
+          "sandbag",
+          "eruption",
+          "relief"
+        ]
+      },
+      {
+        "id": "emergency_6",
+        "title_en": "Lost & Stolen",
+        "title_th": "ของหายของถูกขโมย",
+        "emoji": "🔎",
+        "word_ids": [
+          "misplace",
+          "missing",
+          "lost_and_found",
+          "theft",
+          "belongings",
+          "valuables",
+          "retrace",
+          "left_behind",
+          "replacement",
+          "emergency_passport",
+          "cancel_the_card",
+          "serial_number",
+          "file_a_claim",
+          "consulate"
+        ]
+      },
+      {
+        "id": "emergency_7",
+        "title_en": "Safety Signs",
+        "title_th": "ป้ายเตือนและความปลอดภัย",
+        "emoji": "⚠️",
+        "word_ids": [
+          "caution",
+          "danger",
+          "warning",
+          "hazard",
+          "keep_out",
+          "no_entry",
+          "slippery",
+          "high_voltage",
+          "flammable",
+          "toxic",
+          "beware",
+          "wet_floor",
+          "mind_the_gap",
+          "out_of_order"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "emergency_number",
+      "word": "emergency number",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːrdʒənsi ˌnʌmbər/",
+      "reading_th": "อิ-เมอร์-เจิน-ซี นัม-เบอร์",
+      "meaning_th": "เบอร์โทรฉุกเฉิน",
+      "emoji": "📞",
+      "example_en": "Save the local emergency number before you travel.",
+      "example_th": "บันทึกเบอร์โทรฉุกเฉินของประเทศนั้นไว้ก่อนเดินทาง",
+      "cefr": "A2",
+      "note_th": "เบอร์ฉุกเฉินแต่ละประเทศไม่เหมือนกัน: อเมริกา 911, อังกฤษ 999, ยุโรป 112, ออสเตรเลีย 000, ไทย 191/1669 — โทรได้แม้ไม่มีซิมหรือเครดิต",
+      "distractors": [
+        "phone number",
+        "emergency exit",
+        "room number"
+      ]
+    },
+    {
+      "id": "call_for_help",
+      "word": "call for help",
+      "pos": "phrase",
+      "ipa": "/ˌkɔːl fər ˈhelp/",
+      "reading_th": "คอล ฟอร์ เฮลพ์",
+      "meaning_th": "ร้องขอความช่วยเหลือ",
+      "emoji": "🆘",
+      "example_en": "If you see someone collapse, call for help immediately.",
+      "example_th": "ถ้าเห็นใครล้มหมดสติ ให้ร้องขอความช่วยเหลือทันที",
+      "cefr": "A2",
+      "note_th": "call for help = ตะโกนหรือโทรขอความช่วยเหลือ — ตะโกนว่า \"Help!\" หรือ \"Somebody call an ambulance!\" ในที่สาธารณะชี้ไปที่คนหนึ่งคนจะได้ผลกว่าพูดลอยๆ",
+      "distractors": [
+        "ask for",
+        "call back",
+        "help out"
+      ]
+    },
+    {
+      "id": "operator",
+      "word": "operator",
+      "pos": "noun",
+      "ipa": "/ˈɑːpəreɪtər/",
+      "reading_th": "ออ-เพอ-เร-เตอร์",
+      "meaning_th": "เจ้าหน้าที่รับสาย",
+      "emoji": "🎧",
+      "example_en": "The operator asked which service I needed: police, fire or ambulance.",
+      "example_th": "เจ้าหน้าที่รับสายถามว่าฉันต้องการบริการไหน ตำรวจ ดับเพลิง หรือรถพยาบาล",
+      "cefr": "B1",
+      "note_th": "operator = คนรับสายฉุกเฉิน (อเมริกาเรียก dispatcher ด้วย) คำถามแรกที่ได้ยินเสมอคือ \"What's your emergency?\" และ \"Which service do you need?\" — ตอบสั้นๆ ชัดๆ",
+      "distractors": [
+        "operation",
+        "cooperate",
+        "opera"
+      ]
+    },
+    {
+      "id": "hotline",
+      "word": "hotline",
+      "pos": "noun",
+      "ipa": "/ˈhɑːtlaɪn/",
+      "reading_th": "ฮอท-ไลน์",
+      "meaning_th": "สายด่วน",
+      "emoji": "☎️",
+      "example_en": "The embassy has a 24-hour hotline for Thai citizens.",
+      "example_th": "สถานทูตมีสายด่วนยี่สิบสี่ชั่วโมงสำหรับคนไทย",
+      "cefr": "B1",
+      "note_th": "hotline = สายด่วนเฉพาะเรื่อง (ไม่ใช่เบอร์ฉุกเฉินหลัก) เช่น mental health hotline, tourist hotline — สายด่วนสถานทูตไทยช่วยเรื่องพาสปอร์ตหายและถูกจับ",
+      "distractors": [
+        "headline",
+        "hot",
+        "online"
+      ]
+    },
+    {
+      "id": "stay_calm",
+      "word": "stay calm",
+      "pos": "phrase",
+      "ipa": "/ˌsteɪ ˈkɑːm/",
+      "reading_th": "สเตย์ คาล์ม",
+      "meaning_th": "ใจเย็นไว้ / ตั้งสติ",
+      "emoji": "🧘",
+      "example_en": "Stay calm and tell me exactly what happened.",
+      "example_th": "ตั้งสติแล้วบอกฉันว่าเกิดอะไรขึ้นกันแน่",
+      "cefr": "A2",
+      "note_th": "stay calm / keep calm = ตั้งสติ (calm ตัว l ไม่ออกเสียง อ่าน \"คาม\") — เจ้าหน้าที่จะพูดว่า \"Stay calm, help is on the way\" = ใจเย็น ความช่วยเหลือกำลังมา",
+      "distractors": [
+        "stay cool",
+        "calm down",
+        "stay home"
+      ]
+    },
+    {
+      "id": "stay_on_the_line",
+      "word": "stay on the line",
+      "pos": "phrase",
+      "ipa": "/ˌsteɪ ɑːn ðə ˈlaɪn/",
+      "reading_th": "สเตย์ ออน เดอะ ไลน์",
+      "meaning_th": "ถือสายรอ อย่าวางสาย",
+      "emoji": "📲",
+      "example_en": "Please stay on the line until the ambulance arrives.",
+      "example_th": "กรุณาถือสายไว้จนกว่ารถพยาบาลจะมาถึง",
+      "cefr": "B1",
+      "note_th": "stay on the line = อย่าวางสาย เจ้าหน้าที่จะบอกวิธีปฐมพยาบาลระหว่างรอ — ตรงข้ามคือ hang up = วางสาย อย่าวางจนกว่าเขาจะบอกให้วาง",
+      "distractors": [
+        "hang up",
+        "hold on",
+        "on the way"
+      ]
+    },
+    {
+      "id": "location",
+      "word": "location",
+      "pos": "noun",
+      "ipa": "/loʊˈkeɪʃn/",
+      "reading_th": "โล-เค-ชั่น",
+      "meaning_th": "ตำแหน่งที่อยู่ (ตอนนี้)",
+      "emoji": "📍",
+      "example_en": "Tell the operator your exact location first.",
+      "example_th": "บอกตำแหน่งที่อยู่ของคุณให้เจ้าหน้าที่ก่อนเป็นอย่างแรก",
+      "cefr": "A2",
+      "note_th": "location = จุดที่คุณอยู่ตอนนี้ สิ่งแรกที่ต้องบอกเวลาโทรฉุกเฉิน — ไม่รู้ที่อยู่? บอกชื่อถนน ร้านใกล้ๆ หรือแชร์ location จากมือถือ (share my location)",
+      "distractors": [
+        "vacation",
+        "local",
+        "allocation"
+      ]
+    },
+    {
+      "id": "emergency_contact",
+      "word": "emergency contact",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːrdʒənsi ˌkɑːntækt/",
+      "reading_th": "อิ-เมอร์-เจิน-ซี คอน-แทคท์",
+      "meaning_th": "ผู้ติดต่อกรณีฉุกเฉิน",
+      "emoji": "👨‍👩‍👧",
+      "example_en": "Who is your emergency contact in this country?",
+      "example_th": "ผู้ติดต่อกรณีฉุกเฉินของคุณในประเทศนี้คือใคร",
+      "cefr": "B1",
+      "note_th": "emergency contact = คนที่โรงพยาบาล/นายจ้างจะโทรหาถ้าคุณเกิดเหตุ — ใส่ไว้ในมือถือ (iPhone: Medical ID, Android: Emergency information) เจ้าหน้าที่เปิดดูได้แม้ล็อกหน้าจอ",
+      "distractors": [
+        "eye contact",
+        "contact lens",
+        "emergency exit"
+      ]
+    },
+    {
+      "id": "describe",
+      "word": "describe",
+      "pos": "verb",
+      "ipa": "/dɪˈskraɪb/",
+      "reading_th": "ดิ-สไครบ์",
+      "meaning_th": "บรรยาย / อธิบายลักษณะ",
+      "emoji": "🗣️",
+      "example_en": "Can you describe the man who took your bag?",
+      "example_th": "คุณบรรยายลักษณะผู้ชายที่เอากระเป๋าคุณไปได้ไหม",
+      "cefr": "A2",
+      "note_th": "describe = บอกลักษณะ (describe the person/the pain/what happened) คำนาม description — ตำรวจและหมอจะขอให้ describe เสมอ ฝึกคำบอกความสูง สีผม เสื้อผ้า และระดับความเจ็บ 1–10",
+      "distractors": [
+        "prescribe",
+        "subscribe",
+        "decide"
+      ]
+    },
+    {
+      "id": "rescue",
+      "word": "rescue",
+      "pos": "verb",
+      "ipa": "/ˈreskjuː/",
+      "reading_th": "เรส-คิว",
+      "meaning_th": "ช่วยชีวิต / กู้ภัย",
+      "emoji": "🚁",
+      "example_en": "Firefighters had to rescue two people from the roof.",
+      "example_th": "นักดับเพลิงต้องช่วยคนสองคนออกจากหลังคา",
+      "cefr": "B1",
+      "note_th": "rescue = ช่วยคนออกจากอันตราย (ต่างจาก help ที่ช่วยทั่วไป) ใช้เป็นคำนามได้: rescue team = ทีมกู้ภัย, mountain rescue = กู้ภัยบนเขา — ประกันเดินทางบางฉบับไม่รวมค่า helicopter rescue",
+      "distractors": [
+        "rescuer",
+        "resume",
+        "risk"
+      ]
+    },
+    {
+      "id": "victim",
+      "word": "victim",
+      "pos": "noun",
+      "ipa": "/ˈvɪktɪm/",
+      "reading_th": "วิค-ทิม",
+      "meaning_th": "ผู้ประสบเหตุ / เหยื่อ",
+      "emoji": "🤕",
+      "example_en": "The victim was conscious and able to speak to paramedics.",
+      "example_th": "ผู้ประสบเหตุยังรู้สึกตัวและพูดคุยกับหน่วยกู้ชีพได้",
+      "cefr": "B1",
+      "note_th": "victim = ผู้ประสบเหตุหรือเหยื่อ (ของอุบัติเหตุ อาชญากรรม ภัยพิบัติ) — victim of a scam = เหยื่อมิจฉาชีพ ส่วน casualty = ผู้บาดเจ็บ/เสียชีวิตในข่าว",
+      "distractors": [
+        "victory",
+        "vitamin",
+        "witness"
+      ]
+    },
+    {
+      "id": "unconscious",
+      "word": "unconscious",
+      "pos": "adjective",
+      "ipa": "/ʌnˈkɑːnʃəs/",
+      "reading_th": "อัน-คอน-เชิส",
+      "meaning_th": "หมดสติ",
+      "emoji": "😵",
+      "example_en": "She was unconscious for a few minutes after the fall.",
+      "example_th": "เธอหมดสติไปสองสามนาทีหลังจากล้ม",
+      "cefr": "B1",
+      "note_th": "unconscious = หมดสติ ไม่ตอบสนอง (ตรงข้าม conscious = รู้สึกตัว) — บอกเจ้าหน้าที่ว่า \"He's unconscious but breathing\" คือข้อมูลสำคัญที่สุดสองอย่าง",
+      "distractors": [
+        "conscious",
+        "unconvinced",
+        "anxious"
+      ]
+    },
+    {
+      "id": "breathing",
+      "word": "breathing",
+      "pos": "noun",
+      "ipa": "/ˈbriːðɪŋ/",
+      "reading_th": "บรี-ธิ่ง",
+      "meaning_th": "การหายใจ",
+      "emoji": "🫁",
+      "example_en": "Check his breathing while I call an ambulance.",
+      "example_th": "เช็กการหายใจของเขาระหว่างที่ฉันโทรเรียกรถพยาบาล",
+      "cefr": "A2",
+      "note_th": "breathing = การหายใจ (breathe กริยา ออกเสียง ธ ยาว, breath คำนาม สั้น) — \"Is he breathing?\" คือคำถามที่เจ้าหน้าที่ถามเป็นข้อแรกๆ ตอบว่า yes / no / barely (แผ่วมาก)",
+      "distractors": [
+        "breath",
+        "breeding",
+        "bleeding"
+      ]
+    },
+    {
+      "id": "panic",
+      "word": "panic",
+      "pos": "verb",
+      "ipa": "/ˈpænɪk/",
+      "reading_th": "แพ-นิค",
+      "meaning_th": "ตื่นตระหนก",
+      "emoji": "😱",
+      "example_en": "Do not panic, the fire is small and under control.",
+      "example_th": "อย่าตื่นตระหนก ไฟยังเล็กและควบคุมได้",
+      "cefr": "B1",
+      "note_th": "panic เป็นทั้งคำนามและกริยา (past tense: panicked มี k) — panic attack = อาการแพนิก, panic button = ปุ่มฉุกเฉิน อย่าใช้ panic กับเรื่องเล็กน้อยเพราะฟังดูรุนแรง",
+      "distractors": [
+        "picnic",
+        "pain",
+        "manic"
+      ]
+    },
+    {
+      "id": "slip",
+      "word": "slip",
+      "pos": "verb",
+      "ipa": "/slɪp/",
+      "reading_th": "สลิป",
+      "meaning_th": "ลื่นล้ม",
+      "emoji": "🧊",
+      "example_en": "Be careful, it is easy to slip on the icy steps.",
+      "example_th": "ระวังนะ บันไดมีน้ำแข็งลื่นล้มง่าย",
+      "cefr": "A2",
+      "note_th": "slip = ลื่น (บนน้ำ น้ำแข็ง พื้นเปียก) ต่างจาก trip = สะดุด — คนไทยไปเมืองหนาวครั้งแรกลื่นบนน้ำแข็งแทบทุกคน รองเท้าต้องมีพื้นยางกันลื่น (grip)",
+      "distractors": [
+        "sleep",
+        "slide",
+        "ship"
+      ]
+    },
+    {
+      "id": "trip_over",
+      "word": "trip over",
+      "pos": "phrase",
+      "ipa": "/ˌtrɪp ˈoʊvər/",
+      "reading_th": "ทริป โอ-เวอร์",
+      "meaning_th": "สะดุดล้ม",
+      "emoji": "🤸",
+      "example_en": "I always trip over the cables under my desk.",
+      "example_th": "ฉันสะดุดสายไฟใต้โต๊ะล้มอยู่เรื่อย",
+      "cefr": "A2",
+      "note_th": "trip over something = สะดุดสิ่งนั้นล้ม (ไม่เกี่ยวกับ trip ที่แปลว่าทริปเที่ยว) — trip hazard = สิ่งที่เสี่ยงทำให้สะดุด เป็นคำที่เจอในป้ายเตือนที่ทำงาน",
+      "distractors": [
+        "fall over",
+        "trip",
+        "take over"
+      ]
+    },
+    {
+      "id": "fracture",
+      "word": "fracture",
+      "pos": "noun",
+      "ipa": "/ˈfræktʃər/",
+      "reading_th": "แฟรค-เชอร์",
+      "meaning_th": "กระดูกหัก / ร้าว",
+      "emoji": "🦴",
+      "example_en": "The X-ray showed a small fracture in her wrist.",
+      "example_th": "ผลเอกซเรย์พบว่าข้อมือของเธอมีรอยกระดูกร้าวเล็กน้อย",
+      "cefr": "B1",
+      "note_th": "fracture = กระดูกหักหรือร้าว (ศัพท์แพทย์) ภาษาพูดบอกว่า I think it's broken ก็พอ — hairline fracture = ร้าวเส้นผม อย่าขยับส่วนที่สงสัยว่าหักจนกว่าจะได้ตรวจ",
+      "distractors": [
+        "fraction",
+        "furniture",
+        "feature"
+      ]
+    },
+    {
+      "id": "concussion",
+      "word": "concussion",
+      "pos": "noun",
+      "ipa": "/kənˈkʌʃn/",
+      "reading_th": "คอน-คัช-ชั่น",
+      "meaning_th": "อาการสมองกระทบกระเทือน",
+      "emoji": "🧠",
+      "example_en": "After hitting his head, he was checked for a concussion.",
+      "example_th": "หลังหัวกระแทก เขาถูกตรวจดูว่ามีอาการสมองกระทบกระเทือนหรือไม่",
+      "cefr": "B2",
+      "note_th": "concussion = สมองกระทบกระเทือนจากหัวกระแทก อาการคือ มึน อาเจียน จำไม่ได้ — ล้มหัวกระแทกตอนเล่นสกีหรือขี่จักรยานต้องให้หมอดู แม้จะรู้สึกโอเค",
+      "distractors": [
+        "conclusion",
+        "confusion",
+        "discussion"
+      ]
+    },
+    {
+      "id": "choke",
+      "word": "choke",
+      "pos": "verb",
+      "ipa": "/tʃoʊk/",
+      "reading_th": "โชค",
+      "meaning_th": "สำลัก / อาหารติดคอ",
+      "emoji": "😮",
+      "example_en": "He started to choke on a piece of steak.",
+      "example_th": "เขาเริ่มสำลักเพราะสเต๊กชิ้นหนึ่งติดคอ",
+      "cefr": "B1",
+      "note_th": "choke on something = สำลักหรือมีของติดคอหายใจไม่ได้ (อันตราย) — ต่างจาก cough = ไอ สัญญาณสากลคือเอามือกุมคอ วิธีช่วยคือ Heimlich maneuver หรือ back blows",
+      "distractors": [
+        "chalk",
+        "cheek",
+        "joke"
+      ]
+    },
+    {
+      "id": "faint",
+      "word": "faint",
+      "pos": "verb",
+      "ipa": "/feɪnt/",
+      "reading_th": "เฟนท์",
+      "meaning_th": "เป็นลม",
+      "emoji": "💫",
+      "example_en": "She felt dizzy and nearly fainted in the heat.",
+      "example_th": "เธอรู้สึกมึนและเกือบเป็นลมเพราะอากาศร้อน",
+      "cefr": "B1",
+      "note_th": "faint = เป็นลมชั่วครู่ (ภาษาพูด pass out) ต่างจาก unconscious ที่หมดสตินาน — ถ้ารู้สึกจะเป็นลมให้พูดว่า \"I feel faint\" แล้วนั่งลงก่อนล้ม",
+      "distractors": [
+        "paint",
+        "feint",
+        "fade"
+      ]
+    },
+    {
+      "id": "cpr",
+      "word": "CPR",
+      "pos": "noun",
+      "ipa": "/ˌsiːpiːˈɑːr/",
+      "reading_th": "ซี-พี-อาร์",
+      "meaning_th": "การปั๊มหัวใจช่วยชีวิต",
+      "emoji": "❤️‍🩹",
+      "example_en": "A stranger performed CPR until the paramedics arrived.",
+      "example_th": "คนแปลกหน้าปั๊มหัวใจช่วยชีวิตจนกว่าหน่วยกู้ชีพจะมาถึง",
+      "cefr": "B1",
+      "note_th": "CPR = cardiopulmonary resuscitation ปั๊มหัวใจ+ผายปอด ใช้กริยา perform/do/give CPR — เครื่องช็อกหัวใจอัตโนมัติตามห้างและสนามบินเรียก AED คนทั่วไปใช้ได้ เครื่องพูดบอกขั้นตอน",
+      "distractors": [
+        "AED",
+        "CV",
+        "CPU"
+      ]
+    },
+    {
+      "id": "electric_shock",
+      "word": "electric shock",
+      "pos": "noun",
+      "ipa": "/ɪˌlektrɪk ˈʃɑːk/",
+      "reading_th": "อิ-เล็ค-ทริค ช็อค",
+      "meaning_th": "ไฟดูด",
+      "emoji": "⚡",
+      "example_en": "He got an electric shock from the broken kettle.",
+      "example_th": "เขาโดนไฟดูดจากกาน้ำร้อนที่เสีย",
+      "cefr": "B1",
+      "note_th": "get an electric shock = โดนไฟดูด (ไม่ใช่ \"electric suck\"!) — ก่อนช่วยคนโดนไฟดูดต้องตัดไฟหรือใช้ของไม่นำไฟฟ้าเขี่ยสายออก ห้ามแตะตัวโดยตรง",
+      "distractors": [
+        "shock",
+        "electric",
+        "short circuit"
+      ]
+    },
+    {
+      "id": "sting",
+      "word": "sting",
+      "pos": "noun",
+      "ipa": "/stɪŋ/",
+      "reading_th": "สติง",
+      "meaning_th": "การถูกต่อย (แมลง/แมงกะพรุน)",
+      "emoji": "🐝",
+      "example_en": "A bee sting can be dangerous if you are allergic.",
+      "example_th": "ผึ้งต่อยอาจอันตรายถ้าคุณแพ้",
+      "cefr": "B1",
+      "note_th": "sting = ต่อยด้วยเหล็กใน (ผึ้ง ต่อ แมงกะพรุน แมงป่อง) ใช้เป็นกริยาได้ (stung) — ถ้าหายใจลำบากหรือหน้าบวมหลังโดนต่อยคือ anaphylaxis ต้องโทรฉุกเฉินทันที",
+      "distractors": [
+        "string",
+        "sing",
+        "stink"
+      ]
+    },
+    {
+      "id": "poisoning",
+      "word": "poisoning",
+      "pos": "noun",
+      "ipa": "/ˈpɔɪzənɪŋ/",
+      "reading_th": "พอย-เซิน-นิ่ง",
+      "meaning_th": "ภาวะเป็นพิษ / อาหารเป็นพิษ",
+      "emoji": "☠️",
+      "example_en": "Three guests were treated for food poisoning after the party.",
+      "example_th": "แขกสามคนได้รับการรักษาอาการอาหารเป็นพิษหลังงานปาร์ตี้",
+      "cefr": "B1",
+      "note_th": "food poisoning = อาหารเป็นพิษ, carbon monoxide poisoning = พิษจากแก๊สเครื่องทำความร้อน (ภัยเงียบในบ้านเมืองหนาว ติด CO detector ไว้) — poison คือสารพิษ poisonous คือมีพิษ",
+      "distractors": [
+        "poison",
+        "poisonous",
+        "prison"
+      ]
+    },
+    {
+      "id": "drown",
+      "word": "drown",
+      "pos": "verb",
+      "ipa": "/draʊn/",
+      "reading_th": "ดราวน์",
+      "meaning_th": "จมน้ำ",
+      "emoji": "🌊",
+      "example_en": "Strong currents here can drown even good swimmers.",
+      "example_th": "กระแสน้ำแรงที่นี่ทำให้แม้แต่คนว่ายน้ำเก่งจมน้ำได้",
+      "cefr": "B1",
+      "note_th": "drown = จมน้ำเสียชีวิต (คนที่เกือบจมเรียก nearly drowned) — ธงแดงบนชายหาด = ห้ามลงเล่น rip current คือกระแสน้ำดูดออกทะเล ว่ายขนานฝั่งไม่ใช่สู้กลับ",
+      "distractors": [
+        "drawn",
+        "down",
+        "drain"
+      ]
+    },
+    {
+      "id": "collision",
+      "word": "collision",
+      "pos": "noun",
+      "ipa": "/kəˈlɪʒn/",
+      "reading_th": "คะ-ลิ-ชั่น",
+      "meaning_th": "การชนกัน (ของยานพาหนะ)",
+      "emoji": "🚗",
+      "example_en": "Nobody was badly hurt in the collision on the motorway.",
+      "example_th": "ไม่มีใครบาดเจ็บสาหัสในเหตุรถชนกันบนทางด่วน",
+      "cefr": "B1",
+      "note_th": "collision = การชนกันของรถสองคัน (กริยา collide) เป็นคำทางการที่ตำรวจและประกันใช้ ส่วนภาษาพูดคือ crash — เกิดเหตุต้องแลกข้อมูลประกัน ถ่ายรูป และห้ามขับหนี (hit and run เป็นคดีอาญา)",
+      "distractors": [
+        "collection",
+        "decision",
+        "coalition"
+      ]
+    },
+    {
+      "id": "scald",
+      "word": "scald",
+      "pos": "verb",
+      "ipa": "/skɔːld/",
+      "reading_th": "สคอลด์",
+      "meaning_th": "ลวก (น้ำร้อน/ไอน้ำ)",
+      "emoji": "♨️",
+      "example_en": "Let the soup cool or you will scald your mouth.",
+      "example_th": "ปล่อยให้ซุปเย็นก่อน ไม่งั้นจะลวกปาก",
+      "cefr": "B2",
+      "note_th": "scald = ลวกด้วยของเหลวหรือไอน้ำร้อน (ต่างจาก burn ที่โดนไฟหรือของร้อนแห้ง) — ปฐมพยาบาลเหมือนกัน: น้ำเย็นไหลผ่าน 20 นาที ห้ามใช้ยาสีฟันหรือน้ำแข็ง",
+      "distractors": [
+        "scold",
+        "scale",
+        "scar"
+      ]
+    },
+    {
+      "id": "heatstroke",
+      "word": "heatstroke",
+      "pos": "noun",
+      "ipa": "/ˈhiːtstroʊk/",
+      "reading_th": "ฮีท-สโตรค",
+      "meaning_th": "โรคลมแดด / ฮีทสโตรก",
+      "emoji": "🥵",
+      "example_en": "Two runners were taken to hospital with heatstroke.",
+      "example_th": "นักวิ่งสองคนถูกนำส่งโรงพยาบาลด้วยอาการฮีทสโตรก",
+      "cefr": "B1",
+      "note_th": "heatstroke = ร่างกายร้อนเกิน 40°C จนสมองทำงานผิดปกติ อันตรายถึงชีวิต (heat exhaustion = ขั้นก่อนหน้าที่ยังเหงื่อออก) — ยุโรปหน้าร้อนไม่มีแอร์ ผู้สูงอายุเสียชีวิตจากฮีทสโตรกทุกปี",
+      "distractors": [
+        "stroke",
+        "heart attack",
+        "sunstroke"
+      ]
+    },
+    {
+      "id": "fire_alarm",
+      "word": "fire alarm",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər əˌlɑːrm/",
+      "reading_th": "ไฟ-เออร์ อะ-ลาร์ม",
+      "meaning_th": "สัญญาณเตือนไฟไหม้",
+      "emoji": "🚨",
+      "example_en": "When the fire alarm goes off, leave the building at once.",
+      "example_th": "เมื่อสัญญาณเตือนไฟไหม้ดัง ให้ออกจากตึกทันที",
+      "cefr": "A2",
+      "note_th": "the fire alarm goes off = สัญญาณดัง (go off ไม่ได้แปลว่าปิด!) — หอพักต่างประเทศซ้อมบ่อยและเตือนจริงเวลาเพื่อนปิ้งขนมปังไหม้ ทุกครั้งต้องออกไปข้างนอก แม้ตีสาม",
+      "distractors": [
+        "alarm clock",
+        "fire drill",
+        "car alarm"
+      ]
+    },
+    {
+      "id": "smoke",
+      "word": "smoke",
+      "pos": "noun",
+      "ipa": "/smoʊk/",
+      "reading_th": "สโมค",
+      "meaning_th": "ควันไฟ",
+      "emoji": "💨",
+      "example_en": "Thick smoke was coming from under the kitchen door.",
+      "example_th": "ควันหนาทึบลอยออกมาจากใต้ประตูห้องครัว",
+      "cefr": "A2",
+      "note_th": "smoke = ควัน (นามนับไม่ได้) ส่วน smoke เป็นกริยา = สูบบุหรี่ — ควันอันตรายกว่าไฟ ถ้ามีควันให้ก้มต่ำและใช้ผ้าชุบน้ำปิดจมูก ป้ายบอกว่า \"smoke inhalation\" คือการสูดควัน",
+      "distractors": [
+        "smog",
+        "stroke",
+        "smoky"
+      ]
+    },
+    {
+      "id": "fire_extinguisher",
+      "word": "fire extinguisher",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər ɪkˌstɪŋɡwɪʃər/",
+      "reading_th": "ไฟ-เออร์ อิค-สติง-กวิช-เชอร์",
+      "meaning_th": "ถังดับเพลิง",
+      "emoji": "🧯",
+      "example_en": "There is a fire extinguisher at the end of every corridor.",
+      "example_th": "มีถังดับเพลิงอยู่ที่สุดทางเดินทุกชั้น",
+      "cefr": "B1",
+      "note_th": "fire extinguisher = ถังดับเพลิง (extinguish = ดับไฟ) ใช้สูตร PASS: Pull ดึงสลัก, Aim เล็งโคนไฟ, Squeeze บีบ, Sweep ส่ายซ้ายขวา — ไฟใหญ่กว่าถังขยะอย่าสู้ ให้หนี",
+      "distractors": [
+        "fire engine",
+        "extinct",
+        "distinguisher"
+      ]
+    },
+    {
+      "id": "fire_exit",
+      "word": "fire exit",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər ˌeksɪt/",
+      "reading_th": "ไฟ-เออร์ เอ็ก-ซิท",
+      "meaning_th": "ทางหนีไฟ",
+      "emoji": "🚪",
+      "example_en": "Find the nearest fire exit when you check in to a hotel.",
+      "example_th": "หาทางหนีไฟที่ใกล้ที่สุดทันทีที่เช็กอินโรงแรม",
+      "cefr": "A2",
+      "note_th": "fire exit / emergency exit = ประตูหนีไฟ ป้ายสีเขียวคนวิ่ง — ห้ามใช้ลิฟต์ตอนไฟไหม้ (Do not use the lift in case of fire) ให้ใช้บันไดหนีไฟเท่านั้น",
+      "distractors": [
+        "fire escape",
+        "exit",
+        "entrance"
+      ]
+    },
+    {
+      "id": "evacuate",
+      "word": "evacuate",
+      "pos": "verb",
+      "ipa": "/ɪˈvækjueɪt/",
+      "reading_th": "อิ-แว-คิว-เอท",
+      "meaning_th": "อพยพออกจากพื้นที่",
+      "emoji": "🏃",
+      "example_en": "Police asked everyone to evacuate the shopping centre.",
+      "example_th": "ตำรวจขอให้ทุกคนอพยพออกจากห้าง",
+      "cefr": "B1",
+      "note_th": "evacuate = อพยพออกจากที่อันตราย (ไฟไหม้ ระเบิด น้ำท่วม) คำนาม evacuation — คำสั่งคือ \"Please evacuate the building immediately\" เดินเร็วแต่ห้ามวิ่ง ทิ้งของไว้",
+      "distractors": [
+        "vacate",
+        "evaluate",
+        "vacuum"
+      ]
+    },
+    {
+      "id": "assembly_point",
+      "word": "assembly point",
+      "pos": "noun",
+      "ipa": "/əˈsembli pɔɪnt/",
+      "reading_th": "อะ-เซม-บลี พอยท์",
+      "meaning_th": "จุดรวมพล",
+      "emoji": "🟢",
+      "example_en": "Our assembly point is the car park across the road.",
+      "example_th": "จุดรวมพลของเราคือลานจอดรถฝั่งตรงข้ามถนน",
+      "cefr": "B1",
+      "note_th": "assembly point (อังกฤษ) / muster point = จุดรวมพลหลังอพยพ มีป้ายสีเขียวรูปคนสี่คน — ต้องไปให้ถึงเพื่อนับคน ถ้าหายไปนักดับเพลิงจะเข้าไปหาคุณในตึก",
+      "distractors": [
+        "meeting point",
+        "assembly",
+        "assembly line"
+      ]
+    },
+    {
+      "id": "fire_drill",
+      "word": "fire drill",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər drɪl/",
+      "reading_th": "ไฟ-เออร์ ดริล",
+      "meaning_th": "การซ้อมหนีไฟ",
+      "emoji": "📣",
+      "example_en": "We have a fire drill at work twice a year.",
+      "example_th": "ที่ทำงานเราซ้อมหนีไฟปีละสองครั้ง",
+      "cefr": "B1",
+      "note_th": "fire drill = การซ้อมหนีไฟ (drill = การฝึกซ้ำๆ) — ที่ทำงานและหอพักต่างประเทศบังคับทำ ถ้าไม่แน่ใจว่าซ้อมหรือจริง ให้ถือว่าจริงเสมอ",
+      "distractors": [
+        "drill",
+        "fire alarm",
+        "practice"
+      ]
+    },
+    {
+      "id": "smoke_detector",
+      "word": "smoke detector",
+      "pos": "noun",
+      "ipa": "/ˈsmoʊk dɪˌtektər/",
+      "reading_th": "สโมค ดิ-เท็ค-เตอร์",
+      "meaning_th": "เครื่องตรวจจับควัน",
+      "emoji": "🔔",
+      "example_en": "Never cover the smoke detector in your room.",
+      "example_th": "ห้ามเอาอะไรมาปิดเครื่องตรวจจับควันในห้องเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "smoke detector / smoke alarm = เครื่องตรวจจับควันบนเพดาน ร้องตอนทำอาหารบ่อยๆ ให้เปิดหน้าต่างและพัด ห้ามถอดแบตเตอรี่ — ถ้าร้องเตือนแบตหมดจะดัง \"ปี๊บ\" ทุกนาที",
+      "distractors": [
+        "metal detector",
+        "smoke",
+        "lie detector"
+      ]
+    },
+    {
+      "id": "firefighter",
+      "word": "firefighter",
+      "pos": "noun",
+      "ipa": "/ˈfaɪərfaɪtər/",
+      "reading_th": "ไฟ-เออร์-ไฟ-เทอร์",
+      "meaning_th": "นักดับเพลิง",
+      "emoji": "🧑‍🚒",
+      "example_en": "A firefighter carried the child down the ladder.",
+      "example_th": "นักดับเพลิงอุ้มเด็กลงมาทางบันได",
+      "cefr": "A2",
+      "note_th": "firefighter = นักดับเพลิง (คำกลางที่ใช้แทน fireman ในปัจจุบัน) หน่วยเรียก fire department (อเมริกา) หรือ fire brigade (อังกฤษ) — ในหลายประเทศนักดับเพลิงมาช่วยอุบัติเหตุด้วย ไม่ใช่แค่ไฟไหม้",
+      "distractors": [
+        "fighter",
+        "fireman",
+        "freighter"
+      ]
+    },
+    {
+      "id": "fire_truck",
+      "word": "fire truck",
+      "pos": "noun",
+      "ipa": "/ˈfaɪər trʌk/",
+      "reading_th": "ไฟ-เออร์ ทรัค",
+      "meaning_th": "รถดับเพลิง",
+      "emoji": "🚒",
+      "example_en": "Pull over when you hear a fire truck behind you.",
+      "example_th": "จอดชิดข้างทางเมื่อได้ยินเสียงรถดับเพลิงตามหลังมา",
+      "cefr": "A2",
+      "note_th": "fire truck (อเมริกา) / fire engine (อังกฤษ) = รถดับเพลิง — รถฉุกเฉินเปิดไซเรนมา กฎหมายทุกประเทศบังคับให้หลบ (pull over) ไม่หลบมีโทษปรับหนัก",
+      "distractors": [
+        "fire engine",
+        "tow truck",
+        "truck"
+      ]
+    },
+    {
+      "id": "flames",
+      "word": "flames",
+      "pos": "noun",
+      "ipa": "/fleɪmz/",
+      "reading_th": "เฟลมส์",
+      "meaning_th": "เปลวเพลิง",
+      "emoji": "🔥",
+      "example_en": "The flames spread to the curtains within seconds.",
+      "example_th": "เปลวไฟลามไปถึงผ้าม่านภายในไม่กี่วินาที",
+      "cefr": "B1",
+      "note_th": "flames = เปลวไฟที่เห็น (in flames = กำลังลุกไหม้, burst into flames = ลุกเป็นไฟขึ้นมาทันที) — ไฟน้ำมันในกระทะห้ามราดน้ำ ให้ปิดฝาหรือใช้ fire blanket",
+      "distractors": [
+        "frames",
+        "flags",
+        "flashes"
+      ]
+    },
+    {
+      "id": "stairwell",
+      "word": "stairwell",
+      "pos": "noun",
+      "ipa": "/ˈsterwel/",
+      "reading_th": "สแตร์-เวล",
+      "meaning_th": "ช่องบันไดหนีไฟ",
+      "emoji": "🪜",
+      "example_en": "Use the stairwell on the left and keep to the right side.",
+      "example_th": "ใช้ช่องบันไดทางซ้ายและเดินชิดขวา",
+      "cefr": "B2",
+      "note_th": "stairwell = ช่องบันไดที่กั้นไว้ในตึกสูง เป็นเส้นทางหนีไฟหลัก (fire stairs) — ประตูบันไดหนีไฟต้องปิดเสมอเพื่อกันควัน ห้ามเอาของมาค้ำไว้",
+      "distractors": [
+        "stairs",
+        "stairway",
+        "well"
+      ]
+    },
+    {
+      "id": "crawl",
+      "word": "crawl",
+      "pos": "verb",
+      "ipa": "/krɔːl/",
+      "reading_th": "ครอล",
+      "meaning_th": "คลาน",
+      "emoji": "🐢",
+      "example_en": "If there is smoke, crawl low along the floor to the exit.",
+      "example_th": "ถ้ามีควัน ให้คลานต่ำไปตามพื้นสู่ทางออก",
+      "cefr": "B1",
+      "note_th": "crawl = คลาน (เด็กทารกและคนหนีไฟ) — กฎหนีไฟ \"get low and go\" เพราะอากาศสะอาดอยู่ต่ำกว่าควัน crawl ยังแปลว่าท่าฟรีสไตล์ในการว่ายน้ำด้วย",
+      "distractors": [
+        "crow",
+        "call",
+        "claw"
+      ]
+    },
+    {
+      "id": "put_out",
+      "word": "put out",
+      "pos": "phrase",
+      "ipa": "/ˌpʊt ˈaʊt/",
+      "reading_th": "พุท เอาท์",
+      "meaning_th": "ดับไฟ",
+      "emoji": "💧",
+      "example_en": "They managed to put out the fire with a wet towel.",
+      "example_th": "พวกเขาดับไฟได้ด้วยผ้าขนหนูเปียก",
+      "cefr": "B1",
+      "note_th": "put out a fire/a cigarette = ดับไฟ/ดับบุหรี่ (ทางการคือ extinguish) — ระวังความหมายอื่น: put out ยังแปลว่าวางไว้ข้างนอกและทำให้ลำบากได้ ดูบริบท",
+      "distractors": [
+        "put off",
+        "put on",
+        "take out"
+      ]
+    },
+    {
+      "id": "police_station",
+      "word": "police station",
+      "pos": "noun",
+      "ipa": "/pəˈliːs ˌsteɪʃn/",
+      "reading_th": "โพ-ลีส สเต-ชั่น",
+      "meaning_th": "สถานีตำรวจ",
+      "emoji": "🏢",
+      "example_en": "You can report the theft at any police station in the city.",
+      "example_th": "คุณแจ้งความเรื่องถูกขโมยได้ที่สถานีตำรวจทุกแห่งในเมือง",
+      "cefr": "A2",
+      "note_th": "police station = สถานีตำรวจ (อเมริกาเรียก precinct ด้วย) — ไปแจ้งความให้พูดว่า \"I'd like to report a theft\" หลายประเทศแจ้งออนไลน์ได้เลยไม่ต้องไปสถานี",
+      "distractors": [
+        "train station",
+        "fire station",
+        "police"
+      ]
+    },
+    {
+      "id": "crime",
+      "word": "crime",
+      "pos": "noun",
+      "ipa": "/kraɪm/",
+      "reading_th": "ไครม์",
+      "meaning_th": "อาชญากรรม",
+      "emoji": "🚔",
+      "example_en": "Crime in this area is low, but keep your bag closed anyway.",
+      "example_th": "อาชญากรรมในย่านนี้มีน้อย แต่ปิดกระเป๋าให้ดีไว้ก่อน",
+      "cefr": "A2",
+      "note_th": "crime = อาชญากรรม (นับได้: a crime, นับไม่ได้: crime rate) commit a crime = ก่ออาชญากรรม — คนทำผิดเรียก criminal อ่าน \"คริ-มิ-เนิล\" ไม่ใช่ \"ไคร-มิ-นอล\"",
+      "distractors": [
+        "criminal",
+        "climb",
+        "cream"
+      ]
+    },
+    {
+      "id": "thief",
+      "word": "thief",
+      "pos": "noun",
+      "ipa": "/θiːf/",
+      "reading_th": "ธีฟ",
+      "meaning_th": "ขโมย (คน)",
+      "emoji": "🥷",
+      "example_en": "The thief grabbed her phone and ran into the crowd.",
+      "example_th": "ขโมยคว้าโทรศัพท์ของเธอแล้ววิ่งหายเข้าไปในฝูงชน",
+      "cefr": "A2",
+      "note_th": "thief = คนขโมย (พหูพจน์ thieves) ส่วนการขโมยคือ theft และกริยาคือ steal — ตะโกน \"Stop, thief!\" ได้ แต่อย่าวิ่งไล่เอง โทรแจ้งตำรวจปลอดภัยกว่า",
+      "distractors": [
+        "thieves",
+        "chief",
+        "theft"
+      ]
+    },
+    {
+      "id": "robbery",
+      "word": "robbery",
+      "pos": "noun",
+      "ipa": "/ˈrɑːbəri/",
+      "reading_th": "ร็อบ-เบอ-รี",
+      "meaning_th": "การปล้น / ชิงทรัพย์",
+      "emoji": "💰",
+      "example_en": "There was a robbery at the bank on the corner last night.",
+      "example_th": "เมื่อคืนมีการปล้นธนาคารตรงหัวมุมถนน",
+      "cefr": "B1",
+      "note_th": "robbery = ปล้นแบบมีการข่มขู่หรือใช้กำลังต่อหน้า (rob a bank/a person) ต่างจาก theft ที่แอบขโมย — ถูกปล้นให้ยอมให้ของไป ชีวิตสำคัญกว่าโทรศัพท์",
+      "distractors": [
+        "burglary",
+        "rubbery",
+        "bribery"
+      ]
+    },
+    {
+      "id": "burglary",
+      "word": "burglary",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrɡləri/",
+      "reading_th": "เบอร์-กละ-รี",
+      "meaning_th": "การงัดแงะบ้าน / ลักทรัพย์ในเคหสถาน",
+      "emoji": "🏠",
+      "example_en": "After the burglary, we changed every lock in the house.",
+      "example_th": "หลังโดนงัดบ้าน เราเปลี่ยนกลอนทุกบานในบ้าน",
+      "cefr": "B2",
+      "note_th": "burglary = บุกเข้าไปขโมยในบ้านหรืออาคาร (คนทำคือ burglar) — ประกันบ้านเช่า (contents insurance) จ่ายให้ถ้ามีหลักฐานการงัด เรียกตำรวจก่อนจัดของเพื่อเก็บหลักฐาน",
+      "distractors": [
+        "robbery",
+        "burger",
+        "bakery"
+      ]
+    },
+    {
+      "id": "bystander",
+      "word": "bystander",
+      "pos": "noun",
+      "ipa": "/ˈbaɪstændər/",
+      "reading_th": "บาย-สแตน-เดอร์",
+      "meaning_th": "คนที่อยู่ในเหตุการณ์ / ผู้เห็นเหตุการณ์",
+      "emoji": "🧍",
+      "example_en": "A bystander filmed the robbery and gave the video to police.",
+      "example_th": "คนที่อยู่ในเหตุการณ์ถ่ายคลิปการปล้นและมอบให้ตำรวจ",
+      "cefr": "B2",
+      "note_th": "bystander = คนที่บังเอิญอยู่ตรงนั้นและเห็นเหตุการณ์ (by = ข้างๆ, stand = ยืน) ส่วน witness คือพยานที่ให้การเป็นทางการ — innocent bystander = ผู้บริสุทธิ์ที่โดนลูกหลง ในข่าวเจอบ่อย",
+      "distractors": [
+        "bypass",
+        "standby",
+        "outsider"
+      ]
+    },
+    {
+      "id": "suspect",
+      "word": "suspect",
+      "pos": "noun",
+      "ipa": "/ˈsʌspekt/",
+      "reading_th": "ซัส-เพคท์",
+      "meaning_th": "ผู้ต้องสงสัย",
+      "emoji": "🕵️",
+      "example_en": "The suspect was wearing a grey hoodie and white trainers.",
+      "example_th": "ผู้ต้องสงสัยใส่ฮู้ดสีเทาและรองเท้าผ้าใบสีขาว",
+      "cefr": "B1",
+      "note_th": "suspect คำนาม (เน้นพยางค์แรก) = ผู้ต้องสงสัย, กริยา suspect (เน้นพยางค์หลัง) = สงสัย — ตำรวจใช้คำว่า suspect จนกว่าจะพิสูจน์ได้ว่าผิด ซึ่งจะกลายเป็น offender",
+      "distractors": [
+        "suspicious",
+        "respect",
+        "aspect"
+      ]
+    },
+    {
+      "id": "police_report",
+      "word": "police report",
+      "pos": "noun",
+      "ipa": "/pəˈliːs rɪˌpɔːrt/",
+      "reading_th": "โพ-ลีส ริ-พอร์ท",
+      "meaning_th": "ใบแจ้งความ / บันทึกประจำวัน",
+      "emoji": "📄",
+      "example_en": "The insurance company needs a police report before paying.",
+      "example_th": "บริษัทประกันต้องการใบแจ้งความก่อนจ่ายเงิน",
+      "cefr": "B1",
+      "note_th": "police report = เอกสารที่ตำรวจออกให้หลังแจ้งความ (อังกฤษเรียก crime reference number) — จำเป็นสำหรับเคลมประกันและขอพาสปอร์ตใหม่ ขอสำเนาไว้เสมอ",
+      "distractors": [
+        "report card",
+        "weather report",
+        "police"
+      ]
+    },
+    {
+      "id": "arrest",
+      "word": "arrest",
+      "pos": "verb",
+      "ipa": "/əˈrest/",
+      "reading_th": "อะ-เรสท์",
+      "meaning_th": "จับกุม",
+      "emoji": "🚓",
+      "example_en": "Police arrest dozens of pickpockets at the festival every year.",
+      "example_th": "ตำรวจจับกุมนักล้วงกระเป๋าหลายสิบคนที่งานเทศกาลทุกปี",
+      "cefr": "B1",
+      "note_th": "arrest = จับกุม (You're under arrest = คุณถูกจับแล้ว) — ถ้าถูกจับในต่างประเทศ มีสิทธิ์ขอทนายและขอติดต่อสถานทูตไทย พูดว่า \"I want to contact my embassy\"",
+      "distractors": [
+        "rest",
+        "arrive",
+        "assist"
+      ]
+    },
+    {
+      "id": "case_number",
+      "word": "case number",
+      "pos": "noun",
+      "ipa": "/ˈkeɪs ˌnʌmbər/",
+      "reading_th": "เคส นัม-เบอร์",
+      "meaning_th": "หมายเลขคดี",
+      "emoji": "🔢",
+      "example_en": "Write down the case number so you can follow up later.",
+      "example_th": "จดหมายเลขคดีไว้เพื่อติดตามเรื่องภายหลัง",
+      "cefr": "B1",
+      "note_th": "case number / reference number = เลขอ้างอิงที่ตำรวจให้หลังแจ้งความ ใช้ถามความคืบหน้าและยื่นประกัน — case ในที่นี้ = คดี เช่น the case is closed = ปิดคดีแล้ว",
+      "distractors": [
+        "phone number",
+        "case",
+        "serial number"
+      ]
+    },
+    {
+      "id": "break_in",
+      "word": "break in",
+      "pos": "phrase",
+      "ipa": "/ˌbreɪk ˈɪn/",
+      "reading_th": "เบรค อิน",
+      "meaning_th": "งัดเข้าไป (บ้าน/รถ)",
+      "emoji": "🪟",
+      "example_en": "Someone tried to break in through the kitchen window.",
+      "example_th": "มีคนพยายามงัดเข้าบ้านทางหน้าต่างห้องครัว",
+      "cefr": "B1",
+      "note_th": "break in / break into a house = งัดเข้าไป คำนามคือ break-in (มีขีด): there was a break-in — ต่างจาก break down (เสีย/พัง) และ break up (เลิกกัน) ที่คนไทยสับสนบ่อย",
+      "distractors": [
+        "break down",
+        "break up",
+        "break out"
+      ]
+    },
+    {
+      "id": "assault",
+      "word": "assault",
+      "pos": "noun",
+      "ipa": "/əˈsɔːlt/",
+      "reading_th": "อะ-ซอลท์",
+      "meaning_th": "การทำร้ายร่างกาย",
+      "emoji": "👊",
+      "example_en": "He was charged with assault after the fight outside the bar.",
+      "example_th": "เขาถูกตั้งข้อหาทำร้ายร่างกายหลังการทะเลาะวิวาทหน้าบาร์",
+      "cefr": "B2",
+      "note_th": "assault = ทำร้ายร่างกายหรือข่มขู่จะทำร้าย (ศัพท์กฎหมาย) sexual assault = ล่วงละเมิดทางเพศ — ถูกทำร้ายให้แจ้งความทันทีและไปโรงพยาบาลเพื่อเก็บหลักฐาน",
+      "distractors": [
+        "salt",
+        "insult",
+        "result"
+      ]
+    },
+    {
+      "id": "harassment",
+      "word": "harassment",
+      "pos": "noun",
+      "ipa": "/həˈræsmənt/",
+      "reading_th": "ฮะ-แรส-เมนท์",
+      "meaning_th": "การคุกคาม / ก่อกวน",
+      "emoji": "🚷",
+      "example_en": "Report any harassment on campus to security or the police.",
+      "example_th": "แจ้งการคุกคามใดๆ ในมหาวิทยาลัยกับฝ่ายรักษาความปลอดภัยหรือตำรวจ",
+      "cefr": "B2",
+      "note_th": "harassment = การก่อกวนซ้ำๆ ที่ทำให้กลัวหรือไม่สบายใจ (sexual/online/street harassment) กริยาคือ harass — ภาษาอังกฤษเน้นได้ทั้ง HA-rass และ ha-RASS ไม่ผิดทั้งคู่",
+      "distractors": [
+        "embarrassment",
+        "harass",
+        "management"
+      ]
+    },
+    {
+      "id": "cctv",
+      "word": "CCTV",
+      "pos": "noun",
+      "ipa": "/ˌsiːsiːtiːˈviː/",
+      "reading_th": "ซี-ซี-ที-วี",
+      "meaning_th": "กล้องวงจรปิด",
+      "emoji": "📹",
+      "example_en": "Ask the shop if their CCTV recorded the man who took your bag.",
+      "example_th": "ถามทางร้านว่ากล้องวงจรปิดบันทึกภาพผู้ชายที่เอากระเป๋าคุณไปไว้ไหม",
+      "cefr": "B1",
+      "note_th": "CCTV = closed-circuit television กล้องวงจรปิด (อเมริกาพูดว่า security camera มากกว่า) — อังกฤษมีกล้องเยอะที่สุดในโลก ของหายให้รีบขอภาพภายใน 2–3 วันก่อนถูกลบ",
+      "distractors": [
+        "TV",
+        "CV",
+        "DVD"
+      ]
+    },
+    {
+      "id": "disaster",
+      "word": "disaster",
+      "pos": "noun",
+      "ipa": "/dɪˈzæstər/",
+      "reading_th": "ดิ-แซส-เตอร์",
+      "meaning_th": "ภัยพิบัติ",
+      "emoji": "🌋",
+      "example_en": "The government declared the flood a national disaster.",
+      "example_th": "รัฐบาลประกาศให้น้ำท่วมครั้งนี้เป็นภัยพิบัติระดับชาติ",
+      "cefr": "B1",
+      "note_th": "natural disaster = ภัยธรรมชาติ, disaster area = พื้นที่ประสบภัย — ภาษาพูดใช้เกินจริงได้ เช่น the party was a disaster = งานพังมาก ส่วนคำคุณศัพท์คือ disastrous",
+      "distractors": [
+        "desert",
+        "dessert",
+        "distance"
+      ]
+    },
+    {
+      "id": "aftershock",
+      "word": "aftershock",
+      "pos": "noun",
+      "ipa": "/ˈæftərʃɑːk/",
+      "reading_th": "อาฟ-เตอร์-ช็อค",
+      "meaning_th": "แผ่นดินไหวตาม",
+      "emoji": "〰️",
+      "example_en": "Stay outside, there may be an aftershock in the next hour.",
+      "example_th": "อยู่ข้างนอกไว้ อาจมีแผ่นดินไหวตามมาในชั่วโมงถัดไป",
+      "cefr": "B2",
+      "note_th": "aftershock = แผ่นดินไหวเล็กที่ตามหลังครั้งใหญ่ อาจเกิดได้หลายวัน — ญี่ปุ่น ไต้หวัน ตุรกี มีบ่อย หลังไหวใหญ่อย่ารีบกลับเข้าตึกที่ร้าว",
+      "distractors": [
+        "shock",
+        "afternoon",
+        "after all"
+      ]
+    },
+    {
+      "id": "tremor",
+      "word": "tremor",
+      "pos": "noun",
+      "ipa": "/ˈtremər/",
+      "reading_th": "เทร-เมอร์",
+      "meaning_th": "แรงสั่นสะเทือน (แผ่นดินไหวเบา)",
+      "emoji": "📳",
+      "example_en": "We felt a small tremor, but nothing fell off the shelves.",
+      "example_th": "เรารู้สึกถึงแรงสั่นสะเทือนเล็กน้อย แต่ไม่มีอะไรหล่นจากชั้น",
+      "cefr": "B2",
+      "note_th": "tremor = แผ่นดินไหวเบาๆ ที่รู้สึกได้แต่ไม่เสียหาย (ข่าวใช้คำนี้แทน earthquake เมื่อแรงน้อย) — ยังแปลว่ามือสั่นได้ด้วย กฎตอนไหว: Drop, Cover, Hold on",
+      "distractors": [
+        "tremble",
+        "terror",
+        "timer"
+      ]
+    },
+    {
+      "id": "hurricane",
+      "word": "hurricane",
+      "pos": "noun",
+      "ipa": "/ˈhɜːrəkeɪn/",
+      "reading_th": "เฮอ-ริ-เคน",
+      "meaning_th": "พายุเฮอริเคน",
+      "emoji": "🌀",
+      "example_en": "The hurricane is expected to hit the coast on Friday.",
+      "example_th": "คาดว่าพายุเฮอริเคนจะพัดถล่มชายฝั่งวันศุกร์",
+      "cefr": "B1",
+      "note_th": "พายุหมุนเขตร้อนลูกเดียวกันเรียกต่างกันตามพื้นที่: hurricane (อเมริกา/แคริบเบียน), typhoon (เอเชีย), cyclone (อินเดีย/ออสเตรเลีย) — มี category 1–5 ระดับ 3 ขึ้นไปต้องอพยพ",
+      "distractors": [
+        "hurry",
+        "hurdle",
+        "cyclone"
+      ]
+    },
+    {
+      "id": "tornado",
+      "word": "tornado",
+      "pos": "noun",
+      "ipa": "/tɔːrˈneɪdoʊ/",
+      "reading_th": "ทอร์-เน-โด",
+      "meaning_th": "พายุทอร์นาโด",
+      "emoji": "🌪️",
+      "example_en": "When a tornado warning sounds, go to the basement.",
+      "example_th": "เมื่อสัญญาณเตือนทอร์นาโดดัง ให้ลงไปชั้นใต้ดิน",
+      "cefr": "B1",
+      "note_th": "tornado = พายุงวงช้างบนบก (พหูพจน์ tornadoes) พบมากในอเมริกากลาง (Tornado Alley) — ไซเรนดังให้ไปห้องใต้ดินหรือห้องไม่มีหน้าต่างชั้นล่างสุด ห้ามอยู่ในรถ",
+      "distractors": [
+        "torpedo",
+        "volcano",
+        "tomato"
+      ]
+    },
+    {
+      "id": "shelter",
+      "word": "shelter",
+      "pos": "noun",
+      "ipa": "/ˈʃeltər/",
+      "reading_th": "เชล-เตอร์",
+      "meaning_th": "ที่หลบภัย / ศูนย์พักพิง",
+      "emoji": "⛺",
+      "example_en": "The school gym became a shelter for families who lost their homes.",
+      "example_th": "โรงยิมของโรงเรียนกลายเป็นศูนย์พักพิงสำหรับครอบครัวที่บ้านเสียหาย",
+      "cefr": "B1",
+      "note_th": "shelter = ที่หลบภัยชั่วคราว (emergency shelter, bomb shelter) ใช้เป็นกริยาได้: take shelter / shelter from the rain — ในข่าวมักเจอ shelter in place = อยู่ในที่ปลอดภัยที่คุณอยู่ ห้ามออกมา",
+      "distractors": [
+        "shelf",
+        "smelter",
+        "shutter"
+      ]
+    },
+    {
+      "id": "siren",
+      "word": "siren",
+      "pos": "noun",
+      "ipa": "/ˈsaɪrən/",
+      "reading_th": "ไซ-เริน",
+      "meaning_th": "เสียงไซเรนเตือนภัย",
+      "emoji": "📢",
+      "example_en": "The tsunami siren means you must move to higher ground now.",
+      "example_th": "เสียงไซเรนเตือนสึนามิหมายความว่าคุณต้องขึ้นที่สูงเดี๋ยวนี้",
+      "cefr": "B1",
+      "note_th": "siren = เสียงเตือนภัย (รถฉุกเฉิน เตือนสึนามิ ทอร์นาโด) หลายประเทศทดสอบไซเรนทุกเดือนตามเวลาเดิม ถามคนท้องถิ่นไว้จะได้ไม่ตกใจ — สะกดคล้าย Siren ในตำนานกรีก",
+      "distractors": [
+        "sirloin",
+        "sire",
+        "alarm"
+      ]
+    },
+    {
+      "id": "blackout",
+      "word": "blackout",
+      "pos": "noun",
+      "ipa": "/ˈblækaʊt/",
+      "reading_th": "แบล็ค-เอาท์",
+      "meaning_th": "ไฟดับวงกว้าง",
+      "emoji": "🌑",
+      "example_en": "The storm caused a blackout across the whole city.",
+      "example_th": "พายุทำให้ไฟดับทั้งเมือง",
+      "cefr": "B1",
+      "note_th": "blackout = ไฟดับเป็นวงกว้างนานๆ (รุนแรงกว่า power cut/outage ธรรมดา) — เตรียมไฟฉาย พาวเวอร์แบงก์ และเงินสด เพราะ ATM และบัตรใช้ไม่ได้ blackout ยังแปลว่าหมดสติชั่วคราวได้",
+      "distractors": [
+        "breakout",
+        "black",
+        "checkout"
+      ]
+    },
+    {
+      "id": "emergency_kit",
+      "word": "emergency kit",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːrdʒənsi kɪt/",
+      "reading_th": "อิ-เมอร์-เจิน-ซี คิท",
+      "meaning_th": "ชุดอุปกรณ์ยังชีพฉุกเฉิน",
+      "emoji": "🎒",
+      "example_en": "Every home in Japan should have an emergency kit by the door.",
+      "example_th": "บ้านทุกหลังในญี่ปุ่นควรมีชุดอุปกรณ์ยังชีพฉุกเฉินไว้ข้างประตู",
+      "cefr": "B1",
+      "note_th": "emergency kit / go bag = กระเป๋าที่หยิบแล้ววิ่งได้ทันที: น้ำ 3 วัน อาหารแห้ง ไฟฉาย ยา สำเนาพาสปอร์ต เงินสด — ประเทศแผ่นดินไหวจะแจกรายการให้ตอนลงทะเบียนที่อยู่",
+      "distractors": [
+        "first aid",
+        "tool kit",
+        "emergency exit"
+      ]
+    },
+    {
+      "id": "high_ground",
+      "word": "high ground",
+      "pos": "noun",
+      "ipa": "/ˌhaɪ ˈɡraʊnd/",
+      "reading_th": "ไฮ กราวนด์",
+      "meaning_th": "ที่สูง (หนีน้ำ)",
+      "emoji": "⛰️",
+      "example_en": "After an earthquake near the sea, head for high ground.",
+      "example_th": "หลังแผ่นดินไหวใกล้ทะเล ให้มุ่งหน้าไปที่สูง",
+      "cefr": "B1",
+      "note_th": "head for / move to high ground = ขึ้นที่สูงหนีสึนามิหรือน้ำท่วม — ป้ายสีน้ำเงินรูปคลื่นและลูกศรคือเส้นทางอพยพสึนามิ (tsunami evacuation route) มีตามชายหาดที่เสี่ยง",
+      "distractors": [
+        "playground",
+        "high school",
+        "background"
+      ]
+    },
+    {
+      "id": "take_cover",
+      "word": "take cover",
+      "pos": "phrase",
+      "ipa": "/ˌteɪk ˈkʌvər/",
+      "reading_th": "เทค คัฟ-เวอร์",
+      "meaning_th": "หาที่กำบัง",
+      "emoji": "🛡️",
+      "example_en": "Take cover under a strong table when the ground starts shaking.",
+      "example_th": "หาที่กำบังใต้โต๊ะที่แข็งแรงเมื่อพื้นเริ่มสั่น",
+      "cefr": "B1",
+      "note_th": "take cover = เข้าที่กำบังจากอันตราย (แผ่นดินไหว ลูกเห็บ ยิงกัน) ไม่เกี่ยวกับผ้าห่ม — ขั้นตอนสากลตอนแผ่นดินไหว: Drop (หมอบ), Cover (กำบัง), Hold on (เกาะไว้)",
+      "distractors": [
+        "take care",
+        "take over",
+        "cover up"
+      ]
+    },
+    {
+      "id": "sandbag",
+      "word": "sandbag",
+      "pos": "noun",
+      "ipa": "/ˈsændbæɡ/",
+      "reading_th": "แซนด์-แบ็ก",
+      "meaning_th": "กระสอบทราย (กันน้ำท่วม)",
+      "emoji": "🧱",
+      "example_en": "Volunteers stacked a sandbag wall along the river.",
+      "example_th": "อาสาสมัครวางกระสอบทรายเป็นกำแพงตลอดแนวแม่น้ำ",
+      "cefr": "B2",
+      "note_th": "sandbag = กระสอบทรายกั้นน้ำ (คนไทยปี 54 รู้จักดี) เทศบาลต่างประเทศแจกฟรีตอนมีเตือนน้ำท่วม (flood warning) — วางหน้าประตูและท่อระบายในบ้าน",
+      "distractors": [
+        "handbag",
+        "sandal",
+        "sandbank"
+      ]
+    },
+    {
+      "id": "eruption",
+      "word": "eruption",
+      "pos": "noun",
+      "ipa": "/ɪˈrʌpʃn/",
+      "reading_th": "อิ-รัพ-ชั่น",
+      "meaning_th": "การปะทุของภูเขาไฟ",
+      "emoji": "🌋",
+      "example_en": "Flights were cancelled because of the volcanic eruption.",
+      "example_th": "เที่ยวบินถูกยกเลิกเพราะการปะทุของภูเขาไฟ",
+      "cefr": "B2",
+      "note_th": "eruption = การปะทุ (กริยา erupt) ข่าวใช้ volcanic eruption — เถ้าภูเขาไฟ (volcanic ash) ทำให้สนามบินปิดเป็นสัปดาห์ บาหลี ไอซ์แลนด์ ญี่ปุ่น เกิดบ่อย ซื้อประกันเดินทางที่คุ้มครองกรณีนี้",
+      "distractors": [
+        "corruption",
+        "interruption",
+        "erosion"
+      ]
+    },
+    {
+      "id": "relief",
+      "word": "relief",
+      "pos": "noun",
+      "ipa": "/rɪˈliːf/",
+      "reading_th": "ริ-ลีฟ",
+      "meaning_th": "การบรรเทาทุกข์ / ความช่วยเหลือผู้ประสบภัย",
+      "emoji": "🤲",
+      "example_en": "Relief supplies reached the island two days after the storm.",
+      "example_th": "สิ่งของบรรเทาทุกข์ไปถึงเกาะสองวันหลังพายุ",
+      "cefr": "B2",
+      "note_th": "relief = การช่วยเหลือผู้ประสบภัย (disaster relief, relief fund) และยังแปลว่าความโล่งใจ: What a relief! — สะกด relief (คำนาม) กับ relieve (กริยา) ต่างกัน ระวัง ie/ei",
+      "distractors": [
+        "believe",
+        "belief",
+        "release"
+      ]
+    },
+    {
+      "id": "misplace",
+      "word": "misplace",
+      "pos": "verb",
+      "ipa": "/ˌmɪsˈpleɪs/",
+      "reading_th": "มิส-เพลส",
+      "meaning_th": "วางไว้แล้วหาไม่เจอ",
+      "emoji": "🤷",
+      "example_en": "I seem to misplace my keys at least once a week.",
+      "example_th": "ฉันวางกุญแจไว้แล้วหาไม่เจออย่างน้อยสัปดาห์ละครั้ง",
+      "cefr": "B1",
+      "note_th": "misplace = วางผิดที่จนหาไม่เจอ (นุ่มกว่า lose ที่หายไปเลย) มักใช้แบบสุภาพว่า I've misplaced my passport ตอนยังหวังว่าจะเจอ — mis- = ผิด เช่น misunderstand, misspell",
+      "distractors": [
+        "misspell",
+        "replace",
+        "displace"
+      ]
+    },
+    {
+      "id": "missing",
+      "word": "missing",
+      "pos": "adjective",
+      "ipa": "/ˈmɪsɪŋ/",
+      "reading_th": "มิส-ซิ่ง",
+      "meaning_th": "หายไป / สูญหาย",
+      "emoji": "❓",
+      "example_en": "My wallet has been missing since we left the café.",
+      "example_th": "กระเป๋าสตางค์ของฉันหายไปตั้งแต่เราออกจากคาเฟ่",
+      "cefr": "A2",
+      "note_th": "missing = หายไป ใช้กับของและคน: go missing = หายไป, missing person = คนหาย — ประโยคสำคัญ: \"Something is missing from my bag\" ของในกระเป๋าหาย",
+      "distractors": [
+        "mission",
+        "mixing",
+        "kissing"
+      ]
+    },
+    {
+      "id": "lost_and_found",
+      "word": "lost and found",
+      "pos": "noun",
+      "ipa": "/ˌlɔːst ən ˈfaʊnd/",
+      "reading_th": "ลอสท์ แอนด์ ฟาวนด์",
+      "meaning_th": "ศูนย์รับแจ้งของหาย",
+      "emoji": "🧳",
+      "example_en": "Someone handed my umbrella in to the lost and found.",
+      "example_th": "มีคนเอาร่มของฉันไปส่งไว้ที่ศูนย์รับแจ้งของหาย",
+      "cefr": "B1",
+      "note_th": "lost and found (อเมริกา) / lost property (อังกฤษ) = จุดเก็บของที่คนเก็บได้ มีในสนามบิน สถานีรถไฟ ห้าง — ของลืมบนรถไฟญี่ปุ่นได้คืนเกือบ 100% ถามเจ้าหน้าที่สถานีปลายทาง",
+      "distractors": [
+        "lost luggage",
+        "found",
+        "lost property"
+      ]
+    },
+    {
+      "id": "theft",
+      "word": "theft",
+      "pos": "noun",
+      "ipa": "/θeft/",
+      "reading_th": "เธฟท์",
+      "meaning_th": "การลักขโมย",
+      "emoji": "🚨",
+      "example_en": "Report the theft within 24 hours or the insurance will not pay.",
+      "example_th": "แจ้งความเรื่องถูกขโมยภายใน 24 ชั่วโมง ไม่งั้นประกันจะไม่จ่าย",
+      "cefr": "B1",
+      "note_th": "theft = การขโมย (คำนาม) steal = ขโมย (กริยา) thief = คนขโมย — identity theft = การขโมยข้อมูลส่วนตัวไปเปิดบัญชี ระวังทิ้งเอกสารที่มีชื่อและที่อยู่",
+      "distractors": [
+        "thief",
+        "left",
+        "thrift"
+      ]
+    },
+    {
+      "id": "belongings",
+      "word": "belongings",
+      "pos": "noun",
+      "ipa": "/bɪˈlɔːŋɪŋz/",
+      "reading_th": "บิ-ลอง-อิ้งส์",
+      "meaning_th": "ข้าวของส่วนตัว",
+      "emoji": "🎒",
+      "example_en": "Please keep your belongings with you at all times.",
+      "example_th": "กรุณาเก็บข้าวของส่วนตัวไว้กับตัวตลอดเวลา",
+      "cefr": "B1",
+      "note_th": "belongings = ข้าวของส่วนตัว (พหูพจน์เสมอ มาจาก belong to = เป็นของ) — ประกาศในสนามบิน: \"Do not leave your belongings unattended\" ของที่ทิ้งไว้อาจถูกเก็บหรือทำลายเพราะกลัวระเบิด",
+      "distractors": [
+        "belong",
+        "buildings",
+        "blessings"
+      ]
+    },
+    {
+      "id": "valuables",
+      "word": "valuables",
+      "pos": "noun",
+      "ipa": "/ˈvæljuəblz/",
+      "reading_th": "แวล-ยู-อะ-เบิลส์",
+      "meaning_th": "ของมีค่า",
+      "emoji": "💎",
+      "example_en": "Leave your valuables in the hotel safe, not in the room.",
+      "example_th": "เก็บของมีค่าไว้ในตู้เซฟของโรงแรม ไม่ใช่ในห้อง",
+      "cefr": "B1",
+      "note_th": "valuables = ของมีค่า (พหูพจน์) เช่น พาสปอร์ต เครื่องประดับ เงินสด — ต่างจาก valuable คำคุณศัพท์ = มีค่า ป้ายโรงแรมมักเขียน \"not responsible for valuables left in rooms\"",
+      "distractors": [
+        "valuable",
+        "values",
+        "vegetables"
+      ]
+    },
+    {
+      "id": "retrace",
+      "word": "retrace",
+      "pos": "verb",
+      "ipa": "/riˈtreɪs/",
+      "reading_th": "รี-เทรส",
+      "meaning_th": "ย้อนกลับไปตามเส้นทางเดิม",
+      "emoji": "🔙",
+      "example_en": "Let's retrace our steps back to the restaurant.",
+      "example_th": "ย้อนกลับไปตามทางเดิมถึงร้านอาหารกันเถอะ",
+      "cefr": "B2",
+      "note_th": "retrace your steps = เดินย้อนทางเดิมเพื่อหาของหาย (สำนวนที่ใช้กับ retrace เกือบเสมอ) — ก่อนแจ้งหายให้ถามตัวเองว่า \"Where did I last have it?\" ฉันมีมันครั้งสุดท้ายที่ไหน",
+      "distractors": [
+        "trace",
+        "replace",
+        "retreat"
+      ]
+    },
+    {
+      "id": "left_behind",
+      "word": "left behind",
+      "pos": "phrase",
+      "ipa": "/ˌleft bɪˈhaɪnd/",
+      "reading_th": "เลฟท์ บิ-ไฮนด์",
+      "meaning_th": "ถูกลืมทิ้งไว้",
+      "emoji": "🪑",
+      "example_en": "I think my jacket got left behind on the train.",
+      "example_th": "ฉันคิดว่าเสื้อแจ็กเก็ตถูกลืมทิ้งไว้บนรถไฟ",
+      "cefr": "B1",
+      "note_th": "leave behind = ลืมทิ้งไว้ (left behind = รูปอดีต/ถูกกระทำ) — \"I left my phone behind at the hotel\" ชัดกว่า forgot my phone ซึ่งฝรั่งจะเข้าใจว่าลืมเอามาตั้งแต่แรก",
+      "distractors": [
+        "fall behind",
+        "left over",
+        "behind"
+      ]
+    },
+    {
+      "id": "replacement",
+      "word": "replacement",
+      "pos": "noun",
+      "ipa": "/rɪˈpleɪsmənt/",
+      "reading_th": "ริ-เพลส-เมนท์",
+      "meaning_th": "ของที่ออกให้ใหม่แทน",
+      "emoji": "🆕",
+      "example_en": "The bank will send a replacement card within five working days.",
+      "example_th": "ธนาคารจะส่งบัตรใบใหม่แทนภายในห้าวันทำการ",
+      "cefr": "B1",
+      "note_th": "replacement = ของใหม่ที่มาแทนของเดิม (replacement card/passport/key) ส่วน replace คือกริยา — ขอบัตรใหม่พูดว่า \"I need a replacement card\" ไม่ใช่ \"new card\" ที่อาจหมายถึงเปิดบัญชีใหม่",
+      "distractors": [
+        "placement",
+        "replace",
+        "displacement"
+      ]
+    },
+    {
+      "id": "emergency_passport",
+      "word": "emergency passport",
+      "pos": "noun",
+      "ipa": "/ɪˈmɜːrdʒənsi ˌpæspɔːrt/",
+      "reading_th": "อิ-เมอร์-เจิน-ซี พาส-พอร์ท",
+      "meaning_th": "หนังสือเดินทางฉุกเฉิน",
+      "emoji": "📘",
+      "example_en": "The embassy issued an emergency passport so I could fly home.",
+      "example_th": "สถานทูตออกหนังสือเดินทางฉุกเฉินให้ฉันบินกลับบ้านได้",
+      "cefr": "B2",
+      "note_th": "emergency passport / emergency travel document = เอกสารชั่วคราวที่สถานทูตออกให้เมื่อพาสปอร์ตหาย ใช้กลับไทยได้ — ต้องมีใบแจ้งความ รูปถ่าย และสำเนาพาสปอร์ตเดิม (เก็บสำเนาไว้ในอีเมลเสมอ)",
+      "distractors": [
+        "passport",
+        "emergency exit",
+        "boarding pass"
+      ]
+    },
+    {
+      "id": "cancel_the_card",
+      "word": "cancel the card",
+      "pos": "phrase",
+      "ipa": "/ˌkænsl ðə ˈkɑːrd/",
+      "reading_th": "แคน-เซิล เดอะ คาร์ด",
+      "meaning_th": "อายัดบัตร / ยกเลิกบัตร",
+      "emoji": "💳",
+      "example_en": "Cancel the card in the app the moment you notice it is gone.",
+      "example_th": "อายัดบัตรในแอปทันทีที่รู้ว่าบัตรหาย",
+      "cefr": "B1",
+      "note_th": "cancel the card = ยกเลิกบัตรถาวรแล้วขอใบใหม่ ส่วนระงับชั่วคราว (ปลดได้ถ้าเจอ) แอปธนาคารเรียก freeze หรือ lock — ทำเองในแอปได้ใน 10 วินาที ไม่ต้องโทร บัตรหายในต่างประเทศทำทันทีก่อนแจ้งความ",
+      "distractors": [
+        "cancel the order",
+        "cancel the trip",
+        "card"
+      ]
+    },
+    {
+      "id": "serial_number",
+      "word": "serial number",
+      "pos": "noun",
+      "ipa": "/ˈsɪriəl ˌnʌmbər/",
+      "reading_th": "ซี-เรียล นัม-เบอร์",
+      "meaning_th": "หมายเลขเครื่อง",
+      "emoji": "🏷️",
+      "example_en": "Police can trace a stolen laptop by its serial number.",
+      "example_th": "ตำรวจตามหาแล็ปท็อปที่ถูกขโมยได้จากหมายเลขเครื่อง",
+      "cefr": "B1",
+      "note_th": "serial number = เลขประจำเครื่องของโน้ตบุ๊ก กล้อง จักรยาน (มือถือใช้ IMEI) — ถ่ายรูปเก็บไว้ตั้งแต่วันซื้อ ตำรวจและประกันจะถามเป็นอย่างแรก สะกด serial ไม่ใช่ cereal (ซีเรียลอาหารเช้า)",
+      "distractors": [
+        "cereal",
+        "phone number",
+        "model number"
+      ]
+    },
+    {
+      "id": "file_a_claim",
+      "word": "file a claim",
+      "pos": "phrase",
+      "ipa": "/ˌfaɪl ə ˈkleɪm/",
+      "reading_th": "ไฟล์ อะ เคลม",
+      "meaning_th": "ยื่นเคลมประกัน",
+      "emoji": "📝",
+      "example_en": "You can file a claim online within 30 days of the theft.",
+      "example_th": "คุณยื่นเคลมประกันออนไลน์ได้ภายใน 30 วันหลังถูกขโมย",
+      "cefr": "B1",
+      "note_th": "file/make a claim = ยื่นเรื่องขอเงินประกัน (ไทยยืมคำว่า \"เคลม\" มาตรงๆ) ต้องแนบใบแจ้งความ ใบเสร็จ และรูปถ่าย — file ตรงนี้แปลว่ายื่นเอกสารอย่างเป็นทางการ เช่น file a report, file a complaint",
+      "distractors": [
+        "file a report",
+        "fill a form",
+        "claim"
+      ]
+    },
+    {
+      "id": "consulate",
+      "word": "consulate",
+      "pos": "noun",
+      "ipa": "/ˈkɑːnsələt/",
+      "reading_th": "คอน-ซะ-เลิท",
+      "meaning_th": "สถานกงสุล",
+      "emoji": "🏛️",
+      "example_en": "The Thai consulate in Los Angeles can issue travel documents.",
+      "example_th": "สถานกงสุลไทยในลอสแอนเจลิสสามารถออกเอกสารเดินทางได้",
+      "cefr": "B2",
+      "note_th": "consulate = สถานกงสุล สำนักงานย่อยในเมืองใหญ่ที่ไม่ใช่เมืองหลวง (สถานทูตคือ embassy อยู่เมืองหลวง) ทำพาสปอร์ตและรับรองเอกสารได้เหมือนกัน — เจ้าหน้าที่เรียก consul",
+      "distractors": [
+        "consult",
+        "console",
+        "consultant"
+      ]
+    },
+    {
+      "id": "caution",
+      "word": "caution",
+      "pos": "noun",
+      "ipa": "/ˈkɔːʃn/",
+      "reading_th": "คอ-ชั่น",
+      "meaning_th": "ข้อควรระวัง (ป้าย)",
+      "emoji": "⚠️",
+      "example_en": "The sign said Caution: hot surface, so I did not touch it.",
+      "example_th": "ป้ายเขียนว่า ระวัง พื้นผิวร้อน ฉันเลยไม่แตะ",
+      "cefr": "B1",
+      "note_th": "Caution = ป้ายเตือนระดับเบา (สีเหลือง) ลำดับความรุนแรงคือ Caution < Warning < Danger — คำคุณศัพท์ cautious = ระมัดระวัง และ with caution = อย่างระมัดระวัง",
+      "distractors": [
+        "cushion",
+        "auction",
+        "cautious"
+      ]
+    },
+    {
+      "id": "danger",
+      "word": "danger",
+      "pos": "noun",
+      "ipa": "/ˈdeɪndʒər/",
+      "reading_th": "เดน-เจอร์",
+      "meaning_th": "อันตราย (ระดับร้ายแรง)",
+      "emoji": "☠️",
+      "example_en": "A red sign reading Danger means you could be killed.",
+      "example_th": "ป้ายสีแดงที่เขียนว่า อันตราย หมายความว่าคุณอาจเสียชีวิตได้",
+      "cefr": "A2",
+      "note_th": "Danger = ป้ายระดับสูงสุด (แดง) เช่น Danger: high voltage — danger คำนาม, dangerous คำคุณศัพท์, in danger = ตกอยู่ในอันตราย ออกเสียง \"เดน-เจอร์\" ไม่ใช่ \"แดง-เกอร์\"",
+      "distractors": [
+        "dangerous",
+        "anger",
+        "ranger"
+      ]
+    },
+    {
+      "id": "warning",
+      "word": "warning",
+      "pos": "noun",
+      "ipa": "/ˈwɔːrnɪŋ/",
+      "reading_th": "วอร์-นิ่ง",
+      "meaning_th": "คำเตือน",
+      "emoji": "🔶",
+      "example_en": "Ignore the warning and you may get a heavy fine.",
+      "example_th": "ถ้าไม่สนใจคำเตือน คุณอาจถูกปรับหนัก",
+      "cefr": "A2",
+      "note_th": "warning = คำเตือน (สีส้ม ระดับกลาง) ใช้กับสภาพอากาศด้วย: weather warning, flood warning — ตำรวจให้ warning ก่อนปรับจริง ตอบว่า \"Understood, it won't happen again\"",
+      "distractors": [
+        "warming",
+        "morning",
+        "warn"
+      ]
+    },
+    {
+      "id": "hazard",
+      "word": "hazard",
+      "pos": "noun",
+      "ipa": "/ˈhæzərd/",
+      "reading_th": "แฮ-เซิร์ด",
+      "meaning_th": "สิ่งที่เป็นอันตราย / ความเสี่ยง",
+      "emoji": "🚧",
+      "example_en": "Wet leaves on the path are a real hazard for cyclists.",
+      "example_th": "ใบไม้เปียกบนทางเป็นอันตรายจริงๆ สำหรับคนปั่นจักรยาน",
+      "cefr": "B2",
+      "note_th": "hazard = สิ่งที่อาจก่อให้เกิดอันตราย (fire hazard, health hazard, trip hazard) ป้ายเหลืองดำ — ไฟฉุกเฉินรถเรียก hazard lights และ hazardous = เป็นอันตราย",
+      "distractors": [
+        "haggard",
+        "wizard",
+        "hazel"
+      ]
+    },
+    {
+      "id": "keep_out",
+      "word": "keep out",
+      "pos": "phrase",
+      "ipa": "/ˌkiːp ˈaʊt/",
+      "reading_th": "คีพ เอาท์",
+      "meaning_th": "ห้ามเข้า (พื้นที่หวงห้าม)",
+      "emoji": "⛔",
+      "example_en": "The fence has a sign: Private property, keep out.",
+      "example_th": "รั้วมีป้ายว่า พื้นที่ส่วนบุคคล ห้ามเข้า",
+      "cefr": "A2",
+      "note_th": "Keep out = ห้ามเข้า (มักคู่กับ Private property หรือ Danger) ส่วน keep off the grass = ห้ามเหยียบสนามหญ้า — ในอเมริกาเดินเข้าที่ดินส่วนบุคคล (trespassing) อาจอันตรายกว่าที่คิด",
+      "distractors": [
+        "keep off",
+        "keep up",
+        "get out"
+      ]
+    },
+    {
+      "id": "no_entry",
+      "word": "no entry",
+      "pos": "phrase",
+      "ipa": "/ˌnoʊ ˈentri/",
+      "reading_th": "โน เอน-ทรี",
+      "meaning_th": "ห้ามเข้า (ทางเข้า/ถนน)",
+      "emoji": "🚫",
+      "example_en": "The road had a No entry sign, so we turned around.",
+      "example_th": "ถนนมีป้ายห้ามเข้า เราเลยกลับรถ",
+      "cefr": "A2",
+      "note_th": "No entry = ห้ามเข้าทางนี้ (ป้ายวงกลมแดงมีขีดขาว บนถนน = ห้ามขับเข้า) ต่างจาก Keep out ที่ใช้กับพื้นที่ — ประตูในตึกมักเขียน Staff only หรือ Authorized personnel only แทน",
+      "distractors": [
+        "no exit",
+        "no parking",
+        "entry"
+      ]
+    },
+    {
+      "id": "slippery",
+      "word": "slippery",
+      "pos": "adjective",
+      "ipa": "/ˈslɪpəri/",
+      "reading_th": "สลิป-เพอ-รี",
+      "meaning_th": "ลื่น",
+      "emoji": "🧊",
+      "example_en": "The rocks by the waterfall are slippery when wet.",
+      "example_th": "หินข้างน้ำตกลื่นเมื่อเปียก",
+      "cefr": "A2",
+      "note_th": "slippery = ลื่น (ป้าย Slippery when wet) มาจาก slip = ลื่นล้ม — ถนนลื่นตอนหิมะเรียก icy road หลายคนใช้ slippy ในภาษาพูดอังกฤษเหนือ แต่ slippery คือคำมาตรฐาน",
+      "distractors": [
+        "slipper",
+        "sleepy",
+        "slip"
+      ]
+    },
+    {
+      "id": "high_voltage",
+      "word": "high voltage",
+      "pos": "noun",
+      "ipa": "/ˌhaɪ ˈvoʊltɪdʒ/",
+      "reading_th": "ไฮ โวล-ทิจ",
+      "meaning_th": "ไฟฟ้าแรงสูง",
+      "emoji": "⚡",
+      "example_en": "Never climb the fence, the sign says high voltage.",
+      "example_th": "ห้ามปีนรั้วเด็ดขาด ป้ายบอกว่าไฟฟ้าแรงสูง",
+      "cefr": "B1",
+      "note_th": "High voltage = ไฟฟ้าแรงสูง ป้ายสามเหลี่ยมเหลืองรูปสายฟ้า พบที่หม้อแปลงและรางรถไฟ — voltage = แรงดันไฟ ปลั๊กไทย 220V เท่ายุโรป แต่อเมริกา/ญี่ปุ่น 110V ต้องเช็กอุปกรณ์ก่อนเสียบ",
+      "distractors": [
+        "high speed",
+        "voltage",
+        "high volume"
+      ]
+    },
+    {
+      "id": "flammable",
+      "word": "flammable",
+      "pos": "adjective",
+      "ipa": "/ˈflæməbl/",
+      "reading_th": "แฟลม-มะ-เบิล",
+      "meaning_th": "ติดไฟง่าย",
+      "emoji": "🔥",
+      "example_en": "Keep flammable liquids away from the stove.",
+      "example_th": "เก็บของเหลวติดไฟง่ายให้ห่างจากเตา",
+      "cefr": "B1",
+      "note_th": "flammable = ติดไฟง่าย — กับดักภาษา: inflammable ก็แปลว่าติดไฟง่าย เหมือนกัน (ไม่ใช่ตรงข้าม!) จึงเลิกใช้ในป้ายแล้ว ส่วนไม่ติดไฟคือ non-flammable หรือ fire-resistant",
+      "distractors": [
+        "inflammable",
+        "flavor",
+        "fireproof"
+      ]
+    },
+    {
+      "id": "toxic",
+      "word": "toxic",
+      "pos": "adjective",
+      "ipa": "/ˈtɑːksɪk/",
+      "reading_th": "ท็อก-ซิค",
+      "meaning_th": "เป็นพิษ",
+      "emoji": "☣️",
+      "example_en": "The label says the cleaner is toxic if swallowed.",
+      "example_th": "ฉลากบอกว่าน้ำยาทำความสะอาดเป็นพิษถ้ากลืนเข้าไป",
+      "cefr": "B1",
+      "note_th": "toxic = เป็นพิษ (toxic fumes = ควันพิษ, toxic waste = ขยะพิษ) ป้ายรูปหัวกะโหลก — สแลงยุคใหม่: toxic relationship / toxic workplace = ความสัมพันธ์หรือที่ทำงานที่บั่นทอนจิตใจ",
+      "distractors": [
+        "tonic",
+        "topic",
+        "toxin"
+      ]
+    },
+    {
+      "id": "beware",
+      "word": "beware",
+      "pos": "verb",
+      "ipa": "/bɪˈwer/",
+      "reading_th": "บิ-แวร์",
+      "meaning_th": "จงระวัง (ป้าย)",
+      "emoji": "🐕",
+      "example_en": "Beware of the dog, says the sign on the gate.",
+      "example_th": "ป้ายที่ประตูรั้วเขียนว่า ระวังสุนัข",
+      "cefr": "B1",
+      "note_th": "beware (of) = จงระวัง ใช้เฉพาะในคำสั่งหรือคำเตือน: Beware of pickpockets, Beware of the dog — ไม่ใช้ผันรูปอื่น (ไม่มี bewared) และไม่พูด \"I beware\" ในประโยคปกติ",
+      "distractors": [
+        "be aware",
+        "because",
+        "be careful"
+      ]
+    },
+    {
+      "id": "wet_floor",
+      "word": "wet floor",
+      "pos": "noun",
+      "ipa": "/ˌwet ˈflɔːr/",
+      "reading_th": "เว็ท ฟลอร์",
+      "meaning_th": "พื้นเปียก (ป้ายเตือน)",
+      "emoji": "🟡",
+      "example_en": "A yellow Wet floor sign stood by the entrance.",
+      "example_th": "ป้ายเหลืองเตือนพื้นเปียกตั้งอยู่ข้างทางเข้า",
+      "cefr": "A2",
+      "note_th": "Wet floor = ป้ายเหลืองพับได้ที่วางหลังถูพื้น — ลื่นล้มในร้านที่ไม่มีป้ายนี้สามารถเรียกค่าเสียหายได้ในหลายประเทศ จึงเห็นป้ายวางทิ้งไว้ทั้งวัน",
+      "distractors": [
+        "wet paint",
+        "first floor",
+        "ground floor"
+      ]
+    },
+    {
+      "id": "mind_the_gap",
+      "word": "mind the gap",
+      "pos": "phrase",
+      "ipa": "/ˌmaɪnd ðə ˈɡæp/",
+      "reading_th": "ไมนด์ เดอะ แก๊พ",
+      "meaning_th": "ระวังช่องว่างระหว่างรถกับชานชาลา",
+      "emoji": "🚇",
+      "example_en": "You hear Mind the gap at every station on the London Underground.",
+      "example_th": "คุณจะได้ยิน ระวังช่องว่าง ที่ทุกสถานีของรถไฟใต้ดินลอนดอน",
+      "cefr": "B1",
+      "note_th": "Mind the gap = ประกาศดังของรถไฟใต้ดินลอนดอน mind ในที่นี้ = ระวัง (อังกฤษ) เช่น Mind your head = ระวังหัว, Mind the step = ระวังขั้นบันได — อเมริกาใช้ watch แทน: Watch your step",
+      "distractors": [
+        "mind the step",
+        "fill the gap",
+        "mind"
+      ]
+    },
+    {
+      "id": "out_of_order",
+      "word": "out of order",
+      "pos": "phrase",
+      "ipa": "/ˌaʊt əv ˈɔːrdər/",
+      "reading_th": "เอาท์ ออฟ ออร์-เดอร์",
+      "meaning_th": "เสีย ใช้งานไม่ได้ (ป้าย)",
+      "emoji": "🚫",
+      "example_en": "The lift is out of order, so we took the stairs.",
+      "example_th": "ลิฟต์เสีย เราเลยเดินขึ้นบันได",
+      "cefr": "A2",
+      "note_th": "Out of order = ป้ายบอกว่าเครื่องเสีย (ลิฟต์ ห้องน้ำ ตู้ ATM) ส่วน out of service ใช้กับรถเมล์/รถไฟที่ไม่รับผู้โดยสาร — ภาษาพูดใช้ broken หรือ not working ก็ได้",
+      "distractors": [
+        "out of stock",
+        "in order",
+        "out of date"
+      ]
+    }
+  ]
+}

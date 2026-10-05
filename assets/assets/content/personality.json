@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "personality",
+    "name_en": "Personality",
+    "name_th": "บุคลิกและนิสัย",
+    "emoji": "🧠",
+    "color_start": "#C4B5FD",
+    "color_end": "#5B21B6",
+    "description_th": "บรรยายนิสัยคน ทั้งคำชมและคำติ ใช้ได้ทั้งตอนนินทาเพื่อนและเขียนรีวิวเพื่อนร่วมงาน",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "personality_1",
+        "title_en": "Positive Traits",
+        "title_th": "นิสัยดีๆ",
+        "emoji": "🌟",
+        "word_ids": [
+          "kind",
+          "generous",
+          "honest",
+          "polite",
+          "caring",
+          "thoughtful",
+          "humble",
+          "loyal",
+          "sincere",
+          "considerate",
+          "easygoing",
+          "brave",
+          "gentle",
+          "warm_hearted"
+        ]
+      },
+      {
+        "id": "personality_2",
+        "title_en": "Negative Traits",
+        "title_th": "นิสัยแย่ๆ",
+        "emoji": "😤",
+        "word_ids": [
+          "selfish",
+          "rude",
+          "arrogant",
+          "stubborn",
+          "greedy",
+          "nasty",
+          "bossy",
+          "moody",
+          "dishonest",
+          "cruel",
+          "impatient",
+          "careless",
+          "ungrateful",
+          "two_faced"
+        ]
+      },
+      {
+        "id": "personality_3",
+        "title_en": "Social Style",
+        "title_th": "สไตล์เข้าสังคม",
+        "emoji": "🗣️",
+        "word_ids": [
+          "outgoing",
+          "reserved",
+          "talkative",
+          "sociable",
+          "introvert",
+          "extrovert",
+          "laid_back",
+          "chatty",
+          "people_person",
+          "loner",
+          "charismatic",
+          "hilarious",
+          "witty",
+          "down_to_earth"
+        ]
+      },
+      {
+        "id": "personality_4",
+        "title_en": "Work Style",
+        "title_th": "สไตล์การทำงาน",
+        "emoji": "💼",
+        "word_ids": [
+          "organized",
+          "ambitious",
+          "competitive",
+          "perfectionist",
+          "workaholic",
+          "procrastinate",
+          "independent",
+          "team_player",
+          "proactive",
+          "disciplined",
+          "meticulous",
+          "multitask",
+          "self_motivated",
+          "go_getter"
+        ]
+      },
+      {
+        "id": "personality_5",
+        "title_en": "Mind & Attitude",
+        "title_th": "ความคิดและทัศนคติ",
+        "emoji": "💭",
+        "word_ids": [
+          "optimistic",
+          "pessimistic",
+          "open_minded",
+          "narrow_minded",
+          "creative",
+          "rational",
+          "level_headed",
+          "mature",
+          "immature",
+          "confident",
+          "determined",
+          "wise",
+          "naive",
+          "realistic"
+        ]
+      },
+      {
+        "id": "personality_6",
+        "title_en": "Habits & Quirks",
+        "title_th": "นิสัยแปลกๆ",
+        "emoji": "🤪",
+        "word_ids": [
+          "clumsy",
+          "forgetful",
+          "picky",
+          "fussy",
+          "untidy",
+          "neat",
+          "nosy",
+          "big_mouth",
+          "nag",
+          "show_off",
+          "drama_queen",
+          "night_owl",
+          "morning_person",
+          "stingy"
+        ]
+      },
+      {
+        "id": "personality_7",
+        "title_en": "Describing Diplomatically",
+        "title_th": "พูดถึงคนอย่างมีชั้นเชิง",
+        "emoji": "🤝",
+        "word_ids": [
+          "strong_willed",
+          "opinionated",
+          "blunt",
+          "straightforward",
+          "touchy",
+          "eccentric",
+          "demanding",
+          "hard_to_please",
+          "get_along_with",
+          "personality",
+          "trait",
+          "quirk",
+          "temperament",
+          "mean_well"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "kind",
+      "word": "kind",
+      "pos": "adjective",
+      "ipa": "/kaɪnd/",
+      "reading_th": "ไคนด์",
+      "meaning_th": "ใจดี",
+      "emoji": "💛",
+      "example_en": "My neighbor is kind enough to water my plants.",
+      "example_th": "เพื่อนบ้านใจดีช่วยรดน้ำต้นไม้ให้ฉัน",
+      "cefr": "A1",
+      "note_th": "kind = ใจดีมีเมตตา (kind to someone) — ระวัง kind ที่เป็นคำนามแปลว่าชนิด (what kind of...) และ kind of = ค่อนข้าง",
+      "distractors": [
+        "kind of",
+        "kindly",
+        "king"
+      ]
+    },
+    {
+      "id": "generous",
+      "word": "generous",
+      "pos": "adjective",
+      "ipa": "/ˈdʒenərəs/",
+      "reading_th": "เจน-เนอ-เริส",
+      "meaning_th": "ใจกว้าง / ใจป้ำ",
+      "emoji": "🎁",
+      "example_en": "She is generous and always pays for her friends.",
+      "example_th": "เธอใจป้ำและเลี้ยงเพื่อนตลอด",
+      "cefr": "A2",
+      "note_th": "generous = ใจกว้างเรื่องเงิน เวลา หรือคำชม — generous with + สิ่งที่ให้, generosity = ความใจกว้าง ตรงข้ามคือ stingy",
+      "distractors": [
+        "genuine",
+        "dangerous",
+        "general"
+      ]
+    },
+    {
+      "id": "honest",
+      "word": "honest",
+      "pos": "adjective",
+      "ipa": "/ˈɒnɪst/",
+      "reading_th": "ออ-เนสท์",
+      "meaning_th": "ซื่อสัตย์",
+      "emoji": "🤝",
+      "example_en": "Be honest with me: did you like the food?",
+      "example_th": "ซื่อสัตย์กับฉันหน่อย: ชอบอาหารไหม",
+      "cefr": "A2",
+      "note_th": "honest ตัว h ไม่ออกเสียง จึงใช้ an honest man — To be honest, ... = พูดตรงๆ นะ ขึ้นต้นประโยคเวลาจะพูดความจริงที่อาจไม่ถูกใจ",
+      "distractors": [
+        "honestly",
+        "hottest",
+        "modest"
+      ]
+    },
+    {
+      "id": "polite",
+      "word": "polite",
+      "pos": "adjective",
+      "ipa": "/pəˈlaɪt/",
+      "reading_th": "โพ-ไลท์",
+      "meaning_th": "สุภาพ",
+      "emoji": "🙇",
+      "example_en": "It is polite to take off your shoes in a Thai home.",
+      "example_th": "การถอดรองเท้าในบ้านคนไทยถือเป็นมารยาทที่สุภาพ",
+      "cefr": "A2",
+      "note_th": "polite = สุภาพ ตรงข้าม rude = หยาบคาย — politely (adv) และ politeness = ความสุภาพ สะกดคล้าย police แต่คนละความหมาย",
+      "distractors": [
+        "police",
+        "politics",
+        "pilot"
+      ]
+    },
+    {
+      "id": "caring",
+      "word": "caring",
+      "pos": "adjective",
+      "ipa": "/ˈkerɪŋ/",
+      "reading_th": "แค-ริง",
+      "meaning_th": "เอาใจใส่ห่วงใย",
+      "emoji": "🤗",
+      "example_en": "Nurses need to be caring as well as skilled.",
+      "example_th": "พยาบาลต้องเอาใจใส่ห่วงใยและมีทักษะด้วย",
+      "cefr": "A2",
+      "note_th": "caring = ใส่ใจความรู้สึกคนอื่น ต่างจาก careful = ระมัดระวัง — ใช้ในประกาศรับสมัครงานสายบริการและดูแลผู้ป่วย",
+      "distractors": [
+        "careful",
+        "carrying",
+        "curing"
+      ]
+    },
+    {
+      "id": "thoughtful",
+      "word": "thoughtful",
+      "pos": "adjective",
+      "ipa": "/ˈθɔːtfl/",
+      "reading_th": "ธอท-ฟูล",
+      "meaning_th": "คิดถึงใจคนอื่น / รอบคอบ",
+      "emoji": "💭",
+      "example_en": "It was thoughtful of you to bring soup when I was sick.",
+      "example_th": "คุณช่างคิดถึงใจคนอื่นที่เอาซุปมาให้ตอนฉันป่วย",
+      "cefr": "B1",
+      "note_th": "thoughtful = ทำสิ่งเล็กๆ เพราะนึกถึงคนอื่น — It was thoughtful of you to ... เป็นประโยคขอบคุณที่ไพเราะกว่า thank you ธรรมดา",
+      "distractors": [
+        "thoughtless",
+        "though",
+        "thorough"
+      ]
+    },
+    {
+      "id": "humble",
+      "word": "humble",
+      "pos": "adjective",
+      "ipa": "/ˈhʌmbl/",
+      "reading_th": "ฮัม-เบิ้ล",
+      "meaning_th": "ถ่อมตัว",
+      "emoji": "🙏",
+      "example_en": "Despite her fame, the actress stays humble.",
+      "example_th": "แม้จะโด่งดัง นักแสดงคนนี้ก็ยังถ่อมตัว",
+      "cefr": "B1",
+      "note_th": "humble = ไม่โอ้อวดแม้จะเก่ง (ความหมายดี) ตรงข้าม arrogant — humblebrag = แกล้งถ่อมตัวแต่จริงๆ อวด",
+      "distractors": [
+        "humbled",
+        "hungry",
+        "tumble"
+      ]
+    },
+    {
+      "id": "loyal",
+      "word": "loyal",
+      "pos": "adjective",
+      "ipa": "/ˈlɔɪəl/",
+      "reading_th": "ลอย-เอิ้ล",
+      "meaning_th": "ซื่อสัตย์ภักดี",
+      "emoji": "🐕",
+      "example_en": "A good friend is loyal even when things get hard.",
+      "example_th": "เพื่อนที่ดีจะภักดีแม้ในยามยาก",
+      "cefr": "B1",
+      "note_th": "loyal = ไม่ทรยศ อยู่ข้างกันตลอด (loyal to someone) — loyalty = ความภักดี, loyal customer = ลูกค้าประจำ",
+      "distractors": [
+        "royal",
+        "legal",
+        "loyalty"
+      ]
+    },
+    {
+      "id": "sincere",
+      "word": "sincere",
+      "pos": "adjective",
+      "ipa": "/sɪnˈsɪr/",
+      "reading_th": "ซิน-เซียร์",
+      "meaning_th": "จริงใจ",
+      "emoji": "💗",
+      "example_en": "Her apology sounded sincere, so I forgave her.",
+      "example_th": "คำขอโทษของเธอฟังดูจริงใจ ฉันเลยให้อภัย",
+      "cefr": "B1",
+      "note_th": "sincere = จริงใจไม่เสแสร้ง — Yours sincerely / Sincerely = คำลงท้ายจดหมายทางการ, sincerity = ความจริงใจ",
+      "distractors": [
+        "since",
+        "severe",
+        "secure"
+      ]
+    },
+    {
+      "id": "considerate",
+      "word": "considerate",
+      "pos": "adjective",
+      "ipa": "/kənˈsɪdərət/",
+      "reading_th": "คอน-ซิ-เดอ-เริท",
+      "meaning_th": "เกรงใจ / นึกถึงผู้อื่น",
+      "emoji": "🤲",
+      "example_en": "Be considerate and keep your voice down on the train.",
+      "example_th": "เกรงใจคนอื่นหน่อย ลดเสียงลงตอนอยู่บนรถไฟ",
+      "cefr": "B2",
+      "note_th": "considerate ใกล้เคียง \"เกรงใจ\" แบบไทยที่สุด — อย่าสับสนกับ considerable = มากพอสมควร (a considerable amount)",
+      "distractors": [
+        "considerable",
+        "consider",
+        "confident"
+      ]
+    },
+    {
+      "id": "easygoing",
+      "word": "easygoing",
+      "pos": "adjective",
+      "ipa": "/ˌiːziˈɡoʊɪŋ/",
+      "reading_th": "อี-ซี่-โก-อิง",
+      "meaning_th": "ง่ายๆ สบายๆ",
+      "emoji": "😎",
+      "example_en": "My roommate is easygoing and never complains about anything.",
+      "example_th": "รูมเมทฉันเป็นคนง่ายๆ ไม่เคยบ่นอะไรเลย",
+      "cefr": "B1",
+      "note_th": "easygoing = เข้ากับคนง่าย ไม่เรื่องมาก คำชมที่ใช้บ่อยในประวัติเดตและเรซูเม่ — เขียนติดกันหรือ easy-going ก็ได้",
+      "distractors": [
+        "outgoing",
+        "easily",
+        "ongoing"
+      ]
+    },
+    {
+      "id": "brave",
+      "word": "brave",
+      "pos": "adjective",
+      "ipa": "/breɪv/",
+      "reading_th": "เบรฟ",
+      "meaning_th": "กล้าหาญ",
+      "emoji": "🦁",
+      "example_en": "It was brave of her to speak up in the meeting.",
+      "example_th": "เธอกล้าหาญที่ลุกขึ้นพูดในที่ประชุม",
+      "cefr": "A2",
+      "note_th": "brave = กล้าเผชิญสิ่งน่ากลัว (bravery = ความกล้า) — ใช้กับการกล้าทำสิ่งถูกต้องได้ ไม่ใช่แค่สู้กับอันตราย",
+      "distractors": [
+        "bread",
+        "brake",
+        "grave"
+      ]
+    },
+    {
+      "id": "gentle",
+      "word": "gentle",
+      "pos": "adjective",
+      "ipa": "/ˈdʒentl/",
+      "reading_th": "เจน-เทิ่ล",
+      "meaning_th": "อ่อนโยน",
+      "emoji": "🌸",
+      "example_en": "He is gentle with children and animals.",
+      "example_th": "เขาอ่อนโยนกับเด็กและสัตว์",
+      "cefr": "A2",
+      "note_th": "gentle = อ่อนโยน นุ่มนวล (gentle with someone) — gentleman = สุภาพบุรุษ, gently = เบาๆ (ใช้บอกวิธีทำ)",
+      "distractors": [
+        "gently",
+        "genuine",
+        "gentleman"
+      ]
+    },
+    {
+      "id": "warm_hearted",
+      "word": "warm-hearted",
+      "pos": "adjective",
+      "ipa": "/ˌwɔːrm ˈhɑːrtɪd/",
+      "reading_th": "วอร์ม ฮาร์-ทิด",
+      "meaning_th": "จิตใจอบอุ่น",
+      "emoji": "☀️",
+      "example_en": "The villagers were warm-hearted and invited us to dinner.",
+      "example_th": "ชาวบ้านจิตใจอบอุ่นและชวนเรากินข้าวเย็น",
+      "cefr": "B1",
+      "note_th": "warm-hearted = ใจดีแบบอบอุ่น ตรงข้ามกับ cold-hearted = ใจเย็นชา — คำผสมกับ -hearted มีอีก เช่น kind-hearted, big-hearted",
+      "distractors": [
+        "cold-hearted",
+        "hard-hearted",
+        "warm-blooded"
+      ]
+    },
+    {
+      "id": "selfish",
+      "word": "selfish",
+      "pos": "adjective",
+      "ipa": "/ˈselfɪʃ/",
+      "reading_th": "เซล-ฟิช",
+      "meaning_th": "เห็นแก่ตัว",
+      "emoji": "🙅",
+      "example_en": "It is selfish to take the last piece without asking.",
+      "example_th": "หยิบชิ้นสุดท้ายโดยไม่ถามถือว่าเห็นแก่ตัว",
+      "cefr": "A2",
+      "note_th": "selfish = นึกถึงแต่ตัวเอง ส่วน self-centered = เอาตัวเองเป็นศูนย์กลาง (ใกล้กัน) — selfishness = ความเห็นแก่ตัว",
+      "distractors": [
+        "shellfish",
+        "selfless",
+        "self"
+      ]
+    },
+    {
+      "id": "rude",
+      "word": "rude",
+      "pos": "adjective",
+      "ipa": "/ruːd/",
+      "reading_th": "รูด",
+      "meaning_th": "หยาบคาย",
+      "emoji": "😠",
+      "example_en": "It is rude to point your feet at someone in Thailand.",
+      "example_th": "การชี้เท้าใส่คนอื่นถือว่าหยาบคายในเมืองไทย",
+      "cefr": "A2",
+      "note_th": "rude = ไม่มีมารยาท ตรงข้าม polite — rudeness = ความหยาบคาย; I don't mean to be rude, but... = ไม่ได้ตั้งใจจะเสียมารยาทนะ แต่...",
+      "distractors": [
+        "crude",
+        "ride",
+        "mood"
+      ]
+    },
+    {
+      "id": "arrogant",
+      "word": "arrogant",
+      "pos": "adjective",
+      "ipa": "/ˈærəɡənt/",
+      "reading_th": "แอ-โร-เกินท์",
+      "meaning_th": "หยิ่งยโส",
+      "emoji": "😏",
+      "example_en": "He became arrogant after his first big success.",
+      "example_th": "เขาหยิ่งยโสหลังประสบความสำเร็จครั้งแรก",
+      "cefr": "B1",
+      "note_th": "arrogant = คิดว่าตัวเองเหนือกว่าคนอื่น (arrogance = ความหยิ่ง) — ต่างจาก confident ที่มั่นใจแต่ไม่ดูถูกใคร",
+      "distractors": [
+        "elegant",
+        "ignorant",
+        "argument"
+      ]
+    },
+    {
+      "id": "stubborn",
+      "word": "stubborn",
+      "pos": "adjective",
+      "ipa": "/ˈstʌbərn/",
+      "reading_th": "สตับ-เบิร์น",
+      "meaning_th": "ดื้อรั้น",
+      "emoji": "🐐",
+      "example_en": "My grandfather is too stubborn to see a doctor.",
+      "example_th": "คุณตาดื้อเกินกว่าจะยอมไปหาหมอ",
+      "cefr": "B1",
+      "note_th": "stubborn = ดื้อไม่ยอมเปลี่ยนใจ (as stubborn as a mule = ดื้อเป็นล่อ) — คำกลางๆ กว่าคือ strong-willed",
+      "distractors": [
+        "stubble",
+        "suburb",
+        "sudden"
+      ]
+    },
+    {
+      "id": "greedy",
+      "word": "greedy",
+      "pos": "adjective",
+      "ipa": "/ˈɡriːdi/",
+      "reading_th": "กรี-ดี้",
+      "meaning_th": "โลภ",
+      "emoji": "💰",
+      "example_en": "Do not be greedy; leave some cake for the others.",
+      "example_th": "อย่าโลภ เหลือเค้กไว้ให้คนอื่นบ้าง",
+      "cefr": "A2",
+      "note_th": "greedy = อยากได้มากกว่าที่ควร ใช้กับเงิน อาหาร อำนาจ — greed = ความโลภ และ greedy for = กระหาย (greedy for power)",
+      "distractors": [
+        "greet",
+        "grieve",
+        "gritty"
+      ]
+    },
+    {
+      "id": "nasty",
+      "word": "nasty",
+      "pos": "adjective",
+      "ipa": "/ˈnæsti/",
+      "reading_th": "แนส-ที่",
+      "meaning_th": "ร้ายกาจ / น่ารังเกียจ",
+      "emoji": "😈",
+      "example_en": "Stop being nasty to your little brother.",
+      "example_th": "เลิกทำตัวร้ายกับน้องชายได้แล้ว",
+      "cefr": "B1",
+      "note_th": "nasty = ใจร้ายหรือน่ารังเกียจ ใช้กับคน คำพูด (a nasty comment) กลิ่น และแผล (a nasty cut) — ภาษาพูด แรงกว่า unkind",
+      "distractors": [
+        "tasty",
+        "hasty",
+        "nest"
+      ]
+    },
+    {
+      "id": "bossy",
+      "word": "bossy",
+      "pos": "adjective",
+      "ipa": "/ˈbɒsi/",
+      "reading_th": "บอส-ซี่",
+      "meaning_th": "ชอบสั่ง / เจ้ากี้เจ้าการ",
+      "emoji": "📣",
+      "example_en": "My older sister is so bossy about how to clean the house.",
+      "example_th": "พี่สาวฉันเจ้ากี้เจ้าการเรื่องวิธีทำความสะอาดบ้านมาก",
+      "cefr": "B1",
+      "note_th": "bossy = ชอบสั่งคนอื่นเหมือนเป็นเจ้านายทั้งที่ไม่ใช่ (ภาษาพูด) — ใช้แซวพี่สาวหรือเพื่อนที่คุมทุกอย่าง",
+      "distractors": [
+        "boss",
+        "busy",
+        "bouncy"
+      ]
+    },
+    {
+      "id": "moody",
+      "word": "moody",
+      "pos": "adjective",
+      "ipa": "/ˈmuːdi/",
+      "reading_th": "มู-ดี้",
+      "meaning_th": "อารมณ์ขึ้นลงง่าย",
+      "emoji": "🌦️",
+      "example_en": "Teenagers can be moody, so do not take it personally.",
+      "example_th": "วัยรุ่นอารมณ์ขึ้นลงง่าย อย่าเก็บมาคิดมาก",
+      "cefr": "B1",
+      "note_th": "moody = อารมณ์เปลี่ยนบ่อยคาดเดายาก (จาก mood) — ใช้กับคน และกับเพลง/รูปที่โทนมืดๆ ได้ (a moody photo)",
+      "distractors": [
+        "muddy",
+        "mood",
+        "modest"
+      ]
+    },
+    {
+      "id": "dishonest",
+      "word": "dishonest",
+      "pos": "adjective",
+      "ipa": "/dɪsˈɒnɪst/",
+      "reading_th": "ดิส-ออ-เนสท์",
+      "meaning_th": "ไม่ซื่อสัตย์",
+      "emoji": "🤥",
+      "example_en": "A dishonest seller lied about the condition of the phone.",
+      "example_th": "คนขายที่ไม่ซื่อสัตย์โกหกเรื่องสภาพโทรศัพท์",
+      "cefr": "B1",
+      "note_th": "dis- + honest = ไม่ซื่อสัตย์ ใช้กับคนและการกระทำ (dishonest behavior) — dishonesty = ความไม่ซื่อสัตย์ เหตุผลไล่ออกอันดับต้นๆ",
+      "distractors": [
+        "distant",
+        "honest",
+        "dismiss"
+      ]
+    },
+    {
+      "id": "cruel",
+      "word": "cruel",
+      "pos": "adjective",
+      "ipa": "/ˈkruːəl/",
+      "reading_th": "ครู-เอิ้ล",
+      "meaning_th": "โหดร้าย",
+      "emoji": "🗡️",
+      "example_en": "It is cruel to keep a bird in such a small cage.",
+      "example_th": "การขังนกในกรงเล็กขนาดนั้นเป็นเรื่องโหดร้าย",
+      "cefr": "B1",
+      "note_th": "cruel = ตั้งใจทำให้เจ็บ แรงกว่า mean — cruelty = ความโหดร้าย (animal cruelty = การทารุณสัตว์) และ cruel joke = มุกที่ทำร้ายจิตใจ",
+      "distractors": [
+        "crew",
+        "cool",
+        "crawl"
+      ]
+    },
+    {
+      "id": "impatient",
+      "word": "impatient",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpeɪʃnt/",
+      "reading_th": "อิม-เพ-เชินท์",
+      "meaning_th": "ใจร้อน",
+      "emoji": "⏱️",
+      "example_en": "He is impatient and hates waiting in line.",
+      "example_th": "เขาใจร้อนและเกลียดการต่อแถว",
+      "cefr": "B1",
+      "note_th": "impatient = รอไม่ได้ (impatient with someone / to do something) — ตรงข้าม patient ที่แปลว่าอดทนได้ ซึ่งสะกดเหมือนคนไข้",
+      "distractors": [
+        "important",
+        "impartial",
+        "patience"
+      ]
+    },
+    {
+      "id": "careless",
+      "word": "careless",
+      "pos": "adjective",
+      "ipa": "/ˈkerləs/",
+      "reading_th": "แคร์-เลส",
+      "meaning_th": "สะเพร่า",
+      "emoji": "💥",
+      "example_en": "A careless mistake cost the team the match.",
+      "example_th": "ความผิดพลาดที่สะเพร่าทำให้ทีมแพ้",
+      "cefr": "A2",
+      "note_th": "careless = ไม่ใส่ใจจนพลาด ตรงข้าม careful — careless mistake = ข้อผิดพลาดที่ไม่น่าเกิด (เช่น สะกดผิดในข้อสอบ)",
+      "distractors": [
+        "careful",
+        "carefree",
+        "fearless"
+      ]
+    },
+    {
+      "id": "ungrateful",
+      "word": "ungrateful",
+      "pos": "adjective",
+      "ipa": "/ʌnˈɡreɪtfl/",
+      "reading_th": "อัน-เกรท-ฟูล",
+      "meaning_th": "อกตัญญู / ไม่สำนึกบุญคุณ",
+      "emoji": "🙄",
+      "example_en": "It is ungrateful to complain about a free gift.",
+      "example_th": "บ่นเรื่องของขวัญฟรีนี่ไม่สำนึกบุญคุณเลย",
+      "cefr": "B1",
+      "note_th": "ungrateful = ไม่รู้คุณคน (un + grateful) — คำด่าที่แรงในวัฒนธรรมไทย ใช้ an ungrateful child = ลูกอกตัญญู",
+      "distractors": [
+        "grateful",
+        "unfaithful",
+        "ungraceful"
+      ]
+    },
+    {
+      "id": "two_faced",
+      "word": "two-faced",
+      "pos": "adjective",
+      "ipa": "/ˌtuː ˈfeɪst/",
+      "reading_th": "ทู เฟสท์",
+      "meaning_th": "ตีสองหน้า",
+      "emoji": "🎭",
+      "example_en": "She is two-faced: nice to you, then gossiping behind your back.",
+      "example_th": "เธอตีสองหน้า ต่อหน้าดี ลับหลังนินทา",
+      "cefr": "B2",
+      "note_th": "two-faced = ต่อหน้าอย่างลับหลังอย่าง ภาษาพูดที่ตรงกับ \"ตีสองหน้า\" เป๊ะ — ใกล้เคียงกับ fake และ hypocrite (คนหน้าไหว้หลังหลอก)",
+      "distractors": [
+        "two-sided",
+        "red-faced",
+        "half-faced"
+      ]
+    },
+    {
+      "id": "outgoing",
+      "word": "outgoing",
+      "pos": "adjective",
+      "ipa": "/ˌaʊtˈɡoʊɪŋ/",
+      "reading_th": "เอาท์-โก-อิง",
+      "meaning_th": "ชอบเข้าสังคม",
+      "emoji": "🎉",
+      "example_en": "She is outgoing and makes friends wherever she goes.",
+      "example_th": "เธอชอบเข้าสังคมและมีเพื่อนทุกที่ที่ไป",
+      "cefr": "B1",
+      "note_th": "outgoing = กล้าคุยกับคนแปลกหน้า คำชมในเรซูเม่สายขาย — ในอีเมล outgoing mail = จดหมายขาออก",
+      "distractors": [
+        "ongoing",
+        "outstanding",
+        "outcome"
+      ]
+    },
+    {
+      "id": "reserved",
+      "word": "reserved",
+      "pos": "adjective",
+      "ipa": "/rɪˈzɜːrvd/",
+      "reading_th": "ริ-เซิร์ฟด์",
+      "meaning_th": "เก็บตัวเงียบๆ",
+      "emoji": "🤫",
+      "example_en": "He seems reserved at first, but he is funny once you know him.",
+      "example_th": "ตอนแรกเขาดูเงียบเก็บตัว แต่พอสนิทแล้วตลกมาก",
+      "cefr": "B2",
+      "note_th": "reserved = ไม่ค่อยแสดงความรู้สึก (สุภาพกว่า shy) — ป้าย Reserved บนโต๊ะ = จองแล้ว คนละความหมาย",
+      "distractors": [
+        "reversed",
+        "reserve",
+        "preserved"
+      ]
+    },
+    {
+      "id": "talkative",
+      "word": "talkative",
+      "pos": "adjective",
+      "ipa": "/ˈtɔːkətɪv/",
+      "reading_th": "ทอล์ค-คะ-ทิฟ",
+      "meaning_th": "ช่างพูด",
+      "emoji": "💬",
+      "example_en": "My uncle is so talkative that dinner takes three hours.",
+      "example_th": "ลุงฉันช่างพูดมากจนมื้อเย็นกินไปสามชั่วโมง",
+      "cefr": "A2",
+      "note_th": "talkative = พูดเก่งพูดเยอะ (กลางๆ) ส่วน chatty = คุยเล่นเพลิน — ตรงข้ามคือ quiet หรือ a man of few words",
+      "distractors": [
+        "talented",
+        "tentative",
+        "talking"
+      ]
+    },
+    {
+      "id": "sociable",
+      "word": "sociable",
+      "pos": "adjective",
+      "ipa": "/ˈsoʊʃəbl/",
+      "reading_th": "โซ-ชะ-เบิ้ล",
+      "meaning_th": "ชอบคบหาผู้คน",
+      "emoji": "🥂",
+      "example_en": "Cats are less sociable than dogs, but mine loves visitors.",
+      "example_th": "แมวเข้าสังคมน้อยกว่าหมา แต่แมวฉันชอบแขก",
+      "cefr": "B1",
+      "note_th": "sociable = ชอบอยู่กับคน ใกล้เคียง outgoing — social = เกี่ยวกับสังคม (social media) ไม่ได้แปลว่าชอบเข้าสังคม",
+      "distractors": [
+        "social",
+        "socialize",
+        "suitable"
+      ]
+    },
+    {
+      "id": "introvert",
+      "word": "introvert",
+      "pos": "noun",
+      "ipa": "/ˈɪntrəvɜːrt/",
+      "reading_th": "อิน-โทร-เวิร์ท",
+      "meaning_th": "คนเก็บตัว (ชาร์จพลังจากการอยู่คนเดียว)",
+      "emoji": "📚",
+      "example_en": "As an introvert, I need quiet time after a party.",
+      "example_th": "ในฐานะคนเก็บตัว ฉันต้องการเวลาเงียบๆ หลังปาร์ตี้",
+      "cefr": "B1",
+      "note_th": "introvert = คนที่ได้พลังจากการอยู่คนเดียว ไม่ได้แปลว่าขี้อาย — เป็นคำนาม (I'm an introvert) คำคุณศัพท์คือ introverted",
+      "distractors": [
+        "extrovert",
+        "invert",
+        "introduce"
+      ]
+    },
+    {
+      "id": "extrovert",
+      "word": "extrovert",
+      "pos": "noun",
+      "ipa": "/ˈekstrəvɜːrt/",
+      "reading_th": "เอ็กซ์-โทร-เวิร์ท",
+      "meaning_th": "คนชอบสังคม (ชาร์จพลังจากผู้คน)",
+      "emoji": "🎤",
+      "example_en": "An extrovert gets energy from being around people.",
+      "example_th": "คนชอบสังคมได้พลังจากการอยู่กับผู้คน",
+      "cefr": "B1",
+      "note_th": "extrovert ตรงข้าม introvert — ตามทฤษฎีบุคลิกภาพ (MBTI ตัว E/I) ส่วน ambivert = ก้ำกึ่งทั้งสองแบบ",
+      "distractors": [
+        "introvert",
+        "expert",
+        "extra"
+      ]
+    },
+    {
+      "id": "laid_back",
+      "word": "laid-back",
+      "pos": "adjective",
+      "ipa": "/ˌleɪd ˈbæk/",
+      "reading_th": "เลด แบ็ค",
+      "meaning_th": "สบายๆ ไม่เครียด",
+      "emoji": "🌴",
+      "example_en": "Our new manager is laid-back and trusts the team.",
+      "example_th": "ผู้จัดการคนใหม่สบายๆ และไว้ใจทีม",
+      "cefr": "B2",
+      "note_th": "laid-back = ไม่เครียด ไม่เร่งรีบ (ภาษาพูด) ใช้กับคน เมือง หรือบรรยากาศ (a laid-back beach town) — อย่าเขียน lay-back",
+      "distractors": [
+        "laid off",
+        "set back",
+        "lay back"
+      ]
+    },
+    {
+      "id": "chatty",
+      "word": "chatty",
+      "pos": "adjective",
+      "ipa": "/ˈtʃæti/",
+      "reading_th": "แชท-ที่",
+      "meaning_th": "ชอบคุยเล่น",
+      "emoji": "🗨️",
+      "example_en": "The taxi driver was chatty and told me about his hometown.",
+      "example_th": "คนขับแท็กซี่ชอบคุยเล่นและเล่าเรื่องบ้านเกิดให้ฟัง",
+      "cefr": "B1",
+      "note_th": "chatty = คุยเล่นเพลินแบบเป็นกันเอง (จาก chat) — a chatty email = อีเมลที่เขียนแบบคุยๆ ไม่เป็นทางการ",
+      "distractors": [
+        "catty",
+        "chilly",
+        "cheesy"
+      ]
+    },
+    {
+      "id": "people_person",
+      "word": "people person",
+      "pos": "noun",
+      "ipa": "/ˈpiːpl pɜːrsn/",
+      "reading_th": "พี-เพิ่ล เพอร์-เซิน",
+      "meaning_th": "คนที่เข้ากับคนง่าย",
+      "emoji": "🤝",
+      "example_en": "You should work in sales because you are a people person.",
+      "example_th": "คุณน่าจะทำงานขาย เพราะเป็นคนเข้ากับคนง่าย",
+      "cefr": "B2",
+      "note_th": "a people person = คนที่ชอบและเก่งเรื่องคน ใช้ในสัมภาษณ์งาน — ตรงข้ามแบบแซวๆ คือ not a people person = ไม่ถนัดเรื่องคน",
+      "distractors": [
+        "people pleaser",
+        "party animal",
+        "cat person"
+      ]
+    },
+    {
+      "id": "loner",
+      "word": "loner",
+      "pos": "noun",
+      "ipa": "/ˈloʊnər/",
+      "reading_th": "โล-เนอร์",
+      "meaning_th": "คนชอบอยู่คนเดียว",
+      "emoji": "🚶",
+      "example_en": "He is a loner who prefers hiking alone.",
+      "example_th": "เขาเป็นคนชอบอยู่คนเดียว ชอบเดินป่าตามลำพัง",
+      "cefr": "B2",
+      "note_th": "loner = คนที่เลือกอยู่คนเดียว (ไม่ได้แปลว่าเหงา) — ความหมายกลางๆ ถึงลบนิดๆ ถ้าจะชมใช้ independent แทน",
+      "distractors": [
+        "loaner",
+        "lonely",
+        "owner"
+      ]
+    },
+    {
+      "id": "charismatic",
+      "word": "charismatic",
+      "pos": "adjective",
+      "ipa": "/ˌkærɪzˈmætɪk/",
+      "reading_th": "แค-ริส-แม-ทิค",
+      "meaning_th": "มีเสน่ห์ดึงดูดผู้คน",
+      "emoji": "✨",
+      "example_en": "The charismatic speaker had the whole hall laughing.",
+      "example_th": "ผู้พูดที่มีเสน่ห์ดึงดูดทำให้ทั้งห้องหัวเราะ",
+      "cefr": "B2",
+      "note_th": "charismatic = มีพลังดึงดูดจนคนอยากฟังและทำตาม (charisma = เสน่ห์ผู้นำ) — ใช้กับผู้นำ นักพูด ดารา",
+      "distractors": [
+        "chromatic",
+        "charming",
+        "dramatic"
+      ]
+    },
+    {
+      "id": "hilarious",
+      "word": "hilarious",
+      "pos": "adjective",
+      "ipa": "/hɪˈleriəs/",
+      "reading_th": "ฮิ-แล-เรียส",
+      "meaning_th": "ตลกมาก",
+      "emoji": "🤣",
+      "example_en": "My best friend is hilarious; my stomach hurts from laughing.",
+      "example_th": "เพื่อนสนิทฉันตลกมาก ปวดท้องเพราะหัวเราะเลย",
+      "cefr": "B1",
+      "note_th": "hilarious = funny ระดับขำจนท้องแข็ง ไม่ใช้ very นำหน้า (absolutely hilarious ได้) — ใช้ชมคน หนัง และมีม",
+      "distractors": [
+        "hilarity",
+        "delirious",
+        "glorious"
+      ]
+    },
+    {
+      "id": "witty",
+      "word": "witty",
+      "pos": "adjective",
+      "ipa": "/ˈwɪti/",
+      "reading_th": "วิท-ที่",
+      "meaning_th": "มีไหวพริบตลกคม",
+      "emoji": "🧠",
+      "example_en": "Her witty reply made even the boss laugh.",
+      "example_th": "คำตอบที่คมคายของเธอทำให้แม้แต่หัวหน้ายังหัวเราะ",
+      "cefr": "B2",
+      "note_th": "witty = ตลกแบบฉลาด เล่นคำเก่ง (wit = ไหวพริบ) ต่างจาก funny ที่ตลกทั่วไป — a witty remark = คำพูดคมคาย",
+      "distractors": [
+        "witness",
+        "wiry",
+        "gritty"
+      ]
+    },
+    {
+      "id": "down_to_earth",
+      "word": "down-to-earth",
+      "pos": "adjective",
+      "ipa": "/ˌdaʊn tə ˈɜːrθ/",
+      "reading_th": "ดาวน์ ทู เอิร์ธ",
+      "meaning_th": "ติดดิน",
+      "emoji": "🌱",
+      "example_en": "The singer is down-to-earth and chats with every fan.",
+      "example_th": "นักร้องคนนี้ติดดินและคุยกับแฟนทุกคน",
+      "cefr": "B2",
+      "note_th": "down-to-earth = ติดดิน เรียบง่าย ไม่ถือตัว (คำชม) — ภาษาไทยใช้ \"ติดดิน\" ตรงกันพอดี",
+      "distractors": [
+        "down to business",
+        "up-to-date",
+        "earthy"
+      ]
+    },
+    {
+      "id": "organized",
+      "word": "organized",
+      "pos": "adjective",
+      "ipa": "/ˈɔːrɡənaɪzd/",
+      "reading_th": "ออร์-กะ-ไนซด์",
+      "meaning_th": "เป็นระเบียบ มีการจัดการ",
+      "emoji": "🗂️",
+      "example_en": "She is so organized that her desk never has a loose paper.",
+      "example_th": "เธอเป็นระเบียบมากจนโต๊ะไม่เคยมีกระดาษเกะกะ",
+      "cefr": "B1",
+      "note_th": "organized = จัดการงานและของเป็นระบบ (อังกฤษสะกด organised) — well-organized = จัดการดีมาก, disorganized = ยุ่งเหยิง",
+      "distractors": [
+        "organic",
+        "organize",
+        "disorganized"
+      ]
+    },
+    {
+      "id": "ambitious",
+      "word": "ambitious",
+      "pos": "adjective",
+      "ipa": "/æmˈbɪʃəs/",
+      "reading_th": "แอม-บิ-เชิส",
+      "meaning_th": "ทะเยอทะยาน",
+      "emoji": "🚀",
+      "example_en": "He is ambitious and wants to be a director by thirty.",
+      "example_th": "เขาทะเยอทะยานและอยากเป็นผู้อำนวยการก่อนอายุสามสิบ",
+      "cefr": "B1",
+      "note_th": "ambitious ในภาษาอังกฤษเป็นคำชม (มีเป้าหมายสูง) ต่างจาก \"ทะเยอทะยาน\" ไทยที่ฟังดูลบ — an ambitious plan = แผนที่ตั้งเป้าสูง",
+      "distractors": [
+        "ambiguous",
+        "anxious",
+        "ambitiously"
+      ]
+    },
+    {
+      "id": "competitive",
+      "word": "competitive",
+      "pos": "adjective",
+      "ipa": "/kəmˈpetətɪv/",
+      "reading_th": "คอม-เพ-ทะ-ทิฟ",
+      "meaning_th": "ชอบแข่งขัน",
+      "emoji": "🏆",
+      "example_en": "My brother is so competitive that he hates losing at cards.",
+      "example_th": "พี่ชายฉันชอบแข่งขันมากจนเกลียดการแพ้ไพ่",
+      "cefr": "B1",
+      "note_th": "competitive = ชอบเอาชนะ (คน) หรือแข่งขันสูง (ตลาด, ราคา: competitive price = ราคาสู้ได้) — บริบทบอกความหมาย",
+      "distractors": [
+        "competent",
+        "compatible",
+        "comparative"
+      ]
+    },
+    {
+      "id": "perfectionist",
+      "word": "perfectionist",
+      "pos": "noun",
+      "ipa": "/pərˈfekʃənɪst/",
+      "reading_th": "เพอร์-เฟค-ชัน-นิสท์",
+      "meaning_th": "คนที่ต้องการความสมบูรณ์แบบ",
+      "emoji": "🎯",
+      "example_en": "Being a perfectionist means I rewrite every email three times.",
+      "example_th": "การเป็นคนสมบูรณ์แบบนิยมทำให้ฉันเขียนอีเมลใหม่สามรอบทุกฉบับ",
+      "cefr": "B2",
+      "note_th": "perfectionist = คนที่ไม่พอใจจนกว่าจะเพอร์เฟกต์ ใช้ตอบคำถาม \"จุดอ่อนของคุณคืออะไร\" ในสัมภาษณ์บ่อยจนเชย",
+      "distractors": [
+        "perfection",
+        "perfectly",
+        "pessimist"
+      ]
+    },
+    {
+      "id": "workaholic",
+      "word": "workaholic",
+      "pos": "noun",
+      "ipa": "/ˌwɜːrkəˈhɒlɪk/",
+      "reading_th": "เวิร์ค-กะ-ฮอ-ลิค",
+      "meaning_th": "คนบ้างาน",
+      "emoji": "🏢",
+      "example_en": "My dad is a workaholic who answers emails at midnight.",
+      "example_th": "พ่อฉันเป็นคนบ้างานที่ตอบอีเมลตอนเที่ยงคืน",
+      "cefr": "B1",
+      "note_th": "workaholic มาจาก work + alcoholic = เสพติดงาน — ใช้เป็นคำนาม (be a workaholic) ส่วนคำแบบเดียวกัน: shopaholic, chocoholic",
+      "distractors": [
+        "alcoholic",
+        "workforce",
+        "workshop"
+      ]
+    },
+    {
+      "id": "procrastinate",
+      "word": "procrastinate",
+      "pos": "verb",
+      "ipa": "/proʊˈkræstɪneɪt/",
+      "reading_th": "โพร-แครส-ทิ-เนท",
+      "meaning_th": "ผัดวันประกันพรุ่ง",
+      "emoji": "⏳",
+      "example_en": "I always procrastinate until the night before the deadline.",
+      "example_th": "ฉันผัดวันประกันพรุ่งจนถึงคืนก่อนเดดไลน์เสมอ",
+      "cefr": "B2",
+      "note_th": "procrastinate = เลื่อนงานที่ควรทำออกไปเรื่อยๆ — procrastination = การผัดวัน, procrastinator = คนชอบผัดวัน ศัพท์ฮิตของคนเรียนและทำงาน",
+      "distractors": [
+        "proclaim",
+        "concentrate",
+        "prostrate"
+      ]
+    },
+    {
+      "id": "independent",
+      "word": "independent",
+      "pos": "adjective",
+      "ipa": "/ˌɪndɪˈpendənt/",
+      "reading_th": "อิน-ดิ-เพน-เดินท์",
+      "meaning_th": "ทำงานได้ด้วยตัวเอง / เป็นตัวของตัวเอง",
+      "emoji": "🧭",
+      "example_en": "She is independent and does not need to be told what to do.",
+      "example_th": "เธอทำงานได้ด้วยตัวเองโดยไม่ต้องมีใครบอก",
+      "cefr": "B1",
+      "note_th": "independent = พึ่งตัวเองได้ ตรงข้าม dependent (on someone) — independence = อิสรภาพ, an independent film = หนังอินดี้",
+      "distractors": [
+        "dependent",
+        "independence",
+        "indecent"
+      ]
+    },
+    {
+      "id": "team_player",
+      "word": "team player",
+      "pos": "noun",
+      "ipa": "/ˈtiːm pleɪər/",
+      "reading_th": "ทีม เพลย์-เออร์",
+      "meaning_th": "คนทำงานเป็นทีมได้ดี",
+      "emoji": "🤝",
+      "example_en": "We are looking for a team player who shares credit.",
+      "example_th": "เรามองหาคนทำงานเป็นทีมที่รู้จักแบ่งเครดิต",
+      "cefr": "B1",
+      "note_th": "team player = คนที่ร่วมมือเพื่อทีมไม่ใช่เพื่อตัวเอง คำยอดฮิตในประกาศรับสมัครงาน — ไม่ได้แปลว่านักกีฬา",
+      "distractors": [
+        "team leader",
+        "team spirit",
+        "player"
+      ]
+    },
+    {
+      "id": "proactive",
+      "word": "proactive",
+      "pos": "adjective",
+      "ipa": "/ˌproʊˈæktɪv/",
+      "reading_th": "โพร-แอค-ทิฟ",
+      "meaning_th": "เชิงรุก / คิดล่วงหน้าแล้วลงมือ",
+      "emoji": "⚡",
+      "example_en": "A proactive employee fixes problems before the boss notices.",
+      "example_th": "พนักงานเชิงรุกจะแก้ปัญหาก่อนหัวหน้าจะสังเกตเห็น",
+      "cefr": "B2",
+      "note_th": "proactive = ไม่รอให้ถูกสั่ง ตรงข้าม reactive = รอแก้ตอนเกิดปัญหา — be proactive คือข้อแรกใน 7 Habits ที่คนทำงานอ้างถึงบ่อย",
+      "distractors": [
+        "reactive",
+        "productive",
+        "protective"
+      ]
+    },
+    {
+      "id": "disciplined",
+      "word": "disciplined",
+      "pos": "adjective",
+      "ipa": "/ˈdɪsəplɪnd/",
+      "reading_th": "ดิส-ซะ-พลินด์",
+      "meaning_th": "มีวินัย",
+      "emoji": "🧘",
+      "example_en": "You need to be disciplined to study English every day.",
+      "example_th": "คุณต้องมีวินัยถึงจะเรียนภาษาอังกฤษได้ทุกวัน",
+      "cefr": "B1",
+      "note_th": "disciplined = ทำตามแผนอย่างสม่ำเสมอ (discipline = วินัย) — self-discipline = วินัยในตัวเอง สะกดยาก: s-c-i-p-l-i-n-e",
+      "distractors": [
+        "discipline",
+        "disconnected",
+        "described"
+      ]
+    },
+    {
+      "id": "meticulous",
+      "word": "meticulous",
+      "pos": "adjective",
+      "ipa": "/məˈtɪkjələs/",
+      "reading_th": "มะ-ทิค-คิว-เลิส",
+      "meaning_th": "ละเอียดถี่ถ้วน",
+      "emoji": "🔬",
+      "example_en": "Our accountant is meticulous and checks every receipt twice.",
+      "example_th": "นักบัญชีของเราละเอียดถี่ถ้วน ตรวจทุกใบเสร็จสองรอบ",
+      "cefr": "B2",
+      "note_th": "meticulous = ใส่ใจรายละเอียดทุกจุด (คำชมในรีวิวพนักงาน) — meticulous about + สิ่งที่ละเอียด แรงกว่า careful",
+      "distractors": [
+        "ridiculous",
+        "miraculous",
+        "meticulously"
+      ]
+    },
+    {
+      "id": "multitask",
+      "word": "multitask",
+      "pos": "verb",
+      "ipa": "/ˌmʌltiˈtæsk/",
+      "reading_th": "มัล-ติ-ทาสค์",
+      "meaning_th": "ทำหลายอย่างพร้อมกัน",
+      "emoji": "🤹",
+      "example_en": "I cannot multitask; I need to finish one thing at a time.",
+      "example_th": "ฉันทำหลายอย่างพร้อมกันไม่ได้ ต้องทำทีละอย่าง",
+      "cefr": "B1",
+      "note_th": "multitask (กริยา) = ทำหลายงานพร้อมกัน — multitasking (noun) ใช้ในเรซูเม่ แต่ยุคนี้งานวิจัยบอกว่าทำให้ประสิทธิภาพลด",
+      "distractors": [
+        "multiply",
+        "multiple",
+        "mask"
+      ]
+    },
+    {
+      "id": "self_motivated",
+      "word": "self-motivated",
+      "pos": "adjective",
+      "ipa": "/ˌself ˈmoʊtɪveɪtɪd/",
+      "reading_th": "เซลฟ์ โม-ทิ-เว-ทิด",
+      "meaning_th": "มีแรงผลักดันในตัวเอง",
+      "emoji": "🔋",
+      "example_en": "Remote work suits people who are self-motivated.",
+      "example_th": "งานทางไกลเหมาะกับคนที่มีแรงผลักดันในตัวเอง",
+      "cefr": "B2",
+      "note_th": "self-motivated = ทำงานได้โดยไม่ต้องมีใครกระตุ้น คำยอดฮิตใน job description — self- + คำอื่น: self-taught, self-employed",
+      "distractors": [
+        "self-employed",
+        "self-centered",
+        "motivated"
+      ]
+    },
+    {
+      "id": "go_getter",
+      "word": "go-getter",
+      "pos": "noun",
+      "ipa": "/ˈɡoʊ ɡetər/",
+      "reading_th": "โก เก็ท-เทอร์",
+      "meaning_th": "คนมุ่งมั่นไขว่คว้า",
+      "emoji": "🏃",
+      "example_en": "She is a real go-getter who started two businesses before 25.",
+      "example_th": "เธอเป็นคนมุ่งมั่นไขว่คว้าตัวจริง เปิดสองธุรกิจก่อนอายุ 25",
+      "cefr": "B2",
+      "note_th": "go-getter = คนที่ลงมือไขว่คว้าโอกาสทันที ภาษาพูดแบบอเมริกัน — ความหมายบวก ใช้ชมคนที่ ambitious และ proactive",
+      "distractors": [
+        "go-between",
+        "goal-getter",
+        "get-go"
+      ]
+    },
+    {
+      "id": "optimistic",
+      "word": "optimistic",
+      "pos": "adjective",
+      "ipa": "/ˌɒptɪˈmɪstɪk/",
+      "reading_th": "ออพ-ทิ-มิส-ติค",
+      "meaning_th": "มองโลกในแง่ดี",
+      "emoji": "🌈",
+      "example_en": "She is optimistic that the business will recover next year.",
+      "example_th": "เธอมองโลกในแง่ดีว่าธุรกิจจะฟื้นปีหน้า",
+      "cefr": "B1",
+      "note_th": "optimistic about + เรื่อง — optimist = คนมองโลกแง่ดี, optimism = การมองโลกแง่ดี ตรงข้ามคือ pessimistic",
+      "distractors": [
+        "optimal",
+        "optimist",
+        "pessimistic"
+      ]
+    },
+    {
+      "id": "pessimistic",
+      "word": "pessimistic",
+      "pos": "adjective",
+      "ipa": "/ˌpesɪˈmɪstɪk/",
+      "reading_th": "เพส-ซิ-มิส-ติค",
+      "meaning_th": "มองโลกในแง่ร้าย",
+      "emoji": "🌧️",
+      "example_en": "Do not be so pessimistic; the exam might go well.",
+      "example_th": "อย่ามองโลกในแง่ร้ายขนาดนั้น สอบอาจจะออกมาดีก็ได้",
+      "cefr": "B1",
+      "note_th": "pessimistic = คาดว่าสิ่งแย่จะเกิด — มุกคลาสสิก: แก้วมีน้ำครึ่งแก้ว คนแง่ร้ายบอก half empty คนแง่ดีบอก half full",
+      "distractors": [
+        "optimistic",
+        "pessimist",
+        "realistic"
+      ]
+    },
+    {
+      "id": "open_minded",
+      "word": "open-minded",
+      "pos": "adjective",
+      "ipa": "/ˌoʊpən ˈmaɪndɪd/",
+      "reading_th": "โอ-เพ่น ไมน์-ดิด",
+      "meaning_th": "เปิดกว้างทางความคิด",
+      "emoji": "🌍",
+      "example_en": "Travel makes people more open-minded about other cultures.",
+      "example_th": "การเดินทางทำให้คนเปิดกว้างทางความคิดต่อวัฒนธรรมอื่น",
+      "cefr": "B1",
+      "note_th": "open-minded = ยอมรับความคิดที่ต่างจากตัวเอง — ใช้ชมในบริบทวัฒนธรรมและความหลากหลาย ตรงข้าม narrow-minded",
+      "distractors": [
+        "open-ended",
+        "absent-minded",
+        "single-minded"
+      ]
+    },
+    {
+      "id": "narrow_minded",
+      "word": "narrow-minded",
+      "pos": "adjective",
+      "ipa": "/ˌnæroʊ ˈmaɪndɪd/",
+      "reading_th": "แน-โร ไมน์-ดิด",
+      "meaning_th": "ใจแคบ",
+      "emoji": "🚪",
+      "example_en": "It is narrow-minded to judge people by their clothes.",
+      "example_th": "การตัดสินคนจากเสื้อผ้าเป็นเรื่องใจแคบ",
+      "cefr": "B2",
+      "note_th": "narrow-minded = ไม่ยอมรับความคิดที่ต่างออกไป — ใกล้เคียง closed-minded; ส่วน small-minded = คิดเล็กคิดน้อย",
+      "distractors": [
+        "narrow",
+        "like-minded",
+        "broad-minded"
+      ]
+    },
+    {
+      "id": "creative",
+      "word": "creative",
+      "pos": "adjective",
+      "ipa": "/kriˈeɪtɪv/",
+      "reading_th": "ครี-เอ-ทิฟ",
+      "meaning_th": "มีความคิดสร้างสรรค์",
+      "emoji": "🎨",
+      "example_en": "You need to be creative to make a viral video on a tiny budget.",
+      "example_th": "ต้องมีความคิดสร้างสรรค์ถึงจะทำวิดีโอไวรัลด้วยงบน้อยๆ ได้",
+      "cefr": "A2",
+      "note_th": "creative = คิดสิ่งใหม่ได้ (creativity = ความคิดสร้างสรรค์) — ไทยพูด \"ครีเอทีฟ\" เป็นอาชีพ แต่ภาษาอังกฤษเป็นคำคุณศัพท์เป็นหลัก",
+      "distractors": [
+        "creature",
+        "created",
+        "curative"
+      ]
+    },
+    {
+      "id": "rational",
+      "word": "rational",
+      "pos": "adjective",
+      "ipa": "/ˈræʃnəl/",
+      "reading_th": "แรช-ชะ-เนิ่ล",
+      "meaning_th": "ใช้เหตุผลไม่ใช้อารมณ์",
+      "emoji": "🧩",
+      "example_en": "He stays rational even when everyone else panics.",
+      "example_th": "เขายังใช้เหตุผลแม้ทุกคนจะตื่นตระหนก",
+      "cefr": "B2",
+      "note_th": "rational = ตัดสินใจด้วยเหตุผล ตรงข้าม emotional / irrational — a rational decision = การตัดสินใจอย่างมีเหตุผล",
+      "distractors": [
+        "national",
+        "radical",
+        "irrational"
+      ]
+    },
+    {
+      "id": "level_headed",
+      "word": "level-headed",
+      "pos": "adjective",
+      "ipa": "/ˌlevl ˈhedɪd/",
+      "reading_th": "เล-เวิ่ล เฮด-ดิด",
+      "meaning_th": "ใจเย็นมีสติ",
+      "emoji": "⚖️",
+      "example_en": "Stay level-headed when the customer starts shouting.",
+      "example_th": "ตั้งสติใจเย็นเมื่อลูกค้าเริ่มตะโกน",
+      "cefr": "B2",
+      "note_th": "level-headed = คิดอย่างสงบในสถานการณ์กดดัน คำชมสำหรับผู้จัดการและพยาบาล — ใกล้ calm แต่เน้นการตัดสินใจที่ดี",
+      "distractors": [
+        "hot-headed",
+        "light-headed",
+        "level"
+      ]
+    },
+    {
+      "id": "mature",
+      "word": "mature",
+      "pos": "adjective",
+      "ipa": "/məˈtʃʊr/",
+      "reading_th": "มะ-ชัวร์",
+      "meaning_th": "เป็นผู้ใหญ่ (ทางความคิด)",
+      "emoji": "🌳",
+      "example_en": "She is very mature for a fifteen-year-old.",
+      "example_th": "เธอความคิดเป็นผู้ใหญ่มากสำหรับเด็กอายุสิบห้า",
+      "cefr": "B1",
+      "note_th": "mature = โตทางความคิด ไม่ใช่แค่อายุ (maturity = วุฒิภาวะ) — mature content = เนื้อหาสำหรับผู้ใหญ่ ความหมายต่างกัน",
+      "distractors": [
+        "manure",
+        "measure",
+        "nature"
+      ]
+    },
+    {
+      "id": "immature",
+      "word": "immature",
+      "pos": "adjective",
+      "ipa": "/ˌɪməˈtʃʊr/",
+      "reading_th": "อิม-มะ-ชัวร์",
+      "meaning_th": "เด็กๆ / ยังไม่โต",
+      "emoji": "🍼",
+      "example_en": "Making jokes at a funeral is immature.",
+      "example_th": "การเล่นมุกในงานศพเป็นเรื่องเด็กๆ",
+      "cefr": "B1",
+      "note_th": "immature = ทำตัวเหมือนเด็กทั้งที่โตแล้ว (คำติ) — childish ก็คล้ายกัน ส่วน childlike = ไร้เดียงสาแบบน่ารัก",
+      "distractors": [
+        "mature",
+        "premature",
+        "impure"
+      ]
+    },
+    {
+      "id": "confident",
+      "word": "confident",
+      "pos": "adjective",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "reading_th": "คอน-ฟิ-เดินท์",
+      "meaning_th": "มั่นใจในตัวเอง",
+      "emoji": "💪",
+      "example_en": "Practice until you feel confident speaking in front of the class.",
+      "example_th": "ฝึกจนกว่าจะมั่นใจพูดหน้าชั้นเรียน",
+      "cefr": "A2",
+      "note_th": "confident = มั่นใจ (confident about / in) ต่างจาก confidential = เป็นความลับ — คนไทยสับสนสองคำนี้บ่อยในอีเมล",
+      "distractors": [
+        "confidential",
+        "confused",
+        "content"
+      ]
+    },
+    {
+      "id": "determined",
+      "word": "determined",
+      "pos": "adjective",
+      "ipa": "/dɪˈtɜːrmɪnd/",
+      "reading_th": "ดิ-เทอร์-มินด์",
+      "meaning_th": "มุ่งมั่นแน่วแน่",
+      "emoji": "🎯",
+      "example_en": "She is determined to pass the exam this time.",
+      "example_th": "เธอมุ่งมั่นแน่วแน่ว่าจะสอบผ่านครั้งนี้",
+      "cefr": "B1",
+      "note_th": "determined to + กริยา = ตั้งใจแน่วแน่ว่าจะทำให้ได้ — determination = ความมุ่งมั่น คำที่โค้ชกีฬาและครูชอบใช้",
+      "distractors": [
+        "terminated",
+        "deterred",
+        "destined"
+      ]
+    },
+    {
+      "id": "wise",
+      "word": "wise",
+      "pos": "adjective",
+      "ipa": "/waɪz/",
+      "reading_th": "ไวซ์",
+      "meaning_th": "ฉลาดเฉลียวรู้จักชีวิต",
+      "emoji": "🦉",
+      "example_en": "My grandmother is wise and always knows what to say.",
+      "example_th": "คุณยายฉันเป็นคนฉลาดเฉลียวและรู้เสมอว่าควรพูดอะไร",
+      "cefr": "A2",
+      "note_th": "wise = ฉลาดจากประสบการณ์ชีวิต ต่างจาก smart/clever ที่ฉลาดด้านความคิด — wisdom = ปัญญา, a wise decision = การตัดสินใจที่ฉลาด",
+      "distractors": [
+        "wide",
+        "wise up",
+        "wasp"
+      ]
+    },
+    {
+      "id": "naive",
+      "word": "naive",
+      "pos": "adjective",
+      "ipa": "/naɪˈiːv/",
+      "reading_th": "ไน-อีฟ",
+      "meaning_th": "ไร้เดียงสา / เชื่อคนง่าย",
+      "emoji": "🐣",
+      "example_en": "It was naive of me to trust the seller without checking.",
+      "example_th": "ฉันไร้เดียงสาเกินไปที่เชื่อคนขายโดยไม่ตรวจสอบ",
+      "cefr": "B2",
+      "note_th": "naive = ไร้ประสบการณ์จนถูกหลอกง่าย (จากฝรั่งเศส ออกเสียง ไน-อีฟ) — ใช้ติแบบเบาๆ มากกว่า stupid",
+      "distractors": [
+        "native",
+        "knave",
+        "navy"
+      ]
+    },
+    {
+      "id": "realistic",
+      "word": "realistic",
+      "pos": "adjective",
+      "ipa": "/ˌriːəˈlɪstɪk/",
+      "reading_th": "เรีย-ลิส-ติค",
+      "meaning_th": "อยู่กับความจริง",
+      "emoji": "⚖️",
+      "example_en": "Be realistic: you cannot learn 5,000 words in a week.",
+      "example_th": "อยู่กับความจริงหน่อย: คุณเรียนห้าพันคำในสัปดาห์เดียวไม่ได้",
+      "cefr": "B1",
+      "note_th": "realistic = ตั้งเป้าตามความเป็นจริง (a realistic goal) ตรงข้าม unrealistic — ใช้กับภาพหรือเกมที่สมจริงได้ด้วย",
+      "distractors": [
+        "real",
+        "realistically",
+        "idealistic"
+      ]
+    },
+    {
+      "id": "clumsy",
+      "word": "clumsy",
+      "pos": "adjective",
+      "ipa": "/ˈklʌmzi/",
+      "reading_th": "คลัม-ซี่",
+      "meaning_th": "ซุ่มซ่าม",
+      "emoji": "🤕",
+      "example_en": "I am so clumsy that I drop my phone every week.",
+      "example_th": "ฉันซุ่มซ่ามมากจนทำโทรศัพท์ตกทุกสัปดาห์",
+      "cefr": "B1",
+      "note_th": "clumsy = ทำของหล่น เดินชนบ่อย — ใช้กับคำพูดได้ a clumsy apology = คำขอโทษที่พูดไม่เป็น",
+      "distractors": [
+        "clumsily",
+        "crumbly",
+        "classy"
+      ]
+    },
+    {
+      "id": "forgetful",
+      "word": "forgetful",
+      "pos": "adjective",
+      "ipa": "/fərˈɡetfl/",
+      "reading_th": "ฟอร์-เก็ท-ฟูล",
+      "meaning_th": "ขี้ลืม",
+      "emoji": "🤦",
+      "example_en": "My forgetful brother left his keys in the door again.",
+      "example_th": "น้องชายขี้ลืมของฉันลืมกุญแจคาประตูอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "forgetful = ขี้ลืมเป็นนิสัย — ต่างจาก forgettable = ไม่น่าจดจำ (a forgettable movie) และ absent-minded = ใจลอย",
+      "distractors": [
+        "forgettable",
+        "regretful",
+        "fretful"
+      ]
+    },
+    {
+      "id": "picky",
+      "word": "picky",
+      "pos": "adjective",
+      "ipa": "/ˈpɪki/",
+      "reading_th": "พิค-กี้",
+      "meaning_th": "เรื่องมาก / เลือกมาก",
+      "emoji": "🍽️",
+      "example_en": "He is a picky eater who refuses anything green.",
+      "example_th": "เขาเป็นคนกินยากที่ไม่ยอมกินอะไรสีเขียวเลย",
+      "cefr": "B1",
+      "note_th": "picky = เลือกมาก (picky eater = กินยาก, picky about clothes) ภาษาพูด — ทางการกว่าคือ selective หรือ particular",
+      "distractors": [
+        "pick",
+        "sticky",
+        "peaky"
+      ]
+    },
+    {
+      "id": "fussy",
+      "word": "fussy",
+      "pos": "adjective",
+      "ipa": "/ˈfʌsi/",
+      "reading_th": "ฟัส-ซี่",
+      "meaning_th": "จุกจิก",
+      "emoji": "🔍",
+      "example_en": "My aunt is fussy about how the towels are folded.",
+      "example_th": "ป้าฉันจุกจิกเรื่องวิธีพับผ้าขนหนู",
+      "cefr": "B2",
+      "note_th": "fussy = จุกจิกเรื่องเล็กๆ (อังกฤษใช้บ่อย) ใกล้ picky — I'm not fussy = อะไรก็ได้ ประโยคตอบเวลาถูกถามว่าจะกินอะไร",
+      "distractors": [
+        "fuzzy",
+        "fussed",
+        "bossy"
+      ]
+    },
+    {
+      "id": "untidy",
+      "word": "untidy",
+      "pos": "adjective",
+      "ipa": "/ʌnˈtaɪdi/",
+      "reading_th": "อัน-ไท-ดี้",
+      "meaning_th": "ไม่เป็นระเบียบ",
+      "emoji": "🧦",
+      "example_en": "My teenage son is untidy and never makes his bed.",
+      "example_th": "ลูกชายวัยรุ่นของฉันไม่เป็นระเบียบและไม่เคยเก็บที่นอน",
+      "cefr": "B1",
+      "note_th": "untidy = รกไม่เรียบร้อย (un + tidy) สุภาพกว่า messy นิดหน่อย — ใช้กับห้อง โต๊ะ ลายมือ และคน (an untidy desk)",
+      "distractors": [
+        "tidy",
+        "unity",
+        "untied"
+      ]
+    },
+    {
+      "id": "neat",
+      "word": "neat",
+      "pos": "adjective",
+      "ipa": "/niːt/",
+      "reading_th": "นีท",
+      "meaning_th": "เรียบร้อยเป็นระเบียบ",
+      "emoji": "🧹",
+      "example_en": "She keeps her closet so neat that everything is color-coded.",
+      "example_th": "เธอจัดตู้เสื้อผ้าเรียบร้อยจนแยกสีทุกชิ้น",
+      "cefr": "A2",
+      "note_th": "neat = เรียบร้อยสะอาดตา ตรงข้าม messy — neat and tidy = เรียบร้อยเป็นระเบียบ ส่วนอเมริกัน Neat! = เจ๋ง",
+      "distractors": [
+        "net",
+        "need",
+        "knit"
+      ]
+    },
+    {
+      "id": "nosy",
+      "word": "nosy",
+      "pos": "adjective",
+      "ipa": "/ˈnoʊzi/",
+      "reading_th": "โน-ซี่",
+      "meaning_th": "สอดรู้สอดเห็น",
+      "emoji": "👃",
+      "example_en": "Our nosy neighbor asks about every visitor we have.",
+      "example_th": "เพื่อนบ้านขี้สอดรู้ถามเรื่องแขกทุกคนที่มาบ้านเรา",
+      "cefr": "B1",
+      "note_th": "nosy = ชอบยุ่งเรื่องคนอื่น (จาก nose = เอาจมูกไปแหย่) — nosy parker (อังกฤษ) = คนชอบสอดรู้",
+      "distractors": [
+        "noisy",
+        "nasty",
+        "rosy"
+      ]
+    },
+    {
+      "id": "big_mouth",
+      "word": "big mouth",
+      "pos": "noun",
+      "ipa": "/ˌbɪɡ ˈmaʊθ/",
+      "reading_th": "บิ๊ก เมาธ์",
+      "meaning_th": "คนปากโป้ง / เก็บความลับไม่อยู่",
+      "emoji": "📢",
+      "example_en": "Do not tell him anything; he has a big mouth.",
+      "example_th": "อย่าเล่าอะไรให้เขาฟัง เขาปากโป้ง",
+      "cefr": "B2",
+      "note_th": "have a big mouth = เก็บความลับไม่ได้ (ภาษาพูด) — Me and my big mouth! = พูดใช้ตอนเผลอพูดสิ่งที่ไม่ควร",
+      "distractors": [
+        "big head",
+        "loud mouth",
+        "big deal"
+      ]
+    },
+    {
+      "id": "nag",
+      "word": "nag",
+      "pos": "verb",
+      "ipa": "/næɡ/",
+      "reading_th": "แน็ก",
+      "meaning_th": "บ่นจู้จี้",
+      "emoji": "🗯️",
+      "example_en": "My mom will nag me until I clean my room.",
+      "example_th": "แม่จะบ่นจู้จี้จนกว่าฉันจะทำความสะอาดห้อง",
+      "cefr": "B2",
+      "note_th": "nag = บ่นเรื่องเดิมซ้ำๆ จนรำคาญ (nagging = การบ่นจู้จี้) — a nagging doubt = ความสงสัยที่กวนใจไม่หาย",
+      "distractors": [
+        "nap",
+        "nail",
+        "snag"
+      ]
+    },
+    {
+      "id": "show_off",
+      "word": "show-off",
+      "pos": "noun",
+      "ipa": "/ˈʃoʊ ɒf/",
+      "reading_th": "โชว์ ออฟ",
+      "meaning_th": "คนขี้อวด",
+      "emoji": "💎",
+      "example_en": "He is such a show-off with his new sports car.",
+      "example_th": "เขาขี้อวดรถสปอร์ตคันใหม่ของเขามาก",
+      "cefr": "B1",
+      "note_th": "show-off (noun, มี hyphen) = คนขี้อวด ส่วนกริยา show off = อวด (stop showing off = เลิกอวดได้แล้ว)",
+      "distractors": [
+        "show up",
+        "showcase",
+        "turn-off"
+      ]
+    },
+    {
+      "id": "drama_queen",
+      "word": "drama queen",
+      "pos": "noun",
+      "ipa": "/ˈdrɑːmə kwiːn/",
+      "reading_th": "ดรา-ม่า ควีน",
+      "meaning_th": "คนดราม่าเกินเหตุ",
+      "emoji": "👑",
+      "example_en": "Do not be a drama queen; it is just a small scratch.",
+      "example_th": "อย่าดราม่าเกินเหตุ แค่รอยถลอกนิดเดียวเอง",
+      "cefr": "B2",
+      "note_th": "drama queen = คนทำเรื่องเล็กให้เป็นเรื่องใหญ่ ใช้ได้ทั้งหญิงชาย (ผู้ชายบางทีใช้ drama king) — คำแซวในภาษาพูด",
+      "distractors": [
+        "dancing queen",
+        "drama club",
+        "beauty queen"
+      ]
+    },
+    {
+      "id": "night_owl",
+      "word": "night owl",
+      "pos": "noun",
+      "ipa": "/ˈnaɪt aʊl/",
+      "reading_th": "ไนท์ อาวล์",
+      "meaning_th": "คนนอนดึก",
+      "emoji": "🦉",
+      "example_en": "I am a night owl, so morning meetings are torture.",
+      "example_th": "ฉันเป็นคนนอนดึก ประชุมเช้าเลยเหมือนโดนทรมาน",
+      "cefr": "B1",
+      "note_th": "night owl = คนที่ตื่นตัวตอนกลางคืน ตรงข้าม early bird — คำนี้ใช้ตอบคำถามไลฟ์สไตล์ได้ (Are you a night owl or an early bird?)",
+      "distractors": [
+        "night shift",
+        "early bird",
+        "late night"
+      ]
+    },
+    {
+      "id": "morning_person",
+      "word": "morning person",
+      "pos": "noun",
+      "ipa": "/ˈmɔːrnɪŋ pɜːrsn/",
+      "reading_th": "มอร์-นิง เพอร์-เซิน",
+      "meaning_th": "คนตื่นเช้าสดชื่น",
+      "emoji": "🌅",
+      "example_en": "My wife is a morning person who runs at five every day.",
+      "example_th": "ภรรยาฉันเป็นคนตื่นเช้าที่ออกไปวิ่งตีห้าทุกวัน",
+      "cefr": "B1",
+      "note_th": "a morning person = คนที่สดชื่นตอนเช้า ตรงข้าม night owl — I am not a morning person = ตอนเช้าฉันไม่ค่อยรู้เรื่อง ประโยคแก้ตัวยอดฮิต",
+      "distractors": [
+        "evening person",
+        "people person",
+        "morning star"
+      ]
+    },
+    {
+      "id": "stingy",
+      "word": "stingy",
+      "pos": "adjective",
+      "ipa": "/ˈstɪndʒi/",
+      "reading_th": "สติน-จี้",
+      "meaning_th": "ขี้เหนียว",
+      "emoji": "🪙",
+      "example_en": "He is so stingy that he never leaves a tip.",
+      "example_th": "เขาขี้เหนียวมากจนไม่เคยให้ทิป",
+      "cefr": "B1",
+      "note_th": "stingy = ขี้เหนียว (คำติ) ออกเสียง \"สติน-จี้\" ไม่ใช่ \"สติง-กี้\" — ถ้าจะพูดแบบดีว่าประหยัดใช้ frugal หรือ thrifty",
+      "distractors": [
+        "sting",
+        "stingray",
+        "stinky"
+      ]
+    },
+    {
+      "id": "strong_willed",
+      "word": "strong-willed",
+      "pos": "adjective",
+      "ipa": "/ˌstrɔːŋ ˈwɪld/",
+      "reading_th": "สตรอง วิลด์",
+      "meaning_th": "มีความตั้งใจแน่วแน่ (ดื้อแบบดี)",
+      "emoji": "🧱",
+      "example_en": "She is strong-willed and does not give up on her goals.",
+      "example_th": "เธอมีความตั้งใจแน่วแน่และไม่ยอมแพ้ต่อเป้าหมาย",
+      "cefr": "B2",
+      "note_th": "strong-willed คือวิธีพูดถึงคน stubborn แบบสุภาพ — วิธีเดียวกัน: lazy → laid-back, bossy → assertive",
+      "distractors": [
+        "strong-minded",
+        "weak-willed",
+        "self-willed"
+      ]
+    },
+    {
+      "id": "opinionated",
+      "word": "opinionated",
+      "pos": "adjective",
+      "ipa": "/əˈpɪnjəneɪtɪd/",
+      "reading_th": "โอ-พิน-เนียน-เน-ทิด",
+      "meaning_th": "ยึดมั่นในความเห็นตัวเอง",
+      "emoji": "📢",
+      "example_en": "My father is opinionated about politics, so avoid the topic.",
+      "example_th": "พ่อฉันยึดมั่นในความเห็นเรื่องการเมือง เลี่ยงหัวข้อนี้ดีกว่า",
+      "cefr": "B2",
+      "note_th": "opinionated = มีความเห็นแรงและชอบพูดออกมา (ติเบาๆ) — จาก opinion; ตรงข้ามแบบสุภาพคือ open-minded",
+      "distractors": [
+        "opinion",
+        "pinioned",
+        "operated"
+      ]
+    },
+    {
+      "id": "blunt",
+      "word": "blunt",
+      "pos": "adjective",
+      "ipa": "/blʌnt/",
+      "reading_th": "บลันท์",
+      "meaning_th": "พูดตรงไม่อ้อมค้อม (จนอาจเจ็บ)",
+      "emoji": "🔪",
+      "example_en": "To be blunt, your presentation was too long.",
+      "example_th": "ขอพูดตรงๆ นะ พรีเซนต์ของคุณยาวเกินไป",
+      "cefr": "B2",
+      "note_th": "blunt = พูดตรงจนอาจทำร้ายใจ (แปลตรงตัวว่ามีดทื่อ) — To be blunt, ... ใช้เกริ่นก่อนพูดความจริงที่ฟังแล้วอาจไม่ชอบ",
+      "distractors": [
+        "blind",
+        "bluff",
+        "blank"
+      ]
+    },
+    {
+      "id": "straightforward",
+      "word": "straightforward",
+      "pos": "adjective",
+      "ipa": "/ˌstreɪtˈfɔːrwərd/",
+      "reading_th": "สเตรท-ฟอร์-เวิร์ด",
+      "meaning_th": "ตรงไปตรงมา",
+      "emoji": "➡️",
+      "example_en": "I like working with her because she is straightforward.",
+      "example_th": "ฉันชอบทำงานกับเธอเพราะเธอตรงไปตรงมา",
+      "cefr": "B1",
+      "note_th": "straightforward = ตรงไปตรงมาแบบดี (คำชม) ต่างจาก blunt ที่ตรงจนเจ็บ — ใช้กับงานได้ด้วย a straightforward task = งานง่ายไม่ซับซ้อน",
+      "distractors": [
+        "straight",
+        "forward",
+        "straightaway"
+      ]
+    },
+    {
+      "id": "touchy",
+      "word": "touchy",
+      "pos": "adjective",
+      "ipa": "/ˈtʌtʃi/",
+      "reading_th": "ทัช-ชี่",
+      "meaning_th": "ขี้น้อยใจ / แตะไม่ได้",
+      "emoji": "🌵",
+      "example_en": "He is touchy about his height, so do not joke about it.",
+      "example_th": "เขาขี้น้อยใจเรื่องส่วนสูง อย่าเอามาล้อ",
+      "cefr": "B2",
+      "note_th": "touchy = โกรธหรือน้อยใจง่ายในเรื่องใดเรื่องหนึ่ง (touchy about) — a touchy subject = หัวข้ออ่อนไหวที่ควรเลี่ยง",
+      "distractors": [
+        "touching",
+        "touch",
+        "twitchy"
+      ]
+    },
+    {
+      "id": "eccentric",
+      "word": "eccentric",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsentrɪk/",
+      "reading_th": "อิค-เซน-ทริค",
+      "meaning_th": "แปลกไม่เหมือนใคร",
+      "emoji": "🎩",
+      "example_en": "Our eccentric professor wears a different hat every day.",
+      "example_th": "อาจารย์ของเราที่แปลกไม่เหมือนใครใส่หมวกคนละใบทุกวัน",
+      "cefr": "B2",
+      "note_th": "eccentric = แปลกแบบมีเสน่ห์ (วิธีพูดสุภาพแทน weird) — ใช้กับศิลปิน นักวิทยาศาสตร์ และคนรวยที่ทำอะไรแปลกๆ",
+      "distractors": [
+        "electric",
+        "eclectic",
+        "centric"
+      ]
+    },
+    {
+      "id": "demanding",
+      "word": "demanding",
+      "pos": "adjective",
+      "ipa": "/dɪˈmændɪŋ/",
+      "reading_th": "ดิ-แมน-ดิง",
+      "meaning_th": "เรียกร้องสูง",
+      "emoji": "📋",
+      "example_en": "Working for a demanding boss taught me to be organized.",
+      "example_th": "การทำงานกับหัวหน้าที่เรียกร้องสูงสอนให้ฉันเป็นคนมีระเบียบ",
+      "cefr": "B2",
+      "note_th": "demanding = ต้องการมาก (คน) หรือใช้พลังมาก (งาน: a demanding job) — วิธีพูดสุภาพแทน difficult เวลาพูดถึงหัวหน้าหรือลูกค้า",
+      "distractors": [
+        "commanding",
+        "defending",
+        "demand"
+      ]
+    },
+    {
+      "id": "hard_to_please",
+      "word": "hard to please",
+      "pos": "phrase",
+      "ipa": "/ˌhɑːrd tə ˈpliːz/",
+      "reading_th": "ฮาร์ด ทู พลีส",
+      "meaning_th": "เอาใจยาก",
+      "emoji": "😑",
+      "example_en": "My mother-in-law is hard to please when it comes to food.",
+      "example_th": "แม่สามีฉันเอาใจยากเรื่องอาหาร",
+      "cefr": "B1",
+      "note_th": "hard to please = พอใจยาก ใช้กับลูกค้า ผู้ใหญ่ และคนรัก — easy to please = เอาใจง่าย ตามโครงสร้าง hard/easy to + กริยา",
+      "distractors": [
+        "hard to say",
+        "hard to get",
+        "easy to please"
+      ]
+    },
+    {
+      "id": "get_along_with",
+      "word": "get along with",
+      "pos": "phrase",
+      "ipa": "/ɡet əˈlɔːŋ wɪð/",
+      "reading_th": "เก็ท อะ-ลอง วิธ",
+      "meaning_th": "เข้ากันได้ดีกับ (คน)",
+      "emoji": "👫",
+      "example_en": "I get along with everyone in my department.",
+      "example_th": "ฉันเข้ากับทุกคนในแผนกได้ดี",
+      "cefr": "A2",
+      "note_th": "get along with someone = เข้ากันได้ ไม่ทะเลาะ (อังกฤษใช้ get on with) — คำถามสัมภาษณ์: How do you get along with your coworkers?",
+      "distractors": [
+        "get away with",
+        "go along with",
+        "get on with"
+      ]
+    },
+    {
+      "id": "personality",
+      "word": "personality",
+      "pos": "noun",
+      "ipa": "/ˌpɜːrsəˈnæləti/",
+      "reading_th": "เพอร์-ซะ-แนล-ลิ-ที่",
+      "meaning_th": "บุคลิกภาพ",
+      "emoji": "🪪",
+      "example_en": "She has a bright personality that lights up the room.",
+      "example_th": "เธอมีบุคลิกสดใสที่ทำให้ทั้งห้องมีชีวิตชีวา",
+      "cefr": "A2",
+      "note_th": "personality = ลักษณะนิสัยโดยรวมของคน (personality test = แบบทดสอบบุคลิกภาพ) — ส่วน character เน้นด้านศีลธรรมและความเข้มแข็ง",
+      "distractors": [
+        "personal",
+        "personally",
+        "popularity"
+      ]
+    },
+    {
+      "id": "trait",
+      "word": "trait",
+      "pos": "noun",
+      "ipa": "/treɪt/",
+      "reading_th": "เทรท",
+      "meaning_th": "ลักษณะนิสัย (หนึ่งอย่าง)",
+      "emoji": "🧬",
+      "example_en": "Patience is the trait I admire most in my mother.",
+      "example_th": "ความอดทนคือลักษณะนิสัยที่ฉันชื่นชมที่สุดในตัวแม่",
+      "cefr": "B2",
+      "note_th": "trait = ลักษณะเฉพาะหนึ่งอย่าง (personality trait, genetic trait) — ตัว t ท้ายออกเสียง \"เทรท\" ต่างจาก tray",
+      "distractors": [
+        "treat",
+        "trail",
+        "trace"
+      ]
+    },
+    {
+      "id": "quirk",
+      "word": "quirk",
+      "pos": "noun",
+      "ipa": "/kwɜːrk/",
+      "reading_th": "เควิร์ค",
+      "meaning_th": "นิสัยแปลกเล็กๆ",
+      "emoji": "🎲",
+      "example_en": "Everyone has a quirk; mine is counting the stairs.",
+      "example_th": "ทุกคนมีนิสัยแปลกๆ เล็กๆ ของฉันคือนับขั้นบันได",
+      "cefr": "B2",
+      "note_th": "quirk = นิสัยหรือพฤติกรรมแปลกๆ ที่ไม่เป็นอันตราย (quirky = แปลกน่ารัก) — วิธีพูดถึงความแปลกแบบไม่ตัดสิน",
+      "distractors": [
+        "quick",
+        "quark",
+        "quirky"
+      ]
+    },
+    {
+      "id": "temperament",
+      "word": "temperament",
+      "pos": "noun",
+      "ipa": "/ˈtemprəmənt/",
+      "reading_th": "เทม-พระ-เมินท์",
+      "meaning_th": "พื้นอารมณ์",
+      "emoji": "🌡️",
+      "example_en": "Golden retrievers have a calm temperament, perfect for kids.",
+      "example_th": "โกลเด้นมีพื้นอารมณ์สงบ เหมาะกับเด็ก",
+      "cefr": "B2",
+      "note_th": "temperament = ลักษณะอารมณ์ที่ติดตัวมาแต่เกิด ใช้กับคน สัตว์ และนักกีฬา — temperamental = อารมณ์ขึ้นลงคาดเดายาก",
+      "distractors": [
+        "temperature",
+        "temper",
+        "testament"
+      ]
+    },
+    {
+      "id": "mean_well",
+      "word": "mean well",
+      "pos": "phrase",
+      "ipa": "/ˌmiːn ˈwel/",
+      "reading_th": "มีน เวล",
+      "meaning_th": "หวังดี (แม้ผลจะไม่ดี)",
+      "emoji": "💐",
+      "example_en": "My aunt gives too much advice, but she does mean well.",
+      "example_th": "ป้าฉันให้คำแนะนำเยอะไป แต่เธอก็หวังดี",
+      "cefr": "B2",
+      "note_th": "mean well = ตั้งใจดีแม้วิธีจะไม่ถูกใจ ใช้ปกป้องคนที่ทำพลาดเพราะหวังดี — He means well, but... = เขาหวังดีแหละ แต่...",
+      "distractors": [
+        "well-meaning",
+        "mean it",
+        "do well"
+      ]
+    }
+  ]
+}

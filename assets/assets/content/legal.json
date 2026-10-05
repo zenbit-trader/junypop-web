@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "legal",
+    "name_en": "Law & Contracts",
+    "name_th": "กฎหมายและสัญญา",
+    "emoji": "⚖️",
+    "color_start": "#94A3B8",
+    "color_end": "#334155",
+    "description_th": "อ่านสัญญา เข้าใจเงื่อนไข และศัพท์กฎหมายที่เจอในชีวิตจริง ตั้งแต่เช่าบ้านจนถึงลิขสิทธิ์",
+    "mascot_costume": "suit",
+    "lessons": [
+      {
+        "id": "legal_1",
+        "title_en": "Contract Basics",
+        "title_th": "พื้นฐานสัญญา",
+        "emoji": "📄",
+        "word_ids": [
+          "party",
+          "clause",
+          "term",
+          "terms_and_conditions",
+          "binding",
+          "valid",
+          "void",
+          "expire",
+          "renew",
+          "amendment",
+          "loophole",
+          "effective_date",
+          "scope",
+          "in_writing"
+        ]
+      },
+      {
+        "id": "legal_2",
+        "title_en": "Rights & Duties",
+        "title_th": "สิทธิและหน้าที่",
+        "emoji": "⚖️",
+        "word_ids": [
+          "right",
+          "obligation",
+          "duty",
+          "liable",
+          "entitled",
+          "comply",
+          "violate",
+          "prohibit",
+          "confidential",
+          "non_disclosure_agreement",
+          "compensation",
+          "notice",
+          "waive",
+          "fulfill"
+        ]
+      },
+      {
+        "id": "legal_3",
+        "title_en": "Signing",
+        "title_th": "ลงนามและพยาน",
+        "emoji": "✍️",
+        "word_ids": [
+          "witness",
+          "notary",
+          "initial",
+          "seal",
+          "original",
+          "e_signature",
+          "power_of_attorney",
+          "authorize",
+          "on_behalf_of",
+          "certified",
+          "signatory",
+          "thumbprint",
+          "stamp_duty",
+          "revoke"
+        ]
+      },
+      {
+        "id": "legal_4",
+        "title_en": "Breach & Disputes",
+        "title_th": "ผิดสัญญาและข้อพิพาท",
+        "emoji": "💥",
+        "word_ids": [
+          "breach",
+          "dispute",
+          "claim",
+          "damages",
+          "sue",
+          "lawsuit",
+          "settle",
+          "settlement",
+          "mediation",
+          "arbitration",
+          "terminate",
+          "negligence",
+          "complaint",
+          "enforce"
+        ]
+      },
+      {
+        "id": "legal_5",
+        "title_en": "Courts & Lawyers",
+        "title_th": "ศาลและทนาย",
+        "emoji": "🏛️",
+        "word_ids": [
+          "court",
+          "lawyer",
+          "judge",
+          "plaintiff",
+          "defendant",
+          "evidence",
+          "testify",
+          "verdict",
+          "appeal",
+          "trial",
+          "prosecutor",
+          "guilty",
+          "bail",
+          "case"
+        ]
+      },
+      {
+        "id": "legal_6",
+        "title_en": "Intellectual Property",
+        "title_th": "ทรัพย์สินทางปัญญา",
+        "emoji": "©️",
+        "word_ids": [
+          "intellectual_property",
+          "copyright",
+          "trademark",
+          "patent",
+          "license",
+          "infringement",
+          "invention",
+          "royalty",
+          "fair_use",
+          "piracy",
+          "trade_secret",
+          "public_domain",
+          "exclusive",
+          "logo"
+        ]
+      },
+      {
+        "id": "legal_7",
+        "title_en": "Everyday Law",
+        "title_th": "กฎหมายในชีวิตประจำวัน",
+        "emoji": "🚦",
+        "word_ids": [
+          "fine",
+          "permit",
+          "consent",
+          "illegal",
+          "legal",
+          "law",
+          "regulation",
+          "ban",
+          "trespass",
+          "defamation",
+          "eviction",
+          "will",
+          "inheritance",
+          "custody"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "party",
+      "word": "party",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrti/",
+      "reading_th": "พาร์-ตี",
+      "meaning_th": "คู่สัญญา / ฝ่าย",
+      "emoji": "👥",
+      "example_en": "Each party must sign both copies of the contract.",
+      "example_th": "คู่สัญญาแต่ละฝ่ายต้องลงนามในสัญญาทั้งสองฉบับ",
+      "cefr": "B1",
+      "note_th": "ในสัญญา party ไม่ใช่งานเลี้ยง แต่คือฝ่ายที่ทำสัญญา — the parties = คู่สัญญาทั้งหมด, third party = บุคคลภายนอก (third-party app = แอปจากผู้พัฒนาอื่น)",
+      "distractors": [
+        "partner",
+        "part",
+        "parity"
+      ]
+    },
+    {
+      "id": "clause",
+      "word": "clause",
+      "pos": "noun",
+      "ipa": "/klɔːz/",
+      "reading_th": "คลอส",
+      "meaning_th": "ข้อสัญญา / ข้อความแต่ละข้อ",
+      "emoji": "📑",
+      "example_en": "Read clause seven; it says you cannot cancel early.",
+      "example_th": "อ่านข้อเจ็ด มันบอกว่าคุณยกเลิกก่อนกำหนดไม่ได้",
+      "cefr": "B2",
+      "note_th": "clause = หนึ่งข้อในสัญญา (ข้อ 5.2 = clause 5.2) ออกเสียงเหมือน claws กรงเล็บ — ในไวยากรณ์ clause = อนุประโยค และ Santa Claus สะกดต่างกัน",
+      "distractors": [
+        "claws",
+        "cause",
+        "close"
+      ]
+    },
+    {
+      "id": "term",
+      "word": "term",
+      "pos": "noun",
+      "ipa": "/tɜːrm/",
+      "reading_th": "เทิร์ม",
+      "meaning_th": "ระยะเวลาของสัญญา",
+      "emoji": "📅",
+      "example_en": "The term of the lease is two years, starting in June.",
+      "example_th": "ระยะเวลาสัญญาเช่าคือสองปี เริ่มเดือนมิถุนายน",
+      "cefr": "B1",
+      "note_th": "term (เอกพจน์) = ระยะเวลา (a two-year term) ส่วน terms (พหูพจน์) = เงื่อนไข — long-term / short-term = ระยะยาว/สั้น และในโรงเรียนคือเทอม",
+      "distractors": [
+        "turn",
+        "team",
+        "theme"
+      ]
+    },
+    {
+      "id": "terms_and_conditions",
+      "word": "terms and conditions",
+      "pos": "noun",
+      "ipa": "/ˌtɜːrmz ənd kənˈdɪʃnz/",
+      "reading_th": "เทิร์มส์ แอนด์ คอน-ดิ-ชันส์",
+      "meaning_th": "ข้อกำหนดและเงื่อนไข",
+      "emoji": "📜",
+      "example_en": "Nobody reads the terms and conditions before clicking agree.",
+      "example_th": "ไม่มีใครอ่านข้อกำหนดและเงื่อนไขก่อนกดยอมรับ",
+      "cefr": "B1",
+      "note_th": "ย่อว่า T&C (ทีแอนด์ซี) หรือ Terms of Service — ปุ่ม \"I agree to the terms and conditions\" คือการทำสัญญาจริงๆ ไม่ใช่แค่พิธี",
+      "distractors": [
+        "privacy policy",
+        "condition",
+        "terms of use"
+      ]
+    },
+    {
+      "id": "binding",
+      "word": "binding",
+      "pos": "adjective",
+      "ipa": "/ˈbaɪndɪŋ/",
+      "reading_th": "ไบน์-ดิง",
+      "meaning_th": "มีผลผูกพันทางกฎหมาย",
+      "emoji": "🔗",
+      "example_en": "A verbal promise can be binding, but a written contract is safer.",
+      "example_th": "คำสัญญาด้วยวาจาก็ผูกพันได้ แต่สัญญาเป็นลายลักษณ์อักษรปลอดภัยกว่า",
+      "cefr": "B2",
+      "note_th": "bind = ผูก, legally binding = ผูกมัดตามกฎหมาย เบี้ยวแล้วฟ้องได้ — ตรงข้าม non-binding เช่น term sheet หรือ MOU ส่วนใหญ่ที่ยังไม่ผูกมัด",
+      "distractors": [
+        "blinding",
+        "bonding",
+        "building"
+      ]
+    },
+    {
+      "id": "valid",
+      "word": "valid",
+      "pos": "adjective",
+      "ipa": "/ˈvælɪd/",
+      "reading_th": "แว-ลิด",
+      "meaning_th": "ใช้ได้ตามกฎหมาย / ยังไม่หมดอายุ",
+      "emoji": "✅",
+      "example_en": "The contract is valid only if both people are over eighteen.",
+      "example_th": "สัญญาจะใช้ได้ก็ต่อเมื่อทั้งสองคนอายุเกินสิบแปด",
+      "cefr": "B1",
+      "note_th": "valid = ถูกต้องและใช้ได้ (a valid passport, a valid ticket, valid until = ใช้ได้ถึง) ตรงข้าม invalid — ป้าย \"Invalid password\" ก็คำเดียวกัน",
+      "distractors": [
+        "value",
+        "solid",
+        "invalid"
+      ]
+    },
+    {
+      "id": "void",
+      "word": "void",
+      "pos": "adjective",
+      "ipa": "/vɔɪd/",
+      "reading_th": "วอยด์",
+      "meaning_th": "เป็นโมฆะ",
+      "emoji": "🚫",
+      "example_en": "If one party is forced to sign, the contract is void.",
+      "example_th": "ถ้าฝ่ายใดถูกบังคับให้ลงนาม สัญญานั้นเป็นโมฆะ",
+      "cefr": "B2",
+      "note_th": "void = ไม่มีผลตั้งแต่ต้นเหมือนไม่เคยมี (null and void) — บนคูปองเขียน \"void if copied\" = ถ่ายสำเนาแล้วใช้ไม่ได้ และบนเช็ค VOID = ยกเลิก",
+      "distractors": [
+        "avoid",
+        "valid",
+        "voice"
+      ]
+    },
+    {
+      "id": "expire",
+      "word": "expire",
+      "pos": "verb",
+      "ipa": "/ɪkˈspaɪər/",
+      "reading_th": "อิก-สไปร์",
+      "meaning_th": "หมดอายุ (สัญญา/สิทธิ์)",
+      "emoji": "⌛",
+      "example_en": "My work visa will expire in March, so I must renew it.",
+      "example_th": "วีซ่าทำงานของฉันจะหมดอายุเดือนมีนาคม ฉันเลยต้องต่อ",
+      "cefr": "B1",
+      "note_th": "expire (ก.) / expiry หรือ expiration date (น.) — ใช้กับสัญญา บัตร วีซ่า และอาหาร คนไทยมักพูด \"หมดอายุ\" ว่า out of date ซึ่งฝรั่งใช้กับความรู้/ข้อมูลเก่ามากกว่า",
+      "distractors": [
+        "inspire",
+        "expand",
+        "empire"
+      ]
+    },
+    {
+      "id": "renew",
+      "word": "renew",
+      "pos": "verb",
+      "ipa": "/rɪˈnuː/",
+      "reading_th": "ริ-นิว",
+      "meaning_th": "ต่ออายุ",
+      "emoji": "🔁",
+      "example_en": "We can renew the lease for another year at the same rent.",
+      "example_th": "เราต่อสัญญาเช่าได้อีกหนึ่งปีในค่าเช่าเท่าเดิม",
+      "cefr": "B1",
+      "note_th": "renew = ต่ออายุให้ใช้ต่อ (renew a passport, renew a subscription) ส่วน extend = ขยายเวลาให้ยาวกว่าเดิม — auto-renew = แอปตัดเงินต่ออายุเอง ระวังให้ดี",
+      "distractors": [
+        "review",
+        "renovate",
+        "remove"
+      ]
+    },
+    {
+      "id": "amendment",
+      "word": "amendment",
+      "pos": "noun",
+      "ipa": "/əˈmendmənt/",
+      "reading_th": "อะ-เมนด์-เมินต์",
+      "meaning_th": "การแก้ไขเพิ่มเติมสัญญา",
+      "emoji": "✏️",
+      "example_en": "Any amendment must be signed by both parties to count.",
+      "example_th": "การแก้ไขใดๆ ต้องมีลายเซ็นทั้งสองฝ่ายจึงจะมีผล",
+      "cefr": "B2",
+      "note_th": "amend (ก.) / amendment (น.) = แก้ข้อความในเอกสารทางการ ไม่ใช่ fix — ใช้กับกฎหมายและรัฐธรรมนูญด้วย (constitutional amendment = แก้รัฐธรรมนูญ)",
+      "distractors": [
+        "agreement",
+        "amusement",
+        "announcement"
+      ]
+    },
+    {
+      "id": "loophole",
+      "word": "loophole",
+      "pos": "noun",
+      "ipa": "/ˈluːphoʊl/",
+      "reading_th": "ลูป-โฮล",
+      "meaning_th": "ช่องโหว่ของกฎหรือสัญญา",
+      "emoji": "🕳️",
+      "example_en": "The company found a loophole in the contract and paid nothing.",
+      "example_th": "บริษัทเจอช่องโหว่ในสัญญาแล้วไม่ต้องจ่ายอะไรเลย",
+      "cefr": "B2",
+      "note_th": "loophole = ข้อความที่เขียนไม่รัดกุมจนมีคนเลี่ยงได้โดยไม่ผิดกฎ (a tax loophole = ช่องโหว่ภาษี) — close a loophole = อุดช่องโหว่ และ exploit a loophole = ใช้ช่องโหว่หาประโยชน์",
+      "distractors": [
+        "loop",
+        "pothole",
+        "keyhole"
+      ]
+    },
+    {
+      "id": "effective_date",
+      "word": "effective date",
+      "pos": "noun",
+      "ipa": "/ɪˈfektɪv deɪt/",
+      "reading_th": "อิ-เฟ็ก-ทีฟ เดต",
+      "meaning_th": "วันที่สัญญาเริ่มมีผล",
+      "emoji": "📆",
+      "example_en": "The effective date is the first of May, not the day we signed.",
+      "example_th": "วันที่มีผลคือวันที่หนึ่งพฤษภาคม ไม่ใช่วันที่เราลงนาม",
+      "cefr": "B2",
+      "note_th": "effective = มีผลบังคับใช้ (effective immediately = มีผลทันที, effective from = มีผลตั้งแต่) — คนละความหมายกับ effective ที่แปลว่าได้ผลดี",
+      "distractors": [
+        "due date",
+        "expiry date",
+        "effect"
+      ]
+    },
+    {
+      "id": "scope",
+      "word": "scope",
+      "pos": "noun",
+      "ipa": "/skoʊp/",
+      "reading_th": "สโกป",
+      "meaning_th": "ขอบเขตของงาน",
+      "emoji": "📐",
+      "example_en": "The scope of work lists exactly what the designer will deliver.",
+      "example_th": "ขอบเขตงานระบุชัดว่านักออกแบบจะส่งมอบอะไรบ้าง",
+      "cefr": "B2",
+      "note_th": "scope of work (SOW) = รายการว่าทำอะไรบ้าง สำคัญมากกับฟรีแลนซ์ — out of scope = นอกขอบเขต (ขอเงินเพิ่มได้) และ scope creep = ลูกค้าขอเพิ่มเรื่อยๆ",
+      "distractors": [
+        "scoop",
+        "slope",
+        "score"
+      ]
+    },
+    {
+      "id": "in_writing",
+      "word": "in writing",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈraɪtɪŋ/",
+      "reading_th": "อิน ไร-ติง",
+      "meaning_th": "เป็นลายลักษณ์อักษร",
+      "emoji": "📝",
+      "example_en": "Get every promise in writing, even from a friend.",
+      "example_th": "ขอทุกคำสัญญาเป็นลายลักษณ์อักษร แม้จากเพื่อน",
+      "cefr": "B1",
+      "note_th": "in writing = เขียนไว้เป็นหลักฐาน (อีเมลหรือแชตก็นับ) ตรงข้ามกับ verbal/oral = ด้วยวาจา — \"Can I get that in writing?\" เป็นประโยคคุ้มตัวที่ควรจำ",
+      "distractors": [
+        "in person",
+        "in print",
+        "handwriting"
+      ]
+    },
+    {
+      "id": "right",
+      "word": "right",
+      "pos": "noun",
+      "ipa": "/raɪt/",
+      "reading_th": "ไรต์",
+      "meaning_th": "สิทธิ",
+      "emoji": "✊",
+      "example_en": "You have the right to see a lawyer before you answer.",
+      "example_th": "คุณมีสิทธิพบทนายก่อนตอบคำถาม",
+      "cefr": "A2",
+      "note_th": "right (น.) = สิทธิ ใช้ have the right to + กริยา — human rights = สิทธิมนุษยชน, consumer rights = สิทธิผู้บริโภค และ all rights reserved = สงวนลิขสิทธิ์",
+      "distractors": [
+        "write",
+        "rite",
+        "light"
+      ]
+    },
+    {
+      "id": "obligation",
+      "word": "obligation",
+      "pos": "noun",
+      "ipa": "/ˌɑːblɪˈɡeɪʃn/",
+      "reading_th": "ออบ-ลิ-เก-ชัน",
+      "meaning_th": "ข้อผูกพัน / สิ่งที่ต้องทำตามสัญญา",
+      "emoji": "📌",
+      "example_en": "The landlord has an obligation to fix the water heater.",
+      "example_th": "เจ้าของบ้านมีข้อผูกพันต้องซ่อมเครื่องทำน้ำอุ่น",
+      "cefr": "B2",
+      "note_th": "obligation = สิ่งที่กฎหมายหรือสัญญาบังคับให้ทำ (obliged to = จำต้อง) — \"no obligation\" ในโฆษณา = ลองได้โดยไม่ต้องซื้อ",
+      "distractors": [
+        "occupation",
+        "operation",
+        "obligatory"
+      ]
+    },
+    {
+      "id": "duty",
+      "word": "duty",
+      "pos": "noun",
+      "ipa": "/ˈduːti/",
+      "reading_th": "ดิว-ตี",
+      "meaning_th": "หน้าที่",
+      "emoji": "🛡️",
+      "example_en": "A doctor has a duty to keep patient records private.",
+      "example_th": "แพทย์มีหน้าที่เก็บประวัติผู้ป่วยเป็นความลับ",
+      "cefr": "B1",
+      "note_th": "duty = หน้าที่ที่ต้องทำเพราะตำแหน่งหรือศีลธรรม (on duty = กำลังปฏิบัติหน้าที่) — ความหมายที่สอง duty = ภาษี (duty-free = ปลอดภาษี, stamp duty)",
+      "distractors": [
+        "dusty",
+        "deputy",
+        "beauty"
+      ]
+    },
+    {
+      "id": "liable",
+      "word": "liable",
+      "pos": "adjective",
+      "ipa": "/ˈlaɪəbl/",
+      "reading_th": "ไล-อะ-เบิล",
+      "meaning_th": "ต้องรับผิดตามกฎหมาย",
+      "emoji": "⚠️",
+      "example_en": "If the dog bites someone, the owner is liable.",
+      "example_th": "ถ้าสุนัขกัดคน เจ้าของต้องรับผิด",
+      "cefr": "B2",
+      "note_th": "liable for + ความเสียหาย = ต้องรับผิดชอบจ่าย (liability = ความรับผิด) — ป้ายที่จอดรถ \"not liable for loss or damage\" = ไม่รับผิดชอบของหายหรือเสียหาย",
+      "distractors": [
+        "reliable",
+        "label",
+        "likeable"
+      ]
+    },
+    {
+      "id": "entitled",
+      "word": "entitled",
+      "pos": "adjective",
+      "ipa": "/ɪnˈtaɪtld/",
+      "reading_th": "เอ็น-ไท-เทิลด์",
+      "meaning_th": "มีสิทธิได้รับ",
+      "emoji": "🎁",
+      "example_en": "After one year you are entitled to six days of paid leave.",
+      "example_th": "หลังครบหนึ่งปี คุณมีสิทธิได้รับวันลาพักร้อนหกวัน",
+      "cefr": "B2",
+      "note_th": "be entitled to + สิ่งที่ได้ (a refund, compensation, leave) — ระวัง: entitled ใช้ด่าคนได้ด้วย: \"He's so entitled\" = คิดว่าตัวเองสมควรได้ทุกอย่าง",
+      "distractors": [
+        "titled",
+        "entire",
+        "entitle"
+      ]
+    },
+    {
+      "id": "comply",
+      "word": "comply",
+      "pos": "verb",
+      "ipa": "/kəmˈplaɪ/",
+      "reading_th": "คอม-พลาย",
+      "meaning_th": "ปฏิบัติตามกฎ",
+      "emoji": "📋",
+      "example_en": "Every shop must comply with the new food safety rules.",
+      "example_th": "ร้านค้าทุกร้านต้องปฏิบัติตามกฎความปลอดภัยอาหารใหม่",
+      "cefr": "B2",
+      "note_th": "comply with + กฎ/คำสั่ง (ไม่ใช่ comply to) — compliance = การปฏิบัติตามกฎ เป็นชื่อแผนกในธนาคาร และ PDPA compliance คือการทำตามกฎหมายข้อมูลส่วนบุคคลไทย",
+      "distractors": [
+        "complain",
+        "compile",
+        "complete"
+      ]
+    },
+    {
+      "id": "violate",
+      "word": "violate",
+      "pos": "verb",
+      "ipa": "/ˈvaɪəleɪt/",
+      "reading_th": "ไว-โอ-เลต",
+      "meaning_th": "ละเมิด / ฝ่าฝืน",
+      "emoji": "❌",
+      "example_en": "Posting someone's photo without asking can violate their privacy.",
+      "example_th": "การโพสต์รูปคนอื่นโดยไม่ขออาจละเมิดความเป็นส่วนตัวของเขา",
+      "cefr": "B2",
+      "note_th": "violate (ก.) / violation (น.) = ทำผิดกฎหรือสิทธิ (violate the rules, a traffic violation) — ในโซเชียล \"violates community guidelines\" = ผิดกฎชุมชน โพสต์ถูกลบ",
+      "distractors": [
+        "violent",
+        "violin",
+        "isolate"
+      ]
+    },
+    {
+      "id": "prohibit",
+      "word": "prohibit",
+      "pos": "verb",
+      "ipa": "/proʊˈhɪbɪt/",
+      "reading_th": "โพร-ฮิ-บิต",
+      "meaning_th": "ห้ามอย่างเป็นทางการ",
+      "emoji": "⛔",
+      "example_en": "The rules prohibit smoking anywhere inside the building.",
+      "example_th": "กฎห้ามสูบบุหรี่ทุกที่ภายในอาคาร",
+      "cefr": "B2",
+      "note_th": "prohibit = ห้ามโดยกฎหมายหรือกฎ (เป็นทางการกว่า ban และ forbid) — ป้าย \"Smoking is strictly prohibited\" และ prohibited items = ของต้องห้ามที่สนามบิน",
+      "distractors": [
+        "inhibit",
+        "exhibit",
+        "promote"
+      ]
+    },
+    {
+      "id": "confidential",
+      "word": "confidential",
+      "pos": "adjective",
+      "ipa": "/ˌkɑːnfɪˈdenʃl/",
+      "reading_th": "คอน-ฟิ-เดน-เชียล",
+      "meaning_th": "เป็นความลับ",
+      "emoji": "🤫",
+      "example_en": "Salary information is confidential and must not be shared.",
+      "example_th": "ข้อมูลเงินเดือนเป็นความลับและห้ามเปิดเผย",
+      "cefr": "B1",
+      "note_th": "confidential = ลับเพราะมีคนเชื่อใจให้เก็บไว้ (ต่างจาก secret ทั่วไป) — ตราประทับ CONFIDENTIAL บนเอกสาร และ strictly confidential = ลับที่สุด",
+      "distractors": [
+        "confident",
+        "conditional",
+        "residential"
+      ]
+    },
+    {
+      "id": "non_disclosure_agreement",
+      "word": "non-disclosure agreement",
+      "pos": "noun",
+      "ipa": "/ˌnɑːn dɪsˈkloʊʒər əˌɡriːmənt/",
+      "reading_th": "นอน-ดิส-โคล-เชอร์ อะ-กรี-เมินต์",
+      "meaning_th": "สัญญาไม่เปิดเผยความลับ (NDA)",
+      "emoji": "🔏",
+      "example_en": "Sign the non-disclosure agreement before we show you the product.",
+      "example_th": "ลงนามสัญญาไม่เปิดเผยความลับก่อนที่เราจะให้ดูสินค้า",
+      "cefr": "B2",
+      "note_th": "เรียกสั้นๆ ว่า NDA (เอ็น-ดี-เอ) disclose = เปิดเผย, non-disclosure = ไม่เปิดเผย — เจอตอนเริ่มงานใหม่ คุยกับนักลงทุน หรือรับงานฟรีแลนซ์ให้บริษัทใหญ่",
+      "distractors": [
+        "agreement",
+        "disclosure",
+        "non-profit"
+      ]
+    },
+    {
+      "id": "compensation",
+      "word": "compensation",
+      "pos": "noun",
+      "ipa": "/ˌkɑːmpenˈseɪʃn/",
+      "reading_th": "คอม-เพน-เซ-ชัน",
+      "meaning_th": "ค่าชดเชย",
+      "emoji": "💶",
+      "example_en": "The airline paid compensation to everyone on the cancelled flight.",
+      "example_th": "สายการบินจ่ายค่าชดเชยให้ทุกคนในเที่ยวบินที่ถูกยกเลิก",
+      "cefr": "B2",
+      "note_th": "compensate (ก.) / compensation (น.) = เงินชดเชยความเสียหาย — ในเรื่องงาน compensation ยังแปลว่าค่าตอบแทนรวม (เงินเดือน + โบนัส) ด้วย compensation package",
+      "distractors": [
+        "competition",
+        "conversation",
+        "concentration"
+      ]
+    },
+    {
+      "id": "notice",
+      "word": "notice",
+      "pos": "noun",
+      "ipa": "/ˈnoʊtɪs/",
+      "reading_th": "โน-ทิส",
+      "meaning_th": "หนังสือแจ้งล่วงหน้า",
+      "emoji": "📨",
+      "example_en": "The landlord must give thirty days' notice before raising the rent.",
+      "example_th": "เจ้าของบ้านต้องแจ้งล่วงหน้าสามสิบวันก่อนขึ้นค่าเช่า",
+      "cefr": "B1",
+      "note_th": "give notice = แจ้งล่วงหน้าตามสัญญา (ลาออกก็ใช้: hand in your notice) — until further notice = จนกว่าจะแจ้งเปลี่ยน และ notice (ก.) = สังเกตเห็น คนละความหมาย",
+      "distractors": [
+        "note",
+        "notification",
+        "novice"
+      ]
+    },
+    {
+      "id": "waive",
+      "word": "waive",
+      "pos": "verb",
+      "ipa": "/weɪv/",
+      "reading_th": "เวฟ",
+      "meaning_th": "สละสิทธิ์ / ยกเว้นให้",
+      "emoji": "🙅",
+      "example_en": "The bank agreed to waive the late fee this one time.",
+      "example_th": "ธนาคารตกลงยกเว้นค่าปรับล่าช้าให้ครั้งนี้ครั้งเดียว",
+      "cefr": "B2",
+      "note_th": "waive a fee = ยกเว้นค่าธรรมเนียม, waive a right = สละสิทธิ์ (waiver = เอกสารสละสิทธิ์ที่เซ็นก่อนเล่นกิจกรรมเสี่ยง) — ออกเสียงเหมือน wave คลื่น",
+      "distractors": [
+        "wave",
+        "waiver",
+        "weave"
+      ]
+    },
+    {
+      "id": "fulfill",
+      "word": "fulfill",
+      "pos": "verb",
+      "ipa": "/fʊlˈfɪl/",
+      "reading_th": "ฟุล-ฟิล",
+      "meaning_th": "ทำตามสัญญาจนครบ",
+      "emoji": "✔️",
+      "example_en": "The builder failed to fulfill the contract, so we stopped paying.",
+      "example_th": "ผู้รับเหมาไม่ทำตามสัญญาให้ครบ เราจึงหยุดจ่ายเงิน",
+      "cefr": "B2",
+      "note_th": "fulfill a contract/promise/requirement = ทำให้ครบตามที่ตกลง — อเมริกันสะกด fulfill อังกฤษ fulfil และ order fulfillment = การแพ็กส่งสินค้าในอีคอมเมิร์ซ",
+      "distractors": [
+        "fill",
+        "fulfilling",
+        "full"
+      ]
+    },
+    {
+      "id": "witness",
+      "word": "witness",
+      "pos": "noun",
+      "ipa": "/ˈwɪtnəs/",
+      "reading_th": "วิต-เนส",
+      "meaning_th": "พยาน",
+      "emoji": "👁️",
+      "example_en": "Thai law needs two witnesses to sign a will.",
+      "example_th": "กฎหมายไทยต้องมีพยานสองคนลงนามในพินัยกรรม",
+      "cefr": "B1",
+      "note_th": "witness = พยานที่เห็นเหตุการณ์หรือเห็นการลงนาม (เป็นกริยาได้: witness the signature) — eyewitness = ประจักษ์พยาน และ witness ในศาลคือคนให้การ",
+      "distractors": [
+        "fitness",
+        "wetness",
+        "witty"
+      ]
+    },
+    {
+      "id": "notary",
+      "word": "notary",
+      "pos": "noun",
+      "ipa": "/ˈnoʊtəri/",
+      "reading_th": "โน-ทะ-รี",
+      "meaning_th": "ผู้รับรองเอกสารตามกฎหมาย",
+      "emoji": "🖋️",
+      "example_en": "The embassy wants a notary to certify your translated documents.",
+      "example_th": "สถานทูตต้องการให้ผู้รับรองเอกสารรับรองเอกสารแปลของคุณ",
+      "cefr": "B2",
+      "note_th": "notary public = คนที่มีอำนาจรับรองว่าลายเซ็นและเอกสารเป็นของจริง (ไทยคือทนายที่ขึ้นทะเบียน notarial services attorney) — notarize (ก.) = เอาไปรับรอง",
+      "distractors": [
+        "notable",
+        "note",
+        "secretary"
+      ]
+    },
+    {
+      "id": "initial",
+      "word": "initial",
+      "pos": "verb",
+      "ipa": "/ɪˈnɪʃl/",
+      "reading_th": "อิ-นิ-เชียล",
+      "meaning_th": "เซ็นชื่อย่อกำกับ",
+      "emoji": "🔤",
+      "example_en": "Please initial every page and sign the last one.",
+      "example_th": "กรุณาเซ็นชื่อย่อกำกับทุกหน้าและลงนามเต็มหน้าสุดท้าย",
+      "cefr": "B2",
+      "note_th": "initial (ก.) = เซ็นตัวย่อชื่อ (initials = ตัวอักษรย่อ เช่น S.K.) ทำเพื่อยืนยันว่าอ่านทุกหน้าแล้ว — initial (adj.) = ขั้นแรก เช่น initial deposit",
+      "distractors": [
+        "initiate",
+        "install",
+        "official"
+      ]
+    },
+    {
+      "id": "seal",
+      "word": "seal",
+      "pos": "noun",
+      "ipa": "/siːl/",
+      "reading_th": "ซีล",
+      "meaning_th": "ตราประทับบริษัท",
+      "emoji": "🔴",
+      "example_en": "Thai companies stamp their seal next to the director's signature.",
+      "example_th": "บริษัทไทยประทับตราบริษัทข้างลายเซ็นกรรมการ",
+      "cefr": "B2",
+      "note_th": "company seal = ตรายางบริษัทที่กฎหมายไทยให้ความสำคัญมาก (ฝรั่งหลายประเทศเลิกใช้แล้ว) — seal ยังแปลว่าแมวน้ำ และ seal the deal = ปิดดีลสำเร็จ",
+      "distractors": [
+        "sale",
+        "steal",
+        "stamp"
+      ]
+    },
+    {
+      "id": "original",
+      "word": "original",
+      "pos": "noun",
+      "ipa": "/əˈrɪdʒənl/",
+      "reading_th": "ออ-ริ-จิ-เนิล",
+      "meaning_th": "เอกสารตัวจริง / ฉบับจริง",
+      "emoji": "📄",
+      "example_en": "Bring the original and one copy of your house registration.",
+      "example_th": "นำทะเบียนบ้านตัวจริงพร้อมสำเนาหนึ่งชุดมาด้วย",
+      "cefr": "B1",
+      "note_th": "the original = ตัวจริง, a copy = สำเนา, a certified copy = สำเนารับรองถูกต้อง — หน่วยงานไทยชอบขอ \"ตัวจริงพร้อมสำเนา\" = original and a copy",
+      "distractors": [
+        "copy",
+        "origin",
+        "originally"
+      ]
+    },
+    {
+      "id": "e_signature",
+      "word": "e-signature",
+      "pos": "noun",
+      "ipa": "/ˈiː ˌsɪɡnətʃər/",
+      "reading_th": "อี-ซิก-เนะ-เชอร์",
+      "meaning_th": "ลายเซ็นอิเล็กทรอนิกส์",
+      "emoji": "🖊️",
+      "example_en": "An e-signature is legal in Thailand for most business contracts.",
+      "example_th": "ลายเซ็นอิเล็กทรอนิกส์ใช้ได้ตามกฎหมายไทยสำหรับสัญญาธุรกิจส่วนใหญ่",
+      "cefr": "B1",
+      "note_th": "e- = electronic (e-mail, e-wallet, e-signature) — เครื่องมือยอดนิยม DocuSign; กฎหมายไทย (พ.ร.บ.ธุรกรรมทางอิเล็กทรอนิกส์) รับรองแล้ว ยกเว้นเอกสารบางประเภท",
+      "distractors": [
+        "signature",
+        "e-ticket",
+        "sign"
+      ]
+    },
+    {
+      "id": "power_of_attorney",
+      "word": "power of attorney",
+      "pos": "noun",
+      "ipa": "/ˌpaʊər əv əˈtɜːrni/",
+      "reading_th": "พาว-เวอร์ ออฟ อะ-เทอร์-นี",
+      "meaning_th": "หนังสือมอบอำนาจ",
+      "emoji": "📜",
+      "example_en": "She gave her brother power of attorney to sell the land.",
+      "example_th": "เธอทำหนังสือมอบอำนาจให้พี่ชายขายที่ดินแทน",
+      "cefr": "B2",
+      "note_th": "ย่อว่า POA = เอกสารที่ให้คนอื่นทำแทนคุณได้ตามกฎหมาย (ขายที่ดิน ติดต่อราชการ) — attorney ในที่นี้ = ผู้รับมอบอำนาจ ไม่ใช่ทนาย",
+      "distractors": [
+        "attorney",
+        "power",
+        "letter of intent"
+      ]
+    },
+    {
+      "id": "authorize",
+      "word": "authorize",
+      "pos": "verb",
+      "ipa": "/ˈɔːθəraɪz/",
+      "reading_th": "ออ-เธอ-ไรซ์",
+      "meaning_th": "มอบอำนาจ / อนุมัติอย่างเป็นทางการ",
+      "emoji": "✅",
+      "example_en": "Only the director can authorize payments over one million baht.",
+      "example_th": "มีแค่กรรมการที่อนุมัติการจ่ายเงินเกินหนึ่งล้านบาทได้",
+      "cefr": "B2",
+      "note_th": "authorize = ให้อำนาจทำบางอย่างอย่างเป็นทางการ (authorized person = ผู้มีอำนาจลงนาม) — ในแอป \"authorize this payment\" = ยืนยันอนุมัติการจ่าย สะกดแบบอังกฤษ authorise",
+      "distractors": [
+        "author",
+        "authority",
+        "advertise"
+      ]
+    },
+    {
+      "id": "on_behalf_of",
+      "word": "on behalf of",
+      "pos": "phrase",
+      "ipa": "/ɑːn bɪˈhæf əv/",
+      "reading_th": "ออน บิ-ฮาฟ ออฟ",
+      "meaning_th": "ในนามของ / แทน",
+      "emoji": "🙋",
+      "example_en": "I am signing on behalf of the company, not for myself.",
+      "example_th": "ฉันลงนามในนามของบริษัท ไม่ใช่ในนามตัวเอง",
+      "cefr": "B1",
+      "note_th": "on behalf of + บริษัท/คน = ทำแทนหรือในนามของ — ใช้เปิดอีเมลหรือสุนทรพจน์ได้: \"On behalf of the team, thank you\" ส่วน on my behalf = แทนฉัน",
+      "distractors": [
+        "in front of",
+        "because of",
+        "instead of"
+      ]
+    },
+    {
+      "id": "certified",
+      "word": "certified",
+      "pos": "adjective",
+      "ipa": "/ˈsɜːrtɪfaɪd/",
+      "reading_th": "เซอร์-ทิ-ฟายด์",
+      "meaning_th": "รับรองความถูกต้องแล้ว",
+      "emoji": "🏅",
+      "example_en": "The university needs a certified translation of your transcript.",
+      "example_th": "มหาวิทยาลัยต้องการคำแปลที่ได้รับการรับรองของใบเกรดคุณ",
+      "cefr": "B2",
+      "note_th": "certified copy = สำเนารับรองถูกต้อง, certified translation = แปลโดยผู้ได้รับการรับรอง — ใช้กับคนได้: a certified accountant/trainer = มีใบรับรองวิชาชีพ",
+      "distractors": [
+        "certificate",
+        "satisfied",
+        "verified"
+      ]
+    },
+    {
+      "id": "signatory",
+      "word": "signatory",
+      "pos": "noun",
+      "ipa": "/ˈsɪɡnətɔːri/",
+      "reading_th": "ซิก-นะ-ทอ-รี",
+      "meaning_th": "ผู้ลงนาม / ผู้มีอำนาจลงนาม",
+      "emoji": "🖋️",
+      "example_en": "Each signatory must show an ID card at the land office.",
+      "example_th": "ผู้ลงนามแต่ละคนต้องแสดงบัตรประชาชนที่สำนักงานที่ดิน",
+      "cefr": "B2",
+      "note_th": "signatory = คนหรือองค์กรที่ลงนามในสัญญาหรือข้อตกลง (authorized signatory = ผู้มีอำนาจลงนามของบริษัท ที่ธนาคารถามหาเสมอตอนเปิดบัญชีบริษัท) — ประเทศที่ลงนามสนธิสัญญาก็เรียก signatory",
+      "distractors": [
+        "signature",
+        "secretary",
+        "signal"
+      ]
+    },
+    {
+      "id": "thumbprint",
+      "word": "thumbprint",
+      "pos": "noun",
+      "ipa": "/ˈθʌmprɪnt/",
+      "reading_th": "ธัม-พรินต์",
+      "meaning_th": "ลายพิมพ์นิ้วหัวแม่มือ",
+      "emoji": "👍",
+      "example_en": "My grandmother cannot write, so she used her thumbprint instead.",
+      "example_th": "คุณยายเขียนหนังสือไม่ได้ เลยใช้ลายพิมพ์นิ้วหัวแม่มือแทน",
+      "cefr": "B1",
+      "note_th": "thumb = นิ้วโป้ง, fingerprint = ลายนิ้วมือทั่วไป — เอกสารราชการไทยยังรับ thumbprint แทนลายเซ็นได้ ถ้ามีพยานรับรองสองคน",
+      "distractors": [
+        "fingerprint",
+        "footprint",
+        "thumbnail"
+      ]
+    },
+    {
+      "id": "stamp_duty",
+      "word": "stamp duty",
+      "pos": "noun",
+      "ipa": "/ˈstæmp ˌduːti/",
+      "reading_th": "สแตมป์ ดิว-ตี",
+      "meaning_th": "อากรแสตมป์",
+      "emoji": "🏷️",
+      "example_en": "A rental contract in Thailand needs stamp duty to be used in court.",
+      "example_th": "สัญญาเช่าในไทยต้องติดอากรแสตมป์จึงจะใช้ในศาลได้",
+      "cefr": "B2",
+      "note_th": "stamp duty = ภาษีที่จ่ายโดยติดแสตมป์บนเอกสาร (สัญญาเช่า หนังสือมอบอำนาจ) ในไทยคิด 0.1% ของค่าเช่าทั้งสัญญา — duty ในที่นี้ = ภาษี ไม่ใช่หน้าที่",
+      "distractors": [
+        "stamp",
+        "duty-free",
+        "postage"
+      ]
+    },
+    {
+      "id": "revoke",
+      "word": "revoke",
+      "pos": "verb",
+      "ipa": "/rɪˈvoʊk/",
+      "reading_th": "ริ-โวก",
+      "meaning_th": "เพิกถอน / ยกเลิกสิทธิ์ที่เคยให้",
+      "emoji": "↩️",
+      "example_en": "You can revoke the power of attorney at any time in writing.",
+      "example_th": "คุณเพิกถอนหนังสือมอบอำนาจได้ทุกเมื่อโดยทำเป็นลายลักษณ์อักษร",
+      "cefr": "B2",
+      "note_th": "revoke = ถอนสิ่งที่เคยอนุญาต (revoke a license = ยึดใบขับขี่, revoke access = ถอนสิทธิ์เข้าระบบ) — เป็นทางการกว่า cancel และใช้ในแอป \"Revoke permission\"",
+      "distractors": [
+        "evoke",
+        "provoke",
+        "remove"
+      ]
+    },
+    {
+      "id": "breach",
+      "word": "breach",
+      "pos": "noun",
+      "ipa": "/briːtʃ/",
+      "reading_th": "บรีช",
+      "meaning_th": "การผิดสัญญา",
+      "emoji": "💔",
+      "example_en": "Leaving before the end of the lease is a breach of contract.",
+      "example_th": "การย้ายออกก่อนหมดสัญญาเช่าถือเป็นการผิดสัญญา",
+      "cefr": "B2",
+      "note_th": "breach of contract = ผิดสัญญา (เป็นกริยาได้: breach the agreement) — คำพี่น้อง: breach of trust, security breach และออกเสียงเหมือน beach ชายหาด ต่างที่ r",
+      "distractors": [
+        "beach",
+        "breath",
+        "bleach"
+      ]
+    },
+    {
+      "id": "dispute",
+      "word": "dispute",
+      "pos": "noun",
+      "ipa": "/dɪˈspjuːt/",
+      "reading_th": "ดิส-พิวต์",
+      "meaning_th": "ข้อพิพาท / ข้อโต้แย้ง",
+      "emoji": "🤼",
+      "example_en": "The dispute over the deposit lasted three months.",
+      "example_th": "ข้อพิพาทเรื่องเงินมัดจำยืดเยื้อสามเดือน",
+      "cefr": "B2",
+      "note_th": "dispute = การโต้แย้งอย่างเป็นทางการ (เป็นกริยาได้: dispute a charge = โต้แย้งยอดเงินที่ถูกเรียกเก็บ) — ปุ่ม \"Dispute\" ในแอปบัตรเครดิตใช้ตอนเจอรายการแปลก",
+      "distractors": [
+        "despite",
+        "disputed",
+        "distribute"
+      ]
+    },
+    {
+      "id": "claim",
+      "word": "claim",
+      "pos": "noun",
+      "ipa": "/kleɪm/",
+      "reading_th": "เคลม",
+      "meaning_th": "การเรียกร้องค่าเสียหาย / เคลม",
+      "emoji": "📣",
+      "example_en": "She filed a claim against the shop for the broken phone.",
+      "example_th": "เธอยื่นเรียกร้องค่าเสียหายจากร้านเรื่องโทรศัพท์พัง",
+      "cefr": "B1",
+      "note_th": "คนไทยพูด \"เคลม\" ตรงกับ make/file a claim = เรียกร้องเงินจากประกันหรือคู่กรณี — claim (ก.) ยังแปลว่าอ้างว่า: \"He claims he paid\" = เขาอ้างว่าจ่ายแล้ว",
+      "distractors": [
+        "clam",
+        "climb",
+        "clean"
+      ]
+    },
+    {
+      "id": "damages",
+      "word": "damages",
+      "pos": "noun",
+      "ipa": "/ˈdæmɪdʒɪz/",
+      "reading_th": "แดม-เมจ-เจส",
+      "meaning_th": "ค่าเสียหายที่ศาลสั่งให้จ่าย",
+      "emoji": "💸",
+      "example_en": "The court ordered the company to pay damages of two million baht.",
+      "example_th": "ศาลสั่งให้บริษัทจ่ายค่าเสียหายสองล้านบาท",
+      "cefr": "B2",
+      "note_th": "damages (มี s) = เงินค่าเสียหายที่ศาลตัดสิน ส่วน damage (ไม่มี s) = ความเสียหายนับไม่ได้ — ฟ้องเรียกค่าเสียหาย = sue for damages",
+      "distractors": [
+        "damage",
+        "dangers",
+        "damp"
+      ]
+    },
+    {
+      "id": "sue",
+      "word": "sue",
+      "pos": "verb",
+      "ipa": "/suː/",
+      "reading_th": "ซู",
+      "meaning_th": "ฟ้องร้อง",
+      "emoji": "⚖️",
+      "example_en": "If they refuse to pay, we will sue them in civil court.",
+      "example_th": "ถ้าพวกเขาไม่ยอมจ่าย เราจะฟ้องศาลแพ่ง",
+      "cefr": "B1",
+      "note_th": "sue someone for + เงิน/เหตุ (sue for damages) เป็นคำสั้นๆ ที่ใช้ในชีวิตจริง ส่วน file a lawsuit เป็นทางการ — \"I'll sue!\" เป็นประโยคฮิตในหนังอเมริกัน",
+      "distractors": [
+        "sew",
+        "soon",
+        "see"
+      ]
+    },
+    {
+      "id": "lawsuit",
+      "word": "lawsuit",
+      "pos": "noun",
+      "ipa": "/ˈlɔːsuːt/",
+      "reading_th": "ลอ-ซูต",
+      "meaning_th": "คดีความ / การฟ้องร้อง",
+      "emoji": "📂",
+      "example_en": "The singer won a lawsuit against the company that used her song.",
+      "example_th": "นักร้องชนะคดีฟ้องบริษัทที่เอาเพลงเธอไปใช้",
+      "cefr": "B2",
+      "note_th": "lawsuit = คดีแพ่งที่คนฟ้องคน (file a lawsuit, win/lose a lawsuit) ส่วน case กว้างกว่า — suit ในที่นี้ไม่เกี่ยวกับสูท และ class-action lawsuit = ฟ้องแบบกลุ่ม",
+      "distractors": [
+        "suit",
+        "law",
+        "swimsuit"
+      ]
+    },
+    {
+      "id": "settle",
+      "word": "settle",
+      "pos": "verb",
+      "ipa": "/ˈsetl/",
+      "reading_th": "เซ็ต-เทิล",
+      "meaning_th": "ตกลงยอมความกันนอกศาล",
+      "emoji": "🤝",
+      "example_en": "Both sides agreed to settle rather than spend years in court.",
+      "example_th": "ทั้งสองฝ่ายตกลงยอมความกันแทนที่จะเสียเวลาหลายปีในศาล",
+      "cefr": "B2",
+      "note_th": "settle out of court = ยอมความโดยไม่ต้องให้ศาลตัดสิน — settle ยังแปลว่าชำระ (settle the bill), ลงหลักปักฐาน (settle down) และ \"Let's settle this\" = เคลียร์กันให้จบ",
+      "distractors": [
+        "settle down",
+        "subtle",
+        "set"
+      ]
+    },
+    {
+      "id": "settlement",
+      "word": "settlement",
+      "pos": "noun",
+      "ipa": "/ˈsetlmənt/",
+      "reading_th": "เซ็ต-เทิล-เมินต์",
+      "meaning_th": "ข้อตกลงยอมความ / เงินที่ตกลงจ่าย",
+      "emoji": "📝",
+      "example_en": "The settlement included an apology and a payment of fifty thousand baht.",
+      "example_th": "ข้อตกลงยอมความรวมคำขอโทษและเงินห้าหมื่นบาท",
+      "cefr": "B2",
+      "note_th": "reach a settlement = ตกลงกันได้ มักมีเงินและเงื่อนไขห้ามพูด — ในการเงิน settlement = การชำระราคา (วันที่เงินเข้าจริงหลังขายหุ้น) คนละบริบท",
+      "distractors": [
+        "statement",
+        "sentiment",
+        "settle"
+      ]
+    },
+    {
+      "id": "mediation",
+      "word": "mediation",
+      "pos": "noun",
+      "ipa": "/ˌmiːdiˈeɪʃn/",
+      "reading_th": "มี-ดิ-เอ-ชัน",
+      "meaning_th": "การไกล่เกลี่ย",
+      "emoji": "🕊️",
+      "example_en": "The court sent the neighbors to mediation before the trial.",
+      "example_th": "ศาลส่งเพื่อนบ้านคู่นี้ไปไกล่เกลี่ยก่อนพิจารณาคดี",
+      "cefr": "B2",
+      "note_th": "mediator = คนกลางที่ช่วยให้คุยกันจนตกลงได้ แต่ไม่มีอำนาจตัดสิน (ต่างจาก arbitration) — ศาลไทยมีศูนย์ไกล่เกลี่ยฟรี และอย่าสับสนกับ meditation (นั่งสมาธิ)",
+      "distractors": [
+        "meditation",
+        "medication",
+        "media"
+      ]
+    },
+    {
+      "id": "arbitration",
+      "word": "arbitration",
+      "pos": "noun",
+      "ipa": "/ˌɑːrbɪˈtreɪʃn/",
+      "reading_th": "อาร์-บิ-เทร-ชัน",
+      "meaning_th": "อนุญาโตตุลาการ / การให้คนกลางชี้ขาด",
+      "emoji": "🧑‍⚖️",
+      "example_en": "The contract says all disputes go to arbitration in Singapore.",
+      "example_th": "สัญญาระบุว่าข้อพิพาททั้งหมดต้องเข้าอนุญาโตตุลาการที่สิงคโปร์",
+      "cefr": "B2",
+      "note_th": "arbitrator = คนกลางที่ทั้งสองฝ่ายเลือกและผลตัดสินผูกมัดเหมือนศาล แต่เร็วและเป็นความลับ — สัญญาธุรกิจระหว่างประเทศเกือบทุกฉบับมี arbitration clause",
+      "distractors": [
+        "mediation",
+        "arbitrary",
+        "administration"
+      ]
+    },
+    {
+      "id": "terminate",
+      "word": "terminate",
+      "pos": "verb",
+      "ipa": "/ˈtɜːrmɪneɪt/",
+      "reading_th": "เทอร์-มิ-เนต",
+      "meaning_th": "บอกเลิกสัญญา",
+      "emoji": "🛑",
+      "example_en": "Either side may terminate the agreement with sixty days' notice.",
+      "example_th": "ฝ่ายใดฝ่ายหนึ่งบอกเลิกสัญญาได้โดยแจ้งล่วงหน้าหกสิบวัน",
+      "cefr": "B2",
+      "note_th": "terminate a contract = เลิกสัญญาอย่างเป็นทางการ (termination clause = ข้อสัญญาเรื่องการเลิก) — ใช้กับการเลิกจ้างด้วย: employment terminated ฟังเย็นชากว่า fired",
+      "distractors": [
+        "terminal",
+        "determine",
+        "terminator"
+      ]
+    },
+    {
+      "id": "negligence",
+      "word": "negligence",
+      "pos": "noun",
+      "ipa": "/ˈneɡlɪdʒəns/",
+      "reading_th": "เน็ก-ลิ-เจนซ์",
+      "meaning_th": "ความประมาทเลินเล่อ",
+      "emoji": "🙈",
+      "example_en": "The wet floor had no sign, so the mall was guilty of negligence.",
+      "example_th": "พื้นเปียกไม่มีป้ายเตือน ห้างจึงมีความผิดฐานประมาทเลินเล่อ",
+      "cefr": "B2",
+      "note_th": "negligence = ไม่ระวังเท่าที่คนทั่วไปพึงระวัง จนคนอื่นเสียหาย (negligent = adj.) — medical negligence = หมอประมาท และคำนี้มาจาก neglect = ละเลย",
+      "distractors": [
+        "neglect",
+        "intelligence",
+        "elegance"
+      ]
+    },
+    {
+      "id": "complaint",
+      "word": "complaint",
+      "pos": "noun",
+      "ipa": "/kəmˈpleɪnt/",
+      "reading_th": "คอม-เพลนต์",
+      "meaning_th": "คำร้องเรียน / คำฟ้อง",
+      "emoji": "📢",
+      "example_en": "I filed a complaint with the consumer protection office about the gym.",
+      "example_th": "ฉันยื่นร้องเรียนเรื่องฟิตเนสกับสำนักงานคุ้มครองผู้บริโภค",
+      "cefr": "B1",
+      "note_th": "complaint (น.) มี t ส่วน complain (ก.) ไม่มี — file/make a complaint = ร้องเรียนอย่างเป็นทางการ ในคดีความ complaint = คำฟ้องฉบับแรก และ สคบ. = consumer protection",
+      "distractors": [
+        "complain",
+        "compliment",
+        "complete"
+      ]
+    },
+    {
+      "id": "enforce",
+      "word": "enforce",
+      "pos": "verb",
+      "ipa": "/ɪnˈfɔːrs/",
+      "reading_th": "เอ็น-ฟอร์ส",
+      "meaning_th": "บังคับใช้กฎหมาย/สัญญา",
+      "emoji": "👮",
+      "example_en": "A contract is useless if nobody can enforce it.",
+      "example_th": "สัญญาจะไร้ค่าถ้าไม่มีใครบังคับใช้ได้",
+      "cefr": "B2",
+      "note_th": "enforce the law/a rule/a contract = ทำให้มีผลจริงโดยลงโทษคนฝ่าฝืน — law enforcement = หน่วยงานบังคับใช้กฎหมาย (ตำรวจ) และ enforceable = บังคับได้ตามกฎหมาย",
+      "distractors": [
+        "force",
+        "endorse",
+        "reinforce"
+      ]
+    },
+    {
+      "id": "court",
+      "word": "court",
+      "pos": "noun",
+      "ipa": "/kɔːrt/",
+      "reading_th": "คอร์ต",
+      "meaning_th": "ศาล",
+      "emoji": "🏛️",
+      "example_en": "The case goes to court next Monday at nine.",
+      "example_th": "คดีขึ้นศาลวันจันทร์หน้าเวลาเก้าโมง",
+      "cefr": "A2",
+      "note_th": "go to court = ขึ้นศาล, take someone to court = ฟ้อง — civil court = ศาลแพ่ง, criminal court = ศาลอาญา, Supreme Court = ศาลฎีกา และ court ยังแปลว่าสนามเทนนิส/บาส",
+      "distractors": [
+        "caught",
+        "cart",
+        "coat"
+      ]
+    },
+    {
+      "id": "lawyer",
+      "word": "lawyer",
+      "pos": "noun",
+      "ipa": "/ˈlɔːjər/",
+      "reading_th": "ลอ-เยอร์",
+      "meaning_th": "ทนายความ",
+      "emoji": "👩‍⚖️",
+      "example_en": "Talk to a lawyer before you sign anything about the land.",
+      "example_th": "คุยกับทนายก่อนลงนามอะไรเกี่ยวกับที่ดิน",
+      "cefr": "A2",
+      "note_th": "lawyer = คำทั่วไป, attorney = อเมริกัน, solicitor/barrister = อังกฤษ — ออกเสียง \"ลอ-เยอร์\" ไม่ใช่ \"ลอว์-เยอร์\" และ legal advice = คำปรึกษากฎหมาย",
+      "distractors": [
+        "lawn",
+        "layer",
+        "liar"
+      ]
+    },
+    {
+      "id": "judge",
+      "word": "judge",
+      "pos": "noun",
+      "ipa": "/dʒʌdʒ/",
+      "reading_th": "จัดจ์",
+      "meaning_th": "ผู้พิพากษา",
+      "emoji": "⚖️",
+      "example_en": "The judge gave both lawyers ten minutes to speak.",
+      "example_th": "ผู้พิพากษาให้ทนายทั้งสองฝ่ายพูดคนละสิบนาที",
+      "cefr": "A2",
+      "note_th": "judge (น.) = ผู้พิพากษา หรือกรรมการตัดสินการประกวด, judge (ก.) = ตัดสิน/ตัดสินคนอื่น (\"Don't judge me\") — ในศาลเรียกท่านว่า Your Honor",
+      "distractors": [
+        "jury",
+        "jungle",
+        "jug"
+      ]
+    },
+    {
+      "id": "plaintiff",
+      "word": "plaintiff",
+      "pos": "noun",
+      "ipa": "/ˈpleɪntɪf/",
+      "reading_th": "เพลน-ทิฟ",
+      "meaning_th": "โจทก์",
+      "emoji": "🙋‍♂️",
+      "example_en": "The plaintiff says the hospital gave her the wrong medicine.",
+      "example_th": "โจทก์กล่าวว่าโรงพยาบาลให้ยาผิดกับเธอ",
+      "cefr": "B2",
+      "note_th": "plaintiff = ฝ่ายที่ฟ้อง (มาจาก complaint) คู่กับ defendant = ฝ่ายถูกฟ้อง — ในคดีอาญาฝ่ายฟ้องคือ prosecutor ไม่ใช่ plaintiff",
+      "distractors": [
+        "defendant",
+        "plain",
+        "plaintive"
+      ]
+    },
+    {
+      "id": "defendant",
+      "word": "defendant",
+      "pos": "noun",
+      "ipa": "/dɪˈfendənt/",
+      "reading_th": "ดิ-เฟน-เดินต์",
+      "meaning_th": "จำเลย",
+      "emoji": "🧍",
+      "example_en": "The defendant said he was at work when the crime happened.",
+      "example_th": "จำเลยบอกว่าเขาอยู่ที่ทำงานตอนเกิดเหตุ",
+      "cefr": "B2",
+      "note_th": "defend = ปกป้อง, defendant = คนที่ต้องแก้ต่างให้ตัวเอง (จำเลย) ใช้ทั้งคดีแพ่งและอาญา — defense lawyer = ทนายจำเลย และ the accused = ผู้ต้องหา",
+      "distractors": [
+        "defender",
+        "dependent",
+        "plaintiff"
+      ]
+    },
+    {
+      "id": "evidence",
+      "word": "evidence",
+      "pos": "noun",
+      "ipa": "/ˈevɪdəns/",
+      "reading_th": "เอ-วิ-เดนซ์",
+      "meaning_th": "หลักฐาน",
+      "emoji": "🔍",
+      "example_en": "The chat messages were the strongest evidence in the case.",
+      "example_th": "ข้อความแชตเป็นหลักฐานที่หนักแน่นที่สุดในคดี",
+      "cefr": "B1",
+      "note_th": "evidence นับไม่ได้: a piece of evidence ไม่ใช่ an evidence — แชต สลิปโอนเงิน และภาพกล้องวงจรปิดเป็น evidence ได้หมด เก็บไว้ก่อนลบเสมอ",
+      "distractors": [
+        "evident",
+        "incident",
+        "audience"
+      ]
+    },
+    {
+      "id": "testify",
+      "word": "testify",
+      "pos": "verb",
+      "ipa": "/ˈtestɪfaɪ/",
+      "reading_th": "เทส-ติ-ฟาย",
+      "meaning_th": "ให้การเป็นพยานในศาล",
+      "emoji": "🗣️",
+      "example_en": "Two neighbors will testify that they heard the fight.",
+      "example_th": "เพื่อนบ้านสองคนจะให้การว่าได้ยินเสียงทะเลาะ",
+      "cefr": "B2",
+      "note_th": "testify = พูดในศาลหลังสาบานว่าจะพูดความจริง (testimony = คำให้การ) — testify against = ให้การปรักปรำ, testify for = ให้การช่วย",
+      "distractors": [
+        "testimony",
+        "test",
+        "justify"
+      ]
+    },
+    {
+      "id": "verdict",
+      "word": "verdict",
+      "pos": "noun",
+      "ipa": "/ˈvɜːrdɪkt/",
+      "reading_th": "เวอร์-ดิกต์",
+      "meaning_th": "คำตัดสิน",
+      "emoji": "🔨",
+      "example_en": "The verdict came after three days: not guilty.",
+      "example_th": "คำตัดสินออกมาหลังสามวัน: ไม่มีความผิด",
+      "cefr": "B2",
+      "note_th": "reach a verdict = ตัดสินคดี (guilty / not guilty) — ในชีวิตใช้ได้: \"What's your verdict?\" = ตัดสินว่าไง (ชอบไหม) ส่วน sentence = โทษที่ลงหลังตัดสิน",
+      "distractors": [
+        "version",
+        "predict",
+        "verb"
+      ]
+    },
+    {
+      "id": "appeal",
+      "word": "appeal",
+      "pos": "verb",
+      "ipa": "/əˈpiːl/",
+      "reading_th": "อะ-พีล",
+      "meaning_th": "อุทธรณ์",
+      "emoji": "📤",
+      "example_en": "They plan to appeal the decision to a higher court.",
+      "example_th": "พวกเขาวางแผนอุทธรณ์คำตัดสินไปยังศาลที่สูงกว่า",
+      "cefr": "B2",
+      "note_th": "appeal = ขอให้ศาลสูงกว่าทบทวน (Court of Appeal = ศาลอุทธรณ์) — ในโซเชียล appeal a ban = ขออุทธรณ์การแบนบัญชี และ appeal (น.) ยังแปลว่าเสน่ห์ดึงดูด",
+      "distractors": [
+        "apple",
+        "appear",
+        "applaud"
+      ]
+    },
+    {
+      "id": "trial",
+      "word": "trial",
+      "pos": "noun",
+      "ipa": "/ˈtraɪəl/",
+      "reading_th": "ไทร-เอิล",
+      "meaning_th": "การพิจารณาคดีในศาล",
+      "emoji": "🏛️",
+      "example_en": "The trial lasted two weeks and ended with a fine.",
+      "example_th": "การพิจารณาคดีกินเวลาสองสัปดาห์และจบด้วยค่าปรับ",
+      "cefr": "B1",
+      "note_th": "on trial = ถูกพิจารณาคดีอยู่, stand trial = ขึ้นศาลรับการพิจารณา — ความหมายที่สอง free trial = ทดลองใช้ฟรี และ clinical trial = ทดลองยา",
+      "distractors": [
+        "trail",
+        "tribal",
+        "trial run"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "word": "prosecutor",
+      "pos": "noun",
+      "ipa": "/ˈprɑːsɪkjuːtər/",
+      "reading_th": "พรอ-ซิ-คิว-เตอร์",
+      "meaning_th": "อัยการ",
+      "emoji": "🧑‍💼",
+      "example_en": "The prosecutor asked for a sentence of five years.",
+      "example_th": "อัยการขอให้ลงโทษจำคุกห้าปี",
+      "cefr": "B2",
+      "note_th": "prosecutor = ทนายฝ่ายรัฐที่ฟ้องคดีอาญาแทนประชาชน (public prosecutor = อัยการ) — prosecute (ก.) = ดำเนินคดี และป้าย \"Trespassers will be prosecuted\" = บุกรุกจะถูกดำเนินคดี",
+      "distractors": [
+        "persecutor",
+        "professor",
+        "protector"
+      ]
+    },
+    {
+      "id": "guilty",
+      "word": "guilty",
+      "pos": "adjective",
+      "ipa": "/ˈɡɪlti/",
+      "reading_th": "กิล-ตี",
+      "meaning_th": "มีความผิด (ตามคำตัดสิน)",
+      "emoji": "😔",
+      "example_en": "The court found him guilty of fraud and sent him to prison.",
+      "example_th": "ศาลตัดสินว่าเขามีความผิดฐานฉ้อโกงและส่งเข้าเรือนจำ",
+      "cefr": "B1",
+      "note_th": "find guilty = ตัดสินว่าผิด, plead guilty = รับสารภาพ, not guilty = ไม่มีความผิด (ไม่ใช่ innocent ซึ่งแปลว่าบริสุทธิ์จริง) — feel guilty = รู้สึกผิดในชีวิตประจำวัน",
+      "distractors": [
+        "innocent",
+        "guild",
+        "gusty"
+      ]
+    },
+    {
+      "id": "bail",
+      "word": "bail",
+      "pos": "noun",
+      "ipa": "/beɪl/",
+      "reading_th": "เบล",
+      "meaning_th": "การประกันตัว / เงินประกันตัว",
+      "emoji": "💵",
+      "example_en": "His family paid bail so he could go home before the trial.",
+      "example_th": "ครอบครัวจ่ายเงินประกันตัวเพื่อให้เขากลับบ้านก่อนการพิจารณาคดี",
+      "cefr": "B2",
+      "note_th": "post/pay bail = วางเงินประกันตัว, be released on bail = ได้ประกันตัว, denied bail = ไม่ให้ประกัน — สแลง bail on someone = เบี้ยวนัด และออกเสียงเหมือน bale",
+      "distractors": [
+        "bale",
+        "bill",
+        "jail"
+      ]
+    },
+    {
+      "id": "case",
+      "word": "case",
+      "pos": "noun",
+      "ipa": "/keɪs/",
+      "reading_th": "เคส",
+      "meaning_th": "คดี",
+      "emoji": "📁",
+      "example_en": "The police closed the case after the money was returned.",
+      "example_th": "ตำรวจปิดคดีหลังจากเงินถูกส่งคืน",
+      "cefr": "A2",
+      "note_th": "case = คดีหรือเรื่องหนึ่งเรื่อง (win/lose/drop a case) คนไทยใช้ \"เคส\" กับเรื่องคนไข้และลูกค้าด้วย — in case = เผื่อไว้, in any case = ยังไงก็ตาม",
+      "distractors": [
+        "cause",
+        "cash",
+        "chase"
+      ]
+    },
+    {
+      "id": "intellectual_property",
+      "word": "intellectual property",
+      "pos": "noun",
+      "ipa": "/ˌɪntəˌlektʃuəl ˈprɑːpərti/",
+      "reading_th": "อิน-เทล-เล็ก-ชวล พรอ-เพอร์-ตี",
+      "meaning_th": "ทรัพย์สินทางปัญญา",
+      "emoji": "🧠",
+      "example_en": "Your logo, your recipes, and your app are all intellectual property.",
+      "example_th": "โลโก้ สูตรอาหาร และแอปของคุณล้วนเป็นทรัพย์สินทางปัญญา",
+      "cefr": "B2",
+      "note_th": "ย่อว่า IP (ไอ-พี) ครอบคลุม copyright, trademark, patent, trade secret — กรมทรัพย์สินทางปัญญาไทยคือ DIP และสัญญาจ้างมักระบุว่า IP ที่ทำในงานเป็นของบริษัท",
+      "distractors": [
+        "intelligence",
+        "property",
+        "private property"
+      ]
+    },
+    {
+      "id": "copyright",
+      "word": "copyright",
+      "pos": "noun",
+      "ipa": "/ˈkɑːpiraɪt/",
+      "reading_th": "คอ-ปี-ไรต์",
+      "meaning_th": "ลิขสิทธิ์",
+      "emoji": "©️",
+      "example_en": "The photographer owns the copyright, even if you paid for the shoot.",
+      "example_th": "ช่างภาพเป็นเจ้าของลิขสิทธิ์ แม้คุณจะจ่ายค่าถ่ายแล้วก็ตาม",
+      "cefr": "B1",
+      "note_th": "copyright = สิทธิ์ในงานสร้างสรรค์ (เพลง หนังสือ รูป โค้ด) เกิดอัตโนมัติไม่ต้องจดทะเบียน — สัญลักษณ์ © และคนไทยมักสะกดผิดเป็น copywrite (ซึ่งหมายถึงเขียนโฆษณา)",
+      "distractors": [
+        "copywriting",
+        "copy",
+        "right"
+      ]
+    },
+    {
+      "id": "trademark",
+      "word": "trademark",
+      "pos": "noun",
+      "ipa": "/ˈtreɪdmɑːrk/",
+      "reading_th": "เทรด-มาร์ก",
+      "meaning_th": "เครื่องหมายการค้า",
+      "emoji": "™️",
+      "example_en": "Register your trademark before a competitor uses your brand name.",
+      "example_th": "จดทะเบียนเครื่องหมายการค้าก่อนที่คู่แข่งจะใช้ชื่อแบรนด์ของคุณ",
+      "cefr": "B2",
+      "note_th": "trademark = ชื่อ โลโก้ หรือสโลแกนที่จดทะเบียนไว้ให้คนอื่นใช้ไม่ได้ (™ ยังไม่จด, ® จดแล้ว) — ใช้เปรียบเทียบได้: his trademark smile = รอยยิ้มประจำตัว",
+      "distractors": [
+        "trade",
+        "landmark",
+        "bookmark"
+      ]
+    },
+    {
+      "id": "patent",
+      "word": "patent",
+      "pos": "noun",
+      "ipa": "/ˈpætnt/",
+      "reading_th": "แพ-เทินต์",
+      "meaning_th": "สิทธิบัตร",
+      "emoji": "💡",
+      "example_en": "The engineer filed a patent for her new water filter.",
+      "example_th": "วิศวกรยื่นขอสิทธิบัตรสำหรับเครื่องกรองน้ำแบบใหม่ของเธอ",
+      "cefr": "B2",
+      "note_th": "patent = สิทธิ์ผูกขาดสิ่งประดิษฐ์ 20 ปี แลกกับการเปิดเผยวิธีทำ (file/apply for a patent, patent pending = กำลังยื่นขอ) — อเมริกันออก \"แพ-เทินต์\" อังกฤษ \"เพ-เทินต์\"",
+      "distractors": [
+        "patient",
+        "parent",
+        "pattern"
+      ]
+    },
+    {
+      "id": "license",
+      "word": "license",
+      "pos": "noun",
+      "ipa": "/ˈlaɪsns/",
+      "reading_th": "ไล-เซนส์",
+      "meaning_th": "ใบอนุญาต / สิทธิ์การใช้งาน",
+      "emoji": "📇",
+      "example_en": "You need a license to play this music in your café.",
+      "example_th": "คุณต้องมีใบอนุญาตจึงจะเปิดเพลงนี้ในคาเฟ่ได้",
+      "cefr": "B1",
+      "note_th": "license = เอกสารอนุญาตให้ทำสิ่งที่ปกติทำไม่ได้ (driver's license, business license, software license) — อเมริกันสะกด license อังกฤษ licence (น.) และ licensed = มีใบอนุญาต",
+      "distractors": [
+        "licence plate",
+        "lice",
+        "silence"
+      ]
+    },
+    {
+      "id": "infringement",
+      "word": "infringement",
+      "pos": "noun",
+      "ipa": "/ɪnˈfrɪndʒmənt/",
+      "reading_th": "อิน-ฟรินจ์-เมินต์",
+      "meaning_th": "การละเมิดสิทธิ์",
+      "emoji": "🚨",
+      "example_en": "Using that font without paying is copyright infringement.",
+      "example_th": "การใช้ฟอนต์นั้นโดยไม่จ่ายเงินถือเป็นการละเมิดลิขสิทธิ์",
+      "cefr": "B2",
+      "note_th": "infringe (ก.) / infringement (น.) ใช้กับทรัพย์สินทางปัญญาโดยเฉพาะ (copyright/trademark/patent infringement) — YouTube แจ้ง \"copyright infringement\" ตอนโดนลบคลิป",
+      "distractors": [
+        "fringe",
+        "investment",
+        "improvement"
+      ]
+    },
+    {
+      "id": "invention",
+      "word": "invention",
+      "pos": "noun",
+      "ipa": "/ɪnˈvenʃn/",
+      "reading_th": "อิน-เวน-ชัน",
+      "meaning_th": "สิ่งประดิษฐ์",
+      "emoji": "🔬",
+      "example_en": "Protect your invention with a patent before you show it to buyers.",
+      "example_th": "คุ้มครองสิ่งประดิษฐ์ของคุณด้วยสิทธิบัตรก่อนนำไปให้ผู้ซื้อดู",
+      "cefr": "B1",
+      "note_th": "invent (ก.) / invention (น.) / inventor (คน) = ของใหม่ที่ไม่เคยมีมาก่อน จึงขอสิทธิบัตรได้ — ต่างจาก discovery ที่ค้นพบสิ่งที่มีอยู่แล้ว และ innovation ที่เน้นเอาไปใช้จริง",
+      "distractors": [
+        "innovation",
+        "invitation",
+        "intention"
+      ]
+    },
+    {
+      "id": "royalty",
+      "word": "royalty",
+      "pos": "noun",
+      "ipa": "/ˈrɔɪəlti/",
+      "reading_th": "รอย-เอิล-ตี",
+      "meaning_th": "ค่าลิขสิทธิ์ที่ได้ทุกครั้งที่งานถูกใช้",
+      "emoji": "🎵",
+      "example_en": "The writer earns a royalty every time the book sells.",
+      "example_th": "นักเขียนได้ค่าลิขสิทธิ์ทุกครั้งที่หนังสือขายได้",
+      "cefr": "B2",
+      "note_th": "royalties (มักพหูพจน์) = ส่วนแบ่งที่เจ้าของผลงานได้ต่อการขายหรือเปิดเพลง — royalty-free = จ่ายครั้งเดียวใช้ได้ตลอด (ภาพ เพลงประกอบ) และ royalty ยังแปลว่าราชวงศ์",
+      "distractors": [
+        "loyalty",
+        "royal",
+        "reality"
+      ]
+    },
+    {
+      "id": "fair_use",
+      "word": "fair use",
+      "pos": "noun",
+      "ipa": "/ˌfer ˈjuːs/",
+      "reading_th": "แฟร์ ยูส",
+      "meaning_th": "การใช้งานลิขสิทธิ์โดยชอบธรรม",
+      "emoji": "⚖️",
+      "example_en": "Quoting two lines of a song in a review is usually fair use.",
+      "example_th": "การยกเนื้อเพลงสองบรรทัดมาเขียนรีวิวมักถือเป็นการใช้โดยชอบธรรม",
+      "cefr": "B2",
+      "note_th": "fair use = ใช้งานมีลิขสิทธิ์ได้โดยไม่ขอ ถ้าเพื่อการศึกษา วิจารณ์ หรือข่าว และไม่กระทบรายได้เจ้าของ — ยูทูบเบอร์อ้างคำนี้บ่อย แต่แค่ใส่เครดิตไม่ได้แปลว่า fair use",
+      "distractors": [
+        "fair play",
+        "free use",
+        "fare"
+      ]
+    },
+    {
+      "id": "piracy",
+      "word": "piracy",
+      "pos": "noun",
+      "ipa": "/ˈpaɪrəsi/",
+      "reading_th": "ไพ-ระ-ซี",
+      "meaning_th": "การละเมิดลิขสิทธิ์ / ของเถื่อน",
+      "emoji": "🏴‍☠️",
+      "example_en": "Streaming movies from illegal sites is piracy, even if it feels free.",
+      "example_th": "การดูหนังจากเว็บเถื่อนคือการละเมิดลิขสิทธิ์ แม้จะรู้สึกว่าฟรี",
+      "cefr": "B2",
+      "note_th": "pirate = โจรสลัด, piracy = การก๊อปหรือเผยแพร่หนัง เพลง ซอฟต์แวร์โดยไม่ได้รับอนุญาต (pirated software = โปรแกรมเถื่อน) — ป้ายก่อนหนังฉาย \"Piracy is a crime\"",
+      "distractors": [
+        "privacy",
+        "pirate",
+        "primacy"
+      ]
+    },
+    {
+      "id": "trade_secret",
+      "word": "trade secret",
+      "pos": "noun",
+      "ipa": "/ˈtreɪd ˌsiːkrət/",
+      "reading_th": "เทรด ซี-เคร็ต",
+      "meaning_th": "ความลับทางการค้า",
+      "emoji": "🤐",
+      "example_en": "The soda recipe is a trade secret known by only two people.",
+      "example_th": "สูตรน้ำอัดลมเป็นความลับทางการค้าที่รู้กันแค่สองคน",
+      "cefr": "B2",
+      "note_th": "trade secret = ข้อมูลที่มีค่าเพราะเป็นความลับ (สูตร รายชื่อลูกค้า) ไม่ต้องจดทะเบียนแต่ต้องเก็บให้ดี — ตัวอย่างดัง: สูตร Coca-Cola และ NDA คือเครื่องมือป้องกัน",
+      "distractors": [
+        "secret",
+        "trademark",
+        "top secret"
+      ]
+    },
+    {
+      "id": "public_domain",
+      "word": "public domain",
+      "pos": "noun",
+      "ipa": "/ˌpʌblɪk doʊˈmeɪn/",
+      "reading_th": "พับ-ลิก โด-เมน",
+      "meaning_th": "สมบัติสาธารณะ / งานที่หมดลิขสิทธิ์แล้ว",
+      "emoji": "🌍",
+      "example_en": "Old classical music is in the public domain, so anyone can use it.",
+      "example_th": "เพลงคลาสสิกเก่าเป็นสมบัติสาธารณะ ใครก็นำไปใช้ได้",
+      "cefr": "B2",
+      "note_th": "in the public domain = งานที่ลิขสิทธิ์หมดอายุ (ในไทย 50 ปีหลังผู้สร้างเสียชีวิต) หรือเจ้าของยกให้ฟรี — domain ในที่นี้ = ขอบเขต ไม่ใช่ชื่อเว็บ",
+      "distractors": [
+        "domain name",
+        "public",
+        "private domain"
+      ]
+    },
+    {
+      "id": "exclusive",
+      "word": "exclusive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈskluːsɪv/",
+      "reading_th": "อิก-สคลู-ซีฟ",
+      "meaning_th": "แต่เพียงผู้เดียว",
+      "emoji": "1️⃣",
+      "example_en": "The shop has the exclusive right to sell this brand in Thailand.",
+      "example_th": "ร้านนี้มีสิทธิ์แต่เพียงผู้เดียวในการขายแบรนด์นี้ในไทย",
+      "cefr": "B2",
+      "note_th": "exclusive right/license = สิทธิ์ที่ให้คนเดียว คนอื่นห้ามใช้ ตรงข้าม non-exclusive — ในการตลาด exclusive = เฉพาะกลุ่ม/หรูหรา และ exclusive interview = สัมภาษณ์พิเศษเจ้าเดียว",
+      "distractors": [
+        "excessive",
+        "expensive",
+        "inclusive"
+      ]
+    },
+    {
+      "id": "logo",
+      "word": "logo",
+      "pos": "noun",
+      "ipa": "/ˈloʊɡoʊ/",
+      "reading_th": "โล-โก",
+      "meaning_th": "โลโก้ / ตราสัญลักษณ์",
+      "emoji": "🔷",
+      "example_en": "You cannot put a famous logo on your T-shirts without permission.",
+      "example_th": "คุณใส่โลโก้ดังบนเสื้อยืดของคุณไม่ได้ถ้าไม่ได้รับอนุญาต",
+      "cefr": "A2",
+      "note_th": "logo = ภาพสัญลักษณ์ของแบรนด์ มีทั้งลิขสิทธิ์ (ในฐานะงานออกแบบ) และเครื่องหมายการค้า (ถ้าจดทะเบียน) — ออกเสียง \"โล-โก\" ไม่ใช่ \"โล-โก้\" แบบไทย",
+      "distractors": [
+        "lego",
+        "slogan",
+        "logic"
+      ]
+    },
+    {
+      "id": "fine",
+      "word": "fine",
+      "pos": "noun",
+      "ipa": "/faɪn/",
+      "reading_th": "ไฟน์",
+      "meaning_th": "ค่าปรับ",
+      "emoji": "🎫",
+      "example_en": "I paid a fine of five hundred baht for parking here.",
+      "example_th": "ฉันจ่ายค่าปรับห้าร้อยบาทเพราะจอดรถตรงนี้",
+      "cefr": "A2",
+      "note_th": "fine (น.) = ค่าปรับ (pay a fine, get fined = โดนปรับ) คนละความหมายกับ fine = สบายดี — ใบสั่งจราจรคือ a ticket ส่วนเงินที่จ่ายคือ the fine",
+      "distractors": [
+        "fee",
+        "find",
+        "fin"
+      ]
+    },
+    {
+      "id": "permit",
+      "word": "permit",
+      "pos": "noun",
+      "ipa": "/ˈpɜːrmɪt/",
+      "reading_th": "เพอร์-มิต",
+      "meaning_th": "ใบอนุญาตทำกิจกรรมเฉพาะ",
+      "emoji": "🪪",
+      "example_en": "Foreigners need a work permit before they start a job here.",
+      "example_th": "ชาวต่างชาติต้องมีใบอนุญาตทำงานก่อนเริ่มงานที่นี่",
+      "cefr": "B1",
+      "note_th": "permit (น.) เน้นพยางค์แรก = ใบอนุญาตชั่วคราวเฉพาะเรื่อง (work permit, building permit) ส่วน permit (ก.) เน้นพยางค์หลัง = อนุญาต — license ถาวรและกว้างกว่า",
+      "distractors": [
+        "permission",
+        "permanent",
+        "hermit"
+      ]
+    },
+    {
+      "id": "consent",
+      "word": "consent",
+      "pos": "noun",
+      "ipa": "/kənˈsent/",
+      "reading_th": "คอน-เซนต์",
+      "meaning_th": "ความยินยอม",
+      "emoji": "🆗",
+      "example_en": "The app must get your consent before it collects your location.",
+      "example_th": "แอปต้องได้รับความยินยอมจากคุณก่อนเก็บข้อมูลตำแหน่ง",
+      "cefr": "B2",
+      "note_th": "give consent = ให้ความยินยอม, without consent = โดยไม่ยินยอม — PDPA (กฎหมายข้อมูลส่วนบุคคลไทย) ทำให้ทุกเว็บมีแบนเนอร์ consent และ age of consent = อายุที่ยินยอมได้ตามกฎหมาย",
+      "distractors": [
+        "content",
+        "concert",
+        "consult"
+      ]
+    },
+    {
+      "id": "illegal",
+      "word": "illegal",
+      "pos": "adjective",
+      "ipa": "/ɪˈliːɡl/",
+      "reading_th": "อิล-ลี-เกิล",
+      "meaning_th": "ผิดกฎหมาย",
+      "emoji": "🚫",
+      "example_en": "It is illegal to ride a motorbike without a helmet in Thailand.",
+      "example_th": "การขี่มอเตอร์ไซค์โดยไม่สวมหมวกกันน็อกผิดกฎหมายในไทย",
+      "cefr": "A2",
+      "note_th": "il- + legal = ไม่ถูกกฎหมาย (ใช้กับ l: illegal, illogical) — unlawful ความหมายเดียวกันแต่เป็นทางการ และ illegal immigrant = ผู้เข้าเมืองผิดกฎหมาย",
+      "distractors": [
+        "legal",
+        "illogical",
+        "eagle"
+      ]
+    },
+    {
+      "id": "legal",
+      "word": "legal",
+      "pos": "adjective",
+      "ipa": "/ˈliːɡl/",
+      "reading_th": "ลี-เกิล",
+      "meaning_th": "ถูกกฎหมาย / ทางกฎหมาย",
+      "emoji": "✅",
+      "example_en": "Is it legal to record a phone call without telling the other person?",
+      "example_th": "การอัดเสียงโทรศัพท์โดยไม่บอกอีกฝ่ายถูกกฎหมายไหม",
+      "cefr": "A2",
+      "note_th": "legal มี 2 ความหมาย: ถูกกฎหมาย (It's legal) และเกี่ยวกับกฎหมาย (legal advice, legal team, legal action = ดำเนินคดี) — ออกเสียง \"ลี-เกิล\" ไม่ใช่ \"เล-กัล\"",
+      "distractors": [
+        "illegal",
+        "loyal",
+        "regal"
+      ]
+    },
+    {
+      "id": "law",
+      "word": "law",
+      "pos": "noun",
+      "ipa": "/lɔː/",
+      "reading_th": "ลอ",
+      "meaning_th": "กฎหมาย",
+      "emoji": "📚",
+      "example_en": "The new law bans plastic bags in big supermarkets.",
+      "example_th": "กฎหมายใหม่ห้ามใช้ถุงพลาสติกในซูเปอร์มาร์เก็ตใหญ่",
+      "cefr": "A2",
+      "note_th": "law = กฎหมายหนึ่งฉบับ (a law) หรือกฎหมายโดยรวม (the law) — break the law = ทำผิดกฎหมาย, against the law = ผิดกฎหมาย, law school = คณะนิติศาสตร์ และ in-laws = ญาติฝ่ายคู่สมรส",
+      "distractors": [
+        "low",
+        "lawn",
+        "raw"
+      ]
+    },
+    {
+      "id": "regulation",
+      "word": "regulation",
+      "pos": "noun",
+      "ipa": "/ˌreɡjuˈleɪʃn/",
+      "reading_th": "เร-กิว-เล-ชัน",
+      "meaning_th": "กฎระเบียบ / ข้อบังคับ",
+      "emoji": "📏",
+      "example_en": "New regulations require every food stall to show its license.",
+      "example_th": "กฎระเบียบใหม่กำหนดให้ร้านอาหารริมทางทุกร้านแสดงใบอนุญาต",
+      "cefr": "B1",
+      "note_th": "regulation = กฎที่หน่วยงานออกเพื่อบังคับใช้กฎหมายในรายละเอียด (rules and regulations) — regulator = หน่วยงานกำกับ เช่น ธปท. กำกับธนาคาร, ก.ล.ต. กำกับตลาดทุน",
+      "distractors": [
+        "relation",
+        "revolution",
+        "regular"
+      ]
+    },
+    {
+      "id": "ban",
+      "word": "ban",
+      "pos": "verb",
+      "ipa": "/bæn/",
+      "reading_th": "แบน",
+      "meaning_th": "สั่งห้าม",
+      "emoji": "🚷",
+      "example_en": "Some countries ban e-cigarettes completely, including Thailand.",
+      "example_th": "บางประเทศสั่งห้ามบุหรี่ไฟฟ้าทั้งหมด รวมถึงไทย",
+      "cefr": "A2",
+      "note_th": "ban (ก./น.) = ห้ามอย่างเป็นทางการ (a ban on smoking, be banned from = ถูกห้ามเข้า) — คนไทยใช้ \"แบน\" ในความหมายบอยคอตและโดนบล็อกบัญชีด้วย ซึ่งฝรั่งก็เข้าใจ",
+      "distractors": [
+        "bank",
+        "bun",
+        "band"
+      ]
+    },
+    {
+      "id": "trespass",
+      "word": "trespass",
+      "pos": "verb",
+      "ipa": "/ˈtrespæs/",
+      "reading_th": "เทรส-พาส",
+      "meaning_th": "บุกรุกที่ดินหรือสถานที่ของผู้อื่น",
+      "emoji": "🚧",
+      "example_en": "You trespass when you walk onto private land without permission.",
+      "example_th": "คุณบุกรุกเมื่อเดินเข้าไปในที่ดินส่วนบุคคลโดยไม่ได้รับอนุญาต",
+      "cefr": "B2",
+      "note_th": "trespass = เข้าไปในที่ของคนอื่นโดยไม่ได้รับอนุญาต แม้ไม่ได้ขโมยอะไรก็ผิด — ป้ายฝรั่ง \"No trespassing\" = ห้ามบุกรุก และ trespasser = ผู้บุกรุก",
+      "distractors": [
+        "trip",
+        "pass",
+        "surpass"
+      ]
+    },
+    {
+      "id": "defamation",
+      "word": "defamation",
+      "pos": "noun",
+      "ipa": "/ˌdefəˈmeɪʃn/",
+      "reading_th": "เด-ฟะ-เม-ชัน",
+      "meaning_th": "การหมิ่นประมาท",
+      "emoji": "🗯️",
+      "example_en": "Posting lies about a restaurant online can count as defamation.",
+      "example_th": "การโพสต์เรื่องโกหกเกี่ยวกับร้านอาหารออนไลน์อาจเข้าข่ายหมิ่นประมาท",
+      "cefr": "B2",
+      "note_th": "defame (ก.) / defamation (น.) = ทำให้เสียชื่อเสียงด้วยข้อความเท็จ — ในไทยเป็นคดีอาญาที่ฟ้องกันบ่อยจากโพสต์โซเชียล; แบบเขียนเรียก libel แบบพูดเรียก slander",
+      "distractors": [
+        "deformation",
+        "definition",
+        "fame"
+      ]
+    },
+    {
+      "id": "eviction",
+      "word": "eviction",
+      "pos": "noun",
+      "ipa": "/ɪˈvɪkʃn/",
+      "reading_th": "อิ-วิก-ชัน",
+      "meaning_th": "การขับไล่ผู้เช่าออกจากที่พัก",
+      "emoji": "📦",
+      "example_en": "After three months without rent, the family faced eviction.",
+      "example_th": "หลังไม่จ่ายค่าเช่าสามเดือน ครอบครัวนั้นเผชิญการถูกขับไล่",
+      "cefr": "B2",
+      "note_th": "evict (ก.) / eviction (น.) = ไล่ออกจากที่เช่าตามกฎหมาย (eviction notice = หนังสือแจ้งให้ย้ายออก) — เจ้าของบ้านไทยไม่มีสิทธิ์เปลี่ยนกุญแจเองโดยไม่ผ่านศาล",
+      "distractors": [
+        "evacuation",
+        "addiction",
+        "election"
+      ]
+    },
+    {
+      "id": "will",
+      "word": "will",
+      "pos": "noun",
+      "ipa": "/wɪl/",
+      "reading_th": "วิล",
+      "meaning_th": "พินัยกรรม",
+      "emoji": "📜",
+      "example_en": "My father wrote a will that leaves the house to my sister.",
+      "example_th": "พ่อเขียนพินัยกรรมยกบ้านให้น้องสาวของฉัน",
+      "cefr": "B1",
+      "note_th": "will (น.) = พินัยกรรม ไม่ใช่แค่กริยาช่วย — make/write a will = ทำพินัยกรรม, leave something to someone in a will = ยกให้ตามพินัยกรรม และ last will and testament = ชื่อทางการ",
+      "distractors": [
+        "well",
+        "wheel",
+        "wish"
+      ]
+    },
+    {
+      "id": "inheritance",
+      "word": "inheritance",
+      "pos": "noun",
+      "ipa": "/ɪnˈherɪtəns/",
+      "reading_th": "อิน-เฮ-ริ-เทินส์",
+      "meaning_th": "มรดก",
+      "emoji": "🏺",
+      "example_en": "She used her inheritance to open a small bakery.",
+      "example_th": "เธอใช้เงินมรดกเปิดร้านเบเกอรี่เล็กๆ",
+      "cefr": "B2",
+      "note_th": "inherit (ก.) = รับมรดก (inherit a house from), inheritance (น.) = มรดก, heir = ทายาท — inheritance tax = ภาษีมรดก ในไทยเก็บเฉพาะมรดกเกิน 100 ล้านบาท",
+      "distractors": [
+        "heritage",
+        "insurance",
+        "interference"
+      ]
+    },
+    {
+      "id": "custody",
+      "word": "custody",
+      "pos": "noun",
+      "ipa": "/ˈkʌstədi/",
+      "reading_th": "คัส-โต-ดี",
+      "meaning_th": "สิทธิ์ปกครองดูแลบุตร / การควบคุมตัว",
+      "emoji": "👨‍👧",
+      "example_en": "After the divorce, the mother got custody of both children.",
+      "example_th": "หลังหย่า แม่ได้สิทธิ์ปกครองดูแลลูกทั้งสองคน",
+      "cefr": "B2",
+      "note_th": "custody มี 2 ความหมายที่เจอบ่อย: child custody = สิทธิ์เลี้ยงดูลูกหลังหย่า (joint custody = ดูแลร่วมกัน) และ in police custody = ถูกตำรวจควบคุมตัว",
+      "distractors": [
+        "customer",
+        "custom",
+        "casualty"
+      ]
+    }
+  ]
+}

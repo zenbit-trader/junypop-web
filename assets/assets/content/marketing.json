@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "marketing",
+    "name_en": "Marketing & Ads",
+    "name_th": "การตลาดและโฆษณา",
+    "emoji": "📣",
+    "color_start": "#FB923C",
+    "color_end": "#C2410C",
+    "description_th": "ศัพท์การตลาดยุคดิจิทัล แบรนด์ แคมเปญ โฆษณาออนไลน์ และการวัดผล",
+    "mascot_costume": "suit",
+    "lessons": [
+      {
+        "id": "marketing_1",
+        "title_en": "Brand & Positioning",
+        "title_th": "แบรนด์และจุดยืน",
+        "emoji": "🏷️",
+        "word_ids": [
+          "brand_voice",
+          "slogan",
+          "tagline",
+          "positioning",
+          "brand_identity",
+          "target_audience",
+          "unique_selling_point",
+          "value_proposition",
+          "brand_awareness",
+          "mass_market",
+          "rebrand",
+          "mascot",
+          "brand_guidelines",
+          "premium"
+        ]
+      },
+      {
+        "id": "marketing_2",
+        "title_en": "Campaigns & Content",
+        "title_th": "แคมเปญและคอนเทนต์",
+        "emoji": "🎬",
+        "word_ids": [
+          "content_calendar",
+          "copywriting",
+          "copy",
+          "headline",
+          "call_to_action",
+          "visual",
+          "storytelling",
+          "teaser",
+          "pop_up",
+          "banner",
+          "evergreen",
+          "ugc",
+          "brief",
+          "repurpose"
+        ]
+      },
+      {
+        "id": "marketing_3",
+        "title_en": "Digital Ads & Metrics",
+        "title_th": "โฆษณาออนไลน์และตัวชี้วัด",
+        "emoji": "📊",
+        "word_ids": [
+          "cpm",
+          "click",
+          "ctr",
+          "conversion",
+          "cpc",
+          "ad_spend",
+          "roas",
+          "bid",
+          "targeting",
+          "retargeting",
+          "ab_test",
+          "bounce_rate",
+          "pixel",
+          "placement"
+        ]
+      },
+      {
+        "id": "marketing_4",
+        "title_en": "Social & Influencers",
+        "title_th": "โซเชียลและอินฟลูเอนเซอร์",
+        "emoji": "🤳",
+        "word_ids": [
+          "micro_influencer",
+          "kol",
+          "seeding",
+          "paid_partnership",
+          "earned_media",
+          "boost",
+          "community",
+          "interaction",
+          "word_of_mouth",
+          "brand_ambassador",
+          "social_listening",
+          "rate_card",
+          "authentic",
+          "live_commerce"
+        ]
+      },
+      {
+        "id": "marketing_5",
+        "title_en": "Pricing & Promotion",
+        "title_th": "ราคาและโปรโมชัน",
+        "emoji": "💸",
+        "word_ids": [
+          "pricing",
+          "markup",
+          "margin",
+          "bundle",
+          "upsell",
+          "cross_sell",
+          "loyalty_program",
+          "limited_edition",
+          "clearance",
+          "markdown",
+          "freemium",
+          "free_trial",
+          "referral",
+          "early_bird"
+        ]
+      },
+      {
+        "id": "marketing_6",
+        "title_en": "Customer Research",
+        "title_th": "วิจัยลูกค้า",
+        "emoji": "🔍",
+        "word_ids": [
+          "survey",
+          "questionnaire",
+          "focus_group",
+          "persona",
+          "segment",
+          "demographics",
+          "purchase_intent",
+          "customer_journey",
+          "touchpoint",
+          "respondent",
+          "qualitative",
+          "quantitative",
+          "sample_size",
+          "nps"
+        ]
+      },
+      {
+        "id": "marketing_7",
+        "title_en": "Growth & Analytics",
+        "title_th": "การเติบโตและวิเคราะห์ผล",
+        "emoji": "🚀",
+        "word_ids": [
+          "kpi",
+          "funnel",
+          "lead",
+          "retention",
+          "unsubscribe",
+          "cost_per_lead",
+          "page_views",
+          "heatmap",
+          "benchmark",
+          "lifetime_value",
+          "attribution",
+          "double_down",
+          "optimize",
+          "open_rate"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "brand_voice",
+      "word": "brand voice",
+      "pos": "noun",
+      "ipa": "/brænd vɔɪs/",
+      "reading_th": "แบรนด์ วอยซ์",
+      "meaning_th": "น้ำเสียงประจำแบรนด์",
+      "emoji": "🗣️",
+      "example_en": "Our brand voice is friendly, short and never uses jargon.",
+      "example_th": "น้ำเสียงแบรนด์ของเราเป็นกันเอง สั้น และไม่ใช้ศัพท์เทคนิค",
+      "cefr": "B2",
+      "note_th": "brand voice = บุคลิกการพูดของแบรนด์ (ขี้เล่น ทางการ อบอุ่น) ต้องเหมือนกันทุกช่องทาง — tone of voice คือคำที่คนอังกฤษใช้ในความหมายเดียวกัน",
+      "distractors": [
+        "brand name",
+        "voice-over",
+        "brand noise"
+      ]
+    },
+    {
+      "id": "slogan",
+      "word": "slogan",
+      "pos": "noun",
+      "ipa": "/ˈsloʊɡən/",
+      "reading_th": "สโล-แกน",
+      "meaning_th": "สโลแกน / คำขวัญ",
+      "emoji": "📢",
+      "example_en": "Just Do It is the most famous slogan in sports.",
+      "example_th": "Just Do It คือสโลแกนที่โด่งดังที่สุดในวงการกีฬา",
+      "cefr": "A2",
+      "note_th": "slogan = ประโยคสั้นจำง่ายที่ใช้ในแคมเปญ เปลี่ยนได้ตามแคมเปญ — ต่างจาก tagline ที่ติดอยู่กับแบรนด์ยาวนานกว่า",
+      "distractors": [
+        "slope",
+        "sloth",
+        "motto"
+      ]
+    },
+    {
+      "id": "tagline",
+      "word": "tagline",
+      "pos": "noun",
+      "ipa": "/ˈtæɡlaɪn/",
+      "reading_th": "แท็ก-ไลน์",
+      "meaning_th": "วลีประจำแบรนด์ใต้โลโก้",
+      "emoji": "✒️",
+      "example_en": "The tagline under the logo explains what we sell.",
+      "example_th": "วลีประจำแบรนด์ใต้โลโก้อธิบายว่าเราขายอะไร",
+      "cefr": "B1",
+      "note_th": "tagline อยู่คู่โลโก้และบอกตัวตนแบรนด์ เช่น Think Different — ส่วนในหนัง tagline คือประโยคโปรยบนโปสเตอร์ ใช้คำเดียวกัน",
+      "distractors": [
+        "headline",
+        "hashtag",
+        "timeline"
+      ]
+    },
+    {
+      "id": "positioning",
+      "word": "positioning",
+      "pos": "noun",
+      "ipa": "/pəˈzɪʃənɪŋ/",
+      "reading_th": "โพ-ซิ-ชัน-นิง",
+      "meaning_th": "การวางตำแหน่งแบรนด์",
+      "emoji": "🎯",
+      "example_en": "Our positioning is simple: healthy snacks for busy people.",
+      "example_th": "การวางตำแหน่งของเราเรียบง่าย: ขนมสุขภาพสำหรับคนยุ่ง",
+      "cefr": "B2",
+      "note_th": "positioning = ภาพที่อยากให้ลูกค้านึกถึงเมื่อเทียบกับคู่แข่ง (ถูกกว่า ดีกว่า หรูกว่า) — ประโยคสรุปเรียก positioning statement ต้องเขียนก่อนทำโฆษณาใดๆ",
+      "distractors": [
+        "position",
+        "possession",
+        "portioning"
+      ]
+    },
+    {
+      "id": "brand_identity",
+      "word": "brand identity",
+      "pos": "noun",
+      "ipa": "/brænd aɪˈdentəti/",
+      "reading_th": "แบรนด์ ไอ-เดน-ทิ-ตี",
+      "meaning_th": "อัตลักษณ์แบรนด์",
+      "emoji": "🎨",
+      "example_en": "Colors, fonts and tone all build a brand identity.",
+      "example_th": "สี ฟอนต์ และน้ำเสียงล้วนสร้างอัตลักษณ์แบรนด์",
+      "cefr": "B2",
+      "note_th": "brand identity = สิ่งที่แบรนด์ออกแบบเอง (โลโก้ สี เสียง) ส่วน brand image = สิ่งที่ลูกค้ารู้สึกจริง — สองอย่างนี้ไม่ตรงกันเสมอไป",
+      "distractors": [
+        "brand image",
+        "brand name",
+        "identity card"
+      ]
+    },
+    {
+      "id": "target_audience",
+      "word": "target audience",
+      "pos": "noun",
+      "ipa": "/ˈtɑːrɡɪt ˈɔːdiəns/",
+      "reading_th": "ทาร์-เก็ท ออ-เดียนส์",
+      "meaning_th": "กลุ่มเป้าหมาย",
+      "emoji": "👥",
+      "example_en": "Our target audience is women aged 25 to 34.",
+      "example_th": "กลุ่มเป้าหมายของเราคือผู้หญิงอายุ 25 ถึง 34 ปี",
+      "cefr": "B1",
+      "note_th": "target audience ใช้กับสื่อและโฆษณา ส่วน target market ใช้กับการขายโดยรวม — ยิ่งนิยามแคบและชัด โฆษณายิ่งถูกและได้ผล",
+      "distractors": [
+        "target market",
+        "audience rating",
+        "target group"
+      ]
+    },
+    {
+      "id": "unique_selling_point",
+      "word": "unique selling point",
+      "pos": "noun",
+      "ipa": "/juːˈniːk ˈselɪŋ pɔɪnt/",
+      "reading_th": "ยู-นีค เซล-ลิง พอยท์",
+      "meaning_th": "จุดขายที่ไม่เหมือนใคร",
+      "emoji": "💎",
+      "example_en": "Free same-day delivery is our unique selling point.",
+      "example_th": "ส่งฟรีภายในวันเดียวคือจุดขายที่ไม่เหมือนใครของเรา",
+      "cefr": "B2",
+      "note_th": "ย่อว่า USP คำถามคลาสสิกจากนักลงทุนคือ What's your USP? — ต้องเป็นสิ่งที่คู่แข่งไม่มี ไม่ใช่แค่ \"คุณภาพดี\" ซึ่งใครก็พูดได้",
+      "distractors": [
+        "selling price",
+        "unique point",
+        "strong point"
+      ]
+    },
+    {
+      "id": "value_proposition",
+      "word": "value proposition",
+      "pos": "noun",
+      "ipa": "/ˈvæljuː ˌprɑːpəˈzɪʃn/",
+      "reading_th": "แวล-ยู พรอ-โพ-ซิ-ชัน",
+      "meaning_th": "คุณค่าที่สัญญากับลูกค้า",
+      "emoji": "🎁",
+      "example_en": "A clear value proposition answers why customers should buy.",
+      "example_th": "คุณค่าที่ชัดเจนตอบได้ว่าทำไมลูกค้าควรซื้อ",
+      "cefr": "B2",
+      "note_th": "value proposition = ประโยคเดียวที่บอกว่าลูกค้าได้อะไรและทำไมต้องเป็นเรา ใช้ในเว็บไซต์หน้าแรกและพิตช์ — ต่างจาก USP ตรงที่มองจากฝั่งลูกค้า",
+      "distractors": [
+        "value for money",
+        "business proposal",
+        "proposition bet"
+      ]
+    },
+    {
+      "id": "brand_awareness",
+      "word": "brand awareness",
+      "pos": "noun",
+      "ipa": "/brænd əˈwernəs/",
+      "reading_th": "แบรนด์ อะ-แวร์-เนส",
+      "meaning_th": "การรับรู้แบรนด์",
+      "emoji": "👁️",
+      "example_en": "The billboard campaign is only for brand awareness.",
+      "example_th": "แคมเปญป้ายบิลบอร์ดมีไว้เพื่อสร้างการรับรู้แบรนด์เท่านั้น",
+      "cefr": "B1",
+      "note_th": "awareness = คนรู้ว่ามีแบรนด์นี้อยู่ ยังไม่ซื้อ เป็นขั้นแรกของ funnel — build/raise brand awareness คือเป้าของโฆษณาที่ไม่มีปุ่มซื้อ",
+      "distractors": [
+        "brand loyalty",
+        "self-awareness",
+        "brand value"
+      ]
+    },
+    {
+      "id": "mass_market",
+      "word": "mass market",
+      "pos": "noun",
+      "ipa": "/mæs ˈmɑːrkɪt/",
+      "reading_th": "แมส มาร์-เก็ท",
+      "meaning_th": "ตลาดคนหมู่มาก",
+      "emoji": "🏟️",
+      "example_en": "Instant noodles are a mass market product sold everywhere.",
+      "example_th": "บะหมี่กึ่งสำเร็จรูปเป็นสินค้าตลาดคนหมู่มากที่ขายทุกที่",
+      "cefr": "B1",
+      "note_th": "mass market = ขายทุกคน ราคาเข้าถึงง่าย ตรงข้ามกับตลาดเฉพาะกลุ่ม — คนไทยพูดว่า \"ตลาดแมส\" ตรงกัน; ใช้เป็นคุณศัพท์มีขีด: mass-market brand",
+      "distractors": [
+        "mass media",
+        "market share",
+        "black market"
+      ]
+    },
+    {
+      "id": "rebrand",
+      "word": "rebrand",
+      "pos": "verb",
+      "ipa": "/ˌriːˈbrænd/",
+      "reading_th": "รี-แบรนด์",
+      "meaning_th": "ปรับโฉมแบรนด์ใหม่",
+      "emoji": "🔄",
+      "example_en": "The bank decided to rebrand after the merger.",
+      "example_th": "ธนาคารตัดสินใจปรับโฉมแบรนด์ใหม่หลังควบรวมกิจการ",
+      "cefr": "B2",
+      "note_th": "rebrand = เปลี่ยนชื่อ โลโก้ หรือภาพลักษณ์ทั้งชุด ใช้เป็นคำนามได้ด้วย: a full rebrand — ถ้าแค่ปรับโลโก้เล็กน้อยเรียก refresh",
+      "distractors": [
+        "rebound",
+        "brand new",
+        "rename"
+      ]
+    },
+    {
+      "id": "mascot",
+      "word": "mascot",
+      "pos": "noun",
+      "ipa": "/ˈmæskɑːt/",
+      "reading_th": "แมส-ค็อท",
+      "meaning_th": "มาสคอต / ตัวนำโชคของแบรนด์",
+      "emoji": "🐻",
+      "example_en": "Children love the mascot more than the product.",
+      "example_th": "เด็กๆ รักมาสคอตมากกว่าตัวสินค้าเสียอีก",
+      "cefr": "B1",
+      "note_th": "mascot = ตัวละครประจำแบรนด์หรือทีม ช่วยให้จำง่ายและดูเป็นมิตร — ญี่ปุ่นเรียก yuru-chara ส่วนภาษาอังกฤษใช้ mascot ทั้งตัวการ์ตูนและคนใส่ชุด",
+      "distractors": [
+        "mask",
+        "muscat",
+        "mascara"
+      ]
+    },
+    {
+      "id": "brand_guidelines",
+      "word": "brand guidelines",
+      "pos": "noun",
+      "ipa": "/brænd ˈɡaɪdlaɪnz/",
+      "reading_th": "แบรนด์ ไกด์-ไลน์ส",
+      "meaning_th": "คู่มือการใช้แบรนด์",
+      "emoji": "📘",
+      "example_en": "The brand guidelines say the logo needs white space around it.",
+      "example_th": "คู่มือการใช้แบรนด์ระบุว่าโลโก้ต้องมีพื้นที่ว่างรอบๆ",
+      "cefr": "B2",
+      "note_th": "brand guidelines (brand book) = เอกสารกำหนดสี ฟอนต์ ระยะโลโก้ น้ำเสียง ให้ทุกคนใช้เหมือนกัน — เอเจนซีจะขอไฟล์นี้ก่อนเริ่มงานเสมอ; พหูพจน์เสมอ",
+      "distractors": [
+        "community guidelines",
+        "brand guide",
+        "style sheet"
+      ]
+    },
+    {
+      "id": "premium",
+      "word": "premium",
+      "pos": "adjective",
+      "ipa": "/ˈpriːmiəm/",
+      "reading_th": "พรี-เมียม",
+      "meaning_th": "ระดับพรีเมียม / คุณภาพสูง",
+      "emoji": "👑",
+      "example_en": "We sell a premium coffee at twice the normal price.",
+      "example_th": "เราขายกาแฟระดับพรีเมียมในราคาสองเท่าของปกติ",
+      "cefr": "B1",
+      "note_th": "premium brand = แบรนด์ที่ตั้งราคาสูงกว่าเพื่อสื่อคุณภาพ — เป็นคำนามได้ด้วย: pay a premium = จ่ายแพงกว่า; ต่างจาก luxury ที่เน้นความหรูและหายากมากกว่า",
+      "distractors": [
+        "primary",
+        "prime",
+        "luxury"
+      ]
+    },
+    {
+      "id": "content_calendar",
+      "word": "content calendar",
+      "pos": "noun",
+      "ipa": "/ˈkɑːntent ˈkæləndər/",
+      "reading_th": "คอน-เทนท์ แค-เลน-เดอร์",
+      "meaning_th": "ตารางวางแผนคอนเทนต์",
+      "emoji": "🗓️",
+      "example_en": "Plan every post in a content calendar one month ahead.",
+      "example_th": "วางแผนทุกโพสต์ในตารางคอนเทนต์ล่วงหน้าหนึ่งเดือน",
+      "cefr": "B1",
+      "note_th": "content calendar = ตารางว่าจะโพสต์อะไร ช่องไหน วันไหน — ทีมการตลาดใช้คำนี้แทน schedule เพราะรวมหัวข้อและสถานะงานไว้ด้วย",
+      "distractors": [
+        "content creator",
+        "calendar invite",
+        "editorial team"
+      ]
+    },
+    {
+      "id": "copywriting",
+      "word": "copywriting",
+      "pos": "noun",
+      "ipa": "/ˈkɑːpiraɪtɪŋ/",
+      "reading_th": "คอ-ปี-ไร-ติง",
+      "meaning_th": "การเขียนคำโฆษณา",
+      "emoji": "✍️",
+      "example_en": "Good copywriting makes people click without thinking.",
+      "example_th": "การเขียนคำโฆษณาที่ดีทำให้คนกดโดยไม่ต้องคิด",
+      "cefr": "B2",
+      "note_th": "copywriting = เขียนเพื่อขาย ต่างจาก content writing ที่เขียนให้ความรู้ — คนทำอาชีพนี้คือ copywriter ไม่ใช่ copyright (ลิขสิทธิ์) ที่ออกเสียงเหมือนกัน",
+      "distractors": [
+        "copyright",
+        "handwriting",
+        "copy editing"
+      ]
+    },
+    {
+      "id": "copy",
+      "word": "copy",
+      "pos": "noun",
+      "ipa": "/ˈkɑːpi/",
+      "reading_th": "คอ-ปี",
+      "meaning_th": "ข้อความโฆษณา (ตัวหนังสือ)",
+      "emoji": "📝",
+      "example_en": "The copy on the banner is too long to read.",
+      "example_th": "ข้อความบนแบนเนอร์ยาวเกินกว่าจะอ่านทัน",
+      "cefr": "B1",
+      "note_th": "ในวงการโฆษณา copy = ตัวหนังสือทั้งหมดในชิ้นงาน ไม่ใช่การคัดลอก: ad copy, body copy — ฟีดแบ็กว่า The copy is weak แปลว่าคำโฆษณาไม่โดน",
+      "distractors": [
+        "coffee",
+        "cope",
+        "copier"
+      ]
+    },
+    {
+      "id": "headline",
+      "word": "headline",
+      "pos": "noun",
+      "ipa": "/ˈhedlaɪn/",
+      "reading_th": "เฮด-ไลน์",
+      "meaning_th": "พาดหัว",
+      "emoji": "🗞️",
+      "example_en": "Write the headline first, then the rest of the ad.",
+      "example_th": "เขียนพาดหัวก่อน แล้วค่อยเขียนส่วนที่เหลือของโฆษณา",
+      "cefr": "B1",
+      "note_th": "headline = บรรทัดใหญ่สุดที่คนอ่านก่อน ทั้งข่าวและโฆษณา — กฎในวงการคือ 8 ใน 10 คนอ่านแค่ headline จึงต้องเขียนให้อยากอ่านต่อ",
+      "distractors": [
+        "deadline",
+        "hotline",
+        "heading"
+      ]
+    },
+    {
+      "id": "call_to_action",
+      "word": "call to action",
+      "pos": "noun",
+      "ipa": "/kɔːl tuː ˈækʃn/",
+      "reading_th": "คอล ทู แอค-ชัน",
+      "meaning_th": "ข้อความชวนให้ทำทันที",
+      "emoji": "👉",
+      "example_en": "Every email needs one clear call to action.",
+      "example_th": "อีเมลทุกฉบับต้องมีข้อความชวนให้ลงมือทำที่ชัดเจนหนึ่งอย่าง",
+      "cefr": "B1",
+      "note_th": "ย่อว่า CTA = ปุ่มหรือประโยคที่บอกว่าให้ทำอะไรต่อ เช่น Shop now, Sign up — CTA ที่ดีมีแค่หนึ่งเดียวต่อหน้า และใช้กริยาสั่งการ",
+      "distractors": [
+        "call to arms",
+        "action plan",
+        "call center"
+      ]
+    },
+    {
+      "id": "visual",
+      "word": "visual",
+      "pos": "noun",
+      "ipa": "/ˈvɪʒuəl/",
+      "reading_th": "วิ-ชวล",
+      "meaning_th": "ภาพประกอบในงานโฆษณา",
+      "emoji": "🖼️",
+      "example_en": "The visual should show the product being used.",
+      "example_th": "ภาพประกอบควรแสดงสินค้าตอนถูกใช้งานจริง",
+      "cefr": "B1",
+      "note_th": "ในทีมครีเอทีฟ visual = ภาพหรือกราฟิกของชิ้นงาน คู่กับ copy ที่เป็นตัวหนังสือ — key visual (KV) คือภาพหลักของแคมเปญที่ใช้ซ้ำทุกช่องทาง",
+      "distractors": [
+        "virtual",
+        "vision",
+        "visible"
+      ]
+    },
+    {
+      "id": "storytelling",
+      "word": "storytelling",
+      "pos": "noun",
+      "ipa": "/ˈstɔːritelɪŋ/",
+      "reading_th": "สตอ-รี-เทล-ลิง",
+      "meaning_th": "การเล่าเรื่องเพื่อสร้างแบรนด์",
+      "emoji": "📖",
+      "example_en": "Brand storytelling sells feelings, not features.",
+      "example_th": "การเล่าเรื่องของแบรนด์ขายความรู้สึก ไม่ใช่สรรพคุณ",
+      "cefr": "B2",
+      "note_th": "storytelling = เล่าเรื่องให้คนอินแทนการบอกสรรพคุณ เช่น โฆษณาไทยประกันชีวิตที่ดังทั่วโลก — คนที่เก่งเรื่องนี้เรียก storyteller",
+      "distractors": [
+        "story time",
+        "bestselling",
+        "fortune-telling"
+      ]
+    },
+    {
+      "id": "teaser",
+      "word": "teaser",
+      "pos": "noun",
+      "ipa": "/ˈtiːzər/",
+      "reading_th": "ที-เซอร์",
+      "meaning_th": "ตัวอย่างเรียกน้ำย่อย",
+      "emoji": "🫣",
+      "example_en": "Post a teaser a week before the big reveal.",
+      "example_th": "โพสต์ตัวอย่างเรียกน้ำย่อยหนึ่งสัปดาห์ก่อนเปิดตัวจริง",
+      "cefr": "B1",
+      "note_th": "teaser = ปล่อยนิดเดียวให้คนอยากรู้ มาจาก tease (แกล้งยั่ว) — ต่างจาก trailer ของหนังที่ยาวและเล่าเรื่องมากกว่า",
+      "distractors": [
+        "teacher",
+        "taser",
+        "tweezers"
+      ]
+    },
+    {
+      "id": "pop_up",
+      "word": "pop-up",
+      "pos": "noun",
+      "ipa": "/ˈpɑːp ʌp/",
+      "reading_th": "ป็อป-อัพ",
+      "meaning_th": "หน้าต่าง/ร้านที่โผล่ขึ้นชั่วคราว",
+      "emoji": "🪟",
+      "example_en": "A pop-up offering ten percent off collects most of our emails.",
+      "example_th": "หน้าต่างป็อปอัพที่ให้ส่วนลดสิบเปอร์เซ็นต์เก็บอีเมลให้เราได้มากที่สุด",
+      "cefr": "B1",
+      "note_th": "pop-up ใช้ได้สองแบบ: หน้าต่างเด้งบนเว็บเพื่อเก็บอีเมล และ pop-up store = ร้านชั่วคราวตามห้าง — เด้งเร็วเกินไปคนจะปิดทันที ตั้งให้โผล่หลัง 10-20 วินาที",
+      "distractors": [
+        "pop star",
+        "pop-up book",
+        "popcorn"
+      ]
+    },
+    {
+      "id": "banner",
+      "word": "banner",
+      "pos": "noun",
+      "ipa": "/ˈbænər/",
+      "reading_th": "แบน-เนอร์",
+      "meaning_th": "ป้ายโฆษณา (เว็บ/ผ้า)",
+      "emoji": "🪧",
+      "example_en": "Nobody clicks a banner that looks like an ad.",
+      "example_th": "ไม่มีใครกดแบนเนอร์ที่ดูเป็นโฆษณาจ๋า",
+      "cefr": "A2",
+      "note_th": "banner ใช้ทั้งป้ายผ้าหน้างานและกรอบโฆษณาบนเว็บ (banner ad) — อาการที่คนมองข้ามแบนเนอร์โดยอัตโนมัติเรียก banner blindness",
+      "distractors": [
+        "banister",
+        "manner",
+        "bunker"
+      ]
+    },
+    {
+      "id": "evergreen",
+      "word": "evergreen",
+      "pos": "adjective",
+      "ipa": "/ˈevərɡriːn/",
+      "reading_th": "เอ-เวอร์-กรีน",
+      "meaning_th": "ที่ใช้ได้ตลอด ไม่ล้าสมัย",
+      "emoji": "🌲",
+      "example_en": "An evergreen article brings traffic for years.",
+      "example_th": "บทความที่ไม่ล้าสมัยดึงคนเข้าเว็บได้หลายปี",
+      "cefr": "B2",
+      "note_th": "evergreen content = คอนเทนต์ที่เขียนครั้งเดียวใช้ได้นาน เช่น วิธีชงกาแฟ ต่างจากข่าวหรือเทรนด์ที่หมดอายุเร็ว — มาจากต้นไม้ที่เขียวตลอดปี",
+      "distractors": [
+        "overgrown",
+        "ever after",
+        "greenery"
+      ]
+    },
+    {
+      "id": "ugc",
+      "word": "UGC",
+      "pos": "noun",
+      "ipa": "/ˌjuː dʒiː ˈsiː/",
+      "reading_th": "ยู-จี-ซี",
+      "meaning_th": "คอนเทนต์ที่ลูกค้าทำเอง",
+      "emoji": "📱",
+      "example_en": "Repost the best UGC from customers wearing our shoes.",
+      "example_th": "รีโพสต์คอนเทนต์ที่ลูกค้าทำเองที่ดีที่สุดตอนใส่รองเท้าของเรา",
+      "cefr": "B2",
+      "note_th": "UGC = user-generated content รีวิว รูป คลิปที่ลูกค้าทำเอง — น่าเชื่อถือกว่าโฆษณาและฟรี แต่ต้องขออนุญาตก่อนนำไปใช้เสมอ",
+      "distractors": [
+        "UFC",
+        "UGG",
+        "CGI"
+      ]
+    },
+    {
+      "id": "brief",
+      "word": "brief",
+      "pos": "noun",
+      "ipa": "/briːf/",
+      "reading_th": "บรีฟ",
+      "meaning_th": "เอกสารสรุปโจทย์งาน",
+      "emoji": "📋",
+      "example_en": "Send the agency a brief with the goal and budget.",
+      "example_th": "ส่งเอกสารสรุปโจทย์พร้อมเป้าหมายและงบให้เอเจนซี",
+      "cefr": "B1",
+      "note_th": "creative brief = โจทย์ที่ลูกค้าให้เอเจนซี: เป้าหมาย กลุ่มเป้าหมาย งบ กำหนดส่ง — คนไทยพูด \"บรีฟงาน\" ตรงกับกริยา brief someone ในภาษาอังกฤษพอดี",
+      "distractors": [
+        "briefs",
+        "breeze",
+        "belief"
+      ]
+    },
+    {
+      "id": "repurpose",
+      "word": "repurpose",
+      "pos": "verb",
+      "ipa": "/ˌriːˈpɜːrpəs/",
+      "reading_th": "รี-เพอร์-เพิส",
+      "meaning_th": "นำคอนเทนต์เดิมมาทำใหม่",
+      "emoji": "♻️",
+      "example_en": "We can repurpose the webinar into ten short clips.",
+      "example_th": "เรานำเว็บบินาร์มาทำใหม่เป็นคลิปสั้นได้สิบคลิป",
+      "cefr": "B2",
+      "note_th": "repurpose = เปลี่ยนรูปแบบคอนเทนต์เดิม เช่น บทความ → อินโฟกราฟิก → คลิป ประหยัดเวลามหาศาล — ไม่ใช่ repost ที่โพสต์ซ้ำเฉยๆ",
+      "distractors": [
+        "repost",
+        "propose",
+        "reproduce"
+      ]
+    },
+    {
+      "id": "cpm",
+      "word": "CPM",
+      "pos": "noun",
+      "ipa": "/ˌsiː piː ˈem/",
+      "reading_th": "ซี-พี-เอ็ม",
+      "meaning_th": "ค่าโฆษณาต่อการแสดงพันครั้ง",
+      "emoji": "👁️",
+      "example_en": "A CPM of 60 baht means 1,000 people saw the ad for 60 baht.",
+      "example_th": "CPM 60 บาทหมายถึงคน 1,000 คนเห็นโฆษณาด้วยเงิน 60 บาท",
+      "cefr": "B2",
+      "note_th": "CPM = cost per mille (ละตินแปลว่าพัน) คือค่าโฆษณาต่อการแสดง 1,000 ครั้ง — การแสดงหนึ่งครั้งเรียก impression คนเดียวเห็นสามครั้ง = 3 impressions ต่างจาก reach ที่นับคนไม่ซ้ำ",
+      "distractors": [
+        "CPC",
+        "CTR",
+        "CRM"
+      ]
+    },
+    {
+      "id": "click",
+      "word": "click",
+      "pos": "noun",
+      "ipa": "/klɪk/",
+      "reading_th": "คลิก",
+      "meaning_th": "การคลิก (กดโฆษณา)",
+      "emoji": "🖱️",
+      "example_en": "Each click on the ad costs us about three baht.",
+      "example_th": "การคลิกโฆษณาแต่ละครั้งเสียเงินเราประมาณสามบาท",
+      "cefr": "A2",
+      "note_th": "click เป็นทั้งคำนามและกริยา: click on the link — ในรายงานโฆษณา clicks = จำนวนครั้งที่คนกด ส่วน link clicks นับเฉพาะกดลิงก์ไม่รวมกดดูรูป",
+      "distractors": [
+        "clip",
+        "clock",
+        "tick"
+      ]
+    },
+    {
+      "id": "ctr",
+      "word": "CTR",
+      "pos": "noun",
+      "ipa": "/ˌsiː tiː ˈɑːr/",
+      "reading_th": "ซี-ที-อาร์",
+      "meaning_th": "อัตราการคลิกต่อการแสดงผล",
+      "emoji": "📈",
+      "example_en": "A CTR above two percent is good for this industry.",
+      "example_th": "อัตราการคลิกเกินสองเปอร์เซ็นต์ถือว่าดีสำหรับอุตสาหกรรมนี้",
+      "cefr": "B2",
+      "note_th": "CTR = click-through rate = คลิก ÷ impressions × 100 บอกว่าโฆษณาน่ากดแค่ไหน — CTR ต่ำแปลว่าภาพหรือพาดหัวไม่โดน ยังไม่ใช่ปัญหาของสินค้า",
+      "distractors": [
+        "CPM",
+        "CRM",
+        "CPR"
+      ]
+    },
+    {
+      "id": "conversion",
+      "word": "conversion",
+      "pos": "noun",
+      "ipa": "/kənˈvɜːrʒn/",
+      "reading_th": "คอน-เวอร์-ชัน",
+      "meaning_th": "การเปลี่ยนผู้ชมเป็นลูกค้า",
+      "emoji": "🛒",
+      "example_en": "A conversion means someone actually bought or signed up.",
+      "example_th": "คอนเวอร์ชันหมายถึงมีคนซื้อหรือสมัครจริงๆ",
+      "cefr": "B1",
+      "note_th": "conversion = การกระทำที่เราต้องการ (ซื้อ สมัคร โหลดแอป) ไม่ใช่แค่เข้าชม — conversion rate = คนทำสำเร็จ ÷ คนเข้ามา; กริยา convert",
+      "distractors": [
+        "conversation",
+        "convention",
+        "diversion"
+      ]
+    },
+    {
+      "id": "cpc",
+      "word": "CPC",
+      "pos": "noun",
+      "ipa": "/ˌsiː piː ˈsiː/",
+      "reading_th": "ซี-พี-ซี",
+      "meaning_th": "ค่าใช้จ่ายต่อคลิก",
+      "emoji": "💰",
+      "example_en": "Our CPC doubled when more brands started bidding.",
+      "example_th": "ค่าใช้จ่ายต่อคลิกของเราเพิ่มเป็นสองเท่าเมื่อแบรนด์อื่นเริ่มประมูลมากขึ้น",
+      "cefr": "B2",
+      "note_th": "CPC = cost per click ใช้วัดว่าแพงแค่ไหนกว่าจะได้คนเข้าเว็บหนึ่งคน — ครอบครัวเดียวกัน: CPM (ต่อพันการแสดง), CPA (ต่อหนึ่งการซื้อ/สมัคร)",
+      "distractors": [
+        "CPA",
+        "CPU",
+        "CCTV"
+      ]
+    },
+    {
+      "id": "ad_spend",
+      "word": "ad spend",
+      "pos": "noun",
+      "ipa": "/æd spend/",
+      "reading_th": "แอด สเปนด์",
+      "meaning_th": "ยอดเงินที่ใช้ซื้อโฆษณา",
+      "emoji": "💳",
+      "example_en": "Total ad spend this month was 50,000 baht.",
+      "example_th": "ยอดเงินค่าโฆษณาทั้งหมดเดือนนี้คือ 50,000 บาท",
+      "cefr": "B1",
+      "note_th": "ad spend = เงินที่จ่ายให้แพลตฟอร์มจริง ไม่รวมค่าทำชิ้นงาน — spend ตรงนี้เป็นคำนาม (ภาษาการตลาด) ส่วนในประโยคทั่วไป spend เป็นกริยา",
+      "distractors": [
+        "ad space",
+        "expense",
+        "budget cut"
+      ]
+    },
+    {
+      "id": "roas",
+      "word": "ROAS",
+      "pos": "noun",
+      "ipa": "/ˈroʊæs/",
+      "reading_th": "โร-แอส",
+      "meaning_th": "ยอดขายที่ได้ต่อค่าโฆษณา 1 บาท",
+      "emoji": "⚖️",
+      "example_en": "A ROAS of four means every baht brings back four.",
+      "example_th": "ROAS เท่ากับสี่หมายถึงทุกหนึ่งบาทได้กลับมาสี่บาท",
+      "cefr": "B2",
+      "note_th": "ROAS = return on ad spend = ยอดขาย ÷ ค่าโฆษณา อ่านว่า \"โร-แอส\" — ตัวเลขที่ร้านออนไลน์ดูทุกเช้า; ต่ำกว่าต้นทุนรวมเมื่อไรคือขาดทุน",
+      "distractors": [
+        "ROI",
+        "roast",
+        "RAS"
+      ]
+    },
+    {
+      "id": "bid",
+      "word": "bid",
+      "pos": "noun",
+      "ipa": "/bɪd/",
+      "reading_th": "บิด",
+      "meaning_th": "ราคาที่เสนอประมูลโฆษณา",
+      "emoji": "🔨",
+      "example_en": "Raise the bid if the ad is not getting shown.",
+      "example_th": "เพิ่มราคาประมูลถ้าโฆษณาไม่ค่อยถูกแสดง",
+      "cefr": "B1",
+      "note_th": "โฆษณาออนไลน์คือการประมูล: ทุกแบรนด์เสนอ bid แพลตฟอร์มเลือกว่าจะแสดงของใคร — เป็นกริยาด้วย: bid on keywords; ผันเป็น bid-bid-bid ไม่เปลี่ยน",
+      "distractors": [
+        "bit",
+        "bind",
+        "bed"
+      ]
+    },
+    {
+      "id": "targeting",
+      "word": "targeting",
+      "pos": "noun",
+      "ipa": "/ˈtɑːrɡɪtɪŋ/",
+      "reading_th": "ทาร์-เก็ต-ติง",
+      "meaning_th": "การเลือกกลุ่มคนที่จะเห็นโฆษณา",
+      "emoji": "🎯",
+      "example_en": "Narrow the targeting to people who live in Bangkok.",
+      "example_th": "จำกัดกลุ่มเป้าหมายให้เหลือเฉพาะคนที่อยู่กรุงเทพฯ",
+      "cefr": "B1",
+      "note_th": "targeting = ตั้งค่าว่าโฆษณาจะไปหาใคร (อายุ พื้นที่ ความสนใจ) — ยิ่งตั้งแคบยิ่งแพงต่อคน แต่โอกาสซื้อสูง; interest targeting = เลือกตามความสนใจ",
+      "distractors": [
+        "marketing",
+        "tailgating",
+        "targeted"
+      ]
+    },
+    {
+      "id": "retargeting",
+      "word": "retargeting",
+      "pos": "noun",
+      "ipa": "/ˌriːˈtɑːrɡɪtɪŋ/",
+      "reading_th": "รี-ทาร์-เก็ต-ติง",
+      "meaning_th": "โฆษณาตามคนที่เคยเข้าเว็บ",
+      "emoji": "🔁",
+      "example_en": "Retargeting shows the shoes again to people who left.",
+      "example_th": "การโฆษณาซ้ำแสดงรองเท้าคู่เดิมให้คนที่ออกจากเว็บไปแล้ว",
+      "cefr": "B2",
+      "note_th": "retargeting (remarketing) = ยิงโฆษณาตามคนที่เคยดูสินค้าแล้วไม่ซื้อ นี่คือเหตุผลที่รองเท้าตามหลอกหลอนคุณทุกเว็บ — ได้ผลสูงที่สุดในบรรดาโฆษณาทั้งหมด",
+      "distractors": [
+        "remarketing",
+        "retaining",
+        "redirecting"
+      ]
+    },
+    {
+      "id": "ab_test",
+      "word": "A/B test",
+      "pos": "noun",
+      "ipa": "/ˌeɪ ˈbiː test/",
+      "reading_th": "เอ-บี เทสท์",
+      "meaning_th": "ทดสอบเทียบสองเวอร์ชัน",
+      "emoji": "🧪",
+      "example_en": "Run an A/B test with two headlines for one week.",
+      "example_th": "ทดสอบเทียบพาดหัวสองแบบเป็นเวลาหนึ่งสัปดาห์",
+      "cefr": "B2",
+      "note_th": "A/B test = ปล่อยเวอร์ชัน A กับ B พร้อมกันแล้วดูว่าอันไหนชนะ เปลี่ยนทีละอย่างเท่านั้น (สี ปุ่ม หรือพาดหัว) — ใช้เป็นกริยาได้: A/B test the subject line",
+      "distractors": [
+        "AB blood test",
+        "beta test",
+        "split screen"
+      ]
+    },
+    {
+      "id": "bounce_rate",
+      "word": "bounce rate",
+      "pos": "noun",
+      "ipa": "/baʊns reɪt/",
+      "reading_th": "เบาน์ซ์ เรท",
+      "meaning_th": "อัตราคนเข้าเว็บแล้วออกทันที",
+      "emoji": "🏃",
+      "example_en": "A high bounce rate means the page loads too slowly.",
+      "example_th": "อัตราเด้งออกสูงแปลว่าหน้าเว็บโหลดช้าเกินไป",
+      "cefr": "B2",
+      "note_th": "bounce = เด้ง คือคนเปิดหน้าเดียวแล้วปิดเลย — bounce rate สูงบอกว่าหน้าเว็บไม่ตรงกับที่โฆษณาสัญญา หรือโหลดช้าเกินสามวินาที",
+      "distractors": [
+        "bounce back",
+        "exchange rate",
+        "heart rate"
+      ]
+    },
+    {
+      "id": "pixel",
+      "word": "pixel",
+      "pos": "noun",
+      "ipa": "/ˈpɪksl/",
+      "reading_th": "พิก-เซล",
+      "meaning_th": "โค้ดติดตามผลโฆษณาบนเว็บ",
+      "emoji": "🧩",
+      "example_en": "Install the pixel so we can see who buys after clicking.",
+      "example_th": "ติดตั้งพิกเซลเพื่อให้เราเห็นว่าใครซื้อหลังจากคลิก",
+      "cefr": "B2",
+      "note_th": "ในวงการโฆษณา pixel = โค้ดเล็กๆ ที่ติดบนเว็บเพื่อส่งข้อมูลกลับไปยัง Meta/Google ไม่ใช่จุดภาพบนหน้าจอ — ไม่ติด pixel = ยิงโฆษณาแล้ววัดผลไม่ได้",
+      "distractors": [
+        "pickle",
+        "pistol",
+        "cookie"
+      ]
+    },
+    {
+      "id": "placement",
+      "word": "placement",
+      "pos": "noun",
+      "ipa": "/ˈpleɪsmənt/",
+      "reading_th": "เพลส-เมนท์",
+      "meaning_th": "ตำแหน่งที่โฆษณาถูกวาง",
+      "emoji": "📍",
+      "example_en": "Choose the Stories placement for vertical video ads.",
+      "example_th": "เลือกตำแหน่งสตอรี่สำหรับโฆษณาวิดีโอแนวตั้ง",
+      "cefr": "B2",
+      "note_th": "placement = ช่องที่โฆษณาจะไปโผล่ (feed, Stories, Reels, search) แต่ละที่ต้องการขนาดภาพต่างกัน — product placement คือการเอาสินค้าไปโผล่ในหนัง/ซีรีส์",
+      "distractors": [
+        "replacement",
+        "place",
+        "pavement"
+      ]
+    },
+    {
+      "id": "micro_influencer",
+      "word": "micro-influencer",
+      "pos": "noun",
+      "ipa": "/ˈmaɪkroʊ ˈɪnfluənsər/",
+      "reading_th": "ไม-โคร อิน-ฟลู-เอน-เซอร์",
+      "meaning_th": "อินฟลูเอนเซอร์รายเล็ก",
+      "emoji": "🧑‍🎤",
+      "example_en": "A micro-influencer with 8,000 fans sold out our stock.",
+      "example_th": "อินฟลูเอนเซอร์รายเล็กที่มีแฟน 8,000 คนทำให้ของเราขายหมด",
+      "cefr": "B2",
+      "note_th": "micro-influencer = ผู้ติดตามราวหมื่นถึงแสนคน ราคาถูกกว่าแต่คนเชื่อมากกว่าดารา — เล็กกว่านั้นเรียก nano-, ใหญ่กว่าเรียก macro- และ mega-influencer",
+      "distractors": [
+        "mega-influencer",
+        "microphone",
+        "micromanager"
+      ]
+    },
+    {
+      "id": "kol",
+      "word": "KOL",
+      "pos": "noun",
+      "ipa": "/ˌkeɪ oʊ ˈel/",
+      "reading_th": "เค-โอ-แอล",
+      "meaning_th": "ผู้นำความคิดเห็นในวงการ",
+      "emoji": "🧑‍⚕️",
+      "example_en": "Ask a skincare KOL to explain the new ingredient.",
+      "example_th": "ขอให้ผู้นำความคิดเห็นด้านสกินแคร์อธิบายส่วนผสมใหม่",
+      "cefr": "B2",
+      "note_th": "KOL = key opinion leader ผู้เชี่ยวชาญที่คนเชื่อ เช่น หมอ เชฟ นักรีวิวเทค — คำนี้ฮิตในเอเชีย (ไทย จีน) ส่วนฝั่งตะวันตกใช้ influencer เกือบทั้งหมด",
+      "distractors": [
+        "KPI",
+        "KOC",
+        "COL"
+      ]
+    },
+    {
+      "id": "seeding",
+      "word": "seeding",
+      "pos": "noun",
+      "ipa": "/ˈsiːdɪŋ/",
+      "reading_th": "ซี-ดิง",
+      "meaning_th": "ส่งสินค้าให้รีวิวแบบไม่บังคับ",
+      "emoji": "🌱",
+      "example_en": "We did product seeding with fifty beauty creators.",
+      "example_th": "เราส่งสินค้าให้ครีเอเตอร์สายบิวตี้ห้าสิบคนลองใช้",
+      "cefr": "B2",
+      "note_th": "seeding = หว่านเมล็ด คือส่งของฟรีให้อินฟลูเอนเซอร์โดยไม่บังคับโพสต์ หวังให้ชอบแล้วพูดถึงเอง — ในไทยยังหมายถึงจ้างคนไปคอมเมนต์ตามกระทู้ด้วย",
+      "distractors": [
+        "feeding",
+        "seeing",
+        "sending"
+      ]
+    },
+    {
+      "id": "paid_partnership",
+      "word": "paid partnership",
+      "pos": "noun",
+      "ipa": "/peɪd ˈpɑːrtnərʃɪp/",
+      "reading_th": "เพด พาร์ท-เนอร์-ชิพ",
+      "meaning_th": "โพสต์ที่แบรนด์จ่ายเงิน (เปิดเผย)",
+      "emoji": "🤝",
+      "example_en": "Every paid partnership post must show the label.",
+      "example_th": "โพสต์ที่แบรนด์จ่ายเงินทุกโพสต์ต้องแสดงป้ายกำกับ",
+      "cefr": "B2",
+      "note_th": "paid partnership = ป้ายที่ Instagram/Facebook ให้ติดเมื่อรับเงินจากแบรนด์ หลายประเทศบังคับทางกฎหมาย — ในไทยนิยมติด #ad หรือ #sponsored",
+      "distractors": [
+        "paid leave",
+        "partnership deal",
+        "paid promotion"
+      ]
+    },
+    {
+      "id": "earned_media",
+      "word": "earned media",
+      "pos": "noun",
+      "ipa": "/ɜːrnd ˈmiːdiə/",
+      "reading_th": "เอิร์นด์ มี-เดีย",
+      "meaning_th": "การถูกพูดถึงโดยไม่ได้จ่ายเงิน",
+      "emoji": "📰",
+      "example_en": "A viral tweet from a customer is earned media we cannot buy.",
+      "example_th": "ทวีตไวรัลจากลูกค้าคือการถูกพูดถึงฟรีที่เราซื้อไม่ได้",
+      "cefr": "B2",
+      "note_th": "สื่อมีสามแบบ: paid media (ซื้อโฆษณา), owned media (ช่องของเราเอง), earned media (คนอื่นพูดถึงเองเพราะเราทำได้ดี เช่น ข่าว รีวิว แชร์) — earned น่าเชื่อถือที่สุดแต่ควบคุมไม่ได้",
+      "distractors": [
+        "paid media",
+        "owned media",
+        "social media"
+      ]
+    },
+    {
+      "id": "boost",
+      "word": "boost",
+      "pos": "verb",
+      "ipa": "/buːst/",
+      "reading_th": "บูสท์",
+      "meaning_th": "จ่ายเงินดันโพสต์ให้คนเห็นมากขึ้น",
+      "emoji": "🚀",
+      "example_en": "Let's boost this post for three days with 500 baht.",
+      "example_th": "ดันโพสต์นี้สามวันด้วยงบ 500 บาทกันเถอะ",
+      "cefr": "B1",
+      "note_th": "boost a post = กดปุ่มจ่ายเงินให้โพสต์เดิมไปไกลขึ้น ง่ายแต่ตั้งค่าได้น้อยกว่าการสร้างโฆษณาจริงใน Ads Manager — ใช้ทั่วไปแปลว่าเพิ่ม: boost sales",
+      "distractors": [
+        "boast",
+        "boots",
+        "burst"
+      ]
+    },
+    {
+      "id": "community",
+      "word": "community",
+      "pos": "noun",
+      "ipa": "/kəˈmjuːnəti/",
+      "reading_th": "คอม-มิว-นิ-ตี",
+      "meaning_th": "ชุมชนแฟนของแบรนด์",
+      "emoji": "🫂",
+      "example_en": "We built a community of runners around the brand.",
+      "example_th": "เราสร้างชุมชนนักวิ่งขึ้นรอบๆ แบรนด์",
+      "cefr": "B1",
+      "note_th": "community = กลุ่มคนที่ผูกพันกับแบรนด์และคุยกันเอง เช่น กลุ่มเฟซบุ๊กหรือ Discord — คนดูแลเรียก community manager; เน้นเสียงที่ \"มิว\"",
+      "distractors": [
+        "commute",
+        "committee",
+        "communist"
+      ]
+    },
+    {
+      "id": "interaction",
+      "word": "interaction",
+      "pos": "noun",
+      "ipa": "/ˌɪntərˈækʃn/",
+      "reading_th": "อิน-เทอ-แรค-ชัน",
+      "meaning_th": "การโต้ตอบกับโพสต์ (กดไลก์ คอมเมนต์)",
+      "emoji": "💬",
+      "example_en": "Questions in the caption get more interaction than statements.",
+      "example_th": "คำถามในแคปชันได้การโต้ตอบมากกว่าประโยคบอกเล่า",
+      "cefr": "B1",
+      "note_th": "interaction = ไลก์ คอมเมนต์ แชร์ รวมกัน แพลตฟอร์มมักใช้คำนี้ในรายงาน — กริยา interact with; interactive content = คอนเทนต์ที่ให้คนเล่นด้วย เช่น quiz",
+      "distractors": [
+        "intersection",
+        "introduction",
+        "interruption"
+      ]
+    },
+    {
+      "id": "word_of_mouth",
+      "word": "word of mouth",
+      "pos": "noun",
+      "ipa": "/wɜːrd əv maʊθ/",
+      "reading_th": "เวิร์ด ออฟ เมาธ์",
+      "meaning_th": "การบอกต่อปากต่อปาก",
+      "emoji": "🗣️",
+      "example_en": "Most of our customers come from word of mouth.",
+      "example_th": "ลูกค้าส่วนใหญ่ของเรามาจากการบอกต่อปากต่อปาก",
+      "cefr": "B1",
+      "note_th": "word of mouth = การตลาดที่ดีที่สุดและฟรี คนเชื่อเพื่อนมากกว่าโฆษณา — ใช้เป็นคุณศัพท์มีขีด: word-of-mouth marketing; ย่อ WOM",
+      "distractors": [
+        "word of honor",
+        "mouth to mouth",
+        "word for word"
+      ]
+    },
+    {
+      "id": "brand_ambassador",
+      "word": "brand ambassador",
+      "pos": "noun",
+      "ipa": "/brænd æmˈbæsədər/",
+      "reading_th": "แบรนด์ แอม-แบส-ซะ-เดอร์",
+      "meaning_th": "ตัวแทนแบรนด์ระยะยาว",
+      "emoji": "⭐",
+      "example_en": "The singer signed on as brand ambassador for two years.",
+      "example_th": "นักร้องเซ็นเป็นตัวแทนแบรนด์เป็นเวลาสองปี",
+      "cefr": "B1",
+      "note_th": "brand ambassador = สัญญายาวเป็นหน้าตาของแบรนด์ ห้ามรับแบรนด์คู่แข่ง ต่างจาก presenter (คำไทย) ที่ฝรั่งไม่ใช้ในความหมายนี้ — ambassador เดิมแปลว่าทูต",
+      "distractors": [
+        "ambassador",
+        "brand manager",
+        "brand owner"
+      ]
+    },
+    {
+      "id": "social_listening",
+      "word": "social listening",
+      "pos": "noun",
+      "ipa": "/ˈsoʊʃl ˈlɪsnɪŋ/",
+      "reading_th": "โซ-เชียล ลิส-ซะ-นิง",
+      "meaning_th": "การติดตามว่าคนพูดถึงแบรนด์อย่างไร",
+      "emoji": "👂",
+      "example_en": "Social listening showed people hate the new packaging.",
+      "example_th": "การติดตามเสียงในโซเชียลพบว่าคนไม่ชอบบรรจุภัณฑ์ใหม่",
+      "cefr": "B2",
+      "note_th": "social listening = ใช้เครื่องมือกวาดดูว่าใครพูดถึงแบรนด์ (รวมที่ไม่ได้แท็ก) เพื่อจับดราม่าก่อนลาม — ต่างจาก monitoring ตรงที่วิเคราะห์อารมณ์ด้วย",
+      "distractors": [
+        "social media",
+        "active listening",
+        "social distancing"
+      ]
+    },
+    {
+      "id": "rate_card",
+      "word": "rate card",
+      "pos": "noun",
+      "ipa": "/reɪt kɑːrd/",
+      "reading_th": "เรท การ์ด",
+      "meaning_th": "ตารางราคาค่าโพสต์/โฆษณา",
+      "emoji": "💵",
+      "example_en": "Ask the creator for a rate card before you negotiate.",
+      "example_th": "ขอตารางราคาจากครีเอเตอร์ก่อนเริ่มต่อรอง",
+      "cefr": "B2",
+      "note_th": "rate card = ใบราคามาตรฐานของอินฟลูเอนเซอร์หรือสื่อ (โพสต์ละเท่าไร สตอรี่ละเท่าไร) — rate ตรงนี้คืออัตราค่าบริการ ราคาจริงมักต่อรองได้ต่ำกว่า",
+      "distractors": [
+        "credit card",
+        "price tag",
+        "report card"
+      ]
+    },
+    {
+      "id": "authentic",
+      "word": "authentic",
+      "pos": "adjective",
+      "ipa": "/ɔːˈθentɪk/",
+      "reading_th": "ออ-เธน-ทิค",
+      "meaning_th": "จริงใจ ไม่เสแสร้ง / ของแท้",
+      "emoji": "💯",
+      "example_en": "Followers can tell when a review is not authentic.",
+      "example_th": "ผู้ติดตามดูออกเมื่อรีวิวไม่ได้มาจากใจจริง",
+      "cefr": "B2",
+      "note_th": "authentic = ของแท้ ไม่ปรุงแต่ง เป็นคำที่นักการตลาดใช้มากที่สุดยุคนี้ เพราะคนเบื่อโฆษณาสวยเกินจริง — คำนาม authenticity; ร้านอาหารก็ใช้: authentic Thai food",
+      "distractors": [
+        "automatic",
+        "artistic",
+        "genuine"
+      ]
+    },
+    {
+      "id": "live_commerce",
+      "word": "live commerce",
+      "pos": "noun",
+      "ipa": "/laɪv ˈkɑːmɜːrs/",
+      "reading_th": "ไลฟ์ คอม-เมิร์ส",
+      "meaning_th": "การขายของผ่านไลฟ์สด",
+      "emoji": "🛍️",
+      "example_en": "Live commerce on TikTok now brings half of our sales.",
+      "example_th": "การขายผ่านไลฟ์สดบน TikTok ทำยอดขายครึ่งหนึ่งของเราแล้ว",
+      "cefr": "B2",
+      "note_th": "live commerce (live shopping) = ไลฟ์สดขายของแบบที่ไทยและจีนทำกันจนเป็นผู้นำโลก — ฝรั่งเพิ่งตามทัน; commerce = การค้า เช่น e-commerce",
+      "distractors": [
+        "e-commerce",
+        "live stream",
+        "live comment"
+      ]
+    },
+    {
+      "id": "pricing",
+      "word": "pricing",
+      "pos": "noun",
+      "ipa": "/ˈpraɪsɪŋ/",
+      "reading_th": "ไพรซ์-ซิง",
+      "meaning_th": "การตั้งราคา",
+      "emoji": "🏷️",
+      "example_en": "Our pricing is ten percent below the market leader.",
+      "example_th": "การตั้งราคาของเราต่ำกว่าผู้นำตลาดสิบเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "pricing = กลยุทธ์และโครงสร้างราคาทั้งระบบ ส่วน price คือตัวเลขราคาหนึ่งชิ้น — pricing strategy, pricing plan (แพ็กเกจราคาของแอป) คือคำที่เจอบ่อย",
+      "distractors": [
+        "prizing",
+        "praising",
+        "costing"
+      ]
+    },
+    {
+      "id": "markup",
+      "word": "markup",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkʌp/",
+      "reading_th": "มาร์ค-อัพ",
+      "meaning_th": "ส่วนบวกเพิ่มจากต้นทุน",
+      "emoji": "➕",
+      "example_en": "A markup of fifty percent on a 100 baht cost is 150.",
+      "example_th": "บวกเพิ่มห้าสิบเปอร์เซ็นต์จากต้นทุน 100 บาทจะได้ 150",
+      "cefr": "B2",
+      "note_th": "markup คิดจากต้นทุน (ต้นทุน 100 บวก 50% = 150) ส่วน margin คิดจากราคาขาย (150 ได้กำไร 50 คือ margin 33%) — คนสับสนสองคำนี้ตลอด ตัวเลขต่างกันมาก",
+      "distractors": [
+        "markdown",
+        "makeup",
+        "mark"
+      ]
+    },
+    {
+      "id": "margin",
+      "word": "margin",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrdʒɪn/",
+      "reading_th": "มาร์-จิน",
+      "meaning_th": "ส่วนต่างกำไร (ต่อราคาขาย)",
+      "emoji": "📐",
+      "example_en": "Coffee has a high margin, but sandwiches do not.",
+      "example_th": "กาแฟมีส่วนต่างกำไรสูง แต่แซนด์วิชไม่",
+      "cefr": "B2",
+      "note_th": "profit margin = กำไรเป็นเปอร์เซ็นต์ของราคาขาย thin margin = กำไรบาง — ในเอกสาร margin ยังหมายถึงขอบกระดาษ; ตัว g ออกเสียงเป็น จ",
+      "distractors": [
+        "marginal",
+        "margarine",
+        "mark"
+      ]
+    },
+    {
+      "id": "bundle",
+      "word": "bundle",
+      "pos": "noun",
+      "ipa": "/ˈbʌndl/",
+      "reading_th": "บัน-เดิล",
+      "meaning_th": "ชุดสินค้าขายรวมกัน",
+      "emoji": "🎁",
+      "example_en": "The bundle of shampoo and conditioner sells better than either alone.",
+      "example_th": "ชุดแชมพูคู่ครีมนวดขายดีกว่าแยกขายทีละชิ้น",
+      "cefr": "B1",
+      "note_th": "bundle = จับหลายชิ้นขายเป็นชุดราคาเดียว ลูกค้ารู้สึกคุ้ม ร้านได้ยอดต่อบิลสูงขึ้น — เป็นกริยาได้: bundle A with B; ของขายเดี่ยวเรียก standalone",
+      "distractors": [
+        "bungle",
+        "handle",
+        "bunch"
+      ]
+    },
+    {
+      "id": "upsell",
+      "word": "upsell",
+      "pos": "verb",
+      "ipa": "/ˌʌpˈsel/",
+      "reading_th": "อัพ-เซล",
+      "meaning_th": "ชวนซื้อรุ่นที่แพงกว่า",
+      "emoji": "⬆️",
+      "example_en": "Staff should upsell the large size for ten baht more.",
+      "example_th": "พนักงานควรชวนลูกค้าอัปไซส์ใหญ่เพิ่มแค่สิบบาท",
+      "cefr": "B2",
+      "note_th": "upsell = เสนอของอย่างเดียวกันแต่รุ่นใหญ่/แพงกว่า เช่น \"อัปไซส์ไหมคะ\" ส่วน cross-sell = เสนอของอื่นที่เข้ากัน เช่น \"รับเฟรนช์ฟรายส์เพิ่มไหม\"",
+      "distractors": [
+        "upscale",
+        "oversell",
+        "upload"
+      ]
+    },
+    {
+      "id": "cross_sell",
+      "word": "cross-sell",
+      "pos": "verb",
+      "ipa": "/ˈkrɔːs sel/",
+      "reading_th": "ครอส-เซล",
+      "meaning_th": "ชวนซื้อสินค้าอื่นที่เข้ากัน",
+      "emoji": "🔗",
+      "example_en": "We cross-sell phone cases to everyone who buys a phone.",
+      "example_th": "เราชวนทุกคนที่ซื้อโทรศัพท์ให้ซื้อเคสเพิ่ม",
+      "cefr": "B2",
+      "note_th": "cross-sell = ขายพ่วงของที่เกี่ยวข้องกัน เว็บช้อปปิ้งทำผ่านกล่อง \"ลูกค้าที่ซื้อสินค้านี้ยังซื้อ...\" — cross = ข้ามหมวด ไม่ใช่โกรธ",
+      "distractors": [
+        "cross out",
+        "crosswalk",
+        "resell"
+      ]
+    },
+    {
+      "id": "loyalty_program",
+      "word": "loyalty program",
+      "pos": "noun",
+      "ipa": "/ˈlɔɪəlti ˈproʊɡræm/",
+      "reading_th": "ลอย-เอิล-ตี โพร-แกรม",
+      "meaning_th": "โปรแกรมสะสมแต้มลูกค้าประจำ",
+      "emoji": "🎫",
+      "example_en": "Our loyalty program gives a free drink every tenth visit.",
+      "example_th": "โปรแกรมสะสมแต้มของเราแจกเครื่องดื่มฟรีทุกการมาครั้งที่สิบ",
+      "cefr": "B1",
+      "note_th": "loyalty program = ระบบที่ให้รางวัลคนซื้อซ้ำ (บัตรสะสมแต้ม ไมล์สายการบิน) — การหาลูกค้าใหม่แพงกว่ารักษาคนเดิม 5 เท่า โปรแกรมนี้จึงคุ้ม",
+      "distractors": [
+        "royalty program",
+        "loyal customer",
+        "training program"
+      ]
+    },
+    {
+      "id": "limited_edition",
+      "word": "limited edition",
+      "pos": "noun",
+      "ipa": "/ˈlɪmɪtɪd ɪˈdɪʃn/",
+      "reading_th": "ลิ-มิ-เท็ด อิ-ดิ-ชัน",
+      "meaning_th": "รุ่นผลิตจำนวนจำกัด",
+      "emoji": "💎",
+      "example_en": "The limited edition sold out in twenty minutes.",
+      "example_th": "รุ่นผลิตจำนวนจำกัดขายหมดภายในยี่สิบนาที",
+      "cefr": "B1",
+      "note_th": "limited edition = ผลิตน้อย เล่นกับความกลัวพลาด (FOMO) และ scarcity (ความหายาก) — ใช้เป็นคุณศัพท์มีขีด: a limited-edition sneaker",
+      "distractors": [
+        "limited time",
+        "first edition",
+        "special edition"
+      ]
+    },
+    {
+      "id": "clearance",
+      "word": "clearance",
+      "pos": "noun",
+      "ipa": "/ˈklɪrəns/",
+      "reading_th": "เคลีย-แรนส์",
+      "meaning_th": "การลดล้างสต็อก",
+      "emoji": "🧹",
+      "example_en": "Everything on the clearance rack is seventy percent off.",
+      "example_th": "ทุกชิ้นบนราวลดล้างสต็อกลดเจ็ดสิบเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "clearance sale = ลดหนักเพื่อเคลียร์ของเก่าออกก่อนคอลเลกชันใหม่ — คำเดียวกันใช้ในความหมาย \"ผ่านการตรวจ/อนุญาต\": security clearance, customs clearance",
+      "distractors": [
+        "clearly",
+        "clear out",
+        "cleanse"
+      ]
+    },
+    {
+      "id": "markdown",
+      "word": "markdown",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkdaʊn/",
+      "reading_th": "มาร์ค-ดาวน์",
+      "meaning_th": "การปรับราคาลงจากป้ายเดิม",
+      "emoji": "⬇️",
+      "example_en": "A thirty percent markdown cleared the winter jackets.",
+      "example_th": "การลดราคาลงสามสิบเปอร์เซ็นต์ทำให้แจ็กเก็ตหน้าหนาวขายหมด",
+      "cefr": "B2",
+      "note_th": "markdown = ลดจากราคาตั้งเดิม ตรงข้ามกับ markup — กริยาคือ mark down: mark the price down; ใช้ในร้านค้าปลีกมากกว่าคำว่า discount เพราะพูดถึงการตัดสินใจของร้าน",
+      "distractors": [
+        "markup",
+        "mark up",
+        "meltdown"
+      ]
+    },
+    {
+      "id": "freemium",
+      "word": "freemium",
+      "pos": "noun",
+      "ipa": "/ˈfriːmiəm/",
+      "reading_th": "ฟรี-เมียม",
+      "meaning_th": "โมเดลใช้ฟรี จ่ายเพิ่มถ้าอยากได้มากกว่า",
+      "emoji": "🆓",
+      "example_en": "Most mobile games use freemium: play free, pay for extras.",
+      "example_th": "เกมมือถือส่วนใหญ่ใช้โมเดลฟรีเมียม: เล่นฟรี จ่ายเพื่อของเสริม",
+      "cefr": "B2",
+      "note_th": "freemium = free + premium ให้ใช้พื้นฐานฟรีแล้วชวนอัปเกรด (Spotify, Canva และ JUNYPOP ก็ใช้) — เขียนติดกันคำเดียว เป็นคำนามหรือคุณศัพท์ก็ได้",
+      "distractors": [
+        "premium",
+        "freedom",
+        "free sample"
+      ]
+    },
+    {
+      "id": "free_trial",
+      "word": "free trial",
+      "pos": "noun",
+      "ipa": "/friː ˈtraɪəl/",
+      "reading_th": "ฟรี ไทร-เอิล",
+      "meaning_th": "ช่วงทดลองใช้ฟรี",
+      "emoji": "⏳",
+      "example_en": "Start your free trial, no credit card needed.",
+      "example_th": "เริ่มทดลองใช้ฟรี ไม่ต้องใช้บัตรเครดิต",
+      "cefr": "A2",
+      "note_th": "free trial = ใช้ฟรีมีกำหนด (7 หรือ 30 วัน) แล้วเก็บเงินต่อ ต่างจาก freemium ที่ฟรีตลอดไป — ตั้งเตือนก่อนหมด trial ไม่งั้นโดนตัดบัตรโดยไม่รู้ตัว",
+      "distractors": [
+        "free sample",
+        "trial run",
+        "free time"
+      ]
+    },
+    {
+      "id": "referral",
+      "word": "referral",
+      "pos": "noun",
+      "ipa": "/rɪˈfɜːrəl/",
+      "reading_th": "รี-เฟอ-เริล",
+      "meaning_th": "การแนะนำเพื่อนมาใช้ (รับรางวัล)",
+      "emoji": "🤝",
+      "example_en": "Each referral earns both friends a 100 baht credit.",
+      "example_th": "การแนะนำเพื่อนแต่ละครั้งทำให้ทั้งคู่ได้เครดิต 100 บาท",
+      "cefr": "B2",
+      "note_th": "referral program = ชวนเพื่อนแล้วได้รางวัลทั้งคู่ (Grab, Dropbox โตด้วยวิธีนี้) — กริยาคือ refer a friend; referral code = รหัสแนะนำ",
+      "distractors": [
+        "reference",
+        "refusal",
+        "renewal"
+      ]
+    },
+    {
+      "id": "early_bird",
+      "word": "early bird",
+      "pos": "noun",
+      "ipa": "/ˈɜːrli bɜːrd/",
+      "reading_th": "เออร์-ลี เบิร์ด",
+      "meaning_th": "ราคาพิเศษสำหรับคนจองก่อน",
+      "emoji": "🐦",
+      "example_en": "Early bird tickets are 300 baht cheaper until Friday.",
+      "example_th": "บัตรราคาจองก่อนถูกกว่า 300 บาทจนถึงวันศุกร์",
+      "cefr": "B1",
+      "note_th": "early bird price/ticket = ราคาสำหรับคนตัดสินใจเร็ว ใช้กับงานอีเวนต์ คอร์ส และสินค้าพรีออเดอร์ — มาจากสุภาษิต The early bird catches the worm",
+      "distractors": [
+        "early riser",
+        "night owl",
+        "early access"
+      ]
+    },
+    {
+      "id": "survey",
+      "word": "survey",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrveɪ/",
+      "reading_th": "เซอร์-เวย์",
+      "meaning_th": "การสำรวจความคิดเห็น",
+      "emoji": "📋",
+      "example_en": "We sent a short survey to 2,000 customers last week.",
+      "example_th": "เราส่งแบบสำรวจสั้นๆ ให้ลูกค้า 2,000 คนเมื่อสัปดาห์ก่อน",
+      "cefr": "B1",
+      "note_th": "survey = การสำรวจทั้งกระบวนการ ส่วน questionnaire คือตัวแบบฟอร์มคำถาม — คำนามเน้นพยางค์หน้า \"เซอร์-เวย์\" กริยาเน้นหลัง; conduct/run a survey = ทำแบบสำรวจ",
+      "distractors": [
+        "service",
+        "surgery",
+        "census"
+      ]
+    },
+    {
+      "id": "questionnaire",
+      "word": "questionnaire",
+      "pos": "noun",
+      "ipa": "/ˌkwestʃəˈner/",
+      "reading_th": "เควส-ชัน-แนร์",
+      "meaning_th": "แบบสอบถาม",
+      "emoji": "📝",
+      "example_en": "Keep the questionnaire under ten questions or people quit.",
+      "example_th": "ทำแบบสอบถามให้ไม่เกินสิบข้อ ไม่งั้นคนเลิกทำกลางทาง",
+      "cefr": "B1",
+      "note_th": "questionnaire = ชุดคำถามที่คนกรอกเอง สะกด n สองตัว r หนึ่งตัว และเน้นเสียงท้าย \"แนร์\" — fill in/out a questionnaire = กรอกแบบสอบถาม",
+      "distractors": [
+        "question mark",
+        "questioner",
+        "millionaire"
+      ]
+    },
+    {
+      "id": "focus_group",
+      "word": "focus group",
+      "pos": "noun",
+      "ipa": "/ˈfoʊkəs ɡruːp/",
+      "reading_th": "โฟ-คัส กรุ๊ป",
+      "meaning_th": "กลุ่มสนทนาเจาะลึกความเห็น",
+      "emoji": "🗣️",
+      "example_en": "The focus group hated the name but loved the taste.",
+      "example_th": "กลุ่มสนทนาเจาะลึกไม่ชอบชื่อแต่ชอบรสชาติมาก",
+      "cefr": "B2",
+      "note_th": "focus group = เชิญคน 6-10 คนมานั่งคุยกับผู้ดำเนินการ (moderator) เพื่อฟังเหตุผลลึกๆ ต่างจากแบบสำรวจที่ได้แค่ตัวเลข — ใช้ก่อนออกสินค้าใหม่",
+      "distractors": [
+        "focus on",
+        "group chat",
+        "target group"
+      ]
+    },
+    {
+      "id": "persona",
+      "word": "persona",
+      "pos": "noun",
+      "ipa": "/pərˈsoʊnə/",
+      "reading_th": "เพอร์-โซ-นา",
+      "meaning_th": "ตัวแทนลูกค้าสมมติ",
+      "emoji": "🧑‍🎨",
+      "example_en": "Our main persona is Fon, a 29-year-old office worker.",
+      "example_th": "ตัวแทนลูกค้าสมมติหลักของเราคือฝน พนักงานออฟฟิศวัย 29",
+      "cefr": "B2",
+      "note_th": "buyer persona = ลูกค้าในอุดมคติที่ตั้งชื่อ ให้อายุ อาชีพ ปัญหา เพื่อให้ทีมเขียนโฆษณาถึง \"คนคนหนึ่ง\" แทนที่จะพูดกับทุกคน — พหูพจน์ personas",
+      "distractors": [
+        "personal",
+        "personality",
+        "person"
+      ]
+    },
+    {
+      "id": "segment",
+      "word": "segment",
+      "pos": "noun",
+      "ipa": "/ˈseɡmənt/",
+      "reading_th": "เซ็ก-เมนท์",
+      "meaning_th": "กลุ่มย่อยของลูกค้า",
+      "emoji": "🍰",
+      "example_en": "The student segment buys more on weekends.",
+      "example_th": "กลุ่มลูกค้านักศึกษาซื้อมากกว่าในวันหยุดสุดสัปดาห์",
+      "cefr": "B2",
+      "note_th": "segment = แบ่งลูกค้าเป็นกลุ่มตามอายุ พฤติกรรม หรือรายได้ เพื่อส่งข้อความต่างกัน — กระบวนการนี้เรียก segmentation; กริยา segment เน้นเสียงท้าย",
+      "distractors": [
+        "sediment",
+        "sentiment",
+        "statement"
+      ]
+    },
+    {
+      "id": "demographics",
+      "word": "demographics",
+      "pos": "noun",
+      "ipa": "/ˌdeməˈɡræfɪks/",
+      "reading_th": "เด-โม-กราฟ-ฟิกส์",
+      "meaning_th": "ข้อมูลประชากร (อายุ เพศ รายได้)",
+      "emoji": "📊",
+      "example_en": "The demographics show most buyers are under thirty.",
+      "example_th": "ข้อมูลประชากรชี้ว่าผู้ซื้อส่วนใหญ่อายุต่ำกว่าสามสิบ",
+      "cefr": "B2",
+      "note_th": "demographics = อายุ เพศ ที่อยู่ รายได้ การศึกษา ใช้พหูพจน์เสมอ — คู่กันคือ psychographics (ทัศนคติ ไลฟ์สไตล์) ที่บอกว่าทำไมเขาซื้อ",
+      "distractors": [
+        "democratic",
+        "geographic",
+        "graphics"
+      ]
+    },
+    {
+      "id": "purchase_intent",
+      "word": "purchase intent",
+      "pos": "noun",
+      "ipa": "/ˈpɜːrtʃəs ɪnˈtent/",
+      "reading_th": "เพอร์-เชส อิน-เทนท์",
+      "meaning_th": "ความตั้งใจจะซื้อ",
+      "emoji": "🛒",
+      "example_en": "Searching for prices shows strong purchase intent.",
+      "example_th": "การค้นหาราคาแสดงถึงความตั้งใจจะซื้อที่ชัดเจน",
+      "cefr": "B2",
+      "note_th": "purchase intent = สัญญาณว่าคนใกล้จะซื้อ เช่น เปิดหน้าราคา ใส่ตะกร้า — นักวิจัยถามว่า How likely are you to buy? เพื่อวัดค่านี้; intent ไม่ใช่ intend ที่เป็นกริยา",
+      "distractors": [
+        "purchase order",
+        "purchasing power",
+        "good intent"
+      ]
+    },
+    {
+      "id": "customer_journey",
+      "word": "customer journey",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmər ˈdʒɜːrni/",
+      "reading_th": "คัส-ทะ-เมอร์ เจอร์-นี",
+      "meaning_th": "เส้นทางของลูกค้าตั้งแต่รู้จักจนซื้อ",
+      "emoji": "🗺️",
+      "example_en": "Map the customer journey from first ad to repeat order.",
+      "example_th": "วาดเส้นทางลูกค้าตั้งแต่เห็นโฆษณาแรกจนสั่งซ้ำ",
+      "cefr": "B2",
+      "note_th": "customer journey = ทุกขั้นที่ลูกค้าผ่าน: รู้จัก สนใจ เปรียบเทียบ ซื้อ บอกต่อ — เขียนเป็นแผนผังเรียก journey map ใช้หาว่าลูกค้าหลุดตรงไหน",
+      "distractors": [
+        "customer service",
+        "journey time",
+        "career path"
+      ]
+    },
+    {
+      "id": "touchpoint",
+      "word": "touchpoint",
+      "pos": "noun",
+      "ipa": "/ˈtʌtʃpɔɪnt/",
+      "reading_th": "ทัช-พอยท์",
+      "meaning_th": "จุดที่ลูกค้าสัมผัสแบรนด์",
+      "emoji": "🤲",
+      "example_en": "Every touchpoint, from the ad to the receipt, shapes the brand.",
+      "example_th": "ทุกจุดสัมผัสตั้งแต่โฆษณาจนถึงใบเสร็จล้วนสร้างภาพแบรนด์",
+      "cefr": "B2",
+      "note_th": "touchpoint = ทุกครั้งที่ลูกค้าเจอแบรนด์ (โฆษณา หน้าร้าน แชต กล่องพัสดุ) — ใช้กับ customer journey เพื่อเช็กว่าจุดไหนทำให้ประทับใจหรือเสียความรู้สึก",
+      "distractors": [
+        "touchscreen",
+        "checkpoint",
+        "touchdown"
+      ]
+    },
+    {
+      "id": "respondent",
+      "word": "respondent",
+      "pos": "noun",
+      "ipa": "/rɪˈspɑːndənt/",
+      "reading_th": "รี-สปอน-เดนท์",
+      "meaning_th": "ผู้ตอบแบบสอบถาม",
+      "emoji": "🙋",
+      "example_en": "Only 40 percent of respondents had heard of our brand.",
+      "example_th": "ผู้ตอบแบบสอบถามเพียง 40 เปอร์เซ็นต์เคยได้ยินชื่อแบรนด์เรา",
+      "cefr": "B2",
+      "note_th": "respondent = คนที่ตอบแบบสำรวจ เจอในรายงานวิจัยเสมอ — มาจาก respond (ตอบสนอง); ในศาลหมายถึงจำเลยในคดีแพ่ง คนละบริบท",
+      "distractors": [
+        "responder",
+        "respondence",
+        "correspondent"
+      ]
+    },
+    {
+      "id": "qualitative",
+      "word": "qualitative",
+      "pos": "adjective",
+      "ipa": "/ˈkwɑːlɪteɪtɪv/",
+      "reading_th": "ควอ-ลิ-เท-ทิฟ",
+      "meaning_th": "เชิงคุณภาพ (เหตุผล ความรู้สึก)",
+      "emoji": "💭",
+      "example_en": "Qualitative research tells us why people stopped buying.",
+      "example_th": "วิจัยเชิงคุณภาพบอกเราว่าทำไมคนเลิกซื้อ",
+      "cefr": "B2",
+      "note_th": "qualitative = ข้อมูลที่เป็นคำพูด เหตุผล ความรู้สึก ได้จากสัมภาษณ์และ focus group — มาจาก quality; ใช้คู่กับ quantitative จึงจะเห็นภาพครบ",
+      "distractors": [
+        "quantitative",
+        "quality",
+        "qualified"
+      ]
+    },
+    {
+      "id": "quantitative",
+      "word": "quantitative",
+      "pos": "adjective",
+      "ipa": "/ˈkwɑːntɪteɪtɪv/",
+      "reading_th": "ควอน-ทิ-เท-ทิฟ",
+      "meaning_th": "เชิงปริมาณ (ตัวเลข)",
+      "emoji": "🔢",
+      "example_en": "Quantitative data from 5,000 users confirmed the trend.",
+      "example_th": "ข้อมูลเชิงปริมาณจากผู้ใช้ 5,000 คนยืนยันแนวโน้มนี้",
+      "cefr": "B2",
+      "note_th": "quantitative = ข้อมูลตัวเลขที่นับและเทียบได้ ได้จากแบบสำรวจใหญ่และระบบวิเคราะห์ — มาจาก quantity; จำง่ายๆ quantitative = how many, qualitative = why",
+      "distractors": [
+        "qualitative",
+        "quantity",
+        "quarantine"
+      ]
+    },
+    {
+      "id": "sample_size",
+      "word": "sample size",
+      "pos": "noun",
+      "ipa": "/ˈsæmpl saɪz/",
+      "reading_th": "แซม-เพิล ไซส์",
+      "meaning_th": "จำนวนคนที่ใช้ในการสำรวจ",
+      "emoji": "🧮",
+      "example_en": "A sample size of twenty is too small to trust.",
+      "example_th": "จำนวนตัวอย่างแค่ยี่สิบคนน้อยเกินกว่าจะเชื่อถือได้",
+      "cefr": "B2",
+      "note_th": "sample size = จำนวนคนที่สำรวจ ยิ่งมากผลยิ่งแม่น — sample ตรงนี้คือกลุ่มตัวอย่างทางสถิติ ไม่ใช่สินค้าทดลองแจกฟรี",
+      "distractors": [
+        "family size",
+        "sample product",
+        "font size"
+      ]
+    },
+    {
+      "id": "nps",
+      "word": "NPS",
+      "pos": "noun",
+      "ipa": "/ˌen piː ˈes/",
+      "reading_th": "เอ็น-พี-เอส",
+      "meaning_th": "คะแนนความพร้อมบอกต่อ",
+      "emoji": "🔟",
+      "example_en": "Our NPS rose from 20 to 45 after we fixed delivery.",
+      "example_th": "คะแนนความพร้อมบอกต่อของเราขึ้นจาก 20 เป็น 45 หลังแก้เรื่องจัดส่ง",
+      "cefr": "B2",
+      "note_th": "NPS = net promoter score จากคำถามเดียว \"จะแนะนำเราให้เพื่อนไหม 0-10\" คน 9-10 คือ promoter ลบด้วย 0-6 คือ detractor — เกิน 50 ถือว่ายอดเยี่ยม",
+      "distractors": [
+        "NPC",
+        "GPS",
+        "KPI"
+      ]
+    },
+    {
+      "id": "kpi",
+      "word": "KPI",
+      "pos": "noun",
+      "ipa": "/ˌkeɪ piː ˈaɪ/",
+      "reading_th": "เค-พี-ไอ",
+      "meaning_th": "ตัวชี้วัดผลงานหลัก",
+      "emoji": "🎯",
+      "example_en": "Our main KPI this quarter is 1,000 new subscribers.",
+      "example_th": "ตัวชี้วัดหลักของเราไตรมาสนี้คือสมาชิกใหม่ 1,000 คน",
+      "cefr": "B1",
+      "note_th": "KPI = key performance indicator ตัวเลขที่บอกว่าสำเร็จหรือไม่ คนไทยพูดติดปากแล้ว — ควรมีแค่ 3-5 ตัว เลือกตัวที่เปลี่ยนการตัดสินใจได้ ไม่ใช่แค่ตัวเลขสวย",
+      "distractors": [
+        "KOL",
+        "API",
+        "NPS"
+      ]
+    },
+    {
+      "id": "funnel",
+      "word": "funnel",
+      "pos": "noun",
+      "ipa": "/ˈfʌnl/",
+      "reading_th": "ฟัน-เนิล",
+      "meaning_th": "กรวยการตลาด (คนลดลงทุกขั้น)",
+      "emoji": "🔻",
+      "example_en": "Ten thousand saw the ad, but only fifty finished the funnel.",
+      "example_th": "หนึ่งหมื่นคนเห็นโฆษณา แต่มีแค่ห้าสิบคนที่ผ่านกรวยมาจนจบ",
+      "cefr": "B2",
+      "note_th": "funnel = กรวยกรอกน้ำ: คนเข้ามาเยอะข้างบน (เห็นโฆษณา) เหลือน้อยข้างล่าง (ซื้อ) — top of funnel = สร้างการรับรู้, bottom of funnel = ปิดการขาย",
+      "distractors": [
+        "tunnel",
+        "fennel",
+        "channel"
+      ]
+    },
+    {
+      "id": "lead",
+      "word": "lead",
+      "pos": "noun",
+      "ipa": "/liːd/",
+      "reading_th": "ลีด",
+      "meaning_th": "ผู้ที่สนใจและทิ้งช่องทางติดต่อไว้",
+      "emoji": "🧲",
+      "example_en": "The webinar brought in 300 new leads for the sales team.",
+      "example_th": "เว็บบินาร์นำผู้สนใจรายใหม่ 300 รายมาให้ทีมขาย",
+      "cefr": "B2",
+      "note_th": "lead = คนที่ยังไม่ซื้อแต่ให้อีเมล/เบอร์ไว้ ทีมขายจะโทรตาม — lead generation (lead gen) = หาคนแบบนี้; ออกเสียง \"ลีด\" เหมือนกริยานำ ไม่ใช่ \"เล็ด\" ที่แปลว่าตะกั่ว",
+      "distractors": [
+        "leader",
+        "load",
+        "lid"
+      ]
+    },
+    {
+      "id": "retention",
+      "word": "retention",
+      "pos": "noun",
+      "ipa": "/rɪˈtenʃn/",
+      "reading_th": "รี-เทน-ชัน",
+      "meaning_th": "การรักษาลูกค้าให้อยู่ต่อ",
+      "emoji": "🔒",
+      "example_en": "Retention matters more than new downloads for an app.",
+      "example_th": "สำหรับแอป การรักษาผู้ใช้สำคัญกว่ายอดดาวน์โหลดใหม่",
+      "cefr": "B2",
+      "note_th": "retention rate = กี่เปอร์เซ็นต์ของลูกค้าที่ยังอยู่หลังผ่านไป 1 วัน/7 วัน/30 วัน (D1, D7, D30) — กริยา retain; ตรงข้ามคือ churn",
+      "distractors": [
+        "attention",
+        "detention",
+        "intention"
+      ]
+    },
+    {
+      "id": "unsubscribe",
+      "word": "unsubscribe",
+      "pos": "verb",
+      "ipa": "/ˌʌnsəbˈskraɪb/",
+      "reading_th": "อัน-ซับ-สไครบ์",
+      "meaning_th": "ยกเลิกรับข่าวสาร",
+      "emoji": "🚫",
+      "example_en": "Too many emails make people unsubscribe within a week.",
+      "example_th": "ส่งอีเมลถี่เกินไปทำให้คนยกเลิกรับข่าวสารภายในสัปดาห์เดียว",
+      "cefr": "B1",
+      "note_th": "unsubscribe rate = กี่เปอร์เซ็นต์กดเลิกรับหลังส่งแต่ละครั้ง เกิน 0.5% ถือว่าส่งถี่หรือเนื้อหาไม่ตรง — กฎหมายหลายประเทศบังคับให้มีปุ่ม Unsubscribe ท้ายอีเมลทุกฉบับ",
+      "distractors": [
+        "subscribe",
+        "unscramble",
+        "undescribed"
+      ]
+    },
+    {
+      "id": "cost_per_lead",
+      "word": "cost per lead",
+      "pos": "noun",
+      "ipa": "/kɔːst pɜːr liːd/",
+      "reading_th": "คอสท์ เพอร์ ลีด",
+      "meaning_th": "ต้นทุนต่อผู้สนใจหนึ่งราย",
+      "emoji": "🧮",
+      "example_en": "Our cost per lead dropped to 80 baht after the new form.",
+      "example_th": "ต้นทุนต่อผู้สนใจหนึ่งรายของเราลดเหลือ 80 บาทหลังเปลี่ยนฟอร์มใหม่",
+      "cefr": "B2",
+      "note_th": "CPL = ค่าโฆษณา ÷ จำนวนคนที่ทิ้งช่องทางติดต่อไว้ ใช้กับธุรกิจที่ต้องให้ทีมขายโทรตาม (ประกัน บ้าน คอร์ส) — ครอบครัวเดียวกับ CPC และ CPA ต่างกันที่ \"จ่ายต่ออะไร\"",
+      "distractors": [
+        "cost per click",
+        "cost of living",
+        "lead time"
+      ]
+    },
+    {
+      "id": "page_views",
+      "word": "page views",
+      "pos": "noun",
+      "ipa": "/peɪdʒ vjuːz/",
+      "reading_th": "เพจ วิวส์",
+      "meaning_th": "จำนวนครั้งที่หน้าเว็บถูกเปิด",
+      "emoji": "📄",
+      "example_en": "The blog post got 20,000 page views in one day.",
+      "example_th": "บทความในบล็อกถูกเปิดอ่าน 20,000 ครั้งในวันเดียว",
+      "cefr": "B1",
+      "note_th": "page views นับทุกครั้งที่เปิดหน้า คนเดียวรีเฟรชสิบครั้ง = 10 page views — คนไม่ซ้ำเรียก unique visitors; วิวเยอะแต่ไม่มีใครซื้อคือสัญญาณให้ดู conversion",
+      "distractors": [
+        "page break",
+        "previews",
+        "viewpoints"
+      ]
+    },
+    {
+      "id": "heatmap",
+      "word": "heatmap",
+      "pos": "noun",
+      "ipa": "/ˈhiːtmæp/",
+      "reading_th": "ฮีท-แมพ",
+      "meaning_th": "แผนที่สีแสดงจุดที่คนสนใจบนหน้าเว็บ",
+      "emoji": "🌡️",
+      "example_en": "The heatmap shows nobody scrolls past the second photo.",
+      "example_th": "แผนที่สีแสดงว่าไม่มีใครเลื่อนผ่านรูปที่สอง",
+      "cefr": "B2",
+      "note_th": "heatmap = ภาพที่ระบายสีแดงตรงที่คนคลิกหรือมองนาน น้ำเงินตรงที่ไม่มีใครสน ใช้ดูว่าปุ่มควรอยู่ตรงไหน — เครื่องมือยอดนิยมคือ Hotjar; เขียนติดกันหรือ heat map ก็ได้",
+      "distractors": [
+        "roadmap",
+        "heatwave",
+        "sitemap"
+      ]
+    },
+    {
+      "id": "benchmark",
+      "word": "benchmark",
+      "pos": "noun",
+      "ipa": "/ˈbentʃmɑːrk/",
+      "reading_th": "เบนช์-มาร์ค",
+      "meaning_th": "ค่ามาตรฐานไว้เทียบผล",
+      "emoji": "📏",
+      "example_en": "The industry benchmark for email open rate is twenty percent.",
+      "example_th": "ค่ามาตรฐานอุตสาหกรรมสำหรับอัตราเปิดอีเมลคือยี่สิบเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "benchmark = ตัวเลขอ้างอิงว่าปกติควรได้เท่าไร ใช้ตัดสินว่าผลของเราดีหรือแย่ — กริยา benchmark against competitors = เทียบกับคู่แข่ง",
+      "distractors": [
+        "bookmark",
+        "bench",
+        "trademark"
+      ]
+    },
+    {
+      "id": "lifetime_value",
+      "word": "lifetime value",
+      "pos": "noun",
+      "ipa": "/ˈlaɪftaɪm ˈvæljuː/",
+      "reading_th": "ไลฟ์-ไทม์ แวล-ยู",
+      "meaning_th": "มูลค่ารวมที่ลูกค้าหนึ่งคนจ่ายตลอดอายุ",
+      "emoji": "💎",
+      "example_en": "A loyal customer has a lifetime value of 30,000 baht.",
+      "example_th": "ลูกค้าประจำหนึ่งคนมีมูลค่ารวมตลอดอายุ 30,000 บาท",
+      "cefr": "B2",
+      "note_th": "LTV (หรือ CLV) = ลูกค้าหนึ่งคนจะจ่ายให้เราทั้งหมดเท่าไรตั้งแต่ซื้อครั้งแรกจนเลิก — ใช้ตัดสินว่าจ่ายค่าโฆษณาหาลูกค้าได้สูงสุดแค่ไหน",
+      "distractors": [
+        "face value",
+        "lifetime warranty",
+        "life expectancy"
+      ]
+    },
+    {
+      "id": "attribution",
+      "word": "attribution",
+      "pos": "noun",
+      "ipa": "/ˌætrɪˈbjuːʃn/",
+      "reading_th": "แอท-ทริ-บิว-ชัน",
+      "meaning_th": "การระบุว่ายอดขายมาจากช่องทางไหน",
+      "emoji": "🧭",
+      "example_en": "Attribution shows which ad deserves credit for the sale.",
+      "example_th": "การระบุที่มาบอกว่าโฆษณาชิ้นไหนควรได้เครดิตจากยอดขาย",
+      "cefr": "B2",
+      "note_th": "attribution = ตอบคำถามว่าลูกค้าซื้อเพราะโฆษณาไหน เมื่อเขาเห็นทั้ง Facebook, Google และ TikTok — last-click attribution = ให้เครดิตคลิกสุดท้าย เป็นแบบที่ง่ายแต่ไม่แม่น",
+      "distractors": [
+        "contribution",
+        "distribution",
+        "attribute"
+      ]
+    },
+    {
+      "id": "double_down",
+      "word": "double down",
+      "pos": "phrase",
+      "ipa": "/ˈdʌbl daʊn/",
+      "reading_th": "ดับ-เบิล ดาวน์",
+      "meaning_th": "ทุ่มเพิ่มในสิ่งที่ได้ผล",
+      "emoji": "🎰",
+      "example_en": "TikTok works best, so let's double down on it next month.",
+      "example_th": "TikTok ได้ผลดีที่สุด เดือนหน้ามาทุ่มเพิ่มตรงนี้กัน",
+      "cefr": "B2",
+      "note_th": "double down on = ลงแรงและเงินเพิ่มในสิ่งที่พิสูจน์แล้วว่าได้ผล มาจากเกมไพ่แบล็กแจ็กที่เพิ่มเดิมพันสองเท่า — ภาษาสตาร์ทอัพและการตลาดใช้บ่อยมาก",
+      "distractors": [
+        "double up",
+        "dumb down",
+        "double check"
+      ]
+    },
+    {
+      "id": "optimize",
+      "word": "optimize",
+      "pos": "verb",
+      "ipa": "/ˈɑːptɪmaɪz/",
+      "reading_th": "ออพ-ทิ-ไมซ์",
+      "meaning_th": "ปรับให้ได้ผลดีที่สุด",
+      "emoji": "⚙️",
+      "example_en": "We optimize the ads weekly by pausing the weakest ones.",
+      "example_th": "เราปรับโฆษณาทุกสัปดาห์โดยหยุดชิ้นที่แย่ที่สุด",
+      "cefr": "B2",
+      "note_th": "optimize = ปรับจูนให้ผลดีขึ้นเรื่อยๆ ด้วยข้อมูล ไม่ใช่รื้อใหม่ — คำนาม optimization เช่น SEO = search engine optimization; สะกด -ise ก็ได้แบบอังกฤษ",
+      "distractors": [
+        "organize",
+        "maximize",
+        "optimist"
+      ]
+    },
+    {
+      "id": "open_rate",
+      "word": "open rate",
+      "pos": "noun",
+      "ipa": "/ˈoʊpən reɪt/",
+      "reading_th": "โอ-เพน เรท",
+      "meaning_th": "อัตราการเปิดอีเมล",
+      "emoji": "📬",
+      "example_en": "A good subject line can double the open rate.",
+      "example_th": "หัวข้ออีเมลที่ดีเพิ่มอัตราการเปิดได้เป็นสองเท่า",
+      "cefr": "B1",
+      "note_th": "open rate = คนเปิดอีเมล ÷ คนที่ได้รับ ตัวเลขแรกที่ดูในอีเมลมาร์เก็ตติ้ง ค่าเฉลี่ยราว 20% — ถ้าเปิดเยอะแต่ไม่กด ให้ไปดู click rate ต่อ",
+      "distractors": [
+        "opening hours",
+        "interest rate",
+        "open house"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "customer_service",
+    "name_en": "Customer Service",
+    "name_th": "บริการลูกค้า",
+    "emoji": "🎧",
+    "color_start": "#FCD34D",
+    "color_end": "#D97706",
+    "description_th": "รับสาย ตอบแชต แก้ปัญหา และรับมือลูกค้าโกรธเป็นภาษาอังกฤษอย่างมืออาชีพ",
+    "mascot_costume": "office",
+    "lessons": [
+      {
+        "id": "customer_service_1",
+        "title_en": "Greeting & Verifying",
+        "title_th": "ทักทายและยืนยันตัวตน",
+        "emoji": "📞",
+        "word_ids": [
+          "how_may_i_help_you",
+          "service_rep",
+          "toll_free",
+          "call_center",
+          "verify",
+          "identity",
+          "date_of_birth",
+          "order_number",
+          "security_question",
+          "bear_with_me",
+          "caller",
+          "inquiry",
+          "one_moment_please",
+          "put_through"
+        ]
+      },
+      {
+        "id": "customer_service_2",
+        "title_en": "Finding the Problem",
+        "title_th": "ทำความเข้าใจปัญหา",
+        "emoji": "🔍",
+        "word_ids": [
+          "issue",
+          "walk_me_through",
+          "diagnose",
+          "error_message",
+          "let_me_check",
+          "faulty",
+          "defective",
+          "incomplete",
+          "wrong_item",
+          "overcharge",
+          "replicate",
+          "in_detail",
+          "root_cause",
+          "narrow_down"
+        ]
+      },
+      {
+        "id": "customer_service_3",
+        "title_en": "Apology & Empathy",
+        "title_th": "ขอโทษและเข้าใจความรู้สึก",
+        "emoji": "💛",
+        "word_ids": [
+          "inconvenience",
+          "empathy",
+          "i_understand_how_you_feel",
+          "frustrating",
+          "sorry_to_hear_that",
+          "unacceptable",
+          "rest_assured",
+          "appreciate",
+          "patience",
+          "take_responsibility",
+          "make_it_right",
+          "assure",
+          "irate",
+          "fault"
+        ]
+      },
+      {
+        "id": "customer_service_4",
+        "title_en": "Refunds & Warranties",
+        "title_th": "คืนเงิน คืนสินค้า และประกัน",
+        "emoji": "💳",
+        "word_ids": [
+          "return_policy",
+          "partial_refund",
+          "store_credit",
+          "swap_out",
+          "proof_of_purchase",
+          "under_warranty",
+          "invalid",
+          "cooling_off_period",
+          "restocking_fee",
+          "non_refundable",
+          "original_packaging",
+          "reimburse",
+          "processing_time",
+          "service_center"
+        ]
+      },
+      {
+        "id": "customer_service_5",
+        "title_en": "Complaints & Escalation",
+        "title_th": "ข้อร้องเรียนและส่งต่อเรื่อง",
+        "emoji": "🔥",
+        "word_ids": [
+          "grievance",
+          "escalate",
+          "credit_note",
+          "goodwill",
+          "dissatisfied",
+          "de_escalate",
+          "abusive",
+          "end_the_call",
+          "on_hold",
+          "callback",
+          "resolve",
+          "reference_number",
+          "chargeback",
+          "consumer"
+        ]
+      },
+      {
+        "id": "customer_service_6",
+        "title_en": "Chat & Tickets",
+        "title_th": "แชตและระบบตั๋วงาน",
+        "emoji": "💬",
+        "word_ids": [
+          "support_ticket",
+          "live_chat",
+          "virtual_assistant",
+          "faq",
+          "response_time",
+          "auto_reply",
+          "canned_response",
+          "backlog",
+          "status",
+          "unresolved",
+          "sla",
+          "self_service",
+          "knowledge_base",
+          "template"
+        ]
+      },
+      {
+        "id": "customer_service_7",
+        "title_en": "Closing & Satisfaction",
+        "title_th": "ปิดการสนทนาและความพึงพอใจ",
+        "emoji": "🌟",
+        "word_ids": [
+          "is_there_anything_else",
+          "thank_you_for_calling",
+          "satisfaction",
+          "customer_loyalty",
+          "retain",
+          "happy_to_help",
+          "repeat_customer",
+          "win_back",
+          "above_and_beyond",
+          "testimonial",
+          "my_pleasure",
+          "close_the_case",
+          "complimentary",
+          "courteous"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "how_may_i_help_you",
+      "word": "how may I help you",
+      "pos": "phrase",
+      "ipa": "/haʊ meɪ aɪ help juː/",
+      "reading_th": "ฮาว เมย์ ไอ เฮลพ์ ยู",
+      "meaning_th": "มีอะไรให้ช่วยไหมคะ/ครับ",
+      "emoji": "🎧",
+      "example_en": "Good morning, this is JUNYPOP, how may I help you?",
+      "example_th": "สวัสดีค่ะ JUNYPOP ค่ะ มีอะไรให้ช่วยไหมคะ",
+      "cefr": "A2",
+      "note_th": "ประโยครับสายมาตรฐาน may สุภาพกว่า can — รูปแบบเต็ม: ชื่อบริษัท + ชื่อเรา + How may I help you? พูดช้าและยิ้มขณะพูด เสียงจะอบอุ่นขึ้นจริงๆ",
+      "distractors": [
+        "how can I hear you",
+        "how may I call you",
+        "what do you want"
+      ]
+    },
+    {
+      "id": "service_rep",
+      "word": "service rep",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrvɪs rep/",
+      "reading_th": "เซอร์-วิส เรพ",
+      "meaning_th": "พนักงานฝ่ายบริการลูกค้า",
+      "emoji": "🧑‍💼",
+      "example_en": "A service rep will call you back within the hour.",
+      "example_th": "พนักงานฝ่ายบริการจะโทรกลับหาคุณภายในหนึ่งชั่วโมง",
+      "cefr": "B1",
+      "note_th": "rep ย่อจาก representative = ตัวแทน: customer service rep (CSR), sales rep — ชื่อตำแหน่งมาตรฐานในประกาศรับสมัครงาน ภาษาพูดใช้ rep สั้นๆ ได้เลย",
+      "distractors": [
+        "service fee",
+        "sales rep",
+        "service charge"
+      ]
+    },
+    {
+      "id": "toll_free",
+      "word": "toll-free",
+      "pos": "adjective",
+      "ipa": "/ˌtoʊl ˈfriː/",
+      "reading_th": "โทล-ฟรี",
+      "meaning_th": "โทรฟรี ไม่เสียค่าโทร",
+      "emoji": "☎️",
+      "example_en": "Call our toll-free number, it costs you nothing.",
+      "example_th": "โทรเบอร์โทรฟรีของเรา ไม่เสียค่าโทรเลย",
+      "cefr": "B1",
+      "note_th": "toll-free number = เบอร์ที่บริษัทจ่ายค่าโทรแทนลูกค้า ในสหรัฐฯ ขึ้นต้น 1-800 ในไทยคือ 1800 — toll เดิมแปลว่าค่าผ่านทาง; เขียนมีขีดเมื่ออยู่หน้าคำนาม",
+      "distractors": [
+        "tax-free",
+        "toll road",
+        "free call"
+      ]
+    },
+    {
+      "id": "call_center",
+      "word": "call center",
+      "pos": "noun",
+      "ipa": "/kɔːl ˈsentər/",
+      "reading_th": "คอล เซน-เทอร์",
+      "meaning_th": "ศูนย์รับสายลูกค้า",
+      "emoji": "🏢",
+      "example_en": "The call center handles 5,000 calls every day.",
+      "example_th": "ศูนย์รับสายรับโทรศัพท์ 5,000 สายทุกวัน",
+      "cefr": "A2",
+      "note_th": "call center = รับสายอย่างเดียว ส่วน contact center รับทั้งโทร แชต อีเมล โซเชียล — สะกด centre แบบอังกฤษก็ได้; คนไทยพูด \"คอลเซ็นเตอร์\" ตรงกันพอดี",
+      "distractors": [
+        "shopping center",
+        "cell center",
+        "call back"
+      ]
+    },
+    {
+      "id": "verify",
+      "word": "verify",
+      "pos": "verb",
+      "ipa": "/ˈverɪfaɪ/",
+      "reading_th": "เว-ริ-ฟาย",
+      "meaning_th": "ตรวจสอบยืนยันตัวตน",
+      "emoji": "🔐",
+      "example_en": "I need to verify your identity before I open the account.",
+      "example_th": "ฉันต้องตรวจสอบยืนยันตัวตนของคุณก่อนเปิดดูบัญชี",
+      "cefr": "B1",
+      "note_th": "verify = เช็กว่าข้อมูลจริงและตรงกัน คำนาม verification — ประโยคในสาย: For verification, could you confirm your date of birth? ฝ่ายบริการต้องทำทุกครั้งก่อนให้ข้อมูลบัญชี",
+      "distractors": [
+        "vary",
+        "notify",
+        "clarify"
+      ]
+    },
+    {
+      "id": "identity",
+      "word": "identity",
+      "pos": "noun",
+      "ipa": "/aɪˈdentəti/",
+      "reading_th": "ไอ-เดน-ทิ-ตี",
+      "meaning_th": "ตัวตน / ข้อมูลระบุตัวบุคคล",
+      "emoji": "🪪",
+      "example_en": "We ask three questions to confirm your identity.",
+      "example_th": "เราถามสามคำถามเพื่อยืนยันตัวตนของคุณ",
+      "cefr": "B1",
+      "note_th": "identity = ตัวตน (ไม่ใช่บัตร) บัตรประชาชนคือ ID card ย่อจาก identity card — identity theft = การสวมรอยตัวตน เหตุผลที่เจ้าหน้าที่ต้องถามคำถามยืนยันก่อนเสมอ",
+      "distractors": [
+        "identical",
+        "entity",
+        "ID card"
+      ]
+    },
+    {
+      "id": "date_of_birth",
+      "word": "date of birth",
+      "pos": "noun",
+      "ipa": "/deɪt əv bɜːrθ/",
+      "reading_th": "เดท ออฟ เบิร์ธ",
+      "meaning_th": "วันเดือนปีเกิด",
+      "emoji": "🎂",
+      "example_en": "Could you confirm your date of birth, please?",
+      "example_th": "ช่วยยืนยันวันเดือนปีเกิดหน่อยได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "ย่อว่า DOB ในแบบฟอร์ม — เวลาตอบให้บอกปี ค.ศ. ไม่ใช่ พ.ศ. (เกิด 2538 = 1995) ไม่งั้นระบบฝรั่งจะงงว่าคุณอายุ 500 กว่าปี",
+      "distractors": [
+        "place of birth",
+        "birthday party",
+        "date of issue"
+      ]
+    },
+    {
+      "id": "order_number",
+      "word": "order number",
+      "pos": "noun",
+      "ipa": "/ˈɔːrdər ˈnʌmbər/",
+      "reading_th": "ออร์-เดอร์ นัม-เบอร์",
+      "meaning_th": "หมายเลขคำสั่งซื้อ",
+      "emoji": "🔢",
+      "example_en": "Could I have your order number so I can look it up?",
+      "example_th": "ขอหมายเลขคำสั่งซื้อเพื่อค้นหาข้อมูลได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "order number อยู่ในอีเมลยืนยันการสั่งซื้อ ให้เตรียมไว้ก่อนโทรจะประหยัดเวลามาก — ภาษาอังกฤษใช้ number ไม่ใช่ code: order number, tracking number",
+      "distractors": [
+        "phone number",
+        "order form",
+        "odd number"
+      ]
+    },
+    {
+      "id": "security_question",
+      "word": "security question",
+      "pos": "noun",
+      "ipa": "/sɪˈkjʊrəti ˈkwestʃən/",
+      "reading_th": "ซิ-คิว-ริ-ตี เควส-ชัน",
+      "meaning_th": "คำถามยืนยันความปลอดภัย",
+      "emoji": "❓",
+      "example_en": "Your security question is: what was your first pet's name?",
+      "example_th": "คำถามยืนยันความปลอดภัยของคุณคือ: สัตว์เลี้ยงตัวแรกชื่ออะไร",
+      "cefr": "B1",
+      "note_th": "security question = คำถามที่เจ้าของบัญชีเท่านั้นที่ตอบได้ ใช้แทนรหัสเวลาโทรมา — อย่าตั้งคำตอบที่หาได้จากโซเชียลของคุณ เช่น ชื่อโรงเรียน",
+      "distractors": [
+        "security guard",
+        "secret question",
+        "security check"
+      ]
+    },
+    {
+      "id": "bear_with_me",
+      "word": "bear with me",
+      "pos": "phrase",
+      "ipa": "/ber wɪð miː/",
+      "reading_th": "แบร์ วิธ มี",
+      "meaning_th": "ขอเวลาสักครู่ / อดใจรอหน่อย",
+      "emoji": "⏳",
+      "example_en": "Please bear with me while the system loads your file.",
+      "example_th": "ขอเวลาสักครู่ระหว่างที่ระบบโหลดข้อมูลของคุณนะคะ",
+      "cefr": "B1",
+      "note_th": "bear with me = ทนรอฉันหน่อย ใช้ตอนระบบช้าหรือกำลังหาข้อมูล นุ่มกว่า wait — สะกด bear (ทน) ไม่ใช่ bare (เปลือย) แม้จะออกเสียงเหมือนกัน",
+      "distractors": [
+        "bare with me",
+        "be with me",
+        "bear in mind"
+      ]
+    },
+    {
+      "id": "caller",
+      "word": "caller",
+      "pos": "noun",
+      "ipa": "/ˈkɔːlər/",
+      "reading_th": "คอล-เลอร์",
+      "meaning_th": "ผู้โทรเข้ามา",
+      "emoji": "📱",
+      "example_en": "The caller wants to speak to someone about her bill.",
+      "example_th": "ผู้โทรเข้ามาต้องการคุยกับใครสักคนเรื่องบิลของเธอ",
+      "cefr": "A2",
+      "note_th": "caller = คนที่โทรมา เจ้าหน้าที่ใช้เรียกลูกค้าในระบบ: caller ID = ชื่อ/เบอร์ที่โชว์ตอนสายเข้า — anonymous caller = ไม่โชว์เบอร์",
+      "distractors": [
+        "collar",
+        "cooler",
+        "calling"
+      ]
+    },
+    {
+      "id": "inquiry",
+      "word": "inquiry",
+      "pos": "noun",
+      "ipa": "/ɪnˈkwaɪri/",
+      "reading_th": "อิน-ไคว-รี",
+      "meaning_th": "การสอบถามข้อมูล",
+      "emoji": "💭",
+      "example_en": "Thank you for your inquiry about our premium plan.",
+      "example_th": "ขอบคุณที่สอบถามเกี่ยวกับแพ็กเกจพรีเมียมของเรา",
+      "cefr": "B1",
+      "note_th": "inquiry (US) / enquiry (UK) = คำถามขอข้อมูล ยังไม่ใช่ปัญหา — general inquiries = ติดต่อสอบถามทั่วไป คือปุ่มที่เจอในทุกเว็บไซต์; กริยา inquire about",
+      "distractors": [
+        "enquiry",
+        "injury",
+        "inquisitive"
+      ]
+    },
+    {
+      "id": "one_moment_please",
+      "word": "one moment please",
+      "pos": "phrase",
+      "ipa": "/wʌn ˈmoʊmənt pliːz/",
+      "reading_th": "วัน โม-เมนท์ พลีส",
+      "meaning_th": "รอสักครู่นะคะ/ครับ",
+      "emoji": "🤏",
+      "example_en": "One moment please, I will check that for you.",
+      "example_th": "รอสักครู่นะคะ ฉันจะตรวจสอบให้",
+      "cefr": "A2",
+      "note_th": "สุภาพกว่า Wait! มาก และสั้นกว่า Could you hold on a second? — ถ้าจะรอนานเกินหนึ่งนาทีควรบอกเวลาจริง: It will take about three minutes",
+      "distractors": [
+        "one minute later",
+        "one more please",
+        "just a moment ago"
+      ]
+    },
+    {
+      "id": "put_through",
+      "word": "put through",
+      "pos": "phrase",
+      "ipa": "/pʊt θruː/",
+      "reading_th": "พุท ธรู",
+      "meaning_th": "โอนสาย",
+      "emoji": "🔀",
+      "example_en": "I will put you through to the billing department now.",
+      "example_th": "ฉันจะโอนสายคุณไปแผนกบิลลิ่งตอนนี้นะคะ",
+      "cefr": "B1",
+      "note_th": "put someone through to + แผนก/คน = โอนสาย ใช้กันมากในศูนย์บริการ — ฝั่งลูกค้าพูดว่า Could you put me through to...?; ความหมายอื่น put through = ทำให้ลำบาก",
+      "distractors": [
+        "put off",
+        "put up",
+        "get through"
+      ]
+    },
+    {
+      "id": "issue",
+      "word": "issue",
+      "pos": "noun",
+      "ipa": "/ˈɪʃuː/",
+      "reading_th": "อิช-ชู",
+      "meaning_th": "ปัญหา (แบบสุภาพ)",
+      "emoji": "⚠️",
+      "example_en": "I am sorry you are having an issue with the app.",
+      "example_th": "ขอโทษด้วยที่คุณเจอปัญหากับแอป",
+      "cefr": "A2",
+      "note_th": "ฝ่ายบริการชอบพูด issue แทน problem เพราะฟังดูเบากว่าและแก้ได้ — report an issue = แจ้งปัญหา; ออกเสียง \"อิช-ชู\" ไม่ใช่ \"อิส-ซู\"",
+      "distractors": [
+        "tissue",
+        "issuer",
+        "problem"
+      ]
+    },
+    {
+      "id": "walk_me_through",
+      "word": "walk me through",
+      "pos": "phrase",
+      "ipa": "/wɔːk miː θruː/",
+      "reading_th": "วอค มี ธรู",
+      "meaning_th": "เล่าให้ฟังทีละขั้น",
+      "emoji": "🚶",
+      "example_en": "Could you walk me through what you did before the screen froze?",
+      "example_th": "ช่วยเล่าทีละขั้นว่าคุณทำอะไรก่อนหน้าจอค้างได้ไหม",
+      "cefr": "B1",
+      "note_th": "walk someone through = พาเดินทีละขั้น ใช้ได้สองทาง: ขอให้ลูกค้าเล่า หรือเจ้าหน้าที่สอน (I'll walk you through the setup) — นุ่มและชัดกว่า explain",
+      "distractors": [
+        "walk me home",
+        "talk me through",
+        "walk me out"
+      ]
+    },
+    {
+      "id": "diagnose",
+      "word": "diagnose",
+      "pos": "verb",
+      "ipa": "/ˌdaɪəɡˈnoʊs/",
+      "reading_th": "ได-แอ็ก-โนส",
+      "meaning_th": "วินิจฉัยหาสาเหตุ",
+      "emoji": "🩺",
+      "example_en": "Let me diagnose the problem by running a quick test.",
+      "example_th": "ขอวินิจฉัยปัญหาด้วยการรันการทดสอบสั้นๆ ก่อนนะคะ",
+      "cefr": "B2",
+      "note_th": "diagnose = หาว่าเสียตรงไหนก่อนลงมือซ่อม ใช้ทั้งหมอและช่าง — คำนาม diagnosis; ร้านซ่อมหลายแห่งมี diagnostic fee = ค่าตรวจเช็กแม้ไม่ซ่อม",
+      "distractors": [
+        "diagnosis",
+        "dialogue",
+        "diagonal"
+      ]
+    },
+    {
+      "id": "error_message",
+      "word": "error message",
+      "pos": "noun",
+      "ipa": "/ˈerər ˈmesɪdʒ/",
+      "reading_th": "เอ-เรอร์ เมส-เสจ",
+      "meaning_th": "ข้อความแจ้งข้อผิดพลาด",
+      "emoji": "🚫",
+      "example_en": "What does the error message on your screen say?",
+      "example_th": "ข้อความแจ้งข้อผิดพลาดบนหน้าจอของคุณบอกว่าอะไร",
+      "cefr": "A2",
+      "note_th": "error message = ข้อความที่ระบบแจ้งว่าพัง เช่น Error 404 — ถ่ายหน้าจอส่งให้ฝ่ายซัพพอร์ตจะแก้ได้เร็วกว่าบอกว่า \"มันขึ้นอะไรไม่รู้\" หลายเท่า",
+      "distractors": [
+        "error code",
+        "text message",
+        "emergency"
+      ]
+    },
+    {
+      "id": "let_me_check",
+      "word": "let me check",
+      "pos": "phrase",
+      "ipa": "/let miː tʃek/",
+      "reading_th": "เล็ท มี เช็ค",
+      "meaning_th": "ขอตรวจสอบก่อนนะคะ/ครับ",
+      "emoji": "🔎",
+      "example_en": "Let me check your order status in the system.",
+      "example_th": "ขอตรวจสอบสถานะคำสั่งซื้อของคุณในระบบก่อนนะคะ",
+      "cefr": "A2",
+      "note_th": "let me check = ขอเวลาดูข้อมูลก่อน พูดแล้วควรบอกต่อว่าดูอะไร ลูกค้าจะไม่รู้สึกถูกทิ้ง — ตามด้วยผลลัพธ์: I can see that... หรือ It looks like...",
+      "distractors": [
+        "let me see you",
+        "let me think",
+        "let me go"
+      ]
+    },
+    {
+      "id": "faulty",
+      "word": "faulty",
+      "pos": "adjective",
+      "ipa": "/ˈfɔːlti/",
+      "reading_th": "ฟอล-ตี",
+      "meaning_th": "ชำรุด / ทำงานผิดปกติ",
+      "emoji": "🔌",
+      "example_en": "The charger is faulty, it gets very hot after a minute.",
+      "example_th": "ที่ชาร์จชำรุด มันร้อนมากหลังผ่านไปหนึ่งนาที",
+      "cefr": "B1",
+      "note_th": "faulty = ใช้งานไม่ปกติ อาจเสียทีหลัง ส่วน broken = แตกหักเห็นชัด — faulty goods = สินค้าชำรุด คำที่ใช้ในกฎหมายคุ้มครองผู้บริโภคของอังกฤษ",
+      "distractors": [
+        "fault",
+        "filthy",
+        "faultless"
+      ]
+    },
+    {
+      "id": "defective",
+      "word": "defective",
+      "pos": "adjective",
+      "ipa": "/dɪˈfektɪv/",
+      "reading_th": "ดิ-เฟค-ทิฟ",
+      "meaning_th": "มีตำหนิจากโรงงาน",
+      "emoji": "🏭",
+      "example_en": "We will replace any defective unit free of charge.",
+      "example_th": "เราจะเปลี่ยนสินค้าที่มีตำหนิจากโรงงานให้ฟรีทุกชิ้น",
+      "cefr": "B2",
+      "note_th": "defective = ผิดพลาดตั้งแต่ผลิต ไม่ใช่เพราะลูกค้าใช้ผิด เป็นเหตุให้เคลมได้เต็ม — คำนาม defect (ตำหนิ); ทางการกว่า faulty และเจอในเอกสารรับประกัน",
+      "distractors": [
+        "detective",
+        "effective",
+        "defensive"
+      ]
+    },
+    {
+      "id": "incomplete",
+      "word": "incomplete",
+      "pos": "adjective",
+      "ipa": "/ˌɪnkəmˈpliːt/",
+      "reading_th": "อิน-คอม-พลีท",
+      "meaning_th": "ไม่ครบ / ไม่สมบูรณ์",
+      "emoji": "📭",
+      "example_en": "My order arrived incomplete, the charger was not in the box.",
+      "example_th": "ของที่สั่งมาถึงแบบไม่ครบ ไม่มีที่ชาร์จอยู่ในกล่อง",
+      "cefr": "B1",
+      "note_th": "incomplete order = ได้ของไม่ครบตามรายการ ใช้กับเอกสารด้วย: incomplete form = กรอกไม่ครบ — ตรงข้าม complete; เน้นเสียงพยางค์ท้าย \"พลีท\"",
+      "distractors": [
+        "complete",
+        "incompatible",
+        "impolite"
+      ]
+    },
+    {
+      "id": "wrong_item",
+      "word": "wrong item",
+      "pos": "noun",
+      "ipa": "/rɔːŋ ˈaɪtəm/",
+      "reading_th": "รอง ไอ-เท็ม",
+      "meaning_th": "ส่งสินค้าผิด",
+      "emoji": "📦",
+      "example_en": "I ordered blue, but I got the wrong item in red.",
+      "example_th": "ฉันสั่งสีน้ำเงิน แต่ได้รับสินค้าผิดเป็นสีแดง",
+      "cefr": "A2",
+      "note_th": "receive the wrong item = ได้ของผิด เป็นเหตุผลคืนสินค้าอันดับต้นๆ — ร้านมักขอรูปของที่ได้กับใบปะหน้ากล่อง; wrong size, wrong color ใช้โครงสร้างเดียวกัน",
+      "distractors": [
+        "wrong number",
+        "right item",
+        "lost item"
+      ]
+    },
+    {
+      "id": "overcharge",
+      "word": "overcharge",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərˈtʃɑːrdʒ/",
+      "reading_th": "โอ-เวอร์-ชาร์จ",
+      "meaning_th": "เก็บเงินเกิน",
+      "emoji": "💸",
+      "example_en": "I think you overcharged me, the bill shows two orders.",
+      "example_th": "ฉันคิดว่าคุณเก็บเงินเกิน บิลแสดงสองคำสั่งซื้อ",
+      "cefr": "B1",
+      "note_th": "overcharge = เก็บเกินราคาจริง ส่วน double charge = ตัดบัตรซ้ำสองครั้ง — ตรงข้ามคือ undercharge; ลูกค้าพูดว่า I was overcharged by 200 baht",
+      "distractors": [
+        "overcome",
+        "recharge",
+        "overweight"
+      ]
+    },
+    {
+      "id": "replicate",
+      "word": "replicate",
+      "pos": "verb",
+      "ipa": "/ˈreplɪkeɪt/",
+      "reading_th": "เรพ-ลิ-เคท",
+      "meaning_th": "ทำซ้ำให้ปัญหาเกิดอีกครั้ง",
+      "emoji": "🔁",
+      "example_en": "Our team could not replicate the bug on their phones.",
+      "example_th": "ทีมของเราไม่สามารถทำให้บั๊กเกิดซ้ำบนเครื่องของพวกเขาได้",
+      "cefr": "B2",
+      "note_th": "replicate the issue = ลองทำตามขั้นตอนลูกค้าให้ปัญหาเกิดอีกครั้ง ถ้าทำซ้ำได้จึงจะแก้ได้ — ฝ่ายไอทีจะถาม Can you replicate it? ความหมายเดียวกับ reproduce; คำนาม replica = ของจำลอง",
+      "distractors": [
+        "replica",
+        "duplicate",
+        "relocate"
+      ]
+    },
+    {
+      "id": "in_detail",
+      "word": "in detail",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈdiːteɪl/",
+      "reading_th": "อิน ดี-เทล",
+      "meaning_th": "อย่างละเอียด",
+      "emoji": "🔬",
+      "example_en": "Please explain in detail what you did before it crashed.",
+      "example_th": "กรุณาอธิบายอย่างละเอียดว่าคุณทำอะไรก่อนเครื่องค้าง",
+      "cefr": "B1",
+      "note_th": "in detail = ลงรายละเอียด ใช้ in ไม่ใช่ with — explain/describe in detail; ถ้าละเอียดมากพูดว่า in great detail; detail ออกเสียง \"ดี-เทล\" เน้นหน้าแบบอเมริกัน",
+      "distractors": [
+        "in details",
+        "in general",
+        "in brief"
+      ]
+    },
+    {
+      "id": "root_cause",
+      "word": "root cause",
+      "pos": "noun",
+      "ipa": "/ruːt kɔːz/",
+      "reading_th": "รูท คอส",
+      "meaning_th": "สาเหตุที่แท้จริง",
+      "emoji": "🌳",
+      "example_en": "The root cause was an expired card, not our system.",
+      "example_th": "สาเหตุที่แท้จริงคือบัตรหมดอายุ ไม่ใช่ระบบของเรา",
+      "cefr": "B2",
+      "note_th": "root cause = ต้นตอจริงที่อยู่ใต้ดินเหมือนรากไม้ ไม่ใช่อาการที่เห็น — ทีมคุณภาพใช้ root cause analysis (RCA) เพื่อไม่ให้ปัญหาเดิมกลับมา",
+      "distractors": [
+        "main cause",
+        "route cause",
+        "root canal"
+      ]
+    },
+    {
+      "id": "narrow_down",
+      "word": "narrow down",
+      "pos": "phrase",
+      "ipa": "/ˈnæroʊ daʊn/",
+      "reading_th": "แน-โร ดาวน์",
+      "meaning_th": "ตีวงให้แคบลง (หาสาเหตุ)",
+      "emoji": "🔻",
+      "example_en": "Let's narrow down the cause: does it fail on Wi-Fi only?",
+      "example_th": "มาตีวงสาเหตุให้แคบลง: มันพังเฉพาะตอนใช้ Wi-Fi ใช่ไหม",
+      "cefr": "B1",
+      "note_th": "narrow down = ตัดตัวเลือกออกทีละอย่างจนเหลือสาเหตุจริง ใช้กับการหาปัญหา การเลือกผู้สมัคร การเลือกของ — narrow it down to two options = เหลือสองตัวเลือก",
+      "distractors": [
+        "narrow-minded",
+        "slow down",
+        "bring down"
+      ]
+    },
+    {
+      "id": "inconvenience",
+      "word": "inconvenience",
+      "pos": "noun",
+      "ipa": "/ˌɪnkənˈviːniəns/",
+      "reading_th": "อิน-คอน-วี-เนียนส์",
+      "meaning_th": "ความไม่สะดวก",
+      "emoji": "😣",
+      "example_en": "We apologize for the inconvenience caused by the delay.",
+      "example_th": "เราขออภัยในความไม่สะดวกที่เกิดจากความล่าช้า",
+      "cefr": "B1",
+      "note_th": "We apologize for any inconvenience = ประโยคขอโทษมาตรฐานในประกาศและอีเมล — ถ้าเรื่องใหญ่จริงควรขอโทษให้ตรงกว่านี้ เพราะวลีนี้ฟังดูเป็นสูตรสำเร็จ",
+      "distractors": [
+        "convenience",
+        "incontinence",
+        "inconsistency"
+      ]
+    },
+    {
+      "id": "empathy",
+      "word": "empathy",
+      "pos": "noun",
+      "ipa": "/ˈempəθi/",
+      "reading_th": "เอ็ม-พะ-ธี",
+      "meaning_th": "ความเข้าอกเข้าใจผู้อื่น",
+      "emoji": "💞",
+      "example_en": "Show empathy first, then explain what you can do.",
+      "example_th": "แสดงความเข้าอกเข้าใจก่อน แล้วค่อยอธิบายว่าทำอะไรให้ได้บ้าง",
+      "cefr": "B2",
+      "note_th": "empathy = เข้าใจความรู้สึกเขาเหมือนอยู่ในสถานการณ์เดียวกัน ต่างจาก sympathy ที่แค่สงสาร — ฝ่ายบริการถูกสอนว่า empathy statements มาก่อนทางแก้เสมอ",
+      "distractors": [
+        "sympathy",
+        "apathy",
+        "emphasis"
+      ]
+    },
+    {
+      "id": "i_understand_how_you_feel",
+      "word": "I understand how you feel",
+      "pos": "phrase",
+      "ipa": "/aɪ ˌʌndərˈstænd haʊ juː fiːl/",
+      "reading_th": "ไอ อัน-เดอร์-สแตนด์ ฮาว ยู ฟีล",
+      "meaning_th": "ฉันเข้าใจความรู้สึกของคุณ",
+      "emoji": "🤗",
+      "example_en": "I understand how you feel, waiting two weeks is too long.",
+      "example_th": "ฉันเข้าใจความรู้สึกของคุณ รอสองสัปดาห์มันนานเกินไปจริงๆ",
+      "cefr": "A2",
+      "note_th": "ประโยคแสดงความเข้าใจที่ใช้ก่อนเสนอทางแก้ — แต่ต้องตามด้วยสิ่งที่เข้าใจจริงๆ ไม่งั้นลูกค้าจะตอบกลับว่า No, you don't!",
+      "distractors": [
+        "I understand you well",
+        "I know how you look",
+        "I feel you"
+      ]
+    },
+    {
+      "id": "frustrating",
+      "word": "frustrating",
+      "pos": "adjective",
+      "ipa": "/ˈfrʌstreɪtɪŋ/",
+      "reading_th": "ฟรัส-เทร-ติง",
+      "meaning_th": "น่าหงุดหงิด",
+      "emoji": "😤",
+      "example_en": "I know how frustrating it is when the app keeps crashing.",
+      "example_th": "ฉันรู้ว่ามันน่าหงุดหงิดแค่ไหนเวลาแอปเด้งออกตลอด",
+      "cefr": "B1",
+      "note_th": "frustrating = สิ่งนั้นน่าหงุดหงิด, frustrated = คนรู้สึกหงุดหงิด — ใช้คำนี้พูดแทนลูกค้า (That must be frustrating) ช่วยลดอารมณ์ได้ดีกว่าบอกว่าใจเย็นๆ",
+      "distractors": [
+        "frustrated",
+        "fascinating",
+        "freshening"
+      ]
+    },
+    {
+      "id": "sorry_to_hear_that",
+      "word": "sorry to hear that",
+      "pos": "phrase",
+      "ipa": "/ˈsɑːri tuː hɪr ðæt/",
+      "reading_th": "ซอ-รี ทู เฮียร์ แดท",
+      "meaning_th": "เสียใจที่ได้ยินแบบนั้น",
+      "emoji": "😔",
+      "example_en": "I am sorry to hear that your order arrived damaged.",
+      "example_th": "เสียใจด้วยที่ได้ยินว่าสินค้าของคุณมาถึงในสภาพเสียหาย",
+      "cefr": "A2",
+      "note_th": "ใช้เมื่อลูกค้าเล่าเรื่องแย่ แสดงว่าเราแคร์ โดยยังไม่ยอมรับว่าเป็นความผิดเรา — เป็นประโยคแรกที่ควรพูดก่อนถามรายละเอียดเสมอ",
+      "distractors": [
+        "sorry to say that",
+        "happy to hear that",
+        "sorry for hearing"
+      ]
+    },
+    {
+      "id": "unacceptable",
+      "word": "unacceptable",
+      "pos": "adjective",
+      "ipa": "/ˌʌnəkˈseptəbl/",
+      "reading_th": "อัน-แอค-เซพ-ทะ-เบิล",
+      "meaning_th": "ยอมรับไม่ได้",
+      "emoji": "🙅",
+      "example_en": "A three-week wait for a reply is unacceptable, I agree.",
+      "example_th": "รอคำตอบสามสัปดาห์เป็นเรื่องที่ยอมรับไม่ได้ ฉันเห็นด้วยค่ะ",
+      "cefr": "B1",
+      "note_th": "ลูกค้าโกรธจะพูดว่า This is unacceptable! — เจ้าหน้าที่เก่งจะยอมรับตาม: You're right, that's unacceptable and I'm going to fix it ลูกค้าจะใจเย็นลงทันที",
+      "distractors": [
+        "acceptable",
+        "unavailable",
+        "unaccountable"
+      ]
+    },
+    {
+      "id": "rest_assured",
+      "word": "rest assured",
+      "pos": "phrase",
+      "ipa": "/rest əˈʃʊrd/",
+      "reading_th": "เรสท์ อะ-ชัวร์ด",
+      "meaning_th": "วางใจได้เลยว่า...",
+      "emoji": "🛡️",
+      "example_en": "Rest assured, your refund will arrive within five days.",
+      "example_th": "วางใจได้เลยค่ะ เงินคืนของคุณจะเข้าภายในห้าวัน",
+      "cefr": "B2",
+      "note_th": "Rest assured (that)... = ไม่ต้องห่วง เรารับรอง ใช้ปิดอีเมลขอโทษให้ลูกค้ามั่นใจ — เป็นวลีตายตัว ไม่ผันเป็น rested assured",
+      "distractors": [
+        "rest in peace",
+        "rest easy",
+        "be assured"
+      ]
+    },
+    {
+      "id": "appreciate",
+      "word": "appreciate",
+      "pos": "verb",
+      "ipa": "/əˈpriːʃieɪt/",
+      "reading_th": "แอพ-พรี-ชิ-เอท",
+      "meaning_th": "ซาบซึ้ง / ขอบคุณที่...",
+      "emoji": "🙏",
+      "example_en": "I really appreciate your patience while we fix this.",
+      "example_th": "ขอบคุณมากที่คุณอดทนรอระหว่างที่เราแก้ปัญหานี้",
+      "cefr": "B1",
+      "note_th": "appreciate + คำนาม/V-ing: appreciate your help, appreciate you waiting — ประโยคยอดฮิต We appreciate your business = ขอบคุณที่อุดหนุน; อีกความหมายคือมูลค่าเพิ่มขึ้น",
+      "distractors": [
+        "apprentice",
+        "approximate",
+        "depreciate"
+      ]
+    },
+    {
+      "id": "patience",
+      "word": "patience",
+      "pos": "noun",
+      "ipa": "/ˈpeɪʃns/",
+      "reading_th": "เพ-เชินส์",
+      "meaning_th": "ความอดทนรอ",
+      "emoji": "🧘",
+      "example_en": "Thank you for your patience, I have found the problem.",
+      "example_th": "ขอบคุณที่อดทนรอค่ะ ฉันเจอปัญหาแล้ว",
+      "cefr": "A2",
+      "note_th": "patience (ความอดทน) กับ patients (คนไข้หลายคน) ออกเสียงเหมือนกันเป๊ะ — Thank you for your patience ใช้แทน Sorry for the wait ได้ดีกว่าเพราะไม่เน้นด้านลบ",
+      "distractors": [
+        "patients",
+        "patient",
+        "passion"
+      ]
+    },
+    {
+      "id": "take_responsibility",
+      "word": "take responsibility",
+      "pos": "phrase",
+      "ipa": "/teɪk rɪˌspɑːnsəˈbɪləti/",
+      "reading_th": "เทค รี-สปอน-ซะ-บิ-ลิ-ตี",
+      "meaning_th": "ยอมรับผิดชอบ",
+      "emoji": "🫡",
+      "example_en": "We take full responsibility for the shipping mistake.",
+      "example_th": "เราขอรับผิดชอบเต็มที่สำหรับความผิดพลาดในการจัดส่ง",
+      "cefr": "B1",
+      "note_th": "take (full) responsibility for = รับผิดชอบโดยไม่โทษใคร ลูกค้าต้องการได้ยินประโยคนี้มากกว่าคำแก้ตัว — ตรงข้ามคือ pass the buck = โยนความผิด",
+      "distractors": [
+        "take advantage",
+        "take care",
+        "take response"
+      ]
+    },
+    {
+      "id": "make_it_right",
+      "word": "make it right",
+      "pos": "phrase",
+      "ipa": "/meɪk ɪt raɪt/",
+      "reading_th": "เมค อิท ไรท์",
+      "meaning_th": "แก้ไขให้ถูกต้อง / ชดเชยให้",
+      "emoji": "✅",
+      "example_en": "We made a mistake and we want to make it right.",
+      "example_th": "เราทำผิดพลาดและเราอยากแก้ไขให้ถูกต้อง",
+      "cefr": "B1",
+      "note_th": "make it right = ไม่ใช่แค่ขอโทษแต่ลงมือแก้หรือชดเชย เป็นประโยคที่เปลี่ยนลูกค้าโกรธให้กลับมารัก — ถามลูกค้าว่า What can I do to make it right?",
+      "distractors": [
+        "make it up",
+        "make it work",
+        "make it clear"
+      ]
+    },
+    {
+      "id": "assure",
+      "word": "assure",
+      "pos": "verb",
+      "ipa": "/əˈʃʊr/",
+      "reading_th": "อะ-ชัวร์",
+      "meaning_th": "รับรอง / ให้ความมั่นใจ",
+      "emoji": "🤞",
+      "example_en": "I can assure you this will not happen again.",
+      "example_th": "ฉันรับรองได้ว่าเรื่องนี้จะไม่เกิดขึ้นอีก",
+      "cefr": "B1",
+      "note_th": "assure someone that... = ทำให้เขามั่นใจ ต้องมีคนตามหลังเสมอ — อย่าสับสนกับ ensure (ทำให้แน่ใจว่าเกิด) และ insure (ทำประกัน) สามคำนี้คนไทยปนกันบ่อย",
+      "distractors": [
+        "ensure",
+        "insure",
+        "assume"
+      ]
+    },
+    {
+      "id": "irate",
+      "word": "irate",
+      "pos": "adjective",
+      "ipa": "/aɪˈreɪt/",
+      "reading_th": "ไอ-เรท",
+      "meaning_th": "โกรธจัด (ลูกค้าที่เดือด)",
+      "emoji": "😡",
+      "example_en": "Stay calm and let the irate customer finish speaking first.",
+      "example_th": "ใจเย็นไว้และปล่อยให้ลูกค้าที่โกรธจัดพูดให้จบก่อน",
+      "cefr": "B2",
+      "note_th": "irate customer = ลูกค้าโกรธจัด เป็นคำที่คู่มือศูนย์บริการใช้แทน angry เพราะฟังดูเป็นทางการ — handling irate customers คือหัวข้ออบรมคลาสสิก; ออกเสียง \"ไอ-เรท\" เน้นพยางค์หลัง",
+      "distractors": [
+        "irritate",
+        "pirate",
+        "irony"
+      ]
+    },
+    {
+      "id": "fault",
+      "word": "fault",
+      "pos": "noun",
+      "ipa": "/fɔːlt/",
+      "reading_th": "ฟอลท์",
+      "meaning_th": "ความผิด (ของใคร)",
+      "emoji": "🫢",
+      "example_en": "It was our fault, the warehouse sent the wrong size.",
+      "example_th": "เป็นความผิดของเราเอง คลังสินค้าส่งไซส์ผิด",
+      "cefr": "A2",
+      "note_th": "It's our fault / my fault = ยอมรับว่าผิด ใช้ with ไม่ได้ — ระวัง It's not your fault = ไม่ใช่ความผิดคุณ เป็นประโยคปลอบลูกค้าที่กลัวว่าตัวเองทำพัง",
+      "distractors": [
+        "false",
+        "vault",
+        "default"
+      ]
+    },
+    {
+      "id": "return_policy",
+      "word": "return policy",
+      "pos": "noun",
+      "ipa": "/rɪˈtɜːrn ˈpɑːləsi/",
+      "reading_th": "รี-เทิร์น พอ-ลิ-ซี",
+      "meaning_th": "นโยบายการคืนสินค้า",
+      "emoji": "📜",
+      "example_en": "Our return policy gives you thirty days to change your mind.",
+      "example_th": "นโยบายคืนสินค้าของเราให้เวลาคุณสามสิบวันในการเปลี่ยนใจ",
+      "cefr": "B1",
+      "note_th": "return policy = กติกาว่าคืนได้กี่วัน สภาพไหน ใครจ่ายค่าส่ง — ถามก่อนซื้อว่า What's your return policy? จะไม่เสียใจทีหลัง; policy ตรงนี้ไม่ใช่กรมธรรม์",
+      "distractors": [
+        "return ticket",
+        "privacy policy",
+        "refund request"
+      ]
+    },
+    {
+      "id": "partial_refund",
+      "word": "partial refund",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrʃl ˈriːfʌnd/",
+      "reading_th": "พาร์-เชิล รี-ฟันด์",
+      "meaning_th": "การคืนเงินบางส่วน",
+      "emoji": "💵",
+      "example_en": "We can offer a partial refund since the box was opened.",
+      "example_th": "เราเสนอคืนเงินบางส่วนได้ เนื่องจากกล่องถูกเปิดแล้ว",
+      "cefr": "B1",
+      "note_th": "partial = บางส่วน ตรงข้าม full refund = คืนเต็มจำนวน — ร้านเสนอ partial refund เมื่อของมีตำหนิเล็กน้อยแต่ลูกค้าอยากเก็บไว้ ทั้งคู่ประหยัดค่าส่งคืน",
+      "distractors": [
+        "full refund",
+        "partial payment",
+        "refund policy"
+      ]
+    },
+    {
+      "id": "store_credit",
+      "word": "store credit",
+      "pos": "noun",
+      "ipa": "/stɔːr ˈkredɪt/",
+      "reading_th": "สตอร์ เคร-ดิท",
+      "meaning_th": "เครดิตใช้ซื้อในร้านแทนเงินคืน",
+      "emoji": "🎟️",
+      "example_en": "Without a receipt we can only give store credit.",
+      "example_th": "ถ้าไม่มีใบเสร็จ เราให้ได้แค่เครดิตสำหรับซื้อในร้าน",
+      "cefr": "B1",
+      "note_th": "store credit = ร้านไม่คืนเงินสดแต่ให้ยอดไว้ซื้อครั้งหน้า ร้านชอบเพราะเงินไม่ออกจากร้าน — ถ้าอยากได้เงินจริงต้องถามว่า Can I get a cash refund instead?",
+      "distractors": [
+        "credit card",
+        "store card",
+        "credit score"
+      ]
+    },
+    {
+      "id": "swap_out",
+      "word": "swap out",
+      "pos": "phrase",
+      "ipa": "/swɑːp aʊt/",
+      "reading_th": "สวอป เอาท์",
+      "meaning_th": "เปลี่ยนชิ้นเก่าออกใส่ชิ้นใหม่",
+      "emoji": "🔄",
+      "example_en": "We will swap out the faulty battery for a new one today.",
+      "example_th": "เราจะเปลี่ยนแบตเตอรี่ที่ชำรุดออกแล้วใส่ก้อนใหม่ให้วันนี้",
+      "cefr": "B2",
+      "note_th": "swap out A for B = ถอด A ออกแล้วใส่ B แทน ใช้กับอะไหล่และสินค้าเสีย — swap เฉยๆ = สลับกัน; ช่างและฝ่ายซัพพอร์ตใช้คำนี้บ่อยกว่า replace ในภาษาพูด",
+      "distractors": [
+        "swap in",
+        "swipe out",
+        "sweep out"
+      ]
+    },
+    {
+      "id": "proof_of_purchase",
+      "word": "proof of purchase",
+      "pos": "noun",
+      "ipa": "/pruːf əv ˈpɜːrtʃəs/",
+      "reading_th": "พรูฟ ออฟ เพอร์-เชส",
+      "meaning_th": "หลักฐานการซื้อ",
+      "emoji": "🧾",
+      "example_en": "Please keep the email as your proof of purchase.",
+      "example_th": "กรุณาเก็บอีเมลไว้เป็นหลักฐานการซื้อ",
+      "cefr": "B1",
+      "note_th": "proof of purchase = ใบเสร็จ อีเมลยืนยัน หรือสลิปบัตร อะไรก็ได้ที่พิสูจน์ว่าซื้อจากที่ไหนเมื่อไร — การเคลมประกันเกือบทุกอย่างต้องใช้สิ่งนี้",
+      "distractors": [
+        "proof of income",
+        "purchase order",
+        "price of purchase"
+      ]
+    },
+    {
+      "id": "under_warranty",
+      "word": "under warranty",
+      "pos": "phrase",
+      "ipa": "/ˈʌndər ˈwɔːrənti/",
+      "reading_th": "อัน-เดอร์ วอ-เรน-ตี",
+      "meaning_th": "ยังอยู่ในระยะประกัน",
+      "emoji": "🛡️",
+      "example_en": "Your laptop is still under warranty, so the repair is free.",
+      "example_th": "แล็ปท็อปของคุณยังอยู่ในประกัน ดังนั้นซ่อมฟรี",
+      "cefr": "B1",
+      "note_th": "under warranty = ยังอยู่ในช่วงรับประกัน ใช้ under ไม่ใช่ in — ตรงข้าม out of warranty = หมดประกัน; extended warranty = ซื้อประกันเพิ่ม",
+      "distractors": [
+        "under warrant",
+        "in guarantee",
+        "under repair"
+      ]
+    },
+    {
+      "id": "invalid",
+      "word": "invalid",
+      "pos": "adjective",
+      "ipa": "/ɪnˈvælɪd/",
+      "reading_th": "อิน-แว-ลิด",
+      "meaning_th": "ใช้ไม่ได้ / ไม่ถูกต้องตามเงื่อนไข",
+      "emoji": "❌",
+      "example_en": "The warranty is invalid if the serial number has been removed.",
+      "example_th": "การรับประกันใช้ไม่ได้ถ้าหมายเลขซีเรียลถูกลอกออก",
+      "cefr": "B1",
+      "note_th": "invalid = ไม่ผ่านเงื่อนไขจึงใช้ไม่ได้ (invalid coupon, invalid password) ตรงข้าม valid — เน้นเสียง \"แว\" ตรงกลาง ถ้าเน้นพยางค์แรกจะเป็นอีกคำที่แปลว่าผู้ป่วยติดเตียง",
+      "distractors": [
+        "valid",
+        "invaluable",
+        "unpaid"
+      ]
+    },
+    {
+      "id": "cooling_off_period",
+      "word": "cooling-off period",
+      "pos": "noun",
+      "ipa": "/ˈkuːlɪŋ ɔːf ˈpɪriəd/",
+      "reading_th": "คูล-ลิง-ออฟ เพีย-เรียด",
+      "meaning_th": "ช่วงเวลาที่ยกเลิกสัญญาได้โดยไม่เสียค่าปรับ",
+      "emoji": "🧊",
+      "example_en": "You have a 14-day cooling-off period to cancel the plan.",
+      "example_th": "คุณมีช่วง 14 วันที่ยกเลิกแพ็กเกจได้โดยไม่เสียค่าปรับ",
+      "cefr": "B2",
+      "note_th": "cooling-off period = ช่วงให้ \"ใจเย็นลง\" แล้วเปลี่ยนใจได้ กฎหมายคุ้มครองผู้บริโภคของอังกฤษ/ยุโรปกำหนด 14 วันสำหรับซื้อออนไลน์ — ไทยมีลักษณะเดียวกันสำหรับขายตรง 7 วัน",
+      "distractors": [
+        "cooling period",
+        "warm-up period",
+        "trial period"
+      ]
+    },
+    {
+      "id": "restocking_fee",
+      "word": "restocking fee",
+      "pos": "noun",
+      "ipa": "/ˌriːˈstɑːkɪŋ fiː/",
+      "reading_th": "รี-สต็อก-กิง ฟี",
+      "meaning_th": "ค่าธรรมเนียมรับคืนสินค้า",
+      "emoji": "💰",
+      "example_en": "There is a 15 percent restocking fee on opened electronics.",
+      "example_th": "มีค่าธรรมเนียมรับคืน 15 เปอร์เซ็นต์สำหรับอุปกรณ์ไฟฟ้าที่เปิดแล้ว",
+      "cefr": "B2",
+      "note_th": "restocking fee = ร้านหักเงินเป็นค่าเอาของกลับเข้าสต็อก เจอในร้านอิเล็กทรอนิกส์ต่างประเทศ — อ่านนโยบายก่อนคืน ไม่งั้นได้เงินคืนไม่เต็ม",
+      "distractors": [
+        "stocking",
+        "shipping fee",
+        "late fee"
+      ]
+    },
+    {
+      "id": "non_refundable",
+      "word": "non-refundable",
+      "pos": "adjective",
+      "ipa": "/ˌnɑːn rɪˈfʌndəbl/",
+      "reading_th": "นอน-รี-ฟัน-ดะ-เบิล",
+      "meaning_th": "ไม่สามารถขอเงินคืนได้",
+      "emoji": "🚫",
+      "example_en": "The deposit is non-refundable if you cancel late.",
+      "example_th": "เงินมัดจำไม่สามารถขอคืนได้ถ้าคุณยกเลิกช้า",
+      "cefr": "B1",
+      "note_th": "non-refundable = จ่ายแล้วจ่ายเลย เจอในตั๋วเครื่องบินราคาถูกและมัดจำ — ตรงข้าม refundable; non- + คุณศัพท์ ใช้ขีดกลางเสมอ: non-returnable, non-transferable",
+      "distractors": [
+        "refundable",
+        "non-returnable",
+        "unfounded"
+      ]
+    },
+    {
+      "id": "original_packaging",
+      "word": "original packaging",
+      "pos": "noun",
+      "ipa": "/əˈrɪdʒənl ˈpækɪdʒɪŋ/",
+      "reading_th": "โอ-ริ-จิ-เนิล แพค-เกจ-จิง",
+      "meaning_th": "บรรจุภัณฑ์เดิม",
+      "emoji": "📦",
+      "example_en": "Return the item in its original packaging with all parts.",
+      "example_th": "ส่งคืนสินค้าในบรรจุภัณฑ์เดิมพร้อมชิ้นส่วนครบ",
+      "cefr": "B1",
+      "note_th": "original packaging = กล่องและโฟมที่มาด้วย ร้านมักบังคับเพื่อขายต่อได้ — เก็บกล่องไว้จนพ้นช่วงคืนสินค้า; packaging (บรรจุภัณฑ์) ต่างจาก package (พัสดุ)",
+      "distractors": [
+        "original price",
+        "packing list",
+        "plastic packaging"
+      ]
+    },
+    {
+      "id": "reimburse",
+      "word": "reimburse",
+      "pos": "verb",
+      "ipa": "/ˌriːɪmˈbɜːrs/",
+      "reading_th": "รี-อิม-เบิร์ส",
+      "meaning_th": "คืนเงินที่จ่ายไปก่อน",
+      "emoji": "🔁",
+      "example_en": "We will reimburse the shipping cost you paid to return it.",
+      "example_th": "เราจะคืนค่าส่งที่คุณจ่ายไปตอนส่งของกลับมา",
+      "cefr": "B2",
+      "note_th": "reimburse = จ่ายคืนเงินที่ลูกค้าหรือพนักงานออกไปก่อน (ค่าส่ง ค่าเดินทาง) ส่วน refund = คืนค่าสินค้า — คำนาม reimbursement เจอในแบบฟอร์มเบิกเงินบริษัท",
+      "distractors": [
+        "refund",
+        "reverse",
+        "rehearse"
+      ]
+    },
+    {
+      "id": "processing_time",
+      "word": "processing time",
+      "pos": "noun",
+      "ipa": "/ˈprɑːsesɪŋ taɪm/",
+      "reading_th": "โพร-เซส-ซิง ไทม์",
+      "meaning_th": "ระยะเวลาดำเนินการ",
+      "emoji": "⏱️",
+      "example_en": "The processing time for refunds is five to seven business days.",
+      "example_th": "ระยะเวลาดำเนินการคืนเงินคือห้าถึงเจ็ดวันทำการ",
+      "cefr": "B1",
+      "note_th": "processing time = เวลาที่ระบบหรือธนาคารใช้ ไม่รวมวันหยุด (business days = วันทำการ) — ลูกค้าถามบ่อยว่า How long does it take? ให้ตอบเป็นช่วงวันทำการเสมอ",
+      "distractors": [
+        "process time",
+        "waiting room",
+        "prime time"
+      ]
+    },
+    {
+      "id": "service_center",
+      "word": "service center",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrvɪs ˈsentər/",
+      "reading_th": "เซอร์-วิส เซน-เทอร์",
+      "meaning_th": "ศูนย์บริการซ่อม",
+      "emoji": "🏬",
+      "example_en": "Bring the phone to any service center with your receipt.",
+      "example_th": "นำโทรศัพท์ไปที่ศูนย์บริการซ่อมสาขาใดก็ได้พร้อมใบเสร็จ",
+      "cefr": "A2",
+      "note_th": "service center = ศูนย์ซ่อมของแบรนด์ (authorized service center = ศูนย์ที่แบรนด์รับรอง ซ่อมแล้วประกันไม่ขาด) — ร้านซ่อมทั่วไปเรียก repair shop; สะกด centre แบบอังกฤษก็ได้",
+      "distractors": [
+        "call center",
+        "shopping center",
+        "service charge"
+      ]
+    },
+    {
+      "id": "grievance",
+      "word": "grievance",
+      "pos": "noun",
+      "ipa": "/ˈɡriːvəns/",
+      "reading_th": "กรี-เวินส์",
+      "meaning_th": "ข้อร้องทุกข์ (เป็นทางการ)",
+      "emoji": "📝",
+      "example_en": "Customers can file a grievance through the form on our website.",
+      "example_th": "ลูกค้าสามารถยื่นข้อร้องทุกข์ผ่านแบบฟอร์มบนเว็บไซต์ของเรา",
+      "cefr": "B2",
+      "note_th": "grievance = ข้อร้องทุกข์ที่ยื่นเป็นลายลักษณ์อักษรให้องค์กรพิจารณา ทางการกว่าการบ่น — grievance procedure = ขั้นตอนรับเรื่องร้องทุกข์ เจอในนโยบายบริษัทและ HR",
+      "distractors": [
+        "grieving",
+        "greetings",
+        "griever"
+      ]
+    },
+    {
+      "id": "escalate",
+      "word": "escalate",
+      "pos": "verb",
+      "ipa": "/ˈeskəleɪt/",
+      "reading_th": "เอส-คะ-เลท",
+      "meaning_th": "ส่งเรื่องต่อให้ระดับสูงกว่า",
+      "emoji": "⬆️",
+      "example_en": "I will escalate this to my supervisor right away.",
+      "example_th": "ฉันจะส่งเรื่องนี้ต่อให้หัวหน้างานทันที",
+      "cefr": "B2",
+      "note_th": "escalate = ส่งเรื่องขึ้นชั้นเหมือนขึ้นบันไดเลื่อน (escalator) เมื่อเจ้าหน้าที่ระดับแรกแก้ไม่ได้ — ความหมายทั่วไป: สถานการณ์บานปลาย: The argument escalated",
+      "distractors": [
+        "escalator",
+        "evacuate",
+        "elevate"
+      ]
+    },
+    {
+      "id": "credit_note",
+      "word": "credit note",
+      "pos": "noun",
+      "ipa": "/ˈkredɪt noʊt/",
+      "reading_th": "เคร-ดิท โนท",
+      "meaning_th": "ใบลดหนี้ (ยอดที่หักได้ในบิลหน้า)",
+      "emoji": "🧾",
+      "example_en": "We issued a credit note for the two damaged chairs.",
+      "example_th": "เราออกใบลดหนี้ให้สำหรับเก้าอี้ที่เสียหายสองตัว",
+      "cefr": "B2",
+      "note_th": "credit note = เอกสารที่ผู้ขายออกให้เพื่อหักยอดในการซื้อครั้งต่อไปแทนคืนเงิน ใช้มากระหว่างบริษัท (B2B) — ภาษาบัญชีไทยคือใบลดหนี้ ต่างจาก store credit ที่เป็นยอดในแอปสำหรับลูกค้าทั่วไป",
+      "distractors": [
+        "credit card",
+        "debit note",
+        "bank note"
+      ]
+    },
+    {
+      "id": "goodwill",
+      "word": "goodwill",
+      "pos": "noun",
+      "ipa": "/ˌɡʊdˈwɪl/",
+      "reading_th": "กุด-วิล",
+      "meaning_th": "น้ำใจ (ให้เพื่อรักษาความสัมพันธ์)",
+      "emoji": "🎁",
+      "example_en": "Please accept this voucher as a gesture of goodwill.",
+      "example_th": "กรุณารับคูปองนี้ไว้เป็นน้ำใจจากเราค่ะ",
+      "cefr": "B2",
+      "note_th": "a gesture of goodwill = ของที่ให้แม้ไม่ใช่ความผิดเรา เพื่อรักษาลูกค้าไว้ — ในบัญชี goodwill = ค่าความนิยมของกิจการ; เขียนติดกันคำเดียว",
+      "distractors": [
+        "good luck",
+        "goodwill hunting",
+        "willpower"
+      ]
+    },
+    {
+      "id": "dissatisfied",
+      "word": "dissatisfied",
+      "pos": "adjective",
+      "ipa": "/dɪsˈsætɪsfaɪd/",
+      "reading_th": "ดิส-แซ-ทิส-ฟายด์",
+      "meaning_th": "ไม่พึงพอใจ",
+      "emoji": "😒",
+      "example_en": "If you are dissatisfied, you can return it within 14 days.",
+      "example_th": "หากไม่พึงพอใจ คุณสามารถส่งคืนได้ภายใน 14 วัน",
+      "cefr": "B1",
+      "note_th": "dissatisfied = ไม่พอใจในสิ่งที่ได้ (ทางการ เจอในนโยบายร้าน) — ระวัง unsatisfied ที่แปลว่ายังไม่อิ่ม/ยังไม่ได้รับการตอบสนอง ใช้ต่างกันเล็กน้อย",
+      "distractors": [
+        "unsatisfied",
+        "satisfied",
+        "disappointed"
+      ]
+    },
+    {
+      "id": "de_escalate",
+      "word": "de-escalate",
+      "pos": "verb",
+      "ipa": "/ˌdiːˈeskəleɪt/",
+      "reading_th": "ดี-เอส-คะ-เลท",
+      "meaning_th": "ลดความตึงเครียดของสถานการณ์",
+      "emoji": "🧯",
+      "example_en": "Lower your voice and listen to de-escalate an angry call.",
+      "example_th": "ลดเสียงลงและตั้งใจฟังเพื่อลดความตึงเครียดของสายที่ลูกค้าโกรธ",
+      "cefr": "B2",
+      "note_th": "de-escalate = ทำให้สถานการณ์เย็นลงก่อนบานปลาย เป็นทักษะที่ศูนย์บริการฝึกโดยเฉพาะ (de-escalation techniques) — ตรงข้ามกับ escalate ที่ส่งเรื่องขึ้นหรือทำให้แรงขึ้น",
+      "distractors": [
+        "escalate",
+        "decelerate",
+        "deactivate"
+      ]
+    },
+    {
+      "id": "abusive",
+      "word": "abusive",
+      "pos": "adjective",
+      "ipa": "/əˈbjuːsɪv/",
+      "reading_th": "อะ-บิว-ซิฟ",
+      "meaning_th": "หยาบคาย ก้าวร้าว (คำพูด)",
+      "emoji": "🤬",
+      "example_en": "Agents may end the call if a customer becomes abusive.",
+      "example_th": "พนักงานสามารถวางสายได้หากลูกค้าเริ่มหยาบคายก้าวร้าว",
+      "cefr": "B2",
+      "note_th": "abusive language = คำด่าหยาบคาย ศูนย์บริการมีนโยบายว่าถ้าลูกค้า abusive เจ้าหน้าที่เตือนแล้ววางสายได้ — มาจาก abuse (ทำร้าย/ใช้ในทางที่ผิด)",
+      "distractors": [
+        "abundant",
+        "absent",
+        "amusing"
+      ]
+    },
+    {
+      "id": "end_the_call",
+      "word": "end the call",
+      "pos": "phrase",
+      "ipa": "/end ðə kɔːl/",
+      "reading_th": "เอนด์ เดอะ คอล",
+      "meaning_th": "จบการสนทนาทางโทรศัพท์",
+      "emoji": "📵",
+      "example_en": "Before you end the call, repeat what you promised to do.",
+      "example_th": "ก่อนจบสาย ให้ทวนสิ่งที่คุณสัญญาว่าจะทำอีกครั้ง",
+      "cefr": "A2",
+      "note_th": "end the call = วางสายแบบสุภาพและเป็นขั้นตอน (ทวนสรุป ถามว่ามีอะไรอีกไหม ขอบคุณ) — ศูนย์บริการมี call closing script เพื่อให้ไม่จบสายห้วนๆ",
+      "distractors": [
+        "end the line",
+        "end up calling",
+        "drop the call"
+      ]
+    },
+    {
+      "id": "on_hold",
+      "word": "on hold",
+      "pos": "phrase",
+      "ipa": "/ɑːn hoʊld/",
+      "reading_th": "ออน โฮลด์",
+      "meaning_th": "ถือสายรอ",
+      "emoji": "🎵",
+      "example_en": "May I put you on hold for a moment while I ask my manager?",
+      "example_th": "ขอให้คุณถือสายรอสักครู่ระหว่างที่ฉันถามผู้จัดการได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "put someone on hold = ให้ถือสายรอ (ได้ยินเพลง) ควรขออนุญาตและบอกเวลา — be on hold for 20 minutes = รอสายยี่สิบนาที; on hold ยังหมายถึงโครงการที่ถูกพักไว้",
+      "distractors": [
+        "on call",
+        "on mute",
+        "on line"
+      ]
+    },
+    {
+      "id": "callback",
+      "word": "callback",
+      "pos": "noun",
+      "ipa": "/ˈkɔːlbæk/",
+      "reading_th": "คอล-แบ็ค",
+      "meaning_th": "การโทรกลับตามนัด",
+      "emoji": "📲",
+      "example_en": "Would you prefer a callback instead of waiting on hold?",
+      "example_th": "คุณต้องการให้โทรกลับแทนการถือสายรอไหมคะ",
+      "cefr": "B1",
+      "note_th": "request a callback = ขอให้เจ้าหน้าที่โทรกลับเมื่อถึงคิว แทนรอสาย — เขียนติดกันเมื่อเป็นคำนาม ส่วนกริยาแยก: I'll call you back",
+      "distractors": [
+        "call back",
+        "fallback",
+        "callout"
+      ]
+    },
+    {
+      "id": "resolve",
+      "word": "resolve",
+      "pos": "verb",
+      "ipa": "/rɪˈzɑːlv/",
+      "reading_th": "รี-ซอลฟ์",
+      "meaning_th": "แก้ไขปัญหาจนจบ",
+      "emoji": "✔️",
+      "example_en": "We aim to resolve every complaint within 48 hours.",
+      "example_th": "เราตั้งเป้าแก้ไขทุกข้อร้องเรียนให้จบภายใน 48 ชั่วโมง",
+      "cefr": "B1",
+      "note_th": "resolve = จัดการให้ปัญหาหรือข้อขัดแย้งจบ ใช้กับเรื่องร้องเรียนและความขัดแย้ง ทางการกว่า solve ที่ใช้กับโจทย์/ปริศนา — คำนาม resolution; สถานะ Resolved ในระบบตั๋ว",
+      "distractors": [
+        "revolve",
+        "dissolve",
+        "resolution"
+      ]
+    },
+    {
+      "id": "reference_number",
+      "word": "reference number",
+      "pos": "noun",
+      "ipa": "/ˈrefrəns ˈnʌmbər/",
+      "reading_th": "เร-เฟอ-เรนส์ นัม-เบอร์",
+      "meaning_th": "หมายเลขอ้างอิงเรื่อง",
+      "emoji": "🗂️",
+      "example_en": "Your reference number is 4471, please quote it when you call back.",
+      "example_th": "หมายเลขอ้างอิงของคุณคือ 4471 กรุณาแจ้งเลขนี้เมื่อโทรกลับ",
+      "cefr": "B1",
+      "note_th": "reference number (ref. no.) = เลขที่ใช้ตามเรื่องโดยไม่ต้องเล่าใหม่ จดไว้ทุกครั้งที่ติดต่อ — ธนาคารและสายการบินใช้ booking reference ความหมายเดียวกัน",
+      "distractors": [
+        "phone number",
+        "reference letter",
+        "serial number"
+      ]
+    },
+    {
+      "id": "chargeback",
+      "word": "chargeback",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːrdʒbæk/",
+      "reading_th": "ชาร์จ-แบ็ค",
+      "meaning_th": "การเรียกเงินคืนผ่านธนาคารเจ้าของบัตร",
+      "emoji": "⚖️",
+      "example_en": "If the shop ignores you, ask your bank for a chargeback.",
+      "example_th": "ถ้าร้านเพิกเฉย ให้ขอธนาคารเรียกเงินคืนผ่านบัตร",
+      "cefr": "B2",
+      "note_th": "chargeback = ธนาคารดึงเงินคืนจากร้านให้ผู้ถือบัตรเมื่อร้านไม่ส่งของหรือตัดเงินผิด ร้านกลัวคำนี้มากเพราะโดนค่าปรับ — ต้องยื่นภายใน 60-120 วันแล้วแต่บัตร",
+      "distractors": [
+        "cash back",
+        "charge card",
+        "payback"
+      ]
+    },
+    {
+      "id": "consumer",
+      "word": "consumer",
+      "pos": "noun",
+      "ipa": "/kənˈsuːmər/",
+      "reading_th": "คอน-ซู-เมอร์",
+      "meaning_th": "ผู้บริโภค",
+      "emoji": "🛒",
+      "example_en": "Thai consumer law protects you against faulty goods.",
+      "example_th": "กฎหมายผู้บริโภคไทยคุ้มครองคุณจากสินค้าชำรุด",
+      "cefr": "B1",
+      "note_th": "consumer = ผู้บริโภคในมุมกฎหมายและเศรษฐกิจ ส่วน customer = ลูกค้าของร้านใดร้านหนึ่ง — consumer protection = คุ้มครองผู้บริโภค (สคบ. ของไทย) ลูกค้าขู่ด้วยคำนี้เมื่อถึงที่สุด",
+      "distractors": [
+        "consume",
+        "costumer",
+        "customer"
+      ]
+    },
+    {
+      "id": "support_ticket",
+      "word": "support ticket",
+      "pos": "noun",
+      "ipa": "/səˈpɔːrt ˈtɪkɪt/",
+      "reading_th": "ซัพ-พอร์ท ทิค-เก็ท",
+      "meaning_th": "ตั๋วแจ้งปัญหาในระบบ",
+      "emoji": "🎫",
+      "example_en": "Open a support ticket and we will reply within one day.",
+      "example_th": "เปิดตั๋วแจ้งปัญหาแล้วเราจะตอบภายในหนึ่งวัน",
+      "cefr": "B1",
+      "note_th": "ticket ในฝ่ายซัพพอร์ต = เรื่องหนึ่งเรื่องที่มีเลขกำกับ open/close a ticket = เปิด/ปิดเรื่อง — ไม่เกี่ยวกับตั๋วหนัง แต่ภาพคือบัตรคิวที่รอจัดการตามลำดับ",
+      "distractors": [
+        "parking ticket",
+        "support team",
+        "ticket price"
+      ]
+    },
+    {
+      "id": "live_chat",
+      "word": "live chat",
+      "pos": "noun",
+      "ipa": "/laɪv tʃæt/",
+      "reading_th": "ไลฟ์ แชท",
+      "meaning_th": "แชตสดกับเจ้าหน้าที่",
+      "emoji": "💬",
+      "example_en": "Use live chat on the website for a faster answer.",
+      "example_th": "ใช้แชตสดบนเว็บไซต์เพื่อได้คำตอบเร็วกว่า",
+      "cefr": "A2",
+      "note_th": "live chat = กล่องแชตมุมขวาล่างของเว็บที่มีคนจริงตอบทันที ต่างจากอีเมลที่รอเป็นวัน — live ตรงนี้ออกเสียง \"ไลฟ์\" (สด) ไม่ใช่ \"ลิฟ\" (อาศัยอยู่)",
+      "distractors": [
+        "group chat",
+        "live stream",
+        "video chat"
+      ]
+    },
+    {
+      "id": "virtual_assistant",
+      "word": "virtual assistant",
+      "pos": "noun",
+      "ipa": "/ˈvɜːrtʃuəl əˈsɪstənt/",
+      "reading_th": "เวอร์-ชวล อะ-ซิส-เทินท์",
+      "meaning_th": "ผู้ช่วยอัตโนมัติในแชต/แอป",
+      "emoji": "🤖",
+      "example_en": "Our virtual assistant can reset your password in seconds.",
+      "example_th": "ผู้ช่วยอัตโนมัติของเราเปลี่ยนรหัสผ่านให้คุณได้ในไม่กี่วินาที",
+      "cefr": "B1",
+      "note_th": "virtual assistant = โปรแกรมตอบแชตหรือเสียงอัตโนมัติที่แบรนด์ตั้งชื่อให้ (เช่น น้องบอตต่างๆ) ฟังดูเป็นมิตรกว่าคำว่า bot — คำเดียวกันยังหมายถึงคนที่รับจ้างเป็นผู้ช่วยออนไลน์ (VA)",
+      "distractors": [
+        "personal assistant",
+        "virtual reality",
+        "visual assistant"
+      ]
+    },
+    {
+      "id": "faq",
+      "word": "FAQ",
+      "pos": "noun",
+      "ipa": "/ˌef eɪ ˈkjuː/",
+      "reading_th": "เอฟ-เอ-คิว",
+      "meaning_th": "คำถามที่พบบ่อย",
+      "emoji": "❔",
+      "example_en": "Check the FAQ page first, your answer is probably there.",
+      "example_th": "ลองดูหน้าคำถามที่พบบ่อยก่อน คำตอบของคุณน่าจะอยู่ตรงนั้น",
+      "cefr": "A2",
+      "note_th": "FAQ = frequently asked questions อ่านทีละตัว \"เอฟ-เอ-คิว\" หรือ \"แฟค\" ก็ได้ — หน้า FAQ ที่ดีลดจำนวนสายเข้าศูนย์บริการได้ครึ่งหนึ่ง; พหูพจน์ FAQs",
+      "distractors": [
+        "FYI",
+        "Q&A",
+        "FAX"
+      ]
+    },
+    {
+      "id": "response_time",
+      "word": "response time",
+      "pos": "noun",
+      "ipa": "/rɪˈspɑːns taɪm/",
+      "reading_th": "รี-สปอนส์ ไทม์",
+      "meaning_th": "เวลาที่ใช้ตอบกลับ",
+      "emoji": "⏱️",
+      "example_en": "Our average response time on chat is under two minutes.",
+      "example_th": "เวลาตอบกลับเฉลี่ยทางแชตของเราต่ำกว่าสองนาที",
+      "cefr": "B1",
+      "note_th": "response time = นานแค่ไหนกว่าจะได้คำตอบแรก ส่วน resolution time = นานแค่ไหนกว่าปัญหาจะจบ สองตัวนี้คือ KPI หลักของทีมซัพพอร์ต — first response time ย่อ FRT",
+      "distractors": [
+        "respond time",
+        "real time",
+        "rest time"
+      ]
+    },
+    {
+      "id": "auto_reply",
+      "word": "auto-reply",
+      "pos": "noun",
+      "ipa": "/ˈɔːtoʊ rɪˌplaɪ/",
+      "reading_th": "ออ-โต รี-พลาย",
+      "meaning_th": "ข้อความตอบกลับอัตโนมัติ",
+      "emoji": "📨",
+      "example_en": "Set an auto-reply so customers know we got their message.",
+      "example_th": "ตั้งข้อความตอบกลับอัตโนมัติเพื่อให้ลูกค้ารู้ว่าเราได้รับข้อความแล้ว",
+      "cefr": "A2",
+      "note_th": "auto-reply = ข้อความที่ส่งทันทีโดยไม่มีคนพิมพ์ เช่น \"ได้รับเรื่องแล้ว จะตอบภายใน 24 ชม.\" — ในอีเมลเรียก out-of-office reply เมื่อลาพักร้อน",
+      "distractors": [
+        "autopilot",
+        "auto-correct",
+        "quick reply"
+      ]
+    },
+    {
+      "id": "canned_response",
+      "word": "canned response",
+      "pos": "noun",
+      "ipa": "/kænd rɪˈspɑːns/",
+      "reading_th": "แคนด์ รี-สปอนส์",
+      "meaning_th": "ข้อความสำเร็จรูปที่เตรียมไว้",
+      "emoji": "🥫",
+      "example_en": "Use a canned response for refund questions, then personalize it.",
+      "example_th": "ใช้ข้อความสำเร็จรูปสำหรับคำถามเรื่องคืนเงิน แล้วปรับให้เข้ากับลูกค้า",
+      "cefr": "B2",
+      "note_th": "canned = บรรจุกระป๋อง คือเตรียมไว้ล่วงหน้า canned response = คำตอบสำเร็จรูปที่กดส่งได้ทันที — ลูกค้าจับได้ถ้าส่งทั้งดุ้น ควรเติมชื่อและรายละเอียดเขาเสมอ",
+      "distractors": [
+        "canned food",
+        "candid response",
+        "quick response"
+      ]
+    },
+    {
+      "id": "backlog",
+      "word": "backlog",
+      "pos": "noun",
+      "ipa": "/ˈbæklɔːɡ/",
+      "reading_th": "แบ็ค-ล็อก",
+      "meaning_th": "งานค้างสะสม",
+      "emoji": "📚",
+      "example_en": "After the holiday we had a backlog of 800 unanswered emails.",
+      "example_th": "หลังวันหยุดเรามีอีเมลค้างที่ยังไม่ตอบสะสม 800 ฉบับ",
+      "cefr": "B2",
+      "note_th": "backlog = กองงานที่ยังไม่ได้ทำ clear the backlog = เคลียร์งานค้าง — ทีมซอฟต์แวร์ก็ใช้คำนี้กับรายการฟีเจอร์ที่รอทำ (product backlog)",
+      "distractors": [
+        "backup",
+        "blog",
+        "catalog"
+      ]
+    },
+    {
+      "id": "status",
+      "word": "status",
+      "pos": "noun",
+      "ipa": "/ˈsteɪtəs/",
+      "reading_th": "สเต-ตัส",
+      "meaning_th": "สถานะ (ของเรื่อง/คำสั่งซื้อ)",
+      "emoji": "🚦",
+      "example_en": "The status of your ticket has changed to in progress.",
+      "example_th": "สถานะของตั๋วเรื่องของคุณเปลี่ยนเป็นกำลังดำเนินการ",
+      "cefr": "A2",
+      "note_th": "status ของตั๋วมักมี Open → In progress → Resolved → Closed — ลูกค้าถาม What's the status of my order? ออกเสียง \"สเต-ตัส\" (US) หรือ \"สตา-ตัส\" (UK) ได้ทั้งคู่",
+      "distractors": [
+        "statue",
+        "statute",
+        "stadium"
+      ]
+    },
+    {
+      "id": "unresolved",
+      "word": "unresolved",
+      "pos": "adjective",
+      "ipa": "/ˌʌnrɪˈzɑːlvd/",
+      "reading_th": "อัน-รี-ซอลฟ์ด์",
+      "meaning_th": "ยังไม่ได้รับการแก้ไข",
+      "emoji": "⏳",
+      "example_en": "My issue is still unresolved after three phone calls.",
+      "example_th": "ปัญหาของฉันยังไม่ได้รับการแก้ไขหลังโทรไปสามครั้ง",
+      "cefr": "B1",
+      "note_th": "unresolved = เรื่องยังค้าง ลูกค้าใช้คำนี้เวลาร้องเรียนซ้ำ — ทีมซัพพอร์ตนับ unresolved tickets ทุกวัน ถ้ามากแปลว่ากำลังเสียลูกค้า",
+      "distractors": [
+        "unsolved",
+        "resolved",
+        "unrelated"
+      ]
+    },
+    {
+      "id": "sla",
+      "word": "SLA",
+      "pos": "noun",
+      "ipa": "/ˌes el ˈeɪ/",
+      "reading_th": "เอส-แอล-เอ",
+      "meaning_th": "ข้อตกลงระดับการให้บริการ",
+      "emoji": "📑",
+      "example_en": "Our SLA promises a first reply within four business hours.",
+      "example_th": "ข้อตกลงระดับการให้บริการของเราสัญญาว่าจะตอบครั้งแรกภายในสี่ชั่วโมงทำการ",
+      "cefr": "B2",
+      "note_th": "SLA = service level agreement สัญญาว่าจะตอบ/แก้ภายในกี่ชั่วโมง ถ้าช้ากว่านั้นเรียก SLA breach — ลูกค้าองค์กรจะถามเรื่องนี้ก่อนเซ็นสัญญาเสมอ",
+      "distractors": [
+        "SLR",
+        "SEA",
+        "ASL"
+      ]
+    },
+    {
+      "id": "self_service",
+      "word": "self-service",
+      "pos": "adjective",
+      "ipa": "/ˌself ˈsɜːrvɪs/",
+      "reading_th": "เซลฟ์-เซอร์-วิส",
+      "meaning_th": "ที่ลูกค้าทำเองได้โดยไม่ต้องติดต่อ",
+      "emoji": "🧑‍💻",
+      "example_en": "Our self-service portal lets you change your address yourself.",
+      "example_th": "พอร์ทัลบริการตนเองของเราให้คุณเปลี่ยนที่อยู่ได้ด้วยตัวเอง",
+      "cefr": "B1",
+      "note_th": "self-service = ลูกค้าจัดการเองผ่านเว็บ/แอป ไม่ต้องรอเจ้าหน้าที่ (เปลี่ยนรหัส เช็กสถานะ) — ปั๊มน้ำมันและร้านอาหารก็ใช้คำนี้ในความหมายบริการตนเอง",
+      "distractors": [
+        "self-care",
+        "full-service",
+        "room service"
+      ]
+    },
+    {
+      "id": "knowledge_base",
+      "word": "knowledge base",
+      "pos": "noun",
+      "ipa": "/ˈnɑːlɪdʒ beɪs/",
+      "reading_th": "นอ-ลิจ เบส",
+      "meaning_th": "คลังบทความช่วยเหลือ",
+      "emoji": "📖",
+      "example_en": "Every fix we find goes into the knowledge base for next time.",
+      "example_th": "ทุกวิธีแก้ที่เราเจอจะถูกใส่ในคลังบทความช่วยเหลือสำหรับครั้งต่อไป",
+      "cefr": "B2",
+      "note_th": "knowledge base = หน้า Help Center ที่รวมบทความวิธีใช้และวิธีแก้ ลูกค้าหาเองได้ เจ้าหน้าที่ส่งลิงก์แทนพิมพ์ยาว — ตัว k ใน knowledge ไม่ออกเสียง",
+      "distractors": [
+        "database",
+        "knowledge gap",
+        "home base"
+      ]
+    },
+    {
+      "id": "template",
+      "word": "template",
+      "pos": "noun",
+      "ipa": "/ˈtempleɪt/",
+      "reading_th": "เทม-เพลท",
+      "meaning_th": "แม่แบบข้อความ",
+      "emoji": "🧩",
+      "example_en": "Start from the apology template, then add the customer's name.",
+      "example_th": "เริ่มจากแม่แบบข้อความขอโทษ แล้วเติมชื่อลูกค้า",
+      "cefr": "B1",
+      "note_th": "template = แบบฟอร์มสำเร็จที่เว้นช่องให้เติม ใช้กับอีเมล เอกสาร สไลด์ — ออกเสียง \"เทม-เพลท\" ไม่ใช่ \"เทม-เพลต\"; email template ช่วยให้ทีมตอบด้วยน้ำเสียงเดียวกัน",
+      "distractors": [
+        "temple",
+        "temperate",
+        "timetable"
+      ]
+    },
+    {
+      "id": "is_there_anything_else",
+      "word": "is there anything else",
+      "pos": "phrase",
+      "ipa": "/ɪz ðer ˈeniθɪŋ els/",
+      "reading_th": "อิส แดร์ เอ-นี-ธิง เอลส์",
+      "meaning_th": "มีอะไรให้ช่วยอีกไหม",
+      "emoji": "🙋",
+      "example_en": "Is there anything else I can help you with today?",
+      "example_th": "วันนี้มีอะไรให้ช่วยเพิ่มเติมอีกไหมคะ",
+      "cefr": "A2",
+      "note_th": "ประโยคก่อนปิดสายมาตรฐาน Is there anything else I can help you with? — ถามเสมอแม้จะรีบ เพราะลูกค้าหลายคนลืมเรื่องที่สองแล้วต้องโทรใหม่",
+      "distractors": [
+        "is there anyone else",
+        "is anything else there",
+        "is that all"
+      ]
+    },
+    {
+      "id": "thank_you_for_calling",
+      "word": "thank you for calling",
+      "pos": "phrase",
+      "ipa": "/θæŋk juː fɔːr ˈkɔːlɪŋ/",
+      "reading_th": "แธงค์ ยู ฟอร์ คอล-ลิง",
+      "meaning_th": "ขอบคุณที่โทรมา",
+      "emoji": "📞",
+      "example_en": "Thank you for calling JUNYPOP, have a great day.",
+      "example_th": "ขอบคุณที่โทรมาที่ JUNYPOP ค่ะ ขอให้เป็นวันที่ดี",
+      "cefr": "A2",
+      "note_th": "ใช้ได้ทั้งเปิดสาย (Thank you for calling X, this is Nok) และปิดสาย — หลัง for ต้องเป็น V-ing: for calling, for contacting us, for waiting",
+      "distractors": [
+        "thank you for coming",
+        "thank you for call",
+        "thanks for the call"
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "word": "satisfaction",
+      "pos": "noun",
+      "ipa": "/ˌsætɪsˈfækʃn/",
+      "reading_th": "แซ-ทิส-แฟค-ชัน",
+      "meaning_th": "ความพึงพอใจ",
+      "emoji": "😊",
+      "example_en": "Customer satisfaction went up after we shortened the wait.",
+      "example_th": "ความพึงพอใจของลูกค้าเพิ่มขึ้นหลังเราลดเวลารอ",
+      "cefr": "B1",
+      "note_th": "customer satisfaction (CSAT) = คะแนนพอใจที่ถามหลังจบบริการ (1-5 ดาว) — satisfaction guaranteed = ไม่พอใจยินดีคืนเงิน เป็นคำโฆษณาคลาสสิก; กริยา satisfy",
+      "distractors": [
+        "satisfactory",
+        "sanitation",
+        "dissatisfaction"
+      ]
+    },
+    {
+      "id": "customer_loyalty",
+      "word": "customer loyalty",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəmər ˈlɔɪəlti/",
+      "reading_th": "คัส-ทะ-เมอร์ ลอย-เอิล-ตี",
+      "meaning_th": "ความภักดีของลูกค้าต่อแบรนด์",
+      "emoji": "❤️",
+      "example_en": "Fixing a mistake quickly builds customer loyalty for years.",
+      "example_th": "การแก้ความผิดพลาดอย่างรวดเร็วสร้างความภักดีของลูกค้าไปอีกหลายปี",
+      "cefr": "B1",
+      "note_th": "customer loyalty = ลูกค้ากลับมาซ้ำและไม่ย้ายค่ายแม้คู่แข่งถูกกว่า วัดด้วยการซื้อซ้ำและการบอกต่อ — ระวัง royalty (ค่าลิขสิทธิ์/ราชวงศ์) ที่ต่างแค่ตัวแรก คนไทยสลับ l/r บ่อย",
+      "distractors": [
+        "customer royalty",
+        "brand loyalty",
+        "customer service"
+      ]
+    },
+    {
+      "id": "retain",
+      "word": "retain",
+      "pos": "verb",
+      "ipa": "/rɪˈteɪn/",
+      "reading_th": "รี-เทน",
+      "meaning_th": "รักษา (ลูกค้า) ไว้ให้อยู่ต่อ",
+      "emoji": "🔗",
+      "example_en": "Good service helps us retain customers for years.",
+      "example_th": "บริการที่ดีช่วยให้เรารักษาลูกค้าไว้ได้นานหลายปี",
+      "cefr": "B2",
+      "note_th": "retain customers = ทำให้ลูกค้าอยู่กับเราต่อ ถูกกว่าหาลูกค้าใหม่หลายเท่า — ทั่วไปแปลว่าเก็บรักษา: retain the receipt; อย่าสับสนกับ remain (ยังคงอยู่)",
+      "distractors": [
+        "remain",
+        "retrain",
+        "obtain"
+      ]
+    },
+    {
+      "id": "happy_to_help",
+      "word": "happy to help",
+      "pos": "phrase",
+      "ipa": "/ˈhæpi tuː help/",
+      "reading_th": "แฮพ-ปี ทู เฮลพ์",
+      "meaning_th": "ยินดีช่วยเสมอ",
+      "emoji": "🤗",
+      "example_en": "Happy to help, just message us again if it happens.",
+      "example_th": "ยินดีช่วยค่ะ ถ้าเกิดอีกก็ทักเรามาได้เลย",
+      "cefr": "A2",
+      "note_th": "ตอบเมื่อลูกค้าขอบคุณ เป็นกันเองกว่า You're welcome — เวอร์ชันเต็ม I'm happy to help / Glad I could help; ใช้เปิดก็ได้: I'd be happy to help with that",
+      "distractors": [
+        "happy to hear",
+        "help to happy",
+        "ready to help"
+      ]
+    },
+    {
+      "id": "repeat_customer",
+      "word": "repeat customer",
+      "pos": "noun",
+      "ipa": "/rɪˈpiːt ˈkʌstəmər/",
+      "reading_th": "รี-พีท คัส-ทะ-เมอร์",
+      "meaning_th": "ลูกค้าที่กลับมาซื้อซ้ำ",
+      "emoji": "🔁",
+      "example_en": "A repeat customer spends three times more than a new one.",
+      "example_th": "ลูกค้าที่ซื้อซ้ำใช้จ่ายมากกว่าลูกค้าใหม่สามเท่า",
+      "cefr": "B1",
+      "note_th": "repeat customer = คนที่กลับมาซื้ออีก สัญญาณว่าบริการดี — repeat ตรงนี้เป็นคุณศัพท์ (ไม่เติม -ed); คำคู่กันคือ returning customer",
+      "distractors": [
+        "new customer",
+        "regular price",
+        "repeated call"
+      ]
+    },
+    {
+      "id": "win_back",
+      "word": "win back",
+      "pos": "phrase",
+      "ipa": "/wɪn bæk/",
+      "reading_th": "วิน แบ็ค",
+      "meaning_th": "ดึงลูกค้าที่เสียไปกลับมา",
+      "emoji": "🏆",
+      "example_en": "We sent a discount to win back customers who left last year.",
+      "example_th": "เราส่งส่วนลดเพื่อดึงลูกค้าที่หายไปเมื่อปีที่แล้วกลับมา",
+      "cefr": "B2",
+      "note_th": "win back = เอาชนะใจกลับมาอีกครั้ง ใช้กับลูกค้าและแฟนเก่า — win-back campaign = แคมเปญส่งข้อเสนอให้คนที่เลิกใช้บริการ; อดีต won back",
+      "distractors": [
+        "win over",
+        "give back",
+        "pay back"
+      ]
+    },
+    {
+      "id": "above_and_beyond",
+      "word": "above and beyond",
+      "pos": "phrase",
+      "ipa": "/əˈbʌv ænd bɪˈjɑːnd/",
+      "reading_th": "อะ-บัฟ แอนด์ บิ-ยอนด์",
+      "meaning_th": "เกินกว่าหน้าที่ / เกินความคาดหมาย",
+      "emoji": "🌟",
+      "example_en": "The team went above and beyond to deliver before the wedding.",
+      "example_th": "ทีมทำเกินกว่าหน้าที่เพื่อส่งของให้ทันก่อนงานแต่ง",
+      "cefr": "B2",
+      "note_th": "go above and beyond (the call of duty) = ทำมากกว่าที่หน้าที่กำหนด ใช้ชมพนักงานในรีวิวและใบประเมิน — เป็นวลีตายตัว ไม่สลับเป็น beyond and above",
+      "distractors": [
+        "up and above",
+        "over and above",
+        "above all"
+      ]
+    },
+    {
+      "id": "testimonial",
+      "word": "testimonial",
+      "pos": "noun",
+      "ipa": "/ˌtestɪˈmoʊniəl/",
+      "reading_th": "เทส-ทิ-โม-เนียล",
+      "meaning_th": "คำรับรองจากลูกค้าจริง",
+      "emoji": "💬",
+      "example_en": "May we use your kind words as a testimonial on our website?",
+      "example_th": "เราขอนำคำชมของคุณไปใช้เป็นคำรับรองบนเว็บไซต์ได้ไหมคะ",
+      "cefr": "B2",
+      "note_th": "testimonial = คำชมจากลูกค้าที่ร้านขอไปโชว์ ต่างจาก review ที่ลูกค้าเขียนเองในแพลตฟอร์ม — ต้องขออนุญาตก่อนใช้ชื่อและรูปเสมอ",
+      "distractors": [
+        "testimony",
+        "testament",
+        "memorial"
+      ]
+    },
+    {
+      "id": "my_pleasure",
+      "word": "my pleasure",
+      "pos": "phrase",
+      "ipa": "/maɪ ˈpleʒər/",
+      "reading_th": "มาย เพล-เชอร์",
+      "meaning_th": "ด้วยความยินดี",
+      "emoji": "😌",
+      "example_en": "My pleasure, enjoy your new phone and call us anytime.",
+      "example_th": "ด้วยความยินดีค่ะ ขอให้สนุกกับโทรศัพท์ใหม่ และโทรหาเราได้ทุกเมื่อ",
+      "cefr": "A2",
+      "note_th": "My pleasure = ตอบ thank you แบบสุภาพและอบอุ่น (โรงแรมและสายการบินใช้ประจำ) — เป็นคำนาม pleasure ออกเสียง \"เพล-เชอร์\" ไม่ใช่ \"พลี-เชอร์\"",
+      "distractors": [
+        "my please",
+        "with pleasure",
+        "my treasure"
+      ]
+    },
+    {
+      "id": "close_the_case",
+      "word": "close the case",
+      "pos": "phrase",
+      "ipa": "/kloʊz ðə keɪs/",
+      "reading_th": "โคลส เดอะ เคส",
+      "meaning_th": "ปิดเรื่อง (ปัญหาจบแล้ว)",
+      "emoji": "🔒",
+      "example_en": "If everything works now, I will close the case for you.",
+      "example_th": "ถ้าตอนนี้ทุกอย่างใช้ได้แล้ว ฉันจะปิดเรื่องให้นะคะ",
+      "cefr": "B1",
+      "note_th": "close the case/ticket = บันทึกว่าเรื่องจบ ควรถามลูกค้าก่อนปิดเสมอ: Is it okay if I close this case? — ถ้าปัญหากลับมาเรียก reopen the case",
+      "distractors": [
+        "close the deal",
+        "close the door",
+        "lose the case"
+      ]
+    },
+    {
+      "id": "complimentary",
+      "word": "complimentary",
+      "pos": "adjective",
+      "ipa": "/ˌkɑːmplɪˈmentri/",
+      "reading_th": "คอม-พลิ-เมน-ทรี",
+      "meaning_th": "ฟรี (แถมให้เป็นน้ำใจ)",
+      "emoji": "🎁",
+      "example_en": "Please enjoy a complimentary dessert while you wait.",
+      "example_th": "เชิญรับของหวานฟรีระหว่างรอค่ะ",
+      "cefr": "B1",
+      "note_th": "complimentary = ฟรีแบบให้เป็นน้ำใจ (complimentary breakfast, complimentary upgrade) ฟังดูหรูกว่า free — สะกดด้วย i ส่วน complementary (ด้วย e) = เสริมกัน คนละคำ",
+      "distractors": [
+        "complementary",
+        "compliment",
+        "compulsory"
+      ]
+    },
+    {
+      "id": "courteous",
+      "word": "courteous",
+      "pos": "adjective",
+      "ipa": "/ˈkɜːrtiəs/",
+      "reading_th": "เคอร์-เทียส",
+      "meaning_th": "สุภาพมีมารยาท",
+      "emoji": "🙇",
+      "example_en": "Stay courteous even when the customer is shouting.",
+      "example_th": "รักษาความสุภาพไว้แม้ลูกค้ากำลังตะโกน",
+      "cefr": "B2",
+      "note_th": "courteous = สุภาพแบบมืออาชีพ ใช้ในคำชม (courteous staff) และกฎพนักงาน — ออกเสียง \"เคอร์-เทียส\" ไม่ใช่ \"คอร์-ทีอัส\"; คำนาม courtesy = มารยาท/ความเอื้อเฟื้อ",
+      "distractors": [
+        "curious",
+        "cautious",
+        "courageous"
+      ]
+    }
+  ]
+}

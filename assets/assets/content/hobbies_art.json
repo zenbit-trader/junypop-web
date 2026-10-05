@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "hobbies_art",
+    "name_en": "Hobbies & Art",
+    "name_th": "ศิลปะและงานอดิเรก",
+    "emoji": "🎨",
+    "color_start": "#F472B6",
+    "color_end": "#7C3AED",
+    "description_th": "วาดรูป ถ่ายภาพ ดนตรี งานฝีมือ และงานอดิเรกที่คุยกับเพื่อนต่างชาติได้ทั้งวัน",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "hobbies_art_1",
+        "title_en": "Drawing & Painting",
+        "title_th": "วาดรูปและระบายสี",
+        "emoji": "🖌️",
+        "word_ids": [
+          "hobby",
+          "sketch",
+          "doodle",
+          "paint",
+          "paintbrush",
+          "canvas",
+          "watercolor",
+          "acrylic",
+          "easel",
+          "sketchbook",
+          "shading",
+          "trace",
+          "still_life",
+          "artwork"
+        ]
+      },
+      {
+        "id": "hobbies_art_2",
+        "title_en": "Photography",
+        "title_th": "การถ่ายภาพ",
+        "emoji": "📷",
+        "word_ids": [
+          "photography",
+          "photographer",
+          "lens",
+          "tripod",
+          "zoom",
+          "shutter",
+          "flash",
+          "portrait",
+          "landscape",
+          "angle",
+          "blurry",
+          "exposure",
+          "pose",
+          "golden_hour"
+        ]
+      },
+      {
+        "id": "hobbies_art_3",
+        "title_en": "Playing Music",
+        "title_th": "เล่นดนตรี",
+        "emoji": "🎸",
+        "word_ids": [
+          "instrument",
+          "guitar",
+          "piano",
+          "ukulele",
+          "violin",
+          "drums",
+          "flute",
+          "strum",
+          "chord",
+          "rhythm",
+          "tempo",
+          "sheet_music",
+          "out_of_tune",
+          "busk"
+        ]
+      },
+      {
+        "id": "hobbies_art_4",
+        "title_en": "Crafts & DIY",
+        "title_th": "งานฝีมือและ DIY",
+        "emoji": "🧶",
+        "word_ids": [
+          "craft",
+          "handmade",
+          "knit",
+          "sew",
+          "needle",
+          "yarn",
+          "glue",
+          "origami",
+          "pottery",
+          "clay",
+          "embroidery",
+          "diy",
+          "hammer",
+          "woodwork"
+        ]
+      },
+      {
+        "id": "hobbies_art_5",
+        "title_en": "Collecting & Board Games",
+        "title_th": "ของสะสมและบอร์ดเกม",
+        "emoji": "🎲",
+        "word_ids": [
+          "complete_the_set",
+          "collector",
+          "rare",
+          "mint_condition",
+          "action_figure",
+          "trading_card",
+          "vinyl",
+          "antique",
+          "chess",
+          "dice",
+          "card_game",
+          "take_turns",
+          "shuffle",
+          "jigsaw"
+        ]
+      },
+      {
+        "id": "hobbies_art_6",
+        "title_en": "Outdoor Hobbies",
+        "title_th": "งานอดิเรกกลางแจ้ง",
+        "emoji": "🎣",
+        "word_ids": [
+          "fishing",
+          "fishing_rod",
+          "bait",
+          "picnic",
+          "gardening",
+          "plant",
+          "kite",
+          "bird_watching",
+          "stargazing",
+          "binoculars",
+          "sleeping_bag",
+          "campsite",
+          "flashlight",
+          "fresh_air"
+        ]
+      },
+      {
+        "id": "hobbies_art_7",
+        "title_en": "Museums & Galleries",
+        "title_th": "พิพิธภัณฑ์และแกลเลอรี",
+        "emoji": "🖼️",
+        "word_ids": [
+          "gallery",
+          "exhibition",
+          "artist",
+          "sculpture",
+          "masterpiece",
+          "entry_fee",
+          "audio_guide",
+          "gift_shop",
+          "ancient",
+          "modern_art",
+          "admire",
+          "display",
+          "curator",
+          "inspiration"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "hobby",
+      "word": "hobby",
+      "pos": "noun",
+      "ipa": "/ˈhɑːbi/",
+      "reading_th": "ฮอบ-บี้",
+      "meaning_th": "งานอดิเรก",
+      "emoji": "🎨",
+      "example_en": "My favorite hobby is drawing cats on weekends.",
+      "example_th": "งานอดิเรกที่ฉันชอบที่สุดคือวาดรูปแมวตอนสุดสัปดาห์",
+      "cefr": "A1",
+      "note_th": "คำถามเปิดบทสนทนายอดฮิต What are your hobbies? — ตอบเป็น -ing ได้เลย เช่น I like painting and fishing ไม่ต้องพูดว่า my hobby is paint",
+      "distractors": [
+        "habit",
+        "lobby",
+        "hockey"
+      ]
+    },
+    {
+      "id": "sketch",
+      "word": "sketch",
+      "pos": "verb",
+      "ipa": "/sketʃ/",
+      "reading_th": "สเก็ตช์",
+      "meaning_th": "วาดภาพร่างคร่าวๆ",
+      "emoji": "✏️",
+      "example_en": "I sketch the mountains before I start painting.",
+      "example_th": "ฉันร่างภาพภูเขาก่อนจะเริ่มลงสี",
+      "cefr": "A2",
+      "note_th": "sketch = วาดแบบเร็วๆ ไม่เก็บรายละเอียด ใช้เป็นคำนามก็ได้ a quick sketch — ส่วน draw (ที่เรียนไปแล้วในความหมายเสมอ) ก็แปลว่าวาดได้เหมือนกันแต่เป็นคำกว้างๆ",
+      "distractors": [
+        "stretch",
+        "scratch",
+        "switch"
+      ]
+    },
+    {
+      "id": "doodle",
+      "word": "doodle",
+      "pos": "verb",
+      "ipa": "/ˈduːdl/",
+      "reading_th": "ดู-เดิล",
+      "meaning_th": "ขีดเขียนเล่นไปเรื่อย",
+      "emoji": "🖊️",
+      "example_en": "I always doodle in my notebook during long meetings.",
+      "example_th": "ฉันชอบขีดเขียนเล่นในสมุดตอนประชุมยาวๆ เสมอ",
+      "cefr": "B1",
+      "note_th": "doodle คือวาดเล่นแบบไม่ตั้งใจ ขณะคุยโทรศัพท์หรือเบื่อๆ — Google Doodle ก็มาจากคำนี้ หมายถึงโลโก้ที่วาดเล่นตามเทศกาล",
+      "distractors": [
+        "noodle",
+        "poodle",
+        "cuddle"
+      ]
+    },
+    {
+      "id": "paint",
+      "word": "paint",
+      "pos": "verb",
+      "ipa": "/peɪnt/",
+      "reading_th": "เพนท์",
+      "meaning_th": "ระบายสี / ทาสี",
+      "emoji": "🎨",
+      "example_en": "She likes to paint flowers with bright colors.",
+      "example_th": "เธอชอบวาดดอกไม้ด้วยสีสดใส",
+      "cefr": "A1",
+      "note_th": "paint ใช้ทั้งวาดภาพด้วยสีและทาสีบ้าน — ภาพวาดสีคือ a painting ส่วนคนวาดคือ painter ซึ่งแปลว่าช่างทาสีได้ด้วย ดูบริบทให้ดี",
+      "distractors": [
+        "print",
+        "point",
+        "pint"
+      ]
+    },
+    {
+      "id": "paintbrush",
+      "word": "paintbrush",
+      "pos": "noun",
+      "ipa": "/ˈpeɪntbrʌʃ/",
+      "reading_th": "เพนท์-บรัช",
+      "meaning_th": "พู่กัน",
+      "emoji": "🖌️",
+      "example_en": "Wash your paintbrush before the paint dries on it.",
+      "example_th": "ล้างพู่กันก่อนที่สีจะแห้งติดอยู่",
+      "cefr": "A2",
+      "note_th": "ในร้านศิลปะพูดสั้นๆ ว่า brush ก็เข้าใจ — ขนาดพู่กันบอกเป็นเบอร์ a size 4 brush และปลายแบนคือ flat brush ปลายแหลมคือ round brush",
+      "distractors": [
+        "toothbrush",
+        "hairbrush",
+        "paintball"
+      ]
+    },
+    {
+      "id": "canvas",
+      "word": "canvas",
+      "pos": "noun",
+      "ipa": "/ˈkænvəs/",
+      "reading_th": "แคน-เวิส",
+      "meaning_th": "ผ้าใบวาดภาพ",
+      "emoji": "🖼️",
+      "example_en": "He bought a large canvas for his new painting.",
+      "example_th": "เขาซื้อผ้าใบผืนใหญ่สำหรับภาพวาดชิ้นใหม่",
+      "cefr": "B1",
+      "note_th": "อย่าสับสนกับ Canva (แอปทำกราฟิก) — canvas ยังใช้เปรียบเทียบได้ เช่น a blank canvas = เริ่มต้นจากศูนย์ ทำอะไรก็ได้",
+      "distractors": [
+        "campus",
+        "cactus",
+        "caravan"
+      ]
+    },
+    {
+      "id": "watercolor",
+      "word": "watercolor",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtərkʌlər/",
+      "reading_th": "วอ-เทอร์-คัล-เลอร์",
+      "meaning_th": "สีน้ำ",
+      "emoji": "💧",
+      "example_en": "This watercolor set is perfect for beginners.",
+      "example_th": "ชุดสีน้ำชุดนี้เหมาะกับมือใหม่มาก",
+      "cefr": "A2",
+      "note_th": "สะกดแบบอเมริกัน watercolor แบบอังกฤษ watercolour — สีน้ำเขียนทับกันแล้วโปร่งแสง จึงต้องเว้นที่ขาวไว้ตั้งแต่แรก ต่างจาก acrylic ที่ทับได้",
+      "distractors": [
+        "waterfall",
+        "watermelon",
+        "waterproof"
+      ]
+    },
+    {
+      "id": "acrylic",
+      "word": "acrylic",
+      "pos": "noun",
+      "ipa": "/əˈkrɪlɪk/",
+      "reading_th": "อะ-คริ-ลิก",
+      "meaning_th": "สีอะคริลิก",
+      "emoji": "🧴",
+      "example_en": "Acrylic dries fast, so mix only small amounts.",
+      "example_th": "สีอะคริลิกแห้งเร็ว เลยควรผสมทีละนิดเดียว",
+      "cefr": "B1",
+      "note_th": "เน้นเสียงพยางค์ที่สอง อะ-คริ-ลิก ไม่ใช่ อะ-คริ-ลิค ยาวๆ แบบไทย — acrylic paint ล้างน้ำได้ตอนเปียก แต่พอแห้งแล้วกันน้ำ ล้างออกจากเสื้อไม่ได้",
+      "distractors": [
+        "acoustic",
+        "arctic",
+        "ceramic"
+      ]
+    },
+    {
+      "id": "easel",
+      "word": "easel",
+      "pos": "noun",
+      "ipa": "/ˈiːzl/",
+      "reading_th": "อี-เซิล",
+      "meaning_th": "ขาตั้งวาดภาพ",
+      "emoji": "🪜",
+      "example_en": "Set up the easel near the window for better light.",
+      "example_th": "ตั้งขาตั้งวาดภาพไว้ใกล้หน้าต่างจะได้แสงดีกว่า",
+      "cefr": "B1",
+      "note_th": "ออกเสียง อี-เซิล คล้าย easy — อย่าสับสนกับ weasel (ตัวเพียงพอน) ที่สะกดคล้ายกัน ขาตั้งกล้องคือ tripod ไม่ใช่ easel",
+      "distractors": [
+        "weasel",
+        "diesel",
+        "easily"
+      ]
+    },
+    {
+      "id": "sketchbook",
+      "word": "sketchbook",
+      "pos": "noun",
+      "ipa": "/ˈsketʃbʊk/",
+      "reading_th": "สเก็ตช์-บุ๊ค",
+      "meaning_th": "สมุดวาดรูป",
+      "emoji": "📓",
+      "example_en": "I carry a small sketchbook everywhere I travel.",
+      "example_th": "ฉันพกสมุดวาดรูปเล่มเล็กไปทุกที่ที่เดินทาง",
+      "cefr": "A2",
+      "note_th": "สมุดวาดรูปคือ sketchbook ส่วน notebook คือสมุดจด — ศิลปินมักโชว์ sketchbook tour บน YouTube คือพลิกสมุดให้ดูทีละหน้า",
+      "distractors": [
+        "notebook",
+        "scrapbook",
+        "textbook"
+      ]
+    },
+    {
+      "id": "shading",
+      "word": "shading",
+      "pos": "noun",
+      "ipa": "/ˈʃeɪdɪŋ/",
+      "reading_th": "เชด-ดิ้ง",
+      "meaning_th": "การแรเงา",
+      "emoji": "🌗",
+      "example_en": "Good shading makes a flat drawing look three-dimensional.",
+      "example_th": "การแรเงาที่ดีทำให้ภาพแบนๆ ดูมีมิติ",
+      "cefr": "B1",
+      "note_th": "มาจาก shade (ร่มเงา) — ในคลาสวาดรูปครูจะพูดว่า add some shading here ส่วน highlight คือส่วนสว่างที่ตรงข้ามกับเงา",
+      "distractors": [
+        "shaking",
+        "sharing",
+        "sliding"
+      ]
+    },
+    {
+      "id": "trace",
+      "word": "trace",
+      "pos": "verb",
+      "ipa": "/treɪs/",
+      "reading_th": "เทรซ",
+      "meaning_th": "ลอกลาย / วาดตามเส้น",
+      "emoji": "📝",
+      "example_en": "Beginners can trace the picture to learn the shapes.",
+      "example_th": "มือใหม่ลอกลายตามภาพเพื่อเรียนรู้รูปทรงได้",
+      "cefr": "B1",
+      "note_th": "trace = วางกระดาษทับแล้ววาดตาม เหมือนกระดาษลอกลายตอนเด็ก (tracing paper) — อีกความหมายคือ ตามรอย/สืบหา trace the call ที่เจอในหนังสืบสวน",
+      "distractors": [
+        "track",
+        "trade",
+        "erase"
+      ]
+    },
+    {
+      "id": "still_life",
+      "word": "still life",
+      "pos": "noun",
+      "ipa": "/ˌstɪl ˈlaɪf/",
+      "reading_th": "สติล ไลฟ์",
+      "meaning_th": "ภาพหุ่นนิ่ง",
+      "emoji": "🍎",
+      "example_en": "Our first lesson was a still life of fruit and a jug.",
+      "example_th": "บทเรียนแรกของเราคือภาพหุ่นนิ่งผลไม้กับเหยือกน้ำ",
+      "cefr": "B2",
+      "note_th": "ภาพวาดของที่ไม่ขยับ เช่น ผลไม้ แจกัน — still ในที่นี้คือ นิ่ง ไม่ใช่ ยังคง และพหูพจน์คือ still lifes ไม่ใช่ lives",
+      "distractors": [
+        "real life",
+        "wildlife",
+        "nightlife"
+      ]
+    },
+    {
+      "id": "artwork",
+      "word": "artwork",
+      "pos": "noun",
+      "ipa": "/ˈɑːrtwɜːrk/",
+      "reading_th": "อาร์ต-เวิร์ค",
+      "meaning_th": "ผลงานศิลปะ",
+      "emoji": "🖼️",
+      "example_en": "She posts her artwork online every Friday.",
+      "example_th": "เธอโพสต์ผลงานศิลปะของตัวเองออนไลน์ทุกวันศุกร์",
+      "cefr": "B1",
+      "note_th": "artwork เป็นคำนับไม่ได้ a piece of artwork ไม่ใช่ an artwork — ใช้ได้ทั้งภาพวาด ภาพดิจิทัล และปกอัลบั้ม (album artwork)",
+      "distractors": [
+        "homework",
+        "network",
+        "artist"
+      ]
+    },
+    {
+      "id": "photography",
+      "word": "photography",
+      "pos": "noun",
+      "ipa": "/fəˈtɑːɡrəfi/",
+      "reading_th": "โฟ-ทอ-กระ-ฟี่",
+      "meaning_th": "การถ่ายภาพ",
+      "emoji": "📷",
+      "example_en": "I got into photography after my trip to Japan.",
+      "example_th": "ฉันเริ่มสนใจการถ่ายภาพหลังไปเที่ยวญี่ปุ่น",
+      "cefr": "A2",
+      "note_th": "ระวังเสียงเน้น: PHO-to (รูป), pho-TOG-ra-phy (การถ่ายภาพ), pho-TOG-ra-pher (ช่างภาพ) — คนไทยมักเน้นผิดพยางค์จนฝรั่งฟังไม่ออก",
+      "distractors": [
+        "geography",
+        "biography",
+        "photocopy"
+      ]
+    },
+    {
+      "id": "photographer",
+      "word": "photographer",
+      "pos": "noun",
+      "ipa": "/fəˈtɑːɡrəfər/",
+      "reading_th": "โฟ-ทอ-กระ-เฟอร์",
+      "meaning_th": "ช่างภาพ",
+      "emoji": "🧑‍🎨",
+      "example_en": "The photographer asked us to stand closer together.",
+      "example_th": "ช่างภาพขอให้เรายืนชิดกันมากขึ้น",
+      "cefr": "A2",
+      "note_th": "wedding photographer, street photographer — ถ้าถ่ายเล่นเป็นงานอดิเรกให้บอกว่า I'm an amateur photographer จะสุภาพกว่าอ้างว่าเป็นมืออาชีพ",
+      "distractors": [
+        "photograph",
+        "biographer",
+        "videographer"
+      ]
+    },
+    {
+      "id": "lens",
+      "word": "lens",
+      "pos": "noun",
+      "ipa": "/lenz/",
+      "reading_th": "เลนส์",
+      "meaning_th": "เลนส์กล้อง",
+      "emoji": "🔍",
+      "example_en": "This lens is great for taking photos at night.",
+      "example_th": "เลนส์ตัวนี้เหมาะมากสำหรับถ่ายภาพกลางคืน",
+      "cefr": "A2",
+      "note_th": "เอกพจน์คือ lens (มี s อยู่แล้ว) พหูพจน์ lenses — คอนแทคเลนส์ก็ใช้คำเดียวกัน contact lenses และ wide-angle lens = เลนส์มุมกว้างที่สายเที่ยวชอบ",
+      "distractors": [
+        "lend",
+        "lease",
+        "lines"
+      ]
+    },
+    {
+      "id": "tripod",
+      "word": "tripod",
+      "pos": "noun",
+      "ipa": "/ˈtraɪpɑːd/",
+      "reading_th": "ไทร-พอด",
+      "meaning_th": "ขาตั้งกล้อง",
+      "emoji": "🎥",
+      "example_en": "Use a tripod so the night photo is not shaky.",
+      "example_th": "ใช้ขาตั้งกล้องจะได้ถ่ายภาพกลางคืนไม่สั่น",
+      "cefr": "B1",
+      "note_th": "tri- = สาม pod = ขา ขาตั้งสามขา — ไม้เซลฟี่ตั้งพื้นได้ก็เรียก tripod ถ้าเป็นขาเล็กๆ บิดงอได้เรียก mini tripod หรือ gorilla pod",
+      "distractors": [
+        "iPod",
+        "tripe",
+        "triple"
+      ]
+    },
+    {
+      "id": "zoom",
+      "word": "zoom",
+      "pos": "verb",
+      "ipa": "/zuːm/",
+      "reading_th": "ซูม",
+      "meaning_th": "ซูมภาพ / ขยายเข้าออก",
+      "emoji": "🔭",
+      "example_en": "Zoom in a little so we can see her face.",
+      "example_th": "ซูมเข้าอีกนิดจะได้เห็นหน้าเธอชัดๆ",
+      "cefr": "A2",
+      "note_th": "zoom in = ซูมเข้า zoom out = ซูมออก ใช้กับกล้องและแผนที่บนมือถือ — ตอนนี้ยังหมายถึงประชุมออนไลน์ด้วย let's zoom tomorrow",
+      "distractors": [
+        "boom",
+        "zone",
+        "room"
+      ]
+    },
+    {
+      "id": "shutter",
+      "word": "shutter",
+      "pos": "noun",
+      "ipa": "/ˈʃʌtər/",
+      "reading_th": "ชัต-เตอร์",
+      "meaning_th": "ชัตเตอร์กล้อง",
+      "emoji": "📸",
+      "example_en": "I heard the shutter click as she took the photo.",
+      "example_th": "ฉันได้ยินเสียงชัตเตอร์ดังแชะตอนเธอกดถ่ายรูป",
+      "cefr": "B1",
+      "note_th": "ปุ่มกดถ่ายคือ shutter button และ shutter speed คือความเร็วชัตเตอร์ ช้าไปภาพจะเบลอ — คำเดียวกันยังแปลว่าบานประตูเหล็กหน้าร้านด้วย",
+      "distractors": [
+        "shuttle",
+        "shelter",
+        "stutter"
+      ]
+    },
+    {
+      "id": "flash",
+      "word": "flash",
+      "pos": "noun",
+      "ipa": "/flæʃ/",
+      "reading_th": "แฟลช",
+      "meaning_th": "แฟลชกล้อง",
+      "emoji": "⚡",
+      "example_en": "Please turn off the flash inside the temple.",
+      "example_th": "กรุณาปิดแฟลชเมื่ออยู่ในวัด",
+      "cefr": "A2",
+      "note_th": "ป้าย No flash photography เจอบ่อยในพิพิธภัณฑ์ — ออกเสียง sh ท้ายคำให้ชัด แฟลช ไม่ใช่ แฟลด และ flash drive คือแฟลชไดรฟ์คนละความหมาย",
+      "distractors": [
+        "flesh",
+        "flush",
+        "crash"
+      ]
+    },
+    {
+      "id": "portrait",
+      "word": "portrait",
+      "pos": "noun",
+      "ipa": "/ˈpɔːrtrət/",
+      "reading_th": "พอร์-เทรต",
+      "meaning_th": "ภาพบุคคล / แนวตั้ง",
+      "emoji": "🧑‍🦱",
+      "example_en": "He took a beautiful portrait of his grandmother.",
+      "example_th": "เขาถ่ายภาพบุคคลคุณยายได้สวยมาก",
+      "cefr": "B1",
+      "note_th": "ออกเสียง พอร์-เทรต ไม่ใช่ พอร์-เทรท ยาวๆ — ในมือถือ portrait mode คือโหมดหน้าชัดหลังเบลอ และยังหมายถึงหน้าจอแนวตั้งด้วย",
+      "distractors": [
+        "portal",
+        "portable",
+        "poster"
+      ]
+    },
+    {
+      "id": "landscape",
+      "word": "landscape",
+      "pos": "noun",
+      "ipa": "/ˈlændskeɪp/",
+      "reading_th": "แลนด์-สเคป",
+      "meaning_th": "ภาพทิวทัศน์ / แนวนอน",
+      "emoji": "🏞️",
+      "example_en": "She prefers landscape photos to selfies.",
+      "example_th": "เธอชอบถ่ายภาพทิวทัศน์มากกว่าเซลฟี่",
+      "cefr": "B1",
+      "note_th": "คู่กับ portrait: landscape = ภาพวิว หรือหน้าจอแนวนอน — ตอนปริ้นงานจะเจอตัวเลือก portrait/landscape ก็คือแนวตั้ง/แนวนอนนั่นเอง",
+      "distractors": [
+        "landmark",
+        "landing",
+        "escape"
+      ]
+    },
+    {
+      "id": "angle",
+      "word": "angle",
+      "pos": "noun",
+      "ipa": "/ˈæŋɡl/",
+      "reading_th": "แอง-เกิล",
+      "meaning_th": "มุมกล้อง / มุมมอง",
+      "emoji": "📐",
+      "example_en": "Try a lower angle to make the building look taller.",
+      "example_th": "ลองถ่ายมุมต่ำลงจะทำให้ตึกดูสูงขึ้น",
+      "cefr": "A2",
+      "note_th": "มุมถ่ายรูป = camera angle ส่วน corner คือมุมห้อง มุมถนน ใช้แทนกันไม่ได้ — low angle, high angle, wide angle คือคำที่ช่างภาพใช้ทุกวัน",
+      "distractors": [
+        "angel",
+        "ankle",
+        "angry"
+      ]
+    },
+    {
+      "id": "blurry",
+      "word": "blurry",
+      "pos": "adjective",
+      "ipa": "/ˈblɜːri/",
+      "reading_th": "เบลอ-รี่",
+      "meaning_th": "เบลอ / ไม่ชัด",
+      "emoji": "🌫️",
+      "example_en": "The photo is blurry because my hands were shaking.",
+      "example_th": "รูปเบลอเพราะมือฉันสั่น",
+      "cefr": "A2",
+      "note_th": "คนไทยพูดว่า เบลอ ทั้งรูปและคน แต่ภาษาอังกฤษรูปเบลอ = blurry ส่วนคนมึนๆ = I feel out of it — ตรงข้ามกับ sharp (คมชัด)",
+      "distractors": [
+        "blunt",
+        "berry",
+        "burly"
+      ]
+    },
+    {
+      "id": "exposure",
+      "word": "exposure",
+      "pos": "noun",
+      "ipa": "/ɪkˈspoʊʒər/",
+      "reading_th": "อิค-สโป-เชอร์",
+      "meaning_th": "ค่าแสง / การรับแสง",
+      "emoji": "☀️",
+      "example_en": "Lower the exposure if the sky looks too white.",
+      "example_th": "ลดค่าแสงลงถ้าท้องฟ้าดูขาวเกินไป",
+      "cefr": "B2",
+      "note_th": "overexposed = สว่างจนขาวโพลน underexposed = มืดเกิน — ในแอปแต่งรูปแถบ exposure คือตัวแรกที่ควรขยับ ไม่ใช่ brightness",
+      "distractors": [
+        "explosion",
+        "exposition",
+        "expensive"
+      ]
+    },
+    {
+      "id": "pose",
+      "word": "pose",
+      "pos": "verb",
+      "ipa": "/poʊz/",
+      "reading_th": "โพส",
+      "meaning_th": "โพสท่า",
+      "emoji": "🙆",
+      "example_en": "Pose next to the sign so I can take a photo.",
+      "example_th": "โพสท่าข้างป้ายหน่อย ฉันจะถ่ายรูปให้",
+      "cefr": "A2",
+      "note_th": "ออกเสียง โพส ด้วยเสียง z ท้ายคำ ส่วน post (โพสต์ลงโซเชียล) มีเสียง t — strike a pose = โพสท่าเท่ๆ ยอดฮิตในเนื้อเพลง",
+      "distractors": [
+        "post",
+        "pause",
+        "nose"
+      ]
+    },
+    {
+      "id": "golden_hour",
+      "word": "golden hour",
+      "pos": "noun",
+      "ipa": "/ˌɡoʊldən ˈaʊər/",
+      "reading_th": "โกล-เดิน อาว-เออร์",
+      "meaning_th": "ช่วงแสงทองก่อนพระอาทิตย์ตก",
+      "emoji": "🌇",
+      "example_en": "We waited for golden hour to shoot the beach.",
+      "example_th": "เรารอช่วงแสงทองเพื่อถ่ายภาพชายหาด",
+      "cefr": "B2",
+      "note_th": "ชั่วโมงหลังพระอาทิตย์ขึ้นและก่อนตก แสงนุ่มสีทอง ถ่ายคนสวยที่สุด — ช่วงฟ้าสีน้ำเงินหลังตกดินเรียก blue hour",
+      "distractors": [
+        "rush hour",
+        "happy hour",
+        "golden age"
+      ]
+    },
+    {
+      "id": "instrument",
+      "word": "instrument",
+      "pos": "noun",
+      "ipa": "/ˈɪnstrəmənt/",
+      "reading_th": "อิน-สตรู-เมนท์",
+      "meaning_th": "เครื่องดนตรี",
+      "emoji": "🎼",
+      "example_en": "Which instrument do you play in the band?",
+      "example_th": "คุณเล่นเครื่องดนตรีชิ้นไหนในวง",
+      "cefr": "A2",
+      "note_th": "พูดเต็มว่า musical instrument ก็ได้ — เล่นเครื่องดนตรีใช้ play the + ชื่อ เช่น play the piano, play the guitar ต้องมี the",
+      "distractors": [
+        "instruction",
+        "investment",
+        "instant"
+      ]
+    },
+    {
+      "id": "guitar",
+      "word": "guitar",
+      "pos": "noun",
+      "ipa": "/ɡɪˈtɑːr/",
+      "reading_th": "กิ-ทาร์",
+      "meaning_th": "กีตาร์",
+      "emoji": "🎸",
+      "example_en": "He learned guitar from videos on his phone.",
+      "example_th": "เขาเรียนกีตาร์จากวิดีโอในมือถือ",
+      "cefr": "A1",
+      "note_th": "เน้นเสียงพยางค์หลัง กิ-ทาร์ ไม่ใช่ กี-ต้า แบบไทย — acoustic guitar = กีตาร์โปร่ง electric guitar = กีตาร์ไฟฟ้า",
+      "distractors": [
+        "gutter",
+        "guard",
+        "guitarist"
+      ]
+    },
+    {
+      "id": "piano",
+      "word": "piano",
+      "pos": "noun",
+      "ipa": "/piˈænoʊ/",
+      "reading_th": "พิ-แอ-โน",
+      "meaning_th": "เปียโน",
+      "emoji": "🎹",
+      "example_en": "My daughter has piano lessons every Saturday morning.",
+      "example_th": "ลูกสาวฉันเรียนเปียโนทุกเช้าวันเสาร์",
+      "cefr": "A1",
+      "note_th": "ออกเสียง พิ-แอ-โน เน้นพยางค์กลาง ไม่ใช่ เปีย-โน — คนเล่นเปียโนคือ pianist และคีย์บอร์ดไฟฟ้าเรียก keyboard เหมือนคีย์บอร์ดคอม",
+      "distractors": [
+        "pianist",
+        "piece",
+        "pillow"
+      ]
+    },
+    {
+      "id": "ukulele",
+      "word": "ukulele",
+      "pos": "noun",
+      "ipa": "/ˌjuːkəˈleɪli/",
+      "reading_th": "ยู-คะ-เล-ลี่",
+      "meaning_th": "อูคูเลเล่",
+      "emoji": "🪕",
+      "example_en": "A ukulele is small enough to take on a trip.",
+      "example_th": "อูคูเลเล่ตัวเล็กพอที่จะพกไปเที่ยวได้",
+      "cefr": "A2",
+      "note_th": "ฝรั่งออกเสียง ยู-คะ-เล-ลี่ ไม่ใช่ อู-คู-เล-เล่ แบบไทย — เรียกสั้นๆ ว่า uke ก็ได้ เป็นเครื่องดนตรีที่เริ่มเรียนง่ายที่สุด",
+      "distractors": [
+        "banjo",
+        "cello",
+        "jukebox"
+      ]
+    },
+    {
+      "id": "violin",
+      "word": "violin",
+      "pos": "noun",
+      "ipa": "/ˌvaɪəˈlɪn/",
+      "reading_th": "ไว-โอ-ลิน",
+      "meaning_th": "ไวโอลิน",
+      "emoji": "🎻",
+      "example_en": "She practiced the violin until her neighbors complained.",
+      "example_th": "เธอซ้อมไวโอลินจนเพื่อนบ้านมาบ่น",
+      "cefr": "A2",
+      "note_th": "เน้นพยางค์สุดท้าย vio-LIN — คนเล่นคือ violinist ส่วนคำว่า fiddle คือไวโอลินแบบเพลงพื้นบ้าน เครื่องเดียวกันแต่คนละสไตล์",
+      "distractors": [
+        "violet",
+        "violent",
+        "villain"
+      ]
+    },
+    {
+      "id": "drums",
+      "word": "drums",
+      "pos": "noun",
+      "ipa": "/drʌmz/",
+      "reading_th": "ดรัมส์",
+      "meaning_th": "กลองชุด",
+      "emoji": "🥁",
+      "example_en": "He plays the drums in a small rock band.",
+      "example_th": "เขาตีกลองในวงร็อกเล็กๆ",
+      "cefr": "A2",
+      "note_th": "กลองชุดใช้พหูพจน์ the drums เพราะมีหลายใบ — กลองใบเดียวคือ a drum และตีกลองใช้ play ไม่ใช่ hit: I play the drums",
+      "distractors": [
+        "drama",
+        "dreams",
+        "crumbs"
+      ]
+    },
+    {
+      "id": "flute",
+      "word": "flute",
+      "pos": "noun",
+      "ipa": "/fluːt/",
+      "reading_th": "ฟลูท",
+      "meaning_th": "ขลุ่ย / ฟลูต",
+      "emoji": "🪈",
+      "example_en": "The flute sounds soft and sweet in this song.",
+      "example_th": "เสียงฟลูตในเพลงนี้นุ่มและหวาน",
+      "cefr": "A2",
+      "note_th": "ขลุ่ยไทยอธิบายให้ฝรั่งฟังว่า a Thai bamboo flute — เครื่องเป่าทั้งหมดเรียกรวมว่า wind instruments ออกเสียง ฟลูท เสียงยาว",
+      "distractors": [
+        "fruit",
+        "float",
+        "flux"
+      ]
+    },
+    {
+      "id": "strum",
+      "word": "strum",
+      "pos": "verb",
+      "ipa": "/strʌm/",
+      "reading_th": "สตรัม",
+      "meaning_th": "ดีดสายกีตาร์",
+      "emoji": "🎸",
+      "example_en": "Just strum these three chords and sing along.",
+      "example_th": "แค่ดีดสามคอร์ดนี้แล้วร้องตามไปเลย",
+      "cefr": "B1",
+      "note_th": "strum = ดีดกวาดหลายสายพร้อมกัน ส่วนเกาทีละสายคือ pick หรือ fingerpick — strumming pattern คือจังหวะดีดขึ้นลงที่ครูกีตาร์สอนบทแรก",
+      "distractors": [
+        "strain",
+        "stream",
+        "drum"
+      ]
+    },
+    {
+      "id": "chord",
+      "word": "chord",
+      "pos": "noun",
+      "ipa": "/kɔːrd/",
+      "reading_th": "คอร์ด",
+      "meaning_th": "คอร์ดเพลง",
+      "emoji": "🎶",
+      "example_en": "This song only needs four chords on the guitar.",
+      "example_th": "เพลงนี้ใช้แค่สี่คอร์ดบนกีตาร์",
+      "cefr": "A2",
+      "note_th": "ch ออกเสียง k คอร์ด ไม่ใช่ ชอร์ด และออกเสียงเหมือน cord (สายไฟ) เป๊ะ — หาคอร์ดเพลงออนไลน์เสิร์ชว่า guitar chords + ชื่อเพลง",
+      "distractors": [
+        "cord",
+        "chore",
+        "chalk"
+      ]
+    },
+    {
+      "id": "rhythm",
+      "word": "rhythm",
+      "pos": "noun",
+      "ipa": "/ˈrɪðəm/",
+      "reading_th": "ริ-เธิม",
+      "meaning_th": "จังหวะ",
+      "emoji": "🥁",
+      "example_en": "Clap along to keep the rhythm steady.",
+      "example_th": "ปรบมือตามเพื่อรักษาจังหวะให้คงที่",
+      "cefr": "B1",
+      "note_th": "สะกดยากอันดับต้นๆ ไม่มีสระเลย: r-h-y-t-h-m — ท่องว่า Rhythm Helps Your Two Hips Move ส่วน beat คือจังหวะเคาะพื้นฐาน rhythm คือลวดลายของจังหวะ",
+      "distractors": [
+        "rhyme",
+        "ritual",
+        "rhubarb"
+      ]
+    },
+    {
+      "id": "tempo",
+      "word": "tempo",
+      "pos": "noun",
+      "ipa": "/ˈtempoʊ/",
+      "reading_th": "เทม-โป",
+      "meaning_th": "ความเร็วของเพลง",
+      "emoji": "⏱️",
+      "example_en": "The tempo is too fast for me to sing.",
+      "example_th": "เพลงเร็วเกินไปจนฉันร้องไม่ทัน",
+      "cefr": "B1",
+      "note_th": "วัดเป็น BPM (beats per minute) — up-tempo = เพลงเร็ว slow tempo = เพลงช้า และเครื่องเคาะจังหวะที่นักดนตรีใช้ซ้อมคือ metronome",
+      "distractors": [
+        "temple",
+        "temper",
+        "template"
+      ]
+    },
+    {
+      "id": "sheet_music",
+      "word": "sheet music",
+      "pos": "noun",
+      "ipa": "/ˈʃiːt ˌmjuːzɪk/",
+      "reading_th": "ชีท มิว-สิค",
+      "meaning_th": "โน้ตเพลง",
+      "emoji": "🎼",
+      "example_en": "She can play without looking at the sheet music.",
+      "example_th": "เธอเล่นได้โดยไม่ต้องดูโน้ตเพลง",
+      "cefr": "B1",
+      "note_th": "โน้ตเพลงทั้งแผ่น = sheet music (นับไม่ได้) ส่วนตัวโน้ตแต่ละตัวคือ note — เล่นโดยไม่ดูโน้ตคือ play by ear หมายถึงฟังแล้วเล่นตามได้เลย",
+      "distractors": [
+        "sheet mask",
+        "music video",
+        "bedsheet"
+      ]
+    },
+    {
+      "id": "out_of_tune",
+      "word": "out of tune",
+      "pos": "phrase",
+      "ipa": "/ˌaʊt əv ˈtuːn/",
+      "reading_th": "เอาท์ ออฟ ทูน",
+      "meaning_th": "เพี้ยน (เสียงดนตรี)",
+      "emoji": "🙉",
+      "example_en": "Your guitar is out of tune, let me fix it.",
+      "example_th": "กีตาร์ของคุณเสียงเพี้ยน เดี๋ยวฉันตั้งสายให้",
+      "cefr": "B1",
+      "note_th": "ใช้ได้ทั้งเครื่องดนตรีและคนร้องเพี้ยน he sings out of tune — ตั้งสายให้ตรงคือ tune the guitar และเสียงตรงแล้วคือ in tune",
+      "distractors": [
+        "out of time",
+        "out of town",
+        "in tune"
+      ]
+    },
+    {
+      "id": "busk",
+      "word": "busk",
+      "pos": "verb",
+      "ipa": "/bʌsk/",
+      "reading_th": "บัสค์",
+      "meaning_th": "เล่นดนตรีเปิดหมวก",
+      "emoji": "🎤",
+      "example_en": "On weekends they busk outside the shopping mall.",
+      "example_th": "วันหยุดพวกเขาไปเล่นดนตรีเปิดหมวกหน้าห้าง",
+      "cefr": "B2",
+      "note_th": "เล่นดนตรีริมถนนขอเงินคนดู = busk คนเล่นคือ busker — ในไทยต้องขออนุญาตก่อน และฝรั่งพูดว่า street performer ก็เข้าใจเหมือนกัน",
+      "distractors": [
+        "bask",
+        "bust",
+        "dusk"
+      ]
+    },
+    {
+      "id": "craft",
+      "word": "craft",
+      "pos": "noun",
+      "ipa": "/kræft/",
+      "reading_th": "คราฟท์",
+      "meaning_th": "งานฝีมือ",
+      "emoji": "🧵",
+      "example_en": "The craft market sells handmade bags and candles.",
+      "example_th": "ตลาดงานฝีมือขายกระเป๋าและเทียนทำมือ",
+      "cefr": "A2",
+      "note_th": "arts and crafts = วิชาศิลปะประดิษฐ์ที่โรงเรียน — craft beer, craft coffee ก็ใช้คำนี้ แปลว่าทำด้วยความประณีตในปริมาณน้อย",
+      "distractors": [
+        "crack",
+        "crash",
+        "draft"
+      ]
+    },
+    {
+      "id": "handmade",
+      "word": "handmade",
+      "pos": "adjective",
+      "ipa": "/ˌhændˈmeɪd/",
+      "reading_th": "แฮนด์-เมด",
+      "meaning_th": "ทำมือ",
+      "emoji": "🤲",
+      "example_en": "Every handmade cup here is a little bit different.",
+      "example_th": "แก้วทำมือทุกใบที่นี่ต่างกันเล็กน้อย",
+      "cefr": "A2",
+      "note_th": "เขียนติดกันคำเดียว handmade ไม่ใช่ hand made — ตรงข้ามกับ mass-produced (ผลิตจำนวนมากจากโรงงาน) ขายของออนไลน์ใส่คำนี้แล้วราคาขึ้น",
+      "distractors": [
+        "homemade",
+        "handheld",
+        "handsome"
+      ]
+    },
+    {
+      "id": "knit",
+      "word": "knit",
+      "pos": "verb",
+      "ipa": "/nɪt/",
+      "reading_th": "นิท",
+      "meaning_th": "ถักนิตติ้ง / ถักไหมพรม",
+      "emoji": "🧶",
+      "example_en": "My grandmother taught me to knit a scarf.",
+      "example_th": "คุณยายสอนฉันถักผ้าพันคอ",
+      "cefr": "B1",
+      "note_th": "k ไม่ออกเสียง นิท เหมือน knife, knee — knit ใช้ไม้สองอัน ส่วน crochet (โคร-เช) ใช้เข็มเกี่ยวอันเดียว คนไทยเรียกรวมว่าถักไหมพรมทั้งคู่",
+      "distractors": [
+        "knot",
+        "kit",
+        "neat"
+      ]
+    },
+    {
+      "id": "sew",
+      "word": "sew",
+      "pos": "verb",
+      "ipa": "/soʊ/",
+      "reading_th": "โซ",
+      "meaning_th": "เย็บผ้า",
+      "emoji": "🪡",
+      "example_en": "Can you sew this button back on my shirt?",
+      "example_th": "ช่วยเย็บกระดุมเม็ดนี้กลับไปที่เสื้อฉันได้ไหม",
+      "cefr": "A2",
+      "note_th": "ออกเสียงเหมือน so และ sow ไม่ใช่ ซิว — รูปอดีต sewed/sewn จักรเย็บผ้าคือ sewing machine และร้านซ่อมเสื้อคือ tailor",
+      "distractors": [
+        "saw",
+        "sow",
+        "sue"
+      ]
+    },
+    {
+      "id": "needle",
+      "word": "needle",
+      "pos": "noun",
+      "ipa": "/ˈniːdl/",
+      "reading_th": "นี-เดิล",
+      "meaning_th": "เข็มเย็บผ้า",
+      "emoji": "🪡",
+      "example_en": "I cannot get the thread through this tiny needle.",
+      "example_th": "ฉันสอดด้ายผ่านรูเข็มเล็กจิ๋วนี้ไม่ได้เลย",
+      "cefr": "A2",
+      "note_th": "เข็มเย็บผ้าและเข็มฉีดยาใช้ needle คำเดียวกัน ส่วนเข็มหมุดคือ pin — สำนวน a needle in a haystack = งมเข็มในมหาสมุทร",
+      "distractors": [
+        "noodle",
+        "nibble",
+        "kneel"
+      ]
+    },
+    {
+      "id": "yarn",
+      "word": "yarn",
+      "pos": "noun",
+      "ipa": "/jɑːrn/",
+      "reading_th": "ยาร์น",
+      "meaning_th": "ไหมพรม",
+      "emoji": "🧶",
+      "example_en": "I need two more balls of yarn to finish this hat.",
+      "example_th": "ฉันต้องใช้ไหมพรมอีกสองม้วนถึงจะถักหมวกใบนี้เสร็จ",
+      "cefr": "B1",
+      "note_th": "ไหมพรมเป็นม้วนกลมเรียก a ball of yarn — อังกฤษใช้ wool แทนบ่อยแม้ไม่ใช่ขนแกะ ส่วน thread คือด้ายเส้นบางสำหรับเย็บ",
+      "distractors": [
+        "yard",
+        "yawn",
+        "barn"
+      ]
+    },
+    {
+      "id": "glue",
+      "word": "glue",
+      "pos": "noun",
+      "ipa": "/ɡluː/",
+      "reading_th": "กลู",
+      "meaning_th": "กาว",
+      "emoji": "🧴",
+      "example_en": "Hold the pieces together until the glue dries.",
+      "example_th": "จับชิ้นส่วนไว้ด้วยกันจนกว่ากาวจะแห้ง",
+      "cefr": "A2",
+      "note_th": "เป็นกริยาก็ได้ glue it on = ติดกาว — กาวแท่งคือ glue stick ปืนกาวคือ glue gun และกาวตราช้างแบบติดแน่นฝรั่งเรียก super glue",
+      "distractors": [
+        "blue",
+        "clue",
+        "glow"
+      ]
+    },
+    {
+      "id": "origami",
+      "word": "origami",
+      "pos": "noun",
+      "ipa": "/ˌɔːrɪˈɡɑːmi/",
+      "reading_th": "ออ-ริ-กา-มิ",
+      "meaning_th": "ศิลปะพับกระดาษ",
+      "emoji": "🦢",
+      "example_en": "She made an origami crane from a train ticket.",
+      "example_th": "เธอพับนกกระเรียนโอริกามิจากตั๋วรถไฟ",
+      "cefr": "B1",
+      "note_th": "มาจากภาษาญี่ปุ่น ภาษาอังกฤษใช้ตรงตัว — paper crane (นกกระเรียน) คือแบบคลาสสิก พับพันตัวแล้วขอพรได้ตามตำนาน",
+      "distractors": [
+        "origin",
+        "organic",
+        "tsunami"
+      ]
+    },
+    {
+      "id": "pottery",
+      "word": "pottery",
+      "pos": "noun",
+      "ipa": "/ˈpɑːtəri/",
+      "reading_th": "พอท-เทอ-รี่",
+      "meaning_th": "เครื่องปั้นดินเผา",
+      "emoji": "🏺",
+      "example_en": "We took a pottery class and made our own bowls.",
+      "example_th": "เราไปเรียนปั้นเซรามิกแล้วทำชามของตัวเอง",
+      "cefr": "B1",
+      "note_th": "pottery class คือคลาสปั้นดินที่กำลังฮิต — ช่างปั้นคือ potter (เหมือนแฮร์รี่) และแป้นหมุนคือ pottery wheel ส่วน ceramics เป็นคำกว้างกว่า",
+      "distractors": [
+        "poetry",
+        "potato",
+        "battery"
+      ]
+    },
+    {
+      "id": "clay",
+      "word": "clay",
+      "pos": "noun",
+      "ipa": "/kleɪ/",
+      "reading_th": "เคลย์",
+      "meaning_th": "ดินเหนียว / ดินปั้น",
+      "emoji": "🟤",
+      "example_en": "Keep the clay wet or it will crack while you work.",
+      "example_th": "ให้ดินปั้นชื้นไว้ ไม่งั้นจะแตกระหว่างปั้น",
+      "cefr": "B1",
+      "note_th": "ดินน้ำมันเด็กเล่นเรียก modeling clay หรือ play dough — clay mask ในสกินแคร์ก็คือมาสก์โคลนที่ทำจากดินชนิดเดียวกัน",
+      "distractors": [
+        "clap",
+        "claw",
+        "play"
+      ]
+    },
+    {
+      "id": "embroidery",
+      "word": "embroidery",
+      "pos": "noun",
+      "ipa": "/ɪmˈbrɔɪdəri/",
+      "reading_th": "อิม-บรอย-เดอ-รี่",
+      "meaning_th": "งานปัก",
+      "emoji": "🌸",
+      "example_en": "The embroidery on this jacket took her a month.",
+      "example_th": "งานปักบนแจ็กเก็ตตัวนี้เธอใช้เวลาทำเป็นเดือน",
+      "cefr": "B2",
+      "note_th": "กริยาคือ embroider ปักชื่อลงเสื้อคือ embroider a name — ผ้าปักชาวเขาที่ฝรั่งชอบซื้ออธิบายว่า hill tribe embroidery",
+      "distractors": [
+        "embrace",
+        "emergency",
+        "bakery"
+      ]
+    },
+    {
+      "id": "diy",
+      "word": "DIY",
+      "pos": "noun",
+      "ipa": "/ˌdiː aɪ ˈwaɪ/",
+      "reading_th": "ดี-ไอ-วาย",
+      "meaning_th": "ทำเอง (do it yourself)",
+      "emoji": "🔧",
+      "example_en": "I found a DIY video on how to build a bookshelf.",
+      "example_th": "ฉันเจอวิดีโอสอนทำชั้นหนังสือเองด้วย",
+      "cefr": "A2",
+      "note_th": "ย่อจาก do it yourself อ่านทีละตัว ดี-ไอ-วาย — ใช้ขยายคำนามได้ DIY project, DIY store (ร้านอย่างโฮมโปร) เป็นชื่อหมวดยอดนิยมบน YouTube",
+      "distractors": [
+        "DNA",
+        "DJ",
+        "DVD"
+      ]
+    },
+    {
+      "id": "hammer",
+      "word": "hammer",
+      "pos": "noun",
+      "ipa": "/ˈhæmər/",
+      "reading_th": "แฮม-เมอร์",
+      "meaning_th": "ค้อน",
+      "emoji": "🔨",
+      "example_en": "Pass me the hammer, this nail is almost in.",
+      "example_th": "ส่งค้อนมาหน่อย ตะปูตัวนี้เกือบเข้าแล้ว",
+      "cefr": "A2",
+      "note_th": "เป็นกริยาได้ hammer the nail = ตอกตะปู — ตะปูคือ nail (คำเดียวกับเล็บ) ไขควงคือ screwdriver เจอครบในชุดเครื่องมือ toolbox",
+      "distractors": [
+        "hamper",
+        "hamster",
+        "hummer"
+      ]
+    },
+    {
+      "id": "woodwork",
+      "word": "woodwork",
+      "pos": "noun",
+      "ipa": "/ˈwʊdwɜːrk/",
+      "reading_th": "วูด-เวิร์ค",
+      "meaning_th": "งานไม้",
+      "emoji": "🪵",
+      "example_en": "He took up woodwork and built his own chair.",
+      "example_th": "เขาเริ่มทำงานไม้แล้วต่อเก้าอี้ของตัวเอง",
+      "cefr": "B1",
+      "note_th": "อเมริกันมักพูดว่า woodworking คนทำคือ woodworker — ช่างไม้อาชีพคือ carpenter และเริ่มงานอดิเรกใหม่ใช้ take up: take up woodwork",
+      "distractors": [
+        "homework",
+        "woodland",
+        "network"
+      ]
+    },
+    {
+      "id": "complete_the_set",
+      "word": "complete the set",
+      "pos": "phrase",
+      "ipa": "/kəmˌpliːt ðə ˈset/",
+      "reading_th": "คัม-พลีท เดอะ เซ็ท",
+      "meaning_th": "เก็บครบชุด",
+      "emoji": "📦",
+      "example_en": "I need one more figure to complete the set.",
+      "example_th": "ฉันขาดอีกตัวเดียวก็จะเก็บครบชุดแล้ว",
+      "cefr": "B1",
+      "note_th": "นักสะสมพูดคำนี้บ่อยที่สุด — ของครบชุดคือ a complete set ส่วนตัวที่ขาดคือ the missing piece และกล่องสุ่มที่ไม่ครบสักทีคือ the one I keep missing",
+      "distractors": [
+        "complete the form",
+        "break the set",
+        "set the table"
+      ]
+    },
+    {
+      "id": "collector",
+      "word": "collector",
+      "pos": "noun",
+      "ipa": "/kəˈlektər/",
+      "reading_th": "คะ-เล็ค-เทอร์",
+      "meaning_th": "นักสะสม",
+      "emoji": "🧑‍💼",
+      "example_en": "A serious collector paid thousands for that old toy.",
+      "example_th": "นักสะสมตัวจริงจ่ายหลายพันเพื่อของเล่นเก่าชิ้นนั้น",
+      "cefr": "B1",
+      "note_th": "ของสะสมรุ่นพิเศษเรียก collector's edition หรือ collector's item — ระวัง debt collector = คนทวงหนี้ ไม่ใช่นักสะสมหนี้",
+      "distractors": [
+        "connector",
+        "conductor",
+        "director"
+      ]
+    },
+    {
+      "id": "rare",
+      "word": "rare",
+      "pos": "adjective",
+      "ipa": "/rer/",
+      "reading_th": "แรร์",
+      "meaning_th": "หายาก",
+      "emoji": "💎",
+      "example_en": "This card is so rare that only ten exist.",
+      "example_th": "การ์ดใบนี้หายากมากจนมีอยู่แค่สิบใบในโลก",
+      "cefr": "A2",
+      "note_th": "วัยรุ่นไทยพูดว่า ของแรร์ ก็มาจากคำนี้ — ร้านสเต๊กถาม how would you like it? ตอบ rare = เนื้อแดงๆ สุกน้อย คนละความหมาย",
+      "distractors": [
+        "rear",
+        "raw",
+        "rate"
+      ]
+    },
+    {
+      "id": "mint_condition",
+      "word": "mint condition",
+      "pos": "noun",
+      "ipa": "/ˌmɪnt kənˈdɪʃn/",
+      "reading_th": "มินท์ คัน-ดิ-ชั่น",
+      "meaning_th": "สภาพใหม่เอี่ยม",
+      "emoji": "✨",
+      "example_en": "The old comic is still in mint condition after forty years.",
+      "example_th": "การ์ตูนเล่มเก่ายังสภาพใหม่เอี่ยมแม้ผ่านมาสี่สิบปี",
+      "cefr": "B2",
+      "note_th": "มาจากเหรียญที่เพิ่งออกจากโรงกษาปณ์ (mint) — ประกาศขายของสะสมเขียนว่า in mint condition ส่วนสภาพดีมีตำหนิคือ good condition",
+      "distractors": [
+        "air condition",
+        "mint sauce",
+        "bad condition"
+      ]
+    },
+    {
+      "id": "action_figure",
+      "word": "action figure",
+      "pos": "noun",
+      "ipa": "/ˈækʃn ˌfɪɡjər/",
+      "reading_th": "แอค-ชั่น ฟิก-เกอร์",
+      "meaning_th": "ฟิกเกอร์ / โมเดลตัวละคร",
+      "emoji": "🦸",
+      "example_en": "He keeps every action figure in its original box.",
+      "example_th": "เขาเก็บฟิกเกอร์ทุกตัวไว้ในกล่องเดิม",
+      "cefr": "B1",
+      "note_th": "ฟิกเกอร์ขยับแขนขาได้ = action figure ส่วนโมเดลที่ขยับไม่ได้เรียก figure หรือ statue — กล่องสุ่มที่ฮิตคือ blind box",
+      "distractors": [
+        "action movie",
+        "figure skating",
+        "stuffed toy"
+      ]
+    },
+    {
+      "id": "trading_card",
+      "word": "trading card",
+      "pos": "noun",
+      "ipa": "/ˈtreɪdɪŋ ˌkɑːrd/",
+      "reading_th": "เทรด-ดิ้ง คาร์ด",
+      "meaning_th": "การ์ดสะสม",
+      "emoji": "🃏",
+      "example_en": "My nephew trades a trading card with his friends every day.",
+      "example_th": "หลานฉันแลกการ์ดสะสมกับเพื่อนทุกวัน",
+      "cefr": "B1",
+      "note_th": "การ์ดโปเกมอน การ์ดนักฟุตบอล เรียกรวมว่า trading cards — เพราะเอาไว้ trade (แลกเปลี่ยน) และเกมการ์ดแบบนี้ย่อว่า TCG",
+      "distractors": [
+        "credit card",
+        "business card",
+        "greeting card"
+      ]
+    },
+    {
+      "id": "vinyl",
+      "word": "vinyl",
+      "pos": "noun",
+      "ipa": "/ˈvaɪnl/",
+      "reading_th": "ไว-นิล",
+      "meaning_th": "แผ่นเสียง",
+      "emoji": "💿",
+      "example_en": "She started collecting vinyl after buying a record player.",
+      "example_th": "เธอเริ่มสะสมแผ่นเสียงหลังซื้อเครื่องเล่นแผ่นเสียง",
+      "cefr": "B1",
+      "note_th": "ออกเสียง ไว-นิล ไม่ใช่ วิ-นิล — แผ่นเสียงเรียก vinyl หรือ record ก็ได้ เครื่องเล่นคือ record player หรือ turntable กำลังกลับมาฮิตมาก",
+      "distractors": [
+        "vinegar",
+        "final",
+        "villa"
+      ]
+    },
+    {
+      "id": "antique",
+      "word": "antique",
+      "pos": "noun",
+      "ipa": "/ænˈtiːk/",
+      "reading_th": "แอน-ทีค",
+      "meaning_th": "ของโบราณ / ของเก่ามีค่า",
+      "emoji": "🏺",
+      "example_en": "This antique clock still works after a hundred years.",
+      "example_th": "นาฬิกาโบราณเรือนนี้ยังเดินอยู่หลังผ่านมาร้อยปี",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์หลัง an-TIQUE — antique คือของเก่าที่มีค่า ส่วนของเก่าธรรมดาคือ old และของมือสองย้อนยุคคือ vintage",
+      "distractors": [
+        "unique",
+        "ancient",
+        "boutique"
+      ]
+    },
+    {
+      "id": "chess",
+      "word": "chess",
+      "pos": "noun",
+      "ipa": "/tʃes/",
+      "reading_th": "เชส",
+      "meaning_th": "หมากรุก",
+      "emoji": "♟️",
+      "example_en": "My grandfather taught me chess when I was six.",
+      "example_th": "คุณตาสอนฉันเล่นหมากรุกตอนอายุหกขวบ",
+      "cefr": "A2",
+      "note_th": "เล่นหมากรุกใช้ play chess ไม่มี the — หมากรุกไทยอธิบายว่า Thai chess หรือ makruk ตาคือ move และรุกฆาตคือ checkmate",
+      "distractors": [
+        "chest",
+        "cheese",
+        "check"
+      ]
+    },
+    {
+      "id": "dice",
+      "word": "dice",
+      "pos": "noun",
+      "ipa": "/daɪs/",
+      "reading_th": "ไดซ์",
+      "meaning_th": "ลูกเต๋า",
+      "emoji": "🎲",
+      "example_en": "Roll the dice and move your piece forward.",
+      "example_th": "ทอยลูกเต๋าแล้วเดินตัวหมากไปข้างหน้า",
+      "cefr": "A2",
+      "note_th": "ทอยลูกเต๋าใช้ roll the dice ไม่ใช่ throw — ปัจจุบัน dice ใช้ได้ทั้งเอกพจน์และพหูพจน์ (รูปเก่า die แทบไม่ใช้แล้วนอกจากในเกม)",
+      "distractors": [
+        "rice",
+        "ice",
+        "disc"
+      ]
+    },
+    {
+      "id": "card_game",
+      "word": "card game",
+      "pos": "noun",
+      "ipa": "/ˈkɑːrd ˌɡeɪm/",
+      "reading_th": "คาร์ด เกม",
+      "meaning_th": "เกมไพ่",
+      "emoji": "🃏",
+      "example_en": "UNO is the easiest card game to teach new friends.",
+      "example_th": "UNO เป็นเกมไพ่ที่สอนเพื่อนใหม่ได้ง่ายที่สุด",
+      "cefr": "A2",
+      "note_th": "ไพ่หนึ่งสำรับคือ a deck of cards แจกไพ่คือ deal — ถ้าเป็นเกมพนันจะพูดว่า gambling ซึ่งผิดกฎหมายในไทย เล่นเกมไพ่เฉยๆ ไม่เกี่ยว",
+      "distractors": [
+        "board game",
+        "video game",
+        "card holder"
+      ]
+    },
+    {
+      "id": "take_turns",
+      "word": "take turns",
+      "pos": "phrase",
+      "ipa": "/ˌteɪk ˈtɜːrnz/",
+      "reading_th": "เทค เทิร์นส์",
+      "meaning_th": "ผลัดกัน / สลับกันเล่น",
+      "emoji": "🔄",
+      "example_en": "We take turns rolling the dice in this game.",
+      "example_th": "เราผลัดกันทอยลูกเต๋าในเกมนี้",
+      "cefr": "A2",
+      "note_th": "ตาใคร = whose turn is it? ตาฉัน = it's my turn — take turns ใช้กับทุกอย่างที่ผลัดกัน เช่น take turns driving ผลัดกันขับรถ",
+      "distractors": [
+        "take time",
+        "take off",
+        "turn around"
+      ]
+    },
+    {
+      "id": "shuffle",
+      "word": "shuffle",
+      "pos": "verb",
+      "ipa": "/ˈʃʌfl/",
+      "reading_th": "ชัฟ-เฟิล",
+      "meaning_th": "สับไพ่",
+      "emoji": "🂠",
+      "example_en": "Shuffle the cards well before you deal them.",
+      "example_th": "สับไพ่ให้ดีก่อนแจก",
+      "cefr": "B1",
+      "note_th": "ปุ่มสุ่มเพลงในแอปฟังเพลงก็คือ shuffle — สับไพ่คือ shuffle แจกไพ่คือ deal หยิบไพ่คือ draw a card",
+      "distractors": [
+        "shovel",
+        "scuffle",
+        "stumble"
+      ]
+    },
+    {
+      "id": "jigsaw",
+      "word": "jigsaw",
+      "pos": "noun",
+      "ipa": "/ˈdʒɪɡsɔː/",
+      "reading_th": "จิก-ซอว์",
+      "meaning_th": "ตัวต่อภาพ",
+      "emoji": "🧩",
+      "example_en": "We finished a 1,000-piece jigsaw over the long weekend.",
+      "example_th": "เราต่อจิ๊กซอว์พันชิ้นเสร็จในช่วงวันหยุดยาว",
+      "cefr": "B1",
+      "note_th": "พูดเต็มว่า jigsaw puzzle ก็ได้ — ชิ้นที่หายคือ a missing piece และฝรั่งชอบเปรียบเทียบ the last piece of the jigsaw = ชิ้นสุดท้ายที่ทำให้ทุกอย่างลงตัว",
+      "distractors": [
+        "chainsaw",
+        "seesaw",
+        "jigger"
+      ]
+    },
+    {
+      "id": "fishing",
+      "word": "fishing",
+      "pos": "noun",
+      "ipa": "/ˈfɪʃɪŋ/",
+      "reading_th": "ฟิช-ชิ่ง",
+      "meaning_th": "การตกปลา",
+      "emoji": "🎣",
+      "example_en": "My dad goes fishing at the lake every Sunday.",
+      "example_th": "พ่อฉันไปตกปลาที่ทะเลสาบทุกวันอาทิตย์",
+      "cefr": "A1",
+      "note_th": "ไปตกปลา = go fishing (ไม่ใช่ go to fishing) — ระวัง phishing ออกเสียงเหมือนกันเป๊ะ แต่หมายถึงหลอกเอาข้อมูลทางออนไลน์",
+      "distractors": [
+        "phishing",
+        "finishing",
+        "fetching"
+      ]
+    },
+    {
+      "id": "fishing_rod",
+      "word": "fishing rod",
+      "pos": "noun",
+      "ipa": "/ˈfɪʃɪŋ ˌrɑːd/",
+      "reading_th": "ฟิช-ชิ่ง รอด",
+      "meaning_th": "คันเบ็ด",
+      "emoji": "🎣",
+      "example_en": "He bought a new fishing rod for the trip.",
+      "example_th": "เขาซื้อคันเบ็ดอันใหม่สำหรับทริปนี้",
+      "cefr": "A2",
+      "note_th": "คันเบ็ดคือ rod ตะขอคือ hook สายเอ็นคือ line รอกคือ reel — อเมริกันบางทีเรียก fishing pole ความหมายเดียวกัน",
+      "distractors": [
+        "fishing net",
+        "hot rod",
+        "lightning rod"
+      ]
+    },
+    {
+      "id": "bait",
+      "word": "bait",
+      "pos": "noun",
+      "ipa": "/beɪt/",
+      "reading_th": "เบท",
+      "meaning_th": "เหยื่อตกปลา",
+      "emoji": "🪱",
+      "example_en": "We used bread as bait and caught three fish.",
+      "example_th": "เราใช้ขนมปังเป็นเหยื่อแล้วได้ปลาสามตัว",
+      "cefr": "B1",
+      "note_th": "เหยื่อปลอมที่เป็นพลาสติกเรียก lure — clickbait ก็มาจากคำนี้ พาดหัวที่เป็นเหยื่อล่อให้คลิก ออกเสียง เบท เหมือน bate",
+      "distractors": [
+        "bite",
+        "beat",
+        "bat"
+      ]
+    },
+    {
+      "id": "picnic",
+      "word": "picnic",
+      "pos": "noun",
+      "ipa": "/ˈpɪknɪk/",
+      "reading_th": "พิค-นิค",
+      "meaning_th": "ปิกนิก",
+      "emoji": "🧺",
+      "example_en": "Let's have a picnic in the park this Sunday.",
+      "example_th": "วันอาทิตย์นี้ไปปิกนิกที่สวนกันเถอะ",
+      "cefr": "A1",
+      "note_th": "ไปปิกนิกใช้ have a picnic หรือ go on a picnic — ตะกร้าคือ picnic basket ผ้าปูคือ picnic blanket และ it's no picnic = ไม่ใช่เรื่องง่ายเลย",
+      "distractors": [
+        "pickle",
+        "panic",
+        "pinch"
+      ]
+    },
+    {
+      "id": "gardening",
+      "word": "gardening",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːrdnɪŋ/",
+      "reading_th": "การ์-เดน-นิ่ง",
+      "meaning_th": "การทำสวน / ปลูกต้นไม้",
+      "emoji": "🪴",
+      "example_en": "Gardening helps me relax after a long week.",
+      "example_th": "การทำสวนช่วยให้ฉันผ่อนคลายหลังจากสัปดาห์ที่เหนื่อย",
+      "cefr": "A2",
+      "note_th": "คนที่ปลูกอะไรก็ขึ้นฝรั่งเรียกว่ามี a green thumb — ปลูกต้นไม้ในห้องคือ indoor gardening ต้นไม้ในกระถางคือ potted plants",
+      "distractors": [
+        "guarding",
+        "garden",
+        "grading"
+      ]
+    },
+    {
+      "id": "plant",
+      "word": "plant",
+      "pos": "verb",
+      "ipa": "/plænt/",
+      "reading_th": "แพลนท์",
+      "meaning_th": "ปลูก (ต้นไม้)",
+      "emoji": "🌱",
+      "example_en": "We plant tomatoes in March and pick them in June.",
+      "example_th": "เราปลูกมะเขือเทศในเดือนมีนาคมแล้วเก็บเดือนมิถุนายน",
+      "cefr": "A2",
+      "note_th": "plant เป็นทั้งกริยา (ปลูก) และคำนาม (ต้นไม้เล็กๆ) — ส่วน tree คือต้นไม้ใหญ่ และ grow = ปลูกจนโต: I grow my own herbs",
+      "distractors": [
+        "plan",
+        "planet",
+        "plate"
+      ]
+    },
+    {
+      "id": "kite",
+      "word": "kite",
+      "pos": "noun",
+      "ipa": "/kaɪt/",
+      "reading_th": "ไคท์",
+      "meaning_th": "ว่าว",
+      "emoji": "🪁",
+      "example_en": "The kids flew a kite at Sanam Luang.",
+      "example_th": "เด็กๆ เล่นว่าวที่สนามหลวง",
+      "cefr": "A1",
+      "note_th": "เล่นว่าวใช้ fly a kite ไม่ใช่ play a kite — ว่าวจุฬาและปักเป้าอธิบายว่า traditional Thai kites และ go fly a kite เป็นคำไล่แบบขำๆ",
+      "distractors": [
+        "kit",
+        "bite",
+        "knight"
+      ]
+    },
+    {
+      "id": "bird_watching",
+      "word": "bird-watching",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrd ˌwɑːtʃɪŋ/",
+      "reading_th": "เบิร์ด-วอท-ชิ่ง",
+      "meaning_th": "การดูนก",
+      "emoji": "🐦",
+      "example_en": "Bird-watching at dawn is popular in Khao Yai.",
+      "example_th": "การดูนกตอนรุ่งสางเป็นที่นิยมในเขาใหญ่",
+      "cefr": "B1",
+      "note_th": "คนดูนกเรียก birdwatcher หรือ birder — ไปดูนกใช้ go bird-watching เหมือน go fishing ต้องพกกล้องส่องทางไกล (binoculars)",
+      "distractors": [
+        "whale watching",
+        "babysitting",
+        "bird feeder"
+      ]
+    },
+    {
+      "id": "stargazing",
+      "word": "stargazing",
+      "pos": "noun",
+      "ipa": "/ˈstɑːrɡeɪzɪŋ/",
+      "reading_th": "สตาร์-เกซ-ซิ่ง",
+      "meaning_th": "การดูดาว",
+      "emoji": "🌌",
+      "example_en": "The desert is perfect for stargazing on clear nights.",
+      "example_th": "ทะเลทรายเหมาะกับการดูดาวในคืนที่ฟ้าโปร่ง",
+      "cefr": "B1",
+      "note_th": "gaze = จ้องมองนานๆ ดูดาว = stargazing — กล้องดูดาวคือ telescope และฝนดาวตกคือ meteor shower ที่สายแคมป์รอทุกปี",
+      "distractors": [
+        "sightseeing",
+        "star sign",
+        "sunbathing"
+      ]
+    },
+    {
+      "id": "binoculars",
+      "word": "binoculars",
+      "pos": "noun",
+      "ipa": "/bɪˈnɑːkjələrz/",
+      "reading_th": "บิ-นอค-คิว-เลอร์ส",
+      "meaning_th": "กล้องส่องทางไกล",
+      "emoji": "🔭",
+      "example_en": "Bring binoculars if you want to see the birds up close.",
+      "example_th": "พกกล้องส่องทางไกลมาด้วยถ้าอยากเห็นนกใกล้ๆ",
+      "cefr": "B1",
+      "note_th": "เป็นพหูพจน์เสมอเหมือน glasses, scissors — นับว่า a pair of binoculars ส่วนกล้องส่องตาเดียวคือ monocular",
+      "distractors": [
+        "telescope",
+        "microscope",
+        "spectacles"
+      ]
+    },
+    {
+      "id": "sleeping_bag",
+      "word": "sleeping bag",
+      "pos": "noun",
+      "ipa": "/ˈsliːpɪŋ ˌbæɡ/",
+      "reading_th": "สลีป-ปิ้ง แบ็ก",
+      "meaning_th": "ถุงนอน",
+      "emoji": "🛌",
+      "example_en": "This sleeping bag keeps you warm down to zero degrees.",
+      "example_th": "ถุงนอนใบนี้ให้ความอบอุ่นได้ถึงศูนย์องศา",
+      "cefr": "A2",
+      "note_th": "sleeping bag = ถุงนอน sleeping mat = แผ่นรองนอน — ดูสเปกที่ comfort rating คืออุณหภูมิต่ำสุดที่นอนสบาย",
+      "distractors": [
+        "shopping bag",
+        "sleeping pill",
+        "sleepover"
+      ]
+    },
+    {
+      "id": "campsite",
+      "word": "campsite",
+      "pos": "noun",
+      "ipa": "/ˈkæmpsaɪt/",
+      "reading_th": "แคมป์-ไซท์",
+      "meaning_th": "ลานกางเต็นท์",
+      "emoji": "🏕️",
+      "example_en": "The campsite by the river was full by noon.",
+      "example_th": "ลานกางเต็นท์ริมแม่น้ำเต็มตั้งแต่เที่ยง",
+      "cefr": "A2",
+      "note_th": "จองลานกางเต็นท์ = book a campsite — อเมริกันเรียก campground ส่วนที่จอดรถบ้านเรียก RV park",
+      "distractors": [
+        "website",
+        "campus",
+        "campaign"
+      ]
+    },
+    {
+      "id": "flashlight",
+      "word": "flashlight",
+      "pos": "noun",
+      "ipa": "/ˈflæʃlaɪt/",
+      "reading_th": "แฟลช-ไลท์",
+      "meaning_th": "ไฟฉาย",
+      "emoji": "🔦",
+      "example_en": "Pack a flashlight because the trail gets dark early.",
+      "example_th": "พกไฟฉายไปด้วยเพราะเส้นทางมืดเร็ว",
+      "cefr": "A2",
+      "note_th": "อเมริกันใช้ flashlight อังกฤษใช้ torch — ไฟฉายคาดหัวคือ headlamp และไฟฉายในมือถือฝรั่งก็เรียก flashlight เหมือนกัน",
+      "distractors": [
+        "flash drive",
+        "headlight",
+        "flashback"
+      ]
+    },
+    {
+      "id": "fresh_air",
+      "word": "fresh air",
+      "pos": "noun",
+      "ipa": "/ˌfreʃ ˈer/",
+      "reading_th": "เฟรช แอร์",
+      "meaning_th": "อากาศบริสุทธิ์",
+      "emoji": "🌬️",
+      "example_en": "I need some fresh air after sitting inside all day.",
+      "example_th": "ฉันอยากสูดอากาศบริสุทธิ์หลังจากนั่งอยู่ในห้องทั้งวัน",
+      "cefr": "A2",
+      "note_th": "get some fresh air = ออกไปสูดอากาศข้างนอก ใช้ขอตัวออกจากห้องได้แบบสุภาพ — a breath of fresh air ยังแปลว่าคนหรือสิ่งใหม่ที่ทำให้สดชื่น",
+      "distractors": [
+        "fresh food",
+        "open air",
+        "hot air"
+      ]
+    },
+    {
+      "id": "gallery",
+      "word": "gallery",
+      "pos": "noun",
+      "ipa": "/ˈɡæləri/",
+      "reading_th": "แกล-เลอ-รี่",
+      "meaning_th": "หอศิลป์",
+      "emoji": "🖼️",
+      "example_en": "A new gallery opened in Chinatown last month.",
+      "example_th": "หอศิลป์แห่งใหม่เปิดในเยาวราชเมื่อเดือนที่แล้ว",
+      "cefr": "A2",
+      "note_th": "gallery = ที่แสดงงานศิลปะ (มักขายได้) museum = พิพิธภัณฑ์ทั่วไป — ส่วนแกลเลอรีรูปในมือถือก็ใช้คำนี้ photo gallery",
+      "distractors": [
+        "galaxy",
+        "grocery",
+        "balcony"
+      ]
+    },
+    {
+      "id": "exhibition",
+      "word": "exhibition",
+      "pos": "noun",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "reading_th": "เอ็ค-ซิ-บิ-ชั่น",
+      "meaning_th": "นิทรรศการ",
+      "emoji": "🎟️",
+      "example_en": "The photo exhibition runs until the end of May.",
+      "example_th": "นิทรรศการภาพถ่ายจัดถึงสิ้นเดือนพฤษภาคม",
+      "cefr": "B1",
+      "note_th": "h ไม่ออกเสียง เอ็ค-ซิ-บิ-ชั่น — อเมริกันมักพูดสั้นๆ ว่า exhibit และงานแสดงสินค้าใหญ่ๆ อย่างมอเตอร์โชว์เรียก expo หรือ trade show",
+      "distractors": [
+        "expedition",
+        "excursion",
+        "exhibit"
+      ]
+    },
+    {
+      "id": "artist",
+      "word": "artist",
+      "pos": "noun",
+      "ipa": "/ˈɑːrtɪst/",
+      "reading_th": "อาร์-ทิสท์",
+      "meaning_th": "ศิลปิน",
+      "emoji": "🧑‍🎨",
+      "example_en": "The artist will talk about her work at six.",
+      "example_th": "ศิลปินจะมาพูดถึงผลงานของเธอตอนหกโมง",
+      "cefr": "A2",
+      "note_th": "artist ใช้ทั้งจิตรกรและนักร้อง — ศิลปินแห่งชาติคือ National Artist และ makeup artist, tattoo artist ก็ใช้คำนี้ตามหลังทักษะ",
+      "distractors": [
+        "artistic",
+        "autism",
+        "arts"
+      ]
+    },
+    {
+      "id": "sculpture",
+      "word": "sculpture",
+      "pos": "noun",
+      "ipa": "/ˈskʌlptʃər/",
+      "reading_th": "สคัลป์-เชอร์",
+      "meaning_th": "ประติมากรรม / รูปปั้น",
+      "emoji": "🗿",
+      "example_en": "The bronze sculpture in the lobby weighs two tons.",
+      "example_th": "ประติมากรรมสำริดในล็อบบี้หนักสองตัน",
+      "cefr": "B1",
+      "note_th": "sculpture = งานปั้นแกะสลักทุกชนิด statue = รูปปั้นคนหรือสัตว์ทั้งตัว — ช่างปั้นคือ sculptor และกริยาคือ sculpt",
+      "distractors": [
+        "structure",
+        "scripture",
+        "sculptor"
+      ]
+    },
+    {
+      "id": "masterpiece",
+      "word": "masterpiece",
+      "pos": "noun",
+      "ipa": "/ˈmæstərpiːs/",
+      "reading_th": "มาส-เตอร์-พีซ",
+      "meaning_th": "ผลงานชิ้นเอก",
+      "emoji": "🏆",
+      "example_en": "Many people call this painting his masterpiece.",
+      "example_th": "หลายคนยกให้ภาพนี้เป็นผลงานชิ้นเอกของเขา",
+      "cefr": "B1",
+      "note_th": "ใช้ชมแบบขำๆ ได้ด้วย เช่น เพื่อนทำกับข้าวอร่อยพูดว่า this is a masterpiece! — งานชิ้นเอกคือ masterpiece ไม่ใช่ master work",
+      "distractors": [
+        "centerpiece",
+        "timepiece",
+        "masterclass"
+      ]
+    },
+    {
+      "id": "entry_fee",
+      "word": "entry fee",
+      "pos": "noun",
+      "ipa": "/ˈentri ˌfiː/",
+      "reading_th": "เอน-ทรี ฟี",
+      "meaning_th": "ค่าเข้าชม",
+      "emoji": "🎫",
+      "example_en": "The entry fee is free for children under twelve.",
+      "example_th": "เด็กอายุต่ำกว่าสิบสองเข้าชมฟรี",
+      "cefr": "A2",
+      "note_th": "ถามว่าเข้าฟรีไหม is there an entry fee? — บนป้ายมักเขียนว่า admission และราคาสองมาตรฐานสำหรับชาวต่างชาติเรียก dual pricing",
+      "distractors": [
+        "entrance",
+        "late fee",
+        "service fee"
+      ]
+    },
+    {
+      "id": "audio_guide",
+      "word": "audio guide",
+      "pos": "noun",
+      "ipa": "/ˈɔːdioʊ ˌɡaɪd/",
+      "reading_th": "ออ-ดิ-โอ ไกด์",
+      "meaning_th": "เครื่องบรรยายเสียงนำชม",
+      "emoji": "🎧",
+      "example_en": "Rent an audio guide so you understand each painting.",
+      "example_th": "เช่าเครื่องบรรยายเสียงจะได้เข้าใจภาพแต่ละภาพ",
+      "cefr": "B1",
+      "note_th": "พิพิธภัณฑ์ใหญ่ๆ มีให้เช่าหน้าทางเข้า ถามว่า do you have an audio guide in Thai? — บางที่ให้สแกน QR ฟังในมือถือตัวเองแทน",
+      "distractors": [
+        "tour guide",
+        "audio book",
+        "guidebook"
+      ]
+    },
+    {
+      "id": "gift_shop",
+      "word": "gift shop",
+      "pos": "noun",
+      "ipa": "/ˈɡɪft ˌʃɑːp/",
+      "reading_th": "กิฟท์ ช็อป",
+      "meaning_th": "ร้านขายของที่ระลึก",
+      "emoji": "🛍️",
+      "example_en": "The gift shop sells postcards of every painting.",
+      "example_th": "ร้านของที่ระลึกขายโปสการ์ดของทุกภาพ",
+      "cefr": "A2",
+      "note_th": "ทางออกพิพิธภัณฑ์ฝรั่งมักผ่านร้านนี้เสมอ exit through the gift shop — ของที่ระลึกคือ souvenir ร้านขายคือ gift shop หรือ souvenir shop",
+      "distractors": [
+        "coffee shop",
+        "gift card",
+        "pawn shop"
+      ]
+    },
+    {
+      "id": "ancient",
+      "word": "ancient",
+      "pos": "adjective",
+      "ipa": "/ˈeɪnʃənt/",
+      "reading_th": "เอน-เชิ่นท์",
+      "meaning_th": "โบราณ / เก่าแก่มาก",
+      "emoji": "🏛️",
+      "example_en": "This ancient pot is over two thousand years old.",
+      "example_th": "หม้อโบราณใบนี้อายุกว่าสองพันปี",
+      "cefr": "B1",
+      "note_th": "ออกเสียง เอน-เชิ่นท์ ไม่ใช่ แอน-เซียนท์ — ancient = เก่าแก่ระดับพันปี (ancient Egypt, ancient city) ส่วน old ใช้กับของเก่าทั่วไป",
+      "distractors": [
+        "antique",
+        "patient",
+        "accent"
+      ]
+    },
+    {
+      "id": "modern_art",
+      "word": "modern art",
+      "pos": "noun",
+      "ipa": "/ˌmɑːdərn ˈɑːrt/",
+      "reading_th": "มอ-เดิร์น อาร์ต",
+      "meaning_th": "ศิลปะสมัยใหม่",
+      "emoji": "🟥",
+      "example_en": "I don't always understand modern art, but I like the colors.",
+      "example_th": "ฉันไม่ได้เข้าใจศิลปะสมัยใหม่ทุกชิ้น แต่ชอบสีของมัน",
+      "cefr": "B1",
+      "note_th": "modern art = ศิลปะช่วงปลายศตวรรษที่ 19 ถึงกลางศตวรรษที่ 20 ส่วนงานยุคนี้เรียก contemporary art — พิพิธภัณฑ์ดังอย่าง MoMA ย่อจาก Museum of Modern Art",
+      "distractors": [
+        "street art",
+        "fine art",
+        "martial art"
+      ]
+    },
+    {
+      "id": "admire",
+      "word": "admire",
+      "pos": "verb",
+      "ipa": "/ədˈmaɪər/",
+      "reading_th": "แอด-ไม-เออร์",
+      "meaning_th": "ชื่นชม / ยืนมองด้วยความประทับใจ",
+      "emoji": "😍",
+      "example_en": "We stood for ten minutes to admire the painting.",
+      "example_th": "เรายืนชื่นชมภาพวาดนั้นอยู่สิบนาที",
+      "cefr": "B1",
+      "note_th": "admire = ชื่นชมทั้งผลงานและตัวคน I admire her courage — คำนามคือ admiration และแฟนคลับที่แอบชอบเรียก a secret admirer",
+      "distractors": [
+        "admit",
+        "advise",
+        "adore"
+      ]
+    },
+    {
+      "id": "display",
+      "word": "display",
+      "pos": "verb",
+      "ipa": "/dɪˈspleɪ/",
+      "reading_th": "ดิส-เพลย์",
+      "meaning_th": "จัดแสดง",
+      "emoji": "🪧",
+      "example_en": "They display old Thai coins on the second floor.",
+      "example_th": "เขาจัดแสดงเหรียญไทยโบราณไว้ที่ชั้นสอง",
+      "cefr": "B1",
+      "note_th": "เป็นคำนามได้ on display = กำลังจัดแสดงอยู่ — display case คือตู้โชว์ และหน้าจอมือถือก็เรียก display ซ่อมจอ = replace the display",
+      "distractors": [
+        "delay",
+        "displace",
+        "replay"
+      ]
+    },
+    {
+      "id": "curator",
+      "word": "curator",
+      "pos": "noun",
+      "ipa": "/kjʊˈreɪtər/",
+      "reading_th": "คิว-เร-เทอร์",
+      "meaning_th": "ภัณฑารักษ์ / ผู้คัดเลือกงานแสดง",
+      "emoji": "🧑‍💼",
+      "example_en": "The curator chose only forty photos for the show.",
+      "example_th": "ภัณฑารักษ์เลือกภาพถ่ายมาจัดแสดงเพียงสี่สิบภาพ",
+      "cefr": "B2",
+      "note_th": "เน้นพยางค์กลาง cu-RA-tor — กริยา curate ตอนนี้ใช้กว้างมาก เช่น a curated playlist = เพลย์ลิสต์ที่คัดสรรมาแล้ว",
+      "distractors": [
+        "creator",
+        "curtain",
+        "conductor"
+      ]
+    },
+    {
+      "id": "inspiration",
+      "word": "inspiration",
+      "pos": "noun",
+      "ipa": "/ˌɪnspəˈreɪʃn/",
+      "reading_th": "อิน-สปิ-เร-ชั่น",
+      "meaning_th": "แรงบันดาลใจ",
+      "emoji": "💡",
+      "example_en": "I find inspiration for my paintings in old temples.",
+      "example_th": "ฉันหาแรงบันดาลใจสำหรับภาพวาดจากวัดเก่าๆ",
+      "cefr": "B1",
+      "note_th": "หาแรงบันดาลใจ = find/get inspiration ไม่ใช่ search inspiration — คนที่เป็นแรงบันดาลใจพูดว่า she is my inspiration และย่อว่า inspo ในโซเชียล",
+      "distractors": [
+        "aspiration",
+        "inspection",
+        "perspiration"
+      ]
+    }
+  ]
+}

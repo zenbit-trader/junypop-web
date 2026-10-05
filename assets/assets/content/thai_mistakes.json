@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "thai_mistakes",
+    "name_en": "Thai-glish Fixes",
+    "name_th": "ศัพท์ที่คนไทยใช้ผิดบ่อย",
+    "emoji": "🇹🇭",
+    "color_start": "#FDE68A",
+    "color_end": "#B45309",
+    "description_th": "คำที่คนไทยพูดผิด ใช้ผิด หรือแปลตรงตัวจากไทยจนฝรั่งงง พร้อมคำที่ถูกต้อง",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "thai_mistakes_1",
+        "title_en": "Loanwords Gone Wrong",
+        "title_th": "ทับศัพท์ที่ความหมายเพี้ยน",
+        "emoji": "🔤",
+        "word_ids": [
+          "apartment",
+          "mansion",
+          "steering_wheel",
+          "phone_number",
+          "knock_off",
+          "fling",
+          "posh",
+          "handout",
+          "exaggerate",
+          "van",
+          "big_spender",
+          "gossip",
+          "in_shape",
+          "outdated"
+        ]
+      },
+      {
+        "id": "thai_mistakes_2",
+        "title_en": "False Friends",
+        "title_th": "คำหน้าเหมือนแต่คนละเรื่อง",
+        "emoji": "🎭",
+        "word_ids": [
+          "custom",
+          "funny",
+          "exciting",
+          "interesting",
+          "interested",
+          "lonely",
+          "alone",
+          "sensible",
+          "sensitive",
+          "economical",
+          "actually",
+          "remind",
+          "stuff",
+          "sympathetic"
+        ]
+      },
+      {
+        "id": "thai_mistakes_3",
+        "title_en": "Lost in Translation",
+        "title_th": "แปลตรงตัวแล้วพัง",
+        "emoji": "🈳",
+        "word_ids": [
+          "switch_on",
+          "hang_out",
+          "go_online",
+          "on_my_phone",
+          "have_a_meal",
+          "take_medicine",
+          "take_a_photo",
+          "have_a_cold",
+          "go_on_a_trip",
+          "give_a_ride",
+          "do_homework",
+          "make_yourself_at_home",
+          "really",
+          "waste_time"
+        ]
+      },
+      {
+        "id": "thai_mistakes_4",
+        "title_en": "Preposition Traps",
+        "title_th": "บุพบทที่หายหรือเกิน",
+        "emoji": "🧲",
+        "word_ids": [
+          "listen_to",
+          "wait_for",
+          "married_to",
+          "arrive_at",
+          "go_home",
+          "enter",
+          "contact",
+          "depend_on",
+          "good_at",
+          "afraid_of",
+          "look_forward_to",
+          "agree_with",
+          "in_time",
+          "explain"
+        ]
+      },
+      {
+        "id": "thai_mistakes_5",
+        "title_en": "Countable Traps",
+        "title_th": "นับได้หรือนับไม่ได้",
+        "emoji": "🔢",
+        "word_ids": [
+          "furniture",
+          "advice",
+          "information",
+          "equipment",
+          "news",
+          "knowledge",
+          "jewelry",
+          "clothes",
+          "people",
+          "hair",
+          "paper",
+          "glasses",
+          "trousers",
+          "progress"
+        ]
+      },
+      {
+        "id": "thai_mistakes_6",
+        "title_en": "Sound-alike Slips",
+        "title_th": "ออกเสียงเพี้ยนกลายเป็นคนละคำ",
+        "emoji": "👂",
+        "word_ids": [
+          "snake",
+          "sink",
+          "whole",
+          "fool",
+          "peace",
+          "breathe",
+          "chief",
+          "stir",
+          "vest",
+          "worm",
+          "sheep",
+          "sheet",
+          "quite",
+          "collect"
+        ]
+      },
+      {
+        "id": "thai_mistakes_7",
+        "title_en": "Polite, Not Rude",
+        "title_th": "สุภาพแบบฝรั่ง",
+        "emoji": "🙏",
+        "word_ids": [
+          "would_like",
+          "could_i_have",
+          "have_a_seat",
+          "make_sense",
+          "pardon",
+          "im_afraid_not",
+          "not_sure",
+          "excuse_me",
+          "i_dont_mind",
+          "either_is_fine",
+          "just_a_moment",
+          "elderly",
+          "westerner",
+          "after_you"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "apartment",
+      "word": "apartment",
+      "pos": "noun",
+      "ipa": "/əˈpɑːrtmənt/",
+      "reading_th": "อะ-พาร์ท-เมินท์",
+      "meaning_th": "อพาร์ตเมนต์ ห้องเช่า",
+      "emoji": "🏢",
+      "example_en": "She rents a small apartment near the BTS station.",
+      "example_th": "เธอเช่าอพาร์ตเมนต์เล็กๆ ใกล้สถานีบีทีเอส",
+      "cefr": "A2",
+      "note_th": "คนไทยเรียกห้องเช่าว่า \"แมนชั่น\" แต่ฝรั่งได้ยิน mansion จะนึกถึงคฤหาสน์ — ห้องเช่าทั่วไปคือ apartment (อังกฤษ: flat)",
+      "distractors": [
+        "mansion",
+        "department",
+        "compartment"
+      ]
+    },
+    {
+      "id": "mansion",
+      "word": "mansion",
+      "pos": "noun",
+      "ipa": "/ˈmænʃən/",
+      "reading_th": "แมน-ชั่น",
+      "meaning_th": "คฤหาสน์",
+      "emoji": "🏰",
+      "example_en": "The actor lives in a huge mansion by the sea.",
+      "example_th": "นักแสดงคนนั้นอยู่ในคฤหาสน์หลังใหญ่ริมทะเล",
+      "cefr": "B1",
+      "note_th": "ป้าย \"XX แมนชั่น\" หน้าห้องเช่าราคาถูกทำฝรั่งขำทุกครั้ง — mansion = บ้านหลังมหึมาของเศรษฐี ถ้าบอกว่า I live in a mansion ฝรั่งจะคิดว่ารวยมาก",
+      "distractors": [
+        "apartment",
+        "mention",
+        "condo"
+      ]
+    },
+    {
+      "id": "steering_wheel",
+      "word": "steering wheel",
+      "pos": "noun",
+      "ipa": "/ˈstɪrɪŋ wiːl/",
+      "reading_th": "สเตีย-ริ่ง วีล",
+      "meaning_th": "พวงมาลัยรถ",
+      "emoji": "🚗",
+      "example_en": "Keep both hands on the steering wheel while driving.",
+      "example_th": "จับพวงมาลัยสองมือตอนขับรถ",
+      "cefr": "B1",
+      "note_th": "คนไทยเรียกพวงมาลัยว่า \"แฮนด์\" แต่ hand = มือ ฝรั่งไม่เข้าใจ — รถใช้ steering wheel ส่วนแฮนด์จักรยาน/มอเตอร์ไซค์คือ handlebars",
+      "distractors": [
+        "handle",
+        "handlebars",
+        "spare wheel"
+      ]
+    },
+    {
+      "id": "phone_number",
+      "word": "phone number",
+      "pos": "noun",
+      "ipa": "/foʊn ˈnʌmbər/",
+      "reading_th": "โฟน นัม-เบอร์",
+      "meaning_th": "เบอร์โทร",
+      "emoji": "📱",
+      "example_en": "Can I have your phone number, please?",
+      "example_th": "ขอเบอร์โทรหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "คนไทยพูด \"เบอร์\" ตัวเดียว แต่ฝรั่งต้องพูด number หรือ phone number เต็มๆ — What's your number? ก็ใช้ได้ แต่ ber เฉยๆ ไม่มีใครเข้าใจ",
+      "distractors": [
+        "phone case",
+        "number plate",
+        "room number"
+      ]
+    },
+    {
+      "id": "knock_off",
+      "word": "knock-off",
+      "pos": "noun",
+      "ipa": "/ˈnɑːk ɔːf/",
+      "reading_th": "น็อค-ออฟ",
+      "meaning_th": "ของก๊อป ของเลียนแบบ",
+      "emoji": "👜",
+      "example_en": "That bag is a knock-off, not a real designer bag.",
+      "example_th": "กระเป๋าใบนั้นเป็นของก๊อป ไม่ใช่แบรนด์เนมจริง",
+      "cefr": "B1",
+      "note_th": "\"ของก๊อป\" มาจาก copy แต่ฝรั่งไม่พูด copy bag — ใช้ knock-off (ภาษาพูด) หรือ fake / counterfeit (ทางการ) ตลาดนัดไทยคือสวรรค์ของ knock-offs",
+      "distractors": [
+        "copy",
+        "knockout",
+        "takeoff"
+      ]
+    },
+    {
+      "id": "fling",
+      "word": "fling",
+      "pos": "noun",
+      "ipa": "/flɪŋ/",
+      "reading_th": "ฟลิง",
+      "meaning_th": "กิ๊ก ความสัมพันธ์ชั่วคราว",
+      "emoji": "💘",
+      "example_en": "It was just a summer fling, nothing serious.",
+      "example_th": "มันแค่กิ๊กช่วงซัมเมอร์ ไม่มีอะไรจริงจัง",
+      "cefr": "B2",
+      "note_th": "\"กิ๊ก\" ภาษาไทยไม่ได้มาจาก gig ที่แปลว่างานแสดงดนตรี — ความสัมพันธ์สั้นๆ ไม่ผูกมัดคือ fling ส่วน side piece เป็นคำหยาบกว่า",
+      "distractors": [
+        "gig",
+        "flight",
+        "crush"
+      ]
+    },
+    {
+      "id": "posh",
+      "word": "posh",
+      "pos": "adjective",
+      "ipa": "/pɑːʃ/",
+      "reading_th": "พอช",
+      "meaning_th": "ไฮโซ หรูหรา",
+      "emoji": "💎",
+      "example_en": "They had dinner at a posh hotel in Bangkok.",
+      "example_th": "พวกเขาไปกินมื้อเย็นที่โรงแรมหรูในกรุงเทพ",
+      "cefr": "B1",
+      "note_th": "\"ไฮโซ\" ย่อมาจาก high society แต่พูด hi-so ฝรั่งไม่เข้าใจ — ของหรูใช้ posh / fancy / upscale ส่วนคนรวยจริงใช้ upper-class",
+      "distractors": [
+        "hi-so",
+        "push",
+        "polish"
+      ]
+    },
+    {
+      "id": "handout",
+      "word": "handout",
+      "pos": "noun",
+      "ipa": "/ˈhændaʊt/",
+      "reading_th": "แฮนด์-เอาท์",
+      "meaning_th": "ชีทเรียน เอกสารแจก",
+      "emoji": "📄",
+      "example_en": "The teacher gave us a handout before the lecture.",
+      "example_th": "อาจารย์แจกชีทให้เราก่อนบรรยาย",
+      "cefr": "B1",
+      "note_th": "\"ชีท\" ของนักศึกษาไทยมาจาก sheet แต่ sheet = แผ่นกระดาษเปล่าหรือผ้าปูที่นอน — เอกสารประกอบการเรียนคือ handout หรือ lecture notes",
+      "distractors": [
+        "sheet",
+        "handbook",
+        "hand in"
+      ]
+    },
+    {
+      "id": "exaggerate",
+      "word": "exaggerate",
+      "pos": "verb",
+      "ipa": "/ɪɡˈzædʒəreɪt/",
+      "reading_th": "อิก-แซ-จะ-เรท",
+      "meaning_th": "พูดเกินจริง (โอเว่อร์)",
+      "emoji": "🎣",
+      "example_en": "Don't exaggerate, the fish was not that big.",
+      "example_th": "อย่าพูดเกินจริง ปลาไม่ได้ใหญ่ขนาดนั้น",
+      "cefr": "B1",
+      "note_th": "คนไทยบอก \"โอเว่อร์\" แต่ over ตัวเดียวในภาษาอังกฤษไม่มีความหมายนี้ — ต้องใช้ exaggerate หรือพูดว่า That's over the top. (เว่อร์ไป)",
+      "distractors": [
+        "over",
+        "exhibit",
+        "excite"
+      ]
+    },
+    {
+      "id": "van",
+      "word": "van",
+      "pos": "noun",
+      "ipa": "/væn/",
+      "reading_th": "แวน",
+      "meaning_th": "รถตู้",
+      "emoji": "🚐",
+      "example_en": "We hired a van for the trip to Hua Hin.",
+      "example_th": "เราเหมารถตู้ไปหัวหิน",
+      "cefr": "A2",
+      "note_th": "\"รถตู้\" ห้ามแปลว่า cabinet car และ \"รถทัวร์\" ก็ไม่ใช่ tour car — รถตู้คือ van (minivan) ส่วนรถทัวร์ข้ามจังหวัดคือ coach หรือ long-distance bus",
+      "distractors": [
+        "fan",
+        "wagon",
+        "truck"
+      ]
+    },
+    {
+      "id": "big_spender",
+      "word": "big spender",
+      "pos": "noun",
+      "ipa": "/bɪɡ ˈspendər/",
+      "reading_th": "บิ๊ก สเปน-เดอร์",
+      "meaning_th": "สายเปย์",
+      "emoji": "💳",
+      "example_en": "My uncle is a big spender when he visits Japan.",
+      "example_th": "ลุงฉันเป็นสายเปย์ตัวจริงเวลาไปญี่ปุ่น",
+      "cefr": "B1",
+      "note_th": "\"เปย์\" มาจาก pay แต่ฝรั่งไม่พูดว่า he is pay — คนที่ชอบจ่ายหนักคือ big spender ส่วน \"เปย์ให้แฟน\" ใช้ spoil (He spoils his girlfriend.)",
+      "distractors": [
+        "big payer",
+        "big eater",
+        "spendthrift"
+      ]
+    },
+    {
+      "id": "gossip",
+      "word": "gossip",
+      "pos": "verb",
+      "ipa": "/ˈɡɑːsɪp/",
+      "reading_th": "กอส-ซิพ",
+      "meaning_th": "เม้าท์ นินทา",
+      "emoji": "🗣️",
+      "example_en": "People love to gossip about the new boss.",
+      "example_th": "คนชอบเม้าท์เรื่องหัวหน้าคนใหม่",
+      "cefr": "B1",
+      "note_th": "\"เม้าท์\" มาจาก mouth = ปาก ฝรั่งฟังแล้วงง — นินทาคือ gossip ใช้ได้ทั้งกริยาและคำนาม (That's just gossip.) เพื่อนขี้เม้าท์ = a gossip",
+      "distractors": [
+        "mouth",
+        "gospel",
+        "goggle"
+      ]
+    },
+    {
+      "id": "in_shape",
+      "word": "in shape",
+      "pos": "phrase",
+      "ipa": "/ɪn ʃeɪp/",
+      "reading_th": "อิน เชพ",
+      "meaning_th": "ฟิตแอนด์เฟิร์ม หุ่นดี",
+      "emoji": "💪",
+      "example_en": "I run every morning to stay in shape.",
+      "example_th": "ฉันวิ่งทุกเช้าเพื่อให้หุ่นยังฟิต",
+      "cefr": "B1",
+      "note_th": "\"ฟิตแอนด์เฟิร์ม\" เป็นไทยคำอังกฤษคำที่ฝรั่งไม่ใช้ — หุ่นดีใช้ in shape / fit / toned ส่วน firm ใช้กับเนื้อหรือที่นอนแน่นๆ และตอนนี้หุ่นพังเรียกว่า out of shape",
+      "distractors": [
+        "fit and firm",
+        "in form",
+        "on shape"
+      ]
+    },
+    {
+      "id": "outdated",
+      "word": "outdated",
+      "pos": "adjective",
+      "ipa": "/ˌaʊtˈdeɪtɪd/",
+      "reading_th": "เอาท์-เด-ทิด",
+      "meaning_th": "เอาท์ ล้าสมัย",
+      "emoji": "📼",
+      "example_en": "This map is outdated, the road is closed now.",
+      "example_th": "แผนที่นี้ล้าสมัยแล้ว ถนนปิดไปแล้ว",
+      "cefr": "B1",
+      "note_th": "คนไทยบอกว่า \"เอาท์แล้ว\" แต่ out ตัวเดียวแปลว่าออกไปข้างนอก — เชยใช้ outdated / out of date / old-fashioned ส่วนทันสมัยคือ trendy หรือ up to date",
+      "distractors": [
+        "out",
+        "outgoing",
+        "updated"
+      ]
+    },
+    {
+      "id": "custom",
+      "word": "custom",
+      "pos": "noun",
+      "ipa": "/ˈkʌstəm/",
+      "reading_th": "คัส-เติม",
+      "meaning_th": "ธรรมเนียม ประเพณี",
+      "emoji": "🙏",
+      "example_en": "It is a Thai custom to take off your shoes indoors.",
+      "example_th": "การถอดรองเท้าก่อนเข้าบ้านเป็นธรรมเนียมไทย",
+      "cefr": "B1",
+      "note_th": "custom = ธรรมเนียม แต่ costume = ชุดแฟนซี/ชุดแสดง คนไทยสะกดและออกเสียงปนกันบ่อย — ส่วน customs (มี s) ที่สนามบินคือด่านศุลกากร",
+      "distractors": [
+        "costume",
+        "customer",
+        "customs"
+      ]
+    },
+    {
+      "id": "funny",
+      "word": "funny",
+      "pos": "adjective",
+      "ipa": "/ˈfʌni/",
+      "reading_th": "ฟัน-นี่",
+      "meaning_th": "ตลก น่าขำ",
+      "emoji": "😂",
+      "example_en": "That movie was so funny that I cried laughing.",
+      "example_th": "หนังเรื่องนั้นตลกมากจนฉันหัวเราะน้ำตาไหล",
+      "cefr": "A2",
+      "note_th": "คนไทยชอบพูด The trip was funny. ซึ่งแปลว่าทริปน่าขำ — สนุกต้องใช้ fun (The trip was fun.) ส่วน funny คือตลกหรือแปลกๆ (a funny smell = กลิ่นแปลกๆ)",
+      "distractors": [
+        "fun",
+        "fancy",
+        "sunny"
+      ]
+    },
+    {
+      "id": "exciting",
+      "word": "exciting",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsaɪtɪŋ/",
+      "reading_th": "อิก-ไซ-ทิ่ง",
+      "meaning_th": "น่าตื่นเต้น",
+      "emoji": "🎢",
+      "example_en": "The match was exciting until the last minute.",
+      "example_th": "แมตช์นั้นน่าตื่นเต้นจนถึงนาทีสุดท้าย",
+      "cefr": "A2",
+      "note_th": "-ing บรรยายสิ่งที่ทำให้รู้สึก -ed บรรยายคนที่รู้สึก — I'm exciting แปลว่าฉันเป็นคนน่าตื่นเต้น (ฟังแปลกมาก) ต้องพูด I'm excited.",
+      "distractors": [
+        "excited",
+        "exciting about",
+        "excitement"
+      ]
+    },
+    {
+      "id": "interesting",
+      "word": "interesting",
+      "pos": "adjective",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "reading_th": "อิน-เทรส-ทิ่ง",
+      "meaning_th": "น่าสนใจ",
+      "emoji": "🤓",
+      "example_en": "Her idea sounds interesting, tell me more.",
+      "example_th": "ไอเดียของเธอฟังดูน่าสนใจ เล่าต่อสิ",
+      "cefr": "A2",
+      "note_th": "คู่คลาสสิกที่คนไทยสลับกัน: The book is interesting. (หนังสือน่าสนใจ) แต่ I'm interesting. = ฉันเป็นคนน่าสนใจ ฟังดูอวดตัว — ออกเสียง 3 พยางค์ อิน-เทรส-ทิ่ง",
+      "distractors": [
+        "interested",
+        "interest",
+        "intersecting"
+      ]
+    },
+    {
+      "id": "interested",
+      "word": "interested",
+      "pos": "adjective",
+      "ipa": "/ˈɪntrəstɪd/",
+      "reading_th": "อิน-เทรส-ทิด",
+      "meaning_th": "สนใจ (รู้สึก)",
+      "emoji": "🙋",
+      "example_en": "I'm interested in learning Korean next year.",
+      "example_th": "ฉันสนใจเรียนภาษาเกาหลีปีหน้า",
+      "cefr": "A2",
+      "note_th": "ตามด้วย in เสมอ interested in + คำนาม/V-ing — เวลาตอบเซลส์ว่าไม่เอาให้พูด I'm not interested. สุภาพกว่า I don't want.",
+      "distractors": [
+        "interesting",
+        "interested on",
+        "intended"
+      ]
+    },
+    {
+      "id": "lonely",
+      "word": "lonely",
+      "pos": "adjective",
+      "ipa": "/ˈloʊnli/",
+      "reading_th": "โลน-ลี่",
+      "meaning_th": "เหงา",
+      "emoji": "🌧️",
+      "example_en": "He felt lonely during his first month abroad.",
+      "example_th": "เขารู้สึกเหงาช่วงเดือนแรกที่ไปอยู่ต่างประเทศ",
+      "cefr": "A2",
+      "note_th": "lonely คือความรู้สึกเหงา ส่วน alone คือสภาพอยู่คนเดียว — อยู่คนเดียวแต่ไม่เหงาก็ได้ (I live alone but I'm not lonely.) คนไทยมักใช้ alone แทนเหงาซึ่งไม่ตรง",
+      "distractors": [
+        "alone",
+        "lovely",
+        "only"
+      ]
+    },
+    {
+      "id": "alone",
+      "word": "alone",
+      "pos": "adjective",
+      "ipa": "/əˈloʊn/",
+      "reading_th": "อะ-โลน",
+      "meaning_th": "ตามลำพัง คนเดียว",
+      "emoji": "🧍",
+      "example_en": "I like to travel alone sometimes.",
+      "example_th": "บางครั้งฉันก็ชอบเที่ยวคนเดียว",
+      "cefr": "A2",
+      "note_th": "alone เป็นข้อเท็จจริงไม่มีอารมณ์ — Leave me alone. = ปล่อยฉันไว้คนเดียว (ไม่ใช่ฉันเหงา) ส่วน \"มาคนเดียวเหรอ\" ถามว่า Are you here alone?",
+      "distractors": [
+        "lonely",
+        "along",
+        "lone"
+      ]
+    },
+    {
+      "id": "sensible",
+      "word": "sensible",
+      "pos": "adjective",
+      "ipa": "/ˈsensəbəl/",
+      "reading_th": "เซน-ซิ-เบิล",
+      "meaning_th": "มีเหตุผล รอบคอบ",
+      "emoji": "🧠",
+      "example_en": "Wearing a helmet is the sensible choice.",
+      "example_th": "การใส่หมวกกันน็อกเป็นทางเลือกที่มีเหตุผล",
+      "cefr": "B1",
+      "note_th": "sensible = ใช้เหตุผลดี (a sensible decision) ไม่ใช่อ่อนไหว — คนไทยมักสับสนกับ sensitive เพราะหน้าตาคล้ายกัน รองเท้าใส่สบายเดินได้นานก็เรียก sensible shoes",
+      "distractors": [
+        "sensitive",
+        "sensational",
+        "sensor"
+      ]
+    },
+    {
+      "id": "sensitive",
+      "word": "sensitive",
+      "pos": "adjective",
+      "ipa": "/ˈsensətɪv/",
+      "reading_th": "เซน-ซิ-ทิฟ",
+      "meaning_th": "อ่อนไหว ขี้น้อยใจ",
+      "emoji": "🥺",
+      "example_en": "My skin is sensitive to strong sunlight.",
+      "example_th": "ผิวฉันแพ้แดดแรงง่าย",
+      "cefr": "B1",
+      "note_th": "ใช้กับผิว (sensitive skin) ฟัน (sensitive teeth) อารมณ์ (He's very sensitive.) และข้อมูลลับ (sensitive data) — ตามด้วย to เมื่อบอกว่าไวต่ออะไร",
+      "distractors": [
+        "sensible",
+        "sensual",
+        "sentimental"
+      ]
+    },
+    {
+      "id": "economical",
+      "word": "economical",
+      "pos": "adjective",
+      "ipa": "/ˌekəˈnɑːmɪkəl/",
+      "reading_th": "เอ-คะ-นอ-มิ-เคิล",
+      "meaning_th": "ประหยัด คุ้มค่า",
+      "emoji": "🚙",
+      "example_en": "A small car is more economical in the city.",
+      "example_th": "รถเล็กประหยัดกว่าเวลาใช้ในเมือง",
+      "cefr": "B1",
+      "note_th": "economical = ประหยัดเงิน/น้ำมัน แต่ economic = เกี่ยวกับเศรษฐกิจ (economic growth) — คนไทยชอบพูด economic car ซึ่งผิด ต้อง economical car",
+      "distractors": [
+        "economic",
+        "economy",
+        "ecological"
+      ]
+    },
+    {
+      "id": "actually",
+      "word": "actually",
+      "pos": "adverb",
+      "ipa": "/ˈæktʃuəli/",
+      "reading_th": "แอค-ชวล-ลี่",
+      "meaning_th": "จริงๆ แล้ว / ที่จริง",
+      "emoji": "☝️",
+      "example_en": "Actually, I was born in Khon Kaen, not Bangkok.",
+      "example_th": "ที่จริงฉันเกิดที่ขอนแก่น ไม่ใช่กรุงเทพ",
+      "cefr": "B1",
+      "note_th": "actually ไม่ได้แปลว่าตอนนี้ (นั่นคือ currently) แต่ใช้แก้ความเข้าใจผิดแบบสุภาพ — ระวังพูดเยอะเกินฝรั่งบางคนมองว่าเหมือนกำลังเถียง",
+      "distractors": [
+        "currently",
+        "usually",
+        "eventually"
+      ]
+    },
+    {
+      "id": "remind",
+      "word": "remind",
+      "pos": "verb",
+      "ipa": "/rɪˈmaɪnd/",
+      "reading_th": "รี-ไมนด์",
+      "meaning_th": "เตือนให้นึกถึง",
+      "emoji": "⏰",
+      "example_en": "Please remind me to call Mom tonight.",
+      "example_th": "ช่วยเตือนให้ฉันโทรหาแม่คืนนี้ด้วย",
+      "cefr": "A2",
+      "note_th": "remind = ช่วยให้คนอื่นจำ ส่วน remember = ตัวเองจำได้ — คนไทยมักพูด Please remember me to... ซึ่งผิด และ You remind me of my sister. = เห็นคุณแล้วนึกถึงพี่สาว",
+      "distractors": [
+        "remember",
+        "rewind",
+        "remain"
+      ]
+    },
+    {
+      "id": "stuff",
+      "word": "stuff",
+      "pos": "noun",
+      "ipa": "/stʌf/",
+      "reading_th": "สตัฟ",
+      "meaning_th": "ข้าวของ สิ่งของ",
+      "emoji": "🎒",
+      "example_en": "Can I leave my stuff at your place?",
+      "example_th": "ฝากข้าวของไว้ที่บ้านคุณได้ไหม",
+      "cefr": "A2",
+      "note_th": "stuff (สระ อะ) = ข้าวของ นับไม่ได้ ส่วน staff (สระ แอ) = พนักงาน — คนไทยออกเสียงเหมือนกันจนปนกัน ระวัง my stuff กับ my staff ความหมายห่างกันมาก",
+      "distractors": [
+        "staff",
+        "stiff",
+        "stove"
+      ]
+    },
+    {
+      "id": "sympathetic",
+      "word": "sympathetic",
+      "pos": "adjective",
+      "ipa": "/ˌsɪmpəˈθetɪk/",
+      "reading_th": "ซิม-พะ-เธ-ทิค",
+      "meaning_th": "เห็นอกเห็นใจ",
+      "emoji": "🤗",
+      "example_en": "The nurse was very sympathetic about my pain.",
+      "example_th": "พยาบาลเห็นใจเรื่องความเจ็บปวดของฉันมาก",
+      "cefr": "B2",
+      "note_th": "sympathetic ไม่ได้แปลว่าน่ารักเป็นมิตร (นั่นคือ friendly / likeable) แต่คือเห็นใจเวลาคนอื่นทุกข์ — คำนามคือ sympathy ส่วนการ์ดแสดงความเสียใจคือ sympathy card",
+      "distractors": [
+        "friendly",
+        "pathetic",
+        "symbolic"
+      ]
+    },
+    {
+      "id": "switch_on",
+      "word": "switch on",
+      "pos": "phrase",
+      "ipa": "/swɪtʃ ɑːn/",
+      "reading_th": "สวิทช์ ออน",
+      "meaning_th": "เปิด (ไฟ สวิตช์)",
+      "emoji": "💡",
+      "example_en": "Could you switch on the air conditioner?",
+      "example_th": "ช่วยเปิดแอร์หน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "\"เปิดไฟ\" ไม่ใช่ open the light — open ใช้กับประตู หน้าต่าง กล่อง ส่วนอะไรที่มีสวิตช์ใช้ switch on / turn on และปิดคือ switch off ไม่ใช่ close the light",
+      "distractors": [
+        "open",
+        "switch off",
+        "swipe"
+      ]
+    },
+    {
+      "id": "hang_out",
+      "word": "hang out",
+      "pos": "phrase",
+      "ipa": "/hæŋ aʊt/",
+      "reading_th": "แฮง เอาท์",
+      "meaning_th": "ไปเที่ยวเล่นกับเพื่อน",
+      "emoji": "🧋",
+      "example_en": "We hang out at the mall after school.",
+      "example_th": "เราไปเที่ยวเล่นที่ห้างกันหลังเลิกเรียน",
+      "cefr": "A2",
+      "note_th": "\"ไปเล่นกับเพื่อน\" ห้ามพูด play with friends — ผู้ใหญ่พูดแบบนี้ฝรั่งจะนึกถึงเด็กเล่นของเล่น ต้องใช้ hang out with friends หรือ meet up with friends",
+      "distractors": [
+        "play with",
+        "hang up",
+        "hang on"
+      ]
+    },
+    {
+      "id": "go_online",
+      "word": "go online",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ ˈɑːnlaɪn/",
+      "reading_th": "โก ออน-ไลน์",
+      "meaning_th": "เล่นเน็ต ออนไลน์",
+      "emoji": "🌐",
+      "example_en": "I go online every night to read the news.",
+      "example_th": "ฉันเล่นเน็ตทุกคืนเพื่ออ่านข่าว",
+      "cefr": "A2",
+      "note_th": "\"เล่นเน็ต\" ไม่ใช่ play internet — ใช้ go online / surf the internet / browse the web ส่วน \"เล่นเฟซ\" คือ be on Facebook หรือ scroll through Facebook",
+      "distractors": [
+        "play internet",
+        "go offline",
+        "go live"
+      ]
+    },
+    {
+      "id": "on_my_phone",
+      "word": "on my phone",
+      "pos": "phrase",
+      "ipa": "/ɑːn maɪ foʊn/",
+      "reading_th": "ออน มาย โฟน",
+      "meaning_th": "เล่นมือถืออยู่",
+      "emoji": "📲",
+      "example_en": "I was on my phone the whole bus ride.",
+      "example_th": "ฉันเล่นมือถือตลอดทางที่นั่งรถเมล์",
+      "cefr": "A2",
+      "note_th": "\"เล่นมือถือ\" ไม่ใช่ play phone (เหมือนเอาโทรศัพท์มาเล่นเป็นของเล่น) — พูดว่า I'm on my phone. หรือ I'm using my phone. ส่วนเล่นเกมในมือถือค่อยใช้ play games on my phone",
+      "distractors": [
+        "play phone",
+        "in my phone",
+        "at my phone"
+      ]
+    },
+    {
+      "id": "have_a_meal",
+      "word": "have a meal",
+      "pos": "phrase",
+      "ipa": "/hæv ə miːl/",
+      "reading_th": "แฮฟ อะ มีล",
+      "meaning_th": "กินข้าว (มื้ออาหาร)",
+      "emoji": "🍚",
+      "example_en": "Let's have a meal together before you leave.",
+      "example_th": "มากินข้าวด้วยกันก่อนคุณไปเถอะ",
+      "cefr": "A2",
+      "note_th": "\"กินข้าว\" ของไทยหมายถึงกินอาหารมื้อหนึ่ง ไม่ใช่ eat rice (ฝรั่งจะคิดว่ากินข้าวเปล่า) — ใช้ have a meal / have lunch / grab something to eat",
+      "distractors": [
+        "eat rice",
+        "have a bite",
+        "take a meal"
+      ]
+    },
+    {
+      "id": "take_medicine",
+      "word": "take medicine",
+      "pos": "phrase",
+      "ipa": "/teɪk ˈmedɪsən/",
+      "reading_th": "เทค เม-ดิ-ซิน",
+      "meaning_th": "กินยา",
+      "emoji": "💊",
+      "example_en": "Remember to take your medicine after breakfast.",
+      "example_th": "อย่าลืมกินยาหลังอาหารเช้านะ",
+      "cefr": "A2",
+      "note_th": "\"กินยา\" ไม่ใช่ eat medicine — ยาใช้ take เสมอ take a pill / take two tablets a day ฉลากยาฝรั่งเขียนว่า Take with food.",
+      "distractors": [
+        "eat medicine",
+        "drink medicine",
+        "take a meal"
+      ]
+    },
+    {
+      "id": "take_a_photo",
+      "word": "take a photo",
+      "pos": "phrase",
+      "ipa": "/teɪk ə ˈfoʊtoʊ/",
+      "reading_th": "เทค อะ โฟ-โท",
+      "meaning_th": "ถ่ายรูป",
+      "emoji": "📸",
+      "example_en": "Could you take a photo of us, please?",
+      "example_th": "ช่วยถ่ายรูปให้เราหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "\"ถ่ายรูป\" ไม่ใช่ shoot a photo (ฟังดูเหมือนยิง) หรือ make a photo — ใช้ take a photo / take a picture และ take a selfie ฝรั่งเข้าใจทันที",
+      "distractors": [
+        "shoot a photo",
+        "make a photo",
+        "take a look"
+      ]
+    },
+    {
+      "id": "have_a_cold",
+      "word": "have a cold",
+      "pos": "phrase",
+      "ipa": "/hæv ə koʊld/",
+      "reading_th": "แฮฟ อะ โคลด์",
+      "meaning_th": "เป็นหวัด (ใช้ have)",
+      "emoji": "🤧",
+      "example_en": "I have a cold, so I'll skip the gym today.",
+      "example_th": "ฉันเป็นหวัด วันนี้ขอข้ามยิม",
+      "cefr": "A2",
+      "note_th": "\"เป็นหวัด\" ไม่ใช่ I am cold (แปลว่าฉันหนาว) — โรคใช้ have: have a cold / have a fever / have a headache ส่วน I'm cold = หนาว ขอผ้าห่ม",
+      "distractors": [
+        "I am cold",
+        "be a cold",
+        "get cold"
+      ]
+    },
+    {
+      "id": "go_on_a_trip",
+      "word": "go on a trip",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ ɑːn ə trɪp/",
+      "reading_th": "โก ออน อะ ทริพ",
+      "meaning_th": "ไปเที่ยว เดินทาง",
+      "emoji": "🧳",
+      "example_en": "We plan to go on a trip to Nan in December.",
+      "example_th": "เราวางแผนไปเที่ยวน่านเดือนธันวาคม",
+      "cefr": "A2",
+      "note_th": "\"ไปเที่ยว\" ไม่ใช่ go to travel (ผิดไวยากรณ์) — ใช้ go on a trip / travel to / go on holiday ส่วนเที่ยวกลางคืนคือ go out",
+      "distractors": [
+        "go to travel",
+        "go to trip",
+        "take a travel"
+      ]
+    },
+    {
+      "id": "give_a_ride",
+      "word": "give a ride",
+      "pos": "phrase",
+      "ipa": "/ɡɪv ə raɪd/",
+      "reading_th": "กิฟ อะ ไรด์",
+      "meaning_th": "ขับรถไปส่ง",
+      "emoji": "🚘",
+      "example_en": "Can you give me a ride to the station?",
+      "example_th": "ช่วยขับรถไปส่งที่สถานีหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "\"ไปส่ง\" ไม่ใช่ send you (send ใช้กับพัสดุและอีเมล) — ใช้ give you a ride (อเมริกัน) / give you a lift (อังกฤษ) หรือ drop you off",
+      "distractors": [
+        "send you",
+        "give a lift",
+        "take a ride"
+      ]
+    },
+    {
+      "id": "do_homework",
+      "word": "do homework",
+      "pos": "phrase",
+      "ipa": "/duː ˈhoʊmwɜːrk/",
+      "reading_th": "ดู โฮม-เวิร์ค",
+      "meaning_th": "ทำการบ้าน",
+      "emoji": "📚",
+      "example_en": "I need to do my homework before dinner.",
+      "example_th": "ฉันต้องทำการบ้านก่อนกินข้าวเย็น",
+      "cefr": "A1",
+      "note_th": "\"ทำ\" ภาษาไทยคำเดียว แต่อังกฤษแยก do กับ make — งานและหน้าที่ใช้ do (do homework, do the dishes) สร้างของใหม่ใช้ make (make a cake) การบ้านจึงไม่ใช่ make homework",
+      "distractors": [
+        "make homework",
+        "do housework",
+        "write homework"
+      ]
+    },
+    {
+      "id": "make_yourself_at_home",
+      "word": "make yourself at home",
+      "pos": "phrase",
+      "ipa": "/meɪk jɔːrˈself æt hoʊm/",
+      "reading_th": "เมค ยัวร์-เซลฟ์ แอท โฮม",
+      "meaning_th": "ตามสบายเหมือนอยู่บ้าน",
+      "emoji": "🏠",
+      "example_en": "Come in and make yourself at home.",
+      "example_th": "เข้ามาเลย ตามสบายเหมือนอยู่บ้านนะ",
+      "cefr": "A2",
+      "note_th": "\"ตามสบาย\" ไม่ใช่ follow your comfort — เจ้าบ้านพูด Make yourself at home. ส่วน \"ตามสบายไม่ต้องรีบ\" คือ Take your time. และ \"ตามสบายเลือกได้เลย\" คือ Help yourself.",
+      "distractors": [
+        "follow your comfort",
+        "help yourself",
+        "take your time"
+      ]
+    },
+    {
+      "id": "really",
+      "word": "really",
+      "pos": "adverb",
+      "ipa": "/ˈriːəli/",
+      "reading_th": "เรียล-ลี่",
+      "meaning_th": "มากๆ / จริงๆ",
+      "emoji": "❤️‍🔥",
+      "example_en": "I really like Thai street food.",
+      "example_th": "ฉันชอบอาหารข้างทางไทยมากๆ",
+      "cefr": "A2",
+      "note_th": "\"ชอบมาก\" ไม่ใช่ I very like — very ใช้ขยาย adjective เท่านั้น ขยายกริยาต้องใช้ really (I really like it.) หรือ a lot (I like it a lot.)",
+      "distractors": [
+        "very",
+        "rarely",
+        "reality"
+      ]
+    },
+    {
+      "id": "waste_time",
+      "word": "waste time",
+      "pos": "phrase",
+      "ipa": "/weɪst taɪm/",
+      "reading_th": "เวสท์ ไทม์",
+      "meaning_th": "เสียเวลาเปล่า",
+      "emoji": "🕳️",
+      "example_en": "Don't waste time on apps that teach nothing.",
+      "example_th": "อย่าเสียเวลากับแอปที่ไม่ได้สอนอะไร",
+      "cefr": "A2",
+      "note_th": "\"เสียเวลา\" ไม่ใช่ lose time — ใช้ waste time (เสียไปเปล่าๆ) และคำนามคือ a waste of time ส่วน spend time = ใช้เวลาแบบตั้งใจ",
+      "distractors": [
+        "lose time",
+        "spend time",
+        "kill time"
+      ]
+    },
+    {
+      "id": "listen_to",
+      "word": "listen to",
+      "pos": "phrase",
+      "ipa": "/ˈlɪsən tuː/",
+      "reading_th": "ลิส-เซิน ทู",
+      "meaning_th": "ฟัง (ต้องมี to)",
+      "emoji": "🎧",
+      "example_en": "I listen to podcasts on the way to work.",
+      "example_th": "ฉันฟังพอดแคสต์ระหว่างทางไปทำงาน",
+      "cefr": "A1",
+      "note_th": "ภาษาไทยพูดฟังเพลงไม่มีบุพบท คนไทยเลยลืม to — listen to music / listen to me เสมอ ส่วน hear ไม่ต้องมี to เพราะแค่ได้ยินโดยไม่ตั้งใจ",
+      "distractors": [
+        "listen",
+        "hear to",
+        "listen at"
+      ]
+    },
+    {
+      "id": "wait_for",
+      "word": "wait for",
+      "pos": "phrase",
+      "ipa": "/weɪt fɔːr/",
+      "reading_th": "เวท ฟอร์",
+      "meaning_th": "รอ (ต้องมี for)",
+      "emoji": "⏳",
+      "example_en": "Let's wait for the rain to stop.",
+      "example_th": "รอให้ฝนหยุดก่อนเถอะ",
+      "cefr": "A1",
+      "note_th": "\"รอเพื่อน\" ไม่ใช่ wait my friend ต้องเป็น wait for my friend — รอใครหรืออะไรต้องมี for เสมอ ยกเว้น Wait! หรือ Wait a minute. ที่ไม่มีกรรม",
+      "distractors": [
+        "wait",
+        "wait to",
+        "await for"
+      ]
+    },
+    {
+      "id": "married_to",
+      "word": "married to",
+      "pos": "phrase",
+      "ipa": "/ˈmærid tuː/",
+      "reading_th": "แม-ริด ทู",
+      "meaning_th": "แต่งงานกับ (ใช้ to)",
+      "emoji": "💍",
+      "example_en": "She is married to a chef from Italy.",
+      "example_th": "เธอแต่งงานกับเชฟชาวอิตาลี",
+      "cefr": "A2",
+      "note_th": "\"แต่งงานกับ\" ทำให้คนไทยพูด married with ซึ่งผิด — ต้องเป็น married to someone ส่วน get married to = จะแต่งงานกับ และ marry someone ไม่มีบุพบทเลย",
+      "distractors": [
+        "married with",
+        "marry with",
+        "married by"
+      ]
+    },
+    {
+      "id": "arrive_at",
+      "word": "arrive at",
+      "pos": "phrase",
+      "ipa": "/əˈraɪv æt/",
+      "reading_th": "อะ-ไรฟ์ แอท",
+      "meaning_th": "มาถึง (สถานที่)",
+      "emoji": "📍",
+      "example_en": "We will arrive at the hotel around noon.",
+      "example_th": "เราจะถึงโรงแรมประมาณเที่ยง",
+      "cefr": "A2",
+      "note_th": "ห้าม arrive to — สถานที่เล็ก (โรงแรม สนามบิน) ใช้ arrive at ส่วนเมืองหรือประเทศใช้ arrive in Bangkok และ arrive home ไม่มีบุพบทเลย",
+      "distractors": [
+        "arrive to",
+        "arrive in",
+        "reach at"
+      ]
+    },
+    {
+      "id": "go_home",
+      "word": "go home",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ hoʊm/",
+      "reading_th": "โก โฮม",
+      "meaning_th": "กลับไปที่บ้าน (ไม่ใช้ to)",
+      "emoji": "🏡",
+      "example_en": "I want to go home and sleep.",
+      "example_th": "ฉันอยากกลับบ้านไปนอน",
+      "cefr": "A1",
+      "note_th": "home เป็นคำพิเศษไม่ต้องมี to: go home / come home / get home — คนไทยติดพูด go to home เพราะคุ้นกับ go to school แต่ to home ผิดเสมอ",
+      "distractors": [
+        "go to home",
+        "go house",
+        "go to the home"
+      ]
+    },
+    {
+      "id": "enter",
+      "word": "enter",
+      "pos": "verb",
+      "ipa": "/ˈentər/",
+      "reading_th": "เอน-เทอร์",
+      "meaning_th": "เข้าไปใน",
+      "emoji": "🚪",
+      "example_en": "Please enter the room quietly.",
+      "example_th": "กรุณาเข้าห้องอย่างเงียบๆ",
+      "cefr": "A2",
+      "note_th": "enter มีความหมายว่า \"เข้าไปใน\" อยู่แล้ว ไม่ต้องเติม into (enter into the room ผิด) — เหมือน discuss ที่ไม่ต้องมี about และ answer ที่ไม่ต้องมี to",
+      "distractors": [
+        "enter into",
+        "entry",
+        "entire"
+      ]
+    },
+    {
+      "id": "contact",
+      "word": "contact",
+      "pos": "verb",
+      "ipa": "/ˈkɑːntækt/",
+      "reading_th": "คอน-แทคท์",
+      "meaning_th": "ติดต่อ",
+      "emoji": "📨",
+      "example_en": "You can contact me by email anytime.",
+      "example_th": "ติดต่อฉันทางอีเมลได้ตลอดเวลา",
+      "cefr": "A2",
+      "note_th": "\"ติดต่อกับ/ติดต่อไปที่\" ทำให้คนไทยพูด contact with / contact to ซึ่งผิด — contact someone ไม่มีบุพบท ส่วน stay in contact with ถึงจะมี with",
+      "distractors": [
+        "contact with",
+        "contact to",
+        "contract"
+      ]
+    },
+    {
+      "id": "depend_on",
+      "word": "depend on",
+      "pos": "phrase",
+      "ipa": "/dɪˈpend ɑːn/",
+      "reading_th": "ดิ-เพนด์ ออน",
+      "meaning_th": "ขึ้นอยู่กับ",
+      "emoji": "⚖️",
+      "example_en": "The price will depend on the season.",
+      "example_th": "ราคาจะขึ้นอยู่กับฤดูกาล",
+      "cefr": "A2",
+      "note_th": "ตามด้วย on เสมอ ไม่ใช่ depend of หรือ depend to — ประโยคยอดฮิต It depends. (แล้วแต่) ใช้ลอยๆ ได้ แต่พอมีกรรมต้องมี on: It depends on the weather.",
+      "distractors": [
+        "depend of",
+        "depend to",
+        "defend on"
+      ]
+    },
+    {
+      "id": "good_at",
+      "word": "good at",
+      "pos": "phrase",
+      "ipa": "/ɡʊd æt/",
+      "reading_th": "กุด แอท",
+      "meaning_th": "เก่งเรื่อง",
+      "emoji": "🏆",
+      "example_en": "My sister is good at drawing cartoons.",
+      "example_th": "น้องสาวฉันเก่งเรื่องวาดการ์ตูน",
+      "cefr": "A2",
+      "note_th": "\"เก่งเรื่อง\" ไม่ใช่ good in — ทักษะใช้ good at + คำนาม/V-ing (good at English, good at cooking) ส่วน good for = ดีต่อ (good for your health) และ good with = เข้ากับคนหรือของได้ดี (good with kids)",
+      "distractors": [
+        "good in",
+        "good for",
+        "good with"
+      ]
+    },
+    {
+      "id": "afraid_of",
+      "word": "afraid of",
+      "pos": "phrase",
+      "ipa": "/əˈfreɪd əv/",
+      "reading_th": "อะ-เฟรด ออฟ",
+      "meaning_th": "กลัว... (ตามด้วย of)",
+      "emoji": "😨",
+      "example_en": "He is afraid of dogs, even small ones.",
+      "example_th": "เขากลัวหมา แม้แต่ตัวเล็กๆ",
+      "cefr": "A2",
+      "note_th": "ภาษาไทยพูดกลัวหมาไม่มีบุพบท คนไทยเลยพูด afraid dogs — ต้องมี of เสมอ เหมือน scared of และ I'm afraid ... ยังใช้ขึ้นต้นข่าวร้ายแบบสุภาพได้ด้วย",
+      "distractors": [
+        "afraid from",
+        "afraid with",
+        "fear of"
+      ]
+    },
+    {
+      "id": "look_forward_to",
+      "word": "look forward to",
+      "pos": "phrase",
+      "ipa": "/lʊk ˈfɔːrwərd tuː/",
+      "reading_th": "ลุค ฟอร์-เวิร์ด ทู",
+      "meaning_th": "ตั้งตารอ",
+      "emoji": "🤩",
+      "example_en": "I look forward to seeing you in May.",
+      "example_th": "ตั้งตารอเจอคุณในเดือนพฤษภาคมนะ",
+      "cefr": "B1",
+      "note_th": "to ตรงนี้เป็นบุพบท ข้างหลังต้องเป็นคำนามหรือ V-ing: look forward to seeing you (ไม่ใช่ to see you) — ประโยคปิดอีเมลยอดฮิต I look forward to hearing from you.",
+      "distractors": [
+        "look forward",
+        "look forward for",
+        "look ahead to"
+      ]
+    },
+    {
+      "id": "agree_with",
+      "word": "agree with",
+      "pos": "phrase",
+      "ipa": "/əˈɡriː wɪð/",
+      "reading_th": "อะ-กรี วิธ",
+      "meaning_th": "เห็นด้วยกับ",
+      "emoji": "👍",
+      "example_en": "I agree with your plan for the trip.",
+      "example_th": "ฉันเห็นด้วยกับแผนเที่ยวของคุณ",
+      "cefr": "A2",
+      "note_th": "คนไทยชอบพูด I'm agree ซึ่งผิดเพราะ agree เป็นกริยาไม่ต้องมี am — เห็นด้วยกับคนหรือความเห็นใช้ agree with ส่วน agree to = ยอมตกลงตามข้อเสนอ",
+      "distractors": [
+        "I'm agree",
+        "agree to",
+        "agree on"
+      ]
+    },
+    {
+      "id": "in_time",
+      "word": "in time",
+      "pos": "phrase",
+      "ipa": "/ɪn taɪm/",
+      "reading_th": "อิน ไทม์",
+      "meaning_th": "ทันเวลา (ก่อนสายเกินไป)",
+      "emoji": "🏃‍♂️",
+      "example_en": "We got to the airport just in time.",
+      "example_th": "เราไปถึงสนามบินทันเวลาพอดี",
+      "cefr": "B1",
+      "note_th": "in time = ทันก่อนสายเกินไป ส่วน on time = ตรงเวลาตามกำหนด — รถไฟออก on time (ตรงเวลา) แต่คุณมา in time (ทันขึ้น) คนไทยใช้สลับกันบ่อยมาก",
+      "distractors": [
+        "on time",
+        "at time",
+        "by time"
+      ]
+    },
+    {
+      "id": "explain",
+      "word": "explain",
+      "pos": "verb",
+      "ipa": "/ɪkˈspleɪn/",
+      "reading_th": "อิก-สเปลน",
+      "meaning_th": "อธิบาย",
+      "emoji": "🧑‍🏫",
+      "example_en": "Could you explain this word to me?",
+      "example_th": "ช่วยอธิบายคำนี้ให้ฉันหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "\"อธิบายให้ฉัน\" ไม่ใช่ explain me — ต้องเป็น explain it to me (สิ่งที่อธิบายมาก่อน แล้วค่อย to คน) ต่างจาก tell me ที่คนมาก่อนได้",
+      "distractors": [
+        "explain me",
+        "explore",
+        "complain"
+      ]
+    },
+    {
+      "id": "furniture",
+      "word": "furniture",
+      "pos": "noun",
+      "ipa": "/ˈfɜːrnɪtʃər/",
+      "reading_th": "เฟอร์-นิ-เจอร์",
+      "meaning_th": "เฟอร์นิเจอร์ (นับไม่ได้)",
+      "emoji": "🛋️",
+      "example_en": "We bought new furniture for the living room.",
+      "example_th": "เราซื้อเฟอร์นิเจอร์ใหม่สำหรับห้องนั่งเล่น",
+      "cefr": "A2",
+      "note_th": "furniture นับไม่ได้ ห้ามพูด furnitures หรือ a furniture — นับเป็นชิ้นใช้ a piece of furniture หรือบอกชื่อของเลย a sofa, two chairs",
+      "distractors": [
+        "furnitures",
+        "furnish",
+        "future"
+      ]
+    },
+    {
+      "id": "advice",
+      "word": "advice",
+      "pos": "noun",
+      "ipa": "/ədˈvaɪs/",
+      "reading_th": "แอด-ไวซ์",
+      "meaning_th": "คำแนะนำ",
+      "emoji": "💬",
+      "example_en": "Can I give you a piece of advice?",
+      "example_th": "ขอให้คำแนะนำสักข้อได้ไหม",
+      "cefr": "A2",
+      "note_th": "advice นับไม่ได้ ห้ามพูด an advice / advices — ใช้ some advice หรือ a piece of advice ส่วนกริยาคือ advise (สะกด s ออกเสียง ซ) คนไทยปนกันบ่อย",
+      "distractors": [
+        "advices",
+        "advise",
+        "device"
+      ]
+    },
+    {
+      "id": "information",
+      "word": "information",
+      "pos": "noun",
+      "ipa": "/ˌɪnfərˈmeɪʃən/",
+      "reading_th": "อิน-เฟอร์-เม-ชั่น",
+      "meaning_th": "ข้อมูล (นับไม่ได้)",
+      "emoji": "ℹ️",
+      "example_en": "The website has information about visas.",
+      "example_th": "เว็บไซต์มีข้อมูลเกี่ยวกับวีซ่า",
+      "cefr": "A2",
+      "note_th": "informations ไม่มีในภาษาอังกฤษ — นับไม่ได้เสมอ ใช้ some information / a piece of information และเคาน์เตอร์ประชาสัมพันธ์ก็เขียนว่า Information",
+      "distractors": [
+        "informations",
+        "inform",
+        "formation"
+      ]
+    },
+    {
+      "id": "equipment",
+      "word": "equipment",
+      "pos": "noun",
+      "ipa": "/ɪˈkwɪpmənt/",
+      "reading_th": "อิ-ควิพ-เมินท์",
+      "meaning_th": "อุปกรณ์",
+      "emoji": "🧰",
+      "example_en": "The gym has new equipment this month.",
+      "example_th": "ยิมมีอุปกรณ์ใหม่เดือนนี้",
+      "cefr": "B1",
+      "note_th": "equipment นับไม่ได้ ห้าม equipments — นับเป็นชิ้นใช้ a piece of equipment ส่วนอุปกรณ์ชิ้นเล็กที่นับได้ใช้คำว่า tool หรือ device แทน",
+      "distractors": [
+        "equipments",
+        "equip",
+        "apartment"
+      ]
+    },
+    {
+      "id": "news",
+      "word": "news",
+      "pos": "noun",
+      "ipa": "/nuːz/",
+      "reading_th": "นิวส์",
+      "meaning_th": "ข่าว",
+      "emoji": "📰",
+      "example_en": "The news is on at eight every night.",
+      "example_th": "ข่าวออกอากาศตอนสองทุ่มทุกคืน",
+      "cefr": "A2",
+      "note_th": "news ลงท้าย s แต่เป็นเอกพจน์นับไม่ได้: The news is good. (ไม่ใช่ are) — ข่าวหนึ่งเรื่องคือ a piece of news และไม่มีคำว่า a new ที่เป็นคำนาม",
+      "distractors": [
+        "a new",
+        "newses",
+        "noose"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "word": "knowledge",
+      "pos": "noun",
+      "ipa": "/ˈnɑːlɪdʒ/",
+      "reading_th": "นอ-ลิดจ์",
+      "meaning_th": "ความรู้",
+      "emoji": "🎓",
+      "example_en": "He has a lot of knowledge about Thai history.",
+      "example_th": "เขามีความรู้เรื่องประวัติศาสตร์ไทยเยอะมาก",
+      "cefr": "B1",
+      "note_th": "นับไม่ได้ ห้าม knowledges — ใช้ a lot of knowledge หรือ some knowledge และ k ตัวแรกไม่ออกเสียง อ่านว่า นอ-ลิดจ์ ไม่ใช่ โนว์-เลจ",
+      "distractors": [
+        "knowledges",
+        "knowing",
+        "acknowledge"
+      ]
+    },
+    {
+      "id": "jewelry",
+      "word": "jewelry",
+      "pos": "noun",
+      "ipa": "/ˈdʒuːəlri/",
+      "reading_th": "จูล-รี่",
+      "meaning_th": "เครื่องประดับ",
+      "emoji": "💍",
+      "example_en": "She keeps her jewelry in a small box.",
+      "example_th": "เธอเก็บเครื่องประดับไว้ในกล่องเล็กๆ",
+      "cefr": "B1",
+      "note_th": "นับไม่ได้ ห้าม jewelries — นับเป็นชิ้นใช้ a piece of jewelry หรือเรียกชื่อ a ring, a necklace สะกดแบบอังกฤษคือ jewellery",
+      "distractors": [
+        "jewelries",
+        "jewel",
+        "jeweler"
+      ]
+    },
+    {
+      "id": "clothes",
+      "word": "clothes",
+      "pos": "noun",
+      "ipa": "/kloʊðz/",
+      "reading_th": "โคลธส์",
+      "meaning_th": "เสื้อผ้า",
+      "emoji": "👕",
+      "example_en": "My clothes are still wet from the rain.",
+      "example_th": "เสื้อผ้าฉันยังเปียกฝนอยู่",
+      "cefr": "A2",
+      "note_th": "clothes เป็นพหูพจน์เสมอ ไม่มี a clothe — เสื้อผ้าหนึ่งชิ้นคือ a piece of clothing หรือ an item of clothing ออกเสียง โคลธส์ พยางค์เดียว ไม่ใช่ โคล-เธส",
+      "distractors": [
+        "a clothe",
+        "cloth",
+        "close"
+      ]
+    },
+    {
+      "id": "people",
+      "word": "people",
+      "pos": "noun",
+      "ipa": "/ˈpiːpəl/",
+      "reading_th": "พี-เพิล",
+      "meaning_th": "ผู้คน (พหูพจน์ของ person)",
+      "emoji": "👥",
+      "example_en": "Many people were waiting for the bus.",
+      "example_th": "คนจำนวนมากกำลังรอรถเมล์",
+      "cefr": "A1",
+      "note_th": "people เป็นพหูพจน์อยู่แล้ว ห้าม peoples และ three persons ก็ฟังดูแข็งเป็นภาษากฎหมาย — พูดว่า three people ส่วน a person ใช้เมื่อคนเดียว",
+      "distractors": [
+        "peoples",
+        "persons",
+        "pupil"
+      ]
+    },
+    {
+      "id": "hair",
+      "word": "hair",
+      "pos": "noun",
+      "ipa": "/her/",
+      "reading_th": "แฮร์",
+      "meaning_th": "ผม (ทั้งหัว)",
+      "emoji": "💇",
+      "example_en": "Her hair is long and black.",
+      "example_th": "ผมของเธอยาวและดำ",
+      "cefr": "A1",
+      "note_th": "ผมบนหัวนับไม่ได้: My hair is long. (ไม่ใช่ are) — hairs (มี s) หมายถึงเส้นผมที่นับเป็นเส้น เช่น found two hairs in my soup ฟังดูคนละอารมณ์เลย",
+      "distractors": [
+        "hairs",
+        "hare",
+        "heir"
+      ]
+    },
+    {
+      "id": "paper",
+      "word": "paper",
+      "pos": "noun",
+      "ipa": "/ˈpeɪpər/",
+      "reading_th": "เพ-เพอร์",
+      "meaning_th": "กระดาษ",
+      "emoji": "📃",
+      "example_en": "Could you give me some paper to write on?",
+      "example_th": "ขอกระดาษมาเขียนหน่อยได้ไหม",
+      "cefr": "A1",
+      "note_th": "กระดาษนับไม่ได้ ขอแผ่นเดียวพูด a sheet of paper หรือ a piece of paper — ส่วน a paper (มี a) แปลว่าหนังสือพิมพ์หรือบทความวิชาการ",
+      "distractors": [
+        "a paper",
+        "papers",
+        "pepper"
+      ]
+    },
+    {
+      "id": "glasses",
+      "word": "glasses",
+      "pos": "noun",
+      "ipa": "/ˈɡlæsɪz/",
+      "reading_th": "กลาส-เซส",
+      "meaning_th": "แว่นตา",
+      "emoji": "👓",
+      "example_en": "I can't read without my glasses.",
+      "example_th": "ฉันอ่านไม่ได้ถ้าไม่ใส่แว่น",
+      "cefr": "A2",
+      "note_th": "แว่นตาเป็นพหูพจน์เสมอเพราะมีสองเลนส์ ห้าม a glass (นั่นคือแก้วน้ำ) — แว่นหนึ่งอันคือ a pair of glasses เหมือน a pair of jeans",
+      "distractors": [
+        "a glass",
+        "glass",
+        "eyeglass"
+      ]
+    },
+    {
+      "id": "trousers",
+      "word": "trousers",
+      "pos": "noun",
+      "ipa": "/ˈtraʊzərz/",
+      "reading_th": "เทรา-เซอร์ส",
+      "meaning_th": "กางเกงขายาว (คำอังกฤษ)",
+      "emoji": "👖",
+      "example_en": "These trousers are too long for me.",
+      "example_th": "กางเกงตัวนี้ยาวเกินไปสำหรับฉัน",
+      "cefr": "A2",
+      "note_th": "กางเกงเป็นพหูพจน์เสมอ (มีสองขา) ใช้ these trousers / a pair of trousers — อเมริกันเรียก pants แต่ระวังที่อังกฤษ pants = กางเกงใน",
+      "distractors": [
+        "a trouser",
+        "pants",
+        "trousers pair"
+      ]
+    },
+    {
+      "id": "progress",
+      "word": "progress",
+      "pos": "noun",
+      "ipa": "/ˈprɑːɡres/",
+      "reading_th": "พร็อก-เกรส",
+      "meaning_th": "ความคืบหน้า",
+      "emoji": "📈",
+      "example_en": "You are making good progress in English.",
+      "example_th": "ภาษาอังกฤษของคุณคืบหน้าไปได้ดีเลย",
+      "cefr": "B1",
+      "note_th": "นับไม่ได้ ห้าม a progress / progresses — ใช้ make progress (ไม่ใช่ do progress) และ in progress = กำลังดำเนินการ ป้ายที่เห็นบ่อยคือ Work in progress",
+      "distractors": [
+        "a progress",
+        "process",
+        "progression"
+      ]
+    },
+    {
+      "id": "snake",
+      "word": "snake",
+      "pos": "noun",
+      "ipa": "/sneɪk/",
+      "reading_th": "สเนค",
+      "meaning_th": "งู",
+      "emoji": "🐍",
+      "example_en": "A snake crossed the road in front of us.",
+      "example_th": "งูเลื้อยข้ามถนนตรงหน้าเรา",
+      "cefr": "A2",
+      "note_th": "snake (เสียง เอ ยาว) = งู แต่ snack (เสียง แอ สั้น) = ขนมกินเล่น — คนไทยพูด Let's have a snake. บ่อยมาก ฝรั่งจะตกใจว่าจะกินงู",
+      "distractors": [
+        "snack",
+        "sneak",
+        "snail"
+      ]
+    },
+    {
+      "id": "sink",
+      "word": "sink",
+      "pos": "noun",
+      "ipa": "/sɪŋk/",
+      "reading_th": "ซิงค์",
+      "meaning_th": "อ่างล้างจาน / จม",
+      "emoji": "🚰",
+      "example_en": "The dishes are still in the sink.",
+      "example_th": "จานยังกองอยู่ในอ่างล้างจาน",
+      "cefr": "A2",
+      "note_th": "sink ขึ้นต้นเสียง s แต่ think ขึ้นต้นเสียง th (แลบลิ้น) — I sink so. ฝรั่งได้ยินเป็นฉันจม ฝึกแลบลิ้นแตะฟันตอนพูด think ทุกครั้ง",
+      "distractors": [
+        "think",
+        "sing",
+        "zinc"
+      ]
+    },
+    {
+      "id": "whole",
+      "word": "whole",
+      "pos": "adjective",
+      "ipa": "/hoʊl/",
+      "reading_th": "โฮล",
+      "meaning_th": "ทั้งหมด ทั้งก้อน",
+      "emoji": "🍕",
+      "example_en": "I ate the whole pizza by myself.",
+      "example_th": "ฉันกินพิซซ่าทั้งถาดคนเดียว",
+      "cefr": "A2",
+      "note_th": "whole กับ hole ออกเสียงเหมือนกัน โฮล — whole = ทั้งหมด (the whole day) hole = รู (a hole in my sock) ดูบริบทและตัวสะกด w ที่ไม่ออกเสียง",
+      "distractors": [
+        "hole",
+        "hall",
+        "howl"
+      ]
+    },
+    {
+      "id": "fool",
+      "word": "fool",
+      "pos": "noun",
+      "ipa": "/fuːl/",
+      "reading_th": "ฟูล",
+      "meaning_th": "คนโง่ / หลอก",
+      "emoji": "🤡",
+      "example_en": "Don't be a fool, read the contract first.",
+      "example_th": "อย่าโง่สิ อ่านสัญญาก่อน",
+      "cefr": "B1",
+      "note_th": "fool (สระ อู ยาว) = คนโง่ แต่ full (สระ อุ สั้น) = เต็ม/อิ่ม — พูดว่า I'm fool. หลังกินข้าว ฝรั่งได้ยินว่าฉันโง่ ต้องสั้นๆ ว่า I'm full.",
+      "distractors": [
+        "full",
+        "fuel",
+        "foul"
+      ]
+    },
+    {
+      "id": "peace",
+      "word": "peace",
+      "pos": "noun",
+      "ipa": "/piːs/",
+      "reading_th": "พีซ",
+      "meaning_th": "สันติภาพ ความสงบ",
+      "emoji": "☮️",
+      "example_en": "I just want some peace and quiet this weekend.",
+      "example_th": "สุดสัปดาห์นี้ฉันแค่อยากได้ความสงบเงียบ",
+      "cefr": "B1",
+      "note_th": "peace กับ piece ออกเสียงเหมือนกันเป๊ะ พีซ — peace = สันติภาพ piece = ชิ้น (a piece of cake) ต่างกันที่ตัวสะกด จำว่า piece มี pie อยู่ข้างใน",
+      "distractors": [
+        "piece",
+        "peas",
+        "please"
+      ]
+    },
+    {
+      "id": "breathe",
+      "word": "breathe",
+      "pos": "verb",
+      "ipa": "/briːð/",
+      "reading_th": "บรีธ",
+      "meaning_th": "หายใจ (กริยา)",
+      "emoji": "🌬️",
+      "example_en": "Breathe slowly when you feel nervous.",
+      "example_th": "หายใจช้าๆ เวลารู้สึกประหม่า",
+      "cefr": "B1",
+      "note_th": "breathe (กริยา มี e ท้าย เสียง อี ยาว) = หายใจ ส่วน breath (คำนาม เสียง เอะ สั้น) = ลมหายใจ — take a deep breath แต่ breathe in, breathe out",
+      "distractors": [
+        "breath",
+        "breed",
+        "bread"
+      ]
+    },
+    {
+      "id": "chief",
+      "word": "chief",
+      "pos": "noun",
+      "ipa": "/tʃiːf/",
+      "reading_th": "ชีฟ",
+      "meaning_th": "หัวหน้าสูงสุด",
+      "emoji": "🎖️",
+      "example_en": "The chief of the village welcomed us.",
+      "example_th": "ผู้ใหญ่บ้านมาต้อนรับเรา",
+      "cefr": "B1",
+      "note_th": "chief (เสียง ช) = หัวหน้า ส่วน chef (เสียง เช็ฟ แบบฝรั่งเศส) = พ่อครัว — คนไทยเรียกพ่อครัวว่าชีฟบ่อยมาก และตำแหน่ง CEO คือ Chief Executive Officer",
+      "distractors": [
+        "chef",
+        "cheap",
+        "chip"
+      ]
+    },
+    {
+      "id": "stir",
+      "word": "stir",
+      "pos": "verb",
+      "ipa": "/stɜːr/",
+      "reading_th": "สเตอร์",
+      "meaning_th": "คน (กวนให้เข้ากัน)",
+      "emoji": "🥄",
+      "example_en": "Stir the soup for two minutes.",
+      "example_th": "คนซุปสักสองนาที",
+      "cefr": "A2",
+      "note_th": "stir (เสียง เออ) = คนในหม้อ แต่ star (เสียง อา) = ดาว — คนไทยพูด star-fry แทน stir-fry (ผัด) บ่อยมาก ร้านอาหารไทยในต่างประเทศเขียนผิดก็มี",
+      "distractors": [
+        "star",
+        "steer",
+        "store"
+      ]
+    },
+    {
+      "id": "vest",
+      "word": "vest",
+      "pos": "noun",
+      "ipa": "/vest/",
+      "reading_th": "เวสท์",
+      "meaning_th": "เสื้อกั๊ก",
+      "emoji": "🦺",
+      "example_en": "He wore a yellow vest over his shirt.",
+      "example_th": "เขาใส่เสื้อกั๊กสีเหลืองทับเสื้อเชิ้ต",
+      "cefr": "B1",
+      "note_th": "v ต้องกัดริมฝีปากล่างให้มีเสียงสั่น ไม่ใช่ w — ถ้าออกเสียง west จะกลายเป็นทิศตะวันตก ลองคู่ vest/west, vine/wine, vet/wet",
+      "distractors": [
+        "west",
+        "best",
+        "waist"
+      ]
+    },
+    {
+      "id": "worm",
+      "word": "worm",
+      "pos": "noun",
+      "ipa": "/wɜːrm/",
+      "reading_th": "เวิร์ม",
+      "meaning_th": "หนอน",
+      "emoji": "🪱",
+      "example_en": "A worm is good for the garden soil.",
+      "example_th": "หนอนดีต่อดินในสวน",
+      "cefr": "A2",
+      "note_th": "worm (เสียง เออ) = หนอน แต่ warm (เสียง ออ) = อุ่น — พูด warm up ให้เป็น เวิร์ม จะกลายเป็นหนอนขึ้น เสียง or ใน word, work, world ก็เป็นเสียง เออ เหมือนกัน",
+      "distractors": [
+        "warm",
+        "worn",
+        "swarm"
+      ]
+    },
+    {
+      "id": "sheep",
+      "word": "sheep",
+      "pos": "noun",
+      "ipa": "/ʃiːp/",
+      "reading_th": "ชีพ",
+      "meaning_th": "แกะ",
+      "emoji": "🐑",
+      "example_en": "The farm has sheep, cows and goats.",
+      "example_th": "ฟาร์มมีแกะ วัว และแพะ",
+      "cefr": "A2",
+      "note_th": "sheep (เสียง อี ยาว) = แกะ แต่ ship (เสียง อิ สั้น) = เรือ — และ sheep เอกพจน์พหูพจน์เหมือนกัน ห้าม sheeps ฝูงแกะคือ a flock of sheep",
+      "distractors": [
+        "ship",
+        "sheet",
+        "cheap"
+      ]
+    },
+    {
+      "id": "sheet",
+      "word": "sheet",
+      "pos": "noun",
+      "ipa": "/ʃiːt/",
+      "reading_th": "ชีท",
+      "meaning_th": "ผ้าปูที่นอน / แผ่น",
+      "emoji": "🛏️",
+      "example_en": "Please change the sheet on the bed.",
+      "example_th": "ช่วยเปลี่ยนผ้าปูที่นอนด้วย",
+      "cefr": "A2",
+      "note_th": "ต้องลากเสียง อี ให้ยาว ชี-ท ถ้าสั้นจะกลายเป็นคำหยาบที่ฝรั่งสะดุ้ง — ใช้กับ a sheet of paper และ bed sheets (ผ้าปู) ส่วนชีทเรียนคือ handout",
+      "distractors": [
+        "shit",
+        "seat",
+        "sheep"
+      ]
+    },
+    {
+      "id": "quite",
+      "word": "quite",
+      "pos": "adverb",
+      "ipa": "/kwaɪt/",
+      "reading_th": "ไควท์",
+      "meaning_th": "ค่อนข้าง",
+      "emoji": "📏",
+      "example_en": "The hotel was quite good for the price.",
+      "example_th": "โรงแรมค่อนข้างดีเมื่อเทียบกับราคา",
+      "cefr": "B1",
+      "note_th": "quite (ไควท์ พยางค์เดียว) = ค่อนข้าง แต่ quiet (ไคว-เอ็ท สองพยางค์) = เงียบ — สะกดต่างกันแค่สลับตัวอักษร คนไทยพิมพ์ผิดกันทั้งประเทศ",
+      "distractors": [
+        "quiet",
+        "quit",
+        "quote"
+      ]
+    },
+    {
+      "id": "collect",
+      "word": "collect",
+      "pos": "verb",
+      "ipa": "/kəˈlekt/",
+      "reading_th": "คะ-เล็คท์",
+      "meaning_th": "เก็บรวบรวม / สะสม",
+      "emoji": "🪙",
+      "example_en": "I collect old coins from many countries.",
+      "example_th": "ฉันสะสมเหรียญเก่าจากหลายประเทศ",
+      "cefr": "A2",
+      "note_th": "collect (เสียง l) = เก็บรวบรวม แต่ correct (เสียง r) = ถูกต้อง — ปัญหา l กับ r ของคนไทย ฝึก l แตะลิ้นที่เพดาน r ม้วนลิ้นไม่แตะ ลองคู่ collect/correct, light/right",
+      "distractors": [
+        "correct",
+        "connect",
+        "collapse"
+      ]
+    },
+    {
+      "id": "would_like",
+      "word": "would like",
+      "pos": "phrase",
+      "ipa": "/wʊd laɪk/",
+      "reading_th": "วุด ไลค์",
+      "meaning_th": "อยากได้ (แบบสุภาพ)",
+      "emoji": "☕",
+      "example_en": "I would like a coffee with milk, please.",
+      "example_th": "ขอกาแฟใส่นมหนึ่งแก้วค่ะ",
+      "cefr": "A2",
+      "note_th": "I want ... ฟังดูเหมือนเด็กเรียกร้อง โดยเฉพาะกับพนักงาน — สั่งของให้ใช้ I'd like ... (ย่อจาก I would like) แล้วปิดท้ายด้วย please ฝรั่งจะมองว่าสุภาพทันที",
+      "distractors": [
+        "I want",
+        "would love",
+        "will like"
+      ]
+    },
+    {
+      "id": "could_i_have",
+      "word": "could I have",
+      "pos": "phrase",
+      "ipa": "/kʊd aɪ hæv/",
+      "reading_th": "คุด ไอ แฮฟ",
+      "meaning_th": "ขอ... หน่อยได้ไหม",
+      "emoji": "🙋‍♀️",
+      "example_en": "Could I have the menu, please?",
+      "example_th": "ขอเมนูหน่อยได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "Give me the menu. แปลตรงจาก \"ขอเมนู\" แต่ฝรั่งได้ยินเป็นคำสั่ง — ใช้ Could I have ...? หรือ Can I get ...? (อเมริกัน) ตามด้วย please เสมอ",
+      "distractors": [
+        "give me",
+        "I take",
+        "could I get"
+      ]
+    },
+    {
+      "id": "have_a_seat",
+      "word": "have a seat",
+      "pos": "phrase",
+      "ipa": "/hæv ə siːt/",
+      "reading_th": "แฮฟ อะ ซีท",
+      "meaning_th": "เชิญนั่ง",
+      "emoji": "🪑",
+      "example_en": "Please have a seat, the doctor is coming.",
+      "example_th": "เชิญนั่งก่อนนะคะ คุณหมอกำลังมา",
+      "cefr": "A2",
+      "note_th": "Sit down! เป็นคำสั่งที่ใช้กับหมาหรือนักเรียนดื้อ — เชิญแขกหรือลูกค้านั่งใช้ Have a seat. / Take a seat. / Please sit down. (มี please ก็ยังพอได้)",
+      "distractors": [
+        "sit down",
+        "sit",
+        "take a sit"
+      ]
+    },
+    {
+      "id": "make_sense",
+      "word": "make sense",
+      "pos": "phrase",
+      "ipa": "/meɪk sens/",
+      "reading_th": "เมค เซนส์",
+      "meaning_th": "เข้าใจได้ สมเหตุสมผล",
+      "emoji": "💡",
+      "example_en": "Does the plan make sense to you?",
+      "example_th": "แผนนี้ฟังเข้าใจไหม",
+      "cefr": "B1",
+      "note_th": "Do you understand? หลังอธิบายฟังเหมือนดูถูกว่าอีกฝ่ายโง่ — ใช้ Does that make sense? (ที่ฉันพูดเข้าใจได้ไหม) ความผิดอยู่ที่ผู้พูด ไม่ใช่ผู้ฟัง",
+      "distractors": [
+        "do you understand",
+        "make a sense",
+        "have sense"
+      ]
+    },
+    {
+      "id": "pardon",
+      "word": "pardon",
+      "pos": "phrase",
+      "ipa": "/ˈpɑːrdən/",
+      "reading_th": "พาร์-เดิน",
+      "meaning_th": "ขอโทษ ว่าอะไรนะ",
+      "emoji": "👂",
+      "example_en": "Pardon? I didn't catch your name.",
+      "example_th": "ว่าอะไรนะคะ ฉันฟังชื่อคุณไม่ทัน",
+      "cefr": "A2",
+      "note_th": "ฟังไม่ทันแล้วพูด What? ฟังดูหยาบมาก — ใช้ Pardon? / Sorry? / Could you say that again? ส่วน I beg your pardon. ใช้ตอนรู้สึกว่าโดนดูถูก",
+      "distractors": [
+        "what",
+        "pardon me for",
+        "garden"
+      ]
+    },
+    {
+      "id": "im_afraid_not",
+      "word": "I'm afraid not",
+      "pos": "phrase",
+      "ipa": "/aɪm əˈfreɪd nɑːt/",
+      "reading_th": "ไอม์ อะ-เฟรด น็อท",
+      "meaning_th": "เกรงว่าไม่ได้ค่ะ/ครับ",
+      "emoji": "🙇",
+      "example_en": "Can we change the date? I'm afraid not.",
+      "example_th": "เปลี่ยนวันได้ไหม เกรงว่าไม่ได้ค่ะ",
+      "cefr": "B1",
+      "note_th": "ตอบ No. ห้วนๆ ฟังดูเย็นชา — ปฏิเสธแบบมีมารยาทใช้ I'm afraid not. / I'm afraid I can't. ไม่ได้แปลว่ากลัวจริงๆ เป็นการเกริ่นข่าวร้ายแบบนุ่มนวล",
+      "distractors": [
+        "no",
+        "I'm not afraid",
+        "I'm afraid so"
+      ]
+    },
+    {
+      "id": "not_sure",
+      "word": "not sure",
+      "pos": "phrase",
+      "ipa": "/nɑːt ʃʊr/",
+      "reading_th": "น็อท ชัวร์",
+      "meaning_th": "ไม่แน่ใจ",
+      "emoji": "🤷‍♂️",
+      "example_en": "I'm not sure if the shop opens today.",
+      "example_th": "ฉันไม่แน่ใจว่าวันนี้ร้านเปิดไหม",
+      "cefr": "A2",
+      "note_th": "I don't know. ตอบลูกค้าหรือหัวหน้าฟังดูไม่สนใจ — ใช้ I'm not sure, let me check. ฟังดูรับผิดชอบกว่า คนไทยพูด \"ชัวร์\" ก็มาจาก sure นี่เอง",
+      "distractors": [
+        "I don't know",
+        "not sure about",
+        "no sure"
+      ]
+    },
+    {
+      "id": "excuse_me",
+      "word": "excuse me",
+      "pos": "phrase",
+      "ipa": "/ɪkˈskjuːz miː/",
+      "reading_th": "อิก-สคิวส์ มี",
+      "meaning_th": "ขอโทษนะคะ/ครับ (ขอทาง ขอถาม)",
+      "emoji": "🙋",
+      "example_en": "Excuse me, is this seat taken?",
+      "example_th": "ขอโทษนะคะ ที่นั่งนี้มีคนไหม",
+      "cefr": "A1",
+      "note_th": "\"ขอโทษ\" ภาษาไทยคำเดียวแต่อังกฤษแยก: ก่อนรบกวน/ขอทาง/เรียกพนักงานใช้ Excuse me. ส่วน Sorry ใช้หลังทำผิดแล้ว — เดินชนคนต้อง Sorry ไม่ใช่ Excuse me",
+      "distractors": [
+        "sorry",
+        "excuse you",
+        "forgive me"
+      ]
+    },
+    {
+      "id": "i_dont_mind",
+      "word": "I don't mind",
+      "pos": "phrase",
+      "ipa": "/aɪ doʊnt maɪnd/",
+      "reading_th": "ไอ โดนท์ ไมนด์",
+      "meaning_th": "ไม่ว่าอะไร ไม่ติด",
+      "emoji": "😌",
+      "example_en": "Tea or coffee? I don't mind, thanks.",
+      "example_th": "ชาหรือกาแฟ อะไรก็ได้ค่ะ ขอบคุณ",
+      "cefr": "A2",
+      "note_th": "\"ยังไงก็ได้\" ถ้าพูด I don't care. ฝรั่งได้ยินเป็นฉันไม่แคร์ ไม่สนใจคุณ — ใช้ I don't mind. (ไม่ติด) และตอบคำขออนุญาตว่า No, I don't mind. = ได้เลย",
+      "distractors": [
+        "I don't care",
+        "I don't mine",
+        "never mind"
+      ]
+    },
+    {
+      "id": "either_is_fine",
+      "word": "either is fine",
+      "pos": "phrase",
+      "ipa": "/ˈiːðər ɪz faɪn/",
+      "reading_th": "อี-เธอร์ อิส ไฟน์",
+      "meaning_th": "อันไหนก็ได้ทั้งสองอย่าง",
+      "emoji": "👌",
+      "example_en": "Either is fine with me, you choose.",
+      "example_th": "อันไหนก็ได้ คุณเลือกเลย",
+      "cefr": "B1",
+      "note_th": "Whatever. ที่คนไทยคิดว่าแปลว่าอะไรก็ได้ จริงๆ ฟังดูเหมือนเบื่อหน่ายไม่อยากคุย — ใช้ Either is fine. (สองตัวเลือก) หรือ Anything is fine. / Up to you.",
+      "distractors": [
+        "whatever",
+        "neither is fine",
+        "both are fine"
+      ]
+    },
+    {
+      "id": "just_a_moment",
+      "word": "just a moment",
+      "pos": "phrase",
+      "ipa": "/dʒʌst ə ˈmoʊmənt/",
+      "reading_th": "จัสท์ อะ โม-เมินท์",
+      "meaning_th": "รอแป๊บนึง",
+      "emoji": "⏱️",
+      "example_en": "Just a moment, I'll check the room for you.",
+      "example_th": "รอสักครู่นะคะ เดี๋ยวเช็กห้องให้",
+      "cefr": "A2",
+      "note_th": "Wait! ตัวเดียวเป็นคำสั่งแข็งๆ — ให้ลูกค้ารอใช้ Just a moment, please. / One moment, please. ส่วนกับเพื่อนใช้ Hold on. หรือ Hang on a sec.",
+      "distractors": [
+        "wait",
+        "just a minute ago",
+        "moment please"
+      ]
+    },
+    {
+      "id": "elderly",
+      "word": "elderly",
+      "pos": "adjective",
+      "ipa": "/ˈeldərli/",
+      "reading_th": "เอล-เดอร์-ลี่",
+      "meaning_th": "ผู้สูงอายุ (สุภาพ)",
+      "emoji": "👵",
+      "example_en": "The elderly woman needed a seat on the bus.",
+      "example_th": "คุณยายสูงอายุต้องการที่นั่งบนรถเมล์",
+      "cefr": "B1",
+      "note_th": "เรียกคนว่า old man / old woman ต่อหน้าฟังดูไม่ให้เกียรติ — ใช้ elderly หรือ senior (senior citizen) และคำว่า \"ป้า\" \"ลุง\" ก็ไม่ควรแปลตรงตัวว่า aunt / uncle กับคนแปลกหน้า",
+      "distractors": [
+        "old",
+        "elder",
+        "early"
+      ]
+    },
+    {
+      "id": "westerner",
+      "word": "Westerner",
+      "pos": "noun",
+      "ipa": "/ˈwestərnər/",
+      "reading_th": "เวส-เทิร์น-เนอร์",
+      "meaning_th": "ชาวตะวันตก ฝรั่ง",
+      "emoji": "🌍",
+      "example_en": "Many Westerners move to Chiang Mai for the lifestyle.",
+      "example_th": "ชาวตะวันตกหลายคนย้ายมาเชียงใหม่เพราะไลฟ์สไตล์",
+      "cefr": "B1",
+      "note_th": "\"ฝรั่ง\" ไม่ได้หยาบในภาษาไทย แต่ farang หรือ foreigner ตะโกนเรียกต่อหน้าฝรั่งอาจรู้สึกถูกแบ่งแยก — บรรยายคนใช้ Westerner หรือบอกสัญชาติไปเลยดีที่สุด",
+      "distractors": [
+        "farang",
+        "foreigner",
+        "western"
+      ]
+    },
+    {
+      "id": "after_you",
+      "word": "after you",
+      "pos": "phrase",
+      "ipa": "/ˈæftər juː/",
+      "reading_th": "อาฟ-เทอร์ ยู",
+      "meaning_th": "เชิญคุณก่อน",
+      "emoji": "🚪",
+      "example_en": "After you, please, the door is open.",
+      "example_th": "เชิญคุณก่อนเลยครับ ประตูเปิดแล้ว",
+      "cefr": "A2",
+      "note_th": "\"เชิญก่อน\" ถ้าพูด You go first. หรือ Go! จะเหมือนออกคำสั่ง — มารยาทหน้าประตูหรือลิฟต์คือ After you. สั้น สุภาพ และฝรั่งใช้กันจริง",
+      "distractors": [
+        "you go first",
+        "before you",
+        "follow me"
+      ]
+    }
+  ]
+}

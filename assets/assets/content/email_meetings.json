@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "email_meetings",
+    "name_en": "Email & Meetings Pro",
+    "name_th": "อีเมลและการประชุม",
+    "emoji": "📧",
+    "color_start": "#F472B6",
+    "color_end": "#BE185D",
+    "description_th": "เขียนอีเมลธุรกิจและนำประชุมเป็นภาษาอังกฤษแบบมืออาชีพ วลีที่ใช้จริงทุกวัน",
+    "mascot_costume": "office",
+    "lessons": [
+      {
+        "id": "email_meetings_1",
+        "title_en": "Openers & Closers",
+        "title_th": "เปิดและปิดอีเมล",
+        "emoji": "✉️",
+        "word_ids": [
+          "dear",
+          "greeting",
+          "regards",
+          "sincerely",
+          "hope_you_are_well",
+          "regarding",
+          "as_per",
+          "further_to",
+          "please_find_attached",
+          "yours_faithfully",
+          "cc",
+          "bcc",
+          "recipient",
+          "to_whom_it_may_concern"
+        ]
+      },
+      {
+        "id": "email_meetings_2",
+        "title_en": "Requests & Follow-ups",
+        "title_th": "ขอและติดตามงาน",
+        "emoji": "🔔",
+        "word_ids": [
+          "request",
+          "would_you_mind",
+          "kindly",
+          "at_your_earliest_convenience",
+          "reminder",
+          "just_checking_in",
+          "chase_up",
+          "pending",
+          "asap",
+          "beforehand",
+          "revert",
+          "acknowledge",
+          "keep_me_posted",
+          "approval"
+        ]
+      },
+      {
+        "id": "email_meetings_3",
+        "title_en": "Scheduling",
+        "title_th": "นัดและเลื่อนนัด",
+        "emoji": "📅",
+        "word_ids": [
+          "availability",
+          "out_of_office",
+          "time_slot",
+          "reschedule",
+          "push_back",
+          "bring_forward",
+          "calendar_invite",
+          "clash",
+          "tentative",
+          "time_zone",
+          "does_that_work_for_you",
+          "pencil_in",
+          "back_to_back",
+          "recurring"
+        ]
+      },
+      {
+        "id": "email_meetings_4",
+        "title_en": "Running a Meeting",
+        "title_th": "นำประชุม",
+        "emoji": "🎤",
+        "word_ids": [
+          "facilitate",
+          "kick_things_off",
+          "chairperson",
+          "attendee",
+          "sum_up",
+          "park",
+          "the_floor_is_yours",
+          "interrupt",
+          "on_track",
+          "timekeeper",
+          "any_other_business",
+          "adjourn",
+          "ground_rules",
+          "put_forward"
+        ]
+      },
+      {
+        "id": "email_meetings_5",
+        "title_en": "Diplomatic Opinions",
+        "title_th": "เสนอความเห็นอย่างนุ่มนวล",
+        "emoji": "🤝",
+        "word_ids": [
+          "i_see_your_point",
+          "with_all_due_respect",
+          "im_afraid",
+          "to_be_honest",
+          "perspective",
+          "suggest",
+          "concern",
+          "alternatively",
+          "on_the_other_hand",
+          "fair_enough",
+          "to_some_extent",
+          "correct_me_if_im_wrong",
+          "constructive",
+          "agree_to_disagree"
+        ]
+      },
+      {
+        "id": "email_meetings_6",
+        "title_en": "Online Meetings",
+        "title_th": "ประชุมออนไลน์",
+        "emoji": "💻",
+        "word_ids": [
+          "video_call",
+          "unmute",
+          "share_your_screen",
+          "breakout_room",
+          "can_you_hear_me",
+          "youre_on_mute",
+          "meeting_link",
+          "dial_in",
+          "virtual_background",
+          "record",
+          "echo",
+          "cut_out",
+          "host",
+          "conference_call"
+        ]
+      },
+      {
+        "id": "email_meetings_7",
+        "title_en": "Minutes & Actions",
+        "title_th": "บันทึกการประชุมและงานที่ต้องทำ",
+        "emoji": "📝",
+        "word_ids": [
+          "minutes",
+          "action_item",
+          "assign",
+          "in_charge",
+          "next_steps",
+          "circulate",
+          "summary",
+          "deliverable",
+          "milestone",
+          "accountable",
+          "sign_off",
+          "status_update",
+          "eod",
+          "consensus"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "dear",
+      "word": "dear",
+      "pos": "adjective",
+      "ipa": "/dɪr/",
+      "reading_th": "เดียร์",
+      "meaning_th": "เรียน (คำขึ้นต้นอีเมล)",
+      "emoji": "✉️",
+      "example_en": "Dear Ms. Lee, thank you for your email yesterday.",
+      "example_th": "เรียนคุณลี ขอบคุณสำหรับอีเมลเมื่อวานครับ",
+      "cefr": "A2",
+      "note_th": "Dear + ชื่อ = ขึ้นต้นอีเมลแบบสุภาพ ใช้ได้ทั้งคนสนิทและไม่สนิท — ถ้าสนิทมากค่อยใช้ Hi แต่ห้ามใช้ Dear Sir กับคนที่รู้ชื่ออยู่แล้ว",
+      "distractors": [
+        "deer",
+        "dare",
+        "hello"
+      ]
+    },
+    {
+      "id": "greeting",
+      "word": "greeting",
+      "pos": "noun",
+      "ipa": "/ˈɡriːtɪŋ/",
+      "reading_th": "กรี-ติง",
+      "meaning_th": "คำทักทาย",
+      "emoji": "👋",
+      "example_en": "Start every email with a short greeting like Hi Tom.",
+      "example_th": "เริ่มทุกอีเมลด้วยคำทักทายสั้นๆ อย่าง Hi Tom",
+      "cefr": "A2",
+      "note_th": "greeting = คำทักทายขึ้นต้น ส่วนคำลงท้ายเรียกว่า closing หรือ sign-off — อีเมลที่ไม่มี greeting เลยจะดูห้วนมากในสายตาฝรั่ง",
+      "distractors": [
+        "meeting",
+        "gritting",
+        "farewell"
+      ]
+    },
+    {
+      "id": "regards",
+      "word": "regards",
+      "pos": "noun",
+      "ipa": "/rɪˈɡɑːrdz/",
+      "reading_th": "รี-การ์ดส์",
+      "meaning_th": "ด้วยความนับถือ (ลงท้าย)",
+      "emoji": "🙏",
+      "example_en": "Best regards, Somchai Jaidee, Sales Manager.",
+      "example_th": "ด้วยความนับถือ สมชาย ใจดี ผู้จัดการฝ่ายขาย",
+      "cefr": "A2",
+      "note_th": "Best regards / Kind regards = ลงท้ายแบบทางการพอดีๆ ใช้ได้เกือบทุกอีเมลงาน — Regards เฉยๆ ห้วนกว่านิดหน่อย ส่วน Warm regards อบอุ่นกว่า",
+      "distractors": [
+        "regard",
+        "rewards",
+        "records"
+      ]
+    },
+    {
+      "id": "sincerely",
+      "word": "sincerely",
+      "pos": "adverb",
+      "ipa": "/sɪnˈsɪrli/",
+      "reading_th": "ซิน-เซียร์-ลี",
+      "meaning_th": "ขอแสดงความนับถือ (ทางการมาก)",
+      "emoji": "🖋️",
+      "example_en": "Yours sincerely, Dr. Anna Park, Head of Sales.",
+      "example_th": "ขอแสดงความนับถือ ดร.แอนนา ปาร์ค หัวหน้าฝ่ายขาย",
+      "cefr": "B1",
+      "note_th": "Yours sincerely (UK) / Sincerely (US) ใช้ลงท้ายจดหมายทางการที่รู้ชื่อผู้รับ — ถ้าขึ้นต้น Dear Sir/Madam คนอังกฤษจะลงท้าย Yours faithfully แทน",
+      "distractors": [
+        "seriously",
+        "severely",
+        "sincere"
+      ]
+    },
+    {
+      "id": "hope_you_are_well",
+      "word": "hope you are well",
+      "pos": "phrase",
+      "ipa": "/hoʊp juː ɑːr wel/",
+      "reading_th": "โฮพ ยู อาร์ เวล",
+      "meaning_th": "หวังว่าคุณสบายดี",
+      "emoji": "🌤️",
+      "example_en": "I hope you are well and had a good holiday.",
+      "example_th": "หวังว่าคุณสบายดีและได้พักผ่อนช่วงวันหยุดอย่างมีความสุข",
+      "cefr": "A2",
+      "note_th": "ประโยคเปิดอีเมลยอดนิยม ใช้ก่อนเข้าเรื่อง — เวอร์ชันที่เจอบ่อยพอกันคือ I hope this email finds you well ฟังดูทางการกว่า",
+      "distractors": [
+        "hope you are busy",
+        "hope to see you",
+        "how are you"
+      ]
+    },
+    {
+      "id": "regarding",
+      "word": "regarding",
+      "pos": "preposition",
+      "ipa": "/rɪˈɡɑːrdɪŋ/",
+      "reading_th": "รี-การ์-ดิง",
+      "meaning_th": "เกี่ยวกับ / เรื่อง",
+      "emoji": "📌",
+      "example_en": "I am writing regarding your invoice from last month.",
+      "example_th": "ฉันเขียนมาเรื่องใบแจ้งหนี้ของคุณเมื่อเดือนที่แล้ว",
+      "cefr": "B1",
+      "note_th": "regarding = about แบบทางการ ใช้บอกหัวข้ออีเมลได้ทันที — ในช่อง subject มักย่อเป็น Re: หรือ RE: ซึ่งหลายคนเข้าใจผิดว่าแปลว่า reply",
+      "distractors": [
+        "rewarding",
+        "recording",
+        "during"
+      ]
+    },
+    {
+      "id": "as_per",
+      "word": "as per",
+      "pos": "phrase",
+      "ipa": "/æz pɜːr/",
+      "reading_th": "แอส เพอร์",
+      "meaning_th": "ตามที่ (ตกลง/แจ้งไว้)",
+      "emoji": "📋",
+      "example_en": "As per our call, I have updated the price list.",
+      "example_th": "ตามที่คุยกันทางโทรศัพท์ ฉันได้อัปเดตรายการราคาแล้ว",
+      "cefr": "B1",
+      "note_th": "as per our conversation / as per your request = ตามที่คุย/ตามที่ขอ — ฟังดูเป็นทางการมาก บางบริษัทมองว่าแข็งไปและชอบ as we discussed มากกว่า",
+      "distractors": [
+        "as if",
+        "as for",
+        "as usual"
+      ]
+    },
+    {
+      "id": "further_to",
+      "word": "further to",
+      "pos": "phrase",
+      "ipa": "/ˈfɜːrðər tuː/",
+      "reading_th": "เฟอร์-เธอร์ ทู",
+      "meaning_th": "สืบเนื่องจาก",
+      "emoji": "🔗",
+      "example_en": "Further to my last email, here is the signed contract.",
+      "example_th": "สืบเนื่องจากอีเมลฉบับก่อน นี่คือสัญญาที่เซ็นแล้ว",
+      "cefr": "B2",
+      "note_th": "Further to + สิ่งที่เคยคุยกันมาก่อน ใช้เปิดอีเมลต่อเนื่องแบบอังกฤษจ๋า — คนไทยมักสับสนกับ farther (ไกลกว่า) ซึ่งใช้กับระยะทางเท่านั้น",
+      "distractors": [
+        "farther to",
+        "according to",
+        "due to"
+      ]
+    },
+    {
+      "id": "please_find_attached",
+      "word": "please find attached",
+      "pos": "phrase",
+      "ipa": "/pliːz faɪnd əˈtætʃt/",
+      "reading_th": "พลีส ฟายด์ อะ-แทชท์",
+      "meaning_th": "ดังเอกสารที่แนบมา",
+      "emoji": "📎",
+      "example_en": "Please find attached the report for this quarter.",
+      "example_th": "ดังเอกสารแนบคือรายงานประจำไตรมาสนี้",
+      "cefr": "B1",
+      "note_th": "วลีมาตรฐานเวลาแนบไฟล์ — แบบสั้นกว่าและเป็นธรรมชาติกว่าคือ I've attached... หรือ Attached is... และอย่าลืมกดแนบไฟล์ก่อนส่งจริงๆ!",
+      "distractors": [
+        "please be attached",
+        "please find enclosed",
+        "please attach"
+      ]
+    },
+    {
+      "id": "yours_faithfully",
+      "word": "yours faithfully",
+      "pos": "phrase",
+      "ipa": "/jʊrz ˈfeɪθfəli/",
+      "reading_th": "ยัวร์ส เฟธ-ฟะ-ลี",
+      "meaning_th": "ขอแสดงความนับถือ (ไม่รู้ชื่อผู้รับ)",
+      "emoji": "📜",
+      "example_en": "Yours faithfully, Somchai Jaidee, Purchasing Manager.",
+      "example_th": "ขอแสดงความนับถือ สมชาย ใจดี ผู้จัดการฝ่ายจัดซื้อ",
+      "cefr": "B2",
+      "note_th": "กฎอังกฤษ: ขึ้นต้น Dear Sir/Madam → ลงท้าย Yours faithfully, ขึ้นต้นด้วยชื่อ → Yours sincerely — อเมริกันไม่ใช้ faithfully เลย ใช้ Sincerely อย่างเดียว",
+      "distractors": [
+        "yours sincerely",
+        "yours truly",
+        "faithfully yours"
+      ]
+    },
+    {
+      "id": "cc",
+      "word": "CC",
+      "pos": "verb",
+      "ipa": "/ˌsiːˈsiː/",
+      "reading_th": "ซี-ซี",
+      "meaning_th": "ส่งสำเนาถึง",
+      "emoji": "👥",
+      "example_en": "Please CC my manager on all emails about the budget.",
+      "example_th": "กรุณาส่งสำเนาถึงผู้จัดการของฉันในทุกอีเมลเรื่องงบประมาณ",
+      "cefr": "A2",
+      "note_th": "CC มาจาก carbon copy ใช้เป็นกริยาได้เลย: CC me, I CC'd you — คนที่อยู่ในช่อง CC ไม่ต้องตอบ แค่รับรู้ ถ้าต้องการคำตอบให้ใส่ชื่อในช่อง To",
+      "distractors": [
+        "BCC",
+        "CV",
+        "DC"
+      ]
+    },
+    {
+      "id": "bcc",
+      "word": "BCC",
+      "pos": "noun",
+      "ipa": "/ˌbiːsiːˈsiː/",
+      "reading_th": "บี-ซี-ซี",
+      "meaning_th": "สำเนาลับ (ซ่อนผู้รับ)",
+      "emoji": "🙈",
+      "example_en": "Put all the customers in BCC to protect their privacy.",
+      "example_th": "ใส่ลูกค้าทุกคนไว้ในช่องสำเนาลับเพื่อปกป้องความเป็นส่วนตัว",
+      "cefr": "B1",
+      "note_th": "BCC = blind carbon copy ผู้รับคนอื่นมองไม่เห็นชื่อ — ใช้ตอนส่งหาคนจำนวนมากที่ไม่รู้จักกัน การใส่ลูกค้าทั้งหมดใน CC ถือเป็นความผิดพลาดด้านข้อมูลส่วนตัวที่เกิดบ่อยมาก",
+      "distractors": [
+        "CC",
+        "BBC",
+        "ABC"
+      ]
+    },
+    {
+      "id": "recipient",
+      "word": "recipient",
+      "pos": "noun",
+      "ipa": "/rɪˈsɪpiənt/",
+      "reading_th": "รี-ซิ-เพียนท์",
+      "meaning_th": "ผู้รับ (อีเมล/พัสดุ)",
+      "emoji": "📬",
+      "example_en": "Check the recipient before you hit send.",
+      "example_th": "ตรวจชื่อผู้รับก่อนกดส่งทุกครั้ง",
+      "cefr": "B1",
+      "note_th": "recipient = ผู้รับ, sender = ผู้ส่ง — ระวังสับสนกับ receipt (ใบเสร็จ) ที่สะกดคล้ายกันมาก; ในอีเมลมักเจอ undisclosed recipients เมื่อผู้ส่งใช้ BCC",
+      "distractors": [
+        "receipt",
+        "receiver",
+        "recipe"
+      ]
+    },
+    {
+      "id": "to_whom_it_may_concern",
+      "word": "to whom it may concern",
+      "pos": "phrase",
+      "ipa": "/tuː huːm ɪt meɪ kənˈsɜːrn/",
+      "reading_th": "ทู ฮูม อิท เมย์ คอน-เซิร์น",
+      "meaning_th": "เรียนผู้เกี่ยวข้อง",
+      "emoji": "🏛️",
+      "example_en": "To whom it may concern, I am writing to confirm my employment.",
+      "example_th": "เรียนผู้เกี่ยวข้อง ฉันเขียนมาเพื่อยืนยันการจ้างงานของฉัน",
+      "cefr": "B1",
+      "note_th": "ใช้ขึ้นต้นจดหมายรับรอง/จดหมายทางการเมื่อไม่รู้ว่าใครจะอ่าน — ถ้ารู้ชื่อหรือตำแหน่ง (Dear Hiring Manager) ให้ใช้แทน เพราะฟังดูตั้งใจกว่า",
+      "distractors": [
+        "to who it concerns",
+        "to whom it must concern",
+        "dear everyone"
+      ]
+    },
+    {
+      "id": "request",
+      "word": "request",
+      "pos": "verb",
+      "ipa": "/rɪˈkwest/",
+      "reading_th": "รี-เควสท์",
+      "meaning_th": "ขอ (อย่างเป็นทางการ)",
+      "emoji": "🙋",
+      "example_en": "I would like to request a copy of the signed contract.",
+      "example_th": "ฉันขอสำเนาสัญญาที่เซ็นแล้วหนึ่งชุดค่ะ",
+      "cefr": "A2",
+      "note_th": "request = ask for แบบสุภาพและเป็นทางการ ใช้กับคำนามตรงๆ: request a meeting ไม่ต้องมี for — ส่วน request for ใช้เมื่อเป็นคำนาม: a request for leave",
+      "distractors": [
+        "require",
+        "inquire",
+        "acquire"
+      ]
+    },
+    {
+      "id": "would_you_mind",
+      "word": "would you mind",
+      "pos": "phrase",
+      "ipa": "/wʊd juː maɪnd/",
+      "reading_th": "วุด ยู มายด์",
+      "meaning_th": "จะรบกวน...ได้ไหม",
+      "emoji": "🙏",
+      "example_en": "Would you mind sending me the file again?",
+      "example_th": "รบกวนส่งไฟล์ให้ฉันอีกครั้งได้ไหมคะ",
+      "cefr": "A2",
+      "note_th": "หลัง Would you mind ต้องเป็น V-ing เสมอ — และคำตอบที่แปลว่า \"ยินดี\" คือ Not at all หรือ Of course not เพราะ mind แปลว่ารังเกียจ ตอบ Yes จะกลายเป็นปฏิเสธ!",
+      "distractors": [
+        "would you like",
+        "do you mind if",
+        "would you rather"
+      ]
+    },
+    {
+      "id": "kindly",
+      "word": "kindly",
+      "pos": "adverb",
+      "ipa": "/ˈkaɪndli/",
+      "reading_th": "คายด์-ลี",
+      "meaning_th": "กรุณา / โปรด",
+      "emoji": "🌸",
+      "example_en": "Kindly confirm your attendance by Friday.",
+      "example_th": "กรุณายืนยันการเข้าร่วมภายในวันศุกร์",
+      "cefr": "B1",
+      "note_th": "Kindly + กริยา เป็น please แบบทางการที่เจอมากในอีเมลเอเชีย — คนอังกฤษ/อเมริกันบางคนรู้สึกว่าแข็งและออกคำสั่ง ถ้าอยากนุ่มลงใช้ Could you please แทน",
+      "distractors": [
+        "kindness",
+        "kind of",
+        "gently"
+      ]
+    },
+    {
+      "id": "at_your_earliest_convenience",
+      "word": "at your earliest convenience",
+      "pos": "phrase",
+      "ipa": "/æt jʊr ˈɜːrliəst kənˈviːniəns/",
+      "reading_th": "แอท ยัวร์ เออร์-ลี-เอสท์ คอน-วี-เนียนส์",
+      "meaning_th": "เมื่อคุณสะดวกโดยเร็ว",
+      "emoji": "⏰",
+      "example_en": "Please reply at your earliest convenience.",
+      "example_th": "กรุณาตอบกลับเมื่อคุณสะดวกโดยเร็วที่สุด",
+      "cefr": "B1",
+      "note_th": "วิธีพูดว่า \"เร็วที่สุดเท่าที่จะทำได้\" แบบสุภาพไม่เร่ง — ถ้าต้องการจริงจังให้ระบุวันไปเลย: by Wednesday ชัดกว่าและป้องกันงานลืม",
+      "distractors": [
+        "at your convenience store",
+        "at your early convenience",
+        "in your free time"
+      ]
+    },
+    {
+      "id": "reminder",
+      "word": "reminder",
+      "pos": "noun",
+      "ipa": "/rɪˈmaɪndər/",
+      "reading_th": "รี-มายน์-เดอร์",
+      "meaning_th": "การเตือน / เตือนความจำ",
+      "emoji": "🔔",
+      "example_en": "Just a gentle reminder that the form is due tomorrow.",
+      "example_th": "ขอเตือนเบาๆ ว่าแบบฟอร์มครบกำหนดส่งพรุ่งนี้นะคะ",
+      "cefr": "A2",
+      "note_th": "gentle reminder / friendly reminder = เตือนแบบไม่กดดัน ใช้ขึ้นต้นอีเมลตามงานได้เลย — reminder เป็นคำนาม ส่วนกริยาคือ remind someone to do something",
+      "distractors": [
+        "remainder",
+        "remember",
+        "memo"
+      ]
+    },
+    {
+      "id": "just_checking_in",
+      "word": "just checking in",
+      "pos": "phrase",
+      "ipa": "/dʒʌst ˈtʃekɪŋ ɪn/",
+      "reading_th": "จัสท์ เช็ค-กิง อิน",
+      "meaning_th": "แวะมาถามความคืบหน้า",
+      "emoji": "👀",
+      "example_en": "Just checking in to see if you had a chance to review it.",
+      "example_th": "แวะมาถามหน่อยว่าคุณได้มีโอกาสดูมันหรือยัง",
+      "cefr": "B1",
+      "note_th": "ประโยคตามงานที่นุ่มที่สุด ไม่ได้ตำหนิว่าช้า — มักตามด้วย to see if... หรือ on the status of... และควรใส่ตัวช่วยไว้ด้วย: Let me know if you need anything",
+      "distractors": [
+        "just checking out",
+        "just checking up",
+        "just kidding"
+      ]
+    },
+    {
+      "id": "chase_up",
+      "word": "chase up",
+      "pos": "phrase",
+      "ipa": "/tʃeɪs ʌp/",
+      "reading_th": "เชส อัพ",
+      "meaning_th": "ตามเรื่อง / ทวงงาน",
+      "emoji": "🏃",
+      "example_en": "Could you chase up the supplier about the late delivery?",
+      "example_th": "ช่วยตามเรื่องกับซัพพลายเออร์เรื่องส่งของล่าช้าหน่อยได้ไหม",
+      "cefr": "B2",
+      "note_th": "chase up (UK) / follow up on (US) = ตามเรื่องที่ยังไม่ได้คำตอบ — ในภาษาพูดบางทีย่อเหลือ chase: I'll chase them today แปลว่าจะไปจี้เขาวันนี้",
+      "distractors": [
+        "cheer up",
+        "catch up",
+        "chase away"
+      ]
+    },
+    {
+      "id": "pending",
+      "word": "pending",
+      "pos": "adjective",
+      "ipa": "/ˈpendɪŋ/",
+      "reading_th": "เพน-ดิง",
+      "meaning_th": "รอดำเนินการ / ค้างอยู่",
+      "emoji": "⏸️",
+      "example_en": "Your request is still pending approval from finance.",
+      "example_th": "คำขอของคุณยังรอการอนุมัติจากฝ่ายการเงินอยู่",
+      "cefr": "B1",
+      "note_th": "pending = ยังไม่เสร็จ ยังรออยู่ เจอบ่อยในสถานะระบบ (Pending, Approved, Rejected) — pending approval = รออนุมัติ ไม่ต้องมี for",
+      "distractors": [
+        "spending",
+        "bending",
+        "ending"
+      ]
+    },
+    {
+      "id": "asap",
+      "word": "ASAP",
+      "pos": "adverb",
+      "ipa": "/ˌeɪ es eɪ ˈpiː/",
+      "reading_th": "เอ-เอส-เอ-พี",
+      "meaning_th": "โดยเร็วที่สุด",
+      "emoji": "🚨",
+      "example_en": "Please send me the numbers ASAP, the client is waiting.",
+      "example_th": "ส่งตัวเลขให้ฉันโดยเร็วที่สุดนะ ลูกค้ากำลังรออยู่",
+      "cefr": "A2",
+      "note_th": "ASAP = as soon as possible อ่านทีละตัวหรือ \"เอ-แซป\" ก็ได้ — ใช้กับคนสนิทหรือทีมเดียวกัน ถ้าส่งหาลูกค้าหรือผู้ใหญ่ควรเขียนเต็มหรือบอกเวลาแน่นอน",
+      "distractors": [
+        "FYI",
+        "ETA",
+        "TBC"
+      ]
+    },
+    {
+      "id": "beforehand",
+      "word": "beforehand",
+      "pos": "adverb",
+      "ipa": "/bɪˈfɔːrhænd/",
+      "reading_th": "บิ-ฟอร์-แฮนด์",
+      "meaning_th": "ล่วงหน้า / ก่อนเวลา",
+      "emoji": "🗓️",
+      "example_en": "Please read the agenda beforehand so we can start quickly.",
+      "example_th": "กรุณาอ่านวาระล่วงหน้าเพื่อให้เราเริ่มได้เร็ว",
+      "cefr": "B1",
+      "note_th": "beforehand = ทำไว้ก่อนเหตุการณ์ เขียนติดกันคำเดียว วางท้ายประโยคได้เลย — ความหมายเดียวกับ in advance แต่ฟังดูเป็นธรรมชาติกว่าในภาษาพูด",
+      "distractors": [
+        "before hand",
+        "beforehands",
+        "afterwards"
+      ]
+    },
+    {
+      "id": "revert",
+      "word": "revert",
+      "pos": "verb",
+      "ipa": "/rɪˈvɜːrt/",
+      "reading_th": "รี-เวิร์ท",
+      "meaning_th": "ตอบกลับ (อีเมลธุรกิจแบบเอเชีย)",
+      "emoji": "↩️",
+      "example_en": "I will revert with the final numbers by Thursday.",
+      "example_th": "ฉันจะตอบกลับพร้อมตัวเลขสุดท้ายภายในวันพฤหัสบดี",
+      "cefr": "B2",
+      "note_th": "revert = ตอบกลับ เป็นภาษาอีเมลที่ใช้มากในสิงคโปร์ อินเดีย และบริษัทข้ามชาติในไทย — แต่คนอังกฤษ/อเมริกันเข้าใจว่า \"ย้อนกลับไปสภาพเดิม\" ถ้าส่งหาฝรั่งใช้ get back to you ชัวร์กว่า",
+      "distractors": [
+        "reverse",
+        "convert",
+        "divert"
+      ]
+    },
+    {
+      "id": "acknowledge",
+      "word": "acknowledge",
+      "pos": "verb",
+      "ipa": "/əkˈnɑːlɪdʒ/",
+      "reading_th": "แอค-นอ-ลิจ",
+      "meaning_th": "ตอบรับว่าได้รับแล้ว",
+      "emoji": "✅",
+      "example_en": "Please acknowledge receipt of this email.",
+      "example_th": "กรุณาตอบรับว่าได้รับอีเมลฉบับนี้แล้ว",
+      "cefr": "B2",
+      "note_th": "acknowledge receipt = ตอบสั้นๆ ว่า \"ได้รับแล้ว\" ยังไม่ต้องตอบเนื้อหา — ตัว k ไม่ออกเสียง อ่าน \"แอค-นอ-ลิจ\" และคำนามคือ acknowledgement",
+      "distractors": [
+        "knowledge",
+        "recognize",
+        "announce"
+      ]
+    },
+    {
+      "id": "keep_me_posted",
+      "word": "keep me posted",
+      "pos": "phrase",
+      "ipa": "/kiːp miː ˈpoʊstɪd/",
+      "reading_th": "คีพ มี โพสท์-ทิด",
+      "meaning_th": "มีอะไรคืบหน้าบอกด้วย",
+      "emoji": "📣",
+      "example_en": "Keep me posted on how the negotiation goes.",
+      "example_th": "การเจรจาเป็นยังไงบอกฉันด้วยนะ",
+      "cefr": "B1",
+      "note_th": "posted ในที่นี้ไม่เกี่ยวกับโพสต์โซเชียล แปลว่า informed — วลีคู่กันคือ keep me in the loop; ใช้ปิดอีเมลแบบเป็นกันเองกับทีม",
+      "distractors": [
+        "keep me company",
+        "keep me waiting",
+        "keep in touch"
+      ]
+    },
+    {
+      "id": "approval",
+      "word": "approval",
+      "pos": "noun",
+      "ipa": "/əˈpruːvl/",
+      "reading_th": "แอ็พ-พรู-เวิล",
+      "meaning_th": "การอนุมัติ",
+      "emoji": "👍",
+      "example_en": "We need your approval before we print the brochures.",
+      "example_th": "เราต้องได้รับการอนุมัติจากคุณก่อนพิมพ์โบรชัวร์",
+      "cefr": "B1",
+      "note_th": "approval = คำนาม, approve = กริยา, approved = อนุมัติแล้ว — ระวัง prove (พิสูจน์) ที่สะกดใกล้กัน; ในระบบงานมักเจอ awaiting approval = รออนุมัติ",
+      "distractors": [
+        "approach",
+        "proposal",
+        "appraisal"
+      ]
+    },
+    {
+      "id": "availability",
+      "word": "availability",
+      "pos": "noun",
+      "ipa": "/əˌveɪləˈbɪləti/",
+      "reading_th": "อะ-เว-ละ-บิ-ลิ-ตี",
+      "meaning_th": "ช่วงเวลาที่ว่าง",
+      "emoji": "🗓️",
+      "example_en": "Could you share your availability for next week?",
+      "example_th": "ช่วยบอกช่วงเวลาที่คุณว่างสัปดาห์หน้าได้ไหม",
+      "cefr": "B1",
+      "note_th": "What's your availability? = ว่างช่วงไหนบ้าง คำถามมาตรฐานก่อนนัดประชุม — ตอบด้วยช่วงเวลาชัดๆ: I'm free Tuesday 2-4 pm จะนัดได้เร็วกว่าตอบว่า anytime",
+      "distractors": [
+        "ability",
+        "liability",
+        "accessibility"
+      ]
+    },
+    {
+      "id": "out_of_office",
+      "word": "out of office",
+      "pos": "phrase",
+      "ipa": "/aʊt əv ˈɔːfɪs/",
+      "reading_th": "เอาท์ ออฟ ออฟ-ฟิส",
+      "meaning_th": "ไม่อยู่ที่ทำงาน (ลา/ไปนอกสถานที่)",
+      "emoji": "🏖️",
+      "example_en": "I am out of office until Monday with limited email access.",
+      "example_th": "ฉันไม่อยู่ที่ทำงานจนถึงวันจันทร์และเช็กอีเมลได้จำกัด",
+      "cefr": "A2",
+      "note_th": "out of office (OOO) = ข้อความตอบอัตโนมัติตอนลาพักร้อนหรือไปสัมมนา ควรบอกวันกลับและคนติดต่อแทน — นัดประชุมให้เช็กสถานะ OOO ของอีกฝ่ายในปฏิทินก่อน",
+      "distractors": [
+        "out of order",
+        "out of the office hours",
+        "off duty"
+      ]
+    },
+    {
+      "id": "time_slot",
+      "word": "time slot",
+      "pos": "noun",
+      "ipa": "/taɪm slɑːt/",
+      "reading_th": "ไทม์ สล็อท",
+      "meaning_th": "ช่วงเวลา (ในตาราง)",
+      "emoji": "🕒",
+      "example_en": "The only time slot left is Friday at four.",
+      "example_th": "ช่วงเวลาที่เหลืออยู่ช่วงเดียวคือวันศุกร์สี่โมง",
+      "cefr": "B1",
+      "note_th": "slot = ช่องว่างในตาราง เลยใช้ว่า book a slot / a 30-minute slot — คนไทยชอบพูด \"ขอคิวประชุม\" ภาษาอังกฤษใช้ slot ไม่ใช่ queue",
+      "distractors": [
+        "time zone",
+        "time limit",
+        "timetable"
+      ]
+    },
+    {
+      "id": "reschedule",
+      "word": "reschedule",
+      "pos": "verb",
+      "ipa": "/riːˈskedʒuːl/",
+      "reading_th": "รี-สเก็ด-จูล",
+      "meaning_th": "เลื่อนนัด / นัดใหม่",
+      "emoji": "🔄",
+      "example_en": "Can we reschedule our meeting to next Monday?",
+      "example_th": "เราเลื่อนประชุมไปวันจันทร์หน้าได้ไหม",
+      "cefr": "B1",
+      "note_th": "reschedule = ยกเลิกนัดเดิมแล้วนัดใหม่ ใช้แทน postpone ได้แต่กว้างกว่า (เลื่อนเร็วขึ้นก็ได้) — เขียนขอเลื่อนให้เสนอเวลาใหม่มาด้วยเลยจะดูมืออาชีพ",
+      "distractors": [
+        "schedule",
+        "rescue",
+        "reshuffle"
+      ]
+    },
+    {
+      "id": "push_back",
+      "word": "push back",
+      "pos": "phrase",
+      "ipa": "/pʊʃ bæk/",
+      "reading_th": "พุช แบ็ค",
+      "meaning_th": "เลื่อนออกไป (ให้ช้าลง)",
+      "emoji": "⏩",
+      "example_en": "Let's push back the deadline by two days.",
+      "example_th": "เลื่อนกำหนดส่งออกไปอีกสองวันกันเถอะ",
+      "cefr": "B1",
+      "note_th": "push back = เลื่อนให้ช้าลงเสมอ (push the meeting back to 4 pm) — แต่ push back on an idea = คัดค้าน คนละความหมาย ดูบริบทให้ดี",
+      "distractors": [
+        "put back",
+        "push forward",
+        "pull back"
+      ]
+    },
+    {
+      "id": "bring_forward",
+      "word": "bring forward",
+      "pos": "phrase",
+      "ipa": "/brɪŋ ˈfɔːrwərd/",
+      "reading_th": "บริง ฟอร์-เวิร์ด",
+      "meaning_th": "เลื่อนให้เร็วขึ้น",
+      "emoji": "⏪",
+      "example_en": "Could we bring forward the launch to early May?",
+      "example_th": "เราเลื่อนการเปิดตัวให้เร็วขึ้นเป็นต้นเดือนพฤษภาคมได้ไหม",
+      "cefr": "B2",
+      "note_th": "ตรงข้ามกับ push back — คนไทยพูดว่า \"เลื่อน\" คำเดียวทั้งเร็วและช้า แต่ภาษาอังกฤษต้องเลือก: bring forward (เร็วขึ้น) หรือ push back/postpone (ช้าลง)",
+      "distractors": [
+        "bring up",
+        "move forward",
+        "bring along"
+      ]
+    },
+    {
+      "id": "calendar_invite",
+      "word": "calendar invite",
+      "pos": "noun",
+      "ipa": "/ˈkæləndər ˈɪnvaɪt/",
+      "reading_th": "แค-เลน-เดอร์ อิน-ไวท์",
+      "meaning_th": "คำเชิญประชุมในปฏิทิน",
+      "emoji": "📨",
+      "example_en": "I will send a calendar invite with the video link.",
+      "example_th": "ฉันจะส่งคำเชิญในปฏิทินพร้อมลิงก์วิดีโอไปให้",
+      "cefr": "B1",
+      "note_th": "invite ตรงนี้เป็นคำนามแบบไม่เป็นทางการของ invitation — send an invite, accept the invite; มารยาทคือตอบรับ (Accept/Decline) ทุกครั้งเพื่อให้ผู้จัดรู้ว่าใครมา",
+      "distractors": [
+        "calendar event",
+        "calendar year",
+        "invitation card"
+      ]
+    },
+    {
+      "id": "clash",
+      "word": "clash",
+      "pos": "verb",
+      "ipa": "/klæʃ/",
+      "reading_th": "แคลช",
+      "meaning_th": "ชนกัน (เวลานัด)",
+      "emoji": "💥",
+      "example_en": "That time will clash with my dentist appointment.",
+      "example_th": "เวลานั้นจะชนกับนัดหมอฟันของฉัน",
+      "cefr": "B1",
+      "note_th": "clash with = ชนกันของเวลาหรือความเห็น — I have a clash ก็ใช้เป็นคำนามได้ ส่วน crash คือรถชน/เครื่องค้าง ออกเสียงต่างกันที่ l กับ r",
+      "distractors": [
+        "crash",
+        "clasp",
+        "class"
+      ]
+    },
+    {
+      "id": "tentative",
+      "word": "tentative",
+      "pos": "adjective",
+      "ipa": "/ˈtentətɪv/",
+      "reading_th": "เทน-ทะ-ทิฟ",
+      "meaning_th": "ยังไม่แน่นอน / ชั่วคราว",
+      "emoji": "❓",
+      "example_en": "Let's set a tentative date and confirm it next week.",
+      "example_th": "กำหนดวันแบบคร่าวๆ ไว้ก่อนแล้วค่อยยืนยันสัปดาห์หน้า",
+      "cefr": "B2",
+      "note_th": "tentative = ตกลงไว้ก่อนแต่เปลี่ยนได้ ในปฏิทินงานมีปุ่มตอบ Tentative = อาจจะมา — ตรงข้ามคือ confirmed/firm",
+      "distractors": [
+        "attentive",
+        "tense",
+        "temporary"
+      ]
+    },
+    {
+      "id": "time_zone",
+      "word": "time zone",
+      "pos": "noun",
+      "ipa": "/taɪm zoʊn/",
+      "reading_th": "ไทม์ โซน",
+      "meaning_th": "เขตเวลา",
+      "emoji": "🌍",
+      "example_en": "Which time zone are you in right now?",
+      "example_th": "ตอนนี้คุณอยู่ในเขตเวลาไหน",
+      "cefr": "A2",
+      "note_th": "ไทยคือ GMT+7 หรือ ICT (Indochina Time) — นัดข้ามประเทศให้เขียนเวลาคู่เสมอ: 10 am Bangkok (4 am London) ลดโอกาสมาผิดเวลาได้มหาศาล",
+      "distractors": [
+        "time slot",
+        "timeline",
+        "time out"
+      ]
+    },
+    {
+      "id": "does_that_work_for_you",
+      "word": "does that work for you",
+      "pos": "phrase",
+      "ipa": "/dʌz ðæt wɜːrk fɔːr juː/",
+      "reading_th": "ดัส แดท เวิร์ค ฟอร์ ยู",
+      "meaning_th": "แบบนั้นสะดวกไหม",
+      "emoji": "🤔",
+      "example_en": "Wednesday at ten, does that work for you?",
+      "example_th": "วันพุธสิบโมง สะดวกไหมคะ",
+      "cefr": "A2",
+      "note_th": "work ในที่นี้ = ใช้ได้/สะดวก ไม่ใช่ทำงาน — ตอบว่า That works for me / Works for me ก็พอ สั้นและเป็นธรรมชาติที่สุดในอีเมลนัดหมาย",
+      "distractors": [
+        "does that work",
+        "do you work for",
+        "what works for you"
+      ]
+    },
+    {
+      "id": "pencil_in",
+      "word": "pencil in",
+      "pos": "phrase",
+      "ipa": "/ˈpensl ɪn/",
+      "reading_th": "เพน-เซิล อิน",
+      "meaning_th": "จดนัดไว้ก่อน (ยังเปลี่ยนได้)",
+      "emoji": "✏️",
+      "example_en": "I will pencil in Friday and confirm by tomorrow.",
+      "example_th": "ฉันจะจดนัดวันศุกร์ไว้ก่อนแล้วยืนยันภายในพรุ่งนี้",
+      "cefr": "B2",
+      "note_th": "ภาพคือเขียนด้วยดินสอเพราะยางลบได้ — pencil in = นัดแบบ tentative; เมื่อยืนยันแล้วฝรั่งบางคนพูดเล่นว่า ink it in",
+      "distractors": [
+        "pencil out",
+        "fill in",
+        "pen down"
+      ]
+    },
+    {
+      "id": "back_to_back",
+      "word": "back-to-back",
+      "pos": "adjective",
+      "ipa": "/ˌbæk tə ˈbæk/",
+      "reading_th": "แบ็ค-ทู-แบ็ค",
+      "meaning_th": "ติดกันไม่มีช่วงพัก",
+      "emoji": "🔁",
+      "example_en": "I have back-to-back meetings until lunch.",
+      "example_th": "ฉันมีประชุมติดกันตลอดจนถึงมื้อเที่ยง",
+      "cefr": "B1",
+      "note_th": "back-to-back meetings = ประชุมต่อกันไม่มีเว้น ใช้อธิบายว่าทำไมตอบช้าได้ดีมาก — เขียนขีดกลางเมื่อเป็นคุณศัพท์หน้าคำนาม",
+      "distractors": [
+        "face-to-face",
+        "one-on-one",
+        "day-to-day"
+      ]
+    },
+    {
+      "id": "recurring",
+      "word": "recurring",
+      "pos": "adjective",
+      "ipa": "/rɪˈkɜːrɪŋ/",
+      "reading_th": "รี-เคอร์-ริง",
+      "meaning_th": "ที่เกิดซ้ำเป็นประจำ",
+      "emoji": "♻️",
+      "example_en": "Set up a recurring meeting every Monday at nine.",
+      "example_th": "ตั้งประชุมประจำทุกวันจันทร์เก้าโมง",
+      "cefr": "B2",
+      "note_th": "recurring meeting = ประชุมที่ตั้งซ้ำอัตโนมัติในปฏิทิน (weekly, monthly) — คำเดียวกันใช้กับค่าใช้จ่าย recurring payment = เก็บเงินรายเดือนแบบ Netflix",
+      "distractors": [
+        "occurring",
+        "returning",
+        "recovering"
+      ]
+    },
+    {
+      "id": "facilitate",
+      "word": "facilitate",
+      "pos": "verb",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "reading_th": "ฟะ-ซิ-ลิ-เทท",
+      "meaning_th": "ดำเนินการประชุม / เป็นผู้นำวง",
+      "emoji": "🧑‍🏫",
+      "example_en": "Khun Nok will facilitate the workshop this afternoon.",
+      "example_th": "คุณนกจะเป็นผู้ดำเนินเวิร์กช็อปบ่ายนี้",
+      "cefr": "B2",
+      "note_th": "facilitate = ช่วยให้การประชุมไหลลื่น ไม่ใช่ตัดสินใจเอง คนทำหน้าที่นี้คือ facilitator — ต่างจาก present ที่เป็นคนพูดเนื้อหาเอง",
+      "distractors": [
+        "fascinate",
+        "facility",
+        "participate"
+      ]
+    },
+    {
+      "id": "kick_things_off",
+      "word": "kick things off",
+      "pos": "phrase",
+      "ipa": "/kɪk θɪŋz ɔːf/",
+      "reading_th": "คิก ธิงส์ ออฟ",
+      "meaning_th": "เริ่มประชุมกันเลย",
+      "emoji": "🏁",
+      "example_en": "Let's kick things off with a quick round of updates.",
+      "example_th": "มาเริ่มกันเลยด้วยการอัปเดตสั้นๆ รอบวง",
+      "cefr": "B1",
+      "note_th": "kick things off / kick off the meeting = เปิดประชุมแบบเป็นกันเอง ยืมมาจากการเขี่ยลูกเริ่มเกมฟุตบอล — ถ้าอยากทางการกว่าใช้ Shall we begin?",
+      "distractors": [
+        "kick things out",
+        "take things off",
+        "kick back"
+      ]
+    },
+    {
+      "id": "chairperson",
+      "word": "chairperson",
+      "pos": "noun",
+      "ipa": "/ˈtʃerpɜːrsn/",
+      "reading_th": "แชร์-เพอร์-เซิน",
+      "meaning_th": "ประธานในที่ประชุม",
+      "emoji": "🪑",
+      "example_en": "The chairperson opened the meeting at nine sharp.",
+      "example_th": "ประธานในที่ประชุมเปิดการประชุมตอนเก้าโมงตรง",
+      "cefr": "B1",
+      "note_th": "chairperson/chair = คนคุมวาระและให้คิว ไม่ใช่ CEO เสมอไป — ประโยคที่ได้ยินบ่อยคือ The chair recognizes... = ประธานอนุญาตให้พูด",
+      "distractors": [
+        "chairman",
+        "spokesperson",
+        "salesperson"
+      ]
+    },
+    {
+      "id": "attendee",
+      "word": "attendee",
+      "pos": "noun",
+      "ipa": "/əˌtenˈdiː/",
+      "reading_th": "อะ-เทน-ดี",
+      "meaning_th": "ผู้เข้าร่วมประชุม",
+      "emoji": "🧑‍💼",
+      "example_en": "Every attendee should read the agenda before we start.",
+      "example_th": "ผู้เข้าร่วมทุกคนควรอ่านวาระก่อนเริ่มประชุม",
+      "cefr": "B1",
+      "note_th": "-ee = ผู้ถูกกระทำ/ผู้ที่ทำสิ่งนั้น: attendee (ผู้เข้าร่วม), employee, interviewee — ส่วน attendance คือจำนวนคนมาหรือการเข้าร่วม",
+      "distractors": [
+        "attendance",
+        "attention",
+        "attender"
+      ]
+    },
+    {
+      "id": "sum_up",
+      "word": "sum up",
+      "pos": "phrase",
+      "ipa": "/sʌm ʌp/",
+      "reading_th": "ซัม อัพ",
+      "meaning_th": "สรุปรวบยอดก่อนจบ",
+      "emoji": "🧾",
+      "example_en": "To sum up, we agreed on the budget and the launch date.",
+      "example_th": "สรุปรวบยอดคือ เราตกลงเรื่องงบและวันเปิดตัวแล้ว",
+      "cefr": "B1",
+      "note_th": "To sum up, ... = ประโยคปิดท้ายประชุมหรือพรีเซนต์ก่อนทวนสิ่งที่ตกลง — สั้นกว่า summarize และใช้พูดมากกว่าเขียน; ระวังสะกด sum ไม่ใช่ some",
+      "distractors": [
+        "some up",
+        "add up",
+        "sum of"
+      ]
+    },
+    {
+      "id": "park",
+      "word": "park",
+      "pos": "verb",
+      "ipa": "/pɑːrk/",
+      "reading_th": "พาร์ค",
+      "meaning_th": "พักเรื่องนี้ไว้ก่อน",
+      "emoji": "🅿️",
+      "example_en": "Let's park this topic and come back to it next week.",
+      "example_th": "พักประเด็นนี้ไว้ก่อนแล้วค่อยกลับมาคุยสัปดาห์หน้า",
+      "cefr": "B2",
+      "note_th": "park an idea = จอดเรื่องไว้ก่อนเพราะยังตอบไม่ได้หรือเวลาไม่พอ ไม่ได้ปฏิเสธ — ฝรั่งเรียกรายการที่จอดไว้ว่า parking lot ในบอร์ดประชุม",
+      "distractors": [
+        "pack",
+        "spark",
+        "perk"
+      ]
+    },
+    {
+      "id": "the_floor_is_yours",
+      "word": "the floor is yours",
+      "pos": "phrase",
+      "ipa": "/ðə flɔːr ɪz jʊrz/",
+      "reading_th": "เดอะ ฟลอร์ อิส ยัวร์ส",
+      "meaning_th": "เชิญพูดได้เลย",
+      "emoji": "🎙️",
+      "example_en": "Khun Praew, the floor is yours.",
+      "example_th": "คุณแพรว เชิญพูดได้เลยครับ",
+      "cefr": "B1",
+      "note_th": "floor ในที่ประชุม = สิทธิ์ในการพูด: take the floor = เริ่มพูด, open the floor to questions = เปิดให้ถาม — ไม่เกี่ยวกับพื้นห้องเลย",
+      "distractors": [
+        "the floor is wet",
+        "the room is yours",
+        "the stage is yours"
+      ]
+    },
+    {
+      "id": "interrupt",
+      "word": "interrupt",
+      "pos": "verb",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "reading_th": "อิน-เทอ-รัพท์",
+      "meaning_th": "พูดแทรก / ขัดจังหวะ",
+      "emoji": "✋",
+      "example_en": "Sorry to interrupt, but we only have five minutes left.",
+      "example_th": "ขอโทษที่ขัดจังหวะ แต่เราเหลือเวลาแค่ห้านาที",
+      "cefr": "B1",
+      "note_th": "Sorry to interrupt / May I jump in? = วิธีแทรกอย่างสุภาพ — ถ้าถูกแทรกให้พูดว่า Let me just finish my point ไม่ต้องเงียบยอม",
+      "distractors": [
+        "interact",
+        "intercept",
+        "introduce"
+      ]
+    },
+    {
+      "id": "on_track",
+      "word": "on track",
+      "pos": "phrase",
+      "ipa": "/ɑːn træk/",
+      "reading_th": "ออน แทร็ค",
+      "meaning_th": "เป็นไปตามแผน",
+      "emoji": "🛤️",
+      "example_en": "Are we still on track to finish by the end of June?",
+      "example_th": "เรายังเป็นไปตามแผนที่จะเสร็จภายในสิ้นเดือนมิถุนายนไหม",
+      "cefr": "B1",
+      "note_th": "on track = อยู่บนรางคือตามแผน, off track = หลุดจากแผน — ประธานมักพูด Let's get back on track เมื่อวงออกนอกเรื่อง",
+      "distractors": [
+        "on time",
+        "on trial",
+        "off track"
+      ]
+    },
+    {
+      "id": "timekeeper",
+      "word": "timekeeper",
+      "pos": "noun",
+      "ipa": "/ˈtaɪmkiːpər/",
+      "reading_th": "ไทม์-คี-เพอร์",
+      "meaning_th": "ผู้คุมเวลาในที่ประชุม",
+      "emoji": "⏱️",
+      "example_en": "Can someone be the timekeeper so we finish on time?",
+      "example_th": "ใครช่วยเป็นคนคุมเวลาหน่อยเพื่อให้เราเลิกตรงเวลา",
+      "cefr": "B1",
+      "note_th": "ประชุมที่ดีมีสามบทบาท: chair (ประธาน), timekeeper (คุมเวลา), note-taker (จดบันทึก) — timekeeper พูดว่า Two minutes left on this item ได้โดยไม่เสียมารยาท",
+      "distractors": [
+        "timetable",
+        "goalkeeper",
+        "timer"
+      ]
+    },
+    {
+      "id": "any_other_business",
+      "word": "any other business",
+      "pos": "phrase",
+      "ipa": "/ˈeni ˈʌðər ˈbɪznəs/",
+      "reading_th": "เอ-นี อะ-เธอร์ บิส-เนส",
+      "meaning_th": "วาระอื่นๆ (ท้ายประชุม)",
+      "emoji": "📂",
+      "example_en": "Is there any other business before we close?",
+      "example_th": "มีวาระอื่นๆ อีกไหมก่อนปิดประชุม",
+      "cefr": "B2",
+      "note_th": "ย่อว่า AOB เจอท้ายวาระประชุมแบบอังกฤษเสมอ = เปิดให้ใครก็ได้ยกเรื่องนอกวาระ — ถ้าไม่มีก็ตอบ Nothing from me",
+      "distractors": [
+        "any other questions",
+        "another business",
+        "none of your business"
+      ]
+    },
+    {
+      "id": "adjourn",
+      "word": "adjourn",
+      "pos": "verb",
+      "ipa": "/əˈdʒɜːrn/",
+      "reading_th": "แอด-เจิร์น",
+      "meaning_th": "ปิดประชุม (ทางการ)",
+      "emoji": "🔚",
+      "example_en": "If there are no questions, we can adjourn the meeting.",
+      "example_th": "ถ้าไม่มีคำถาม เราปิดประชุมได้เลย",
+      "cefr": "B2",
+      "note_th": "adjourn = ปิดประชุมหรือพักการประชุมอย่างเป็นทางการ (ศาลก็ใช้คำนี้) — ประชุมทั่วไปพูดง่ายๆ ว่า Let's call it a day / That's all for today",
+      "distractors": [
+        "adjust",
+        "journey",
+        "adorn"
+      ]
+    },
+    {
+      "id": "ground_rules",
+      "word": "ground rules",
+      "pos": "noun",
+      "ipa": "/ɡraʊnd ruːlz/",
+      "reading_th": "กราวด์ รูลส์",
+      "meaning_th": "กติกาพื้นฐานของวง",
+      "emoji": "📏",
+      "example_en": "Let's agree on some ground rules: one speaker at a time.",
+      "example_th": "มาตกลงกติกาพื้นฐานกัน: พูดทีละคน",
+      "cefr": "B1",
+      "note_th": "set ground rules = วางกติกาก่อนเริ่ม เช่น ปิดมือถือ ไม่พูดแทรก — ใช้ได้ทั้งประชุม เวิร์กช็อป และแม้แต่กติกาบ้าน",
+      "distractors": [
+        "golden rules",
+        "ground floor",
+        "house rules"
+      ]
+    },
+    {
+      "id": "put_forward",
+      "word": "put forward",
+      "pos": "phrase",
+      "ipa": "/pʊt ˈfɔːrwərd/",
+      "reading_th": "พุท ฟอร์-เวิร์ด",
+      "meaning_th": "เสนอ (แผน/ชื่อ) ให้พิจารณา",
+      "emoji": "💡",
+      "example_en": "I would like to put forward a different plan.",
+      "example_th": "ฉันอยากเสนอแผนอีกแบบหนึ่งให้พิจารณา",
+      "cefr": "B2",
+      "note_th": "put forward a proposal/name = ยื่นเสนอให้ที่ประชุมพิจารณา ทางการกว่า suggest — อย่าสับสนกับ bring forward ที่แปลว่าเลื่อนเวลาให้เร็วขึ้น",
+      "distractors": [
+        "put off",
+        "put up with",
+        "push forward"
+      ]
+    },
+    {
+      "id": "i_see_your_point",
+      "word": "I see your point",
+      "pos": "phrase",
+      "ipa": "/aɪ siː jʊr pɔɪnt/",
+      "reading_th": "ไอ ซี ยัวร์ พอยท์",
+      "meaning_th": "เข้าใจประเด็นของคุณ",
+      "emoji": "👁️",
+      "example_en": "I see your point, but the budget is still too high.",
+      "example_th": "ฉันเข้าใจประเด็นของคุณ แต่งบยังสูงเกินไปอยู่ดี",
+      "cefr": "B1",
+      "note_th": "วิธีรับฟังก่อนแย้ง: I see your point, but... — ฝรั่งเรียกเทคนิคนี้ว่า yes-but ช่วยให้อีกฝ่ายไม่รู้สึกถูกตีตก ต่างจาก I agree ที่แปลว่าเห็นด้วยจริงๆ",
+      "distractors": [
+        "I see you",
+        "I get the point",
+        "I take your point"
+      ]
+    },
+    {
+      "id": "with_all_due_respect",
+      "word": "with all due respect",
+      "pos": "phrase",
+      "ipa": "/wɪð ɔːl duː rɪˈspekt/",
+      "reading_th": "วิธ ออล ดิว รี-สเปคท์",
+      "meaning_th": "ด้วยความเคารพ (ก่อนแย้ง)",
+      "emoji": "🙇",
+      "example_en": "With all due respect, I think the data says otherwise.",
+      "example_th": "ด้วยความเคารพ ฉันคิดว่าข้อมูลบอกตรงกันข้าม",
+      "cefr": "B2",
+      "note_th": "ใช้ก่อนแย้งคนที่อาวุโสกว่า — แต่ระวัง ฝรั่งหลายคนได้ยินวลีนี้แล้วเตรียมใจว่ากำลังจะโดนแย้งแรง ใช้แค่เมื่อจำเป็นจริงๆ",
+      "distractors": [
+        "with all my respect",
+        "with due respect",
+        "with great respect"
+      ]
+    },
+    {
+      "id": "im_afraid",
+      "word": "I'm afraid",
+      "pos": "phrase",
+      "ipa": "/aɪm əˈfreɪd/",
+      "reading_th": "ไอม์ อะ-เฟรด",
+      "meaning_th": "เกรงว่า... (บอกข่าวร้ายสุภาพ)",
+      "emoji": "😬",
+      "example_en": "I'm afraid we cannot approve the extra budget this year.",
+      "example_th": "เกรงว่าเราไม่สามารถอนุมัติงบเพิ่มในปีนี้ได้",
+      "cefr": "B1",
+      "note_th": "I'm afraid ตรงนี้ไม่ได้แปลว่ากลัว แต่เป็นคำนำหน้าข่าวร้ายหรือการปฏิเสธให้นุ่มลง — I'm afraid not = ไม่ได้ครับ แบบสุภาพที่สุด",
+      "distractors": [
+        "I'm scared",
+        "I'm sorry",
+        "I'm worried"
+      ]
+    },
+    {
+      "id": "to_be_honest",
+      "word": "to be honest",
+      "pos": "phrase",
+      "ipa": "/tuː biː ˈɑːnɪst/",
+      "reading_th": "ทู บี ออ-นิสท์",
+      "meaning_th": "พูดตรงๆ นะ",
+      "emoji": "💬",
+      "example_en": "To be honest, I am not sure this plan will work.",
+      "example_th": "พูดตรงๆ นะ ฉันไม่แน่ใจว่าแผนนี้จะได้ผล",
+      "cefr": "A2",
+      "note_th": "เปิดประโยคก่อนพูดความเห็นตรงๆ ย่อในแชตว่า TBH — ตัว h ไม่ออกเสียง อ่าน \"ออ-นิสท์\" และคำตรงข้ามคือ dishonest",
+      "distractors": [
+        "to be fair",
+        "to be frank",
+        "to be sure"
+      ]
+    },
+    {
+      "id": "perspective",
+      "word": "perspective",
+      "pos": "noun",
+      "ipa": "/pərˈspektɪv/",
+      "reading_th": "เพอร์-สเปค-ทิฟ",
+      "meaning_th": "มุมมอง",
+      "emoji": "🔭",
+      "example_en": "From my perspective, the customer comes first.",
+      "example_th": "จากมุมมองของฉัน ลูกค้าต้องมาก่อน",
+      "cefr": "B1",
+      "note_th": "from my perspective / in my view = ในมุมมองของฉัน นุ่มกว่า I think เพราะยอมรับว่าคนอื่นอาจมองต่าง — อย่าสับสนกับ prospective (ที่คาดว่าจะเป็น)",
+      "distractors": [
+        "prospective",
+        "respective",
+        "perceptive"
+      ]
+    },
+    {
+      "id": "suggest",
+      "word": "suggest",
+      "pos": "verb",
+      "ipa": "/səɡˈdʒest/",
+      "reading_th": "ซัก-เจสท์",
+      "meaning_th": "เสนอแนะ",
+      "emoji": "🗣️",
+      "example_en": "May I suggest that we test it with ten users first?",
+      "example_th": "ขอเสนอให้เราทดสอบกับผู้ใช้สิบคนก่อนได้ไหม",
+      "cefr": "A2",
+      "note_th": "suggest ตามด้วย V-ing หรือ that + ประโยค ไม่ใช่ to: suggest testing / suggest that we test — ห้ามพูด suggest to test ซึ่งเป็นข้อผิดพลาดยอดฮิตของคนไทย",
+      "distractors": [
+        "digest",
+        "suggestion",
+        "subject"
+      ]
+    },
+    {
+      "id": "concern",
+      "word": "concern",
+      "pos": "noun",
+      "ipa": "/kənˈsɜːrn/",
+      "reading_th": "คอน-เซิร์น",
+      "meaning_th": "ข้อกังวล",
+      "emoji": "😟",
+      "example_en": "My only concern is the tight timeline.",
+      "example_th": "ข้อกังวลเดียวของฉันคือกรอบเวลาที่กระชั้นมาก",
+      "cefr": "B1",
+      "note_th": "I have a concern about... = วิธีแย้งที่สุภาพมากเพราะไม่ได้บอกว่าผิด แค่กังวล — ใช้กับหัวหน้าหรือลูกค้าได้สบาย; raise a concern = ยกข้อกังวลขึ้นมา",
+      "distractors": [
+        "concert",
+        "consent",
+        "content"
+      ]
+    },
+    {
+      "id": "alternatively",
+      "word": "alternatively",
+      "pos": "adverb",
+      "ipa": "/ɔːlˈtɜːrnətɪvli/",
+      "reading_th": "ออล-เทอร์-นะ-ทิฟ-ลี",
+      "meaning_th": "หรืออีกทางหนึ่ง",
+      "emoji": "🔀",
+      "example_en": "Alternatively, we could launch in two phases.",
+      "example_th": "หรืออีกทางหนึ่ง เราอาจเปิดตัวเป็นสองเฟส",
+      "cefr": "B2",
+      "note_th": "ใช้เสนอทางเลือกที่สองหลังจากพูดทางแรกแล้ว เหมาะกับอีเมลมาก — ง่ายกว่าคือ Or we could... แต่ alternatively ดูมีโครงสร้างกว่า",
+      "distractors": [
+        "alternately",
+        "actually",
+        "eventually"
+      ]
+    },
+    {
+      "id": "on_the_other_hand",
+      "word": "on the other hand",
+      "pos": "phrase",
+      "ipa": "/ɑːn ði ˈʌðər hænd/",
+      "reading_th": "ออน ดิ อะ-เธอร์ แฮนด์",
+      "meaning_th": "ในอีกแง่หนึ่ง",
+      "emoji": "⚖️",
+      "example_en": "On the other hand, a cheaper plan may hurt our image.",
+      "example_th": "ในอีกแง่หนึ่ง แผนที่ถูกกว่าอาจทำให้ภาพลักษณ์เราเสีย",
+      "cefr": "B1",
+      "note_th": "ใช้ชั่งข้อดีข้อเสียสองฝั่ง บางครั้งนำหน้าด้วย On one hand... ก่อน — ต้องเป็น hand เอกพจน์เสมอ ไม่ใช่ on the other hands",
+      "distractors": [
+        "on the one hand",
+        "on the other side",
+        "by the way"
+      ]
+    },
+    {
+      "id": "fair_enough",
+      "word": "fair enough",
+      "pos": "phrase",
+      "ipa": "/fer ɪˈnʌf/",
+      "reading_th": "แฟร์ อิ-นัฟ",
+      "meaning_th": "ก็สมเหตุสมผล / โอเคงั้น",
+      "emoji": "👌",
+      "example_en": "Fair enough, let's try your idea for one month.",
+      "example_th": "ก็สมเหตุสมผล งั้นลองไอเดียของคุณหนึ่งเดือน",
+      "cefr": "B1",
+      "note_th": "ตอบเมื่อถูกโน้มน้าวแล้วยอมรับเหตุผล ไม่ได้แปลว่าชอบใจเต็มร้อย — ใช้ในวงประชุมได้ ให้ความรู้สึกเปิดใจและไม่ดื้อ",
+      "distractors": [
+        "good enough",
+        "fair play",
+        "far enough"
+      ]
+    },
+    {
+      "id": "to_some_extent",
+      "word": "to some extent",
+      "pos": "phrase",
+      "ipa": "/tuː sʌm ɪkˈstent/",
+      "reading_th": "ทู ซัม อิค-สเทนท์",
+      "meaning_th": "ในระดับหนึ่ง / บางส่วน",
+      "emoji": "📊",
+      "example_en": "I agree to some extent, but we need more data.",
+      "example_th": "ฉันเห็นด้วยในระดับหนึ่ง แต่เรายังต้องการข้อมูลเพิ่ม",
+      "cefr": "B2",
+      "note_th": "วิธีบอกว่าเห็นด้วยบางส่วนก่อนเสนอเงื่อนไข — ชุดเดียวกัน: to a certain extent, to a large extent; extent สะกดด้วย t ไม่ใช่ extend ที่เป็นกริยา",
+      "distractors": [
+        "to some extend",
+        "to the extent",
+        "to some degree"
+      ]
+    },
+    {
+      "id": "correct_me_if_im_wrong",
+      "word": "correct me if I'm wrong",
+      "pos": "phrase",
+      "ipa": "/kəˈrekt miː ɪf aɪm rɔːŋ/",
+      "reading_th": "คอ-เร็คท์ มี อิฟ ไอม์ รอง",
+      "meaning_th": "ถ้าฉันเข้าใจผิดช่วยแก้ด้วย",
+      "emoji": "🧐",
+      "example_en": "Correct me if I'm wrong, but the deadline was Friday?",
+      "example_th": "ถ้าฉันเข้าใจผิดช่วยบอกด้วย แต่กำหนดส่งคือวันศุกร์ใช่ไหม",
+      "cefr": "B2",
+      "note_th": "ใช้เปิดก่อนชี้ว่าอีกฝ่ายอาจพลาด โดยทำเหมือนตัวเองอาจเป็นฝ่ายผิด — นุ่มนวลมากกับหัวหน้าหรือลูกค้า แต่ใช้บ่อยจะดูประชดได้",
+      "distractors": [
+        "correct me if you can",
+        "tell me if I'm right",
+        "correct me please"
+      ]
+    },
+    {
+      "id": "constructive",
+      "word": "constructive",
+      "pos": "adjective",
+      "ipa": "/kənˈstrʌktɪv/",
+      "reading_th": "คอน-สตรัค-ทิฟ",
+      "meaning_th": "สร้างสรรค์ (คำติเพื่อก่อ)",
+      "emoji": "🧱",
+      "example_en": "Please keep the comments constructive and specific.",
+      "example_th": "กรุณาให้ความเห็นแบบสร้างสรรค์และเจาะจง",
+      "cefr": "B2",
+      "note_th": "constructive feedback = ติเพื่อก่อ บอกว่าจะปรับยังไง ไม่ใช่แค่บอกว่าแย่ — ตรงข้ามคือ destructive; ประชุมแบบมืออาชีพจะขอ constructive comments เท่านั้น",
+      "distractors": [
+        "construction",
+        "instructive",
+        "destructive"
+      ]
+    },
+    {
+      "id": "agree_to_disagree",
+      "word": "agree to disagree",
+      "pos": "phrase",
+      "ipa": "/əˈɡriː tuː ˌdɪsəˈɡriː/",
+      "reading_th": "อะ-กรี ทู ดิส-อะ-กรี",
+      "meaning_th": "ต่างคนต่างความเห็น (เลิกเถียง)",
+      "emoji": "🤷",
+      "example_en": "Let's agree to disagree and move to the next item.",
+      "example_th": "ต่างคนต่างความเห็นก็ได้ แล้วไปประเด็นถัดไปกันเถอะ",
+      "cefr": "B2",
+      "note_th": "ใช้จบการถกเถียงที่ไม่มีใครยอมโดยไม่เสียน้ำใจ: ยอมรับว่าเห็นต่างแล้วเดินต่อ — เหมาะกับประเด็นที่ไม่ต้องตัดสินใจตอนนี้",
+      "distractors": [
+        "agree to agree",
+        "disagree to agree",
+        "agree to differ"
+      ]
+    },
+    {
+      "id": "video_call",
+      "word": "video call",
+      "pos": "noun",
+      "ipa": "/ˈvɪdioʊ kɔːl/",
+      "reading_th": "วิ-ดี-โอ คอล",
+      "meaning_th": "การคุยผ่านวิดีโอ",
+      "emoji": "📹",
+      "example_en": "Let's have a video call instead of flying to Singapore.",
+      "example_th": "คุยผ่านวิดีโอแทนการบินไปสิงคโปร์กันเถอะ",
+      "cefr": "A2",
+      "note_th": "have/jump on a video call = คุยวิดีโอ ส่วน video conference ฟังดูทางการและใหญ่กว่า — ฝรั่งพูดว่า Let's hop on a call เป็นภาษาออฟฟิศสบายๆ",
+      "distractors": [
+        "phone call",
+        "video clip",
+        "voice call"
+      ]
+    },
+    {
+      "id": "unmute",
+      "word": "unmute",
+      "pos": "verb",
+      "ipa": "/ʌnˈmjuːt/",
+      "reading_th": "อัน-มิวท์",
+      "meaning_th": "เปิดไมค์",
+      "emoji": "🎤",
+      "example_en": "Please unmute yourself when it is your turn to speak.",
+      "example_th": "กรุณาเปิดไมค์เมื่อถึงตาคุณพูด",
+      "cefr": "A2",
+      "note_th": "mute = ปิดไมค์, unmute = เปิดไมค์ — มารยาทคือ mute ไว้ตลอดถ้าไม่พูด และ unmute ก่อนเริ่มพูด ไม่งั้นได้ยินแต่ปากขยับ",
+      "distractors": [
+        "mute",
+        "unplug",
+        "unlock"
+      ]
+    },
+    {
+      "id": "share_your_screen",
+      "word": "share your screen",
+      "pos": "phrase",
+      "ipa": "/ʃer jʊr skriːn/",
+      "reading_th": "แชร์ ยัวร์ สกรีน",
+      "meaning_th": "แชร์หน้าจอ",
+      "emoji": "🖥️",
+      "example_en": "Could you share your screen so we can see the slides?",
+      "example_th": "ช่วยแชร์หน้าจอหน่อยได้ไหม เราจะได้เห็นสไลด์",
+      "cefr": "A2",
+      "note_th": "share your screen / screen share = ให้ทุกคนเห็นจอเรา — ก่อนแชร์ปิดแชตและแจ้งเตือนส่วนตัวก่อนเสมอ และบอกว่า Can everyone see my screen? เพื่อเช็กว่าขึ้นแล้ว",
+      "distractors": [
+        "share your view",
+        "show your screen",
+        "shake your screen"
+      ]
+    },
+    {
+      "id": "breakout_room",
+      "word": "breakout room",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkaʊt ruːm/",
+      "reading_th": "เบรค-เอาท์ รูม",
+      "meaning_th": "ห้องย่อยในประชุมออนไลน์",
+      "emoji": "🚪",
+      "example_en": "We will split into breakout rooms for ten minutes.",
+      "example_th": "เราจะแยกเข้าห้องย่อยกันสิบนาที",
+      "cefr": "B1",
+      "note_th": "breakout room = ห้องกลุ่มย่อยที่โฮสต์แบ่งใน Zoom/Teams เพื่อคุยกลุ่มเล็ก — breakout session ก็ใช้กับงานสัมมนาจริงที่แยกห้องคุยหัวข้อย่อย",
+      "distractors": [
+        "break room",
+        "meeting room",
+        "waiting area"
+      ]
+    },
+    {
+      "id": "can_you_hear_me",
+      "word": "can you hear me",
+      "pos": "phrase",
+      "ipa": "/kæn juː hɪr miː/",
+      "reading_th": "แคน ยู เฮียร์ มี",
+      "meaning_th": "ได้ยินฉันไหม",
+      "emoji": "🔊",
+      "example_en": "Can you hear me, or is my mic not working?",
+      "example_th": "ได้ยินฉันไหม หรือไมค์ฉันไม่ทำงาน",
+      "cefr": "A2",
+      "note_th": "ประโยคแรกของทุกประชุมออนไลน์ — ตอบว่า Loud and clear = ชัดเจนมาก หรือ You're breaking up = เสียงขาดๆ หายๆ จะได้แก้ปัญหาตรงจุด",
+      "distractors": [
+        "can you see me",
+        "can you help me",
+        "can you hear him"
+      ]
+    },
+    {
+      "id": "youre_on_mute",
+      "word": "you're on mute",
+      "pos": "phrase",
+      "ipa": "/jʊr ɑːn mjuːt/",
+      "reading_th": "ยัวร์ ออน มิวท์",
+      "meaning_th": "คุณปิดไมค์อยู่",
+      "emoji": "🔇",
+      "example_en": "Sorry Tom, you're on mute, we cannot hear you.",
+      "example_th": "ขอโทษนะทอม คุณปิดไมค์อยู่ เราไม่ได้ยินคุณ",
+      "cefr": "A2",
+      "note_th": "ประโยคที่ถูกพูดมากที่สุดในโลกยุคประชุมออนไลน์ — on mute = สถานะปิดไมค์ ใช้ on ไม่ใช่ in; บอกเพื่อนอย่างสุภาพด้วย I think you're on mute",
+      "distractors": [
+        "you're on hold",
+        "you're muted out",
+        "you're on air"
+      ]
+    },
+    {
+      "id": "meeting_link",
+      "word": "meeting link",
+      "pos": "noun",
+      "ipa": "/ˈmiːtɪŋ lɪŋk/",
+      "reading_th": "มี-ติง ลิงค์",
+      "meaning_th": "ลิงก์เข้าประชุม",
+      "emoji": "🔗",
+      "example_en": "The meeting link is in the calendar invite.",
+      "example_th": "ลิงก์เข้าประชุมอยู่ในคำเชิญในปฏิทิน",
+      "cefr": "A2",
+      "note_th": "ขอลิงก์ว่า Could you resend the meeting link? — ส่งลิงก์พร้อม meeting ID และ passcode เสมอ เผื่อคนที่เข้าจากมือถือหรือเครื่องอื่น",
+      "distractors": [
+        "meeting room",
+        "meeting line",
+        "link building"
+      ]
+    },
+    {
+      "id": "dial_in",
+      "word": "dial in",
+      "pos": "phrase",
+      "ipa": "/ˈdaɪəl ɪn/",
+      "reading_th": "ได-เอิล อิน",
+      "meaning_th": "โทรเข้าร่วมประชุม",
+      "emoji": "☎️",
+      "example_en": "If the app fails, you can dial in by phone.",
+      "example_th": "ถ้าแอปใช้ไม่ได้ คุณโทรเข้าร่วมประชุมทางโทรศัพท์ได้",
+      "cefr": "B1",
+      "note_th": "dial in = เข้าประชุมด้วยการโทรเบอร์ที่ให้ไว้ (ไม่มีภาพ) ใช้ตอนเน็ตล่ม — dial-in number = เบอร์สำหรับโทรเข้า ยังมีในทุกคำเชิญประชุมใหญ่",
+      "distractors": [
+        "dial up",
+        "dive in",
+        "drop in"
+      ]
+    },
+    {
+      "id": "virtual_background",
+      "word": "virtual background",
+      "pos": "noun",
+      "ipa": "/ˈvɜːrtʃuəl ˈbækɡraʊnd/",
+      "reading_th": "เวอร์-ชวล แบ็ค-กราวด์",
+      "meaning_th": "พื้นหลังเสมือน",
+      "emoji": "🏝️",
+      "example_en": "Use a virtual background if your room is messy.",
+      "example_th": "ใช้พื้นหลังเสมือนถ้าห้องของคุณรก",
+      "cefr": "B1",
+      "note_th": "virtual = เสมือน ไม่ใช่ของจริง (virtual meeting, virtual office) — พื้นหลังเบลอเรียก blurred background เหมาะกับงานทางการมากกว่าภาพชายหาด",
+      "distractors": [
+        "virtual reality",
+        "real background",
+        "background check"
+      ]
+    },
+    {
+      "id": "record",
+      "word": "record",
+      "pos": "verb",
+      "ipa": "/rɪˈkɔːrd/",
+      "reading_th": "รี-คอร์ด",
+      "meaning_th": "บันทึก (เสียง/วิดีโอ)",
+      "emoji": "⏺️",
+      "example_en": "Is it okay if I record this meeting for the team?",
+      "example_th": "ขอบันทึกการประชุมนี้ไว้ให้ทีมได้ไหม",
+      "cefr": "A2",
+      "note_th": "กริยาเน้นพยางค์หลัง \"รี-คอร์ด\" ส่วนคำนาม (สถิติ/ประวัติ) เน้นพยางค์หน้า \"เรค-เคิร์ด\" — มารยาทคือขออนุญาตก่อนกดบันทึกทุกครั้ง",
+      "distractors": [
+        "recall",
+        "recorder",
+        "report"
+      ]
+    },
+    {
+      "id": "echo",
+      "word": "echo",
+      "pos": "noun",
+      "ipa": "/ˈekoʊ/",
+      "reading_th": "เอค-โค",
+      "meaning_th": "เสียงสะท้อน / เสียงก้อง",
+      "emoji": "🔁",
+      "example_en": "There is an echo, someone has two devices open.",
+      "example_th": "มีเสียงก้อง ใครบางคนเปิดสองเครื่องพร้อมกัน",
+      "cefr": "B1",
+      "note_th": "echo เกิดเมื่อมีคนเปิดลำโพงกับไมค์ใกล้กัน — บอกว่า I'm getting an echo แล้วให้ทุกคนใส่หูฟัง; ตัว ch อ่านเป็น ค ไม่ใช่ ช",
+      "distractors": [
+        "eco",
+        "ego",
+        "noise"
+      ]
+    },
+    {
+      "id": "cut_out",
+      "word": "cut out",
+      "pos": "phrase",
+      "ipa": "/kʌt aʊt/",
+      "reading_th": "คัท เอาท์",
+      "meaning_th": "สัญญาณขาด (เสียงหาย)",
+      "emoji": "📶",
+      "example_en": "Your audio keeps cutting out, can you repeat that?",
+      "example_th": "เสียงคุณขาดเป็นช่วงๆ ช่วยพูดอีกทีได้ไหม",
+      "cefr": "B1",
+      "note_th": "cut out = เสียงหรือภาพหายไปชั่วคราวเพราะเน็ต — ถ้าหายทั้งคนพูดว่า You dropped off / You got disconnected; ส่วน cut off = ถูกตัดสาย",
+      "distractors": [
+        "cut off",
+        "cut in",
+        "drop out"
+      ]
+    },
+    {
+      "id": "host",
+      "word": "host",
+      "pos": "noun",
+      "ipa": "/hoʊst/",
+      "reading_th": "โฮสท์",
+      "meaning_th": "ผู้จัด/ผู้ควบคุมห้องประชุม",
+      "emoji": "🧑‍💻",
+      "example_en": "Only the host can admit people from the waiting room.",
+      "example_th": "มีแค่โฮสต์เท่านั้นที่กดรับคนจากห้องรอเข้ามาได้",
+      "cefr": "A2",
+      "note_th": "host = คนเปิดห้องและมีสิทธิ์ควบคุม (mute ทุกคน, บันทึก, แบ่งห้อง) — เป็นกริยาได้ด้วย: host a meeting; co-host = ผู้ช่วยควบคุม",
+      "distractors": [
+        "ghost",
+        "hostel",
+        "guest"
+      ]
+    },
+    {
+      "id": "conference_call",
+      "word": "conference call",
+      "pos": "noun",
+      "ipa": "/ˈkɑːnfərəns kɔːl/",
+      "reading_th": "คอน-เฟอ-เรนส์ คอล",
+      "meaning_th": "การประชุมทางโทรศัพท์หลายสาย",
+      "emoji": "📞",
+      "example_en": "We have a conference call with Tokyo at eight tonight.",
+      "example_th": "เรามีประชุมทางโทรศัพท์กับโตเกียวสองทุ่มคืนนี้",
+      "cefr": "B1",
+      "note_th": "conference call (con call) = ประชุมเสียงหลายคนพร้อมกัน ไม่จำเป็นต้องมีภาพ — คนไทยพูด \"คอนคอล\" ติดปาก ฝรั่งเข้าใจ con call เช่นกันแต่ใช้ conference call ในอีเมล",
+      "distractors": [
+        "conference room",
+        "cold call",
+        "phone conference"
+      ]
+    },
+    {
+      "id": "minutes",
+      "word": "minutes",
+      "pos": "noun",
+      "ipa": "/ˈmɪnɪts/",
+      "reading_th": "มิ-นิทส์",
+      "meaning_th": "บันทึกการประชุม",
+      "emoji": "📝",
+      "example_en": "I will send the minutes to everyone by tomorrow.",
+      "example_th": "ฉันจะส่งบันทึกการประชุมให้ทุกคนภายในพรุ่งนี้",
+      "cefr": "B1",
+      "note_th": "minutes (พหูพจน์เสมอ) = บันทึกว่าใครตัดสินใจอะไรในประชุม ไม่เกี่ยวกับนาที — take the minutes = เป็นคนจด, circulate the minutes = ส่งเวียน",
+      "distractors": [
+        "minute",
+        "notes",
+        "memo"
+      ]
+    },
+    {
+      "id": "action_item",
+      "word": "action item",
+      "pos": "noun",
+      "ipa": "/ˈækʃn ˈaɪtəm/",
+      "reading_th": "แอค-ชัน ไอ-เท็ม",
+      "meaning_th": "งานที่ต้องทำหลังประชุม",
+      "emoji": "✅",
+      "example_en": "Each action item needs an owner and a due date.",
+      "example_th": "งานที่ต้องทำแต่ละข้อต้องมีผู้รับผิดชอบและวันครบกำหนด",
+      "cefr": "B1",
+      "note_th": "action item = งานที่ตกลงกันว่าใครทำอะไรภายในเมื่อไร มักอยู่ท้ายบันทึกการประชุม — ฝรั่งถามว่า What are the action items? เพื่อให้ประชุมไม่จบเปล่า",
+      "distractors": [
+        "agenda item",
+        "action plan",
+        "to-do"
+      ]
+    },
+    {
+      "id": "assign",
+      "word": "assign",
+      "pos": "verb",
+      "ipa": "/əˈsaɪn/",
+      "reading_th": "อะ-ซายน์",
+      "meaning_th": "มอบหมาย (งาน)",
+      "emoji": "📌",
+      "example_en": "Let's assign the research task to Khun Ploy.",
+      "example_th": "มอบหมายงานวิจัยให้คุณพลอยกันเถอะ",
+      "cefr": "B1",
+      "note_th": "assign something to someone หรือ assign someone something ได้ทั้งคู่ — คำนาม assignment ใช้ทั้งงานที่ได้รับมอบหมายและการบ้าน; ตัว g ไม่ออกเสียง",
+      "distractors": [
+        "design",
+        "resign",
+        "sign"
+      ]
+    },
+    {
+      "id": "in_charge",
+      "word": "in charge",
+      "pos": "phrase",
+      "ipa": "/ɪn tʃɑːrdʒ/",
+      "reading_th": "อิน ชาร์จ",
+      "meaning_th": "เป็นคนรับผิดชอบ / คุมงานอยู่",
+      "emoji": "🧑‍✈️",
+      "example_en": "Who is in charge of booking the venue?",
+      "example_th": "ใครรับผิดชอบเรื่องจองสถานที่",
+      "cefr": "B1",
+      "note_th": "in charge of + งาน/ทีม = เป็นคนดูแล ตัดสินใจได้ — ถามหาคนรับผิดชอบว่า Who's in charge? ส่วน charge ที่เป็นเงินคือค่าธรรมเนียม คนละเรื่อง",
+      "distractors": [
+        "in change",
+        "in control",
+        "in return"
+      ]
+    },
+    {
+      "id": "next_steps",
+      "word": "next steps",
+      "pos": "noun",
+      "ipa": "/nekst steps/",
+      "reading_th": "เน็กซ์ท์ สเต็ปส์",
+      "meaning_th": "ขั้นตอนถัดไป",
+      "emoji": "👣",
+      "example_en": "Before we close, let's agree on the next steps.",
+      "example_th": "ก่อนปิดประชุม มาตกลงขั้นตอนถัดไปกัน",
+      "cefr": "A2",
+      "note_th": "next steps เป็นหัวข้อปิดท้ายของทุกการประชุมและอีเมลสรุป — เขียนเป็นข้อๆ พร้อมชื่อคนทำ จะได้ไม่ต้องประชุมซ้ำเพื่อถามว่าใครทำอะไร",
+      "distractors": [
+        "next time",
+        "first steps",
+        "new steps"
+      ]
+    },
+    {
+      "id": "circulate",
+      "word": "circulate",
+      "pos": "verb",
+      "ipa": "/ˈsɜːrkjəleɪt/",
+      "reading_th": "เซอร์-คิว-เลท",
+      "meaning_th": "ส่งเวียนให้ทุกคน",
+      "emoji": "🔄",
+      "example_en": "Please circulate the draft before Friday's meeting.",
+      "example_th": "กรุณาส่งเวียนร่างเอกสารก่อนประชุมวันศุกร์",
+      "cefr": "B2",
+      "note_th": "circulate a document = ส่งให้ทุกคนที่เกี่ยวข้องอ่าน ทางการกว่า send around — มาจากคำว่า circle เหมือนเอกสารวนไปรอบวง",
+      "distractors": [
+        "calculate",
+        "circuit",
+        "distribute"
+      ]
+    },
+    {
+      "id": "summary",
+      "word": "summary",
+      "pos": "noun",
+      "ipa": "/ˈsʌməri/",
+      "reading_th": "ซัม-มะ-รี",
+      "meaning_th": "บทสรุป / ใจความ",
+      "emoji": "📄",
+      "example_en": "Here is a short summary of what we decided today.",
+      "example_th": "นี่คือสรุปสั้นๆ ของสิ่งที่เราตัดสินใจวันนี้",
+      "cefr": "A2",
+      "note_th": "summary = คำนาม, summarize = กริยา — in summary = โดยสรุป ใช้ขึ้นย่อหน้าท้ายอีเมล; อีเมลที่ยาวควรมี summary ไว้บนสุดให้หัวหน้าที่ไม่มีเวลาอ่าน",
+      "distractors": [
+        "summer",
+        "sum",
+        "summons"
+      ]
+    },
+    {
+      "id": "deliverable",
+      "word": "deliverable",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪvərəbl/",
+      "reading_th": "ดิ-ลิ-เวอ-ระ-เบิล",
+      "meaning_th": "ผลงานที่ต้องส่งมอบ",
+      "emoji": "📦",
+      "example_en": "The first deliverable is a prototype by March.",
+      "example_th": "ผลงานส่งมอบชิ้นแรกคือต้นแบบภายในเดือนมีนาคม",
+      "cefr": "B2",
+      "note_th": "deliverable = สิ่งที่จับต้องได้ที่ต้องส่งลูกค้า เช่น รายงาน แอป วิดีโอ ไม่ใช่กิจกรรม — ในสัญญาจ้างมักมีหัวข้อ Deliverables ระบุชัดว่าจะได้อะไรบ้าง",
+      "distractors": [
+        "delivery",
+        "deliverer",
+        "deliberate"
+      ]
+    },
+    {
+      "id": "milestone",
+      "word": "milestone",
+      "pos": "noun",
+      "ipa": "/ˈmaɪlstoʊn/",
+      "reading_th": "ไมล์-สโตน",
+      "meaning_th": "หมุดหมายสำคัญของโครงการ",
+      "emoji": "🏁",
+      "example_en": "Finishing the design is our first big milestone.",
+      "example_th": "การออกแบบเสร็จคือหมุดหมายใหญ่แรกของเรา",
+      "cefr": "B2",
+      "note_th": "milestone เดิมคือหลักหินบอกระยะทาง ในงานหมายถึงจุดสำคัญที่บอกว่ามาถึงไหนแล้ว — reach/hit a milestone = ไปถึงหมุดหมาย ใช้ฉลองความคืบหน้าได้",
+      "distractors": [
+        "millstone",
+        "milestone chart",
+        "deadline"
+      ]
+    },
+    {
+      "id": "accountable",
+      "word": "accountable",
+      "pos": "adjective",
+      "ipa": "/əˈkaʊntəbl/",
+      "reading_th": "อะ-เคาน์-ทะ-เบิล",
+      "meaning_th": "ต้องรับผิดชอบผลลัพธ์",
+      "emoji": "🎯",
+      "example_en": "One person must be accountable for each result.",
+      "example_th": "ต้องมีคนหนึ่งรับผิดชอบผลลัพธ์แต่ละอย่าง",
+      "cefr": "B2",
+      "note_th": "accountable = รับผิดชอบแบบตอบคำถามได้ว่าทำไมสำเร็จหรือพลาด เข้มกว่า responsible — hold someone accountable = ให้คนนั้นรับผิดชอบผล; คำนาม accountability",
+      "distractors": [
+        "accountant",
+        "countable",
+        "responsible"
+      ]
+    },
+    {
+      "id": "sign_off",
+      "word": "sign off",
+      "pos": "phrase",
+      "ipa": "/saɪn ɔːf/",
+      "reading_th": "ซายน์ ออฟ",
+      "meaning_th": "อนุมัติขั้นสุดท้าย",
+      "emoji": "✍️",
+      "example_en": "The client needs to sign off on the final design.",
+      "example_th": "ลูกค้าต้องอนุมัติขั้นสุดท้ายสำหรับงานออกแบบตัวจบ",
+      "cefr": "B2",
+      "note_th": "sign off on something = เซ็นอนุมัติให้เดินหน้าได้ ส่วน sign-off (คำนาม) = การอนุมัติ — ระวัง sign off ท้ายอีเมลก็แปลว่าลงท้ายจดหมาย ดูบริบท",
+      "distractors": [
+        "sign up",
+        "sign in",
+        "sign out"
+      ]
+    },
+    {
+      "id": "status_update",
+      "word": "status update",
+      "pos": "noun",
+      "ipa": "/ˈsteɪtəs ˈʌpdeɪt/",
+      "reading_th": "สเต-ตัส อัพ-เดท",
+      "meaning_th": "รายงานความคืบหน้า",
+      "emoji": "📈",
+      "example_en": "Please send a status update every Friday afternoon.",
+      "example_th": "กรุณาส่งรายงานความคืบหน้าทุกบ่ายวันศุกร์",
+      "cefr": "B1",
+      "note_th": "status update = รายงานสั้นๆ ว่าถึงไหน ติดอะไร ต่อไปทำอะไร — โครงสร้างที่ฝรั่งชอบ: Done / In progress / Blocked ทีมจะอ่านทันใน 30 วินาที",
+      "distractors": [
+        "status quo",
+        "software update",
+        "progress bar"
+      ]
+    },
+    {
+      "id": "eod",
+      "word": "EOD",
+      "pos": "adverb",
+      "ipa": "/ˌiː oʊ ˈdiː/",
+      "reading_th": "อี-โอ-ดี",
+      "meaning_th": "ภายในสิ้นวันนี้",
+      "emoji": "🌙",
+      "example_en": "I will send you the revised slides EOD.",
+      "example_th": "ฉันจะส่งสไลด์ที่แก้แล้วให้ภายในสิ้นวันนี้",
+      "cefr": "B1",
+      "note_th": "EOD = end of day ส่วนใหญ่หมายถึงก่อนเลิกงาน ไม่ใช่เที่ยงคืน — ชุดเดียวกัน: EOW (สิ้นสัปดาห์), COB (close of business); ถ้าข้ามเขตเวลาให้ระบุเวลาด้วย",
+      "distractors": [
+        "EOW",
+        "ETA",
+        "COD"
+      ]
+    },
+    {
+      "id": "consensus",
+      "word": "consensus",
+      "pos": "noun",
+      "ipa": "/kənˈsensəs/",
+      "reading_th": "คอน-เซน-ซัส",
+      "meaning_th": "ฉันทามติ / ความเห็นร่วม",
+      "emoji": "🤝",
+      "example_en": "We reached a consensus to delay the launch by a month.",
+      "example_th": "เราได้ข้อสรุปร่วมกันว่าจะเลื่อนการเปิดตัวไปหนึ่งเดือน",
+      "cefr": "B2",
+      "note_th": "reach a consensus = ทุกคนยอมรับได้แม้ไม่ใช่ตัวเลือกแรกของใคร ต่างจาก vote ที่มีคนแพ้ — ไม่ต้องเติม general เพราะ consensus แปลว่าความเห็นร่วมอยู่แล้ว",
+      "distractors": [
+        "census",
+        "consent",
+        "conclusion"
+      ]
+    }
+  ]
+}

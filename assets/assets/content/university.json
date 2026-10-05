@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "university",
+    "name_en": "University Life",
+    "name_th": "ชีวิตมหาวิทยาลัย",
+    "emoji": "🎓",
+    "color_start": "#60A5FA",
+    "color_end": "#1E40AF",
+    "description_th": "เรียนต่อต่างประเทศ ลงทะเบียน เลคเชอร์ เขียนรายงาน และชีวิตในแคมปัส",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "university_1",
+        "title_en": "Applying",
+        "title_th": "สมัครเรียนต่อ",
+        "emoji": "📨",
+        "word_ids": [
+          "bachelors_degree",
+          "masters_degree",
+          "phd",
+          "tuition_fee",
+          "personal_statement",
+          "recommendation_letter",
+          "acceptance_letter",
+          "faculty",
+          "program",
+          "intake",
+          "prerequisite",
+          "gpa",
+          "international_student",
+          "student_visa"
+        ]
+      },
+      {
+        "id": "university_2",
+        "title_en": "Around Campus",
+        "title_th": "รอบรั้วแคมปัส",
+        "emoji": "🏫",
+        "word_ids": [
+          "campus",
+          "lecture_hall",
+          "student_union",
+          "cafeteria",
+          "orientation",
+          "student_id",
+          "computer_lab",
+          "study_room",
+          "bookstore",
+          "counseling",
+          "career_center",
+          "sports_center",
+          "common_room",
+          "shuttle_bus"
+        ]
+      },
+      {
+        "id": "university_3",
+        "title_en": "Courses & Credits",
+        "title_th": "ลงทะเบียนเรียน",
+        "emoji": "📋",
+        "word_ids": [
+          "course",
+          "module",
+          "credit",
+          "elective",
+          "compulsory",
+          "register",
+          "syllabus",
+          "academic_year",
+          "advisor",
+          "minor",
+          "core_course",
+          "drop",
+          "course_catalog",
+          "coursework"
+        ]
+      },
+      {
+        "id": "university_4",
+        "title_en": "Lectures & Seminars",
+        "title_th": "เลคเชอร์และสัมมนา",
+        "emoji": "🎤",
+        "word_ids": [
+          "lecture",
+          "lecturer",
+          "professor",
+          "seminar",
+          "tutorial",
+          "attend",
+          "lecture_notes",
+          "participate",
+          "office_hours",
+          "reading_list",
+          "guest_speaker",
+          "concept",
+          "keep_up",
+          "fall_behind"
+        ]
+      },
+      {
+        "id": "university_5",
+        "title_en": "Essays & Research",
+        "title_th": "เขียนรายงานและวิจัย",
+        "emoji": "✍️",
+        "word_ids": [
+          "thesis",
+          "dissertation",
+          "citation",
+          "cite",
+          "bibliography",
+          "plagiarism",
+          "paraphrase",
+          "word_count",
+          "proofread",
+          "outline",
+          "argument",
+          "source",
+          "abstract",
+          "extension"
+        ]
+      },
+      {
+        "id": "university_6",
+        "title_en": "Exams & Grades",
+        "title_th": "สอบและเกรด",
+        "emoji": "📊",
+        "word_ids": [
+          "open_book_exam",
+          "multiple_choice",
+          "proctor",
+          "mark",
+          "grading",
+          "distinction",
+          "honors",
+          "resit",
+          "academic_probation",
+          "resubmit",
+          "study_group",
+          "past_paper",
+          "all_nighter",
+          "finals_week"
+        ]
+      },
+      {
+        "id": "university_7",
+        "title_en": "Student Life",
+        "title_th": "ชีวิตนักศึกษาจนถึงวันรับปริญญา",
+        "emoji": "🎓",
+        "word_ids": [
+          "society",
+          "welcome_week",
+          "student_loan",
+          "part_time_job",
+          "exchange_program",
+          "gap_year",
+          "alumni",
+          "commencement",
+          "cap_and_gown",
+          "dean",
+          "graduate_school",
+          "networking",
+          "volunteer",
+          "final_year"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "bachelors_degree",
+      "word": "bachelor's degree",
+      "pos": "noun",
+      "ipa": "/ˈbætʃələrz dɪˌɡriː/",
+      "reading_th": "แบ-ชะ-เลอร์ส ดิ-กรี",
+      "meaning_th": "ปริญญาตรี",
+      "emoji": "🎓",
+      "example_en": "She finished her bachelor's degree in three years.",
+      "example_th": "เธอเรียนจบปริญญาตรีภายในสามปี",
+      "cefr": "A2",
+      "note_th": "ปริญญาตรี = bachelor's degree (BA สายศิลป์ / BSc สายวิทย์) — ระวังสะกด bachelor's มี 's และ bachelor คนเดียวแปลว่าชายโสดได้ด้วย",
+      "distractors": [
+        "master's degree",
+        "bachelor",
+        "diploma"
+      ]
+    },
+    {
+      "id": "masters_degree",
+      "word": "master's degree",
+      "pos": "noun",
+      "ipa": "/ˈmæstərz dɪˌɡriː/",
+      "reading_th": "มาส-เตอร์ส ดิ-กรี",
+      "meaning_th": "ปริญญาโท",
+      "emoji": "📜",
+      "example_en": "He is doing a master's degree in data science in London.",
+      "example_th": "เขากำลังเรียนปริญญาโทสาขาวิทยาศาสตร์ข้อมูลที่ลอนดอน",
+      "cefr": "A2",
+      "note_th": "ปริญญาโท = master's degree (MA/MSc/MBA) ใช้ do หรือ study a master's — โทอังกฤษใช้เวลา 1 ปี ส่วนอเมริกามัก 2 ปี คนไทยเรียนต่อโทต่างประเทศเยอะที่สุด",
+      "distractors": [
+        "bachelor's degree",
+        "master",
+        "mastery"
+      ]
+    },
+    {
+      "id": "phd",
+      "word": "PhD",
+      "pos": "noun",
+      "ipa": "/ˌpiːeɪtʃˈdiː/",
+      "reading_th": "พี-เอช-ดี",
+      "meaning_th": "ปริญญาเอก",
+      "emoji": "🔬",
+      "example_en": "A PhD usually takes at least four years of research.",
+      "example_th": "ปริญญาเอกปกติใช้เวลาวิจัยอย่างน้อยสี่ปี",
+      "cefr": "B1",
+      "note_th": "PhD ย่อจาก Doctor of Philosophy = ปริญญาเอกทุกสาขา ไม่ใช่แค่ปรัชญา — คนจบเอกเรียก Dr. ส่วนนักศึกษาเอกเรียก PhD student หรือ doctoral candidate",
+      "distractors": [
+        "MBA",
+        "MD",
+        "GPA"
+      ]
+    },
+    {
+      "id": "tuition_fee",
+      "word": "tuition fee",
+      "pos": "noun",
+      "ipa": "/tuˈɪʃn fiː/",
+      "reading_th": "ทู-อิ-ชั่น ฟี",
+      "meaning_th": "ค่าเทอม",
+      "emoji": "💷",
+      "example_en": "The tuition fee for international students is much higher.",
+      "example_th": "ค่าเล่าเรียนสำหรับนักศึกษาต่างชาติสูงกว่ามาก",
+      "cefr": "B1",
+      "note_th": "tuition fee(s) = ค่าเทอม ไม่ใช่ค่ากวดวิชา — tuition เฉยๆ ในอเมริกาก็หมายถึงค่าเทอม แต่ในอังกฤษหมายถึงการสอน (private tuition = เรียนพิเศษ)",
+      "distractors": [
+        "tuition",
+        "admission fee",
+        "fee"
+      ]
+    },
+    {
+      "id": "personal_statement",
+      "word": "personal statement",
+      "pos": "noun",
+      "ipa": "/ˌpɜːrsənl ˈsteɪtmənt/",
+      "reading_th": "เพอร์-ซะ-เนิล สเตท-เมนท์",
+      "meaning_th": "เรียงความแนะนำตัวเพื่อสมัครเรียน",
+      "emoji": "✍️",
+      "example_en": "Your personal statement should explain why you chose this course.",
+      "example_th": "เรียงความแนะนำตัวควรอธิบายว่าทำไมคุณเลือกหลักสูตรนี้",
+      "cefr": "B2",
+      "note_th": "personal statement (อังกฤษ) / statement of purpose, SOP (อเมริกา) = เรียงความ 500–1,000 คำที่ตัดสินใบสมัคร — เขียนเรื่องจริงเฉพาะตัว อย่าให้ AI เขียนทั้งหมด กรรมการอ่านออก",
+      "distractors": [
+        "bank statement",
+        "personality",
+        "personal space"
+      ]
+    },
+    {
+      "id": "recommendation_letter",
+      "word": "recommendation letter",
+      "pos": "noun",
+      "ipa": "/ˌrekəmenˈdeɪʃn ˌletər/",
+      "reading_th": "เรค-คอม-เมน-เด-ชั่น เล็ท-เทอร์",
+      "meaning_th": "จดหมายรับรองจากอาจารย์",
+      "emoji": "💌",
+      "example_en": "Ask for a recommendation letter at least a month before the deadline.",
+      "example_th": "ขอจดหมายรับรองจากอาจารย์อย่างน้อยหนึ่งเดือนก่อนถึงกำหนด",
+      "cefr": "B2",
+      "note_th": "recommendation letter หรือ letter of recommendation = จดหมายจากอาจารย์/หัวหน้าที่รับรองความสามารถ มหาวิทยาลัยมักขอ 2–3 ฉบับ — ส่งข้อมูลให้ผู้เขียนด้วยว่าอยากให้เน้นอะไร",
+      "distractors": [
+        "cover letter",
+        "reference",
+        "recommendation"
+      ]
+    },
+    {
+      "id": "acceptance_letter",
+      "word": "acceptance letter",
+      "pos": "noun",
+      "ipa": "/əkˈseptəns ˌletər/",
+      "reading_th": "แอค-เซพ-เทินซ์ เล็ท-เทอร์",
+      "meaning_th": "จดหมายตอบรับเข้าเรียน",
+      "emoji": "🎉",
+      "example_en": "I cried when the acceptance letter finally arrived.",
+      "example_th": "ฉันร้องไห้ตอนที่จดหมายตอบรับเข้าเรียนมาถึงในที่สุด",
+      "cefr": "B1",
+      "note_th": "acceptance letter = จดหมายแจ้งว่าได้รับเข้าเรียน (อังกฤษเรียก offer: conditional = มีเงื่อนไข เช่นต้องได้ IELTS ก่อน, unconditional = รับเลย) — ต้องใช้ยื่นขอวีซ่านักเรียน",
+      "distractors": [
+        "rejection letter",
+        "acceptable",
+        "admission"
+      ]
+    },
+    {
+      "id": "faculty",
+      "word": "faculty",
+      "pos": "noun",
+      "ipa": "/ˈfæklti/",
+      "reading_th": "แฟค-เคิล-ตี้",
+      "meaning_th": "คณะ (ในมหาวิทยาลัย)",
+      "emoji": "🏛️",
+      "example_en": "The Faculty of Engineering has its own library.",
+      "example_th": "คณะวิศวกรรมศาสตร์มีห้องสมุดเป็นของตัวเอง",
+      "cefr": "B1",
+      "note_th": "faculty = คณะ ในอังกฤษ/ไทย แต่ในอเมริกา faculty = กลุ่มอาจารย์ทั้งหมด (faculty member = อาจารย์หนึ่งคน) — มหาวิทยาลัยอเมริกันเรียกคณะว่า school หรือ college",
+      "distractors": [
+        "facility",
+        "factory",
+        "facultative"
+      ]
+    },
+    {
+      "id": "program",
+      "word": "program",
+      "pos": "noun",
+      "ipa": "/ˈproʊɡræm/",
+      "reading_th": "โพร-แกรม",
+      "meaning_th": "หลักสูตร / สาขาที่เรียน",
+      "emoji": "📚",
+      "example_en": "This program takes two years and includes an internship.",
+      "example_th": "หลักสูตรนี้ใช้เวลาสองปีและมีการฝึกงานรวมอยู่ด้วย",
+      "cefr": "A2",
+      "note_th": "program (อเมริกัน) / programme (อังกฤษ) = หลักสูตรทั้งปริญญา ส่วน course ในอเมริกา = วิชาเดียว แต่ในอังกฤษ course อาจหมายถึงทั้งหลักสูตรได้ — สับสนบ่อยมาก",
+      "distractors": [
+        "programme",
+        "project",
+        "progress"
+      ]
+    },
+    {
+      "id": "intake",
+      "word": "intake",
+      "pos": "noun",
+      "ipa": "/ˈɪnteɪk/",
+      "reading_th": "อิน-เทค",
+      "meaning_th": "รอบรับเข้าเรียน",
+      "emoji": "🗓️",
+      "example_en": "The September intake is the biggest of the year.",
+      "example_th": "รอบรับเข้าเรียนเดือนกันยายนเป็นรอบที่ใหญ่ที่สุดของปี",
+      "cefr": "B2",
+      "note_th": "intake = รอบที่มหาวิทยาลัยรับนักศึกษา (September/January intake) — พลาดรอบหลักต้องรอเป็นปี ถ้าคะแนนภาษายังไม่ถึงให้ดู pre-sessional course",
+      "distractors": [
+        "income",
+        "input",
+        "uptake"
+      ]
+    },
+    {
+      "id": "prerequisite",
+      "word": "prerequisite",
+      "pos": "noun",
+      "ipa": "/ˌpriːˈrekwəzɪt/",
+      "reading_th": "พรี-เรค-ควิ-ซิท",
+      "meaning_th": "วิชาที่ต้องเรียนมาก่อน",
+      "emoji": "🔗",
+      "example_en": "Statistics is a prerequisite for this data course.",
+      "example_th": "วิชาสถิติเป็นวิชาที่ต้องเรียนมาก่อนสำหรับวิชาข้อมูลนี้",
+      "cefr": "B2",
+      "note_th": "prerequisite = สิ่งที่ต้องมีมาก่อน (pre- = ก่อน, requisite = จำเป็น) นักศึกษาเรียกสั้นๆ ว่า prereq — ระบบลงทะเบียนจะไม่ให้ลงถ้ายังไม่ผ่าน prereq",
+      "distractors": [
+        "requirement",
+        "perquisite",
+        "exquisite"
+      ]
+    },
+    {
+      "id": "gpa",
+      "word": "GPA",
+      "pos": "noun",
+      "ipa": "/ˌdʒiːpiːˈeɪ/",
+      "reading_th": "จี-พี-เอ",
+      "meaning_th": "เกรดเฉลี่ยสะสม",
+      "emoji": "📊",
+      "example_en": "You need a GPA of at least 3.0 to apply for this scholarship.",
+      "example_th": "ต้องมีเกรดเฉลี่ยสะสมอย่างน้อย 3.0 ถึงจะสมัครทุนนี้ได้",
+      "cefr": "A2",
+      "note_th": "GPA = Grade Point Average เต็ม 4.0 แบบไทยและอเมริกา — อังกฤษไม่ใช้ GPA แต่ใช้ First, 2:1, 2:2 ตอนสมัครให้แนบคำอธิบายระบบเกรดของมหาวิทยาลัยเดิม",
+      "distractors": [
+        "GPS",
+        "grade",
+        "PhD"
+      ]
+    },
+    {
+      "id": "international_student",
+      "word": "international student",
+      "pos": "noun",
+      "ipa": "/ˌɪntərˈnæʃnəl ˈstuːdnt/",
+      "reading_th": "อิน-เทอร์-แนช-ชะ-เนิล สตู-เดินท์",
+      "meaning_th": "นักศึกษาต่างชาติ",
+      "emoji": "🌏",
+      "example_en": "Every international student must register with the police within a week.",
+      "example_th": "นักศึกษาต่างชาติทุกคนต้องไปลงทะเบียนกับตำรวจภายในหนึ่งสัปดาห์",
+      "cefr": "B1",
+      "note_th": "international student = นักศึกษาต่างชาติ (บางที่ใช้ overseas student) จ่ายค่าเทอมแพงกว่า home student 2–3 เท่า — มหาวิทยาลัยมี international office คอยช่วยเรื่องวีซ่าและที่พัก",
+      "distractors": [
+        "exchange student",
+        "foreigner",
+        "immigrant"
+      ]
+    },
+    {
+      "id": "student_visa",
+      "word": "student visa",
+      "pos": "noun",
+      "ipa": "/ˈstuːdnt ˌviːzə/",
+      "reading_th": "สตู-เดินท์ วี-ซ่า",
+      "meaning_th": "วีซ่านักเรียน",
+      "emoji": "🛂",
+      "example_en": "My student visa lets me work twenty hours a week.",
+      "example_th": "วีซ่านักเรียนของฉันอนุญาตให้ทำงานได้สัปดาห์ละยี่สิบชั่วโมง",
+      "cefr": "B1",
+      "note_th": "student visa = วีซ่านักเรียน (อังกฤษเรียก Student visa, อเมริกา F-1) ต้องมี acceptance letter และหลักฐานการเงิน — ทำงานเกินชั่วโมงที่กำหนดอาจถูกยกเลิกวีซ่า",
+      "distractors": [
+        "tourist visa",
+        "work permit",
+        "visa"
+      ]
+    },
+    {
+      "id": "campus",
+      "word": "campus",
+      "pos": "noun",
+      "ipa": "/ˈkæmpəs/",
+      "reading_th": "แคม-เพิส",
+      "meaning_th": "พื้นที่มหาวิทยาลัย",
+      "emoji": "🏫",
+      "example_en": "The main campus is a ten-minute walk from my flat.",
+      "example_th": "แคมปัสหลักเดินจากห้องฉันแค่สิบนาที",
+      "cefr": "A2",
+      "note_th": "on campus = ในมหาวิทยาลัย, off campus = นอกมหาวิทยาลัย (เช่น live off campus = พักข้างนอก) — campus ไม่ต้องมี the เมื่อใช้เป็นวลี on campus",
+      "distractors": [
+        "compass",
+        "camp",
+        "canvas"
+      ]
+    },
+    {
+      "id": "lecture_hall",
+      "word": "lecture hall",
+      "pos": "noun",
+      "ipa": "/ˈlektʃər hɔːl/",
+      "reading_th": "เล็ค-เชอร์ ฮอล",
+      "meaning_th": "ห้องบรรยายใหญ่",
+      "emoji": "🏟️",
+      "example_en": "The lecture hall seats three hundred students.",
+      "example_th": "ห้องบรรยายใหญ่จุนักศึกษาได้สามร้อยคน",
+      "cefr": "A2",
+      "note_th": "lecture hall / lecture theatre (อังกฤษ) = ห้องบรรยายแบบขั้นบันได ส่วนห้องเรียนเล็กเรียก seminar room — ตารางเรียนจะระบุรหัสห้องเช่น LT1 ไปให้ถูกตึก",
+      "distractors": [
+        "city hall",
+        "lecture",
+        "dining hall"
+      ]
+    },
+    {
+      "id": "student_union",
+      "word": "student union",
+      "pos": "noun",
+      "ipa": "/ˈstuːdnt ˌjuːnjən/",
+      "reading_th": "สตู-เดินท์ ยู-เนียน",
+      "meaning_th": "องค์การนักศึกษา / อาคารกิจกรรม",
+      "emoji": "🎪",
+      "example_en": "The student union runs a cheap bar and dozens of clubs.",
+      "example_th": "องค์การนักศึกษาดูแลบาร์ราคาถูกและชมรมหลายสิบชมรม",
+      "cefr": "B1",
+      "note_th": "student union (SU) = ทั้งองค์กรที่ดูแลสิทธิ์นักศึกษาและตัวอาคารที่มีร้านอาหาร บาร์ กิจกรรม — ปัญหากับมหาวิทยาลัย ไปขอคำปรึกษาฟรีที่ SU ได้",
+      "distractors": [
+        "trade union",
+        "student loan",
+        "reunion"
+      ]
+    },
+    {
+      "id": "cafeteria",
+      "word": "cafeteria",
+      "pos": "noun",
+      "ipa": "/ˌkæfəˈtɪriə/",
+      "reading_th": "แคฟ-ฟะ-เทีย-เรีย",
+      "meaning_th": "โรงอาหารมหาวิทยาลัย",
+      "emoji": "🍽️",
+      "example_en": "Lunch at the cafeteria is cheaper than eating out.",
+      "example_th": "กินข้าวกลางวันที่โรงอาหารถูกกว่ากินข้างนอก",
+      "cefr": "A2",
+      "note_th": "cafeteria = โรงอาหารแบบรับถาดตักเอง (อังกฤษใช้ canteen หรือ refectory ด้วย) — อย่าสับสนกับ café ร้านกาแฟ ออกเสียง \"แคฟ-ฟะ-เทีย-เรีย\" ไม่ใช่ \"คาเฟ่-เทเรีย\"",
+      "distractors": [
+        "café",
+        "bakery",
+        "cathedral"
+      ]
+    },
+    {
+      "id": "orientation",
+      "word": "orientation",
+      "pos": "noun",
+      "ipa": "/ˌɔːriənˈteɪʃn/",
+      "reading_th": "ออ-เรียน-เท-ชั่น",
+      "meaning_th": "ปฐมนิเทศ",
+      "emoji": "🧭",
+      "example_en": "Orientation week helps new students find their way around.",
+      "example_th": "สัปดาห์ปฐมนิเทศช่วยให้นักศึกษาใหม่รู้จักทางในมหาวิทยาลัย",
+      "cefr": "B1",
+      "note_th": "orientation = ปฐมนิเทศ (อังกฤษเรียก induction) มีทั้งแนะนำหลักสูตร ทำบัตร เปิดบัญชี — อย่าพลาดวันของ international students เพราะจะพูดเรื่องวีซ่าและการลงทะเบียนตำรวจ",
+      "distractors": [
+        "organization",
+        "orientate",
+        "origin"
+      ]
+    },
+    {
+      "id": "student_id",
+      "word": "student ID",
+      "pos": "noun",
+      "ipa": "/ˈstuːdnt ˌaɪˈdiː/",
+      "reading_th": "สตู-เดินท์ ไอ-ดี",
+      "meaning_th": "บัตรนักศึกษา",
+      "emoji": "🪪",
+      "example_en": "Show your student ID to get a discount at the cinema.",
+      "example_th": "โชว์บัตรนักศึกษาเพื่อรับส่วนลดที่โรงหนัง",
+      "cefr": "A2",
+      "note_th": "student ID (card) = บัตรนักศึกษา ใช้เข้าห้องสมุด ยิมและสอบ — ส่วนลดนักศึกษาต่างประเทศเยอะมาก ถามได้ทุกร้านว่า \"Do you do a student discount?\"",
+      "distractors": [
+        "ID card",
+        "student card",
+        "studio"
+      ]
+    },
+    {
+      "id": "computer_lab",
+      "word": "computer lab",
+      "pos": "noun",
+      "ipa": "/kəmˈpjuːtər læb/",
+      "reading_th": "คอม-พิว-เตอร์ แล็บ",
+      "meaning_th": "ห้องคอมพิวเตอร์",
+      "emoji": "🖥️",
+      "example_en": "The computer lab is open twenty-four hours during exams.",
+      "example_th": "ห้องคอมพิวเตอร์เปิดยี่สิบสี่ชั่วโมงช่วงสอบ",
+      "cefr": "A2",
+      "note_th": "computer lab = ห้องคอมที่มีโปรแกรมเฉพาะทาง (SPSS, MATLAB) ให้ใช้ฟรี — ล็อกอินด้วยบัญชีมหาวิทยาลัย และพรินต์งานได้ด้วยโควตาฟรีที่ได้ทุกเทอม",
+      "distractors": [
+        "language lab",
+        "laptop",
+        "computer"
+      ]
+    },
+    {
+      "id": "study_room",
+      "word": "study room",
+      "pos": "noun",
+      "ipa": "/ˈstʌdi ruːm/",
+      "reading_th": "สตั๊ด-ดี้ รูม",
+      "meaning_th": "ห้องอ่านหนังสือ (จองได้)",
+      "emoji": "📖",
+      "example_en": "Let's book a study room for our group project.",
+      "example_th": "จองห้องอ่านหนังสือสำหรับงานกลุ่มของเรากันเถอะ",
+      "cefr": "A2",
+      "note_th": "study room = ห้องติวเล็กๆ ในห้องสมุด จองออนไลน์ได้ครั้งละ 2–3 ชั่วโมง — ช่วงสอบหมดเร็วมาก ส่วนโซนห้ามพูดเรียก silent study area",
+      "distractors": [
+        "studio",
+        "living room",
+        "classroom"
+      ]
+    },
+    {
+      "id": "bookstore",
+      "word": "bookstore",
+      "pos": "noun",
+      "ipa": "/ˈbʊkstɔːr/",
+      "reading_th": "บุ๊ค-สโตร์",
+      "meaning_th": "ร้านหนังสือมหาวิทยาลัย",
+      "emoji": "🛒",
+      "example_en": "The campus bookstore sells used textbooks at half price.",
+      "example_th": "ร้านหนังสือในมหาวิทยาลัยขายตำรามือสองครึ่งราคา",
+      "cefr": "A2",
+      "note_th": "bookstore (อเมริกัน) / bookshop (อังกฤษ) — ตำราฝรั่งเล่มละหลายพันบาท นักศึกษาส่วนใหญ่ยืมห้องสมุด ซื้อมือสอง หรือเช่า (rent a textbook) แทน",
+      "distractors": [
+        "bookshop",
+        "library",
+        "bookshelf"
+      ]
+    },
+    {
+      "id": "counseling",
+      "word": "counseling",
+      "pos": "noun",
+      "ipa": "/ˈkaʊnsəlɪŋ/",
+      "reading_th": "เคาน์-เซิล-ลิ่ง",
+      "meaning_th": "บริการให้คำปรึกษา (สุขภาพใจ)",
+      "emoji": "💬",
+      "example_en": "The university offers free counseling to every student.",
+      "example_th": "มหาวิทยาลัยมีบริการให้คำปรึกษาฟรีสำหรับนักศึกษาทุกคน",
+      "cefr": "B1",
+      "note_th": "counseling (อเมริกัน) / counselling (อังกฤษ) = พูดคุยกับนักจิตวิทยา ฟรีและเป็นความลับ — เรียนต่างประเทศเหงาหรือเครียดเป็นเรื่องปกติ ใช้บริการนี้ได้ไม่ต้องอาย",
+      "distractors": [
+        "council",
+        "consulting",
+        "cancelling"
+      ]
+    },
+    {
+      "id": "career_center",
+      "word": "career center",
+      "pos": "noun",
+      "ipa": "/kəˈrɪr ˌsentər/",
+      "reading_th": "คะ-เรียร์ เซน-เตอร์",
+      "meaning_th": "ศูนย์แนะแนวอาชีพ",
+      "emoji": "💼",
+      "example_en": "The career center checked my CV and ran a mock interview.",
+      "example_th": "ศูนย์แนะแนวอาชีพช่วยตรวจเรซูเม่และซ้อมสัมภาษณ์ให้ฉัน",
+      "cefr": "B1",
+      "note_th": "career center / careers service (อังกฤษ) = ที่ช่วยหางาน ฝึกงาน และแก้ CV ฟรี — นักศึกษาต่างชาติควรไปตั้งแต่ปีแรก เพราะงานหลังเรียนจบต้องการ sponsor วีซ่า",
+      "distractors": [
+        "call center",
+        "career",
+        "shopping center"
+      ]
+    },
+    {
+      "id": "sports_center",
+      "word": "sports center",
+      "pos": "noun",
+      "ipa": "/ˈspɔːrts ˌsentər/",
+      "reading_th": "สปอร์ตส์ เซน-เตอร์",
+      "meaning_th": "ศูนย์กีฬามหาวิทยาลัย",
+      "emoji": "🏋️",
+      "example_en": "The sports center has a pool, a gym and climbing walls.",
+      "example_th": "ศูนย์กีฬามีสระว่ายน้ำ ยิม และผนังปีนเขา",
+      "cefr": "A2",
+      "note_th": "sports center / sports centre (อังกฤษ) = ศูนย์กีฬา ค่าสมาชิกนักศึกษาถูกกว่าฟิตเนสข้างนอกหลายเท่า — สมัครทีมกีฬาเป็นวิธีหาเพื่อนต่างชาติที่ดีที่สุด",
+      "distractors": [
+        "shopping center",
+        "sports day",
+        "stadium"
+      ]
+    },
+    {
+      "id": "common_room",
+      "word": "common room",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmən ruːm/",
+      "reading_th": "คอม-เมิน รูม",
+      "meaning_th": "ห้องนั่งเล่นรวม (หอพัก/คณะ)",
+      "emoji": "🛋️",
+      "example_en": "We watch football together in the common room.",
+      "example_th": "พวกเราดูบอลด้วยกันในห้องนั่งเล่นรวม",
+      "cefr": "B1",
+      "note_th": "common room = ห้องพักผ่อนที่นักศึกษาใช้ร่วมกันในหอหรือคณะ มีโซฟา ทีวี ไมโครเวฟ — ปริญญาโทขึ้นไปมี postgraduate common room แยก",
+      "distractors": [
+        "living room",
+        "common area",
+        "chat room"
+      ]
+    },
+    {
+      "id": "shuttle_bus",
+      "word": "shuttle bus",
+      "pos": "noun",
+      "ipa": "/ˈʃʌtl bʌs/",
+      "reading_th": "ชัท-เทิล บัส",
+      "meaning_th": "รถรับส่งระหว่างแคมปัส",
+      "emoji": "🚌",
+      "example_en": "A free shuttle bus runs between the two campuses every hour.",
+      "example_th": "มีรถรับส่งฟรีวิ่งระหว่างสองแคมปัสทุกชั่วโมง",
+      "cefr": "A2",
+      "note_th": "shuttle bus = รถวิ่งวนระหว่างจุดเดิมซ้ำๆ (แคมปัส สนามบิน โรงแรม) — มหาวิทยาลัยใหญ่มีหลายแคมปัส ดูตาราง shuttle ก่อนเลือกวิชาคาบติดกัน",
+      "distractors": [
+        "school bus",
+        "shuttlecock",
+        "minibus"
+      ]
+    },
+    {
+      "id": "course",
+      "word": "course",
+      "pos": "noun",
+      "ipa": "/kɔːrs/",
+      "reading_th": "คอร์ส",
+      "meaning_th": "วิชา / รายวิชา",
+      "emoji": "📘",
+      "example_en": "I am taking a course on international marketing this term.",
+      "example_th": "เทอมนี้ฉันลงเรียนวิชาการตลาดระหว่างประเทศ",
+      "cefr": "A2",
+      "note_th": "take a course = ลงเรียนวิชา — อเมริกา course = วิชาเดียว (เรียก class ด้วย) อังกฤษ course อาจหมายถึงทั้งหลักสูตร ส่วนวิชาย่อยเรียก module",
+      "distractors": [
+        "cause",
+        "coarse",
+        "curse"
+      ]
+    },
+    {
+      "id": "module",
+      "word": "module",
+      "pos": "noun",
+      "ipa": "/ˈmɑːdʒuːl/",
+      "reading_th": "มอด-ดูล",
+      "meaning_th": "วิชาย่อยในหลักสูตร (อังกฤษ)",
+      "emoji": "🧩",
+      "example_en": "Each module is worth fifteen or thirty credits.",
+      "example_th": "วิชาย่อยแต่ละวิชามีค่าสิบห้าหรือสามสิบหน่วยกิต",
+      "cefr": "B1",
+      "note_th": "module = วิชาหนึ่งในหลักสูตรของมหาวิทยาลัยอังกฤษ (เทียบกับ course ของอเมริกา) — ปีหนึ่งเรียนราว 120 credits ประกอบด้วย 6–8 modules",
+      "distractors": [
+        "model",
+        "mobile",
+        "molecule"
+      ]
+    },
+    {
+      "id": "credit",
+      "word": "credit",
+      "pos": "noun",
+      "ipa": "/ˈkredɪt/",
+      "reading_th": "เคร-ดิท",
+      "meaning_th": "หน่วยกิต",
+      "emoji": "🔢",
+      "example_en": "You need 120 credits to graduate from this program.",
+      "example_th": "ต้องได้ 120 หน่วยกิตถึงจะจบหลักสูตรนี้",
+      "cefr": "A2",
+      "note_th": "credit = หน่วยกิต (credit hour ในอเมริกา, ECTS ในยุโรป) — ระวัง credit ยังแปลว่าเครดิต/ความดีความชอบ เช่น give credit = ให้เครดิตคนทำงาน",
+      "distractors": [
+        "credit card",
+        "debit",
+        "cradle"
+      ]
+    },
+    {
+      "id": "elective",
+      "word": "elective",
+      "pos": "noun",
+      "ipa": "/ɪˈlektɪv/",
+      "reading_th": "อิ-เล็ค-ทิฟ",
+      "meaning_th": "วิชาเลือก",
+      "emoji": "🎯",
+      "example_en": "I chose photography as my elective this semester.",
+      "example_th": "เทอมนี้ฉันเลือกวิชาถ่ายภาพเป็นวิชาเลือก",
+      "cefr": "B1",
+      "note_th": "elective (อังกฤษใช้ optional module ด้วย) = วิชาที่เลือกเองได้ มาจาก elect = เลือก — เลือกวิชาจากคณะอื่นได้เป็นวิธีหาเพื่อนนอกสาขา",
+      "distractors": [
+        "electric",
+        "selective",
+        "effective"
+      ]
+    },
+    {
+      "id": "compulsory",
+      "word": "compulsory",
+      "pos": "adjective",
+      "ipa": "/kəmˈpʌlsəri/",
+      "reading_th": "คอม-พัล-ซะ-รี",
+      "meaning_th": "วิชาบังคับ / ภาคบังคับ",
+      "emoji": "📌",
+      "example_en": "Research Methods is compulsory for every first-year student.",
+      "example_th": "วิชาระเบียบวิธีวิจัยเป็นวิชาบังคับสำหรับนักศึกษาปีหนึ่งทุกคน",
+      "cefr": "B1",
+      "note_th": "compulsory (อังกฤษ) / required หรือ mandatory (อเมริกา) = บังคับ ตรงข้ามกับ optional — ใช้กับการเข้าเรียนได้ด้วย: attendance is compulsory",
+      "distractors": [
+        "compulsive",
+        "optional",
+        "compound"
+      ]
+    },
+    {
+      "id": "register",
+      "word": "register",
+      "pos": "verb",
+      "ipa": "/ˈredʒɪstər/",
+      "reading_th": "เร-จิส-เตอร์",
+      "meaning_th": "ลงทะเบียน (เรียน)",
+      "emoji": "📝",
+      "example_en": "You must register for your courses before Friday.",
+      "example_th": "คุณต้องลงทะเบียนเรียนก่อนวันศุกร์",
+      "cefr": "A2",
+      "note_th": "register for a course = ลงทะเบียนวิชา (คำนาม registration) — ต่างจาก enroll ที่เป็นการสมัครเข้าเป็นนักศึกษาครั้งแรก ลงช้าต้องเสีย late registration fee",
+      "distractors": [
+        "registrar",
+        "record",
+        "resist"
+      ]
+    },
+    {
+      "id": "syllabus",
+      "word": "syllabus",
+      "pos": "noun",
+      "ipa": "/ˈsɪləbəs/",
+      "reading_th": "ซิล-ละ-เบิส",
+      "meaning_th": "ประมวลรายวิชา",
+      "emoji": "🗂️",
+      "example_en": "The syllabus lists every reading and deadline for the term.",
+      "example_th": "ประมวลรายวิชาระบุทุกบทอ่านและกำหนดส่งงานของเทอม",
+      "cefr": "B1",
+      "note_th": "syllabus = เอกสารแรกที่อาจารย์แจก มีเนื้อหา สัดส่วนคะแนน และวันส่งงาน — อ่านให้ดีตั้งแต่สัปดาห์แรก อาจารย์ฝรั่งไม่ชอบคำถามที่คำตอบอยู่ใน syllabus",
+      "distractors": [
+        "syllable",
+        "symbol",
+        "salary"
+      ]
+    },
+    {
+      "id": "academic_year",
+      "word": "academic year",
+      "pos": "noun",
+      "ipa": "/ˌækəˈdemɪk jɪr/",
+      "reading_th": "แอค-คะ-เด-มิค เยียร์",
+      "meaning_th": "ปีการศึกษา",
+      "emoji": "📅",
+      "example_en": "The academic year starts in late September in the UK.",
+      "example_th": "ปีการศึกษาในอังกฤษเริ่มปลายเดือนกันยายน",
+      "cefr": "B1",
+      "note_th": "academic year = ปีการศึกษา (ก.ย.–มิ.ย. ในยุโรป ส.ค.–พ.ค. ในอเมริกา) ต่างจากไทยที่เริ่ม ส.ค. — อังกฤษแบ่งเป็น 3 terms อเมริกา 2 semesters",
+      "distractors": [
+        "calendar year",
+        "leap year",
+        "academy"
+      ]
+    },
+    {
+      "id": "advisor",
+      "word": "advisor",
+      "pos": "noun",
+      "ipa": "/ədˈvaɪzər/",
+      "reading_th": "แอด-ไว-เซอร์",
+      "meaning_th": "อาจารย์ที่ปรึกษา",
+      "emoji": "🧑‍🏫",
+      "example_en": "My advisor helped me plan which courses to take.",
+      "example_th": "อาจารย์ที่ปรึกษาช่วยฉันวางแผนว่าจะลงวิชาอะไรบ้าง",
+      "cefr": "B1",
+      "note_th": "academic advisor (อังกฤษเรียก personal tutor) = อาจารย์ที่ปรึกษาประจำตัว นัดคุยได้เรื่องเรียนและปัญหาส่วนตัว — สะกด advisor หรือ adviser ได้ทั้งคู่ ส่วน supervisor = ที่ปรึกษาวิทยานิพนธ์",
+      "distractors": [
+        "adviser",
+        "supervisor",
+        "advertiser"
+      ]
+    },
+    {
+      "id": "minor",
+      "word": "minor",
+      "pos": "noun",
+      "ipa": "/ˈmaɪnər/",
+      "reading_th": "ไม-เนอร์",
+      "meaning_th": "วิชาโท",
+      "emoji": "➕",
+      "example_en": "She is majoring in economics with a minor in Japanese.",
+      "example_th": "เธอเรียนเอกเศรษฐศาสตร์ วิชาโทภาษาญี่ปุ่น",
+      "cefr": "B1",
+      "note_th": "minor = วิชาโทคู่กับ major วิชาเอก (ระบบอเมริกา) — minor ยังแปลว่าเล็กน้อยหรือผู้เยาว์ได้ด้วย ระวังสะกด minor ไม่ใช่ miner (คนงานเหมือง)",
+      "distractors": [
+        "miner",
+        "major",
+        "mirror"
+      ]
+    },
+    {
+      "id": "core_course",
+      "word": "core course",
+      "pos": "noun",
+      "ipa": "/ˌkɔːr ˈkɔːrs/",
+      "reading_th": "คอร์ คอร์ส",
+      "meaning_th": "วิชาแกนของสาขา",
+      "emoji": "🧱",
+      "example_en": "Every core course must be passed before the final year.",
+      "example_th": "ต้องผ่านวิชาแกนทุกวิชาก่อนขึ้นปีสุดท้าย",
+      "cefr": "B1",
+      "note_th": "core course / core module = วิชาแกนที่ทุกคนในสาขาต้องเรียน ต่างจาก elective — core แปลว่าแก่น ใช้ในคำอื่นด้วย เช่น core skills, core team",
+      "distractors": [
+        "crash course",
+        "golf course",
+        "corner"
+      ]
+    },
+    {
+      "id": "drop",
+      "word": "drop",
+      "pos": "verb",
+      "ipa": "/drɑːp/",
+      "reading_th": "ดร็อพ",
+      "meaning_th": "ถอนวิชา",
+      "emoji": "❌",
+      "example_en": "You can drop a course without penalty in the first two weeks.",
+      "example_th": "ถอนวิชาได้โดยไม่มีบทลงโทษภายในสองสัปดาห์แรก",
+      "cefr": "A2",
+      "note_th": "drop a course = ถอนวิชา (ไทยก็พูดว่า \"ดรอป\") ช่วงเพิ่ม-ถอนเรียก add/drop period — ถอนหลังกำหนดจะติด W ใน transcript และไม่ได้ค่าเทอมคืน",
+      "distractors": [
+        "drip",
+        "withdraw",
+        "dropout"
+      ]
+    },
+    {
+      "id": "course_catalog",
+      "word": "course catalog",
+      "pos": "noun",
+      "ipa": "/ˈkɔːrs ˌkætəlɔːɡ/",
+      "reading_th": "คอร์ส แคท-ทะ-ล็อก",
+      "meaning_th": "คู่มือรายวิชาทั้งหมด",
+      "emoji": "📒",
+      "example_en": "Browse the course catalog to see which electives are offered.",
+      "example_th": "เปิดคู่มือรายวิชาดูว่ามีวิชาเลือกอะไรเปิดสอนบ้าง",
+      "cefr": "B2",
+      "note_th": "course catalog (อเมริกัน) / module catalogue (อังกฤษ) = รายการทุกวิชาพร้อมคำอธิบายและ prerequisite — อ่านออนไลน์ได้ก่อนเปิดเทอม จะได้เลือกวิชาที่ตารางไม่ชน",
+      "distractors": [
+        "catalogue",
+        "course",
+        "calendar"
+      ]
+    },
+    {
+      "id": "coursework",
+      "word": "coursework",
+      "pos": "noun",
+      "ipa": "/ˈkɔːrswɜːrk/",
+      "reading_th": "คอร์ส-เวิร์ค",
+      "meaning_th": "งานเก็บคะแนนระหว่างเทอม",
+      "emoji": "📑",
+      "example_en": "Coursework counts for half of the final grade.",
+      "example_th": "งานเก็บคะแนนระหว่างเทอมคิดเป็นครึ่งหนึ่งของเกรดสุดท้าย",
+      "cefr": "B1",
+      "note_th": "coursework = งานทุกอย่างที่ทำระหว่างเทอม (รายงาน พรีเซนต์ โปรเจกต์) ที่นับคะแนน ตรงข้ามกับ exam — นามนับไม่ได้ พูดว่า a piece of coursework",
+      "distractors": [
+        "homework",
+        "course",
+        "workshop"
+      ]
+    },
+    {
+      "id": "lecture",
+      "word": "lecture",
+      "pos": "noun",
+      "ipa": "/ˈlektʃər/",
+      "reading_th": "เล็ค-เชอร์",
+      "meaning_th": "การบรรยาย / คาบเลคเชอร์",
+      "emoji": "🎤",
+      "example_en": "The lecture on Monday starts at nine sharp.",
+      "example_th": "เลคเชอร์วันจันทร์เริ่มเก้าโมงตรง",
+      "cefr": "A2",
+      "note_th": "lecture = คาบบรรยายใหญ่ที่อาจารย์พูดเป็นหลัก (attend/go to a lecture) — ระวัง lecture เป็นกริยาแปลว่า \"สั่งสอน/เทศนา\" ได้ด้วย: stop lecturing me",
+      "distractors": [
+        "lecturer",
+        "literature",
+        "leisure"
+      ]
+    },
+    {
+      "id": "lecturer",
+      "word": "lecturer",
+      "pos": "noun",
+      "ipa": "/ˈlektʃərər/",
+      "reading_th": "เล็ค-เชอ-เรอร์",
+      "meaning_th": "อาจารย์ผู้บรรยาย",
+      "emoji": "👩‍🏫",
+      "example_en": "Our lecturer records every session and posts it online.",
+      "example_th": "อาจารย์ผู้บรรยายอัดทุกคาบแล้วโพสต์ออนไลน์",
+      "cefr": "B1",
+      "note_th": "lecturer = อาจารย์มหาวิทยาลัยในอังกฤษ (ตำแหน่งต่ำกว่า professor) — อเมริกาเรียกอาจารย์ทุกคนว่า professor คนไทยชอบเรียก teacher ซึ่งฟังดูเหมือนครูประถม",
+      "distractors": [
+        "lecture",
+        "lawyer",
+        "lecturing"
+      ]
+    },
+    {
+      "id": "professor",
+      "word": "professor",
+      "pos": "noun",
+      "ipa": "/prəˈfesər/",
+      "reading_th": "โพร-เฟส-เซอร์",
+      "meaning_th": "ศาสตราจารย์ / อาจารย์มหาวิทยาลัย",
+      "emoji": "🎓",
+      "example_en": "Professor Lee is famous for her research on climate.",
+      "example_th": "ศาสตราจารย์ลีมีชื่อเสียงจากงานวิจัยเรื่องสภาพภูมิอากาศ",
+      "cefr": "A2",
+      "note_th": "เรียกอาจารย์ว่า Professor + นามสกุล (ไม่ใช่ชื่อต้น) หรือ Dr. ถ้าจบเอก — อาจารย์ฝรั่งหลายคนบอกว่า \"call me Sarah\" ก็เรียกชื่อได้เลย ไม่ถือว่าเสียมารยาท",
+      "distractors": [
+        "professional",
+        "profession",
+        "processor"
+      ]
+    },
+    {
+      "id": "seminar",
+      "word": "seminar",
+      "pos": "noun",
+      "ipa": "/ˈsemɪnɑːr/",
+      "reading_th": "เซ-มิ-นาร์",
+      "meaning_th": "สัมมนากลุ่มเล็ก",
+      "emoji": "🗣️",
+      "example_en": "In the seminar we discuss the readings in small groups.",
+      "example_th": "ในคาบสัมมนาเราอภิปรายบทอ่านกันเป็นกลุ่มเล็ก",
+      "cefr": "B1",
+      "note_th": "seminar = คาบกลุ่มเล็ก 10–20 คนที่นักศึกษาต้องพูด ต่างจาก lecture ที่นั่งฟัง — คะแนนการมีส่วนร่วม (participation) มาจากตรงนี้ เงียบอย่างเดียวไม่ได้",
+      "distractors": [
+        "semester",
+        "summary",
+        "cinema"
+      ]
+    },
+    {
+      "id": "tutorial",
+      "word": "tutorial",
+      "pos": "noun",
+      "ipa": "/tuːˈtɔːriəl/",
+      "reading_th": "ทู-ทอ-เรียล",
+      "meaning_th": "คาบติวกลุ่มเล็กกับผู้ช่วยสอน",
+      "emoji": "👥",
+      "example_en": "The tutorial goes over the problems from the lecture.",
+      "example_th": "คาบติวจะทบทวนโจทย์จากเลคเชอร์",
+      "cefr": "B1",
+      "note_th": "tutorial = คาบเสริมกลุ่มเล็กที่ tutor หรือ TA (teaching assistant) ช่วยทำโจทย์ — ที่ Oxford/Cambridge เป็นคาบตัวต่อตัวกับอาจารย์, บน YouTube tutorial = คลิปสอนวิธีทำ",
+      "distractors": [
+        "tutor",
+        "trial",
+        "territorial"
+      ]
+    },
+    {
+      "id": "attend",
+      "word": "attend",
+      "pos": "verb",
+      "ipa": "/əˈtend/",
+      "reading_th": "แอท-เทนด์",
+      "meaning_th": "เข้าเรียน / เข้าร่วม",
+      "emoji": "🙋",
+      "example_en": "Students who attend every class usually get better grades.",
+      "example_th": "นักศึกษาที่เข้าเรียนทุกคาบมักได้เกรดดีกว่า",
+      "cefr": "A2",
+      "note_th": "attend a lecture/class = เข้าเรียน (ไม่ต้องมี to) — วีซ่านักเรียนมีเงื่อนไขการเข้าเรียน ขาดบ่อยมหาวิทยาลัยต้องรายงาน ตรงข้ามคือ skip class = โดดเรียน",
+      "distractors": [
+        "attempt",
+        "intend",
+        "tend"
+      ]
+    },
+    {
+      "id": "lecture_notes",
+      "word": "lecture notes",
+      "pos": "noun",
+      "ipa": "/ˈlektʃər noʊts/",
+      "reading_th": "เล็ค-เชอร์ โน้ตส์",
+      "meaning_th": "โน้ตประกอบเลคเชอร์",
+      "emoji": "📄",
+      "example_en": "The lecture notes are posted online an hour before class.",
+      "example_th": "โน้ตประกอบเลคเชอร์จะถูกโพสต์ออนไลน์หนึ่งชั่วโมงก่อนเรียน",
+      "cefr": "B1",
+      "note_th": "lecture notes = สไลด์หรือเอกสารที่อาจารย์แจกในระบบ (Moodle/Canvas) และโน้ตที่คุณจดเอง — ชีทสรุปที่เพื่อนทำแบบไทยไม่มีในต่างประเทศ ต้องจดเองหรือตั้ง study group แลกกัน",
+      "distractors": [
+        "lecture",
+        "notebook",
+        "sticky notes"
+      ]
+    },
+    {
+      "id": "participate",
+      "word": "participate",
+      "pos": "verb",
+      "ipa": "/pɑːrˈtɪsɪpeɪt/",
+      "reading_th": "พาร์-ทิ-ซิ-เพท",
+      "meaning_th": "มีส่วนร่วม (พูดในคาบ)",
+      "emoji": "✋",
+      "example_en": "You are expected to participate in every seminar.",
+      "example_th": "คุณต้องมีส่วนร่วมในคาบสัมมนาทุกครั้ง",
+      "cefr": "B1",
+      "note_th": "participate in = มีส่วนร่วม คำนาม participation มักเป็นคะแนน 10–20% — นักเรียนไทยเสียคะแนนตรงนี้มากที่สุดเพราะเกรงใจ แค่ถามคำถามหนึ่งข้อต่อคาบก็นับแล้ว",
+      "distractors": [
+        "anticipate",
+        "particular",
+        "part"
+      ]
+    },
+    {
+      "id": "office_hours",
+      "word": "office hours",
+      "pos": "noun",
+      "ipa": "/ˈɔːfɪs ˌaʊərz/",
+      "reading_th": "ออฟ-ฟิส เอา-เออร์ส",
+      "meaning_th": "เวลาเข้าพบอาจารย์",
+      "emoji": "🚪",
+      "example_en": "Go to office hours if you do not understand the essay question.",
+      "example_th": "ถ้าไม่เข้าใจโจทย์เรียงความ ให้ไปพบอาจารย์ในเวลาเข้าพบ",
+      "cefr": "B1",
+      "note_th": "office hours = ช่วงเวลาที่อาจารย์เปิดห้องให้นักศึกษาเข้าไปถามได้โดยไม่ต้องนัด — อาจารย์ฝรั่งชอบให้มา ไม่ถือว่ารบกวน คนที่ไปบ่อยมักได้ recommendation letter ดีๆ",
+      "distractors": [
+        "opening hours",
+        "working hours",
+        "quiet hours"
+      ]
+    },
+    {
+      "id": "reading_list",
+      "word": "reading list",
+      "pos": "noun",
+      "ipa": "/ˈriːdɪŋ lɪst/",
+      "reading_th": "รี-ดิ้ง ลิสต์",
+      "meaning_th": "รายการหนังสือที่ต้องอ่าน",
+      "emoji": "📚",
+      "example_en": "The reading list for this module is over forty pages long.",
+      "example_th": "รายการหนังสือที่ต้องอ่านของวิชานี้ยาวกว่าสี่สิบหน้า",
+      "cefr": "B1",
+      "note_th": "reading list = หนังสือและบทความที่อาจารย์กำหนด แบ่งเป็น essential (ต้องอ่าน) กับ further reading (อ่านเพิ่ม) — ไม่ต้องอ่านทุกเล่ม อ่าน essential ก่อนคาบให้ทัน",
+      "distractors": [
+        "wish list",
+        "playlist",
+        "reading"
+      ]
+    },
+    {
+      "id": "guest_speaker",
+      "word": "guest speaker",
+      "pos": "noun",
+      "ipa": "/ˌɡest ˈspiːkər/",
+      "reading_th": "เกสท์ สปี-เกอร์",
+      "meaning_th": "วิทยากรรับเชิญ",
+      "emoji": "🎙️",
+      "example_en": "A guest speaker from Google is coming to our class next week.",
+      "example_th": "สัปดาห์หน้าจะมีวิทยากรรับเชิญจากกูเกิลมาที่ห้องเรียนเรา",
+      "cefr": "B1",
+      "note_th": "guest speaker = คนนอกที่ถูกเชิญมาพูด มักเป็นศิษย์เก่าหรือคนในอุตสาหกรรม — ไปถามคำถามและขอ LinkedIn หลังจบ เป็นโอกาสฝึกงานที่หลายคนมองข้าม",
+      "distractors": [
+        "loudspeaker",
+        "guest",
+        "native speaker"
+      ]
+    },
+    {
+      "id": "concept",
+      "word": "concept",
+      "pos": "noun",
+      "ipa": "/ˈkɑːnsept/",
+      "reading_th": "คอน-เซพท์",
+      "meaning_th": "แนวคิดหลัก (ทางวิชาการ)",
+      "emoji": "💡",
+      "example_en": "The lecture introduced the concept of supply and demand.",
+      "example_th": "เลคเชอร์แนะนำแนวคิดเรื่องอุปสงค์และอุปทาน",
+      "cefr": "B1",
+      "note_th": "concept = แนวคิดหรือหลักการสำคัญที่ต้องเข้าใจ ไม่ใช่แค่จำ (key concepts = แนวคิดหลักของวิชา) — ข้อสอบอัตนัยฝรั่งชอบสั่งว่า \"Explain the concept of…\" และ \"Apply the concept to…\"",
+      "distractors": [
+        "context",
+        "concert",
+        "consent"
+      ]
+    },
+    {
+      "id": "keep_up",
+      "word": "keep up",
+      "pos": "phrase",
+      "ipa": "/ˌkiːp ˈʌp/",
+      "reading_th": "คีพ อัพ",
+      "meaning_th": "ตามทัน (เนื้อหา)",
+      "emoji": "🏃",
+      "example_en": "It is hard to keep up with the reading in a second language.",
+      "example_th": "การอ่านตามให้ทันเป็นภาษาที่สองนั้นยากมาก",
+      "cefr": "B1",
+      "note_th": "keep up (with) = ตามให้ทัน ทั้งเนื้อหา เพื่อน และความเร็วการพูดของอาจารย์ — ประโยคขอความช่วยเหลือ: \"I'm struggling to keep up, could you speak a bit slower?\"",
+      "distractors": [
+        "keep on",
+        "catch up",
+        "give up"
+      ]
+    },
+    {
+      "id": "fall_behind",
+      "word": "fall behind",
+      "pos": "phrase",
+      "ipa": "/ˌfɔːl bɪˈhaɪnd/",
+      "reading_th": "ฟอล บิ-ไฮนด์",
+      "meaning_th": "เรียนตามไม่ทัน / ล้าหลัง",
+      "emoji": "🐢",
+      "example_en": "If you fall behind, talk to your tutor as soon as possible.",
+      "example_th": "ถ้าเริ่มเรียนตามไม่ทัน ให้คุยกับอาจารย์ที่ปรึกษาโดยเร็วที่สุด",
+      "cefr": "B1",
+      "note_th": "fall behind (with/on) = ตามไม่ทัน ตรงข้ามกับ keep up แก้ด้วย catch up = ตามให้ทัน — ป่วยหรือมีปัญหาส่วนตัวให้แจ้งก่อน จะได้ขอ extension ได้ทัน",
+      "distractors": [
+        "fall down",
+        "leave behind",
+        "fall apart"
+      ]
+    },
+    {
+      "id": "thesis",
+      "word": "thesis",
+      "pos": "noun",
+      "ipa": "/ˈθiːsɪs/",
+      "reading_th": "ธี-ซิส",
+      "meaning_th": "วิทยานิพนธ์",
+      "emoji": "📕",
+      "example_en": "My thesis is about Thai tourism after the pandemic.",
+      "example_th": "วิทยานิพนธ์ของฉันเกี่ยวกับการท่องเที่ยวไทยหลังโรคระบาด",
+      "cefr": "B1",
+      "note_th": "thesis = วิทยานิพนธ์ปริญญาโท (อเมริกา) หรือเอก (อังกฤษ) พหูพจน์ theses — thesis statement ในเรียงความ = ประโยคใจความหลักหนึ่งประโยคที่บอกว่าคุณจะโต้แย้งอะไร",
+      "distractors": [
+        "theses",
+        "these",
+        "thesaurus"
+      ]
+    },
+    {
+      "id": "dissertation",
+      "word": "dissertation",
+      "pos": "noun",
+      "ipa": "/ˌdɪsərˈteɪʃn/",
+      "reading_th": "ดิส-เซอร์-เท-ชั่น",
+      "meaning_th": "สารนิพนธ์ / งานวิจัยจบ",
+      "emoji": "📗",
+      "example_en": "The dissertation must be between ten and fifteen thousand words.",
+      "example_th": "สารนิพนธ์ต้องมีความยาวหนึ่งหมื่นถึงหนึ่งหมื่นห้าพันคำ",
+      "cefr": "B2",
+      "note_th": "อังกฤษ: dissertation = งานจบปริญญาตรี/โท ส่วน thesis = ปริญญาเอก (อเมริกาสลับกัน!) — เขียนตลอดช่วงหน้าร้อน มี supervisor คอยดูแล ส่งงานหน้าร้อนช้า = จบช้า",
+      "distractors": [
+        "presentation",
+        "desertion",
+        "dissertate"
+      ]
+    },
+    {
+      "id": "citation",
+      "word": "citation",
+      "pos": "noun",
+      "ipa": "/saɪˈteɪʃn/",
+      "reading_th": "ไซ-เท-ชั่น",
+      "meaning_th": "การอ้างอิงในเนื้อหา",
+      "emoji": "🔖",
+      "example_en": "Every citation must follow the APA style guide.",
+      "example_th": "การอ้างอิงทุกรายการต้องเป็นไปตามรูปแบบ APA",
+      "cefr": "B2",
+      "note_th": "citation = การอ้างอิงแหล่งที่มา (ในวงเล็บหรือ footnote) รูปแบบยอดนิยม APA, Harvard, MLA — โปรแกรม Zotero/Mendeley ทำให้อัตโนมัติ ลืมอ้างอิง = plagiarism",
+      "distractors": [
+        "situation",
+        "station",
+        "recitation"
+      ]
+    },
+    {
+      "id": "cite",
+      "word": "cite",
+      "pos": "verb",
+      "ipa": "/saɪt/",
+      "reading_th": "ไซท์",
+      "meaning_th": "อ้างอิง (แหล่งที่มา)",
+      "emoji": "📎",
+      "example_en": "Always cite the source when you use someone's idea.",
+      "example_th": "อ้างอิงแหล่งที่มาเสมอเมื่อใช้ความคิดของคนอื่น",
+      "cefr": "B2",
+      "note_th": "cite = อ้างอิง ออกเสียงเหมือน site (สถานที่) และ sight (การมองเห็น) — กฎทอง: ถ้าไม่ใช่ความคิดของคุณเอง ต้อง cite ทุกครั้ง แม้จะเขียนด้วยคำของตัวเอง",
+      "distractors": [
+        "site",
+        "sight",
+        "city"
+      ]
+    },
+    {
+      "id": "bibliography",
+      "word": "bibliography",
+      "pos": "noun",
+      "ipa": "/ˌbɪbliˈɑːɡrəfi/",
+      "reading_th": "บิบ-ลิ-ออ-กระ-ฟี",
+      "meaning_th": "บรรณานุกรม",
+      "emoji": "📑",
+      "example_en": "Put the bibliography on a separate page at the end.",
+      "example_th": "ใส่บรรณานุกรมไว้ในหน้าแยกต่างหากท้ายเล่ม",
+      "cefr": "B2",
+      "note_th": "bibliography = รายการแหล่งอ้างอิงทั้งหมดท้ายรายงาน (บางสไตล์เรียก references หรือ works cited) — ไม่นับรวมใน word count ส่วนใหญ่ เรียงตามตัวอักษรนามสกุลผู้เขียน",
+      "distractors": [
+        "biography",
+        "biology",
+        "bibliophile"
+      ]
+    },
+    {
+      "id": "plagiarism",
+      "word": "plagiarism",
+      "pos": "noun",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "reading_th": "เพล-เจอ-ริ-ซึม",
+      "meaning_th": "การลอกผลงาน",
+      "emoji": "🚫",
+      "example_en": "Plagiarism can get you expelled from the university.",
+      "example_th": "การลอกผลงานอาจทำให้คุณถูกไล่ออกจากมหาวิทยาลัย",
+      "cefr": "B2",
+      "note_th": "plagiarism = การเอางานคนอื่นมาเป็นของตัวเองโดยไม่อ้างอิง ถือเป็นความผิดร้ายแรงที่สุดในมหาวิทยาลัยต่างประเทศ — ระบบ Turnitin ตรวจทุกชิ้น แม้แปลจากภาษาไทยก็ตรวจเจอ",
+      "distractors": [
+        "plague",
+        "pluralism",
+        "patriotism"
+      ]
+    },
+    {
+      "id": "paraphrase",
+      "word": "paraphrase",
+      "pos": "verb",
+      "ipa": "/ˈpærəfreɪz/",
+      "reading_th": "แพ-ระ-เฟรส",
+      "meaning_th": "เรียบเรียงใหม่ด้วยคำของตัวเอง",
+      "emoji": "🔁",
+      "example_en": "Paraphrase the idea instead of copying the whole sentence.",
+      "example_th": "เรียบเรียงความคิดนั้นใหม่แทนที่จะลอกทั้งประโยค",
+      "cefr": "B2",
+      "note_th": "paraphrase = เขียนความหมายเดิมด้วยคำและโครงสร้างใหม่ (ยังต้อง cite) ต่างจาก quote ที่คัดลอกตรงๆ ในเครื่องหมายคำพูด — แค่เปลี่ยนคำสองสามคำยังถือว่าลอก",
+      "distractors": [
+        "phrase",
+        "paragraph",
+        "paralyze"
+      ]
+    },
+    {
+      "id": "word_count",
+      "word": "word count",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrd kaʊnt/",
+      "reading_th": "เวิร์ด เคานท์",
+      "meaning_th": "จำนวนคำที่กำหนด",
+      "emoji": "🔢",
+      "example_en": "The word count for this essay is 2,000 words, plus or minus ten percent.",
+      "example_th": "จำนวนคำที่กำหนดของเรียงความนี้คือ 2,000 คำ บวกลบสิบเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "word count = จำนวนคำ มักให้เกิน/ขาดได้ 10% (เกินแล้วโดนหักคะแนน) — Word และ Google Docs นับให้ที่มุมล่าง ถามอาจารย์ว่านับ references ด้วยไหม",
+      "distractors": [
+        "headcount",
+        "word",
+        "account"
+      ]
+    },
+    {
+      "id": "proofread",
+      "word": "proofread",
+      "pos": "verb",
+      "ipa": "/ˈpruːfriːd/",
+      "reading_th": "พรูฟ-รีด",
+      "meaning_th": "ตรวจทานคำผิด",
+      "emoji": "🔍",
+      "example_en": "Ask a native speaker to proofread your essay before you submit it.",
+      "example_th": "ให้เจ้าของภาษาช่วยตรวจทานเรียงความก่อนส่ง",
+      "cefr": "B2",
+      "note_th": "proofread = ตรวจคำผิด ไวยากรณ์ และรูปแบบรอบสุดท้าย ต่างจาก edit ที่แก้เนื้อหา — มหาวิทยาลัยมี writing centre ช่วยตรวจฟรี แต่ห้ามจ้างคนเขียนให้ (contract cheating)",
+      "distractors": [
+        "proof",
+        "read",
+        "reread"
+      ]
+    },
+    {
+      "id": "outline",
+      "word": "outline",
+      "pos": "noun",
+      "ipa": "/ˈaʊtlaɪn/",
+      "reading_th": "เอาท์-ไลน์",
+      "meaning_th": "โครงร่าง (ของรายงาน)",
+      "emoji": "🗒️",
+      "example_en": "Write an outline before you start the first draft.",
+      "example_th": "เขียนโครงร่างก่อนเริ่มร่างแรก",
+      "cefr": "B1",
+      "note_th": "outline = โครงร่างหัวข้อหลัก-ย่อยก่อนเขียนจริง อาจารย์บางคนขอดูก่อนส่ง dissertation — เป็นกริยาได้: outline the main points = สรุปประเด็นหลักคร่าวๆ",
+      "distractors": [
+        "online",
+        "headline",
+        "outlet"
+      ]
+    },
+    {
+      "id": "argument",
+      "word": "argument",
+      "pos": "noun",
+      "ipa": "/ˈɑːrɡjumənt/",
+      "reading_th": "อาร์-กิว-เมนท์",
+      "meaning_th": "ข้อโต้แย้งเชิงวิชาการ / เหตุผลหลัก",
+      "emoji": "⚖️",
+      "example_en": "A good essay has one clear argument supported by evidence.",
+      "example_th": "เรียงความที่ดีมีข้อโต้แย้งหลักที่ชัดเจนหนึ่งข้อพร้อมหลักฐานสนับสนุน",
+      "cefr": "B2",
+      "note_th": "argument ในงานวิชาการ = จุดยืนที่คุณพิสูจน์ ไม่ใช่การทะเลาะ — อาจารย์ฝรั่งต้องการให้ \"วิพากษ์\" (critical) มากกว่าแค่บรรยาย เขียนแค่สรุปหนังสือจะได้เกรดต่ำ",
+      "distractors": [
+        "agreement",
+        "arrangement",
+        "augment"
+      ]
+    },
+    {
+      "id": "source",
+      "word": "source",
+      "pos": "noun",
+      "ipa": "/sɔːrs/",
+      "reading_th": "ซอร์ส",
+      "meaning_th": "แหล่งข้อมูลอ้างอิง",
+      "emoji": "🗃️",
+      "example_en": "Wikipedia is not an acceptable source for this essay.",
+      "example_th": "วิกิพีเดียไม่ใช่แหล่งข้อมูลอ้างอิงที่ยอมรับได้สำหรับเรียงความนี้",
+      "cefr": "B1",
+      "note_th": "source = แหล่งที่มาของข้อมูล primary source = ข้อมูลต้นทาง (สัมภาษณ์ สถิติ) secondary source = งานวิเคราะห์ของคนอื่น — ใช้บทความ peer-reviewed จากฐานข้อมูลห้องสมุดจะปลอดภัยที่สุด",
+      "distractors": [
+        "sauce",
+        "course",
+        "resource"
+      ]
+    },
+    {
+      "id": "abstract",
+      "word": "abstract",
+      "pos": "noun",
+      "ipa": "/ˈæbstrækt/",
+      "reading_th": "แอบ-สแตรคท์",
+      "meaning_th": "บทคัดย่อ",
+      "emoji": "📝",
+      "example_en": "Read the abstract first to see if the article is useful.",
+      "example_th": "อ่านบทคัดย่อก่อนเพื่อดูว่าบทความนั้นมีประโยชน์ไหม",
+      "cefr": "B2",
+      "note_th": "abstract = บทคัดย่อ 150–300 คำต้นบทความวิจัยและวิทยานิพนธ์ อ่านแล้วรู้ว่าควรอ่านต่อไหม — ส่วนคำคุณศัพท์ abstract แปลว่านามธรรม เน้นเสียงพยางค์แรกทั้งสองแบบ",
+      "distractors": [
+        "attract",
+        "extract",
+        "abstain"
+      ]
+    },
+    {
+      "id": "extension",
+      "word": "extension",
+      "pos": "noun",
+      "ipa": "/ɪkˈstenʃn/",
+      "reading_th": "อิค-สเตน-ชั่น",
+      "meaning_th": "การขอเลื่อนส่งงาน",
+      "emoji": "⏰",
+      "example_en": "I asked for an extension because I was ill last week.",
+      "example_th": "ฉันขอเลื่อนส่งงานเพราะป่วยเมื่อสัปดาห์ที่แล้ว",
+      "cefr": "B1",
+      "note_th": "ask for/request an extension = ขอเลื่อนกำหนดส่ง ต้องมีเหตุผลและหลักฐาน (ใบรับรองแพทย์) ขอก่อนถึงวันส่งเท่านั้น — extension ยังแปลว่าเบอร์ต่อภายในและปลั๊กพ่วง (extension cord)",
+      "distractors": [
+        "extent",
+        "expansion",
+        "intention"
+      ]
+    },
+    {
+      "id": "open_book_exam",
+      "word": "open-book exam",
+      "pos": "noun",
+      "ipa": "/ˌoʊpən bʊk ɪɡˈzæm/",
+      "reading_th": "โอ-เพิน บุ๊ค อิก-แซม",
+      "meaning_th": "สอบแบบเปิดตำราได้",
+      "emoji": "📖",
+      "example_en": "An open-book exam still needs preparation, believe me.",
+      "example_th": "สอบแบบเปิดตำราได้ก็ยังต้องเตรียมตัวนะ เชื่อเถอะ",
+      "cefr": "B1",
+      "note_th": "open-book exam = เปิดหนังสือ/โน้ตได้ ตรงข้าม closed-book — ข้อสอบจะยากกว่าเพราะวัดการวิเคราะห์ ไม่ใช่ความจำ take-home exam = เอากลับไปทำที่บ้านภายใน 24–48 ชม.",
+      "distractors": [
+        "final exam",
+        "textbook",
+        "open day"
+      ]
+    },
+    {
+      "id": "multiple_choice",
+      "word": "multiple choice",
+      "pos": "noun",
+      "ipa": "/ˌmʌltɪpl ˈtʃɔɪs/",
+      "reading_th": "มัล-ติ-เพิล ชอยส์",
+      "meaning_th": "ข้อสอบปรนัย / เลือกตอบ",
+      "emoji": "🔘",
+      "example_en": "The first part is multiple choice and the rest is essay questions.",
+      "example_th": "ส่วนแรกเป็นปรนัย ที่เหลือเป็นคำถามอัตนัย",
+      "cefr": "A2",
+      "note_th": "multiple choice (MCQ) = ข้อสอบเลือกตอบ ส่วนอัตนัยเรียก essay questions หรือ open-ended — มหาวิทยาลัยต่างประเทศเน้นอัตนัยมากกว่า ฝึกเขียนตอบในเวลาจำกัดไว้",
+      "distractors": [
+        "multiply",
+        "first choice",
+        "multiple"
+      ]
+    },
+    {
+      "id": "proctor",
+      "word": "proctor",
+      "pos": "noun",
+      "ipa": "/ˈprɑːktər/",
+      "reading_th": "พร็อค-เตอร์",
+      "meaning_th": "ผู้คุมสอบ",
+      "emoji": "🧑‍💼",
+      "example_en": "The proctor will collect your phone before the exam begins.",
+      "example_th": "ผู้คุมสอบจะเก็บโทรศัพท์ของคุณก่อนเริ่มสอบ",
+      "cefr": "B2",
+      "note_th": "proctor (อเมริกัน) / invigilator (อังกฤษ) = ผู้คุมสอบ — สอบออนไลน์มีระบบ proctoring ที่เปิดกล้องดูตลอด มองออกนอกจอบ่อยอาจถูกสงสัยว่าโกง",
+      "distractors": [
+        "doctor",
+        "protector",
+        "projector"
+      ]
+    },
+    {
+      "id": "mark",
+      "word": "mark",
+      "pos": "verb",
+      "ipa": "/mɑːrk/",
+      "reading_th": "มาร์ค",
+      "meaning_th": "ตรวจให้คะแนน",
+      "emoji": "✔️",
+      "example_en": "It takes the lecturer three weeks to mark all the essays.",
+      "example_th": "อาจารย์ใช้เวลาสามสัปดาห์ในการตรวจเรียงความทั้งหมด",
+      "cefr": "B1",
+      "note_th": "mark (อังกฤษ) / grade (อเมริกา) = ตรวจให้คะแนน และ marks = คะแนนที่ได้ เช่น I got 68 marks — อังกฤษให้คะแนนเป็นเปอร์เซ็นต์ 70+ ถือว่าดีมากแล้ว ไม่ใช่ตกเหมือนไทย",
+      "distractors": [
+        "market",
+        "march",
+        "mask"
+      ]
+    },
+    {
+      "id": "grading",
+      "word": "grading",
+      "pos": "noun",
+      "ipa": "/ˈɡreɪdɪŋ/",
+      "reading_th": "เกรด-ดิ้ง",
+      "meaning_th": "เกณฑ์การให้เกรด",
+      "emoji": "📏",
+      "example_en": "The grading criteria are listed at the end of the syllabus.",
+      "example_th": "เกณฑ์การให้เกรดระบุอยู่ท้ายประมวลรายวิชา",
+      "cefr": "B1",
+      "note_th": "grading criteria / marking scheme = เกณฑ์ว่าคะแนนมาจากอะไรบ้าง (โครงสร้าง การวิเคราะห์ การอ้างอิง) — อ่านก่อนเขียนทุกครั้ง จะได้รู้ว่าอาจารย์ให้น้ำหนักตรงไหน",
+      "distractors": [
+        "trading",
+        "grade",
+        "gradient"
+      ]
+    },
+    {
+      "id": "distinction",
+      "word": "distinction",
+      "pos": "noun",
+      "ipa": "/dɪˈstɪŋkʃn/",
+      "reading_th": "ดิส-ติงค์-ชั่น",
+      "meaning_th": "เกียรตินิยม (ระดับสูงสุด)",
+      "emoji": "🏅",
+      "example_en": "She graduated with a distinction in her master's degree.",
+      "example_th": "เธอจบปริญญาโทด้วยเกียรตินิยมระดับสูงสุด",
+      "cefr": "B2",
+      "note_th": "ปริญญาโทอังกฤษแบ่งผลเป็น Distinction (70%+), Merit (60–69), Pass (50–59) — ส่วนปริญญาตรีใช้ First, 2:1, 2:2, Third คำว่า distinction ยังแปลว่าความแตกต่างได้ด้วย",
+      "distractors": [
+        "destination",
+        "description",
+        "extinction"
+      ]
+    },
+    {
+      "id": "honors",
+      "word": "honors",
+      "pos": "noun",
+      "ipa": "/ˈɑːnərz/",
+      "reading_th": "ออ-เนอร์ส",
+      "meaning_th": "เกียรตินิยม (ปริญญาตรี)",
+      "emoji": "🎖️",
+      "example_en": "He finished his degree with first-class honors.",
+      "example_th": "เขาจบปริญญาตรีด้วยเกียรตินิยมอันดับหนึ่ง",
+      "cefr": "B2",
+      "note_th": "honors (อเมริกัน) / honours (อังกฤษ) ตัว h ไม่ออกเสียง — ปริญญาตรีอังกฤษส่วนใหญ่เป็น honours degree อยู่แล้ว (BA Hons) ส่วนอเมริกาใช้ cum laude, magna cum laude",
+      "distractors": [
+        "honest",
+        "owners",
+        "honours"
+      ]
+    },
+    {
+      "id": "resit",
+      "word": "resit",
+      "pos": "verb",
+      "ipa": "/ˌriːˈsɪt/",
+      "reading_th": "รี-ซิท",
+      "meaning_th": "สอบซ่อม",
+      "emoji": "🔁",
+      "example_en": "Students who fail can resit the exam in August.",
+      "example_th": "นักศึกษาที่สอบตกสามารถสอบซ่อมได้ในเดือนสิงหาคม",
+      "cefr": "B1",
+      "note_th": "resit (อังกฤษ) = สอบซ่อม อเมริกันพูดว่า retake the exam — คะแนนสอบซ่อมมักถูกจำกัดไว้ที่ pass (40–50%) และเสียค่าธรรมเนียม ดังนั้นสอบครั้งแรกให้ดี",
+      "distractors": [
+        "reset",
+        "resist",
+        "resident"
+      ]
+    },
+    {
+      "id": "academic_probation",
+      "word": "academic probation",
+      "pos": "noun",
+      "ipa": "/ˌækəˈdemɪk proʊˈbeɪʃn/",
+      "reading_th": "แอค-คะ-เด-มิค โพร-เบ-ชั่น",
+      "meaning_th": "สถานะรอพินิจ (เกรดต่ำ)",
+      "emoji": "⚠️",
+      "example_en": "A GPA below 2.0 puts you on academic probation.",
+      "example_th": "เกรดเฉลี่ยต่ำกว่า 2.0 จะทำให้คุณอยู่ในสถานะรอพินิจ",
+      "cefr": "B2",
+      "note_th": "academic probation = ถูกเตือนเพราะผลการเรียนต่ำ ถ้าเทอมหน้าไม่ดีขึ้นอาจถูกให้ออก (dismissed) — นักศึกษาต่างชาติเสี่ยงเสียวีซ่าด้วย รีบคุย advisor ทันที",
+      "distractors": [
+        "probation",
+        "academic year",
+        "promotion"
+      ]
+    },
+    {
+      "id": "resubmit",
+      "word": "resubmit",
+      "pos": "verb",
+      "ipa": "/ˌriːsəbˈmɪt/",
+      "reading_th": "รี-ซับ-มิท",
+      "meaning_th": "ส่งงานใหม่อีกครั้ง",
+      "emoji": "🔁",
+      "example_en": "Students who fail the essay can resubmit it once in the summer.",
+      "example_th": "นักศึกษาที่ตกเรียงความสามารถส่งงานใหม่ได้หนึ่งครั้งในช่วงหน้าร้อน",
+      "cefr": "B1",
+      "note_th": "resubmit = ส่งใหม่ (re- = อีกครั้ง) ใช้ทั้งงานที่ตกและงานที่ระบบรับไม่สำเร็จ — คะแนน resubmission มักถูกจำกัดที่เกณฑ์ผ่าน (capped at a pass) เหมือนสอบซ่อม",
+      "distractors": [
+        "submit",
+        "resume",
+        "resist"
+      ]
+    },
+    {
+      "id": "study_group",
+      "word": "study group",
+      "pos": "noun",
+      "ipa": "/ˈstʌdi ɡruːp/",
+      "reading_th": "สตั๊ด-ดี้ กรุ๊ป",
+      "meaning_th": "กลุ่มติวหนังสือ",
+      "emoji": "👩‍👩‍👧‍👦",
+      "example_en": "Our study group meets in the library every Thursday night.",
+      "example_th": "กลุ่มติวของเรานัดเจอกันที่ห้องสมุดทุกคืนวันพฤหัส",
+      "cefr": "A2",
+      "note_th": "study group = กลุ่มเพื่อนติวด้วยกัน (join/form a study group) — วิธีที่ดีที่สุดในการเข้าใจสำเนียงเพื่อนต่างชาติและเช็กว่าตัวเองเข้าใจเลคเชอร์ถูกไหม",
+      "distractors": [
+        "group work",
+        "student group",
+        "study room"
+      ]
+    },
+    {
+      "id": "past_paper",
+      "word": "past paper",
+      "pos": "noun",
+      "ipa": "/ˌpæst ˈpeɪpər/",
+      "reading_th": "พาสท์ เพ-เปอร์",
+      "meaning_th": "ข้อสอบเก่า",
+      "emoji": "🗞️",
+      "example_en": "Doing a past paper under exam conditions is the best practice.",
+      "example_th": "ทำข้อสอบเก่าแบบจับเวลาเหมือนสอบจริงคือการฝึกที่ดีที่สุด",
+      "cefr": "B1",
+      "note_th": "past paper = ข้อสอบปีก่อนๆ ดาวน์โหลดได้จากเว็บห้องสมุด — อาจารย์ฝรั่งมักออกข้อสอบแนวเดิม ทำย้อนหลัง 3 ปีจะเห็นรูปแบบคำถามชัดเจน",
+      "distractors": [
+        "newspaper",
+        "paper",
+        "past tense"
+      ]
+    },
+    {
+      "id": "all_nighter",
+      "word": "all-nighter",
+      "pos": "noun",
+      "ipa": "/ˌɔːl ˈnaɪtər/",
+      "reading_th": "ออล ไน-เทอร์",
+      "meaning_th": "การโต้รุ่งทำงาน/อ่านหนังสือ",
+      "emoji": "🌙",
+      "example_en": "I pulled an all-nighter to finish the essay on time.",
+      "example_th": "ฉันโต้รุ่งเพื่อทำเรียงความให้เสร็จทันเวลา",
+      "cefr": "B2",
+      "note_th": "pull an all-nighter = อดนอนทั้งคืนทำงานหรืออ่านหนังสือ (สแลงนักศึกษาที่ใช้กันทุกประเทศ) — ห้องสมุดมหาวิทยาลัยช่วงสอบเปิด 24 ชั่วโมง มีคนนอนพับอยู่เต็ม",
+      "distractors": [
+        "overnight",
+        "nightlife",
+        "night shift"
+      ]
+    },
+    {
+      "id": "finals_week",
+      "word": "finals week",
+      "pos": "noun",
+      "ipa": "/ˈfaɪnlz wiːk/",
+      "reading_th": "ไฟ-เนิลส์ วีค",
+      "meaning_th": "สัปดาห์สอบปลายภาค",
+      "emoji": "📆",
+      "example_en": "During finals week the whole campus goes quiet and tense.",
+      "example_th": "ช่วงสัปดาห์สอบปลายภาค ทั้งแคมปัสเงียบและตึงเครียด",
+      "cefr": "B1",
+      "note_th": "finals week (อเมริกา) / exam period หรือ exam season (อังกฤษ) = ช่วงสอบปลายภาค 1–3 สัปดาห์ — finals เป็นสแลงของ final exams ส่วนตารางสอบเรียก exam timetable",
+      "distractors": [
+        "final exam",
+        "weekend",
+        "finale"
+      ]
+    },
+    {
+      "id": "society",
+      "word": "society",
+      "pos": "noun",
+      "ipa": "/səˈsaɪəti/",
+      "reading_th": "โซ-ไซ-เอ-ตี้",
+      "meaning_th": "ชมรมนักศึกษา (อังกฤษ)",
+      "emoji": "🎭",
+      "example_en": "I joined the Thai society and the hiking society in my first week.",
+      "example_th": "ฉันเข้าชมรมคนไทยและชมรมเดินป่าตั้งแต่สัปดาห์แรก",
+      "cefr": "B1",
+      "note_th": "society ในมหาวิทยาลัยอังกฤษ = ชมรม (ย่อว่า soc) อเมริกาเรียก club หรือ student organization — มี Thai Society เกือบทุกมหาวิทยาลัยใหญ่ หาเพื่อนไทยและสงกรานต์ได้ที่นั่น",
+      "distractors": [
+        "social",
+        "sociology",
+        "secretary"
+      ]
+    },
+    {
+      "id": "welcome_week",
+      "word": "welcome week",
+      "pos": "noun",
+      "ipa": "/ˈwelkəm wiːk/",
+      "reading_th": "เวล-คัม วีค",
+      "meaning_th": "สัปดาห์ต้อนรับนักศึกษาใหม่",
+      "emoji": "🎉",
+      "example_en": "Welcome week is full of parties, fairs and free pizza.",
+      "example_th": "สัปดาห์ต้อนรับนักศึกษาใหม่เต็มไปด้วยปาร์ตี้ งานออกบูธ และพิซซ่าฟรี",
+      "cefr": "B1",
+      "note_th": "welcome week / freshers' week (อังกฤษ) = สัปดาห์แรกก่อนเรียนจริง มีงานชมรม (societies fair) และปาร์ตี้ทุกคืน — ไปงานชมรมให้ครบ จะได้เพื่อนเร็วที่สุดในช่วงนี้",
+      "distractors": [
+        "weekend",
+        "welcome",
+        "work week"
+      ]
+    },
+    {
+      "id": "student_loan",
+      "word": "student loan",
+      "pos": "noun",
+      "ipa": "/ˈstuːdnt loʊn/",
+      "reading_th": "สตู-เดินท์ โลน",
+      "meaning_th": "เงินกู้เพื่อการศึกษา",
+      "emoji": "🏦",
+      "example_en": "Many graduates spend years paying off their student loan.",
+      "example_th": "บัณฑิตหลายคนใช้เวลาหลายปีในการผ่อนเงินกู้เพื่อการศึกษา",
+      "cefr": "B1",
+      "note_th": "student loan = เงินกู้เรียน (ไทยคือ กยศ.) ในอเมริกาเป็นปัญหาระดับชาติ — นักศึกษาต่างชาติมักกู้ของรัฐบาลประเทศนั้นไม่ได้ ต้องดูทุน (scholarship) หรือ bursary แทน",
+      "distractors": [
+        "student union",
+        "home loan",
+        "student card"
+      ]
+    },
+    {
+      "id": "part_time_job",
+      "word": "part-time job",
+      "pos": "noun",
+      "ipa": "/ˌpɑːrt taɪm ˈdʒɑːb/",
+      "reading_th": "พาร์ท ไทม์ จ็อบ",
+      "meaning_th": "งานพิเศษระหว่างเรียน",
+      "emoji": "☕",
+      "example_en": "A part-time job at the campus café pays for my groceries.",
+      "example_th": "งานพิเศษที่คาเฟ่ในแคมปัสจ่ายค่ากับข้าวของฉันได้",
+      "cefr": "A2",
+      "note_th": "part-time job = งานไม่เต็มเวลา วีซ่านักเรียนมักให้ทำได้ 20 ชม./สัปดาห์ในเทอม และเต็มเวลาช่วงปิดเทอม — หางานในแคมปัส (on-campus job) ง่ายที่สุด ไม่ต้องมีประสบการณ์",
+      "distractors": [
+        "full-time job",
+        "part-time",
+        "dream job"
+      ]
+    },
+    {
+      "id": "exchange_program",
+      "word": "exchange program",
+      "pos": "noun",
+      "ipa": "/ɪksˈtʃeɪndʒ ˌproʊɡræm/",
+      "reading_th": "อิคส์-เชนจ์ โพร-แกรม",
+      "meaning_th": "โครงการแลกเปลี่ยน",
+      "emoji": "✈️",
+      "example_en": "I spent a semester in Korea on an exchange program.",
+      "example_th": "ฉันไปเรียนที่เกาหลีหนึ่งเทอมผ่านโครงการแลกเปลี่ยน",
+      "cefr": "B1",
+      "note_th": "exchange program = ไปเรียนมหาวิทยาลัยคู่สัญญา 1–2 เทอมโดยจ่ายค่าเทอมมหาวิทยาลัยเดิม (ยุโรปเรียก Erasmus) — สมัครปีสองเพื่อไปปีสาม ต้องการเกรดและผลภาษา",
+      "distractors": [
+        "exchange rate",
+        "exchange student",
+        "exchange"
+      ]
+    },
+    {
+      "id": "gap_year",
+      "word": "gap year",
+      "pos": "noun",
+      "ipa": "/ˈɡæp jɪr/",
+      "reading_th": "แก๊พ เยียร์",
+      "meaning_th": "ปีพักก่อนเรียนต่อ",
+      "emoji": "🌍",
+      "example_en": "He took a gap year to travel and work before university.",
+      "example_th": "เขาพักหนึ่งปีเพื่อท่องเที่ยวและทำงานก่อนเข้ามหาวิทยาลัย",
+      "cefr": "B1",
+      "note_th": "take a gap year = พักหนึ่งปีระหว่างมัธยมกับมหาวิทยาลัย (หรือก่อนปริญญาโท) เพื่อทำงาน เที่ยว หรืออาสา — คนตะวันตกมองว่าปกติ ไม่ใช่เสียเวลาเหมือนที่ผู้ใหญ่ไทยกังวล",
+      "distractors": [
+        "leap year",
+        "gap",
+        "year off"
+      ]
+    },
+    {
+      "id": "alumni",
+      "word": "alumni",
+      "pos": "noun",
+      "ipa": "/əˈlʌmnaɪ/",
+      "reading_th": "อะ-ลัม-ไน",
+      "meaning_th": "ศิษย์เก่า",
+      "emoji": "🤝",
+      "example_en": "The alumni network helped me find my first job abroad.",
+      "example_th": "เครือข่ายศิษย์เก่าช่วยให้ฉันได้งานแรกในต่างประเทศ",
+      "cefr": "B2",
+      "note_th": "alumni = ศิษย์เก่า (พหูพจน์ มาจากภาษาละติน) เอกพจน์ alumnus/alumna หรือสแลง alum — LinkedIn มีฟิลเตอร์หา alumni ของมหาวิทยาลัยคุณ ใช้ขอคำแนะนำเรื่องงานได้ดีมาก",
+      "distractors": [
+        "aluminum",
+        "alumnus",
+        "alien"
+      ]
+    },
+    {
+      "id": "commencement",
+      "word": "commencement",
+      "pos": "noun",
+      "ipa": "/kəˈmensmənt/",
+      "reading_th": "คอม-เมนซ์-เมนท์",
+      "meaning_th": "พิธีรับปริญญา (อเมริกา)",
+      "emoji": "🎓",
+      "example_en": "My parents flew in from Bangkok for my commencement.",
+      "example_th": "พ่อแม่บินมาจากกรุงเทพฯ เพื่อมางานพิธีรับปริญญาของฉัน",
+      "cefr": "B2",
+      "note_th": "commencement (อเมริกา) = พิธีรับปริญญา แปลตรงตัวว่า \"การเริ่มต้น\" (ชีวิตใหม่) อังกฤษเรียก graduation ceremony — ไม่มีการรับจากพระหัตถ์ แค่เดินขึ้นเวทีรับใบและถ่ายรูป",
+      "distractors": [
+        "commerce",
+        "comment",
+        "commitment"
+      ]
+    },
+    {
+      "id": "cap_and_gown",
+      "word": "cap and gown",
+      "pos": "noun",
+      "ipa": "/ˌkæp ən ˈɡaʊn/",
+      "reading_th": "แค็พ แอนด์ กาวน์",
+      "meaning_th": "ชุดครุยและหมวกรับปริญญา",
+      "emoji": "👩‍🎓",
+      "example_en": "You have to rent a cap and gown for the ceremony.",
+      "example_th": "ต้องเช่าชุดครุยและหมวกสำหรับพิธี",
+      "cefr": "B1",
+      "note_th": "cap and gown = หมวกสี่เหลี่ยม (mortarboard) และชุดครุย ส่วนใหญ่เช่าไม่กี่สิบปอนด์/ดอลลาร์ — โยนหมวกหลังพิธี (cap toss) เป็นธรรมเนียม ถ่ายรูปไว้ให้ที่บ้านดู",
+      "distractors": [
+        "cap",
+        "gown",
+        "nightgown"
+      ]
+    },
+    {
+      "id": "dean",
+      "word": "dean",
+      "pos": "noun",
+      "ipa": "/diːn/",
+      "reading_th": "ดีน",
+      "meaning_th": "คณบดี",
+      "emoji": "🧑‍⚖️",
+      "example_en": "The dean gave a short speech at the graduation ceremony.",
+      "example_th": "คณบดีกล่าวสุนทรพจน์สั้นๆ ในพิธีรับปริญญา",
+      "cefr": "B2",
+      "note_th": "dean = คณบดี หัวหน้าคณะ (dean of students = รองอธิการฝ่ายกิจการนักศึกษา) — dean's list = รายชื่อนักศึกษาเกรดดีเด่นประจำเทอม ใส่ใน CV ได้",
+      "distractors": [
+        "dear",
+        "den",
+        "deal"
+      ]
+    },
+    {
+      "id": "graduate_school",
+      "word": "graduate school",
+      "pos": "noun",
+      "ipa": "/ˈɡrædʒuət skuːl/",
+      "reading_th": "แกรด-จู-เอิท สกูล",
+      "meaning_th": "บัณฑิตวิทยาลัย / เรียนต่อโท-เอก",
+      "emoji": "🏛️",
+      "example_en": "She is applying to graduate school in the United States.",
+      "example_th": "เธอกำลังสมัครเรียนต่อระดับบัณฑิตศึกษาในสหรัฐอเมริกา",
+      "cefr": "B2",
+      "note_th": "graduate school หรือ grad school (อเมริกา) = การเรียนต่อปริญญาโท-เอก (อังกฤษเรียก postgraduate study) — grad student = นักศึกษาโท/เอก ส่วน undergrad = ปริญญาตรี",
+      "distractors": [
+        "high school",
+        "grade",
+        "graduate"
+      ]
+    },
+    {
+      "id": "networking",
+      "word": "networking",
+      "pos": "noun",
+      "ipa": "/ˈnetwɜːrkɪŋ/",
+      "reading_th": "เน็ท-เวิร์ค-กิ้ง",
+      "meaning_th": "การสร้างเครือข่ายรู้จักคน",
+      "emoji": "🕸️",
+      "example_en": "Networking at career fairs got me three interviews.",
+      "example_th": "การสร้างเครือข่ายในงานหางานทำให้ฉันได้สัมภาษณ์สามที่",
+      "cefr": "B2",
+      "note_th": "networking = การทำความรู้จักคนเพื่อโอกาสงาน (networking event) — วัฒนธรรมตะวันตกให้ค่ามาก พกนามบัตรหรือ LinkedIn QR และส่งข้อความตามหลังภายใน 24 ชม.",
+      "distractors": [
+        "network",
+        "internet",
+        "working"
+      ]
+    },
+    {
+      "id": "volunteer",
+      "word": "volunteer",
+      "pos": "verb",
+      "ipa": "/ˌvɑːlənˈtɪr/",
+      "reading_th": "วอ-เลิน-เทียร์",
+      "meaning_th": "ทำงานอาสาสมัคร",
+      "emoji": "🙌",
+      "example_en": "I volunteer at a food bank every Saturday morning.",
+      "example_th": "ฉันไปเป็นอาสาสมัครที่ธนาคารอาหารทุกเช้าวันเสาร์",
+      "cefr": "B1",
+      "note_th": "volunteer = ทำงานโดยไม่รับเงิน (เป็นคำนามได้ด้วย) คำนามของกิจกรรมคือ volunteering — ใส่ใน CV ฝรั่งได้คะแนนมาก และเป็นวิธีฝึกภาษากับคนท้องถิ่นที่ไม่เสียเงิน",
+      "distractors": [
+        "volume",
+        "voluntary",
+        "valentine"
+      ]
+    },
+    {
+      "id": "final_year",
+      "word": "final year",
+      "pos": "noun",
+      "ipa": "/ˌfaɪnl ˈjɪr/",
+      "reading_th": "ไฟ-เนิล เยียร์",
+      "meaning_th": "ปีสุดท้าย (ของหลักสูตร)",
+      "emoji": "🏁",
+      "example_en": "In the final year everyone is busy with their dissertation.",
+      "example_th": "ในปีสุดท้ายทุกคนยุ่งอยู่กับงานวิจัยจบ",
+      "cefr": "A2",
+      "note_th": "final year = ปีสุดท้าย (อังกฤษ) อเมริกาเรียก senior year — final-year project/dissertation มักเป็น 25–30% ของเกรดทั้งปริญญา เริ่มหาหัวข้อตั้งแต่ช่วงหน้าร้อนก่อนขึ้นปีสุดท้าย",
+      "distractors": [
+        "first year",
+        "final exam",
+        "gap year"
+      ]
+    }
+  ]
+}

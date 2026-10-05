@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "tech_it",
+    "name_en": "Tech & IT",
+    "name_th": "ไอทีและโปรแกรมมิ่ง",
+    "emoji": "💻",
+    "color_start": "#38BDF8",
+    "color_end": "#0369A1",
+    "description_th": "ศัพท์สายไอที ซอฟต์แวร์ คลาวด์ ความปลอดภัย และการพัฒนาแอป ที่ใช้ในที่ทำงานยุคใหม่",
+    "mascot_costume": "gamer",
+    "lessons": [
+      {
+        "id": "tech_it_1",
+        "title_en": "Devices & Networks",
+        "title_th": "อุปกรณ์และเครือข่าย",
+        "emoji": "🔌",
+        "word_ids": [
+          "hardware",
+          "device",
+          "network",
+          "router",
+          "modem",
+          "cable",
+          "port",
+          "bandwidth",
+          "hotspot",
+          "bluetooth",
+          "usb",
+          "hard_drive",
+          "processor",
+          "ethernet"
+        ]
+      },
+      {
+        "id": "tech_it_2",
+        "title_en": "Software & Apps",
+        "title_th": "ซอฟต์แวร์และแอป",
+        "emoji": "📱",
+        "word_ids": [
+          "software",
+          "app",
+          "operating_system",
+          "interface",
+          "version",
+          "feature",
+          "compatible",
+          "default",
+          "plugin",
+          "sync",
+          "permission",
+          "open_source",
+          "upgrade",
+          "user_friendly"
+        ]
+      },
+      {
+        "id": "tech_it_3",
+        "title_en": "Coding Basics",
+        "title_th": "เขียนโค้ดเบื้องต้น",
+        "emoji": "👩‍💻",
+        "word_ids": [
+          "code",
+          "bug",
+          "debug",
+          "deploy",
+          "developer",
+          "variable",
+          "function",
+          "loop",
+          "syntax",
+          "compile",
+          "command",
+          "framework",
+          "repository",
+          "front_end"
+        ]
+      },
+      {
+        "id": "tech_it_4",
+        "title_en": "Data & Cloud",
+        "title_th": "ข้อมูลและคลาวด์",
+        "emoji": "☁️",
+        "word_ids": [
+          "database",
+          "cloud",
+          "backup",
+          "data_center",
+          "spreadsheet",
+          "dashboard",
+          "analytics",
+          "storage",
+          "api",
+          "query",
+          "big_data",
+          "cache",
+          "real_time",
+          "archive"
+        ]
+      },
+      {
+        "id": "tech_it_5",
+        "title_en": "Cybersecurity",
+        "title_th": "ความปลอดภัยไซเบอร์",
+        "emoji": "🔐",
+        "word_ids": [
+          "cybersecurity",
+          "hacker",
+          "malware",
+          "virus",
+          "firewall",
+          "encrypt",
+          "data_breach",
+          "authentication",
+          "ransomware",
+          "patch",
+          "vulnerability",
+          "antivirus",
+          "vpn",
+          "access"
+        ]
+      },
+      {
+        "id": "tech_it_6",
+        "title_en": "AI & Automation",
+        "title_th": "AI และระบบอัตโนมัติ",
+        "emoji": "🤖",
+        "word_ids": [
+          "artificial_intelligence",
+          "chatbot",
+          "machine_learning",
+          "prompt",
+          "automation",
+          "automate",
+          "generate",
+          "bot",
+          "workflow",
+          "dataset",
+          "predict",
+          "deepfake",
+          "accuracy",
+          "voice_assistant"
+        ]
+      },
+      {
+        "id": "tech_it_7",
+        "title_en": "IT Support",
+        "title_th": "ซัพพอร์ตและแก้ปัญหา",
+        "emoji": "🛠️",
+        "word_ids": [
+          "troubleshoot",
+          "crash",
+          "freeze",
+          "reboot",
+          "glitch",
+          "factory_reset",
+          "error",
+          "help_desk",
+          "reset",
+          "technician",
+          "downtime",
+          "workaround",
+          "overheat",
+          "corrupted"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "hardware",
+      "word": "hardware",
+      "pos": "noun",
+      "ipa": "/ˈhɑːrdwer/",
+      "reading_th": "ฮาร์ด-แวร์",
+      "meaning_th": "ฮาร์ดแวร์ / อุปกรณ์คอมพิวเตอร์",
+      "emoji": "🖥️",
+      "example_en": "Our hardware is old, so the office needs new computers.",
+      "example_th": "ฮาร์ดแวร์ของเราเก่าแล้ว ออฟฟิศเลยต้องซื้อคอมใหม่",
+      "cefr": "A2",
+      "note_th": "hardware = ของที่จับต้องได้ (คอม เมาส์ ชิป) ส่วน software = โปรแกรม — คนไทยชอบเขียน \"ฮาร์ดแวร์\" ถูกแล้ว แต่ภาษาอังกฤษเป็นคำนามนับไม่ได้ ไม่มี hardwares",
+      "distractors": [
+        "software",
+        "hardworking",
+        "warehouse"
+      ]
+    },
+    {
+      "id": "device",
+      "word": "device",
+      "pos": "noun",
+      "ipa": "/dɪˈvaɪs/",
+      "reading_th": "ดิ-ไวซ์",
+      "meaning_th": "อุปกรณ์ / เครื่อง",
+      "emoji": "📱",
+      "example_en": "You can log in from any device, even your phone.",
+      "example_th": "คุณล็อกอินได้จากอุปกรณ์ไหนก็ได้ แม้แต่มือถือ",
+      "cefr": "A2",
+      "note_th": "device (n.) อุปกรณ์ กับ devise (v.) คิดค้น สะกดต่างกันตัวเดียว — ในแอปมักเจอ \"this device\" = เครื่องนี้ และ mobile device = มือถือ/แท็บเล็ต",
+      "distractors": [
+        "devise",
+        "advice",
+        "divide"
+      ]
+    },
+    {
+      "id": "network",
+      "word": "network",
+      "pos": "noun",
+      "ipa": "/ˈnetwɜːrk/",
+      "reading_th": "เน็ต-เวิร์ก",
+      "meaning_th": "เครือข่าย",
+      "emoji": "🌐",
+      "example_en": "The office network is down, so nobody can print.",
+      "example_th": "เครือข่ายของออฟฟิศล่ม เลยไม่มีใครพิมพ์งานได้",
+      "cefr": "A2",
+      "note_th": "network ใช้ทั้งเครือข่ายคอมพิวเตอร์และเครือข่ายคน — networking = การสร้างคอนเนกชัน ส่วน \"เน็ต\" ที่คนไทยพูด = the internet ไม่ใช่ network",
+      "distractors": [
+        "internet",
+        "homework",
+        "notebook"
+      ]
+    },
+    {
+      "id": "router",
+      "word": "router",
+      "pos": "noun",
+      "ipa": "/ˈraʊtər/",
+      "reading_th": "เรา-เตอร์",
+      "meaning_th": "เราเตอร์ / ตัวกระจายสัญญาณ",
+      "emoji": "📡",
+      "example_en": "Turn the router off and on if the Wi-Fi drops.",
+      "example_th": "ถ้าไวไฟหลุด ให้ปิดแล้วเปิดเราเตอร์ใหม่",
+      "cefr": "A2",
+      "note_th": "สำเนียงอเมริกันออก \"เรา-เตอร์\" อังกฤษออก \"รู-เตอร์\" ได้ทั้งคู่ — ช่างเน็ตไทยมักถาม \"restart the router\" ก่อนเสมอ",
+      "distractors": [
+        "route",
+        "modem",
+        "rooster"
+      ]
+    },
+    {
+      "id": "modem",
+      "word": "modem",
+      "pos": "noun",
+      "ipa": "/ˈmoʊdəm/",
+      "reading_th": "โม-เด็ม",
+      "meaning_th": "โมเด็ม",
+      "emoji": "📶",
+      "example_en": "The modem from the internet company blinks red when the line fails.",
+      "example_th": "โมเด็มของบริษัทเน็ตจะกะพริบสีแดงเวลาสายขัดข้อง",
+      "cefr": "B1",
+      "note_th": "modem = ตัวแปลงสัญญาณจากผู้ให้บริการเน็ต ส่วน router = ตัวแจกเน็ตให้เครื่องในบ้าน — บ้านไทยส่วนใหญ่ได้กล่องเดียวที่เป็นทั้งสองอย่าง",
+      "distractors": [
+        "modern",
+        "model",
+        "module"
+      ]
+    },
+    {
+      "id": "cable",
+      "word": "cable",
+      "pos": "noun",
+      "ipa": "/ˈkeɪbl/",
+      "reading_th": "เค-เบิล",
+      "meaning_th": "สายเคเบิล / สายไฟ",
+      "emoji": "🔌",
+      "example_en": "Check the cable behind the monitor before you call IT.",
+      "example_th": "เช็กสายหลังจอก่อนโทรหาไอที",
+      "cefr": "A2",
+      "note_th": "cable = สายแบบหนาหรือสายสัญญาณ ส่วน cord = สายไฟเส้นเล็ก และ wire = เส้นลวดข้างใน — \"สายชาร์จ\" ภาษาอังกฤษคือ charging cable",
+      "distractors": [
+        "table",
+        "cord",
+        "label"
+      ]
+    },
+    {
+      "id": "port",
+      "word": "port",
+      "pos": "noun",
+      "ipa": "/pɔːrt/",
+      "reading_th": "พอร์ต",
+      "meaning_th": "ช่องเสียบ / พอร์ต",
+      "emoji": "🔲",
+      "example_en": "This laptop has only one port, so I need an adapter.",
+      "example_th": "แล็ปท็อปเครื่องนี้มีพอร์ตเดียว ฉันเลยต้องใช้ตัวแปลง",
+      "cefr": "B1",
+      "note_th": "port = ช่องเสียบบนเครื่อง (USB port, HDMI port) และยังแปลว่าท่าเรือด้วย — ถ้าหมายถึงปลั๊กไฟที่ผนังใช้ socket หรือ outlet",
+      "distractors": [
+        "plug",
+        "post",
+        "part"
+      ]
+    },
+    {
+      "id": "bandwidth",
+      "word": "bandwidth",
+      "pos": "noun",
+      "ipa": "/ˈbændwɪdθ/",
+      "reading_th": "แบนด์-วิดธ์",
+      "meaning_th": "แบนด์วิดท์ / ความกว้างช่องสัญญาณ",
+      "emoji": "📊",
+      "example_en": "Video calls use a lot of bandwidth, so the internet feels slow.",
+      "example_th": "วิดีโอคอลกินแบนด์วิดท์เยอะ เน็ตเลยรู้สึกช้า",
+      "cefr": "B2",
+      "note_th": "ในออฟฟิศฝรั่งยังใช้เปรียบเทียบคน: \"I don't have the bandwidth\" = ไม่มีเวลา/แรงพอจะรับงานเพิ่ม — เป็นคำปฏิเสธงานแบบสุภาพ",
+      "distractors": [
+        "bandage",
+        "broadband",
+        "width"
+      ]
+    },
+    {
+      "id": "hotspot",
+      "word": "hotspot",
+      "pos": "noun",
+      "ipa": "/ˈhɑːtspɑːt/",
+      "reading_th": "ฮอต-สปอต",
+      "meaning_th": "ฮอตสปอต / จุดแชร์เน็ตจากมือถือ",
+      "emoji": "📲",
+      "example_en": "I turned on my phone's hotspot so the laptop could get online.",
+      "example_th": "ฉันเปิดฮอตสปอตจากมือถือให้แล็ปท็อปใช้เน็ตได้",
+      "cefr": "A2",
+      "note_th": "เปิดแชร์เน็ต = turn on the hotspot หรือ tether — คนไทยพูดว่า \"ปล่อยฮอตสปอต\" ฝรั่งพูดว่า share my hotspot",
+      "distractors": [
+        "hot spring",
+        "spotlight",
+        "hot sauce"
+      ]
+    },
+    {
+      "id": "bluetooth",
+      "word": "Bluetooth",
+      "pos": "noun",
+      "ipa": "/ˈbluːtuːθ/",
+      "reading_th": "บลู-ทูธ",
+      "meaning_th": "บลูทูธ",
+      "emoji": "🎧",
+      "example_en": "Pair your earbuds over Bluetooth before the meeting starts.",
+      "example_th": "จับคู่หูฟังผ่านบลูทูธก่อนประชุมเริ่ม",
+      "cefr": "A2",
+      "note_th": "เชื่อมต่ออุปกรณ์บลูทูธใช้ pair ไม่ใช่ connect เฉยๆ — \"pair with\" คือจับคู่ และเขียน B ตัวใหญ่เพราะเป็นชื่อมาตรฐาน",
+      "distractors": [
+        "blueprint",
+        "toothbrush",
+        "wireless"
+      ]
+    },
+    {
+      "id": "usb",
+      "word": "USB",
+      "pos": "noun",
+      "ipa": "/ˌjuː es ˈbiː/",
+      "reading_th": "ยู-เอส-บี",
+      "meaning_th": "ยูเอสบี / แฟลชไดรฟ์",
+      "emoji": "💾",
+      "example_en": "Copy the files to a USB and give it to the client.",
+      "example_th": "ก๊อปไฟล์ลงยูเอสบีแล้วเอาไปให้ลูกค้า",
+      "cefr": "A1",
+      "note_th": "USB จริงๆ คือชื่อมาตรฐานช่องเสียบ แฟลชไดรฟ์ที่คนไทยเรียก \"ยูเอสบี\" ฝรั่งเรียก USB drive หรือ flash drive หรือ thumb drive",
+      "distractors": [
+        "SIM card",
+        "SD card",
+        "CPU"
+      ]
+    },
+    {
+      "id": "hard_drive",
+      "word": "hard drive",
+      "pos": "noun",
+      "ipa": "/ˈhɑːrd draɪv/",
+      "reading_th": "ฮาร์ด ไดรฟ์",
+      "meaning_th": "ฮาร์ดดิสก์ / ที่เก็บข้อมูลในเครื่อง",
+      "emoji": "🗄️",
+      "example_en": "My hard drive is full, so I deleted old videos.",
+      "example_th": "ฮาร์ดดิสก์เต็มแล้ว ฉันเลยลบวิดีโอเก่าทิ้ง",
+      "cefr": "A2",
+      "note_th": "คนไทยเรียกฮาร์ดดิสก์ ฝรั่งเรียก hard drive (หรือ HDD/SSD) — ที่เก็บข้อมูลภายนอกเรียก external hard drive",
+      "distractors": [
+        "hard disk",
+        "drive-through",
+        "hardware"
+      ]
+    },
+    {
+      "id": "processor",
+      "word": "processor",
+      "pos": "noun",
+      "ipa": "/ˈprɑːsesər/",
+      "reading_th": "โพร-เซส-เซอร์",
+      "meaning_th": "หน่วยประมวลผล / ซีพียู",
+      "emoji": "🧠",
+      "example_en": "A faster processor makes the video editing software run smoothly.",
+      "example_th": "หน่วยประมวลผลที่เร็วขึ้นทำให้โปรแกรมตัดต่อวิดีโอทำงานลื่น",
+      "cefr": "B1",
+      "note_th": "processor = CPU สมองของเครื่อง ส่วน process (v.) = ประมวลผล และ processing = กำลังประมวลผล ที่เห็นขึ้นตอนโอนเงิน",
+      "distractors": [
+        "professor",
+        "process",
+        "producer"
+      ]
+    },
+    {
+      "id": "ethernet",
+      "word": "Ethernet",
+      "pos": "noun",
+      "ipa": "/ˈiːθərnet/",
+      "reading_th": "อี-เธอร์-เน็ต",
+      "meaning_th": "อีเทอร์เน็ต / เน็ตแบบสาย LAN",
+      "emoji": "🧵",
+      "example_en": "Use an Ethernet cable for a stable connection during the webinar.",
+      "example_th": "ใช้สายแลนเพื่อให้สัญญาณนิ่งระหว่างเว็บบินาร์",
+      "cefr": "B1",
+      "note_th": "คนไทยเรียก \"สายแลน\" แต่ฝรั่งเรียก Ethernet cable — LAN คือชื่อเครือข่าย ไม่ใช่ชื่อสาย พูด LAN cable ฝรั่งพอเข้าใจแต่ไม่ค่อยใช้",
+      "distractors": [
+        "internet",
+        "intranet",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "id": "software",
+      "word": "software",
+      "pos": "noun",
+      "ipa": "/ˈsɔːftwer/",
+      "reading_th": "ซอฟต์-แวร์",
+      "meaning_th": "ซอฟต์แวร์ / โปรแกรม",
+      "emoji": "💿",
+      "example_en": "The company pays for accounting software every month.",
+      "example_th": "บริษัทจ่ายค่าซอฟต์แวร์บัญชีทุกเดือน",
+      "cefr": "A2",
+      "note_th": "software นับไม่ได้ — ห้ามพูด a software หรือ softwares ให้ใช้ a piece of software หรือ a program/an app แทน",
+      "distractors": [
+        "hardware",
+        "firmware",
+        "sportswear"
+      ]
+    },
+    {
+      "id": "app",
+      "word": "app",
+      "pos": "noun",
+      "ipa": "/æp/",
+      "reading_th": "แอป",
+      "meaning_th": "แอปพลิเคชัน",
+      "emoji": "📲",
+      "example_en": "Our team built an app for ordering lunch.",
+      "example_th": "ทีมเราสร้างแอปสำหรับสั่งข้าวกลางวัน",
+      "cefr": "A1",
+      "note_th": "app ย่อจาก application ใช้ได้ทั้งมือถือและคอม — ราชบัณฑิตให้สะกด \"แอป\" ไม่มี ป.ปลาสองตัว และ web app = แอปที่เปิดในเบราว์เซอร์",
+      "distractors": [
+        "apple",
+        "ad",
+        "apt"
+      ]
+    },
+    {
+      "id": "operating_system",
+      "word": "operating system",
+      "pos": "noun",
+      "ipa": "/ˈɑːpəreɪtɪŋ ˌsɪstəm/",
+      "reading_th": "ออ-เพอ-เร-ติง ซิส-เท็ม",
+      "meaning_th": "ระบบปฏิบัติการ",
+      "emoji": "🪟",
+      "example_en": "Please update your operating system before installing the new app.",
+      "example_th": "กรุณาอัปเดตระบบปฏิบัติการก่อนติดตั้งแอปใหม่",
+      "cefr": "B1",
+      "note_th": "ย่อว่า OS (โอ-เอส) เช่น Windows, macOS, Android, iOS — ตอนฝ่ายซัพพอร์ตถาม \"Which OS are you on?\" คือถามว่าใช้ระบบอะไร",
+      "distractors": [
+        "operation",
+        "solar system",
+        "operator"
+      ]
+    },
+    {
+      "id": "interface",
+      "word": "interface",
+      "pos": "noun",
+      "ipa": "/ˈɪntərfeɪs/",
+      "reading_th": "อิน-เทอร์-เฟซ",
+      "meaning_th": "หน้าจอการใช้งาน / ส่วนติดต่อผู้ใช้",
+      "emoji": "🖼️",
+      "example_en": "The new interface is clean and easy to understand.",
+      "example_th": "หน้าจอการใช้งานใหม่ดูสะอาดและเข้าใจง่าย",
+      "cefr": "B1",
+      "note_th": "user interface ย่อ UI = หน้าตาที่ผู้ใช้เห็นและกด ส่วน UX = ประสบการณ์การใช้ทั้งหมด — ตำแหน่ง UI/UX designer เป็นงานฮิตในไทย",
+      "distractors": [
+        "surface",
+        "interview",
+        "interact"
+      ]
+    },
+    {
+      "id": "version",
+      "word": "version",
+      "pos": "noun",
+      "ipa": "/ˈvɜːrʒn/",
+      "reading_th": "เวอร์-ชัน",
+      "meaning_th": "เวอร์ชัน / รุ่น",
+      "emoji": "🔢",
+      "example_en": "Which version of the app are you using right now?",
+      "example_th": "ตอนนี้คุณใช้แอปเวอร์ชันไหนอยู่",
+      "cefr": "A2",
+      "note_th": "สะกดไทยว่า \"เวอร์ชัน\" (ไม่มี ่) — latest version = รุ่นล่าสุด, outdated version = รุ่นเก่าเกินไป และใช้กับเอกสารได้ด้วย เช่น final version",
+      "distractors": [
+        "vision",
+        "virgin",
+        "diversion"
+      ]
+    },
+    {
+      "id": "feature",
+      "word": "feature",
+      "pos": "noun",
+      "ipa": "/ˈfiːtʃər/",
+      "reading_th": "ฟี-เจอร์",
+      "meaning_th": "ฟีเจอร์ / ฟังก์ชันการใช้งาน",
+      "emoji": "✨",
+      "example_en": "The best feature is that it works offline.",
+      "example_th": "ฟีเจอร์ที่ดีที่สุดคือใช้ได้แบบออฟไลน์",
+      "cefr": "A2",
+      "note_th": "feature = ความสามารถหนึ่งอย่างของแอป ส่วน function = การทำงานในเชิงเทคนิค — new feature ออกมาใน update และ feature request = ลูกค้าขอให้เพิ่มฟีเจอร์",
+      "distractors": [
+        "future",
+        "fixture",
+        "figure"
+      ]
+    },
+    {
+      "id": "compatible",
+      "word": "compatible",
+      "pos": "adjective",
+      "ipa": "/kəmˈpætəbl/",
+      "reading_th": "คอม-แพ-ทิ-เบิล",
+      "meaning_th": "ใช้ร่วมกันได้ / รองรับ",
+      "emoji": "🔗",
+      "example_en": "This printer is not compatible with the new laptops.",
+      "example_th": "เครื่องพิมพ์นี้ใช้ร่วมกับแล็ปท็อปรุ่นใหม่ไม่ได้",
+      "cefr": "B1",
+      "note_th": "compatible with + สิ่งที่ใช้ด้วยกันได้ — ใช้กับคนได้ด้วย: \"We're compatible\" = เข้ากันได้ดี ตรงข้ามคือ incompatible",
+      "distractors": [
+        "comparable",
+        "competitive",
+        "compact"
+      ]
+    },
+    {
+      "id": "default",
+      "word": "default",
+      "pos": "noun",
+      "ipa": "/dɪˈfɔːlt/",
+      "reading_th": "ดี-ฟอลต์",
+      "meaning_th": "ค่าเริ่มต้น / ค่าตั้งต้น",
+      "emoji": "⚙️",
+      "example_en": "English is the default, but you can switch to Thai.",
+      "example_th": "ค่าเริ่มต้นเป็นภาษาอังกฤษ แต่เปลี่ยนเป็นไทยได้",
+      "cefr": "B1",
+      "note_th": "by default = โดยค่าเริ่มต้น เช่น \"Notifications are on by default\" — ในเรื่องเงิน default แปลว่าผิดนัดชำระหนี้ คนละความหมายเลย",
+      "distractors": [
+        "defect",
+        "difficult",
+        "fault"
+      ]
+    },
+    {
+      "id": "plugin",
+      "word": "plugin",
+      "pos": "noun",
+      "ipa": "/ˈplʌɡɪn/",
+      "reading_th": "ปลั๊ก-อิน",
+      "meaning_th": "ปลั๊กอิน / ส่วนเสริมโปรแกรม",
+      "emoji": "🧩",
+      "example_en": "Install the plugin to add a chat box to your website.",
+      "example_th": "ติดตั้งปลั๊กอินเพื่อเพิ่มกล่องแชตในเว็บไซต์ของคุณ",
+      "cefr": "B1",
+      "note_th": "plugin / add-on / extension ความหมายใกล้กันมาก = ของเสริมที่ติดเพิ่มในโปรแกรม — เบราว์เซอร์มักใช้ extension ส่วน WordPress ใช้ plugin",
+      "distractors": [
+        "plug in",
+        "login",
+        "pin"
+      ]
+    },
+    {
+      "id": "sync",
+      "word": "sync",
+      "pos": "verb",
+      "ipa": "/sɪŋk/",
+      "reading_th": "ซิงก์",
+      "meaning_th": "ซิงก์ / ทำให้ข้อมูลตรงกันทุกเครื่อง",
+      "emoji": "🔄",
+      "example_en": "The notes sync across my phone and my laptop automatically.",
+      "example_th": "โน้ตซิงก์ระหว่างมือถือกับแล็ปท็อปของฉันโดยอัตโนมัติ",
+      "cefr": "B1",
+      "note_th": "ย่อจาก synchronize — out of sync = ข้อมูลไม่ตรงกัน และใช้กับทีมได้: \"Let's sync tomorrow\" = คุยอัปเดตกันพรุ่งนี้",
+      "distractors": [
+        "sink",
+        "sing",
+        "link"
+      ]
+    },
+    {
+      "id": "permission",
+      "word": "permission",
+      "pos": "noun",
+      "ipa": "/pərˈmɪʃn/",
+      "reading_th": "เพอร์-มิช-ชัน",
+      "meaning_th": "สิทธิ์การเข้าถึง / การอนุญาต",
+      "emoji": "🔑",
+      "example_en": "The app asks for permission to use your camera.",
+      "example_th": "แอปขอสิทธิ์เข้าถึงกล้องของคุณ",
+      "cefr": "A2",
+      "note_th": "ask for permission = ขออนุญาต, grant permission = ให้สิทธิ์ — ในแอปมือถือคือ popup ที่ถามว่าให้ใช้กล้อง/ตำแหน่งไหม กด Allow หรือ Deny",
+      "distractors": [
+        "permit",
+        "commission",
+        "admission"
+      ]
+    },
+    {
+      "id": "open_source",
+      "word": "open source",
+      "pos": "adjective",
+      "ipa": "/ˌoʊpən ˈsɔːrs/",
+      "reading_th": "โอ-เพน ซอร์ส",
+      "meaning_th": "โอเพนซอร์ส / เปิดโค้ดให้ใช้ฟรี",
+      "emoji": "🐧",
+      "example_en": "We chose open source tools to keep the project cheap.",
+      "example_th": "เราเลือกใช้เครื่องมือโอเพนซอร์สเพื่อให้โปรเจกต์ประหยัด",
+      "cefr": "B2",
+      "note_th": "open source = โค้ดเปิดให้ทุกคนดู แก้ และใช้ได้ (เช่น Linux, Android) — ไม่ได้แปลว่าฟรีเสมอไป ตรงข้ามคือ proprietary (ปิดโค้ด)",
+      "distractors": [
+        "outsource",
+        "resource",
+        "open space"
+      ]
+    },
+    {
+      "id": "upgrade",
+      "word": "upgrade",
+      "pos": "verb",
+      "ipa": "/ˌʌpˈɡreɪd/",
+      "reading_th": "อัป-เกรด",
+      "meaning_th": "อัปเกรด / เปลี่ยนเป็นรุ่นดีขึ้น",
+      "emoji": "⬆️",
+      "example_en": "We should upgrade the server before the busy season.",
+      "example_th": "เราควรอัปเกรดเซิร์ฟเวอร์ก่อนถึงช่วงงานเยอะ",
+      "cefr": "A2",
+      "note_th": "update = อัปเดตแก้บั๊กเล็กน้อยฟรี ส่วน upgrade = เปลี่ยนรุ่นใหญ่หรือแพ็กเกจที่ดีกว่า (มักเสียเงิน) — upgrade to Premium = เปลี่ยนเป็นแพ็กพรีเมียม",
+      "distractors": [
+        "update",
+        "degrade",
+        "upload"
+      ]
+    },
+    {
+      "id": "user_friendly",
+      "word": "user-friendly",
+      "pos": "adjective",
+      "ipa": "/ˌjuːzər ˈfrendli/",
+      "reading_th": "ยู-เซอร์-เฟรนด์-ลี",
+      "meaning_th": "ใช้งานง่าย",
+      "emoji": "😊",
+      "example_en": "Customers love the app because it is so user-friendly.",
+      "example_th": "ลูกค้าชอบแอปนี้เพราะใช้งานง่ายมาก",
+      "cefr": "B1",
+      "note_th": "user-friendly มีขีดกลางเสมอ — คำกลุ่มเดียวกัน: eco-friendly (รักษ์โลก), budget-friendly (ราคาเป็นมิตร), beginner-friendly (เหมาะกับมือใหม่)",
+      "distractors": [
+        "friendly",
+        "useful",
+        "easygoing"
+      ]
+    },
+    {
+      "id": "code",
+      "word": "code",
+      "pos": "noun",
+      "ipa": "/koʊd/",
+      "reading_th": "โค้ด",
+      "meaning_th": "โค้ด / ชุดคำสั่งโปรแกรม",
+      "emoji": "💻",
+      "example_en": "She writes code for a bank in Bangkok.",
+      "example_th": "เธอเขียนโค้ดให้ธนาคารแห่งหนึ่งในกรุงเทพฯ",
+      "cefr": "A2",
+      "note_th": "code นับไม่ได้ในความหมายโปรแกรม: write code, a line of code ไม่ใช่ a code — ส่วน a code นับได้คือรหัส เช่น discount code",
+      "distractors": [
+        "cord",
+        "coat",
+        "node"
+      ]
+    },
+    {
+      "id": "bug",
+      "word": "bug",
+      "pos": "noun",
+      "ipa": "/bʌɡ/",
+      "reading_th": "บั๊ก",
+      "meaning_th": "บั๊ก / ข้อผิดพลาดในโปรแกรม",
+      "emoji": "🐛",
+      "example_en": "There is a bug that logs people out every hour.",
+      "example_th": "มีบั๊กที่ทำให้ผู้ใช้หลุดออกจากระบบทุกชั่วโมง",
+      "cefr": "A2",
+      "note_th": "report a bug = แจ้งบั๊ก, fix a bug = แก้บั๊ก — คำนี้มาจากแมลงจริงๆ ที่เคยติดในเครื่องคอมยุคแรก และ \"It's not a bug, it's a feature\" เป็นมุกโปรแกรมเมอร์",
+      "distractors": [
+        "bag",
+        "bulb",
+        "bat"
+      ]
+    },
+    {
+      "id": "debug",
+      "word": "debug",
+      "pos": "verb",
+      "ipa": "/ˌdiːˈbʌɡ/",
+      "reading_th": "ดี-บั๊ก",
+      "meaning_th": "ดีบั๊ก / ไล่หาและแก้บั๊ก",
+      "emoji": "🔍",
+      "example_en": "I need an hour to debug the login page.",
+      "example_th": "ฉันขอเวลาหนึ่งชั่วโมงดีบั๊กหน้าล็อกอิน",
+      "cefr": "B1",
+      "note_th": "de- แปลว่าเอาออก debug จึง = เอาบั๊กออก — คำแบบเดียวกัน: defrost (ละลายน้ำแข็ง), decode (ถอดรหัส), delete",
+      "distractors": [
+        "debut",
+        "deduct",
+        "decode"
+      ]
+    },
+    {
+      "id": "deploy",
+      "word": "deploy",
+      "pos": "verb",
+      "ipa": "/dɪˈplɔɪ/",
+      "reading_th": "ดิ-พลอย",
+      "meaning_th": "ดีพลอย / นำระบบขึ้นใช้งานจริง",
+      "emoji": "🚀",
+      "example_en": "We deploy the new version every Friday afternoon.",
+      "example_th": "เราดีพลอยเวอร์ชันใหม่ทุกบ่ายวันศุกร์",
+      "cefr": "B2",
+      "note_th": "deploy = เอาโค้ดขึ้นเซิร์ฟเวอร์ให้คนใช้จริง ต่างจาก release ที่เน้นประกาศออกรุ่น — มุกโปรแกรมเมอร์: ห้าม deploy วันศุกร์ เดี๋ยวพังตอนเสาร์",
+      "distractors": [
+        "employ",
+        "display",
+        "destroy"
+      ]
+    },
+    {
+      "id": "developer",
+      "word": "developer",
+      "pos": "noun",
+      "ipa": "/dɪˈveləpər/",
+      "reading_th": "ดิ-เว-เลอ-เปอร์",
+      "meaning_th": "นักพัฒนาโปรแกรม / โปรแกรมเมอร์",
+      "emoji": "👨‍💻",
+      "example_en": "We are hiring a developer who knows Flutter.",
+      "example_th": "เรากำลังรับนักพัฒนาที่เขียน Flutter เป็น",
+      "cefr": "A2",
+      "note_th": "เรียกสั้นๆ ว่า dev — software developer ใกล้เคียง programmer แต่ฟังดูเป็นทางการกว่า ส่วน property developer คือบริษัทสร้างคอนโด คนละอาชีพ",
+      "distractors": [
+        "designer",
+        "deliverer",
+        "development"
+      ]
+    },
+    {
+      "id": "variable",
+      "word": "variable",
+      "pos": "noun",
+      "ipa": "/ˈveriəbl/",
+      "reading_th": "แว-ริ-อะ-เบิล",
+      "meaning_th": "ตัวแปร",
+      "emoji": "🅧",
+      "example_en": "Store the user's name in a variable called username.",
+      "example_th": "เก็บชื่อผู้ใช้ไว้ในตัวแปรชื่อ username",
+      "cefr": "B1",
+      "note_th": "variable = กล่องเก็บค่าที่เปลี่ยนได้ ส่วน constant = ค่าคงที่ — เป็นคำแรกที่ทุกคอร์สเขียนโปรแกรมสอน และยังใช้ในสถิติ/คณิตด้วย",
+      "distractors": [
+        "valuable",
+        "various",
+        "vegetable"
+      ]
+    },
+    {
+      "id": "function",
+      "word": "function",
+      "pos": "noun",
+      "ipa": "/ˈfʌŋkʃn/",
+      "reading_th": "ฟังก์-ชัน",
+      "meaning_th": "ฟังก์ชัน / ชุดคำสั่งที่เรียกใช้ซ้ำได้",
+      "emoji": "🧮",
+      "example_en": "Write a function that calculates the total price.",
+      "example_th": "เขียนฟังก์ชันที่คำนวณราคารวม",
+      "cefr": "B1",
+      "note_th": "ในโค้ด function = กลุ่มคำสั่งที่ตั้งชื่อแล้วเรียกใช้ซ้ำได้ ส่วนในชีวิตทั่วไป function (v.) = ทำงาน เช่น \"The lift isn't functioning\" = ลิฟต์ใช้งานไม่ได้",
+      "distractors": [
+        "fraction",
+        "junction",
+        "fiction"
+      ]
+    },
+    {
+      "id": "loop",
+      "word": "loop",
+      "pos": "noun",
+      "ipa": "/luːp/",
+      "reading_th": "ลูป",
+      "meaning_th": "ลูป / การวนซ้ำ",
+      "emoji": "🔁",
+      "example_en": "The loop sends an email to every customer on the list.",
+      "example_th": "ลูปนี้ส่งอีเมลหาลูกค้าทุกคนในรายชื่อ",
+      "cefr": "B1",
+      "note_th": "คำสั่งวนซ้ำ (for loop, while loop) — นอกวงการโค้ด \"keep me in the loop\" = ช่วยอัปเดตเรื่องนี้ให้ฉันรู้ด้วย เป็นวลีออฟฟิศที่ใช้บ่อยมาก",
+      "distractors": [
+        "loose",
+        "hoop",
+        "pool"
+      ]
+    },
+    {
+      "id": "syntax",
+      "word": "syntax",
+      "pos": "noun",
+      "ipa": "/ˈsɪntæks/",
+      "reading_th": "ซิน-แท็กซ์",
+      "meaning_th": "ไวยากรณ์ของภาษาโปรแกรม",
+      "emoji": "📐",
+      "example_en": "A missing bracket causes a syntax error.",
+      "example_th": "วงเล็บหายไปตัวเดียวทำให้เกิดข้อผิดพลาดทางไวยากรณ์",
+      "cefr": "B2",
+      "note_th": "syntax error = เขียนผิดกฎของภาษา โปรแกรมรันไม่ได้เลย ส่วน logic error = รันได้แต่ผลผิด — คำนี้ใช้กับไวยากรณ์ภาษาคนในวิชาภาษาศาสตร์ด้วย",
+      "distractors": [
+        "syntax error",
+        "tax",
+        "symptom"
+      ]
+    },
+    {
+      "id": "compile",
+      "word": "compile",
+      "pos": "verb",
+      "ipa": "/kəmˈpaɪl/",
+      "reading_th": "คอม-ไพล์",
+      "meaning_th": "คอมไพล์ / แปลงโค้ดให้เครื่องรันได้",
+      "emoji": "🏗️",
+      "example_en": "It takes five minutes to compile the whole app.",
+      "example_th": "ใช้เวลาห้านาทีในการคอมไพล์แอปทั้งตัว",
+      "cefr": "B2",
+      "note_th": "compile = แปลงโค้ดที่คนอ่านออกเป็นไฟล์ที่เครื่องรันได้ — ความหมายทั่วไปคือรวบรวม เช่น compile a report = รวบรวมข้อมูลทำรายงาน",
+      "distractors": [
+        "complete",
+        "compare",
+        "comply"
+      ]
+    },
+    {
+      "id": "command",
+      "word": "command",
+      "pos": "noun",
+      "ipa": "/kəˈmænd/",
+      "reading_th": "คอม-มานด์",
+      "meaning_th": "คำสั่ง (ที่พิมพ์ให้เครื่องทำ)",
+      "emoji": "⌨️",
+      "example_en": "Type the command and press Enter to start the server.",
+      "example_th": "พิมพ์คำสั่งแล้วกด Enter เพื่อสตาร์ตเซิร์ฟเวอร์",
+      "cefr": "B1",
+      "note_th": "command = คำสั่งที่พิมพ์ในหน้าจอดำ (command line / terminal) ส่วน order = คำสั่งซื้อหรือสั่งอาหาร — ปุ่ม Cmd บน Mac ก็ย่อจาก command",
+      "distractors": [
+        "comment",
+        "commend",
+        "common"
+      ]
+    },
+    {
+      "id": "framework",
+      "word": "framework",
+      "pos": "noun",
+      "ipa": "/ˈfreɪmwɜːrk/",
+      "reading_th": "เฟรม-เวิร์ก",
+      "meaning_th": "เฟรมเวิร์ก / โครงสำเร็จรูปสำหรับเขียนโปรแกรม",
+      "emoji": "🧱",
+      "example_en": "Flutter is a framework for building mobile apps.",
+      "example_th": "Flutter เป็นเฟรมเวิร์กสำหรับสร้างแอปมือถือ",
+      "cefr": "B2",
+      "note_th": "framework = โครงพร้อมใช้ที่ช่วยให้เขียนแอปเร็วขึ้น (React, Flutter, Laravel) — ในธุรกิจก็ใช้: a framework for decision-making = กรอบแนวคิดในการตัดสินใจ",
+      "distractors": [
+        "homework",
+        "firmware",
+        "network"
+      ]
+    },
+    {
+      "id": "repository",
+      "word": "repository",
+      "pos": "noun",
+      "ipa": "/rɪˈpɑːzətɔːri/",
+      "reading_th": "ริ-พอ-ซิ-ทอ-รี",
+      "meaning_th": "ที่เก็บโค้ดของโปรเจกต์",
+      "emoji": "📦",
+      "example_en": "Push your changes to the repository before you leave today.",
+      "example_th": "ส่งโค้ดที่แก้ขึ้นที่เก็บโค้ดก่อนกลับบ้านวันนี้",
+      "cefr": "B2",
+      "note_th": "เรียกสั้นๆ ว่า repo (รี-โพ) — GitHub คือเว็บเก็บ repo ที่ดังที่สุด คำสั่งที่ได้ยินบ่อย: clone, commit, push, pull",
+      "distractors": [
+        "repertoire",
+        "depository",
+        "directory"
+      ]
+    },
+    {
+      "id": "front_end",
+      "word": "front end",
+      "pos": "noun",
+      "ipa": "/ˈfrʌnt end/",
+      "reading_th": "ฟรอนต์ เอนด์",
+      "meaning_th": "ฝั่งหน้าบ้าน / ส่วนที่ผู้ใช้เห็น",
+      "emoji": "🎨",
+      "example_en": "She works on the front end, so she designs what users see.",
+      "example_th": "เธอทำฝั่งหน้าบ้าน เลยเป็นคนออกแบบสิ่งที่ผู้ใช้เห็น",
+      "cefr": "B2",
+      "note_th": "front end = ส่วนที่ผู้ใช้เห็นและกด (หน้าเว็บ หน้าแอป) ส่วน back end = เซิร์ฟเวอร์และฐานข้อมูลที่อยู่เบื้องหลัง คนที่ทำได้ทั้งสองฝั่งเรียก full stack",
+      "distractors": [
+        "back end",
+        "front desk",
+        "front row"
+      ]
+    },
+    {
+      "id": "database",
+      "word": "database",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtəbeɪs/",
+      "reading_th": "เด-ตา-เบส",
+      "meaning_th": "ฐานข้อมูล",
+      "emoji": "🗃️",
+      "example_en": "Every order is saved in the database the moment you pay.",
+      "example_th": "ทุกคำสั่งซื้อถูกบันทึกลงฐานข้อมูลทันทีที่คุณจ่ายเงิน",
+      "cefr": "B1",
+      "note_th": "database = ระบบเก็บข้อมูลที่ค้นหาได้ ส่วน spreadsheet คือตารางธรรมดา — ย่อว่า DB และคนดูแลเรียก database administrator (DBA)",
+      "distractors": [
+        "data",
+        "dataset",
+        "base"
+      ]
+    },
+    {
+      "id": "cloud",
+      "word": "cloud",
+      "pos": "noun",
+      "ipa": "/klaʊd/",
+      "reading_th": "คลาวด์",
+      "meaning_th": "คลาวด์ / เก็บข้อมูลบนอินเทอร์เน็ต",
+      "emoji": "☁️",
+      "example_en": "All our files live in the cloud, not on one computer.",
+      "example_th": "ไฟล์ทั้งหมดของเราอยู่บนคลาวด์ ไม่ได้อยู่ในคอมเครื่องเดียว",
+      "cefr": "A2",
+      "note_th": "the cloud = เซิร์ฟเวอร์ของคนอื่นที่เราเช่าผ่านเน็ต (Google Drive, iCloud) — ใช้ in the cloud ไม่ใช่ on the cloud และ cloud storage = พื้นที่เก็บไฟล์บนคลาวด์",
+      "distractors": [
+        "crowd",
+        "cloudy",
+        "clown"
+      ]
+    },
+    {
+      "id": "backup",
+      "word": "backup",
+      "pos": "noun",
+      "ipa": "/ˈbækʌp/",
+      "reading_th": "แบ็ก-อัป",
+      "meaning_th": "ข้อมูลสำรอง",
+      "emoji": "💽",
+      "example_en": "Make a backup before you delete anything on the server.",
+      "example_th": "ทำข้อมูลสำรองก่อนลบอะไรบนเซิร์ฟเวอร์",
+      "cefr": "A2",
+      "note_th": "backup (น.) เขียนติดกัน ส่วน back up (ก.) แยกกัน: \"Back up your phone tonight\" — ยังหมายถึงกำลังเสริม/ตัวสำรองในทีมได้ด้วย",
+      "distractors": [
+        "back up",
+        "backpack",
+        "backlog"
+      ]
+    },
+    {
+      "id": "data_center",
+      "word": "data center",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtə ˌsentər/",
+      "reading_th": "เด-ตา เซน-เตอร์",
+      "meaning_th": "ศูนย์ข้อมูล / ตึกเก็บเซิร์ฟเวอร์",
+      "emoji": "🏢",
+      "example_en": "The company opened a data center near Bangkok last year.",
+      "example_th": "บริษัทเปิดศูนย์ข้อมูลใกล้กรุงเทพฯ เมื่อปีที่แล้ว",
+      "cefr": "B1",
+      "note_th": "data center = ตึกที่วางเซิร์ฟเวอร์เป็นพันเครื่อง คลาวด์ทุกเจ้าทำงานจากที่นี่ — สะกด center (อเมริกัน) หรือ centre (อังกฤษ) ได้ทั้งคู่",
+      "distractors": [
+        "call center",
+        "shopping center",
+        "database"
+      ]
+    },
+    {
+      "id": "spreadsheet",
+      "word": "spreadsheet",
+      "pos": "noun",
+      "ipa": "/ˈspredʃiːt/",
+      "reading_th": "สเปรด-ชีต",
+      "meaning_th": "ตารางคำนวณ (Excel)",
+      "emoji": "📊",
+      "example_en": "Put the monthly sales in a spreadsheet so we can compare them.",
+      "example_th": "ใส่ยอดขายรายเดือนลงตารางคำนวณเพื่อให้เราเทียบกันได้",
+      "cefr": "B1",
+      "note_th": "คนไทยเรียก \"ไฟล์เอ็กเซล\" แต่ชื่อกลางคือ spreadsheet (Excel, Google Sheets) — หนึ่งหน้าในไฟล์เรียก sheet หรือ tab และช่องเรียก cell",
+      "distractors": [
+        "bedsheet",
+        "worksheet",
+        "spread"
+      ]
+    },
+    {
+      "id": "dashboard",
+      "word": "dashboard",
+      "pos": "noun",
+      "ipa": "/ˈdæʃbɔːrd/",
+      "reading_th": "แดช-บอร์ด",
+      "meaning_th": "แดชบอร์ด / หน้าสรุปข้อมูล",
+      "emoji": "📈",
+      "example_en": "The dashboard shows how many users signed up today.",
+      "example_th": "แดชบอร์ดแสดงว่าวันนี้มีผู้ใช้สมัครกี่คน",
+      "cefr": "B1",
+      "note_th": "เดิมแปลว่าแผงหน้ารถ ตอนนี้ใช้กับหน้าจอรวมกราฟและตัวเลขสำคัญ — ผู้บริหารไทยชอบถามหา \"แดชบอร์ด\" เวลาอยากเห็นภาพรวมทีเดียว",
+      "distractors": [
+        "whiteboard",
+        "keyboard",
+        "billboard"
+      ]
+    },
+    {
+      "id": "analytics",
+      "word": "analytics",
+      "pos": "noun",
+      "ipa": "/ˌænəˈlɪtɪks/",
+      "reading_th": "อะ-นะ-ลิ-ติกส์",
+      "meaning_th": "การวิเคราะห์ข้อมูล / สถิติการใช้งาน",
+      "emoji": "🔬",
+      "example_en": "Our analytics show that most customers shop at night.",
+      "example_th": "ข้อมูลวิเคราะห์ของเราบอกว่าลูกค้าส่วนใหญ่ช้อปตอนกลางคืน",
+      "cefr": "B2",
+      "note_th": "analytics ลงท้าย s แต่ใช้เป็นหัวข้อเดียว (เหมือน economics) — Google Analytics คือเครื่องมือดูสถิติเว็บ ส่วน analysis = การวิเคราะห์หนึ่งครั้ง",
+      "distractors": [
+        "analysis",
+        "athletics",
+        "analyst"
+      ]
+    },
+    {
+      "id": "storage",
+      "word": "storage",
+      "pos": "noun",
+      "ipa": "/ˈstɔːrɪdʒ/",
+      "reading_th": "สตอ-เรจ",
+      "meaning_th": "พื้นที่เก็บข้อมูล",
+      "emoji": "🗜️",
+      "example_en": "My phone says the storage is almost full again.",
+      "example_th": "มือถือขึ้นเตือนว่าพื้นที่เก็บข้อมูลเกือบเต็มอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "storage = พื้นที่เก็บไฟล์ถาวร (ความจุ 128 GB) ส่วน memory/RAM = หน่วยความจำที่ใช้ตอนเครื่องทำงาน คนไทยมักเรียกรวมว่า \"เมม\" ซึ่งฝรั่งงง",
+      "distractors": [
+        "store",
+        "stage",
+        "shortage"
+      ]
+    },
+    {
+      "id": "api",
+      "word": "API",
+      "pos": "noun",
+      "ipa": "/ˌeɪ piː ˈaɪ/",
+      "reading_th": "เอ-พี-ไอ",
+      "meaning_th": "ช่องทางให้โปรแกรมคุยกัน",
+      "emoji": "🔌",
+      "example_en": "The app uses the bank's API to check your balance.",
+      "example_th": "แอปใช้ API ของธนาคารเพื่อเช็กยอดเงินของคุณ",
+      "cefr": "B2",
+      "note_th": "API (Application Programming Interface) = ประตูที่ให้โปรแกรมอื่นมาขอข้อมูลหรือสั่งงาน — เวลาแอปไทยเชื่อมกับ LINE หรือธนาคารก็ผ่าน API ทั้งนั้น",
+      "distractors": [
+        "app",
+        "UI",
+        "URL"
+      ]
+    },
+    {
+      "id": "query",
+      "word": "query",
+      "pos": "noun",
+      "ipa": "/ˈkwɪri/",
+      "reading_th": "ควี-รี",
+      "meaning_th": "คำสั่งค้นหาข้อมูล",
+      "emoji": "🔎",
+      "example_en": "This query finds every customer who bought something last week.",
+      "example_th": "คำสั่งค้นหานี้หาลูกค้าทุกคนที่ซื้อของเมื่อสัปดาห์ก่อน",
+      "cefr": "B2",
+      "note_th": "query = คำสั่งถามฐานข้อมูล (ภาษา SQL) หรือคำค้นที่พิมพ์ใน Google (search query) — ในอีเมลธุรกิจ query ยังแปลว่าข้อสงสัย เช่น \"If you have any queries\"",
+      "distractors": [
+        "quarry",
+        "queue",
+        "question"
+      ]
+    },
+    {
+      "id": "big_data",
+      "word": "big data",
+      "pos": "noun",
+      "ipa": "/ˌbɪɡ ˈdeɪtə/",
+      "reading_th": "บิ๊ก เด-ตา",
+      "meaning_th": "บิ๊กดาต้า / ข้อมูลมหาศาล",
+      "emoji": "🌊",
+      "example_en": "Big data helps the airline guess which flights will sell out.",
+      "example_th": "บิ๊กดาต้าช่วยสายการบินเดาได้ว่าเที่ยวบินไหนจะขายหมด",
+      "cefr": "B2",
+      "note_th": "big data = ข้อมูลเยอะและหลากหลายจนคอมธรรมดาจัดการไม่ไหว — คำนี้ฮิตในไทยมาก แต่บ่อยครั้งที่คนพูดจริงๆ หมายถึงแค่ \"มีข้อมูลเยอะ\"",
+      "distractors": [
+        "database",
+        "metadata",
+        "big deal"
+      ]
+    },
+    {
+      "id": "cache",
+      "word": "cache",
+      "pos": "noun",
+      "ipa": "/kæʃ/",
+      "reading_th": "แคช",
+      "meaning_th": "แคช / ข้อมูลที่เก็บไว้ให้โหลดเร็ว",
+      "emoji": "⚡",
+      "example_en": "Clear the cache if the website still shows the old price.",
+      "example_th": "ล้างแคชถ้าเว็บยังแสดงราคาเก่าอยู่",
+      "cefr": "B2",
+      "note_th": "cache ออกเสียงเหมือน cash (เงินสด) เป๊ะ — clear the cache เป็นวิธีแก้ปัญหาเว็บ/แอปที่ฝ่ายซัพพอร์ตแนะนำบ่อยที่สุดรองจากรีสตาร์ต",
+      "distractors": [
+        "cash",
+        "catch",
+        "cachet"
+      ]
+    },
+    {
+      "id": "real_time",
+      "word": "real-time",
+      "pos": "adjective",
+      "ipa": "/ˌriːl ˈtaɪm/",
+      "reading_th": "เรียล-ไทม์",
+      "meaning_th": "แบบทันที / ตามเวลาจริง",
+      "emoji": "⏱️",
+      "example_en": "The map gives real-time updates on where the driver is.",
+      "example_th": "แผนที่อัปเดตตำแหน่งคนขับแบบเรียลไทม์",
+      "cefr": "B1",
+      "note_th": "real-time (adj.) มีขีดกลางเมื่อวางหน้าคำนาม: real-time data แต่ถ้าวางท้ายประโยคเขียน in real time ไม่มีขีด",
+      "distractors": [
+        "full-time",
+        "on time",
+        "realistic"
+      ]
+    },
+    {
+      "id": "archive",
+      "word": "archive",
+      "pos": "verb",
+      "ipa": "/ˈɑːrkaɪv/",
+      "reading_th": "อาร์-ไคฟ์",
+      "meaning_th": "เก็บเข้าคลัง / ย้ายไปเก็บถาวร",
+      "emoji": "🗂️",
+      "example_en": "We archive old emails instead of deleting them.",
+      "example_th": "เราเก็บอีเมลเก่าเข้าคลังแทนที่จะลบทิ้ง",
+      "cefr": "B1",
+      "note_th": "archive = ซ่อนจากหน้าหลักแต่ยังเก็บไว้ ต่างจาก delete ที่ลบทิ้ง — ปุ่ม Archive ใน Gmail และ Instagram ทำแบบนี้ และออกเสียง ch เป็น ค ไม่ใช่ ช",
+      "distractors": [
+        "achieve",
+        "arrive",
+        "active"
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "word": "cybersecurity",
+      "pos": "noun",
+      "ipa": "/ˌsaɪbərsɪˈkjʊrəti/",
+      "reading_th": "ไซ-เบอร์-ซิ-เคียว-ริ-ตี",
+      "meaning_th": "ความปลอดภัยไซเบอร์",
+      "emoji": "🛡️",
+      "example_en": "Every employee must take the cybersecurity course this month.",
+      "example_th": "พนักงานทุกคนต้องเรียนคอร์สความปลอดภัยไซเบอร์เดือนนี้",
+      "cefr": "B1",
+      "note_th": "cyber- = เกี่ยวกับโลกออนไลน์ (cyberbullying, cybercrime) — security ออกเสียง \"ซิ-เคียว-ริ-ตี\" ไม่ใช่ \"ซี-เคียว\" และคำนี้นับไม่ได้",
+      "distractors": [
+        "cybercrime",
+        "security guard",
+        "cyberspace"
+      ]
+    },
+    {
+      "id": "hacker",
+      "word": "hacker",
+      "pos": "noun",
+      "ipa": "/ˈhækər/",
+      "reading_th": "แฮก-เกอร์",
+      "meaning_th": "แฮกเกอร์ / ผู้เจาะระบบ",
+      "emoji": "🕵️",
+      "example_en": "A hacker stole thousands of passwords from the website.",
+      "example_th": "แฮกเกอร์ขโมยรหัสผ่านหลายพันชุดจากเว็บไซต์",
+      "cefr": "A2",
+      "note_th": "hack (v.) = เจาะระบบ, hacker = คนทำ — แต่ life hack = เคล็ดลับทำชีวิตง่ายขึ้น ไม่ใช่เรื่องผิดกฎหมาย ส่วนแฮกเกอร์สายดีเรียก ethical hacker",
+      "distractors": [
+        "hawker",
+        "hiker",
+        "cracker"
+      ]
+    },
+    {
+      "id": "malware",
+      "word": "malware",
+      "pos": "noun",
+      "ipa": "/ˈmælwer/",
+      "reading_th": "มัล-แวร์",
+      "meaning_th": "มัลแวร์ / โปรแกรมประสงค์ร้าย",
+      "emoji": "☠️",
+      "example_en": "Do not open the file; it may contain malware.",
+      "example_th": "อย่าเปิดไฟล์นั้น มันอาจมีมัลแวร์",
+      "cefr": "B1",
+      "note_th": "malware ย่อจาก malicious software = คำรวมของโปรแกรมร้ายทุกชนิด (virus, ransomware, spyware เป็นมัลแวร์หมด) — mal- แปลว่าร้าย เหมือน malfunction",
+      "distractors": [
+        "software",
+        "mall",
+        "firmware"
+      ]
+    },
+    {
+      "id": "virus",
+      "word": "virus",
+      "pos": "noun",
+      "ipa": "/ˈvaɪrəs/",
+      "reading_th": "ไว-รัส",
+      "meaning_th": "ไวรัสคอมพิวเตอร์",
+      "emoji": "🦠",
+      "example_en": "My laptop got a virus from a free movie website.",
+      "example_th": "แล็ปท็อปฉันติดไวรัสจากเว็บดูหนังฟรี",
+      "cefr": "A2",
+      "note_th": "ติดไวรัส = get a virus หรือ be infected — ภาษาอังกฤษออกเสียง \"ไว-รัส\" ไม่ใช่ \"วิ-รัส\" และคำนี้ใช้กับไวรัสโรคได้เหมือนกัน",
+      "distractors": [
+        "virtual",
+        "versus",
+        "various"
+      ]
+    },
+    {
+      "id": "firewall",
+      "word": "firewall",
+      "pos": "noun",
+      "ipa": "/ˈfaɪərwɔːl/",
+      "reading_th": "ไฟร์-วอลล์",
+      "meaning_th": "ไฟร์วอลล์ / กำแพงกันผู้บุกรุก",
+      "emoji": "🧱",
+      "example_en": "The firewall blocked the website, so ask IT to open it.",
+      "example_th": "ไฟร์วอลล์บล็อกเว็บนั้นไว้ ลองขอให้ไอทีเปิดให้",
+      "cefr": "B1",
+      "note_th": "firewall = ระบบกรองว่าอะไรเข้าออกเครือข่ายได้ ชื่อมาจากกำแพงกันไฟลามในตึก — ออฟฟิศไทยหลายที่บล็อกเว็บเกมหรือโซเชียลด้วยไฟร์วอลล์นี่แหละ",
+      "distractors": [
+        "fireworks",
+        "wall",
+        "firefighter"
+      ]
+    },
+    {
+      "id": "encrypt",
+      "word": "encrypt",
+      "pos": "verb",
+      "ipa": "/ɪnˈkrɪpt/",
+      "reading_th": "เอ็น-คริปต์",
+      "meaning_th": "เข้ารหัสข้อมูล",
+      "emoji": "🔒",
+      "example_en": "Always encrypt customer data before you send it by email.",
+      "example_th": "เข้ารหัสข้อมูลลูกค้าทุกครั้งก่อนส่งทางอีเมล",
+      "cefr": "B2",
+      "note_th": "encrypt = แปลงข้อมูลเป็นรหัสที่คนไม่มีกุญแจอ่านไม่ออก ตรงข้ามคือ decrypt — end-to-end encryption ใน LINE/WhatsApp แปลว่าแม้แต่บริษัทก็อ่านไม่ได้",
+      "distractors": [
+        "decrypt",
+        "script",
+        "encourage"
+      ]
+    },
+    {
+      "id": "data_breach",
+      "word": "data breach",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtə briːtʃ/",
+      "reading_th": "เด-ตา บรีช",
+      "meaning_th": "ข้อมูลรั่วไหล",
+      "emoji": "🚨",
+      "example_en": "After the data breach, the bank told everyone to change their passwords.",
+      "example_th": "หลังข้อมูลรั่วไหล ธนาคารแจ้งให้ทุกคนเปลี่ยนรหัสผ่าน",
+      "cefr": "B2",
+      "note_th": "breach = การละเมิด/ทะลุเข้ามา data breach คือข้อมูลหลุดออกไปโดยไม่ได้รับอนุญาต — ข่าวข้อมูลคนไทยหลุดจากหน่วยงานต่างๆ ใช้คำนี้ทั้งนั้น",
+      "distractors": [
+        "data leak",
+        "beach",
+        "breath"
+      ]
+    },
+    {
+      "id": "authentication",
+      "word": "authentication",
+      "pos": "noun",
+      "ipa": "/ɔːˌθentɪˈkeɪʃn/",
+      "reading_th": "ออ-เธน-ทิ-เค-ชัน",
+      "meaning_th": "การยืนยันตัวตน",
+      "emoji": "🪪",
+      "example_en": "The bank app uses face authentication instead of a password.",
+      "example_th": "แอปธนาคารใช้การยืนยันตัวตนด้วยใบหน้าแทนรหัสผ่าน",
+      "cefr": "B2",
+      "note_th": "authentication = พิสูจน์ว่าคุณเป็นคุณจริง (รหัส, ใบหน้า, OTP) ส่วน authorization = ตรวจว่าคุณมีสิทธิ์ทำอะไร — ย่อว่า auth ในวงการ",
+      "distractors": [
+        "authorization",
+        "authority",
+        "automation"
+      ]
+    },
+    {
+      "id": "ransomware",
+      "word": "ransomware",
+      "pos": "noun",
+      "ipa": "/ˈrænsəmwer/",
+      "reading_th": "แรน-ซัม-แวร์",
+      "meaning_th": "มัลแวร์เรียกค่าไถ่",
+      "emoji": "💰",
+      "example_en": "Ransomware locked every file in the hospital until they paid.",
+      "example_th": "แรนซัมแวร์ล็อกไฟล์ทุกไฟล์ของโรงพยาบาลจนกว่าจะจ่ายเงิน",
+      "cefr": "B2",
+      "note_th": "ransom = ค่าไถ่ ransomware จึงล็อกไฟล์แล้วเรียกเงิน (มักเป็นคริปโต) — โรงพยาบาลและหน่วยงานไทยโดนบ่อย วิธีกันที่ดีที่สุดคือ backup",
+      "distractors": [
+        "ransom",
+        "spyware",
+        "random"
+      ]
+    },
+    {
+      "id": "patch",
+      "word": "patch",
+      "pos": "noun",
+      "ipa": "/pætʃ/",
+      "reading_th": "แพตช์",
+      "meaning_th": "แพตช์ / ตัวแก้ช่องโหว่",
+      "emoji": "🩹",
+      "example_en": "Install the security patch today; it closes a dangerous hole.",
+      "example_th": "ติดตั้งแพตช์ความปลอดภัยวันนี้เลย มันปิดช่องโหว่อันตราย",
+      "cefr": "B1",
+      "note_th": "patch เดิมคือแผ่นปะผ้าขาด ในไอทีคือโค้ดชิ้นเล็กที่ปะช่องโหว่ — เกมเมอร์เรียก patch note = รายการที่แก้ในอัปเดตครั้งนี้",
+      "distractors": [
+        "match",
+        "pitch",
+        "batch"
+      ]
+    },
+    {
+      "id": "vulnerability",
+      "word": "vulnerability",
+      "pos": "noun",
+      "ipa": "/ˌvʌlnərəˈbɪləti/",
+      "reading_th": "วัล-เนอ-ระ-บิ-ลิ-ตี",
+      "meaning_th": "ช่องโหว่ / จุดอ่อนของระบบ",
+      "emoji": "🕳️",
+      "example_en": "The team found a vulnerability that let anyone read private messages.",
+      "example_th": "ทีมพบช่องโหว่ที่ทำให้ใครก็อ่านข้อความส่วนตัวได้",
+      "cefr": "B2",
+      "note_th": "vulnerable (adj.) = เปราะบาง/โดนโจมตีได้ง่าย ใช้ได้ทั้งระบบและคน — บริษัทใหญ่จ่ายเงินให้คนหาช่องโหว่เรียกว่า bug bounty",
+      "distractors": [
+        "visibility",
+        "ability",
+        "liability"
+      ]
+    },
+    {
+      "id": "antivirus",
+      "word": "antivirus",
+      "pos": "noun",
+      "ipa": "/ˌæntiˈvaɪrəs/",
+      "reading_th": "แอน-ติ-ไว-รัส",
+      "meaning_th": "โปรแกรมป้องกันไวรัส",
+      "emoji": "🧯",
+      "example_en": "Keep your antivirus updated or it cannot catch new threats.",
+      "example_th": "อัปเดตโปรแกรมป้องกันไวรัสเสมอ ไม่งั้นมันจับภัยใหม่ไม่ได้",
+      "cefr": "A2",
+      "note_th": "anti- = ต่อต้าน (antibiotic, anti-aging) — antivirus software หรือ antivirus program เป็นคำเต็ม ยุคนี้มักพูดรวมว่า security software",
+      "distractors": [
+        "antibiotic",
+        "antique",
+        "virus"
+      ]
+    },
+    {
+      "id": "vpn",
+      "word": "VPN",
+      "pos": "noun",
+      "ipa": "/ˌviː piː ˈen/",
+      "reading_th": "วี-พี-เอ็น",
+      "meaning_th": "เครือข่ายส่วนตัวเสมือน / อุโมงค์เน็ตที่ปลอดภัย",
+      "emoji": "🛡️",
+      "example_en": "Connect to the VPN before you open company files from home.",
+      "example_th": "ต่อ VPN ก่อนเปิดไฟล์บริษัทจากที่บ้าน",
+      "cefr": "B1",
+      "note_th": "VPN (Virtual Private Network) = ท่อเข้ารหัสที่ทำให้เหมือนนั่งอยู่ในออฟฟิศ — คนไทยรู้จักจากการใช้ดูหนังต่างประเทศ แต่ที่ทำงานใช้เพื่อความปลอดภัย",
+      "distractors": [
+        "VIP",
+        "PIN",
+        "Wi-Fi"
+      ]
+    },
+    {
+      "id": "access",
+      "word": "access",
+      "pos": "noun",
+      "ipa": "/ˈækses/",
+      "reading_th": "แอ็ก-เซส",
+      "meaning_th": "สิทธิ์เข้าใช้ / การเข้าถึง",
+      "emoji": "🚪",
+      "example_en": "Only managers have access to the salary files.",
+      "example_th": "มีแค่ผู้จัดการที่มีสิทธิ์เข้าถึงไฟล์เงินเดือน",
+      "cefr": "B1",
+      "note_th": "have access to = เข้าถึงได้, grant/revoke access = ให้/ถอนสิทธิ์ — เป็นกริยาได้ด้วยโดยไม่ต้องมี to: access the file (ไม่ใช่ access to the file)",
+      "distractors": [
+        "excess",
+        "assess",
+        "success"
+      ]
+    },
+    {
+      "id": "artificial_intelligence",
+      "word": "artificial intelligence",
+      "pos": "noun",
+      "ipa": "/ˌɑːrtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+      "reading_th": "อาร์-ติ-ฟิ-เชียล อิน-เทล-ลิ-เจนซ์",
+      "meaning_th": "ปัญญาประดิษฐ์ (AI)",
+      "emoji": "🤖",
+      "example_en": "Artificial intelligence now answers half of our customer questions.",
+      "example_th": "ตอนนี้ปัญญาประดิษฐ์ตอบคำถามลูกค้าเราได้ครึ่งหนึ่งแล้ว",
+      "cefr": "B1",
+      "note_th": "พูดสั้นๆ ว่า AI (เอ-ไอ) ได้เลย — artificial = เทียม/ประดิษฐ์ (artificial flowers = ดอกไม้ปลอม) และ generative AI = AI ที่สร้างข้อความหรือภาพใหม่ได้",
+      "distractors": [
+        "artificial flowers",
+        "official",
+        "intelligent"
+      ]
+    },
+    {
+      "id": "chatbot",
+      "word": "chatbot",
+      "pos": "noun",
+      "ipa": "/ˈtʃætbɑːt/",
+      "reading_th": "แชต-บอต",
+      "meaning_th": "แชตบอต / โปรแกรมตอบแชตอัตโนมัติ",
+      "emoji": "💬",
+      "example_en": "The chatbot can book a table for you in Thai or English.",
+      "example_th": "แชตบอตจองโต๊ะให้คุณได้ทั้งภาษาไทยและอังกฤษ",
+      "cefr": "A2",
+      "note_th": "chatbot = บอตที่คุยผ่านข้อความ (ChatGPT, บอตตอบ LINE OA) — สะกดไทยว่า \"แชต\" ไม่ใช่ \"แชท\" ตามราชบัณฑิต",
+      "distractors": [
+        "chat room",
+        "robot",
+        "group chat"
+      ]
+    },
+    {
+      "id": "machine_learning",
+      "word": "machine learning",
+      "pos": "noun",
+      "ipa": "/məˌʃiːn ˈlɜːrnɪŋ/",
+      "reading_th": "มะ-ชีน เลิร์น-นิง",
+      "meaning_th": "การเรียนรู้ของเครื่อง",
+      "emoji": "🧠",
+      "example_en": "Machine learning helps the bank spot unusual spending on your card.",
+      "example_th": "การเรียนรู้ของเครื่องช่วยให้ธนาคารจับการใช้จ่ายผิดปกติบนบัตรคุณได้",
+      "cefr": "B2",
+      "note_th": "ย่อว่า ML — คอมเรียนรู้จากตัวอย่างจำนวนมากแทนที่จะมีคนเขียนกฎให้ทุกข้อ เป็นเทคนิคหลักที่อยู่เบื้องหลัง AI ยุคนี้",
+      "distractors": [
+        "deep learning",
+        "washing machine",
+        "e-learning"
+      ]
+    },
+    {
+      "id": "prompt",
+      "word": "prompt",
+      "pos": "noun",
+      "ipa": "/prɑːmpt/",
+      "reading_th": "พรอมต์",
+      "meaning_th": "พรอมต์ / คำสั่งที่พิมพ์บอก AI",
+      "emoji": "✍️",
+      "example_en": "Write a clear prompt and the AI will give a better answer.",
+      "example_th": "เขียนพรอมต์ให้ชัดแล้ว AI จะตอบได้ดีขึ้น",
+      "cefr": "B1",
+      "note_th": "prompt (n.) = ข้อความที่สั่ง AI, prompt engineering = ศิลปะการเขียนคำสั่ง — ส่วน prompt (adj.) = รวดเร็ว เช่น a prompt reply ในอีเมลธุรกิจ",
+      "distractors": [
+        "promote",
+        "prompt reply",
+        "print"
+      ]
+    },
+    {
+      "id": "automation",
+      "word": "automation",
+      "pos": "noun",
+      "ipa": "/ˌɔːtəˈmeɪʃn/",
+      "reading_th": "ออ-โต-เม-ชัน",
+      "meaning_th": "ระบบอัตโนมัติ",
+      "emoji": "⚙️",
+      "example_en": "Automation now sends the invoices, so nobody types them by hand.",
+      "example_th": "ตอนนี้ระบบอัตโนมัติส่งใบแจ้งหนี้ให้ ไม่มีใครต้องพิมพ์เองแล้ว",
+      "cefr": "B1",
+      "note_th": "automation (น.) = ระบบทำงานเองโดยไม่มีคน ส่วน automatic (adj.) = อัตโนมัติ — marketing automation คือการตั้งอีเมล/ข้อความให้ส่งเองตามเงื่อนไข",
+      "distractors": [
+        "automatic",
+        "animation",
+        "autumn"
+      ]
+    },
+    {
+      "id": "automate",
+      "word": "automate",
+      "pos": "verb",
+      "ipa": "/ˈɔːtəmeɪt/",
+      "reading_th": "ออ-โต-เมต",
+      "meaning_th": "ทำให้เป็นอัตโนมัติ",
+      "emoji": "🔧",
+      "example_en": "We want to automate the weekly sales report.",
+      "example_th": "เราอยากทำให้รายงานยอดขายรายสัปดาห์เป็นอัตโนมัติ",
+      "cefr": "B1",
+      "note_th": "automate + งานที่ซ้ำซาก เช่น automate the backup/the emails — ประโยคที่ได้ยินในออฟฟิศยุคนี้: \"Can we automate this?\" = ให้คอมทำแทนได้ไหม",
+      "distractors": [
+        "animate",
+        "estimate",
+        "activate"
+      ]
+    },
+    {
+      "id": "generate",
+      "word": "generate",
+      "pos": "verb",
+      "ipa": "/ˈdʒenəreɪt/",
+      "reading_th": "เจ-เนอ-เรต",
+      "meaning_th": "สร้างขึ้น (โดยโปรแกรม/AI)",
+      "emoji": "🪄",
+      "example_en": "The tool can generate ten ad captions in a few seconds.",
+      "example_th": "เครื่องมือนี้สร้างแคปชันโฆษณาสิบแบบได้ในไม่กี่วินาที",
+      "cefr": "B1",
+      "note_th": "generate = ผลิตออกมาเป็นจำนวน (generate a report, generate income) ส่วน create เน้นสร้างสรรค์ของใหม่ — Generative AI แปลว่า AI ที่ generate เนื้อหาได้",
+      "distractors": [
+        "generation",
+        "generous",
+        "generic"
+      ]
+    },
+    {
+      "id": "bot",
+      "word": "bot",
+      "pos": "noun",
+      "ipa": "/bɑːt/",
+      "reading_th": "บอต",
+      "meaning_th": "บอต / โปรแกรมทำงานแทนคน",
+      "emoji": "🦾",
+      "example_en": "A bot replies to every comment within one minute.",
+      "example_th": "บอตตอบทุกคอมเมนต์ภายในหนึ่งนาที",
+      "cefr": "A2",
+      "note_th": "bot ย่อจาก robot = โปรแกรมที่ทำงานเองซ้ำๆ บนเน็ต — ในโซเชียล \"บัญชีบอต\" คือบัญชีปลอมที่โปรแกรมควบคุม และ CAPTCHA คือด่านพิสูจน์ว่าคุณไม่ใช่บอต",
+      "distractors": [
+        "boat",
+        "bat",
+        "robot"
+      ]
+    },
+    {
+      "id": "workflow",
+      "word": "workflow",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkfloʊ/",
+      "reading_th": "เวิร์ก-โฟลว์",
+      "meaning_th": "ขั้นตอนการทำงาน / ลำดับงาน",
+      "emoji": "🔀",
+      "example_en": "Our workflow has three steps: write, review, and publish.",
+      "example_th": "ขั้นตอนการทำงานของเรามีสามขั้น: เขียน ตรวจ และเผยแพร่",
+      "cefr": "B1",
+      "note_th": "workflow = ลำดับขั้นที่งานไหลจากคนหนึ่งไปอีกคน/อีกระบบ — เครื่องมืออย่าง n8n, Zapier ให้คุณสร้าง automated workflow ได้โดยไม่ต้องเขียนโค้ด",
+      "distractors": [
+        "workload",
+        "workshop",
+        "overflow"
+      ]
+    },
+    {
+      "id": "dataset",
+      "word": "dataset",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtəset/",
+      "reading_th": "เด-ตา-เซ็ต",
+      "meaning_th": "ชุดข้อมูล (สำหรับสอน AI)",
+      "emoji": "📚",
+      "example_en": "The AI learned Thai from a dataset of one million sentences.",
+      "example_th": "AI เรียนภาษาไทยจากชุดข้อมูลประโยคหนึ่งล้านประโยค",
+      "cefr": "B2",
+      "note_th": "dataset = ชุดข้อมูลที่รวบรวมไว้เพื่อวิเคราะห์หรือเทรนโมเดล — training data คือชุดที่ใช้สอน และ AI จะฉลาดเท่าที่ dataset ดี (garbage in, garbage out)",
+      "distractors": [
+        "database",
+        "data center",
+        "headset"
+      ]
+    },
+    {
+      "id": "predict",
+      "word": "predict",
+      "pos": "verb",
+      "ipa": "/prɪˈdɪkt/",
+      "reading_th": "พริ-ดิกต์",
+      "meaning_th": "ทำนาย / คาดการณ์",
+      "emoji": "🔮",
+      "example_en": "The model can predict which customers will cancel next month.",
+      "example_th": "โมเดลทำนายได้ว่าลูกค้าคนไหนจะยกเลิกเดือนหน้า",
+      "cefr": "B1",
+      "note_th": "predict = ทำนายจากข้อมูล (predictive text = ระบบเดาคำตอนพิมพ์) ส่วน forecast ใช้กับอากาศและยอดขาย และ guess คือเดาแบบไม่มีข้อมูล",
+      "distractors": [
+        "protect",
+        "prefer",
+        "pretend"
+      ]
+    },
+    {
+      "id": "deepfake",
+      "word": "deepfake",
+      "pos": "noun",
+      "ipa": "/ˈdiːpfeɪk/",
+      "reading_th": "ดีป-เฟก",
+      "meaning_th": "ดีปเฟก / วิดีโอปลอมที่ AI สร้าง",
+      "emoji": "🎭",
+      "example_en": "The video of the minister was a deepfake made by scammers.",
+      "example_th": "วิดีโอรัฐมนตรีคนนั้นเป็นดีปเฟกที่มิจฉาชีพทำขึ้น",
+      "cefr": "B2",
+      "note_th": "deep (จาก deep learning) + fake = ของปลอมที่ AI สร้างให้เหมือนจริง — แก๊งคอลเซ็นเตอร์ไทยใช้ deepfake เสียงและหน้าตาหลอกโอนเงินแล้ว ระวังให้ดี",
+      "distractors": [
+        "fake news",
+        "deep learning",
+        "face swap"
+      ]
+    },
+    {
+      "id": "accuracy",
+      "word": "accuracy",
+      "pos": "noun",
+      "ipa": "/ˈækjərəsi/",
+      "reading_th": "แอ็ก-คิว-ระ-ซี",
+      "meaning_th": "ความแม่นยำ",
+      "emoji": "🎯",
+      "example_en": "The speech tool has 95 percent accuracy in Thai.",
+      "example_th": "เครื่องมือแปลงเสียงมีความแม่นยำ 95 เปอร์เซ็นต์ในภาษาไทย",
+      "cefr": "B1",
+      "note_th": "accuracy (น.) / accurate (adj.) = แม่นยำ ถูกต้องตรงความจริง — ต่างจาก precision ที่เน้นละเอียด และ AI ยังควรดูว่า accuracy วัดกับข้อมูลชุดไหน",
+      "distractors": [
+        "accurate",
+        "currency",
+        "privacy"
+      ]
+    },
+    {
+      "id": "voice_assistant",
+      "word": "voice assistant",
+      "pos": "noun",
+      "ipa": "/ˈvɔɪs əˌsɪstənt/",
+      "reading_th": "วอยซ์ อะ-ซิส-เทินต์",
+      "meaning_th": "ผู้ช่วยสั่งงานด้วยเสียง",
+      "emoji": "🗣️",
+      "example_en": "Ask the voice assistant to set an alarm for six.",
+      "example_th": "สั่งผู้ช่วยเสียงให้ตั้งนาฬิกาปลุกตอนหกโมง",
+      "cefr": "B1",
+      "note_th": "voice assistant = Siri, Alexa, Google Assistant — ใช้คำสั่งแบบ \"Hey Siri, call Mom\" และ voice command = คำสั่งเสียง, voice recognition = ระบบรู้จำเสียง",
+      "distractors": [
+        "personal assistant",
+        "voice message",
+        "voice-over"
+      ]
+    },
+    {
+      "id": "troubleshoot",
+      "word": "troubleshoot",
+      "pos": "verb",
+      "ipa": "/ˈtrʌblʃuːt/",
+      "reading_th": "ทรับ-เบิล-ชูต",
+      "meaning_th": "ไล่หาสาเหตุปัญหา / แก้ปัญหาทีละขั้น",
+      "emoji": "🧰",
+      "example_en": "Let me troubleshoot the printer before we buy a new one.",
+      "example_th": "ให้ฉันไล่หาสาเหตุปัญหาเครื่องพิมพ์ก่อนที่เราจะซื้อใหม่",
+      "cefr": "B2",
+      "note_th": "troubleshoot = ค่อยๆ หาว่าปัญหาอยู่ตรงไหนแล้วแก้ (ไม่ใช่ยิงปัญหา!) — troubleshooting guide = คู่มือแก้ปัญหาที่อยู่ท้ายคู่มือทุกเล่ม",
+      "distractors": [
+        "trouble",
+        "shoot",
+        "troublemaker"
+      ]
+    },
+    {
+      "id": "crash",
+      "word": "crash",
+      "pos": "verb",
+      "ipa": "/kræʃ/",
+      "reading_th": "แครช",
+      "meaning_th": "โปรแกรมเด้ง / ล่มกะทันหัน",
+      "emoji": "💥",
+      "example_en": "The app may crash if you open too many photos at once.",
+      "example_th": "แอปอาจเด้งถ้าคุณเปิดรูปพร้อมกันเยอะเกินไป",
+      "cefr": "A2",
+      "note_th": "แอปเด้ง = the app crashes หรือ crashed ไม่ใช่ bounced — ใช้กับรถชน และตลาดหุ้นร่วงแรง (stock market crash) ได้ด้วย",
+      "distractors": [
+        "crush",
+        "clash",
+        "cash"
+      ]
+    },
+    {
+      "id": "freeze",
+      "word": "freeze",
+      "pos": "verb",
+      "ipa": "/friːz/",
+      "reading_th": "ฟรีซ",
+      "meaning_th": "ค้าง / หน้าจอไม่ขยับ",
+      "emoji": "🥶",
+      "example_en": "My screen will freeze if I join the call on Wi-Fi.",
+      "example_th": "หน้าจอฉันจะค้างถ้าเข้าประชุมผ่านไวไฟ",
+      "cefr": "A2",
+      "note_th": "เครื่องค้าง = freeze (ไม่ใช่ hang แบบที่คนไทยชอบพูด — hang ก็เข้าใจได้แต่ไม่ค่อยใช้) อดีตคือ froze: \"It froze again\" และ frozen screen = จอค้าง",
+      "distractors": [
+        "fridge",
+        "breeze",
+        "free"
+      ]
+    },
+    {
+      "id": "reboot",
+      "word": "reboot",
+      "pos": "verb",
+      "ipa": "/ˌriːˈbuːt/",
+      "reading_th": "รี-บูต",
+      "meaning_th": "บูตเครื่องใหม่",
+      "emoji": "🔁",
+      "example_en": "Reboot the router and wait two minutes before testing.",
+      "example_th": "รีบูตเราเตอร์แล้วรอสองนาทีก่อนทดสอบ",
+      "cefr": "B1",
+      "note_th": "reboot = restart แบบเป็นทางการกว่า มาจาก boot = เริ่มเครื่อง — มุกไอที: \"Have you tried turning it off and on again?\" คือ reboot นั่นเอง",
+      "distractors": [
+        "boot",
+        "reload",
+        "rebuild"
+      ]
+    },
+    {
+      "id": "glitch",
+      "word": "glitch",
+      "pos": "noun",
+      "ipa": "/ɡlɪtʃ/",
+      "reading_th": "กลิตช์",
+      "meaning_th": "ข้อผิดพลาดชั่วคราว / อาการรวน",
+      "emoji": "📺",
+      "example_en": "A small glitch made the prices show as zero for a minute.",
+      "example_th": "อาการรวนเล็กๆ ทำให้ราคาแสดงเป็นศูนย์อยู่หนึ่งนาที",
+      "cefr": "B2",
+      "note_th": "glitch = ปัญหาเล็กๆ ที่เกิดแวบเดียวแล้วหาย ส่วน bug = ข้อผิดพลาดที่อยู่ในโค้ดถาวร — ใช้ในชีวิตได้: a glitch in the plan = แผนสะดุดนิดหน่อย",
+      "distractors": [
+        "switch",
+        "glimpse",
+        "hitch"
+      ]
+    },
+    {
+      "id": "factory_reset",
+      "word": "factory reset",
+      "pos": "noun",
+      "ipa": "/ˈfæktəri ˌriːset/",
+      "reading_th": "แฟ็ก-ทอ-รี รี-เซ็ต",
+      "meaning_th": "ล้างเครื่องกลับเป็นค่าโรงงาน",
+      "emoji": "🏭",
+      "example_en": "Back up your photos before you do a factory reset.",
+      "example_th": "สำรองรูปไว้ก่อนล้างเครื่องกลับเป็นค่าโรงงาน",
+      "cefr": "B1",
+      "note_th": "factory reset = ลบทุกอย่างให้เหมือนเพิ่งออกจากโรงงาน เป็นไม้ตายสุดท้ายของฝ่ายซัพพอร์ต และต้องทำก่อนขายมือถือมือสองเสมอ — ใช้ do/perform a factory reset",
+      "distractors": [
+        "restart",
+        "factory outlet",
+        "hard reset"
+      ]
+    },
+    {
+      "id": "error",
+      "word": "error",
+      "pos": "noun",
+      "ipa": "/ˈerər/",
+      "reading_th": "เอ-เรอร์",
+      "meaning_th": "ข้อผิดพลาด (ข้อความแจ้งเตือน)",
+      "emoji": "⚠️",
+      "example_en": "I get an error message every time I try to pay.",
+      "example_th": "ฉันเจอข้อความแจ้งข้อผิดพลาดทุกครั้งที่พยายามจ่ายเงิน",
+      "cefr": "A2",
+      "note_th": "error message = ข้อความแจ้งผิดพลาด, error code = รหัสข้อผิดพลาด (404, 500) — เวลาแจ้งไอที ให้ส่งสกรีนช็อตของ error ไปด้วยจะแก้ได้เร็วขึ้นมาก",
+      "distractors": [
+        "mirror",
+        "terror",
+        "arrow"
+      ]
+    },
+    {
+      "id": "help_desk",
+      "word": "help desk",
+      "pos": "noun",
+      "ipa": "/ˈhelp desk/",
+      "reading_th": "เฮลป์ เดสค์",
+      "meaning_th": "ฝ่ายช่วยเหลือไอที",
+      "emoji": "🎧",
+      "example_en": "Call the help desk and they will reset your password.",
+      "example_th": "โทรหาฝ่ายช่วยเหลือไอที เดี๋ยวเขารีเซ็ตรหัสผ่านให้",
+      "cefr": "A2",
+      "note_th": "help desk = จุดรับแจ้งปัญหาไอทีในบริษัท (IT support) ส่วน front desk คือแผนกต้อนรับ — การแจ้งปัญหาหนึ่งเรื่องเรียก a ticket",
+      "distractors": [
+        "front desk",
+        "hot desk",
+        "help center"
+      ]
+    },
+    {
+      "id": "reset",
+      "word": "reset",
+      "pos": "verb",
+      "ipa": "/ˌriːˈset/",
+      "reading_th": "รี-เซ็ต",
+      "meaning_th": "รีเซ็ต / ตั้งค่าใหม่",
+      "emoji": "🔄",
+      "example_en": "Reset your password if you cannot remember it.",
+      "example_th": "รีเซ็ตรหัสผ่านถ้าคุณจำไม่ได้",
+      "cefr": "A2",
+      "note_th": "reset = ตั้งค่ากลับไปใหม่ (reset a password, factory reset = ล้างเครื่องเป็นค่าโรงงาน) ส่วน restart แค่ปิดเปิดเครื่องใหม่ ข้อมูลไม่หาย",
+      "distractors": [
+        "restart",
+        "resit",
+        "reseat"
+      ]
+    },
+    {
+      "id": "technician",
+      "word": "technician",
+      "pos": "noun",
+      "ipa": "/tekˈnɪʃn/",
+      "reading_th": "เทค-นิ-เชียน",
+      "meaning_th": "ช่างเทคนิค",
+      "emoji": "🧑‍🔧",
+      "example_en": "A technician will come tomorrow to replace the broken router.",
+      "example_th": "ช่างเทคนิคจะมาพรุ่งนี้เพื่อเปลี่ยนเราเตอร์ที่เสีย",
+      "cefr": "B1",
+      "note_th": "technician = ช่างที่ซ่อมและติดตั้งอุปกรณ์ (IT technician, lab technician) ส่วน engineer ออกแบบระบบ — เน้นพยางค์ \"นิ\" และคนไทยพูดสั้นๆ ว่า \"ช่าง\" ซึ่งถ้าเป็นช่างทั่วไปใช้ repairman",
+      "distractors": [
+        "technical",
+        "technique",
+        "engineer"
+      ]
+    },
+    {
+      "id": "downtime",
+      "word": "downtime",
+      "pos": "noun",
+      "ipa": "/ˈdaʊntaɪm/",
+      "reading_th": "ดาวน์-ไทม์",
+      "meaning_th": "ช่วงที่ระบบใช้งานไม่ได้",
+      "emoji": "⏳",
+      "example_en": "There will be thirty minutes of downtime at midnight for maintenance.",
+      "example_th": "ระบบจะใช้งานไม่ได้สามสิบนาทีตอนเที่ยงคืนเพื่อบำรุงรักษา",
+      "cefr": "B2",
+      "note_th": "downtime = เวลาที่ระบบปิดใช้งาน (ทั้งตั้งใจและไม่ตั้งใจ) ตรงข้ามคือ uptime — ในชีวิตส่วนตัว downtime = เวลาว่างพักผ่อน ความหมายดีๆ",
+      "distractors": [
+        "deadline",
+        "overtime",
+        "downturn"
+      ]
+    },
+    {
+      "id": "workaround",
+      "word": "workaround",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkəraʊnd/",
+      "reading_th": "เวิร์ก-อะ-ราวนด์",
+      "meaning_th": "วิธีแก้ชั่วคราว / ทางเลี่ยงปัญหา",
+      "emoji": "🩹",
+      "example_en": "The bug is not fixed yet, but there is a workaround.",
+      "example_th": "บั๊กยังไม่ถูกแก้ แต่มีวิธีเลี่ยงปัญหาชั่วคราว",
+      "cefr": "B2",
+      "note_th": "workaround = ทำให้งานเดินต่อได้โดยอ้อมปัญหาไปก่อน ไม่ใช่การแก้จริง (fix) — work around (ก.) แยกกัน = อ้อมผ่านปัญหา",
+      "distractors": [
+        "work around",
+        "workout",
+        "turnaround"
+      ]
+    },
+    {
+      "id": "overheat",
+      "word": "overheat",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərˈhiːt/",
+      "reading_th": "โอ-เวอร์-ฮีต",
+      "meaning_th": "เครื่องร้อนเกินไป",
+      "emoji": "🔥",
+      "example_en": "Laptops overheat quickly when you use them on the bed.",
+      "example_th": "แล็ปท็อปร้อนเกินเร็วมากเวลาใช้บนเตียง",
+      "cefr": "B1",
+      "note_th": "over- = มากเกินไป (overheat, overload, overwork) — มือถือร้อนแล้วดับเองเพราะ overheating เป็นเรื่องปกติในอากาศไทย อย่าทิ้งไว้ในรถ",
+      "distractors": [
+        "overeat",
+        "heater",
+        "overhead"
+      ]
+    },
+    {
+      "id": "corrupted",
+      "word": "corrupted",
+      "pos": "adjective",
+      "ipa": "/kəˈrʌptɪd/",
+      "reading_th": "คอ-รัป-เทด",
+      "meaning_th": "ไฟล์เสีย / เปิดไม่ได้",
+      "emoji": "🗑️",
+      "example_en": "The file is corrupted, so please send it again.",
+      "example_th": "ไฟล์เสีย เปิดไม่ได้ กรุณาส่งมาใหม่",
+      "cefr": "B2",
+      "note_th": "corrupted file = ไฟล์พังจนเปิดไม่ได้ (มักเพราะดาวน์โหลดไม่ครบหรือไดรฟ์เสีย) — ส่วน corrupt ที่ใช้กับคน = ทุจริต คอร์รัปชัน คำเดียวกันเลย",
+      "distractors": [
+        "corrupt",
+        "interrupted",
+        "crowded"
+      ]
+    }
+  ]
+}

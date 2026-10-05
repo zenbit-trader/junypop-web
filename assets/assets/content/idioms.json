@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "idioms",
+    "name_en": "Everyday Idioms",
+    "name_th": "สำนวนที่ฝรั่งใช้จริง",
+    "emoji": "💬",
+    "color_start": "#F9A8D4",
+    "color_end": "#BE185D",
+    "description_th": "สำนวนที่เจ้าของภาษาใช้ทุกวัน ในซีรีส์ ที่ทำงาน และบทสนทนาจริง พร้อมความหมายที่แปลตรงตัวไม่ได้",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "idioms_1",
+        "title_en": "Small Talk",
+        "title_th": "คุยเล่นทักทาย",
+        "emoji": "👋",
+        "word_ids": [
+          "break_the_ice",
+          "hit_it_off",
+          "long_time_no_see",
+          "keep_in_touch",
+          "small_world",
+          "speak_of_the_devil",
+          "ring_a_bell",
+          "out_of_the_blue",
+          "on_the_tip_of_my_tongue",
+          "beat_around_the_bush",
+          "under_the_weather",
+          "have_a_blast",
+          "lose_track_of_time",
+          "in_a_nutshell"
+        ]
+      },
+      {
+        "id": "idioms_2",
+        "title_en": "Work & Deadlines",
+        "title_th": "งานและเดดไลน์",
+        "emoji": "💼",
+        "word_ids": [
+          "piece_of_cake",
+          "call_it_a_day",
+          "on_the_same_page",
+          "hit_the_ground_running",
+          "ball_is_in_your_court",
+          "burn_the_midnight_oil",
+          "cut_corners",
+          "in_the_loop",
+          "think_outside_the_box",
+          "back_to_the_drawing_board",
+          "get_the_ball_rolling",
+          "learn_the_ropes",
+          "go_the_extra_mile",
+          "touch_base"
+        ]
+      },
+      {
+        "id": "idioms_3",
+        "title_en": "Money Talk",
+        "title_th": "เรื่องเงินๆ ทองๆ",
+        "emoji": "💸",
+        "word_ids": [
+          "cost_an_arm_and_a_leg",
+          "break_the_bank",
+          "make_ends_meet",
+          "tighten_your_belt",
+          "save_for_a_rainy_day",
+          "in_the_red",
+          "nest_egg",
+          "foot_the_bill",
+          "cash_cow",
+          "pay_through_the_nose",
+          "dirt_cheap",
+          "a_steal",
+          "on_a_shoestring",
+          "from_rags_to_riches"
+        ]
+      },
+      {
+        "id": "idioms_4",
+        "title_en": "Feelings",
+        "title_th": "อารมณ์ความรู้สึก",
+        "emoji": "🎭",
+        "word_ids": [
+          "over_the_moon",
+          "on_cloud_nine",
+          "down_in_the_dumps",
+          "butterflies_in_my_stomach",
+          "fed_up",
+          "freak_out",
+          "hit_the_roof",
+          "drive_me_up_the_wall",
+          "on_edge",
+          "weight_off_my_shoulders",
+          "sick_and_tired",
+          "blow_off_steam",
+          "get_on_my_nerves",
+          "mixed_feelings"
+        ]
+      },
+      {
+        "id": "idioms_5",
+        "title_en": "Relationships",
+        "title_th": "ความสัมพันธ์",
+        "emoji": "💞",
+        "word_ids": [
+          "head_over_heels",
+          "tie_the_knot",
+          "pop_the_question",
+          "better_half",
+          "third_wheel",
+          "old_flame",
+          "through_thick_and_thin",
+          "see_eye_to_eye",
+          "cold_shoulder",
+          "bury_the_hatchet",
+          "on_the_rocks",
+          "play_hard_to_get",
+          "two_peas_in_a_pod",
+          "clear_the_air"
+        ]
+      },
+      {
+        "id": "idioms_6",
+        "title_en": "Decisions & Luck",
+        "title_th": "ตัดสินใจและโชคชะตา",
+        "emoji": "🎲",
+        "word_ids": [
+          "on_the_fence",
+          "sleep_on_it",
+          "take_the_plunge",
+          "go_with_the_flow",
+          "play_it_by_ear",
+          "fingers_crossed",
+          "break_a_leg",
+          "hit_the_jackpot",
+          "blessing_in_disguise",
+          "bite_the_bullet",
+          "no_brainer",
+          "second_thoughts",
+          "beginners_luck",
+          "long_shot"
+        ]
+      },
+      {
+        "id": "idioms_7",
+        "title_en": "Time & Hurry",
+        "title_th": "เวลาและความรีบ",
+        "emoji": "⏰",
+        "word_ids": [
+          "in_the_nick_of_time",
+          "better_late_than_never",
+          "around_the_clock",
+          "against_the_clock",
+          "kill_time",
+          "once_in_a_blue_moon",
+          "hold_your_horses",
+          "in_no_time",
+          "at_the_eleventh_hour",
+          "on_the_dot",
+          "time_flies",
+          "crack_of_dawn",
+          "in_the_long_run",
+          "step_on_it"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "break_the_ice",
+      "word": "break the ice",
+      "pos": "phrase",
+      "ipa": "/breɪk ði aɪs/",
+      "reading_th": "เบรค ดิ ไอซ์",
+      "meaning_th": "ละลายพฤติกรรม / เริ่มคุยให้หายเกร็ง",
+      "emoji": "🧊",
+      "example_en": "A funny story is a good way to break the ice.",
+      "example_th": "เรื่องตลกสักเรื่องเป็นวิธีที่ดีในการละลายพฤติกรรม",
+      "cefr": "B1",
+      "note_th": "ภาพคือน้ำแข็งความเงียบอึดอัดที่ต้องทุบให้แตก — ใช้เป็นคำนามก็ได้ icebreaker = กิจกรรมละลายพฤติกรรมตอนเปิดงาน",
+      "distractors": [
+        "break the bank",
+        "break a leg",
+        "cut corners"
+      ]
+    },
+    {
+      "id": "hit_it_off",
+      "word": "hit it off",
+      "pos": "phrase",
+      "ipa": "/hɪt ɪt ɔːf/",
+      "reading_th": "ฮิท อิท ออฟ",
+      "meaning_th": "ถูกคอกันทันที",
+      "emoji": "🤝",
+      "example_en": "We hit it off right away at the party.",
+      "example_th": "เราถูกคอกันตั้งแต่แรกเจอที่งานปาร์ตี้",
+      "cefr": "B1",
+      "note_th": "ใช้กับเพื่อนใหม่หรือคนที่เพิ่งเดทครั้งแรก — มักพูดว่า hit it off with someone ไม่ใช่การตีใครนะ",
+      "distractors": [
+        "hit the roof",
+        "hit the jackpot",
+        "call it a day"
+      ]
+    },
+    {
+      "id": "long_time_no_see",
+      "word": "long time no see",
+      "pos": "phrase",
+      "ipa": "/lɔːŋ taɪm noʊ siː/",
+      "reading_th": "ลอง ไทม์ โน ซี",
+      "meaning_th": "ไม่เจอกันนานเลย",
+      "emoji": "🙌",
+      "example_en": "Long time no see! How have you been?",
+      "example_th": "ไม่เจอกันนานเลย สบายดีไหม",
+      "cefr": "A2",
+      "note_th": "ไวยากรณ์ผิดแต่ฝรั่งใช้จริงทุกวัน (ว่ากันว่ามาจากภาษาจีน) — ใช้เป็นคำทักทายอย่างเดียว ห้ามเอาไปใส่ในประโยคอื่น",
+      "distractors": [
+        "small world",
+        "keep in touch",
+        "in no time"
+      ]
+    },
+    {
+      "id": "keep_in_touch",
+      "word": "keep in touch",
+      "pos": "phrase",
+      "ipa": "/kiːp ɪn tʌtʃ/",
+      "reading_th": "คีพ อิน ทัช",
+      "meaning_th": "ติดต่อกันไว้นะ",
+      "emoji": "📱",
+      "example_en": "Let's keep in touch after you move to Japan.",
+      "example_th": "ย้ายไปญี่ปุ่นแล้วติดต่อกันไว้นะ",
+      "cefr": "A2",
+      "note_th": "touch ในที่นี้คือการสัมผัสถึงกัน ไม่ใช่แตะตัว — ประโยคปิดท้ายคลาสสิกเวลาลาจาก พร้อมกับ stay in touch ที่ความหมายเหมือนกัน",
+      "distractors": [
+        "touch base",
+        "long time no see",
+        "get in line"
+      ]
+    },
+    {
+      "id": "small_world",
+      "word": "small world",
+      "pos": "phrase",
+      "ipa": "/smɔːl wɜːrld/",
+      "reading_th": "สมอล เวิลด์",
+      "meaning_th": "โลกกลมจัง",
+      "emoji": "🌍",
+      "example_en": "You know my cousin too? What a small world!",
+      "example_th": "รู้จักลูกพี่ลูกน้องฉันด้วยเหรอ โลกกลมจังเลย",
+      "cefr": "A2",
+      "note_th": "ไทยบอกโลกกลม ฝรั่งบอกโลกเล็ก — พูดเต็มๆ ว่า It's a small world! หรือสั้นๆ Small world! ก็ได้",
+      "distractors": [
+        "big deal",
+        "long time no see",
+        "out of the blue"
+      ]
+    },
+    {
+      "id": "speak_of_the_devil",
+      "word": "speak of the devil",
+      "pos": "phrase",
+      "ipa": "/spiːk əv ðə ˈdevəl/",
+      "reading_th": "สปีค ออฟ เดอะ เด-เวิล",
+      "meaning_th": "พูดถึงก็มาพอดี",
+      "emoji": "😈",
+      "example_en": "Speak of the devil, here comes Tom now!",
+      "example_th": "พูดถึงก็มาพอดี ทอมมาแล้วนั่นไง",
+      "cefr": "B1",
+      "note_th": "มาจากความเชื่อว่าเอ่ยชื่อปีศาจแล้วมันจะโผล่มา — ไม่ได้ด่าคนที่โผล่มาว่าเป็นปีศาจ ใช้เป็นมุกน่ารักๆ ได้",
+      "distractors": [
+        "ring a bell",
+        "speak your mind",
+        "small world"
+      ]
+    },
+    {
+      "id": "ring_a_bell",
+      "word": "ring a bell",
+      "pos": "phrase",
+      "ipa": "/rɪŋ ə bel/",
+      "reading_th": "ริง อะ เบล",
+      "meaning_th": "คุ้นๆ หู",
+      "emoji": "🔔",
+      "example_en": "Her name rings a bell, but I can't remember her face.",
+      "example_th": "ชื่อเธอคุ้นๆ หู แต่ฉันจำหน้าไม่ได้",
+      "cefr": "B1",
+      "note_th": "ภาพคือระฆังในหัวดังขึ้นเมื่อได้ยินอะไรคุ้นๆ — ประธานคือสิ่งที่คุ้น (That name rings a bell.) ไม่ใช่คน",
+      "distractors": [
+        "on the tip of my tongue",
+        "speak of the devil",
+        "ring up"
+      ]
+    },
+    {
+      "id": "out_of_the_blue",
+      "word": "out of the blue",
+      "pos": "phrase",
+      "ipa": "/aʊt əv ðə bluː/",
+      "reading_th": "เอาท์ ออฟ เดอะ บลู",
+      "meaning_th": "โผล่มาแบบไม่มีปี่มีขลุ่ย",
+      "emoji": "⚡",
+      "example_en": "She called me out of the blue after ten years.",
+      "example_th": "เธอโทรมาหาฉันแบบไม่มีปี่มีขลุ่ยหลังจากหายไปสิบปี",
+      "cefr": "B1",
+      "note_th": "blue คือท้องฟ้าใสๆ แล้วจู่ๆ ฟ้าผ่า — ใช้กับเหตุการณ์ที่เกิดโดยไม่มีสัญญาณล่วงหน้า วางท้ายประโยคเสมอ",
+      "distractors": [
+        "feeling blue",
+        "once in a blue moon",
+        "in the loop"
+      ]
+    },
+    {
+      "id": "on_the_tip_of_my_tongue",
+      "word": "on the tip of my tongue",
+      "pos": "phrase",
+      "ipa": "/ɒn ðə tɪp əv maɪ tʌŋ/",
+      "reading_th": "ออน เดอะ ทิพ ออฟ มาย ทัง",
+      "meaning_th": "ติดอยู่ที่ปาก นึกไม่ออก",
+      "emoji": "👅",
+      "example_en": "The word is on the tip of my tongue, wait a second!",
+      "example_th": "คำนั้นติดอยู่ที่ปากเลย เดี๋ยวนะ",
+      "cefr": "B1",
+      "note_th": "ไทยว่าติดอยู่ที่ปาก ฝรั่งว่าติดอยู่ปลายลิ้น — ภาพเดียวกันเป๊ะ ใช้ตอนนึกชื่อหรือคำศัพท์ไม่ออกทั้งที่รู้",
+      "distractors": [
+        "ring a bell",
+        "bite your tongue",
+        "slip of the tongue"
+      ]
+    },
+    {
+      "id": "beat_around_the_bush",
+      "word": "beat around the bush",
+      "pos": "phrase",
+      "ipa": "/biːt əˈraʊnd ðə bʊʃ/",
+      "reading_th": "บีท อะ-ราวน์ เดอะ บุช",
+      "meaning_th": "พูดอ้อมค้อม",
+      "emoji": "🌳",
+      "example_en": "Stop beating around the bush and tell me the price.",
+      "example_th": "เลิกพูดอ้อมค้อมแล้วบอกราคามาเถอะ",
+      "cefr": "B1",
+      "note_th": "มาจากการตีพุ่มไม้ไล่นกแทนที่จะยิงตรงๆ — ส่วนใหญ่ใช้ในประโยคปฏิเสธ Don't beat around the bush. = พูดตรงๆ เลย",
+      "distractors": [
+        "beat the clock",
+        "get to the point",
+        "in a nutshell"
+      ]
+    },
+    {
+      "id": "under_the_weather",
+      "word": "under the weather",
+      "pos": "phrase",
+      "ipa": "/ˈʌndər ðə ˈweðər/",
+      "reading_th": "อัน-เดอร์ เดอะ เว-เธอร์",
+      "meaning_th": "ไม่ค่อยสบาย",
+      "emoji": "🤒",
+      "example_en": "I feel a bit under the weather today, so I'll stay home.",
+      "example_th": "วันนี้รู้สึกไม่ค่อยสบาย เลยจะอยู่บ้าน",
+      "cefr": "B1",
+      "note_th": "มาจากกะลาสีที่เมาคลื่นต้องลงไปหลบใต้ดาดฟ้า — ใช้บอกว่าป่วยนิดๆ แบบสุภาพ ไม่ใช่ป่วยหนัก",
+      "distractors": [
+        "under pressure",
+        "over the moon",
+        "down in the dumps"
+      ]
+    },
+    {
+      "id": "have_a_blast",
+      "word": "have a blast",
+      "pos": "phrase",
+      "ipa": "/hæv ə blæst/",
+      "reading_th": "แฮฟ อะ บลาสต์",
+      "meaning_th": "สนุกสุดเหวี่ยง",
+      "emoji": "🎉",
+      "example_en": "We always have a blast at the Songkran festival.",
+      "example_th": "เราสนุกสุดเหวี่ยงที่งานสงกรานต์ทุกปี",
+      "cefr": "B1",
+      "note_th": "blast = ระเบิด คือสนุกจนระเบิด — พูดอวยพรก่อนไปเที่ยวได้ว่า Have a blast! สนุกกว่า have fun หลายเท่า",
+      "distractors": [
+        "have a go",
+        "have a word",
+        "lose track of time"
+      ]
+    },
+    {
+      "id": "lose_track_of_time",
+      "word": "lose track of time",
+      "pos": "phrase",
+      "ipa": "/luːz træk əv taɪm/",
+      "reading_th": "ลูส แทรค ออฟ ไทม์",
+      "meaning_th": "เพลินจนลืมเวลา",
+      "emoji": "⌛",
+      "example_en": "I always lose track of time when I play this game.",
+      "example_th": "ฉันเพลินจนลืมเวลาทุกทีเวลาเล่นเกมนี้",
+      "cefr": "B1",
+      "note_th": "track คือร่องรอย คือหลุดจากรอยของเวลา — ใช้ขอโทษที่มาสายได้เนียนๆ Sorry, I lost track of time.",
+      "distractors": [
+        "kill time",
+        "time flies",
+        "keep track of"
+      ]
+    },
+    {
+      "id": "in_a_nutshell",
+      "word": "in a nutshell",
+      "pos": "phrase",
+      "ipa": "/ɪn ə ˈnʌtʃel/",
+      "reading_th": "อิน อะ นัท-เชล",
+      "meaning_th": "สรุปสั้นๆ ก็คือ",
+      "emoji": "🥜",
+      "example_en": "In a nutshell, the trip was fun but too expensive.",
+      "example_th": "สรุปสั้นๆ ก็คือทริปนี้สนุกแต่แพงไป",
+      "cefr": "B1",
+      "note_th": "ย่อเรื่องยาวจนใส่เปลือกถั่วได้ — ใช้ขึ้นต้นประโยคสรุปตอนจบพรีเซนต์ ฟังดูเป็นธรรมชาติกว่า to conclude",
+      "distractors": [
+        "in the long run",
+        "beat around the bush",
+        "in the loop"
+      ]
+    },
+    {
+      "id": "piece_of_cake",
+      "word": "piece of cake",
+      "pos": "phrase",
+      "ipa": "/piːs əv keɪk/",
+      "reading_th": "พีซ ออฟ เค้ก",
+      "meaning_th": "ง่ายมาก กล้วยๆ",
+      "emoji": "🍰",
+      "example_en": "The test was a piece of cake for her.",
+      "example_th": "ข้อสอบนั้นง่ายมากสำหรับเธอ",
+      "cefr": "A2",
+      "note_th": "ไทยว่ากล้วยๆ ฝรั่งว่าเค้กชิ้นเดียว กินง่ายแป๊บเดียวหมด — ใส่ a นำหน้าเสมอ It's a piece of cake.",
+      "distractors": [
+        "have your cake and eat it",
+        "a steal",
+        "no-brainer"
+      ]
+    },
+    {
+      "id": "call_it_a_day",
+      "word": "call it a day",
+      "pos": "phrase",
+      "ipa": "/kɔːl ɪt ə deɪ/",
+      "reading_th": "คอล อิท อะ เดย์",
+      "meaning_th": "พอแค่นี้ก่อนวันนี้",
+      "emoji": "🌇",
+      "example_en": "It's almost seven, let's call it a day.",
+      "example_th": "เกือบทุ่มแล้ว วันนี้พอแค่นี้ก่อนเถอะ",
+      "cefr": "B1",
+      "note_th": "ประกาศว่าวันนี้ครบวันแล้ว เลิกงานได้ — ถ้าทำงานดึกใช้ call it a night ส่วนเลิกถาวรใช้ call it quits",
+      "distractors": [
+        "call it a night",
+        "call off",
+        "wrap your head around"
+      ]
+    },
+    {
+      "id": "on_the_same_page",
+      "word": "on the same page",
+      "pos": "phrase",
+      "ipa": "/ɒn ðə seɪm peɪdʒ/",
+      "reading_th": "ออน เดอะ เซม เพจ",
+      "meaning_th": "เข้าใจตรงกัน",
+      "emoji": "📖",
+      "example_en": "Let's make sure everyone is on the same page before we start.",
+      "example_th": "ขอให้ทุกคนเข้าใจตรงกันก่อนเริ่มนะ",
+      "cefr": "B1",
+      "note_th": "ภาพคือทุกคนเปิดหนังสือหน้าเดียวกัน — ศัพท์ประชุมยอดฮิต Are we on the same page? = เข้าใจตรงกันนะ",
+      "distractors": [
+        "in the loop",
+        "see eye to eye",
+        "on the same boat"
+      ]
+    },
+    {
+      "id": "hit_the_ground_running",
+      "word": "hit the ground running",
+      "pos": "phrase",
+      "ipa": "/hɪt ðə ɡraʊnd ˈrʌnɪŋ/",
+      "reading_th": "ฮิท เดอะ กราวน์ รัน-นิ่ง",
+      "meaning_th": "เริ่มงานได้ทันทีเต็มสปีด",
+      "emoji": "🏃",
+      "example_en": "The new manager hit the ground running on her first day.",
+      "example_th": "ผู้จัดการคนใหม่เริ่มงานเต็มสปีดตั้งแต่วันแรก",
+      "cefr": "B2",
+      "note_th": "ภาพคือทหารกระโดดลงจากเครื่องแล้ววิ่งต่อเลย — คำชมคนใหม่ที่ไม่ต้องรอปรับตัว เจอบ่อยในประกาศรับสมัครงาน",
+      "distractors": [
+        "get the ball rolling",
+        "run out of steam",
+        "learn the ropes"
+      ]
+    },
+    {
+      "id": "ball_is_in_your_court",
+      "word": "the ball is in your court",
+      "pos": "phrase",
+      "ipa": "/ðə bɔːl ɪz ɪn jɔːr kɔːrt/",
+      "reading_th": "เดอะ บอล อิส อิน ยัวร์ คอร์ท",
+      "meaning_th": "ตาคุณตัดสินใจแล้ว",
+      "emoji": "🎾",
+      "example_en": "I sent the offer, so the ball is in your court now.",
+      "example_th": "ผมส่งข้อเสนอไปแล้ว ตอนนี้ตาคุณตัดสินใจแล้วล่ะ",
+      "cefr": "B2",
+      "note_th": "มาจากเทนนิส ลูกอยู่ฝั่งคุณ คุณต้องตีกลับ — ใช้กดดันแบบสุภาพว่าขั้นต่อไปเป็นหน้าที่อีกฝ่าย",
+      "distractors": [
+        "on the fence",
+        "drop the ball",
+        "your call"
+      ]
+    },
+    {
+      "id": "burn_the_midnight_oil",
+      "word": "burn the midnight oil",
+      "pos": "phrase",
+      "ipa": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
+      "reading_th": "เบิร์น เดอะ มิด-ไนท์ ออยล์",
+      "meaning_th": "โต้รุ่งทำงาน",
+      "emoji": "🕯️",
+      "example_en": "We had to burn the midnight oil to finish the report.",
+      "example_th": "เราต้องโต้รุ่งเพื่อทำรายงานให้เสร็จ",
+      "cefr": "B2",
+      "note_th": "สมัยก่อนทำงานกลางคืนต้องจุดตะเกียงน้ำมัน — ใช้กับงานหรืออ่านหนังสือสอบ ไม่ใช่โต้รุ่งปาร์ตี้",
+      "distractors": [
+        "burn out",
+        "call it a night",
+        "around the clock"
+      ]
+    },
+    {
+      "id": "cut_corners",
+      "word": "cut corners",
+      "pos": "phrase",
+      "ipa": "/kʌt ˈkɔːrnərz/",
+      "reading_th": "คัท คอร์-เนอร์ส",
+      "meaning_th": "ทำลวกๆ ลดขั้นตอน",
+      "emoji": "✂️",
+      "example_en": "Don't cut corners on safety to save money.",
+      "example_th": "อย่าลดขั้นตอนด้านความปลอดภัยเพื่อประหยัดเงิน",
+      "cefr": "B2",
+      "note_th": "ภาพคือขับรถตัดมุมถนนให้ถึงเร็วขึ้นแต่เสี่ยง — มีความหมายลบเสมอ คือประหยัดจนคุณภาพตก",
+      "distractors": [
+        "cut to the chase",
+        "go the extra mile",
+        "cut back"
+      ]
+    },
+    {
+      "id": "in_the_loop",
+      "word": "in the loop",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə luːp/",
+      "reading_th": "อิน เดอะ ลูพ",
+      "meaning_th": "รู้ความคืบหน้าตลอด",
+      "emoji": "🔄",
+      "example_en": "Please keep me in the loop about the client meeting.",
+      "example_th": "ช่วยอัปเดตเรื่องประชุมลูกค้าให้ผมรู้ตลอดนะ",
+      "cefr": "B1",
+      "note_th": "loop คือวงที่ข้อมูลหมุนเวียน — ในอีเมลใช้ loop in someone = cc คนนั้นเข้ามา ส่วน out of the loop = ตกข่าว",
+      "distractors": [
+        "on the same page",
+        "out of the loop",
+        "in the dark"
+      ]
+    },
+    {
+      "id": "think_outside_the_box",
+      "word": "think outside the box",
+      "pos": "phrase",
+      "ipa": "/θɪŋk ˌaʊtˈsaɪd ðə bɑːks/",
+      "reading_th": "ธิงค์ เอาท์-ไซด์ เดอะ บ็อกซ์",
+      "meaning_th": "คิดนอกกรอบ",
+      "emoji": "📦",
+      "example_en": "We need to think outside the box to beat the competition.",
+      "example_th": "เราต้องคิดนอกกรอบเพื่อเอาชนะคู่แข่ง",
+      "cefr": "B1",
+      "note_th": "ไทยก็ใช้คิดนอกกรอบเหมือนกันเป๊ะ — ศัพท์ติดปากในสายครีเอทีฟและสตาร์ทอัพ ฝรั่งบางคนว่าเชยแล้วแต่ก็ยังใช้กัน",
+      "distractors": [
+        "back to the drawing board",
+        "think twice",
+        "out of the blue"
+      ]
+    },
+    {
+      "id": "back_to_the_drawing_board",
+      "word": "back to the drawing board",
+      "pos": "phrase",
+      "ipa": "/bæk tə ðə ˈdrɔːɪŋ bɔːrd/",
+      "reading_th": "แบ็ค ทู เดอะ ดรอ-อิ้ง บอร์ด",
+      "meaning_th": "กลับไปเริ่มคิดใหม่",
+      "emoji": "📐",
+      "example_en": "The client hated the design, so it's back to the drawing board.",
+      "example_th": "ลูกค้าไม่ชอบดีไซน์เลย ต้องกลับไปเริ่มคิดใหม่",
+      "cefr": "B2",
+      "note_th": "drawing board คือกระดานเขียนแบบของวิศวกร — ใช้ตอนแผนล้มแล้วต้องออกแบบใหม่หมด พูดแบบขำๆ ปลงๆ",
+      "distractors": [
+        "think outside the box",
+        "square one",
+        "on the fence"
+      ]
+    },
+    {
+      "id": "get_the_ball_rolling",
+      "word": "get the ball rolling",
+      "pos": "phrase",
+      "ipa": "/ɡet ðə bɔːl ˈroʊlɪŋ/",
+      "reading_th": "เก็ท เดอะ บอล โรล-ลิ่ง",
+      "meaning_th": "เริ่มลงมือทำ",
+      "emoji": "⚽",
+      "example_en": "Let's get the ball rolling with a quick brainstorm.",
+      "example_th": "มาเริ่มลงมือกันด้วยการระดมสมองสั้นๆ ก่อน",
+      "cefr": "B1",
+      "note_th": "ลูกบอลเริ่มกลิ้งแล้วก็หยุดยาก — ใช้เปิดประชุมหรือเริ่มโปรเจกต์ ต่างจาก the ball is in your court ที่เป็นเรื่องตัดสินใจ",
+      "distractors": [
+        "the ball is in your court",
+        "hit the ground running",
+        "drop the ball"
+      ]
+    },
+    {
+      "id": "learn_the_ropes",
+      "word": "learn the ropes",
+      "pos": "phrase",
+      "ipa": "/lɜːrn ðə roʊps/",
+      "reading_th": "เลิร์น เดอะ โรพส์",
+      "meaning_th": "เรียนรู้งานใหม่",
+      "emoji": "🪢",
+      "example_en": "It took me a month to learn the ropes at my new job.",
+      "example_th": "ฉันใช้เวลาหนึ่งเดือนเรียนรู้งานที่ทำงานใหม่",
+      "cefr": "B2",
+      "note_th": "กะลาสีมือใหม่ต้องเรียนรู้เชือกทุกเส้นบนเรือ — คู่กับ show someone the ropes = สอนงานคนใหม่",
+      "distractors": [
+        "hit the ground running",
+        "know the drill",
+        "tie the knot"
+      ]
+    },
+    {
+      "id": "go_the_extra_mile",
+      "word": "go the extra mile",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ ði ˈekstrə maɪl/",
+      "reading_th": "โก ดิ เอ็กซ์-ตร้า ไมล์",
+      "meaning_th": "ทุ่มเทเกินหน้าที่",
+      "emoji": "🏅",
+      "example_en": "Our staff always go the extra mile for guests.",
+      "example_th": "พนักงานของเราทุ่มเทเกินหน้าที่เพื่อแขกเสมอ",
+      "cefr": "B1",
+      "note_th": "เดินเกินมาอีกหนึ่งไมล์ทั้งที่ไม่ต้อง — คำชมในรีวิวและการประเมินงาน ตรงข้ามกับ cut corners",
+      "distractors": [
+        "cut corners",
+        "miss the mark",
+        "go with the flow"
+      ]
+    },
+    {
+      "id": "touch_base",
+      "word": "touch base",
+      "pos": "phrase",
+      "ipa": "/tʌtʃ beɪs/",
+      "reading_th": "ทัช เบส",
+      "meaning_th": "คุยอัปเดตกันสั้นๆ",
+      "emoji": "☎️",
+      "example_en": "Can we touch base on Friday about the budget?",
+      "example_th": "วันศุกร์คุยอัปเดตเรื่องงบกันสั้นๆ ได้ไหม",
+      "cefr": "B2",
+      "note_th": "มาจากเบสบอล นักวิ่งต้องแตะเบสทุกฐาน — ศัพท์อีเมลออฟฟิศสุดฮิต Just touching base = แค่แวะมาถาม",
+      "distractors": [
+        "keep in touch",
+        "base on",
+        "catch up"
+      ]
+    },
+    {
+      "id": "cost_an_arm_and_a_leg",
+      "word": "cost an arm and a leg",
+      "pos": "phrase",
+      "ipa": "/kɔːst ən ɑːrm ənd ə leɡ/",
+      "reading_th": "คอสต์ แอน อาร์ม แอนด์ อะ เล็ก",
+      "meaning_th": "แพงหูฉี่",
+      "emoji": "🦵",
+      "example_en": "That new phone will cost an arm and a leg.",
+      "example_th": "มือถือรุ่นใหม่นั่นแพงหูฉี่แน่",
+      "cefr": "B1",
+      "note_th": "แพงจนต้องเอาแขนขาไปแลก — ใช้ cost เป็นกริยา It cost me an arm and a leg. (cost รูปอดีตก็สะกดเหมือนเดิม)",
+      "distractors": [
+        "pay through the nose",
+        "break a leg",
+        "dirt cheap"
+      ]
+    },
+    {
+      "id": "break_the_bank",
+      "word": "break the bank",
+      "pos": "phrase",
+      "ipa": "/breɪk ðə bæŋk/",
+      "reading_th": "เบรค เดอะ แบงค์",
+      "meaning_th": "แพงจนหมดตัว",
+      "emoji": "🏦",
+      "example_en": "A weekend in Hua Hin won't break the bank.",
+      "example_th": "ไปหัวหินสุดสัปดาห์ไม่ถึงกับหมดตัวหรอก",
+      "cefr": "B1",
+      "note_th": "มาจากคาสิโน ชนะจนเจ้ามือหมดเงิน — มักใช้ในรูปปฏิเสธ won't break the bank = ราคาไม่โหด เจอในโฆษณาบ่อย",
+      "distractors": [
+        "break the ice",
+        "break even",
+        "cost an arm and a leg"
+      ]
+    },
+    {
+      "id": "make_ends_meet",
+      "word": "make ends meet",
+      "pos": "phrase",
+      "ipa": "/meɪk endz miːt/",
+      "reading_th": "เมค เอนด์ส มีท",
+      "meaning_th": "หาเงินพอใช้แต่ละเดือน",
+      "emoji": "🧮",
+      "example_en": "Many families struggle to make ends meet these days.",
+      "example_th": "ทุกวันนี้หลายครอบครัวหาเงินแทบไม่พอใช้",
+      "cefr": "B2",
+      "note_th": "ภาพคือดึงปลายสองข้างของบัญชีรายรับรายจ่ายให้มาบรรจบกัน — ศัพท์ข่าวเศรษฐกิจปากกัดตีนถีบ",
+      "distractors": [
+        "make a living",
+        "tighten your belt",
+        "break even"
+      ]
+    },
+    {
+      "id": "tighten_your_belt",
+      "word": "tighten your belt",
+      "pos": "phrase",
+      "ipa": "/ˈtaɪtən jɔːr belt/",
+      "reading_th": "ไท-เทิน ยัวร์ เบลท์",
+      "meaning_th": "รัดเข็มขัด ประหยัด",
+      "emoji": "👖",
+      "example_en": "We have to tighten our belts until the bonus comes.",
+      "example_th": "เราต้องรัดเข็มขัดจนกว่าโบนัสจะออก",
+      "cefr": "B1",
+      "note_th": "ไทยก็พูดรัดเข็มขัดเหมือนกันเลย — เปลี่ยน your ตามประธาน tighten my belt / our belts",
+      "distractors": [
+        "make ends meet",
+        "loosen up",
+        "cut corners"
+      ]
+    },
+    {
+      "id": "save_for_a_rainy_day",
+      "word": "save for a rainy day",
+      "pos": "phrase",
+      "ipa": "/seɪv fər ə ˈreɪni deɪ/",
+      "reading_th": "เซฟ ฟอร์ อะ เร-นี่ เดย์",
+      "meaning_th": "เก็บเงินเผื่อฉุกเฉิน",
+      "emoji": "🌧️",
+      "example_en": "I save a little every month for a rainy day.",
+      "example_th": "ฉันเก็บเงินนิดหน่อยทุกเดือนเผื่อวันฉุกเฉิน",
+      "cefr": "B1",
+      "note_th": "วันฝนตกคือวันที่ทำงานไม่ได้ ไม่มีรายได้ — rainy day fund = เงินสำรองฉุกเฉิน ศัพท์การเงินส่วนบุคคล",
+      "distractors": [
+        "nest egg",
+        "under the weather",
+        "rain check"
+      ]
+    },
+    {
+      "id": "in_the_red",
+      "word": "in the red",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə red/",
+      "reading_th": "อิน เดอะ เร็ด",
+      "meaning_th": "ติดลบ ขาดทุน",
+      "emoji": "📉",
+      "example_en": "The shop has been in the red for three months.",
+      "example_th": "ร้านขาดทุนติดต่อกันมาสามเดือนแล้ว",
+      "cefr": "B2",
+      "note_th": "นักบัญชีสมัยก่อนเขียนตัวเลขติดลบด้วยหมึกแดง — ตรงข้ามคือ in the black = กำไร ใช้กับทั้งบริษัทและบัญชีส่วนตัว",
+      "distractors": [
+        "in the black",
+        "red flag",
+        "in the loop"
+      ]
+    },
+    {
+      "id": "nest_egg",
+      "word": "nest egg",
+      "pos": "phrase",
+      "ipa": "/nest eɡ/",
+      "reading_th": "เนสท์ เอ็ก",
+      "meaning_th": "เงินเก็บก้อนโต",
+      "emoji": "🥚",
+      "example_en": "They built a nice nest egg for retirement.",
+      "example_th": "พวกเขาเก็บเงินก้อนโตไว้ใช้ตอนเกษียณ",
+      "cefr": "B2",
+      "note_th": "ไข่ที่เก็บไว้ในรังให้แม่ไก่ออกไข่เพิ่ม — คือเงินก้อนที่เก็บไว้ให้งอกเงย ใช้กับเงินเกษียณหรือเงินดาวน์บ้าน",
+      "distractors": [
+        "piggy bank",
+        "cash cow",
+        "golden egg"
+      ]
+    },
+    {
+      "id": "foot_the_bill",
+      "word": "foot the bill",
+      "pos": "phrase",
+      "ipa": "/fʊt ðə bɪl/",
+      "reading_th": "ฟุท เดอะ บิล",
+      "meaning_th": "เป็นคนออกเงินทั้งหมด",
+      "emoji": "🧾",
+      "example_en": "My boss offered to foot the bill for dinner.",
+      "example_th": "หัวหน้าอาสาออกเงินค่ามื้อเย็นทั้งหมด",
+      "cefr": "B2",
+      "note_th": "foot ตรงนี้คือเซ็นชื่อที่ท้ายบิล (foot = ส่วนล่าง) — ใช้กับการจ่ายแทนคนอื่น โดยเฉพาะบิลก้อนใหญ่",
+      "distractors": [
+        "split the bill",
+        "put your foot down",
+        "pay through the nose"
+      ]
+    },
+    {
+      "id": "cash_cow",
+      "word": "cash cow",
+      "pos": "phrase",
+      "ipa": "/kæʃ kaʊ/",
+      "reading_th": "แคช คาว",
+      "meaning_th": "ธุรกิจทำเงินไม่หยุด",
+      "emoji": "🐄",
+      "example_en": "The coffee shop became a cash cow for the family.",
+      "example_th": "ร้านกาแฟกลายเป็นธุรกิจทำเงินไม่หยุดของครอบครัว",
+      "cefr": "B2",
+      "note_th": "วัวนมรีดนมได้ทุกวันโดยแทบไม่ต้องลงทุนเพิ่ม — ศัพท์ธุรกิจจากตาราง BCG ใช้กับสินค้าที่ทำกำไรต่อเนื่อง",
+      "distractors": [
+        "nest egg",
+        "holy cow",
+        "cash flow"
+      ]
+    },
+    {
+      "id": "pay_through_the_nose",
+      "word": "pay through the nose",
+      "pos": "phrase",
+      "ipa": "/peɪ θruː ðə noʊz/",
+      "reading_th": "เพย์ ธรู เดอะ โนส",
+      "meaning_th": "จ่ายแพงเกินจริง",
+      "emoji": "👃",
+      "example_en": "Tourists often pay through the nose for taxis here.",
+      "example_th": "นักท่องเที่ยวมักจ่ายค่าแท็กซี่แพงเกินจริงที่นี่",
+      "cefr": "B2",
+      "note_th": "ต่างจาก cost an arm and a leg ตรงที่เน้นว่าโดนโก่งราคา ไม่ใช่ของแพงเอง — ใช้เตือนเพื่อนก่อนเที่ยว",
+      "distractors": [
+        "cost an arm and a leg",
+        "under your nose",
+        "foot the bill"
+      ]
+    },
+    {
+      "id": "dirt_cheap",
+      "word": "dirt cheap",
+      "pos": "phrase",
+      "ipa": "/dɜːrt tʃiːp/",
+      "reading_th": "เดิร์ท ชีพ",
+      "meaning_th": "ถูกมากๆ",
+      "emoji": "🏷️",
+      "example_en": "Street food in Bangkok is dirt cheap and delicious.",
+      "example_th": "อาหารข้างทางในกรุงเทพถูกมากๆ แล้วก็อร่อย",
+      "cefr": "B1",
+      "note_th": "ถูกเหมือนดินที่ไม่มีใครซื้อ — เป็น adjective ใช้ได้เลย It was dirt cheap. ฟังดูทีเล่นทีจริงกว่า very cheap",
+      "distractors": [
+        "a steal",
+        "dirty money",
+        "on a shoestring"
+      ]
+    },
+    {
+      "id": "a_steal",
+      "word": "a steal",
+      "pos": "phrase",
+      "ipa": "/ə stiːl/",
+      "reading_th": "อะ สตีล",
+      "meaning_th": "ถูกจนเหมือนได้ฟรี",
+      "emoji": "🛍️",
+      "example_en": "At that price, this jacket is a steal!",
+      "example_th": "ราคานี้แจ็กเก็ตตัวนี้ถูกจนเหมือนได้ฟรีเลย",
+      "cefr": "B1",
+      "note_th": "steal = ขโมย ถูกจนเหมือนขโมยมา — ใช้เป็นคำนามพร้อม a เสมอ ต่างจาก a rip-off ที่แพงจนเหมือนโดนปล้น",
+      "distractors": [
+        "a rip-off",
+        "dirt cheap",
+        "steal the show"
+      ]
+    },
+    {
+      "id": "on_a_shoestring",
+      "word": "on a shoestring",
+      "pos": "phrase",
+      "ipa": "/ɒn ə ˈʃuːstrɪŋ/",
+      "reading_th": "ออน อะ ชู-สตริง",
+      "meaning_th": "ด้วยงบจำกัดสุดๆ",
+      "emoji": "👟",
+      "example_en": "They travelled around Europe on a shoestring.",
+      "example_th": "พวกเขาเที่ยวทั่วยุโรปด้วยงบจำกัดสุดๆ",
+      "cefr": "B2",
+      "note_th": "งบบางเท่าเชือกผูกรองเท้า — มักเจอเป็น shoestring budget ใช้กับทริปประหยัดและสตาร์ทอัพเล็กๆ",
+      "distractors": [
+        "dirt cheap",
+        "tighten your belt",
+        "on the house"
+      ]
+    },
+    {
+      "id": "from_rags_to_riches",
+      "word": "from rags to riches",
+      "pos": "phrase",
+      "ipa": "/frəm ræɡz tə ˈrɪtʃɪz/",
+      "reading_th": "ฟรอม แร็กส์ ทู ริช-เชส",
+      "meaning_th": "จากยากจนสู่ร่ำรวย",
+      "emoji": "👑",
+      "example_en": "His story went from rags to riches in ten years.",
+      "example_th": "เรื่องของเขาเปลี่ยนจากยากจนสู่ร่ำรวยภายในสิบปี",
+      "cefr": "B2",
+      "note_th": "rags = ผ้าขี้ริ้ว riches = ความร่ำรวย — ใช้บรรยายชีวิตเจ้าสัวหรือพล็อตหนัง a rags-to-riches story",
+      "distractors": [
+        "rich and famous",
+        "from scratch",
+        "in the red"
+      ]
+    },
+    {
+      "id": "over_the_moon",
+      "word": "over the moon",
+      "pos": "phrase",
+      "ipa": "/ˈoʊvər ðə muːn/",
+      "reading_th": "โอ-เวอร์ เดอะ มูน",
+      "meaning_th": "ดีใจสุดๆ",
+      "emoji": "🌙",
+      "example_en": "She was over the moon when she got the job.",
+      "example_th": "เธอดีใจสุดๆ ตอนได้งาน",
+      "cefr": "B1",
+      "note_th": "ดีใจจนกระโดดข้ามดวงจันทร์ มาจากเพลงกล่อมเด็กอังกฤษ — ฝั่งอังกฤษใช้เยอะมาก โดยเฉพาะนักฟุตบอลหลังชนะ",
+      "distractors": [
+        "on cloud nine",
+        "once in a blue moon",
+        "over the top"
+      ]
+    },
+    {
+      "id": "on_cloud_nine",
+      "word": "on cloud nine",
+      "pos": "phrase",
+      "ipa": "/ɒn klaʊd naɪn/",
+      "reading_th": "ออน คลาวด์ ไนน์",
+      "meaning_th": "มีความสุขเหมือนลอยได้",
+      "emoji": "☁️",
+      "example_en": "I've been on cloud nine since the wedding.",
+      "example_th": "ฉันมีความสุขเหมือนลอยได้ตั้งแต่งานแต่ง",
+      "cefr": "B1",
+      "note_th": "เมฆชั้นที่เก้าคือเมฆที่สูงที่สุดตามตำราอุตุเก่า — ใช้กับความสุขจากความรักหรือข่าวดี ไม่ใส่ the",
+      "distractors": [
+        "over the moon",
+        "in seventh heaven",
+        "on edge"
+      ]
+    },
+    {
+      "id": "down_in_the_dumps",
+      "word": "down in the dumps",
+      "pos": "phrase",
+      "ipa": "/daʊn ɪn ðə dʌmps/",
+      "reading_th": "ดาวน์ อิน เดอะ ดัมพ์ส",
+      "meaning_th": "ซึมเศร้าหดหู่",
+      "emoji": "😞",
+      "example_en": "He's been down in the dumps since his team lost.",
+      "example_th": "เขาซึมหดหู่ตั้งแต่ทีมแพ้",
+      "cefr": "B1",
+      "note_th": "dump = กองขยะ อารมณ์ตกต่ำเหมือนอยู่ในกองขยะ — เศร้าแบบชั่วคราว ใช้แบบเป็นกันเอง ไม่ใช่โรคซึมเศร้า",
+      "distractors": [
+        "under the weather",
+        "down to earth",
+        "fed up"
+      ]
+    },
+    {
+      "id": "butterflies_in_my_stomach",
+      "word": "butterflies in my stomach",
+      "pos": "phrase",
+      "ipa": "/ˈbʌtərflaɪz ɪn maɪ ˈstʌmək/",
+      "reading_th": "บัท-เทอร์-ฟลายส์ อิน มาย สตะ-มัค",
+      "meaning_th": "ตื่นเต้นจนท้องไส้ปั่นป่วน",
+      "emoji": "🦋",
+      "example_en": "I get butterflies in my stomach before every interview.",
+      "example_th": "ฉันตื่นเต้นจนท้องไส้ปั่นป่วนก่อนสัมภาษณ์ทุกครั้ง",
+      "cefr": "B1",
+      "note_th": "ผีเสื้อบินวนในท้องคือความตื่นเต้นแบบเกร็งๆ — ใช้ได้ทั้งตอนประหม่าก่อนขึ้นเวทีและตอนเจอคนที่ชอบ",
+      "distractors": [
+        "cold feet",
+        "on edge",
+        "social butterfly"
+      ]
+    },
+    {
+      "id": "fed_up",
+      "word": "fed up",
+      "pos": "phrase",
+      "ipa": "/fed ʌp/",
+      "reading_th": "เฟด อัพ",
+      "meaning_th": "เบื่อเซ็งสุดทน",
+      "emoji": "😤",
+      "example_en": "I'm fed up with the traffic in this city.",
+      "example_th": "ฉันเบื่อเซ็งสุดทนกับรถติดในเมืองนี้",
+      "cefr": "B1",
+      "note_th": "fed มาจาก feed คือถูกป้อนจนอิ่มเกินรับไม่ไหว — ตามด้วย with เสมอ fed up with แรงกว่า bored with เยอะ",
+      "distractors": [
+        "sick and tired",
+        "full up",
+        "feed up"
+      ]
+    },
+    {
+      "id": "freak_out",
+      "word": "freak out",
+      "pos": "phrase",
+      "ipa": "/friːk aʊt/",
+      "reading_th": "ฟรีค เอาท์",
+      "meaning_th": "สติแตก แตกตื่น",
+      "emoji": "😱",
+      "example_en": "Don't freak out, the exam results aren't out yet.",
+      "example_th": "อย่าเพิ่งสติแตก ผลสอบยังไม่ออกเลย",
+      "cefr": "B1",
+      "note_th": "ภาษาพูดวัยรุ่น ใช้ได้ทั้งตกใจกลัว โกรธ หรือตื่นเต้นเกินเหตุ — ทำให้คนอื่นสติแตกก็ได้ It freaked me out.",
+      "distractors": [
+        "chill out",
+        "hit the roof",
+        "fed up"
+      ]
+    },
+    {
+      "id": "hit_the_roof",
+      "word": "hit the roof",
+      "pos": "phrase",
+      "ipa": "/hɪt ðə ruːf/",
+      "reading_th": "ฮิท เดอะ รูฟ",
+      "meaning_th": "โกรธจัดระเบิดลง",
+      "emoji": "🌋",
+      "example_en": "Dad will hit the roof if he sees this dent.",
+      "example_th": "พ่อโกรธจัดแน่ถ้าเห็นรอยบุบนี่",
+      "cefr": "B1",
+      "note_th": "โกรธจนกระเด้งชนเพดาน — ความหมายเดียวกับ hit the ceiling และ blow your top ใช้เล่าเหตุการณ์มากกว่าพูดกับคนที่กำลังโกรธ",
+      "distractors": [
+        "hit it off",
+        "through the roof",
+        "freak out"
+      ]
+    },
+    {
+      "id": "drive_me_up_the_wall",
+      "word": "drive me up the wall",
+      "pos": "phrase",
+      "ipa": "/draɪv miː ʌp ðə wɔːl/",
+      "reading_th": "ไดรฟ์ มี อัพ เดอะ วอล",
+      "meaning_th": "ทำให้หงุดหงิดจะบ้าตาย",
+      "emoji": "🧱",
+      "example_en": "That dripping tap drives me up the wall at night.",
+      "example_th": "ก๊อกน้ำหยดติ๋งๆ นั่นทำฉันหงุดหงิดจะบ้าตายตอนกลางคืน",
+      "cefr": "B2",
+      "note_th": "รำคาญจนอยากปีนกำแพงหนี — เปลี่ยนกรรมได้ drive him up the wall ความหมายเดียวกับ drive someone crazy",
+      "distractors": [
+        "get on my nerves",
+        "hit the wall",
+        "drive home"
+      ]
+    },
+    {
+      "id": "on_edge",
+      "word": "on edge",
+      "pos": "phrase",
+      "ipa": "/ɒn edʒ/",
+      "reading_th": "ออน เอดจ์",
+      "meaning_th": "กระวนกระวาย ประสาทตึง",
+      "emoji": "😬",
+      "example_en": "Everyone was on edge waiting for the results.",
+      "example_th": "ทุกคนกระวนกระวายรอฟังผล",
+      "cefr": "B2",
+      "note_th": "ยืนอยู่บนขอบจนจะร่วง — อย่าสับสนกับ on the edge of my seat ที่แปลว่าลุ้นสนุกจนนั่งไม่ติด",
+      "distractors": [
+        "on the edge of my seat",
+        "butterflies in my stomach",
+        "cutting edge"
+      ]
+    },
+    {
+      "id": "weight_off_my_shoulders",
+      "word": "a weight off my shoulders",
+      "pos": "phrase",
+      "ipa": "/ə weɪt ɔːf maɪ ˈʃoʊldərz/",
+      "reading_th": "อะ เวท ออฟ มาย โชล-เดอร์ส",
+      "meaning_th": "โล่งอกยกภูเขาออกจากอก",
+      "emoji": "😮‍💨",
+      "example_en": "Passing the exam was a huge weight off my shoulders.",
+      "example_th": "สอบผ่านนี่โล่งอกเหมือนยกภูเขาออกจากอกเลย",
+      "cefr": "B2",
+      "note_th": "ไทยยกภูเขาออกจากอก ฝรั่งยกน้ำหนักออกจากบ่า — พูดสั้นๆ ตอนโล่งใจได้ว่า What a relief!",
+      "distractors": [
+        "pull your weight",
+        "cold shoulder",
+        "off the hook"
+      ]
+    },
+    {
+      "id": "sick_and_tired",
+      "word": "sick and tired",
+      "pos": "phrase",
+      "ipa": "/sɪk ənd ˈtaɪərd/",
+      "reading_th": "ซิค แอนด์ ไท-เอิร์ด",
+      "meaning_th": "เอือมระอาเต็มทน",
+      "emoji": "🙄",
+      "example_en": "I'm sick and tired of his excuses.",
+      "example_th": "ฉันเอือมระอากับข้ออ้างของเขาเต็มทน",
+      "cefr": "B1",
+      "note_th": "ไม่ได้ป่วยหรือเหนื่อยจริง แต่เอือมจนไม่ไหว — ตามด้วย of เสมอ sick and tired of แรงกว่า fed up อีกขั้น",
+      "distractors": [
+        "fed up",
+        "under the weather",
+        "dead tired"
+      ]
+    },
+    {
+      "id": "blow_off_steam",
+      "word": "blow off steam",
+      "pos": "phrase",
+      "ipa": "/bloʊ ɔːf stiːm/",
+      "reading_th": "โบลว์ ออฟ สตีม",
+      "meaning_th": "ระบายความเครียด",
+      "emoji": "♨️",
+      "example_en": "I go boxing after work to blow off steam.",
+      "example_th": "ฉันไปต่อยมวยหลังเลิกงานเพื่อระบายความเครียด",
+      "cefr": "B2",
+      "note_th": "หม้อไอน้ำต้องปล่อยไอออกไม่งั้นระเบิด — ใช้กับการออกกำลัง ร้องคาราโอเกะ หรือบ่นให้เพื่อนฟัง ฝั่งอังกฤษพูด let off steam",
+      "distractors": [
+        "run out of steam",
+        "blow up",
+        "freak out"
+      ]
+    },
+    {
+      "id": "get_on_my_nerves",
+      "word": "get on my nerves",
+      "pos": "phrase",
+      "ipa": "/ɡet ɒn maɪ nɜːrvz/",
+      "reading_th": "เก็ท ออน มาย เนิร์ฟส์",
+      "meaning_th": "กวนประสาท น่ารำคาญ",
+      "emoji": "😒",
+      "example_en": "His loud chewing really gets on my nerves.",
+      "example_th": "เสียงเคี้ยวดังๆ ของเขากวนประสาทฉันจริงๆ",
+      "cefr": "B1",
+      "note_th": "เหยียบอยู่บนเส้นประสาท — เบากว่า drive me up the wall นิดหน่อย ใช้กับนิสัยเล็กๆ ที่น่ารำคาญ",
+      "distractors": [
+        "drive me up the wall",
+        "get on with",
+        "lose my nerve"
+      ]
+    },
+    {
+      "id": "mixed_feelings",
+      "word": "mixed feelings",
+      "pos": "phrase",
+      "ipa": "/mɪkst ˈfiːlɪŋz/",
+      "reading_th": "มิกซ์ท ฟีล-ลิ่งส์",
+      "meaning_th": "รู้สึกครึ่งๆ กลางๆ",
+      "emoji": "🤔",
+      "example_en": "I have mixed feelings about moving abroad.",
+      "example_th": "ฉันรู้สึกครึ่งๆ กลางๆ กับการย้ายไปต่างประเทศ",
+      "cefr": "B1",
+      "note_th": "ดีใจและกังวลผสมกัน — ใช้กับ have ... about เสมอ เป็นคำตอบสุภาพเวลาไม่อยากบอกว่าชอบหรือไม่ชอบ",
+      "distractors": [
+        "second thoughts",
+        "hard feelings",
+        "on the fence"
+      ]
+    },
+    {
+      "id": "head_over_heels",
+      "word": "head over heels",
+      "pos": "phrase",
+      "ipa": "/hed ˈoʊvər hiːlz/",
+      "reading_th": "เฮด โอ-เวอร์ ฮีลส์",
+      "meaning_th": "หลงรักหัวปักหัวปำ",
+      "emoji": "😍",
+      "example_en": "He fell head over heels for her in one week.",
+      "example_th": "เขาหลงรักเธอหัวปักหัวปำภายในสัปดาห์เดียว",
+      "cefr": "B1",
+      "note_th": "รักจนตีลังกาหัวทิ่ม — ใช้ fall head over heels in love with หรือ for someone ไทยพูดว่าหัวปักหัวปำเหมือนกันเลย",
+      "distractors": [
+        "heads up",
+        "over the moon",
+        "head start"
+      ]
+    },
+    {
+      "id": "tie_the_knot",
+      "word": "tie the knot",
+      "pos": "phrase",
+      "ipa": "/taɪ ðə nɑːt/",
+      "reading_th": "ไท เดอะ น็อท",
+      "meaning_th": "แต่งงาน",
+      "emoji": "💍",
+      "example_en": "They plan to tie the knot next spring in Chiang Mai.",
+      "example_th": "พวกเขาวางแผนแต่งงานฤดูใบไม้ผลิหน้าที่เชียงใหม่",
+      "cefr": "B1",
+      "note_th": "ผูกปมคือผูกชีวิตสองคนเข้าด้วยกัน มาจากพิธีผูกมือสมัยโบราณ — ภาษาพาดหัวข่าวดาราใช้บ่อยกว่า get married",
+      "distractors": [
+        "pop the question",
+        "learn the ropes",
+        "tie up"
+      ]
+    },
+    {
+      "id": "pop_the_question",
+      "word": "pop the question",
+      "pos": "phrase",
+      "ipa": "/pɑːp ðə ˈkwestʃən/",
+      "reading_th": "พ็อพ เดอะ เควส-ชั่น",
+      "meaning_th": "ขอแต่งงาน",
+      "emoji": "💐",
+      "example_en": "He's going to pop the question on her birthday.",
+      "example_th": "เขาจะขอเธอแต่งงานในวันเกิดของเธอ",
+      "cefr": "B1",
+      "note_th": "pop = โผล่ขึ้นมาทันที คำถามนั้นมีคำถามเดียว Will you marry me? — ใช้กับฝ่ายที่เป็นคนขอ ส่วนคำตอบคือ say yes",
+      "distractors": [
+        "tie the knot",
+        "pop up",
+        "ask out"
+      ]
+    },
+    {
+      "id": "better_half",
+      "word": "better half",
+      "pos": "phrase",
+      "ipa": "/ˈbetər hæf/",
+      "reading_th": "เบท-เทอร์ ฮาฟ",
+      "meaning_th": "คู่ชีวิต (พูดแบบน่ารัก)",
+      "emoji": "💑",
+      "example_en": "Let me introduce my better half, Nok.",
+      "example_th": "ขอแนะนำคู่ชีวิตของผม นก",
+      "cefr": "B1",
+      "note_th": "ครึ่งที่ดีกว่าของตัวเองคือแฟนหรือคู่สมรส — เป็นคำยกย่องเล่นๆ ใช้แนะนำคู่ของตัวเองให้คนอื่นรู้จัก",
+      "distractors": [
+        "other half",
+        "best man",
+        "old flame"
+      ]
+    },
+    {
+      "id": "third_wheel",
+      "word": "third wheel",
+      "pos": "phrase",
+      "ipa": "/θɜːrd wiːl/",
+      "reading_th": "เธิร์ด วีล",
+      "meaning_th": "ส่วนเกินของคู่รัก",
+      "emoji": "🛞",
+      "example_en": "I felt like a third wheel at dinner with them.",
+      "example_th": "ฉันรู้สึกเป็นส่วนเกินตอนกินข้าวกับคู่นั้น",
+      "cefr": "B1",
+      "note_th": "จักรยานมีสองล้อ ล้อที่สามไม่จำเป็น — ไทยว่าก้างขวางคอ ฝรั่งอังกฤษบางคนพูด gooseberry",
+      "distractors": [
+        "spare tire",
+        "better half",
+        "big wheel"
+      ]
+    },
+    {
+      "id": "old_flame",
+      "word": "old flame",
+      "pos": "phrase",
+      "ipa": "/oʊld fleɪm/",
+      "reading_th": "โอลด์ เฟลม",
+      "meaning_th": "แฟนเก่าที่ยังคิดถึง",
+      "emoji": "🔥",
+      "example_en": "She ran into an old flame at the reunion.",
+      "example_th": "เธอบังเอิญเจอแฟนเก่าที่งานรวมรุ่น",
+      "cefr": "B2",
+      "note_th": "flame = เปลวไฟแห่งรัก เก่าแต่ยังไม่ดับสนิท — นุ่มนวลกว่า ex และมักมีนัยว่ายังรู้สึกอยู่",
+      "distractors": [
+        "old school",
+        "better half",
+        "first love"
+      ]
+    },
+    {
+      "id": "through_thick_and_thin",
+      "word": "through thick and thin",
+      "pos": "phrase",
+      "ipa": "/θruː θɪk ənd θɪn/",
+      "reading_th": "ธรู ธิค แอนด์ ธิน",
+      "meaning_th": "ทั้งยามสุขและยามทุกข์",
+      "emoji": "🤲",
+      "example_en": "My best friend has stood by me through thick and thin.",
+      "example_th": "เพื่อนสนิทอยู่เคียงข้างฉันทั้งยามสุขและยามทุกข์",
+      "cefr": "B2",
+      "note_th": "มาจากการเดินป่าทั้งพงหนาและป่าโปร่ง — เจอในคำสาบานงานแต่งและคำพูดถึงเพื่อนแท้ ฝึกเสียง th สามคำรวด",
+      "distractors": [
+        "thick-skinned",
+        "see eye to eye",
+        "through and through"
+      ]
+    },
+    {
+      "id": "see_eye_to_eye",
+      "word": "see eye to eye",
+      "pos": "phrase",
+      "ipa": "/siː aɪ tə aɪ/",
+      "reading_th": "ซี อาย ทู อาย",
+      "meaning_th": "เห็นตรงกัน",
+      "emoji": "👀",
+      "example_en": "My mom and I don't always see eye to eye on money.",
+      "example_th": "ฉันกับแม่ไม่ได้เห็นตรงกันเรื่องเงินเสมอไป",
+      "cefr": "B2",
+      "note_th": "มองตากันแล้วเห็นสิ่งเดียวกัน — ส่วนใหญ่ใช้ในรูปปฏิเสธ don't see eye to eye = ความเห็นไม่ตรงกันแบบสุภาพ",
+      "distractors": [
+        "on the same page",
+        "eye contact",
+        "keep an eye on"
+      ]
+    },
+    {
+      "id": "cold_shoulder",
+      "word": "cold shoulder",
+      "pos": "phrase",
+      "ipa": "/koʊld ˈʃoʊldər/",
+      "reading_th": "โคลด์ โชล-เดอร์",
+      "meaning_th": "ทำเมิน ไม่ยอมคุยด้วย",
+      "emoji": "🥶",
+      "example_en": "She gave me the cold shoulder after our argument.",
+      "example_th": "เธอทำเมินใส่ฉันหลังจากที่เราทะเลาะกัน",
+      "cefr": "B2",
+      "note_th": "สมัยก่อนเจ้าบ้านเสิร์ฟเนื้อไหล่เย็นๆ ให้แขกที่ไม่อยากต้อนรับ — ใช้ give someone the cold shoulder คล้าย silent treatment",
+      "distractors": [
+        "cold feet",
+        "silent treatment",
+        "shoulder to cry on"
+      ]
+    },
+    {
+      "id": "bury_the_hatchet",
+      "word": "bury the hatchet",
+      "pos": "phrase",
+      "ipa": "/ˈberi ðə ˈhætʃɪt/",
+      "reading_th": "เบ-รี่ เดอะ แฮท-ชิท",
+      "meaning_th": "เลิกแค้น คืนดีกัน",
+      "emoji": "🪓",
+      "example_en": "It's time to bury the hatchet and be friends again.",
+      "example_th": "ถึงเวลาเลิกแค้นแล้วกลับมาเป็นเพื่อนกันเถอะ",
+      "cefr": "B2",
+      "note_th": "ชนพื้นเมืองอเมริกันฝังขวานเป็นสัญญาสงบศึก — ใช้กับความขัดแย้งที่ยืดเยื้อนาน ไม่ใช่งอนกันวันเดียว",
+      "distractors": [
+        "clear the air",
+        "bite the bullet",
+        "dig up dirt"
+      ]
+    },
+    {
+      "id": "on_the_rocks",
+      "word": "on the rocks",
+      "pos": "phrase",
+      "ipa": "/ɒn ðə rɑːks/",
+      "reading_th": "ออน เดอะ ร็อคส์",
+      "meaning_th": "ความสัมพันธ์ใกล้พัง",
+      "emoji": "🪨",
+      "example_en": "Their marriage has been on the rocks for a year.",
+      "example_th": "ชีวิตคู่ของพวกเขาใกล้พังมาปีหนึ่งแล้ว",
+      "cefr": "B2",
+      "note_th": "เรือเกยหินใกล้อับปาง — ระวัง! สั่งเหล้า whisky on the rocks แปลว่าใส่น้ำแข็ง คนละเรื่องกันเลย",
+      "distractors": [
+        "rock bottom",
+        "on the fence",
+        "split up"
+      ]
+    },
+    {
+      "id": "play_hard_to_get",
+      "word": "play hard to get",
+      "pos": "phrase",
+      "ipa": "/pleɪ hɑːrd tə ɡet/",
+      "reading_th": "เพลย์ ฮาร์ด ทู เก็ท",
+      "meaning_th": "แกล้งทำเป็นไม่สนใจ",
+      "emoji": "😏",
+      "example_en": "Stop playing hard to get and text him back!",
+      "example_th": "เลิกแกล้งทำเป็นไม่สนใจแล้วตอบข้อความเขาซะที",
+      "cefr": "B1",
+      "note_th": "ทำตัวให้ได้มายาก เพื่อให้อีกฝ่ายอยากได้มากขึ้น — ใช้ได้ทั้งเรื่องจีบกันและการต่อรองธุรกิจ",
+      "distractors": [
+        "play it by ear",
+        "play it cool",
+        "hard to please"
+      ]
+    },
+    {
+      "id": "two_peas_in_a_pod",
+      "word": "two peas in a pod",
+      "pos": "phrase",
+      "ipa": "/tuː piːz ɪn ə pɑːd/",
+      "reading_th": "ทู พีส์ อิน อะ พ็อด",
+      "meaning_th": "เหมือนกันราวกับฝาแฝด",
+      "emoji": "🫛",
+      "example_en": "Those two are like two peas in a pod.",
+      "example_th": "สองคนนั้นเหมือนกันราวกับฝาแฝด",
+      "cefr": "B2",
+      "note_th": "ถั่วลันเตาสองเม็ดในฝักเดียวกันหน้าตาเหมือนกันเป๊ะ — ใช้กับเพื่อนซี้หรือพี่น้องที่นิสัยเหมือนกัน ใส่ like นำหน้า",
+      "distractors": [
+        "birds of a feather",
+        "third wheel",
+        "two-faced"
+      ]
+    },
+    {
+      "id": "clear_the_air",
+      "word": "clear the air",
+      "pos": "phrase",
+      "ipa": "/klɪr ði er/",
+      "reading_th": "เคลียร์ ดิ แอร์",
+      "meaning_th": "เคลียร์ใจกัน",
+      "emoji": "🌤️",
+      "example_en": "We should talk and clear the air before the trip.",
+      "example_th": "เราควรคุยเคลียร์ใจกันก่อนไปเที่ยว",
+      "cefr": "B1",
+      "note_th": "อากาศอึมครึมหลังทะเลาะต้องทำให้ใส — คนไทยพูดเคลียร์กันก็มาจากคำนี้ แต่ฝรั่งต้องพูดเต็ม clear the air",
+      "distractors": [
+        "bury the hatchet",
+        "clear up",
+        "up in the air"
+      ]
+    },
+    {
+      "id": "on_the_fence",
+      "word": "on the fence",
+      "pos": "phrase",
+      "ipa": "/ɒn ðə fens/",
+      "reading_th": "ออน เดอะ เฟนซ์",
+      "meaning_th": "ยังลังเลตัดสินใจไม่ได้",
+      "emoji": "🤷",
+      "example_en": "I'm still on the fence about buying a car.",
+      "example_th": "ฉันยังลังเลอยู่ว่าจะซื้อรถดีไหม",
+      "cefr": "B1",
+      "note_th": "นั่งคร่อมรั้ว ไม่ลงไปฝั่งไหน — ตามด้วย about ส่วนคนที่ลังเลตลอดเรียกว่า fence-sitter",
+      "distractors": [
+        "second thoughts",
+        "sit tight",
+        "mixed feelings"
+      ]
+    },
+    {
+      "id": "sleep_on_it",
+      "word": "sleep on it",
+      "pos": "phrase",
+      "ipa": "/sliːp ɒn ɪt/",
+      "reading_th": "สลีพ ออน อิท",
+      "meaning_th": "ขอคิดดูสักคืน",
+      "emoji": "🛏️",
+      "example_en": "It's a big decision, so sleep on it and tell me tomorrow.",
+      "example_th": "เป็นเรื่องใหญ่ ขอคิดดูสักคืนแล้วค่อยบอกพรุ่งนี้นะ",
+      "cefr": "B1",
+      "note_th": "นอนทับเรื่องนั้นไว้หนึ่งคืนแล้วค่อยตัดสินใจ — วิธีปฏิเสธการกดดันแบบสุภาพ Let me sleep on it.",
+      "distractors": [
+        "sleep in",
+        "take the plunge",
+        "lose sleep over"
+      ]
+    },
+    {
+      "id": "take_the_plunge",
+      "word": "take the plunge",
+      "pos": "phrase",
+      "ipa": "/teɪk ðə plʌndʒ/",
+      "reading_th": "เทค เดอะ พลันจ์",
+      "meaning_th": "ตัดสินใจเสี่ยงครั้งใหญ่",
+      "emoji": "🏊",
+      "example_en": "After years of planning, we finally decided to take the plunge.",
+      "example_th": "หลังวางแผนมาหลายปี ในที่สุดเราก็ตัดสินใจเสี่ยงครั้งใหญ่",
+      "cefr": "B2",
+      "note_th": "plunge = กระโดดลงน้ำ กลัวแต่ก็โดด — ใช้กับลาออกมาทำธุรกิจ แต่งงาน หรือย้ายประเทศ",
+      "distractors": [
+        "sleep on it",
+        "take a break",
+        "bite the bullet"
+      ]
+    },
+    {
+      "id": "go_with_the_flow",
+      "word": "go with the flow",
+      "pos": "phrase",
+      "ipa": "/ɡoʊ wɪð ðə floʊ/",
+      "reading_th": "โก วิธ เดอะ โฟลว์",
+      "meaning_th": "ปล่อยไปตามน้ำ",
+      "emoji": "🌊",
+      "example_en": "I don't plan my holidays, I just go with the flow.",
+      "example_th": "ฉันไม่วางแผนวันหยุด ปล่อยไปตามน้ำ",
+      "cefr": "B1",
+      "note_th": "ไทยว่าไปตามน้ำเหมือนกันเป๊ะ — บอกนิสัยชิลๆ ปรับตัวง่าย ไม่ใช่เซ็งๆ ยอมแพ้",
+      "distractors": [
+        "play it by ear",
+        "go against the grain",
+        "go the extra mile"
+      ]
+    },
+    {
+      "id": "play_it_by_ear",
+      "word": "play it by ear",
+      "pos": "phrase",
+      "ipa": "/pleɪ ɪt baɪ ɪr/",
+      "reading_th": "เพลย์ อิท บาย เอียร์",
+      "meaning_th": "ดูหน้างานค่อยว่ากัน",
+      "emoji": "🎹",
+      "example_en": "We don't have a plan for Sunday, let's play it by ear.",
+      "example_th": "วันอาทิตย์ยังไม่มีแผน ดูหน้างานค่อยว่ากัน",
+      "cefr": "B2",
+      "note_th": "นักดนตรีเล่นตามหูโดยไม่มีโน้ต — ต่างจาก go with the flow ตรงที่เน้นว่ายังไม่ตัดสินใจ รอดูสถานการณ์",
+      "distractors": [
+        "go with the flow",
+        "play hard to get",
+        "all ears"
+      ]
+    },
+    {
+      "id": "fingers_crossed",
+      "word": "fingers crossed",
+      "pos": "phrase",
+      "ipa": "/ˈfɪŋɡərz krɔːst/",
+      "reading_th": "ฟิง-เกอร์ส ครอสท์",
+      "meaning_th": "ภาวนาขอให้โชคดี",
+      "emoji": "🤞",
+      "example_en": "Fingers crossed that it doesn't rain on the wedding day!",
+      "example_th": "ภาวนาขอให้วันแต่งงานฝนไม่ตกนะ",
+      "cefr": "A2",
+      "note_th": "ไขว้นิ้วชี้กับนิ้วกลางเป็นท่าขอโชค คืออิโมจิ 🤞 นั่นเอง — พูดว่า Fingers crossed! ได้เลยไม่ต้องมีประธาน",
+      "distractors": [
+        "break a leg",
+        "touch wood",
+        "cross the line"
+      ]
+    },
+    {
+      "id": "break_a_leg",
+      "word": "break a leg",
+      "pos": "phrase",
+      "ipa": "/breɪk ə leɡ/",
+      "reading_th": "เบรค อะ เล็ก",
+      "meaning_th": "ขอให้โชคดี (ก่อนขึ้นเวที)",
+      "emoji": "🎭",
+      "example_en": "Break a leg at your presentation this afternoon!",
+      "example_th": "ขอให้พรีเซนต์บ่ายนี้โชคดีนะ",
+      "cefr": "B1",
+      "note_th": "คนละครเชื่อว่าพูด good luck จะซวย เลยแช่งแทน — ใช้กับการแสดง สัมภาษณ์ หรือสอบ แต่อย่าพูดกับคนป่วยนะ",
+      "distractors": [
+        "fingers crossed",
+        "break the ice",
+        "pull my leg"
+      ]
+    },
+    {
+      "id": "hit_the_jackpot",
+      "word": "hit the jackpot",
+      "pos": "phrase",
+      "ipa": "/hɪt ðə ˈdʒækpɑːt/",
+      "reading_th": "ฮิท เดอะ แจ็ค-พ็อท",
+      "meaning_th": "ถูกหวย โชคดีเบอร์ใหญ่",
+      "emoji": "🎰",
+      "example_en": "We hit the jackpot with this apartment, it's perfect.",
+      "example_th": "เราโชคดีเบอร์ใหญ่กับอพาร์ตเมนต์นี้ มันเพอร์เฟกต์เลย",
+      "cefr": "B1",
+      "note_th": "jackpot คือรางวัลใหญ่สุดในตู้สล็อต — ใช้ได้กับโชคทุกเรื่อง เจอบ้านดี ได้งานดี ไม่ต้องถูกหวยจริง",
+      "distractors": [
+        "hit it off",
+        "strike gold",
+        "beginner's luck"
+      ]
+    },
+    {
+      "id": "blessing_in_disguise",
+      "word": "blessing in disguise",
+      "pos": "phrase",
+      "ipa": "/ˈblesɪŋ ɪn dɪsˈɡaɪz/",
+      "reading_th": "เบลส-ซิ่ง อิน ดิส-ไกซ์",
+      "meaning_th": "โชคร้ายที่กลายเป็นโชคดี",
+      "emoji": "🎁",
+      "example_en": "Losing that job was a blessing in disguise for me.",
+      "example_th": "ตกงานครั้งนั้นกลายเป็นโชคดีที่แฝงมาสำหรับฉัน",
+      "cefr": "B2",
+      "note_th": "พรที่ปลอมตัวมาเป็นเรื่องร้าย — ใส่ a นำหน้า ใช้ย้อนมองเหตุการณ์ที่ผ่านไปแล้ว เซียมซีฝรั่งแท้ๆ",
+      "distractors": [
+        "silver lining",
+        "in disguise",
+        "mixed blessing"
+      ]
+    },
+    {
+      "id": "bite_the_bullet",
+      "word": "bite the bullet",
+      "pos": "phrase",
+      "ipa": "/baɪt ðə ˈbʊlɪt/",
+      "reading_th": "ไบท์ เดอะ บุล-ลิท",
+      "meaning_th": "กัดฟันทำสิ่งที่ไม่อยากทำ",
+      "emoji": "😬",
+      "example_en": "I'll bite the bullet and go to the dentist tomorrow.",
+      "example_th": "ฉันจะกัดฟันไปหาหมอฟันพรุ่งนี้",
+      "cefr": "B2",
+      "note_th": "ทหารสมัยก่อนกัดกระสุนไว้ตอนผ่าตัดไม่มียาชา — ไทยว่ากัดฟันสู้ ใช้กับเรื่องที่เลี่ยงมานาน",
+      "distractors": [
+        "take the plunge",
+        "bite your tongue",
+        "dodge a bullet"
+      ]
+    },
+    {
+      "id": "no_brainer",
+      "word": "no-brainer",
+      "pos": "phrase",
+      "ipa": "/noʊ ˈbreɪnər/",
+      "reading_th": "โน เบรน-เนอร์",
+      "meaning_th": "ไม่ต้องคิดเลย ชัดเจนอยู่แล้ว",
+      "emoji": "🧠",
+      "example_en": "Taking the free upgrade was a no-brainer.",
+      "example_th": "รับอัปเกรดฟรีนี่ไม่ต้องคิดเลย",
+      "cefr": "B1",
+      "note_th": "ตัดสินใจโดยไม่ต้องใช้สมอง — เป็นคำนาม It's a no-brainer. ใช้บ่อยในประชุมและพิตช์ขายของ",
+      "distractors": [
+        "piece of cake",
+        "brainstorm",
+        "no way"
+      ]
+    },
+    {
+      "id": "second_thoughts",
+      "word": "second thoughts",
+      "pos": "phrase",
+      "ipa": "/ˈsekənd θɔːts/",
+      "reading_th": "เซค-เคินด์ ธอทส์",
+      "meaning_th": "เริ่มไม่แน่ใจ เปลี่ยนใจ",
+      "emoji": "💭",
+      "example_en": "I'm having second thoughts about the new job.",
+      "example_th": "ฉันเริ่มไม่แน่ใจเรื่องงานใหม่แล้ว",
+      "cefr": "B1",
+      "note_th": "คิดครั้งที่สองแล้วไม่เหมือนครั้งแรก — have second thoughts about ส่วน On second thought, ... = เปลี่ยนใจดีกว่า",
+      "distractors": [
+        "mixed feelings",
+        "second chance",
+        "food for thought"
+      ]
+    },
+    {
+      "id": "beginners_luck",
+      "word": "beginner's luck",
+      "pos": "phrase",
+      "ipa": "/bɪˈɡɪnərz lʌk/",
+      "reading_th": "บิ-กิน-เนอร์ส ลัค",
+      "meaning_th": "โชคมือใหม่",
+      "emoji": "🍀",
+      "example_en": "I won my first game of pool, that's beginner's luck!",
+      "example_th": "ฉันชนะพูลเกมแรกเลย โชคมือใหม่ชัดๆ",
+      "cefr": "B1",
+      "note_th": "มือใหม่มักได้ของดีโดยไม่รู้ตัว — ใช้ถ่อมตัวตอนชนะ หรือแซวเพื่อนที่เพิ่งหัดแล้วดันชนะ",
+      "distractors": [
+        "hit the jackpot",
+        "long shot",
+        "tough luck"
+      ]
+    },
+    {
+      "id": "long_shot",
+      "word": "long shot",
+      "pos": "phrase",
+      "ipa": "/lɔːŋ ʃɑːt/",
+      "reading_th": "ลอง ช็อท",
+      "meaning_th": "โอกาสริบหรี่",
+      "emoji": "🎯",
+      "example_en": "Getting the scholarship is a long shot, but I'll try.",
+      "example_th": "ได้ทุนนี่โอกาสริบหรี่ แต่ฉันจะลองดู",
+      "cefr": "B2",
+      "note_th": "ยิงจากระยะไกลโอกาสโดนน้อย — ใส่ a นำหน้า ส่วน not by a long shot = ไม่ใกล้เคียงเลย",
+      "distractors": [
+        "shot in the dark",
+        "big shot",
+        "no-brainer"
+      ]
+    },
+    {
+      "id": "in_the_nick_of_time",
+      "word": "in the nick of time",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə nɪk əv taɪm/",
+      "reading_th": "อิน เดอะ นิค ออฟ ไทม์",
+      "meaning_th": "ทันเวลาเฉียดฉิว",
+      "emoji": "⏱️",
+      "example_en": "The ambulance arrived in the nick of time.",
+      "example_th": "รถพยาบาลมาถึงทันเวลาแบบเฉียดฉิว",
+      "cefr": "B2",
+      "note_th": "nick คือรอยบากเล็กๆ บนไม้นับเวลา ทันในรอยสุดท้าย — ต่างจาก just in time ตรงที่ลุ้นกว่าและเป็นสำนวนกว่า",
+      "distractors": [
+        "in no time",
+        "at the eleventh hour",
+        "on the dot"
+      ]
+    },
+    {
+      "id": "better_late_than_never",
+      "word": "better late than never",
+      "pos": "phrase",
+      "ipa": "/ˈbetər leɪt ðən ˈnevər/",
+      "reading_th": "เบท-เทอร์ เลท แดน เน-เวอร์",
+      "meaning_th": "มาช้ายังดีกว่าไม่มา",
+      "emoji": "🐢",
+      "example_en": "You finally joined the gym? Better late than never!",
+      "example_th": "ในที่สุดก็สมัครฟิตเนสเหรอ มาช้ายังดีกว่าไม่มา",
+      "cefr": "A2",
+      "note_th": "สุภาษิตใช้ปลอบใจหรือแซวคนมาสาย — ไทยว่าช้าดีกว่าไม่มา ตรงกันเป๊ะ พูดลอยๆ ไม่ต้องมีประธาน",
+      "distractors": [
+        "sooner or later",
+        "last but not least",
+        "in the long run"
+      ]
+    },
+    {
+      "id": "around_the_clock",
+      "word": "around the clock",
+      "pos": "phrase",
+      "ipa": "/əˈraʊnd ðə klɑːk/",
+      "reading_th": "อะ-ราวน์ เดอะ คล็อค",
+      "meaning_th": "ตลอด 24 ชั่วโมง",
+      "emoji": "🕐",
+      "example_en": "The hospital staff work around the clock.",
+      "example_th": "เจ้าหน้าที่โรงพยาบาลทำงานตลอด 24 ชั่วโมง",
+      "cefr": "B1",
+      "note_th": "เข็มนาฬิกาหมุนครบรอบ — ใช้เป็น adjective ก็ได้ around-the-clock service = บริการ 24 ชม. เจอในโฆษณา",
+      "distractors": [
+        "against the clock",
+        "all day long",
+        "on the dot"
+      ]
+    },
+    {
+      "id": "against_the_clock",
+      "word": "against the clock",
+      "pos": "phrase",
+      "ipa": "/əˈɡenst ðə klɑːk/",
+      "reading_th": "อะ-เกนสต์ เดอะ คล็อค",
+      "meaning_th": "แข่งกับเวลา",
+      "emoji": "⏳",
+      "example_en": "We're racing against the clock to launch before Friday.",
+      "example_th": "เรากำลังแข่งกับเวลาเพื่อเปิดตัวก่อนวันศุกร์",
+      "cefr": "B2",
+      "note_th": "สู้กับนาฬิกาที่เดินไม่หยุด — มักใช้คู่ race/work against the clock อย่าสับสนกับ around the clock ที่แปลว่าตลอดเวลา",
+      "distractors": [
+        "around the clock",
+        "beat the clock",
+        "crunch time"
+      ]
+    },
+    {
+      "id": "kill_time",
+      "word": "kill time",
+      "pos": "phrase",
+      "ipa": "/kɪl taɪm/",
+      "reading_th": "คิล ไทม์",
+      "meaning_th": "ฆ่าเวลา",
+      "emoji": "📱",
+      "example_en": "I play JUNYPOP to kill time at the airport.",
+      "example_th": "ฉันเล่น JUNYPOP ฆ่าเวลาที่สนามบิน",
+      "cefr": "A2",
+      "note_th": "ไทยก็ว่าฆ่าเวลาเหมือนกันเป๊ะ — ใช้ตอนรออะไรสักอย่างและต้องหาอะไรทำ มีกริยาเดียว kill ห้ามใช้ waste แทน",
+      "distractors": [
+        "waste time",
+        "time flies",
+        "lose track of time"
+      ]
+    },
+    {
+      "id": "once_in_a_blue_moon",
+      "word": "once in a blue moon",
+      "pos": "phrase",
+      "ipa": "/wʌns ɪn ə bluː muːn/",
+      "reading_th": "วันซ์ อิน อะ บลู มูน",
+      "meaning_th": "นานๆ ครั้งจริงๆ",
+      "emoji": "🌕",
+      "example_en": "We only eat at that fancy restaurant once in a blue moon.",
+      "example_th": "เรากินร้านหรูนั่นแค่นานๆ ครั้งจริงๆ",
+      "cefr": "B1",
+      "note_th": "blue moon คือพระจันทร์เต็มดวงครั้งที่สองในเดือนเดียว เกิดไม่กี่ปีครั้ง — วางท้ายประโยคเหมือน rarely",
+      "distractors": [
+        "out of the blue",
+        "over the moon",
+        "every now and then"
+      ]
+    },
+    {
+      "id": "hold_your_horses",
+      "word": "hold your horses",
+      "pos": "phrase",
+      "ipa": "/hoʊld jɔːr ˈhɔːrsɪz/",
+      "reading_th": "โฮลด์ ยัวร์ ฮอร์-สเซส",
+      "meaning_th": "ใจเย็นๆ อย่าเพิ่งรีบ",
+      "emoji": "🐎",
+      "example_en": "Hold your horses, we haven't checked the price yet.",
+      "example_th": "ใจเย็นๆ ก่อน เรายังไม่ได้ดูราคาเลย",
+      "cefr": "B1",
+      "note_th": "ดึงบังเหียนม้าไว้ก่อนออกตัว — ใช้เบรกคนที่จะรีบตัดสินใจ ฟังดูเป็นกันเองกว่า wait",
+      "distractors": [
+        "step on it",
+        "hold on tight",
+        "dark horse"
+      ]
+    },
+    {
+      "id": "in_no_time",
+      "word": "in no time",
+      "pos": "phrase",
+      "ipa": "/ɪn noʊ taɪm/",
+      "reading_th": "อิน โน ไทม์",
+      "meaning_th": "แป๊บเดียวเสร็จ",
+      "emoji": "⚡",
+      "example_en": "With the new app, I booked a taxi in no time.",
+      "example_th": "มีแอปใหม่ ฉันเรียกแท็กซี่ได้แป๊บเดียว",
+      "cefr": "A2",
+      "note_th": "ใช้เวลาแทบจะศูนย์ — ความหมายเดียวกับ very quickly วางท้ายประโยค ใช้ปลอบด้วยว่า You'll be fine in no time.",
+      "distractors": [
+        "in the nick of time",
+        "no time to lose",
+        "in time"
+      ]
+    },
+    {
+      "id": "at_the_eleventh_hour",
+      "word": "at the eleventh hour",
+      "pos": "phrase",
+      "ipa": "/æt ði ɪˈlevənθ ˈaʊər/",
+      "reading_th": "แอท ดิ อิ-เล-เวินธ์ อาว-เออร์",
+      "meaning_th": "นาทีสุดท้ายก่อนหมดเวลา",
+      "emoji": "🕚",
+      "example_en": "They signed the contract at the eleventh hour.",
+      "example_th": "พวกเขาเซ็นสัญญาในนาทีสุดท้ายก่อนหมดเวลา",
+      "cefr": "B2",
+      "note_th": "มาจากคัมภีร์ไบเบิล ชั่วโมงที่สิบเอ็ดคือชั่วโมงสุดท้ายของวันทำงาน — ศัพท์ข่าวการเมืองและดีลธุรกิจ",
+      "distractors": [
+        "in the nick of time",
+        "last minute",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "on_the_dot",
+      "word": "on the dot",
+      "pos": "phrase",
+      "ipa": "/ɒn ðə dɑːt/",
+      "reading_th": "ออน เดอะ ด็อท",
+      "meaning_th": "ตรงเวลาเป๊ะ",
+      "emoji": "🎯",
+      "example_en": "The train left at 8:15 on the dot.",
+      "example_th": "รถไฟออก 8.15 น. ตรงเป๊ะ",
+      "cefr": "B1",
+      "note_th": "dot คือจุดบนหน้าปัดนาฬิกา เข็มชี้ตรงจุดพอดี — ใช้หลังเวลาเสมอ at nine on the dot เป๊ะกว่า on time",
+      "distractors": [
+        "on time",
+        "in the nick of time",
+        "on the spot"
+      ]
+    },
+    {
+      "id": "time_flies",
+      "word": "time flies",
+      "pos": "phrase",
+      "ipa": "/taɪm flaɪz/",
+      "reading_th": "ไทม์ ฟลายส์",
+      "meaning_th": "เวลาผ่านไปเร็วจัง",
+      "emoji": "🕊️",
+      "example_en": "Time flies when you're having fun with friends.",
+      "example_th": "เวลาผ่านไปเร็วจังเวลาสนุกกับเพื่อน",
+      "cefr": "A2",
+      "note_th": "มาจากละติน tempus fugit เวลามีปีกบินหนี — พูดลอยๆ ว่า Time flies! หรือ How time flies! ตอนนึกได้ว่าผ่านมานานแล้ว",
+      "distractors": [
+        "kill time",
+        "time's up",
+        "lose track of time"
+      ]
+    },
+    {
+      "id": "crack_of_dawn",
+      "word": "crack of dawn",
+      "pos": "phrase",
+      "ipa": "/kræk əv dɔːn/",
+      "reading_th": "แครค ออฟ ดอน",
+      "meaning_th": "เช้าตรู่ไก่โห่",
+      "emoji": "🌅",
+      "example_en": "We left for the temple at the crack of dawn.",
+      "example_th": "เราออกเดินทางไปวัดตั้งแต่เช้าตรู่ไก่โห่",
+      "cefr": "B2",
+      "note_th": "crack คือรอยแตกของแสงแรกบนขอบฟ้า — ใช้ at the crack of dawn ไทยว่าตั้งแต่ไก่โห่ นิยมใช้บ่นว่าต้องตื่นเช้ามาก",
+      "distractors": [
+        "early bird",
+        "crack up",
+        "break of day"
+      ]
+    },
+    {
+      "id": "in_the_long_run",
+      "word": "in the long run",
+      "pos": "phrase",
+      "ipa": "/ɪn ðə lɔːŋ rʌn/",
+      "reading_th": "อิน เดอะ ลอง รัน",
+      "meaning_th": "ในระยะยาว",
+      "emoji": "🛤️",
+      "example_en": "Learning English will pay off in the long run.",
+      "example_th": "เรียนภาษาอังกฤษจะคุ้มค่าในระยะยาว",
+      "cefr": "B1",
+      "note_th": "มองการวิ่งระยะไกล ไม่ใช่ช่วงสั้น — ตรงข้ามคือ in the short run ศัพท์ข่าวเศรษฐกิจและคำแนะนำการลงทุน",
+      "distractors": [
+        "in a nutshell",
+        "on the run",
+        "in the short term"
+      ]
+    },
+    {
+      "id": "step_on_it",
+      "word": "step on it",
+      "pos": "phrase",
+      "ipa": "/step ɒn ɪt/",
+      "reading_th": "สเต็พ ออน อิท",
+      "meaning_th": "เร่งเครื่องเร็วเข้า",
+      "emoji": "🚕",
+      "example_en": "Step on it, my flight leaves in forty minutes!",
+      "example_th": "เร่งเครื่องเร็วเข้า เครื่องบินฉันออกอีกสี่สิบนาที",
+      "cefr": "B1",
+      "note_th": "เหยียบคันเร่งให้มิด it คือคันเร่ง — บอกคนขับแท็กซี่ได้ หรือใช้เร่งเพื่อนที่ทำอะไรช้า ตรงข้ามกับ hold your horses",
+      "distractors": [
+        "hold your horses",
+        "step down",
+        "watch your step"
+      ]
+    }
+  ]
+}

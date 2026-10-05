@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "household",
+    "name_en": "Housework & Tools",
+    "name_th": "งานบ้านและของใช้",
+    "emoji": "🧹",
+    "color_start": "#86EFAC",
+    "color_end": "#15803D",
+    "description_th": "งานบ้าน เครื่องมือช่าง ของใช้ในบ้าน และคำที่ใช้ตอนของพังแล้วต้องซ่อม",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "household_1",
+        "title_en": "Cleaning",
+        "title_th": "ทำความสะอาดบ้าน",
+        "emoji": "🧽",
+        "word_ids": [
+          "sweep",
+          "broom",
+          "dustpan",
+          "mop",
+          "vacuum_cleaner",
+          "wipe",
+          "scrub",
+          "sponge",
+          "bucket",
+          "dust",
+          "stain",
+          "tidy_up",
+          "trash_can",
+          "take_out_the_trash"
+        ]
+      },
+      {
+        "id": "household_2",
+        "title_en": "Laundry Day",
+        "title_th": "วันซักผ้า",
+        "emoji": "👕",
+        "word_ids": [
+          "laundry_basket",
+          "detergent",
+          "fabric_softener",
+          "soak",
+          "rinse",
+          "spin",
+          "dryer",
+          "clothesline",
+          "hanger",
+          "fold",
+          "ironing_board",
+          "shrink",
+          "fade",
+          "bleach"
+        ]
+      },
+      {
+        "id": "household_3",
+        "title_en": "Kitchen Appliances",
+        "title_th": "ของใช้ในครัว",
+        "emoji": "🍳",
+        "word_ids": [
+          "cutting_board",
+          "pan",
+          "pot",
+          "saucepan",
+          "stove",
+          "oven",
+          "air_fryer",
+          "rice_cooker",
+          "blender",
+          "toaster",
+          "countertop",
+          "dish_soap",
+          "dish_rack",
+          "dishwasher"
+        ]
+      },
+      {
+        "id": "household_4",
+        "title_en": "Tools & DIY",
+        "title_th": "เครื่องมือช่าง",
+        "emoji": "🔨",
+        "word_ids": [
+          "bolt",
+          "nail",
+          "screw",
+          "screwdriver",
+          "drill",
+          "wrench",
+          "pliers",
+          "saw",
+          "tape_measure",
+          "ladder",
+          "toolbox",
+          "box_cutter",
+          "duct_tape",
+          "sandpaper"
+        ]
+      },
+      {
+        "id": "household_5",
+        "title_en": "Fixing Things",
+        "title_th": "ซ่อมของในบ้าน",
+        "emoji": "🔧",
+        "word_ids": [
+          "spare_part",
+          "plunger",
+          "circuit_breaker",
+          "unplug",
+          "jammed",
+          "short_circuit",
+          "drip",
+          "rusty",
+          "switch",
+          "plug",
+          "extension_cord",
+          "outlet",
+          "loosen",
+          "tighten"
+        ]
+      },
+      {
+        "id": "household_6",
+        "title_en": "Garden & Outdoors",
+        "title_th": "สวนและหน้าบ้าน",
+        "emoji": "🌱",
+        "word_ids": [
+          "lawn",
+          "mow",
+          "hose",
+          "watering_can",
+          "soil",
+          "fertilizer",
+          "weed",
+          "flowerpot",
+          "shovel",
+          "rake",
+          "fence",
+          "backyard",
+          "garage",
+          "driveway"
+        ]
+      },
+      {
+        "id": "household_7",
+        "title_en": "Organising Home",
+        "title_th": "จัดบ้านให้เป็นระเบียบ",
+        "emoji": "🗄️",
+        "word_ids": [
+          "organize",
+          "declutter",
+          "clutter",
+          "messy",
+          "container",
+          "cupboard",
+          "cabinet",
+          "storage_box",
+          "label",
+          "junk",
+          "shoe_rack",
+          "attic",
+          "stack",
+          "hook"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "sweep",
+      "word": "sweep",
+      "pos": "verb",
+      "ipa": "/swiːp/",
+      "reading_th": "สวีป",
+      "meaning_th": "กวาด",
+      "emoji": "🧹",
+      "example_en": "I sweep the floor every morning before work.",
+      "example_th": "ฉันกวาดพื้นทุกเช้าก่อนไปทำงาน",
+      "cefr": "A2",
+      "note_th": "sweep = กวาดด้วยไม้กวาด ส่วน mop = ถูพื้นด้วยไม้ถู — กริยาช่อง 2 คือ swept ไม่ใช่ sweeped",
+      "distractors": [
+        "sleep",
+        "swipe",
+        "steep"
+      ]
+    },
+    {
+      "id": "broom",
+      "word": "broom",
+      "pos": "noun",
+      "ipa": "/bruːm/",
+      "reading_th": "บรูม",
+      "meaning_th": "ไม้กวาด",
+      "emoji": "🧹",
+      "example_en": "The broom is behind the kitchen door.",
+      "example_th": "ไม้กวาดอยู่หลังประตูห้องครัว",
+      "cefr": "A2",
+      "note_th": "broom = ไม้กวาด (ออกเสียง บรูม ไม่ใช่ บรอม) — คนไทยมักสับสนกับ bloom (ดอกไม้บาน) เพราะเสียง r/l",
+      "distractors": [
+        "bloom",
+        "brush",
+        "groom"
+      ]
+    },
+    {
+      "id": "dustpan",
+      "word": "dustpan",
+      "pos": "noun",
+      "ipa": "/ˈdʌstpæn/",
+      "reading_th": "ดัสท์-แพน",
+      "meaning_th": "ที่โกยผง",
+      "emoji": "🪣",
+      "example_en": "Use the dustpan to pick up the broken glass.",
+      "example_th": "ใช้ที่โกยผงเก็บเศษแก้วแตก",
+      "cefr": "A2",
+      "note_th": "มาจาก dust (ฝุ่น) + pan (ถาด) — ชุดไม้กวาดกับที่โกยผงเรียกว่า dustpan and brush",
+      "distractors": [
+        "saucepan",
+        "dustbin",
+        "frying pan"
+      ]
+    },
+    {
+      "id": "mop",
+      "word": "mop",
+      "pos": "verb",
+      "ipa": "/mɑːp/",
+      "reading_th": "ม็อป",
+      "meaning_th": "ถูพื้น",
+      "emoji": "🧽",
+      "example_en": "Please mop the floor after you sweep it.",
+      "example_th": "ช่วยถูพื้นหลังจากกวาดเสร็จด้วยนะ",
+      "cefr": "A2",
+      "note_th": "mop เป็นได้ทั้งกริยา (ถู) และคำนาม (ไม้ถูพื้น) — ไม้ถูพื้นม็อบที่คนไทยเรียก ก็มาจากคำนี้นี่เอง",
+      "distractors": [
+        "map",
+        "mob",
+        "mug"
+      ]
+    },
+    {
+      "id": "vacuum_cleaner",
+      "word": "vacuum cleaner",
+      "pos": "noun",
+      "ipa": "/ˈvækjuːm ˌkliːnər/",
+      "reading_th": "แวค-คิวม์ คลีน-เนอร์",
+      "meaning_th": "เครื่องดูดฝุ่น",
+      "emoji": "🔌",
+      "example_en": "The vacuum cleaner is too loud for the baby.",
+      "example_th": "เครื่องดูดฝุ่นเสียงดังเกินไปสำหรับเด็กทารก",
+      "cefr": "A2",
+      "note_th": "พูดสั้นๆ ว่า vacuum ก็ได้ และใช้เป็นกริยาได้เลย: I vacuum the carpet = ดูดฝุ่นพรม — คนอังกฤษบางคนเรียก hoover ตามชื่อยี่ห้อ",
+      "distractors": [
+        "air purifier",
+        "fan",
+        "washing machine"
+      ]
+    },
+    {
+      "id": "wipe",
+      "word": "wipe",
+      "pos": "verb",
+      "ipa": "/waɪp/",
+      "reading_th": "ไวพ์",
+      "meaning_th": "เช็ด",
+      "emoji": "🧻",
+      "example_en": "Wipe the table with a damp cloth, please.",
+      "example_th": "ช่วยเช็ดโต๊ะด้วยผ้าชุบน้ำหมาดๆ หน่อย",
+      "cefr": "A2",
+      "note_th": "wipe = เช็ดให้สะอาด/เช็ดออก เช่น wipe the table, wipe your feet — ส่วน wet wipes คือทิชชู่เปียกที่เราใช้กันทุกวัน",
+      "distractors": [
+        "wide",
+        "swipe",
+        "type"
+      ]
+    },
+    {
+      "id": "scrub",
+      "word": "scrub",
+      "pos": "verb",
+      "ipa": "/skrʌb/",
+      "reading_th": "สครับ",
+      "meaning_th": "ขัด / ถูแรงๆ",
+      "emoji": "🫧",
+      "example_en": "You have to scrub the pan to remove the grease.",
+      "example_th": "ต้องขัดกระทะแรงๆ ถึงจะเอาคราบมันออกได้",
+      "cefr": "B1",
+      "note_th": "scrub = ขัดแรงๆ ด้วยแปรงหรือฝอยขัด แรงกว่า wipe (เช็ด) มาก — สครับผิวในวงการความงามก็คำเดียวกัน",
+      "distractors": [
+        "scrap",
+        "screw",
+        "scratch"
+      ]
+    },
+    {
+      "id": "sponge",
+      "word": "sponge",
+      "pos": "noun",
+      "ipa": "/spʌndʒ/",
+      "reading_th": "สปันจ์",
+      "meaning_th": "ฟองน้ำ",
+      "emoji": "🧽",
+      "example_en": "This sponge smells bad, so throw it away.",
+      "example_th": "ฟองน้ำอันนี้เหม็นแล้ว ทิ้งไปเถอะ",
+      "cefr": "A2",
+      "note_th": "ออกเสียง สปันจ์ (ไม่ใช่ สปอง) — ฝั่งหยาบของฟองน้ำเรียก scouring pad ส่วนเค้กสปันจ์ก็นุ่มเหมือนฟองน้ำจึงได้ชื่อนี้",
+      "distractors": [
+        "spoon",
+        "sprinkle",
+        "splash"
+      ]
+    },
+    {
+      "id": "bucket",
+      "word": "bucket",
+      "pos": "noun",
+      "ipa": "/ˈbʌkɪt/",
+      "reading_th": "บัค-เก็ต",
+      "meaning_th": "ถัง / กระป๋องน้ำ",
+      "emoji": "🪣",
+      "example_en": "Fill the bucket with warm water and soap.",
+      "example_th": "เติมน้ำอุ่นกับสบู่ลงในถัง",
+      "cefr": "A2",
+      "note_th": "bucket = ถังมีหูหิ้ว — a bucket of water คือน้ำหนึ่งถัง และ bucket list ที่เคยเรียนคือรายการสิ่งที่อยากทำก่อนตาย คนละความหมายกันเลย",
+      "distractors": [
+        "basket",
+        "packet",
+        "pocket"
+      ]
+    },
+    {
+      "id": "dust",
+      "word": "dust",
+      "pos": "noun",
+      "ipa": "/dʌst/",
+      "reading_th": "ดัสท์",
+      "meaning_th": "ฝุ่น",
+      "emoji": "🌫️",
+      "example_en": "There is a lot of dust on the bookshelf.",
+      "example_th": "มีฝุ่นเยอะมากบนชั้นหนังสือ",
+      "cefr": "A2",
+      "note_th": "dust เป็นกริยาได้ด้วย: dust the shelves = ปัดฝุ่นชั้นวาง — ฝุ่น PM2.5 ที่ได้ยินในข่าวเรียก fine dust หรือ air pollution",
+      "distractors": [
+        "dusk",
+        "mud",
+        "rust"
+      ]
+    },
+    {
+      "id": "stain",
+      "word": "stain",
+      "pos": "noun",
+      "ipa": "/steɪn/",
+      "reading_th": "สเตน",
+      "meaning_th": "คราบ / รอยเปื้อน",
+      "emoji": "☕",
+      "example_en": "I cannot get this coffee stain out of my shirt.",
+      "example_th": "ฉันเอาคราบกาแฟออกจากเสื้อไม่ได้เลย",
+      "cefr": "B1",
+      "note_th": "stain = คราบที่ซึมติดผ้าหรือพื้นผิว เช่น oil stain, blood stain — สิ่งที่ใช้ขจัดคราบคือ stain remover",
+      "distractors": [
+        "strain",
+        "steam",
+        "stone"
+      ]
+    },
+    {
+      "id": "tidy_up",
+      "word": "tidy up",
+      "pos": "phrase",
+      "ipa": "/ˈtaɪdi ʌp/",
+      "reading_th": "ไท-ดี้ อัพ",
+      "meaning_th": "เก็บกวาดให้เรียบร้อย",
+      "emoji": "✨",
+      "example_en": "Let's tidy up the living room before the guests arrive.",
+      "example_th": "มาเก็บห้องนั่งเล่นให้เรียบร้อยก่อนแขกมากันเถอะ",
+      "cefr": "A2",
+      "note_th": "tidy up = เก็บของให้เข้าที่ ไม่จำเป็นต้องสะอาดขึ้น ส่วน clean up = ทำความสะอาด — tidy ยังเป็นคำคุณศัพท์ แปลว่าเป็นระเบียบ",
+      "distractors": [
+        "tie up",
+        "tidy away",
+        "wake up"
+      ]
+    },
+    {
+      "id": "trash_can",
+      "word": "trash can",
+      "pos": "noun",
+      "ipa": "/ˈtræʃ kæn/",
+      "reading_th": "แทรช แคน",
+      "meaning_th": "ถังขยะ",
+      "emoji": "🗑️",
+      "example_en": "The trash can in the kitchen is full again.",
+      "example_th": "ถังขยะในครัวเต็มอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "อเมริกันพูด trash can หรือ garbage can อังกฤษพูด bin หรือ rubbish bin — ถังขยะสาธารณะในสนามบินมักเขียนว่า litter bin",
+      "distractors": [
+        "trash bag",
+        "tin can",
+        "cash"
+      ]
+    },
+    {
+      "id": "take_out_the_trash",
+      "word": "take out the trash",
+      "pos": "phrase",
+      "ipa": "/teɪk aʊt ðə træʃ/",
+      "reading_th": "เทค เอาท์ เดอะ แทรช",
+      "meaning_th": "เอาขยะไปทิ้ง",
+      "emoji": "🚮",
+      "example_en": "Can you take out the trash tonight?",
+      "example_th": "คืนนี้ช่วยเอาขยะไปทิ้งได้ไหม",
+      "cefr": "A2",
+      "note_th": "งานบ้านสุดคลาสสิกที่คู่รักฝรั่งทะเลาะกันบ่อยที่สุด 😄 — ฝั่งอังกฤษพูดว่า take the bins out หรือ put the rubbish out",
+      "distractors": [
+        "take out the dog",
+        "throw up",
+        "take a break"
+      ]
+    },
+    {
+      "id": "laundry_basket",
+      "word": "laundry basket",
+      "pos": "noun",
+      "ipa": "/ˈlɔːndri ˌbæskɪt/",
+      "reading_th": "ลอน-ดรี้ แบส-เก็ต",
+      "meaning_th": "ตะกร้าผ้า",
+      "emoji": "🧺",
+      "example_en": "Put your dirty clothes in the laundry basket, not on the floor.",
+      "example_th": "เอาเสื้อผ้าสกปรกใส่ตะกร้าผ้า ไม่ใช่วางบนพื้น",
+      "cefr": "A2",
+      "note_th": "laundry = ผ้าที่รอซักหรือซักแล้ว (นับไม่ได้) ดังนั้น laundry basket คือตะกร้าใส่ผ้า — ฝั่งอังกฤษเรียก laundry hamper หรือ washing basket",
+      "distractors": [
+        "laundry room",
+        "shopping basket",
+        "bread basket"
+      ]
+    },
+    {
+      "id": "detergent",
+      "word": "detergent",
+      "pos": "noun",
+      "ipa": "/dɪˈtɜːrdʒənt/",
+      "reading_th": "ดิ-เทอร์-เจินท์",
+      "meaning_th": "ผงซักฟอก / น้ำยาซักผ้า",
+      "emoji": "🧴",
+      "example_en": "Too much detergent leaves white marks on dark clothes.",
+      "example_th": "ใส่น้ำยาซักผ้ามากไปจะทิ้งคราบขาวบนเสื้อสีเข้ม",
+      "cefr": "B1",
+      "note_th": "detergent ใช้ได้ทั้งน้ำยาซักผ้า (laundry detergent) และน้ำยาล้างจาน (dishwashing detergent) — ส่วน soap มักหมายถึงสบู่ก้อน",
+      "distractors": [
+        "deterrent",
+        "deodorant",
+        "disinfectant"
+      ]
+    },
+    {
+      "id": "fabric_softener",
+      "word": "fabric softener",
+      "pos": "noun",
+      "ipa": "/ˈfæbrɪk ˈsɔːfənər/",
+      "reading_th": "แฟบ-ริค ซอฟ-เฟิน-เนอร์",
+      "meaning_th": "น้ำยาปรับผ้านุ่ม",
+      "emoji": "🌸",
+      "example_en": "Add fabric softener so the sheets smell nice.",
+      "example_th": "ใส่น้ำยาปรับผ้านุ่มด้วย ผ้าปูที่นอนจะได้หอม",
+      "cefr": "B1",
+      "note_th": "softener มาจาก soft + -ener = สิ่งที่ทำให้นุ่ม — ในซูเปอร์ฯ มักวางคู่กับ detergent และ bleach ดูฉลากคำพวกนี้ให้ออกจะซื้อไม่ผิดขวด",
+      "distractors": [
+        "fabric spray",
+        "softer",
+        "conditioner"
+      ]
+    },
+    {
+      "id": "soak",
+      "word": "soak",
+      "pos": "verb",
+      "ipa": "/soʊk/",
+      "reading_th": "โซค",
+      "meaning_th": "แช่น้ำ",
+      "emoji": "💧",
+      "example_en": "Soak the dirty socks overnight before washing them.",
+      "example_th": "แช่ถุงเท้าสกปรกไว้ข้ามคืนก่อนซัก",
+      "cefr": "B1",
+      "note_th": "soak = แช่ให้ชุ่มน้ำ เช่น soak the beans, soak in the bathtub — ส่วน soaked (คำคุณศัพท์) = เปียกโชก เช่น I got soaked in the rain",
+      "distractors": [
+        "sock",
+        "smoke",
+        "sink"
+      ]
+    },
+    {
+      "id": "rinse",
+      "word": "rinse",
+      "pos": "verb",
+      "ipa": "/rɪns/",
+      "reading_th": "รินส์",
+      "meaning_th": "ล้างน้ำเปล่า",
+      "emoji": "🚿",
+      "example_en": "Rinse the clothes twice to remove all the soap.",
+      "example_th": "ล้างผ้าด้วยน้ำเปล่าสองรอบให้สบู่ออกหมด",
+      "cefr": "B1",
+      "note_th": "rinse = ล้างด้วยน้ำเปล่าเพื่อเอาสบู่หรือสิ่งสกปรกออก ไม่ใช่ขัด — ฉลากแชมพูเขียน rinse and repeat และที่ร้านทำผมก็ใช้คำนี้",
+      "distractors": [
+        "rise",
+        "wrinkle",
+        "ring"
+      ]
+    },
+    {
+      "id": "spin",
+      "word": "spin",
+      "pos": "verb",
+      "ipa": "/spɪn/",
+      "reading_th": "สปิน",
+      "meaning_th": "ปั่นแห้ง / หมุน",
+      "emoji": "🌀",
+      "example_en": "The machine will spin the clothes for ten minutes.",
+      "example_th": "เครื่องจะปั่นผ้าให้แห้งหมาดประมาณสิบนาที",
+      "cefr": "B1",
+      "note_th": "spin = หมุนเร็วๆ — บนหน้าปัดเครื่องซักผ้าคือ spin cycle หรือ spin speed ส่วนคลาสปั่นจักรยานในยิมเรียก spinning คำเดียวกัน",
+      "distractors": [
+        "spill",
+        "spit",
+        "spine"
+      ]
+    },
+    {
+      "id": "dryer",
+      "word": "dryer",
+      "pos": "noun",
+      "ipa": "/ˈdraɪər/",
+      "reading_th": "ดราย-เออร์",
+      "meaning_th": "เครื่องอบผ้า",
+      "emoji": "♨️",
+      "example_en": "Do not put wool sweaters in the dryer.",
+      "example_th": "อย่าเอาเสื้อสเวตเตอร์ขนสัตว์ใส่เครื่องอบผ้า",
+      "cefr": "A2",
+      "note_th": "dryer หรือ tumble dryer = เครื่องอบผ้า — ฉลากเสื้อที่เขียน do not tumble dry แปลว่าห้ามเข้าเครื่องอบ ให้ตากแทน",
+      "distractors": [
+        "drier",
+        "driver",
+        "dryness"
+      ]
+    },
+    {
+      "id": "clothesline",
+      "word": "clothesline",
+      "pos": "noun",
+      "ipa": "/ˈkloʊðzlaɪn/",
+      "reading_th": "โคลธส์-ไลน์",
+      "meaning_th": "ราวตากผ้า",
+      "emoji": "🧺",
+      "example_en": "Hang the wet shirts on the clothesline outside.",
+      "example_th": "เอาเสื้อเปียกไปตากบนราวตากผ้าข้างนอก",
+      "cefr": "B1",
+      "note_th": "clothesline = ราวหรือเชือกตากผ้า ส่วนไม้หนีบผ้าคือ clothespin (อเมริกัน) หรือ peg (อังกฤษ) — ตากผ้า = hang out the washing",
+      "distractors": [
+        "clothes rack",
+        "closet",
+        "hotline"
+      ]
+    },
+    {
+      "id": "hanger",
+      "word": "hanger",
+      "pos": "noun",
+      "ipa": "/ˈhæŋər/",
+      "reading_th": "แฮง-เงอร์",
+      "meaning_th": "ไม้แขวนเสื้อ",
+      "emoji": "🪝",
+      "example_en": "Put your jacket on a hanger so it does not wrinkle.",
+      "example_th": "เอาเสื้อแจ็กเก็ตใส่ไม้แขวนจะได้ไม่ยับ",
+      "cefr": "A2",
+      "note_th": "hanger = ไม้แขวนเสื้อ (hang + -er) อย่าสับสนกับ hunger (ความหิว) หรือ hangar (โรงเก็บเครื่องบิน) ที่ออกเสียงคล้ายกัน",
+      "distractors": [
+        "hunger",
+        "hangar",
+        "hammer"
+      ]
+    },
+    {
+      "id": "fold",
+      "word": "fold",
+      "pos": "verb",
+      "ipa": "/foʊld/",
+      "reading_th": "โฟลด์",
+      "meaning_th": "พับ",
+      "emoji": "📐",
+      "example_en": "I fold the laundry while watching TV.",
+      "example_th": "ฉันพับผ้าไปดูทีวีไป",
+      "cefr": "A2",
+      "note_th": "fold = พับ (ผ้า กระดาษ) ส่วน folding chair = เก้าอี้พับ — มือถือจอพับก็เรียก foldable phone นั่นเอง",
+      "distractors": [
+        "hold",
+        "fault",
+        "food"
+      ]
+    },
+    {
+      "id": "ironing_board",
+      "word": "ironing board",
+      "pos": "noun",
+      "ipa": "/ˈaɪərnɪŋ bɔːrd/",
+      "reading_th": "ไอ-เอิร์น-นิ่ง บอร์ด",
+      "meaning_th": "โต๊ะรีดผ้า",
+      "emoji": "🧺",
+      "example_en": "Set up the ironing board in the bedroom.",
+      "example_th": "กางโต๊ะรีดผ้าในห้องนอน",
+      "cefr": "A2",
+      "note_th": "iron ออกเสียง ไอ-เอิร์น ไม่ออกเสียง r ตัวแรก — ironing board ใช้ board (แผ่นกระดาน) ไม่ใช่ table",
+      "distractors": [
+        "cutting board",
+        "keyboard",
+        "iron ring"
+      ]
+    },
+    {
+      "id": "shrink",
+      "word": "shrink",
+      "pos": "verb",
+      "ipa": "/ʃrɪŋk/",
+      "reading_th": "ชริงค์",
+      "meaning_th": "หด",
+      "emoji": "📉",
+      "example_en": "Cotton shirts shrink if you wash them in hot water.",
+      "example_th": "เสื้อผ้าฝ้ายจะหดถ้าซักด้วยน้ำร้อน",
+      "cefr": "B1",
+      "note_th": "shrink = หดเล็กลง (ช่อง 2 shrank, ช่อง 3 shrunk) — ตรงข้ามคือ stretch (ยืด) ที่เคยเรียนจากโลกยิม",
+      "distractors": [
+        "shrimp",
+        "drink",
+        "stretch"
+      ]
+    },
+    {
+      "id": "fade",
+      "word": "fade",
+      "pos": "verb",
+      "ipa": "/feɪd/",
+      "reading_th": "เฟด",
+      "meaning_th": "สีซีด / สีตก",
+      "emoji": "🎨",
+      "example_en": "Dark jeans fade quickly in the sun.",
+      "example_th": "กางเกงยีนส์สีเข้มสีซีดเร็วถ้าโดนแดด",
+      "cefr": "B1",
+      "note_th": "fade = สีค่อยๆ จางลง ส่วนสีตกใส่ผ้าตัวอื่นเรียก the color runs — ทรงผมเฟดของช่างตัดผมคือคำเดียวกัน (ค่อยๆ สั้นลง)",
+      "distractors": [
+        "feed",
+        "fake",
+        "fail"
+      ]
+    },
+    {
+      "id": "bleach",
+      "word": "bleach",
+      "pos": "noun",
+      "ipa": "/bliːtʃ/",
+      "reading_th": "บลีช",
+      "meaning_th": "น้ำยาฟอกขาว",
+      "emoji": "⚠️",
+      "example_en": "Never mix bleach with other cleaning products.",
+      "example_th": "ห้ามผสมน้ำยาฟอกขาวกับน้ำยาทำความสะอาดชนิดอื่นเด็ดขาด",
+      "cefr": "B1",
+      "note_th": "bleach เป็นกริยาได้ด้วย เช่น bleach your hair = กัดสีผม — ฉลากเสื้อที่มีสามเหลี่ยมกากบาทแปลว่า do not bleach",
+      "distractors": [
+        "beach",
+        "breach",
+        "bleed"
+      ]
+    },
+    {
+      "id": "cutting_board",
+      "word": "cutting board",
+      "pos": "noun",
+      "ipa": "/ˈkʌtɪŋ bɔːrd/",
+      "reading_th": "คัท-ติ้ง บอร์ด",
+      "meaning_th": "เขียง",
+      "emoji": "🔪",
+      "example_en": "Use a separate cutting board for raw chicken.",
+      "example_th": "ใช้เขียงแยกสำหรับไก่ดิบ",
+      "cefr": "A2",
+      "note_th": "cutting board (อเมริกัน) = chopping board (อังกฤษ) — เขียงไม้ wooden board เขียงพลาสติก plastic board",
+      "distractors": [
+        "ironing board",
+        "cutting edge",
+        "bulletin board"
+      ]
+    },
+    {
+      "id": "pan",
+      "word": "pan",
+      "pos": "noun",
+      "ipa": "/pæn/",
+      "reading_th": "แพน",
+      "meaning_th": "กระทะ",
+      "emoji": "🍳",
+      "example_en": "Heat some oil in the pan before adding the garlic.",
+      "example_th": "ตั้งน้ำมันในกระทะให้ร้อนก่อนใส่กระเทียม",
+      "cefr": "A2",
+      "note_th": "frying pan = กระทะก้นแบน, saucepan = หม้อมีด้าม, non-stick pan = กระทะเคลือบ — ส่วนกระทะก้นลึกแบบผัดไทยคือ wok",
+      "distractors": [
+        "pen",
+        "pot",
+        "pin"
+      ]
+    },
+    {
+      "id": "pot",
+      "word": "pot",
+      "pos": "noun",
+      "ipa": "/pɑːt/",
+      "reading_th": "พ็อท",
+      "meaning_th": "หม้อ",
+      "emoji": "🍲",
+      "example_en": "Boil the noodles in a big pot of water.",
+      "example_th": "ต้มเส้นในหม้อน้ำใบใหญ่",
+      "cefr": "A2",
+      "note_th": "pot = หม้อ (ใบสูง ต้มซุป) ส่วน pan = กระทะ (ก้นตื้น ทอด) — pots and pans คือสำนวนรวมเรียกภาชนะทำครัวทั้งหมด",
+      "distractors": [
+        "pan",
+        "port",
+        "pod"
+      ]
+    },
+    {
+      "id": "saucepan",
+      "word": "saucepan",
+      "pos": "noun",
+      "ipa": "/ˈsɔːspæn/",
+      "reading_th": "ซอส-แพน",
+      "meaning_th": "หม้อมีด้ามจับ",
+      "emoji": "🥘",
+      "example_en": "Warm the milk in a small saucepan on low heat.",
+      "example_th": "อุ่นนมในหม้อด้ามใบเล็กด้วยไฟอ่อน",
+      "cefr": "B1",
+      "note_th": "saucepan = หม้อทรงสูงมีด้ามจับยาวหนึ่งด้าม ใช้ต้มซอสหรืออุ่นของเหลว — ส่วน pot ใบใหญ่มีหูสองข้าง และ frying pan ก้นแบน",
+      "distractors": [
+        "frying pan",
+        "sauce",
+        "dustpan"
+      ]
+    },
+    {
+      "id": "stove",
+      "word": "stove",
+      "pos": "noun",
+      "ipa": "/stoʊv/",
+      "reading_th": "สโตฟ",
+      "meaning_th": "เตาแก๊ส / เตาไฟ",
+      "emoji": "🔥",
+      "example_en": "Turn off the stove when the soup is done.",
+      "example_th": "ปิดเตาเมื่อซุปเสร็จแล้ว",
+      "cefr": "A2",
+      "note_th": "stove = เตาที่ตั้งหม้อ (gas stove เตาแก๊ส, electric stove เตาไฟฟ้า) ส่วนฝั่งอังกฤษเรียก cooker หรือ hob — เตาแม่เหล็กไฟฟ้าคือ induction stove",
+      "distractors": [
+        "stone",
+        "store",
+        "oven"
+      ]
+    },
+    {
+      "id": "oven",
+      "word": "oven",
+      "pos": "noun",
+      "ipa": "/ˈʌvən/",
+      "reading_th": "อัฟ-เวิน",
+      "meaning_th": "เตาอบ",
+      "emoji": "🍞",
+      "example_en": "The oven needs ten minutes to get hot.",
+      "example_th": "เตาอบต้องใช้เวลาสิบนาทีกว่าจะร้อน",
+      "cefr": "A2",
+      "note_th": "ออกเสียง อัฟ-เวิน ไม่ใช่ โอ-เว่น — stove ตั้งหม้ออยู่ด้านบน oven อยู่ด้านล่างปิดประตูอบ คนไทยมักเรียกรวมว่าเตาทั้งคู่",
+      "distractors": [
+        "over",
+        "open",
+        "stove"
+      ]
+    },
+    {
+      "id": "air_fryer",
+      "word": "air fryer",
+      "pos": "noun",
+      "ipa": "/ˈer ˌfraɪər/",
+      "reading_th": "แอร์ ฟราย-เออร์",
+      "meaning_th": "หม้อทอดไร้น้ำมัน",
+      "emoji": "🍗",
+      "example_en": "The air fryer makes crispy chicken with almost no oil.",
+      "example_th": "หม้อทอดไร้น้ำมันทำไก่กรอบได้โดยแทบไม่ใช้น้ำมัน",
+      "cefr": "A2",
+      "note_th": "air fryer = ทอดด้วยลมร้อน (air = อากาศ) ของยอดฮิตบ้านคนไทยยุคนี้ — ใช้เป็นกริยาได้ว่า air-fry the fries",
+      "distractors": [
+        "deep fryer",
+        "hair dryer",
+        "air purifier"
+      ]
+    },
+    {
+      "id": "rice_cooker",
+      "word": "rice cooker",
+      "pos": "noun",
+      "ipa": "/ˈraɪs ˌkʊkər/",
+      "reading_th": "ไรซ์ คุค-เกอร์",
+      "meaning_th": "หม้อหุงข้าว",
+      "emoji": "🍚",
+      "example_en": "The rice cooker keeps the rice warm all day.",
+      "example_th": "หม้อหุงข้าวอุ่นข้าวไว้ได้ทั้งวัน",
+      "cefr": "A2",
+      "note_th": "ของใช้ที่บ้านคนไทยทุกบ้านต้องมี ฝรั่งบางคนไม่มี — cooker ในที่นี้คือเครื่องหุง ไม่ใช่คนทำอาหาร (คนทำอาหารคือ cook)",
+      "distractors": [
+        "rice bowl",
+        "pressure cooker",
+        "kettle"
+      ]
+    },
+    {
+      "id": "blender",
+      "word": "blender",
+      "pos": "noun",
+      "ipa": "/ˈblendər/",
+      "reading_th": "เบลน-เดอร์",
+      "meaning_th": "เครื่องปั่น",
+      "emoji": "🥤",
+      "example_en": "Put the mango and ice in the blender.",
+      "example_th": "ใส่มะม่วงกับน้ำแข็งลงในเครื่องปั่น",
+      "cefr": "A2",
+      "note_th": "blender = เครื่องปั่นน้ำผลไม้/สมูทตี้ (blend = ผสมให้เข้ากัน) — เครื่องปั่นแบบด้ามจุ่มเรียก hand blender และเครื่องตีไข่คือ mixer",
+      "distractors": [
+        "mixer",
+        "bender",
+        "blinder"
+      ]
+    },
+    {
+      "id": "toaster",
+      "word": "toaster",
+      "pos": "noun",
+      "ipa": "/ˈtoʊstər/",
+      "reading_th": "โทส-เตอร์",
+      "meaning_th": "เครื่องปิ้งขนมปัง",
+      "emoji": "🍞",
+      "example_en": "The toaster burns the bread if you set it too high.",
+      "example_th": "เครื่องปิ้งขนมปังจะไหม้ถ้าตั้งระดับสูงเกินไป",
+      "cefr": "A2",
+      "note_th": "toaster = เครื่องปิ้งขนมปังแบบช่อง ส่วนเตาอบเล็กๆ หน้ากระจกคือ toaster oven — ขนมปังที่ปิ้งแล้วเรียก toast ไม่ต้องเติม -ed",
+      "distractors": [
+        "toast",
+        "roaster",
+        "coaster"
+      ]
+    },
+    {
+      "id": "countertop",
+      "word": "countertop",
+      "pos": "noun",
+      "ipa": "/ˈkaʊntərtɑːp/",
+      "reading_th": "เคาน์-เตอร์-ท็อป",
+      "meaning_th": "เคาน์เตอร์ครัว (พื้นที่ด้านบน)",
+      "emoji": "🧱",
+      "example_en": "Wipe the countertop after you cut the chicken.",
+      "example_th": "เช็ดเคาน์เตอร์ครัวหลังหั่นไก่",
+      "cefr": "B1",
+      "note_th": "countertop = พื้นผิวด้านบนของเคาน์เตอร์ครัว (ฝั่งอังกฤษเรียก worktop) — ของที่วางบนเคาน์เตอร์เรียก countertop appliances เช่น air fryer",
+      "distractors": [
+        "counter",
+        "tabletop",
+        "rooftop"
+      ]
+    },
+    {
+      "id": "dish_soap",
+      "word": "dish soap",
+      "pos": "noun",
+      "ipa": "/ˈdɪʃ soʊp/",
+      "reading_th": "ดิช โซพ",
+      "meaning_th": "น้ำยาล้างจาน",
+      "emoji": "🧴",
+      "example_en": "We are out of dish soap again.",
+      "example_th": "น้ำยาล้างจานหมดอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "dish soap (อเมริกัน) = washing-up liquid (อังกฤษ) = น้ำยาล้างจาน — do the dishes = ล้างจาน และ dish ยังแปลว่าจานอาหาร (a Thai dish)",
+      "distractors": [
+        "hand soap",
+        "dish rack",
+        "detergent"
+      ]
+    },
+    {
+      "id": "dish_rack",
+      "word": "dish rack",
+      "pos": "noun",
+      "ipa": "/ˈdɪʃ ræk/",
+      "reading_th": "ดิช แรค",
+      "meaning_th": "ที่คว่ำจาน",
+      "emoji": "🍽️",
+      "example_en": "Put the clean plates on the dish rack to dry.",
+      "example_th": "วางจานที่ล้างแล้วบนที่คว่ำจานให้แห้ง",
+      "cefr": "B1",
+      "note_th": "rack = ชั้นหรือราวสำหรับวางของ เช่น dish rack ที่คว่ำจาน, shoe rack ชั้นวางรองเท้า, towel rack ราวแขวนผ้า",
+      "distractors": [
+        "dish towel",
+        "shoe rack",
+        "dish soap"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "word": "dishwasher",
+      "pos": "noun",
+      "ipa": "/ˈdɪʃwɑːʃər/",
+      "reading_th": "ดิช-วอช-เชอร์",
+      "meaning_th": "เครื่องล้างจาน",
+      "emoji": "🫧",
+      "example_en": "Load the dishwasher after dinner, please.",
+      "example_th": "ช่วยเอาจานใส่เครื่องล้างจานหลังมื้อเย็นหน่อย",
+      "cefr": "A2",
+      "note_th": "load the dishwasher = ใส่จานเข้าเครื่อง, unload = เอาออก — dishwasher ยังแปลว่าคนล้างจานในร้านอาหารได้ด้วย",
+      "distractors": [
+        "washing machine",
+        "dish rack",
+        "car wash"
+      ]
+    },
+    {
+      "id": "bolt",
+      "word": "bolt",
+      "pos": "noun",
+      "ipa": "/boʊlt/",
+      "reading_th": "โบลท์",
+      "meaning_th": "น็อตตัวผู้ / สลักเกลียว",
+      "emoji": "🔩",
+      "example_en": "Tighten each bolt before you sit on the chair.",
+      "example_th": "ขันน็อตทุกตัวให้แน่นก่อนนั่งเก้าอี้",
+      "cefr": "B1",
+      "note_th": "bolt = สลักเกลียวที่ต้องขันคู่กับ nut (น็อตตัวเมีย) ส่วนที่คนไทยเรียกน็อตคือ nuts and bolts — สำนวน the nuts and bolts แปลว่ารายละเอียดพื้นฐาน",
+      "distractors": [
+        "belt",
+        "boat",
+        "nut"
+      ]
+    },
+    {
+      "id": "nail",
+      "word": "nail",
+      "pos": "noun",
+      "ipa": "/neɪl/",
+      "reading_th": "เนล",
+      "meaning_th": "ตะปู",
+      "emoji": "📍",
+      "example_en": "This nail is too short to hold the shelf.",
+      "example_th": "ตะปูตัวนี้สั้นเกินไปจะยึดชั้นวางไม่อยู่",
+      "cefr": "A2",
+      "note_th": "nail แปลได้ทั้งตะปูและเล็บ (nail polish = ยาทาเล็บ) ดูจากบริบท — ตะปูตอกด้วยค้อน ส่วน screw ต้องไขด้วยไขควง",
+      "distractors": [
+        "screw",
+        "mail",
+        "snail"
+      ]
+    },
+    {
+      "id": "screw",
+      "word": "screw",
+      "pos": "noun",
+      "ipa": "/skruː/",
+      "reading_th": "สครู",
+      "meaning_th": "สกรู / น็อตเกลียว",
+      "emoji": "🔩",
+      "example_en": "One screw is missing from the chair leg.",
+      "example_th": "ขาเก้าอี้มีสกรูหายไปหนึ่งตัว",
+      "cefr": "A2",
+      "note_th": "screw = สกรูที่ต้องหมุนเข้าไป (เป็นกริยาได้ screw it in) — สิ่งที่คนไทยเรียกน็อตจริงๆ คือ nut กับ bolt ส่วน screw คือตัวเกลียวปลายแหลม",
+      "distractors": [
+        "nail",
+        "crew",
+        "scrub"
+      ]
+    },
+    {
+      "id": "screwdriver",
+      "word": "screwdriver",
+      "pos": "noun",
+      "ipa": "/ˈskruːdraɪvər/",
+      "reading_th": "สครู-ไดร-เวอร์",
+      "meaning_th": "ไขควง",
+      "emoji": "🪛",
+      "example_en": "You need a small screwdriver to open the remote.",
+      "example_th": "ต้องใช้ไขควงอันเล็กเปิดรีโมต",
+      "cefr": "A2",
+      "note_th": "screwdriver = ตัวขับสกรู (screw + driver) — แบบปากแบนคือ flathead และแบบปากแฉกคือ Phillips screwdriver",
+      "distractors": [
+        "driver",
+        "drill",
+        "wrench"
+      ]
+    },
+    {
+      "id": "drill",
+      "word": "drill",
+      "pos": "noun",
+      "ipa": "/drɪl/",
+      "reading_th": "ดริล",
+      "meaning_th": "สว่าน",
+      "emoji": "🛠️",
+      "example_en": "I borrowed a drill to put up the curtain rail.",
+      "example_th": "ฉันยืมสว่านมาติดรางผ้าม่าน",
+      "cefr": "B1",
+      "note_th": "drill = สว่าน และเป็นกริยาแปลว่าเจาะ (drill a hole) — ในห้องเรียน drill แปลว่าฝึกซ้ำๆ เช่น vocabulary drill",
+      "distractors": [
+        "grill",
+        "drip",
+        "dull"
+      ]
+    },
+    {
+      "id": "wrench",
+      "word": "wrench",
+      "pos": "noun",
+      "ipa": "/rentʃ/",
+      "reading_th": "เรนช์",
+      "meaning_th": "ประแจ",
+      "emoji": "🔧",
+      "example_en": "Use the wrench to tighten the pipe under the sink.",
+      "example_th": "ใช้ประแจขันท่อใต้อ่างล้างจานให้แน่น",
+      "cefr": "B1",
+      "note_th": "wrench (อเมริกัน) = spanner (อังกฤษ) = ประแจ ตัว w ไม่ออกเสียง — ประแจเลื่อนคือ adjustable wrench",
+      "distractors": [
+        "bench",
+        "wreck",
+        "trench"
+      ]
+    },
+    {
+      "id": "pliers",
+      "word": "pliers",
+      "pos": "noun",
+      "ipa": "/ˈplaɪərz/",
+      "reading_th": "ไพล-เออร์ส",
+      "meaning_th": "คีม",
+      "emoji": "🗜️",
+      "example_en": "Grab the wire with the pliers and pull hard.",
+      "example_th": "ใช้คีมจับลวดแล้วดึงแรงๆ",
+      "cefr": "B1",
+      "note_th": "pliers มี s เสมอเหมือน scissors และ jeans นับเป็น a pair of pliers — คีมตัดลวดคือ wire cutters",
+      "distractors": [
+        "players",
+        "pillars",
+        "pliable"
+      ]
+    },
+    {
+      "id": "saw",
+      "word": "saw",
+      "pos": "noun",
+      "ipa": "/sɔː/",
+      "reading_th": "ซอ",
+      "meaning_th": "เลื่อย",
+      "emoji": "🪚",
+      "example_en": "Cut the wood with a saw, not a knife.",
+      "example_th": "ตัดไม้ด้วยเลื่อย ไม่ใช่มีด",
+      "cefr": "B1",
+      "note_th": "saw ที่เป็นเลื่อยกับ saw ที่เป็นช่อง 2 ของ see สะกดเหมือนกัน — เลื่อยไฟฟ้าคือ chainsaw หรือ power saw",
+      "distractors": [
+        "sew",
+        "sow",
+        "axe"
+      ]
+    },
+    {
+      "id": "tape_measure",
+      "word": "tape measure",
+      "pos": "noun",
+      "ipa": "/ˈteɪp ˌmeʒər/",
+      "reading_th": "เทป เมช-เชอร์",
+      "meaning_th": "ตลับเมตร",
+      "emoji": "📏",
+      "example_en": "Check the width with a tape measure before buying the sofa.",
+      "example_th": "วัดความกว้างด้วยตลับเมตรก่อนซื้อโซฟา",
+      "cefr": "B1",
+      "note_th": "tape measure หรือ measuring tape ใช้ได้ทั้งคู่ — ช่างตัดเสื้อใช้สายวัดแบบผ้า ส่วนช่างไม้ใช้แบบเหล็กดึงกลับได้",
+      "distractors": [
+        "ruler",
+        "duct tape",
+        "measurement"
+      ]
+    },
+    {
+      "id": "ladder",
+      "word": "ladder",
+      "pos": "noun",
+      "ipa": "/ˈlædər/",
+      "reading_th": "แลด-เดอร์",
+      "meaning_th": "บันไดพาด",
+      "emoji": "🪜",
+      "example_en": "Hold the ladder while I change the light bulb.",
+      "example_th": "จับบันไดไว้ตอนฉันเปลี่ยนหลอดไฟ",
+      "cefr": "A2",
+      "note_th": "ladder = บันไดพาดที่ยกย้ายได้ ส่วน stairs = บันไดบ้านที่ติดอยู่กับที่ — climb the ladder ยังเป็นสำนวนแปลว่าไต่เต้าในหน้าที่การงาน",
+      "distractors": [
+        "letter",
+        "leader",
+        "latter"
+      ]
+    },
+    {
+      "id": "toolbox",
+      "word": "toolbox",
+      "pos": "noun",
+      "ipa": "/ˈtuːlbɑːks/",
+      "reading_th": "ทูล-บ็อกซ์",
+      "meaning_th": "กล่องเครื่องมือ",
+      "emoji": "🧰",
+      "example_en": "My toolbox has a hammer, a saw and some screws.",
+      "example_th": "กล่องเครื่องมือของฉันมีค้อน เลื่อย และสกรู",
+      "cefr": "A2",
+      "note_th": "tool = เครื่องมือ (ออกเสียง ทูล ยาว) — power tools คือเครื่องมือไฟฟ้า และ toolkit ก็แปลว่าชุดเครื่องมือเหมือนกัน",
+      "distractors": [
+        "toolkit",
+        "mailbox",
+        "lunchbox"
+      ]
+    },
+    {
+      "id": "box_cutter",
+      "word": "box cutter",
+      "pos": "noun",
+      "ipa": "/ˈbɑːks ˌkʌtər/",
+      "reading_th": "บ็อกซ์ คัท-เทอร์",
+      "meaning_th": "มีดคัตเตอร์",
+      "emoji": "🔪",
+      "example_en": "Open the parcel with a box cutter, not with scissors.",
+      "example_th": "เปิดพัสดุด้วยมีดคัตเตอร์ ไม่ใช่กรรไกร",
+      "cefr": "B1",
+      "note_th": "ที่คนไทยเรียกคัตเตอร์ ฝรั่งเรียก box cutter หรือ utility knife — พูดว่า cutter เฉยๆ ฝรั่งจะนึกถึงเครื่องตัดอะไรก็ได้",
+      "distractors": [
+        "cutter",
+        "paper cutter",
+        "cookie cutter"
+      ]
+    },
+    {
+      "id": "duct_tape",
+      "word": "duct tape",
+      "pos": "noun",
+      "ipa": "/ˈdʌkt teɪp/",
+      "reading_th": "ดัคท์ เทป",
+      "meaning_th": "เทปผ้ากาว",
+      "emoji": "🩹",
+      "example_en": "I used duct tape to fix the broken hose.",
+      "example_th": "ฉันใช้เทปผ้ากาวซ่อมสายยางที่ขาด",
+      "cefr": "B1",
+      "note_th": "duct tape = เทปผ้าสีเทาเหนียวมาก ฝรั่งพูดติดตลกว่าซ่อมได้ทุกอย่าง — หลายคนสะกดผิดเป็น duck tape เพราะออกเสียงเหมือนกัน",
+      "distractors": [
+        "scotch tape",
+        "masking tape",
+        "duck"
+      ]
+    },
+    {
+      "id": "sandpaper",
+      "word": "sandpaper",
+      "pos": "noun",
+      "ipa": "/ˈsændpeɪpər/",
+      "reading_th": "แซนด์-เพ-เพอร์",
+      "meaning_th": "กระดาษทราย",
+      "emoji": "📄",
+      "example_en": "Smooth the edges with sandpaper before painting.",
+      "example_th": "ขัดขอบให้เรียบด้วยกระดาษทรายก่อนทาสี",
+      "cefr": "B1",
+      "note_th": "sand (ทราย) + paper (กระดาษ) ตรงตัวเหมือนภาษาไทย — ใช้เป็นกริยาว่า sand the wood = ขัดไม้ด้วยกระดาษทราย",
+      "distractors": [
+        "wallpaper",
+        "newspaper",
+        "sandbag"
+      ]
+    },
+    {
+      "id": "spare_part",
+      "word": "spare part",
+      "pos": "noun",
+      "ipa": "/ˈsper pɑːrt/",
+      "reading_th": "สแปร์ พาร์ท",
+      "meaning_th": "อะไหล่",
+      "emoji": "⚙️",
+      "example_en": "The shop has to order a spare part from Japan.",
+      "example_th": "ร้านต้องสั่งอะไหล่จากญี่ปุ่น",
+      "cefr": "B1",
+      "note_th": "spare = สำรอง (spare key กุญแจสำรอง, spare tire ยางอะไหล่) ดังนั้น spare part = ชิ้นส่วนสำรองไว้เปลี่ยน — อะไหล่แท้คือ genuine parts",
+      "distractors": [
+        "spare time",
+        "spare room",
+        "part-time"
+      ]
+    },
+    {
+      "id": "plunger",
+      "word": "plunger",
+      "pos": "noun",
+      "ipa": "/ˈplʌndʒər/",
+      "reading_th": "พลัน-เจอร์",
+      "meaning_th": "ที่ปั๊มชักโครก",
+      "emoji": "🚽",
+      "example_en": "Grab the plunger, the toilet is blocked again.",
+      "example_th": "หยิบที่ปั๊มชักโครกมา ส้วมตันอีกแล้ว",
+      "cefr": "B1",
+      "note_th": "plunge = กดลงแรงๆ จึงเป็น plunger ที่ปั๊มยางแก้ส้วมหรืออ่างตัน — ของจำเป็นที่ทุกบ้านควรมีก่อนต้องเรียกช่าง",
+      "distractors": [
+        "plumber",
+        "plug",
+        "pliers"
+      ]
+    },
+    {
+      "id": "circuit_breaker",
+      "word": "circuit breaker",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrkɪt ˌbreɪkər/",
+      "reading_th": "เซอร์-คิท เบรค-เกอร์",
+      "meaning_th": "เบรกเกอร์ / สวิตช์ตัดไฟ",
+      "emoji": "⚡",
+      "example_en": "Turn off the circuit breaker before touching any wire.",
+      "example_th": "สับเบรกเกอร์ลงก่อนแตะสายไฟใดๆ",
+      "cefr": "B1",
+      "note_th": "circuit = วงจรไฟฟ้า breaker = ตัวตัด — เบรกเกอร์ที่คนไทยเรียกคือคำนี้ และ the breaker tripped = เบรกเกอร์ตัด",
+      "distractors": [
+        "fuse box",
+        "circuit",
+        "ice breaker"
+      ]
+    },
+    {
+      "id": "unplug",
+      "word": "unplug",
+      "pos": "verb",
+      "ipa": "/ʌnˈplʌɡ/",
+      "reading_th": "อัน-พลัก",
+      "meaning_th": "ถอดปลั๊ก",
+      "emoji": "🔌",
+      "example_en": "Unplug the toaster before you clean it.",
+      "example_th": "ถอดปลั๊กเครื่องปิ้งขนมปังก่อนทำความสะอาด",
+      "cefr": "A2",
+      "note_th": "un- + plug = ถอดปลั๊กออก ตรงข้ามกับ plug in — unplug ยังเป็นคำยอดฮิตแปลว่าหยุดใช้มือถือพักสมอง (unplug for the weekend)",
+      "distractors": [
+        "plug in",
+        "unpack",
+        "unlock"
+      ]
+    },
+    {
+      "id": "jammed",
+      "word": "jammed",
+      "pos": "adjective",
+      "ipa": "/dʒæmd/",
+      "reading_th": "แจมด์",
+      "meaning_th": "ติดขัด / ค้าง",
+      "emoji": "🚪",
+      "example_en": "The drawer is jammed and will not open.",
+      "example_th": "ลิ้นชักติดขัดเปิดไม่ออก",
+      "cefr": "B1",
+      "note_th": "jammed = ติดค้างขยับไม่ได้ ใช้กับประตู ลิ้นชัก กระดาษในเครื่องพิมพ์ (paper jam) — traffic jam ก็คือรถติดคำเดียวกัน",
+      "distractors": [
+        "jam",
+        "stuck",
+        "locked"
+      ]
+    },
+    {
+      "id": "short_circuit",
+      "word": "short circuit",
+      "pos": "noun",
+      "ipa": "/ˌʃɔːrt ˈsɜːrkɪt/",
+      "reading_th": "ชอร์ท เซอร์-คิท",
+      "meaning_th": "ไฟฟ้าลัดวงจร",
+      "emoji": "💥",
+      "example_en": "A short circuit in the old fan started the fire.",
+      "example_th": "ไฟฟ้าลัดวงจรในพัดลมเก่าทำให้เกิดไฟไหม้",
+      "cefr": "B1",
+      "note_th": "short circuit = ไฟลัดวงจร คำที่เจอในข่าวไฟไหม้บ่อยที่สุด — ภาษาพูดย่อว่า a short: there was a short in the wiring",
+      "distractors": [
+        "short cut",
+        "circuit breaker",
+        "short trip"
+      ]
+    },
+    {
+      "id": "drip",
+      "word": "drip",
+      "pos": "verb",
+      "ipa": "/drɪp/",
+      "reading_th": "ดริป",
+      "meaning_th": "หยดติ๋ง",
+      "emoji": "💧",
+      "example_en": "The faucet keeps dripping all night and I cannot sleep.",
+      "example_th": "ก๊อกน้ำหยดติ๋งทั้งคืนจนฉันนอนไม่หลับ",
+      "cefr": "B1",
+      "note_th": "drip = น้ำหยดทีละหยด ส่วน leak = รั่วไหลออกมา — กาแฟดริปที่คนไทยชอบดื่มคือ drip coffee เพราะน้ำหยดผ่านผงกาแฟ",
+      "distractors": [
+        "drop",
+        "drill",
+        "trip"
+      ]
+    },
+    {
+      "id": "rusty",
+      "word": "rusty",
+      "pos": "adjective",
+      "ipa": "/ˈrʌsti/",
+      "reading_th": "รัส-ตี้",
+      "meaning_th": "เป็นสนิม",
+      "emoji": "🟤",
+      "example_en": "The gate hinges are rusty and squeak every morning.",
+      "example_th": "บานพับประตูรั้วเป็นสนิมและดังเอี๊ยดทุกเช้า",
+      "cefr": "B1",
+      "note_th": "rust = สนิม (คำนาม) rusty = เป็นสนิม — ใช้กับทักษะได้ด้วย my English is rusty = ภาษาอังกฤษฉันไม่ได้ใช้นานจนฝืด",
+      "distractors": [
+        "dusty",
+        "rushy",
+        "trusty"
+      ]
+    },
+    {
+      "id": "switch",
+      "word": "switch",
+      "pos": "noun",
+      "ipa": "/swɪtʃ/",
+      "reading_th": "สวิทช์",
+      "meaning_th": "สวิตช์ไฟ",
+      "emoji": "🔘",
+      "example_en": "The switch for the balcony light is behind the door.",
+      "example_th": "สวิตช์ไฟระเบียงอยู่หลังประตู",
+      "cefr": "A2",
+      "note_th": "switch on/off = เปิด/ปิดด้วยสวิตช์ ใช้แทน turn on/off ได้ — เป็นกริยายังแปลว่าสลับหรือเปลี่ยน เช่น switch seats",
+      "distractors": [
+        "sweet",
+        "stitch",
+        "plug"
+      ]
+    },
+    {
+      "id": "plug",
+      "word": "plug",
+      "pos": "noun",
+      "ipa": "/plʌɡ/",
+      "reading_th": "พลัก",
+      "meaning_th": "ปลั๊กไฟ (หัวเสียบ)",
+      "emoji": "🔌",
+      "example_en": "The plug does not fit this socket.",
+      "example_th": "ปลั๊กอันนี้เสียบกับเต้ารับนี้ไม่ได้",
+      "cefr": "A2",
+      "note_th": "plug = หัวปลั๊กที่สายไฟ ส่วนรูที่ผนังคือ socket หรือ outlet (คนไทยเรียกปลั๊กทั้งคู่ ฝรั่งแยกกัน) — plug in = เสียบปลั๊ก, unplug = ถอดปลั๊ก",
+      "distractors": [
+        "plus",
+        "plum",
+        "socket"
+      ]
+    },
+    {
+      "id": "extension_cord",
+      "word": "extension cord",
+      "pos": "noun",
+      "ipa": "/ɪkˈstenʃən kɔːrd/",
+      "reading_th": "อิค-สเตน-ชั่น คอร์ด",
+      "meaning_th": "ปลั๊กพ่วง / สายต่อ",
+      "emoji": "🔌",
+      "example_en": "Run an extension cord from the wall to the desk.",
+      "example_th": "ลากปลั๊กพ่วงจากผนังมาที่โต๊ะทำงาน",
+      "cefr": "B1",
+      "note_th": "extension cord (อเมริกัน) หรือ extension lead (อังกฤษ) — แบบที่มีหลายช่องเรียก power strip และ cord = สายไฟแบบนุ่ม",
+      "distractors": [
+        "extension",
+        "power bank",
+        "charger"
+      ]
+    },
+    {
+      "id": "outlet",
+      "word": "outlet",
+      "pos": "noun",
+      "ipa": "/ˈaʊtlet/",
+      "reading_th": "เอาท์-เล็ท",
+      "meaning_th": "เต้ารับไฟฟ้า (รูปลั๊กที่ผนัง)",
+      "emoji": "🔌",
+      "example_en": "There is no outlet near the bed to charge my phone.",
+      "example_th": "ไม่มีเต้ารับใกล้เตียงให้ชาร์จมือถือเลย",
+      "cefr": "A2",
+      "note_th": "outlet (อเมริกัน) = socket (อังกฤษ) = รูปลั๊กที่ผนัง ส่วนหัวเสียบคือ plug — outlet mall ที่คนไทยไปช้อปคือคำเดียวกันแต่แปลว่าร้านขายของลดราคา",
+      "distractors": [
+        "outline",
+        "plug",
+        "output"
+      ]
+    },
+    {
+      "id": "loosen",
+      "word": "loosen",
+      "pos": "verb",
+      "ipa": "/ˈluːsən/",
+      "reading_th": "ลู-เซิ่น",
+      "meaning_th": "คลายให้หลวม",
+      "emoji": "🔧",
+      "example_en": "Loosen the screw a little before pulling the cover off.",
+      "example_th": "คลายสกรูนิดหนึ่งก่อนดึงฝาครอบออก",
+      "cefr": "B1",
+      "note_th": "loosen = ทำให้หลวม ตรงข้ามกับ tighten — อย่าสับสนกับ lose (แพ้/ทำหาย) และ loose (หลวม คำคุณศัพท์) ที่คนไทยสะกดสลับกันประจำ",
+      "distractors": [
+        "lose",
+        "loose",
+        "listen"
+      ]
+    },
+    {
+      "id": "tighten",
+      "word": "tighten",
+      "pos": "verb",
+      "ipa": "/ˈtaɪtən/",
+      "reading_th": "ไท-เทิ่น",
+      "meaning_th": "ขันให้แน่น",
+      "emoji": "🔩",
+      "example_en": "Tighten the screws so the shelf stops shaking.",
+      "example_th": "ขันสกรูให้แน่นชั้นวางจะได้เลิกโยก",
+      "cefr": "B1",
+      "note_th": "tight (แน่น) + -en = ทำให้แน่น ตรงข้ามคือ loosen (คลาย) — รูปแบบเดียวกับ shorten, widen ใช้ได้กับเข็มขัดด้วย tighten your belt",
+      "distractors": [
+        "loosen",
+        "tighter",
+        "lighten"
+      ]
+    },
+    {
+      "id": "lawn",
+      "word": "lawn",
+      "pos": "noun",
+      "ipa": "/lɔːn/",
+      "reading_th": "ลอน",
+      "meaning_th": "สนามหญ้า",
+      "emoji": "🌿",
+      "example_en": "The kids play on the lawn every evening.",
+      "example_th": "เด็กๆ เล่นบนสนามหญ้าทุกเย็น",
+      "cefr": "A2",
+      "note_th": "lawn = สนามหญ้าที่ตัดเรียบ ส่วน grass = ต้นหญ้าทั่วไป — เครื่องตัดหญ้าคือ lawn mower และ front lawn คือสนามหน้าบ้าน",
+      "distractors": [
+        "loan",
+        "lane",
+        "dawn"
+      ]
+    },
+    {
+      "id": "mow",
+      "word": "mow",
+      "pos": "verb",
+      "ipa": "/moʊ/",
+      "reading_th": "โม",
+      "meaning_th": "ตัดหญ้า",
+      "emoji": "🚜",
+      "example_en": "I mow the lawn every Sunday morning.",
+      "example_th": "ฉันตัดหญ้าทุกเช้าวันอาทิตย์",
+      "cefr": "B1",
+      "note_th": "mow ออกเสียง โม (สัมผัสกับ go) ใช้กับหญ้าเท่านั้น ไม่ใช่ cut — ช่อง 3 คือ mown หรือ mowed ใช้ได้ทั้งคู่",
+      "distractors": [
+        "mop",
+        "now",
+        "sow"
+      ]
+    },
+    {
+      "id": "hose",
+      "word": "hose",
+      "pos": "noun",
+      "ipa": "/hoʊz/",
+      "reading_th": "โฮส",
+      "meaning_th": "สายยาง",
+      "emoji": "🚿",
+      "example_en": "Use the hose to wash the car on Saturday.",
+      "example_th": "ใช้สายยางล้างรถวันเสาร์",
+      "cefr": "A2",
+      "note_th": "hose = สายยาง (garden hose) ออกเสียง โฮส ไม่ใช่ โฮส-ซี่ — เป็นกริยาได้ hose down the driveway = ฉีดน้ำล้างทางเข้าบ้าน",
+      "distractors": [
+        "house",
+        "horse",
+        "pipe"
+      ]
+    },
+    {
+      "id": "watering_can",
+      "word": "watering can",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtərɪŋ kæn/",
+      "reading_th": "วอ-เทอ-ริ่ง แคน",
+      "meaning_th": "บัวรดน้ำ",
+      "emoji": "🪴",
+      "example_en": "Fill the watering can and water the orchids.",
+      "example_th": "เติมน้ำใส่บัวรดน้ำแล้วรดกล้วยไม้",
+      "cefr": "A2",
+      "note_th": "water เป็นกริยาแปลว่ารดน้ำ: water the plants — ดังนั้น watering can คือกระป๋องสำหรับรดน้ำ ไม่ใช่กระป๋องน้ำ",
+      "distractors": [
+        "water bottle",
+        "trash can",
+        "bucket"
+      ]
+    },
+    {
+      "id": "soil",
+      "word": "soil",
+      "pos": "noun",
+      "ipa": "/sɔɪl/",
+      "reading_th": "ซอยล์",
+      "meaning_th": "ดินปลูก",
+      "emoji": "🟫",
+      "example_en": "Mix some compost into the soil before planting.",
+      "example_th": "ผสมปุ๋ยหมักลงในดินก่อนปลูก",
+      "cefr": "B1",
+      "note_th": "soil = ดินสำหรับปลูกต้นไม้ ส่วน dirt = ดินที่เลอะ/สิ่งสกปรก และ ground = พื้นดิน — ดินปลูกถุงที่ซื้อคือ potting soil",
+      "distractors": [
+        "soul",
+        "sand",
+        "oil"
+      ]
+    },
+    {
+      "id": "fertilizer",
+      "word": "fertilizer",
+      "pos": "noun",
+      "ipa": "/ˈfɜːrtəlaɪzər/",
+      "reading_th": "เฟอร์-ทิ-ไล-เซอร์",
+      "meaning_th": "ปุ๋ย",
+      "emoji": "🌾",
+      "example_en": "Add fertilizer once a month in the rainy season.",
+      "example_th": "ใส่ปุ๋ยเดือนละครั้งในหน้าฝน",
+      "cefr": "B1",
+      "note_th": "fertilizer = ปุ๋ย (fertile = อุดมสมบูรณ์) ปุ๋ยเคมี chemical fertilizer ปุ๋ยคอก manure ปุ๋ยหมัก compost",
+      "distractors": [
+        "fertile",
+        "freezer",
+        "pesticide"
+      ]
+    },
+    {
+      "id": "weed",
+      "word": "weed",
+      "pos": "noun",
+      "ipa": "/wiːd/",
+      "reading_th": "วีด",
+      "meaning_th": "วัชพืช",
+      "emoji": "🌱",
+      "example_en": "Pull out every weed before it spreads.",
+      "example_th": "ถอนวัชพืชทุกต้นออกก่อนมันจะลาม",
+      "cefr": "B1",
+      "note_th": "weed = วัชพืช และเป็นกริยา weed the garden = ถอนหญ้า — ระวัง: weed ในภาษาพูดยังเป็นคำแสลงของกัญชา ดูบริบทให้ดี",
+      "distractors": [
+        "seed",
+        "wheat",
+        "wood"
+      ]
+    },
+    {
+      "id": "flowerpot",
+      "word": "flowerpot",
+      "pos": "noun",
+      "ipa": "/ˈflaʊərpɑːt/",
+      "reading_th": "ฟลาว-เวอร์-พ็อท",
+      "meaning_th": "กระถางต้นไม้",
+      "emoji": "🪴",
+      "example_en": "This flowerpot is too small for the tree now.",
+      "example_th": "กระถางนี้เล็กเกินไปสำหรับต้นไม้แล้ว",
+      "cefr": "A2",
+      "note_th": "flowerpot หรือ plant pot ใช้ได้ทั้งคู่ และ potted plant = ต้นไม้ในกระถาง — ย้ายกระถางใหญ่ขึ้นเรียก repot",
+      "distractors": [
+        "flower bed",
+        "teapot",
+        "flour"
+      ]
+    },
+    {
+      "id": "shovel",
+      "word": "shovel",
+      "pos": "noun",
+      "ipa": "/ˈʃʌvəl/",
+      "reading_th": "ชัฟ-เวิล",
+      "meaning_th": "พลั่ว",
+      "emoji": "🪏",
+      "example_en": "Dig a hole with the shovel for the new tree.",
+      "example_th": "ใช้พลั่วขุดหลุมปลูกต้นไม้ใหม่",
+      "cefr": "B1",
+      "note_th": "shovel = พลั่วตักดิน/ตักหิมะ ส่วน spade = เสียมปลายแบนสำหรับขุด ฝรั่งเองก็ใช้ปนกัน — เป็นกริยาได้ shovel the snow",
+      "distractors": [
+        "shower",
+        "novel",
+        "spade"
+      ]
+    },
+    {
+      "id": "rake",
+      "word": "rake",
+      "pos": "noun",
+      "ipa": "/reɪk/",
+      "reading_th": "เรค",
+      "meaning_th": "คราด",
+      "emoji": "🍂",
+      "example_en": "Use the rake to gather the dry leaves.",
+      "example_th": "ใช้คราดกวาดรวมใบไม้แห้ง",
+      "cefr": "B1",
+      "note_th": "rake = คราด (ด้ามยาว ปลายเป็นซี่) เป็นกริยาได้ rake the leaves — งานประจำฤดูใบไม้ร่วงของบ้านฝรั่ง",
+      "distractors": [
+        "lake",
+        "rack",
+        "wake"
+      ]
+    },
+    {
+      "id": "fence",
+      "word": "fence",
+      "pos": "noun",
+      "ipa": "/fens/",
+      "reading_th": "เฟนส์",
+      "meaning_th": "รั้ว",
+      "emoji": "🏡",
+      "example_en": "The dog jumped over the fence again.",
+      "example_th": "หมากระโดดข้ามรั้วอีกแล้ว",
+      "cefr": "A2",
+      "note_th": "fence = รั้วไม้/รั้วลวด ส่วน wall = กำแพงก่ออิฐ — สำนวน sit on the fence แปลว่าไม่ยอมเลือกข้าง",
+      "distractors": [
+        "fans",
+        "wall",
+        "face"
+      ]
+    },
+    {
+      "id": "backyard",
+      "word": "backyard",
+      "pos": "noun",
+      "ipa": "/ˌbækˈjɑːrd/",
+      "reading_th": "แบ็ค-ยาร์ด",
+      "meaning_th": "สวนหลังบ้าน",
+      "emoji": "🌳",
+      "example_en": "We eat dinner in the backyard when the weather is nice.",
+      "example_th": "เรากินข้าวเย็นที่สวนหลังบ้านเวลาอากาศดี",
+      "cefr": "A2",
+      "note_th": "yard (อเมริกัน) = บริเวณบ้านที่มีหญ้า ฝั่งอังกฤษเรียก garden — backyard หลังบ้าน front yard หน้าบ้าน",
+      "distractors": [
+        "backpack",
+        "courtyard",
+        "backstage"
+      ]
+    },
+    {
+      "id": "garage",
+      "word": "garage",
+      "pos": "noun",
+      "ipa": "/ɡəˈrɑːʒ/",
+      "reading_th": "กะ-ราจ",
+      "meaning_th": "โรงรถ",
+      "emoji": "🚗",
+      "example_en": "Park the car in the garage tonight, it might rain.",
+      "example_th": "คืนนี้จอดรถในโรงรถนะ ฝนอาจจะตก",
+      "cefr": "A2",
+      "note_th": "อเมริกันออกเสียง กะ-ราจ (เน้นพยางค์หลัง) อังกฤษ แก-ริจ — garage sale คือการเปิดขายของเก่าหน้าบ้าน ส่วนอู่ซ่อมรถก็เรียก garage ได้",
+      "distractors": [
+        "garbage",
+        "garden",
+        "carriage"
+      ]
+    },
+    {
+      "id": "driveway",
+      "word": "driveway",
+      "pos": "noun",
+      "ipa": "/ˈdraɪvweɪ/",
+      "reading_th": "ไดรฟ์-เวย์",
+      "meaning_th": "ทางรถเข้าบ้าน",
+      "emoji": "🛣️",
+      "example_en": "Someone parked in our driveway and blocked the gate.",
+      "example_th": "มีคนมาจอดขวางทางรถเข้าบ้านเราหน้าประตูรั้ว",
+      "cefr": "B1",
+      "note_th": "driveway = ทางรถส่วนตัวจากถนนเข้าบ้าน (คนไทยจอดรถตรงนี้เป็นปกติ) — ป้าย Do not block the driveway = ห้ามจอดขวางทางเข้า",
+      "distractors": [
+        "highway",
+        "doorway",
+        "driver"
+      ]
+    },
+    {
+      "id": "organize",
+      "word": "organize",
+      "pos": "verb",
+      "ipa": "/ˈɔːrɡənaɪz/",
+      "reading_th": "ออร์-กะ-ไนซ์",
+      "meaning_th": "จัดให้เป็นระเบียบ",
+      "emoji": "🗂️",
+      "example_en": "I want to organize the closet this weekend.",
+      "example_th": "สุดสัปดาห์นี้ฉันอยากจัดตู้เสื้อผ้า",
+      "cefr": "A2",
+      "note_th": "organize = จัดระเบียบ (ของ ตารางเวลา งานอีเวนต์) สะกด -ize แบบอเมริกัน -ise แบบอังกฤษ — คนที่ชอบจัดของเรียกว่า organized person",
+      "distractors": [
+        "organic",
+        "organ",
+        "recognize"
+      ]
+    },
+    {
+      "id": "declutter",
+      "word": "declutter",
+      "pos": "verb",
+      "ipa": "/diːˈklʌtər/",
+      "reading_th": "ดี-คลัท-เทอร์",
+      "meaning_th": "กำจัดของรก",
+      "emoji": "🧹",
+      "example_en": "Let's declutter the bedroom and donate what we never use.",
+      "example_th": "มาจัดการของรกในห้องนอนแล้วบริจาคของที่ไม่เคยใช้กันเถอะ",
+      "cefr": "B2",
+      "note_th": "de- (เอาออก) + clutter (ของรก) = ทิ้งของที่ไม่จำเป็น — คำยอดฮิตจากกระแสมินิมอลและวิธีจัดบ้านแบบคนโด ใช้กับชีวิตได้ด้วย declutter your life",
+      "distractors": [
+        "clutter",
+        "decorate",
+        "delete"
+      ]
+    },
+    {
+      "id": "clutter",
+      "word": "clutter",
+      "pos": "noun",
+      "ipa": "/ˈklʌtər/",
+      "reading_th": "คลัท-เทอร์",
+      "meaning_th": "ของรกระเกะระกะ",
+      "emoji": "📦",
+      "example_en": "There is so much clutter on the desk that I cannot work.",
+      "example_th": "บนโต๊ะมีของรกเต็มไปหมดจนฉันทำงานไม่ได้",
+      "cefr": "B1",
+      "note_th": "clutter = กองของที่วางเกะกะไม่เป็นที่ นับไม่ได้ (ไม่เติม s) — ส่วน mess ก็แปลว่ารก แต่รวมถึงสกปรกเลอะเทอะด้วย",
+      "distractors": [
+        "butter",
+        "cluster",
+        "gutter"
+      ]
+    },
+    {
+      "id": "messy",
+      "word": "messy",
+      "pos": "adjective",
+      "ipa": "/ˈmesi/",
+      "reading_th": "เมส-ซี่",
+      "meaning_th": "รก / เลอะเทอะ",
+      "emoji": "🙈",
+      "example_en": "My room is so messy that I cannot find my keys.",
+      "example_th": "ห้องฉันรกมากจนหากุญแจไม่เจอ",
+      "cefr": "A2",
+      "note_th": "messy = รก ใช้กับห้อง โต๊ะ ผม หรือแม้แต่ความสัมพันธ์ (a messy breakup) — ตรงข้ามคือ tidy หรือ neat",
+      "distractors": [
+        "mossy",
+        "mercy",
+        "tidy"
+      ]
+    },
+    {
+      "id": "container",
+      "word": "container",
+      "pos": "noun",
+      "ipa": "/kənˈteɪnər/",
+      "reading_th": "คอน-เท-เนอร์",
+      "meaning_th": "กล่องใส่ของ / ภาชนะมีฝา",
+      "emoji": "🫙",
+      "example_en": "Keep the rice in an airtight container.",
+      "example_th": "เก็บข้าวสารในกล่องที่ปิดสนิท",
+      "cefr": "A2",
+      "note_th": "container = ภาชนะใส่ของทุกชนิด (contain = บรรจุ) กล่องถนอมอาหารคือ food container — ตู้คอนเทนเนอร์ขนส่งก็คำเดียวกัน",
+      "distractors": [
+        "contain",
+        "content",
+        "counter"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "word": "cupboard",
+      "pos": "noun",
+      "ipa": "/ˈkʌbərd/",
+      "reading_th": "คับ-เบิร์ด",
+      "meaning_th": "ตู้เก็บของ (ในครัว)",
+      "emoji": "🚪",
+      "example_en": "The plates are in the cupboard above the sink.",
+      "example_th": "จานอยู่ในตู้เหนืออ่างล้างจาน",
+      "cefr": "A2",
+      "note_th": "ออกเสียง คับ-เบิร์ด ตัว p ไม่ออกเสียง! — cupboard มักเป็นตู้ในครัวหรือตู้เก็บของทั่วไป ส่วนตู้เสื้อผ้าคือ wardrobe หรือ closet",
+      "distractors": [
+        "cardboard",
+        "cabinet",
+        "clipboard"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "word": "cabinet",
+      "pos": "noun",
+      "ipa": "/ˈkæbɪnət/",
+      "reading_th": "แคบ-บิ-เน็ท",
+      "meaning_th": "ตู้ (ติดผนัง / มีลิ้นชัก)",
+      "emoji": "🗄️",
+      "example_en": "Keep the medicine in the bathroom cabinet.",
+      "example_th": "เก็บยาไว้ในตู้ห้องน้ำ",
+      "cefr": "B1",
+      "note_th": "cabinet = ตู้ที่ดูเป็นทางการหรือตู้ติดตั้ง เช่น kitchen cabinets, filing cabinet, medicine cabinet — ในข่าว cabinet แปลว่าคณะรัฐมนตรี",
+      "distractors": [
+        "cupboard",
+        "cabin",
+        "carpet"
+      ]
+    },
+    {
+      "id": "storage_box",
+      "word": "storage box",
+      "pos": "noun",
+      "ipa": "/ˈstɔːrɪdʒ bɑːks/",
+      "reading_th": "สตอ-ริจ บ็อกซ์",
+      "meaning_th": "กล่องเก็บของ",
+      "emoji": "📦",
+      "example_en": "Put the winter clothes in a storage box under the bed.",
+      "example_th": "เก็บเสื้อหนาวใส่กล่องเก็บของไว้ใต้เตียง",
+      "cefr": "A2",
+      "note_th": "storage = การเก็บ/พื้นที่เก็บของ ใช้กับมือถือด้วย (phone storage) — ห้องเก็บของคือ storage room และคลังเก็บของให้เช่าคือ self-storage",
+      "distractors": [
+        "shoebox",
+        "storage room",
+        "toolbox"
+      ]
+    },
+    {
+      "id": "label",
+      "word": "label",
+      "pos": "verb",
+      "ipa": "/ˈleɪbəl/",
+      "reading_th": "เล-เบิล",
+      "meaning_th": "ติดป้ายชื่อ",
+      "emoji": "🏷️",
+      "example_en": "Label every box so you know what is inside.",
+      "example_th": "ติดป้ายทุกกล่องจะได้รู้ว่าข้างในมีอะไร",
+      "cefr": "A2",
+      "note_th": "ออกเสียง เล-เบิล ไม่ใช่ ลา-เบล — เป็นคำนามด้วย (ฉลาก ป้าย) เช่น read the label ก่อนกินยา และ label maker คือเครื่องพิมพ์ป้าย",
+      "distractors": [
+        "table",
+        "level",
+        "libel"
+      ]
+    },
+    {
+      "id": "junk",
+      "word": "junk",
+      "pos": "noun",
+      "ipa": "/dʒʌŋk/",
+      "reading_th": "จังค์",
+      "meaning_th": "ของเก่าไร้ค่า / ขยะ",
+      "emoji": "🗑️",
+      "example_en": "The garage is full of junk we never use.",
+      "example_th": "โรงรถเต็มไปด้วยของเก่าที่เราไม่เคยใช้",
+      "cefr": "B1",
+      "note_th": "junk = ของที่ไม่มีค่าแต่ยังเก็บไว้ นับไม่ได้ — junk food อาหารขยะ, junk mail จดหมายโฆษณา, junk drawer ลิ้นชักของจิปาถะ",
+      "distractors": [
+        "jump",
+        "jug",
+        "junction"
+      ]
+    },
+    {
+      "id": "shoe_rack",
+      "word": "shoe rack",
+      "pos": "noun",
+      "ipa": "/ˈʃuː ræk/",
+      "reading_th": "ชู แรค",
+      "meaning_th": "ชั้นวางรองเท้า",
+      "emoji": "👟",
+      "example_en": "Leave your sneakers on the shoe rack by the door.",
+      "example_th": "วางรองเท้าผ้าใบไว้ที่ชั้นวางรองเท้าข้างประตู",
+      "cefr": "A2",
+      "note_th": "shoe rack = ชั้นวางรองเท้าหน้าบ้าน ของที่บ้านคนไทยทุกหลังต้องมีเพราะถอดรองเท้าก่อนเข้าบ้าน — ตู้รองเท้าแบบปิดคือ shoe cabinet",
+      "distractors": [
+        "shoe cabinet",
+        "dish rack",
+        "shoelace"
+      ]
+    },
+    {
+      "id": "attic",
+      "word": "attic",
+      "pos": "noun",
+      "ipa": "/ˈætɪk/",
+      "reading_th": "แอท-ทิค",
+      "meaning_th": "ห้องใต้หลังคา",
+      "emoji": "🏠",
+      "example_en": "We store old photos and toys in the attic.",
+      "example_th": "เราเก็บรูปเก่ากับของเล่นไว้ในห้องใต้หลังคา",
+      "cefr": "B1",
+      "note_th": "attic = ห้องเก็บของใต้หลังคาบ้านฝรั่ง ส่วนห้องใต้ดินคือ basement — บ้านไทยไม่ค่อยมี แต่เจอในหนังและนิยายตลอด",
+      "distractors": [
+        "basement",
+        "attach",
+        "antique"
+      ]
+    },
+    {
+      "id": "stack",
+      "word": "stack",
+      "pos": "verb",
+      "ipa": "/stæk/",
+      "reading_th": "สแตค",
+      "meaning_th": "วางซ้อนกัน",
+      "emoji": "🥞",
+      "example_en": "Stack the boxes neatly against the wall.",
+      "example_th": "วางกล่องซ้อนกันให้เรียบร้อยชิดผนัง",
+      "cefr": "B1",
+      "note_th": "stack = วางซ้อนเป็นตั้ง และเป็นคำนาม a stack of books = หนังสือหนึ่งตั้ง — stackable boxes คือกล่องที่ออกแบบมาให้ซ้อนกันได้",
+      "distractors": [
+        "stick",
+        "stuck",
+        "snack"
+      ]
+    },
+    {
+      "id": "hook",
+      "word": "hook",
+      "pos": "noun",
+      "ipa": "/hʊk/",
+      "reading_th": "ฮุค",
+      "meaning_th": "ตะขอแขวน",
+      "emoji": "🪝",
+      "example_en": "Hang your keys on the hook by the door.",
+      "example_th": "แขวนกุญแจไว้ที่ตะขอข้างประตู",
+      "cefr": "A2",
+      "note_th": "hook = ตะขอ (ติดผนังแขวนของ หรือตะขอตกปลา) — ในเพลง hook คือท่อนติดหู และ off the hook แปลว่ารอดจากความผิด",
+      "distractors": [
+        "hock",
+        "book",
+        "hood"
+      ]
+    }
+  ]
+}

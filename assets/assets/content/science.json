@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "science",
+    "name_en": "Science",
+    "name_th": "วิทยาศาสตร์",
+    "emoji": "🔬",
+    "color_start": "#34D399",
+    "color_end": "#059669",
+    "description_th": "ศัพท์วิทยาศาสตร์พื้นฐาน ชีววิทยา เคมี ฟิสิกส์ อวกาศ และการทดลอง",
+    "mascot_costume": "doctor",
+    "lessons": [
+      {
+        "id": "science_1",
+        "title_en": "In the Lab",
+        "title_th": "ในห้องทดลอง",
+        "emoji": "🧪",
+        "word_ids": [
+          "scientist",
+          "experiment",
+          "procedure",
+          "test_tube",
+          "beaker",
+          "microscope",
+          "goggles",
+          "thermometer",
+          "magnet",
+          "flame",
+          "sample",
+          "measure",
+          "observe",
+          "classify"
+        ]
+      },
+      {
+        "id": "science_2",
+        "title_en": "Biology & Body",
+        "title_th": "ชีววิทยาและร่างกาย",
+        "emoji": "🫀",
+        "word_ids": [
+          "cell",
+          "organ",
+          "brain",
+          "lung",
+          "stomach",
+          "bone",
+          "blood",
+          "nerve",
+          "inhale",
+          "digest",
+          "oxygen",
+          "germ",
+          "bacteria",
+          "immune"
+        ]
+      },
+      {
+        "id": "science_3",
+        "title_en": "Plants & Ecosystems",
+        "title_th": "พืชและระบบนิเวศ",
+        "emoji": "🌱",
+        "word_ids": [
+          "photosynthesis",
+          "absorb",
+          "nutrient",
+          "fungus",
+          "algae",
+          "pollen",
+          "amphibian",
+          "decomposer",
+          "carnivore",
+          "herbivore",
+          "food_chain",
+          "ecosystem",
+          "reproduce",
+          "evolve"
+        ]
+      },
+      {
+        "id": "science_4",
+        "title_en": "Chemistry & Materials",
+        "title_th": "เคมีและวัสดุ",
+        "emoji": "⚗️",
+        "word_ids": [
+          "atom",
+          "molecule",
+          "element",
+          "compound",
+          "reaction",
+          "acid",
+          "metal",
+          "plastic",
+          "solid",
+          "crystal",
+          "melt",
+          "dissolve",
+          "evaporate",
+          "rust"
+        ]
+      },
+      {
+        "id": "science_5",
+        "title_en": "Physics & Energy",
+        "title_th": "ฟิสิกส์และพลังงาน",
+        "emoji": "⚡",
+        "word_ids": [
+          "energy",
+          "force",
+          "gravity",
+          "mass",
+          "weight",
+          "speed",
+          "motion",
+          "friction",
+          "heat",
+          "conductor",
+          "circuit",
+          "voltage",
+          "reflect",
+          "vibration"
+        ]
+      },
+      {
+        "id": "science_6",
+        "title_en": "Earth & Space",
+        "title_th": "โลกและอวกาศ",
+        "emoji": "🪐",
+        "word_ids": [
+          "planet",
+          "solar_system",
+          "orbit",
+          "satellite",
+          "galaxy",
+          "universe",
+          "astronaut",
+          "rocket",
+          "telescope",
+          "meteor",
+          "continent",
+          "comet",
+          "mineral",
+          "fossil"
+        ]
+      },
+      {
+        "id": "science_7",
+        "title_en": "Scientific Thinking",
+        "title_th": "คิดแบบนักวิทยาศาสตร์",
+        "emoji": "🧠",
+        "word_ids": [
+          "hypothesis",
+          "theory",
+          "logical",
+          "prove",
+          "factor",
+          "cause",
+          "effect",
+          "pattern",
+          "assume",
+          "analyze",
+          "method",
+          "accurate",
+          "conclusion",
+          "invent"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "scientist",
+      "word": "scientist",
+      "pos": "noun",
+      "ipa": "/ˈsaɪəntɪst/",
+      "reading_th": "ไซ-เอิน-ทิสท์",
+      "meaning_th": "นักวิทยาศาสตร์",
+      "emoji": "👩‍🔬",
+      "example_en": "The scientist tested the water from the river.",
+      "example_th": "นักวิทยาศาสตร์ทดสอบน้ำจากแม่น้ำ",
+      "cefr": "A2",
+      "note_th": "science (วิทยาศาสตร์) scientist (นักวิทยาศาสตร์) scientific (ทางวิทยาศาสตร์) — ตัว c หลัง s ไม่ออกเสียง อ่านว่า ไซ ไม่ใช่ สะ-ไซ",
+      "distractors": [
+        "scientific",
+        "dentist",
+        "artist"
+      ]
+    },
+    {
+      "id": "experiment",
+      "word": "experiment",
+      "pos": "noun",
+      "ipa": "/ɪkˈsperɪmənt/",
+      "reading_th": "อิก-สเป-ริ-เมินท์",
+      "meaning_th": "การทดลอง",
+      "emoji": "🧪",
+      "example_en": "We did an experiment to see which plant grows faster.",
+      "example_th": "เราทำการทดลองเพื่อดูว่าต้นไหนโตเร็วกว่า",
+      "cefr": "A2",
+      "note_th": "do/carry out/conduct an experiment = ทำการทดลอง (ห้ามใช้ make) — เป็นกริยาได้ด้วย experiment with = ลองของใหม่ๆ",
+      "distractors": [
+        "experience",
+        "expert",
+        "equipment"
+      ]
+    },
+    {
+      "id": "procedure",
+      "word": "procedure",
+      "pos": "noun",
+      "ipa": "/prəˈsiːdʒər/",
+      "reading_th": "โพร-ซี-เจอร์",
+      "meaning_th": "ขั้นตอน (การทดลอง)",
+      "emoji": "📋",
+      "example_en": "Follow the procedure step by step and do not skip any.",
+      "example_th": "ทำตามขั้นตอนทีละข้อ ห้ามข้ามขั้นใด",
+      "cefr": "B1",
+      "note_th": "ในรายงานแล็บมีหัวข้อ Materials → Procedure → Results → Conclusion — ที่โรงพยาบาล procedure = หัตถการ/การผ่าตัดเล็ก",
+      "distractors": [
+        "process",
+        "producer",
+        "proceed"
+      ]
+    },
+    {
+      "id": "test_tube",
+      "word": "test tube",
+      "pos": "noun",
+      "ipa": "/ˈtest tuːb/",
+      "reading_th": "เทสท์ ทูบ",
+      "meaning_th": "หลอดทดลอง",
+      "emoji": "🧫",
+      "example_en": "Pour the liquid into a clean test tube.",
+      "example_th": "เทของเหลวลงในหลอดทดลองที่สะอาด",
+      "cefr": "A2",
+      "note_th": "test tube = หลอดแก้วก้นมน ใช้ test tube rack วางตั้ง — test-tube baby = เด็กหลอดแก้ว คำที่ได้ยินในข่าว",
+      "distractors": [
+        "test drive",
+        "tube",
+        "pipe"
+      ]
+    },
+    {
+      "id": "beaker",
+      "word": "beaker",
+      "pos": "noun",
+      "ipa": "/ˈbiːkər/",
+      "reading_th": "บี-เคอร์",
+      "meaning_th": "บีกเกอร์ / แก้วตวงทดลอง",
+      "emoji": "🥛",
+      "example_en": "Heat 100 ml of water in a beaker.",
+      "example_th": "ต้มน้ำ 100 มิลลิลิตรในบีกเกอร์",
+      "cefr": "B1",
+      "note_th": "beaker = แก้วทรงกระบอกมีขีดบอกปริมาตร ปากกว้าง เทง่าย — ส่วน flask ปากแคบ ใช้เขย่าหรือต้มโดยไม่กระเด็น",
+      "distractors": [
+        "baker",
+        "bucket",
+        "flask"
+      ]
+    },
+    {
+      "id": "microscope",
+      "word": "microscope",
+      "pos": "noun",
+      "ipa": "/ˈmaɪkrəskoʊp/",
+      "reading_th": "ไม-โคร-สโคป",
+      "meaning_th": "กล้องจุลทรรศน์",
+      "emoji": "🔬",
+      "example_en": "Under the microscope, the leaf looked like a green wall.",
+      "example_th": "เมื่อส่องกล้องจุลทรรศน์ ใบไม้ดูเหมือนกำแพงสีเขียว",
+      "cefr": "A2",
+      "note_th": "micro (เล็ก) + scope (ส่องดู) = ส่องของเล็ก ส่วน telescope = tele (ไกล) ส่องของไกล — look at it under a microscope ใช้ under ไม่ใช่ in",
+      "distractors": [
+        "telescope",
+        "microphone",
+        "microwave"
+      ]
+    },
+    {
+      "id": "goggles",
+      "word": "goggles",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːɡlz/",
+      "reading_th": "ก็อก-เกิลส์",
+      "meaning_th": "แว่นนิรภัย / แว่นกันสารเคมี",
+      "emoji": "🥽",
+      "example_en": "Always wear safety goggles when you mix chemicals.",
+      "example_th": "สวมแว่นนิรภัยทุกครั้งเมื่อผสมสารเคมี",
+      "cefr": "B1",
+      "note_th": "goggles เป็นพหูพจน์เสมอเหมือน glasses (a pair of goggles) — ใช้กับแว่นว่ายน้ำและแว่นสกีด้วย",
+      "distractors": [
+        "glasses",
+        "gloves",
+        "giggles"
+      ]
+    },
+    {
+      "id": "thermometer",
+      "word": "thermometer",
+      "pos": "noun",
+      "ipa": "/θərˈmɑːmɪtər/",
+      "reading_th": "เธอร์-มอ-มิ-เทอร์",
+      "meaning_th": "เทอร์โมมิเตอร์ / ที่วัดอุณหภูมิ",
+      "emoji": "🌡️",
+      "example_en": "The thermometer showed 38 degrees, so she had a fever.",
+      "example_th": "เทอร์โมมิเตอร์ขึ้น 38 องศา เธอจึงมีไข้",
+      "cefr": "A2",
+      "note_th": "thermo- = ความร้อน (thermos = กระติกเก็บความร้อน) -meter = เครื่องวัด — เสียงเน้นพยางค์ที่สอง เธอร์-ม็อม-มิ-เทอร์",
+      "distractors": [
+        "barometer",
+        "thermos",
+        "speedometer"
+      ]
+    },
+    {
+      "id": "magnet",
+      "word": "magnet",
+      "pos": "noun",
+      "ipa": "/ˈmæɡnət/",
+      "reading_th": "แมก-เน็ท",
+      "meaning_th": "แม่เหล็ก",
+      "emoji": "🧲",
+      "example_en": "A magnet can pick up iron nails but not plastic ones.",
+      "example_th": "แม่เหล็กดูดตะปูเหล็กได้ แต่ดูดตะปูพลาสติกไม่ได้",
+      "cefr": "A2",
+      "note_th": "magnet (คำนาม) magnetic (คำคุณศัพท์ เช่น magnetic field = สนามแม่เหล็ก) — ของที่แปะตู้เย็นเรียก fridge magnet",
+      "distractors": [
+        "magnetic",
+        "magic",
+        "market"
+      ]
+    },
+    {
+      "id": "flame",
+      "word": "flame",
+      "pos": "noun",
+      "ipa": "/fleɪm/",
+      "reading_th": "เฟลม",
+      "meaning_th": "เปลวไฟ",
+      "emoji": "🔥",
+      "example_en": "Hold the test tube above the flame, not in it.",
+      "example_th": "ถือหลอดทดลองไว้เหนือเปลวไฟ ไม่ใช่จุ่มลงไป",
+      "cefr": "B1",
+      "note_th": "flame = เปลวไฟเป็นลำ (candle flame) ส่วน fire = ไฟโดยรวม — Bunsen burner ในแล็บให้ blue flame ที่ร้อนกว่า yellow flame",
+      "distractors": [
+        "frame",
+        "flag",
+        "smoke"
+      ]
+    },
+    {
+      "id": "sample",
+      "word": "sample",
+      "pos": "noun",
+      "ipa": "/ˈsæmpl/",
+      "reading_th": "แซม-เพิล",
+      "meaning_th": "ตัวอย่าง (ที่เก็บมาทดสอบ)",
+      "emoji": "🧴",
+      "example_en": "The nurse took a blood sample from my arm.",
+      "example_th": "พยาบาลเก็บตัวอย่างเลือดจากแขนฉัน",
+      "cefr": "B1",
+      "note_th": "take/collect a sample = เก็บตัวอย่าง (water sample, soil sample) — ในสถิติ sample = กลุ่มตัวอย่างที่สุ่มมาจาก population",
+      "distractors": [
+        "simple",
+        "example",
+        "symbol"
+      ]
+    },
+    {
+      "id": "measure",
+      "word": "measure",
+      "pos": "verb",
+      "ipa": "/ˈmeʒər/",
+      "reading_th": "เม-เชอร์",
+      "meaning_th": "วัด (ขนาด/ปริมาณ)",
+      "emoji": "📏",
+      "example_en": "Measure the temperature of the water every minute.",
+      "example_th": "วัดอุณหภูมิของน้ำทุกๆ หนึ่งนาที",
+      "cefr": "A2",
+      "note_th": "measure = วัดค่าด้วยเครื่องมือ (measure the length/temperature) ส่วน weigh = ชั่งน้ำหนักโดยเฉพาะ — คำนาม measurement = ค่าที่วัดได้",
+      "distractors": [
+        "treasure",
+        "pleasure",
+        "weigh"
+      ]
+    },
+    {
+      "id": "observe",
+      "word": "observe",
+      "pos": "verb",
+      "ipa": "/əbˈzɜːrv/",
+      "reading_th": "อ็อบ-เซิร์ฟ",
+      "meaning_th": "สังเกต",
+      "emoji": "👁️",
+      "example_en": "Observe what happens when you add the salt.",
+      "example_th": "สังเกตว่าเกิดอะไรขึ้นเมื่อเติมเกลือ",
+      "cefr": "B1",
+      "note_th": "observe = ดูอย่างตั้งใจเพื่อเก็บข้อมูล ต่างจาก see/look ธรรมดา — คำนาม observation คือขั้นแรกของ scientific method",
+      "distractors": [
+        "absorb",
+        "deserve",
+        "reserve"
+      ]
+    },
+    {
+      "id": "classify",
+      "word": "classify",
+      "pos": "verb",
+      "ipa": "/ˈklæsɪfaɪ/",
+      "reading_th": "แคลส-ซิ-ฟาย",
+      "meaning_th": "จำแนก / จัดประเภท",
+      "emoji": "🗂️",
+      "example_en": "Classify the rocks by color, size and hardness.",
+      "example_th": "จำแนกก้อนหินตามสี ขนาด และความแข็ง",
+      "cefr": "B1",
+      "note_th": "classify = จัดเข้ากลุ่มตามลักษณะร่วม (คำนาม classification) — นักชีววิทยา classify สิ่งมีชีวิตเป็น kingdom → species และเอกสาร classified = ชั้นความลับ",
+      "distractors": [
+        "clarify",
+        "classic",
+        "satisfy"
+      ]
+    },
+    {
+      "id": "cell",
+      "word": "cell",
+      "pos": "noun",
+      "ipa": "/sel/",
+      "reading_th": "เซล",
+      "meaning_th": "เซลล์",
+      "emoji": "🦠",
+      "example_en": "The human body is made of trillions of cells.",
+      "example_th": "ร่างกายมนุษย์ประกอบด้วยเซลล์หลายล้านล้านเซลล์",
+      "cefr": "B1",
+      "note_th": "cell = หน่วยเล็กสุดของสิ่งมีชีวิต ออกเสียงเหมือน sell (ขาย) — cell phone = มือถือ (อเมริกัน) และ cell = ห้องขังเล็กๆ ด้วย",
+      "distractors": [
+        "sell",
+        "shell",
+        "cell phone"
+      ]
+    },
+    {
+      "id": "organ",
+      "word": "organ",
+      "pos": "noun",
+      "ipa": "/ˈɔːrɡən/",
+      "reading_th": "ออร์-เกิน",
+      "meaning_th": "อวัยวะ",
+      "emoji": "🫁",
+      "example_en": "The heart is the organ that pumps blood around the body.",
+      "example_th": "หัวใจคืออวัยวะที่สูบฉีดเลือดไปทั่วร่างกาย",
+      "cefr": "B1",
+      "note_th": "organ = อวัยวะภายใน (organ donor = ผู้บริจาคอวัยวะ) — อย่าสับสนกับ organic (ออร์แกนิก/อินทรีย์) และ organ ที่เป็นเครื่องดนตรี",
+      "distractors": [
+        "organic",
+        "orange",
+        "origin"
+      ]
+    },
+    {
+      "id": "brain",
+      "word": "brain",
+      "pos": "noun",
+      "ipa": "/breɪn/",
+      "reading_th": "เบรน",
+      "meaning_th": "สมอง",
+      "emoji": "🧠",
+      "example_en": "The brain uses about twenty percent of your energy.",
+      "example_th": "สมองใช้พลังงานประมาณยี่สิบเปอร์เซ็นต์ของร่างกาย",
+      "cefr": "A2",
+      "note_th": "brain = สมอง (อวัยวะ) ส่วน mind = จิตใจ/ความคิด — use your brain = ใช้สมองหน่อย, brainstorm = ระดมสมอง",
+      "distractors": [
+        "brand",
+        "bran",
+        "drain"
+      ]
+    },
+    {
+      "id": "lung",
+      "word": "lung",
+      "pos": "noun",
+      "ipa": "/lʌŋ/",
+      "reading_th": "ลัง",
+      "meaning_th": "ปอด",
+      "emoji": "🫁",
+      "example_en": "Smoking damages the lungs over time.",
+      "example_th": "การสูบบุหรี่ทำลายปอดเมื่อเวลาผ่านไป",
+      "cefr": "B1",
+      "note_th": "คนเรามี 2 ข้างจึงมักเป็น lungs — lung cancer = มะเร็งปอด ส่วน lunch (มื้อเที่ยง) ออกเสียงต่างกันตรง ch ท้ายคำ",
+      "distractors": [
+        "lunch",
+        "long",
+        "liver"
+      ]
+    },
+    {
+      "id": "stomach",
+      "word": "stomach",
+      "pos": "noun",
+      "ipa": "/ˈstʌmək/",
+      "reading_th": "สตัม-เมิค",
+      "meaning_th": "กระเพาะอาหาร / ท้อง",
+      "emoji": "🍽️",
+      "example_en": "Food stays in the stomach for a few hours.",
+      "example_th": "อาหารอยู่ในกระเพาะอาหารสองสามชั่วโมง",
+      "cefr": "A2",
+      "note_th": "ch ท้ายคำออกเสียง ค ไม่ใช่ ช: สตัม-เมิค — on an empty stomach = ตอนท้องว่าง (ยาบางชนิดห้ามกินตอนท้องว่าง)",
+      "distractors": [
+        "stomachache",
+        "storm",
+        "intestine"
+      ]
+    },
+    {
+      "id": "bone",
+      "word": "bone",
+      "pos": "noun",
+      "ipa": "/boʊn/",
+      "reading_th": "โบน",
+      "meaning_th": "กระดูก",
+      "emoji": "🦴",
+      "example_en": "An adult has 206 bones in the body.",
+      "example_th": "ผู้ใหญ่มีกระดูก 206 ชิ้นในร่างกาย",
+      "cefr": "A2",
+      "note_th": "break a bone = กระดูกหัก, skeleton = โครงกระดูกทั้งตัว — สำนวน bone-tired = เหนื่อยถึงกระดูก",
+      "distractors": [
+        "bonus",
+        "bowl",
+        "phone"
+      ]
+    },
+    {
+      "id": "blood",
+      "word": "blood",
+      "pos": "noun",
+      "ipa": "/blʌd/",
+      "reading_th": "บลัด",
+      "meaning_th": "เลือด",
+      "emoji": "🩸",
+      "example_en": "Blood carries oxygen to every part of the body.",
+      "example_th": "เลือดนำออกซิเจนไปยังทุกส่วนของร่างกาย",
+      "cefr": "A2",
+      "note_th": "สะกด oo แต่ออกเสียง อะ สั้น: บลัด (ไม่ใช่ บลูด) — blood type = กรุ๊ปเลือด, donate blood = บริจาคเลือด",
+      "distractors": [
+        "flood",
+        "blow",
+        "bleed"
+      ]
+    },
+    {
+      "id": "nerve",
+      "word": "nerve",
+      "pos": "noun",
+      "ipa": "/nɜːrv/",
+      "reading_th": "เนิร์ฟ",
+      "meaning_th": "เส้นประสาท",
+      "emoji": "⚡",
+      "example_en": "Nerves send messages from the skin to the brain.",
+      "example_th": "เส้นประสาทส่งสัญญาณจากผิวหนังไปยังสมอง",
+      "cefr": "B1",
+      "note_th": "nerve (คำนาม) nervous (คำคุณศัพท์ = ประหม่า) — nervous system = ระบบประสาท, get on my nerves = ทำให้รำคาญ",
+      "distractors": [
+        "nervous",
+        "never",
+        "curve"
+      ]
+    },
+    {
+      "id": "inhale",
+      "word": "inhale",
+      "pos": "verb",
+      "ipa": "/ɪnˈheɪl/",
+      "reading_th": "อิน-เฮล",
+      "meaning_th": "หายใจเข้า / สูดเข้าไป",
+      "emoji": "🌬️",
+      "example_en": "We inhale oxygen and exhale carbon dioxide.",
+      "example_th": "เราหายใจเอาออกซิเจนเข้าและหายใจเอาคาร์บอนไดออกไซด์ออก",
+      "cefr": "B2",
+      "note_th": "inhale (เข้า) คู่กับ exhale (ออก) ใช้ในคลาสโยคะและคำสั่งของหมอตอนตรวจปอด — inhaler = ยาพ่นของคนเป็นหอบหืด ส่วน breathe คือหายใจรวมๆ ทั้งเข้าและออก",
+      "distractors": [
+        "exhale",
+        "inhaler",
+        "install"
+      ]
+    },
+    {
+      "id": "digest",
+      "word": "digest",
+      "pos": "verb",
+      "ipa": "/daɪˈdʒest/",
+      "reading_th": "ได-เจสท์",
+      "meaning_th": "ย่อยอาหาร",
+      "emoji": "🥗",
+      "example_en": "It takes hours to digest a big meal.",
+      "example_th": "ร่างกายใช้เวลาหลายชั่วโมงในการย่อยอาหารมื้อใหญ่",
+      "cefr": "B1",
+      "note_th": "digest (ย่อย) digestion (การย่อย) digestive system (ระบบย่อยอาหาร) — ใช้เป็นสำนวนได้: digest the news = ใช้เวลาทำความเข้าใจข่าว",
+      "distractors": [
+        "suggest",
+        "divide",
+        "swallow"
+      ]
+    },
+    {
+      "id": "oxygen",
+      "word": "oxygen",
+      "pos": "noun",
+      "ipa": "/ˈɑːksɪdʒən/",
+      "reading_th": "อ็อก-ซิ-เจิน",
+      "meaning_th": "ออกซิเจน",
+      "emoji": "💨",
+      "example_en": "Plants release oxygen into the air during the day.",
+      "example_th": "พืชปล่อยออกซิเจนสู่อากาศในตอนกลางวัน",
+      "cefr": "B1",
+      "note_th": "สัญลักษณ์ O₂ — คู่กับ carbon dioxide (CO₂) ที่เราหายใจออก และ hydrogen (H) ที่รวมกับ oxygen เป็นน้ำ H₂O",
+      "distractors": [
+        "hydrogen",
+        "nitrogen",
+        "carbon"
+      ]
+    },
+    {
+      "id": "germ",
+      "word": "germ",
+      "pos": "noun",
+      "ipa": "/dʒɜːrm/",
+      "reading_th": "เจิร์ม",
+      "meaning_th": "เชื้อโรค",
+      "emoji": "🧼",
+      "example_en": "Wash your hands to kill the germs.",
+      "example_th": "ล้างมือเพื่อฆ่าเชื้อโรค",
+      "cefr": "A2",
+      "note_th": "germ = คำกว้างๆ สำหรับเชื้อโรคทุกชนิด (ภาษาพูด) ส่วน bacteria และ virus เป็นชนิดเฉพาะ — อย่าสับสนกับ German (ชาวเยอรมัน)",
+      "distractors": [
+        "German",
+        "gem",
+        "worm"
+      ]
+    },
+    {
+      "id": "bacteria",
+      "word": "bacteria",
+      "pos": "noun",
+      "ipa": "/bækˈtɪriə/",
+      "reading_th": "แบค-เทีย-เรีย",
+      "meaning_th": "แบคทีเรีย",
+      "emoji": "🧫",
+      "example_en": "Some bacteria in yogurt are good for your stomach.",
+      "example_th": "แบคทีเรียบางชนิดในโยเกิร์ตดีต่อกระเพาะ",
+      "cefr": "B1",
+      "note_th": "bacteria เป็นพหูพจน์ (เอกพจน์ bacterium) ใช้กริยา are — antibiotics ฆ่า bacteria ได้ แต่ฆ่า virus ไม่ได้ จึงไม่ควรกินยาปฏิชีวนะตอนเป็นหวัด",
+      "distractors": [
+        "cafeteria",
+        "battery",
+        "virus"
+      ]
+    },
+    {
+      "id": "immune",
+      "word": "immune",
+      "pos": "adjective",
+      "ipa": "/ɪˈmjuːn/",
+      "reading_th": "อิม-มูน",
+      "meaning_th": "มีภูมิคุ้มกัน",
+      "emoji": "🛡️",
+      "example_en": "After the vaccine, your body becomes immune to the disease.",
+      "example_th": "หลังฉีดวัคซีน ร่างกายของคุณจะมีภูมิคุ้มกันต่อโรคนั้น",
+      "cefr": "B1",
+      "note_th": "immune to = มีภูมิคุ้มกันต่อ (คำนาม immunity, ระบบ immune system) — ใช้เป็นสำนวนได้: immune to criticism = คำวิจารณ์ทำอะไรไม่ได้",
+      "distractors": [
+        "immunity",
+        "immense",
+        "infected"
+      ]
+    },
+    {
+      "id": "photosynthesis",
+      "word": "photosynthesis",
+      "pos": "noun",
+      "ipa": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+      "reading_th": "โฟ-โท-ซิน-ธะ-ซิส",
+      "meaning_th": "การสังเคราะห์ด้วยแสง",
+      "emoji": "☀️",
+      "example_en": "Photosynthesis turns sunlight, water and CO2 into food.",
+      "example_th": "การสังเคราะห์ด้วยแสงเปลี่ยนแสงแดด น้ำ และ CO2 ให้เป็นอาหาร",
+      "cefr": "B2",
+      "note_th": "photo (แสง) + synthesis (การสร้าง) — เกิดใน chlorophyll สารสีเขียวในใบไม้ คำนี้ยาวแต่ออกสอบชีววิทยาทุกปี",
+      "distractors": [
+        "photograph",
+        "synthesis",
+        "chlorophyll"
+      ]
+    },
+    {
+      "id": "absorb",
+      "word": "absorb",
+      "pos": "verb",
+      "ipa": "/əbˈzɔːrb/",
+      "reading_th": "แอบ-ซอร์บ",
+      "meaning_th": "ดูดซึม / ดูดซับ",
+      "emoji": "🧽",
+      "example_en": "Roots absorb water and minerals from the soil.",
+      "example_th": "รากดูดซึมน้ำและแร่ธาตุจากดิน",
+      "cefr": "B1",
+      "note_th": "absorb ใช้ได้ทั้งพืชดูดน้ำ ฟองน้ำซับน้ำ และคนซึมซับความรู้ (absorb information) — คำคุณศัพท์ absorbent = ซับน้ำได้ดี",
+      "distractors": [
+        "observe",
+        "abroad",
+        "release"
+      ]
+    },
+    {
+      "id": "nutrient",
+      "word": "nutrient",
+      "pos": "noun",
+      "ipa": "/ˈnuːtriənt/",
+      "reading_th": "นู-เทรียนท์",
+      "meaning_th": "สารอาหาร",
+      "emoji": "🥦",
+      "example_en": "Vegetables are full of nutrients that keep you healthy.",
+      "example_th": "ผักเต็มไปด้วยสารอาหารที่ช่วยให้คุณแข็งแรง",
+      "cefr": "B1",
+      "note_th": "nutrient = สารอาหาร (protein, vitamins, minerals) nutrition = โภชนาการ nutritious = มีคุณค่าทางอาหาร — ฉลากอาหารเขียนว่า Nutrition Facts",
+      "distractors": [
+        "nutrition",
+        "neutral",
+        "nurse"
+      ]
+    },
+    {
+      "id": "fungus",
+      "word": "fungus",
+      "pos": "noun",
+      "ipa": "/ˈfʌŋɡəs/",
+      "reading_th": "ฟัง-เกิส",
+      "meaning_th": "เชื้อรา / เห็ดรา",
+      "emoji": "🍄",
+      "example_en": "A mushroom is a fungus, not a plant.",
+      "example_th": "เห็ดคือเชื้อรา ไม่ใช่พืช",
+      "cefr": "B2",
+      "note_th": "เอกพจน์ fungus พหูพจน์ fungi (ฟัน-ไจ) — เชื้อราบนผิวหนังเรียก fungal infection ส่วนราบนขนมปังเรียก mold",
+      "distractors": [
+        "fungi",
+        "famous",
+        "mold"
+      ]
+    },
+    {
+      "id": "algae",
+      "word": "algae",
+      "pos": "noun",
+      "ipa": "/ˈældʒiː/",
+      "reading_th": "แอล-จี",
+      "meaning_th": "สาหร่าย",
+      "emoji": "🌿",
+      "example_en": "Green algae cover the pond in summer.",
+      "example_th": "สาหร่ายสีเขียวปกคลุมบ่อน้ำในฤดูร้อน",
+      "cefr": "B2",
+      "note_th": "algae เป็นพหูพจน์ (เอกพจน์ alga แต่แทบไม่ใช้) — สาหร่ายทะเลที่กินได้ ภาษาพูดเรียก seaweed",
+      "distractors": [
+        "algebra",
+        "allergy",
+        "seaweed"
+      ]
+    },
+    {
+      "id": "pollen",
+      "word": "pollen",
+      "pos": "noun",
+      "ipa": "/ˈpɑːlən/",
+      "reading_th": "พอล-เลิน",
+      "meaning_th": "เกสรดอกไม้ / ละอองเรณู",
+      "emoji": "🐝",
+      "example_en": "Bees carry pollen from one flower to another.",
+      "example_th": "ผึ้งพาเกสรจากดอกไม้ดอกหนึ่งไปยังอีกดอกหนึ่ง",
+      "cefr": "B2",
+      "note_th": "pollen = ผงเกสรตัวผู้ กริยา pollinate = ผสมเกสร (bees pollinate flowers) — คนแพ้เกสรเรียก pollen allergy หรือ hay fever ซึ่งเป็นข่าวประจำฤดูใบไม้ผลิในต่างประเทศ",
+      "distractors": [
+        "pollution",
+        "petal",
+        "pole"
+      ]
+    },
+    {
+      "id": "amphibian",
+      "word": "amphibian",
+      "pos": "noun",
+      "ipa": "/æmˈfɪbiən/",
+      "reading_th": "แอม-ฟิ-เบียน",
+      "meaning_th": "สัตว์สะเทินน้ำสะเทินบก",
+      "emoji": "🐸",
+      "example_en": "Frogs are amphibians that live both in water and on land.",
+      "example_th": "กบเป็นสัตว์สะเทินน้ำสะเทินบกที่อาศัยได้ทั้งในน้ำและบนบก",
+      "cefr": "B2",
+      "note_th": "amphi- = ทั้งสองฝั่ง + bio = ชีวิต — amphibians (กบ คางคก ซาลาแมนเดอร์) เกิดในน้ำมีเหงือกก่อน แล้วโตขึ้นมีปอด ต่างจาก reptiles ที่ผิวแห้งเป็นเกล็ดและวางไข่บนบก",
+      "distractors": [
+        "reptile",
+        "mammal",
+        "amphitheater"
+      ]
+    },
+    {
+      "id": "decomposer",
+      "word": "decomposer",
+      "pos": "noun",
+      "ipa": "/ˌdiːkəmˈpoʊzər/",
+      "reading_th": "ดี-คัม-โพ-เซอร์",
+      "meaning_th": "ผู้ย่อยสลาย",
+      "emoji": "🍂",
+      "example_en": "Decomposers like fungi break down dead leaves into soil.",
+      "example_th": "ผู้ย่อยสลายอย่างเห็ดราย่อยใบไม้ที่ตายแล้วให้กลายเป็นดิน",
+      "cefr": "B2",
+      "note_th": "decompose = ย่อยสลาย/เน่าเปื่อย decomposer = สิ่งมีชีวิตที่ทำหน้าที่นั้น (เห็ดรา แบคทีเรีย ไส้เดือน) — ปิดท้าย food chain ด้วยการคืนสารอาหารให้ดิน ออกสอบระบบนิเวศประจำ",
+      "distractors": [
+        "composer",
+        "producer",
+        "consumer"
+      ]
+    },
+    {
+      "id": "carnivore",
+      "word": "carnivore",
+      "pos": "noun",
+      "ipa": "/ˈkɑːrnɪvɔːr/",
+      "reading_th": "คาร์-นิ-วอร์",
+      "meaning_th": "สัตว์กินเนื้อ",
+      "emoji": "🦁",
+      "example_en": "A tiger is a carnivore that hunts other animals.",
+      "example_th": "เสือเป็นสัตว์กินเนื้อที่ล่าสัตว์อื่นเป็นอาหาร",
+      "cefr": "B1",
+      "note_th": "carnivore (กินเนื้อ) herbivore (กินพืช) omnivore (กินทั้งสองอย่าง เช่น คน หมู) — -vore มาจากภาษาละตินแปลว่า \"กิน\" ออกสอบชีววิทยาเป็นชุดสามคำ",
+      "distractors": [
+        "herbivore",
+        "omnivore",
+        "carnival"
+      ]
+    },
+    {
+      "id": "herbivore",
+      "word": "herbivore",
+      "pos": "noun",
+      "ipa": "/ˈhɜːrbɪvɔːr/",
+      "reading_th": "เฮอร์-บิ-วอร์",
+      "meaning_th": "สัตว์กินพืช",
+      "emoji": "🐄",
+      "example_en": "Cows and elephants are herbivores that eat only plants.",
+      "example_th": "วัวและช้างเป็นสัตว์กินพืชที่กินแต่พืชเท่านั้น",
+      "cefr": "B1",
+      "note_th": "herb (พืช/สมุนไพร) + -vore (กิน) = สัตว์กินพืช — ใน food chain herbivores คือผู้บริโภคลำดับแรก (primary consumers) ที่กิน producers",
+      "distractors": [
+        "carnivore",
+        "omnivore",
+        "herbal"
+      ]
+    },
+    {
+      "id": "food_chain",
+      "word": "food chain",
+      "pos": "noun",
+      "ipa": "/ˈfuːd tʃeɪn/",
+      "reading_th": "ฟูด เชน",
+      "meaning_th": "ห่วงโซ่อาหาร",
+      "emoji": "⛓️",
+      "example_en": "In a food chain, grass feeds the deer and the deer feeds the tiger.",
+      "example_th": "ในห่วงโซ่อาหาร หญ้าเป็นอาหารของกวาง และกวางเป็นอาหารของเสือ",
+      "cefr": "B1",
+      "note_th": "food chain เริ่มจาก producer (พืช) → consumer (สัตว์) → decomposer (ผู้ย่อยสลาย) — หลายโซ่รวมกันเรียก food web",
+      "distractors": [
+        "food court",
+        "food web",
+        "supply chain"
+      ]
+    },
+    {
+      "id": "ecosystem",
+      "word": "ecosystem",
+      "pos": "noun",
+      "ipa": "/ˈiːkoʊsɪstəm/",
+      "reading_th": "อี-โค-ซิส-เทิม",
+      "meaning_th": "ระบบนิเวศ",
+      "emoji": "🌍",
+      "example_en": "A coral reef is a rich ecosystem full of life.",
+      "example_th": "แนวปะการังเป็นระบบนิเวศที่อุดมสมบูรณ์เต็มไปด้วยสิ่งมีชีวิต",
+      "cefr": "B1",
+      "note_th": "eco- มาจาก ecology (นิเวศวิทยา) เจอใน eco-friendly, ecotourism — ecosystem = สิ่งมีชีวิต + สิ่งแวดล้อมที่อยู่ร่วมกันในพื้นที่หนึ่ง",
+      "distractors": [
+        "economy",
+        "system",
+        "equipment"
+      ]
+    },
+    {
+      "id": "reproduce",
+      "word": "reproduce",
+      "pos": "verb",
+      "ipa": "/ˌriːprəˈduːs/",
+      "reading_th": "รี-โพร-ดิวซ์",
+      "meaning_th": "สืบพันธุ์ / ขยายพันธุ์",
+      "emoji": "🥚",
+      "example_en": "Most fish reproduce by laying thousands of eggs.",
+      "example_th": "ปลาส่วนใหญ่สืบพันธุ์ด้วยการวางไข่หลายพันฟอง",
+      "cefr": "B2",
+      "note_th": "re- (อีกครั้ง) + produce (ผลิต) = ผลิตซ้ำ → สืบพันธุ์ คำนาม reproduction — ใช้กับการทำสำเนาภาพได้ด้วย",
+      "distractors": [
+        "produce",
+        "reduce",
+        "introduce"
+      ]
+    },
+    {
+      "id": "evolve",
+      "word": "evolve",
+      "pos": "verb",
+      "ipa": "/ɪˈvɑːlv/",
+      "reading_th": "อิ-วอล์ฟ",
+      "meaning_th": "วิวัฒนาการ / ค่อยๆ พัฒนา",
+      "emoji": "🐒",
+      "example_en": "Birds evolved from dinosaurs over millions of years.",
+      "example_th": "นกวิวัฒนาการมาจากไดโนเสาร์ตลอดหลายล้านปี",
+      "cefr": "B2",
+      "note_th": "evolve (กริยา) evolution (คำนาม) ทฤษฎีของ Darwin — ใช้กับสิ่งไม่มีชีวิตได้ด้วย: the app evolved = แอปค่อยๆ พัฒนาขึ้น",
+      "distractors": [
+        "involve",
+        "revolve",
+        "dissolve"
+      ]
+    },
+    {
+      "id": "atom",
+      "word": "atom",
+      "pos": "noun",
+      "ipa": "/ˈætəm/",
+      "reading_th": "แอ-เทิม",
+      "meaning_th": "อะตอม",
+      "emoji": "⚛️",
+      "example_en": "Everything around you is made of tiny atoms.",
+      "example_th": "ทุกสิ่งรอบตัวคุณประกอบด้วยอะตอมเล็กจิ๋ว",
+      "cefr": "B1",
+      "note_th": "atom = หน่วยเล็กสุดของธาตุ (คำคุณศัพท์ atomic เช่น atomic bomb) — หลาย atom รวมกันเป็น molecule",
+      "distractors": [
+        "atomic",
+        "item",
+        "autumn"
+      ]
+    },
+    {
+      "id": "molecule",
+      "word": "molecule",
+      "pos": "noun",
+      "ipa": "/ˈmɑːlɪkjuːl/",
+      "reading_th": "มอ-ลิ-คิวล์",
+      "meaning_th": "โมเลกุล",
+      "emoji": "🧬",
+      "example_en": "A water molecule has two hydrogen atoms and one oxygen atom.",
+      "example_th": "โมเลกุลของน้ำมีไฮโดรเจนสองอะตอมและออกซิเจนหนึ่งอะตอม",
+      "cefr": "B2",
+      "note_th": "molecule = อะตอมตั้งแต่ 2 ตัวขึ้นไปจับกัน (H₂O, CO₂) — คำคุณศัพท์ molecular เช่น molecular biology",
+      "distractors": [
+        "miracle",
+        "module",
+        "muscle"
+      ]
+    },
+    {
+      "id": "element",
+      "word": "element",
+      "pos": "noun",
+      "ipa": "/ˈelɪmənt/",
+      "reading_th": "เอ-ลิ-เมินท์",
+      "meaning_th": "ธาตุ",
+      "emoji": "🔣",
+      "example_en": "Gold is an element, so it cannot be broken down.",
+      "example_th": "ทองคำเป็นธาตุ จึงแยกย่อยต่อไปอีกไม่ได้",
+      "cefr": "B1",
+      "note_th": "the periodic table = ตารางธาตุ มี 118 elements — นอกเคมี element = องค์ประกอบ เช่น the key elements of a story",
+      "distractors": [
+        "elephant",
+        "elegant",
+        "compound"
+      ]
+    },
+    {
+      "id": "compound",
+      "word": "compound",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmpaʊnd/",
+      "reading_th": "คอม-เพานด์",
+      "meaning_th": "สารประกอบ",
+      "emoji": "🧂",
+      "example_en": "Salt is a compound of sodium and chlorine.",
+      "example_th": "เกลือเป็นสารประกอบของโซเดียมและคลอรีน",
+      "cefr": "B2",
+      "note_th": "compound = ธาตุ 2 ชนิดขึ้นไปจับกันทางเคมี (น้ำ เกลือ) ต่างจาก mixture ที่แค่ผสมกันแยกได้ — ในไวยากรณ์ compound noun = คำนามประสม",
+      "distractors": [
+        "mixture",
+        "compact",
+        "component"
+      ]
+    },
+    {
+      "id": "reaction",
+      "word": "reaction",
+      "pos": "noun",
+      "ipa": "/riˈækʃn/",
+      "reading_th": "รี-แอค-ชั่น",
+      "meaning_th": "ปฏิกิริยา",
+      "emoji": "💥",
+      "example_en": "Mixing vinegar and baking soda causes a fast reaction.",
+      "example_th": "การผสมน้ำส้มสายชูกับเบกกิ้งโซดาทำให้เกิดปฏิกิริยาอย่างรวดเร็ว",
+      "cefr": "B1",
+      "note_th": "chemical reaction = ปฏิกิริยาเคมี, allergic reaction = อาการแพ้ — กริยา react (to) ใช้กับปฏิกิริยาของคนด้วย: How did she react?",
+      "distractors": [
+        "reception",
+        "relation",
+        "action"
+      ]
+    },
+    {
+      "id": "acid",
+      "word": "acid",
+      "pos": "noun",
+      "ipa": "/ˈæsɪd/",
+      "reading_th": "แอ-ซิด",
+      "meaning_th": "กรด",
+      "emoji": "🍋",
+      "example_en": "Lemon juice is a weak acid that tastes sour.",
+      "example_th": "น้ำมะนาวเป็นกรดอ่อนๆ ที่มีรสเปรี้ยว",
+      "cefr": "B1",
+      "note_th": "acid (กรด) ตรงข้ามกับ base/alkali (เบส/ด่าง) วัดด้วย pH — acid rain = ฝนกรด คำที่เจอในข้อสอบสิ่งแวดล้อม",
+      "distractors": [
+        "base",
+        "aside",
+        "acne"
+      ]
+    },
+    {
+      "id": "metal",
+      "word": "metal",
+      "pos": "noun",
+      "ipa": "/ˈmetl/",
+      "reading_th": "เม-เทิล",
+      "meaning_th": "โลหะ",
+      "emoji": "🔩",
+      "example_en": "Metals like copper carry electricity well.",
+      "example_th": "โลหะอย่างทองแดงนำไฟฟ้าได้ดี",
+      "cefr": "A2",
+      "note_th": "metal = โลหะ (iron, gold, copper) ออกเสียงเหมือน medal (เหรียญรางวัล) ระวังสะกด — heavy metal เป็นทั้งโลหะหนักและแนวดนตรี",
+      "distractors": [
+        "medal",
+        "mental",
+        "metro"
+      ]
+    },
+    {
+      "id": "plastic",
+      "word": "plastic",
+      "pos": "noun",
+      "ipa": "/ˈplæstɪk/",
+      "reading_th": "พลาส-ติค",
+      "meaning_th": "พลาสติก",
+      "emoji": "🧴",
+      "example_en": "Plastic takes hundreds of years to break down.",
+      "example_th": "พลาสติกใช้เวลาหลายร้อยปีกว่าจะย่อยสลาย",
+      "cefr": "A2",
+      "note_th": "plastic ทำจากน้ำมัน (petroleum) และย่อยสลายยาก จึงเจอในบทความ single-use plastic และ microplastics บ่อยมาก",
+      "distractors": [
+        "elastic",
+        "glass",
+        "rubber"
+      ]
+    },
+    {
+      "id": "solid",
+      "word": "solid",
+      "pos": "noun",
+      "ipa": "/ˈsɑːlɪd/",
+      "reading_th": "ซอ-ลิด",
+      "meaning_th": "ของแข็ง",
+      "emoji": "🧊",
+      "example_en": "Ice is a solid, water is a liquid, and steam is a gas.",
+      "example_th": "น้ำแข็งเป็นของแข็ง น้ำเป็นของเหลว และไอน้ำเป็นแก๊ส",
+      "cefr": "A2",
+      "note_th": "สามสถานะของสสาร: solid (ของแข็ง) liquid (ของเหลว) gas (แก๊ส) — solid เป็นคำคุณศัพท์ได้ด้วย = แน่น แข็งแรง (solid evidence)",
+      "distractors": [
+        "liquid",
+        "salad",
+        "solar"
+      ]
+    },
+    {
+      "id": "crystal",
+      "word": "crystal",
+      "pos": "noun",
+      "ipa": "/ˈkrɪstl/",
+      "reading_th": "คริส-เทิล",
+      "meaning_th": "ผลึก",
+      "emoji": "💎",
+      "example_en": "Salt crystals form when the sea water dries up.",
+      "example_th": "ผลึกเกลือก่อตัวขึ้นเมื่อน้ำทะเลแห้ง",
+      "cefr": "B1",
+      "note_th": "crystal = ของแข็งที่อะตอมเรียงตัวเป็นระเบียบ (เกลือ น้ำตาล เพชร เกล็ดหิมะ) — crystal clear = ใสแจ๋ว/ชัดเจนมาก สำนวนที่ใช้บ่อยในที่ทำงาน",
+      "distractors": [
+        "crystal clear",
+        "cristal",
+        "crust"
+      ]
+    },
+    {
+      "id": "melt",
+      "word": "melt",
+      "pos": "verb",
+      "ipa": "/melt/",
+      "reading_th": "เมลท์",
+      "meaning_th": "หลอมละลาย (จากความร้อน)",
+      "emoji": "🍦",
+      "example_en": "Ice melts at zero degrees Celsius.",
+      "example_th": "น้ำแข็งละลายที่ศูนย์องศาเซลเซียส",
+      "cefr": "A2",
+      "note_th": "melt = ของแข็งโดนความร้อนกลายเป็นของเหลว (น้ำแข็ง เนย ช็อกโกแลต) ส่วน dissolve = ละลายหายไปในของเหลว (น้ำตาลในกาแฟ) ภาษาไทยใช้ \"ละลาย\" ทั้งคู่จึงสับสนง่าย",
+      "distractors": [
+        "dissolve",
+        "milk",
+        "belt"
+      ]
+    },
+    {
+      "id": "dissolve",
+      "word": "dissolve",
+      "pos": "verb",
+      "ipa": "/dɪˈzɑːlv/",
+      "reading_th": "ดิ-ซอล์ฟ",
+      "meaning_th": "ละลาย (ในของเหลว)",
+      "emoji": "☕",
+      "example_en": "Stir until the sugar dissolves completely in the tea.",
+      "example_th": "คนจนกว่าน้ำตาลจะละลายหมดในชา",
+      "cefr": "B1",
+      "note_th": "dissolve = สารละลายหายไปในของเหลว ได้ solution (สารละลาย) — ต่างจาก melt ที่ต้องใช้ความร้อน น้ำตาลในน้ำเย็นก็ dissolve ได้",
+      "distractors": [
+        "melt",
+        "resolve",
+        "evolve"
+      ]
+    },
+    {
+      "id": "evaporate",
+      "word": "evaporate",
+      "pos": "verb",
+      "ipa": "/ɪˈvæpəreɪt/",
+      "reading_th": "อิ-แว-โพ-เรท",
+      "meaning_th": "ระเหย",
+      "emoji": "♨️",
+      "example_en": "Water evaporates faster on a hot, windy day.",
+      "example_th": "น้ำระเหยเร็วกว่าในวันที่ร้อนและลมแรง",
+      "cefr": "B2",
+      "note_th": "evaporate = ของเหลวกลายเป็นไอ (evaporation) ตรงข้ามกับ condense = ไอกลั่นตัวเป็นหยดน้ำ — สองคำนี้คือหัวใจของ water cycle (วัฏจักรน้ำ)",
+      "distractors": [
+        "condense",
+        "elevate",
+        "separate"
+      ]
+    },
+    {
+      "id": "rust",
+      "word": "rust",
+      "pos": "noun",
+      "ipa": "/rʌst/",
+      "reading_th": "รัสท์",
+      "meaning_th": "สนิม",
+      "emoji": "🟤",
+      "example_en": "Rust forms when iron meets water and oxygen.",
+      "example_th": "สนิมเกิดขึ้นเมื่อเหล็กเจอกับน้ำและออกซิเจน",
+      "cefr": "B1",
+      "note_th": "rust เป็นได้ทั้งคำนาม (สนิม) และกริยา (ขึ้นสนิม) คำคุณศัพท์ rusty — สำนวน my English is rusty = ภาษาอังกฤษไม่ได้ใช้นาน ฝืดไปหมด",
+      "distractors": [
+        "dust",
+        "trust",
+        "rush"
+      ]
+    },
+    {
+      "id": "energy",
+      "word": "energy",
+      "pos": "noun",
+      "ipa": "/ˈenərdʒi/",
+      "reading_th": "เอ-เนอร์-จี",
+      "meaning_th": "พลังงาน",
+      "emoji": "🔋",
+      "example_en": "Solar panels change sunlight into electrical energy.",
+      "example_th": "แผงโซลาร์เปลี่ยนแสงแดดเป็นพลังงานไฟฟ้า",
+      "cefr": "A2",
+      "note_th": "ออกเสียง เอ-เนอร์-จี ไม่ใช่ เอ็น-เนอ-ยี — renewable energy = พลังงานหมุนเวียน (ลม แสงแดด น้ำ) คำที่ออกสอบเรื่องสิ่งแวดล้อม",
+      "distractors": [
+        "engine",
+        "emergency",
+        "allergy"
+      ]
+    },
+    {
+      "id": "force",
+      "word": "force",
+      "pos": "noun",
+      "ipa": "/fɔːrs/",
+      "reading_th": "ฟอร์ส",
+      "meaning_th": "แรง",
+      "emoji": "🏋️",
+      "example_en": "A force is a push or a pull on an object.",
+      "example_th": "แรงคือการผลักหรือดึงวัตถุ",
+      "cefr": "B1",
+      "note_th": "force ในฟิสิกส์ = แรง หน่วย newton (N) — ความหมายทั่วไปคือบังคับ (force someone to do) และกำลัง เช่น police force, air force",
+      "distractors": [
+        "fork",
+        "source",
+        "forest"
+      ]
+    },
+    {
+      "id": "gravity",
+      "word": "gravity",
+      "pos": "noun",
+      "ipa": "/ˈɡrævəti/",
+      "reading_th": "แกรฟ-วิ-ตี้",
+      "meaning_th": "แรงโน้มถ่วง",
+      "emoji": "🍎",
+      "example_en": "Gravity pulls the apple down from the tree.",
+      "example_th": "แรงโน้มถ่วงดึงแอปเปิลให้ตกจากต้น",
+      "cefr": "B1",
+      "note_th": "gravity = แรงโน้มถ่วง (Newton กับแอปเปิล) zero gravity = สภาพไร้น้ำหนักในอวกาศ — ยังแปลว่าความร้ายแรงได้: the gravity of the situation",
+      "distractors": [
+        "gravy",
+        "cavity",
+        "gratitude"
+      ]
+    },
+    {
+      "id": "mass",
+      "word": "mass",
+      "pos": "noun",
+      "ipa": "/mæs/",
+      "reading_th": "แมส",
+      "meaning_th": "มวล",
+      "emoji": "⚖️",
+      "example_en": "Your mass stays the same on the Moon, but your weight changes.",
+      "example_th": "มวลของคุณบนดวงจันทร์เท่าเดิม แต่น้ำหนักเปลี่ยน",
+      "cefr": "B2",
+      "note_th": "mass = ปริมาณเนื้อสาร (กิโลกรัม) ไม่เปลี่ยนตามสถานที่ ส่วน weight = แรงที่ gravity ดึง เปลี่ยนตามดาว — ข้อสอบฟิสิกส์ถามคู่นี้บ่อย",
+      "distractors": [
+        "mess",
+        "mask",
+        "weight"
+      ]
+    },
+    {
+      "id": "weight",
+      "word": "weight",
+      "pos": "noun",
+      "ipa": "/weɪt/",
+      "reading_th": "เวท",
+      "meaning_th": "น้ำหนัก",
+      "emoji": "🏋️‍♀️",
+      "example_en": "The weight of the box is about five kilograms.",
+      "example_th": "น้ำหนักของกล่องประมาณห้ากิโลกรัม",
+      "cefr": "A2",
+      "note_th": "weight (คำนาม) weigh (กริยา = ชั่ง/หนัก) ออกเสียงเหมือน wait — How much do you weigh? ไม่ใช่ How much is your weight?",
+      "distractors": [
+        "wait",
+        "height",
+        "mass"
+      ]
+    },
+    {
+      "id": "speed",
+      "word": "speed",
+      "pos": "noun",
+      "ipa": "/spiːd/",
+      "reading_th": "สปีด",
+      "meaning_th": "ความเร็ว / อัตราเร็ว",
+      "emoji": "🏎️",
+      "example_en": "Light travels at a speed of 300,000 kilometers per second.",
+      "example_th": "แสงเดินทางด้วยความเร็ว 300,000 กิโลเมตรต่อวินาที",
+      "cefr": "A2",
+      "note_th": "at a speed of 60 km/h = ด้วยความเร็ว 60 กม./ชม. — speed = ระยะทาง ÷ เวลา ส่วน velocity = ความเร็วที่ระบุทิศทาง (ฟิสิกส์ ม.ปลาย)",
+      "distractors": [
+        "spend",
+        "spade",
+        "velocity"
+      ]
+    },
+    {
+      "id": "motion",
+      "word": "motion",
+      "pos": "noun",
+      "ipa": "/ˈmoʊʃn/",
+      "reading_th": "โม-ชั่น",
+      "meaning_th": "การเคลื่อนที่",
+      "emoji": "🎢",
+      "example_en": "Newton's laws describe the motion of objects.",
+      "example_th": "กฎของนิวตันอธิบายการเคลื่อนที่ของวัตถุ",
+      "cefr": "B1",
+      "note_th": "in motion = กำลังเคลื่อนที่ (Do not leave your seat while the train is in motion) slow motion = ภาพช้า — motion sickness = เมารถเมาเรือ",
+      "distractors": [
+        "emotion",
+        "lotion",
+        "notion"
+      ]
+    },
+    {
+      "id": "friction",
+      "word": "friction",
+      "pos": "noun",
+      "ipa": "/ˈfrɪkʃn/",
+      "reading_th": "ฟริค-ชั่น",
+      "meaning_th": "แรงเสียดทาน",
+      "emoji": "🛞",
+      "example_en": "Friction between the tires and the road helps the car stop.",
+      "example_th": "แรงเสียดทานระหว่างยางกับถนนช่วยให้รถหยุด",
+      "cefr": "B2",
+      "note_th": "friction = แรงต้านเมื่อผิวสองผิวถูกัน ถูมือแล้วร้อนก็เพราะ friction — ใช้กับคนได้ด้วย = ความขัดแย้งกระทบกระทั่งกัน",
+      "distractors": [
+        "fiction",
+        "fraction",
+        "function"
+      ]
+    },
+    {
+      "id": "heat",
+      "word": "heat",
+      "pos": "noun",
+      "ipa": "/hiːt/",
+      "reading_th": "ฮีท",
+      "meaning_th": "ความร้อน",
+      "emoji": "🌡️",
+      "example_en": "Heat moves from hot objects to cold ones.",
+      "example_th": "ความร้อนถ่ายเทจากวัตถุร้อนไปยังวัตถุเย็น",
+      "cefr": "A2",
+      "note_th": "heat = ความร้อน (พลังงาน) ส่วน temperature = อุณหภูมิ (ตัวเลขที่วัดได้) — เป็นกริยาได้: heat the water = ทำน้ำให้ร้อน",
+      "distractors": [
+        "hit",
+        "heart",
+        "hat"
+      ]
+    },
+    {
+      "id": "conductor",
+      "word": "conductor",
+      "pos": "noun",
+      "ipa": "/kənˈdʌktər/",
+      "reading_th": "คัน-ดัค-เทอร์",
+      "meaning_th": "ตัวนำ (ไฟฟ้า / ความร้อน)",
+      "emoji": "🔌",
+      "example_en": "Copper is a good conductor, so wires are made of it.",
+      "example_th": "ทองแดงเป็นตัวนำที่ดี สายไฟจึงทำจากทองแดง",
+      "cefr": "B2",
+      "note_th": "conductor = วัสดุที่ไฟฟ้าหรือความร้อนผ่านได้ดี (โลหะ น้ำ) ตรงข้าม insulator (ฉนวน เช่น ยาง พลาสติก) — คำเดียวกันยังแปลว่าวาทยกรวงดนตรีและพนักงานเก็บตั๋วรถไฟ",
+      "distractors": [
+        "insulator",
+        "conduct",
+        "connector"
+      ]
+    },
+    {
+      "id": "circuit",
+      "word": "circuit",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrkɪt/",
+      "reading_th": "เซอร์-คิท",
+      "meaning_th": "วงจร (ไฟฟ้า)",
+      "emoji": "🔌",
+      "example_en": "The bulb lights up only when the circuit is complete.",
+      "example_th": "หลอดไฟจะติดก็ต่อเมื่อวงจรครบ",
+      "cefr": "B2",
+      "note_th": "ออกเสียง เซอร์-คิท (c ตัวหลังไม่ออกเสียง) — short circuit = ไฟฟ้าลัดวงจร, circuit breaker = เบรกเกอร์ตัดไฟที่บ้าน",
+      "distractors": [
+        "circle",
+        "circus",
+        "biscuit"
+      ]
+    },
+    {
+      "id": "voltage",
+      "word": "voltage",
+      "pos": "noun",
+      "ipa": "/ˈvoʊltɪdʒ/",
+      "reading_th": "โวล-ทิจ",
+      "meaning_th": "แรงดันไฟฟ้า",
+      "emoji": "🔋",
+      "example_en": "Thailand uses a voltage of 220 volts.",
+      "example_th": "ประเทศไทยใช้แรงดันไฟฟ้า 220 โวลต์",
+      "cefr": "B2",
+      "note_th": "voltage วัดเป็น volts (V) ตั้งชื่อตาม Volta — high voltage = ไฟแรงสูง ป้ายเตือนอันตรายที่เจอตามเสาไฟ",
+      "distractors": [
+        "village",
+        "voyage",
+        "storage"
+      ]
+    },
+    {
+      "id": "reflect",
+      "word": "reflect",
+      "pos": "verb",
+      "ipa": "/rɪˈflekt/",
+      "reading_th": "ริ-เฟล็คท์",
+      "meaning_th": "สะท้อน",
+      "emoji": "🪞",
+      "example_en": "A mirror reflects light back to your eyes.",
+      "example_th": "กระจกสะท้อนแสงกลับมายังดวงตาของคุณ",
+      "cefr": "B1",
+      "note_th": "reflect (สะท้อน) คำนาม reflection (เงาสะท้อน) — ความหมายที่สอง reflect on = ใคร่ครวญ ทบทวน ใช้ในข้อสอบเรียงความบ่อย",
+      "distractors": [
+        "reject",
+        "respect",
+        "refuse"
+      ]
+    },
+    {
+      "id": "vibration",
+      "word": "vibration",
+      "pos": "noun",
+      "ipa": "/vaɪˈbreɪʃn/",
+      "reading_th": "ไว-เบร-ชั่น",
+      "meaning_th": "การสั่นสะเทือน",
+      "emoji": "📳",
+      "example_en": "Sound is made by vibrations in the air.",
+      "example_th": "เสียงเกิดจากการสั่นสะเทือนในอากาศ",
+      "cefr": "B2",
+      "note_th": "vibration (คำนาม) vibrate (กริยา) — โทรศัพท์ตั้งสั่นเรียก vibrate mode และภาษาวัยรุ่น vibe (บรรยากาศ/ความรู้สึก) ก็มาจากคำนี้",
+      "distractors": [
+        "vibrate",
+        "celebration",
+        "vacation"
+      ]
+    },
+    {
+      "id": "planet",
+      "word": "planet",
+      "pos": "noun",
+      "ipa": "/ˈplænɪt/",
+      "reading_th": "แพล-เน็ท",
+      "meaning_th": "ดาวเคราะห์",
+      "emoji": "🪐",
+      "example_en": "Jupiter is the largest planet in our solar system.",
+      "example_th": "ดาวพฤหัสบดีเป็นดาวเคราะห์ที่ใหญ่ที่สุดในระบบสุริยะของเรา",
+      "cefr": "A2",
+      "note_th": "planet = ดาวเคราะห์ที่โคจรรอบดาวฤกษ์ (star) ไม่มีแสงเอง — Earth เป็น planet, the Sun เป็น star, the Moon เป็น satellite",
+      "distractors": [
+        "plant",
+        "planner",
+        "star"
+      ]
+    },
+    {
+      "id": "solar_system",
+      "word": "solar system",
+      "pos": "noun",
+      "ipa": "/ˈsoʊlər ˈsɪstəm/",
+      "reading_th": "โซ-ลาร์ ซิส-เทิม",
+      "meaning_th": "ระบบสุริยะ",
+      "emoji": "☀️",
+      "example_en": "There are eight planets in our solar system.",
+      "example_th": "มีดาวเคราะห์แปดดวงในระบบสุริยะของเรา",
+      "cefr": "B1",
+      "note_th": "solar = เกี่ยวกับดวงอาทิตย์ (solar panel, solar eclipse) ส่วน lunar = เกี่ยวกับดวงจันทร์ — ดาวพลูโตถูกถอดออก จึงเหลือ 8 planets",
+      "distractors": [
+        "solar panel",
+        "sound system",
+        "galaxy"
+      ]
+    },
+    {
+      "id": "orbit",
+      "word": "orbit",
+      "pos": "noun",
+      "ipa": "/ˈɔːrbɪt/",
+      "reading_th": "ออร์-บิท",
+      "meaning_th": "วงโคจร",
+      "emoji": "🔄",
+      "example_en": "The Earth takes one year to complete its orbit around the Sun.",
+      "example_th": "โลกใช้เวลาหนึ่งปีในการโคจรรอบดวงอาทิตย์ครบหนึ่งรอบ",
+      "cefr": "B1",
+      "note_th": "orbit เป็นทั้งคำนาม (วงโคจร) และกริยา (โคจร) — in orbit = อยู่ในวงโคจร เช่น ดาวเทียมและสถานีอวกาศ ISS",
+      "distractors": [
+        "object",
+        "rabbit",
+        "habit"
+      ]
+    },
+    {
+      "id": "satellite",
+      "word": "satellite",
+      "pos": "noun",
+      "ipa": "/ˈsætəlaɪt/",
+      "reading_th": "แซ-ทะ-ไลท์",
+      "meaning_th": "ดาวเทียม / บริวาร",
+      "emoji": "🛰️",
+      "example_en": "Weather satellites take pictures of storms from space.",
+      "example_th": "ดาวเทียมอุตุนิยมวิทยาถ่ายภาพพายุจากอวกาศ",
+      "cefr": "B1",
+      "note_th": "satellite มี 2 แบบ: ดาวเทียมที่มนุษย์สร้าง (GPS, TV) และดาวบริวารตามธรรมชาติ เช่น ดวงจันทร์เป็น satellite ของโลก",
+      "distractors": [
+        "satin",
+        "settle",
+        "cellulite"
+      ]
+    },
+    {
+      "id": "galaxy",
+      "word": "galaxy",
+      "pos": "noun",
+      "ipa": "/ˈɡæləksi/",
+      "reading_th": "แกล-เล็ค-ซี",
+      "meaning_th": "กาแล็กซี / ดาราจักร",
+      "emoji": "🌌",
+      "example_en": "Our galaxy, the Milky Way, has billions of stars.",
+      "example_th": "กาแล็กซีของเรา ทางช้างเผือก มีดาวฤกษ์หลายพันล้านดวง",
+      "cefr": "B1",
+      "note_th": "galaxy = กลุ่มดาวฤกษ์นับพันล้านดวง เราอยู่ใน the Milky Way — เรียงจากเล็กไปใหญ่: planet → solar system → galaxy → universe",
+      "distractors": [
+        "galley",
+        "gallery",
+        "universe"
+      ]
+    },
+    {
+      "id": "universe",
+      "word": "universe",
+      "pos": "noun",
+      "ipa": "/ˈjuːnɪvɜːrs/",
+      "reading_th": "ยู-นิ-เวิร์ส",
+      "meaning_th": "จักรวาล / เอกภพ",
+      "emoji": "🌠",
+      "example_en": "Scientists believe the universe is about 14 billion years old.",
+      "example_th": "นักวิทยาศาสตร์เชื่อว่าจักรวาลมีอายุประมาณ 14,000 ล้านปี",
+      "cefr": "B1",
+      "note_th": "the universe = ทุกสิ่งที่มีอยู่ ใช้ the เสมอ — uni = หนึ่ง (universe, university, uniform) อย่าสับสนกับ university ที่สะกดคล้ายกัน",
+      "distractors": [
+        "university",
+        "universal",
+        "galaxy"
+      ]
+    },
+    {
+      "id": "astronaut",
+      "word": "astronaut",
+      "pos": "noun",
+      "ipa": "/ˈæstrənɔːt/",
+      "reading_th": "แอส-โทร-นอท",
+      "meaning_th": "นักบินอวกาศ",
+      "emoji": "👨‍🚀",
+      "example_en": "The astronaut floated inside the space station.",
+      "example_th": "นักบินอวกาศลอยตัวอยู่ในสถานีอวกาศ",
+      "cefr": "A2",
+      "note_th": "astro = ดาว (astronomy = ดาราศาสตร์, astrology = โหราศาสตร์) + naut = นักเดินเรือ — ตัวสะกดลงท้าย -naut ไม่ใช่ -nut",
+      "distractors": [
+        "astronomer",
+        "astrology",
+        "pilot"
+      ]
+    },
+    {
+      "id": "rocket",
+      "word": "rocket",
+      "pos": "noun",
+      "ipa": "/ˈrɑːkɪt/",
+      "reading_th": "ร็อค-เค็ท",
+      "meaning_th": "จรวด",
+      "emoji": "🚀",
+      "example_en": "The rocket launched into space at dawn.",
+      "example_th": "จรวดถูกปล่อยสู่อวกาศตอนรุ่งสาง",
+      "cefr": "A2",
+      "note_th": "rocket = จรวด (ภาษาพูด rocket science = เรื่องยากมาก: It's not rocket science = ไม่ได้ยากขนาดนั้น) — ระวังสะกดคล้าย racket (ไม้แบด)",
+      "distractors": [
+        "racket",
+        "pocket",
+        "socket"
+      ]
+    },
+    {
+      "id": "telescope",
+      "word": "telescope",
+      "pos": "noun",
+      "ipa": "/ˈtelɪskoʊp/",
+      "reading_th": "เท-ลิ-สโคป",
+      "meaning_th": "กล้องโทรทรรศน์",
+      "emoji": "🔭",
+      "example_en": "Through the telescope, we could see the rings of Saturn.",
+      "example_th": "ผ่านกล้องโทรทรรศน์ เรามองเห็นวงแหวนของดาวเสาร์",
+      "cefr": "B1",
+      "note_th": "tele = ไกล (telephone, television) + scope = ส่อง — look through a telescope ใช้ through ส่วน microscope ใช้ under",
+      "distractors": [
+        "microscope",
+        "telephone",
+        "periscope"
+      ]
+    },
+    {
+      "id": "meteor",
+      "word": "meteor",
+      "pos": "noun",
+      "ipa": "/ˈmiːtiər/",
+      "reading_th": "มี-เทีย-เออร์",
+      "meaning_th": "ดาวตก / อุกกาบาต",
+      "emoji": "☄️",
+      "example_en": "We saw a bright meteor cross the night sky.",
+      "example_th": "เราเห็นดาวตกสว่างจ้าพาดผ่านท้องฟ้ายามค่ำคืน",
+      "cefr": "B2",
+      "note_th": "meteor = ดาวตกที่ลุกไหม้ในชั้นบรรยากาศ (shooting star) ถ้าตกถึงพื้นเรียก meteorite — meteor shower = ฝนดาวตก",
+      "distractors": [
+        "meter",
+        "comet",
+        "metaphor"
+      ]
+    },
+    {
+      "id": "continent",
+      "word": "continent",
+      "pos": "noun",
+      "ipa": "/ˈkɑːntɪnənt/",
+      "reading_th": "คอน-ทิ-เนินท์",
+      "meaning_th": "ทวีป",
+      "emoji": "🗺️",
+      "example_en": "Asia is the largest continent on Earth.",
+      "example_th": "เอเชียเป็นทวีปที่ใหญ่ที่สุดบนโลก",
+      "cefr": "A2",
+      "note_th": "โลกมี 7 continents — คำคุณศัพท์ continental เช่น continental breakfast = อาหารเช้าแบบยุโรป (ขนมปัง กาแฟ) ที่เจอในโรงแรม",
+      "distractors": [
+        "content",
+        "continue",
+        "country"
+      ]
+    },
+    {
+      "id": "comet",
+      "word": "comet",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmɪt/",
+      "reading_th": "คอม-เม็ท",
+      "meaning_th": "ดาวหาง",
+      "emoji": "☄️",
+      "example_en": "Halley's Comet can be seen from Earth every 76 years.",
+      "example_th": "ดาวหางฮัลเลย์มองเห็นได้จากโลกทุก 76 ปี",
+      "cefr": "B1",
+      "note_th": "comet = ก้อนน้ำแข็งและฝุ่นที่โคจรรอบดวงอาทิตย์ มีหางยาวเมื่อเข้าใกล้ — ต่างจาก meteor (ดาวตก) ที่เป็นแค่แสงวาบตอนเศษหินไหม้ในชั้นบรรยากาศ",
+      "distractors": [
+        "meteor",
+        "comic",
+        "commit"
+      ]
+    },
+    {
+      "id": "mineral",
+      "word": "mineral",
+      "pos": "noun",
+      "ipa": "/ˈmɪnərəl/",
+      "reading_th": "มิ-เนอ-เริล",
+      "meaning_th": "แร่ / แร่ธาตุ",
+      "emoji": "💎",
+      "example_en": "Diamond is the hardest mineral found in nature.",
+      "example_th": "เพชรเป็นแร่ที่แข็งที่สุดที่พบในธรรมชาติ",
+      "cefr": "B1",
+      "note_th": "mineral = แร่ในหิน และแร่ธาตุในอาหาร (calcium, iron) — mineral water = น้ำแร่ ที่เห็นบนฉลากขวดน้ำ",
+      "distractors": [
+        "miner",
+        "material",
+        "mirror"
+      ]
+    },
+    {
+      "id": "fossil",
+      "word": "fossil",
+      "pos": "noun",
+      "ipa": "/ˈfɑːsl/",
+      "reading_th": "ฟอส-ซิล",
+      "meaning_th": "ฟอสซิล / ซากดึกดำบรรพ์",
+      "emoji": "🦖",
+      "example_en": "Dinosaur fossils were found in Khon Kaen.",
+      "example_th": "มีการพบฟอสซิลไดโนเสาร์ที่ขอนแก่น",
+      "cefr": "B1",
+      "note_th": "fossil = ซากสิ่งมีชีวิตที่กลายเป็นหิน — fossil fuels (น้ำมัน ถ่านหิน แก๊ส) คือเชื้อเพลิงจากซากพืชซากสัตว์โบราณ ออกสอบเรื่องโลกร้อนตลอด",
+      "distractors": [
+        "fossil fuel",
+        "faucet",
+        "skeleton"
+      ]
+    },
+    {
+      "id": "hypothesis",
+      "word": "hypothesis",
+      "pos": "noun",
+      "ipa": "/haɪˈpɑːθəsɪs/",
+      "reading_th": "ไฮ-พอ-ธะ-ซิส",
+      "meaning_th": "สมมติฐาน",
+      "emoji": "❓",
+      "example_en": "Our hypothesis is that plants grow faster with music.",
+      "example_th": "สมมติฐานของเราคือพืชโตเร็วขึ้นเมื่อมีเสียงดนตรี",
+      "cefr": "B2",
+      "note_th": "hypothesis = คำตอบที่เดาไว้ก่อนทดลอง มักเขียนเป็น If..., then... พหูพจน์ hypotheses — test a hypothesis = ทดสอบสมมติฐาน",
+      "distractors": [
+        "hypocrite",
+        "theory",
+        "thesis"
+      ]
+    },
+    {
+      "id": "theory",
+      "word": "theory",
+      "pos": "noun",
+      "ipa": "/ˈθɪri/",
+      "reading_th": "เธีย-รี",
+      "meaning_th": "ทฤษฎี",
+      "emoji": "📐",
+      "example_en": "Darwin's theory explains how species change over time.",
+      "example_th": "ทฤษฎีของดาร์วินอธิบายว่าสปีชีส์เปลี่ยนแปลงไปอย่างไรตามกาลเวลา",
+      "cefr": "B1",
+      "note_th": "theory = คำอธิบายที่ผ่านการพิสูจน์ซ้ำแล้วซ้ำอีก ไม่ใช่แค่ \"เดา\" (ภาษาพูด in theory = ตามหลักการ) — hypothesis คือขั้นก่อนจะเป็น theory",
+      "distractors": [
+        "therapy",
+        "theater",
+        "hypothesis"
+      ]
+    },
+    {
+      "id": "logical",
+      "word": "logical",
+      "pos": "adjective",
+      "ipa": "/ˈlɑːdʒɪkl/",
+      "reading_th": "ล็อจ-จิ-เคิล",
+      "meaning_th": "มีเหตุผล / เป็นตรรกะ",
+      "emoji": "🧩",
+      "example_en": "A logical conclusion must follow from the facts.",
+      "example_th": "ข้อสรุปที่มีเหตุผลต้องมาจากข้อเท็จจริง",
+      "cefr": "B1",
+      "note_th": "logic (ตรรกะ) → logical (สมเหตุสมผล) ตรงข้าม illogical — ข้อสอบอ่าน: \"Which is the most logical conclusion?\" = ข้อสรุปที่สมเหตุสมผลที่สุดจากข้อมูล ไม่ใช่ข้อที่อยากให้เป็น",
+      "distractors": [
+        "logic",
+        "local",
+        "biological"
+      ]
+    },
+    {
+      "id": "prove",
+      "word": "prove",
+      "pos": "verb",
+      "ipa": "/pruːv/",
+      "reading_th": "พรูฟ",
+      "meaning_th": "พิสูจน์",
+      "emoji": "✅",
+      "example_en": "The experiment proves that hot air rises.",
+      "example_th": "การทดลองพิสูจน์ว่าอากาศร้อนลอยขึ้น",
+      "cefr": "B1",
+      "note_th": "prove (กริยา) proof (คำนาม = หลักฐานพิสูจน์) — ช่อง 3 เป็น proven หรือ proved ก็ได้ สำนวน prove someone wrong = พิสูจน์ว่าเขาคิดผิด",
+      "distractors": [
+        "proof",
+        "probe",
+        "improve"
+      ]
+    },
+    {
+      "id": "factor",
+      "word": "factor",
+      "pos": "noun",
+      "ipa": "/ˈfæktər/",
+      "reading_th": "แฟค-เทอร์",
+      "meaning_th": "ปัจจัย",
+      "emoji": "🎚️",
+      "example_en": "Temperature is one factor that affects how fast plants grow.",
+      "example_th": "อุณหภูมิเป็นปัจจัยหนึ่งที่ส่งผลต่อความเร็วในการเติบโตของพืช",
+      "cefr": "B1",
+      "note_th": "factor = สิ่งที่มีผลต่อผลลัพธ์ (a key factor, risk factors) นักวิทยาศาสตร์เปลี่ยนทีละ factor เพื่อดูผล — ในคณิต factor = ตัวประกอบ (factors of 12 คือ 1, 2, 3, 4, 6, 12)",
+      "distractors": [
+        "factory",
+        "fact",
+        "feature"
+      ]
+    },
+    {
+      "id": "cause",
+      "word": "cause",
+      "pos": "noun",
+      "ipa": "/kɔːz/",
+      "reading_th": "คอซ",
+      "meaning_th": "สาเหตุ",
+      "emoji": "🔥",
+      "example_en": "Scientists found the cause of the disease in dirty water.",
+      "example_th": "นักวิทยาศาสตร์พบสาเหตุของโรคในน้ำสกปรก",
+      "cefr": "A2",
+      "note_th": "cause (สาเหตุ) → effect (ผล) คู่ที่เจอในข้อสอบทุกวิชา เป็นกริยาได้ = ก่อให้เกิด (Smoking causes cancer) — ออกเสียงเหมือน because ตัดหน้า",
+      "distractors": [
+        "course",
+        "because",
+        "effect"
+      ]
+    },
+    {
+      "id": "effect",
+      "word": "effect",
+      "pos": "noun",
+      "ipa": "/ɪˈfekt/",
+      "reading_th": "อิ-เฟ็คท์",
+      "meaning_th": "ผล / ผลกระทบ",
+      "emoji": "🎯",
+      "example_en": "Heat has a big effect on how fast sugar dissolves.",
+      "example_th": "ความร้อนมีผลอย่างมากต่อความเร็วในการละลายของน้ำตาล",
+      "cefr": "B1",
+      "note_th": "effect (คำนาม = ผล) กับ affect (กริยา = ส่งผลต่อ) สะกดต่างกันตัวเดียว ข้อสอบชอบหลอก — have an effect on = affect",
+      "distractors": [
+        "affect",
+        "defect",
+        "cause"
+      ]
+    },
+    {
+      "id": "pattern",
+      "word": "pattern",
+      "pos": "noun",
+      "ipa": "/ˈpætərn/",
+      "reading_th": "แพท-เทิร์น",
+      "meaning_th": "รูปแบบ / แบบแผน",
+      "emoji": "🔁",
+      "example_en": "The data show a clear pattern: more rain, more mosquitoes.",
+      "example_th": "ข้อมูลแสดงรูปแบบชัดเจน ฝนมากขึ้น ยุงก็มากขึ้น",
+      "cefr": "B1",
+      "note_th": "นักวิทยาศาสตร์หา pattern ในข้อมูลเพื่อสร้าง hypothesis — ยังใช้กับลายผ้า (floral pattern) และพฤติกรรม (sleep pattern)",
+      "distractors": [
+        "partner",
+        "patent",
+        "button"
+      ]
+    },
+    {
+      "id": "assume",
+      "word": "assume",
+      "pos": "verb",
+      "ipa": "/əˈsuːm/",
+      "reading_th": "อะ-ซูม",
+      "meaning_th": "สมมติว่า / ทึกทักเอา",
+      "emoji": "🤷",
+      "example_en": "Do not assume the result is correct without checking.",
+      "example_th": "อย่าทึกทักว่าผลถูกต้องโดยไม่ตรวจสอบ",
+      "cefr": "B2",
+      "note_th": "assume = เชื่อไว้ก่อนโดยยังไม่มีหลักฐาน (คำนาม assumption) — ในโจทย์คณิต/ฟิสิกส์เจอ \"Assume that g = 10 m/s²\" = กำหนดให้",
+      "distractors": [
+        "assure",
+        "consume",
+        "resume"
+      ]
+    },
+    {
+      "id": "analyze",
+      "word": "analyze",
+      "pos": "verb",
+      "ipa": "/ˈænəlaɪz/",
+      "reading_th": "แอ-นะ-ไลซ์",
+      "meaning_th": "วิเคราะห์",
+      "emoji": "📊",
+      "example_en": "We analyze the data to find out what went wrong.",
+      "example_th": "เราวิเคราะห์ข้อมูลเพื่อหาว่าอะไรผิดพลาด",
+      "cefr": "B1",
+      "note_th": "analyze (อเมริกัน) / analyse (อังกฤษ) คำนาม analysis พหูพจน์ analyses — ขั้นตอนหลัง collect data และก่อน draw a conclusion",
+      "distractors": [
+        "analysis",
+        "paralyze",
+        "organize"
+      ]
+    },
+    {
+      "id": "method",
+      "word": "method",
+      "pos": "noun",
+      "ipa": "/ˈmeθəd/",
+      "reading_th": "เม-เธิด",
+      "meaning_th": "วิธีการ",
+      "emoji": "🧭",
+      "example_en": "The scientific method starts with asking a question.",
+      "example_th": "วิธีการทางวิทยาศาสตร์เริ่มจากการตั้งคำถาม",
+      "cefr": "B1",
+      "note_th": "the scientific method: question → hypothesis → experiment → analyze → conclusion — method = วิธีที่เป็นระบบ ส่วน way = วิธีทั่วไป",
+      "distractors": [
+        "mother",
+        "metal",
+        "medal"
+      ]
+    },
+    {
+      "id": "accurate",
+      "word": "accurate",
+      "pos": "adjective",
+      "ipa": "/ˈækjərət/",
+      "reading_th": "แอค-คิว-เริท",
+      "meaning_th": "แม่นยำ / ถูกต้องแม่นยำ",
+      "emoji": "🎯",
+      "example_en": "A digital scale gives a more accurate reading.",
+      "example_th": "เครื่องชั่งดิจิทัลให้ค่าที่แม่นยำกว่า",
+      "cefr": "B1",
+      "note_th": "accurate = ตรงกับค่าจริง (accuracy) ส่วน precise = ละเอียด/ได้ค่าเดิมซ้ำๆ — ตรงข้ามคือ inaccurate ไม่ใช่ unaccurate",
+      "distractors": [
+        "accuracy",
+        "actual",
+        "precise"
+      ]
+    },
+    {
+      "id": "conclusion",
+      "word": "conclusion",
+      "pos": "noun",
+      "ipa": "/kənˈkluːʒn/",
+      "reading_th": "คัน-คลู-ชั่น",
+      "meaning_th": "ข้อสรุป",
+      "emoji": "🏁",
+      "example_en": "Our conclusion is that salt makes water boil at a higher temperature.",
+      "example_th": "ข้อสรุปของเราคือเกลือทำให้น้ำเดือดที่อุณหภูมิสูงขึ้น",
+      "cefr": "B1",
+      "note_th": "draw/reach a conclusion = ได้ข้อสรุป, jump to conclusions = ด่วนสรุป (ไม่ดี) — เป็นหัวข้อสุดท้ายของรายงานแล็บและเรียงความ",
+      "distractors": [
+        "confusion",
+        "collision",
+        "inclusion"
+      ]
+    },
+    {
+      "id": "invent",
+      "word": "invent",
+      "pos": "verb",
+      "ipa": "/ɪnˈvent/",
+      "reading_th": "อิน-เวนท์",
+      "meaning_th": "ประดิษฐ์",
+      "emoji": "💡",
+      "example_en": "Thomas Edison did not invent the light bulb alone.",
+      "example_th": "โทมัส เอดิสันไม่ได้ประดิษฐ์หลอดไฟเพียงลำพัง",
+      "cefr": "B1",
+      "note_th": "invent = สร้างสิ่งที่ไม่เคยมี (invention, inventor) ส่วน discover = ค้นพบสิ่งที่มีอยู่แล้ว เช่น discover a planet แต่ invent a phone",
+      "distractors": [
+        "invest",
+        "invite",
+        "discover"
+      ]
+    }
+  ]
+}

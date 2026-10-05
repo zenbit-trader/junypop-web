@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "books_reading",
+    "name_en": "Books & Reading",
+    "name_th": "หนังสือและการอ่าน",
+    "emoji": "📚",
+    "color_start": "#A3E635",
+    "color_end": "#3F6212",
+    "description_th": "ประเภทหนังสือ ตัวละคร โครงเรื่อง รีวิวหนังสือ และศัพท์ที่เจอตอนอ่านนิยายภาษาอังกฤษ",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "books_reading_1",
+        "title_en": "Kinds of Books",
+        "title_th": "หนังสือแต่ละประเภท",
+        "emoji": "📚",
+        "word_ids": [
+          "non_fiction",
+          "biography",
+          "memoir",
+          "poetry",
+          "short_story",
+          "comic",
+          "manga",
+          "self_help",
+          "fairy_tale",
+          "classic",
+          "bestseller",
+          "e_book",
+          "audiobook",
+          "picture_book"
+        ]
+      },
+      {
+        "id": "books_reading_2",
+        "title_en": "Parts of a Book",
+        "title_th": "ส่วนประกอบของหนังสือ",
+        "emoji": "📖",
+        "word_ids": [
+          "cover",
+          "page",
+          "table_of_contents",
+          "preface",
+          "prologue",
+          "blurb",
+          "spine",
+          "hardcover",
+          "paperback",
+          "illustration",
+          "footnote",
+          "glossary",
+          "edition",
+          "epilogue"
+        ]
+      },
+      {
+        "id": "books_reading_3",
+        "title_en": "Characters & Plot",
+        "title_th": "ตัวละครและโครงเรื่อง",
+        "emoji": "🎭",
+        "word_ids": [
+          "protagonist",
+          "antagonist",
+          "setting",
+          "climax",
+          "ending",
+          "flashback",
+          "sidekick",
+          "point_of_view",
+          "dialogue",
+          "backstory",
+          "subplot",
+          "twist",
+          "foreshadowing",
+          "love_interest"
+        ]
+      },
+      {
+        "id": "books_reading_4",
+        "title_en": "Reading Habits",
+        "title_th": "นิสัยการอ่านและร้านหนังสือ",
+        "emoji": "🛋️",
+        "word_ids": [
+          "bookshop",
+          "book_fair",
+          "bookworm",
+          "book_club",
+          "browse",
+          "flip_through",
+          "read_aloud",
+          "used_book",
+          "cover_to_cover",
+          "bedtime_story",
+          "page_turner",
+          "pre_order",
+          "reread",
+          "e_reader"
+        ]
+      },
+      {
+        "id": "books_reading_5",
+        "title_en": "Describing a Story",
+        "title_th": "บรรยายความรู้สึกหลังอ่าน",
+        "emoji": "⭐",
+        "word_ids": [
+          "gripping",
+          "predictable",
+          "fast_paced",
+          "slow_paced",
+          "heartwarming",
+          "laugh_out_loud",
+          "moving",
+          "suspense",
+          "vivid",
+          "relatable",
+          "overrated",
+          "thought_provoking",
+          "cliche",
+          "satisfying"
+        ]
+      },
+      {
+        "id": "books_reading_6",
+        "title_en": "Writing & Authors",
+        "title_th": "นักเขียนและการตีพิมพ์",
+        "emoji": "✍️",
+        "word_ids": [
+          "writer",
+          "publish",
+          "publisher",
+          "manuscript",
+          "editor",
+          "pen_name",
+          "trilogy",
+          "prequel",
+          "translate",
+          "translator",
+          "book_signing",
+          "writers_block",
+          "royalties",
+          "ghostwriter"
+        ]
+      },
+      {
+        "id": "books_reading_7",
+        "title_en": "News & Articles",
+        "title_th": "ข่าวและบทความ",
+        "emoji": "📰",
+        "word_ids": [
+          "newspaper",
+          "magazine",
+          "article",
+          "reporter",
+          "feature_article",
+          "columnist",
+          "breaking_news",
+          "front_page",
+          "cover_story",
+          "tabloid",
+          "bias",
+          "fact_check",
+          "op_ed",
+          "paywall"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "non_fiction",
+      "word": "non-fiction",
+      "pos": "noun",
+      "ipa": "/ˌnɑːn ˈfɪkʃn/",
+      "reading_th": "นอน-ฟิค-ชั่น",
+      "meaning_th": "หนังสือสารคดี / เรื่องจริง",
+      "emoji": "📘",
+      "example_en": "I mostly read non-fiction about history and science.",
+      "example_th": "ฉันอ่านหนังสือสารคดีเกี่ยวกับประวัติศาสตร์และวิทยาศาสตร์เป็นหลัก",
+      "cefr": "A2",
+      "note_th": "fiction = เรื่องแต่ง non-fiction = เรื่องจริงทุกแบบ ตั้งแต่ชีวประวัติถึงหนังสือทำอาหาร — ร้านหนังสือฝรั่งแบ่งชั้นด้วยสองคำนี้ก่อนเสมอ",
+      "distractors": [
+        "science fiction",
+        "friction",
+        "non-stop"
+      ]
+    },
+    {
+      "id": "biography",
+      "word": "biography",
+      "pos": "noun",
+      "ipa": "/baɪˈɑːɡrəfi/",
+      "reading_th": "ไบ-ออ-กระ-ฟี่",
+      "meaning_th": "หนังสือชีวประวัติ",
+      "emoji": "👤",
+      "example_en": "She wrote a biography of a famous Thai singer.",
+      "example_th": "เธอเขียนชีวประวัติของนักร้องไทยชื่อดัง",
+      "cefr": "B1",
+      "note_th": "biography = คนอื่นเขียนถึง autobiography = เจ้าตัวเขียนเอง — เน้นพยางค์ที่สอง bi-OG-ra-phy และหนังชีวประวัติเรียกสั้นๆ ว่า biopic",
+      "distractors": [
+        "geography",
+        "biology",
+        "bibliography"
+      ]
+    },
+    {
+      "id": "memoir",
+      "word": "memoir",
+      "pos": "noun",
+      "ipa": "/ˈmemwɑːr/",
+      "reading_th": "เมม-วาร์",
+      "meaning_th": "บันทึกความทรงจำ",
+      "emoji": "📔",
+      "example_en": "Her memoir about growing up in Isan became a bestseller.",
+      "example_th": "บันทึกความทรงจำเรื่องวัยเด็กในอีสานของเธอกลายเป็นหนังสือขายดี",
+      "cefr": "B2",
+      "note_th": "มาจากฝรั่งเศส ออกเสียง เมม-วาร์ ไม่ออกเสียง r ตัวแรก — ต่างจาก autobiography ตรงที่ memoir เล่าแค่ช่วงหนึ่งของชีวิต ไม่ใช่ทั้งชีวิต",
+      "distractors": [
+        "memory",
+        "memo",
+        "mirror"
+      ]
+    },
+    {
+      "id": "poetry",
+      "word": "poetry",
+      "pos": "noun",
+      "ipa": "/ˈpoʊətri/",
+      "reading_th": "โพ-เอ-ทรี",
+      "meaning_th": "บทกวี / กวีนิพนธ์",
+      "emoji": "🌙",
+      "example_en": "Poetry is hard to translate without losing the rhythm.",
+      "example_th": "บทกวีแปลยากโดยไม่เสียจังหวะของมัน",
+      "cefr": "B1",
+      "note_th": "poetry = บทกวีโดยรวม (นับไม่ได้) poem = กลอนหนึ่งบท poet = กวี — ชั้นหนังสือมักติดป้ายว่า Poetry ไม่ใช่ Poems",
+      "distractors": [
+        "pottery",
+        "poultry",
+        "poverty"
+      ]
+    },
+    {
+      "id": "short_story",
+      "word": "short story",
+      "pos": "noun",
+      "ipa": "/ˌʃɔːrt ˈstɔːri/",
+      "reading_th": "ชอร์ท สตอ-รี่",
+      "meaning_th": "เรื่องสั้น",
+      "emoji": "📄",
+      "example_en": "Start with a short story if English novels feel too long.",
+      "example_th": "เริ่มจากเรื่องสั้นก่อนถ้านิยายภาษาอังกฤษรู้สึกว่ายาวไป",
+      "cefr": "A2",
+      "note_th": "เรื่องสั้นรวมเล่มเรียก a collection of short stories — ระดับกลางระหว่างเรื่องสั้นกับนิยายคือ novella ยาวราว 100 หน้า",
+      "distractors": [
+        "short film",
+        "long story",
+        "short cut"
+      ]
+    },
+    {
+      "id": "comic",
+      "word": "comic",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmɪk/",
+      "reading_th": "คอ-มิค",
+      "meaning_th": "หนังสือการ์ตูน",
+      "emoji": "💥",
+      "example_en": "He learned English by reading a comic every night.",
+      "example_th": "เขาเรียนภาษาอังกฤษจากการอ่านหนังสือการ์ตูนทุกคืน",
+      "cefr": "A2",
+      "note_th": "หนังสือการ์ตูน = comic หรือ comic book ส่วน cartoon คือการ์ตูนแอนิเมชันในทีวี — comic ยังเป็นคำคุณศัพท์แปลว่าตลกได้ด้วย",
+      "distractors": [
+        "cosmic",
+        "comet",
+        "cartoon"
+      ]
+    },
+    {
+      "id": "manga",
+      "word": "manga",
+      "pos": "noun",
+      "ipa": "/ˈmæŋɡə/",
+      "reading_th": "แมง-กะ",
+      "meaning_th": "มังงะ / การ์ตูนญี่ปุ่น",
+      "emoji": "🇯🇵",
+      "example_en": "This bookshop has a whole floor of manga in English.",
+      "example_th": "ร้านหนังสือนี้มีมังงะภาษาอังกฤษทั้งชั้น",
+      "cefr": "A2",
+      "note_th": "ฝรั่งออกเสียง แมง-กะ ไม่ใช่ มัง-งะ — มังงะอ่านจากขวาไปซ้าย และฉบับแอนิเมชันเรียก anime ไม่ใช่ cartoon",
+      "distractors": [
+        "mango",
+        "mantra",
+        "anime"
+      ]
+    },
+    {
+      "id": "self_help",
+      "word": "self-help",
+      "pos": "noun",
+      "ipa": "/ˌself ˈhelp/",
+      "reading_th": "เซลฟ์-เฮลป์",
+      "meaning_th": "หนังสือพัฒนาตนเอง",
+      "emoji": "🌱",
+      "example_en": "Self-help books fill the first shelf of every airport bookshop.",
+      "example_th": "หนังสือพัฒนาตนเองเต็มชั้นแรกของร้านหนังสือในสนามบินทุกแห่ง",
+      "cefr": "B1",
+      "note_th": "หนังสือ how-to เรื่องนิสัย เงิน ความสัมพันธ์ = self-help — ใกล้เคียงกับ personal development และบางคนพูดแบบแซวว่า self-improvement junkie",
+      "distractors": [
+        "self-care",
+        "selfish",
+        "self-service"
+      ]
+    },
+    {
+      "id": "fairy_tale",
+      "word": "fairy tale",
+      "pos": "noun",
+      "ipa": "/ˈferi ˌteɪl/",
+      "reading_th": "แฟ-รี่ เทล",
+      "meaning_th": "นิทานเทพนิยาย",
+      "emoji": "🧚",
+      "example_en": "Every fairy tale seems to end with a wedding.",
+      "example_th": "นิทานเทพนิยายทุกเรื่องดูเหมือนจะจบด้วยงานแต่งงาน",
+      "cefr": "A2",
+      "note_th": "tale = เรื่องเล่า fairy = นางฟ้า — เริ่มด้วย Once upon a time จบด้วย happily ever after และ a fairy-tale wedding = งานแต่งเหมือนในฝัน",
+      "distractors": [
+        "fairy light",
+        "folk song",
+        "tail"
+      ]
+    },
+    {
+      "id": "classic",
+      "word": "classic",
+      "pos": "noun",
+      "ipa": "/ˈklæsɪk/",
+      "reading_th": "คลาส-สิค",
+      "meaning_th": "วรรณกรรมคลาสสิก",
+      "emoji": "🏛️",
+      "example_en": "Pride and Prejudice is a classic that students still read.",
+      "example_th": "Pride and Prejudice เป็นวรรณกรรมคลาสสิกที่นักเรียนยังอ่านกันอยู่",
+      "cefr": "B1",
+      "note_th": "classic = งานเก่าที่ยังดีเสมอ ใช้กับหนังสือ หนัง เพลง รถก็ได้ — ส่วน classical ใช้กับดนตรีคลาสสิกและกรีกโรมันเท่านั้น",
+      "distractors": [
+        "classical",
+        "classify",
+        "clinic"
+      ]
+    },
+    {
+      "id": "bestseller",
+      "word": "bestseller",
+      "pos": "noun",
+      "ipa": "/ˌbestˈselər/",
+      "reading_th": "เบสท์-เซล-เลอร์",
+      "meaning_th": "หนังสือขายดี",
+      "emoji": "🥇",
+      "example_en": "Her first novel became a bestseller in three weeks.",
+      "example_th": "นิยายเรื่องแรกของเธอกลายเป็นหนังสือขายดีในสามสัปดาห์",
+      "cefr": "A2",
+      "note_th": "เขียนติดกันคำเดียว ส่วนบนปกจะเห็นคำว่า New York Times bestseller = ติดอันดับขายดีของหนังสือพิมพ์นั้น ใช้กับสินค้าอื่นได้ด้วย",
+      "distractors": [
+        "best friend",
+        "seller",
+        "best man"
+      ]
+    },
+    {
+      "id": "e_book",
+      "word": "e-book",
+      "pos": "noun",
+      "ipa": "/ˈiː bʊk/",
+      "reading_th": "อี-บุ๊ค",
+      "meaning_th": "หนังสืออิเล็กทรอนิกส์",
+      "emoji": "📱",
+      "example_en": "The e-book is cheaper and arrives in one second.",
+      "example_th": "อีบุ๊กถูกกว่าและมาถึงภายในหนึ่งวินาที",
+      "cefr": "A2",
+      "note_th": "e- ย่อจาก electronic เหมือน e-mail — ถามเพื่อนว่าชอบแบบไหน paper or e-book? และหนังสือกระดาษฝรั่งเรียกเล่นๆ ว่า physical book",
+      "distractors": [
+        "notebook",
+        "e-mail",
+        "webpage"
+      ]
+    },
+    {
+      "id": "audiobook",
+      "word": "audiobook",
+      "pos": "noun",
+      "ipa": "/ˈɔːdioʊbʊk/",
+      "reading_th": "ออ-ดิ-โอ-บุ๊ค",
+      "meaning_th": "หนังสือเสียง",
+      "emoji": "🎧",
+      "example_en": "I listen to an audiobook while stuck in traffic.",
+      "example_th": "ฉันฟังหนังสือเสียงตอนรถติด",
+      "cefr": "A2",
+      "note_th": "ฟังหนังสือเสียงใช้ listen to ไม่ใช่ read — คนอ่านให้ฟังเรียก narrator และฟังเสียงเจ้าของภาษาช่วยฝึก listening ได้ดีมาก",
+      "distractors": [
+        "audio guide",
+        "podcast",
+        "radio"
+      ]
+    },
+    {
+      "id": "picture_book",
+      "word": "picture book",
+      "pos": "noun",
+      "ipa": "/ˈpɪktʃər ˌbʊk/",
+      "reading_th": "พิค-เชอร์ บุ๊ค",
+      "meaning_th": "หนังสือภาพสำหรับเด็ก",
+      "emoji": "🧸",
+      "example_en": "We read a picture book to our son before bed.",
+      "example_th": "เราอ่านหนังสือภาพให้ลูกชายฟังก่อนนอน",
+      "cefr": "A1",
+      "note_th": "หนังสือภาพเด็กเล็ก = picture book หนังสือกระดาษแข็งสำหรับเด็กเล็กมาก = board book — ผู้ใหญ่เริ่มอ่านอังกฤษก็ใช้ได้ ไม่ต้องอาย",
+      "distractors": [
+        "textbook",
+        "photo album",
+        "picture frame"
+      ]
+    },
+    {
+      "id": "cover",
+      "word": "cover",
+      "pos": "noun",
+      "ipa": "/ˈkʌvər/",
+      "reading_th": "คัฟ-เวอร์",
+      "meaning_th": "ปกหนังสือ",
+      "emoji": "📕",
+      "example_en": "The cover has a cat sitting on a pile of books.",
+      "example_th": "ปกหนังสือเป็นรูปแมวนั่งบนกองหนังสือ",
+      "cefr": "A2",
+      "note_th": "สำนวนดัง don't judge a book by its cover = อย่าตัดสินจากภายนอก — ปกหน้า front cover ปกหลัง back cover และคนออกแบบปกคือ cover designer",
+      "distractors": [
+        "cave",
+        "clover",
+        "copper"
+      ]
+    },
+    {
+      "id": "page",
+      "word": "page",
+      "pos": "noun",
+      "ipa": "/peɪdʒ/",
+      "reading_th": "เพจ",
+      "meaning_th": "หน้าหนังสือ",
+      "emoji": "📃",
+      "example_en": "Turn to page forty and read the first paragraph.",
+      "example_th": "เปิดไปหน้าสี่สิบแล้วอ่านย่อหน้าแรก",
+      "cefr": "A1",
+      "note_th": "พลิกหน้า = turn the page ไม่ใช่ open the page — หนังสือ 300 หน้า = a 300-page book (ไม่เติม s เมื่อขยายคำนาม) และเพจเฟซบุ๊กก็คำเดียวกัน",
+      "distractors": [
+        "pace",
+        "cage",
+        "wage"
+      ]
+    },
+    {
+      "id": "table_of_contents",
+      "word": "table of contents",
+      "pos": "noun",
+      "ipa": "/ˌteɪbl əv ˈkɑːntents/",
+      "reading_th": "เท-เบิล ออฟ คอน-เทนท์ส",
+      "meaning_th": "สารบัญ",
+      "emoji": "📑",
+      "example_en": "Check the table of contents to find the chapter you need.",
+      "example_th": "ดูสารบัญเพื่อหาบทที่คุณต้องการ",
+      "cefr": "A2",
+      "note_th": "พูดสั้นๆ ว่า the contents ก็ได้ — เน้นเสียง CON-tents (สารบัญ/เนื้อหา) ส่วน con-TENT เน้นหลังแปลว่าพอใจ คนละคำ",
+      "distractors": [
+        "table of numbers",
+        "contents page",
+        "timetable"
+      ]
+    },
+    {
+      "id": "preface",
+      "word": "preface",
+      "pos": "noun",
+      "ipa": "/ˈprefəs/",
+      "reading_th": "เพร-เฟิส",
+      "meaning_th": "คำนำ",
+      "emoji": "✒️",
+      "example_en": "The preface explains why the author wrote the book.",
+      "example_th": "คำนำอธิบายว่าทำไมผู้เขียนถึงเขียนหนังสือเล่มนี้",
+      "cefr": "B2",
+      "note_th": "ออกเสียง เพร-เฟิส ไม่ใช่ พรี-เฟซ — preface คือผู้เขียนเขียนเอง ส่วน foreword คือคนอื่นที่มีชื่อเสียงเขียนให้ และ introduction คือบทนำเนื้อหา",
+      "distractors": [
+        "surface",
+        "prefix",
+        "preview"
+      ]
+    },
+    {
+      "id": "prologue",
+      "word": "prologue",
+      "pos": "noun",
+      "ipa": "/ˈproʊlɔːɡ/",
+      "reading_th": "โพร-ล็อก",
+      "meaning_th": "บทนำเรื่อง (ก่อนบทที่ 1)",
+      "emoji": "🎬",
+      "example_en": "The prologue shows the murder before chapter one begins.",
+      "example_th": "บทนำเรื่องเปิดฉากฆาตกรรมก่อนบทที่หนึ่งจะเริ่ม",
+      "cefr": "B2",
+      "note_th": "prologue = ฉากเปิดก่อนเรื่องจริง มักเป็นอดีตหรืออนาคต — ตรงข้ามกับ epilogue ที่ปิดท้าย ซีซั่นแรกของหอคอย JUNYPOP ก็ชื่อปฐมบทจากคำนี้",
+      "distractors": [
+        "epilogue",
+        "catalogue",
+        "program"
+      ]
+    },
+    {
+      "id": "blurb",
+      "word": "blurb",
+      "pos": "noun",
+      "ipa": "/blɜːrb/",
+      "reading_th": "เบลิร์บ",
+      "meaning_th": "คำโปรยปกหลัง",
+      "emoji": "💬",
+      "example_en": "I read the blurb and bought the book right away.",
+      "example_th": "ฉันอ่านคำโปรยปกหลังแล้วซื้อหนังสือทันที",
+      "cefr": "B2",
+      "note_th": "ข้อความสั้นๆ หลังปกที่ชวนให้ซื้อ รวมถึงคำชมจากนักเขียนดัง — ตอนเลือกหนังสือในร้านฝรั่งจะพูดว่า let me read the blurb first",
+      "distractors": [
+        "blur",
+        "bulb",
+        "blog"
+      ]
+    },
+    {
+      "id": "spine",
+      "word": "spine",
+      "pos": "noun",
+      "ipa": "/spaɪn/",
+      "reading_th": "สไปน์",
+      "meaning_th": "สันหนังสือ",
+      "emoji": "📚",
+      "example_en": "The title is printed on the spine so you can find it on the shelf.",
+      "example_th": "ชื่อเรื่องพิมพ์อยู่ที่สันหนังสือจะได้หาเจอบนชั้น",
+      "cefr": "B1",
+      "note_th": "spine = กระดูกสันหลัง และสันหนังสือก็ใช้คำเดียวกัน — หนังสือมือสองที่สันแตกเรียก a cracked spine ทำให้ราคาตก",
+      "distractors": [
+        "spin",
+        "spike",
+        "spice"
+      ]
+    },
+    {
+      "id": "hardcover",
+      "word": "hardcover",
+      "pos": "noun",
+      "ipa": "/ˈhɑːrdkʌvər/",
+      "reading_th": "ฮาร์ด-คัฟ-เวอร์",
+      "meaning_th": "หนังสือปกแข็ง",
+      "emoji": "📕",
+      "example_en": "The hardcover comes out first and costs twice as much.",
+      "example_th": "ฉบับปกแข็งออกก่อนและราคาแพงกว่าเท่าตัว",
+      "cefr": "B1",
+      "note_th": "อังกฤษเรียก hardback ความหมายเดียวกัน — หนังสือใหม่มักออกปกแข็งก่อน แล้วอีกปีจึงออกปกอ่อนราคาถูกลง",
+      "distractors": [
+        "hard drive",
+        "hardware",
+        "softcover"
+      ]
+    },
+    {
+      "id": "paperback",
+      "word": "paperback",
+      "pos": "noun",
+      "ipa": "/ˈpeɪpərbæk/",
+      "reading_th": "เพ-เพอร์-แบ็ค",
+      "meaning_th": "หนังสือปกอ่อน",
+      "emoji": "📙",
+      "example_en": "I'll wait for the paperback because it is lighter to carry.",
+      "example_th": "ฉันจะรอฉบับปกอ่อนเพราะพกเบากว่า",
+      "cefr": "B1",
+      "note_th": "ถามร้านว่า is it available in paperback? — ปกอ่อนพิมพ์คุณภาพสูงราคากลางเรียก trade paperback ส่วนเล่มเล็กราคาถูกคือ mass-market paperback",
+      "distractors": [
+        "paperwork",
+        "backpack",
+        "paper bag"
+      ]
+    },
+    {
+      "id": "illustration",
+      "word": "illustration",
+      "pos": "noun",
+      "ipa": "/ˌɪləˈstreɪʃn/",
+      "reading_th": "อิล-ลัส-เตร-ชั่น",
+      "meaning_th": "ภาพประกอบ",
+      "emoji": "🖍️",
+      "example_en": "Each chapter opens with a beautiful illustration.",
+      "example_th": "แต่ละบทเปิดด้วยภาพประกอบที่สวยงาม",
+      "cefr": "B1",
+      "note_th": "คนวาดภาพประกอบคือ illustrator (ชื่อโปรแกรม Adobe ก็มาจากนี้) — กริยา illustrate ยังแปลว่า ยกตัวอย่างให้เห็นภาพ เจอบ่อยในข้อสอบ",
+      "distractors": [
+        "frustration",
+        "installation",
+        "illusion"
+      ]
+    },
+    {
+      "id": "footnote",
+      "word": "footnote",
+      "pos": "noun",
+      "ipa": "/ˈfʊtnoʊt/",
+      "reading_th": "ฟุท-โน้ต",
+      "meaning_th": "เชิงอรรถ",
+      "emoji": "🔻",
+      "example_en": "The footnote explains what the Thai word means.",
+      "example_th": "เชิงอรรถอธิบายว่าคำภาษาไทยคำนั้นแปลว่าอะไร",
+      "cefr": "B2",
+      "note_th": "foot = ท้ายหน้า note = หมายเหตุ ตัวเลขเล็กๆ ยกขึ้นคือ footnote — ถ้าไปรวมอยู่ท้ายเล่มเรียก endnote เจอทั้งในนิยายแปลและวิทยานิพนธ์",
+      "distractors": [
+        "footprint",
+        "headnote",
+        "footpath"
+      ]
+    },
+    {
+      "id": "glossary",
+      "word": "glossary",
+      "pos": "noun",
+      "ipa": "/ˈɡlɑːsəri/",
+      "reading_th": "กลอส-ซะ-รี่",
+      "meaning_th": "อภิธานศัพท์ท้ายเล่ม",
+      "emoji": "🔤",
+      "example_en": "Use the glossary at the back for the difficult words.",
+      "example_th": "ใช้อภิธานศัพท์ท้ายเล่มสำหรับคำยากๆ",
+      "cefr": "B2",
+      "note_th": "รายการคำศัพท์พร้อมความหมายท้ายเล่ม — ต่างจาก dictionary ตรงที่มีเฉพาะคำในเล่มนั้น นิยายแฟนตาซีมักมี glossary ชื่อสถานที่",
+      "distractors": [
+        "grocery",
+        "glossy",
+        "gallery"
+      ]
+    },
+    {
+      "id": "edition",
+      "word": "edition",
+      "pos": "noun",
+      "ipa": "/ɪˈdɪʃn/",
+      "reading_th": "อิ-ดิ-ชั่น",
+      "meaning_th": "ฉบับพิมพ์ / ครั้งที่พิมพ์",
+      "emoji": "🔢",
+      "example_en": "The second edition has two new chapters.",
+      "example_th": "ฉบับพิมพ์ครั้งที่สองมีบทใหม่เพิ่มสองบท",
+      "cefr": "B1",
+      "note_th": "first edition = พิมพ์ครั้งแรก (นักสะสมชอบ) ส่วน edit = แก้ไข editor = บรรณาธิการ — ตำราเรียนมักอัปเดตเป็น 3rd edition, 4th edition",
+      "distractors": [
+        "addition",
+        "audition",
+        "editor"
+      ]
+    },
+    {
+      "id": "epilogue",
+      "word": "epilogue",
+      "pos": "noun",
+      "ipa": "/ˈepɪlɔːɡ/",
+      "reading_th": "เอ-พิ-ล็อก",
+      "meaning_th": "บทส่งท้าย",
+      "emoji": "🏁",
+      "example_en": "The epilogue shows the characters ten years later.",
+      "example_th": "บทส่งท้ายเล่าถึงตัวละครในอีกสิบปีต่อมา",
+      "cefr": "B2",
+      "note_th": "epi- = หลัง logue = เรื่องเล่า — ตรงข้ามกับ prologue นักอ่านมักพูดว่า the epilogue made me cry เพราะเป็นบทที่สรุปชะตาทุกคน",
+      "distractors": [
+        "prologue",
+        "episode",
+        "epic"
+      ]
+    },
+    {
+      "id": "protagonist",
+      "word": "protagonist",
+      "pos": "noun",
+      "ipa": "/proʊˈtæɡənɪst/",
+      "reading_th": "โพร-แท-กะ-นิสท์",
+      "meaning_th": "ตัวเอกของเรื่อง",
+      "emoji": "🦸",
+      "example_en": "The protagonist is a nurse who solves crimes at night.",
+      "example_th": "ตัวเอกของเรื่องเป็นพยาบาลที่ไขคดีตอนกลางคืน",
+      "cefr": "B2",
+      "note_th": "เน้นพยางค์ที่สอง pro-TAG-o-nist — คำทางการกว่า main character ใช้ในรีวิวและข้อสอบวรรณกรรม ตัวเอกไม่จำเป็นต้องเป็นคนดีเสมอไป",
+      "distractors": [
+        "antagonist",
+        "pragmatist",
+        "protein"
+      ]
+    },
+    {
+      "id": "antagonist",
+      "word": "antagonist",
+      "pos": "noun",
+      "ipa": "/ænˈtæɡənɪst/",
+      "reading_th": "แอน-แท-กะ-นิสท์",
+      "meaning_th": "ตัวร้าย / ตัวขัดขวางตัวเอก",
+      "emoji": "🦹",
+      "example_en": "A good antagonist makes the hero work harder.",
+      "example_th": "ตัวร้ายที่ดีทำให้พระเอกต้องพยายามมากขึ้น",
+      "cefr": "B2",
+      "note_th": "antagonist = ฝ่ายตรงข้ามตัวเอก ไม่ต้องชั่วร้ายเสมอ อาจเป็นธรรมชาติหรือสังคมก็ได้ — ส่วน villain คือคนร้ายตัวจริงที่ตั้งใจทำชั่ว",
+      "distractors": [
+        "protagonist",
+        "antique",
+        "analyst"
+      ]
+    },
+    {
+      "id": "setting",
+      "word": "setting",
+      "pos": "noun",
+      "ipa": "/ˈsetɪŋ/",
+      "reading_th": "เซ็ท-ติ้ง",
+      "meaning_th": "ฉากหลังของเรื่อง (เวลาและสถานที่)",
+      "emoji": "🗺️",
+      "example_en": "The setting is Bangkok in the 1960s.",
+      "example_th": "ฉากหลังของเรื่องคือกรุงเทพฯ ในยุค 1960",
+      "cefr": "B1",
+      "note_th": "setting = เรื่องเกิดที่ไหน เมื่อไหร่ — ข้อสอบวรรณกรรมถามเสมอ describe the setting ส่วน settings มี s คือเมนูตั้งค่าในมือถือ",
+      "distractors": [
+        "sitting",
+        "seating",
+        "settle"
+      ]
+    },
+    {
+      "id": "climax",
+      "word": "climax",
+      "pos": "noun",
+      "ipa": "/ˈklaɪmæks/",
+      "reading_th": "ไคล-แม็กซ์",
+      "meaning_th": "จุดสุดยอดของเรื่อง",
+      "emoji": "🌋",
+      "example_en": "The climax takes place during the flood.",
+      "example_th": "จุดสุดยอดของเรื่องเกิดขึ้นระหว่างน้ำท่วม",
+      "cefr": "B2",
+      "note_th": "ออกเสียง ไคล-แม็กซ์ ไม่ใช่ คลิ-แม็กซ์ — จุดที่ตึงเครียดที่สุดก่อนคลี่คลาย ช่วงก่อนหน้าเรียก rising action และหลังจากนั้นคือ resolution",
+      "distractors": [
+        "climate",
+        "climb",
+        "maximum"
+      ]
+    },
+    {
+      "id": "ending",
+      "word": "ending",
+      "pos": "noun",
+      "ipa": "/ˈendɪŋ/",
+      "reading_th": "เอน-ดิ้ง",
+      "meaning_th": "ตอนจบ",
+      "emoji": "🔚",
+      "example_en": "I hated the ending, so I threw the book across the room.",
+      "example_th": "ฉันเกลียดตอนจบมากจนปาหนังสือข้ามห้อง",
+      "cefr": "A2",
+      "note_th": "happy ending, sad ending, open ending (จบแบบให้คิดเอง) — อย่าสปอยล์ตอนจบ don't spoil the ending และ twist ending คือจบแบบหักมุม",
+      "distractors": [
+        "sending",
+        "lending",
+        "endless"
+      ]
+    },
+    {
+      "id": "flashback",
+      "word": "flashback",
+      "pos": "noun",
+      "ipa": "/ˈflæʃbæk/",
+      "reading_th": "แฟลช-แบ็ค",
+      "meaning_th": "ฉากย้อนอดีต",
+      "emoji": "⏪",
+      "example_en": "A flashback shows how the two sisters first met.",
+      "example_th": "ฉากย้อนอดีตเล่าว่าสองพี่น้องพบกันครั้งแรกอย่างไร",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่า แฟลชแบ็ก ตรงตัว — ฉากกระโดดไปอนาคตเรียก flash-forward และ flashback ยังใช้กับความทรงจำที่ผุดขึ้นมาเองได้",
+      "distractors": [
+        "feedback",
+        "flashlight",
+        "playback"
+      ]
+    },
+    {
+      "id": "sidekick",
+      "word": "sidekick",
+      "pos": "noun",
+      "ipa": "/ˈsaɪdkɪk/",
+      "reading_th": "ไซด์-คิก",
+      "meaning_th": "คู่หูของตัวเอก",
+      "emoji": "🐾",
+      "example_en": "Every detective needs a funny sidekick like Watson.",
+      "example_th": "นักสืบทุกคนต้องมีคู่หูตลกๆ อย่างวัตสัน",
+      "cefr": "B2",
+      "note_th": "sidekick = ผู้ช่วยที่อยู่ข้างตัวเอกตลอด มักเป็นตัวตลกหรือคนซื่อสัตย์ — ใช้แซวเพื่อนสนิทได้ he is my sidekick",
+      "distractors": [
+        "side dish",
+        "side effect",
+        "kickoff"
+      ]
+    },
+    {
+      "id": "point_of_view",
+      "word": "point of view",
+      "pos": "noun",
+      "ipa": "/ˌpɔɪnt əv ˈvjuː/",
+      "reading_th": "พอยท์ ออฟ วิว",
+      "meaning_th": "มุมมองการเล่าเรื่อง",
+      "emoji": "👁️",
+      "example_en": "The story is told from the point of view of a dog.",
+      "example_th": "เรื่องนี้เล่าผ่านมุมมองของสุนัข",
+      "cefr": "B1",
+      "note_th": "ย่อว่า POV (ที่เห็นใน TikTok ก็มาจากนี้) — first-person POV ใช้ I เล่า third-person ใช้ he/she และยังแปลว่า ความเห็น in my point of view ได้ด้วย",
+      "distractors": [
+        "point of sale",
+        "field of view",
+        "out of view"
+      ]
+    },
+    {
+      "id": "dialogue",
+      "word": "dialogue",
+      "pos": "noun",
+      "ipa": "/ˈdaɪəlɔːɡ/",
+      "reading_th": "ได-อะ-ล็อก",
+      "meaning_th": "บทสนทนาในเรื่อง",
+      "emoji": "💬",
+      "example_en": "The dialogue sounds natural, like real people talking.",
+      "example_th": "บทสนทนาฟังดูเป็นธรรมชาติเหมือนคนจริงๆ คุยกัน",
+      "cefr": "B1",
+      "note_th": "อเมริกันสะกด dialog ก็ได้ — อ่านนิยายอังกฤษให้สังเกต dialogue เพราะเป็นภาษาพูดจริง และหน้าต่าง dialog box ในคอมก็คำเดียวกัน",
+      "distractors": [
+        "diagram",
+        "monologue",
+        "dial"
+      ]
+    },
+    {
+      "id": "backstory",
+      "word": "backstory",
+      "pos": "noun",
+      "ipa": "/ˈbækstɔːri/",
+      "reading_th": "แบ็ค-สตอ-รี่",
+      "meaning_th": "ภูมิหลังตัวละคร",
+      "emoji": "🕰️",
+      "example_en": "The villain's backstory explains why he hates the city.",
+      "example_th": "ภูมิหลังของตัวร้ายอธิบายว่าทำไมเขาถึงเกลียดเมืองนี้",
+      "cefr": "B2",
+      "note_th": "เรื่องราวก่อนเรื่องหลักจะเริ่ม ทำให้เข้าใจตัวละคร — แฟนๆ ชอบพูดว่า I need his backstory! และหนังภาคต้นที่เล่าภูมิหลังคือ origin story",
+      "distractors": [
+        "background",
+        "bedtime story",
+        "back cover"
+      ]
+    },
+    {
+      "id": "subplot",
+      "word": "subplot",
+      "pos": "noun",
+      "ipa": "/ˈsʌbplɑːt/",
+      "reading_th": "ซับ-พล็อต",
+      "meaning_th": "เรื่องรอง / โครงเรื่องย่อย",
+      "emoji": "🧩",
+      "example_en": "The romance is only a subplot in this crime novel.",
+      "example_th": "เรื่องรักเป็นแค่เรื่องรองในนิยายอาชญากรรมเล่มนี้",
+      "cefr": "B2",
+      "note_th": "sub- = ย่อย/ใต้ เหมือน subtitle, subway — นิยายยาวมีหลาย subplot ขนานกับ main plot ถ้าเยอะเกินนักอ่านจะบ่นว่า too many subplots",
+      "distractors": [
+        "subtitle",
+        "subway",
+        "plot hole"
+      ]
+    },
+    {
+      "id": "twist",
+      "word": "twist",
+      "pos": "noun",
+      "ipa": "/twɪst/",
+      "reading_th": "ทวิสท์",
+      "meaning_th": "จุดหักมุม",
+      "emoji": "🌀",
+      "example_en": "There is a twist in the last chapter that changes everything.",
+      "example_th": "มีจุดหักมุมในบทสุดท้ายที่เปลี่ยนทุกอย่าง",
+      "cefr": "B1",
+      "note_th": "I didn't see that twist coming = ไม่คิดว่าจะหักมุมแบบนี้ ประโยคมาตรฐานของนักรีวิว — กริยา twist ยังแปลว่าบิด เช่น twist the cap เปิดฝาขวด",
+      "distractors": [
+        "twin",
+        "twig",
+        "wrist"
+      ]
+    },
+    {
+      "id": "foreshadowing",
+      "word": "foreshadowing",
+      "pos": "noun",
+      "ipa": "/fɔːrˈʃædoʊɪŋ/",
+      "reading_th": "ฟอร์-แชด-โด-อิ้ง",
+      "meaning_th": "การบอกใบ้เหตุการณ์ล่วงหน้า",
+      "emoji": "🔮",
+      "example_en": "The broken clock in chapter one is clever foreshadowing.",
+      "example_th": "นาฬิกาที่พังในบทแรกเป็นการบอกใบ้ล่วงหน้าที่ฉลาดมาก",
+      "cefr": "B2",
+      "note_th": "fore- = ล่วงหน้า shadow = เงา ใบ้เงาของสิ่งที่จะเกิด — ศัพท์วิเคราะห์วรรณกรรมที่คนดูซีรีส์ก็ใช้ that was foreshadowing!",
+      "distractors": [
+        "forecasting",
+        "foreshore",
+        "shadowing"
+      ]
+    },
+    {
+      "id": "love_interest",
+      "word": "love interest",
+      "pos": "noun",
+      "ipa": "/ˈlʌv ˌɪntrəst/",
+      "reading_th": "เลิฟ อิน-เทรสท์",
+      "meaning_th": "ตัวละครคู่รักของตัวเอก",
+      "emoji": "💘",
+      "example_en": "The love interest appears in chapter three.",
+      "example_th": "ตัวละครคู่รักของตัวเอกปรากฏตัวในบทที่สาม",
+      "cefr": "B2",
+      "note_th": "interest ในที่นี้ไม่ใช่ดอกเบี้ยหรือความสนใจ แต่คือคนที่ตัวเอกจะรัก — นักอ่านนิยายรักพูดว่า the love interest is so boring! ได้ทุกเล่ม",
+      "distractors": [
+        "love letter",
+        "interest rate",
+        "love story"
+      ]
+    },
+    {
+      "id": "bookshop",
+      "word": "bookshop",
+      "pos": "noun",
+      "ipa": "/ˈbʊkʃɑːp/",
+      "reading_th": "บุ๊ค-ช็อป",
+      "meaning_th": "ร้านหนังสือ (แบบอังกฤษ)",
+      "emoji": "🏬",
+      "example_en": "There is a tiny bookshop hidden behind the temple.",
+      "example_th": "มีร้านหนังสือเล็กๆ ซ่อนอยู่หลังวัด",
+      "cefr": "A1",
+      "note_th": "อังกฤษใช้ bookshop อเมริกันใช้ bookstore ความหมายเดียวกัน — ร้านหนังสืออิสระเล็กๆ ที่คนรักหนังสือชอบเรียก independent bookshop หรือ indie",
+      "distractors": [
+        "bookcase",
+        "workshop",
+        "book club"
+      ]
+    },
+    {
+      "id": "book_fair",
+      "word": "book fair",
+      "pos": "noun",
+      "ipa": "/ˈbʊk ˌfer/",
+      "reading_th": "บุ๊ค แฟร์",
+      "meaning_th": "งานมหกรรมหนังสือ",
+      "emoji": "🎪",
+      "example_en": "The book fair at Queen Sirikit Center is huge every year.",
+      "example_th": "งานมหกรรมหนังสือที่ศูนย์สิริกิติ์ใหญ่มากทุกปี",
+      "cefr": "A2",
+      "note_th": "fair = งานออกร้าน เช่น job fair, food fair — งานสัปดาห์หนังสือแห่งชาติแปลว่า National Book Fair ใช้ชวนเพื่อนต่างชาติได้เลย",
+      "distractors": [
+        "job fair",
+        "book club",
+        "fair play"
+      ]
+    },
+    {
+      "id": "bookworm",
+      "word": "bookworm",
+      "pos": "noun",
+      "ipa": "/ˈbʊkwɜːrm/",
+      "reading_th": "บุ๊ค-เวิร์ม",
+      "meaning_th": "หนอนหนังสือ",
+      "emoji": "🐛",
+      "example_en": "My sister is a bookworm who reads two novels a week.",
+      "example_th": "น้องสาวฉันเป็นหนอนหนังสือที่อ่านนิยายสองเล่มต่อสัปดาห์",
+      "cefr": "A2",
+      "note_th": "ตรงกับไทยเป๊ะ หนอน + หนังสือ และเป็นคำชมแบบเอ็นดู — คนที่รักหนังสือมากๆ ยังเรียก a book lover หรือ an avid reader",
+      "distractors": [
+        "earthworm",
+        "bookmark",
+        "bookkeeper"
+      ]
+    },
+    {
+      "id": "book_club",
+      "word": "book club",
+      "pos": "noun",
+      "ipa": "/ˈbʊk ˌklʌb/",
+      "reading_th": "บุ๊ค คลับ",
+      "meaning_th": "ชมรมอ่านหนังสือ",
+      "emoji": "👥",
+      "example_en": "Our book club meets at a cafe once a month.",
+      "example_th": "ชมรมอ่านหนังสือของเราเจอกันที่คาเฟ่เดือนละครั้ง",
+      "cefr": "A2",
+      "note_th": "กลุ่มที่อ่านเล่มเดียวกันแล้วมาคุย — ฝึกอังกฤษด้วยการเข้า online book club ได้ และ book club pick = เล่มที่ชมรมเลือกเดือนนี้",
+      "distractors": [
+        "night club",
+        "book fair",
+        "fan club"
+      ]
+    },
+    {
+      "id": "browse",
+      "word": "browse",
+      "pos": "verb",
+      "ipa": "/braʊz/",
+      "reading_th": "เบราซ์",
+      "meaning_th": "เดินดูเรื่อยๆ ไม่ได้ตั้งใจซื้อ",
+      "emoji": "👀",
+      "example_en": "I like to browse the shelves without buying anything.",
+      "example_th": "ฉันชอบเดินดูชั้นหนังสือเรื่อยๆ โดยไม่ซื้ออะไร",
+      "cefr": "B1",
+      "note_th": "พนักงานถาม can I help you? ตอบ I'm just browsing, thanks = แค่เดินดูเฉยๆ — browser ที่ใช้เข้าเว็บก็มาจากคำนี้ ออกเสียง เบราซ์ เหมือน brows (คิ้ว)",
+      "distractors": [
+        "brows",
+        "bruise",
+        "borrow"
+      ]
+    },
+    {
+      "id": "flip_through",
+      "word": "flip through",
+      "pos": "phrase",
+      "ipa": "/ˌflɪp ˈθruː/",
+      "reading_th": "ฟลิป ธรู",
+      "meaning_th": "พลิกดูผ่านๆ",
+      "emoji": "📖",
+      "example_en": "Flip through the book before you decide to buy it.",
+      "example_th": "พลิกดูหนังสือผ่านๆ ก่อนตัดสินใจซื้อ",
+      "cefr": "B1",
+      "note_th": "flip = พลิก through = ผ่านไปทั้งเล่ม — ใช้กับนิตยสารและเมนูได้ flip through the menu ส่วน leaf through ความหมายเดียวกันแต่เป็นทางการกว่า",
+      "distractors": [
+        "flip over",
+        "slip through",
+        "go through"
+      ]
+    },
+    {
+      "id": "read_aloud",
+      "word": "read aloud",
+      "pos": "phrase",
+      "ipa": "/ˌriːd əˈlaʊd/",
+      "reading_th": "รีด อะ-เลาด์",
+      "meaning_th": "อ่านออกเสียง",
+      "emoji": "🗣️",
+      "example_en": "Read aloud for ten minutes a day to improve your accent.",
+      "example_th": "อ่านออกเสียงวันละสิบนาทีจะช่วยให้สำเนียงดีขึ้น",
+      "cefr": "A2",
+      "note_th": "aloud = ออกเสียง ส่วน loud = ดัง — read aloud คือเทคนิคฝึกพูดที่ครูสอนภาษาแนะนำที่สุด และ read out loud ก็ใช้ได้เหมือนกัน",
+      "distractors": [
+        "read along",
+        "read ahead",
+        "speak aloud"
+      ]
+    },
+    {
+      "id": "used_book",
+      "word": "used book",
+      "pos": "noun",
+      "ipa": "/ˌjuːzd ˈbʊk/",
+      "reading_th": "ยูสด์ บุ๊ค",
+      "meaning_th": "หนังสือมือสอง",
+      "emoji": "♻️",
+      "example_en": "A used book costs a third of the price and reads the same.",
+      "example_th": "หนังสือมือสองราคาแค่หนึ่งในสามแต่อ่านได้เหมือนกัน",
+      "cefr": "A2",
+      "note_th": "used = เคยใช้แล้ว ออกเสียง ยูสด์ (เสียง z) ไม่ใช่ ยูสท์ — ร้านหนังสือมือสองคือ used bookstore หรือ secondhand bookshop แบบอังกฤษ",
+      "distractors": [
+        "new book",
+        "useful book",
+        "lost book"
+      ]
+    },
+    {
+      "id": "cover_to_cover",
+      "word": "cover to cover",
+      "pos": "phrase",
+      "ipa": "/ˌkʌvər tə ˈkʌvər/",
+      "reading_th": "คัฟ-เวอร์ ทู คัฟ-เวอร์",
+      "meaning_th": "อ่านตั้งแต่ปกหน้าถึงปกหลัง",
+      "emoji": "📘",
+      "example_en": "I read the whole thing cover to cover in one night.",
+      "example_th": "ฉันอ่านทั้งเล่มตั้งแต่ปกหน้าถึงปกหลังในคืนเดียว",
+      "cefr": "B1",
+      "note_th": "แปลว่าอ่านครบทุกหน้าจริงๆ ไม่ข้าม ใช้อวดเพื่อนได้ I read it cover to cover — ตรงข้ามกับ skim (อ่านผ่านๆ) หรือ skip (ข้าม)",
+      "distractors": [
+        "door to door",
+        "face to face",
+        "back to back"
+      ]
+    },
+    {
+      "id": "bedtime_story",
+      "word": "bedtime story",
+      "pos": "noun",
+      "ipa": "/ˈbedtaɪm ˌstɔːri/",
+      "reading_th": "เบด-ไทม์ สตอ-รี่",
+      "meaning_th": "นิทานก่อนนอน",
+      "emoji": "🌙",
+      "example_en": "Dad reads a bedtime story to the kids every night.",
+      "example_th": "พ่ออ่านนิทานก่อนนอนให้เด็กๆ ฟังทุกคืน",
+      "cefr": "A1",
+      "note_th": "bedtime = เวลาเข้านอน (it's past your bedtime = เลยเวลานอนแล้ว) — อ่านนิทานให้ลูกฟังเป็นภาษาอังกฤษคือวิธีสร้างสองภาษาที่ง่ายที่สุด",
+      "distractors": [
+        "bedtime snack",
+        "ghost story",
+        "bedroom"
+      ]
+    },
+    {
+      "id": "page_turner",
+      "word": "page-turner",
+      "pos": "noun",
+      "ipa": "/ˈpeɪdʒ ˌtɜːrnər/",
+      "reading_th": "เพจ-เทิร์น-เนอร์",
+      "meaning_th": "หนังสือที่วางไม่ลง",
+      "emoji": "🔥",
+      "example_en": "This thriller is a real page-turner, I finished it in a day.",
+      "example_th": "นิยายระทึกขวัญเล่มนี้วางไม่ลงเลย ฉันอ่านจบในวันเดียว",
+      "cefr": "B2",
+      "note_th": "หนังสือที่ทำให้พลิกหน้าต่อไปเรื่อยๆ — เขียนในรีวิวว่า a real page-turner หรือพูดว่า I couldn't put it down ก็ความหมายเดียวกัน",
+      "distractors": [
+        "page number",
+        "turning point",
+        "bookmark"
+      ]
+    },
+    {
+      "id": "pre_order",
+      "word": "pre-order",
+      "pos": "verb",
+      "ipa": "/ˌpriː ˈɔːrdər/",
+      "reading_th": "พรี-ออร์-เดอร์",
+      "meaning_th": "สั่งจองล่วงหน้า",
+      "emoji": "🛒",
+      "example_en": "Pre-order the new book and get a signed bookmark.",
+      "example_th": "สั่งจองหนังสือเล่มใหม่ล่วงหน้าแล้วรับที่คั่นหนังสือพร้อมลายเซ็น",
+      "cefr": "B1",
+      "note_th": "คนไทยพูดว่า พรี ย่อๆ แต่ฝรั่งต้องพูดเต็ม pre-order — ใช้ได้ทั้งหนังสือ เกม มือถือ และวันวางขายคือ release date",
+      "distractors": [
+        "reorder",
+        "preview",
+        "pre-owned"
+      ]
+    },
+    {
+      "id": "reread",
+      "word": "reread",
+      "pos": "verb",
+      "ipa": "/ˌriːˈriːd/",
+      "reading_th": "รี-รีด",
+      "meaning_th": "อ่านซ้ำ",
+      "emoji": "🔁",
+      "example_en": "I reread Harry Potter every December.",
+      "example_th": "ฉันอ่านแฮร์รี่ พอตเตอร์ซ้ำทุกเดือนธันวาคม",
+      "cefr": "A2",
+      "note_th": "re- = อีกครั้ง ใส่หน้ากริยาได้แทบทุกคำ rewatch, rewrite, redo — รูปอดีต reread สะกดเหมือนเดิมแต่ออกเสียง รี-เรด",
+      "distractors": [
+        "retread",
+        "redo",
+        "rewrite"
+      ]
+    },
+    {
+      "id": "e_reader",
+      "word": "e-reader",
+      "pos": "noun",
+      "ipa": "/ˈiː riːdər/",
+      "reading_th": "อี-รี-เดอร์",
+      "meaning_th": "เครื่องอ่านหนังสืออิเล็กทรอนิกส์",
+      "emoji": "📟",
+      "example_en": "An e-reader holds a thousand books and weighs nothing.",
+      "example_th": "เครื่องอ่านอีบุ๊กเก็บหนังสือได้พันเล่มและเบาหวิว",
+      "cefr": "B1",
+      "note_th": "อุปกรณ์อย่าง Kindle คือ e-reader ส่วนไฟล์หนังสือคือ e-book — จอเป็น e-ink ไม่แสบตา เพื่อนต่างชาติชอบถามว่า do you use an e-reader?",
+      "distractors": [
+        "e-book",
+        "tablet",
+        "card reader"
+      ]
+    },
+    {
+      "id": "gripping",
+      "word": "gripping",
+      "pos": "adjective",
+      "ipa": "/ˈɡrɪpɪŋ/",
+      "reading_th": "กริป-ปิ้ง",
+      "meaning_th": "ตรึงใจ / ชวนติดตามมาก",
+      "emoji": "😮",
+      "example_en": "The first chapter is so gripping that I missed my stop.",
+      "example_th": "บทแรกชวนติดตามมากจนฉันลืมลงรถ",
+      "cefr": "B2",
+      "note_th": "grip = จับแน่น หนังสือที่จับใจเราแน่น — คำโปรดของนักวิจารณ์ a gripping thriller ใช้กับหนังและซีรีส์ได้เหมือนกัน",
+      "distractors": [
+        "dripping",
+        "grabbing",
+        "tripping"
+      ]
+    },
+    {
+      "id": "predictable",
+      "word": "predictable",
+      "pos": "adjective",
+      "ipa": "/prɪˈdɪktəbl/",
+      "reading_th": "พริ-ดิค-ทะ-เบิล",
+      "meaning_th": "เดาได้ง่าย",
+      "emoji": "🥱",
+      "example_en": "The ending was predictable, I guessed it on page ten.",
+      "example_th": "ตอนจบเดาง่ายมาก ฉันทายถูกตั้งแต่หน้าสิบ",
+      "cefr": "B1",
+      "note_th": "predict = ทำนาย -able = ได้ — คำติที่สุภาพแต่เจ็บ a bit predictable ส่วนตรงข้ามคือ unpredictable (คาดเดาไม่ได้) ซึ่งเป็นคำชมสำหรับนิยาย",
+      "distractors": [
+        "preferable",
+        "profitable",
+        "predicted"
+      ]
+    },
+    {
+      "id": "fast_paced",
+      "word": "fast-paced",
+      "pos": "adjective",
+      "ipa": "/ˌfæst ˈpeɪst/",
+      "reading_th": "ฟาสท์-เพสท์",
+      "meaning_th": "ดำเนินเรื่องเร็ว",
+      "emoji": "⚡",
+      "example_en": "It is a fast-paced story with a chase in every chapter.",
+      "example_th": "เป็นเรื่องที่ดำเนินเร็ว มีฉากไล่ล่าทุกบท",
+      "cefr": "B1",
+      "note_th": "pace = จังหวะก้าว — ใช้กับหนังสือ หนัง และชีวิตได้ a fast-paced city = เมืองที่ทุกอย่างเร็ว เช่น กรุงเทพฯ",
+      "distractors": [
+        "fast food",
+        "fast-forward",
+        "fasten"
+      ]
+    },
+    {
+      "id": "slow_paced",
+      "word": "slow-paced",
+      "pos": "adjective",
+      "ipa": "/ˌsloʊ ˈpeɪst/",
+      "reading_th": "สโลว์-เพสท์",
+      "meaning_th": "ดำเนินเรื่องช้า",
+      "emoji": "🐢",
+      "example_en": "The novel is slow-paced but the writing is beautiful.",
+      "example_th": "นิยายดำเนินเรื่องช้าแต่สำนวนการเขียนสวยงาม",
+      "cefr": "B1",
+      "note_th": "ไม่ได้แปลว่าไม่ดีเสมอ บางคนชอบ slow-paced literary novels — ถ้าช้าจนน่าเบื่อจะพูดว่า it drags (ยืดยาด)",
+      "distractors": [
+        "slow motion",
+        "slow cooker",
+        "sloped"
+      ]
+    },
+    {
+      "id": "heartwarming",
+      "word": "heartwarming",
+      "pos": "adjective",
+      "ipa": "/ˈhɑːrtwɔːrmɪŋ/",
+      "reading_th": "ฮาร์ท-วอร์ม-มิ่ง",
+      "meaning_th": "อบอุ่นหัวใจ",
+      "emoji": "🥰",
+      "example_en": "It is a heartwarming story about a grandmother and her dog.",
+      "example_th": "เป็นเรื่องอบอุ่นหัวใจเกี่ยวกับคุณยายกับสุนัขของเธอ",
+      "cefr": "B1",
+      "note_th": "ตรงกับไทยคำต่อคำ อุ่น + หัวใจ — คู่กับ heartbreaking (ทำให้ใจสลาย) สองคำนี้เจอในรีวิวหนังสือและซีรีส์บ่อยที่สุด",
+      "distractors": [
+        "heartbreaking",
+        "heartburn",
+        "warm-hearted"
+      ]
+    },
+    {
+      "id": "laugh_out_loud",
+      "word": "laugh-out-loud",
+      "pos": "adjective",
+      "ipa": "/ˌlæf aʊt ˈlaʊd/",
+      "reading_th": "ลาฟ-เอาท์-ลาวด์",
+      "meaning_th": "ตลกจนหัวเราะออกมาดังๆ",
+      "emoji": "🤣",
+      "example_en": "It is a laugh-out-loud book, don't read it on the train.",
+      "example_th": "เป็นหนังสือที่ขำจนหัวเราะดังลั่น อย่าอ่านบนรถไฟ",
+      "cefr": "B2",
+      "note_th": "LOL ย่อจากวลีนี้ — ใช้เป็นคำคุณศัพท์หน้าคำนาม a laugh-out-loud comedy ใส่ขีดทั้งสามคำ ส่วนตลกทั่วไปคือ funny และฮามากคือ hilarious",
+      "distractors": [
+        "out loud",
+        "laughing stock",
+        "laugh at"
+      ]
+    },
+    {
+      "id": "moving",
+      "word": "moving",
+      "pos": "adjective",
+      "ipa": "/ˈmuːvɪŋ/",
+      "reading_th": "มูฟ-วิ่ง",
+      "meaning_th": "ซาบซึ้งจนน้ำตาซึม",
+      "emoji": "😢",
+      "example_en": "The last letter in the book is deeply moving.",
+      "example_th": "จดหมายฉบับสุดท้ายในเล่มซาบซึ้งมาก",
+      "cefr": "B2",
+      "note_th": "moving ในรีวิว = ขยับหัวใจ ไม่ใช่กำลังเคลื่อนที่ — deeply moving, a moving speech และ I was moved to tears = ซึ้งจนน้ำตาไหล",
+      "distractors": [
+        "movie",
+        "removing",
+        "mourning"
+      ]
+    },
+    {
+      "id": "suspense",
+      "word": "suspense",
+      "pos": "noun",
+      "ipa": "/səˈspens/",
+      "reading_th": "ซัส-เพนส์",
+      "meaning_th": "ความระทึก / ลุ้นว่าจะเกิดอะไร",
+      "emoji": "😰",
+      "example_en": "The author builds suspense slowly until the final page.",
+      "example_th": "ผู้เขียนค่อยๆ สร้างความระทึกไปจนถึงหน้าสุดท้าย",
+      "cefr": "B2",
+      "note_th": "keep someone in suspense = แกล้งไม่บอกให้ลุ้น don't keep me in suspense! — คำคุณศัพท์คือ suspenseful และแนวระทึกขวัญคือ thriller",
+      "distractors": [
+        "suspend",
+        "expense",
+        "suspicion"
+      ]
+    },
+    {
+      "id": "vivid",
+      "word": "vivid",
+      "pos": "adjective",
+      "ipa": "/ˈvɪvɪd/",
+      "reading_th": "วิ-วิด",
+      "meaning_th": "เห็นภาพชัดเจน / สดใส",
+      "emoji": "🌈",
+      "example_en": "Her vivid description made me smell the street food.",
+      "example_th": "คำบรรยายของเธอเห็นภาพชัดจนฉันได้กลิ่นอาหารริมทาง",
+      "cefr": "B2",
+      "note_th": "ใช้กับคำบรรยาย ความฝัน ความทรงจำ และสี — a vivid dream = ฝันเหมือนจริง vivid colors = สีสด เจอบ่อยใน IELTS writing",
+      "distractors": [
+        "visit",
+        "video",
+        "livid"
+      ]
+    },
+    {
+      "id": "relatable",
+      "word": "relatable",
+      "pos": "adjective",
+      "ipa": "/rɪˈleɪtəbl/",
+      "reading_th": "ริ-เลท-ทะ-เบิล",
+      "meaning_th": "เข้าถึงง่าย / เหมือนชีวิตเราเลย",
+      "emoji": "🙋",
+      "example_en": "The main character is so relatable, she hates Mondays too.",
+      "example_th": "ตัวเอกเข้าถึงง่ายมาก เธอเกลียดวันจันทร์เหมือนกันเลย",
+      "cefr": "B2",
+      "note_th": "relate to = รู้สึกเชื่อมโยง I can relate = ฉันเข้าใจเลย — relatable เป็นคำยอดนิยมของคนรุ่นใหม่ ใช้กับมีมและตัวละครที่เหมือนเรา",
+      "distractors": [
+        "reliable",
+        "readable",
+        "relative"
+      ]
+    },
+    {
+      "id": "overrated",
+      "word": "overrated",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈreɪtɪd/",
+      "reading_th": "โอ-เวอร์-เร-เท็ด",
+      "meaning_th": "ถูกชมเกินจริง",
+      "emoji": "🤷",
+      "example_en": "Honestly, I think that famous novel is overrated.",
+      "example_th": "พูดตรงๆ ฉันว่านิยายดังเล่มนั้นถูกชมเกินจริง",
+      "cefr": "B2",
+      "note_th": "rate = ให้คะแนน over = เกิน — ตรงข้ามคือ underrated (ดีกว่าที่คนคิด เป็นคำชม) ใช้กับร้านอาหาร นักฟุตบอล และหนังได้หมด",
+      "distractors": [
+        "underrated",
+        "overreact",
+        "operated"
+      ]
+    },
+    {
+      "id": "thought_provoking",
+      "word": "thought-provoking",
+      "pos": "adjective",
+      "ipa": "/ˈθɔːt prəˌvoʊkɪŋ/",
+      "reading_th": "ธอท-โพร-โวค-คิ่ง",
+      "meaning_th": "ชวนให้คิด",
+      "emoji": "🤔",
+      "example_en": "It is a thought-provoking book about what makes us happy.",
+      "example_th": "เป็นหนังสือชวนคิดเกี่ยวกับสิ่งที่ทำให้เรามีความสุข",
+      "cefr": "B2",
+      "note_th": "provoke = กระตุ้น thought = ความคิด — คำชมระดับสูงสำหรับหนังสือ หนัง และคำถาม เขียนใน IELTS ได้คะแนนดีกว่า interesting",
+      "distractors": [
+        "thoughtful",
+        "thoughtless",
+        "provoking"
+      ]
+    },
+    {
+      "id": "cliche",
+      "word": "cliché",
+      "pos": "noun",
+      "ipa": "/kliːˈʃeɪ/",
+      "reading_th": "คลี-เช่",
+      "meaning_th": "พล็อตหรือสำนวนซ้ำซาก",
+      "emoji": "🔁",
+      "example_en": "The rich boy meets poor girl plot is a cliché, but it works.",
+      "example_th": "พล็อตคุณชายรวยพบสาวจนเป็นเรื่องซ้ำซาก แต่ก็ยังได้ผล",
+      "cefr": "B2",
+      "note_th": "มาจากฝรั่งเศส ออกเสียง คลี-เช่ สะกดมี é ก็ได้ ไม่มีก็ได้ — ใช้เป็นคำคุณศัพท์ด้วย so cliché และคำบ่นยอดฮิตคือ full of clichés",
+      "distractors": [
+        "click",
+        "clique",
+        "crochet"
+      ]
+    },
+    {
+      "id": "satisfying",
+      "word": "satisfying",
+      "pos": "adjective",
+      "ipa": "/ˈsætɪsfaɪɪŋ/",
+      "reading_th": "แซ-ทิส-ฟาย-อิ้ง",
+      "meaning_th": "จบได้สมใจ / ครบรส",
+      "emoji": "😌",
+      "example_en": "The ending is satisfying because every question gets answered.",
+      "example_th": "ตอนจบสมใจมากเพราะทุกคำถามได้รับคำตอบ",
+      "cefr": "B1",
+      "note_th": "a satisfying ending = จบแบบที่คนอ่านพอใจ ไม่ค้างคา — ระวัง satisfied ใช้กับคน (I'm satisfied) satisfying ใช้กับสิ่งของและเรื่องราว",
+      "distractors": [
+        "satisfied",
+        "sacrificing",
+        "specifying"
+      ]
+    },
+    {
+      "id": "writer",
+      "word": "writer",
+      "pos": "noun",
+      "ipa": "/ˈraɪtər/",
+      "reading_th": "ไร-เทอร์",
+      "meaning_th": "นักเขียน",
+      "emoji": "✍️",
+      "example_en": "The writer spent five years on this one novel.",
+      "example_th": "นักเขียนใช้เวลาห้าปีกับนิยายเล่มนี้เล่มเดียว",
+      "cefr": "A2",
+      "note_th": "writer = นักเขียนทุกแบบ (นิยาย บทความ บทหนัง) ส่วน author = ผู้แต่งของเล่มนั้นๆ — w ไม่ออกเสียง ไร-เทอร์ เหมือน rider เกือบเป๊ะ",
+      "distractors": [
+        "waiter",
+        "rider",
+        "winter"
+      ]
+    },
+    {
+      "id": "publish",
+      "word": "publish",
+      "pos": "verb",
+      "ipa": "/ˈpʌblɪʃ/",
+      "reading_th": "พับ-ลิช",
+      "meaning_th": "ตีพิมพ์ / เผยแพร่",
+      "emoji": "🖨️",
+      "example_en": "They will publish her first book in October.",
+      "example_th": "พวกเขาจะตีพิมพ์หนังสือเล่มแรกของเธอในเดือนตุลาคม",
+      "cefr": "B1",
+      "note_th": "ใช้กับหนังสือ บทความ และโพสต์ออนไลน์ (ปุ่ม Publish ในเว็บ) — พิมพ์เอง = self-publish ซึ่งนักเขียนไทยรุ่นใหม่ทำผ่านอีบุ๊กกันเยอะ",
+      "distractors": [
+        "polish",
+        "public",
+        "punish"
+      ]
+    },
+    {
+      "id": "publisher",
+      "word": "publisher",
+      "pos": "noun",
+      "ipa": "/ˈpʌblɪʃər/",
+      "reading_th": "พับ-ลิช-เชอร์",
+      "meaning_th": "สำนักพิมพ์",
+      "emoji": "🏢",
+      "example_en": "A big publisher offered her a contract for three books.",
+      "example_th": "สำนักพิมพ์ใหญ่เสนอสัญญาสามเล่มให้เธอ",
+      "cefr": "B1",
+      "note_th": "สำนักพิมพ์ = publisher หรือ publishing house — ชื่อสำนักพิมพ์อยู่ที่สันหนังสือและหน้าแรก ส่วนโรงพิมพ์ที่พิมพ์จริงคือ printer",
+      "distractors": [
+        "printer",
+        "publicity",
+        "polisher"
+      ]
+    },
+    {
+      "id": "manuscript",
+      "word": "manuscript",
+      "pos": "noun",
+      "ipa": "/ˈmænjəskrɪpt/",
+      "reading_th": "แมน-นิว-สคริปท์",
+      "meaning_th": "ต้นฉบับหนังสือ",
+      "emoji": "📜",
+      "example_en": "She sent the manuscript to ten publishers before one said yes.",
+      "example_th": "เธอส่งต้นฉบับให้สำนักพิมพ์สิบแห่งก่อนจะมีที่ตอบรับ",
+      "cefr": "B2",
+      "note_th": "manu = มือ script = เขียน แต่ปัจจุบันหมายถึงไฟล์ต้นฉบับที่ยังไม่ตีพิมพ์ — ส่งต้นฉบับคือ submit a manuscript และต้นฉบับโบราณบนใบลานก็ใช้คำนี้",
+      "distractors": [
+        "transcript",
+        "manual",
+        "subscription"
+      ]
+    },
+    {
+      "id": "editor",
+      "word": "editor",
+      "pos": "noun",
+      "ipa": "/ˈedɪtər/",
+      "reading_th": "เอ-ดิ-เทอร์",
+      "meaning_th": "บรรณาธิการ",
+      "emoji": "🧑‍💼",
+      "example_en": "My editor cut thirty pages from the first draft.",
+      "example_th": "บรรณาธิการของฉันตัดต้นฉบับแรกออกไปสามสิบหน้า",
+      "cefr": "B1",
+      "note_th": "บ.ก. ของสำนักพิมพ์และหนังสือพิมพ์ใช้คำเดียวกัน — บ.ก. ใหญ่คือ editor-in-chief ส่วนโปรแกรมแก้ข้อความก็เรียก editor เช่นกัน",
+      "distractors": [
+        "auditor",
+        "edition",
+        "creditor"
+      ]
+    },
+    {
+      "id": "pen_name",
+      "word": "pen name",
+      "pos": "noun",
+      "ipa": "/ˈpen ˌneɪm/",
+      "reading_th": "เพน เนม",
+      "meaning_th": "นามปากกา",
+      "emoji": "🖋️",
+      "example_en": "She writes romance under a pen name to keep her privacy.",
+      "example_th": "เธอเขียนนิยายรักภายใต้นามปากกาเพื่อรักษาความเป็นส่วนตัว",
+      "cefr": "B1",
+      "note_th": "ตรงกับไทยคำต่อคำ ปากกา + ชื่อ — คำทางการคือ pseudonym และ J.K. Rowling ใช้ pen name Robert Galbraith เขียนนิยายสืบสวน",
+      "distractors": [
+        "pet name",
+        "nickname",
+        "pen pal"
+      ]
+    },
+    {
+      "id": "trilogy",
+      "word": "trilogy",
+      "pos": "noun",
+      "ipa": "/ˈtrɪlədʒi/",
+      "reading_th": "ทริ-ละ-จี้",
+      "meaning_th": "นิยายไตรภาค",
+      "emoji": "3️⃣",
+      "example_en": "The trilogy ends with the biggest battle of the series.",
+      "example_th": "ไตรภาคจบลงด้วยศึกใหญ่ที่สุดของซีรีส์",
+      "cefr": "B1",
+      "note_th": "tri- = สาม เช่น triangle, tripod — ชุดสี่เล่มคือ quartet ชุดยาวหลายเล่มเรียก series และนักอ่านชอบถาม is it a standalone or a trilogy?",
+      "distractors": [
+        "trio",
+        "trophy",
+        "biology"
+      ]
+    },
+    {
+      "id": "prequel",
+      "word": "prequel",
+      "pos": "noun",
+      "ipa": "/ˈpriːkwəl/",
+      "reading_th": "พรี-เควิล",
+      "meaning_th": "ภาคก่อนหน้า (ออกทีหลัง)",
+      "emoji": "⏮️",
+      "example_en": "The prequel tells how the wizard became evil.",
+      "example_th": "ภาคก่อนหน้าเล่าว่าพ่อมดกลายเป็นคนชั่วได้อย่างไร",
+      "cefr": "B1",
+      "note_th": "pre- = ก่อน ล้อกับ sequel (ภาคต่อ) — prequel คือเล่มที่ออกทีหลังแต่เล่าเหตุการณ์ก่อนหน้า เช่น The Hunger Games เล่มเกี่ยวกับสโนว์",
+      "distractors": [
+        "sequel",
+        "preview",
+        "pretzel"
+      ]
+    },
+    {
+      "id": "translate",
+      "word": "translate",
+      "pos": "verb",
+      "ipa": "/ˈtrænzleɪt/",
+      "reading_th": "แทรนซ์-เลท",
+      "meaning_th": "แปล (ภาษา)",
+      "emoji": "🔄",
+      "example_en": "Can you translate this page into Thai for me?",
+      "example_th": "ช่วยแปลหน้านี้เป็นภาษาไทยให้หน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "translate from English into Thai ใช้ from…into — คนไทยมักพูดว่า translate to ก็เข้าใจได้ และแปลพูดสดคือ interpret ไม่ใช่ translate",
+      "distractors": [
+        "transfer",
+        "transport",
+        "transplant"
+      ]
+    },
+    {
+      "id": "translator",
+      "word": "translator",
+      "pos": "noun",
+      "ipa": "/ˈtrænzleɪtər/",
+      "reading_th": "แทรนซ์-เล-เทอร์",
+      "meaning_th": "นักแปล",
+      "emoji": "🧑‍💻",
+      "example_en": "The translator kept all the jokes funny in Thai.",
+      "example_th": "นักแปลเก็บมุกตลกทั้งหมดให้ยังขำได้ในภาษาไทย",
+      "cefr": "B1",
+      "note_th": "translator = แปลเอกสารและหนังสือ interpreter = ล่ามแปลพูด — ชื่อนักแปลอยู่บนปกหนังสือแปล translated by… และ Google Translate ก็คือนักแปลเครื่อง",
+      "distractors": [
+        "interpreter",
+        "transistor",
+        "narrator"
+      ]
+    },
+    {
+      "id": "book_signing",
+      "word": "book signing",
+      "pos": "noun",
+      "ipa": "/ˈbʊk ˌsaɪnɪŋ/",
+      "reading_th": "บุ๊ค ไซน์-นิ่ง",
+      "meaning_th": "งานแจกลายเซ็นนักเขียน",
+      "emoji": "🖊️",
+      "example_en": "I waited two hours at the book signing to meet her.",
+      "example_th": "ฉันรอสองชั่วโมงที่งานแจกลายเซ็นเพื่อเจอเธอ",
+      "cefr": "B1",
+      "note_th": "sign = เซ็นชื่อ (g ไม่ออกเสียง) — หนังสือมีลายเซ็นคือ a signed copy และนักเขียนมักมางาน book signing พร้อมพูดคุย (author talk)",
+      "distractors": [
+        "book fair",
+        "sign language",
+        "book launch"
+      ]
+    },
+    {
+      "id": "writers_block",
+      "word": "writer's block",
+      "pos": "noun",
+      "ipa": "/ˈraɪtərz ˌblɑːk/",
+      "reading_th": "ไร-เทอร์ส บล็อก",
+      "meaning_th": "อาการเขียนไม่ออก",
+      "emoji": "🧱",
+      "example_en": "She had writer's block for a year after her first hit.",
+      "example_th": "เธอเขียนไม่ออกอยู่หนึ่งปีหลังจากเล่มแรกดัง",
+      "cefr": "B2",
+      "note_th": "block = สิ่งกีดขวาง สมองตัน — ใช้กับการทำงานทุกแบบได้ I have writer's block แม้แค่เขียนอีเมล และวิธีแก้ที่นักเขียนแนะนำคือ just write badly",
+      "distractors": [
+        "writing desk",
+        "road block",
+        "mental block"
+      ]
+    },
+    {
+      "id": "royalties",
+      "word": "royalties",
+      "pos": "noun",
+      "ipa": "/ˈrɔɪəltiz/",
+      "reading_th": "รอย-เอิล-ทีส์",
+      "meaning_th": "ค่าลิขสิทธิ์ที่นักเขียนได้ต่อเล่ม",
+      "emoji": "💰",
+      "example_en": "Authors usually get royalties of about ten percent per book.",
+      "example_th": "นักเขียนมักได้ค่าลิขสิทธิ์ราวสิบเปอร์เซ็นต์ต่อเล่ม",
+      "cefr": "B2",
+      "note_th": "มักใช้พหูพจน์ royalties — ไม่เกี่ยวกับราชวงศ์ (royalty) ในบริบทหนังสือ เพลงและแอปก็ได้ค่า royalties และคำพูดเจ็บๆ คือ royalties don't pay the rent",
+      "distractors": [
+        "loyalty",
+        "royal family",
+        "salaries"
+      ]
+    },
+    {
+      "id": "ghostwriter",
+      "word": "ghostwriter",
+      "pos": "noun",
+      "ipa": "/ˈɡoʊstraɪtər/",
+      "reading_th": "โกสท์-ไร-เทอร์",
+      "meaning_th": "นักเขียนเงา (เขียนให้คนอื่นใส่ชื่อ)",
+      "emoji": "👻",
+      "example_en": "Many celebrity memoirs are written by a ghostwriter.",
+      "example_th": "บันทึกความทรงจำของคนดังหลายเล่มเขียนโดยนักเขียนเงา",
+      "cefr": "B2",
+      "note_th": "ghost = ผี คนเขียนที่มองไม่เห็นชื่อ — กริยาคือ ghostwrite และปัจจุบันยังหมายถึงคนเขียนโพสต์ LinkedIn ให้ผู้บริหารด้วย",
+      "distractors": [
+        "ghost story",
+        "typewriter",
+        "screenwriter"
+      ]
+    },
+    {
+      "id": "newspaper",
+      "word": "newspaper",
+      "pos": "noun",
+      "ipa": "/ˈnuːzpeɪpər/",
+      "reading_th": "นิวส์-เพ-เพอร์",
+      "meaning_th": "หนังสือพิมพ์",
+      "emoji": "📰",
+      "example_en": "My father still reads the newspaper with his coffee.",
+      "example_th": "พ่อฉันยังอ่านหนังสือพิมพ์พร้อมกาแฟอยู่",
+      "cefr": "A1",
+      "note_th": "เขียนติดกันคำเดียว — อ่านข่าวออนไลน์ใช้ read the news ไม่ต้องมี paper และหนังสือพิมพ์ภาษาอังกฤษในไทยคือ Bangkok Post ฝึกอ่านได้ทุกวัน",
+      "distractors": [
+        "newsletter",
+        "wallpaper",
+        "paperwork"
+      ]
+    },
+    {
+      "id": "magazine",
+      "word": "magazine",
+      "pos": "noun",
+      "ipa": "/ˌmæɡəˈziːn/",
+      "reading_th": "แม็ก-กะ-ซีน",
+      "meaning_th": "นิตยสาร",
+      "emoji": "📓",
+      "example_en": "I read a travel magazine at the dentist's office.",
+      "example_th": "ฉันอ่านนิตยสารท่องเที่ยวที่คลินิกหมอฟัน",
+      "cefr": "A1",
+      "note_th": "เน้นพยางค์สุดท้าย maga-ZINE ไม่ใช่ แม็ก-กา-ซีน แบบไทย — นิตยสารออนไลน์คือ online magazine และฉบับประจำเดือนคือ monthly issue",
+      "distractors": [
+        "medicine",
+        "magician",
+        "margarine"
+      ]
+    },
+    {
+      "id": "article",
+      "word": "article",
+      "pos": "noun",
+      "ipa": "/ˈɑːrtɪkl/",
+      "reading_th": "อาร์-ทิ-เคิล",
+      "meaning_th": "บทความ",
+      "emoji": "📝",
+      "example_en": "I read an article about sleep that changed my habits.",
+      "example_th": "ฉันอ่านบทความเรื่องการนอนที่เปลี่ยนนิสัยฉันไปเลย",
+      "cefr": "A2",
+      "note_th": "บทความในหนังสือพิมพ์ เว็บ นิตยสาร ใช้ article ทั้งหมด — ในไวยากรณ์ article ยังหมายถึง a/an/the และอ่านข่าวภาษาอังกฤษวันละหนึ่งบทความคือการบ้านที่ดีที่สุด",
+      "distractors": [
+        "particle",
+        "artist",
+        "arctic"
+      ]
+    },
+    {
+      "id": "reporter",
+      "word": "reporter",
+      "pos": "noun",
+      "ipa": "/rɪˈpɔːrtər/",
+      "reading_th": "ริ-พอร์-เทอร์",
+      "meaning_th": "ผู้สื่อข่าว",
+      "emoji": "🎤",
+      "example_en": "A reporter asked the minister about the flood plan.",
+      "example_th": "ผู้สื่อข่าวถามรัฐมนตรีเรื่องแผนรับมือน้ำท่วม",
+      "cefr": "A2",
+      "note_th": "reporter = คนออกไปทำข่าวภาคสนาม ส่วนคนอ่านข่าวในทีวีคือ news anchor — ถ้าทำข่าวเฉพาะด้านจะระบุ sports reporter, court reporter",
+      "distractors": [
+        "supporter",
+        "importer",
+        "report"
+      ]
+    },
+    {
+      "id": "feature_article",
+      "word": "feature article",
+      "pos": "noun",
+      "ipa": "/ˈfiːtʃər ˌɑːrtɪkl/",
+      "reading_th": "ฟี-เชอร์ อาร์-ทิ-เคิล",
+      "meaning_th": "บทความเจาะลึก / สารคดีข่าว",
+      "emoji": "📋",
+      "example_en": "She wrote a feature article about Bangkok street food vendors.",
+      "example_th": "เธอเขียนบทความเจาะลึกเรื่องพ่อค้าแม่ค้าอาหารริมทางกรุงเทพฯ",
+      "cefr": "B2",
+      "note_th": "feature = บทความยาวที่เล่าเรื่องเจาะลึก ต่างจาก news report ที่สั้นและรายงานเหตุการณ์ — นิตยสารเรียกสั้นๆ ว่า a feature และนักเขียนสายนี้คือ feature writer",
+      "distractors": [
+        "news report",
+        "future article",
+        "feature film"
+      ]
+    },
+    {
+      "id": "columnist",
+      "word": "columnist",
+      "pos": "noun",
+      "ipa": "/ˈkɑːləmnɪst/",
+      "reading_th": "คอ-ลัม-นิสท์",
+      "meaning_th": "คอลัมนิสต์ / นักเขียนคอลัมน์",
+      "emoji": "🧑‍💻",
+      "example_en": "The columnist is famous for her sharp jokes about politics.",
+      "example_th": "คอลัมนิสต์คนนี้ดังเรื่องมุกแสบๆ เกี่ยวกับการเมือง",
+      "cefr": "B2",
+      "note_th": "แปลกตรงที่ column ไม่ออกเสียง n แต่ columnist ออกเสียง คอ-ลัม-นิสท์ — คอลัมนิสต์เขียนความเห็น ส่วน reporter รายงานข้อเท็จจริง",
+      "distractors": [
+        "colonist",
+        "communist",
+        "calmness"
+      ]
+    },
+    {
+      "id": "breaking_news",
+      "word": "breaking news",
+      "pos": "noun",
+      "ipa": "/ˌbreɪkɪŋ ˈnuːz/",
+      "reading_th": "เบรค-คิ้ง นิวส์",
+      "meaning_th": "ข่าวด่วน",
+      "emoji": "🚨",
+      "example_en": "Breaking news: the airport is closed because of the storm.",
+      "example_th": "ข่าวด่วน: สนามบินปิดเพราะพายุ",
+      "cefr": "A2",
+      "note_th": "ไม่ได้แปลว่าข่าวพัง แต่คือข่าวที่กำลังเกิดขึ้นสดๆ — แถบแดงบนจอทีวีและแจ้งเตือนมือถือจะขึ้นคำนี้ news เป็นเอกพจน์เสมอ the news is",
+      "distractors": [
+        "fake news",
+        "good news",
+        "breaking point"
+      ]
+    },
+    {
+      "id": "front_page",
+      "word": "front page",
+      "pos": "noun",
+      "ipa": "/ˌfrʌnt ˈpeɪdʒ/",
+      "reading_th": "ฟรันท์ เพจ",
+      "meaning_th": "หน้าหนึ่งของหนังสือพิมพ์",
+      "emoji": "🗞️",
+      "example_en": "The election result was on the front page of every paper.",
+      "example_th": "ผลเลือกตั้งอยู่บนหน้าหนึ่งของหนังสือพิมพ์ทุกฉบับ",
+      "cefr": "A2",
+      "note_th": "ข่าวดังระดับหน้าหนึ่งคือ front-page news — ส่วนหน้าแรกของเว็บคือ homepage ไม่ใช่ front page",
+      "distractors": [
+        "front door",
+        "home page",
+        "front row"
+      ]
+    },
+    {
+      "id": "cover_story",
+      "word": "cover story",
+      "pos": "noun",
+      "ipa": "/ˈkʌvər ˌstɔːri/",
+      "reading_th": "คัฟ-เวอร์ สตอ-รี่",
+      "meaning_th": "เรื่องเด่นขึ้นปกนิตยสาร",
+      "emoji": "🌟",
+      "example_en": "This month's cover story is about young Thai chefs.",
+      "example_th": "เรื่องขึ้นปกเดือนนี้เกี่ยวกับเชฟไทยรุ่นใหม่",
+      "cefr": "B1",
+      "note_th": "บทความหลักที่รูปขึ้นปก — ระวังอีกความหมายในหนังสืบสวน cover story = เรื่องที่แต่งขึ้นเพื่อปิดบังความจริง",
+      "distractors": [
+        "cover letter",
+        "short story",
+        "cover song"
+      ]
+    },
+    {
+      "id": "tabloid",
+      "word": "tabloid",
+      "pos": "noun",
+      "ipa": "/ˈtæblɔɪd/",
+      "reading_th": "แท็บ-ลอยด์",
+      "meaning_th": "หนังสือพิมพ์ข่าวซุบซิบ",
+      "emoji": "👀",
+      "example_en": "The tabloid printed a photo of the actor's new girlfriend.",
+      "example_th": "หนังสือพิมพ์ซุบซิบลงรูปแฟนใหม่ของนักแสดงคนนั้น",
+      "cefr": "B2",
+      "note_th": "หนังสือพิมพ์หัวสีที่เน้นข่าวดารา อาชญากรรม — ตรงข้ามกับ broadsheet (หนังสือพิมพ์จริงจัง) และ tabloid journalism เป็นคำดูถูก",
+      "distractors": [
+        "tablet",
+        "tableau",
+        "typhoid"
+      ]
+    },
+    {
+      "id": "bias",
+      "word": "bias",
+      "pos": "noun",
+      "ipa": "/ˈbaɪəs/",
+      "reading_th": "ไบ-เอิส",
+      "meaning_th": "อคติ / ความเอนเอียง",
+      "emoji": "⚖️",
+      "example_en": "Read two newspapers to notice the bias in each one.",
+      "example_th": "อ่านหนังสือพิมพ์สองฉบับจะเห็นความเอนเอียงของแต่ละฉบับ",
+      "cefr": "B2",
+      "note_th": "ออกเสียง ไบ-เอิส ไม่ใช่ เบียส — คำคุณศัพท์คือ biased: the report is biased (ลำเอียง) และแฟนเคป็อปใช้ my bias = เมมเบอร์คนโปรด",
+      "distractors": [
+        "basis",
+        "bios",
+        "biased"
+      ]
+    },
+    {
+      "id": "fact_check",
+      "word": "fact-check",
+      "pos": "verb",
+      "ipa": "/ˈfækt tʃek/",
+      "reading_th": "แฟคท์-เช็ค",
+      "meaning_th": "ตรวจสอบข้อเท็จจริง",
+      "emoji": "✅",
+      "example_en": "Always fact-check a story before you share it.",
+      "example_th": "ตรวจสอบข้อเท็จจริงของข่าวก่อนแชร์เสมอ",
+      "cefr": "B1",
+      "note_th": "fact = ข้อเท็จจริง check = ตรวจ — คนทำอาชีพนี้คือ fact-checker และเว็บเช็กข่าวปลอมไทยอย่าง Cofact ก็มาจากคำนี้",
+      "distractors": [
+        "spell-check",
+        "double-check",
+        "fact sheet"
+      ]
+    },
+    {
+      "id": "op_ed",
+      "word": "op-ed",
+      "pos": "noun",
+      "ipa": "/ˌɑːp ˈed/",
+      "reading_th": "ออป-เอ็ด",
+      "meaning_th": "บทความแสดงความเห็น",
+      "emoji": "🗣️",
+      "example_en": "She wrote an op-ed arguing for free school lunches.",
+      "example_th": "เธอเขียนบทความแสดงความเห็นสนับสนุนอาหารกลางวันฟรีในโรงเรียน",
+      "cefr": "B2",
+      "note_th": "ย่อจาก opposite the editorial page = หน้าตรงข้ามบทบรรณาธิการ — เป็นความเห็นของคนนอก ไม่ใช่ของหนังสือพิมพ์ เขียนว่า opinion piece ก็ได้",
+      "distractors": [
+        "opera",
+        "open-ended",
+        "ad"
+      ]
+    },
+    {
+      "id": "paywall",
+      "word": "paywall",
+      "pos": "noun",
+      "ipa": "/ˈpeɪwɔːl/",
+      "reading_th": "เพย์-วอล",
+      "meaning_th": "ระบบจ่ายเงินก่อนอ่าน",
+      "emoji": "🔒",
+      "example_en": "I hit a paywall after reading three free articles.",
+      "example_th": "ฉันเจอหน้าให้จ่ายเงินหลังอ่านบทความฟรีไปสามชิ้น",
+      "cefr": "B2",
+      "note_th": "pay = จ่าย wall = กำแพง กำแพงที่ต้องจ่ายถึงผ่าน — behind a paywall = ต้องสมัครสมาชิกถึงอ่านได้ หนังสือพิมพ์ใหญ่ๆ ใช้กันหมด",
+      "distractors": [
+        "firewall",
+        "payroll",
+        "payday"
+      ]
+    }
+  ]
+}

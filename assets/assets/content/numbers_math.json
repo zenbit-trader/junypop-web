@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "numbers_math",
+    "name_en": "Numbers & Math",
+    "name_th": "ตัวเลขและคณิตศาสตร์",
+    "emoji": "🔢",
+    "color_start": "#A78BFA",
+    "color_end": "#6D28D9",
+    "description_th": "ตัวเลข เศษส่วน เปอร์เซ็นต์ รูปทรง การคำนวณ และการอ่านสถิติเป็นภาษาอังกฤษ",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "numbers_math_1",
+        "title_en": "Big Numbers",
+        "title_th": "ตัวเลขใหญ่และลำดับที่",
+        "emoji": "💯",
+        "word_ids": [
+          "zero",
+          "dozen",
+          "hundred",
+          "thousand",
+          "million",
+          "billion",
+          "number",
+          "digit",
+          "count",
+          "first",
+          "second",
+          "third",
+          "fifth",
+          "twentieth"
+        ]
+      },
+      {
+        "id": "numbers_math_2",
+        "title_en": "Fractions & Percent",
+        "title_th": "เศษส่วนและเปอร์เซ็นต์",
+        "emoji": "🍕",
+        "word_ids": [
+          "half",
+          "decimal_point",
+          "integer",
+          "fraction",
+          "numerator",
+          "denominator",
+          "decimal",
+          "percentage",
+          "out_of",
+          "equal",
+          "ratio",
+          "proportion",
+          "round_up",
+          "approximately"
+        ]
+      },
+      {
+        "id": "numbers_math_3",
+        "title_en": "Arithmetic",
+        "title_th": "บวกลบคูณหาร",
+        "emoji": "➗",
+        "word_ids": [
+          "add",
+          "plus",
+          "subtract",
+          "minus",
+          "multiply",
+          "times",
+          "divide",
+          "equals",
+          "sum",
+          "remainder",
+          "even",
+          "odd",
+          "equation",
+          "formula"
+        ]
+      },
+      {
+        "id": "numbers_math_4",
+        "title_en": "Shapes & Geometry",
+        "title_th": "รูปทรงและเรขาคณิต",
+        "emoji": "📐",
+        "word_ids": [
+          "shape",
+          "circle",
+          "square",
+          "triangle",
+          "rectangle",
+          "cube",
+          "sphere",
+          "line",
+          "curve",
+          "radius",
+          "parallel",
+          "area",
+          "perimeter",
+          "diameter"
+        ]
+      },
+      {
+        "id": "numbers_math_5",
+        "title_en": "Measurement",
+        "title_th": "การวัดและหน่วย",
+        "emoji": "📏",
+        "word_ids": [
+          "unit",
+          "length",
+          "width",
+          "height",
+          "depth",
+          "distance",
+          "volume",
+          "centimeter",
+          "kilometer",
+          "inch",
+          "ton",
+          "kilogram",
+          "liter",
+          "celsius"
+        ]
+      },
+      {
+        "id": "numbers_math_6",
+        "title_en": "Statistics & Data",
+        "title_th": "สถิติและข้อมูล",
+        "emoji": "📊",
+        "word_ids": [
+          "statistics",
+          "census",
+          "mean",
+          "median",
+          "mode",
+          "range",
+          "maximum",
+          "minimum",
+          "rate",
+          "frequency",
+          "random",
+          "probability",
+          "bar_chart",
+          "pie_chart"
+        ]
+      },
+      {
+        "id": "numbers_math_7",
+        "title_en": "Money Math",
+        "title_th": "คำนวณเงินในชีวิตจริง",
+        "emoji": "🧾",
+        "word_ids": [
+          "amount",
+          "quantity",
+          "each",
+          "per",
+          "unit_price",
+          "subtotal",
+          "vat",
+          "altogether",
+          "twice",
+          "triple",
+          "exact",
+          "roughly",
+          "figure",
+          "convert"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "zero",
+      "word": "zero",
+      "pos": "noun",
+      "ipa": "/ˈzɪroʊ/",
+      "reading_th": "ซี-โร",
+      "meaning_th": "ศูนย์",
+      "emoji": "0️⃣",
+      "example_en": "The temperature dropped below zero last night.",
+      "example_th": "เมื่อคืนอุณหภูมิลดลงต่ำกว่าศูนย์",
+      "cefr": "A1",
+      "note_th": "อ่านเบอร์โทรและเลขทศนิยม คนอังกฤษมักพูด oh (0 = โอ) ส่วนผลกีฬาพูด nil หรือ love (เทนนิส) — zero ใช้ได้ทุกกรณีถ้าไม่แน่ใจ",
+      "distractors": [
+        "hero",
+        "zebra",
+        "nil"
+      ]
+    },
+    {
+      "id": "dozen",
+      "word": "dozen",
+      "pos": "noun",
+      "ipa": "/ˈdʌzn/",
+      "reading_th": "ดัซ-เซิน",
+      "meaning_th": "โหล (สิบสอง)",
+      "emoji": "🥚",
+      "example_en": "I bought a dozen eggs at the market.",
+      "example_th": "ฉันซื้อไข่หนึ่งโหลที่ตลาด",
+      "cefr": "A2",
+      "note_th": "a dozen eggs ไม่ต้องมี of แต่ dozens of people = หลายสิบคน (ไม่ใช่สิบสองคนพอดี) — half a dozen = ครึ่งโหล = 6",
+      "distractors": [
+        "dose",
+        "doze",
+        "dozens"
+      ]
+    },
+    {
+      "id": "hundred",
+      "word": "hundred",
+      "pos": "noun",
+      "ipa": "/ˈhʌndrəd/",
+      "reading_th": "ฮัน-เดริด",
+      "meaning_th": "ร้อย",
+      "emoji": "💯",
+      "example_en": "There are a hundred students in the hall.",
+      "example_th": "มีนักเรียนหนึ่งร้อยคนในหอประชุม",
+      "cefr": "A1",
+      "note_th": "two hundred ไม่เติม s (ห้ามพูด two hundreds) แต่ hundreds of = หลายร้อย เติม s ได้ — 150 อ่านว่า one hundred and fifty (อังกฤษ) หรือ one hundred fifty (อเมริกัน)",
+      "distractors": [
+        "hundreds",
+        "thousand",
+        "handed"
+      ]
+    },
+    {
+      "id": "thousand",
+      "word": "thousand",
+      "pos": "noun",
+      "ipa": "/ˈθaʊznd/",
+      "reading_th": "เธา-เซินด์",
+      "meaning_th": "พัน",
+      "emoji": "🔟",
+      "example_en": "The phone costs about twenty thousand baht.",
+      "example_th": "โทรศัพท์ราคาประมาณสองหมื่นบาท",
+      "cefr": "A1",
+      "note_th": "ภาษาอังกฤษไม่มีคำว่า \"หมื่น\" และ \"แสน\": 10,000 = ten thousand, 100,000 = one hundred thousand — จุดที่คนไทยพลาดตอนบอกราคาและเงินเดือน",
+      "distractors": [
+        "thousands",
+        "though",
+        "million"
+      ]
+    },
+    {
+      "id": "million",
+      "word": "million",
+      "pos": "noun",
+      "ipa": "/ˈmɪljən/",
+      "reading_th": "มิล-เลียน",
+      "meaning_th": "ล้าน",
+      "emoji": "💰",
+      "example_en": "More than seventy million people live in Thailand.",
+      "example_th": "มีคนมากกว่าเจ็ดสิบล้านคนอาศัยอยู่ในประเทศไทย",
+      "cefr": "A2",
+      "note_th": "1,000,000 = one million (6 ศูนย์) — millionaire = เศรษฐีเงินล้าน, สำนวน one in a million = หายากมาก, thanks a million = ขอบคุณมากๆ",
+      "distractors": [
+        "billion",
+        "millionaire",
+        "mission"
+      ]
+    },
+    {
+      "id": "billion",
+      "word": "billion",
+      "pos": "noun",
+      "ipa": "/ˈbɪljən/",
+      "reading_th": "บิล-เลียน",
+      "meaning_th": "พันล้าน",
+      "emoji": "🌍",
+      "example_en": "The world has over eight billion people.",
+      "example_th": "โลกมีประชากรมากกว่าแปดพันล้านคน",
+      "cefr": "A2",
+      "note_th": "billion = 1,000 ล้าน (9 ศูนย์) ไม่ใช่ \"ล้านล้าน\" — ล้านล้าน (12 ศูนย์) คือ trillion ข่าวเศรษฐกิจไทยใช้ทั้งสองคำ",
+      "distractors": [
+        "million",
+        "trillion",
+        "billionaire"
+      ]
+    },
+    {
+      "id": "number",
+      "word": "number",
+      "pos": "noun",
+      "ipa": "/ˈnʌmbər/",
+      "reading_th": "นัม-เบอร์",
+      "meaning_th": "ตัวเลข / จำนวน",
+      "emoji": "🔢",
+      "example_en": "Pick a number between one and ten.",
+      "example_th": "เลือกตัวเลขระหว่างหนึ่งถึงสิบ",
+      "cefr": "A1",
+      "note_th": "a number of + พหูพจน์ = หลาย (ใช้กริยาพหูพจน์) แต่ the number of = จำนวนของ (ใช้กริยาเอกพจน์) — ข้อสอบ subject-verb agreement ชอบออก",
+      "distractors": [
+        "numb",
+        "member",
+        "amount"
+      ]
+    },
+    {
+      "id": "digit",
+      "word": "digit",
+      "pos": "noun",
+      "ipa": "/ˈdɪdʒɪt/",
+      "reading_th": "ดิ-จิท",
+      "meaning_th": "หลัก / ตัวเลขหลักเดียว (0–9)",
+      "emoji": "🔡",
+      "example_en": "A Thai phone number has ten digits.",
+      "example_th": "เบอร์โทรศัพท์ไทยมีสิบหลัก",
+      "cefr": "B1",
+      "note_th": "digit = ตัวเลขหนึ่งตัว 0–9 (a 6-digit code = รหัส 6 หลัก) — digital ก็มาจากคำนี้ เพราะคอมพิวเตอร์ทำงานด้วยเลข 0 และ 1",
+      "distractors": [
+        "digital",
+        "dig",
+        "decimal"
+      ]
+    },
+    {
+      "id": "count",
+      "word": "count",
+      "pos": "verb",
+      "ipa": "/kaʊnt/",
+      "reading_th": "เคานท์",
+      "meaning_th": "นับ",
+      "emoji": "🧮",
+      "example_en": "Count the chairs and tell me how many we need.",
+      "example_th": "นับเก้าอี้แล้วบอกฉันว่าเราต้องการอีกกี่ตัว",
+      "cefr": "A1",
+      "note_th": "count to ten = นับถึงสิบ, count on someone = พึ่งพาได้ — countable/uncountable nouns ในไวยากรณ์ก็มาจาก count (นับได้/นับไม่ได้)",
+      "distractors": [
+        "country",
+        "account",
+        "county"
+      ]
+    },
+    {
+      "id": "first",
+      "word": "first",
+      "pos": "adjective",
+      "ipa": "/fɜːrst/",
+      "reading_th": "เฟิร์สท์",
+      "meaning_th": "ที่หนึ่ง / แรก",
+      "emoji": "🥇",
+      "example_en": "She won first place in the math contest.",
+      "example_th": "เธอได้ที่หนึ่งในการแข่งขันคณิตศาสตร์",
+      "cefr": "A1",
+      "note_th": "ลำดับที่ (ordinal) ใช้ the นำหน้า: the first, the second — ย่อเป็น 1st, 2nd, 3rd, 4th และวันที่ก็ใช้ลำดับที่: May 1st = the first of May",
+      "distractors": [
+        "fast",
+        "fist",
+        "last"
+      ]
+    },
+    {
+      "id": "second",
+      "word": "second",
+      "pos": "adjective",
+      "ipa": "/ˈsekənd/",
+      "reading_th": "เซ-เคินด์",
+      "meaning_th": "ที่สอง",
+      "emoji": "🥈",
+      "example_en": "Our office is on the second floor.",
+      "example_th": "ออฟฟิศของเราอยู่ชั้นสอง",
+      "cefr": "A1",
+      "note_th": "second = ที่สอง (2nd) และ = วินาที ด้วย (sixty seconds) — ระวัง: ในอังกฤษ the first floor คือชั้น 2 ของไทย เพราะชั้นล่างเรียก ground floor",
+      "distractors": [
+        "secret",
+        "section",
+        "minute"
+      ]
+    },
+    {
+      "id": "third",
+      "word": "third",
+      "pos": "adjective",
+      "ipa": "/θɜːrd/",
+      "reading_th": "เธิร์ด",
+      "meaning_th": "ที่สาม",
+      "emoji": "🥉",
+      "example_en": "Turn left at the third traffic light.",
+      "example_th": "เลี้ยวซ้ายที่ไฟแดงที่สาม",
+      "cefr": "A1",
+      "note_th": "three → third (ไม่ใช่ threeth) ย่อ 3rd — one third (1/3) = หนึ่งในสาม ใช้คำเดียวกันกับลำดับที่ ออกเสียงแลบลิ้น th",
+      "distractors": [
+        "three",
+        "thirty",
+        "thirsty"
+      ]
+    },
+    {
+      "id": "fifth",
+      "word": "fifth",
+      "pos": "adjective",
+      "ipa": "/fɪfθ/",
+      "reading_th": "ฟิฟธ์",
+      "meaning_th": "ที่ห้า",
+      "emoji": "5️⃣",
+      "example_en": "Today is the fifth of October.",
+      "example_th": "วันนี้คือวันที่ห้าของเดือนตุลาคม",
+      "cefr": "A1",
+      "note_th": "five → fifth (v เปลี่ยนเป็น f) เหมือน twelve → twelfth — ลำดับที่ส่วนใหญ่แค่เติม -th: fourth, sixth, tenth แต่ five, nine (ninth), twelve สะกดเปลี่ยน",
+      "distractors": [
+        "five",
+        "fifty",
+        "fifteen"
+      ]
+    },
+    {
+      "id": "twentieth",
+      "word": "twentieth",
+      "pos": "adjective",
+      "ipa": "/ˈtwentiəθ/",
+      "reading_th": "ทเวน-ที-เอิธ",
+      "meaning_th": "ที่ยี่สิบ",
+      "emoji": "🎂",
+      "example_en": "They celebrated their twentieth wedding anniversary.",
+      "example_th": "พวกเขาฉลองครบรอบแต่งงานปีที่ยี่สิบ",
+      "cefr": "A2",
+      "note_th": "ลงท้าย -ty เปลี่ยน y เป็น ie แล้วเติม th: twenty → twentieth, thirty → thirtieth — the twentieth century = ศตวรรษที่ 20 (ค.ศ. 1901–2000)",
+      "distractors": [
+        "twenty",
+        "twelfth",
+        "twentieth century"
+      ]
+    },
+    {
+      "id": "half",
+      "word": "half",
+      "pos": "noun",
+      "ipa": "/hæf/",
+      "reading_th": "ฮาฟ",
+      "meaning_th": "ครึ่ง",
+      "emoji": "🌗",
+      "example_en": "Cut the cake in half and share it.",
+      "example_th": "ตัดเค้กครึ่งหนึ่งแล้วแบ่งกัน",
+      "cefr": "A1",
+      "note_th": "l ไม่ออกเสียง อ่านว่า ฮาฟ พหูพจน์ halves — half an hour = ครึ่งชั่วโมง, half past two = สองโมงครึ่ง (ห้ามพูด half hour เฉยๆ)",
+      "distractors": [
+        "hall",
+        "halve",
+        "quarter"
+      ]
+    },
+    {
+      "id": "decimal_point",
+      "word": "decimal point",
+      "pos": "noun",
+      "ipa": "/ˈdesɪml pɔɪnt/",
+      "reading_th": "เด-ซิ-เมิล พอยนท์",
+      "meaning_th": "จุดทศนิยม",
+      "emoji": "🔸",
+      "example_en": "Move the decimal point two places to the right.",
+      "example_th": "เลื่อนจุดทศนิยมไปทางขวาสองตำแหน่ง",
+      "cefr": "B1",
+      "note_th": "ภาษาอังกฤษใช้จุด (2.5) เป็นทศนิยมและจุลภาคคั่นหลักพัน (2,500) — ยุโรปสลับกัน (2,5 และ 2.500) ระวังตอนอ่านราคาสินค้าจากเว็บต่างประเทศ",
+      "distractors": [
+        "decimal",
+        "point",
+        "period"
+      ]
+    },
+    {
+      "id": "integer",
+      "word": "integer",
+      "pos": "noun",
+      "ipa": "/ˈɪntɪdʒər/",
+      "reading_th": "อิน-ทิ-เจอร์",
+      "meaning_th": "จำนวนเต็ม",
+      "emoji": "🔢",
+      "example_en": "An integer is a number without a fraction, like 3 or -7.",
+      "example_th": "จำนวนเต็มคือตัวเลขที่ไม่มีเศษส่วน เช่น 3 หรือ -7",
+      "cefr": "B2",
+      "note_th": "integer = จำนวนเต็ม รวมเลขลบและศูนย์ (…-2, -1, 0, 1, 2…) ออกเสียง อิน-ทิ-เจอร์ — โปรแกรมเมอร์เจอคำนี้เป็นชนิดข้อมูล int ในทุกภาษา",
+      "distractors": [
+        "interior",
+        "decimal",
+        "integrity"
+      ]
+    },
+    {
+      "id": "fraction",
+      "word": "fraction",
+      "pos": "noun",
+      "ipa": "/ˈfrækʃn/",
+      "reading_th": "แฟรค-ชั่น",
+      "meaning_th": "เศษส่วน",
+      "emoji": "🔢",
+      "example_en": "Write the fraction three over four as a decimal.",
+      "example_th": "เขียนเศษส่วนสามส่วนสี่เป็นทศนิยม",
+      "cefr": "B1",
+      "note_th": "อ่านเศษส่วน: 1/2 a half, 1/3 a third, 3/4 three quarters, 2/5 two fifths (ตัวส่วนใช้ลำดับที่และเติม s) — a fraction of the price = ราคาแค่เสี้ยวเดียว",
+      "distractors": [
+        "friction",
+        "fiction",
+        "faction"
+      ]
+    },
+    {
+      "id": "numerator",
+      "word": "numerator",
+      "pos": "noun",
+      "ipa": "/ˈnuːməreɪtər/",
+      "reading_th": "นู-เมอ-เร-เทอร์",
+      "meaning_th": "ตัวเศษ",
+      "emoji": "⬆️",
+      "example_en": "In three over eight, the numerator is three.",
+      "example_th": "ในเศษสามส่วนแปด ตัวเศษคือสาม",
+      "cefr": "B2",
+      "note_th": "numerator (ตัวเศษ) อยู่บน denominator (ตัวส่วน) อยู่ล่าง — จำว่า N อยู่เหนือ (North) D อยู่ล่าง (Down)",
+      "distractors": [
+        "denominator",
+        "generator",
+        "number"
+      ]
+    },
+    {
+      "id": "denominator",
+      "word": "denominator",
+      "pos": "noun",
+      "ipa": "/dɪˈnɑːmɪneɪtər/",
+      "reading_th": "ดิ-นอ-มิ-เน-เทอร์",
+      "meaning_th": "ตัวส่วน",
+      "emoji": "⬇️",
+      "example_en": "To add fractions, find a common denominator first.",
+      "example_th": "การบวกเศษส่วนต้องหาตัวส่วนร่วมก่อน",
+      "cefr": "B2",
+      "note_th": "common denominator = ตัวส่วนร่วม (ค.ร.น.) — ใช้เป็นสำนวนด้วย: the lowest common denominator = ระดับที่ต่ำสุดที่ทุกคนเข้าใจ",
+      "distractors": [
+        "numerator",
+        "dominator",
+        "nominator"
+      ]
+    },
+    {
+      "id": "decimal",
+      "word": "decimal",
+      "pos": "noun",
+      "ipa": "/ˈdesɪml/",
+      "reading_th": "เด-ซิ-เมิล",
+      "meaning_th": "ทศนิยม",
+      "emoji": "🔘",
+      "example_en": "Three quarters is 0.75 as a decimal.",
+      "example_th": "สามส่วนสี่เท่ากับ 0.75 ในรูปทศนิยม",
+      "cefr": "B1",
+      "note_th": "อ่านจุดว่า point และตัวเลขหลังจุดทีละตัว: 0.75 = zero point seven five (ไม่ใช่ seventy-five) — decimal point = จุดทศนิยม",
+      "distractors": [
+        "decade",
+        "digital",
+        "fraction"
+      ]
+    },
+    {
+      "id": "percentage",
+      "word": "percentage",
+      "pos": "noun",
+      "ipa": "/pərˈsentɪdʒ/",
+      "reading_th": "เพอร์-เซน-ทิจ",
+      "meaning_th": "อัตราร้อยละ",
+      "emoji": "📈",
+      "example_en": "What percentage of your salary do you save?",
+      "example_th": "คุณออมเงินกี่เปอร์เซ็นต์ของเงินเดือน",
+      "cefr": "B1",
+      "note_th": "percentage = สัดส่วนที่คิดเป็นร้อยละ (a high percentage of...) ส่วน percent ใช้ตามหลังตัวเลขเท่านั้น (20 percent) — ห้ามพูด 20 percentage",
+      "distractors": [
+        "percent",
+        "package",
+        "advantage"
+      ]
+    },
+    {
+      "id": "out_of",
+      "word": "out of",
+      "pos": "phrase",
+      "ipa": "/aʊt əv/",
+      "reading_th": "เอาท์ ออฟ",
+      "meaning_th": "จาก (ทั้งหมด) / ใน",
+      "emoji": "🎯",
+      "example_en": "I got eight out of ten on the quiz.",
+      "example_th": "ฉันได้แปดในสิบคะแนนในการสอบย่อย",
+      "cefr": "A2",
+      "note_th": "8 out of 10 = 8 ใน 10 (คะแนนหรือสัดส่วน) nine out of ten people = คนเก้าในสิบ — ไทยพูด \"ใน\" แต่อังกฤษใช้ out of ไม่ใช่ in",
+      "distractors": [
+        "out of stock",
+        "instead of",
+        "ahead of"
+      ]
+    },
+    {
+      "id": "equal",
+      "word": "equal",
+      "pos": "adjective",
+      "ipa": "/ˈiːkwəl/",
+      "reading_th": "อี-เควิล",
+      "meaning_th": "เท่ากัน",
+      "emoji": "⚖️",
+      "example_en": "Divide the cake into four equal pieces.",
+      "example_th": "แบ่งเค้กเป็นสี่ชิ้นเท่าๆ กัน",
+      "cefr": "A2",
+      "note_th": "equal (คำคุณศัพท์ = เท่ากัน) equally (เท่าๆ กัน) equality (ความเท่าเทียม) — equal to = เท่ากับ ส่วน equals เป็นกริยาตอนอ่านสมการ",
+      "distractors": [
+        "equally",
+        "eagle",
+        "quality"
+      ]
+    },
+    {
+      "id": "ratio",
+      "word": "ratio",
+      "pos": "noun",
+      "ipa": "/ˈreɪʃioʊ/",
+      "reading_th": "เร-ชิ-โอ",
+      "meaning_th": "อัตราส่วน",
+      "emoji": "⚗️",
+      "example_en": "Mix water and syrup in a ratio of three to one.",
+      "example_th": "ผสมน้ำกับน้ำเชื่อมในอัตราส่วนสามต่อหนึ่ง",
+      "cefr": "B1",
+      "note_th": "อ่าน 3:1 ว่า three to one — ratio of A to B = อัตราส่วน A ต่อ B ออกเสียง เร-ชิ-โอ ไม่ใช่ รา-ติ-โอ",
+      "distractors": [
+        "radio",
+        "ration",
+        "rate"
+      ]
+    },
+    {
+      "id": "proportion",
+      "word": "proportion",
+      "pos": "noun",
+      "ipa": "/prəˈpɔːrʃn/",
+      "reading_th": "โพร-พอร์-ชั่น",
+      "meaning_th": "สัดส่วน",
+      "emoji": "🥧",
+      "example_en": "A large proportion of the budget goes to rent.",
+      "example_th": "งบประมาณสัดส่วนใหญ่ถูกใช้ไปกับค่าเช่า",
+      "cefr": "B2",
+      "note_th": "proportion = ส่วนหนึ่งเทียบกับทั้งหมด (a small proportion of...) — in proportion to = ตามสัดส่วนของ, out of proportion = เกินสัดส่วน/เกินจริง",
+      "distractors": [
+        "portion",
+        "promotion",
+        "proposal"
+      ]
+    },
+    {
+      "id": "round_up",
+      "word": "round up",
+      "pos": "phrase",
+      "ipa": "/raʊnd ʌp/",
+      "reading_th": "ราวด์ อัพ",
+      "meaning_th": "ปัดขึ้น / ปัดเศษ",
+      "emoji": "🔼",
+      "example_en": "Round up 4.6 to the nearest whole number.",
+      "example_th": "ปัด 4.6 ขึ้นเป็นจำนวนเต็มที่ใกล้ที่สุด",
+      "cefr": "B1",
+      "note_th": "round up = ปัดขึ้น, round down = ปัดลง, round (off) to the nearest ten = ปัดเป็นหลักสิบ — ร้านค้าชอบ round up ราคาตอนไม่มีเศษเหรียญทอน",
+      "distractors": [
+        "round down",
+        "round trip",
+        "roll up"
+      ]
+    },
+    {
+      "id": "approximately",
+      "word": "approximately",
+      "pos": "adverb",
+      "ipa": "/əˈprɑːksɪmətli/",
+      "reading_th": "แอพ-พร็อก-ซิ-เมิท-ลี",
+      "meaning_th": "ประมาณ / โดยประมาณ",
+      "emoji": "〰️",
+      "example_en": "The trip takes approximately two hours by car.",
+      "example_th": "การเดินทางใช้เวลาประมาณสองชั่วโมงโดยรถยนต์",
+      "cefr": "B1",
+      "note_th": "approximately เป็นทางการ = about, around, roughly — ย่อว่า approx. และสัญลักษณ์ ≈ ในเอกสารและตารางเวลา",
+      "distractors": [
+        "appropriately",
+        "exactly",
+        "apparently"
+      ]
+    },
+    {
+      "id": "add",
+      "word": "add",
+      "pos": "verb",
+      "ipa": "/æd/",
+      "reading_th": "แอด",
+      "meaning_th": "บวก / เพิ่ม",
+      "emoji": "➕",
+      "example_en": "Add the two numbers together to get the total.",
+      "example_th": "บวกตัวเลขสองตัวเข้าด้วยกันเพื่อให้ได้ผลรวม",
+      "cefr": "A1",
+      "note_th": "add A to B / add A and B together คำนาม addition (การบวก) — add up = บวกรวม และ it doesn't add up = มันไม่สมเหตุสมผล",
+      "distractors": [
+        "ad",
+        "aid",
+        "odd"
+      ]
+    },
+    {
+      "id": "plus",
+      "word": "plus",
+      "pos": "preposition",
+      "ipa": "/plʌs/",
+      "reading_th": "พลัส",
+      "meaning_th": "บวก (เครื่องหมาย +)",
+      "emoji": "➕",
+      "example_en": "Five plus three equals eight, right?",
+      "example_th": "ห้าบวกสามเท่ากับแปด ใช่ไหม",
+      "cefr": "A1",
+      "note_th": "อ่านสมการ 5 + 3 = 8 ว่า five plus three equals/is eight — plus ยังแปลว่า \"แถมยังมี\" ในภาษาพูด: It's cheap, plus it's fast",
+      "distractors": [
+        "minus",
+        "pulse",
+        "place"
+      ]
+    },
+    {
+      "id": "subtract",
+      "word": "subtract",
+      "pos": "verb",
+      "ipa": "/səbˈtrækt/",
+      "reading_th": "ซับ-แทรคท์",
+      "meaning_th": "ลบ / หักออก",
+      "emoji": "➖",
+      "example_en": "Subtract the discount from the original price.",
+      "example_th": "หักส่วนลดออกจากราคาเดิม",
+      "cefr": "A2",
+      "note_th": "subtract A from B = เอา A ไปลบออกจาก B (ระวังลำดับ) คำนาม subtraction — ภาษาพูดใช้ take away: ten take away three is seven",
+      "distractors": [
+        "attract",
+        "distract",
+        "contract"
+      ]
+    },
+    {
+      "id": "minus",
+      "word": "minus",
+      "pos": "preposition",
+      "ipa": "/ˈmaɪnəs/",
+      "reading_th": "ไม-เนิส",
+      "meaning_th": "ลบ (เครื่องหมาย −)",
+      "emoji": "➖",
+      "example_en": "Ten minus four is six, so we need six more.",
+      "example_th": "สิบลบสี่เท่ากับหก เราจึงต้องการอีกหก",
+      "cefr": "A1",
+      "note_th": "เลขติดลบอ่านว่า minus five (−5) หรือ negative five — อุณหภูมิ minus ten degrees = ลบสิบองศา และ a minus = ข้อเสีย",
+      "distractors": [
+        "plus",
+        "minor",
+        "minute"
+      ]
+    },
+    {
+      "id": "multiply",
+      "word": "multiply",
+      "pos": "verb",
+      "ipa": "/ˈmʌltɪplaɪ/",
+      "reading_th": "มัล-ทิ-พลาย",
+      "meaning_th": "คูณ",
+      "emoji": "✖️",
+      "example_en": "Multiply the length by the width to find the area.",
+      "example_th": "คูณความยาวด้วยความกว้างเพื่อหาพื้นที่",
+      "cefr": "A2",
+      "note_th": "multiply A by B = เอา A คูณ B คำนาม multiplication (สูตรคูณ = multiplication table) — ความหมายรอง = เพิ่มจำนวนอย่างรวดเร็ว (germs multiply)",
+      "distractors": [
+        "multiple",
+        "supply",
+        "divide"
+      ]
+    },
+    {
+      "id": "times",
+      "word": "times",
+      "pos": "preposition",
+      "ipa": "/taɪmz/",
+      "reading_th": "ไทมส์",
+      "meaning_th": "คูณ (เครื่องหมาย ×) / เท่า",
+      "emoji": "✖️",
+      "example_en": "Three times four is twelve, not fourteen.",
+      "example_th": "สามคูณสี่เท่ากับสิบสอง ไม่ใช่สิบสี่",
+      "cefr": "A1",
+      "note_th": "อ่าน 3 × 4 ว่า three times four (ภาษาพูด) หรือ three multiplied by four (ทางการ) — three times bigger = ใหญ่กว่าสามเท่า",
+      "distractors": [
+        "time",
+        "timer",
+        "times table"
+      ]
+    },
+    {
+      "id": "divide",
+      "word": "divide",
+      "pos": "verb",
+      "ipa": "/dɪˈvaɪd/",
+      "reading_th": "ดิ-ไวด์",
+      "meaning_th": "หาร / แบ่ง",
+      "emoji": "➗",
+      "example_en": "Divide twenty by five and you get four.",
+      "example_th": "หารยี่สิบด้วยห้าจะได้สี่",
+      "cefr": "A2",
+      "note_th": "divide A by B = A หารด้วย B คำนาม division — divide into = แบ่งเป็น (divide the class into groups) ส่วน divided by ใช้ในสมการ",
+      "distractors": [
+        "decide",
+        "device",
+        "multiply"
+      ]
+    },
+    {
+      "id": "equals",
+      "word": "equals",
+      "pos": "verb",
+      "ipa": "/ˈiːkwəlz/",
+      "reading_th": "อี-เควิลส์",
+      "meaning_th": "เท่ากับ (เครื่องหมาย =)",
+      "emoji": "🟰",
+      "example_en": "Everyone knows two plus two equals four.",
+      "example_th": "ใครๆ ก็รู้ว่าสองบวกสองเท่ากับสี่",
+      "cefr": "A1",
+      "note_th": "เครื่องหมาย = เรียกว่า equals sign อ่านสมการได้ทั้ง equals, is และ makes — ภาษาพูดส่วนใหญ่ใช้ is: two and two is four",
+      "distractors": [
+        "equal",
+        "equation",
+        "eagles"
+      ]
+    },
+    {
+      "id": "sum",
+      "word": "sum",
+      "pos": "noun",
+      "ipa": "/sʌm/",
+      "reading_th": "ซัม",
+      "meaning_th": "ผลบวก / ผลรวม",
+      "emoji": "🧮",
+      "example_en": "The sum of five and seven is twelve.",
+      "example_th": "ผลบวกของห้ากับเจ็ดคือสิบสอง",
+      "cefr": "A2",
+      "note_th": "sum = ผลบวก และ = จำนวนเงิน (a large sum of money) ออกเสียงเหมือน some — ใน Excel ฟังก์ชัน SUM ก็คือคำนี้ sum up = สรุป",
+      "distractors": [
+        "some",
+        "sun",
+        "difference"
+      ]
+    },
+    {
+      "id": "remainder",
+      "word": "remainder",
+      "pos": "noun",
+      "ipa": "/rɪˈmeɪndər/",
+      "reading_th": "ริ-เมน-เดอร์",
+      "meaning_th": "เศษ (ที่เหลือจากการหาร)",
+      "emoji": "🍪",
+      "example_en": "Seventeen divided by five is three with a remainder of two.",
+      "example_th": "สิบเจ็ดหารห้าได้สาม เหลือเศษสอง",
+      "cefr": "B1",
+      "note_th": "remainder = เศษที่เหลือจากการหาร (มาจาก remain = เหลืออยู่) — the remainder of the day = เวลาที่เหลือของวัน ใช้แทน the rest ได้แบบทางการ",
+      "distractors": [
+        "reminder",
+        "remain",
+        "retainer"
+      ]
+    },
+    {
+      "id": "even",
+      "word": "even",
+      "pos": "adjective",
+      "ipa": "/ˈiːvn/",
+      "reading_th": "อี-เวิน",
+      "meaning_th": "เลขคู่",
+      "emoji": "2️⃣",
+      "example_en": "Two, four and six are even numbers.",
+      "example_th": "สอง สี่ และหกเป็นเลขคู่",
+      "cefr": "A2",
+      "note_th": "even number = เลขคู่ (หาร 2 ลงตัว) odd number = เลขคี่ — even ยังแปลว่า เรียบ/เสมอกัน (an even surface, the score is even) และ \"แม้แต่\" เมื่อเป็นคำวิเศษณ์",
+      "distractors": [
+        "odd",
+        "evening",
+        "event"
+      ]
+    },
+    {
+      "id": "odd",
+      "word": "odd",
+      "pos": "adjective",
+      "ipa": "/ɑːd/",
+      "reading_th": "อ็อด",
+      "meaning_th": "เลขคี่",
+      "emoji": "3️⃣",
+      "example_en": "Odd numbers like one, three and five cannot be divided by two.",
+      "example_th": "เลขคี่อย่างหนึ่ง สาม และห้าหารด้วยสองไม่ลงตัว",
+      "cefr": "A2",
+      "note_th": "odd = เลขคี่ และ = แปลกประหลาด (That's odd!) — odd one out = ตัวที่ไม่เข้าพวก ซึ่งเป็นชื่อเกมในข้อสอบด้วย",
+      "distractors": [
+        "even",
+        "add",
+        "old"
+      ]
+    },
+    {
+      "id": "equation",
+      "word": "equation",
+      "pos": "noun",
+      "ipa": "/ɪˈkweɪʒn/",
+      "reading_th": "อิ-เคว-ชั่น",
+      "meaning_th": "สมการ",
+      "emoji": "🧮",
+      "example_en": "Solve the equation to find the value of x.",
+      "example_th": "แก้สมการเพื่อหาค่าของ x",
+      "cefr": "B1",
+      "note_th": "solve an equation = แก้สมการ ออกเสียง อิ-เคว-ชั่น (เสียง ช เหมือน vision) — สมการดังสุดในโลกคือ E = mc² ของ Einstein",
+      "distractors": [
+        "equator",
+        "equipment",
+        "formula"
+      ]
+    },
+    {
+      "id": "formula",
+      "word": "formula",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrmjələ/",
+      "reading_th": "ฟอร์-มิว-ละ",
+      "meaning_th": "สูตร",
+      "emoji": "📝",
+      "example_en": "Use the formula to find the area of a circle.",
+      "example_th": "ใช้สูตรเพื่อหาพื้นที่ของวงกลม",
+      "cefr": "B1",
+      "note_th": "formula = สูตรคณิต/เคมี และ = นมผงสำหรับทารก (baby formula) — พหูพจน์ formulas หรือ formulae แบบวิชาการ",
+      "distractors": [
+        "formal",
+        "former",
+        "equation"
+      ]
+    },
+    {
+      "id": "shape",
+      "word": "shape",
+      "pos": "noun",
+      "ipa": "/ʃeɪp/",
+      "reading_th": "เชป",
+      "meaning_th": "รูปทรง / รูปร่าง",
+      "emoji": "🔷",
+      "example_en": "What shape is a stop sign?",
+      "example_th": "ป้ายหยุดเป็นรูปทรงอะไร",
+      "cefr": "A2",
+      "note_th": "shape = รูปทรง (round, square, oval) — สำนวน in good shape = สุขภาพ/สภาพดี, out of shape = ไม่ฟิต, take shape = เริ่มเป็นรูปเป็นร่าง",
+      "distractors": [
+        "sharp",
+        "sheep",
+        "ship"
+      ]
+    },
+    {
+      "id": "circle",
+      "word": "circle",
+      "pos": "noun",
+      "ipa": "/ˈsɜːrkl/",
+      "reading_th": "เซอร์-เคิล",
+      "meaning_th": "วงกลม",
+      "emoji": "⭕",
+      "example_en": "Draw a circle and mark its center.",
+      "example_th": "วาดวงกลมแล้วทำเครื่องหมายจุดศูนย์กลาง",
+      "cefr": "A1",
+      "note_th": "circle (คำนาม = วงกลม) circular (คำคุณศัพท์ = เป็นวง) — เป็นกริยาได้: circle the correct answer = วงกลมคำตอบที่ถูก ซึ่งเจอในข้อสอบบ่อย",
+      "distractors": [
+        "cycle",
+        "circus",
+        "circuit"
+      ]
+    },
+    {
+      "id": "square",
+      "word": "square",
+      "pos": "noun",
+      "ipa": "/skwer/",
+      "reading_th": "สแควร์",
+      "meaning_th": "สี่เหลี่ยมจัตุรัส",
+      "emoji": "🟥",
+      "example_en": "A square has four equal sides and four right angles.",
+      "example_th": "สี่เหลี่ยมจัตุรัสมีด้านเท่ากันสี่ด้านและมุมฉากสี่มุม",
+      "cefr": "A2",
+      "note_th": "square = จัตุรัส และ = ยกกำลังสอง (five squared = 25) หน่วยพื้นที่ square meter (ตร.ม.) — square root = รากที่สอง และลานกลางเมืองก็เรียก square",
+      "distractors": [
+        "rectangle",
+        "squad",
+        "scare"
+      ]
+    },
+    {
+      "id": "triangle",
+      "word": "triangle",
+      "pos": "noun",
+      "ipa": "/ˈtraɪæŋɡl/",
+      "reading_th": "ไทร-แอง-เกิล",
+      "meaning_th": "สามเหลี่ยม",
+      "emoji": "🔺",
+      "example_en": "The angles of a triangle add up to 180 degrees.",
+      "example_th": "มุมของสามเหลี่ยมรวมกันได้ 180 องศา",
+      "cefr": "A2",
+      "note_th": "tri- = สาม (tricycle, trio) + angle = มุม — love triangle = รักสามเส้า และ the Golden Triangle = สามเหลี่ยมทองคำที่เชียงราย",
+      "distractors": [
+        "rectangle",
+        "tangle",
+        "trial"
+      ]
+    },
+    {
+      "id": "rectangle",
+      "word": "rectangle",
+      "pos": "noun",
+      "ipa": "/ˈrektæŋɡl/",
+      "reading_th": "เร็ค-แทง-เกิล",
+      "meaning_th": "สี่เหลี่ยมผืนผ้า",
+      "emoji": "▭",
+      "example_en": "A phone screen is usually a rectangle.",
+      "example_th": "หน้าจอโทรศัพท์มักเป็นสี่เหลี่ยมผืนผ้า",
+      "cefr": "A2",
+      "note_th": "rectangle = สี่เหลี่ยมมุมฉากที่ด้านไม่เท่ากันทุกด้าน (คำคุณศัพท์ rectangular) — rect = ตรง (correct, direct) + angle",
+      "distractors": [
+        "triangle",
+        "rectangular",
+        "square"
+      ]
+    },
+    {
+      "id": "cube",
+      "word": "cube",
+      "pos": "noun",
+      "ipa": "/kjuːb/",
+      "reading_th": "คิวบ์",
+      "meaning_th": "ลูกบาศก์",
+      "emoji": "🧊",
+      "example_en": "Put two ice cubes in each glass.",
+      "example_th": "ใส่น้ำแข็งก้อนสองก้อนในแก้วแต่ละใบ",
+      "cefr": "A2",
+      "note_th": "cube = ทรงสี่เหลี่ยมลูกบาศก์ 6 หน้าเท่ากัน (ice cube, Rubik's cube) — cubic meter = ลูกบาศก์เมตร ที่เจอในบิลค่าน้ำ",
+      "distractors": [
+        "cub",
+        "tube",
+        "sphere"
+      ]
+    },
+    {
+      "id": "sphere",
+      "word": "sphere",
+      "pos": "noun",
+      "ipa": "/sfɪr/",
+      "reading_th": "สเฟียร์",
+      "meaning_th": "ทรงกลม",
+      "emoji": "🏀",
+      "example_en": "The Earth is not a perfect sphere.",
+      "example_th": "โลกไม่ได้เป็นทรงกลมสมบูรณ์แบบ",
+      "cefr": "B1",
+      "note_th": "sphere = ทรงกลมสามมิติ (ลูกบอล) ส่วน circle = วงกลมแบน — hemisphere = ซีกโลก และ atmosphere (ชั้นบรรยากาศ) ก็มี sphere อยู่",
+      "distractors": [
+        "spear",
+        "fear",
+        "circle"
+      ]
+    },
+    {
+      "id": "line",
+      "word": "line",
+      "pos": "noun",
+      "ipa": "/laɪn/",
+      "reading_th": "ไลน์",
+      "meaning_th": "เส้น / เส้นตรง",
+      "emoji": "📏",
+      "example_en": "Draw a straight line from point A to point B.",
+      "example_th": "ลากเส้นตรงจากจุด A ไปจุด B",
+      "cefr": "A1",
+      "note_th": "a straight line = เส้นตรง — line ยังแปลว่า แถว (stand in line = ต่อแถว แบบอเมริกัน) บรรทัด (line 5 ในข้อสอบ) และแอป LINE ที่คนไทยใช้",
+      "distractors": [
+        "lane",
+        "lion",
+        "curve"
+      ]
+    },
+    {
+      "id": "curve",
+      "word": "curve",
+      "pos": "noun",
+      "ipa": "/kɜːrv/",
+      "reading_th": "เคิร์ฟ",
+      "meaning_th": "เส้นโค้ง",
+      "emoji": "🌙",
+      "example_en": "The graph shows a smooth curve, not a straight line.",
+      "example_th": "กราฟแสดงเส้นโค้งเรียบ ไม่ใช่เส้นตรง",
+      "cefr": "B1",
+      "note_th": "curve (คำนาม/กริยา) curved (คำคุณศัพท์ = โค้ง) — a sharp curve in the road = ทางโค้งหักศอก, learning curve = ช่วงเรียนรู้ของสิ่งใหม่",
+      "distractors": [
+        "carve",
+        "curb",
+        "nerve"
+      ]
+    },
+    {
+      "id": "radius",
+      "word": "radius",
+      "pos": "noun",
+      "ipa": "/ˈreɪdiəs/",
+      "reading_th": "เร-เดียส",
+      "meaning_th": "รัศมี",
+      "emoji": "📐",
+      "example_en": "The radius of the circle is half its diameter.",
+      "example_th": "รัศมีของวงกลมคือครึ่งหนึ่งของเส้นผ่านศูนย์กลาง",
+      "cefr": "B2",
+      "note_th": "radius = ระยะจากจุดศูนย์กลางถึงขอบวง (พหูพจน์ radii) — ใช้ในชีวิตจริงด้วย: within a 5 km radius = ในรัศมี 5 กม. เช่น ค่าส่งอาหาร",
+      "distractors": [
+        "radio",
+        "diameter",
+        "radish"
+      ]
+    },
+    {
+      "id": "parallel",
+      "word": "parallel",
+      "pos": "adjective",
+      "ipa": "/ˈpærəlel/",
+      "reading_th": "แพ-ระ-เลล",
+      "meaning_th": "ขนาน",
+      "emoji": "🛤️",
+      "example_en": "Railway tracks are parallel lines that never meet.",
+      "example_th": "รางรถไฟเป็นเส้นขนานที่ไม่มีวันบรรจบกัน",
+      "cefr": "B1",
+      "note_th": "สะกด para-llel (l สองตัวตรงกลาง) parallel to = ขนานกับ — parallel parking = จอดรถขนานฟุตบาท ส่วน perpendicular = ตั้งฉาก",
+      "distractors": [
+        "perpendicular",
+        "paradise",
+        "parasol"
+      ]
+    },
+    {
+      "id": "area",
+      "word": "area",
+      "pos": "noun",
+      "ipa": "/ˈeriə/",
+      "reading_th": "แอ-เรีย",
+      "meaning_th": "พื้นที่",
+      "emoji": "🟩",
+      "example_en": "The area of the room is twenty square meters.",
+      "example_th": "พื้นที่ของห้องคือยี่สิบตารางเมตร",
+      "cefr": "A2",
+      "note_th": "area = พื้นที่ (วัดเป็น square meters) และ = บริเวณ/ย่าน (residential area) — สูตรพื้นที่สี่เหลี่ยม = length × width",
+      "distractors": [
+        "arena",
+        "era",
+        "perimeter"
+      ]
+    },
+    {
+      "id": "perimeter",
+      "word": "perimeter",
+      "pos": "noun",
+      "ipa": "/pəˈrɪmɪtər/",
+      "reading_th": "เพอ-ริ-มิ-เทอร์",
+      "meaning_th": "เส้นรอบรูป / ความยาวรอบ",
+      "emoji": "🔲",
+      "example_en": "Walk around the perimeter of the field to measure it.",
+      "example_th": "เดินรอบเส้นรอบรูปของสนามเพื่อวัดความยาว",
+      "cefr": "B2",
+      "note_th": "perimeter = ความยาวรอบรูป (บวกทุกด้าน) ส่วน area = พื้นที่ข้างใน — peri = รอบ (period, periscope) เน้นพยางค์ที่สอง เพอ-ริม-มิ-เทอร์",
+      "distractors": [
+        "parameter",
+        "diameter",
+        "thermometer"
+      ]
+    },
+    {
+      "id": "diameter",
+      "word": "diameter",
+      "pos": "noun",
+      "ipa": "/daɪˈæmɪtər/",
+      "reading_th": "ได-แอ-มิ-เทอร์",
+      "meaning_th": "เส้นผ่านศูนย์กลาง",
+      "emoji": "⭕",
+      "example_en": "The pizza has a diameter of twelve inches.",
+      "example_th": "พิซซ่ามีเส้นผ่านศูนย์กลางสิบสองนิ้ว",
+      "cefr": "B2",
+      "note_th": "diameter = เส้นผ่านศูนย์กลาง (ยาวสุดของวงกลม) = 2 × radius (รัศมี) — เส้นรอบวงเรียก circumference ไม่ใช่ perimeter",
+      "distractors": [
+        "radius",
+        "perimeter",
+        "parameter"
+      ]
+    },
+    {
+      "id": "unit",
+      "word": "unit",
+      "pos": "noun",
+      "ipa": "/ˈjuːnɪt/",
+      "reading_th": "ยู-นิท",
+      "meaning_th": "หน่วย",
+      "emoji": "📦",
+      "example_en": "What unit do you use to measure weight?",
+      "example_th": "คุณใช้หน่วยอะไรในการวัดน้ำหนัก",
+      "cefr": "A2",
+      "note_th": "unit = หน่วยวัด (units of length) และ = หน่วย/ชิ้นสินค้า, บทเรียน (Unit 3), ห้องชุดคอนโด — ค่าไฟในไทยคิดเป็น unit (kWh) ด้วย",
+      "distractors": [
+        "unite",
+        "unique",
+        "united"
+      ]
+    },
+    {
+      "id": "length",
+      "word": "length",
+      "pos": "noun",
+      "ipa": "/leŋkθ/",
+      "reading_th": "เลงค์ธ",
+      "meaning_th": "ความยาว",
+      "emoji": "📏",
+      "example_en": "The length of the table is two meters.",
+      "example_th": "ความยาวของโต๊ะคือสองเมตร",
+      "cefr": "A2",
+      "note_th": "long (ยาว) → length (ความยาว) เหมือน wide → width, high → height, deep → depth สี่คู่นี้ออกสอบ word form บ่อย — at length = อย่างยืดยาว",
+      "distractors": [
+        "long",
+        "strength",
+        "width"
+      ]
+    },
+    {
+      "id": "width",
+      "word": "width",
+      "pos": "noun",
+      "ipa": "/wɪdθ/",
+      "reading_th": "วิดธ์",
+      "meaning_th": "ความกว้าง",
+      "emoji": "↔️",
+      "example_en": "Measure the width of the door before buying a sofa.",
+      "example_th": "วัดความกว้างของประตูก่อนซื้อโซฟา",
+      "cefr": "A2",
+      "note_th": "wide (กว้าง) → width (ความกว้าง) — บอกขนาดเรียงว่า length × width × height เช่น 50 × 30 × 20 cm อ่านว่า fifty by thirty by twenty",
+      "distractors": [
+        "wide",
+        "with",
+        "length"
+      ]
+    },
+    {
+      "id": "height",
+      "word": "height",
+      "pos": "noun",
+      "ipa": "/haɪt/",
+      "reading_th": "ไฮท์",
+      "meaning_th": "ความสูง",
+      "emoji": "📶",
+      "example_en": "What is your height in centimeters?",
+      "example_th": "คุณสูงกี่เซนติเมตร",
+      "cefr": "A2",
+      "note_th": "สะกด height (gh ไม่ออกเสียง อ่าน ไฮท์ ไม่ใช่ เฮท) มาจาก high — ถามความสูงคน How tall are you? ตอบ I'm 170 centimeters tall",
+      "distractors": [
+        "high",
+        "weight",
+        "eight"
+      ]
+    },
+    {
+      "id": "depth",
+      "word": "depth",
+      "pos": "noun",
+      "ipa": "/depθ/",
+      "reading_th": "เด็พธ์",
+      "meaning_th": "ความลึก",
+      "emoji": "🌊",
+      "example_en": "The pool has a depth of two meters at one end.",
+      "example_th": "สระว่ายน้ำลึกสองเมตรที่ปลายด้านหนึ่ง",
+      "cefr": "B1",
+      "note_th": "deep (ลึก) → depth (ความลึก) — in depth = อย่างลึกซึ้ง (study it in depth) และ out of my depth = เกินความสามารถ",
+      "distractors": [
+        "deep",
+        "death",
+        "debt"
+      ]
+    },
+    {
+      "id": "distance",
+      "word": "distance",
+      "pos": "noun",
+      "ipa": "/ˈdɪstəns/",
+      "reading_th": "ดิส-เทินส์",
+      "meaning_th": "ระยะทาง",
+      "emoji": "🛣️",
+      "example_en": "The distance from Bangkok to Pattaya is about 150 kilometers.",
+      "example_th": "ระยะทางจากกรุงเทพฯ ถึงพัทยาประมาณ 150 กิโลเมตร",
+      "cefr": "A2",
+      "note_th": "the distance from A to B / between A and B — within walking distance = เดินถึง, keep your distance = รักษาระยะห่าง, distant (คำคุณศัพท์) = ห่างไกล",
+      "distractors": [
+        "distant",
+        "instance",
+        "district"
+      ]
+    },
+    {
+      "id": "volume",
+      "word": "volume",
+      "pos": "noun",
+      "ipa": "/ˈvɑːljuːm/",
+      "reading_th": "วอล-ลุ่ม",
+      "meaning_th": "ปริมาตร",
+      "emoji": "🧊",
+      "example_en": "The volume of the box is 24 cubic centimeters.",
+      "example_th": "ปริมาตรของกล่องคือ 24 ลูกบาศก์เซนติเมตร",
+      "cefr": "B1",
+      "note_th": "volume = ปริมาตร (length × width × height) และ = ระดับเสียง (turn up the volume) และ = เล่มหนังสือ (Volume 2)",
+      "distractors": [
+        "value",
+        "valve",
+        "area"
+      ]
+    },
+    {
+      "id": "centimeter",
+      "word": "centimeter",
+      "pos": "noun",
+      "ipa": "/ˈsentɪmiːtər/",
+      "reading_th": "เซน-ทิ-มี-เทอร์",
+      "meaning_th": "เซนติเมตร",
+      "emoji": "📏",
+      "example_en": "This ruler is thirty centimeters long.",
+      "example_th": "ไม้บรรทัดนี้ยาวสามสิบเซนติเมตร",
+      "cefr": "A1",
+      "note_th": "centimeter (อเมริกัน) / centimetre (อังกฤษ) ย่อ cm — centi = หนึ่งในร้อย (100 cm = 1 m) milli = หนึ่งในพัน kilo = พัน",
+      "distractors": [
+        "millimeter",
+        "kilometer",
+        "centipede"
+      ]
+    },
+    {
+      "id": "kilometer",
+      "word": "kilometer",
+      "pos": "noun",
+      "ipa": "/kɪˈlɑːmɪtər/",
+      "reading_th": "คิ-ลอ-มิ-เทอร์",
+      "meaning_th": "กิโลเมตร",
+      "emoji": "🛣️",
+      "example_en": "We ran five kilometers this morning.",
+      "example_th": "เช้านี้เราวิ่งห้ากิโลเมตร",
+      "cefr": "A1",
+      "note_th": "ย่อ km อ่านได้ทั้ง คิ-ลอม-มิ-เทอร์ และ คิ-โล-มี-เทอร์ — ชาวอเมริกันใช้ mile (1 ไมล์ ≈ 1.6 กม.) ดังนั้น a 5K run = วิ่ง 5 กม.",
+      "distractors": [
+        "kilogram",
+        "centimeter",
+        "mile"
+      ]
+    },
+    {
+      "id": "inch",
+      "word": "inch",
+      "pos": "noun",
+      "ipa": "/ɪntʃ/",
+      "reading_th": "อินช์",
+      "meaning_th": "นิ้ว (หน่วยวัด)",
+      "emoji": "📺",
+      "example_en": "My new TV is fifty-five inches wide.",
+      "example_th": "ทีวีใหม่ของฉันกว้างห้าสิบห้านิ้ว",
+      "cefr": "A2",
+      "note_th": "1 inch ≈ 2.5 cm ใช้กับขนาดจอ ยางรถ และพิซซ่า — 12 inches = 1 foot (ฟุต) ชาวอเมริกันบอกส่วนสูงเป็น feet and inches เช่น 5'7\"",
+      "distractors": [
+        "itch",
+        "foot",
+        "ink"
+      ]
+    },
+    {
+      "id": "ton",
+      "word": "ton",
+      "pos": "noun",
+      "ipa": "/tʌn/",
+      "reading_th": "ตัน",
+      "meaning_th": "ตัน (1,000 กิโลกรัม)",
+      "emoji": "🚛",
+      "example_en": "The truck can carry up to ten tons of rice.",
+      "example_th": "รถบรรทุกขนข้าวได้ถึงสิบตัน",
+      "cefr": "A2",
+      "note_th": "ton (อเมริกัน ออกเสียงเหมือน ตัน) = 1,000 kg เขียนแบบอังกฤษว่า tonne — ภาษาพูด tons of = เยอะมาก (I have tons of homework)",
+      "distractors": [
+        "tone",
+        "tan",
+        "kilogram"
+      ]
+    },
+    {
+      "id": "kilogram",
+      "word": "kilogram",
+      "pos": "noun",
+      "ipa": "/ˈkɪləɡræm/",
+      "reading_th": "คิ-โล-แกรม",
+      "meaning_th": "กิโลกรัม",
+      "emoji": "🏋️",
+      "example_en": "A kilogram of mangoes costs eighty baht.",
+      "example_th": "มะม่วงกิโลกรัมละแปดสิบบาท",
+      "cefr": "A1",
+      "note_th": "ย่อ kg พูดสั้นๆ ว่า kilo ได้ (two kilos) — อเมริกาใช้ pound (lb ≈ 0.45 kg) ดังนั้นน้ำหนักตัวในหนังฝรั่งจะดูเยอะกว่าปกติ",
+      "distractors": [
+        "kilometer",
+        "pound",
+        "gram"
+      ]
+    },
+    {
+      "id": "liter",
+      "word": "liter",
+      "pos": "noun",
+      "ipa": "/ˈliːtər/",
+      "reading_th": "ลี-เทอร์",
+      "meaning_th": "ลิตร",
+      "emoji": "🧴",
+      "example_en": "Drink at least two liters of water a day.",
+      "example_th": "ดื่มน้ำอย่างน้อยวันละสองลิตร",
+      "cefr": "A1",
+      "note_th": "liter (อเมริกัน) / litre (อังกฤษ) ย่อ L หรือ l — 1 liter = 1,000 milliliters (ml) น้ำมันเติมเป็น liters ส่วนอเมริกาใช้ gallon",
+      "distractors": [
+        "litter",
+        "letter",
+        "milliliter"
+      ]
+    },
+    {
+      "id": "celsius",
+      "word": "Celsius",
+      "pos": "noun",
+      "ipa": "/ˈselsiəs/",
+      "reading_th": "เซล-เซียส",
+      "meaning_th": "องศาเซลเซียส",
+      "emoji": "🌡️",
+      "example_en": "Water boils at one hundred degrees Celsius.",
+      "example_th": "น้ำเดือดที่หนึ่งร้อยองศาเซลเซียส",
+      "cefr": "A2",
+      "note_th": "เขียน C ตัวใหญ่เพราะเป็นชื่อคน (ย่อ °C) อ่าน 35°C ว่า thirty-five degrees Celsius — อเมริกาใช้ Fahrenheit (°F): 35°C = 95°F",
+      "distractors": [
+        "Fahrenheit",
+        "Kelvin",
+        "cells"
+      ]
+    },
+    {
+      "id": "statistics",
+      "word": "statistics",
+      "pos": "noun",
+      "ipa": "/stəˈtɪstɪks/",
+      "reading_th": "สตะ-ทิส-ติคส์",
+      "meaning_th": "สถิติ",
+      "emoji": "📊",
+      "example_en": "Statistics show that most accidents happen near home.",
+      "example_th": "สถิติแสดงว่าอุบัติเหตุส่วนใหญ่เกิดใกล้บ้าน",
+      "cefr": "B1",
+      "note_th": "statistics = ตัวเลขสถิติ (พหูพจน์ ใช้ show) แต่เมื่อหมายถึงวิชาสถิติใช้เอกพจน์ (Statistics is hard) — ภาษาพูดย่อว่า stats",
+      "distractors": [
+        "statue",
+        "status",
+        "static"
+      ]
+    },
+    {
+      "id": "census",
+      "word": "census",
+      "pos": "noun",
+      "ipa": "/ˈsensəs/",
+      "reading_th": "เซน-เซิส",
+      "meaning_th": "สำมะโนประชากร",
+      "emoji": "🏘️",
+      "example_en": "The census counts every person living in the country.",
+      "example_th": "สำมะโนประชากรนับทุกคนที่อาศัยอยู่ในประเทศ",
+      "cefr": "B2",
+      "note_th": "census = การนับประชากรทั้งหมดของประเทศ (ไทยทำทุก 10 ปี) ต่างจากการสำรวจทั่วไปที่สุ่มแค่บางส่วน — ตัวเลขประชากรในข้อสอบอ่านกราฟมักอ้าง census data",
+      "distractors": [
+        "senses",
+        "consensus",
+        "sensor"
+      ]
+    },
+    {
+      "id": "mean",
+      "word": "mean",
+      "pos": "noun",
+      "ipa": "/miːn/",
+      "reading_th": "มีน",
+      "meaning_th": "ค่าเฉลี่ย (สถิติ)",
+      "emoji": "➗",
+      "example_en": "Add all the scores and divide by five to find the mean.",
+      "example_th": "บวกคะแนนทั้งหมดแล้วหารด้วยห้าเพื่อหาค่าเฉลี่ย",
+      "cefr": "B1",
+      "note_th": "mean = ค่าเฉลี่ยในวิชาสถิติ (ภาษาพูดคือ average) — mean ยังเป็นกริยา (หมายความว่า) และคำคุณศัพท์ (ใจร้าย: Don't be mean!)",
+      "distractors": [
+        "median",
+        "mode",
+        "meal"
+      ]
+    },
+    {
+      "id": "median",
+      "word": "median",
+      "pos": "noun",
+      "ipa": "/ˈmiːdiən/",
+      "reading_th": "มี-เดียน",
+      "meaning_th": "มัธยฐาน / ค่ากลาง",
+      "emoji": "🎯",
+      "example_en": "The median is the middle value when the numbers are in order.",
+      "example_th": "มัธยฐานคือค่าตรงกลางเมื่อเรียงตัวเลขตามลำดับ",
+      "cefr": "B2",
+      "note_th": "median = ค่าที่อยู่ตรงกลางหลังเรียงลำดับ ไม่โดนค่าสุดโต่งดึง จึงใช้บอกรายได้ (median income) ได้แม่นกว่า mean — เกาะกลางถนนก็เรียก median (อเมริกัน)",
+      "distractors": [
+        "mean",
+        "medium",
+        "medal"
+      ]
+    },
+    {
+      "id": "mode",
+      "word": "mode",
+      "pos": "noun",
+      "ipa": "/moʊd/",
+      "reading_th": "โหมด",
+      "meaning_th": "ฐานนิยม (ค่าที่พบบ่อยสุด)",
+      "emoji": "🔁",
+      "example_en": "In 2, 3, 3, 5 the mode is three because it appears most often.",
+      "example_th": "ใน 2, 3, 3, 5 ฐานนิยมคือสาม เพราะปรากฏบ่อยที่สุด",
+      "cefr": "B2",
+      "note_th": "mode = ค่าที่ซ้ำมากสุด (จำว่า mode = most) — ในชีวิตประจำวัน mode = โหมด (airplane mode, dark mode) คนละความหมายกัน",
+      "distractors": [
+        "model",
+        "mood",
+        "mean"
+      ]
+    },
+    {
+      "id": "range",
+      "word": "range",
+      "pos": "noun",
+      "ipa": "/reɪndʒ/",
+      "reading_th": "เรนจ์",
+      "meaning_th": "พิสัย / ช่วง (ค่าสูงสุดลบต่ำสุด)",
+      "emoji": "↔️",
+      "example_en": "The range of the scores is from forty to ninety-five.",
+      "example_th": "ช่วงของคะแนนอยู่ระหว่างสี่สิบถึงเก้าสิบห้า",
+      "cefr": "B1",
+      "note_th": "range = ค่าสูงสุด − ค่าต่ำสุด และ = ช่วง (price range = ช่วงราคา, age range = ช่วงอายุ) — a wide range of = หลากหลาย ใช้บ่อยในโฆษณา",
+      "distractors": [
+        "rage",
+        "orange",
+        "arrange"
+      ]
+    },
+    {
+      "id": "maximum",
+      "word": "maximum",
+      "pos": "noun",
+      "ipa": "/ˈmæksɪməm/",
+      "reading_th": "แม็ก-ซิ-เมิม",
+      "meaning_th": "ค่าสูงสุด",
+      "emoji": "🔝",
+      "example_en": "The elevator can carry a maximum of twelve people.",
+      "example_th": "ลิฟต์บรรทุกได้สูงสุดสิบสองคน",
+      "cefr": "B1",
+      "note_th": "a maximum of = สูงสุด (ย่อ max.) ตรงข้าม minimum (min.) — maximum speed, maximum temperature ใช้เป็นคำคุณศัพท์ได้ ภาษาพูด: to the max",
+      "distractors": [
+        "minimum",
+        "maximize",
+        "medium"
+      ]
+    },
+    {
+      "id": "minimum",
+      "word": "minimum",
+      "pos": "noun",
+      "ipa": "/ˈmɪnɪməm/",
+      "reading_th": "มิ-นิ-เมิม",
+      "meaning_th": "ค่าต่ำสุด",
+      "emoji": "🔻",
+      "example_en": "The minimum order for free delivery is 300 baht.",
+      "example_th": "ยอดสั่งซื้อขั้นต่ำสำหรับส่งฟรีคือ 300 บาท",
+      "cefr": "B1",
+      "note_th": "minimum wage = ค่าแรงขั้นต่ำ, minimum order = ยอดขั้นต่ำ, keep to a minimum = ให้น้อยที่สุด — mini (เล็ก) จำง่าย ตรงข้าม maximum",
+      "distractors": [
+        "maximum",
+        "minimize",
+        "miniature"
+      ]
+    },
+    {
+      "id": "rate",
+      "word": "rate",
+      "pos": "noun",
+      "ipa": "/reɪt/",
+      "reading_th": "เรท",
+      "meaning_th": "อัตรา",
+      "emoji": "📉",
+      "example_en": "The unemployment rate fell to three percent last year.",
+      "example_th": "อัตราการว่างงานลดลงเหลือสามเปอร์เซ็นต์เมื่อปีที่แล้ว",
+      "cefr": "B1",
+      "note_th": "rate = จำนวนต่อหน่วย (birth rate, heart rate, exchange rate) — at this rate = ถ้ายังเป็นแบบนี้ต่อไป, first-rate = ชั้นหนึ่ง",
+      "distractors": [
+        "ratio",
+        "rat",
+        "rare"
+      ]
+    },
+    {
+      "id": "frequency",
+      "word": "frequency",
+      "pos": "noun",
+      "ipa": "/ˈfriːkwənsi/",
+      "reading_th": "ฟรี-เควิน-ซี",
+      "meaning_th": "ความถี่",
+      "emoji": "📶",
+      "example_en": "The table shows the frequency of each score in the class.",
+      "example_th": "ตารางแสดงความถี่ของคะแนนแต่ละค่าในห้องเรียน",
+      "cefr": "B1",
+      "note_th": "frequency = จำนวนครั้งที่เกิด (frequency table = ตารางแจกแจงความถี่) คำคุณศัพท์ frequent คำวิเศษณ์ frequently = บ่อยๆ — คลื่นวิทยุก็วัดเป็น frequency (Hz)",
+      "distractors": [
+        "frequent",
+        "fluency",
+        "currency"
+      ]
+    },
+    {
+      "id": "random",
+      "word": "random",
+      "pos": "adjective",
+      "ipa": "/ˈrændəm/",
+      "reading_th": "แรน-เดิม",
+      "meaning_th": "สุ่ม",
+      "emoji": "🎲",
+      "example_en": "The teacher picked a random student to answer.",
+      "example_th": "ครูสุ่มเลือกนักเรียนคนหนึ่งมาตอบ",
+      "cefr": "B1",
+      "note_th": "at random = แบบสุ่ม, a random sample = กลุ่มตัวอย่างสุ่ม — ภาษาวัยรุ่น random = ไม่มีที่มาที่ไป (He texted me out of nowhere, so random!)",
+      "distractors": [
+        "ransom",
+        "freedom",
+        "rarely"
+      ]
+    },
+    {
+      "id": "probability",
+      "word": "probability",
+      "pos": "noun",
+      "ipa": "/ˌprɑːbəˈbɪləti/",
+      "reading_th": "พร็อบ-บะ-บิ-ลิ-ตี้",
+      "meaning_th": "ความน่าจะเป็น",
+      "emoji": "🎰",
+      "example_en": "The probability of getting heads is one half.",
+      "example_th": "ความน่าจะเป็นที่จะออกหัวคือครึ่งหนึ่ง",
+      "cefr": "B2",
+      "note_th": "probability เขียนเป็นเศษส่วน ทศนิยม หรือ % (50% = 0.5 = 1/2) — probable/probably = น่าจะ ส่วน possible = เป็นไปได้ (น้อยกว่า)",
+      "distractors": [
+        "possibility",
+        "ability",
+        "property"
+      ]
+    },
+    {
+      "id": "bar_chart",
+      "word": "bar chart",
+      "pos": "noun",
+      "ipa": "/ˈbɑːr tʃɑːrt/",
+      "reading_th": "บาร์ ชาร์ท",
+      "meaning_th": "แผนภูมิแท่ง",
+      "emoji": "📊",
+      "example_en": "The bar chart compares sales in each month.",
+      "example_th": "แผนภูมิแท่งเปรียบเทียบยอดขายในแต่ละเดือน",
+      "cefr": "B1",
+      "note_th": "bar chart (อังกฤษ) = bar graph (อเมริกัน) ใช้เปรียบเทียบจำนวน ส่วน line graph ใช้ดูแนวโน้มตามเวลา — ข้อสอบ: the tallest bar = ค่ามากสุด",
+      "distractors": [
+        "pie chart",
+        "line graph",
+        "bar code"
+      ]
+    },
+    {
+      "id": "pie_chart",
+      "word": "pie chart",
+      "pos": "noun",
+      "ipa": "/ˈpaɪ tʃɑːrt/",
+      "reading_th": "พาย ชาร์ท",
+      "meaning_th": "แผนภูมิวงกลม",
+      "emoji": "🥧",
+      "example_en": "The pie chart shows how I spend my money each month.",
+      "example_th": "แผนภูมิวงกลมแสดงว่าฉันใช้เงินแต่ละเดือนไปกับอะไรบ้าง",
+      "cefr": "B1",
+      "note_th": "pie chart แบ่งเป็นชิ้นเหมือนพาย แต่ละชิ้นคือ % ของทั้งหมด (รวม 100%) — ข้อสอบมักถาม \"the largest slice/segment\" = ส่วนที่มากสุด",
+      "distractors": [
+        "bar chart",
+        "flow chart",
+        "pie crust"
+      ]
+    },
+    {
+      "id": "amount",
+      "word": "amount",
+      "pos": "noun",
+      "ipa": "/əˈmaʊnt/",
+      "reading_th": "อะ-เมานท์",
+      "meaning_th": "จำนวน / ยอดเงิน",
+      "emoji": "💵",
+      "example_en": "Please enter the amount you want to transfer.",
+      "example_th": "กรุณาใส่จำนวนเงินที่ต้องการโอน",
+      "cefr": "A2",
+      "note_th": "amount ใช้กับนามนับไม่ได้ (amount of money/time) ส่วน number ใช้กับนามนับได้ (number of people) — ตู้ ATM และแอปธนาคารใช้คำว่า Amount เสมอ",
+      "distractors": [
+        "account",
+        "mount",
+        "number"
+      ]
+    },
+    {
+      "id": "quantity",
+      "word": "quantity",
+      "pos": "noun",
+      "ipa": "/ˈkwɑːntəti/",
+      "reading_th": "ควอน-ทิ-ตี้",
+      "meaning_th": "ปริมาณ / จำนวนชิ้น",
+      "emoji": "📦",
+      "example_en": "Choose the quantity before you add it to the cart.",
+      "example_th": "เลือกจำนวนชิ้นก่อนใส่ตะกร้า",
+      "cefr": "B1",
+      "note_th": "quantity = ปริมาณ/จำนวน (ช่อง Qty ในใบเสร็จและเว็บช้อปปิ้ง) ส่วน quality = คุณภาพ สะกดคล้ายกันแต่ความหมายคนละเรื่อง — in large quantities = ปริมาณมาก",
+      "distractors": [
+        "quality",
+        "quantum",
+        "amount"
+      ]
+    },
+    {
+      "id": "each",
+      "word": "each",
+      "pos": "adjective",
+      "ipa": "/iːtʃ/",
+      "reading_th": "อีช",
+      "meaning_th": "แต่ละ / ชิ้นละ",
+      "emoji": "🍎",
+      "example_en": "The apples cost ten baht each.",
+      "example_th": "แอปเปิลลูกละสิบบาท",
+      "cefr": "A1",
+      "note_th": "ราคาต่อชิ้นวางไว้ท้ายประโยค: 10 baht each = ชิ้นละ 10 บาท — each + นามเอกพจน์ (each student has) และ each other = ซึ่งกันและกัน",
+      "distractors": [
+        "every",
+        "etch",
+        "reach"
+      ]
+    },
+    {
+      "id": "per",
+      "word": "per",
+      "pos": "preposition",
+      "ipa": "/pɜːr/",
+      "reading_th": "เพอร์",
+      "meaning_th": "ต่อ (หน่วย)",
+      "emoji": "🏷️",
+      "example_en": "The room costs 1,200 baht per night.",
+      "example_th": "ห้องราคาคืนละ 1,200 บาท",
+      "cefr": "A2",
+      "note_th": "per = ต่อ (per hour, per person, per kilo) ไม่ต้องมี a/the ตามหลัง — ภาษาพูดใช้ a แทนได้: 50 baht a kilo และ per cent ก็คือ \"ต่อร้อย\"",
+      "distractors": [
+        "pre",
+        "pair",
+        "peer"
+      ]
+    },
+    {
+      "id": "unit_price",
+      "word": "unit price",
+      "pos": "noun",
+      "ipa": "/ˈjuːnɪt praɪs/",
+      "reading_th": "ยู-นิท ไพรซ์",
+      "meaning_th": "ราคาต่อหน่วย",
+      "emoji": "🧾",
+      "example_en": "Compare the unit price before choosing the bigger pack.",
+      "example_th": "เปรียบเทียบราคาต่อหน่วยก่อนเลือกแพ็กใหญ่",
+      "cefr": "B1",
+      "note_th": "unit price = ราคาต่อชิ้น/ต่อกิโล/ต่อลิตร ที่ป้ายในซูเปอร์มาร์เก็ตเขียนตัวเล็กๆ ไว้ให้เปรียบเทียบ — แพ็กใหญ่ไม่ได้คุ้มเสมอ ดู unit price ก่อน",
+      "distractors": [
+        "list price",
+        "unit cost",
+        "half price"
+      ]
+    },
+    {
+      "id": "subtotal",
+      "word": "subtotal",
+      "pos": "noun",
+      "ipa": "/ˈsʌbtoʊtl/",
+      "reading_th": "ซับ-โท-เทิล",
+      "meaning_th": "ยอดรวมย่อย (ก่อนภาษี)",
+      "emoji": "🧾",
+      "example_en": "The subtotal is 500 baht before tax and delivery.",
+      "example_th": "ยอดรวมย่อยคือ 500 บาทก่อนภาษีและค่าส่ง",
+      "cefr": "B1",
+      "note_th": "ในใบเสร็จและหน้าชำระเงิน: Subtotal (รวมสินค้า) → VAT/Shipping → Total (ยอดสุทธิ) — sub- = ย่อย/ข้างล่าง เหมือน subway, subtitle",
+      "distractors": [
+        "total",
+        "subtitle",
+        "grand total"
+      ]
+    },
+    {
+      "id": "vat",
+      "word": "VAT",
+      "pos": "noun",
+      "ipa": "/ˌviː eɪ ˈtiː/",
+      "reading_th": "วี-เอ-ที / แวท",
+      "meaning_th": "ภาษีมูลค่าเพิ่ม",
+      "emoji": "🏛️",
+      "example_en": "The price on the menu already includes 7% VAT.",
+      "example_th": "ราคาในเมนูรวมภาษีมูลค่าเพิ่ม 7% แล้ว",
+      "cefr": "B1",
+      "note_th": "VAT = value added tax ไทยเก็บ 7% — price includes VAT = รวมแวทแล้ว, excludes VAT / plus VAT = ยังไม่รวม (ต้องบวกเพิ่มอีก 7%) ระวังตอนดูราคาโรงแรมและร้านอาหาร",
+      "distractors": [
+        "tax refund",
+        "VIP",
+        "vet"
+      ]
+    },
+    {
+      "id": "altogether",
+      "word": "altogether",
+      "pos": "adverb",
+      "ipa": "/ˌɔːltəˈɡeðər/",
+      "reading_th": "ออล-ทู-เก-เธอร์",
+      "meaning_th": "ทั้งหมดรวมกัน",
+      "emoji": "🧮",
+      "example_en": "Two coffees and a cake is 350 baht altogether.",
+      "example_th": "กาแฟสองแก้วกับเค้กหนึ่งชิ้น รวมกันทั้งหมด 350 บาท",
+      "cefr": "B1",
+      "note_th": "altogether (คำเดียว) = รวมทั้งหมด/โดยสิ้นเชิง ส่วน all together (สองคำ) = อยู่ด้วยกันทุกคน — How much is that altogether? = ทั้งหมดเท่าไหร่",
+      "distractors": [
+        "all together",
+        "although",
+        "together"
+      ]
+    },
+    {
+      "id": "twice",
+      "word": "twice",
+      "pos": "adverb",
+      "ipa": "/twaɪs/",
+      "reading_th": "ทไวซ์",
+      "meaning_th": "สองเท่า / สองครั้ง",
+      "emoji": "✌️",
+      "example_en": "This phone costs twice as much as mine.",
+      "example_th": "โทรศัพท์เครื่องนี้ราคาแพงเป็นสองเท่าของเครื่องฉัน",
+      "cefr": "A2",
+      "note_th": "once (1 ครั้ง) twice (2 ครั้ง) แต่ 3 ครั้งขึ้นไปใช้ three times — twice as big as = ใหญ่เป็นสองเท่า, twice a week = สัปดาห์ละสองครั้ง",
+      "distractors": [
+        "twins",
+        "twist",
+        "once"
+      ]
+    },
+    {
+      "id": "triple",
+      "word": "triple",
+      "pos": "adjective",
+      "ipa": "/ˈtrɪpl/",
+      "reading_th": "ทริป-เปิล",
+      "meaning_th": "สามเท่า",
+      "emoji": "3️⃣",
+      "example_en": "Sales reached triple the amount of last year.",
+      "example_th": "ยอดขายสูงถึงสามเท่าของปีที่แล้ว",
+      "cefr": "B1",
+      "note_th": "single (1) double (2) triple (3) quadruple (4) — เป็นกริยาได้: prices tripled = ราคาขึ้นสามเท่า และ triple room = ห้องพักสามเตียง",
+      "distractors": [
+        "trip",
+        "tripod",
+        "double"
+      ]
+    },
+    {
+      "id": "exact",
+      "word": "exact",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzækt/",
+      "reading_th": "อิก-แซคท์",
+      "meaning_th": "ตรงเป๊ะ / แน่นอน",
+      "emoji": "🎯",
+      "example_en": "Please pay the exact amount; the driver has no change.",
+      "example_th": "กรุณาจ่ายเงินพอดี คนขับไม่มีเงินทอน",
+      "cefr": "B1",
+      "note_th": "exact change = เงินพอดี (ป้ายบนรถเมล์ต่างประเทศ) exactly = ตรงเป๊ะ/ใช่เลย — the exact time, the exact number ตรงข้ามกับ approximate",
+      "distractors": [
+        "exam",
+        "except",
+        "extra"
+      ]
+    },
+    {
+      "id": "roughly",
+      "word": "roughly",
+      "pos": "adverb",
+      "ipa": "/ˈrʌfli/",
+      "reading_th": "รัฟ-ลี",
+      "meaning_th": "คร่าวๆ / ราวๆ",
+      "emoji": "🤏",
+      "example_en": "The repair will cost roughly two thousand baht.",
+      "example_th": "ค่าซ่อมราวๆ สองพันบาท",
+      "cefr": "B1",
+      "note_th": "roughly = ประมาณแบบไม่เป๊ะ (ภาษาพูด) = about, around — มาจาก rough (หยาบ) a rough estimate = ตัวเลขคร่าวๆ ใช้ตอนขอราคาจากช่าง",
+      "distractors": [
+        "rough",
+        "rarely",
+        "roughly speaking"
+      ]
+    },
+    {
+      "id": "figure",
+      "word": "figure",
+      "pos": "noun",
+      "ipa": "/ˈfɪɡjər/",
+      "reading_th": "ฟิก-เกอร์",
+      "meaning_th": "ตัวเลข (สถิติ) / จำนวนเงิน",
+      "emoji": "🔢",
+      "example_en": "Sales figures for this month look much better.",
+      "example_th": "ตัวเลขยอดขายเดือนนี้ดูดีขึ้นมาก",
+      "cefr": "B1",
+      "note_th": "figures = ตัวเลขในรายงาน (sales figures), a six-figure salary = เงินเดือนหกหลัก — figure out = คิดออก/หาคำตอบ และ figure = รูปร่าง/ภาพประกอบ (Figure 1)",
+      "distractors": [
+        "finger",
+        "feature",
+        "future"
+      ]
+    },
+    {
+      "id": "convert",
+      "word": "convert",
+      "pos": "verb",
+      "ipa": "/kənˈvɜːrt/",
+      "reading_th": "คัน-เวิร์ท",
+      "meaning_th": "แปลงหน่วย / แปลงค่า",
+      "emoji": "🔄",
+      "example_en": "Convert 100 dollars into baht at today's rate.",
+      "example_th": "แปลง 100 ดอลลาร์เป็นเงินบาทตามอัตราวันนี้",
+      "cefr": "B1",
+      "note_th": "convert A into/to B = แปลง A เป็น B (เงิน หน่วย ไฟล์) คำนาม conversion — currency converter = เครื่องมือแปลงสกุลเงินที่ใช้ตอนไปเที่ยว",
+      "distractors": [
+        "concert",
+        "converse",
+        "invert"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "startup",
+    "name_en": "Startup & Investing",
+    "name_th": "สตาร์ทอัพและการลงทุน",
+    "emoji": "🚀",
+    "color_start": "#C084FC",
+    "color_end": "#7E22CE",
+    "description_th": "ศัพท์โลกสตาร์ทอัพ ระดมทุน พิตช์ หุ้น และการลงทุนที่คนรุ่นใหม่ควรรู้",
+    "mascot_costume": "suit",
+    "lessons": [
+      {
+        "id": "startup_1",
+        "title_en": "Founding",
+        "title_th": "เริ่มก่อตั้ง",
+        "emoji": "💡",
+        "word_ids": [
+          "founder",
+          "co_founder",
+          "venture",
+          "business_plan",
+          "side_hustle",
+          "bootstrap",
+          "incubator",
+          "accelerator",
+          "niche",
+          "pain_point",
+          "solution",
+          "market_research",
+          "validate",
+          "innovation"
+        ]
+      },
+      {
+        "id": "startup_2",
+        "title_en": "Product & MVP",
+        "title_th": "สร้างโปรดักต์",
+        "emoji": "🧪",
+        "word_ids": [
+          "mvp",
+          "prototype",
+          "beta",
+          "user",
+          "roadmap",
+          "iterate",
+          "early_adopter",
+          "product_market_fit",
+          "demo",
+          "user_experience",
+          "release",
+          "metric",
+          "landing_page",
+          "waitlist"
+        ]
+      },
+      {
+        "id": "startup_3",
+        "title_en": "Pitch & Fundraise",
+        "title_th": "พิตช์และระดมทุน",
+        "emoji": "🎤",
+        "word_ids": [
+          "pitch",
+          "pitch_deck",
+          "elevator_pitch",
+          "fundraising",
+          "investor",
+          "angel_investor",
+          "venture_capital",
+          "seed_round",
+          "valuation",
+          "traction",
+          "revenue",
+          "burn_rate",
+          "crowdfunding",
+          "projection"
+        ]
+      },
+      {
+        "id": "startup_4",
+        "title_en": "Investors & Shares",
+        "title_th": "นักลงทุนและหุ้นส่วน",
+        "emoji": "🤝",
+        "word_ids": [
+          "equity",
+          "shareholder",
+          "stake",
+          "dilution",
+          "term_sheet",
+          "due_diligence",
+          "board_of_directors",
+          "vesting",
+          "stock_option",
+          "ownership",
+          "asset",
+          "net_worth",
+          "majority",
+          "payout"
+        ]
+      },
+      {
+        "id": "startup_5",
+        "title_en": "Stock Market",
+        "title_th": "ตลาดหุ้นเบื้องต้น",
+        "emoji": "📈",
+        "word_ids": [
+          "stock_exchange",
+          "broker",
+          "index",
+          "bull_market",
+          "bear_market",
+          "volatile",
+          "trade",
+          "diversify",
+          "blue_chip",
+          "market_cap",
+          "bond",
+          "etf",
+          "yield",
+          "passive_income"
+        ]
+      },
+      {
+        "id": "startup_6",
+        "title_en": "Crypto & Fintech",
+        "title_th": "คริปโตและฟินเทค",
+        "emoji": "🪙",
+        "word_ids": [
+          "cryptocurrency",
+          "blockchain",
+          "token",
+          "mining",
+          "nft",
+          "stablecoin",
+          "fintech",
+          "peer_to_peer",
+          "transaction",
+          "decentralized",
+          "ledger",
+          "private_key",
+          "altcoin",
+          "rug_pull"
+        ]
+      },
+      {
+        "id": "startup_7",
+        "title_en": "Scale & Exit",
+        "title_th": "ขยายและเอ็กซิต",
+        "emoji": "🦄",
+        "word_ids": [
+          "scale_up",
+          "pivot",
+          "churn",
+          "unicorn",
+          "acquisition",
+          "merger",
+          "ipo",
+          "go_public",
+          "exit_strategy",
+          "profitable",
+          "market_share",
+          "cash_flow",
+          "franchise",
+          "layoff"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "founder",
+      "word": "founder",
+      "pos": "noun",
+      "ipa": "/ˈfaʊndər/",
+      "reading_th": "ฟาวน์-เดอร์",
+      "meaning_th": "ผู้ก่อตั้ง",
+      "emoji": "🧑‍💼",
+      "example_en": "The founder started the company in her parents' garage.",
+      "example_th": "ผู้ก่อตั้งเริ่มบริษัทในโรงรถของพ่อแม่",
+      "cefr": "A2",
+      "note_th": "found (ก่อตั้ง) ไม่ใช่อดีตของ find ในที่นี้ — founded in 2020 = ก่อตั้งปี 2020 และ founder มักเขียนคู่กับ CEO: Founder & CEO",
+      "distractors": [
+        "fonder",
+        "finder",
+        "funder"
+      ]
+    },
+    {
+      "id": "co_founder",
+      "word": "co-founder",
+      "pos": "noun",
+      "ipa": "/ˌkoʊ ˈfaʊndər/",
+      "reading_th": "โค-ฟาวน์-เดอร์",
+      "meaning_th": "ผู้ร่วมก่อตั้ง",
+      "emoji": "👥",
+      "example_en": "My co-founder handles the tech while I talk to customers.",
+      "example_th": "ผู้ร่วมก่อตั้งดูแลฝั่งเทค ส่วนฉันคุยกับลูกค้า",
+      "cefr": "B1",
+      "note_th": "co- = ร่วมกัน (co-worker, co-host, co-author) — นักลงทุนส่วนใหญ่ชอบสตาร์ทอัพที่มี co-founder มากกว่า solo founder เพราะไม่พึ่งคนเดียว",
+      "distractors": [
+        "coworker",
+        "founder",
+        "coordinator"
+      ]
+    },
+    {
+      "id": "venture",
+      "word": "venture",
+      "pos": "noun",
+      "ipa": "/ˈventʃər/",
+      "reading_th": "เวน-เชอร์",
+      "meaning_th": "กิจการใหม่ที่มีความเสี่ยง",
+      "emoji": "🧭",
+      "example_en": "Her new venture sells Thai snacks to Japan online.",
+      "example_th": "กิจการใหม่ของเธอขายขนมไทยไปญี่ปุ่นผ่านออนไลน์",
+      "cefr": "B2",
+      "note_th": "venture = ธุรกิจใหม่ที่เสี่ยงแต่อาจได้ผลตอบแทนสูง — joint venture (JV) = บริษัทร่วมทุน และ venture capital = เงินทุนสำหรับกิจการแบบนี้",
+      "distractors": [
+        "adventure",
+        "vendor",
+        "venue"
+      ]
+    },
+    {
+      "id": "business_plan",
+      "word": "business plan",
+      "pos": "noun",
+      "ipa": "/ˈbɪznəs plæn/",
+      "reading_th": "บิซ-เนส แพลน",
+      "meaning_th": "แผนธุรกิจ",
+      "emoji": "📝",
+      "example_en": "The bank wants a business plan before it gives us a loan.",
+      "example_th": "ธนาคารต้องการแผนธุรกิจก่อนให้เรากู้",
+      "cefr": "A2",
+      "note_th": "business plan = เอกสารยาวสำหรับธนาคารหรือกรรมการ ส่วนสตาร์ทอัพยุคใหม่ใช้ pitch deck สั้นกว่าและ lean canvas หนึ่งหน้า",
+      "distractors": [
+        "business card",
+        "business trip",
+        "floor plan"
+      ]
+    },
+    {
+      "id": "side_hustle",
+      "word": "side hustle",
+      "pos": "noun",
+      "ipa": "/ˈsaɪd ˌhʌsl/",
+      "reading_th": "ไซด์ ฮัส-เซิล",
+      "meaning_th": "งานเสริม / อาชีพเสริม",
+      "emoji": "🌙",
+      "example_en": "Selling stickers online started as a side hustle.",
+      "example_th": "การขายสติกเกอร์ออนไลน์เริ่มจากการเป็นงานเสริม",
+      "cefr": "B1",
+      "note_th": "side hustle = งานเสริมนอกเวลางานหลัก ฟังสนุกกว่า second job — hustle (v.) แปลว่าขยันทำเงิน และ hustle culture คือค่านิยมทำงานหนักไม่หยุด",
+      "distractors": [
+        "side effect",
+        "part-time",
+        "side dish"
+      ]
+    },
+    {
+      "id": "bootstrap",
+      "word": "bootstrap",
+      "pos": "verb",
+      "ipa": "/ˈbuːtstræp/",
+      "reading_th": "บูต-สแตรป",
+      "meaning_th": "ทำธุรกิจด้วยเงินตัวเอง ไม่ระดมทุน",
+      "emoji": "🥾",
+      "example_en": "We bootstrap the company with savings and early sales.",
+      "example_th": "เราสร้างบริษัทด้วยเงินเก็บและยอดขายช่วงแรก ไม่พึ่งนักลงทุน",
+      "cefr": "B2",
+      "note_th": "bootstrapped startup = สตาร์ทอัพที่โตด้วยกำไรตัวเอง ไม่รับเงินนักลงทุน — มาจากสำนวน pull yourself up by your bootstraps = ดึงตัวเองขึ้นมาด้วยแรงตัวเอง",
+      "distractors": [
+        "boot",
+        "bootcamp",
+        "backstage"
+      ]
+    },
+    {
+      "id": "incubator",
+      "word": "incubator",
+      "pos": "noun",
+      "ipa": "/ˈɪŋkjubeɪtər/",
+      "reading_th": "อิน-คิว-เบ-เตอร์",
+      "meaning_th": "ศูนย์บ่มเพาะสตาร์ทอัพ",
+      "emoji": "🐣",
+      "example_en": "The university incubator gives free office space to new teams.",
+      "example_th": "ศูนย์บ่มเพาะของมหาวิทยาลัยให้พื้นที่ออฟฟิศฟรีกับทีมใหม่",
+      "cefr": "B2",
+      "note_th": "incubator เดิมคือตู้ฟักไข่/ตู้อบเด็กแรกเกิด ในวงการธุรกิจ = โครงการที่เลี้ยงไอเดียตั้งแต่ยังไม่มีบริษัท — มหาวิทยาลัยไทยหลายแห่งมี",
+      "distractors": [
+        "accelerator",
+        "incubation",
+        "calculator"
+      ]
+    },
+    {
+      "id": "accelerator",
+      "word": "accelerator",
+      "pos": "noun",
+      "ipa": "/əkˈseləreɪtər/",
+      "reading_th": "แอ็ก-เซ-เลอ-เร-เตอร์",
+      "meaning_th": "โครงการเร่งสปีดสตาร์ทอัพ",
+      "emoji": "⚡",
+      "example_en": "After the accelerator, the team raised money from three investors.",
+      "example_th": "หลังจบโครงการเร่งสปีด ทีมระดมทุนจากนักลงทุนได้สามราย",
+      "cefr": "B2",
+      "note_th": "accelerator = โปรแกรมสั้นๆ 3–6 เดือนที่ให้เงินก้อนเล็กแลกหุ้นและพาไปเจอนักลงทุน (Y Combinator ดังสุด) ส่วน incubator ช้ากว่าและเน้นเริ่มต้น",
+      "distractors": [
+        "incubator",
+        "elevator",
+        "escalator"
+      ]
+    },
+    {
+      "id": "niche",
+      "word": "niche",
+      "pos": "noun",
+      "ipa": "/niːʃ/",
+      "reading_th": "นีช",
+      "meaning_th": "ตลาดเฉพาะกลุ่ม",
+      "emoji": "🎯",
+      "example_en": "Pet food for old cats is a small but profitable niche.",
+      "example_th": "อาหารสำหรับแมวสูงวัยเป็นตลาดเฉพาะกลุ่มที่เล็กแต่ทำกำไร",
+      "cefr": "B2",
+      "note_th": "ออกเสียง \"นีช\" (อเมริกันบางคนพูด \"นิตช์\") — find your niche = หาตลาดเฉพาะที่คุณชนะได้ และ niche (adj.) = เฉพาะทาง เช่น a niche product",
+      "distractors": [
+        "nice",
+        "notch",
+        "niece"
+      ]
+    },
+    {
+      "id": "pain_point",
+      "word": "pain point",
+      "pos": "noun",
+      "ipa": "/ˈpeɪn pɔɪnt/",
+      "reading_th": "เพน พอยต์",
+      "meaning_th": "ปัญหาที่ลูกค้าเจ็บปวด",
+      "emoji": "😣",
+      "example_en": "The biggest pain point for drivers is finding parking downtown.",
+      "example_th": "ปัญหาที่คนขับรถเจ็บปวดที่สุดคือการหาที่จอดในเมือง",
+      "cefr": "B2",
+      "note_th": "pain point = ปัญหาที่ลูกค้ายอมจ่ายเงินเพื่อให้หายไป สตาร์ทอัพที่ดีเริ่มจากตรงนี้ไม่ใช่จากเทคโนโลยี — คนไทยพูดทับศัพท์ \"เพนพอยต์\" กันทั่วไปแล้ว",
+      "distractors": [
+        "pain",
+        "turning point",
+        "bullet point"
+      ]
+    },
+    {
+      "id": "solution",
+      "word": "solution",
+      "pos": "noun",
+      "ipa": "/səˈluːʃn/",
+      "reading_th": "โซ-ลู-ชัน",
+      "meaning_th": "ทางแก้ / โซลูชัน",
+      "emoji": "💡",
+      "example_en": "Our solution saves restaurants two hours of paperwork a day.",
+      "example_th": "โซลูชันของเราช่วยร้านอาหารประหยัดเวลาทำเอกสารวันละสองชั่วโมง",
+      "cefr": "A2",
+      "note_th": "solution = ทางแก้ปัญหา (solve + -tion) ในวงการเทคใช้เรียกสินค้า/บริการที่ขายแบบดูเก่ง เช่น payment solution — ในวิชาเคมีแปลว่าสารละลาย",
+      "distractors": [
+        "pollution",
+        "resolution",
+        "salute"
+      ]
+    },
+    {
+      "id": "market_research",
+      "word": "market research",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪt rɪˌsɜːrtʃ/",
+      "reading_th": "มาร์-เก็ต รี-เสิร์ช",
+      "meaning_th": "การวิจัยตลาด",
+      "emoji": "🔍",
+      "example_en": "Do some market research before you order a thousand units.",
+      "example_th": "ทำการวิจัยตลาดสักหน่อยก่อนสั่งผลิตพันชิ้น",
+      "cefr": "B1",
+      "note_th": "market research = ถามลูกค้า ดูคู่แข่ง ดูขนาดตลาด ก่อนลงทุน — ใช้ do/conduct market research และวิธีง่ายสุดคือ customer interview ไม่ใช่แค่แบบสอบถาม",
+      "distractors": [
+        "market share",
+        "research paper",
+        "marketing"
+      ]
+    },
+    {
+      "id": "validate",
+      "word": "validate",
+      "pos": "verb",
+      "ipa": "/ˈvælɪdeɪt/",
+      "reading_th": "แว-ลิ-เดต",
+      "meaning_th": "พิสูจน์ว่าไอเดียใช้ได้จริง",
+      "emoji": "✅",
+      "example_en": "Validate the idea with ten real customers before building anything.",
+      "example_th": "พิสูจน์ไอเดียกับลูกค้าจริงสิบคนก่อนลงมือสร้างอะไร",
+      "cefr": "B2",
+      "note_th": "validate an idea = เช็กว่ามีคนอยากซื้อจริงไหม — ในไอที validate แปลว่าตรวจว่าข้อมูลถูกต้อง (validate the form) และ validated parking = จอดฟรีเมื่อประทับตรา",
+      "distractors": [
+        "evaluate",
+        "value",
+        "violate"
+      ]
+    },
+    {
+      "id": "innovation",
+      "word": "innovation",
+      "pos": "noun",
+      "ipa": "/ˌɪnəˈveɪʃn/",
+      "reading_th": "อิน-โน-เว-ชัน",
+      "meaning_th": "นวัตกรรม",
+      "emoji": "🚀",
+      "example_en": "Real innovation solves an old problem in a new way.",
+      "example_th": "นวัตกรรมที่แท้จริงคือการแก้ปัญหาเก่าด้วยวิธีใหม่",
+      "cefr": "B1",
+      "note_th": "innovation (น.) / innovative (adj.) / innovate (ก.) — คำที่หน่วยงานไทยชอบมาก แต่ฝรั่งเตือนว่า innovation ไม่ใช่แค่ของใหม่ ต้องมีคนใช้จริงด้วย",
+      "distractors": [
+        "invention",
+        "invitation",
+        "renovation"
+      ]
+    },
+    {
+      "id": "mvp",
+      "word": "MVP",
+      "pos": "noun",
+      "ipa": "/ˌem viː ˈpiː/",
+      "reading_th": "เอ็ม-วี-พี",
+      "meaning_th": "ผลิตภัณฑ์ขั้นต่ำที่ใช้งานได้",
+      "emoji": "🧪",
+      "example_en": "Our MVP was just a LINE account that took orders by hand.",
+      "example_th": "MVP ของเราคือบัญชี LINE ที่รับออเดอร์ด้วยมือเท่านั้น",
+      "cefr": "B2",
+      "note_th": "MVP = minimum viable product เวอร์ชันเล็กที่สุดที่พอให้ลูกค้าทดลองใช้ได้ ไม่ใช่ของสมบูรณ์ — ในกีฬา MVP = most valuable player คนละเรื่อง",
+      "distractors": [
+        "VIP",
+        "MBA",
+        "MP3"
+      ]
+    },
+    {
+      "id": "prototype",
+      "word": "prototype",
+      "pos": "noun",
+      "ipa": "/ˈproʊtətaɪp/",
+      "reading_th": "โพร-โต-ไทป์",
+      "meaning_th": "ต้นแบบ",
+      "emoji": "🛠️",
+      "example_en": "The prototype is made of cardboard, but it shows the idea.",
+      "example_th": "ต้นแบบทำจากกระดาษลัง แต่ก็สื่อไอเดียได้",
+      "cefr": "B1",
+      "note_th": "prototype = ของทดลองที่ทำเพื่อดูว่าใช้ได้ไหม อาจไม่ใช้งานจริง ส่วน MVP ต้องใช้งานได้จริงและมีลูกค้าใช้ — ใน Figma คือหน้าจอกดเล่นได้",
+      "distractors": [
+        "protocol",
+        "stereotype",
+        "photo"
+      ]
+    },
+    {
+      "id": "beta",
+      "word": "beta",
+      "pos": "noun",
+      "ipa": "/ˈbeɪtə/",
+      "reading_th": "เบ-ตา",
+      "meaning_th": "เวอร์ชันทดลองก่อนปล่อยจริง",
+      "emoji": "🧫",
+      "example_en": "Join the beta and tell us what breaks.",
+      "example_th": "เข้าร่วมเวอร์ชันทดลองแล้วบอกเราว่าอะไรพัง",
+      "cefr": "B1",
+      "note_th": "alpha = ทดสอบภายใน, beta = ให้คนนอกบางกลุ่มลอง, launch = ปล่อยจริง — อเมริกันออก \"เบ-ตา\" อังกฤษออก \"บี-ตา\" และ beta tester = คนทดสอบ",
+      "distractors": [
+        "better",
+        "bet",
+        "data"
+      ]
+    },
+    {
+      "id": "user",
+      "word": "user",
+      "pos": "noun",
+      "ipa": "/ˈjuːzər/",
+      "reading_th": "ยู-เซอร์",
+      "meaning_th": "ผู้ใช้",
+      "emoji": "🙋",
+      "example_en": "We have ten thousand users, but only a few pay.",
+      "example_th": "เรามีผู้ใช้หนึ่งหมื่นคน แต่มีแค่ไม่กี่คนที่จ่ายเงิน",
+      "cefr": "A2",
+      "note_th": "user = คนใช้แอป ไม่จำเป็นต้องจ่าย ส่วน customer = คนจ่ายเงิน — ตัวเลขที่นักลงทุนถาม: active users (ผู้ใช้ที่ยังใช้อยู่) ไม่ใช่ยอดดาวน์โหลด",
+      "distractors": [
+        "usher",
+        "used",
+        "customer"
+      ]
+    },
+    {
+      "id": "roadmap",
+      "word": "roadmap",
+      "pos": "noun",
+      "ipa": "/ˈroʊdmæp/",
+      "reading_th": "โรด-แมป",
+      "meaning_th": "แผนพัฒนาตามลำดับเวลา",
+      "emoji": "🗺️",
+      "example_en": "The roadmap says payments come in March and chat in June.",
+      "example_th": "แผนพัฒนาบอกว่าระบบจ่ายเงินมาเดือนมีนาคม และแชตมาเดือนมิถุนายน",
+      "cefr": "B1",
+      "note_th": "product roadmap = ลำดับว่าจะสร้างอะไรเมื่อไหร่ แสดงเป็นไตรมาส — คำนี้ไม่ได้แปลว่าแผนที่ถนนแล้วในบริบทธุรกิจ และนักลงทุนขอดูเสมอ",
+      "distractors": [
+        "map",
+        "road trip",
+        "sitemap"
+      ]
+    },
+    {
+      "id": "iterate",
+      "word": "iterate",
+      "pos": "verb",
+      "ipa": "/ˈɪtəreɪt/",
+      "reading_th": "อิ-เทอ-เรต",
+      "meaning_th": "ปรับปรุงซ้ำเป็นรอบๆ",
+      "emoji": "🔁",
+      "example_en": "Launch something small, listen, and iterate every week.",
+      "example_th": "ปล่อยของเล็กๆ ออกไป ฟังเสียงลูกค้า แล้วปรับปรุงซ้ำทุกสัปดาห์",
+      "cefr": "B2",
+      "note_th": "iterate = ทำซ้ำแบบดีขึ้นทีละรอบ (iteration = หนึ่งรอบ) เป็นหัวใจของวิธี lean startup — อย่าสับสนกับ reiterate ที่แปลว่าพูดย้ำ",
+      "distractors": [
+        "reiterate",
+        "irritate",
+        "imitate"
+      ]
+    },
+    {
+      "id": "early_adopter",
+      "word": "early adopter",
+      "pos": "noun",
+      "ipa": "/ˌɜːrli əˈdɑːptər/",
+      "reading_th": "เออร์-ลี อะ-ดอป-เตอร์",
+      "meaning_th": "ผู้ใช้กลุ่มแรกที่กล้าลองของใหม่",
+      "emoji": "🏃",
+      "example_en": "Early adopters forgive bugs because they love trying new things.",
+      "example_th": "ผู้ใช้กลุ่มแรกให้อภัยบั๊กได้ เพราะพวกเขาชอบลองของใหม่",
+      "cefr": "B2",
+      "note_th": "adopt = รับมาใช้ (ไม่ใช่แค่รับเลี้ยงเด็ก) early adopter จึง = คนที่ใช้ก่อนใคร — ตรงข้ามคือ late majority ที่รอจนทุกคนใช้แล้วค่อยตาม",
+      "distractors": [
+        "adapter",
+        "early bird",
+        "adoption"
+      ]
+    },
+    {
+      "id": "product_market_fit",
+      "word": "product-market fit",
+      "pos": "noun",
+      "ipa": "/ˌprɑːdʌkt ˈmɑːrkɪt fɪt/",
+      "reading_th": "โพร-ดักต์-มาร์-เก็ต ฟิต",
+      "meaning_th": "สินค้าตรงใจตลาดจริง",
+      "emoji": "🧲",
+      "example_en": "You know you have product-market fit when customers pull the product from you.",
+      "example_th": "คุณจะรู้ว่าสินค้าตรงใจตลาดเมื่อลูกค้าวิ่งมาขอซื้อเอง",
+      "cefr": "B2",
+      "note_th": "ย่อว่า PMF = จุดที่ลูกค้าบอกต่อและกลับมาซื้อเองโดยไม่ต้องยัดเยียดโฆษณา — ก่อนถึงจุดนี้นักลงทุนจะบอกว่า \"อย่าเพิ่งเร่งโต\"",
+      "distractors": [
+        "market share",
+        "product launch",
+        "fitness"
+      ]
+    },
+    {
+      "id": "demo",
+      "word": "demo",
+      "pos": "noun",
+      "ipa": "/ˈdemoʊ/",
+      "reading_th": "เด-โม",
+      "meaning_th": "การสาธิตสินค้า",
+      "emoji": "🎬",
+      "example_en": "Give a short demo and let the investors try it themselves.",
+      "example_th": "สาธิตสั้นๆ แล้วให้นักลงทุนลองใช้เอง",
+      "cefr": "A2",
+      "note_th": "demo ย่อจาก demonstration — demo day = วันที่สตาร์ทอัพในโครงการขึ้นพิตช์ต่อหน้านักลงทุน และ book a demo คือปุ่มที่ทุกเว็บ B2B มี",
+      "distractors": [
+        "memo",
+        "demon",
+        "democracy"
+      ]
+    },
+    {
+      "id": "user_experience",
+      "word": "user experience",
+      "pos": "noun",
+      "ipa": "/ˌjuːzər ɪkˈspɪriəns/",
+      "reading_th": "ยู-เซอร์ อิก-สปี-เรียนซ์",
+      "meaning_th": "ประสบการณ์ผู้ใช้ (UX)",
+      "emoji": "🎨",
+      "example_en": "A good user experience means nobody needs a manual.",
+      "example_th": "ประสบการณ์ผู้ใช้ที่ดีคือไม่มีใครต้องอ่านคู่มือ",
+      "cefr": "B1",
+      "note_th": "UX = ความรู้สึกทั้งหมดตั้งแต่เปิดแอปจนปิด ส่วน UI คือหน้าตาที่เห็น — UX designer ในไทยเงินเดือนดี เพราะแอปสวยแต่ใช้ยากคือ bad UX",
+      "distractors": [
+        "work experience",
+        "user interface",
+        "experiment"
+      ]
+    },
+    {
+      "id": "release",
+      "word": "release",
+      "pos": "verb",
+      "ipa": "/rɪˈliːs/",
+      "reading_th": "รี-ลีส",
+      "meaning_th": "ปล่อยเวอร์ชันใหม่ออกสู่ผู้ใช้",
+      "emoji": "📦",
+      "example_en": "We release a new version to the app store every two weeks.",
+      "example_th": "เราปล่อยเวอร์ชันใหม่ขึ้นสโตร์ทุกสองสัปดาห์",
+      "cefr": "B1",
+      "note_th": "release = ปล่อยออกมา (release notes = รายการสิ่งที่เปลี่ยน, new release = รุ่นใหม่) ใช้กับหนัง เพลง และปล่อยตัวนักโทษได้ด้วย — press release = ข่าวแจก",
+      "distractors": [
+        "realize",
+        "lease",
+        "relief"
+      ]
+    },
+    {
+      "id": "metric",
+      "word": "metric",
+      "pos": "noun",
+      "ipa": "/ˈmetrɪk/",
+      "reading_th": "เม-ทริก",
+      "meaning_th": "ตัวชี้วัด / ตัวเลขที่ใช้วัดผล",
+      "emoji": "📏",
+      "example_en": "Pick one metric that matters and watch it every day.",
+      "example_th": "เลือกตัวชี้วัดสำคัญหนึ่งตัวแล้วดูมันทุกวัน",
+      "cefr": "B2",
+      "note_th": "metric = ตัวเลขที่ใช้วัดความสำเร็จ (daily active users, revenue) ส่วน KPI คือ metric ที่ตั้งเป็นเป้า — vanity metric = ตัวเลขดูดีแต่ไร้ความหมาย เช่น ยอดไลก์",
+      "distractors": [
+        "meter",
+        "matrix",
+        "metro"
+      ]
+    },
+    {
+      "id": "landing_page",
+      "word": "landing page",
+      "pos": "noun",
+      "ipa": "/ˈlændɪŋ peɪdʒ/",
+      "reading_th": "แลน-ดิง เพจ",
+      "meaning_th": "หน้าเว็บหน้าเดียวสำหรับขายหรือรับสมัคร",
+      "emoji": "🛬",
+      "example_en": "We built a landing page in one day to test the idea.",
+      "example_th": "เราสร้างหน้าแลนดิงเพจในวันเดียวเพื่อทดสอบไอเดีย",
+      "cefr": "B1",
+      "note_th": "landing page = หน้าที่ลูกค้า \"ลงจอด\" หลังกดโฆษณา มีปุ่มเดียวให้กด (สมัคร/ซื้อ) — ใช้ทดสอบว่ามีคนสนใจก่อนสร้างสินค้าจริง",
+      "distractors": [
+        "homepage",
+        "landing",
+        "web page"
+      ]
+    },
+    {
+      "id": "waitlist",
+      "word": "waitlist",
+      "pos": "noun",
+      "ipa": "/ˈweɪtlɪst/",
+      "reading_th": "เวต-ลิสต์",
+      "meaning_th": "รายชื่อรอคิวใช้งาน",
+      "emoji": "📋",
+      "example_en": "Five thousand people joined the waitlist before launch day.",
+      "example_th": "มีคนห้าพันคนลงชื่อรอคิวก่อนวันเปิดตัว",
+      "cefr": "B1",
+      "note_th": "join the waitlist = ลงชื่อรอใช้ก่อนเปิดจริง เป็นวิธีวัดความสนใจที่สตาร์ทอัพชอบใช้ — เขียนติดกันหรือ waiting list ก็ได้ ร้านอาหารใช้ waiting list",
+      "distractors": [
+        "wishlist",
+        "checklist",
+        "playlist"
+      ]
+    },
+    {
+      "id": "pitch",
+      "word": "pitch",
+      "pos": "verb",
+      "ipa": "/pɪtʃ/",
+      "reading_th": "พิตช์",
+      "meaning_th": "นำเสนอไอเดียเพื่อขอทุนหรือขายของ",
+      "emoji": "🎤",
+      "example_en": "You have five minutes to pitch your idea to the judges.",
+      "example_th": "คุณมีเวลาห้านาทีในการพิตช์ไอเดียต่อกรรมการ",
+      "cefr": "B1",
+      "note_th": "pitch (ก./น.) = นำเสนอให้คนซื้อหรือลงทุน ใช้ pitch to investors — ในกีฬา pitch = สนามฟุตบอล/การขว้างบอล และ sales pitch = คำพูดขายของ",
+      "distractors": [
+        "patch",
+        "peach",
+        "pinch"
+      ]
+    },
+    {
+      "id": "pitch_deck",
+      "word": "pitch deck",
+      "pos": "noun",
+      "ipa": "/ˈpɪtʃ dek/",
+      "reading_th": "พิตช์ เด็ก",
+      "meaning_th": "สไลด์นำเสนอสำหรับนักลงทุน",
+      "emoji": "📊",
+      "example_en": "A good pitch deck has about twelve slides and a clear ask.",
+      "example_th": "พิตช์เด็กที่ดีมีราวสิบสองสไลด์และบอกชัดว่าขออะไร",
+      "cefr": "B2",
+      "note_th": "deck ในที่นี้ = ชุดสไลด์ (จาก a deck of cards) ไม่ใช่ดาดฟ้าเรือ — สไลด์มาตรฐาน: problem, solution, market, traction, team, ask",
+      "distractors": [
+        "pitch",
+        "deck chair",
+        "sun deck"
+      ]
+    },
+    {
+      "id": "elevator_pitch",
+      "word": "elevator pitch",
+      "pos": "noun",
+      "ipa": "/ˈelɪveɪtər pɪtʃ/",
+      "reading_th": "เอ-ลิ-เว-เตอร์ พิตช์",
+      "meaning_th": "การนำเสนอสั้นๆ ภายใน 30 วินาที",
+      "emoji": "🛗",
+      "example_en": "Practice your elevator pitch until you can say it in thirty seconds.",
+      "example_th": "ซ้อมการนำเสนอแบบสั้นจนพูดจบได้ในสามสิบวินาที",
+      "cefr": "B2",
+      "note_th": "ชื่อมาจากไอเดียว่าถ้าเจอนักลงทุนในลิฟต์ คุณต้องเล่าให้จบก่อนประตูเปิด — ใช้ตอนแนะนำตัวในงาน networking หรือสัมภาษณ์งานได้ด้วย",
+      "distractors": [
+        "elevator",
+        "sales pitch",
+        "escalator"
+      ]
+    },
+    {
+      "id": "fundraising",
+      "word": "fundraising",
+      "pos": "noun",
+      "ipa": "/ˈfʌndreɪzɪŋ/",
+      "reading_th": "ฟันด์-เรซ-ซิง",
+      "meaning_th": "การระดมทุน",
+      "emoji": "💸",
+      "example_en": "Fundraising took six months and more than forty meetings.",
+      "example_th": "การระดมทุนใช้เวลาหกเดือนและประชุมมากกว่าสี่สิบครั้ง",
+      "cefr": "B1",
+      "note_th": "raise funds / raise money = ระดมทุน (ไม่ใช่ collect money) — \"We raised $1M\" = ระดมทุนได้ 1 ล้านดอลลาร์ ใช้กับการกุศลได้ด้วย (charity fundraising)",
+      "distractors": [
+        "fund",
+        "funding",
+        "franchising"
+      ]
+    },
+    {
+      "id": "investor",
+      "word": "investor",
+      "pos": "noun",
+      "ipa": "/ɪnˈvestər/",
+      "reading_th": "อิน-เวส-เตอร์",
+      "meaning_th": "นักลงทุน",
+      "emoji": "🤵",
+      "example_en": "An investor from Singapore wants to meet the whole team.",
+      "example_th": "นักลงทุนจากสิงคโปร์อยากเจอทีมทั้งหมด",
+      "cefr": "A2",
+      "note_th": "invest (ก.) / investment (น.) / investor (คน) — investor ไม่ได้มีแค่ในสตาร์ทอัพ คนซื้อหุ้นหรือกองทุนก็เรียก retail investor (นักลงทุนรายย่อย)",
+      "distractors": [
+        "inventor",
+        "investigator",
+        "visitor"
+      ]
+    },
+    {
+      "id": "angel_investor",
+      "word": "angel investor",
+      "pos": "noun",
+      "ipa": "/ˈeɪndʒl ɪnˌvestər/",
+      "reading_th": "เอน-เจิล อิน-เวส-เตอร์",
+      "meaning_th": "นักลงทุนรายบุคคลช่วงเริ่มต้น",
+      "emoji": "😇",
+      "example_en": "An angel investor gave us one million baht for ten percent.",
+      "example_th": "นักลงทุนรายบุคคลให้เราหนึ่งล้านบาทแลกหุ้นสิบเปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "angel = คนรวยที่ลงทุนด้วยเงินตัวเองตั้งแต่บริษัทยังไม่มีอะไร ต่างจาก VC ที่ใช้เงินกองทุน — มักเป็นอดีตผู้ก่อตั้งที่เคยขายบริษัทได้",
+      "distractors": [
+        "angle",
+        "venture capital",
+        "investor"
+      ]
+    },
+    {
+      "id": "venture_capital",
+      "word": "venture capital",
+      "pos": "noun",
+      "ipa": "/ˈventʃər ˌkæpɪtl/",
+      "reading_th": "เวน-เชอร์ แค-ปิ-เทิล",
+      "meaning_th": "เงินร่วมลงทุน (VC)",
+      "emoji": "🏦",
+      "example_en": "Venture capital funds expect most of their startups to fail.",
+      "example_th": "กองทุนร่วมลงทุนคาดไว้แล้วว่าสตาร์ทอัพส่วนใหญ่ของพวกเขาจะล้มเหลว",
+      "cefr": "B2",
+      "note_th": "ย่อว่า VC ใช้เรียกทั้งเงินและบริษัท (\"a VC\" = บริษัท VC) — เงิน VC มาพร้อมความคาดหวังโตเร็ว 10 เท่า ไม่เหมาะกับทุกธุรกิจ",
+      "distractors": [
+        "capital city",
+        "venture",
+        "capital gain"
+      ]
+    },
+    {
+      "id": "seed_round",
+      "word": "seed round",
+      "pos": "noun",
+      "ipa": "/ˈsiːd raʊnd/",
+      "reading_th": "ซีด ราวนด์",
+      "meaning_th": "รอบระดมทุนแรกสุด",
+      "emoji": "🌱",
+      "example_en": "They closed a seed round of two million dollars in May.",
+      "example_th": "พวกเขาปิดรอบระดมทุนซีดได้สองล้านดอลลาร์ในเดือนพฤษภาคม",
+      "cefr": "B2",
+      "note_th": "seed = เมล็ด คือเงินก้อนแรกเพื่อปลูกบริษัท ลำดับรอบ: pre-seed → seed → Series A → B → C — close a round = ปิดรอบได้เงินครบ",
+      "distractors": [
+        "seed",
+        "second round",
+        "first round"
+      ]
+    },
+    {
+      "id": "valuation",
+      "word": "valuation",
+      "pos": "noun",
+      "ipa": "/ˌvæljuˈeɪʃn/",
+      "reading_th": "แวล-ยู-เอ-ชัน",
+      "meaning_th": "มูลค่าบริษัทที่ตีราคาไว้",
+      "emoji": "💎",
+      "example_en": "The startup raised money at a valuation of fifty million dollars.",
+      "example_th": "สตาร์ทอัพระดมทุนที่มูลค่าบริษัทห้าสิบล้านดอลลาร์",
+      "cefr": "B2",
+      "note_th": "valuation = ราคาที่ตกลงกันว่าบริษัททั้งบริษัทมีค่าเท่าไหร่ (ไม่ใช่เงินที่มีในบัญชี) — ยิ่ง valuation สูง ผู้ก่อตั้งยิ่งเสียหุ้นน้อยเมื่อรับเงินก้อนเท่าเดิม",
+      "distractors": [
+        "value",
+        "evaluation",
+        "vacation"
+      ]
+    },
+    {
+      "id": "traction",
+      "word": "traction",
+      "pos": "noun",
+      "ipa": "/ˈtrækʃn/",
+      "reading_th": "แทรก-ชัน",
+      "meaning_th": "สัญญาณการเติบโตที่พิสูจน์ได้",
+      "emoji": "📈",
+      "example_en": "Investors want traction: real users, real revenue, real growth.",
+      "example_th": "นักลงทุนอยากเห็นสัญญาณการเติบโต: ผู้ใช้จริง รายได้จริง การโตจริง",
+      "cefr": "B2",
+      "note_th": "traction เดิม = แรงยึดเกาะของล้อ ในสตาร์ทอัพ = หลักฐานว่าธุรกิจเริ่มเกาะถนนแล้ว เช่น ยอดโตเดือนละ 20% — gain traction = เริ่มติดตลาด",
+      "distractors": [
+        "attraction",
+        "tractor",
+        "transaction"
+      ]
+    },
+    {
+      "id": "revenue",
+      "word": "revenue",
+      "pos": "noun",
+      "ipa": "/ˈrevənuː/",
+      "reading_th": "เร-เว-นิว",
+      "meaning_th": "รายได้รวมของบริษัท",
+      "emoji": "💵",
+      "example_en": "Revenue doubled this year, but we still lose money.",
+      "example_th": "รายได้รวมปีนี้เพิ่มเป็นสองเท่า แต่เรายังขาดทุนอยู่",
+      "cefr": "B1",
+      "note_th": "revenue = ยอดขายรวมก่อนหักค่าใช้จ่าย ส่วน profit = กำไรที่เหลือ และ income ใช้กับรายได้บุคคล — ARR = รายได้ต่อปีแบบสมาชิก คำที่ VC ถามเสมอ",
+      "distractors": [
+        "avenue",
+        "review",
+        "venue"
+      ]
+    },
+    {
+      "id": "burn_rate",
+      "word": "burn rate",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrn reɪt/",
+      "reading_th": "เบิร์น เรต",
+      "meaning_th": "อัตราเงินที่ใช้หมดต่อเดือน",
+      "emoji": "🔥",
+      "example_en": "With this burn rate, the money runs out in eight months.",
+      "example_th": "ด้วยอัตราการใช้เงินแบบนี้ เงินจะหมดในแปดเดือน",
+      "cefr": "B2",
+      "note_th": "burn rate = เงินที่ \"เผา\" ไปต่อเดือน (เงินเดือน ค่าเช่า โฆษณา) — เงินสดที่เหลือหารด้วย burn rate = จำนวนเดือนที่ยังอยู่รอด",
+      "distractors": [
+        "interest rate",
+        "burnout",
+        "exchange rate"
+      ]
+    },
+    {
+      "id": "crowdfunding",
+      "word": "crowdfunding",
+      "pos": "noun",
+      "ipa": "/ˈkraʊdfʌndɪŋ/",
+      "reading_th": "คราวด์-ฟัน-ดิง",
+      "meaning_th": "ระดมทุนจากคนจำนวนมากผ่านออนไลน์",
+      "emoji": "🧑‍🤝‍🧑",
+      "example_en": "They used crowdfunding to pay for the first batch of bags.",
+      "example_th": "พวกเขาใช้การระดมทุนจากมวลชนจ่ายค่าผลิตกระเป๋าล็อตแรก",
+      "cefr": "B1",
+      "note_th": "crowd + funding = ให้คนทั่วไปช่วยออกเงินคนละนิดผ่าน Kickstarter หรือเว็บไทย — ผู้สนับสนุนเรียก backer และมักได้สินค้าก่อนใครเป็นรางวัล",
+      "distractors": [
+        "crowd",
+        "funding",
+        "crowdsourcing"
+      ]
+    },
+    {
+      "id": "projection",
+      "word": "projection",
+      "pos": "noun",
+      "ipa": "/prəˈdʒekʃn/",
+      "reading_th": "โพร-เจ็ก-ชัน",
+      "meaning_th": "ตัวเลขคาดการณ์อนาคต",
+      "emoji": "🔭",
+      "example_en": "Our projection shows one million users by year three.",
+      "example_th": "ตัวเลขคาดการณ์ของเราแสดงว่าจะมีผู้ใช้หนึ่งล้านคนภายในปีที่สาม",
+      "cefr": "B2",
+      "note_th": "financial projections = ตารางรายได้และค่าใช้จ่ายที่คาดไว้ 3–5 ปี นักลงทุนรู้ว่ามันเดา แต่ดูว่าคุณคิดเป็นไหม — projector คือเครื่องฉาย คนละคำ",
+      "distractors": [
+        "projector",
+        "protection",
+        "project"
+      ]
+    },
+    {
+      "id": "equity",
+      "word": "equity",
+      "pos": "noun",
+      "ipa": "/ˈekwəti/",
+      "reading_th": "เอ็ก-วิ-ตี",
+      "meaning_th": "หุ้นส่วนความเป็นเจ้าของ",
+      "emoji": "🥧",
+      "example_en": "The first engineer got two percent equity instead of a high salary.",
+      "example_th": "วิศวกรคนแรกได้หุ้นสองเปอร์เซ็นต์แทนเงินเดือนสูง",
+      "cefr": "B2",
+      "note_th": "equity = สัดส่วนความเป็นเจ้าของบริษัท (give up equity = ยอมเสียหุ้น) ส่วน stock/share คือหุ้นเป็นหน่วย — ในอีกความหมาย equity = ความเสมอภาค",
+      "distractors": [
+        "equality",
+        "quantity",
+        "equipment"
+      ]
+    },
+    {
+      "id": "shareholder",
+      "word": "shareholder",
+      "pos": "noun",
+      "ipa": "/ˈʃerhoʊldər/",
+      "reading_th": "แชร์-โฮล-เดอร์",
+      "meaning_th": "ผู้ถือหุ้น",
+      "emoji": "🧑‍⚖️",
+      "example_en": "Every shareholder gets to vote at the annual meeting.",
+      "example_th": "ผู้ถือหุ้นทุกคนมีสิทธิ์ลงคะแนนในการประชุมประจำปี",
+      "cefr": "B1",
+      "note_th": "shareholder (อังกฤษ) = stockholder (อเมริกัน) = คนถือหุ้น — ส่วน stakeholder กว้างกว่า คือทุกคนที่มีส่วนได้เสีย รวมพนักงานและลูกค้า",
+      "distractors": [
+        "stakeholder",
+        "cardholder",
+        "householder"
+      ]
+    },
+    {
+      "id": "stake",
+      "word": "stake",
+      "pos": "noun",
+      "ipa": "/steɪk/",
+      "reading_th": "สเตก",
+      "meaning_th": "สัดส่วนหุ้นที่ถือ / ส่วนได้เสีย",
+      "emoji": "🍰",
+      "example_en": "The fund bought a twenty percent stake in the company.",
+      "example_th": "กองทุนซื้อหุ้นยี่สิบเปอร์เซ็นต์ในบริษัท",
+      "cefr": "B2",
+      "note_th": "a stake in = ส่วนที่คุณเป็นเจ้าของหรือมีส่วนได้เสีย (a majority stake = ถือเกินครึ่ง) — ออกเสียงเหมือน steak สเต็ก และ at stake = กำลังเสี่ยงอยู่",
+      "distractors": [
+        "steak",
+        "stack",
+        "stock"
+      ]
+    },
+    {
+      "id": "dilution",
+      "word": "dilution",
+      "pos": "noun",
+      "ipa": "/daɪˈluːʃn/",
+      "reading_th": "ได-ลู-ชัน",
+      "meaning_th": "สัดส่วนหุ้นลดลงเมื่อออกหุ้นใหม่",
+      "emoji": "🥛",
+      "example_en": "Each funding round causes some dilution for the founders.",
+      "example_th": "ทุกรอบระดมทุนทำให้สัดส่วนหุ้นของผู้ก่อตั้งลดลงบ้าง",
+      "cefr": "B2",
+      "note_th": "dilute = เจือจาง (น้ำผสมน้ำเชื่อม) ในการเงิน = เมื่อออกหุ้นใหม่ให้นักลงทุน หุ้นเดิมทุกคนถือเป็นเปอร์เซ็นต์น้อยลง แม้จำนวนหุ้นเท่าเดิม",
+      "distractors": [
+        "solution",
+        "deletion",
+        "delusion"
+      ]
+    },
+    {
+      "id": "term_sheet",
+      "word": "term sheet",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrm ʃiːt/",
+      "reading_th": "เทิร์ม ชีต",
+      "meaning_th": "เอกสารสรุปเงื่อนไขการลงทุน",
+      "emoji": "📃",
+      "example_en": "Read the term sheet carefully before you say yes to the money.",
+      "example_th": "อ่านเอกสารสรุปเงื่อนไขการลงทุนให้ละเอียดก่อนตอบรับเงิน",
+      "cefr": "B2",
+      "note_th": "term sheet = สรุปข้อตกลงหลัก (มูลค่า จำนวนหุ้น ที่นั่งในบอร์ด) ก่อนทำสัญญาจริง ยังไม่ผูกมัดเต็มที่ — คำว่า terms = เงื่อนไข",
+      "distractors": [
+        "spreadsheet",
+        "cheat sheet",
+        "timesheet"
+      ]
+    },
+    {
+      "id": "due_diligence",
+      "word": "due diligence",
+      "pos": "noun",
+      "ipa": "/ˌduː ˈdɪlɪdʒəns/",
+      "reading_th": "ดิว ดิ-ลิ-เจนซ์",
+      "meaning_th": "การตรวจสอบกิจการก่อนลงทุน",
+      "emoji": "🔎",
+      "example_en": "During due diligence the investor checks every contract and bank statement.",
+      "example_th": "ระหว่างการตรวจสอบกิจการ นักลงทุนจะเช็กทุกสัญญาและรายการเดินบัญชี",
+      "cefr": "B2",
+      "note_th": "ย่อว่า DD = ขั้นตอนที่นักลงทุนตรวจบัญชี กฎหมาย และทีม ก่อนโอนเงิน — do your due diligence ใช้กับชีวิตได้: ตรวจสอบให้ดีก่อนตัดสินใจ",
+      "distractors": [
+        "diligent",
+        "due date",
+        "intelligence"
+      ]
+    },
+    {
+      "id": "board_of_directors",
+      "word": "board of directors",
+      "pos": "noun",
+      "ipa": "/ˌbɔːrd əv dəˈrektərz/",
+      "reading_th": "บอร์ด ออฟ ได-เร็ก-เตอร์ส",
+      "meaning_th": "คณะกรรมการบริษัท",
+      "emoji": "🪑",
+      "example_en": "The board of directors meets every quarter to review the numbers.",
+      "example_th": "คณะกรรมการบริษัทประชุมทุกไตรมาสเพื่อทบทวนตัวเลข",
+      "cefr": "B2",
+      "note_th": "เรียกสั้นๆ ว่า the board — นักลงทุนใหญ่มักขอ a board seat (ที่นั่งในบอร์ด) และบอร์ดมีอำนาจไล่ CEO ได้ แม้จะเป็นผู้ก่อตั้ง",
+      "distractors": [
+        "boardroom",
+        "director",
+        "whiteboard"
+      ]
+    },
+    {
+      "id": "vesting",
+      "word": "vesting",
+      "pos": "noun",
+      "ipa": "/ˈvestɪŋ/",
+      "reading_th": "เวส-ติง",
+      "meaning_th": "การทยอยได้รับหุ้นตามเวลาที่อยู่",
+      "emoji": "⏳",
+      "example_en": "With four-year vesting, you earn your shares a little each month.",
+      "example_th": "ด้วยการทยอยรับหุ้นสี่ปี คุณจะได้หุ้นทีละนิดทุกเดือน",
+      "cefr": "B2",
+      "note_th": "vesting กันไม่ให้คนได้หุ้นแล้วลาออกทันที — มาตรฐาน: 4 ปี มี cliff 1 ปี (ออกก่อนครบปีได้ 0) จากนั้น vest ทุกเดือน ผู้ก่อตั้งก็ต้องมี",
+      "distractors": [
+        "investing",
+        "vest",
+        "testing"
+      ]
+    },
+    {
+      "id": "stock_option",
+      "word": "stock option",
+      "pos": "noun",
+      "ipa": "/ˈstɑːk ˌɑːpʃn/",
+      "reading_th": "สต็อก ออป-ชัน",
+      "meaning_th": "สิทธิ์ซื้อหุ้นบริษัทในราคาที่กำหนด",
+      "emoji": "🎟️",
+      "example_en": "The job pays less, but the stock options could be worth millions.",
+      "example_th": "งานนี้เงินเดือนน้อยกว่า แต่สิทธิ์ซื้อหุ้นอาจมีค่าหลายล้าน",
+      "cefr": "B2",
+      "note_th": "stock option = สิทธิ์ซื้อหุ้นในราคาถูกที่ล็อกไว้วันนี้ ถ้าบริษัทโตค่อยซื้อแล้วขายทำกำไร — แผนให้พนักงานเรียก ESOP ได้ยินบ่อยในสตาร์ทอัพไทย",
+      "distractors": [
+        "stock market",
+        "option",
+        "stock price"
+      ]
+    },
+    {
+      "id": "ownership",
+      "word": "ownership",
+      "pos": "noun",
+      "ipa": "/ˈoʊnərʃɪp/",
+      "reading_th": "โอน-เนอร์-ชิป",
+      "meaning_th": "ความเป็นเจ้าของ",
+      "emoji": "🔑",
+      "example_en": "After the deal, the founders' ownership dropped to forty percent.",
+      "example_th": "หลังดีล ความเป็นเจ้าของของผู้ก่อตั้งลดเหลือสี่สิบเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "ownership = สัดส่วนที่คุณเป็นเจ้าของ (-ship = สถานะ เหมือน membership) — ในที่ทำงาน take ownership = รับผิดชอบงานเหมือนเป็นของตัวเอง คำชมที่หัวหน้าชอบใช้",
+      "distractors": [
+        "membership",
+        "owner",
+        "leadership"
+      ]
+    },
+    {
+      "id": "asset",
+      "word": "asset",
+      "pos": "noun",
+      "ipa": "/ˈæset/",
+      "reading_th": "แอส-เซ็ต",
+      "meaning_th": "สินทรัพย์",
+      "emoji": "🏠",
+      "example_en": "A condo you rent out is an asset; a car is usually not.",
+      "example_th": "คอนโดที่ปล่อยเช่าคือสินทรัพย์ ส่วนรถมักจะไม่ใช่",
+      "cefr": "B1",
+      "note_th": "asset = สิ่งที่มีมูลค่าและทำเงินได้ ตรงข้าม liability = หนี้สิน (จากหนังสือพ่อรวยสอนลูก) — ใช้ชมคนได้: \"She is an asset to the team\" = เธอมีค่ามากกับทีม",
+      "distractors": [
+        "assess",
+        "basset",
+        "ascent"
+      ]
+    },
+    {
+      "id": "net_worth",
+      "word": "net worth",
+      "pos": "noun",
+      "ipa": "/ˌnet ˈwɜːrθ/",
+      "reading_th": "เน็ต เวิร์ธ",
+      "meaning_th": "ความมั่งคั่งสุทธิ (ทรัพย์สินลบหนี้)",
+      "emoji": "🧮",
+      "example_en": "Her net worth passed one billion baht after the company sold.",
+      "example_th": "ความมั่งคั่งสุทธิของเธอทะลุหนึ่งพันล้านบาทหลังขายบริษัท",
+      "cefr": "B2",
+      "note_th": "net = สุทธิ (หลังหัก) ส่วน gross = รวมก่อนหัก — net worth = ทุกอย่างที่มีลบหนี้ทั้งหมด ตัวเลขที่ Forbes ใช้จัดอันดับมหาเศรษฐี",
+      "distractors": [
+        "network",
+        "worth it",
+        "net profit"
+      ]
+    },
+    {
+      "id": "majority",
+      "word": "majority",
+      "pos": "noun",
+      "ipa": "/məˈdʒɔːrəti/",
+      "reading_th": "มะ-จอ-ริ-ตี",
+      "meaning_th": "เสียงข้างมาก / ส่วนใหญ่",
+      "emoji": "🗳️",
+      "example_en": "The founders still hold a majority, so they control the vote.",
+      "example_th": "ผู้ก่อตั้งยังถือหุ้นข้างมาก จึงคุมเสียงโหวตได้",
+      "cefr": "B1",
+      "note_th": "majority (ส่วนใหญ่) vs minority (ส่วนน้อย) — majority shareholder = ผู้ถือหุ้นเกิน 50% และ the majority of + พหูพจน์ เช่น the majority of users",
+      "distractors": [
+        "minority",
+        "major",
+        "maturity"
+      ]
+    },
+    {
+      "id": "payout",
+      "word": "payout",
+      "pos": "noun",
+      "ipa": "/ˈpeɪaʊt/",
+      "reading_th": "เพย์-เอาท์",
+      "meaning_th": "เงินที่จ่ายออกให้ผู้ถือหุ้น/ผู้ชนะ",
+      "emoji": "💰",
+      "example_en": "Each early employee received a big payout when the company sold.",
+      "example_th": "พนักงานยุคแรกทุกคนได้เงินก้อนใหญ่ตอนบริษัทถูกขาย",
+      "cefr": "B2",
+      "note_th": "payout (น.) = เงินก้อนที่จ่ายออกมา (dividend payout, insurance payout) ส่วน pay out (ก.) แยกกัน — ไม่ใช่ payment ที่หมายถึงการจ่ายเงินทั่วไป",
+      "distractors": [
+        "payment",
+        "payroll",
+        "payday"
+      ]
+    },
+    {
+      "id": "stock_exchange",
+      "word": "stock exchange",
+      "pos": "noun",
+      "ipa": "/ˈstɑːk ɪksˌtʃeɪndʒ/",
+      "reading_th": "สต็อก อิกซ์-เชนจ์",
+      "meaning_th": "ตลาดหลักทรัพย์",
+      "emoji": "🏛️",
+      "example_en": "The company will list on the stock exchange next year.",
+      "example_th": "บริษัทจะเข้าจดทะเบียนในตลาดหลักทรัพย์ปีหน้า",
+      "cefr": "B1",
+      "note_th": "stock exchange = องค์กรที่เป็นตลาดซื้อขายหุ้น (SET = Stock Exchange of Thailand) ส่วน stock market = ตลาดหุ้นในความหมายกว้าง",
+      "distractors": [
+        "currency exchange",
+        "stock",
+        "exchange rate"
+      ]
+    },
+    {
+      "id": "broker",
+      "word": "broker",
+      "pos": "noun",
+      "ipa": "/ˈbroʊkər/",
+      "reading_th": "โบร-เกอร์",
+      "meaning_th": "โบรกเกอร์ / นายหน้าซื้อขายหุ้น",
+      "emoji": "📞",
+      "example_en": "Open an account with a broker before you buy your first stock.",
+      "example_th": "เปิดบัญชีกับโบรกเกอร์ก่อนซื้อหุ้นตัวแรก",
+      "cefr": "B1",
+      "note_th": "broker = คนกลางที่ซื้อขายให้คุณแลกค่าคอม (stockbroker, insurance broker, real estate broker) — ออกเสียง \"โบร-เกอร์\" ไม่ใช่ \"บรอก\"",
+      "distractors": [
+        "broke",
+        "banker",
+        "baker"
+      ]
+    },
+    {
+      "id": "index",
+      "word": "index",
+      "pos": "noun",
+      "ipa": "/ˈɪndeks/",
+      "reading_th": "อิน-เด็กซ์",
+      "meaning_th": "ดัชนีตลาดหุ้น",
+      "emoji": "📉",
+      "example_en": "The SET index fell two percent after the news.",
+      "example_th": "ดัชนี SET ร่วงสองเปอร์เซ็นต์หลังมีข่าว",
+      "cefr": "B1",
+      "note_th": "index = ตัวเลขรวมที่บอกว่าตลาดโดยรวมขึ้นหรือลง (SET index, S&P 500) — index fund = กองทุนที่ซื้อตามดัชนีทั้งตลาด ค่าธรรมเนียมถูก มือใหม่นิยม",
+      "distractors": [
+        "indoor",
+        "indeed",
+        "indicate"
+      ]
+    },
+    {
+      "id": "bull_market",
+      "word": "bull market",
+      "pos": "noun",
+      "ipa": "/ˈbʊl ˌmɑːrkɪt/",
+      "reading_th": "บุล มาร์-เก็ต",
+      "meaning_th": "ตลาดขาขึ้น",
+      "emoji": "🐂",
+      "example_en": "Everyone looks like a genius in a bull market.",
+      "example_th": "ทุกคนดูเหมือนอัจฉริยะในตลาดขาขึ้น",
+      "cefr": "B2",
+      "note_th": "bull = วัวกระทิงขวิดขึ้น = ตลาดขึ้น, bear = หมีตบลง = ตลาดลง — bullish = มองบวก, bearish = มองลบ ใช้กับหุ้นหรือคริปโตก็ได้",
+      "distractors": [
+        "bear market",
+        "bulk",
+        "bull"
+      ]
+    },
+    {
+      "id": "bear_market",
+      "word": "bear market",
+      "pos": "noun",
+      "ipa": "/ˈber ˌmɑːrkɪt/",
+      "reading_th": "แบร์ มาร์-เก็ต",
+      "meaning_th": "ตลาดขาลง",
+      "emoji": "🐻",
+      "example_en": "A bear market is when prices fall twenty percent or more.",
+      "example_th": "ตลาดขาลงคือตอนที่ราคาตกยี่สิบเปอร์เซ็นต์หรือมากกว่า",
+      "cefr": "B2",
+      "note_th": "bear market = ราคาลงยาวและคนกลัว — นักลงทุนระยะยาวมองเป็นช่วง \"ของลดราคา\" ส่วน crash คือร่วงแรงในวันเดียว",
+      "distractors": [
+        "bull market",
+        "beer",
+        "bare"
+      ]
+    },
+    {
+      "id": "volatile",
+      "word": "volatile",
+      "pos": "adjective",
+      "ipa": "/ˈvɑːlətl/",
+      "reading_th": "วอ-ละ-เทิล",
+      "meaning_th": "ผันผวน / ราคาแกว่งแรง",
+      "emoji": "🎢",
+      "example_en": "Crypto is so volatile that prices can move ten percent in an hour.",
+      "example_th": "คริปโตผันผวนมากจนราคาเหวี่ยงสิบเปอร์เซ็นต์ได้ในชั่วโมงเดียว",
+      "cefr": "B2",
+      "note_th": "volatile (adj.) / volatility (น.) = ความผันผวน — ใช้กับอารมณ์คนได้ด้วย (a volatile temper = อารมณ์แปรปรวน) และความผันผวนสูงไม่ได้แปลว่าแย่เสมอ",
+      "distractors": [
+        "valuable",
+        "versatile",
+        "violent"
+      ]
+    },
+    {
+      "id": "trade",
+      "word": "trade",
+      "pos": "verb",
+      "ipa": "/treɪd/",
+      "reading_th": "เทรด",
+      "meaning_th": "ซื้อขายหุ้น/สินทรัพย์",
+      "emoji": "🔁",
+      "example_en": "She trades stocks on her phone during lunch.",
+      "example_th": "เธอเทรดหุ้นบนมือถือช่วงพักเที่ยง",
+      "cefr": "A2",
+      "note_th": "trade = ซื้อขายเพื่อทำกำไรระยะสั้น ส่วน invest = ถือยาว — day trader = คนเทรดจบในวัน และ trade (น.) ยังแปลว่าการค้าหรืออาชีพช่างได้",
+      "distractors": [
+        "trend",
+        "tread",
+        "trait"
+      ]
+    },
+    {
+      "id": "diversify",
+      "word": "diversify",
+      "pos": "verb",
+      "ipa": "/daɪˈvɜːrsɪfaɪ/",
+      "reading_th": "ได-เวอร์-ซิ-ฟาย",
+      "meaning_th": "กระจายความเสี่ยงการลงทุน",
+      "emoji": "🧺",
+      "example_en": "Diversify your money across stocks, bonds, and gold.",
+      "example_th": "กระจายเงินของคุณไปในหุ้น พันธบัตร และทองคำ",
+      "cefr": "B2",
+      "note_th": "สำนวนคู่กัน: Don't put all your eggs in one basket — diversified portfolio = พอร์ตที่กระจายหลายสินทรัพย์ ใช้กับธุรกิจได้: diversify the product line",
+      "distractors": [
+        "diverse",
+        "divide",
+        "divert"
+      ]
+    },
+    {
+      "id": "blue_chip",
+      "word": "blue chip",
+      "pos": "noun",
+      "ipa": "/ˌbluː ˈtʃɪp/",
+      "reading_th": "บลู ชิป",
+      "meaning_th": "หุ้นบริษัทใหญ่มั่นคง",
+      "emoji": "🔵",
+      "example_en": "My grandfather only buys blue chips and holds them for decades.",
+      "example_th": "คุณปู่ซื้อแต่หุ้นบริษัทใหญ่มั่นคงแล้วถือไว้หลายสิบปี",
+      "cefr": "B2",
+      "note_th": "มาจากชิปสีน้ำเงินที่มีค่าสูงสุดในคาสิโน — blue-chip stock = หุ้นบริษัทใหญ่ที่จ่ายปันผลสม่ำเสมอ (ในไทยเช่น ปตท. หรือธนาคารใหญ่)",
+      "distractors": [
+        "chip",
+        "blueprint",
+        "potato chip"
+      ]
+    },
+    {
+      "id": "market_cap",
+      "word": "market cap",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪt kæp/",
+      "reading_th": "มาร์-เก็ต แคป",
+      "meaning_th": "มูลค่าตลาดรวมของบริษัท",
+      "emoji": "🏦",
+      "example_en": "The company has a market cap of three billion dollars.",
+      "example_th": "บริษัทมีมูลค่าตลาดรวมสามพันล้านดอลลาร์",
+      "cefr": "B2",
+      "note_th": "cap ย่อจาก capitalization = ราคาหุ้น × จำนวนหุ้นทั้งหมด — small cap / large cap = หุ้นเล็ก / หุ้นใหญ่ และคริปโตก็ใช้ market cap จัดอันดับเหรียญ",
+      "distractors": [
+        "market share",
+        "cap",
+        "baseball cap"
+      ]
+    },
+    {
+      "id": "bond",
+      "word": "bond",
+      "pos": "noun",
+      "ipa": "/bɑːnd/",
+      "reading_th": "บอนด์",
+      "meaning_th": "พันธบัตร / ตราสารหนี้",
+      "emoji": "📜",
+      "example_en": "A government bond pays less than stocks but is much safer.",
+      "example_th": "พันธบัตรรัฐบาลให้ผลตอบแทนน้อยกว่าหุ้นแต่ปลอดภัยกว่ามาก",
+      "cefr": "B2",
+      "note_th": "bond = คุณให้รัฐบาลหรือบริษัทกู้ แล้วได้ดอกเบี้ยคืนตามกำหนด — ความหมายทั่วไป bond = สายสัมพันธ์ (a strong bond between friends)",
+      "distractors": [
+        "band",
+        "bone",
+        "bonus"
+      ]
+    },
+    {
+      "id": "etf",
+      "word": "ETF",
+      "pos": "noun",
+      "ipa": "/ˌiː tiː ˈef/",
+      "reading_th": "อี-ที-เอฟ",
+      "meaning_th": "กองทุนที่ซื้อขายได้เหมือนหุ้น",
+      "emoji": "🧩",
+      "example_en": "Beginners often start with an ETF that follows the whole market.",
+      "example_th": "มือใหม่มักเริ่มจาก ETF ที่ลงทุนตามทั้งตลาด",
+      "cefr": "B2",
+      "note_th": "ETF = exchange-traded fund กองทุนที่ซื้อขายในตลาดหุ้นได้ทันทีเหมือนหุ้นตัวหนึ่ง ค่าธรรมเนียมต่ำ — ซื้อตัวเดียวได้หุ้นหลายร้อยบริษัท",
+      "distractors": [
+        "ATM",
+        "GDP",
+        "ETA"
+      ]
+    },
+    {
+      "id": "yield",
+      "word": "yield",
+      "pos": "noun",
+      "ipa": "/jiːld/",
+      "reading_th": "ยีลด์",
+      "meaning_th": "ผลตอบแทนต่อปี (เป็นเปอร์เซ็นต์)",
+      "emoji": "🌾",
+      "example_en": "This fund has a yield of four percent a year.",
+      "example_th": "กองทุนนี้ให้ผลตอบแทนปีละสี่เปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "yield = ผลตอบแทนที่ได้เทียบกับเงินที่ลง เช่น dividend yield 4% — เป็นกริยาได้: yield a profit และบนป้ายจราจรอเมริกัน YIELD = ให้ทาง",
+      "distractors": [
+        "field",
+        "yell",
+        "wield"
+      ]
+    },
+    {
+      "id": "passive_income",
+      "word": "passive income",
+      "pos": "noun",
+      "ipa": "/ˌpæsɪv ˈɪnkʌm/",
+      "reading_th": "แพส-ซีฟ อิน-คัม",
+      "meaning_th": "รายได้ที่ไม่ต้องลงแรงทุกวัน",
+      "emoji": "🏖️",
+      "example_en": "Rent from two rooms gives her a small passive income.",
+      "example_th": "ค่าเช่าจากห้องสองห้องให้รายได้แบบไม่ต้องลงแรงเล็กๆ แก่เธอ",
+      "cefr": "B1",
+      "note_th": "passive income = เงินที่เข้ามาแม้ตอนหลับ (ปันผล ค่าเช่า) ตรงข้ามคือ active income จากการทำงาน — คำที่โค้ชการเงินไทยใช้ขายคอร์สเยอะมาก ระวัง",
+      "distractors": [
+        "active income",
+        "passive",
+        "pension"
+      ]
+    },
+    {
+      "id": "cryptocurrency",
+      "word": "cryptocurrency",
+      "pos": "noun",
+      "ipa": "/ˌkrɪptoʊˈkɜːrənsi/",
+      "reading_th": "คริป-โต-เคอ-เรน-ซี",
+      "meaning_th": "สกุลเงินดิจิทัล / คริปโต",
+      "emoji": "🪙",
+      "example_en": "Some cafés in Bangkok accept cryptocurrency as payment.",
+      "example_th": "คาเฟ่บางแห่งในกรุงเทพฯ รับสกุลเงินดิจิทัลเป็นค่าสินค้า",
+      "cefr": "B1",
+      "note_th": "เรียกสั้นๆ ว่า crypto (คริป-โต) — crypto- = ซ่อน/เข้ารหัส เพราะใช้การเข้ารหัสยืนยันธุรกรรม Bitcoin คือสกุลแรกและใหญ่สุด",
+      "distractors": [
+        "currency",
+        "cryptic",
+        "credit"
+      ]
+    },
+    {
+      "id": "blockchain",
+      "word": "blockchain",
+      "pos": "noun",
+      "ipa": "/ˈblɑːktʃeɪn/",
+      "reading_th": "บล็อก-เชน",
+      "meaning_th": "บล็อกเชน / ฐานข้อมูลที่แก้ย้อนหลังไม่ได้",
+      "emoji": "⛓️",
+      "example_en": "Every payment is recorded on the blockchain forever.",
+      "example_th": "การจ่ายเงินทุกรายการถูกบันทึกบนบล็อกเชนตลอดไป",
+      "cefr": "B2",
+      "note_th": "blockchain = สมุดบัญชีที่ทุกคนถือสำเนาเหมือนกัน ลบหรือแก้ย้อนหลังไม่ได้ — เป็นเทคโนโลยีเบื้องหลังคริปโต แต่ใช้กับอย่างอื่นได้ เช่น ตรวจสอบสินค้า",
+      "distractors": [
+        "block",
+        "chain",
+        "food chain"
+      ]
+    },
+    {
+      "id": "token",
+      "word": "token",
+      "pos": "noun",
+      "ipa": "/ˈtoʊkən/",
+      "reading_th": "โท-เคน",
+      "meaning_th": "โทเคน / เหรียญดิจิทัลบนบล็อกเชน",
+      "emoji": "🎫",
+      "example_en": "The game gives you a token every time you win a match.",
+      "example_th": "เกมให้โทเคนคุณทุกครั้งที่ชนะแมตช์",
+      "cefr": "B2",
+      "note_th": "token เดิม = เหรียญพลาสติกใช้แทนเงิน (เหรียญรถไฟฟ้าสมัยก่อน) ในคริปโต = เหรียญที่สร้างบนบล็อกเชนของคนอื่น — ก.ล.ต. ไทยใช้คำว่า \"โทเคนดิจิทัล\"",
+      "distractors": [
+        "taken",
+        "ticket",
+        "coin"
+      ]
+    },
+    {
+      "id": "mining",
+      "word": "mining",
+      "pos": "noun",
+      "ipa": "/ˈmaɪnɪŋ/",
+      "reading_th": "ไม-นิง",
+      "meaning_th": "การขุดเหรียญคริปโต",
+      "emoji": "⛏️",
+      "example_en": "Bitcoin mining uses more electricity than some countries.",
+      "example_th": "การขุดบิตคอยน์ใช้ไฟฟ้ามากกว่าบางประเทศ",
+      "cefr": "B1",
+      "note_th": "mining = ให้คอมแก้โจทย์ยืนยันธุรกรรมแลกเหรียญใหม่ (คนขุด = miner) — ความหมายเดิมคือการทำเหมือง และ data mining = ขุดหารูปแบบในข้อมูล",
+      "distractors": [
+        "mine",
+        "minting",
+        "mind"
+      ]
+    },
+    {
+      "id": "nft",
+      "word": "NFT",
+      "pos": "noun",
+      "ipa": "/ˌen ef ˈtiː/",
+      "reading_th": "เอ็น-เอฟ-ที",
+      "meaning_th": "สินทรัพย์ดิจิทัลที่มีชิ้นเดียว",
+      "emoji": "🖼️",
+      "example_en": "He sold a drawing as an NFT for the price of a car.",
+      "example_th": "เขาขายภาพวาดเป็น NFT ได้ราคาเท่ารถหนึ่งคัน",
+      "cefr": "B2",
+      "note_th": "NFT = non-fungible token โทเคนที่แต่ละชิ้นไม่เหมือนกัน (ต่างจากเงินที่แบงก์ร้อยใบไหนก็เท่ากัน) ใช้พิสูจน์ความเป็นเจ้าของงานศิลปะหรือไอเทมดิจิทัล",
+      "distractors": [
+        "ETF",
+        "NGO",
+        "FTP"
+      ]
+    },
+    {
+      "id": "stablecoin",
+      "word": "stablecoin",
+      "pos": "noun",
+      "ipa": "/ˈsteɪblkɔɪn/",
+      "reading_th": "สเต-เบิล-คอยน์",
+      "meaning_th": "เหรียญคริปโตที่ตรึงราคากับเงินจริง",
+      "emoji": "⚖️",
+      "example_en": "Traders park their money in a stablecoin when the market gets scary.",
+      "example_th": "นักเทรดพักเงินไว้ในเหรียญตรึงราคาเวลาตลาดน่ากลัว",
+      "cefr": "B2",
+      "note_th": "stable (มั่นคง) + coin = เหรียญที่ผูกราคากับดอลลาร์ 1:1 (USDT, USDC) ทำให้โอนข้ามประเทศได้เร็วโดยไม่เจอความผันผวน — แต่ก็เคยมีเหรียญที่ \"ไม่ stable\" ล้มมาแล้ว",
+      "distractors": [
+        "stable",
+        "coin",
+        "altcoin"
+      ]
+    },
+    {
+      "id": "fintech",
+      "word": "fintech",
+      "pos": "noun",
+      "ipa": "/ˈfɪntek/",
+      "reading_th": "ฟิน-เทค",
+      "meaning_th": "เทคโนโลยีการเงิน",
+      "emoji": "📲",
+      "example_en": "Mobile banking apps are the most popular fintech in Thailand.",
+      "example_th": "แอปธนาคารบนมือถือเป็นฟินเทคที่คนไทยใช้มากที่สุด",
+      "cefr": "B1",
+      "note_th": "fintech = financial + technology ทุกอย่างที่ทำให้เรื่องเงินง่ายขึ้นด้วยเทค (พร้อมเพย์ e-wallet แอปลงทุน) — คำพี่น้อง: edtech, healthtech, agritech",
+      "distractors": [
+        "finance",
+        "fine",
+        "high-tech"
+      ]
+    },
+    {
+      "id": "peer_to_peer",
+      "word": "peer-to-peer",
+      "pos": "adjective",
+      "ipa": "/ˌpɪr tə ˈpɪr/",
+      "reading_th": "เพียร์-ทู-เพียร์",
+      "meaning_th": "ระหว่างบุคคลโดยไม่ผ่านตัวกลาง",
+      "emoji": "🔁",
+      "example_en": "A peer-to-peer loan lets you borrow from other people, not a bank.",
+      "example_th": "สินเชื่อแบบบุคคลต่อบุคคลให้คุณกู้จากคนอื่น ไม่ใช่จากธนาคาร",
+      "cefr": "B2",
+      "note_th": "ย่อว่า P2P (พี-ทู-พี) peer = คนเท่าเทียมกัน — P2P lending (กู้กันเอง), P2P trading (ซื้อขายคริปโตโดยตรง) และใน Bitcoin คือโอนกันโดยไม่มีธนาคารกลาง",
+      "distractors": [
+        "face-to-face",
+        "peer",
+        "pier"
+      ]
+    },
+    {
+      "id": "transaction",
+      "word": "transaction",
+      "pos": "noun",
+      "ipa": "/trænˈzækʃn/",
+      "reading_th": "แทรน-แซ็ก-ชัน",
+      "meaning_th": "ธุรกรรม / รายการโอนเงิน",
+      "emoji": "🧾",
+      "example_en": "Each transaction on the blockchain takes a few minutes to confirm.",
+      "example_th": "แต่ละธุรกรรมบนบล็อกเชนใช้เวลาไม่กี่นาทีในการยืนยัน",
+      "cefr": "B1",
+      "note_th": "transaction = การซื้อขายหรือโอนเงินหนึ่งรายการ (transaction history = ประวัติธุรกรรมในแอปธนาคาร) — transaction fee = ค่าธรรมเนียมต่อรายการ ที่คริปโตเรียก gas",
+      "distractors": [
+        "translation",
+        "transition",
+        "traction"
+      ]
+    },
+    {
+      "id": "decentralized",
+      "word": "decentralized",
+      "pos": "adjective",
+      "ipa": "/ˌdiːˈsentrəlaɪzd/",
+      "reading_th": "ดี-เซน-ทระ-ไลซ์ด",
+      "meaning_th": "ไร้ศูนย์กลาง / ไม่มีใครควบคุมคนเดียว",
+      "emoji": "🕸️",
+      "example_en": "Bitcoin is decentralized, so no bank or government controls it.",
+      "example_th": "บิตคอยน์ไร้ศูนย์กลาง จึงไม่มีธนาคารหรือรัฐบาลใดควบคุมได้",
+      "cefr": "B2",
+      "note_th": "de- + central = เอาศูนย์กลางออก — DeFi (decentralized finance) = บริการการเงินที่ไม่มีธนาคารกลางคุม และสะกดแบบอังกฤษว่า decentralised",
+      "distractors": [
+        "centralized",
+        "decent",
+        "decorated"
+      ]
+    },
+    {
+      "id": "ledger",
+      "word": "ledger",
+      "pos": "noun",
+      "ipa": "/ˈledʒər/",
+      "reading_th": "เล็ด-เจอร์",
+      "meaning_th": "สมุดบัญชีบันทึกรายการ",
+      "emoji": "📒",
+      "example_en": "The blockchain is a public ledger that anyone can read.",
+      "example_th": "บล็อกเชนคือสมุดบัญชีสาธารณะที่ใครก็อ่านได้",
+      "cefr": "B2",
+      "note_th": "ledger = สมุดบัญชีที่บันทึกทุกรายการเข้าออก (คำนักบัญชี) คริปโตยืมมาใช้ว่า distributed ledger — Ledger ยังเป็นยี่ห้อกระเป๋าฮาร์ดแวร์เก็บคริปโตด้วย",
+      "distractors": [
+        "ladder",
+        "leader",
+        "lecture"
+      ]
+    },
+    {
+      "id": "private_key",
+      "word": "private key",
+      "pos": "noun",
+      "ipa": "/ˌpraɪvət ˈkiː/",
+      "reading_th": "ไพร-เวต คีย์",
+      "meaning_th": "กุญแจลับสำหรับเข้ากระเป๋าคริปโต",
+      "emoji": "🗝️",
+      "example_en": "Never share your private key, not even with support staff.",
+      "example_th": "ห้ามบอกกุญแจลับของคุณกับใคร แม้แต่พนักงานซัพพอร์ต",
+      "cefr": "B2",
+      "note_th": "private key = รหัสที่พิสูจน์ว่าเหรียญเป็นของคุณ หายแล้วหายเลยไม่มีปุ่มลืมรหัส — สำนวนในวงการ: \"Not your keys, not your coins\" ส่วน seed phrase คือ 12 คำที่กู้ key ได้",
+      "distractors": [
+        "public key",
+        "password",
+        "key card"
+      ]
+    },
+    {
+      "id": "altcoin",
+      "word": "altcoin",
+      "pos": "noun",
+      "ipa": "/ˈɔːltkɔɪn/",
+      "reading_th": "อัลต์-คอยน์",
+      "meaning_th": "เหรียญคริปโตอื่นที่ไม่ใช่บิตคอยน์",
+      "emoji": "🪙",
+      "example_en": "Most altcoins lose value faster than Bitcoin in a bad year.",
+      "example_th": "เหรียญทางเลือกส่วนใหญ่เสียมูลค่าเร็วกว่าบิตคอยน์ในปีที่แย่",
+      "cefr": "B2",
+      "note_th": "alt = alternative (ทางเลือก) คือทุกเหรียญนอกจาก Bitcoin (Ethereum ก็นับ) — meme coin คือ altcoin ที่สร้างจากมุกตลก ราคาขึ้นลงตามกระแส",
+      "distractors": [
+        "stablecoin",
+        "coin",
+        "altitude"
+      ]
+    },
+    {
+      "id": "rug_pull",
+      "word": "rug pull",
+      "pos": "noun",
+      "ipa": "/ˈrʌɡ pʊl/",
+      "reading_th": "รัก พุล",
+      "meaning_th": "โปรเจกต์คริปโตที่ผู้สร้างเชิดเงินหนี",
+      "emoji": "🏃",
+      "example_en": "The coin was a rug pull: the team vanished with everyone's money.",
+      "example_th": "เหรียญนั้นคือการเชิดเงินหนี ทีมหายตัวไปพร้อมเงินของทุกคน",
+      "cefr": "B2",
+      "note_th": "มาจากสำนวน pull the rug out from under someone = ดึงพรมใต้เท้าให้ล้ม — สัญญาณเตือน: ทีมไม่เปิดเผยตัว, สัญญาผลตอบแทนสูงเกินจริง, รีบขายของให้เร็วๆ",
+      "distractors": [
+        "pull-up",
+        "scam",
+        "rug"
+      ]
+    },
+    {
+      "id": "scale_up",
+      "word": "scale up",
+      "pos": "phrase",
+      "ipa": "/ˌskeɪl ˈʌp/",
+      "reading_th": "สเกล อัพ",
+      "meaning_th": "ขยายธุรกิจให้ใหญ่ขึ้นอย่างรวดเร็ว",
+      "emoji": "📈",
+      "example_en": "After the new funding, we can scale up to five more cities.",
+      "example_th": "หลังได้เงินทุนรอบใหม่ เราจะขยายไปอีกห้าเมืองได้",
+      "cefr": "B1",
+      "note_th": "scale = ทำให้โตได้โดยต้นทุนไม่โตตาม (แอปขายให้ล้านคนด้วยทีมเท่าเดิม) — คำถามที่นักลงทุนชอบถาม: \"Does it scale?\" = ขยายได้ไหม",
+      "distractors": [
+        "scale down",
+        "size up",
+        "speed up"
+      ]
+    },
+    {
+      "id": "pivot",
+      "word": "pivot",
+      "pos": "verb",
+      "ipa": "/ˈpɪvət/",
+      "reading_th": "พิ-เวิต",
+      "meaning_th": "เปลี่ยนทิศทางธุรกิจ",
+      "emoji": "🔄",
+      "example_en": "They had to pivot from a travel app to a delivery app in 2020.",
+      "example_th": "พวกเขาต้องเปลี่ยนทิศจากแอปท่องเที่ยวเป็นแอปส่งของในปี 2020",
+      "cefr": "B2",
+      "note_th": "pivot = หมุนเปลี่ยนทิศโดยเท้ายังอยู่ที่เดิม (ศัพท์บาส) ในสตาร์ทอัพ = เปลี่ยนสินค้าแต่ใช้ทีมและความรู้เดิม — Instagram เคย pivot มาจากแอปเช็กอิน",
+      "distractors": [
+        "pilot",
+        "pirate",
+        "privet"
+      ]
+    },
+    {
+      "id": "churn",
+      "word": "churn",
+      "pos": "noun",
+      "ipa": "/tʃɜːrn/",
+      "reading_th": "เชิร์น",
+      "meaning_th": "อัตราลูกค้าเลิกใช้",
+      "emoji": "🚪",
+      "example_en": "Our churn is five percent a month, which is too high.",
+      "example_th": "อัตราลูกค้าเลิกใช้ของเราอยู่ที่ห้าเปอร์เซ็นต์ต่อเดือน ซึ่งสูงเกินไป",
+      "cefr": "B2",
+      "note_th": "churn rate = สัดส่วนลูกค้าที่ยกเลิกต่อเดือน ตัวเลขสำคัญของธุรกิจสมาชิก (Netflix, แอปรายเดือน) — ตรงข้ามคือ retention = การรักษาลูกค้า",
+      "distractors": [
+        "turn",
+        "church",
+        "chain"
+      ]
+    },
+    {
+      "id": "unicorn",
+      "word": "unicorn",
+      "pos": "noun",
+      "ipa": "/ˈjuːnɪkɔːrn/",
+      "reading_th": "ยู-นิ-คอร์น",
+      "meaning_th": "สตาร์ทอัพมูลค่าเกินพันล้านดอลลาร์",
+      "emoji": "🦄",
+      "example_en": "Thailand's first unicorn was a delivery and payments company.",
+      "example_th": "ยูนิคอร์นตัวแรกของไทยคือบริษัทส่งของและจ่ายเงิน",
+      "cefr": "B1",
+      "note_th": "unicorn = ม้ายูนิคอร์น ใช้เรียกสตาร์ทอัพที่มี valuation เกิน 1 พันล้านดอลลาร์ เพราะหายากเหมือนสัตว์ในตำนาน — ไทยมีไม่กี่ตัว เช่น Flash Express และ Ascend Money",
+      "distractors": [
+        "uniform",
+        "unique",
+        "union"
+      ]
+    },
+    {
+      "id": "acquisition",
+      "word": "acquisition",
+      "pos": "noun",
+      "ipa": "/ˌækwɪˈzɪʃn/",
+      "reading_th": "แอ็ก-ควิ-ซิ-ชัน",
+      "meaning_th": "การซื้อกิจการ",
+      "emoji": "🛒",
+      "example_en": "The acquisition made the three founders very rich overnight.",
+      "example_th": "การซื้อกิจการทำให้ผู้ก่อตั้งทั้งสามรวยในชั่วข้ามคืน",
+      "cefr": "B2",
+      "note_th": "acquire (ก.) / acquisition (น.) = บริษัทใหญ่ซื้อบริษัทเล็ก คู่กับ merger ใน M&A — ในการตลาด customer acquisition = การหาลูกค้าใหม่ (CAC = ต้นทุนต่อลูกค้า)",
+      "distractors": [
+        "requisition",
+        "acquaintance",
+        "exhibition"
+      ]
+    },
+    {
+      "id": "merger",
+      "word": "merger",
+      "pos": "noun",
+      "ipa": "/ˈmɜːrdʒər/",
+      "reading_th": "เมอร์-เจอร์",
+      "meaning_th": "การควบรวมกิจการ",
+      "emoji": "🤝",
+      "example_en": "The merger of the two banks created the biggest bank in the country.",
+      "example_th": "การควบรวมของสองธนาคารสร้างธนาคารที่ใหญ่ที่สุดในประเทศ",
+      "cefr": "B2",
+      "note_th": "merge (ก.) = รวมเข้าด้วยกัน (ใช้กับเลนรถและไฟล์ด้วย) merger = สองบริษัทรวมเป็นหนึ่งแบบเท่าเทียม ต่างจาก acquisition ที่ฝ่ายหนึ่งซื้ออีกฝ่าย",
+      "distractors": [
+        "merge",
+        "manager",
+        "major"
+      ]
+    },
+    {
+      "id": "ipo",
+      "word": "IPO",
+      "pos": "noun",
+      "ipa": "/ˌaɪ piː ˈoʊ/",
+      "reading_th": "ไอ-พี-โอ",
+      "meaning_th": "การเสนอขายหุ้นต่อประชาชนครั้งแรก",
+      "emoji": "🔔",
+      "example_en": "The IPO raised two billion baht on its first day.",
+      "example_th": "การเสนอขายหุ้น IPO ระดมทุนได้สองพันล้านบาทในวันแรก",
+      "cefr": "B2",
+      "note_th": "IPO = initial public offering วันแรกที่คนทั่วไปซื้อหุ้นบริษัทได้ในตลาด — คนไทยพูด \"จองหุ้น IPO\" และบริษัทที่ IPO แล้วเรียกว่า listed company",
+      "distractors": [
+        "CEO",
+        "ISO",
+        "IOU"
+      ]
+    },
+    {
+      "id": "go_public",
+      "word": "go public",
+      "pos": "phrase",
+      "ipa": "/ˌɡoʊ ˈpʌblɪk/",
+      "reading_th": "โก พับ-ลิก",
+      "meaning_th": "นำบริษัทเข้าตลาดหลักทรัพย์",
+      "emoji": "🏛️",
+      "example_en": "The company plans to go public within two years.",
+      "example_th": "บริษัทวางแผนจะเข้าตลาดหลักทรัพย์ภายในสองปี",
+      "cefr": "B2",
+      "note_th": "go public = เปลี่ยนจาก private company เป็น public company ที่ใครก็ซื้อหุ้นได้ (ผ่าน IPO) — ในความหมายทั่วไป go public with = เปิดเผยเรื่องต่อสาธารณะ",
+      "distractors": [
+        "go viral",
+        "go private",
+        "go live"
+      ]
+    },
+    {
+      "id": "exit_strategy",
+      "word": "exit strategy",
+      "pos": "noun",
+      "ipa": "/ˈeksɪt ˌstrætədʒi/",
+      "reading_th": "เอ็ก-ซิต สแตรท-เทอ-จี",
+      "meaning_th": "แผนขายกิจการเพื่อทำกำไร",
+      "emoji": "🚪",
+      "example_en": "Investors always ask about your exit strategy before they invest.",
+      "example_th": "นักลงทุนมักถามแผนเอ็กซิตของคุณก่อนตัดสินใจลงทุน",
+      "cefr": "B2",
+      "note_th": "exit = ทางที่นักลงทุนได้เงินคืนพร้อมกำไร มี 2 ทางหลัก: ถูกซื้อกิจการ หรือ IPO — ในชีวิตใช้ exit strategy กับแผนออกจากสถานการณ์ลำบากได้",
+      "distractors": [
+        "exit",
+        "emergency exit",
+        "strategy"
+      ]
+    },
+    {
+      "id": "profitable",
+      "word": "profitable",
+      "pos": "adjective",
+      "ipa": "/ˈprɑːfɪtəbl/",
+      "reading_th": "พรอ-ฟิ-ทะ-เบิล",
+      "meaning_th": "ทำกำไรได้",
+      "emoji": "💹",
+      "example_en": "The company became profitable in its fourth year.",
+      "example_th": "บริษัททำกำไรได้ในปีที่สี่",
+      "cefr": "B1",
+      "note_th": "profit (น.) / profitable (adj.) — become profitable = เริ่มมีกำไร คำที่นักลงทุนยุคหลังถามมากกว่าโตเร็ว และ non-profit = องค์กรไม่แสวงกำไร",
+      "distractors": [
+        "profit",
+        "portable",
+        "preferable"
+      ]
+    },
+    {
+      "id": "market_share",
+      "word": "market share",
+      "pos": "noun",
+      "ipa": "/ˈmɑːrkɪt ʃer/",
+      "reading_th": "มาร์-เก็ต แชร์",
+      "meaning_th": "ส่วนแบ่งตลาด",
+      "emoji": "🥧",
+      "example_en": "The app won thirty percent market share in only one year.",
+      "example_th": "แอปนี้ได้ส่วนแบ่งตลาดสามสิบเปอร์เซ็นต์ในปีเดียว",
+      "cefr": "B1",
+      "note_th": "market share = ยอดขายของเราหารยอดขายทั้งตลาด (gain/lose market share) — คนละเรื่องกับ share price ราคาหุ้น และ market cap มูลค่าบริษัท",
+      "distractors": [
+        "market cap",
+        "share price",
+        "marketplace"
+      ]
+    },
+    {
+      "id": "cash_flow",
+      "word": "cash flow",
+      "pos": "noun",
+      "ipa": "/ˈkæʃ floʊ/",
+      "reading_th": "แคช โฟลว์",
+      "meaning_th": "กระแสเงินสด",
+      "emoji": "🌊",
+      "example_en": "Good cash flow matters more than profit when you are small.",
+      "example_th": "ตอนธุรกิจยังเล็ก กระแสเงินสดสำคัญกว่ากำไร",
+      "cefr": "B1",
+      "note_th": "cash flow = เงินสดที่เข้าออกจริงในแต่ละเดือน บริษัทมีกำไรบนกระดาษแต่เจ๊งเพราะเงินสดหมดได้ — positive/negative cash flow = เงินสดเข้ามากกว่า/น้อยกว่าออก",
+      "distractors": [
+        "cash back",
+        "workflow",
+        "cashier"
+      ]
+    },
+    {
+      "id": "franchise",
+      "word": "franchise",
+      "pos": "noun",
+      "ipa": "/ˈfræntʃaɪz/",
+      "reading_th": "แฟรน-ไชส์",
+      "meaning_th": "แฟรนไชส์ / สิทธิ์เปิดสาขาภายใต้แบรนด์",
+      "emoji": "🏪",
+      "example_en": "She bought a bubble tea franchise instead of starting from zero.",
+      "example_th": "เธอซื้อแฟรนไชส์ชานมไข่มุกแทนที่จะเริ่มจากศูนย์",
+      "cefr": "B1",
+      "note_th": "franchise = จ่ายเงินเพื่อใช้แบรนด์ สูตร และระบบของคนอื่น (7-Eleven, ร้านชานม) — เจ้าของแบรนด์ = franchisor คนซื้อสิทธิ์ = franchisee และหนังภาคต่อก็เรียก franchise",
+      "distractors": [
+        "French",
+        "finance",
+        "frankly"
+      ]
+    },
+    {
+      "id": "layoff",
+      "word": "layoff",
+      "pos": "noun",
+      "ipa": "/ˈleɪɔːf/",
+      "reading_th": "เลย์-ออฟ",
+      "meaning_th": "การปลดพนักงานเพื่อลดต้นทุน",
+      "emoji": "📦",
+      "example_en": "The startup announced a layoff of forty people after funding dried up.",
+      "example_th": "สตาร์ทอัพประกาศปลดพนักงานสี่สิบคนหลังเงินทุนหมด",
+      "cefr": "B1",
+      "note_th": "layoff (น.) / lay off (ก.) = ปลดเพราะบริษัทลดคน ไม่ใช่เพราะทำผิด (ซึ่งคือ fire) — be laid off = โดนเลย์ออฟ ได้ค่าชดเชย (severance)",
+      "distractors": [
+        "layout",
+        "lay down",
+        "day off"
+      ]
+    }
+  ]
+}

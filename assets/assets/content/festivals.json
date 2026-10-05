@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "festivals",
+    "name_en": "Festivals & Holidays",
+    "name_th": "เทศกาลและวันสำคัญ",
+    "emoji": "🎉",
+    "color_start": "#FACC15",
+    "color_end": "#DC2626",
+    "description_th": "คริสต์มาส ฮาโลวีน ปีใหม่ สงกรานต์ งานแต่ง และวันสำคัญทั่วโลก พร้อมคำอวยพรที่ใช้จริง",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "festivals_1",
+        "title_en": "Christmas & New Year",
+        "title_th": "คริสต์มาสและปีใหม่",
+        "emoji": "🎄",
+        "word_ids": [
+          "christmas",
+          "santa_claus",
+          "christmas_tree",
+          "gift",
+          "stocking",
+          "reindeer",
+          "snowman",
+          "carol",
+          "ornament",
+          "countdown",
+          "new_years_eve",
+          "fireworks",
+          "resolution",
+          "celebrate"
+        ]
+      },
+      {
+        "id": "festivals_2",
+        "title_en": "Halloween & Thanksgiving",
+        "title_th": "ฮาโลวีนและวันขอบคุณพระเจ้า",
+        "emoji": "🎃",
+        "word_ids": [
+          "halloween",
+          "pumpkin",
+          "jack_o_lantern",
+          "trick_or_treat",
+          "ghost",
+          "witch",
+          "haunted_house",
+          "spooky",
+          "skeleton",
+          "thanksgiving",
+          "turkey",
+          "thankful",
+          "feast",
+          "harvest"
+        ]
+      },
+      {
+        "id": "festivals_3",
+        "title_en": "Thai Festivals",
+        "title_th": "เทศกาลไทยเป็นภาษาอังกฤษ",
+        "emoji": "🪔",
+        "word_ids": [
+          "songkran",
+          "water_fight",
+          "water_gun",
+          "loy_krathong",
+          "krathong",
+          "lantern",
+          "float",
+          "make_merit",
+          "monk",
+          "alms",
+          "pour_water",
+          "blessing",
+          "chinese_new_year",
+          "red_envelope"
+        ]
+      },
+      {
+        "id": "festivals_4",
+        "title_en": "Birthdays & Parties",
+        "title_th": "วันเกิดและปาร์ตี้",
+        "emoji": "🎂",
+        "word_ids": [
+          "birthday",
+          "throw_a_party",
+          "balloon",
+          "candle",
+          "blow_out",
+          "make_a_wish",
+          "surprise_party",
+          "invitation",
+          "invite",
+          "guest_of_honor",
+          "decorate",
+          "confetti",
+          "party_hat",
+          "rsvp"
+        ]
+      },
+      {
+        "id": "festivals_5",
+        "title_en": "Weddings & Ceremonies",
+        "title_th": "งานแต่งและพิธีสำคัญ",
+        "emoji": "💒",
+        "word_ids": [
+          "ceremony",
+          "reception",
+          "bouquet",
+          "bridesmaid",
+          "veil",
+          "altar",
+          "wedding_gown",
+          "tuxedo",
+          "dowry",
+          "guest_list",
+          "wedding_toast",
+          "first_dance",
+          "ordination",
+          "funeral"
+        ]
+      },
+      {
+        "id": "festivals_6",
+        "title_en": "Holidays & Parades",
+        "title_th": "วันหยุดราชการและขบวนพาเหรด",
+        "emoji": "🎆",
+        "word_ids": [
+          "parade",
+          "national_holiday",
+          "public_holiday",
+          "long_weekend",
+          "flag",
+          "anthem",
+          "tradition",
+          "carnival",
+          "firecracker",
+          "valentines_day",
+          "mothers_day",
+          "easter",
+          "lion_dance",
+          "ramadan"
+        ]
+      },
+      {
+        "id": "festivals_7",
+        "title_en": "Greetings & Wishes",
+        "title_th": "คำอวยพรที่ใช้จริง",
+        "emoji": "💌",
+        "word_ids": [
+          "merry_christmas",
+          "happy_new_year",
+          "happy_birthday",
+          "happy_holidays",
+          "best_wishes",
+          "cheers",
+          "many_happy_returns",
+          "seasons_greetings",
+          "good_luck",
+          "all_the_best",
+          "congrats",
+          "same_to_you",
+          "happy_anniversary",
+          "have_a_good_one"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "christmas",
+      "word": "Christmas",
+      "pos": "noun",
+      "ipa": "/ˈkrɪsməs/",
+      "reading_th": "คริส-เมิส",
+      "meaning_th": "คริสต์มาส",
+      "emoji": "🎄",
+      "example_en": "We decorate the house for Christmas every December.",
+      "example_th": "เราตกแต่งบ้านรับคริสต์มาสทุกเดือนธันวาคม",
+      "cefr": "A1",
+      "note_th": "ตัว t ไม่ออกเสียง คริส-เมิส — Christmas Eve = คืนวันที่ 24 ธันวาคม Christmas Day = 25 ธันวาคม และเขียนย่อว่า Xmas ได้",
+      "distractors": [
+        "Christian",
+        "Chris",
+        "Easter"
+      ]
+    },
+    {
+      "id": "santa_claus",
+      "word": "Santa Claus",
+      "pos": "noun",
+      "ipa": "/ˈsæntə klɔːz/",
+      "reading_th": "แซน-ต้า คลอส",
+      "meaning_th": "ซานตาคลอส",
+      "emoji": "🎅",
+      "example_en": "Kids leave cookies out for Santa Claus.",
+      "example_th": "เด็กๆ วางคุกกี้ไว้ให้ซานตาคลอส",
+      "cefr": "A1",
+      "note_th": "ฝรั่งมักเรียกสั้นๆ ว่า Santa — Santa's helpers คือเอลฟ์ และ Secret Santa คือเกมจับฉลากแลกของขวัญในออฟฟิศ",
+      "distractors": [
+        "Secret Santa",
+        "Satan",
+        "Sandra"
+      ]
+    },
+    {
+      "id": "christmas_tree",
+      "word": "Christmas tree",
+      "pos": "noun",
+      "ipa": "/ˈkrɪsməs triː/",
+      "reading_th": "คริส-เมิส ทรี",
+      "meaning_th": "ต้นคริสต์มาส",
+      "emoji": "🎄",
+      "example_en": "The mall put up a giant Christmas tree.",
+      "example_th": "ห้างตั้งต้นคริสต์มาสต้นยักษ์",
+      "cefr": "A1",
+      "note_th": "put up a Christmas tree = ตั้งต้นคริสต์มาส take it down = เก็บ — ใต้ต้นเป็นที่วางของขวัญ (presents under the tree)",
+      "distractors": [
+        "pine tree",
+        "Christmas card",
+        "family tree"
+      ]
+    },
+    {
+      "id": "gift",
+      "word": "gift",
+      "pos": "noun",
+      "ipa": "/ɡɪft/",
+      "reading_th": "กิฟท์",
+      "meaning_th": "ของขวัญ",
+      "emoji": "🎁",
+      "example_en": "I still need to buy a gift for my mom.",
+      "example_th": "ฉันยังต้องซื้อของขวัญให้แม่",
+      "cefr": "A1",
+      "note_th": "gift กับ present แปลว่าของขวัญเหมือนกัน gift ทางการกว่านิดหน่อย — gift card = บัตรของขวัญ gift shop = ร้านของที่ระลึก",
+      "distractors": [
+        "give",
+        "guest",
+        "lift"
+      ]
+    },
+    {
+      "id": "stocking",
+      "word": "stocking",
+      "pos": "noun",
+      "ipa": "/ˈstɑːkɪŋ/",
+      "reading_th": "สต็อก-กิง",
+      "meaning_th": "ถุงเท้าคริสต์มาส",
+      "emoji": "🧦",
+      "example_en": "Each stocking is filled with small gifts and candy.",
+      "example_th": "ถุงเท้าคริสต์มาสแต่ละถุงใส่ของขวัญชิ้นเล็กและขนม",
+      "cefr": "B1",
+      "note_th": "stocking = ถุงเท้าใหญ่แขวนไว้ที่เตาผิงให้ซานต้าใส่ของ — stocking stuffer คือของขวัญชิ้นเล็กๆ ราคาไม่แพง",
+      "distractors": [
+        "stock",
+        "shocking",
+        "sock"
+      ]
+    },
+    {
+      "id": "reindeer",
+      "word": "reindeer",
+      "pos": "noun",
+      "ipa": "/ˈreɪndɪr/",
+      "reading_th": "เรน-เดียร์",
+      "meaning_th": "กวางเรนเดียร์",
+      "emoji": "🦌",
+      "example_en": "Nine flying reindeer pull Santa's sleigh every Christmas Eve.",
+      "example_th": "กวางเรนเดียร์บินได้เก้าตัวลากเลื่อนของซานต้าทุกคืนคริสต์มาสอีฟ",
+      "cefr": "A2",
+      "note_th": "reindeer เอกพจน์และพหูพจน์เขียนเหมือนกัน — Rudolph the red-nosed reindeer คือตัวที่จมูกแดงและดังที่สุด",
+      "distractors": [
+        "deer",
+        "rain",
+        "reign"
+      ]
+    },
+    {
+      "id": "snowman",
+      "word": "snowman",
+      "pos": "noun",
+      "ipa": "/ˈsnoʊmæn/",
+      "reading_th": "สโนว์-แมน",
+      "meaning_th": "ตุ๊กตาหิมะ",
+      "emoji": "⛄",
+      "example_en": "The kids built a snowman in the front yard.",
+      "example_th": "เด็กๆ ปั้นตุ๊กตาหิมะที่สนามหน้าบ้าน",
+      "cefr": "A1",
+      "note_th": "ใช้กริยา build a snowman ไม่ใช่ make — พหูพจน์ snowmen และ Do you want to build a snowman? คือเพลงดังจาก Frozen",
+      "distractors": [
+        "snowball",
+        "snowflake",
+        "showman"
+      ]
+    },
+    {
+      "id": "carol",
+      "word": "carol",
+      "pos": "noun",
+      "ipa": "/ˈkærəl/",
+      "reading_th": "แค-โรล",
+      "meaning_th": "เพลงคริสต์มาส",
+      "emoji": "🎶",
+      "example_en": "We sang a carol outside every house on the street.",
+      "example_th": "เราร้องเพลงคริสต์มาสหน้าบ้านทุกหลังบนถนน",
+      "cefr": "B1",
+      "note_th": "carol = เพลงคริสต์มาสแบบดั้งเดิม เช่น Silent Night — go caroling คือเดินร้องเพลงตามบ้าน และ Carol เป็นชื่อผู้หญิงด้วย",
+      "distractors": [
+        "carrot",
+        "choir",
+        "coral"
+      ]
+    },
+    {
+      "id": "ornament",
+      "word": "ornament",
+      "pos": "noun",
+      "ipa": "/ˈɔːrnəmənt/",
+      "reading_th": "ออร์-นะ-เมินท์",
+      "meaning_th": "ของประดับต้นคริสต์มาส",
+      "emoji": "🔮",
+      "example_en": "We hang a new ornament on the tree every year.",
+      "example_th": "เราแขวนของประดับชิ้นใหม่บนต้นคริสต์มาสทุกปี",
+      "cefr": "B1",
+      "note_th": "ornament = ลูกบอลและของตกแต่งแขวนต้นคริสต์มาส — คำกว้างๆ สำหรับของประดับทุกชนิดก็ใช้ decoration ได้",
+      "distractors": [
+        "ointment",
+        "argument",
+        "monument"
+      ]
+    },
+    {
+      "id": "countdown",
+      "word": "countdown",
+      "pos": "noun",
+      "ipa": "/ˈkaʊntdaʊn/",
+      "reading_th": "เคานท์-ดาวน์",
+      "meaning_th": "เคานต์ดาวน์ (นับถอยหลัง)",
+      "emoji": "🔟",
+      "example_en": "Thousands joined the countdown at CentralWorld.",
+      "example_th": "คนหลายพันร่วมเคานต์ดาวน์ที่เซ็นทรัลเวิลด์",
+      "cefr": "A2",
+      "note_th": "countdown เป็นคำนาม ส่วนกริยาคือ count down (แยกกัน): Let's count down from ten! — คนไทยพูด \"ไปเคานต์ดาวน์\" ฝรั่งพูดว่า go to a countdown party",
+      "distractors": [
+        "count",
+        "cooldown",
+        "touchdown"
+      ]
+    },
+    {
+      "id": "new_years_eve",
+      "word": "New Year's Eve",
+      "pos": "noun",
+      "ipa": "/ˌnuː jɪrz ˈiːv/",
+      "reading_th": "นิว เยียร์ส อีฟ",
+      "meaning_th": "คืนวันสิ้นปี (31 ธันวาคม)",
+      "emoji": "🥂",
+      "example_en": "What are you doing on New Year's Eve?",
+      "example_th": "คืนสิ้นปีคุณจะทำอะไร",
+      "cefr": "A2",
+      "note_th": "eve = คืนก่อนวันสำคัญ: New Year's Eve (31 ธ.ค.), Christmas Eve (24 ธ.ค.) — ส่วน New Year's Day คือ 1 มกราคม",
+      "distractors": [
+        "New Year's Day",
+        "Christmas Eve",
+        "new year"
+      ]
+    },
+    {
+      "id": "fireworks",
+      "word": "fireworks",
+      "pos": "noun",
+      "ipa": "/ˈfaɪərwɜːrks/",
+      "reading_th": "ไฟ-เออร์-เวิร์คส์",
+      "meaning_th": "พลุ / ดอกไม้ไฟ",
+      "emoji": "🎆",
+      "example_en": "The fireworks over the river lasted ten minutes.",
+      "example_th": "พลุเหนือแม่น้ำจุดนานสิบนาที",
+      "cefr": "A2",
+      "note_th": "fireworks ใช้รูปพหูพจน์เสมอ — ดูพลุพูดว่า watch the fireworks จุดพลุคือ set off fireworks และ fireworks display = การแสดงพลุ",
+      "distractors": [
+        "firecracker",
+        "flashlight",
+        "fire"
+      ]
+    },
+    {
+      "id": "resolution",
+      "word": "resolution",
+      "pos": "noun",
+      "ipa": "/ˌrezəˈluːʃən/",
+      "reading_th": "เร-โซ-ลู-ชั่น",
+      "meaning_th": "ปณิธานปีใหม่",
+      "emoji": "📝",
+      "example_en": "My New Year's resolution is to exercise more.",
+      "example_th": "ปณิธานปีใหม่ของฉันคือออกกำลังกายให้มากขึ้น",
+      "cefr": "B1",
+      "note_th": "New Year's resolution = สิ่งที่ตั้งใจจะทำในปีใหม่ — make a resolution / keep a resolution / break a resolution (ตั้ง/รักษา/ล้มเลิก)",
+      "distractors": [
+        "solution",
+        "revolution",
+        "resolve"
+      ]
+    },
+    {
+      "id": "celebrate",
+      "word": "celebrate",
+      "pos": "verb",
+      "ipa": "/ˈseləbreɪt/",
+      "reading_th": "เซ-เลอ-เบรท",
+      "meaning_th": "เฉลิมฉลอง",
+      "emoji": "🎉",
+      "example_en": "How do you celebrate New Year in your country?",
+      "example_th": "ประเทศคุณฉลองปีใหม่กันอย่างไร",
+      "cefr": "A1",
+      "note_th": "celebrate + สิ่งที่ฉลอง: celebrate a birthday / Christmas / a win — คำนามคือ celebration และ Let's celebrate! = ฉลองกันเถอะ",
+      "distractors": [
+        "celebrity",
+        "calibrate",
+        "elevate"
+      ]
+    },
+    {
+      "id": "halloween",
+      "word": "Halloween",
+      "pos": "noun",
+      "ipa": "/ˌhæloʊˈiːn/",
+      "reading_th": "ฮา-โล-วีน",
+      "meaning_th": "ฮาโลวีน",
+      "emoji": "🎃",
+      "example_en": "Halloween falls on October 31 every year.",
+      "example_th": "ฮาโลวีนตรงกับวันที่ 31 ตุลาคมทุกปี",
+      "cefr": "A1",
+      "note_th": "สะกด Halloween มี ll และ ee ตัวใหญ่ H เพราะเป็นชื่อเทศกาล — Happy Halloween! คือคำทักทายวันนั้น",
+      "distractors": [
+        "hallway",
+        "hollow",
+        "Harvest"
+      ]
+    },
+    {
+      "id": "pumpkin",
+      "word": "pumpkin",
+      "pos": "noun",
+      "ipa": "/ˈpʌmpkɪn/",
+      "reading_th": "พัมพ์-คิน",
+      "meaning_th": "ฟักทอง",
+      "emoji": "🎃",
+      "example_en": "We carved a pumpkin for the front porch.",
+      "example_th": "เราแกะสลักฟักทองไว้ที่ระเบียงหน้าบ้าน",
+      "cefr": "A1",
+      "note_th": "carve a pumpkin = แกะสลักฟักทอง — pumpkin spice latte คือเมนูประจำฤดูใบไม้ร่วงของ Starbucks และฟักทองไทยก็คือ pumpkin",
+      "distractors": [
+        "pimple",
+        "napkin",
+        "pumping"
+      ]
+    },
+    {
+      "id": "jack_o_lantern",
+      "word": "jack-o'-lantern",
+      "pos": "noun",
+      "ipa": "/ˌdʒæk ə ˈlæntərn/",
+      "reading_th": "แจ็ค โอ แลน-เทิร์น",
+      "meaning_th": "โคมฟักทองแกะสลัก",
+      "emoji": "🎃",
+      "example_en": "A glowing jack-o'-lantern sat by the door.",
+      "example_th": "โคมฟักทองแกะสลักส่องแสงวางอยู่ข้างประตู",
+      "cefr": "B1",
+      "note_th": "jack-o'-lantern = ฟักทองแกะหน้าใส่เทียนข้างใน ตามตำนานไอริชเรื่อง Stingy Jack — คำนี้สะกดยาก ฝรั่งเองก็มักเขียนผิด",
+      "distractors": [
+        "lantern",
+        "jacket",
+        "jackpot"
+      ]
+    },
+    {
+      "id": "trick_or_treat",
+      "word": "trick or treat",
+      "pos": "phrase",
+      "ipa": "/ˌtrɪk ɔːr ˈtriːt/",
+      "reading_th": "ทริค ออร์ ทรีท",
+      "meaning_th": "หลอกหรือเลี้ยง (ขอขนมวันฮาโลวีน)",
+      "emoji": "🍬",
+      "example_en": "The kids shouted trick or treat at every door.",
+      "example_th": "เด็กๆ ตะโกน trick or treat ที่ทุกประตู",
+      "cefr": "A2",
+      "note_th": "เด็กแต่งแฟนซีเคาะประตูพูด Trick or treat! เพื่อขอขนม — กริยาคือ go trick-or-treating และ treat = ขนม/ของดีๆ",
+      "distractors": [
+        "trick",
+        "treat",
+        "tricky"
+      ]
+    },
+    {
+      "id": "ghost",
+      "word": "ghost",
+      "pos": "noun",
+      "ipa": "/ɡoʊst/",
+      "reading_th": "โกสต์",
+      "meaning_th": "ผี",
+      "emoji": "👻",
+      "example_en": "My little brother dressed up as a ghost.",
+      "example_th": "น้องชายฉันแต่งเป็นผี",
+      "cefr": "A1",
+      "note_th": "h ไม่ออกเสียง โกสต์ — ghost story = เรื่องผี และ ghost ในแอปหาคู่คือกริยาแปลว่าหายเงียบไป",
+      "distractors": [
+        "goat",
+        "guest",
+        "host"
+      ]
+    },
+    {
+      "id": "witch",
+      "word": "witch",
+      "pos": "noun",
+      "ipa": "/wɪtʃ/",
+      "reading_th": "วิทช์",
+      "meaning_th": "แม่มด",
+      "emoji": "🧙‍♀️",
+      "example_en": "She wore a black witch hat with a broom.",
+      "example_th": "เธอใส่หมวกแม่มดสีดำพร้อมไม้กวาด",
+      "cefr": "A2",
+      "note_th": "witch ออกเสียงเหมือน which ทุกประการ — แม่มดคือ witch พ่อมดคือ wizard และ witch hat คือหมวกแหลมดำ",
+      "distractors": [
+        "which",
+        "watch",
+        "wizard"
+      ]
+    },
+    {
+      "id": "haunted_house",
+      "word": "haunted house",
+      "pos": "noun",
+      "ipa": "/ˌhɔːntɪd ˈhaʊs/",
+      "reading_th": "ฮอน-ทิด เฮาส์",
+      "meaning_th": "บ้านผีสิง",
+      "emoji": "🏚️",
+      "example_en": "The haunted house at the fair was really scary.",
+      "example_th": "บ้านผีสิงในงานวัดน่ากลัวมากจริงๆ",
+      "cefr": "A2",
+      "note_th": "haunted = มีผีสิง ใช้กับสถานที่: haunted house, haunted hotel — ส่วนคำว่า \"บ้านผีสิง\" ในสวนสนุกก็ใช้คำนี้เหมือนกัน",
+      "distractors": [
+        "haunted hotel",
+        "hotel",
+        "treehouse"
+      ]
+    },
+    {
+      "id": "spooky",
+      "word": "spooky",
+      "pos": "adjective",
+      "ipa": "/ˈspuːki/",
+      "reading_th": "สปู-กี้",
+      "meaning_th": "น่าขนลุก (แบบสนุกๆ)",
+      "emoji": "🕸️",
+      "example_en": "The decorations look spooky but cute.",
+      "example_th": "ของตกแต่งดูน่าขนลุกแต่น่ารัก",
+      "cefr": "B1",
+      "note_th": "spooky = น่ากลัวแบบขำๆ ขนลุกนิดๆ เหมาะกับฮาโลวีน ไม่น่ากลัวเท่า terrifying — spooky season คือเดือนตุลาคม",
+      "distractors": [
+        "sneaky",
+        "spiky",
+        "smoky"
+      ]
+    },
+    {
+      "id": "skeleton",
+      "word": "skeleton",
+      "pos": "noun",
+      "ipa": "/ˈskelɪtən/",
+      "reading_th": "สเก-ลิ-เทิน",
+      "meaning_th": "โครงกระดูก",
+      "emoji": "💀",
+      "example_en": "A plastic skeleton hung from the ceiling.",
+      "example_th": "โครงกระดูกพลาสติกแขวนจากเพดาน",
+      "cefr": "A2",
+      "note_th": "skeleton = โครงกระดูกทั้งร่าง ส่วน skull = กะโหลก — skeleton costume ใส่ง่ายสุดสำหรับคนที่ขี้เกียจแต่งตัว",
+      "distractors": [
+        "skull",
+        "skate",
+        "selection"
+      ]
+    },
+    {
+      "id": "thanksgiving",
+      "word": "Thanksgiving",
+      "pos": "noun",
+      "ipa": "/ˌθæŋksˈɡɪvɪŋ/",
+      "reading_th": "แธงค์ส-กิฟ-วิง",
+      "meaning_th": "วันขอบคุณพระเจ้า",
+      "emoji": "🦃",
+      "example_en": "Americans fly home for Thanksgiving in November.",
+      "example_th": "คนอเมริกันบินกลับบ้านช่วงวันขอบคุณพระเจ้าในเดือนพฤศจิกายน",
+      "cefr": "A2",
+      "note_th": "Thanksgiving ตรงกับพฤหัสที่ 4 ของพฤศจิกายน ครอบครัวกินไก่งวงด้วยกัน — วันถัดไปคือ Black Friday วันลดราคาครั้งใหญ่",
+      "distractors": [
+        "thanks",
+        "giving",
+        "thankful"
+      ]
+    },
+    {
+      "id": "turkey",
+      "word": "turkey",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrki/",
+      "reading_th": "เทอร์-กี้",
+      "meaning_th": "ไก่งวง",
+      "emoji": "🦃",
+      "example_en": "Dad roasts a huge turkey every Thanksgiving.",
+      "example_th": "พ่ออบไก่งวงตัวใหญ่ทุกวันขอบคุณพระเจ้า",
+      "cefr": "A2",
+      "note_th": "turkey = ไก่งวง (ตัวเล็ก t) ส่วน Turkey (ตัวใหญ่) คือประเทศตุรกี — cold turkey = เลิกอะไรแบบหักดิบ",
+      "distractors": [
+        "Turkish",
+        "turtle",
+        "chicken"
+      ]
+    },
+    {
+      "id": "thankful",
+      "word": "thankful",
+      "pos": "adjective",
+      "ipa": "/ˈθæŋkfəl/",
+      "reading_th": "แธงค์-ฟูล",
+      "meaning_th": "รู้สึกขอบคุณ / ซาบซึ้งใจ",
+      "emoji": "🙏",
+      "example_en": "I'm thankful for my family and good health.",
+      "example_th": "ฉันรู้สึกขอบคุณที่มีครอบครัวและสุขภาพดี",
+      "cefr": "A2",
+      "note_th": "thankful for + สิ่งที่ขอบคุณ ใช้แทน grateful ได้ (grateful ทางการกว่านิดหน่อย) — วัน Thanksgiving ทุกคนผลัดกันพูดว่า What are you thankful for?",
+      "distractors": [
+        "thoughtful",
+        "thankless",
+        "thanks"
+      ]
+    },
+    {
+      "id": "feast",
+      "word": "feast",
+      "pos": "noun",
+      "ipa": "/fiːst/",
+      "reading_th": "ฟีสต์",
+      "meaning_th": "งานเลี้ยงใหญ่ / มื้อใหญ่",
+      "emoji": "🍽️",
+      "example_en": "The Thanksgiving feast took all day to cook.",
+      "example_th": "มื้อใหญ่วันขอบคุณพระเจ้าใช้เวลาทำทั้งวัน",
+      "cefr": "B1",
+      "note_th": "feast = มื้ออาหารใหญ่ที่มีของกินเยอะมาก มักในงานเทศกาล — a feast for the eyes = สวยจนเต็มอิ่มสายตา",
+      "distractors": [
+        "fast",
+        "fest",
+        "fist"
+      ]
+    },
+    {
+      "id": "harvest",
+      "word": "harvest",
+      "pos": "noun",
+      "ipa": "/ˈhɑːrvɪst/",
+      "reading_th": "ฮาร์-เวสต์",
+      "meaning_th": "การเก็บเกี่ยว",
+      "emoji": "🌾",
+      "example_en": "Thanksgiving began as a harvest celebration.",
+      "example_th": "วันขอบคุณพระเจ้าเริ่มต้นจากการฉลองการเก็บเกี่ยว",
+      "cefr": "B1",
+      "note_th": "harvest เป็นได้ทั้งคำนามและกริยา (harvest rice = เกี่ยวข้าว) — harvest festival = เทศกาลเก็บเกี่ยว เช่นไหว้พระจันทร์ของจีน",
+      "distractors": [
+        "harbor",
+        "heaviest",
+        "harness"
+      ]
+    },
+    {
+      "id": "songkran",
+      "word": "Songkran",
+      "pos": "noun",
+      "ipa": "/ˈsɒŋkrɑːn/",
+      "reading_th": "สง-กรานต์",
+      "meaning_th": "สงกรานต์",
+      "emoji": "💦",
+      "example_en": "Songkran is the Thai New Year in April.",
+      "example_th": "สงกรานต์คือปีใหม่ไทยในเดือนเมษายน",
+      "cefr": "A1",
+      "note_th": "อธิบายฝรั่งว่า Songkran is the Thai New Year water festival — ฝรั่งหลายคนรู้จักในชื่อ the water festival มากกว่า",
+      "distractors": [
+        "Loy Krathong",
+        "Songkhla",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "water_fight",
+      "word": "water fight",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər faɪt/",
+      "reading_th": "วอ-เทอร์ ไฟท์",
+      "meaning_th": "การเล่นสาดน้ำ",
+      "emoji": "🔫",
+      "example_en": "Khao San Road turns into a huge water fight.",
+      "example_th": "ถนนข้าวสารกลายเป็นสนามสาดน้ำขนาดใหญ่",
+      "cefr": "A2",
+      "note_th": "have a water fight = เล่นสาดน้ำกัน — สาดน้ำใส่ใครพูดว่า splash water on someone และ get soaked = เปียกโชก",
+      "distractors": [
+        "water gun",
+        "food fight",
+        "water flight"
+      ]
+    },
+    {
+      "id": "water_gun",
+      "word": "water gun",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtər ɡʌn/",
+      "reading_th": "วอ-เทอร์ กัน",
+      "meaning_th": "ปืนฉีดน้ำ",
+      "emoji": "🔫",
+      "example_en": "Buy a big water gun before Songkran starts.",
+      "example_th": "ซื้อปืนฉีดน้ำกระบอกใหญ่ก่อนสงกรานต์เริ่ม",
+      "cefr": "A1",
+      "note_th": "water gun (อเมริกัน) = water pistol (อังกฤษ) — ถ้าเป็นแบบสะพายหลังใหญ่ๆ เรียก water blaster ก็ได้",
+      "distractors": [
+        "water fight",
+        "water bottle",
+        "gun"
+      ]
+    },
+    {
+      "id": "loy_krathong",
+      "word": "Loy Krathong",
+      "pos": "noun",
+      "ipa": "/ˌlɔɪ krəˈtɔːŋ/",
+      "reading_th": "ลอย กระ-ทง",
+      "meaning_th": "ลอยกระทง",
+      "emoji": "🪷",
+      "example_en": "Loy Krathong falls on the full moon of November.",
+      "example_th": "ลอยกระทงตรงกับคืนพระจันทร์เต็มดวงเดือนพฤศจิกายน",
+      "cefr": "A1",
+      "note_th": "อธิบายว่า Loy Krathong is the festival of lights — people float small baskets on the river to thank the goddess of water",
+      "distractors": [
+        "Songkran",
+        "Lantern Festival",
+        "Krabi"
+      ]
+    },
+    {
+      "id": "krathong",
+      "word": "krathong",
+      "pos": "noun",
+      "ipa": "/krəˈtɔːŋ/",
+      "reading_th": "กระ-ทง",
+      "meaning_th": "กระทง",
+      "emoji": "🪷",
+      "example_en": "We made a krathong from banana leaves and flowers.",
+      "example_th": "เราทำกระทงจากใบตองและดอกไม้",
+      "cefr": "A2",
+      "note_th": "ไม่มีคำอังกฤษตรงตัว ใช้ทับศัพท์ krathong แล้วอธิบายว่า a small floating basket made of banana leaves — ลอยกระทงพูดว่า float a krathong",
+      "distractors": [
+        "lantern",
+        "bouquet",
+        "basket"
+      ]
+    },
+    {
+      "id": "lantern",
+      "word": "lantern",
+      "pos": "noun",
+      "ipa": "/ˈlæntərn/",
+      "reading_th": "แลน-เทิร์น",
+      "meaning_th": "โคม / โคมลอย",
+      "emoji": "🏮",
+      "example_en": "Thousands of lanterns floated into the night sky.",
+      "example_th": "โคมลอยนับพันลอยขึ้นสู่ท้องฟ้ายามค่ำคืน",
+      "cefr": "A2",
+      "note_th": "โคมลอยยี่เป็งคือ sky lantern ส่วนโคมแดงจีนคือ paper lantern — release a lantern = ปล่อยโคม",
+      "distractors": [
+        "lamp",
+        "latter",
+        "lentil"
+      ]
+    },
+    {
+      "id": "float",
+      "word": "float",
+      "pos": "verb",
+      "ipa": "/floʊt/",
+      "reading_th": "โฟลท",
+      "meaning_th": "ลอย (บนน้ำ)",
+      "emoji": "🌊",
+      "example_en": "Make a wish and float your krathong on the river.",
+      "example_th": "อธิษฐานแล้วลอยกระทงลงแม่น้ำ",
+      "cefr": "A2",
+      "note_th": "float = ลอยอยู่บนน้ำหรือในอากาศ ส่วน fly = บิน — ตรงข้ามคือ sink = จม และรถขบวนพาเหรดก็เรียกว่า float",
+      "distractors": [
+        "flood",
+        "flow",
+        "flat"
+      ]
+    },
+    {
+      "id": "make_merit",
+      "word": "make merit",
+      "pos": "phrase",
+      "ipa": "/ˌmeɪk ˈmerɪt/",
+      "reading_th": "เมค เม-ริท",
+      "meaning_th": "ทำบุญ",
+      "emoji": "🙏",
+      "example_en": "Many Thais make merit at the temple on New Year's Day.",
+      "example_th": "คนไทยหลายคนทำบุญที่วัดในวันปีใหม่",
+      "cefr": "A2",
+      "note_th": "ทำบุญ = make merit เป็นสำนวนที่ชาวพุทธใช้ ฝรั่งที่อยู่ไทยเข้าใจดี — merit = บุญ/ความดี ใช้คู่กับ make เสมอ",
+      "distractors": [
+        "make money",
+        "do merit",
+        "make a wish"
+      ]
+    },
+    {
+      "id": "monk",
+      "word": "monk",
+      "pos": "noun",
+      "ipa": "/mʌŋk/",
+      "reading_th": "มังค์",
+      "meaning_th": "พระสงฆ์",
+      "emoji": "🧘",
+      "example_en": "A monk blessed the new shop this morning.",
+      "example_th": "พระสงฆ์ให้พรร้านใหม่เมื่อเช้านี้",
+      "cefr": "A2",
+      "note_th": "monk = พระ (ออกเสียง มังค์ ไม่ใช่ ม็องค์) — บวชพระพูดว่า become a monk หรือ be ordained as a monk",
+      "distractors": [
+        "monkey",
+        "monkfish",
+        "mock"
+      ]
+    },
+    {
+      "id": "alms",
+      "word": "alms",
+      "pos": "noun",
+      "ipa": "/ɑːmz/",
+      "reading_th": "อามส์",
+      "meaning_th": "การใส่บาตร / ของถวายพระ",
+      "emoji": "🍚",
+      "example_en": "We give alms to the monks early in the morning.",
+      "example_th": "เราใส่บาตรพระตอนเช้าตรู่",
+      "cefr": "B1",
+      "note_th": "ใส่บาตร = give alms หรือ offer food to the monks — l ไม่ออกเสียง อามส์ และคำนี้ใช้ในรูปพหูพจน์เสมอ",
+      "distractors": [
+        "arms",
+        "palms",
+        "alarms"
+      ]
+    },
+    {
+      "id": "pour_water",
+      "word": "pour water",
+      "pos": "phrase",
+      "ipa": "/ˌpɔːr ˈwɔːtər/",
+      "reading_th": "พอร์ วอ-เทอร์",
+      "meaning_th": "รดน้ำดำหัว (รดน้ำผู้ใหญ่)",
+      "emoji": "🫗",
+      "example_en": "We pour water on our elders' hands to ask for blessings.",
+      "example_th": "เรารดน้ำที่มือผู้ใหญ่เพื่อขอพร",
+      "cefr": "A2",
+      "note_th": "รดน้ำดำหัวอธิบายว่า pour scented water on the hands of elders — pour = เท/ริน ต่างจาก splash = สาด",
+      "distractors": [
+        "pour milk",
+        "spill water",
+        "throw water"
+      ]
+    },
+    {
+      "id": "blessing",
+      "word": "blessing",
+      "pos": "noun",
+      "ipa": "/ˈblesɪŋ/",
+      "reading_th": "เบลส-ซิ่ง",
+      "meaning_th": "พร / การให้พร",
+      "emoji": "✨",
+      "example_en": "The monks gave us a blessing for the new year.",
+      "example_th": "พระให้พรเราสำหรับปีใหม่",
+      "cefr": "B1",
+      "note_th": "give a blessing = ให้พร ask for a blessing = ขอพร — กริยาคือ bless และเวลาจามฝรั่งพูดว่า Bless you!",
+      "distractors": [
+        "blessed",
+        "pressing",
+        "lesson"
+      ]
+    },
+    {
+      "id": "chinese_new_year",
+      "word": "Chinese New Year",
+      "pos": "noun",
+      "ipa": "/ˌtʃaɪniːz nuː ˈjɪr/",
+      "reading_th": "ไช-นีส นิว เยียร์",
+      "meaning_th": "ตรุษจีน",
+      "emoji": "🧧",
+      "example_en": "Yaowarat is packed during Chinese New Year.",
+      "example_th": "เยาวราชแน่นมากช่วงตรุษจีน",
+      "cefr": "A1",
+      "note_th": "ตรุษจีน = Chinese New Year หรือ Lunar New Year — คำอวยพรยอดนิยมคือ Happy Chinese New Year! และ Gong Xi Fa Cai",
+      "distractors": [
+        "Lunar New Year",
+        "New Year's Eve",
+        "Chinese food"
+      ]
+    },
+    {
+      "id": "red_envelope",
+      "word": "red envelope",
+      "pos": "noun",
+      "ipa": "/ˌred ˈenvəloʊp/",
+      "reading_th": "เรด เอ็น-เวอ-โลป",
+      "meaning_th": "อั่งเปา",
+      "emoji": "🧧",
+      "example_en": "Grandma gives every child a red envelope.",
+      "example_th": "อาม่าให้อั่งเปากับเด็กทุกคน",
+      "cefr": "A2",
+      "note_th": "อั่งเปา = red envelope (เงินในซองแดง) — ฝรั่งที่คุ้นเคยอาจเรียก red packet หรือ hongbao ตามภาษาจีน",
+      "distractors": [
+        "envelope",
+        "red carpet",
+        "red packet"
+      ]
+    },
+    {
+      "id": "birthday",
+      "word": "birthday",
+      "pos": "noun",
+      "ipa": "/ˈbɜːrθdeɪ/",
+      "reading_th": "เบิร์ธ-เดย์",
+      "meaning_th": "วันเกิด",
+      "emoji": "🎂",
+      "example_en": "When is your birthday? Mine is in May.",
+      "example_th": "วันเกิดคุณเมื่อไหร่ ของฉันเดือนพฤษภาคม",
+      "cefr": "A1",
+      "note_th": "birthday = วันเกิดที่ฉลองทุกปี ส่วน date of birth = วันเดือนปีเกิดในเอกสาร — It's my birthday today! = วันนี้วันเกิดฉัน",
+      "distractors": [
+        "birth",
+        "Thursday",
+        "birthplace"
+      ]
+    },
+    {
+      "id": "throw_a_party",
+      "word": "throw a party",
+      "pos": "phrase",
+      "ipa": "/ˌθroʊ ə ˈpɑːrti/",
+      "reading_th": "โธรว์ อะ พาร์-ตี้",
+      "meaning_th": "จัดปาร์ตี้",
+      "emoji": "🥳",
+      "example_en": "Let's throw a party for Dad's sixtieth birthday.",
+      "example_th": "จัดปาร์ตี้วันเกิดครบหกสิบปีให้พ่อกันเถอะ",
+      "cefr": "A2",
+      "note_th": "จัดปาร์ตี้ = throw a party หรือ have a party ไม่ใช่ make a party — อดีตคือ threw a party และ throw ยังแปลว่าขว้างปาได้",
+      "distractors": [
+        "throw away",
+        "throw up",
+        "join a party"
+      ]
+    },
+    {
+      "id": "balloon",
+      "word": "balloon",
+      "pos": "noun",
+      "ipa": "/bəˈluːn/",
+      "reading_th": "บะ-ลูน",
+      "meaning_th": "ลูกโป่ง",
+      "emoji": "🎈",
+      "example_en": "We filled the room with colorful balloons.",
+      "example_th": "เราใส่ลูกโป่งหลากสีจนเต็มห้อง",
+      "cefr": "A1",
+      "note_th": "สะกด balloon มี ll และ oo — blow up a balloon = เป่าลูกโป่ง และ balloon ยังแปลว่าบอลลูน (hot air balloon) ด้วย",
+      "distractors": [
+        "ballroom",
+        "ballet",
+        "baboon"
+      ]
+    },
+    {
+      "id": "candle",
+      "word": "candle",
+      "pos": "noun",
+      "ipa": "/ˈkændəl/",
+      "reading_th": "แคน-เดิล",
+      "meaning_th": "เทียน",
+      "emoji": "🕯️",
+      "example_en": "Put thirty candles on the cake.",
+      "example_th": "ปักเทียนสามสิบเล่มบนเค้ก",
+      "cefr": "A1",
+      "note_th": "candle = เทียน light a candle = จุดเทียน blow out the candles = เป่าเทียน — scented candle คือเทียนหอมที่คาเฟ่ชอบขาย",
+      "distractors": [
+        "candy",
+        "handle",
+        "cradle"
+      ]
+    },
+    {
+      "id": "blow_out",
+      "word": "blow out",
+      "pos": "phrase",
+      "ipa": "/ˌbloʊ ˈaʊt/",
+      "reading_th": "โบลว์ เอาท์",
+      "meaning_th": "เป่า (เทียน) ให้ดับ",
+      "emoji": "💨",
+      "example_en": "Make a wish and blow out the candles!",
+      "example_th": "อธิษฐานแล้วเป่าเทียนเลย!",
+      "cefr": "A2",
+      "note_th": "blow out = เป่าให้ไฟดับ ใช้กับเทียนและไม้ขีด — อดีตคือ blew out และ blowout ติดกันแปลว่างานใหญ่หรือยางแตก",
+      "distractors": [
+        "blow up",
+        "blow away",
+        "burn out"
+      ]
+    },
+    {
+      "id": "make_a_wish",
+      "word": "make a wish",
+      "pos": "phrase",
+      "ipa": "/ˌmeɪk ə ˈwɪʃ/",
+      "reading_th": "เมค อะ วิช",
+      "meaning_th": "อธิษฐาน",
+      "emoji": "🌠",
+      "example_en": "Close your eyes and make a wish.",
+      "example_th": "หลับตาแล้วอธิษฐาน",
+      "cefr": "A1",
+      "note_th": "อธิษฐานใช้ make a wish ไม่ใช่ pray (สวดมนต์) — ขอพรเมื่อเป่าเทียน เห็นดาวตก หรือโยนเหรียญลงน้ำพุ",
+      "distractors": [
+        "make a dish",
+        "make a list",
+        "wish list"
+      ]
+    },
+    {
+      "id": "surprise_party",
+      "word": "surprise party",
+      "pos": "noun",
+      "ipa": "/sərˈpraɪz ˌpɑːrti/",
+      "reading_th": "เซอร์-ไพรส์ พาร์-ตี้",
+      "meaning_th": "ปาร์ตี้เซอร์ไพรส์",
+      "emoji": "🎊",
+      "example_en": "We threw a surprise party for her 30th birthday.",
+      "example_th": "เราจัดปาร์ตี้เซอร์ไพรส์วันเกิดครบ 30 ปีให้เธอ",
+      "cefr": "A2",
+      "note_th": "throw a surprise party = จัดปาร์ตี้เซอร์ไพรส์ — ตอนเจ้าตัวเปิดประตูทุกคนตะโกนพร้อมกันว่า Surprise!",
+      "distractors": [
+        "birthday party",
+        "bachelor party",
+        "house party"
+      ]
+    },
+    {
+      "id": "invitation",
+      "word": "invitation",
+      "pos": "noun",
+      "ipa": "/ˌɪnvɪˈteɪʃən/",
+      "reading_th": "อิน-วิ-เท-ชั่น",
+      "meaning_th": "บัตรเชิญ / คำเชิญ",
+      "emoji": "💌",
+      "example_en": "Did you get the invitation to Ann's party?",
+      "example_th": "ได้รับบัตรเชิญงานปาร์ตี้ของแอนหรือยัง",
+      "cefr": "A2",
+      "note_th": "send an invitation = ส่งบัตรเชิญ accept / decline an invitation = ตอบรับ/ปฏิเสธ — ในภาษาพูดย่อว่า invite ก็ได้ (Did you get the invite?)",
+      "distractors": [
+        "invention",
+        "imitation",
+        "invasion"
+      ]
+    },
+    {
+      "id": "invite",
+      "word": "invite",
+      "pos": "verb",
+      "ipa": "/ɪnˈvaɪt/",
+      "reading_th": "อิน-ไวท์",
+      "meaning_th": "เชิญ / ชวน",
+      "emoji": "🙋",
+      "example_en": "Let's invite the whole team to the party.",
+      "example_th": "ชวนทั้งทีมมาปาร์ตี้กันเถอะ",
+      "cefr": "A1",
+      "note_th": "invite someone to + งาน: invite you to my wedding — เชิญไปกินข้าวพูดว่า invite you to dinner (ไม่ใช่ for dinner)",
+      "distractors": [
+        "invest",
+        "invent",
+        "inside"
+      ]
+    },
+    {
+      "id": "guest_of_honor",
+      "word": "guest of honor",
+      "pos": "noun",
+      "ipa": "/ˌɡest əv ˈɑːnər/",
+      "reading_th": "เกสท์ ออฟ ออ-เนอร์",
+      "meaning_th": "แขกคนสำคัญ / เจ้าของงาน",
+      "emoji": "👑",
+      "example_en": "The guest of honor arrives last at a surprise party.",
+      "example_th": "เจ้าของงานมาถึงเป็นคนสุดท้ายในปาร์ตี้เซอร์ไพรส์",
+      "cefr": "B1",
+      "note_th": "guest of honor = คนที่งานจัดเพื่อเขา (เจ้าของวันเกิด คู่บ่าวสาว ผู้เกษียณ) — h ใน honor ไม่ออกเสียง และอังกฤษสะกด honour",
+      "distractors": [
+        "guest list",
+        "host",
+        "honorable guest"
+      ]
+    },
+    {
+      "id": "decorate",
+      "word": "decorate",
+      "pos": "verb",
+      "ipa": "/ˈdekəreɪt/",
+      "reading_th": "เด-โค-เรท",
+      "meaning_th": "ตกแต่ง",
+      "emoji": "🎀",
+      "example_en": "We decorated the hall with balloons and lights.",
+      "example_th": "เราตกแต่งห้องโถงด้วยลูกโป่งและไฟ",
+      "cefr": "A2",
+      "note_th": "decorate + สถานที่ + with + ของตกแต่ง — คำนามคือ decorations (ของตกแต่ง) และ decorate a cake = แต่งหน้าเค้ก",
+      "distractors": [
+        "dedicate",
+        "declare",
+        "locate"
+      ]
+    },
+    {
+      "id": "confetti",
+      "word": "confetti",
+      "pos": "noun",
+      "ipa": "/kənˈfeti/",
+      "reading_th": "คอน-เฟ็ต-ตี้",
+      "meaning_th": "กระดาษสีโปรย (คอนเฟตตี)",
+      "emoji": "🎊",
+      "example_en": "Confetti rained down when the clock hit midnight.",
+      "example_th": "คอนเฟตตีโปรยลงมาตอนนาฬิกาตีเที่ยงคืน",
+      "cefr": "B1",
+      "note_th": "confetti = กระดาษชิ้นเล็กๆ ที่โปรยในงานฉลอง นับไม่ได้ — confetti popper คือกระบอกยิงกระดาษสี",
+      "distractors": [
+        "confession",
+        "spaghetti",
+        "confess"
+      ]
+    },
+    {
+      "id": "party_hat",
+      "word": "party hat",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrti hæt/",
+      "reading_th": "พาร์-ตี้ แฮท",
+      "meaning_th": "หมวกปาร์ตี้ (หมวกกรวย)",
+      "emoji": "🎉",
+      "example_en": "Everyone had to wear a silly party hat.",
+      "example_th": "ทุกคนต้องใส่หมวกปาร์ตี้ตลกๆ",
+      "cefr": "A1",
+      "note_th": "party hat = หมวกกรวยกระดาษมียางรัดคาง — ใส่ถ่ายรูปวันเกิด และ party popper คือกระบอกดึงแล้วกระดาษสีพุ่ง",
+      "distractors": [
+        "party pooper",
+        "hard hat",
+        "party bag"
+      ]
+    },
+    {
+      "id": "rsvp",
+      "word": "RSVP",
+      "pos": "verb",
+      "ipa": "/ˌɑːr es viː ˈpiː/",
+      "reading_th": "อาร์ เอส วี พี",
+      "meaning_th": "ตอบรับคำเชิญ",
+      "emoji": "✅",
+      "example_en": "Please RSVP by Friday so we can order food.",
+      "example_th": "กรุณาตอบรับภายในวันศุกร์เพื่อที่เราจะได้สั่งอาหาร",
+      "cefr": "B1",
+      "note_th": "RSVP มาจากภาษาฝรั่งเศส \"กรุณาตอบกลับ\" เจอบนบัตรเชิญทุกใบ — ใช้เป็นกริยาได้ Have you RSVP'd yet?",
+      "distractors": [
+        "VIP",
+        "RIP",
+        "ASAP"
+      ]
+    },
+    {
+      "id": "ceremony",
+      "word": "ceremony",
+      "pos": "noun",
+      "ipa": "/ˈserəmoʊni/",
+      "reading_th": "เซ-เระ-โม-นี่",
+      "meaning_th": "พิธี",
+      "emoji": "🎎",
+      "example_en": "The ceremony starts at nine, so don't be late.",
+      "example_th": "พิธีเริ่มเก้าโมง อย่ามาสายนะ",
+      "cefr": "A2",
+      "note_th": "ceremony = พิธีที่เป็นทางการ: wedding ceremony, opening ceremony, graduation ceremony — ส่วน reception คือช่วงงานเลี้ยงหลังพิธี",
+      "distractors": [
+        "celebration",
+        "cemetery",
+        "seminar"
+      ]
+    },
+    {
+      "id": "reception",
+      "word": "reception",
+      "pos": "noun",
+      "ipa": "/rɪˈsepʃən/",
+      "reading_th": "รี-เซ็พ-ชั่น",
+      "meaning_th": "งานเลี้ยงฉลอง (หลังพิธี)",
+      "emoji": "🥂",
+      "example_en": "The reception is at a hotel by the river.",
+      "example_th": "งานเลี้ยงจัดที่โรงแรมริมแม่น้ำ",
+      "cefr": "B1",
+      "note_th": "wedding reception = งานเลี้ยงแต่งงานตอนเย็น ต่างจากพิธีเช้า — reception ยังแปลว่าแผนกต้อนรับโรงแรมและสัญญาณมือถือได้ด้วย",
+      "distractors": [
+        "receipt",
+        "recipe",
+        "receptionist"
+      ]
+    },
+    {
+      "id": "bouquet",
+      "word": "bouquet",
+      "pos": "noun",
+      "ipa": "/buˈkeɪ/",
+      "reading_th": "บู-เค่",
+      "meaning_th": "ช่อดอกไม้",
+      "emoji": "💐",
+      "example_en": "The bride threw her bouquet to the single guests.",
+      "example_th": "เจ้าสาวโยนช่อดอกไม้ให้แขกที่ยังโสด",
+      "cefr": "B1",
+      "note_th": "มาจากฝรั่งเศส t ท้ายไม่ออกเสียง บู-เค่ — ธรรมเนียมฝรั่งคือ bouquet toss ใครรับได้จะได้แต่งงานคนถัดไป",
+      "distractors": [
+        "banquet",
+        "bucket",
+        "boutique"
+      ]
+    },
+    {
+      "id": "bridesmaid",
+      "word": "bridesmaid",
+      "pos": "noun",
+      "ipa": "/ˈbraɪdzmeɪd/",
+      "reading_th": "ไบรดส์-เมด",
+      "meaning_th": "เพื่อนเจ้าสาว",
+      "emoji": "👯‍♀️",
+      "example_en": "Each bridesmaid wore a pink dress.",
+      "example_th": "เพื่อนเจ้าสาวแต่ละคนใส่ชุดสีชมพู",
+      "cefr": "B1",
+      "note_th": "bridesmaid = เพื่อนเจ้าสาว (คนสำคัญที่สุดคือ maid of honor) ฝั่งเจ้าบ่าวคือ groomsman — ไม่ใช่ maid ที่แปลว่าแม่บ้าน",
+      "distractors": [
+        "bride",
+        "maid",
+        "groomsman"
+      ]
+    },
+    {
+      "id": "veil",
+      "word": "veil",
+      "pos": "noun",
+      "ipa": "/veɪl/",
+      "reading_th": "เวล",
+      "meaning_th": "ผ้าคลุมหน้าเจ้าสาว",
+      "emoji": "👰",
+      "example_en": "The groom lifted her veil for the first kiss.",
+      "example_th": "เจ้าบ่าวเปิดผ้าคลุมหน้าเธอเพื่อจูบครั้งแรก",
+      "cefr": "B2",
+      "note_th": "veil ออกเสียงเหมือน vale — ผ้าคลุมหน้าเจ้าสาวแบบตะวันตก และสำนวน lift the veil = เปิดเผยความลับ",
+      "distractors": [
+        "vale",
+        "vest",
+        "sail"
+      ]
+    },
+    {
+      "id": "altar",
+      "word": "altar",
+      "pos": "noun",
+      "ipa": "/ˈɔːltər/",
+      "reading_th": "ออล-เทอร์",
+      "meaning_th": "แท่นพิธี / แท่นบูชา",
+      "emoji": "⛪",
+      "example_en": "Her father walked her down the aisle to the altar.",
+      "example_th": "พ่อเดินส่งเธอไปยังแท่นพิธี",
+      "cefr": "B2",
+      "note_th": "altar = แท่นพิธีหน้าโบสถ์ที่คู่บ่าวสาวยืน ไม่ใช่ alter (เปลี่ยนแปลง) ที่ออกเสียงเหมือนกัน — หิ้งพระที่บ้านก็ใช้ altar ได้",
+      "distractors": [
+        "alter",
+        "author",
+        "alley"
+      ]
+    },
+    {
+      "id": "wedding_gown",
+      "word": "wedding gown",
+      "pos": "noun",
+      "ipa": "/ˈwedɪŋ ɡaʊn/",
+      "reading_th": "เวด-ดิง กาวน์",
+      "meaning_th": "ชุดแต่งงานเจ้าสาว",
+      "emoji": "👗",
+      "example_en": "She chose a simple white wedding gown.",
+      "example_th": "เธอเลือกชุดแต่งงานสีขาวเรียบๆ",
+      "cefr": "B1",
+      "note_th": "wedding gown = wedding dress (gown ฟังดูหรูกว่า) — ชุดไทยพูดว่า traditional Thai wedding dress และ ball gown คือชุดราตรียาว",
+      "distractors": [
+        "evening gown",
+        "wedding ring",
+        "nightgown"
+      ]
+    },
+    {
+      "id": "tuxedo",
+      "word": "tuxedo",
+      "pos": "noun",
+      "ipa": "/tʌkˈsiːdoʊ/",
+      "reading_th": "ทัค-ซี-โด้",
+      "meaning_th": "ชุดทักซิโด้ (สูทออกงาน)",
+      "emoji": "🤵",
+      "example_en": "The groom rented a black tuxedo for the night.",
+      "example_th": "เจ้าบ่าวเช่าชุดทักซิโด้สีดำสำหรับคืนนั้น",
+      "cefr": "B1",
+      "note_th": "tuxedo (ย่อ tux) = สูทออกงานกลางคืนแบบอเมริกัน อังกฤษเรียก dinner jacket — ใส่กับหูกระต่าย bow tie",
+      "distractors": [
+        "taxi",
+        "torpedo",
+        "tornado"
+      ]
+    },
+    {
+      "id": "dowry",
+      "word": "dowry",
+      "pos": "noun",
+      "ipa": "/ˈdaʊri/",
+      "reading_th": "ดาว-รี่",
+      "meaning_th": "สินสอด",
+      "emoji": "💰",
+      "example_en": "In Thailand the groom's family gives a dowry to the bride's family.",
+      "example_th": "ในไทยครอบครัวเจ้าบ่าวมอบสินสอดให้ครอบครัวเจ้าสาว",
+      "cefr": "B2",
+      "note_th": "dowry ตรงกับสินสอดไทยได้ใกล้ที่สุด (ภาษาไทยเรียก sin sod) แม้ในตะวันตกจะเป็นฝ่ายหญิงให้ — ฝรั่งถามเรื่องนี้บ่อยมากเมื่อแต่งกับคนไทย",
+      "distractors": [
+        "dairy",
+        "diary",
+        "dowdy"
+      ]
+    },
+    {
+      "id": "guest_list",
+      "word": "guest list",
+      "pos": "noun",
+      "ipa": "/ˈɡest lɪst/",
+      "reading_th": "เกสท์ ลิสท์",
+      "meaning_th": "รายชื่อแขก",
+      "emoji": "📋",
+      "example_en": "The guest list is already over two hundred people.",
+      "example_th": "รายชื่อแขกเกินสองร้อยคนแล้ว",
+      "cefr": "A2",
+      "note_th": "guest list = รายชื่อแขกที่เชิญ — ประโยคเด็ดคือ You're on the guest list (คุณมีชื่อในรายการแขก) และ plus-one = พาคู่มาด้วยได้หนึ่งคน",
+      "distractors": [
+        "guestbook",
+        "checklist",
+        "wish list"
+      ]
+    },
+    {
+      "id": "wedding_toast",
+      "word": "wedding toast",
+      "pos": "noun",
+      "ipa": "/ˈwedɪŋ toʊst/",
+      "reading_th": "เวด-ดิง โทสต์",
+      "meaning_th": "การกล่าวอวยพรชนแก้ว (งานแต่ง)",
+      "emoji": "🥂",
+      "example_en": "The best man gave a funny wedding toast.",
+      "example_th": "เพื่อนเจ้าบ่าวกล่าวอวยพรชนแก้วได้ตลกมาก",
+      "cefr": "B1",
+      "note_th": "toast ในงานเลี้ยง = การยกแก้วกล่าวอวยพร ไม่ใช่ขนมปังปิ้ง — give a toast / raise a glass to the couple = ยกแก้วให้คู่บ่าวสาว",
+      "distractors": [
+        "wedding cake",
+        "French toast",
+        "wedding vows"
+      ]
+    },
+    {
+      "id": "first_dance",
+      "word": "first dance",
+      "pos": "noun",
+      "ipa": "/ˌfɜːrst ˈdæns/",
+      "reading_th": "เฟิร์สท์ แดนซ์",
+      "meaning_th": "การเต้นรำเปิดงานของคู่บ่าวสาว",
+      "emoji": "💃",
+      "example_en": "Their first dance was to an Ed Sheeran song.",
+      "example_th": "การเต้นรำเปิดงานของทั้งคู่ใช้เพลงของเอ็ด ชีแรน",
+      "cefr": "A2",
+      "note_th": "first dance = คู่บ่าวสาวเต้นรำด้วยกันเพลงแรกในงานเลี้ยง แขกยืนดูรอบๆ — งานแต่งไทยสมัยใหม่ก็เริ่มมีธรรมเนียมนี้",
+      "distractors": [
+        "first date",
+        "last dance",
+        "slow dance"
+      ]
+    },
+    {
+      "id": "ordination",
+      "word": "ordination",
+      "pos": "noun",
+      "ipa": "/ˌɔːrdɪˈneɪʃən/",
+      "reading_th": "ออร์-ดิ-เน-ชั่น",
+      "meaning_th": "งานบวช / พิธีอุปสมบท",
+      "emoji": "🙏",
+      "example_en": "My cousin's ordination is at the village temple next week.",
+      "example_th": "งานบวชของลูกพี่ลูกน้องฉันจัดที่วัดในหมู่บ้านสัปดาห์หน้า",
+      "cefr": "B2",
+      "note_th": "งานบวช = ordination ceremony บวช = be ordained — บวชหน้าไฟ ฝรั่งไม่มี อธิบายว่า a short ordination to make merit for the deceased",
+      "distractors": [
+        "coordination",
+        "organization",
+        "ordinary"
+      ]
+    },
+    {
+      "id": "funeral",
+      "word": "funeral",
+      "pos": "noun",
+      "ipa": "/ˈfjuːnərəl/",
+      "reading_th": "ฟิว-เนอ-เริล",
+      "meaning_th": "งานศพ",
+      "emoji": "🕊️",
+      "example_en": "We wore black to the funeral.",
+      "example_th": "เราใส่ชุดดำไปงานศพ",
+      "cefr": "B1",
+      "note_th": "attend a funeral = ไปงานศพ และคำแสดงความเสียใจคือ I'm sorry for your loss — งานศพไทยมีสวดหลายคืน อธิบายว่า funeral chanting",
+      "distractors": [
+        "funnel",
+        "fun",
+        "future"
+      ]
+    },
+    {
+      "id": "parade",
+      "word": "parade",
+      "pos": "noun",
+      "ipa": "/pəˈreɪd/",
+      "reading_th": "พะ-เรด",
+      "meaning_th": "ขบวนพาเหรด",
+      "emoji": "🎺",
+      "example_en": "The parade goes down Main Street at noon.",
+      "example_th": "ขบวนพาเหรดเคลื่อนไปตามถนนสายหลักตอนเที่ยง",
+      "cefr": "A2",
+      "note_th": "parade = ขบวนแห่ตามถนน มีวงโยธวาทิตและรถแห่ (float) — ขบวนแห่เทียนพรรษาพูดว่า candle parade",
+      "distractors": [
+        "paradise",
+        "parody",
+        "charade"
+      ]
+    },
+    {
+      "id": "national_holiday",
+      "word": "national holiday",
+      "pos": "noun",
+      "ipa": "/ˌnæʃənəl ˈhɑːlədeɪ/",
+      "reading_th": "แนช-ชัน-แนล ฮอล-ลิ-เดย์",
+      "meaning_th": "วันหยุดประจำชาติ",
+      "emoji": "🗓️",
+      "example_en": "December 5 is a national holiday in Thailand.",
+      "example_th": "วันที่ 5 ธันวาคมเป็นวันหยุดประจำชาติของไทย",
+      "cefr": "A2",
+      "note_th": "national holiday = วันหยุดสำคัญของชาติ เช่น วันพ่อ วันชาติ — ถ้าเป็นวันหยุดที่ทุกคนได้หยุดตามกฎหมายใช้ public holiday ก็ได้",
+      "distractors": [
+        "public holiday",
+        "national park",
+        "nationality"
+      ]
+    },
+    {
+      "id": "public_holiday",
+      "word": "public holiday",
+      "pos": "noun",
+      "ipa": "/ˌpʌblɪk ˈhɑːlədeɪ/",
+      "reading_th": "พับ-ลิก ฮอล-ลิ-เดย์",
+      "meaning_th": "วันหยุดราชการ / วันหยุดนักขัตฤกษ์",
+      "emoji": "🏦",
+      "example_en": "Banks are closed on public holidays.",
+      "example_th": "ธนาคารปิดในวันหยุดราชการ",
+      "cefr": "A2",
+      "note_th": "public holiday = วันหยุดนักขัตฤกษ์ที่ธนาคารและราชการปิด — อเมริกาเรียก federal holiday อังกฤษเรียก bank holiday",
+      "distractors": [
+        "national holiday",
+        "summer holiday",
+        "public transport"
+      ]
+    },
+    {
+      "id": "long_weekend",
+      "word": "long weekend",
+      "pos": "noun",
+      "ipa": "/ˌlɔːŋ ˈwiːkend/",
+      "reading_th": "ลอง วีค-เอนด์",
+      "meaning_th": "วันหยุดยาว",
+      "emoji": "🏖️",
+      "example_en": "Where are you going for the long weekend?",
+      "example_th": "วันหยุดยาวนี้จะไปไหน",
+      "cefr": "A2",
+      "note_th": "long weekend = เสาร์อาทิตย์ที่ต่อกับวันหยุดอีกวัน — วันหยุดยาวสงกรานต์ที่หยุดเกิน 3 วันเรียก Songkran break หรือ Songkran holidays",
+      "distractors": [
+        "weekend",
+        "weekday",
+        "long vacation"
+      ]
+    },
+    {
+      "id": "flag",
+      "word": "flag",
+      "pos": "noun",
+      "ipa": "/flæɡ/",
+      "reading_th": "แฟลก",
+      "meaning_th": "ธง",
+      "emoji": "🇹🇭",
+      "example_en": "Every house hung a flag for National Day.",
+      "example_th": "บ้านทุกหลังแขวนธงในวันชาติ",
+      "cefr": "A1",
+      "note_th": "national flag = ธงชาติ raise the flag = ชักธง — เพลงชาติ 8 โมงที่ทุกคนยืนนิ่งคือ flag-raising ceremony",
+      "distractors": [
+        "flat",
+        "flash",
+        "flask"
+      ]
+    },
+    {
+      "id": "anthem",
+      "word": "anthem",
+      "pos": "noun",
+      "ipa": "/ˈænθəm/",
+      "reading_th": "แอน-เธิม",
+      "meaning_th": "เพลงชาติ / เพลงประจำ",
+      "emoji": "🎵",
+      "example_en": "Everyone stood up for the national anthem.",
+      "example_th": "ทุกคนยืนขึ้นเมื่อเพลงชาติดัง",
+      "cefr": "B1",
+      "note_th": "national anthem = เพลงชาติ ส่วนเพลงสรรเสริญพระบารมีในโรงหนังคือ the royal anthem — anthem ยังหมายถึงเพลงที่คนทั้งรุ่นร้องได้",
+      "distractors": [
+        "ant",
+        "atom",
+        "hymn"
+      ]
+    },
+    {
+      "id": "tradition",
+      "word": "tradition",
+      "pos": "noun",
+      "ipa": "/trəˈdɪʃən/",
+      "reading_th": "ทรา-ดิ-ชั่น",
+      "meaning_th": "ประเพณี / ธรรมเนียม",
+      "emoji": "🏮",
+      "example_en": "It's a family tradition to eat together on New Year's Day.",
+      "example_th": "การกินข้าวด้วยกันวันปีใหม่เป็นธรรมเนียมของครอบครัว",
+      "cefr": "A2",
+      "note_th": "tradition = ประเพณีที่สืบทอดกันมา คุณศัพท์ traditional (Thai traditional dress) — ต่างจาก culture ที่กว้างกว่าหมายถึงวัฒนธรรมทั้งหมด",
+      "distractors": [
+        "traditional",
+        "transition",
+        "addition"
+      ]
+    },
+    {
+      "id": "carnival",
+      "word": "carnival",
+      "pos": "noun",
+      "ipa": "/ˈkɑːrnɪvəl/",
+      "reading_th": "คาร์-นิ-เวิล",
+      "meaning_th": "งานคาร์นิวัล / งานรื่นเริง",
+      "emoji": "🎭",
+      "example_en": "Rio's carnival is the biggest party on earth.",
+      "example_th": "คาร์นิวัลของริโอคือปาร์ตี้ที่ใหญ่ที่สุดในโลก",
+      "cefr": "B1",
+      "note_th": "carnival = งานรื่นเริงใหญ่มีขบวนแห่ ชุดสีสัน เต้นรำ เช่น Rio Carnival — ในอเมริกา carnival ยังหมายถึงงานวัดที่มีเครื่องเล่นด้วย",
+      "distractors": [
+        "cannibal",
+        "festival",
+        "carnivore"
+      ]
+    },
+    {
+      "id": "firecracker",
+      "word": "firecracker",
+      "pos": "noun",
+      "ipa": "/ˈfaɪərkrækər/",
+      "reading_th": "ไฟ-เออร์-แครก-เกอร์",
+      "meaning_th": "ประทัด",
+      "emoji": "🧨",
+      "example_en": "Firecrackers scare away bad luck at Chinese New Year.",
+      "example_th": "ประทัดไล่โชคร้ายในวันตรุษจีน",
+      "cefr": "B1",
+      "note_th": "firecracker = ประทัดที่ดังแต่ไม่สวย ต่างจาก fireworks ที่สวยบนฟ้า — จุดประทัดคือ light a firecracker หรือ set off firecrackers",
+      "distractors": [
+        "fireworks",
+        "cracker",
+        "firefighter"
+      ]
+    },
+    {
+      "id": "valentines_day",
+      "word": "Valentine's Day",
+      "pos": "noun",
+      "ipa": "/ˈvæləntaɪnz deɪ/",
+      "reading_th": "วา-เลน-ไทน์ส เดย์",
+      "meaning_th": "วันวาเลนไทน์",
+      "emoji": "💝",
+      "example_en": "Roses cost double on Valentine's Day.",
+      "example_th": "กุหลาบราคาแพงเป็นสองเท่าในวันวาเลนไทน์",
+      "cefr": "A1",
+      "note_th": "มี 's เสมอ Valentine's Day — a valentine = คนที่คุณส่งการ์ด/ของขวัญให้ และ Will you be my valentine? คือคำขอสุดคลาสสิก",
+      "distractors": [
+        "Valentine",
+        "Mother's Day",
+        "Father's Day"
+      ]
+    },
+    {
+      "id": "mothers_day",
+      "word": "Mother's Day",
+      "pos": "noun",
+      "ipa": "/ˈmʌðərz deɪ/",
+      "reading_th": "มา-เธอร์ส เดย์",
+      "meaning_th": "วันแม่",
+      "emoji": "🌸",
+      "example_en": "Thai Mother's Day is August 12, the Queen's birthday.",
+      "example_th": "วันแม่ของไทยคือ 12 สิงหาคม วันพระราชสมภพของพระราชินี",
+      "cefr": "A1",
+      "note_th": "วันแม่ไทย 12 ส.ค. ต่างจากฝรั่งที่เป็นอาทิตย์ที่ 2 ของพฤษภาคม — Happy Mother's Day, Mom! และวันพ่อคือ Father's Day (5 ธ.ค.)",
+      "distractors": [
+        "Father's Day",
+        "Mother Earth",
+        "mother tongue"
+      ]
+    },
+    {
+      "id": "easter",
+      "word": "Easter",
+      "pos": "noun",
+      "ipa": "/ˈiːstər/",
+      "reading_th": "อีส-เทอร์",
+      "meaning_th": "อีสเตอร์",
+      "emoji": "🐰",
+      "example_en": "Children hunt for painted eggs at Easter.",
+      "example_th": "เด็กๆ ตามหาไข่ระบายสีในวันอีสเตอร์",
+      "cefr": "A2",
+      "note_th": "Easter = เทศกาลคริสต์ช่วงมีนา–เมษา สัญลักษณ์คือกระต่าย (Easter Bunny) และไข่ (Easter egg) — ในเกมและหนัง Easter egg แปลว่าของซ่อนลับๆ",
+      "distractors": [
+        "eastern",
+        "east",
+        "Esther"
+      ]
+    },
+    {
+      "id": "lion_dance",
+      "word": "lion dance",
+      "pos": "noun",
+      "ipa": "/ˈlaɪən dæns/",
+      "reading_th": "ไล-เอิน แดนซ์",
+      "meaning_th": "เชิดสิงโต",
+      "emoji": "🦁",
+      "example_en": "A lion dance brings good luck to the new shop.",
+      "example_th": "การเชิดสิงโตนำโชคดีมาสู่ร้านใหม่",
+      "cefr": "A2",
+      "note_th": "เชิดสิงโต = lion dance เชิดมังกร = dragon dance — ร้านจีนจัดในวันเปิดร้านและตรุษจีน คนให้ซองแดงกับสิงโตเพื่อความเป็นมงคล",
+      "distractors": [
+        "dragon dance",
+        "line dance",
+        "lion king"
+      ]
+    },
+    {
+      "id": "ramadan",
+      "word": "Ramadan",
+      "pos": "noun",
+      "ipa": "/ˌræməˈdɑːn/",
+      "reading_th": "รอ-มะ-ดอน",
+      "meaning_th": "เดือนรอมฎอน (ถือศีลอด)",
+      "emoji": "🌙",
+      "example_en": "Muslims don't eat from sunrise to sunset during Ramadan.",
+      "example_th": "ชาวมุสลิมไม่กินอาหารตั้งแต่พระอาทิตย์ขึ้นถึงตกตลอดเดือนรอมฎอน",
+      "cefr": "B1",
+      "note_th": "Ramadan = เดือนถือศีลอดของมุสลิม (fast = ถือศีลอด) — จบเดือนคือวัน Eid ที่ฉลองใหญ่ ทักเพื่อนมุสลิมได้ว่า Ramadan Mubarak",
+      "distractors": [
+        "Ramayana",
+        "ramen",
+        "random"
+      ]
+    },
+    {
+      "id": "merry_christmas",
+      "word": "Merry Christmas",
+      "pos": "phrase",
+      "ipa": "/ˌmeri ˈkrɪsməs/",
+      "reading_th": "เม-รี่ คริส-เมิส",
+      "meaning_th": "สุขสันต์วันคริสต์มาส",
+      "emoji": "🎄",
+      "example_en": "Merry Christmas and a happy new year to you all!",
+      "example_th": "สุขสันต์วันคริสต์มาสและสวัสดีปีใหม่ทุกคน!",
+      "cefr": "A1",
+      "note_th": "คริสต์มาสใช้ Merry ไม่ใช่ Happy (แม้ Happy Christmas ก็มีในอังกฤษ) — ตอบกลับง่ายๆ ว่า Merry Christmas to you too!",
+      "distractors": [
+        "Happy Christmas",
+        "Happy Easter",
+        "Merry New Year"
+      ]
+    },
+    {
+      "id": "happy_new_year",
+      "word": "Happy New Year",
+      "pos": "phrase",
+      "ipa": "/ˌhæpi nuː ˈjɪr/",
+      "reading_th": "แฮป-ปี้ นิว เยียร์",
+      "meaning_th": "สวัสดีปีใหม่",
+      "emoji": "🎆",
+      "example_en": "Happy New Year! May 2027 be your best year yet.",
+      "example_th": "สวัสดีปีใหม่! ขอให้ปี 2027 เป็นปีที่ดีที่สุดของคุณ",
+      "cefr": "A1",
+      "note_th": "ไม่มี s: Happy New Year ไม่ใช่ Happy New Years — ใช้ได้ทั้งปีใหม่สากล ตรุษจีน และสงกรานต์ (Happy Thai New Year!)",
+      "distractors": [
+        "Happy Holidays",
+        "Happy Birthday",
+        "Merry Christmas"
+      ]
+    },
+    {
+      "id": "happy_birthday",
+      "word": "Happy Birthday",
+      "pos": "phrase",
+      "ipa": "/ˌhæpi ˈbɜːrθdeɪ/",
+      "reading_th": "แฮป-ปี้ เบิร์ธ-เดย์",
+      "meaning_th": "สุขสันต์วันเกิด",
+      "emoji": "🎂",
+      "example_en": "Happy Birthday! I hope all your wishes come true.",
+      "example_th": "สุขสันต์วันเกิด! ขอให้ทุกความปรารถนาเป็นจริง",
+      "cefr": "A1",
+      "note_th": "เขียนย่อว่า HBD ในแชต — ต่อท้ายด้วยคำอวยพรได้ เช่น Happy Birthday! Wishing you a wonderful year ahead.",
+      "distractors": [
+        "Happy Anniversary",
+        "Happy Holidays",
+        "Happy Easter"
+      ]
+    },
+    {
+      "id": "happy_holidays",
+      "word": "Happy Holidays",
+      "pos": "phrase",
+      "ipa": "/ˌhæpi ˈhɑːlədeɪz/",
+      "reading_th": "แฮป-ปี้ ฮอล-ลิ-เดย์ส",
+      "meaning_th": "สุขสันต์เทศกาลวันหยุด (ปลายปี)",
+      "emoji": "🎁",
+      "example_en": "Happy Holidays from everyone at our company!",
+      "example_th": "สุขสันต์เทศกาลวันหยุดจากพวกเราทุกคนในบริษัท!",
+      "cefr": "A2",
+      "note_th": "Happy Holidays = คำอวยพรปลายปีแบบเป็นกลาง ใช้กับคนที่อาจไม่ได้ฉลองคริสต์มาส — เหมาะกับอีเมลธุรกิจและลูกค้าต่างชาติ",
+      "distractors": [
+        "Happy Holiday",
+        "Happy Vacation",
+        "Merry Holidays"
+      ]
+    },
+    {
+      "id": "best_wishes",
+      "word": "best wishes",
+      "pos": "phrase",
+      "ipa": "/ˌbest ˈwɪʃɪz/",
+      "reading_th": "เบสท์ วิช-เชส",
+      "meaning_th": "ขอให้โชคดี (คำลงท้ายอวยพร)",
+      "emoji": "💐",
+      "example_en": "Best wishes on your new job!",
+      "example_th": "ขอให้โชคดีกับงานใหม่!",
+      "cefr": "A2",
+      "note_th": "Best wishes ใช้ลงท้ายการ์ดและอีเมลอวยพร เช่น Best wishes, Guy — สุภาพแต่ไม่สนิทมาก ถ้าสนิทใช้ Love หรือ Cheers",
+      "distractors": [
+        "best regards",
+        "good wishes",
+        "best friends"
+      ]
+    },
+    {
+      "id": "cheers",
+      "word": "cheers",
+      "pos": "phrase",
+      "ipa": "/tʃɪrz/",
+      "reading_th": "เชียร์ส",
+      "meaning_th": "ชนแก้ว! / ขอบคุณ (อังกฤษ)",
+      "emoji": "🍻",
+      "example_en": "Cheers, everyone! Here's to a great year.",
+      "example_th": "ชนแก้วทุกคน! ขอให้เป็นปีที่ยอดเยี่ยม",
+      "cefr": "A1",
+      "note_th": "Cheers! ตอนชนแก้ว = ไชโย ส่วนคนอังกฤษยังใช้ Cheers แทน thanks และ bye ด้วย — อย่าสับสนกับ cheer (เชียร์กีฬา)",
+      "distractors": [
+        "cheer",
+        "chairs",
+        "cheese"
+      ]
+    },
+    {
+      "id": "many_happy_returns",
+      "word": "many happy returns",
+      "pos": "phrase",
+      "ipa": "/ˌmeni hæpi rɪˈtɜːrnz/",
+      "reading_th": "เม-นี่ แฮป-ปี้ รี-เทิร์นส์",
+      "meaning_th": "ขอให้มีวันเกิดดีๆ อีกหลายปี",
+      "emoji": "🎈",
+      "example_en": "Many happy returns, Grandpa! Here's to ninety.",
+      "example_th": "ขอให้มีวันเกิดดีๆ อีกหลายปีนะคุณปู่! ขอให้ถึงเก้าสิบ",
+      "cefr": "B2",
+      "note_th": "Many happy returns (of the day) = คำอวยพรวันเกิดแบบอังกฤษดั้งเดิม ฟังดูสุภาพและคลาสสิก — คนอเมริกันไม่ค่อยใช้ แต่เข้าใจ",
+      "distractors": [
+        "happy returns",
+        "many thanks",
+        "happy memories"
+      ]
+    },
+    {
+      "id": "seasons_greetings",
+      "word": "season's greetings",
+      "pos": "phrase",
+      "ipa": "/ˌsiːzənz ˈɡriːtɪŋz/",
+      "reading_th": "ซี-เซินส์ กรี-ติงส์",
+      "meaning_th": "สวัสดีเทศกาลปลายปี (ทางการ)",
+      "emoji": "🎄",
+      "example_en": "Season's greetings from the whole JUNYPOP team!",
+      "example_th": "สวัสดีเทศกาลปลายปีจากทีม JUNYPOP ทุกคน!",
+      "cefr": "B1",
+      "note_th": "Season's greetings เจอบนการ์ดและป้ายห้างช่วงธันวาคม เป็นทางการกว่า Happy Holidays — มี 's เพราะเป็นคำทักทาย \"ของฤดูกาล\"",
+      "distractors": [
+        "Happy Holidays",
+        "Merry Christmas",
+        "best wishes"
+      ]
+    },
+    {
+      "id": "good_luck",
+      "word": "good luck",
+      "pos": "phrase",
+      "ipa": "/ˌɡʊd ˈlʌk/",
+      "reading_th": "กู้ด ลัค",
+      "meaning_th": "ขอให้โชคดี",
+      "emoji": "🍀",
+      "example_en": "Good luck on your exam tomorrow!",
+      "example_th": "ขอให้โชคดีกับการสอบพรุ่งนี้!",
+      "cefr": "A1",
+      "note_th": "Good luck + with/on + สิ่งที่จะทำ: Good luck with your interview — ตอบกลับว่า Thanks, I'll need it! และ Break a leg! เป็นแบบขำๆ ของนักแสดง",
+      "distractors": [
+        "good night",
+        "good life",
+        "get lucky"
+      ]
+    },
+    {
+      "id": "all_the_best",
+      "word": "all the best",
+      "pos": "phrase",
+      "ipa": "/ˌɔːl ðə ˈbest/",
+      "reading_th": "ออล เดอะ เบสท์",
+      "meaning_th": "ขอให้ทุกอย่างราบรื่น (คำอวยพรลา)",
+      "emoji": "👋",
+      "example_en": "All the best with the move to Chiang Mai!",
+      "example_th": "ขอให้ทุกอย่างราบรื่นกับการย้ายไปเชียงใหม่!",
+      "cefr": "A2",
+      "note_th": "All the best ใช้ตอนบอกลาหรือลงท้ายอีเมล แปลว่าขอให้ทุกอย่างดี — สั้นและเป็นมิตรกว่า Best regards",
+      "distractors": [
+        "all the time",
+        "best wishes",
+        "all the rest"
+      ]
+    },
+    {
+      "id": "congrats",
+      "word": "congrats",
+      "pos": "phrase",
+      "ipa": "/kənˈɡræts/",
+      "reading_th": "คอน-แกรทส์",
+      "meaning_th": "ยินดีด้วย (แบบสั้นๆ)",
+      "emoji": "🎉",
+      "example_en": "Congrats on the new baby, you two!",
+      "example_th": "ยินดีด้วยกับลูกคนใหม่นะทั้งสองคน!",
+      "cefr": "A1",
+      "note_th": "congrats ย่อจาก congratulations ใช้ในแชตและพูดกับเพื่อน — ตามด้วย on + สิ่งที่ยินดี: Congrats on your promotion!",
+      "distractors": [
+        "contracts",
+        "congress",
+        "congregate"
+      ]
+    },
+    {
+      "id": "same_to_you",
+      "word": "same to you",
+      "pos": "phrase",
+      "ipa": "/ˌseɪm tə ˈjuː/",
+      "reading_th": "เซม ทู ยู",
+      "meaning_th": "เช่นกันครับ/ค่ะ (ตอบรับคำอวยพร)",
+      "emoji": "🔁",
+      "example_en": "\"Happy New Year!\" — \"Thanks, same to you!\"",
+      "example_th": "\"สวัสดีปีใหม่!\" — \"ขอบคุณ เช่นกันนะ!\"",
+      "cefr": "A1",
+      "note_th": "ใครอวยพรมาก็ตอบว่า Same to you! หรือ You too! ได้ทันที — เป็นประโยคที่ใช้บ่อยที่สุดในเทศกาล จำไว้ประโยคเดียวคุ้มมาก",
+      "distractors": [
+        "see you",
+        "same as you",
+        "so do you"
+      ]
+    },
+    {
+      "id": "happy_anniversary",
+      "word": "happy anniversary",
+      "pos": "phrase",
+      "ipa": "/ˌhæpi ˌænɪˈvɜːrsəri/",
+      "reading_th": "แฮป-ปี้ แอน-นิ-เวอร์-ซะ-รี่",
+      "meaning_th": "สุขสันต์วันครบรอบ",
+      "emoji": "💑",
+      "example_en": "Happy anniversary to my favorite couple!",
+      "example_th": "สุขสันต์วันครบรอบแด่คู่รักคนโปรดของฉัน!",
+      "cefr": "A2",
+      "note_th": "anniversary = ครบรอบ (แต่งงาน คบกัน ก่อตั้งบริษัท) — Happy 10th anniversary! และบริษัทก็ใช้ anniversary sale ลดราคาครบรอบ",
+      "distractors": [
+        "happy birthday",
+        "happy ending",
+        "happy hour"
+      ]
+    },
+    {
+      "id": "have_a_good_one",
+      "word": "have a good one",
+      "pos": "phrase",
+      "ipa": "/ˌhæv ə ˈɡʊd wʌn/",
+      "reading_th": "แฮฟ อะ กู้ด วัน",
+      "meaning_th": "ขอให้เป็นวันดีๆ นะ (คำลาแบบสบายๆ)",
+      "emoji": "👋",
+      "example_en": "Thanks for coming, have a good one!",
+      "example_th": "ขอบคุณที่มานะ ขอให้เป็นวันดีๆ!",
+      "cefr": "A2",
+      "note_th": "Have a good one! = คำลาแบบอเมริกันสบายๆ one แทนได้ทั้ง day, night, weekend, holiday — ตอบกลับว่า You too!",
+      "distractors": [
+        "have a good time",
+        "have a seat",
+        "have one"
+      ]
+    }
+  ]
+}

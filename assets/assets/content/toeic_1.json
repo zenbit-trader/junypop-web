@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "toeic_1",
+    "name_en": "TOEIC Essentials 1",
+    "name_th": "TOEIC ชุด 1",
+    "emoji": "📝",
+    "color_start": "#60A5FA",
+    "color_end": "#2563EB",
+    "description_th": "ศัพท์ TOEIC ที่ออกสอบบ่อยที่สุด ชุดแรก ที่ทำงาน การประชุม เอกสาร การเดินทางเพื่อธุรกิจ",
+    "mascot_costume": "suit",
+    "lessons": [
+      {
+        "title_en": "Workplace & Positions",
+        "title_th": "ที่ทำงานและตำแหน่ง",
+        "emoji": "🏢",
+        "id": "toeic_1_1",
+        "word_ids": [
+          "executive",
+          "accountant",
+          "clerk",
+          "secretary",
+          "headquarters",
+          "division",
+          "personnel",
+          "representative",
+          "subordinate",
+          "trainee",
+          "in_charge_of",
+          "deputy",
+          "shift",
+          "retirement"
+        ]
+      },
+      {
+        "title_en": "Meetings & Schedules",
+        "title_th": "ประชุมและตารางเวลา",
+        "emoji": "📅",
+        "id": "toeic_1_2",
+        "word_ids": [
+          "take_part_in",
+          "conference",
+          "briefing",
+          "teleconference",
+          "participant",
+          "arrange",
+          "turnout",
+          "upcoming",
+          "proceed",
+          "venue",
+          "overrun",
+          "convene",
+          "weekly",
+          "prior_to"
+        ]
+      },
+      {
+        "title_en": "Documents & Contracts",
+        "title_th": "เอกสารและสัญญา",
+        "emoji": "📄",
+        "id": "toeic_1_3",
+        "word_ids": [
+          "duplicate",
+          "letterhead",
+          "effective",
+          "checklist",
+          "approve",
+          "endorse",
+          "enclosed",
+          "legible",
+          "proposal",
+          "paperwork",
+          "memo",
+          "hard_copy",
+          "comply_with",
+          "specification"
+        ]
+      },
+      {
+        "title_en": "Business Travel",
+        "title_th": "เดินทางเพื่อธุรกิจ",
+        "emoji": "✈️",
+        "id": "toeic_1_4",
+        "word_ids": [
+          "business_trip",
+          "accommodation",
+          "expense_claim",
+          "layover",
+          "passenger",
+          "depart",
+          "domestic",
+          "overseas",
+          "rental_car",
+          "economy_class",
+          "mileage",
+          "travel_agency",
+          "board",
+          "carpool"
+        ]
+      },
+      {
+        "title_en": "Finance & Budgets",
+        "title_th": "การเงินและงบประมาณ",
+        "emoji": "💰",
+        "id": "toeic_1_5",
+        "word_ids": [
+          "turnover",
+          "expenditure",
+          "payment",
+          "quarter",
+          "fiscal_year",
+          "audit",
+          "accounting",
+          "overhead",
+          "fund",
+          "petty_cash",
+          "outstanding",
+          "allocate",
+          "write_off",
+          "cost_effective"
+        ]
+      },
+      {
+        "title_en": "Hiring & Personnel",
+        "title_th": "จ้างงานและบุคลากร",
+        "emoji": "🤝",
+        "id": "toeic_1_6",
+        "word_ids": [
+          "employment",
+          "qualified",
+          "experienced",
+          "payroll",
+          "evaluation",
+          "performance",
+          "workforce",
+          "wage",
+          "sick_leave",
+          "lay_off",
+          "resignation",
+          "induction",
+          "human_resources",
+          "appoint"
+        ]
+      },
+      {
+        "title_en": "Announcements & Ads",
+        "title_th": "ประกาศและโฆษณา",
+        "emoji": "📢",
+        "id": "toeic_1_7",
+        "word_ids": [
+          "brochure",
+          "flyer",
+          "newsletter",
+          "promotional",
+          "eligible",
+          "redeem",
+          "grand_opening",
+          "limited",
+          "notify",
+          "publicity",
+          "trade_show",
+          "billboard",
+          "attention",
+          "unveil"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "executive",
+      "word": "executive",
+      "pos": "noun",
+      "ipa": "/ɪɡˈzekjətɪv/",
+      "reading_th": "อิก-เซค-คิว-ทิฟ",
+      "meaning_th": "ผู้บริหาร",
+      "emoji": "👔",
+      "example_en": "The executive approved the new marketing plan yesterday.",
+      "example_th": "ผู้บริหารอนุมัติแผนการตลาดใหม่เมื่อวานนี้",
+      "cefr": "B1",
+      "note_th": "executive = ผู้บริหารระดับสูง มักเจอใน CEO (Chief Executive Officer) — ส่วน manager คือหัวหน้าระดับกลาง อย่าใช้สลับกันในข้อสอบ Part 7",
+      "distractors": [
+        "execution",
+        "exclusive",
+        "expensive"
+      ]
+    },
+    {
+      "id": "accountant",
+      "word": "accountant",
+      "pos": "noun",
+      "ipa": "/əˈkaʊntənt/",
+      "reading_th": "อะ-เคาน์-ทันท์",
+      "meaning_th": "นักบัญชี",
+      "emoji": "🧮",
+      "example_en": "Our accountant checks every invoice before payment.",
+      "example_th": "นักบัญชีของเราตรวจใบแจ้งหนี้ทุกใบก่อนจ่ายเงิน",
+      "cefr": "A2",
+      "note_th": "accountant = คน (นักบัญชี) ส่วน accounting = วิชา/งานบัญชี และ account = บัญชี — ข้อสอบชอบถามให้เลือกรูปคำให้ถูก",
+      "distractors": [
+        "account",
+        "accounting",
+        "assistant"
+      ]
+    },
+    {
+      "id": "clerk",
+      "word": "clerk",
+      "pos": "noun",
+      "ipa": "/klɜːrk/",
+      "reading_th": "เคลิร์ค",
+      "meaning_th": "พนักงานธุรการ / เสมียน",
+      "emoji": "🗂️",
+      "example_en": "The clerk filed the documents in the cabinet.",
+      "example_th": "พนักงานธุรการเก็บเอกสารเข้าตู้",
+      "cefr": "A2",
+      "note_th": "clerk ออกเสียง \"เคลิร์ค\" (อเมริกัน) — ใน TOEIC มักเจอ sales clerk = พนักงานขาย และ front desk clerk = พนักงานต้อนรับ",
+      "distractors": [
+        "cleric",
+        "click",
+        "clock"
+      ]
+    },
+    {
+      "id": "secretary",
+      "word": "secretary",
+      "pos": "noun",
+      "ipa": "/ˈsekrəteri/",
+      "reading_th": "เซค-ระ-เท-รี",
+      "meaning_th": "เลขานุการ",
+      "emoji": "📞",
+      "example_en": "Please leave a message with my secretary.",
+      "example_th": "กรุณาฝากข้อความไว้กับเลขาฯ ของผม",
+      "cefr": "A2",
+      "note_th": "ออฟฟิศสมัยใหม่มักใช้ assistant หรือ administrative assistant แทน secretary — แต่ TOEIC ยังใช้ทั้งสองคำ",
+      "distractors": [
+        "secret",
+        "security",
+        "sector"
+      ]
+    },
+    {
+      "id": "headquarters",
+      "word": "headquarters",
+      "pos": "noun",
+      "ipa": "/ˈhedkwɔːrtərz/",
+      "reading_th": "เฮด-ควอ-เทอร์ส",
+      "meaning_th": "สำนักงานใหญ่",
+      "emoji": "🏛️",
+      "example_en": "The company moved its headquarters to Bangkok.",
+      "example_th": "บริษัทย้ายสำนักงานใหญ่มาที่กรุงเทพฯ",
+      "cefr": "B1",
+      "note_th": "headquarters ลงท้ายด้วย s เสมอ แม้มีแห่งเดียว — ย่อว่า HQ ส่วนสาขาคือ branch",
+      "distractors": [
+        "headline",
+        "quarter",
+        "headset"
+      ]
+    },
+    {
+      "id": "division",
+      "word": "division",
+      "pos": "noun",
+      "ipa": "/dɪˈvɪʒn/",
+      "reading_th": "ดิ-วิ-ชั่น",
+      "meaning_th": "ฝ่าย / ส่วนงานใหญ่",
+      "emoji": "🏷️",
+      "example_en": "She leads the sales division in Asia.",
+      "example_th": "เธอดูแลฝ่ายขายในเอเชีย",
+      "cefr": "B1",
+      "note_th": "division ใหญ่กว่า department — บริษัทใหญ่แบ่งเป็น division แล้วในแต่ละ division มีหลาย department",
+      "distractors": [
+        "decision",
+        "vision",
+        "revision"
+      ]
+    },
+    {
+      "id": "personnel",
+      "word": "personnel",
+      "pos": "noun",
+      "ipa": "/ˌpɜːrsəˈnel/",
+      "reading_th": "เพอร์-ซะ-เนล",
+      "meaning_th": "บุคลากร / พนักงานทั้งหมด",
+      "emoji": "👥",
+      "example_en": "All personnel must wear ID badges inside the building.",
+      "example_th": "บุคลากรทุกคนต้องติดบัตรพนักงานในอาคาร",
+      "cefr": "B1",
+      "note_th": "personnel (เน้นพยางค์ท้าย) = พนักงานทั้งหมด ส่วน personal (เน้นพยางค์แรก) = ส่วนตัว — คู่หลอกยอดฮิตของ TOEIC",
+      "distractors": [
+        "personal",
+        "person",
+        "pension"
+      ]
+    },
+    {
+      "id": "representative",
+      "word": "representative",
+      "pos": "noun",
+      "ipa": "/ˌreprɪˈzentətɪv/",
+      "reading_th": "เรพ-ริ-เซน-ทะ-ทิฟ",
+      "meaning_th": "ตัวแทน",
+      "emoji": "🙋",
+      "example_en": "A customer service representative will call you back.",
+      "example_th": "ตัวแทนฝ่ายบริการลูกค้าจะโทรกลับหาคุณ",
+      "cefr": "B1",
+      "note_th": "ย่อว่า rep เช่น sales rep = พนักงานขาย — ใน Part 4 มักได้ยิน \"speak to a representative\" ตอนโทรหาคอลเซ็นเตอร์",
+      "distractors": [
+        "reputation",
+        "presentation",
+        "receptionist"
+      ]
+    },
+    {
+      "id": "subordinate",
+      "word": "subordinate",
+      "pos": "noun",
+      "ipa": "/səˈbɔːrdɪnət/",
+      "reading_th": "ซะ-บอร์-ดิ-เนิท",
+      "meaning_th": "ผู้ใต้บังคับบัญชา / ลูกน้อง",
+      "emoji": "🧑‍💻",
+      "example_en": "A good manager listens to every subordinate.",
+      "example_th": "ผู้จัดการที่ดีรับฟังลูกน้องทุกคน",
+      "cefr": "B2",
+      "note_th": "subordinate = คนที่อยู่ใต้บังคับบัญชา ตรงข้ามกับ superior = หัวหน้า — ภาษาพูดใช้ team member หรือ staff จะนุ่มนวลกว่า",
+      "distractors": [
+        "coordinate",
+        "superior",
+        "subscriber"
+      ]
+    },
+    {
+      "id": "trainee",
+      "word": "trainee",
+      "pos": "noun",
+      "ipa": "/ˌtreɪˈniː/",
+      "reading_th": "เทร-นี",
+      "meaning_th": "พนักงานฝึกหัด",
+      "emoji": "🧑‍🎓",
+      "example_en": "Each trainee works with a mentor for three months.",
+      "example_th": "พนักงานฝึกหัดแต่ละคนทำงานกับพี่เลี้ยงสามเดือน",
+      "cefr": "B1",
+      "note_th": "-ee คือคนที่ \"ถูกกระทำ\": trainee = ผู้ถูกฝึก, employee = ผู้ถูกจ้าง — ส่วน trainer = ผู้ฝึก",
+      "distractors": [
+        "trainer",
+        "trainee program",
+        "retainer"
+      ]
+    },
+    {
+      "id": "in_charge_of",
+      "word": "in charge of",
+      "pos": "phrase",
+      "ipa": "/ɪn ˈtʃɑːrdʒ əv/",
+      "reading_th": "อิน ชาร์จ ออฟ",
+      "meaning_th": "รับผิดชอบดูแล",
+      "emoji": "🎯",
+      "example_en": "Who is in charge of the new project?",
+      "example_th": "ใครรับผิดชอบดูแลโปรเจกต์ใหม่",
+      "cefr": "B1",
+      "note_th": "be in charge of + สิ่งที่ดูแล — ถ้าพูดถึง \"คนที่ดูแล\" ใช้ the person in charge ไม่ต้องมี of",
+      "distractors": [
+        "in case of",
+        "in front of",
+        "in spite of"
+      ]
+    },
+    {
+      "id": "deputy",
+      "word": "deputy",
+      "pos": "noun",
+      "ipa": "/ˈdepjuti/",
+      "reading_th": "เด็พ-พิว-ที",
+      "meaning_th": "รอง(ตำแหน่ง) / ผู้ทำการแทน",
+      "emoji": "🥈",
+      "example_en": "The deputy director will chair the meeting today.",
+      "example_th": "รองผู้อำนวยการจะเป็นประธานการประชุมวันนี้",
+      "cefr": "B2",
+      "note_th": "deputy + ตำแหน่ง = รอง เช่น deputy manager, deputy director — ส่วน assistant manager คือผู้ช่วย ระดับต่ำกว่า deputy",
+      "distractors": [
+        "duty",
+        "debut",
+        "deposit"
+      ]
+    },
+    {
+      "id": "shift",
+      "word": "shift",
+      "pos": "noun",
+      "ipa": "/ʃɪft/",
+      "reading_th": "ชิฟท์",
+      "meaning_th": "กะทำงาน",
+      "emoji": "🕒",
+      "example_en": "I work the night shift this week.",
+      "example_th": "สัปดาห์นี้ฉันทำงานกะดึก",
+      "cefr": "A2",
+      "note_th": "day shift / night shift / morning shift — และ shift ยังเป็นกริยา = เปลี่ยน/ขยับ เช่น shift the focus",
+      "distractors": [
+        "shelf",
+        "swift",
+        "sheet"
+      ]
+    },
+    {
+      "id": "retirement",
+      "word": "retirement",
+      "pos": "noun",
+      "ipa": "/rɪˈtaɪərmənt/",
+      "reading_th": "ริ-ไท-เออร์-เมนท์",
+      "meaning_th": "การเกษียณ",
+      "emoji": "🌅",
+      "example_en": "He is saving money for his retirement.",
+      "example_th": "เขาเก็บเงินไว้สำหรับตอนเกษียณ",
+      "cefr": "B1",
+      "note_th": "retirement party / retirement age / retirement plan — ข้อสอบ Part 7 ชอบใช้จดหมายอำลาเพื่อนร่วมงานที่กำลังเกษียณ",
+      "distractors": [
+        "requirement",
+        "retreat",
+        "resignation"
+      ]
+    },
+    {
+      "id": "take_part_in",
+      "word": "take part in",
+      "pos": "phrase",
+      "ipa": "/teɪk pɑːrt ɪn/",
+      "reading_th": "เทค พาร์ท อิน",
+      "meaning_th": "เข้าร่วม(กิจกรรม)",
+      "emoji": "🙋‍♂️",
+      "example_en": "All staff are invited to take part in the workshop.",
+      "example_th": "พนักงานทุกคนได้รับเชิญให้เข้าร่วมเวิร์กช็อป",
+      "cefr": "A2",
+      "note_th": "take part in = participate in = เข้าร่วมแบบลงมือทำ ส่วน attend = ไปอยู่ในงาน — ใน Part 7 ประกาศกิจกรรมบริษัทใช้สองวลีนี้สลับกัน",
+      "distractors": [
+        "take place",
+        "take off",
+        "take over"
+      ]
+    },
+    {
+      "id": "conference",
+      "word": "conference",
+      "pos": "noun",
+      "ipa": "/ˈkɑːnfərəns/",
+      "reading_th": "คอน-เฟอ-เรนซ์",
+      "meaning_th": "การประชุมใหญ่ / งานสัมมนา",
+      "emoji": "🎙️",
+      "example_en": "The annual conference will be held in Singapore.",
+      "example_th": "การประชุมใหญ่ประจำปีจะจัดที่สิงคโปร์",
+      "cefr": "B1",
+      "note_th": "conference = งานประชุมใหญ่มีหลายบริษัท ส่วน meeting = ประชุมภายใน — conference call / conference room เจอใน TOEIC บ่อยมาก",
+      "distractors": [
+        "confidence",
+        "difference",
+        "reference"
+      ]
+    },
+    {
+      "id": "briefing",
+      "word": "briefing",
+      "pos": "noun",
+      "ipa": "/ˈbriːfɪŋ/",
+      "reading_th": "บรีฟ-ฟิ่ง",
+      "meaning_th": "การประชุมสรุปข้อมูลสั้นๆ",
+      "emoji": "🗒️",
+      "example_en": "There is a short briefing before every shift.",
+      "example_th": "มีการบรีฟสั้นๆ ก่อนเข้ากะทุกครั้ง",
+      "cefr": "B1",
+      "note_th": "briefing = ประชุมสั้นเพื่อแจ้งข้อมูลก่อนลงมือ — คนไทยพูด \"บรีฟงาน\" ตรงตัว; กริยา brief someone on something",
+      "distractors": [
+        "brief",
+        "briefcase",
+        "bridging"
+      ]
+    },
+    {
+      "id": "teleconference",
+      "word": "teleconference",
+      "pos": "noun",
+      "ipa": "/ˈtelikɑːnfərəns/",
+      "reading_th": "เท-ลิ-คอน-เฟอ-เรนซ์",
+      "meaning_th": "การประชุมทางไกล",
+      "emoji": "📹",
+      "example_en": "We held a teleconference with the Tokyo office.",
+      "example_th": "เราประชุมทางไกลกับสำนักงานโตเกียว",
+      "cefr": "B1",
+      "note_th": "teleconference = ประชุมผ่านโทรศัพท์/วิดีโอ (ปัจจุบันมักพูด video call) — ข้อสอบ Part 4 ยังใช้คำนี้ในประกาศประชุมข้ามประเทศ",
+      "distractors": [
+        "telephone",
+        "telescope",
+        "conference"
+      ]
+    },
+    {
+      "id": "participant",
+      "word": "participant",
+      "pos": "noun",
+      "ipa": "/pɑːrˈtɪsɪpənt/",
+      "reading_th": "พาร์-ทิ-ซิ-พันท์",
+      "meaning_th": "ผู้เข้าร่วม",
+      "emoji": "🧑‍🤝‍🧑",
+      "example_en": "Each participant will receive a name tag.",
+      "example_th": "ผู้เข้าร่วมแต่ละคนจะได้รับป้ายชื่อ",
+      "cefr": "B1",
+      "note_th": "participant (คน) / participate in (กริยา ต้องมี in) / participation (นาม) — ข้อสอบชอบให้เลือกรูปคำ",
+      "distractors": [
+        "participate",
+        "partner",
+        "patient"
+      ]
+    },
+    {
+      "id": "arrange",
+      "word": "arrange",
+      "pos": "verb",
+      "ipa": "/əˈreɪndʒ/",
+      "reading_th": "อะ-เรนจ์",
+      "meaning_th": "จัดเตรียม / จัดการนัดหมาย",
+      "emoji": "🗓️",
+      "example_en": "I will arrange a meeting with the supplier.",
+      "example_th": "ฉันจะจัดนัดประชุมกับซัพพลายเออร์",
+      "cefr": "B1",
+      "note_th": "arrange a meeting / arrange transportation — คำนามคือ arrangement เช่น travel arrangements = การจัดการเรื่องเดินทาง",
+      "distractors": [
+        "arrive",
+        "range",
+        "orange"
+      ]
+    },
+    {
+      "id": "turnout",
+      "word": "turnout",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrnaʊt/",
+      "reading_th": "เทิร์น-เอาท์",
+      "meaning_th": "จำนวนคนที่มาร่วมงาน",
+      "emoji": "👥",
+      "example_en": "The turnout for the seminar was better than expected.",
+      "example_th": "จำนวนคนมาร่วมสัมมนาดีกว่าที่คาดไว้",
+      "cefr": "B2",
+      "note_th": "a good / poor turnout = คนมาเยอะ / น้อย — ใช้กับงานอีเวนต์และการเลือกตั้ง; มาจาก turn out = ออกมาร่วม",
+      "distractors": [
+        "turnover",
+        "outcome",
+        "turning"
+      ]
+    },
+    {
+      "id": "upcoming",
+      "word": "upcoming",
+      "pos": "adjective",
+      "ipa": "/ˈʌpkʌmɪŋ/",
+      "reading_th": "อัพ-คัม-มิ่ง",
+      "meaning_th": "ที่กำลังจะมาถึง",
+      "emoji": "🔜",
+      "example_en": "Please review the agenda for the upcoming meeting.",
+      "example_th": "กรุณาดูวาระของการประชุมที่กำลังจะมาถึง",
+      "cefr": "B1",
+      "note_th": "upcoming วางหน้าคำนามเสมอ (upcoming event, upcoming trip) — ไม่พูด the event is upcoming; ความหมายเดียวกับ forthcoming",
+      "distractors": [
+        "incoming",
+        "outgoing",
+        "ongoing"
+      ]
+    },
+    {
+      "id": "proceed",
+      "word": "proceed",
+      "pos": "verb",
+      "ipa": "/proʊˈsiːd/",
+      "reading_th": "โพร-ซีด",
+      "meaning_th": "ดำเนินการต่อ",
+      "emoji": "▶️",
+      "example_en": "Shall we proceed to the next item on the agenda?",
+      "example_th": "เราไปต่อที่วาระถัดไปกันเลยไหม",
+      "cefr": "B1",
+      "note_th": "proceed with / to = ดำเนินต่อไป (ทางการ) ส่วน precede = มาก่อน — สองคำนี้สะกดใกล้กันและ Part 5 ชอบหลอก",
+      "distractors": [
+        "precede",
+        "process",
+        "proceeds"
+      ]
+    },
+    {
+      "id": "venue",
+      "word": "venue",
+      "pos": "noun",
+      "ipa": "/ˈvenjuː/",
+      "reading_th": "เวน-นิว",
+      "meaning_th": "สถานที่จัดงาน",
+      "emoji": "📍",
+      "example_en": "The venue for the workshop has changed.",
+      "example_th": "สถานที่จัดเวิร์กช็อปเปลี่ยนแล้ว",
+      "cefr": "B1",
+      "note_th": "venue ใช้กับงานอีเวนต์ ประชุม คอนเสิร์ต — ส่วน location = ที่ตั้งทั่วไป Part 4 ชอบประกาศเปลี่ยน venue",
+      "distractors": [
+        "avenue",
+        "revenue",
+        "menu"
+      ]
+    },
+    {
+      "id": "overrun",
+      "word": "overrun",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərˈrʌn/",
+      "reading_th": "โอ-เวอร์-รัน",
+      "meaning_th": "เกินเวลา/งบที่กำหนด",
+      "emoji": "⏰",
+      "example_en": "The meeting may overrun, so keep the room until noon.",
+      "example_th": "การประชุมอาจเกินเวลา จองห้องไว้ถึงเที่ยงเลย",
+      "cefr": "B2",
+      "note_th": "overrun = ใช้เวลาหรือเงินเกินกำหนด (the project overran its budget) — คำนาม cost overrun = งบบานปลาย ที่ข่าวโครงการใหญ่ชอบใช้",
+      "distractors": [
+        "overdue",
+        "outrun",
+        "override"
+      ]
+    },
+    {
+      "id": "convene",
+      "word": "convene",
+      "pos": "verb",
+      "ipa": "/kənˈviːn/",
+      "reading_th": "คัน-วีน",
+      "meaning_th": "เรียกประชุม / จัดประชุม",
+      "emoji": "📣",
+      "example_en": "The board will convene an emergency meeting tonight.",
+      "example_th": "คณะกรรมการจะเรียกประชุมฉุกเฉินคืนนี้",
+      "cefr": "B2",
+      "note_th": "convene a meeting = เรียกประชุมอย่างเป็นทางการ — ใช้ในรายงานการประชุม: The committee convened at 9 a.m.",
+      "distractors": [
+        "convince",
+        "convenient",
+        "convey"
+      ]
+    },
+    {
+      "id": "weekly",
+      "word": "weekly",
+      "pos": "adjective",
+      "ipa": "/ˈwiːkli/",
+      "reading_th": "วีค-ลี",
+      "meaning_th": "รายสัปดาห์",
+      "emoji": "📅",
+      "example_en": "Our weekly team meeting is every Monday morning.",
+      "example_th": "ประชุมทีมรายสัปดาห์ของเราคือทุกเช้าวันจันทร์",
+      "cefr": "A2",
+      "note_th": "daily / weekly / monthly / annually — เป็นได้ทั้งคำคุณศัพท์และกริยาวิเศษณ์ (meet weekly); ข้อสอบชอบถามว่าประชุมบ่อยแค่ไหน",
+      "distractors": [
+        "weakly",
+        "weekend",
+        "biweekly"
+      ]
+    },
+    {
+      "id": "prior_to",
+      "word": "prior to",
+      "pos": "phrase",
+      "ipa": "/ˈpraɪər tuː/",
+      "reading_th": "ไพร-เออร์ ทู",
+      "meaning_th": "ก่อนหน้า",
+      "emoji": "⏮️",
+      "example_en": "Please submit your questions prior to the meeting.",
+      "example_th": "กรุณาส่งคำถามก่อนการประชุม",
+      "cefr": "B1",
+      "note_th": "prior to = before แบบทางการ ตามด้วยคำนามหรือ V-ing: prior to departure — ออกใน Part 5 บ่อยมาก",
+      "distractors": [
+        "due to",
+        "prior",
+        "previous"
+      ]
+    },
+    {
+      "id": "duplicate",
+      "word": "duplicate",
+      "pos": "noun",
+      "ipa": "/ˈduːplɪkət/",
+      "reading_th": "ดิว-พลิ-เคิท",
+      "meaning_th": "สำเนาคู่ฉบับ",
+      "emoji": "📑",
+      "example_en": "Keep a duplicate of every receipt you submit.",
+      "example_th": "เก็บสำเนาคู่ฉบับของใบเสร็จทุกใบที่ส่ง",
+      "cefr": "B2",
+      "note_th": "in duplicate = ทำสองชุด (in triplicate = สามชุด) — ออกเสียงต่างกัน: นาม -เคิท / กริยา -เคท = ทำซ้ำ",
+      "distractors": [
+        "duplex",
+        "triplicate",
+        "complicate"
+      ]
+    },
+    {
+      "id": "letterhead",
+      "word": "letterhead",
+      "pos": "noun",
+      "ipa": "/ˈletərhed/",
+      "reading_th": "เล็ท-เทอร์-เฮด",
+      "meaning_th": "หัวจดหมาย(ที่มีชื่อบริษัท)",
+      "emoji": "📄",
+      "example_en": "Print the quotation on company letterhead before sending it.",
+      "example_th": "พิมพ์ใบเสนอราคาบนกระดาษหัวจดหมายบริษัทก่อนส่ง",
+      "cefr": "B2",
+      "note_th": "letterhead = กระดาษที่พิมพ์โลโก้ ที่อยู่ เบอร์โทรบริษัทไว้ด้านบน — จดหมายทางการใน Part 7 มักเริ่มด้วย letterhead ให้ดูว่าใครส่ง",
+      "distractors": [
+        "headline",
+        "letterbox",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "effective",
+      "word": "effective",
+      "pos": "adjective",
+      "ipa": "/ɪˈfektɪv/",
+      "reading_th": "อิ-เฟค-ทิฟ",
+      "meaning_th": "มีผลบังคับใช้ / ได้ผล",
+      "emoji": "📆",
+      "example_en": "The new policy is effective from the first of June.",
+      "example_th": "นโยบายใหม่มีผลตั้งแต่วันที่หนึ่งมิถุนายน",
+      "cefr": "B1",
+      "note_th": "ในเอกสาร effective + วันที่ = มีผลตั้งแต่ (effective immediately = มีผลทันที) — อีกความหมายคือได้ผลดี (an effective method)",
+      "distractors": [
+        "efficient",
+        "affective",
+        "defective"
+      ]
+    },
+    {
+      "id": "checklist",
+      "word": "checklist",
+      "pos": "noun",
+      "ipa": "/ˈtʃeklɪst/",
+      "reading_th": "เช็ค-ลิสท์",
+      "meaning_th": "รายการตรวจสอบ",
+      "emoji": "☑️",
+      "example_en": "Go through the checklist before you submit the form.",
+      "example_th": "ไล่ดูรายการตรวจสอบก่อนส่งแบบฟอร์ม",
+      "cefr": "A2",
+      "note_th": "checklist = รายการที่ติ๊กทีละข้อให้ครบ — ใน Part 7 มักเป็นเอกสารแนบของฝ่ายบุคคลหรือการเตรียมงาน",
+      "distractors": [
+        "checkout",
+        "shortlist",
+        "playlist"
+      ]
+    },
+    {
+      "id": "approve",
+      "word": "approve",
+      "pos": "verb",
+      "ipa": "/əˈpruːv/",
+      "reading_th": "อะ-พรูฟ",
+      "meaning_th": "อนุมัติ",
+      "emoji": "👍",
+      "example_en": "The manager will approve your leave request today.",
+      "example_th": "ผู้จัดการจะอนุมัติคำขอลาของคุณวันนี้",
+      "cefr": "B1",
+      "note_th": "approve + สิ่งที่อนุมัติ (approve the budget) แต่ approve of = เห็นด้วย — คำนาม approval เช่น pending approval = รออนุมัติ",
+      "distractors": [
+        "improve",
+        "prove",
+        "approach"
+      ]
+    },
+    {
+      "id": "endorse",
+      "word": "endorse",
+      "pos": "verb",
+      "ipa": "/ɪnˈdɔːrs/",
+      "reading_th": "อิน-ดอร์ส",
+      "meaning_th": "รับรอง / สนับสนุนอย่างเป็นทางการ",
+      "emoji": "✍️",
+      "example_en": "Two managers must endorse the proposal before approval.",
+      "example_th": "ผู้จัดการสองคนต้องรับรองข้อเสนอก่อนอนุมัติ",
+      "cefr": "B2",
+      "note_th": "endorse = ลงนามรับรอง (เช็ค เอกสาร) หรือประกาศสนับสนุน (ดาราที่ endorse สินค้า) — คำนาม endorsement",
+      "distractors": [
+        "enforce",
+        "indoors",
+        "endure"
+      ]
+    },
+    {
+      "id": "enclosed",
+      "word": "enclosed",
+      "pos": "adjective",
+      "ipa": "/ɪnˈkloʊzd/",
+      "reading_th": "อิน-โคลสด์",
+      "meaning_th": "แนบมาด้วย(ในซอง)",
+      "emoji": "✉️",
+      "example_en": "Please find the enclosed invoice for your records.",
+      "example_th": "กรุณาดูใบแจ้งหนี้ที่แนบมาด้วยเพื่อเก็บเป็นหลักฐาน",
+      "cefr": "B1",
+      "note_th": "enclosed = แนบมาในจดหมายกระดาษ ส่วน attached = แนบในอีเมล — Part 7 ใช้ Please find enclosed... บ่อยมาก",
+      "distractors": [
+        "closed",
+        "included",
+        "attached"
+      ]
+    },
+    {
+      "id": "legible",
+      "word": "legible",
+      "pos": "adjective",
+      "ipa": "/ˈledʒəbl/",
+      "reading_th": "เล-จิ-เบิล",
+      "meaning_th": "อ่านออก(ลายมือ/ตัวพิมพ์)",
+      "emoji": "🔤",
+      "example_en": "Please make sure your handwriting is legible on the form.",
+      "example_th": "กรุณาเขียนลายมือให้อ่านออกในแบบฟอร์ม",
+      "cefr": "B2",
+      "note_th": "legible = อ่านออก ตรงข้าม illegible — อย่าสับสนกับ eligible (มีสิทธิ์) ที่สะกดใกล้กันมากจน Part 5 ชอบหลอก",
+      "distractors": [
+        "eligible",
+        "illegible",
+        "legal"
+      ]
+    },
+    {
+      "id": "proposal",
+      "word": "proposal",
+      "pos": "noun",
+      "ipa": "/prəˈpoʊzl/",
+      "reading_th": "โพร-โพ-เซิล",
+      "meaning_th": "ข้อเสนอ(โครงการ)",
+      "emoji": "💡",
+      "example_en": "The client accepted our proposal for the new website.",
+      "example_th": "ลูกค้าตอบรับข้อเสนอเว็บไซต์ใหม่ของเรา",
+      "cefr": "B1",
+      "note_th": "submit a proposal = ส่งข้อเสนอโครงการ — ในเรื่องความรักก็ใช้ proposal (ขอแต่งงาน) แต่ใน TOEIC แทบจะเป็นเรื่องธุรกิจเสมอ",
+      "distractors": [
+        "purpose",
+        "proposition",
+        "disposal"
+      ]
+    },
+    {
+      "id": "paperwork",
+      "word": "paperwork",
+      "pos": "noun",
+      "ipa": "/ˈpeɪpərwɜːrk/",
+      "reading_th": "เพ-เพอร์-เวิร์ค",
+      "meaning_th": "งานเอกสาร",
+      "emoji": "🗃️",
+      "example_en": "There is a lot of paperwork for a new visa.",
+      "example_th": "การขอวีซ่าใหม่มีงานเอกสารเยอะมาก",
+      "cefr": "B1",
+      "note_th": "paperwork เป็นนามนับไม่ได้ ห้ามเติม s — fill out / complete the paperwork = กรอกเอกสารให้ครบ",
+      "distractors": [
+        "homework",
+        "paper",
+        "network"
+      ]
+    },
+    {
+      "id": "memo",
+      "word": "memo",
+      "pos": "noun",
+      "ipa": "/ˈmemoʊ/",
+      "reading_th": "เม-โม",
+      "meaning_th": "บันทึกข้อความภายใน",
+      "emoji": "📌",
+      "example_en": "Did you read the memo about the new dress code?",
+      "example_th": "คุณอ่านบันทึกเรื่องระเบียบการแต่งกายใหม่หรือยัง",
+      "cefr": "A2",
+      "note_th": "memo (ย่อจาก memorandum) = ข้อความแจ้งพนักงานภายในบริษัท — Part 7 มี memo ทุกชุด ให้ดูหัว To / From / Re",
+      "distractors": [
+        "memory",
+        "menu",
+        "demo"
+      ]
+    },
+    {
+      "id": "hard_copy",
+      "word": "hard copy",
+      "pos": "phrase",
+      "ipa": "/hɑːrd ˈkɑːpi/",
+      "reading_th": "ฮาร์ด ค็อป-ปี้",
+      "meaning_th": "สำเนากระดาษ(ฉบับพิมพ์)",
+      "emoji": "🖨️",
+      "example_en": "Please bring a hard copy of your passport to the interview.",
+      "example_th": "กรุณานำสำเนาพาสปอร์ตแบบกระดาษมาในวันสัมภาษณ์",
+      "cefr": "B1",
+      "note_th": "hard copy = ฉบับพิมพ์บนกระดาษ ตรงข้าม soft copy / digital copy = ไฟล์ — ออฟฟิศไทยพูด \"ฮาร์ดก็อปปี้\" ตรงตัว",
+      "distractors": [
+        "soft copy",
+        "hardware",
+        "photocopy"
+      ]
+    },
+    {
+      "id": "comply_with",
+      "word": "comply with",
+      "pos": "phrase",
+      "ipa": "/kəmˈplaɪ wɪð/",
+      "reading_th": "คัม-พลาย วิธ",
+      "meaning_th": "ปฏิบัติตาม(กฎ)",
+      "emoji": "✔️",
+      "example_en": "All suppliers must comply with our safety rules.",
+      "example_th": "ซัพพลายเออร์ทุกรายต้องปฏิบัติตามกฎความปลอดภัยของเรา",
+      "cefr": "B2",
+      "note_th": "comply with + กฎ/ข้อกำหนด เสมอ ไม่ใช่ comply to — คำนาม compliance ออกบ่อยในข่าวบริษัทและ Part 5",
+      "distractors": [
+        "complain about",
+        "compete with",
+        "complete with"
+      ]
+    },
+    {
+      "id": "specification",
+      "word": "specification",
+      "pos": "noun",
+      "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+      "reading_th": "สเปส-ซิ-ฟิ-เค-ชั่น",
+      "meaning_th": "รายละเอียดคุณสมบัติ / สเปก",
+      "emoji": "📐",
+      "example_en": "The product must meet every specification in the contract.",
+      "example_th": "สินค้าต้องตรงตามรายละเอียดคุณสมบัติทุกข้อในสัญญา",
+      "cefr": "B2",
+      "note_th": "ย่อว่า specs ที่คนไทยพูดว่า \"สเปก\" — technical specifications = ข้อกำหนดทางเทคนิค; กริยา specify = ระบุ",
+      "distractors": [
+        "specialization",
+        "verification",
+        "certification"
+      ]
+    },
+    {
+      "id": "business_trip",
+      "word": "business trip",
+      "pos": "phrase",
+      "ipa": "/ˈbɪznəs trɪp/",
+      "reading_th": "บิส-เนส ทริป",
+      "meaning_th": "การเดินทางไปทำงานต่างถิ่น",
+      "emoji": "🧳",
+      "example_en": "She is on a business trip to Tokyo this week.",
+      "example_th": "สัปดาห์นี้เธอไปทำงานที่โตเกียว",
+      "cefr": "A2",
+      "note_th": "on a business trip = ไปทำงานต่างถิ่นอยู่ — ไม่ใช่ work trip ในภาษาเขียนทางการ; คนอเมริกันพูดสั้นๆ ว่า travel for work",
+      "distractors": [
+        "business class",
+        "field trip",
+        "road trip"
+      ]
+    },
+    {
+      "id": "accommodation",
+      "word": "accommodation",
+      "pos": "noun",
+      "ipa": "/əˌkɑːməˈdeɪʃn/",
+      "reading_th": "อะ-คอม-โม-เด-ชั่น",
+      "meaning_th": "ที่พัก",
+      "emoji": "🏨",
+      "example_en": "The company pays for accommodation during the trip.",
+      "example_th": "บริษัทออกค่าที่พักระหว่างการเดินทางให้",
+      "cefr": "B1",
+      "note_th": "สะกดด้วย cc และ mm — สองคู่ คำที่คนสะกดผิดมากที่สุดคำหนึ่ง; อเมริกันมักใช้พหูพจน์ accommodations",
+      "distractors": [
+        "recommendation",
+        "communication",
+        "association"
+      ]
+    },
+    {
+      "id": "expense_claim",
+      "word": "expense claim",
+      "pos": "phrase",
+      "ipa": "/ɪkˈspens kleɪm/",
+      "reading_th": "อิค-สเปนส์ เคลม",
+      "meaning_th": "การเบิกค่าใช้จ่าย",
+      "emoji": "🧾",
+      "example_en": "Submit your expense claim within a week of the trip.",
+      "example_th": "ยื่นเบิกค่าใช้จ่ายภายในหนึ่งสัปดาห์หลังเดินทาง",
+      "cefr": "B2",
+      "note_th": "expense claim (หรือ expense report) = ฟอร์มเบิกเงินที่สำรองจ่ายไป ต้องแนบใบเสร็จ — claim = ขอเงินคืน/ขอสิทธิ์ ที่คนไทยใช้ว่า \"เคลม\"",
+      "distractors": [
+        "expense",
+        "insurance claim",
+        "baggage claim"
+      ]
+    },
+    {
+      "id": "layover",
+      "word": "layover",
+      "pos": "noun",
+      "ipa": "/ˈleɪoʊvər/",
+      "reading_th": "เล-โอ-เวอร์",
+      "meaning_th": "การแวะพักเปลี่ยนเครื่อง",
+      "emoji": "🛬",
+      "example_en": "We have a three-hour layover in Doha.",
+      "example_th": "เรามีเวลาแวะเปลี่ยนเครื่องที่โดฮาสามชั่วโมง",
+      "cefr": "B1",
+      "note_th": "layover = รอเปลี่ยนเครื่องไม่กี่ชั่วโมง ส่วน stopover = แวะค้างคืนหรือนานกว่า — Part 4 ประกาศสนามบินใช้บ่อย",
+      "distractors": [
+        "leftover",
+        "hangover",
+        "takeover"
+      ]
+    },
+    {
+      "id": "passenger",
+      "word": "passenger",
+      "pos": "noun",
+      "ipa": "/ˈpæsɪndʒər/",
+      "reading_th": "แพส-เซน-เจอร์",
+      "meaning_th": "ผู้โดยสาร",
+      "emoji": "🧍",
+      "example_en": "All passengers must show their boarding passes.",
+      "example_th": "ผู้โดยสารทุกคนต้องแสดงบัตรขึ้นเครื่อง",
+      "cefr": "A2",
+      "note_th": "passenger = ผู้โดยสาร (คนที่ไม่ได้ขับ) — คนไทยมักสับสนกับ customer ของสายการบินซึ่งใช้ได้เช่นกัน แต่ประกาศบนเครื่องใช้ passengers เสมอ",
+      "distractors": [
+        "messenger",
+        "pedestrian",
+        "passage"
+      ]
+    },
+    {
+      "id": "depart",
+      "word": "depart",
+      "pos": "verb",
+      "ipa": "/dɪˈpɑːrt/",
+      "reading_th": "ดิ-พาร์ท",
+      "meaning_th": "ออกเดินทาง",
+      "emoji": "🛫",
+      "example_en": "The train will depart from platform two at nine.",
+      "example_th": "รถไฟจะออกจากชานชาลาที่สองตอนเก้าโมง",
+      "cefr": "B1",
+      "note_th": "depart from + สถานที่ / depart for + จุดหมาย — depart เป็นทางการกว่า leave ใช้ในตารางเดินรถและประกาศ",
+      "distractors": [
+        "department",
+        "deposit",
+        "disappear"
+      ]
+    },
+    {
+      "id": "domestic",
+      "word": "domestic",
+      "pos": "adjective",
+      "ipa": "/dəˈmestɪk/",
+      "reading_th": "โด-เมส-ติค",
+      "meaning_th": "ภายในประเทศ",
+      "emoji": "🗺️",
+      "example_en": "Domestic flights leave from the other terminal.",
+      "example_th": "เที่ยวบินภายในประเทศออกจากอาคารอีกหลัง",
+      "cefr": "B1",
+      "note_th": "domestic flight / domestic market ตรงข้ามกับ international — ในบริบทบ้านก็ใช้ได้ (domestic chores = งานบ้าน)",
+      "distractors": [
+        "dramatic",
+        "diplomatic",
+        "democratic"
+      ]
+    },
+    {
+      "id": "overseas",
+      "word": "overseas",
+      "pos": "adverb",
+      "ipa": "/ˌoʊvərˈsiːz/",
+      "reading_th": "โอ-เวอร์-ซีส",
+      "meaning_th": "ในต่างประเทศ(ข้ามทะเล)",
+      "emoji": "🌏",
+      "example_en": "He often travels overseas to meet clients.",
+      "example_th": "เขาเดินทางไปต่างประเทศพบลูกค้าบ่อยๆ",
+      "cefr": "B1",
+      "note_th": "travel overseas ไม่ต้องมี to (เหมือน abroad) — และใช้เป็นคำคุณศัพท์ได้: overseas customers = ลูกค้าต่างประเทศ",
+      "distractors": [
+        "oversee",
+        "overcome",
+        "overview"
+      ]
+    },
+    {
+      "id": "rental_car",
+      "word": "rental car",
+      "pos": "phrase",
+      "ipa": "/ˈrentl kɑːr/",
+      "reading_th": "เรน-เทิล คาร์",
+      "meaning_th": "รถเช่า",
+      "emoji": "🚗",
+      "example_en": "I picked up the rental car at the airport.",
+      "example_th": "ฉันไปรับรถเช่าที่สนามบิน",
+      "cefr": "A2",
+      "note_th": "rental car (อเมริกัน) = hire car (อังกฤษ) — คำนาม rental ยังใช้กับ rental fee, rental agreement ใน Part 7",
+      "distractors": [
+        "rental fee",
+        "company car",
+        "taxi cab"
+      ]
+    },
+    {
+      "id": "economy_class",
+      "word": "economy class",
+      "pos": "phrase",
+      "ipa": "/ɪˈkɑːnəmi klæs/",
+      "reading_th": "อิ-คอ-โน-มี คลาส",
+      "meaning_th": "ชั้นประหยัด",
+      "emoji": "💺",
+      "example_en": "Company policy says we fly economy class on short trips.",
+      "example_th": "นโยบายบริษัทให้บินชั้นประหยัดสำหรับเที่ยวบินสั้น",
+      "cefr": "A2",
+      "note_th": "economy class / business class / first class — travel policy ของบริษัทใน Part 7 มักระบุว่าใครบินชั้นไหนได้",
+      "distractors": [
+        "business class",
+        "economics",
+        "first class"
+      ]
+    },
+    {
+      "id": "mileage",
+      "word": "mileage",
+      "pos": "noun",
+      "ipa": "/ˈmaɪlɪdʒ/",
+      "reading_th": "ไมล์-ลิจ",
+      "meaning_th": "ระยะทางที่วิ่ง(เป็นไมล์)",
+      "emoji": "🛣️",
+      "example_en": "Record your mileage to claim the travel allowance.",
+      "example_th": "บันทึกระยะทางเพื่อเบิกค่าเดินทาง",
+      "cefr": "B2",
+      "note_th": "mileage = ระยะทางที่รถวิ่ง (รถมือสองดู low mileage) และไมล์สะสมสายการบิน — ฟอร์มเบิกค่าน้ำมันบริษัทใช้คำนี้",
+      "distractors": [
+        "mile",
+        "millage",
+        "message"
+      ]
+    },
+    {
+      "id": "travel_agency",
+      "word": "travel agency",
+      "pos": "phrase",
+      "ipa": "/ˈtrævl ˈeɪdʒənsi/",
+      "reading_th": "แทร-เวิล เอ-เจน-ซี",
+      "meaning_th": "บริษัทรับจัดการเดินทาง",
+      "emoji": "🏢",
+      "example_en": "Our travel agency booked all the hotels for us.",
+      "example_th": "บริษัททัวร์จองโรงแรมทั้งหมดให้เรา",
+      "cefr": "A2",
+      "note_th": "travel agency = บริษัท, travel agent = พนักงาน — Part 3 มีบทสนทนาโทรหา travel agent บ่อย",
+      "distractors": [
+        "travel agent",
+        "advertising agency",
+        "employment agency"
+      ]
+    },
+    {
+      "id": "board",
+      "word": "board",
+      "pos": "verb",
+      "ipa": "/bɔːrd/",
+      "reading_th": "บอร์ด",
+      "meaning_th": "ขึ้น(เครื่องบิน/รถไฟ/เรือ)",
+      "emoji": "🎫",
+      "example_en": "Passengers may now board the plane through gate twelve.",
+      "example_th": "ผู้โดยสารขึ้นเครื่องได้แล้วที่ประตูสิบสอง",
+      "cefr": "B1",
+      "note_th": "board the plane ไม่มี on — boarding = การขึ้นเครื่อง, on board = อยู่บนเครื่อง; และ board ยังหมายถึงคณะกรรมการ (board of directors)",
+      "distractors": [
+        "bored",
+        "broad",
+        "aboard"
+      ]
+    },
+    {
+      "id": "carpool",
+      "word": "carpool",
+      "pos": "verb",
+      "ipa": "/ˈkɑːrpuːl/",
+      "reading_th": "คาร์-พูล",
+      "meaning_th": "นั่งรถไปด้วยกันเพื่อประหยัด",
+      "emoji": "🚘",
+      "example_en": "We carpool to the office to save on fuel.",
+      "example_th": "เรานั่งรถไปออฟฟิศด้วยกันเพื่อประหยัดน้ำมัน",
+      "cefr": "B1",
+      "note_th": "carpool = ผลัดกันขับหรือนั่งรถคันเดียวกันไปทำงาน — ใน TOEIC มักเป็นประกาศบริษัทส่งเสริมให้พนักงาน carpool ลดที่จอดรถ",
+      "distractors": [
+        "car wash",
+        "pool",
+        "car park"
+      ]
+    },
+    {
+      "id": "turnover",
+      "word": "turnover",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrnoʊvər/",
+      "reading_th": "เทิร์น-โอ-เวอร์",
+      "meaning_th": "ยอดขายรวม / อัตราหมุนเวียนพนักงาน",
+      "emoji": "🔄",
+      "example_en": "The annual turnover of the company reached two billion baht.",
+      "example_th": "ยอดขายรวมต่อปีของบริษัทแตะสองพันล้านบาท",
+      "cefr": "B2",
+      "note_th": "turnover มีสองหน้า: ยอดขายรวม (อังกฤษ) และ staff turnover = อัตราพนักงานลาออกเปลี่ยนคน — ดูบริบทให้ดีใน Part 7",
+      "distractors": [
+        "turnout",
+        "takeover",
+        "overturn"
+      ]
+    },
+    {
+      "id": "expenditure",
+      "word": "expenditure",
+      "pos": "noun",
+      "ipa": "/ɪkˈspendɪtʃər/",
+      "reading_th": "อิค-สเปน-ดิ-เชอร์",
+      "meaning_th": "รายจ่ายรวม",
+      "emoji": "📉",
+      "example_en": "Total expenditure on travel must not exceed the budget.",
+      "example_th": "รายจ่ายรวมค่าเดินทางต้องไม่เกินงบประมาณ",
+      "cefr": "B2",
+      "note_th": "expenditure = รายจ่ายในภาพรวม (ทางการ) ส่วน expense = ค่าใช้จ่ายแต่ละรายการ — capital expenditure ย่อว่า CapEx",
+      "distractors": [
+        "expense",
+        "experience",
+        "expansion"
+      ]
+    },
+    {
+      "id": "payment",
+      "word": "payment",
+      "pos": "noun",
+      "ipa": "/ˈpeɪmənt/",
+      "reading_th": "เพ-เมนท์",
+      "meaning_th": "การชำระเงิน",
+      "emoji": "💳",
+      "example_en": "Payment is due within thirty days of the invoice date.",
+      "example_th": "ต้องชำระเงินภายในสามสิบวันนับจากวันที่ในใบแจ้งหนี้",
+      "cefr": "A2",
+      "note_th": "make a payment = ชำระเงิน, payment method = วิธีชำระ, late payment = ชำระล่าช้า — คำนามของ pay ที่เจอทุกใบแจ้งหนี้",
+      "distractors": [
+        "pavement",
+        "parliament",
+        "repayment"
+      ]
+    },
+    {
+      "id": "quarter",
+      "word": "quarter",
+      "pos": "noun",
+      "ipa": "/ˈkwɔːrtər/",
+      "reading_th": "ควอ-เทอร์",
+      "meaning_th": "ไตรมาส",
+      "emoji": "🗓️",
+      "example_en": "Sales were strong in the first quarter.",
+      "example_th": "ยอดขายไตรมาสแรกแข็งแกร่ง",
+      "cefr": "B1",
+      "note_th": "หนึ่งปีมีสี่ quarter เขียนย่อ Q1–Q4 — quarterly report = รายงานรายไตรมาส ออกสอบ Part 7 บ่อยมาก",
+      "distractors": [
+        "quarterly",
+        "quartet",
+        "headquarters"
+      ]
+    },
+    {
+      "id": "fiscal_year",
+      "word": "fiscal year",
+      "pos": "phrase",
+      "ipa": "/ˈfɪskl jɪr/",
+      "reading_th": "ฟิส-เคิล เยียร์",
+      "meaning_th": "ปีงบประมาณ",
+      "emoji": "📆",
+      "example_en": "Our fiscal year ends in September, not December.",
+      "example_th": "ปีงบประมาณของเราจบเดือนกันยายน ไม่ใช่ธันวาคม",
+      "cefr": "B2",
+      "note_th": "fiscal year (FY) อาจไม่ตรงกับปีปฏิทิน เช่น ราชการไทยเริ่ม 1 ต.ค. — ข้อสอบชอบถามว่ารายงานครอบคลุมช่วงไหน",
+      "distractors": [
+        "financial year",
+        "fiscal policy",
+        "leap year"
+      ]
+    },
+    {
+      "id": "audit",
+      "word": "audit",
+      "pos": "noun",
+      "ipa": "/ˈɔːdɪt/",
+      "reading_th": "ออ-ดิท",
+      "meaning_th": "การตรวจสอบบัญชี",
+      "emoji": "🔍",
+      "example_en": "The annual audit found no errors in the accounts.",
+      "example_th": "การตรวจสอบบัญชีประจำปีไม่พบข้อผิดพลาด",
+      "cefr": "B2",
+      "note_th": "audit ใช้เป็นกริยาได้ (audit the accounts) คนตรวจคือ auditor — ปัจจุบันขยายไปถึง energy audit, security audit",
+      "distractors": [
+        "auditor",
+        "audio",
+        "addition"
+      ]
+    },
+    {
+      "id": "accounting",
+      "word": "accounting",
+      "pos": "noun",
+      "ipa": "/əˈkaʊntɪŋ/",
+      "reading_th": "อะ-เคาน์-ติ้ง",
+      "meaning_th": "การบัญชี / แผนกบัญชี",
+      "emoji": "📒",
+      "example_en": "Send your receipts to the accounting department.",
+      "example_th": "ส่งใบเสร็จไปที่แผนกบัญชี",
+      "cefr": "B1",
+      "note_th": "accounting department = แผนกบัญชี — ภาษาพูดในออฟฟิศไทยเรียก \"ฝ่ายบัญชี\" ให้ส่งใบเสร็จเบิกเงินที่นี่",
+      "distractors": [
+        "accountant",
+        "counting",
+        "account"
+      ]
+    },
+    {
+      "id": "overhead",
+      "word": "overhead",
+      "pos": "noun",
+      "ipa": "/ˈoʊvərhed/",
+      "reading_th": "โอ-เวอร์-เฮด",
+      "meaning_th": "ค่าใช้จ่ายคงที่ของกิจการ",
+      "emoji": "🏢",
+      "example_en": "Working from home helps reduce office overhead.",
+      "example_th": "การทำงานจากบ้านช่วยลดค่าใช้จ่ายคงที่ของออฟฟิศ",
+      "cefr": "B2",
+      "note_th": "overhead = ค่าเช่า ค่าไฟ เงินเดือนที่ต้องจ่ายแม้ไม่มียอดขาย — อเมริกันใช้เอกพจน์ อังกฤษมักใช้ overheads",
+      "distractors": [
+        "overhead bin",
+        "overheat",
+        "overdue"
+      ]
+    },
+    {
+      "id": "fund",
+      "word": "fund",
+      "pos": "noun",
+      "ipa": "/fʌnd/",
+      "reading_th": "ฟันด์",
+      "meaning_th": "เงินทุน / กองทุน",
+      "emoji": "🏦",
+      "example_en": "The city set up a fund for small businesses.",
+      "example_th": "เมืองตั้งกองทุนสำหรับธุรกิจขนาดเล็ก",
+      "cefr": "B1",
+      "note_th": "fund เป็นกริยาได้ = ให้เงินสนับสนุน (fund a project) — funds พหูพจน์ = เงินที่มีอยู่ เช่น insufficient funds = เงินไม่พอ",
+      "distractors": [
+        "found",
+        "fun",
+        "funding"
+      ]
+    },
+    {
+      "id": "petty_cash",
+      "word": "petty cash",
+      "pos": "phrase",
+      "ipa": "/ˈpeti kæʃ/",
+      "reading_th": "เพ็ท-ที แคช",
+      "meaning_th": "เงินสดย่อย",
+      "emoji": "💵",
+      "example_en": "Take the money for stamps from petty cash.",
+      "example_th": "เบิกค่าแสตมป์จากเงินสดย่อย",
+      "cefr": "B2",
+      "note_th": "petty cash = เงินสดก้อนเล็กในออฟฟิศสำหรับจ่ายจุกจิก — petty แปลว่าเล็กน้อย; ฝ่ายบัญชีไทยเรียก \"เงินสดย่อย\" ตรงตัว",
+      "distractors": [
+        "pocket money",
+        "petty crime",
+        "cash flow"
+      ]
+    },
+    {
+      "id": "outstanding",
+      "word": "outstanding",
+      "pos": "adjective",
+      "ipa": "/aʊtˈstændɪŋ/",
+      "reading_th": "เอาท์-สแตน-ดิ้ง",
+      "meaning_th": "ค้างชำระ / โดดเด่น",
+      "emoji": "⚠️",
+      "example_en": "You have an outstanding balance of two thousand baht.",
+      "example_th": "คุณมียอดค้างชำระสองพันบาท",
+      "cefr": "B2",
+      "note_th": "คำนี้มีสองหน้า: outstanding balance = ยอดค้างจ่าย แต่ outstanding performance = ผลงานยอดเยี่ยม — TOEIC ใช้ทั้งสองความหมาย",
+      "distractors": [
+        "standing",
+        "understanding",
+        "outgoing"
+      ]
+    },
+    {
+      "id": "allocate",
+      "word": "allocate",
+      "pos": "verb",
+      "ipa": "/ˈæləkeɪt/",
+      "reading_th": "แอล-โล-เคท",
+      "meaning_th": "จัดสรร",
+      "emoji": "🧩",
+      "example_en": "We will allocate more money to staff training.",
+      "example_th": "เราจะจัดสรรเงินให้การฝึกอบรมพนักงานมากขึ้น",
+      "cefr": "B2",
+      "note_th": "allocate money / time / resources to something — คำนาม allocation เช่น budget allocation = การจัดสรรงบ",
+      "distractors": [
+        "locate",
+        "allow",
+        "advocate"
+      ]
+    },
+    {
+      "id": "write_off",
+      "word": "write off",
+      "pos": "phrase",
+      "ipa": "/raɪt ɔːf/",
+      "reading_th": "ไรท์ ออฟ",
+      "meaning_th": "ตัดเป็นหนี้สูญ / ตัดจ่าย",
+      "emoji": "🧾",
+      "example_en": "The bank decided to write off the unpaid loan.",
+      "example_th": "ธนาคารตัดสินใจตัดเงินกู้ที่ไม่ได้ชำระเป็นหนี้สูญ",
+      "cefr": "B2",
+      "note_th": "write off a debt = ยอมรับว่าเก็บเงินไม่ได้แล้ว — ภาษาพูดยังใช้กับรถพังจนซ่อมไม่คุ้ม (the car was written off)",
+      "distractors": [
+        "write down",
+        "write up",
+        "pay off"
+      ]
+    },
+    {
+      "id": "cost_effective",
+      "word": "cost-effective",
+      "pos": "adjective",
+      "ipa": "/ˌkɔːst ɪˈfektɪv/",
+      "reading_th": "คอสท์ อิ-เฟค-ทิฟ",
+      "meaning_th": "คุ้มค่าเงิน / คุ้มทุน",
+      "emoji": "⚖️",
+      "example_en": "Online training is a cost-effective way to teach staff.",
+      "example_th": "การอบรมออนไลน์เป็นวิธีสอนพนักงานที่คุ้มค่า",
+      "cefr": "B2",
+      "note_th": "cost-effective = ได้ผลดีเมื่อเทียบกับเงินที่จ่าย ไม่ใช่แค่ถูก (cheap) — มี hyphen เสมอเมื่อวางหน้าคำนาม",
+      "distractors": [
+        "effective",
+        "costly",
+        "cost-free"
+      ]
+    },
+    {
+      "id": "employment",
+      "word": "employment",
+      "pos": "noun",
+      "ipa": "/ɪmˈplɔɪmənt/",
+      "reading_th": "อิม-พลอย-เมนท์",
+      "meaning_th": "การจ้างงาน",
+      "emoji": "💼",
+      "example_en": "Please bring proof of employment to the bank.",
+      "example_th": "กรุณานำหลักฐานการจ้างงานมาที่ธนาคาร",
+      "cefr": "B1",
+      "note_th": "employment = การมีงานทำ/การจ้างงาน, unemployment = การว่างงาน — employer (นายจ้าง) กับ employee (ลูกจ้าง) ต่างกันที่ท้ายคำ",
+      "distractors": [
+        "employer",
+        "enjoyment",
+        "equipment"
+      ]
+    },
+    {
+      "id": "qualified",
+      "word": "qualified",
+      "pos": "adjective",
+      "ipa": "/ˈkwɑːlɪfaɪd/",
+      "reading_th": "ควอ-ลิ-ไฟด์",
+      "meaning_th": "มีคุณสมบัติเหมาะสม",
+      "emoji": "🎓",
+      "example_en": "We need a qualified nurse for the night shift.",
+      "example_th": "เราต้องการพยาบาลที่มีคุณสมบัติสำหรับกะดึก",
+      "cefr": "B1",
+      "note_th": "qualified for the job / highly qualified — ใน Part 7 ประกาศรับสมัครมักเขียน Qualified candidates should send a resume",
+      "distractors": [
+        "quality",
+        "quantified",
+        "classified"
+      ]
+    },
+    {
+      "id": "experienced",
+      "word": "experienced",
+      "pos": "adjective",
+      "ipa": "/ɪkˈspɪriənst/",
+      "reading_th": "อิค-สเปีย-เรียนสด์",
+      "meaning_th": "มีประสบการณ์",
+      "emoji": "🧠",
+      "example_en": "They are looking for an experienced sales manager.",
+      "example_th": "พวกเขากำลังหาผู้จัดการฝ่ายขายที่มีประสบการณ์",
+      "cefr": "B1",
+      "note_th": "experienced in + งาน (experienced in marketing) — ส่วน inexperienced = ยังไม่มีประสบการณ์ ไม่ใช่ unexperienced",
+      "distractors": [
+        "experiment",
+        "expensive",
+        "experience"
+      ]
+    },
+    {
+      "id": "payroll",
+      "word": "payroll",
+      "pos": "noun",
+      "ipa": "/ˈpeɪroʊl/",
+      "reading_th": "เพ-โรล",
+      "meaning_th": "บัญชีเงินเดือน / ระบบจ่ายเงินเดือน",
+      "emoji": "🗂️",
+      "example_en": "Payroll is processed on the twenty-fifth of each month.",
+      "example_th": "เงินเดือนประมวลผลจ่ายทุกวันที่ 25 ของเดือน",
+      "cefr": "B2",
+      "note_th": "on the payroll = เป็นพนักงานที่บริษัทจ่ายเงินเดือน — payroll department = ฝ่ายจ่ายเงินเดือน; ไม่ใช่ pay roll แยกคำ",
+      "distractors": [
+        "payment",
+        "payday",
+        "payslip"
+      ]
+    },
+    {
+      "id": "evaluation",
+      "word": "evaluation",
+      "pos": "noun",
+      "ipa": "/ɪˌvæljuˈeɪʃn/",
+      "reading_th": "อิ-แวล-ยู-เอ-ชั่น",
+      "meaning_th": "การประเมินผล",
+      "emoji": "📈",
+      "example_en": "Your first evaluation will be after six months.",
+      "example_th": "การประเมินผลครั้งแรกของคุณจะมีหลังหกเดือน",
+      "cefr": "B1",
+      "note_th": "performance evaluation = ประเมินผลงาน (บางบริษัทใช้ appraisal) — กริยา evaluate ตรงกับคำไทย \"ประเมิน\" ตรงตัว",
+      "distractors": [
+        "evolution",
+        "valuation",
+        "education"
+      ]
+    },
+    {
+      "id": "performance",
+      "word": "performance",
+      "pos": "noun",
+      "ipa": "/pərˈfɔːrməns/",
+      "reading_th": "เพอร์-ฟอร์-แมนซ์",
+      "meaning_th": "ผลการปฏิบัติงาน",
+      "emoji": "🏆",
+      "example_en": "Bonuses depend on individual and team performance.",
+      "example_th": "โบนัสขึ้นอยู่กับผลงานรายบุคคลและของทีม",
+      "cefr": "B1",
+      "note_th": "performance ในที่ทำงาน = ผลงาน ไม่ใช่การแสดง — performance review ข้อสอบชอบถามว่าประชุมนี้เกี่ยวกับอะไร",
+      "distractors": [
+        "performer",
+        "perform",
+        "preference"
+      ]
+    },
+    {
+      "id": "workforce",
+      "word": "workforce",
+      "pos": "noun",
+      "ipa": "/ˈwɜːrkfɔːrs/",
+      "reading_th": "เวิร์ค-ฟอร์ส",
+      "meaning_th": "กำลังแรงงาน / พนักงานทั้งหมด",
+      "emoji": "👷",
+      "example_en": "Nearly half of the workforce now works remotely.",
+      "example_th": "พนักงานเกือบครึ่งทำงานจากที่อื่นแล้ว",
+      "cefr": "B2",
+      "note_th": "workforce = พนักงานทั้งหมดของบริษัทหรือประเทศ — a skilled workforce = แรงงานมีฝีมือ; ใกล้กับ staff แต่ใช้ในระดับใหญ่กว่า",
+      "distractors": [
+        "workload",
+        "workshop",
+        "workplace"
+      ]
+    },
+    {
+      "id": "wage",
+      "word": "wage",
+      "pos": "noun",
+      "ipa": "/weɪdʒ/",
+      "reading_th": "เวจ",
+      "meaning_th": "ค่าจ้าง(รายชั่วโมง/รายวัน)",
+      "emoji": "🪙",
+      "example_en": "The minimum wage in Bangkok rose this year.",
+      "example_th": "ค่าแรงขั้นต่ำในกรุงเทพฯ ขึ้นปีนี้",
+      "cefr": "B1",
+      "note_th": "wage = ค่าจ้างคิดเป็นชั่วโมง/วัน ส่วน salary = เงินเดือนประจำ — minimum wage คือค่าแรงขั้นต่ำที่เป็นข่าวทุกปี",
+      "distractors": [
+        "wedge",
+        "wave",
+        "wager"
+      ]
+    },
+    {
+      "id": "sick_leave",
+      "word": "sick leave",
+      "pos": "phrase",
+      "ipa": "/sɪk liːv/",
+      "reading_th": "ซิค ลีฟ",
+      "meaning_th": "การลาป่วย",
+      "emoji": "🤒",
+      "example_en": "Employees get thirty days of paid sick leave a year.",
+      "example_th": "พนักงานได้ลาป่วยโดยได้รับค่าจ้างปีละสามสิบวัน",
+      "cefr": "A2",
+      "note_th": "leave ในที่นี้ = วันลา ไม่ใช่ออกไป: sick leave, maternity leave, paid leave — take sick leave = ลาป่วย",
+      "distractors": [
+        "sick day",
+        "annual leave",
+        "sick pay"
+      ]
+    },
+    {
+      "id": "lay_off",
+      "word": "lay off",
+      "pos": "phrase",
+      "ipa": "/leɪ ɔːf/",
+      "reading_th": "เล ออฟ",
+      "meaning_th": "เลิกจ้าง(เพราะลดคน)",
+      "emoji": "📦",
+      "example_en": "The factory had to lay off fifty workers.",
+      "example_th": "โรงงานต้องเลิกจ้างคนงานห้าสิบคน",
+      "cefr": "B1",
+      "note_th": "lay off = เลิกจ้างเพราะบริษัทลดคน (ไม่ใช่ความผิดพนักงาน) ส่วน fire = ไล่ออกเพราะทำผิด — คำนาม layoffs เจอในข่าวเศรษฐกิจ",
+      "distractors": [
+        "take off",
+        "lay out",
+        "lie down"
+      ]
+    },
+    {
+      "id": "resignation",
+      "word": "resignation",
+      "pos": "noun",
+      "ipa": "/ˌrezɪɡˈneɪʃn/",
+      "reading_th": "เร-ซิก-เน-ชั่น",
+      "meaning_th": "การลาออก",
+      "emoji": "📤",
+      "example_en": "She handed in her resignation on Monday.",
+      "example_th": "เธอยื่นใบลาออกเมื่อวันจันทร์",
+      "cefr": "B1",
+      "note_th": "letter of resignation / hand in your resignation — ออกเสียง g ด้วย (เร-ซิก-) ต่างจาก resign ที่ g เงียบ",
+      "distractors": [
+        "registration",
+        "designation",
+        "reservation"
+      ]
+    },
+    {
+      "id": "induction",
+      "word": "induction",
+      "pos": "noun",
+      "ipa": "/ɪnˈdʌkʃn/",
+      "reading_th": "อิน-ดัค-ชั่น",
+      "meaning_th": "การอบรมแนะนำงานสำหรับคนใหม่",
+      "emoji": "🧭",
+      "example_en": "New staff complete a two-day induction before starting work.",
+      "example_th": "พนักงานใหม่ผ่านการอบรมแนะนำงานสองวันก่อนเริ่มงาน",
+      "cefr": "B2",
+      "note_th": "induction (อังกฤษ) = orientation (อเมริกัน) = ปฐมนิเทศพนักงานใหม่ — induction course / induction day; ในฟิสิกส์แปลว่าการเหนี่ยวนำ",
+      "distractors": [
+        "introduction",
+        "deduction",
+        "production"
+      ]
+    },
+    {
+      "id": "human_resources",
+      "word": "human resources",
+      "pos": "phrase",
+      "ipa": "/ˌhjuːmən rɪˈsɔːrsɪz/",
+      "reading_th": "ฮิว-เมิน รี-ซอร์ส-เซส",
+      "meaning_th": "ฝ่ายทรัพยากรบุคคล",
+      "emoji": "🧑‍💼",
+      "example_en": "Contact human resources if you want to change your address.",
+      "example_th": "ติดต่อฝ่ายบุคคลหากต้องการเปลี่ยนที่อยู่",
+      "cefr": "B1",
+      "note_th": "ย่อว่า HR — คนไทยเรียก \"ฝ่ายบุคคล\" ดูแลสมัครงาน เงินเดือน ลา และสวัสดิการ; the HR department ใช้ได้เลย",
+      "distractors": [
+        "natural resources",
+        "human rights",
+        "public relations"
+      ]
+    },
+    {
+      "id": "appoint",
+      "word": "appoint",
+      "pos": "verb",
+      "ipa": "/əˈpɔɪnt/",
+      "reading_th": "อะ-พอยท์",
+      "meaning_th": "แต่งตั้ง",
+      "emoji": "🏅",
+      "example_en": "The board will appoint a new CEO next month.",
+      "example_th": "คณะกรรมการจะแต่งตั้งซีอีโอคนใหม่เดือนหน้า",
+      "cefr": "B2",
+      "note_th": "appoint someone as / to a position — อย่าสับสนกับ appointment ที่แปลว่านัดหมายในชีวิตประจำวัน ทั้งที่มาจากรากเดียวกัน",
+      "distractors": [
+        "appointment",
+        "point",
+        "apply"
+      ]
+    },
+    {
+      "id": "brochure",
+      "word": "brochure",
+      "pos": "noun",
+      "ipa": "/broʊˈʃʊr/",
+      "reading_th": "โบร-ชัวร์",
+      "meaning_th": "แผ่นพับ / โบรชัวร์",
+      "emoji": "📘",
+      "example_en": "Pick up a brochure about our new tour packages.",
+      "example_th": "หยิบแผ่นพับแพ็กเกจทัวร์ใหม่ของเราได้เลย",
+      "cefr": "A2",
+      "note_th": "brochure = แผ่นพับหลายหน้าพิมพ์สวยๆ (โรงแรม ทัวร์ มหาวิทยาลัย) ส่วน flyer = ใบปลิวแผ่นเดียว — คำนี้ Part 7 ออกแทบทุกชุด",
+      "distractors": [
+        "brooch",
+        "broker",
+        "pamphlet"
+      ]
+    },
+    {
+      "id": "flyer",
+      "word": "flyer",
+      "pos": "noun",
+      "ipa": "/ˈflaɪər/",
+      "reading_th": "ฟลาย-เออร์",
+      "meaning_th": "ใบปลิว",
+      "emoji": "📄",
+      "example_en": "Someone put a flyer for a gym on my car.",
+      "example_th": "มีคนเอาใบปลิวฟิตเนสมาเสียบไว้ที่รถฉัน",
+      "cefr": "A2",
+      "note_th": "flyer = ใบปลิวแผ่นเดียวแจกตามถนน — สะกด flier ก็ได้; ส่วน frequent flyer คือสมาชิกสะสมไมล์ของสายการบิน",
+      "distractors": [
+        "flier",
+        "fryer",
+        "flight"
+      ]
+    },
+    {
+      "id": "newsletter",
+      "word": "newsletter",
+      "pos": "noun",
+      "ipa": "/ˈnuːzletər/",
+      "reading_th": "นิวส์-เล็ท-เทอร์",
+      "meaning_th": "จดหมายข่าว",
+      "emoji": "📰",
+      "example_en": "Subscribe to our newsletter for monthly updates.",
+      "example_th": "สมัครรับจดหมายข่าวเพื่อรับข่าวสารรายเดือน",
+      "cefr": "B1",
+      "note_th": "newsletter = จดหมายข่าวที่บริษัทส่งให้สมาชิกเป็นประจำ ปัจจุบันเป็นอีเมลเกือบหมด — Part 7 ชอบให้อ่าน company newsletter",
+      "distractors": [
+        "newspaper",
+        "letter",
+        "news feed"
+      ]
+    },
+    {
+      "id": "promotional",
+      "word": "promotional",
+      "pos": "adjective",
+      "ipa": "/prəˈmoʊʃənl/",
+      "reading_th": "โพร-โม-ชัน-เนิล",
+      "meaning_th": "เชิงส่งเสริมการขาย",
+      "emoji": "🏷️",
+      "example_en": "Use the promotional code to get twenty percent off.",
+      "example_th": "ใช้โค้ดโปรโมชันเพื่อรับส่วนลดยี่สิบเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "promotional code / promotional offer / promotional materials (ของแจกติดโลโก้) — คำคุณศัพท์ของ promotion ที่ Part 7 ใช้ในโฆษณา",
+      "distractors": [
+        "professional",
+        "provisional",
+        "emotional"
+      ]
+    },
+    {
+      "id": "eligible",
+      "word": "eligible",
+      "pos": "adjective",
+      "ipa": "/ˈelɪdʒəbl/",
+      "reading_th": "เอ-ลิ-จิ-เบิล",
+      "meaning_th": "มีสิทธิ์(ตามเกณฑ์)",
+      "emoji": "🎟️",
+      "example_en": "Only full-time staff are eligible for the bonus.",
+      "example_th": "เฉพาะพนักงานประจำเท่านั้นที่มีสิทธิ์รับโบนัส",
+      "cefr": "B2",
+      "note_th": "eligible for + สิ่งที่ได้ / eligible to + กริยา — อย่าสับสนกับ illegible = อ่านไม่ออก; eligibility ออก Part 5 บ่อย",
+      "distractors": [
+        "illegible",
+        "legible",
+        "eligibility"
+      ]
+    },
+    {
+      "id": "redeem",
+      "word": "redeem",
+      "pos": "verb",
+      "ipa": "/rɪˈdiːm/",
+      "reading_th": "ริ-ดีม",
+      "meaning_th": "แลก(คูปอง/คะแนน)เป็นของ",
+      "emoji": "🎟️",
+      "example_en": "You can redeem this voucher at any branch until June.",
+      "example_th": "คุณแลกคูปองนี้ได้ที่ทุกสาขาจนถึงเดือนมิถุนายน",
+      "cefr": "B2",
+      "note_th": "redeem a voucher / points = แลกใช้สิทธิ์ — เงื่อนไขโฆษณาใน Part 7 มักเขียน redeemable at participating stores; คำนาม redemption",
+      "distractors": [
+        "redo",
+        "reduce",
+        "deem"
+      ]
+    },
+    {
+      "id": "grand_opening",
+      "word": "grand opening",
+      "pos": "phrase",
+      "ipa": "/ɡrænd ˈoʊpənɪŋ/",
+      "reading_th": "แกรนด์ โอ-เพน-นิ่ง",
+      "meaning_th": "งานเปิดร้าน/สาขาใหม่",
+      "emoji": "🎉",
+      "example_en": "The grand opening of our new branch is on Saturday.",
+      "example_th": "งานเปิดสาขาใหม่ของเราคือวันเสาร์",
+      "cefr": "A2",
+      "note_th": "grand opening = วันเปิดร้านอย่างเป็นทางการ มักแจกของ ลดราคา — Part 4 โฆษณาวิทยุชอบใช้ และ grand prize = รางวัลใหญ่",
+      "distractors": [
+        "grand prize",
+        "opening hours",
+        "open house"
+      ]
+    },
+    {
+      "id": "limited",
+      "word": "limited",
+      "pos": "adjective",
+      "ipa": "/ˈlɪmɪtɪd/",
+      "reading_th": "ลิ-มิ-เท็ด",
+      "meaning_th": "จำกัด(จำนวน/เวลา)",
+      "emoji": "⏱️",
+      "example_en": "Seats are limited, so book early.",
+      "example_th": "ที่นั่งมีจำกัด จองแต่เนิ่นๆ",
+      "cefr": "A2",
+      "note_th": "for a limited time only = ช่วงเวลาจำกัด, limited edition = รุ่นผลิตจำนวนจำกัด — Ltd. ท้ายชื่อบริษัทก็ย่อจาก Limited",
+      "distractors": [
+        "limit",
+        "unlimited",
+        "limitation"
+      ]
+    },
+    {
+      "id": "notify",
+      "word": "notify",
+      "pos": "verb",
+      "ipa": "/ˈnoʊtɪfaɪ/",
+      "reading_th": "โน-ทิ-ฟาย",
+      "meaning_th": "แจ้งให้ทราบ",
+      "emoji": "📣",
+      "example_en": "We will notify winners by email next week.",
+      "example_th": "เราจะแจ้งผู้ชนะทางอีเมลสัปดาห์หน้า",
+      "cefr": "B1",
+      "note_th": "notify someone of something = แจ้งใครเรื่องอะไร ทางการกว่า tell — คำนาม notification ก็คือการแจ้งเตือนบนมือถือนั่นเอง",
+      "distractors": [
+        "note",
+        "modify",
+        "nullify"
+      ]
+    },
+    {
+      "id": "publicity",
+      "word": "publicity",
+      "pos": "noun",
+      "ipa": "/pʌˈblɪsəti/",
+      "reading_th": "พับ-ลิ-ซิ-ที",
+      "meaning_th": "การประชาสัมพันธ์ / การเป็นข่าว",
+      "emoji": "📡",
+      "example_en": "The charity run got a lot of publicity.",
+      "example_th": "งานวิ่งการกุศลได้รับการประชาสัมพันธ์อย่างมาก",
+      "cefr": "B2",
+      "note_th": "publicity = การทำให้เป็นที่รู้จัก/เป็นข่าว (ฟรีหรือไม่ก็ได้) ส่วน advertising = ซื้อสื่อ — bad publicity = ข่าวเสีย",
+      "distractors": [
+        "public",
+        "publish",
+        "popularity"
+      ]
+    },
+    {
+      "id": "trade_show",
+      "word": "trade show",
+      "pos": "phrase",
+      "ipa": "/treɪd ʃoʊ/",
+      "reading_th": "เทรด โชว์",
+      "meaning_th": "งานแสดงสินค้า",
+      "emoji": "🏟️",
+      "example_en": "We will have a booth at the trade show in Hong Kong.",
+      "example_th": "เราจะมีบูธที่งานแสดงสินค้าในฮ่องกง",
+      "cefr": "B1",
+      "note_th": "trade show = งานที่บริษัทออกบูธโชว์สินค้าให้ลูกค้าธุรกิจ (booth = บูธ) — อังกฤษเรียก trade fair; ออก Part 3 และ 7 บ่อย",
+      "distractors": [
+        "trade fair",
+        "talk show",
+        "showroom"
+      ]
+    },
+    {
+      "id": "billboard",
+      "word": "billboard",
+      "pos": "noun",
+      "ipa": "/ˈbɪlbɔːrd/",
+      "reading_th": "บิล-บอร์ด",
+      "meaning_th": "ป้ายโฆษณาขนาดใหญ่",
+      "emoji": "🪧",
+      "example_en": "A huge billboard for the new phone stands by the highway.",
+      "example_th": "ป้ายโฆษณาโทรศัพท์รุ่นใหม่ขนาดใหญ่ตั้งอยู่ริมทางด่วน",
+      "cefr": "B1",
+      "note_th": "billboard = ป้ายโฆษณายักษ์ริมถนน (อังกฤษเรียก hoarding) — คนไทยพูด \"บิลบอร์ด\" อยู่แล้ว; Part 1 รูปถนนมักมี billboard",
+      "distractors": [
+        "bulletin board",
+        "blackboard",
+        "bill"
+      ]
+    },
+    {
+      "id": "attention",
+      "word": "attention",
+      "pos": "noun",
+      "ipa": "/əˈtenʃn/",
+      "reading_th": "แอท-เทน-ชั่น",
+      "meaning_th": "ความสนใจ / โปรดทราบ",
+      "emoji": "👀",
+      "example_en": "Attention shoppers, the store closes in ten minutes.",
+      "example_th": "ลูกค้าโปรดทราบ ร้านจะปิดในอีกสิบนาที",
+      "cefr": "A2",
+      "note_th": "Attention, passengers... = คำเปิดประกาศใน Part 4 — บนซองจดหมาย Attn: ชื่อ = ส่งถึงคนนี้โดยเฉพาะ",
+      "distractors": [
+        "intention",
+        "attendance",
+        "tension"
+      ]
+    },
+    {
+      "id": "unveil",
+      "word": "unveil",
+      "pos": "verb",
+      "ipa": "/ʌnˈveɪl/",
+      "reading_th": "อัน-เวล",
+      "meaning_th": "เผยโฉม / เปิดตัวครั้งแรก",
+      "emoji": "🎭",
+      "example_en": "The company will unveil its new phone on Tuesday.",
+      "example_th": "บริษัทจะเปิดตัวโทรศัพท์รุ่นใหม่วันอังคาร",
+      "cefr": "B2",
+      "note_th": "unveil ภาพคือ \"เปิดผ้าคลุม\" ใช้กับการเปิดตัวสินค้า แผน รูปปั้น — ข่าวธุรกิจใช้แทน launch เพื่อให้ดูน่าตื่นเต้น",
+      "distractors": [
+        "veil",
+        "unfold",
+        "reveal"
+      ]
+    }
+  ]
+}

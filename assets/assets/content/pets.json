@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "pets",
+    "name_en": "Pets & Animals",
+    "name_th": "สัตว์เลี้ยงและสัตว์",
+    "emoji": "🐶",
+    "color_start": "#FCD34D",
+    "color_end": "#B45309",
+    "description_th": "เลี้ยงหมาแมว พาไปหาหมอ ศัพท์สัตว์เลี้ยง สัตว์ป่า และสัตว์ในฟาร์มที่ควรรู้",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "pets_1",
+        "title_en": "Dogs & Cats",
+        "title_th": "หมาแมวที่บ้าน",
+        "emoji": "🐕",
+        "word_ids": [
+          "pet",
+          "puppy",
+          "kitten",
+          "paw",
+          "tail",
+          "fur",
+          "leash",
+          "walk_the_dog",
+          "bark",
+          "meow",
+          "purr",
+          "wag",
+          "fetch",
+          "stray"
+        ]
+      },
+      {
+        "id": "pets_2",
+        "title_en": "Pet Care & Vet",
+        "title_th": "ดูแลและพาไปหาหมอ",
+        "emoji": "🩺",
+        "word_ids": [
+          "vet",
+          "vaccinate",
+          "neuter",
+          "flea",
+          "tick",
+          "claw",
+          "litter_box",
+          "kibble",
+          "adopt",
+          "foster",
+          "microchip",
+          "cage",
+          "bathe",
+          "scratch"
+        ]
+      },
+      {
+        "id": "pets_3",
+        "title_en": "Small Pets & Birds",
+        "title_th": "สัตว์ตัวเล็ก ปลา และนก",
+        "emoji": "🐹",
+        "word_ids": [
+          "hamster",
+          "rabbit",
+          "guinea_pig",
+          "turtle",
+          "goldfish",
+          "aquarium",
+          "tank",
+          "parrot",
+          "budgie",
+          "feather",
+          "beak",
+          "wing",
+          "nest",
+          "hatch"
+        ]
+      },
+      {
+        "id": "pets_4",
+        "title_en": "On the Farm",
+        "title_th": "สัตว์ในฟาร์ม",
+        "emoji": "🐄",
+        "word_ids": [
+          "cow",
+          "pig",
+          "goat",
+          "goose",
+          "buffalo",
+          "duck",
+          "rooster",
+          "hen",
+          "horse",
+          "donkey",
+          "barn",
+          "herd",
+          "livestock",
+          "graze"
+        ]
+      },
+      {
+        "id": "pets_5",
+        "title_en": "Wild Animals & Zoo",
+        "title_th": "สัตว์ป่าและสวนสัตว์",
+        "emoji": "🦁",
+        "word_ids": [
+          "elephant",
+          "tiger",
+          "lion",
+          "monkey",
+          "bear",
+          "deer",
+          "lizard",
+          "crocodile",
+          "giraffe",
+          "zebra",
+          "zoo",
+          "zookeeper",
+          "enclosure",
+          "predator"
+        ]
+      },
+      {
+        "id": "pets_6",
+        "title_en": "Sea Life & Insects",
+        "title_th": "สัตว์ทะเลและแมลง",
+        "emoji": "🐙",
+        "word_ids": [
+          "shark",
+          "whale",
+          "octopus",
+          "squid",
+          "seahorse",
+          "starfish",
+          "ant",
+          "bee",
+          "spider",
+          "cockroach",
+          "caterpillar",
+          "insect",
+          "buzz",
+          "hive"
+        ]
+      },
+      {
+        "id": "pets_7",
+        "title_en": "Behaviour & Sounds",
+        "title_th": "พฤติกรรมและเสียงสัตว์",
+        "emoji": "🐾",
+        "word_ids": [
+          "roar",
+          "growl",
+          "hiss",
+          "chirp",
+          "howl",
+          "hibernate",
+          "migrate",
+          "mammal",
+          "reptile",
+          "prey",
+          "tame",
+          "nocturnal",
+          "instinct",
+          "camouflage"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "pet",
+      "word": "pet",
+      "pos": "noun",
+      "ipa": "/pet/",
+      "reading_th": "เพ็ท",
+      "meaning_th": "สัตว์เลี้ยง",
+      "emoji": "🐾",
+      "example_en": "Do you have a pet at home?",
+      "example_th": "คุณมีสัตว์เลี้ยงที่บ้านไหม",
+      "cefr": "A1",
+      "note_th": "pet เป็นได้ทั้งคำนาม (สัตว์เลี้ยง) และกริยา (ลูบ) — pet owner = เจ้าของสัตว์เลี้ยง, pet-friendly = ที่พักหรือคาเฟ่ที่พาสัตว์เข้าได้",
+      "distractors": [
+        "pat",
+        "pit",
+        "poet"
+      ]
+    },
+    {
+      "id": "puppy",
+      "word": "puppy",
+      "pos": "noun",
+      "ipa": "/ˈpʌpi/",
+      "reading_th": "พัพ-พี่",
+      "meaning_th": "ลูกหมา",
+      "emoji": "🐶",
+      "example_en": "Our puppy chews everything in the house.",
+      "example_th": "ลูกหมาของเรากัดทุกอย่างในบ้าน",
+      "cefr": "A1",
+      "note_th": "ลูกหมา = puppy ลูกแมว = kitten — คนไทยชอบพูด \"baby dog\" ฝรั่งฟังแล้วงง ใช้ puppy เท่านั้น พหูพจน์ puppies",
+      "distractors": [
+        "poppy",
+        "pup",
+        "guppy"
+      ]
+    },
+    {
+      "id": "kitten",
+      "word": "kitten",
+      "pos": "noun",
+      "ipa": "/ˈkɪtn/",
+      "reading_th": "คิท-เท่น",
+      "meaning_th": "ลูกแมว",
+      "emoji": "🐱",
+      "example_en": "The kitten is sleeping in a shoe box.",
+      "example_th": "ลูกแมวกำลังนอนอยู่ในกล่องรองเท้า",
+      "cefr": "A1",
+      "note_th": "kitten = ลูกแมวอายุไม่ถึงหนึ่งปี — ส่วน kitty เป็นคำน่ารักเรียกแมวทั่วไป เหมือน \"น้องเหมียว\"",
+      "distractors": [
+        "kitchen",
+        "mitten",
+        "kite"
+      ]
+    },
+    {
+      "id": "paw",
+      "word": "paw",
+      "pos": "noun",
+      "ipa": "/pɔː/",
+      "reading_th": "พอว์",
+      "meaning_th": "อุ้งเท้า",
+      "emoji": "🐾",
+      "example_en": "The dog gave me his paw to shake.",
+      "example_th": "หมายื่นอุ้งเท้ามาให้ฉันจับ",
+      "cefr": "A2",
+      "note_th": "paw ใช้กับเท้าของสัตว์ที่มีเล็บ เช่น หมา แมว หมี — ไม่ใช้ foot ส่วน hoof คือกีบเท้าของม้าและวัว",
+      "distractors": [
+        "pow",
+        "pour",
+        "crow"
+      ]
+    },
+    {
+      "id": "tail",
+      "word": "tail",
+      "pos": "noun",
+      "ipa": "/teɪl/",
+      "reading_th": "เทล",
+      "meaning_th": "หาง",
+      "emoji": "🦊",
+      "example_en": "The cat swings its tail when it is annoyed.",
+      "example_th": "แมวจะแกว่งหางเวลาหงุดหงิด",
+      "cefr": "A1",
+      "note_th": "tail ออกเสียงเหมือน tale (นิทาน) — สำนวน wag the tail = กระดิกหาง และ tail someone = แอบตามคนอื่น",
+      "distractors": [
+        "tale",
+        "tile",
+        "toll"
+      ]
+    },
+    {
+      "id": "fur",
+      "word": "fur",
+      "pos": "noun",
+      "ipa": "/fɜːr/",
+      "reading_th": "เฟอร์",
+      "meaning_th": "ขนสัตว์",
+      "emoji": "🧶",
+      "example_en": "Her cat has long white fur.",
+      "example_th": "แมวของเธอมีขนยาวสีขาว",
+      "cefr": "A2",
+      "note_th": "ขนสัตว์เลี้ยง = fur ไม่ใช่ hair — ส่วน fur ball คือก้อนขนที่แมวสำรอกออกมา และ furry = ขนปุกปุย",
+      "distractors": [
+        "far",
+        "fir",
+        "feather"
+      ]
+    },
+    {
+      "id": "leash",
+      "word": "leash",
+      "pos": "noun",
+      "ipa": "/liːʃ/",
+      "reading_th": "ลีช",
+      "meaning_th": "สายจูง",
+      "emoji": "🐕‍🦺",
+      "example_en": "Please keep your dog on a leash in the park.",
+      "example_th": "กรุณาใส่สายจูงหมาเวลาอยู่ในสวน",
+      "cefr": "A2",
+      "note_th": "สายจูง = leash (อเมริกัน) หรือ lead (อังกฤษ) — ป้ายสวนสาธารณะมักเขียนว่า Dogs must be on a leash",
+      "distractors": [
+        "lease",
+        "leaf",
+        "lash"
+      ]
+    },
+    {
+      "id": "walk_the_dog",
+      "word": "walk the dog",
+      "pos": "phrase",
+      "ipa": "/wɔːk ðə dɒɡ/",
+      "reading_th": "วอล์ค เดอะ ด็อก",
+      "meaning_th": "พาหมาไปเดินเล่น",
+      "emoji": "🚶",
+      "example_en": "I walk the dog every morning before work.",
+      "example_th": "ฉันพาหมาไปเดินเล่นทุกเช้าก่อนไปทำงาน",
+      "cefr": "A1",
+      "note_th": "walk ในที่นี้เป็นกริยาแปลว่า \"พาไปเดิน\" ไม่ใช่เดินเฉยๆ — take the dog for a walk ก็ใช้ได้เหมือนกัน",
+      "distractors": [
+        "feed the dog",
+        "wash the dog",
+        "ride the dog"
+      ]
+    },
+    {
+      "id": "bark",
+      "word": "bark",
+      "pos": "verb",
+      "ipa": "/bɑːrk/",
+      "reading_th": "บาร์ค",
+      "meaning_th": "เห่า",
+      "emoji": "🔊",
+      "example_en": "Why does your dog bark at every stranger?",
+      "example_th": "ทำไมหมาของคุณเห่าคนแปลกหน้าทุกคนเลย",
+      "cefr": "A2",
+      "note_th": "bark ยังแปลว่าเปลือกไม้ได้ด้วย — สำนวน His bark is worse than his bite = ปากร้ายแต่ใจไม่ร้าย",
+      "distractors": [
+        "back",
+        "park",
+        "bake"
+      ]
+    },
+    {
+      "id": "meow",
+      "word": "meow",
+      "pos": "verb",
+      "ipa": "/miˈaʊ/",
+      "reading_th": "มี-เยา",
+      "meaning_th": "ร้องเหมียว",
+      "emoji": "🐈",
+      "example_en": "The cat will meow at the door when it is hungry.",
+      "example_th": "แมวจะร้องเหมียวที่ประตูเวลาหิว",
+      "cefr": "A1",
+      "note_th": "ภาษาอังกฤษแมวร้อง meow ไม่ใช่ \"เหมียว\" — เป็นได้ทั้งกริยาและคำนาม และใช้เป็นคำน่ารักแทนแมวในโซเชียล",
+      "distractors": [
+        "meal",
+        "mow",
+        "mellow"
+      ]
+    },
+    {
+      "id": "purr",
+      "word": "purr",
+      "pos": "verb",
+      "ipa": "/pɜːr/",
+      "reading_th": "เพอร์",
+      "meaning_th": "ครางกรนแบบแมว",
+      "emoji": "😽",
+      "example_en": "My cat starts to purr whenever I pet her.",
+      "example_th": "แมวฉันเริ่มครางกรนทุกครั้งที่ฉันลูบ",
+      "cefr": "B1",
+      "note_th": "purr = เสียงครืดๆ ในคอเวลาแมวมีความสุข — คนไทยไม่มีคำนี้ตรงๆ จึงมักพูดว่า \"แมวมีความสุข\" เฉยๆ",
+      "distractors": [
+        "pure",
+        "pour",
+        "per"
+      ]
+    },
+    {
+      "id": "wag",
+      "word": "wag",
+      "pos": "verb",
+      "ipa": "/wæɡ/",
+      "reading_th": "แว็ก",
+      "meaning_th": "กระดิก (หาง)",
+      "emoji": "🐕",
+      "example_en": "Dogs wag their tails when they see their owners.",
+      "example_th": "หมาจะกระดิกหางเวลาเห็นเจ้าของ",
+      "cefr": "A2",
+      "note_th": "wag ใช้คู่กับ tail เสมอ — the tail wags = หางกระดิก แต่ถ้าแมวแกว่งหางหมายถึงรำคาญ ใช้ swish หรือ flick",
+      "distractors": [
+        "wax",
+        "way",
+        "wage"
+      ]
+    },
+    {
+      "id": "fetch",
+      "word": "fetch",
+      "pos": "verb",
+      "ipa": "/fetʃ/",
+      "reading_th": "เฟ็ทช์",
+      "meaning_th": "คาบของกลับมา",
+      "emoji": "🎾",
+      "example_en": "My dog loves to fetch the ball in the garden.",
+      "example_th": "หมาของฉันชอบวิ่งไปคาบลูกบอลกลับมาในสวน",
+      "cefr": "A2",
+      "note_th": "fetch = ไปเอาของแล้วนำกลับมา ใช้ทั้งกับหมาและคน (Can you fetch me a glass?) — play fetch = เล่นโยนของให้หมาคาบ",
+      "distractors": [
+        "catch",
+        "fresh",
+        "fence"
+      ]
+    },
+    {
+      "id": "stray",
+      "word": "stray",
+      "pos": "adjective",
+      "ipa": "/streɪ/",
+      "reading_th": "สเตรย์",
+      "meaning_th": "จรจัด",
+      "emoji": "🐕",
+      "example_en": "There is a stray dog sleeping near our gate.",
+      "example_th": "มีหมาจรจัดนอนอยู่ใกล้ประตูบ้านเรา",
+      "cefr": "B1",
+      "note_th": "stray dog / stray cat = หมาแมวจรจัด เรียกสั้นๆ ว่า a stray ก็ได้ — ส่วน soi dog เป็นคำไทยที่ฝรั่งในไทยเข้าใจ",
+      "distractors": [
+        "straight",
+        "stay",
+        "string"
+      ]
+    },
+    {
+      "id": "vet",
+      "word": "vet",
+      "pos": "noun",
+      "ipa": "/vet/",
+      "reading_th": "เว็ท",
+      "meaning_th": "สัตวแพทย์",
+      "emoji": "👩‍⚕️",
+      "example_en": "We need to take the cat to the vet today.",
+      "example_th": "วันนี้เราต้องพาแมวไปหาสัตวแพทย์",
+      "cefr": "A2",
+      "note_th": "vet ย่อจาก veterinarian ใช้ในชีวิตจริงมากกว่าคำเต็ม — คลินิกสัตว์ = vet clinic ส่วน vet ที่เป็นกริยาแปลว่าตรวจสอบประวัติ",
+      "distractors": [
+        "bet",
+        "wet",
+        "vest"
+      ]
+    },
+    {
+      "id": "vaccinate",
+      "word": "vaccinate",
+      "pos": "verb",
+      "ipa": "/ˈvæksɪneɪt/",
+      "reading_th": "แว็ค-ซิ-เนท",
+      "meaning_th": "ฉีดวัคซีน",
+      "emoji": "💉",
+      "example_en": "You should vaccinate your puppy against rabies.",
+      "example_th": "คุณควรฉีดวัคซีนพิษสุนัขบ้าให้ลูกหมา",
+      "cefr": "B1",
+      "note_th": "vaccinate + against + ชื่อโรค — rabies = พิษสุนัขบ้า, vaccination record = สมุดวัคซีนที่ต้องใช้ตอนพาสัตว์เดินทาง",
+      "distractors": [
+        "vacate",
+        "validate",
+        "fascinate"
+      ]
+    },
+    {
+      "id": "neuter",
+      "word": "neuter",
+      "pos": "verb",
+      "ipa": "/ˈnuːtər/",
+      "reading_th": "นิว-เทอร์",
+      "meaning_th": "ทำหมัน (สัตว์)",
+      "emoji": "✂️",
+      "example_en": "The shelter will neuter every dog before adoption.",
+      "example_th": "ศูนย์พักพิงจะทำหมันหมาทุกตัวก่อนให้รับเลี้ยง",
+      "cefr": "B2",
+      "note_th": "neuter ใช้ได้ทั้งตัวผู้และตัวเมีย ส่วน spay ใช้กับตัวเมีย — ป้ายรณรงค์มักเขียน spay and neuter your pets",
+      "distractors": [
+        "neutral",
+        "nurture",
+        "mutter"
+      ]
+    },
+    {
+      "id": "flea",
+      "word": "flea",
+      "pos": "noun",
+      "ipa": "/fliː/",
+      "reading_th": "ฟลี",
+      "meaning_th": "หมัด",
+      "emoji": "🦟",
+      "example_en": "My dog keeps scratching because of a flea problem.",
+      "example_th": "หมาฉันเกาตลอดเพราะมีปัญหาหมัด",
+      "cefr": "B1",
+      "note_th": "flea ออกเสียงเหมือน flee (หนี) — flea collar = ปลอกคอกันหมัด และ flea market = ตลาดนัดของมือสอง ไม่เกี่ยวกับหมัด",
+      "distractors": [
+        "flee",
+        "flea market",
+        "fly"
+      ]
+    },
+    {
+      "id": "tick",
+      "word": "tick",
+      "pos": "noun",
+      "ipa": "/tɪk/",
+      "reading_th": "ทิค",
+      "meaning_th": "เห็บ",
+      "emoji": "🪲",
+      "example_en": "Check your dog for a tick after walking in tall grass.",
+      "example_th": "ตรวจหาเห็บบนตัวหมาหลังเดินในหญ้าสูง",
+      "cefr": "B1",
+      "note_th": "tick ยังแปลว่าเครื่องหมายถูก ✓ และเสียงนาฬิกาเดินได้ด้วย — tick-borne disease = โรคที่เห็บนำมา",
+      "distractors": [
+        "tip",
+        "thick",
+        "trick"
+      ]
+    },
+    {
+      "id": "claw",
+      "word": "claw",
+      "pos": "noun",
+      "ipa": "/klɔː/",
+      "reading_th": "คลอว์",
+      "meaning_th": "เล็บ (สัตว์)",
+      "emoji": "🐾",
+      "example_en": "Trim the claw tips before the cat scratches the furniture.",
+      "example_th": "ตัดปลายเล็บก่อนที่แมวจะข่วนเฟอร์นิเจอร์",
+      "cefr": "B1",
+      "note_th": "เล็บสัตว์ = claw เล็บคน = nail — nail clippers for pets = กรรไกรตัดเล็บสัตว์ และ claw ยังหมายถึงก้ามปูได้",
+      "distractors": [
+        "clown",
+        "crawl",
+        "clue"
+      ]
+    },
+    {
+      "id": "litter_box",
+      "word": "litter box",
+      "pos": "noun",
+      "ipa": "/ˈlɪtər bɒks/",
+      "reading_th": "ลิท-เทอร์ บ็อกซ์",
+      "meaning_th": "กระบะทราย (แมว)",
+      "emoji": "📦",
+      "example_en": "Clean the litter box every day or the cat will complain.",
+      "example_th": "ทำความสะอาดกระบะทรายแมวทุกวัน ไม่งั้นแมวจะงอแง",
+      "cefr": "B1",
+      "note_th": "litter ในที่นี้คือทรายแมว ไม่ใช่ขยะ — cat litter = ทรายแมว, litter ยังหมายถึงลูกสัตว์ครอกเดียวกันได้ด้วย",
+      "distractors": [
+        "lunch box",
+        "letter box",
+        "litter bin"
+      ]
+    },
+    {
+      "id": "kibble",
+      "word": "kibble",
+      "pos": "noun",
+      "ipa": "/ˈkɪbl/",
+      "reading_th": "คิบ-เบิ้ล",
+      "meaning_th": "อาหารเม็ด",
+      "emoji": "🥣",
+      "example_en": "Our vet said to mix wet food with a little kibble.",
+      "example_th": "สัตวแพทย์บอกให้ผสมอาหารเปียกกับอาหารเม็ดนิดหน่อย",
+      "cefr": "B2",
+      "note_th": "kibble = อาหารเม็ดแห้ง ตรงข้ามกับ wet food (อาหารเปียก) — ในไทยมักพูดรวมว่า dog food / cat food ก็เข้าใจ",
+      "distractors": [
+        "nibble",
+        "kettle",
+        "cable"
+      ]
+    },
+    {
+      "id": "adopt",
+      "word": "adopt",
+      "pos": "verb",
+      "ipa": "/əˈdɒpt/",
+      "reading_th": "อะ-ด็อพท์",
+      "meaning_th": "รับเลี้ยง",
+      "emoji": "🏡",
+      "example_en": "We decided to adopt a cat instead of buying one.",
+      "example_th": "เราตัดสินใจรับเลี้ยงแมวแทนการซื้อ",
+      "cefr": "B1",
+      "note_th": "Adopt, don't shop! = สโลแกนรณรงค์รับเลี้ยงแทนซื้อ — adopt ยังใช้กับการรับเด็กเป็นบุตรบุญธรรมและการนำวิธีใหม่มาใช้",
+      "distractors": [
+        "adapt",
+        "adept",
+        "accept"
+      ]
+    },
+    {
+      "id": "foster",
+      "word": "foster",
+      "pos": "verb",
+      "ipa": "/ˈfɔːstər/",
+      "reading_th": "ฟอส-เตอร์",
+      "meaning_th": "รับดูแลชั่วคราว (สัตว์)",
+      "emoji": "🏡",
+      "example_en": "We foster kittens until they are ready for a new home.",
+      "example_th": "เรารับดูแลลูกแมวชั่วคราวจนกว่าจะพร้อมไปบ้านใหม่",
+      "cefr": "B2",
+      "note_th": "foster = ดูแลชั่วคราวก่อนมีคนรับเลี้ยงถาวร (adopt) — foster home / foster parent ใช้กับเด็กได้ด้วย",
+      "distractors": [
+        "faster",
+        "poster",
+        "roster"
+      ]
+    },
+    {
+      "id": "microchip",
+      "word": "microchip",
+      "pos": "noun",
+      "ipa": "/ˈmaɪkroʊtʃɪp/",
+      "reading_th": "ไม-โคร-ชิพ",
+      "meaning_th": "ไมโครชิป",
+      "emoji": "📡",
+      "example_en": "A microchip helps the vet find a lost dog's owner.",
+      "example_th": "ไมโครชิปช่วยให้สัตวแพทย์หาเจ้าของหมาที่หายเจอ",
+      "cefr": "B2",
+      "note_th": "ไมโครชิปฝังใต้ผิวหนังสัตว์ ใช้เป็นกริยาได้ get your dog microchipped — จำเป็นเวลาพาสัตว์ขึ้นเครื่องบินไปต่างประเทศ",
+      "distractors": [
+        "microphone",
+        "microwave",
+        "chip"
+      ]
+    },
+    {
+      "id": "cage",
+      "word": "cage",
+      "pos": "noun",
+      "ipa": "/keɪdʒ/",
+      "reading_th": "เคจ",
+      "meaning_th": "กรง",
+      "emoji": "🪤",
+      "example_en": "The bird does not like staying in its cage all day.",
+      "example_th": "นกไม่ชอบอยู่ในกรงทั้งวัน",
+      "cefr": "A2",
+      "note_th": "cage = กรงซี่ลูกกรง ส่วน crate = กรงพลาสติกสำหรับขนส่งหมาแมว และ tank = ตู้ปลา — cage-free eggs = ไข่ไก่ไม่ขังกรง",
+      "distractors": [
+        "cake",
+        "cave",
+        "page"
+      ]
+    },
+    {
+      "id": "bathe",
+      "word": "bathe",
+      "pos": "verb",
+      "ipa": "/beɪð/",
+      "reading_th": "เบธ",
+      "meaning_th": "อาบน้ำให้",
+      "emoji": "🛁",
+      "example_en": "How often should I bathe a short-haired dog?",
+      "example_th": "ฉันควรอาบน้ำให้หมาขนสั้นบ่อยแค่ไหน",
+      "cefr": "B1",
+      "note_th": "bathe (กริยา) ออกเสียง \"เบธ\" ส่วน bath (คำนาม) ออกเสียง \"บาธ\" — give the dog a bath ก็พูดได้ ง่ายกว่า",
+      "distractors": [
+        "bath",
+        "breathe",
+        "bake"
+      ]
+    },
+    {
+      "id": "scratch",
+      "word": "scratch",
+      "pos": "verb",
+      "ipa": "/skrætʃ/",
+      "reading_th": "สแกรทช์",
+      "meaning_th": "ข่วน / เกา",
+      "emoji": "🙀",
+      "example_en": "Cats scratch the sofa to sharpen their claws.",
+      "example_th": "แมวข่วนโซฟาเพื่อลับเล็บ",
+      "cefr": "A2",
+      "note_th": "scratch = ข่วน (แมว) หรือเกา (คน) — scratching post = เสาลับเล็บ, start from scratch = เริ่มจากศูนย์",
+      "distractors": [
+        "stretch",
+        "snatch",
+        "sketch"
+      ]
+    },
+    {
+      "id": "hamster",
+      "word": "hamster",
+      "pos": "noun",
+      "ipa": "/ˈhæmstər/",
+      "reading_th": "แฮม-สเตอร์",
+      "meaning_th": "แฮมสเตอร์",
+      "emoji": "🐹",
+      "example_en": "My hamster runs on its wheel all night.",
+      "example_th": "แฮมสเตอร์ของฉันวิ่งบนล้อทั้งคืน",
+      "cefr": "A1",
+      "note_th": "hamster สะกดด้วย -ster ไม่ใช่ -star — hamster wheel = ล้อแฮมสเตอร์ ใช้เปรียบเทียบชีวิตที่วิ่งวนไม่ไปไหน",
+      "distractors": [
+        "hammer",
+        "monster",
+        "lobster"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "word": "rabbit",
+      "pos": "noun",
+      "ipa": "/ˈræbɪt/",
+      "reading_th": "แร็บ-บิท",
+      "meaning_th": "กระต่าย",
+      "emoji": "🐰",
+      "example_en": "A rabbit needs fresh hay every single day.",
+      "example_th": "กระต่ายต้องกินหญ้าแห้งสดใหม่ทุกวัน",
+      "cefr": "A1",
+      "note_th": "rabbit ใช้ทั่วไป ส่วน bunny เป็นคำน่ารักสำหรับเด็ก — pet rabbit = กระต่ายเลี้ยง และ rabbit hole = หลุมที่ทำให้หลงไปไกล",
+      "distractors": [
+        "rabbi",
+        "robot",
+        "ribbon"
+      ]
+    },
+    {
+      "id": "guinea_pig",
+      "word": "guinea pig",
+      "pos": "noun",
+      "ipa": "/ˈɡɪni pɪɡ/",
+      "reading_th": "กิ-นี่ พิก",
+      "meaning_th": "หนูตะเภา",
+      "emoji": "🐹",
+      "example_en": "A guinea pig squeaks loudly when it wants food.",
+      "example_th": "หนูตะเภาจะร้องเสียงดังเวลาอยากกินอาหาร",
+      "cefr": "B1",
+      "note_th": "ไม่ใช่หมู (pig) และไม่ได้มาจากกินี — สำนวน be a guinea pig = เป็นหนูทดลอง เช่น ถูกให้ลองของใหม่ก่อนใคร",
+      "distractors": [
+        "guinea fowl",
+        "pig",
+        "gerbil"
+      ]
+    },
+    {
+      "id": "turtle",
+      "word": "turtle",
+      "pos": "noun",
+      "ipa": "/ˈtɜːrtl/",
+      "reading_th": "เทอร์-เทิ่ล",
+      "meaning_th": "เต่า",
+      "emoji": "🐢",
+      "example_en": "My little brother keeps a turtle in a plastic tub.",
+      "example_th": "น้องชายฉันเลี้ยงเต่าไว้ในกะละมังพลาสติก",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียกเต่าทุกชนิดว่า turtle ส่วนอังกฤษแยก tortoise = เต่าบก — เต่าบกเลี้ยงที่บ้านได้นานหลายสิบปี",
+      "distractors": [
+        "tortoise",
+        "turkey",
+        "title"
+      ]
+    },
+    {
+      "id": "goldfish",
+      "word": "goldfish",
+      "pos": "noun",
+      "ipa": "/ˈɡoʊldfɪʃ/",
+      "reading_th": "โกลด์-ฟิช",
+      "meaning_th": "ปลาทอง",
+      "emoji": "🐠",
+      "example_en": "A goldfish can actually live for more than ten years.",
+      "example_th": "ปลาทองสามารถมีชีวิตอยู่ได้มากกว่าสิบปีจริงๆ",
+      "cefr": "A2",
+      "note_th": "goldfish เป็นคำเดียว พหูพจน์ก็ goldfish — goldfish memory = ความจำสั้น (ความเชื่อที่ไม่จริง)",
+      "distractors": [
+        "golden",
+        "catfish",
+        "shellfish"
+      ]
+    },
+    {
+      "id": "aquarium",
+      "word": "aquarium",
+      "pos": "noun",
+      "ipa": "/əˈkweriəm/",
+      "reading_th": "อะ-แคว-เรียม",
+      "meaning_th": "พิพิธภัณฑ์สัตว์น้ำ",
+      "emoji": "🐟",
+      "example_en": "The aquarium in Bangkok has a walk-through shark tunnel.",
+      "example_th": "อควาเรียมที่กรุงเทพมีอุโมงค์ฉลามให้เดินผ่าน",
+      "cefr": "B1",
+      "note_th": "aquarium ใช้ได้ทั้งพิพิธภัณฑ์สัตว์น้ำใหญ่ๆ และตู้ปลาที่บ้าน — ตู้ปลาเล็กๆ นิยมเรียก fish tank มากกว่า",
+      "distractors": [
+        "stadium",
+        "auditorium",
+        "aquatic"
+      ]
+    },
+    {
+      "id": "tank",
+      "word": "tank",
+      "pos": "noun",
+      "ipa": "/tæŋk/",
+      "reading_th": "แท็งค์",
+      "meaning_th": "ตู้ปลา / ถัง",
+      "emoji": "🫙",
+      "example_en": "Change the water in the fish tank once a week.",
+      "example_th": "เปลี่ยนน้ำในตู้ปลาสัปดาห์ละครั้ง",
+      "cefr": "A2",
+      "note_th": "fish tank = ตู้ปลา, water tank = แท็งก์น้ำ, tank ในสงครามคือรถถัง — tank top = เสื้อกล้าม ไม่เกี่ยวกับปลาเลย",
+      "distractors": [
+        "thank",
+        "tent",
+        "bank"
+      ]
+    },
+    {
+      "id": "parrot",
+      "word": "parrot",
+      "pos": "noun",
+      "ipa": "/ˈpærət/",
+      "reading_th": "แพ-เริท",
+      "meaning_th": "นกแก้ว",
+      "emoji": "🦜",
+      "example_en": "Our parrot can say hello in two languages.",
+      "example_th": "นกแก้วของเราพูดสวัสดีได้สองภาษา",
+      "cefr": "A2",
+      "note_th": "parrot ใช้เป็นกริยาได้ด้วย แปลว่าพูดตามโดยไม่เข้าใจ — parrot-fashion = ท่องจำแบบนกแก้วนกขุนทอง",
+      "distractors": [
+        "carrot",
+        "patriot",
+        "pirate"
+      ]
+    },
+    {
+      "id": "budgie",
+      "word": "budgie",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒi/",
+      "reading_th": "บัด-จี้",
+      "meaning_th": "นกหงส์หยก",
+      "emoji": "🐦",
+      "example_en": "A budgie is a cheap and friendly first bird.",
+      "example_th": "นกหงส์หยกเป็นนกตัวแรกที่ราคาถูกและเป็นมิตร",
+      "cefr": "B2",
+      "note_th": "budgie ย่อจาก budgerigar ใช้ในอังกฤษและออสเตรเลีย ส่วนอเมริกันเรียก parakeet — นกที่หัดพูดได้ง่ายและเลี้ยงกันทั่วโลก",
+      "distractors": [
+        "buddy",
+        "badge",
+        "budget"
+      ]
+    },
+    {
+      "id": "feather",
+      "word": "feather",
+      "pos": "noun",
+      "ipa": "/ˈfeðər/",
+      "reading_th": "เฟ-เธอร์",
+      "meaning_th": "ขนนก",
+      "emoji": "🪶",
+      "example_en": "I found a blue feather under the bird cage.",
+      "example_th": "ฉันเจอขนนกสีฟ้าใต้กรงนก",
+      "cefr": "A2",
+      "note_th": "ขนนก = feather ขนสัตว์ = fur ขนคน = hair — Birds of a feather flock together = คนแบบเดียวกันมักคบกัน",
+      "distractors": [
+        "father",
+        "leather",
+        "weather"
+      ]
+    },
+    {
+      "id": "beak",
+      "word": "beak",
+      "pos": "noun",
+      "ipa": "/biːk/",
+      "reading_th": "บีค",
+      "meaning_th": "จะงอยปาก",
+      "emoji": "🦜",
+      "example_en": "The parrot cracks seeds with its strong beak.",
+      "example_th": "นกแก้วใช้จะงอยปากที่แข็งแรงกะเทาะเมล็ด",
+      "cefr": "B1",
+      "note_th": "beak ใช้กับปากนกทุกชนิด ส่วน bill ใช้กับปากเป็ดแบนๆ — อย่าพูดว่า bird mouth",
+      "distractors": [
+        "beat",
+        "bake",
+        "peak"
+      ]
+    },
+    {
+      "id": "wing",
+      "word": "wing",
+      "pos": "noun",
+      "ipa": "/wɪŋ/",
+      "reading_th": "วิง",
+      "meaning_th": "ปีก",
+      "emoji": "🪽",
+      "example_en": "The bird hurt its wing and could not fly.",
+      "example_th": "นกบาดเจ็บที่ปีกเลยบินไม่ได้",
+      "cefr": "A1",
+      "note_th": "wing ใช้ได้ทั้งปีกนก ปีกเครื่องบิน และปีกไก่ทอด (chicken wings) — take someone under your wing = ดูแลคนใหม่",
+      "distractors": [
+        "ring",
+        "wind",
+        "swing"
+      ]
+    },
+    {
+      "id": "nest",
+      "word": "nest",
+      "pos": "noun",
+      "ipa": "/nest/",
+      "reading_th": "เนสท์",
+      "meaning_th": "รัง",
+      "emoji": "🪺",
+      "example_en": "A sparrow built a nest above our front door.",
+      "example_th": "นกกระจอกทำรังไว้เหนือประตูหน้าบ้านเรา",
+      "cefr": "A2",
+      "note_th": "รังนก = nest, รังผึ้ง = hive, รังมด = ant nest — สำนวน empty nest = บ้านที่ลูกโตและย้ายออกหมดแล้ว",
+      "distractors": [
+        "next",
+        "net",
+        "nestle"
+      ]
+    },
+    {
+      "id": "hatch",
+      "word": "hatch",
+      "pos": "verb",
+      "ipa": "/hætʃ/",
+      "reading_th": "แฮทช์",
+      "meaning_th": "ฟักออกจากไข่",
+      "emoji": "🐣",
+      "example_en": "The chicks will hatch in about three weeks.",
+      "example_th": "ลูกเจี๊ยบจะฟักออกจากไข่ในราวสามสัปดาห์",
+      "cefr": "B1",
+      "note_th": "hatch = ฟัก (ไข่แตกออกเป็นตัว) — Don't count your chickens before they hatch = อย่าดีใจก่อนสำเร็จ",
+      "distractors": [
+        "hat",
+        "catch",
+        "match"
+      ]
+    },
+    {
+      "id": "cow",
+      "word": "cow",
+      "pos": "noun",
+      "ipa": "/kaʊ/",
+      "reading_th": "คาว",
+      "meaning_th": "วัว",
+      "emoji": "🐄",
+      "example_en": "A cow can drink up to a hundred liters of water a day.",
+      "example_th": "วัวตัวหนึ่งดื่มน้ำได้ถึงร้อยลิตรต่อวัน",
+      "cefr": "A1",
+      "note_th": "cow = วัวตัวเมีย, bull = วัวตัวผู้, cattle = ฝูงวัว (ไม่เติม s) — เนื้อวัวในจานเรียก beef ไม่ใช่ cow",
+      "distractors": [
+        "crow",
+        "cop",
+        "calf"
+      ]
+    },
+    {
+      "id": "pig",
+      "word": "pig",
+      "pos": "noun",
+      "ipa": "/pɪɡ/",
+      "reading_th": "พิก",
+      "meaning_th": "หมู",
+      "emoji": "🐷",
+      "example_en": "The pig rolls in the mud to stay cool.",
+      "example_th": "หมูกลิ้งในโคลนเพื่อให้ตัวเย็น",
+      "cefr": "A1",
+      "note_th": "หมูที่มีชีวิต = pig เนื้อหมู = pork — piggy bank = กระปุกออมสิน, pig out = กินเยอะจนพุงกาง",
+      "distractors": [
+        "big",
+        "peg",
+        "pie"
+      ]
+    },
+    {
+      "id": "goat",
+      "word": "goat",
+      "pos": "noun",
+      "ipa": "/ɡoʊt/",
+      "reading_th": "โกท",
+      "meaning_th": "แพะ",
+      "emoji": "🐐",
+      "example_en": "A goat will eat almost anything, even cardboard.",
+      "example_th": "แพะกินได้แทบทุกอย่าง แม้แต่กระดาษลัง",
+      "cefr": "A2",
+      "note_th": "goat กับ sheep ต่างกัน: แพะมีเขาและหนวด แกะมีขนปุย — ในโซเชียล GOAT = Greatest Of All Time ยอดเยี่ยมที่สุดตลอดกาล",
+      "distractors": [
+        "boat",
+        "coat",
+        "ghost"
+      ]
+    },
+    {
+      "id": "goose",
+      "word": "goose",
+      "pos": "noun",
+      "ipa": "/ɡuːs/",
+      "reading_th": "กูส",
+      "meaning_th": "ห่าน",
+      "emoji": "🪿",
+      "example_en": "A goose can be more aggressive than a guard dog.",
+      "example_th": "ห่านอาจดุกว่าหมาเฝ้าบ้านเสียอีก",
+      "cefr": "A2",
+      "note_th": "พหูพจน์ geese (ไม่ใช่ gooses) — goose bumps = ขนลุก, wild goose chase = ไล่ตามสิ่งที่ไม่มีทางได้",
+      "distractors": [
+        "geese",
+        "goat",
+        "moose"
+      ]
+    },
+    {
+      "id": "buffalo",
+      "word": "buffalo",
+      "pos": "noun",
+      "ipa": "/ˈbʌfəloʊ/",
+      "reading_th": "บัฟ-ฟะ-โล",
+      "meaning_th": "ควาย",
+      "emoji": "🐃",
+      "example_en": "The water buffalo pulls the plough through the rice field.",
+      "example_th": "ควายลากคันไถไปในนาข้าว",
+      "cefr": "A2",
+      "note_th": "ควายไทย = water buffalo — คำว่า buffalo ที่ใช้ด่าในภาษาไทยไม่มีความหมายแบบนั้นในอังกฤษ ฝรั่งจะงง",
+      "distractors": [
+        "bull",
+        "bison",
+        "balloon"
+      ]
+    },
+    {
+      "id": "duck",
+      "word": "duck",
+      "pos": "noun",
+      "ipa": "/dʌk/",
+      "reading_th": "ดัค",
+      "meaning_th": "เป็ด",
+      "emoji": "🦆",
+      "example_en": "A duck family crossed the road near the temple.",
+      "example_th": "ครอบครัวเป็ดเดินข้ามถนนใกล้วัด",
+      "cefr": "A1",
+      "note_th": "duck ยังเป็นกริยาแปลว่าก้มหลบ — duckling = ลูกเป็ด, sitting duck = เป้านิ่งที่โดนโจมตีได้ง่าย",
+      "distractors": [
+        "dock",
+        "deck",
+        "luck"
+      ]
+    },
+    {
+      "id": "rooster",
+      "word": "rooster",
+      "pos": "noun",
+      "ipa": "/ˈruːstər/",
+      "reading_th": "รูส-เตอร์",
+      "meaning_th": "ไก่ตัวผู้",
+      "emoji": "🐓",
+      "example_en": "The rooster crows before the sun comes up.",
+      "example_th": "ไก่ตัวผู้ขันก่อนพระอาทิตย์ขึ้น",
+      "cefr": "A2",
+      "note_th": "rooster (อเมริกัน) = cock (อังกฤษ) = ไก่ตัวผู้ — ปีระกาในภาษาจีน-อังกฤษใช้ Year of the Rooster",
+      "distractors": [
+        "roaster",
+        "router",
+        "booster"
+      ]
+    },
+    {
+      "id": "hen",
+      "word": "hen",
+      "pos": "noun",
+      "ipa": "/hen/",
+      "reading_th": "เฮ็น",
+      "meaning_th": "แม่ไก่",
+      "emoji": "🐔",
+      "example_en": "A hen lays about one egg every day.",
+      "example_th": "แม่ไก่ออกไข่วันละประมาณหนึ่งฟอง",
+      "cefr": "A2",
+      "note_th": "hen = ไก่ตัวเมีย, chicken = ไก่ทั่วไปและเนื้อไก่ — hen party (อังกฤษ) = ปาร์ตี้สละโสดฝ่ายหญิง",
+      "distractors": [
+        "hem",
+        "pen",
+        "hence"
+      ]
+    },
+    {
+      "id": "horse",
+      "word": "horse",
+      "pos": "noun",
+      "ipa": "/hɔːrs/",
+      "reading_th": "ฮอร์ส",
+      "meaning_th": "ม้า",
+      "emoji": "🐎",
+      "example_en": "She learned to ride a horse at the age of six.",
+      "example_th": "เธอหัดขี่ม้าตอนอายุหกขวบ",
+      "cefr": "A1",
+      "note_th": "horse ออกเสียงเหมือน hoarse (เสียงแหบ) — horseback riding = ขี่ม้า, hold your horses = ใจเย็นๆ ก่อน",
+      "distractors": [
+        "house",
+        "hose",
+        "hoarse"
+      ]
+    },
+    {
+      "id": "donkey",
+      "word": "donkey",
+      "pos": "noun",
+      "ipa": "/ˈdɒŋki/",
+      "reading_th": "ด็อง-คี่",
+      "meaning_th": "ลา",
+      "emoji": "🫏",
+      "example_en": "The donkey carried our bags up the mountain path.",
+      "example_th": "ลาแบกกระเป๋าของเราขึ้นทางเขา",
+      "cefr": "A2",
+      "note_th": "donkey ขี้ดื้อในวัฒนธรรมตะวันตก — donkey work = งานหนักน่าเบื่อ, donkey's years = นานมากๆ",
+      "distractors": [
+        "monkey",
+        "turkey",
+        "dinky"
+      ]
+    },
+    {
+      "id": "barn",
+      "word": "barn",
+      "pos": "noun",
+      "ipa": "/bɑːrn/",
+      "reading_th": "บาร์น",
+      "meaning_th": "โรงนา / คอกสัตว์",
+      "emoji": "🏚️",
+      "example_en": "The horses sleep in the barn when it rains.",
+      "example_th": "ม้านอนในโรงนาเวลาฝนตก",
+      "cefr": "B1",
+      "note_th": "barn = อาคารใหญ่ในฟาร์มไว้เก็บฟางและเลี้ยงสัตว์ — Were you born in a barn? = ปิดประตูหน่อยสิ (ประชด)",
+      "distractors": [
+        "born",
+        "bar",
+        "burn"
+      ]
+    },
+    {
+      "id": "herd",
+      "word": "herd",
+      "pos": "noun",
+      "ipa": "/hɜːrd/",
+      "reading_th": "เฮิร์ด",
+      "meaning_th": "ฝูง (สัตว์ใหญ่)",
+      "emoji": "🐘",
+      "example_en": "A herd of elephants walked slowly across the road.",
+      "example_th": "ช้างฝูงหนึ่งเดินช้าๆ ข้ามถนน",
+      "cefr": "B1",
+      "note_th": "herd ใช้กับฝูงวัว ช้าง แกะ ส่วนฝูงนก = flock, ฝูงปลา = school — herd ออกเสียงเหมือน heard",
+      "distractors": [
+        "heard",
+        "hard",
+        "bird"
+      ]
+    },
+    {
+      "id": "livestock",
+      "word": "livestock",
+      "pos": "noun",
+      "ipa": "/ˈlaɪvstɒk/",
+      "reading_th": "ไลฟ์-สต็อก",
+      "meaning_th": "ปศุสัตว์",
+      "emoji": "🐂",
+      "example_en": "Farmers in Isan raise livestock as well as rice.",
+      "example_th": "ชาวนาในอีสานเลี้ยงปศุสัตว์ควบคู่กับปลูกข้าว",
+      "cefr": "B2",
+      "note_th": "livestock = สัตว์ที่เลี้ยงเพื่อผลผลิตโดยรวม ไม่เติม s — Department of Livestock Development = กรมปศุสัตว์",
+      "distractors": [
+        "life stock",
+        "stockpile",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "graze",
+      "word": "graze",
+      "pos": "verb",
+      "ipa": "/ɡreɪz/",
+      "reading_th": "เกรซ",
+      "meaning_th": "กินหญ้า (ในทุ่ง)",
+      "emoji": "🌾",
+      "example_en": "Cows graze in the field from dawn until dusk.",
+      "example_th": "วัวกินหญ้าในทุ่งตั้งแต่เช้าจรดค่ำ",
+      "cefr": "B2",
+      "note_th": "graze = สัตว์เดินเล็มหญ้ากิน — ใช้กับคนได้ด้วยแปลว่ากินจุบจิบทั้งวัน และยังแปลว่าถลอกได้",
+      "distractors": [
+        "grace",
+        "gaze",
+        "glaze"
+      ]
+    },
+    {
+      "id": "elephant",
+      "word": "elephant",
+      "pos": "noun",
+      "ipa": "/ˈelɪfənt/",
+      "reading_th": "เอ-ละ-เฟินท์",
+      "meaning_th": "ช้าง",
+      "emoji": "🐘",
+      "example_en": "The elephant is the national animal of Thailand.",
+      "example_th": "ช้างคือสัตว์ประจำชาติของไทย",
+      "cefr": "A1",
+      "note_th": "elephant ขึ้นต้นด้วยสระ จึงใช้ an elephant — the elephant in the room = ปัญหาใหญ่ที่ทุกคนรู้แต่ไม่มีใครพูดถึง",
+      "distractors": [
+        "elegant",
+        "element",
+        "relevant"
+      ]
+    },
+    {
+      "id": "tiger",
+      "word": "tiger",
+      "pos": "noun",
+      "ipa": "/ˈtaɪɡər/",
+      "reading_th": "ไท-เกอร์",
+      "meaning_th": "เสือ",
+      "emoji": "🐯",
+      "example_en": "A tiger can jump more than five meters in one leap.",
+      "example_th": "เสือกระโดดได้ไกลกว่าห้าเมตรในครั้งเดียว",
+      "cefr": "A1",
+      "note_th": "tiger = เสือโคร่ง ส่วน leopard = เสือดาว, panther = เสือดำ — คำว่า \"เสือ\" ที่ไทยใช้แปลว่าโกหก ใช้กับฝรั่งไม่ได้",
+      "distractors": [
+        "tiler",
+        "tired",
+        "timer"
+      ]
+    },
+    {
+      "id": "lion",
+      "word": "lion",
+      "pos": "noun",
+      "ipa": "/ˈlaɪən/",
+      "reading_th": "ไล-เอิน",
+      "meaning_th": "สิงโต",
+      "emoji": "🦁",
+      "example_en": "The lion sleeps up to twenty hours a day.",
+      "example_th": "สิงโตนอนได้ถึงวันละยี่สิบชั่วโมง",
+      "cefr": "A1",
+      "note_th": "สิงโตตัวเมีย = lioness, ลูกสิงโต = cub — the lion's share = ส่วนแบ่งก้อนใหญ่ที่สุด",
+      "distractors": [
+        "line",
+        "loin",
+        "lean"
+      ]
+    },
+    {
+      "id": "monkey",
+      "word": "monkey",
+      "pos": "noun",
+      "ipa": "/ˈmʌŋki/",
+      "reading_th": "มัง-คี่",
+      "meaning_th": "ลิง",
+      "emoji": "🐒",
+      "example_en": "Do not feed the monkey at the temple.",
+      "example_th": "อย่าให้อาหารลิงที่วัด",
+      "cefr": "A1",
+      "note_th": "monkey มีหาง ส่วน ape (ลิงใหญ่ เช่น กอริลลา ชิมแปนซี) ไม่มีหาง — monkey business = เรื่องซุกซนไม่จริงจัง",
+      "distractors": [
+        "donkey",
+        "money",
+        "monk"
+      ]
+    },
+    {
+      "id": "bear",
+      "word": "bear",
+      "pos": "noun",
+      "ipa": "/ber/",
+      "reading_th": "แบร์",
+      "meaning_th": "หมี",
+      "emoji": "🐻",
+      "example_en": "A bear can smell food from miles away.",
+      "example_th": "หมีได้กลิ่นอาหารจากระยะหลายไมล์",
+      "cefr": "A1",
+      "note_th": "bear ออกเสียงเหมือน bare (เปลือย) — bear ยังเป็นกริยาแปลว่าทน (I can't bear it) ส่วน teddy bear = ตุ๊กตาหมี",
+      "distractors": [
+        "beer",
+        "bare",
+        "bean"
+      ]
+    },
+    {
+      "id": "deer",
+      "word": "deer",
+      "pos": "noun",
+      "ipa": "/dɪr/",
+      "reading_th": "เดียร์",
+      "meaning_th": "กวาง",
+      "emoji": "🦌",
+      "example_en": "We saw a deer drinking from the stream at Khao Yai.",
+      "example_th": "เราเห็นกวางดื่มน้ำจากลำธารที่เขาใหญ่",
+      "cefr": "A2",
+      "note_th": "deer เป็นพหูพจน์ในตัว ไม่เติม s และออกเสียงเหมือน dear — ลูกกวาง = fawn, กวางตัวผู้ = stag",
+      "distractors": [
+        "dear",
+        "door",
+        "beer"
+      ]
+    },
+    {
+      "id": "lizard",
+      "word": "lizard",
+      "pos": "noun",
+      "ipa": "/ˈlɪzərd/",
+      "reading_th": "ลิ-เซิร์ด",
+      "meaning_th": "กิ้งก่า / จิ้งจก",
+      "emoji": "🦎",
+      "example_en": "A lizard on the wall eats the mosquitoes at night.",
+      "example_th": "จิ้งจกบนผนังช่วยกินยุงตอนกลางคืน",
+      "cefr": "A2",
+      "note_th": "จิ้งจกบ้าน = house lizard หรือ gecko (ตุ๊กแก = tokay gecko) — ฝรั่งมาไทยตกใจจิ้งจกบ่อย บอกได้ว่า It is harmless",
+      "distractors": [
+        "wizard",
+        "blizzard",
+        "lizards"
+      ]
+    },
+    {
+      "id": "crocodile",
+      "word": "crocodile",
+      "pos": "noun",
+      "ipa": "/ˈkrɒkədaɪl/",
+      "reading_th": "คร็อค-โค-ไดล์",
+      "meaning_th": "จระเข้",
+      "emoji": "🐊",
+      "example_en": "The crocodile farm shows a feeding show every afternoon.",
+      "example_th": "ฟาร์มจระเข้มีโชว์ให้อาหารทุกบ่าย",
+      "cefr": "A2",
+      "note_th": "crocodile กับ alligator ต่างกันที่ปาก: จระเข้ปากแหลมเห็นฟันล่าง — crocodile tears = น้ำตาจระเข้ แกล้งเศร้า",
+      "distractors": [
+        "alligator",
+        "chocolate",
+        "cocktail"
+      ]
+    },
+    {
+      "id": "giraffe",
+      "word": "giraffe",
+      "pos": "noun",
+      "ipa": "/dʒəˈræf/",
+      "reading_th": "จิ-ราฟ",
+      "meaning_th": "ยีราฟ",
+      "emoji": "🦒",
+      "example_en": "A giraffe has the same number of neck bones as we do.",
+      "example_th": "ยีราฟมีกระดูกคอจำนวนเท่ากับคนเรา",
+      "cefr": "A2",
+      "note_th": "giraffe สะกด ff สองตัว — คำไทย \"ยีราฟ\" ออกเสียงใกล้เคียง แต่ภาษาอังกฤษเน้นพยางค์หลัง จิ-ราฟ",
+      "distractors": [
+        "graph",
+        "gift",
+        "draft"
+      ]
+    },
+    {
+      "id": "zebra",
+      "word": "zebra",
+      "pos": "noun",
+      "ipa": "/ˈziːbrə/",
+      "reading_th": "ซี-บระ",
+      "meaning_th": "ม้าลาย",
+      "emoji": "🦓",
+      "example_en": "Every zebra has a different pattern of stripes.",
+      "example_th": "ม้าลายแต่ละตัวมีลายทางไม่เหมือนกัน",
+      "cefr": "A2",
+      "note_th": "อเมริกันออกเสียง \"ซี-บระ\" อังกฤษออกเสียง \"เซ็บ-ระ\" — zebra crossing = ทางม้าลาย (อังกฤษ)",
+      "distractors": [
+        "zero",
+        "cobra",
+        "zipper"
+      ]
+    },
+    {
+      "id": "zoo",
+      "word": "zoo",
+      "pos": "noun",
+      "ipa": "/zuː/",
+      "reading_th": "ซู",
+      "meaning_th": "สวนสัตว์",
+      "emoji": "🎟️",
+      "example_en": "The kids want to go to the zoo this weekend.",
+      "example_th": "เด็กๆ อยากไปสวนสัตว์สุดสัปดาห์นี้",
+      "cefr": "A1",
+      "note_th": "zoo ย่อจาก zoological garden — open zoo = สวนสัตว์เปิด, petting zoo = สวนสัตว์ที่ให้เด็กสัมผัสสัตว์ได้",
+      "distractors": [
+        "zoom",
+        "zone",
+        "two"
+      ]
+    },
+    {
+      "id": "zookeeper",
+      "word": "zookeeper",
+      "pos": "noun",
+      "ipa": "/ˈzuːkiːpər/",
+      "reading_th": "ซู-คี-เพอร์",
+      "meaning_th": "ผู้ดูแลสัตว์ในสวนสัตว์",
+      "emoji": "👨‍🌾",
+      "example_en": "The zookeeper feeds the penguins at ten in the morning.",
+      "example_th": "ผู้ดูแลให้อาหารเพนกวินตอนสิบโมงเช้า",
+      "cefr": "B1",
+      "note_th": "keeper = ผู้ดูแล: zookeeper, goalkeeper, shopkeeper, housekeeper — เป็นงานที่ต้องเรียนสัตวศาสตร์หรือสัตวแพทย์",
+      "distractors": [
+        "gatekeeper",
+        "beekeeper",
+        "caretaker"
+      ]
+    },
+    {
+      "id": "enclosure",
+      "word": "enclosure",
+      "pos": "noun",
+      "ipa": "/ɪnˈkloʊʒər/",
+      "reading_th": "อิน-โคล-เชอร์",
+      "meaning_th": "คอกสัตว์ (สวนสัตว์)",
+      "emoji": "🏞️",
+      "example_en": "The new tiger enclosure looks like a real forest.",
+      "example_th": "คอกเสือใหม่ดูเหมือนป่าจริงๆ",
+      "cefr": "B2",
+      "note_th": "สวนสัตว์สมัยใหม่ใช้ enclosure แทน cage เพราะเป็นพื้นที่เปิดมีรั้ว — ในอีเมล enclosure แปลว่าเอกสารแนบ",
+      "distractors": [
+        "closure",
+        "exposure",
+        "disclosure"
+      ]
+    },
+    {
+      "id": "predator",
+      "word": "predator",
+      "pos": "noun",
+      "ipa": "/ˈpredətər/",
+      "reading_th": "เพร-ดะ-เทอร์",
+      "meaning_th": "สัตว์นักล่า",
+      "emoji": "🦅",
+      "example_en": "A tiger is the top predator in the Thai jungle.",
+      "example_th": "เสือเป็นนักล่าอันดับสูงสุดในป่าไทย",
+      "cefr": "B1",
+      "note_th": "predator = สัตว์ที่ล่าสัตว์อื่นกิน ตรงข้ามกับ prey (เหยื่อ) — ใช้กับคนในความหมายลบ เช่น online predator",
+      "distractors": [
+        "president",
+        "creditor",
+        "editor"
+      ]
+    },
+    {
+      "id": "shark",
+      "word": "shark",
+      "pos": "noun",
+      "ipa": "/ʃɑːrk/",
+      "reading_th": "ชาร์ค",
+      "meaning_th": "ฉลาม",
+      "emoji": "🦈",
+      "example_en": "A whale shark is harmless and eats only tiny plankton.",
+      "example_th": "ฉลามวาฬไม่เป็นอันตรายและกินแค่แพลงก์ตอนตัวจิ๋ว",
+      "cefr": "A2",
+      "note_th": "shark ยังใช้เรียกคนโกง เช่น loan shark = เจ้าหนี้นอกระบบ — ครีบฉลาม = shark fin เป็นประเด็นอนุรักษ์",
+      "distractors": [
+        "shock",
+        "sharp",
+        "spark"
+      ]
+    },
+    {
+      "id": "whale",
+      "word": "whale",
+      "pos": "noun",
+      "ipa": "/weɪl/",
+      "reading_th": "เวล",
+      "meaning_th": "วาฬ",
+      "emoji": "🐋",
+      "example_en": "A blue whale is the largest animal that has ever lived.",
+      "example_th": "วาฬสีน้ำเงินเป็นสัตว์ที่ใหญ่ที่สุดเท่าที่เคยมี",
+      "cefr": "A2",
+      "note_th": "วาฬเป็นสัตว์เลี้ยงลูกด้วยนม ไม่ใช่ปลา — ภาษาไทยเก่าเรียก \"ปลาวาฬ\" แต่ภาษาอังกฤษไม่พูด whale fish",
+      "distractors": [
+        "wheel",
+        "while",
+        "wall"
+      ]
+    },
+    {
+      "id": "octopus",
+      "word": "octopus",
+      "pos": "noun",
+      "ipa": "/ˈɒktəpəs/",
+      "reading_th": "อ็อค-โท-พัส",
+      "meaning_th": "ปลาหมึกยักษ์",
+      "emoji": "🐙",
+      "example_en": "An octopus has three hearts and blue blood.",
+      "example_th": "ปลาหมึกยักษ์มีหัวใจสามดวงและเลือดสีน้ำเงิน",
+      "cefr": "A2",
+      "note_th": "octo = แปด (แปดหนวด) — พหูพจน์ octopuses ก็ได้ ส่วน squid เป็นปลาหมึกตัวยาวที่เรากินบ่อยกว่า",
+      "distractors": [
+        "octagon",
+        "cactus",
+        "platypus"
+      ]
+    },
+    {
+      "id": "squid",
+      "word": "squid",
+      "pos": "noun",
+      "ipa": "/skwɪd/",
+      "reading_th": "สควิด",
+      "meaning_th": "ปลาหมึก",
+      "emoji": "🦑",
+      "example_en": "Grilled squid with spicy sauce is my favorite street food.",
+      "example_th": "ปลาหมึกย่างกับน้ำจิ้มแซ่บเป็นอาหารข้างทางโปรดของฉัน",
+      "cefr": "A2",
+      "note_th": "ปลาหมึกที่กินทั่วไป = squid ส่วน cuttlefish = หมึกกระดอง — ร้านซีฟู้ดใช้ squid ไม่ใช่ octopus",
+      "distractors": [
+        "squad",
+        "squat",
+        "skid"
+      ]
+    },
+    {
+      "id": "seahorse",
+      "word": "seahorse",
+      "pos": "noun",
+      "ipa": "/ˈsiːhɔːrs/",
+      "reading_th": "ซี-ฮอร์ส",
+      "meaning_th": "ม้าน้ำ",
+      "emoji": "🐴",
+      "example_en": "The male seahorse carries the eggs until they hatch.",
+      "example_th": "ม้าน้ำตัวผู้เป็นฝ่ายอุ้มไข่จนฟัก",
+      "cefr": "B1",
+      "note_th": "seahorse เป็นปลาจริงๆ แม้หน้าเหมือนม้า — เขียนติดกันคำเดียว ภาษาไทยก็แปลตรงตัวว่าม้าน้ำ",
+      "distractors": [
+        "sea lion",
+        "racehorse",
+        "seashore"
+      ]
+    },
+    {
+      "id": "starfish",
+      "word": "starfish",
+      "pos": "noun",
+      "ipa": "/ˈstɑːrfɪʃ/",
+      "reading_th": "สตาร์-ฟิช",
+      "meaning_th": "ปลาดาว",
+      "emoji": "⭐",
+      "example_en": "A starfish can grow back an arm that it loses.",
+      "example_th": "ปลาดาวสามารถงอกแขนที่ขาดไปกลับมาได้",
+      "cefr": "A2",
+      "note_th": "นักวิทยาศาสตร์เรียก sea star เพราะไม่ใช่ปลา — อย่าหยิบปลาดาวขึ้นจากน้ำถ่ายรูป มันตายได้ภายในไม่กี่นาที",
+      "distractors": [
+        "stardust",
+        "swordfish",
+        "shellfish"
+      ]
+    },
+    {
+      "id": "ant",
+      "word": "ant",
+      "pos": "noun",
+      "ipa": "/ænt/",
+      "reading_th": "แอนท์",
+      "meaning_th": "มด",
+      "emoji": "🐜",
+      "example_en": "There is a line of ants marching to the sugar.",
+      "example_th": "มีมดเดินเรียงแถวไปหาน้ำตาล",
+      "cefr": "A1",
+      "note_th": "ant ออกเสียงเหมือน aunt (ป้า) ในอเมริกัน — มดแดงไทย = red ant / weaver ant ไข่มดแดง = ant eggs",
+      "distractors": [
+        "aunt",
+        "and",
+        "art"
+      ]
+    },
+    {
+      "id": "bee",
+      "word": "bee",
+      "pos": "noun",
+      "ipa": "/biː/",
+      "reading_th": "บี",
+      "meaning_th": "ผึ้ง",
+      "emoji": "🐝",
+      "example_en": "A bee visits hundreds of flowers to make a little honey.",
+      "example_th": "ผึ้งตัวหนึ่งบินไปหาดอกไม้หลายร้อยดอกเพื่อทำน้ำผึ้งนิดเดียว",
+      "cefr": "A1",
+      "note_th": "bee = ผึ้ง ส่วน wasp = ต่อ/แตน ตัวเรียวและดุกว่า — busy as a bee = ขยันยุ่งทั้งวัน",
+      "distractors": [
+        "be",
+        "beer",
+        "bean"
+      ]
+    },
+    {
+      "id": "spider",
+      "word": "spider",
+      "pos": "noun",
+      "ipa": "/ˈspaɪdər/",
+      "reading_th": "สไป-เดอร์",
+      "meaning_th": "แมงมุม",
+      "emoji": "🕷️",
+      "example_en": "A big spider lives in the corner of the bathroom.",
+      "example_th": "มีแมงมุมตัวใหญ่อยู่ที่มุมห้องน้ำ",
+      "cefr": "A1",
+      "note_th": "spider ไม่ใช่ insect เพราะมีแปดขา — ใยแมงมุม = spider web หรือ cobweb (ใยเก่าที่มีฝุ่น)",
+      "distractors": [
+        "spade",
+        "slider",
+        "cider"
+      ]
+    },
+    {
+      "id": "cockroach",
+      "word": "cockroach",
+      "pos": "noun",
+      "ipa": "/ˈkɒkroʊtʃ/",
+      "reading_th": "ค็อค-โรช",
+      "meaning_th": "แมลงสาบ",
+      "emoji": "🪳",
+      "example_en": "A cockroach ran across the kitchen floor last night.",
+      "example_th": "เมื่อคืนมีแมลงสาบวิ่งผ่านพื้นครัว",
+      "cefr": "A2",
+      "note_th": "คนอเมริกันพูดสั้นๆ ว่า roach — cockroach spray = ยาฉีดแมลงสาบ ถ้าเป็นแมลงสาบบินอย่าตกใจ เรียก flying cockroach",
+      "distractors": [
+        "coach",
+        "approach",
+        "cocktail"
+      ]
+    },
+    {
+      "id": "caterpillar",
+      "word": "caterpillar",
+      "pos": "noun",
+      "ipa": "/ˈkætərpɪlər/",
+      "reading_th": "แคท-เทอร์-พิล-เลอร์",
+      "meaning_th": "หนอนผีเสื้อ",
+      "emoji": "🐛",
+      "example_en": "A caterpillar eats leaves for weeks before becoming a butterfly.",
+      "example_th": "หนอนผีเสื้อกินใบไม้หลายสัปดาห์ก่อนกลายเป็นผีเสื้อ",
+      "cefr": "B1",
+      "note_th": "caterpillar = หนอนที่จะกลายเป็นผีเสื้อ (ไม่ใช่ worm) — ดักแด้ = cocoon / chrysalis, นิทาน The Very Hungry Caterpillar ดังมาก",
+      "distractors": [
+        "cater",
+        "pillar",
+        "butterfly"
+      ]
+    },
+    {
+      "id": "insect",
+      "word": "insect",
+      "pos": "noun",
+      "ipa": "/ˈɪnsekt/",
+      "reading_th": "อิน-เซ็คท์",
+      "meaning_th": "แมลง",
+      "emoji": "🦗",
+      "example_en": "An insect has six legs and three body parts.",
+      "example_th": "แมลงมีหกขาและลำตัวสามส่วน",
+      "cefr": "A2",
+      "note_th": "insect ใช้ในวิชาวิทยาศาสตร์ ส่วนภาษาพูดใช้ bug — edible insects = แมลงทอด อาหารไทยที่ฝรั่งกล้าลอง",
+      "distractors": [
+        "insert",
+        "inspect",
+        "infect"
+      ]
+    },
+    {
+      "id": "buzz",
+      "word": "buzz",
+      "pos": "verb",
+      "ipa": "/bʌz/",
+      "reading_th": "บัซ",
+      "meaning_th": "ส่งเสียงหึ่งๆ",
+      "emoji": "🐝",
+      "example_en": "Bees buzz around the mango flowers all morning.",
+      "example_th": "ผึ้งบินหึ่งๆ รอบดอกมะม่วงทั้งเช้า",
+      "cefr": "A2",
+      "note_th": "buzz = เสียงหึ่งของผึ้ง ยุง และโทรศัพท์สั่น (my phone buzzed) — buzzword = คำฮิตที่ใครๆ ก็พูด",
+      "distractors": [
+        "bus",
+        "fuzz",
+        "busy"
+      ]
+    },
+    {
+      "id": "hive",
+      "word": "hive",
+      "pos": "noun",
+      "ipa": "/haɪv/",
+      "reading_th": "ไฮฟ์",
+      "meaning_th": "รังผึ้ง",
+      "emoji": "🍯",
+      "example_en": "The farmer keeps a hive at the edge of the orchard.",
+      "example_th": "ชาวสวนเลี้ยงรังผึ้งไว้ริมสวนผลไม้",
+      "cefr": "B1",
+      "note_th": "hive / beehive = รังผึ้ง ส่วน nest ใช้กับนกและต่อ — a hive of activity = ที่ที่ผู้คนขวักไขว่ทำงานกันยุ่ง",
+      "distractors": [
+        "have",
+        "five",
+        "dive"
+      ]
+    },
+    {
+      "id": "roar",
+      "word": "roar",
+      "pos": "verb",
+      "ipa": "/rɔːr/",
+      "reading_th": "รอร์",
+      "meaning_th": "คำราม",
+      "emoji": "🦁",
+      "example_en": "We heard a lion roar across the savanna.",
+      "example_th": "เราได้ยินเสียงสิงโตคำรามข้ามทุ่งหญ้า",
+      "cefr": "B1",
+      "note_th": "roar ใช้กับสิงโต เสือ และเสียงเครื่องยนต์หรือฝูงชน — roar with laughter = หัวเราะลั่น",
+      "distractors": [
+        "row",
+        "rear",
+        "raw"
+      ]
+    },
+    {
+      "id": "growl",
+      "word": "growl",
+      "pos": "verb",
+      "ipa": "/ɡraʊl/",
+      "reading_th": "เกราล์",
+      "meaning_th": "ขู่คำรามในลำคอ",
+      "emoji": "🐕",
+      "example_en": "The dog will growl if you touch its food bowl.",
+      "example_th": "หมาจะขู่ในลำคอถ้าคุณแตะชามข้าวมัน",
+      "cefr": "B1",
+      "note_th": "growl = เสียงต่ำๆ เตือนก่อนกัด ต่างจาก bark ที่เห่าดัง — ท้องร้อง = my stomach is growling",
+      "distractors": [
+        "grow",
+        "howl",
+        "crawl"
+      ]
+    },
+    {
+      "id": "hiss",
+      "word": "hiss",
+      "pos": "verb",
+      "ipa": "/hɪs/",
+      "reading_th": "ฮิส",
+      "meaning_th": "ขู่ฟ่อ",
+      "emoji": "🐍",
+      "example_en": "The cat began to hiss at the strange dog.",
+      "example_th": "แมวเริ่มขู่ฟ่อใส่หมาแปลกหน้า",
+      "cefr": "B1",
+      "note_th": "hiss = เสียง \"ฟ่อ\" ของงูและแมวที่โกรธ — ผู้ชมโห่ฮาก็ใช้ hiss และ hissing sound = เสียงฟู่ของแก๊สรั่ว",
+      "distractors": [
+        "his",
+        "kiss",
+        "miss"
+      ]
+    },
+    {
+      "id": "chirp",
+      "word": "chirp",
+      "pos": "verb",
+      "ipa": "/tʃɜːrp/",
+      "reading_th": "เชิร์พ",
+      "meaning_th": "ร้องจิ๊บๆ",
+      "emoji": "🐦",
+      "example_en": "Birds chirp outside my window every morning.",
+      "example_th": "นกร้องจิ๊บๆ นอกหน้าต่างทุกเช้า",
+      "cefr": "B1",
+      "note_th": "chirp = เสียงนกเล็กและจิ้งหรีด (cricket) — tweet ก็แปลว่านกร้องได้ จึงเป็นที่มาของชื่อ Twitter",
+      "distractors": [
+        "chip",
+        "church",
+        "cheer"
+      ]
+    },
+    {
+      "id": "howl",
+      "word": "howl",
+      "pos": "verb",
+      "ipa": "/haʊl/",
+      "reading_th": "ฮาวล์",
+      "meaning_th": "หอน",
+      "emoji": "🐺",
+      "example_en": "Dogs howl when they hear the ambulance siren.",
+      "example_th": "หมาหอนเวลาได้ยินเสียงไซเรนรถพยาบาล",
+      "cefr": "B1",
+      "note_th": "howl = เสียงหอนยาวของหมาป่าและหมา — ใช้กับลมแรง (the wind howled) และร้องไห้โฮได้ด้วย",
+      "distractors": [
+        "how",
+        "owl",
+        "hole"
+      ]
+    },
+    {
+      "id": "hibernate",
+      "word": "hibernate",
+      "pos": "verb",
+      "ipa": "/ˈhaɪbərneɪt/",
+      "reading_th": "ไฮ-เบอร์-เนท",
+      "meaning_th": "จำศีล",
+      "emoji": "🛌",
+      "example_en": "Bears hibernate through the cold winter months.",
+      "example_th": "หมีจำศีลตลอดช่วงฤดูหนาวที่หนาวเหน็บ",
+      "cefr": "B2",
+      "note_th": "hibernate = หลับยาวช่วงหนาว (hibernation = การจำศีล) — คอมพิวเตอร์โหมด Hibernate ก็มาจากคำนี้",
+      "distractors": [
+        "hesitate",
+        "vibrate",
+        "celebrate"
+      ]
+    },
+    {
+      "id": "migrate",
+      "word": "migrate",
+      "pos": "verb",
+      "ipa": "/ˈmaɪɡreɪt/",
+      "reading_th": "ไม-เกรท",
+      "meaning_th": "อพยพ (ตามฤดู)",
+      "emoji": "🦆",
+      "example_en": "Many birds migrate to Thailand to escape the winter.",
+      "example_th": "นกจำนวนมากอพยพมาไทยเพื่อหนีหนาว",
+      "cefr": "B1",
+      "note_th": "migrate ใช้ได้ทั้งสัตว์และคน (migrant worker = แรงงานข้ามชาติ) — migratory birds = นกอพยพที่มาบึงบอระเพ็ด",
+      "distractors": [
+        "migraine",
+        "mitigate",
+        "imitate"
+      ]
+    },
+    {
+      "id": "mammal",
+      "word": "mammal",
+      "pos": "noun",
+      "ipa": "/ˈmæml/",
+      "reading_th": "แมม-เมิ่ล",
+      "meaning_th": "สัตว์เลี้ยงลูกด้วยนม",
+      "emoji": "🐘",
+      "example_en": "A dolphin is a mammal, not a fish.",
+      "example_th": "โลมาเป็นสัตว์เลี้ยงลูกด้วยนม ไม่ใช่ปลา",
+      "cefr": "B1",
+      "note_th": "mammal = มีขน เลือดอุ่น ให้นมลูก รวมถึงคน วาฬ ค้างคาว — ศัพท์ข้อสอบวิทยาศาสตร์และสารคดี",
+      "distractors": [
+        "manual",
+        "animal",
+        "marble"
+      ]
+    },
+    {
+      "id": "reptile",
+      "word": "reptile",
+      "pos": "noun",
+      "ipa": "/ˈreptaɪl/",
+      "reading_th": "เร็พ-ไทล์",
+      "meaning_th": "สัตว์เลื้อยคลาน",
+      "emoji": "🦎",
+      "example_en": "A reptile needs sunlight to warm its body.",
+      "example_th": "สัตว์เลื้อยคลานต้องการแสงแดดเพื่อให้ร่างกายอุ่น",
+      "cefr": "B1",
+      "note_th": "reptile = งู จิ้งจก เต่า จระเข้ (เลือดเย็น มีเกล็ด) ส่วนกบและคางคก = amphibian",
+      "distractors": [
+        "retail",
+        "textile",
+        "reptilian"
+      ]
+    },
+    {
+      "id": "prey",
+      "word": "prey",
+      "pos": "noun",
+      "ipa": "/preɪ/",
+      "reading_th": "เพรย์",
+      "meaning_th": "เหยื่อ (ของสัตว์นักล่า)",
+      "emoji": "🐭",
+      "example_en": "Owls hunt their prey at night.",
+      "example_th": "นกฮูกล่าเหยื่อตอนกลางคืน",
+      "cefr": "B1",
+      "note_th": "prey ออกเสียงเหมือน pray (สวดมนต์) — prey on = ล่า หรือหลอกเอาเปรียบคนอ่อนแอ (scams prey on the elderly)",
+      "distractors": [
+        "pray",
+        "pretty",
+        "pay"
+      ]
+    },
+    {
+      "id": "tame",
+      "word": "tame",
+      "pos": "adjective",
+      "ipa": "/teɪm/",
+      "reading_th": "เทม",
+      "meaning_th": "เชื่อง",
+      "emoji": "🤲",
+      "example_en": "The deer at the park are so tame that they eat from your hand.",
+      "example_th": "กวางในสวนเชื่องมากจนกินจากมือคุณได้",
+      "cefr": "B1",
+      "note_th": "tame = เชื่อง ตรงข้ามกับ wild — เป็นกริยาได้ด้วย tame a horse = ฝึกม้าให้เชื่อง และ tame ยังแปลว่าจืดชืดไม่ตื่นเต้น",
+      "distractors": [
+        "time",
+        "team",
+        "lame"
+      ]
+    },
+    {
+      "id": "nocturnal",
+      "word": "nocturnal",
+      "pos": "adjective",
+      "ipa": "/nɒkˈtɜːrnl/",
+      "reading_th": "น็อค-เทอร์-เนิ่ล",
+      "meaning_th": "หากินกลางคืน",
+      "emoji": "🦉",
+      "example_en": "Cats are nocturnal, so they play while you sleep.",
+      "example_th": "แมวเป็นสัตว์หากินกลางคืน มันเลยเล่นตอนคุณหลับ",
+      "cefr": "B2",
+      "note_th": "nocturnal animals = ค้างคาว นกฮูก แมว — ใช้แซวเพื่อนที่ตื่นกลางคืนได้ (I'm nocturnal = ฉันเป็นมนุษย์กลางคืน)",
+      "distractors": [
+        "natural",
+        "eternal",
+        "internal"
+      ]
+    },
+    {
+      "id": "instinct",
+      "word": "instinct",
+      "pos": "noun",
+      "ipa": "/ˈɪnstɪŋkt/",
+      "reading_th": "อิน-สติงค์",
+      "meaning_th": "สัญชาตญาณ",
+      "emoji": "🧬",
+      "example_en": "A cat hunts by instinct even when it is well fed.",
+      "example_th": "แมวล่าตามสัญชาตญาณแม้จะกินอิ่มแล้ว",
+      "cefr": "B2",
+      "note_th": "instinct = สิ่งที่สัตว์ทำได้โดยไม่ต้องเรียน — by instinct / gut instinct = ลางสังหรณ์ ใช้กับคนได้",
+      "distractors": [
+        "distinct",
+        "extinct",
+        "insect"
+      ]
+    },
+    {
+      "id": "camouflage",
+      "word": "camouflage",
+      "pos": "noun",
+      "ipa": "/ˈkæməflɑːʒ/",
+      "reading_th": "แคม-มะ-ฟลาจ",
+      "meaning_th": "การพรางตัว",
+      "emoji": "🦎",
+      "example_en": "A chameleon uses camouflage to hide from predators.",
+      "example_th": "กิ้งก่าคาเมเลียนใช้การพรางตัวเพื่อซ่อนจากนักล่า",
+      "cefr": "B2",
+      "note_th": "camouflage มาจากภาษาฝรั่งเศส ออกเสียงท้ายว่า \"ฟลาจ\" — ลายทหาร = camouflage pattern หรือเรียกสั้นๆ ว่า camo",
+      "distractors": [
+        "flamingo",
+        "cabbage",
+        "mirage"
+      ]
+    }
+  ]
+}

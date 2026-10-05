@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "ielts_basics",
+    "name_en": "IELTS Basics",
+    "name_th": "IELTS พื้นฐาน",
+    "emoji": "🌐",
+    "color_start": "#2DD4BF",
+    "color_end": "#0D9488",
+    "description_th": "ศัพท์ IELTS ระดับเริ่มต้น การศึกษา สิ่งแวดล้อม เทคโนโลยี สังคม และคำที่ใช้ใน Writing Task",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "title_en": "Education",
+        "title_th": "การศึกษา",
+        "emoji": "🎓",
+        "id": "ielts_basics_1",
+        "word_ids": [
+          "curriculum",
+          "tuition",
+          "academic",
+          "literacy",
+          "assessment",
+          "rote_learning",
+          "discipline",
+          "undergraduate",
+          "postgraduate",
+          "vocational",
+          "peer",
+          "motivate",
+          "distance_learning",
+          "dropout"
+        ]
+      },
+      {
+        "title_en": "Environment & Climate",
+        "title_th": "สิ่งแวดล้อมและภูมิอากาศ",
+        "emoji": "🌍",
+        "id": "ielts_basics_2",
+        "word_ids": [
+          "emission",
+          "carbon_footprint",
+          "renewable",
+          "fossil_fuel",
+          "deforestation",
+          "biodiversity",
+          "sustainable",
+          "degradation",
+          "contaminate",
+          "scarcity",
+          "waste",
+          "preserve",
+          "sea_level",
+          "endangered"
+        ]
+      },
+      {
+        "title_en": "Technology & Society",
+        "title_th": "เทคโนโลยีและสังคม",
+        "emoji": "🤖",
+        "id": "ielts_basics_3",
+        "word_ids": [
+          "digital_divide",
+          "virtual",
+          "advancement",
+          "digital",
+          "anonymity",
+          "surveillance",
+          "dependence",
+          "isolation",
+          "inequality",
+          "accessible",
+          "obsolete",
+          "breakthrough",
+          "misinformation",
+          "face_to_face"
+        ]
+      },
+      {
+        "title_en": "Health & Lifestyle",
+        "title_th": "สุขภาพและวิถีชีวิต",
+        "emoji": "🥗",
+        "id": "ielts_basics_4",
+        "word_ids": [
+          "obesity",
+          "sedentary",
+          "balanced_diet",
+          "longevity",
+          "sleep_deprivation",
+          "life_expectancy",
+          "preventive",
+          "epidemic",
+          "addiction",
+          "consumption",
+          "processed_food",
+          "hygiene",
+          "moderate",
+          "chronic"
+        ]
+      },
+      {
+        "title_en": "Cities & Urban Life",
+        "title_th": "เมืองและชีวิตในเมือง",
+        "emoji": "🏙️",
+        "id": "ielts_basics_5",
+        "word_ids": [
+          "urban",
+          "rural",
+          "infrastructure",
+          "congestion",
+          "overcrowding",
+          "suburb",
+          "public_transport",
+          "housing",
+          "migration",
+          "overpopulation",
+          "cost_of_living",
+          "green_space",
+          "density",
+          "high_rise"
+        ]
+      },
+      {
+        "title_en": "Describing Trends",
+        "title_th": "บรรยายกราฟ Task 1",
+        "emoji": "📈",
+        "id": "ielts_basics_6",
+        "word_ids": [
+          "fluctuate",
+          "steadily",
+          "sharply",
+          "gradually",
+          "plummet",
+          "soar",
+          "remain_stable",
+          "minority",
+          "significant",
+          "nearly",
+          "overtake",
+          "account_for",
+          "respectively",
+          "dip"
+        ]
+      },
+      {
+        "title_en": "Opinion & Argument",
+        "title_th": "ให้ความเห็น Task 2",
+        "emoji": "💬",
+        "id": "ielts_basics_7",
+        "word_ids": [
+          "furthermore",
+          "conversely",
+          "hence",
+          "admittedly",
+          "in_conclusion",
+          "justify",
+          "outweigh",
+          "drawback",
+          "advocate",
+          "controversial",
+          "viewpoint",
+          "credible",
+          "by_and_large",
+          "arguably"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "curriculum",
+      "word": "curriculum",
+      "pos": "noun",
+      "ipa": "/kəˈrɪkjələm/",
+      "reading_th": "เคอ-ริค-คิว-เลิม",
+      "meaning_th": "หลักสูตร",
+      "emoji": "📚",
+      "example_en": "The new curriculum includes coding from primary school.",
+      "example_th": "หลักสูตรใหม่มีวิชาเขียนโค้ดตั้งแต่ประถม",
+      "cefr": "B2",
+      "note_th": "curriculum = หลักสูตรทั้งหมดที่โรงเรียนสอน (พหูพจน์ curricula) — ใน Writing Task 2 เรื่องการศึกษาใช้คำนี้แทน subjects ได้คะแนนคำศัพท์",
+      "distractors": [
+        "syllabus",
+        "circulation",
+        "criteria"
+      ]
+    },
+    {
+      "id": "tuition",
+      "word": "tuition",
+      "pos": "noun",
+      "ipa": "/tuˈɪʃn/",
+      "reading_th": "ทู-อิ-ชั่น",
+      "meaning_th": "ค่าเล่าเรียน",
+      "emoji": "💰",
+      "example_en": "University tuition has doubled in the past ten years.",
+      "example_th": "ค่าเล่าเรียนมหาวิทยาลัยเพิ่มเป็นสองเท่าในสิบปีที่ผ่านมา",
+      "cefr": "B2",
+      "note_th": "tuition fees = ค่าเล่าเรียน (อังกฤษ) ส่วนอเมริกันพูด tuition เฉยๆ — ประเด็นยอดฮิต Task 2: Should university be free?",
+      "distractors": [
+        "tutor",
+        "intuition",
+        "tradition"
+      ]
+    },
+    {
+      "id": "academic",
+      "word": "academic",
+      "pos": "adjective",
+      "ipa": "/ˌækəˈdemɪk/",
+      "reading_th": "แอค-คะ-เด-มิค",
+      "meaning_th": "ทางวิชาการ",
+      "emoji": "🎓",
+      "example_en": "Academic success is not the only goal of education.",
+      "example_th": "ความสำเร็จทางวิชาการไม่ใช่เป้าหมายเดียวของการศึกษา",
+      "cefr": "B1",
+      "note_th": "IELTS Academic = ข้อสอบสำหรับเรียนต่อ — academic performance = ผลการเรียน, academic year = ปีการศึกษา",
+      "distractors": [
+        "academy",
+        "economic",
+        "athletic"
+      ]
+    },
+    {
+      "id": "literacy",
+      "word": "literacy",
+      "pos": "noun",
+      "ipa": "/ˈlɪtərəsi/",
+      "reading_th": "ลิ-เทอ-ระ-ซี",
+      "meaning_th": "การอ่านออกเขียนได้",
+      "emoji": "✍️",
+      "example_en": "The literacy rate in the country is now over 95 percent.",
+      "example_th": "อัตราการรู้หนังสือของประเทศตอนนี้เกิน 95 เปอร์เซ็นต์",
+      "cefr": "B2",
+      "note_th": "literacy rate = อัตราการรู้หนังสือ (ใช้บรรยายกราฟ Task 1) — ปัจจุบันขยายเป็น digital literacy, financial literacy = ความรู้เท่าทันด้านนั้นๆ",
+      "distractors": [
+        "literature",
+        "literally",
+        "legacy"
+      ]
+    },
+    {
+      "id": "assessment",
+      "word": "assessment",
+      "pos": "noun",
+      "ipa": "/əˈsesmənt/",
+      "reading_th": "อะ-เซส-เมนท์",
+      "meaning_th": "การวัดผล(การเรียน)",
+      "emoji": "📝",
+      "example_en": "Continuous assessment is fairer than one final exam.",
+      "example_th": "การวัดผลอย่างต่อเนื่องยุติธรรมกว่าการสอบปลายภาคครั้งเดียว",
+      "cefr": "B2",
+      "note_th": "assessment = การประเมินความรู้/ความสามารถ กริยา assess — เถียงเรื่อง exams vs continuous assessment ใน Task 2 ได้ทั้งสองฝั่ง",
+      "distractors": [
+        "assignment",
+        "assistance",
+        "agreement"
+      ]
+    },
+    {
+      "id": "rote_learning",
+      "word": "rote learning",
+      "pos": "phrase",
+      "ipa": "/roʊt ˈlɜːrnɪŋ/",
+      "reading_th": "โรท เลิร์น-นิ่ง",
+      "meaning_th": "การเรียนแบบท่องจำ",
+      "emoji": "🔁",
+      "example_en": "Rote learning helps with facts but not with creativity.",
+      "example_th": "การท่องจำช่วยเรื่องข้อเท็จจริง แต่ไม่ช่วยเรื่องความคิดสร้างสรรค์",
+      "cefr": "B2",
+      "note_th": "learn by rote = ท่องจำโดยไม่เข้าใจ — ตรงข้ามกับ critical thinking; เป็นคำวิจารณ์ระบบการศึกษาเอเชียที่ Task 2 ชอบถาม",
+      "distractors": [
+        "remote learning",
+        "note-taking",
+        "rota"
+      ]
+    },
+    {
+      "id": "discipline",
+      "word": "discipline",
+      "pos": "noun",
+      "ipa": "/ˈdɪsəplɪn/",
+      "reading_th": "ดิส-ซิ-พลิน",
+      "meaning_th": "วินัย / สาขาวิชา",
+      "emoji": "🧘",
+      "example_en": "Strict discipline in schools is a controversial topic.",
+      "example_th": "วินัยที่เข้มงวดในโรงเรียนเป็นหัวข้อที่ถกเถียงกัน",
+      "cefr": "B2",
+      "note_th": "discipline มีสองความหมายที่ IELTS ใช้: วินัย (self-discipline) และสาขาวิชา (academic discipline) — ออกเสียง c เงียบ",
+      "distractors": [
+        "disciple",
+        "decline",
+        "display"
+      ]
+    },
+    {
+      "id": "undergraduate",
+      "word": "undergraduate",
+      "pos": "noun",
+      "ipa": "/ˌʌndərˈɡrædʒuət/",
+      "reading_th": "อัน-เดอร์-แกรด-จู-เอิท",
+      "meaning_th": "นักศึกษาปริญญาตรี",
+      "emoji": "🧑‍🎓",
+      "example_en": "Many undergraduates work part-time to pay their fees.",
+      "example_th": "นักศึกษาปริญญาตรีหลายคนทำงานพาร์ตไทม์จ่ายค่าเรียน",
+      "cefr": "B2",
+      "note_th": "undergraduate = ยังไม่จบตรี ส่วน graduate = จบแล้ว — อย่าแปลว่า \"ต่ำกว่าบัณฑิต\"; ใช้เป็นคำคุณศัพท์ได้: undergraduate degree",
+      "distractors": [
+        "graduate",
+        "underground",
+        "undertake"
+      ]
+    },
+    {
+      "id": "postgraduate",
+      "word": "postgraduate",
+      "pos": "noun",
+      "ipa": "/ˌpoʊstˈɡrædʒuət/",
+      "reading_th": "โพสต์-แกรด-จู-เอิท",
+      "meaning_th": "นักศึกษาระดับสูงกว่าปริญญาตรี",
+      "emoji": "🎓",
+      "example_en": "She is a postgraduate studying environmental law.",
+      "example_th": "เธอเป็นนักศึกษาปริญญาโทสาขากฎหมายสิ่งแวดล้อม",
+      "cefr": "B2",
+      "note_th": "postgraduate (อังกฤษ) = graduate student (อเมริกัน) = เรียนโท/เอก — postgraduate study / a postgraduate degree",
+      "distractors": [
+        "postage",
+        "undergraduate",
+        "postpone"
+      ]
+    },
+    {
+      "id": "vocational",
+      "word": "vocational",
+      "pos": "adjective",
+      "ipa": "/voʊˈkeɪʃənl/",
+      "reading_th": "โว-เค-ชัน-เนิล",
+      "meaning_th": "สายอาชีพ",
+      "emoji": "🔧",
+      "example_en": "Vocational training prepares students for real jobs.",
+      "example_th": "การฝึกอบรมสายอาชีพเตรียมนักเรียนให้พร้อมทำงานจริง",
+      "cefr": "B2",
+      "note_th": "vocational = เกี่ยวกับอาชีพ (ปวช./ปวส. = vocational college) — Task 2 คลาสสิก: university vs vocational training อะไรมีค่ากว่า",
+      "distractors": [
+        "vacation",
+        "vocal",
+        "national"
+      ]
+    },
+    {
+      "id": "peer",
+      "word": "peer",
+      "pos": "noun",
+      "ipa": "/pɪr/",
+      "reading_th": "เพียร์",
+      "meaning_th": "เพื่อนรุ่นเดียวกัน / คนระดับเดียวกัน",
+      "emoji": "🧑‍🤝‍🧑",
+      "example_en": "Teenagers are strongly influenced by their peers.",
+      "example_th": "วัยรุ่นได้รับอิทธิพลจากเพื่อนรุ่นเดียวกันอย่างมาก",
+      "cefr": "B2",
+      "note_th": "peer pressure = แรงกดดันจากเพื่อน, peer review = ให้เพื่อนตรวจงาน — ออกเสียงเหมือน pier (ท่าเรือ) แต่คนละคำ",
+      "distractors": [
+        "pier",
+        "pair",
+        "pear"
+      ]
+    },
+    {
+      "id": "motivate",
+      "word": "motivate",
+      "pos": "verb",
+      "ipa": "/ˈmoʊtɪveɪt/",
+      "reading_th": "โม-ทิ-เวท",
+      "meaning_th": "สร้างแรงจูงใจ",
+      "emoji": "🔥",
+      "example_en": "Good teachers motivate students to learn on their own.",
+      "example_th": "ครูที่ดีสร้างแรงจูงใจให้นักเรียนเรียนรู้ด้วยตัวเอง",
+      "cefr": "B1",
+      "note_th": "motivate someone to do something — คุณศัพท์ motivated = มีแรงจูงใจ, motivational speaker = นักพูดสร้างแรงบันดาลใจ",
+      "distractors": [
+        "meditate",
+        "motion",
+        "cultivate"
+      ]
+    },
+    {
+      "id": "distance_learning",
+      "word": "distance learning",
+      "pos": "phrase",
+      "ipa": "/ˈdɪstəns ˈlɜːrnɪŋ/",
+      "reading_th": "ดิส-เทินซ์ เลิร์น-นิ่ง",
+      "meaning_th": "การเรียนทางไกล",
+      "emoji": "💻",
+      "example_en": "Distance learning gives rural students access to top universities.",
+      "example_th": "การเรียนทางไกลเปิดโอกาสให้นักเรียนชนบทเข้าถึงมหาวิทยาลัยชั้นนำ",
+      "cefr": "B1",
+      "note_th": "distance learning = เรียนออนไลน์ไม่ต้องไปสถาบัน (online learning, e-learning) — Task 2 ชอบถามว่าดีกว่าเรียนในห้องไหม",
+      "distractors": [
+        "long distance",
+        "lifelong learning",
+        "distant"
+      ]
+    },
+    {
+      "id": "dropout",
+      "word": "dropout",
+      "pos": "noun",
+      "ipa": "/ˈdrɑːpaʊt/",
+      "reading_th": "ดร็อพ-เอาท์",
+      "meaning_th": "ผู้ออกจากการเรียนกลางคัน",
+      "emoji": "🚪",
+      "example_en": "The dropout rate is highest among poor families.",
+      "example_th": "อัตราออกกลางคันสูงสุดในครอบครัวยากจน",
+      "cefr": "B2",
+      "note_th": "dropout rate = อัตราการออกกลางคัน (กราฟ Task 1) — กริยา drop out of school = เลิกเรียนกลางคัน; Steve Jobs เป็น college dropout ที่ดัง",
+      "distractors": [
+        "drop off",
+        "drought",
+        "checkout"
+      ]
+    },
+    {
+      "id": "emission",
+      "word": "emission",
+      "pos": "noun",
+      "ipa": "/ɪˈmɪʃn/",
+      "reading_th": "อิ-มิช-ชั่น",
+      "meaning_th": "การปล่อยก๊าซ/มลพิษ",
+      "emoji": "🏭",
+      "example_en": "Carbon emissions from cars must be cut in half.",
+      "example_th": "การปล่อยคาร์บอนจากรถยนต์ต้องลดลงครึ่งหนึ่ง",
+      "cefr": "B2",
+      "note_th": "emissions มักพหูพจน์: greenhouse gas emissions, carbon emissions — กริยา emit = ปล่อยออกมา; คำบังคับของ Task 2 หัวข้อสิ่งแวดล้อม",
+      "distractors": [
+        "admission",
+        "omission",
+        "mission"
+      ]
+    },
+    {
+      "id": "carbon_footprint",
+      "word": "carbon footprint",
+      "pos": "phrase",
+      "ipa": "/ˈkɑːrbən ˈfʊtprɪnt/",
+      "reading_th": "คาร์-บอน ฟุท-พรินท์",
+      "meaning_th": "รอยเท้าคาร์บอน",
+      "emoji": "👣",
+      "example_en": "Flying less is one way to reduce your carbon footprint.",
+      "example_th": "การบินให้น้อยลงเป็นวิธีหนึ่งในการลดรอยเท้าคาร์บอน",
+      "cefr": "B2",
+      "note_th": "carbon footprint = ปริมาณคาร์บอนที่กิจกรรมของเราปล่อย — reduce / shrink your carbon footprint; carbon neutral = ปล่อยสุทธิเป็นศูนย์",
+      "distractors": [
+        "carbon copy",
+        "footstep",
+        "fingerprint"
+      ]
+    },
+    {
+      "id": "renewable",
+      "word": "renewable",
+      "pos": "adjective",
+      "ipa": "/rɪˈnuːəbl/",
+      "reading_th": "ริ-นิว-อะ-เบิล",
+      "meaning_th": "หมุนเวียนได้(พลังงาน)",
+      "emoji": "☀️",
+      "example_en": "Solar and wind are renewable sources of energy.",
+      "example_th": "แสงอาทิตย์และลมเป็นแหล่งพลังงานหมุนเวียน",
+      "cefr": "B1",
+      "note_th": "renewable energy = พลังงานที่ใช้แล้วไม่หมด ตรงข้าม fossil fuels — ใช้เป็นคำนามได้: invest in renewables",
+      "distractors": [
+        "reusable",
+        "removable",
+        "reliable"
+      ]
+    },
+    {
+      "id": "fossil_fuel",
+      "word": "fossil fuel",
+      "pos": "phrase",
+      "ipa": "/ˈfɑːsl ˈfjuːəl/",
+      "reading_th": "ฟอส-ซิล ฟิว-เอิล",
+      "meaning_th": "เชื้อเพลิงฟอสซิล",
+      "emoji": "🛢️",
+      "example_en": "Burning fossil fuels is the main cause of global warming.",
+      "example_th": "การเผาเชื้อเพลิงฟอสซิลเป็นสาเหตุหลักของโลกร้อน",
+      "cefr": "B1",
+      "note_th": "fossil fuels = ถ่านหิน น้ำมัน ก๊าซธรรมชาติ (มักพหูพจน์) — Task 2 ใช้คู่ reliance on fossil fuels = การพึ่งพาเชื้อเพลิงฟอสซิล",
+      "distractors": [
+        "fossil",
+        "biofuel",
+        "solid fuel"
+      ]
+    },
+    {
+      "id": "deforestation",
+      "word": "deforestation",
+      "pos": "noun",
+      "ipa": "/ˌdiːˌfɔːrɪˈsteɪʃn/",
+      "reading_th": "ดี-ฟอ-เรส-เท-ชั่น",
+      "meaning_th": "การตัดไม้ทำลายป่า",
+      "emoji": "🪓",
+      "example_en": "Deforestation destroys the homes of thousands of species.",
+      "example_th": "การตัดไม้ทำลายป่าทำลายบ้านของสัตว์หลายพันชนิด",
+      "cefr": "B2",
+      "note_th": "de- + forest = เอาป่าออก; ตรงข้าม reforestation = ปลูกป่าคืน — ใช้ได้ทั้งเป็นสาเหตุ (cause) และผลกระทบ (effect) ในเรียงความ",
+      "distractors": [
+        "reforestation",
+        "destination",
+        "demonstration"
+      ]
+    },
+    {
+      "id": "biodiversity",
+      "word": "biodiversity",
+      "pos": "noun",
+      "ipa": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+      "reading_th": "ไบ-โอ-ได-เวอร์-ซิ-ที",
+      "meaning_th": "ความหลากหลายทางชีวภาพ",
+      "emoji": "🦋",
+      "example_en": "Coral reefs support an enormous amount of biodiversity.",
+      "example_th": "แนวปะการังเป็นที่พึ่งของความหลากหลายทางชีวภาพมหาศาล",
+      "cefr": "B2",
+      "note_th": "bio (ชีวิต) + diversity (ความหลากหลาย) — loss of biodiversity = การสูญเสียความหลากหลายฯ เป็นวลีสำเร็จรูปที่ใช้ได้เลย",
+      "distractors": [
+        "biology",
+        "diversity",
+        "biography"
+      ]
+    },
+    {
+      "id": "sustainable",
+      "word": "sustainable",
+      "pos": "adjective",
+      "ipa": "/səˈsteɪnəbl/",
+      "reading_th": "ซัส-เทน-นะ-เบิล",
+      "meaning_th": "ยั่งยืน",
+      "emoji": "♻️",
+      "example_en": "Cities need sustainable transport such as electric buses.",
+      "example_th": "เมืองต้องการการขนส่งที่ยั่งยืน เช่น รถเมล์ไฟฟ้า",
+      "cefr": "B2",
+      "note_th": "sustainable development = การพัฒนาที่ยั่งยืน (SDGs ของ UN) — คำนาม sustainability; ใช้ได้กับเศรษฐกิจ เกษตร แฟชั่น",
+      "distractors": [
+        "suitable",
+        "stainless",
+        "substantial"
+      ]
+    },
+    {
+      "id": "degradation",
+      "word": "degradation",
+      "pos": "noun",
+      "ipa": "/ˌdeɡrəˈdeɪʃn/",
+      "reading_th": "เดก-กระ-เด-ชั่น",
+      "meaning_th": "ความเสื่อมโทรม(ของสิ่งแวดล้อม)",
+      "emoji": "🏜️",
+      "example_en": "Environmental degradation threatens food supplies.",
+      "example_th": "ความเสื่อมโทรมของสิ่งแวดล้อมคุกคามแหล่งอาหาร",
+      "cefr": "B2",
+      "note_th": "environmental degradation / soil degradation = สภาพแย่ลงเรื่อยๆ — คำระดับ Band 7 ที่แทน damage ได้ กริยา degrade",
+      "distractors": [
+        "graduation",
+        "dedication",
+        "decoration"
+      ]
+    },
+    {
+      "id": "contaminate",
+      "word": "contaminate",
+      "pos": "verb",
+      "ipa": "/kənˈtæmɪneɪt/",
+      "reading_th": "คัน-แทม-มิ-เนท",
+      "meaning_th": "ปนเปื้อน",
+      "emoji": "☣️",
+      "example_en": "Chemicals from the factory contaminate the river.",
+      "example_th": "สารเคมีจากโรงงานปนเปื้อนแม่น้ำ",
+      "cefr": "B2",
+      "note_th": "contaminate = ทำให้ปนเปื้อนสารพิษ (น้ำ อาหาร ดิน) ส่วน pollute ใช้กว้างกว่า — คำนาม contamination",
+      "distractors": [
+        "contemplate",
+        "pollute",
+        "eliminate"
+      ]
+    },
+    {
+      "id": "scarcity",
+      "word": "scarcity",
+      "pos": "noun",
+      "ipa": "/ˈskersəti/",
+      "reading_th": "สแกร์-ซิ-ที",
+      "meaning_th": "ความขาดแคลน(ทรัพยากร)",
+      "emoji": "💧",
+      "example_en": "Water scarcity affects nearly two billion people.",
+      "example_th": "ความขาดแคลนน้ำกระทบผู้คนเกือบสองพันล้านคน",
+      "cefr": "B2",
+      "note_th": "scarcity = มีน้อยไม่พอใช้ คุณศัพท์ scarce — water scarcity, food scarcity; ทางการกว่า shortage",
+      "distractors": [
+        "security",
+        "scary",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "waste",
+      "word": "waste",
+      "pos": "noun",
+      "ipa": "/weɪst/",
+      "reading_th": "เวสท์",
+      "meaning_th": "ของเสีย / ขยะ",
+      "emoji": "🗑️",
+      "example_en": "Households produce tons of plastic waste every year.",
+      "example_th": "ครัวเรือนผลิตขยะพลาสติกหลายตันทุกปี",
+      "cefr": "B1",
+      "note_th": "waste นับไม่ได้ = ของเสีย (food waste, industrial waste) และกริยา = ใช้อย่างสิ้นเปลือง — ออกเสียงเหมือน waist (เอว)",
+      "distractors": [
+        "waist",
+        "west",
+        "wasted"
+      ]
+    },
+    {
+      "id": "preserve",
+      "word": "preserve",
+      "pos": "verb",
+      "ipa": "/prɪˈzɜːrv/",
+      "reading_th": "พริ-เซิร์ฟ",
+      "meaning_th": "รักษาไว้ไม่ให้เสียหาย",
+      "emoji": "🛡️",
+      "example_en": "We must preserve the forests for future generations.",
+      "example_th": "เราต้องรักษาป่าไว้ให้คนรุ่นหลัง",
+      "cefr": "B2",
+      "note_th": "preserve = รักษาสภาพเดิมไว้ (ป่า วัฒนธรรม อาหาร) ส่วน conserve = ใช้อย่างประหยัด — preservation / conservation ต่างกันนิดเดียว",
+      "distractors": [
+        "reserve",
+        "deserve",
+        "conserve"
+      ]
+    },
+    {
+      "id": "sea_level",
+      "word": "sea level",
+      "pos": "phrase",
+      "ipa": "/siː ˈlevl/",
+      "reading_th": "ซี เล-เวิล",
+      "meaning_th": "ระดับน้ำทะเล",
+      "emoji": "🌊",
+      "example_en": "Rising sea levels threaten coastal cities like Bangkok.",
+      "example_th": "ระดับน้ำทะเลที่สูงขึ้นคุกคามเมืองชายฝั่งอย่างกรุงเทพฯ",
+      "cefr": "B1",
+      "note_th": "rising sea levels (พหูพจน์) = ผลของโลกร้อนที่ใช้บ่อยที่สุดใน Task 2 — above sea level = เหนือระดับน้ำทะเล (ความสูง)",
+      "distractors": [
+        "sea view",
+        "sea floor",
+        "water level"
+      ]
+    },
+    {
+      "id": "endangered",
+      "word": "endangered",
+      "pos": "adjective",
+      "ipa": "/ɪnˈdeɪndʒərd/",
+      "reading_th": "อิน-เดน-เจอร์ด",
+      "meaning_th": "ใกล้สูญพันธุ์",
+      "emoji": "🐘",
+      "example_en": "Tigers are endangered because of illegal hunting.",
+      "example_th": "เสือใกล้สูญพันธุ์เพราะการล่าผิดกฎหมาย",
+      "cefr": "B1",
+      "note_th": "endangered species = สัตว์ใกล้สูญพันธุ์ (ยังมีอยู่) ส่วน extinct = สูญพันธุ์แล้ว — endanger = ทำให้ตกอยู่ในอันตราย",
+      "distractors": [
+        "dangerous",
+        "extinct",
+        "endorsed"
+      ]
+    },
+    {
+      "id": "digital_divide",
+      "word": "digital divide",
+      "pos": "phrase",
+      "ipa": "/ˈdɪdʒɪtl dɪˈvaɪd/",
+      "reading_th": "ดิ-จิ-เทิล ดิ-ไวด์",
+      "meaning_th": "ความเหลื่อมล้ำในการเข้าถึงเทคโนโลยี",
+      "emoji": "📶",
+      "example_en": "The digital divide leaves rural children behind in school.",
+      "example_th": "ความเหลื่อมล้ำทางดิจิทัลทำให้เด็กชนบทเรียนตามไม่ทัน",
+      "cefr": "B2",
+      "note_th": "digital divide = ช่องว่างระหว่างคนที่มี/ไม่มีอินเทอร์เน็ตและอุปกรณ์ — bridge the digital divide = ลดช่องว่างนั้น วลีสำเร็จรูป Task 2",
+      "distractors": [
+        "digital detox",
+        "division",
+        "digital age"
+      ]
+    },
+    {
+      "id": "virtual",
+      "word": "virtual",
+      "pos": "adjective",
+      "ipa": "/ˈvɜːrtʃuəl/",
+      "reading_th": "เวอร์-ชวล",
+      "meaning_th": "เสมือน(ผ่านคอมพิวเตอร์)",
+      "emoji": "🥽",
+      "example_en": "Students can visit museums through virtual tours.",
+      "example_th": "นักเรียนเยี่ยมชมพิพิธภัณฑ์ผ่านทัวร์เสมือนจริงได้",
+      "cefr": "B1",
+      "note_th": "virtual = มีอยู่ในโลกดิจิทัล ไม่ใช่ของจริง (virtual reality, virtual classroom) — ส่วน virtually = แทบจะ (virtually impossible)",
+      "distractors": [
+        "visual",
+        "vertical",
+        "actual"
+      ]
+    },
+    {
+      "id": "advancement",
+      "word": "advancement",
+      "pos": "noun",
+      "ipa": "/ədˈvænsmənt/",
+      "reading_th": "แอด-แวนซ์-เมนท์",
+      "meaning_th": "ความก้าวหน้า(ทางเทคโนโลยี)",
+      "emoji": "🚀",
+      "example_en": "Technological advancement has changed how we work.",
+      "example_th": "ความก้าวหน้าทางเทคโนโลยีเปลี่ยนวิธีการทำงานของเรา",
+      "cefr": "B2",
+      "note_th": "technological advancement(s) = คำเปิดเรียงความเทคโนโลยีแบบ Band 7 — ใช้ advances in technology ก็ได้ ความหมายเดียวกัน",
+      "distractors": [
+        "advantage",
+        "advertisement",
+        "adventure"
+      ]
+    },
+    {
+      "id": "digital",
+      "word": "digital",
+      "pos": "adjective",
+      "ipa": "/ˈdɪdʒɪtl/",
+      "reading_th": "ดิ-จิ-เทิล",
+      "meaning_th": "ดิจิทัล",
+      "emoji": "💾",
+      "example_en": "Most newspapers now publish a digital edition.",
+      "example_th": "หนังสือพิมพ์ส่วนใหญ่ตอนนี้ออกฉบับดิจิทัล",
+      "cefr": "B1",
+      "note_th": "digital ภาษาไทยทางการสะกด \"ดิจิทัล\" — digital skills, digital media, in the digital age = ในยุคดิจิทัล วลีเปิดเรียงความยอดนิยม",
+      "distractors": [
+        "digit",
+        "visual",
+        "manual"
+      ]
+    },
+    {
+      "id": "anonymity",
+      "word": "anonymity",
+      "pos": "noun",
+      "ipa": "/ˌænəˈnɪməti/",
+      "reading_th": "แอน-โน-นิ-มิ-ที",
+      "meaning_th": "การไม่เปิดเผยตัวตน",
+      "emoji": "🎭",
+      "example_en": "Online anonymity encourages some people to be cruel.",
+      "example_th": "การไม่เปิดเผยตัวตนออนไลน์ทำให้บางคนกล้าใจร้าย",
+      "cefr": "B2",
+      "note_th": "anonymity = ภาวะที่ไม่มีใครรู้ว่าเราเป็นใคร คุณศัพท์ anonymous — ใช้ในข้อถกเถียง cyberbullying และ free speech",
+      "distractors": [
+        "anonymous",
+        "animosity",
+        "anatomy"
+      ]
+    },
+    {
+      "id": "surveillance",
+      "word": "surveillance",
+      "pos": "noun",
+      "ipa": "/sərˈveɪləns/",
+      "reading_th": "เซอร์-เว-เลินซ์",
+      "meaning_th": "การสอดส่องเฝ้าระวัง",
+      "emoji": "📹",
+      "example_en": "Some people feel that CCTV surveillance invades their privacy.",
+      "example_th": "บางคนรู้สึกว่าการเฝ้าระวังด้วยกล้องวงจรปิดละเมิดความเป็นส่วนตัว",
+      "cefr": "B2",
+      "note_th": "surveillance cameras = กล้องวงจรปิด, mass surveillance = สอดส่องประชาชนวงกว้าง — ประเด็น safety vs privacy ใน Task 2",
+      "distractors": [
+        "survey",
+        "survival",
+        "surveyor"
+      ]
+    },
+    {
+      "id": "dependence",
+      "word": "dependence",
+      "pos": "noun",
+      "ipa": "/dɪˈpendəns/",
+      "reading_th": "ดิ-เพน-เดินซ์",
+      "meaning_th": "การพึ่งพา",
+      "emoji": "🔗",
+      "example_en": "Our dependence on smartphones is growing every year.",
+      "example_th": "การพึ่งพาสมาร์ตโฟนของเราเพิ่มขึ้นทุกปี",
+      "cefr": "B2",
+      "note_th": "dependence on + สิ่งที่พึ่ง (over-dependence = พึ่งมากเกินไป) — ตรงข้าม independence; ระวัง dependents = คนในอุปการะ",
+      "distractors": [
+        "independence",
+        "dependent",
+        "defense"
+      ]
+    },
+    {
+      "id": "isolation",
+      "word": "isolation",
+      "pos": "noun",
+      "ipa": "/ˌaɪsəˈleɪʃn/",
+      "reading_th": "ไอ-โซ-เล-ชั่น",
+      "meaning_th": "ความโดดเดี่ยว / การแยกตัว",
+      "emoji": "🏝️",
+      "example_en": "Working from home can lead to social isolation.",
+      "example_th": "การทำงานจากบ้านอาจนำไปสู่ความโดดเดี่ยวทางสังคม",
+      "cefr": "B2",
+      "note_th": "social isolation = ขาดการติดต่อกับผู้คน กริยา isolate — in isolation = แยกจากสิ่งอื่น; คำนี้ใช้บ่อยช่วงโควิด",
+      "distractors": [
+        "insulation",
+        "installation",
+        "island"
+      ]
+    },
+    {
+      "id": "inequality",
+      "word": "inequality",
+      "pos": "noun",
+      "ipa": "/ˌɪnɪˈkwɑːləti/",
+      "reading_th": "อิน-อิ-ควอ-ลิ-ที",
+      "meaning_th": "ความไม่เท่าเทียม",
+      "emoji": "⚖️",
+      "example_en": "Technology can widen inequality between rich and poor.",
+      "example_th": "เทคโนโลยีอาจขยายความไม่เท่าเทียมระหว่างคนรวยกับคนจน",
+      "cefr": "B2",
+      "note_th": "income inequality / gender inequality — widen / reduce inequality เป็นคู่กริยาที่ใช้ได้ตลอด; equality = ความเท่าเทียม",
+      "distractors": [
+        "equality",
+        "inequity",
+        "quality"
+      ]
+    },
+    {
+      "id": "accessible",
+      "word": "accessible",
+      "pos": "adjective",
+      "ipa": "/əkˈsesəbl/",
+      "reading_th": "แอค-เซส-ซะ-เบิล",
+      "meaning_th": "เข้าถึงได้ง่าย",
+      "emoji": "♿",
+      "example_en": "Online courses make education accessible to everyone.",
+      "example_th": "คอร์สออนไลน์ทำให้การศึกษาเข้าถึงได้สำหรับทุกคน",
+      "cefr": "B2",
+      "note_th": "accessible to + คน = เข้าถึงได้ (ราคา สถานที่ ข้อมูล) — คำนาม accessibility ยังใช้กับการออกแบบเพื่อผู้พิการ",
+      "distractors": [
+        "acceptable",
+        "assessable",
+        "accessory"
+      ]
+    },
+    {
+      "id": "obsolete",
+      "word": "obsolete",
+      "pos": "adjective",
+      "ipa": "/ˌɑːbsəˈliːt/",
+      "reading_th": "ออบ-โซ-ลีท",
+      "meaning_th": "ล้าสมัยจนเลิกใช้",
+      "emoji": "📼",
+      "example_en": "Fax machines are almost obsolete in modern offices.",
+      "example_th": "เครื่องแฟกซ์แทบจะเลิกใช้แล้วในออฟฟิศสมัยใหม่",
+      "cefr": "B2",
+      "note_th": "obsolete = ล้าสมัยจนไม่ใช้แล้ว แรงกว่า outdated — become obsolete; ใช้กับงานที่ AI มาแทนได้: jobs may become obsolete",
+      "distractors": [
+        "absolute",
+        "outdated",
+        "obscure"
+      ]
+    },
+    {
+      "id": "breakthrough",
+      "word": "breakthrough",
+      "pos": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "reading_th": "เบรค-ทรู",
+      "meaning_th": "ความก้าวหน้าครั้งสำคัญ / การค้นพบใหญ่",
+      "emoji": "💡",
+      "example_en": "A medical breakthrough could cure the disease within years.",
+      "example_th": "การค้นพบครั้งสำคัญทางการแพทย์อาจรักษาโรคนี้ได้ภายในไม่กี่ปี",
+      "cefr": "B2",
+      "note_th": "breakthrough = ก้าวกระโดดที่ทลายอุปสรรค (scientific breakthrough) — make a breakthrough; สะกดติดกันเมื่อเป็นคำนาม",
+      "distractors": [
+        "breakdown",
+        "breakup",
+        "throughout"
+      ]
+    },
+    {
+      "id": "misinformation",
+      "word": "misinformation",
+      "pos": "noun",
+      "ipa": "/ˌmɪsɪnfərˈmeɪʃn/",
+      "reading_th": "มิส-อิน-ฟอร์-เม-ชั่น",
+      "meaning_th": "ข้อมูลที่ผิด",
+      "emoji": "🚫",
+      "example_en": "Misinformation spreads faster than the truth online.",
+      "example_th": "ข้อมูลผิดๆ แพร่เร็วกว่าความจริงบนโลกออนไลน์",
+      "cefr": "B2",
+      "note_th": "misinformation = ข้อมูลผิด (ตั้งใจหรือไม่ก็ได้) ส่วน disinformation = จงใจบิดเบือน — ใช้คู่กับ spread / combat",
+      "distractors": [
+        "information",
+        "disinformation",
+        "misunderstanding"
+      ]
+    },
+    {
+      "id": "face_to_face",
+      "word": "face-to-face",
+      "pos": "adjective",
+      "ipa": "/ˌfeɪs tə ˈfeɪs/",
+      "reading_th": "เฟซ ทู เฟซ",
+      "meaning_th": "แบบพบหน้ากัน",
+      "emoji": "🗣️",
+      "example_en": "Young people prefer texting to face-to-face conversation.",
+      "example_th": "คนรุ่นใหม่ชอบแชตมากกว่าคุยแบบพบหน้า",
+      "cefr": "B1",
+      "note_th": "face-to-face มี hyphen เมื่อวางหน้าคำนาม (face-to-face communication) — เป็น adverb ได้: meet face to face; คู่ตรงข้ามของ online",
+      "distractors": [
+        "in person",
+        "face value",
+        "face-off"
+      ]
+    },
+    {
+      "id": "obesity",
+      "word": "obesity",
+      "pos": "noun",
+      "ipa": "/oʊˈbiːsəti/",
+      "reading_th": "โอ-บี-ซิ-ที",
+      "meaning_th": "โรคอ้วน",
+      "emoji": "🍔",
+      "example_en": "Childhood obesity has become a serious problem in many countries.",
+      "example_th": "โรคอ้วนในเด็กกลายเป็นปัญหาร้ายแรงในหลายประเทศ",
+      "cefr": "B2",
+      "note_th": "obesity (นาม) / obese (คุณศัพท์ = อ้วนระดับโรค) — ทางการกว่า fat มาก; Task 2 หัวข้อสุขภาพใช้ tackle obesity = แก้ปัญหาโรคอ้วน",
+      "distractors": [
+        "obese",
+        "obsessed",
+        "opacity"
+      ]
+    },
+    {
+      "id": "sedentary",
+      "word": "sedentary",
+      "pos": "adjective",
+      "ipa": "/ˈsednteri/",
+      "reading_th": "เซด-เดิน-เท-รี",
+      "meaning_th": "นั่งนานไม่ค่อยขยับตัว",
+      "emoji": "🪑",
+      "example_en": "A sedentary lifestyle raises the risk of heart disease.",
+      "example_th": "วิถีชีวิตที่นั่งๆ นอนๆ เพิ่มความเสี่ยงโรคหัวใจ",
+      "cefr": "B2",
+      "note_th": "sedentary lifestyle / sedentary job = ชีวิต/งานที่นั่งทั้งวัน — คำคุณศัพท์ระดับ Band 7 ที่ผู้ตรวจชอบเห็นในเรียงความสุขภาพ",
+      "distractors": [
+        "secondary",
+        "sedative",
+        "stationary"
+      ]
+    },
+    {
+      "id": "balanced_diet",
+      "word": "balanced diet",
+      "pos": "phrase",
+      "ipa": "/ˈbælənst ˈdaɪət/",
+      "reading_th": "แบ-เลินสท์ ได-เอิท",
+      "meaning_th": "อาหารครบหมู่",
+      "emoji": "🥗",
+      "example_en": "Schools should teach children about a balanced diet.",
+      "example_th": "โรงเรียนควรสอนเด็กเรื่องการกินอาหารครบหมู่",
+      "cefr": "B1",
+      "note_th": "a balanced diet = กินครบทุกหมู่ในสัดส่วนพอดี (diet ในที่นี้ = อาหารที่กินประจำ ไม่ใช่ลดน้ำหนัก) — eat a balanced diet",
+      "distractors": [
+        "crash diet",
+        "balance",
+        "vegetarian diet"
+      ]
+    },
+    {
+      "id": "longevity",
+      "word": "longevity",
+      "pos": "noun",
+      "ipa": "/lɔːnˈdʒevəti/",
+      "reading_th": "ลอน-เจ-วิ-ที",
+      "meaning_th": "การมีอายุยืนยาว",
+      "emoji": "🧓",
+      "example_en": "Scientists study why Japanese people enjoy such longevity.",
+      "example_th": "นักวิทยาศาสตร์ศึกษาว่าทำไมคนญี่ปุ่นถึงอายุยืนขนาดนั้น",
+      "cefr": "B2",
+      "note_th": "longevity = อายุยืน (นาม) ใช้กับคนและสิ่งของ (the longevity of a product) — ออกเสียง g เป็น จ ไม่ใช่ ก",
+      "distractors": [
+        "longitude",
+        "length",
+        "leniency"
+      ]
+    },
+    {
+      "id": "sleep_deprivation",
+      "word": "sleep deprivation",
+      "pos": "phrase",
+      "ipa": "/sliːp ˌdeprɪˈveɪʃn/",
+      "reading_th": "สลีพ เดพ-ริ-เว-ชั่น",
+      "meaning_th": "การอดนอน / นอนไม่พอ",
+      "emoji": "😴",
+      "example_en": "Sleep deprivation affects memory and concentration.",
+      "example_th": "การนอนไม่พอส่งผลต่อความจำและสมาธิ",
+      "cefr": "B2",
+      "note_th": "deprivation = การถูกพรากสิ่งจำเป็น (sleep-deprived = อดนอน) — เป็นคำอธิบายสาเหตุที่ดีในเรียงความเรื่องเทคโนโลยีกับสุขภาพ",
+      "distractors": [
+        "sleep disorder",
+        "depression",
+        "deprivation"
+      ]
+    },
+    {
+      "id": "life_expectancy",
+      "word": "life expectancy",
+      "pos": "phrase",
+      "ipa": "/laɪf ɪkˈspektənsi/",
+      "reading_th": "ไลฟ์ อิค-สเปค-เทิน-ซี",
+      "meaning_th": "อายุขัยเฉลี่ย",
+      "emoji": "📈",
+      "example_en": "Life expectancy in Thailand has risen to about 77 years.",
+      "example_th": "อายุขัยเฉลี่ยของคนไทยเพิ่มขึ้นเป็นประมาณ 77 ปี",
+      "cefr": "B2",
+      "note_th": "life expectancy = ตัวเลขอายุเฉลี่ยที่คาดว่าจะมีชีวิต (กราฟ Task 1 ชอบเปรียบเทียบประเทศ) — average life expectancy",
+      "distractors": [
+        "life span",
+        "life insurance",
+        "expectation"
+      ]
+    },
+    {
+      "id": "preventive",
+      "word": "preventive",
+      "pos": "adjective",
+      "ipa": "/prɪˈventɪv/",
+      "reading_th": "พริ-เวน-ทิฟ",
+      "meaning_th": "เชิงป้องกัน",
+      "emoji": "💉",
+      "example_en": "Governments should spend more on preventive healthcare.",
+      "example_th": "รัฐบาลควรใช้จ่ายกับการดูแลสุขภาพเชิงป้องกันมากขึ้น",
+      "cefr": "B2",
+      "note_th": "preventive measures / preventive care = ทำก่อนป่วย — prevention is better than cure = กันไว้ดีกว่าแก้ สำนวนที่ใช้ในเรียงความได้",
+      "distractors": [
+        "preventable",
+        "prevention",
+        "persuasive"
+      ]
+    },
+    {
+      "id": "epidemic",
+      "word": "epidemic",
+      "pos": "noun",
+      "ipa": "/ˌepɪˈdemɪk/",
+      "reading_th": "เอ-พิ-เด-มิค",
+      "meaning_th": "โรคระบาด / การแพร่กระจายวงกว้าง",
+      "emoji": "🦠",
+      "example_en": "The flu epidemic closed schools across the region.",
+      "example_th": "ไข้หวัดใหญ่ระบาดจนโรงเรียนทั่วภูมิภาคต้องปิด",
+      "cefr": "B2",
+      "note_th": "epidemic = ระบาดในพื้นที่หนึ่ง ส่วน pandemic = ระบาดทั่วโลก (โควิด) — ใช้เปรียบเทียบได้: an obesity epidemic",
+      "distractors": [
+        "pandemic",
+        "academic",
+        "endemic"
+      ]
+    },
+    {
+      "id": "addiction",
+      "word": "addiction",
+      "pos": "noun",
+      "ipa": "/əˈdɪkʃn/",
+      "reading_th": "แอด-ดิค-ชั่น",
+      "meaning_th": "การเสพติด",
+      "emoji": "📱",
+      "example_en": "Smartphone addiction is common among teenagers.",
+      "example_th": "การเสพติดสมาร์ตโฟนพบได้ทั่วไปในวัยรุ่น",
+      "cefr": "B1",
+      "note_th": "addiction to + สิ่งที่ติด (drug addiction, gaming addiction) — คุณศัพท์ addictive = ทำให้ติด, addicted to = ติด",
+      "distractors": [
+        "addition",
+        "prediction",
+        "attraction"
+      ]
+    },
+    {
+      "id": "consumption",
+      "word": "consumption",
+      "pos": "noun",
+      "ipa": "/kənˈsʌmpʃn/",
+      "reading_th": "คัน-ซัมพ์-ชั่น",
+      "meaning_th": "การบริโภค",
+      "emoji": "🍽️",
+      "example_en": "Sugar consumption per person has tripled since 1960.",
+      "example_th": "การบริโภคน้ำตาลต่อคนเพิ่มสามเท่าตั้งแต่ปี 1960",
+      "cefr": "B2",
+      "note_th": "consumption = ปริมาณที่กิน/ใช้ (energy consumption, meat consumption) — กราฟ Task 1 ใช้ตลอด; กริยา consume, ผู้บริโภค consumer",
+      "distractors": [
+        "consumer",
+        "assumption",
+        "construction"
+      ]
+    },
+    {
+      "id": "processed_food",
+      "word": "processed food",
+      "pos": "phrase",
+      "ipa": "/ˈprɑːsest fuːd/",
+      "reading_th": "พรอ-เซสท์ ฟูด",
+      "meaning_th": "อาหารแปรรูป",
+      "emoji": "🥫",
+      "example_en": "Processed food is cheap but often high in salt and sugar.",
+      "example_th": "อาหารแปรรูปราคาถูกแต่มักมีเกลือและน้ำตาลสูง",
+      "cefr": "B1",
+      "note_th": "processed food = อาหารผ่านโรงงาน (ไส้กรอก บะหมี่กึ่งสำเร็จรูป) ตรงข้าม fresh food / whole food — ใช้แทน junk food ให้ดูวิชาการ",
+      "distractors": [
+        "fast food",
+        "frozen food",
+        "fresh food"
+      ]
+    },
+    {
+      "id": "hygiene",
+      "word": "hygiene",
+      "pos": "noun",
+      "ipa": "/ˈhaɪdʒiːn/",
+      "reading_th": "ไฮ-จีน",
+      "meaning_th": "สุขอนามัย",
+      "emoji": "🧼",
+      "example_en": "Good hygiene prevents the spread of many diseases.",
+      "example_th": "สุขอนามัยที่ดีป้องกันการแพร่กระจายของหลายโรค",
+      "cefr": "B1",
+      "note_th": "personal hygiene / food hygiene — คุณศัพท์ hygienic = ถูกสุขลักษณะ; สะกด y แล้ว g (ไม่ใช่ hygeine) คำที่คนสะกดผิดบ่อย",
+      "distractors": [
+        "hygienic",
+        "hyphen",
+        "oxygen"
+      ]
+    },
+    {
+      "id": "moderate",
+      "word": "moderate",
+      "pos": "adjective",
+      "ipa": "/ˈmɑːdərət/",
+      "reading_th": "มอ-เดอ-เริท",
+      "meaning_th": "พอประมาณ / ไม่มากไม่น้อย",
+      "emoji": "⚖️",
+      "example_en": "Moderate exercise three times a week is enough.",
+      "example_th": "ออกกำลังกายพอประมาณสัปดาห์ละสามครั้งก็พอ",
+      "cefr": "B1",
+      "note_th": "in moderation = อย่างพอดี (drink in moderation) — moderate ยังใช้กับราคา อากาศ ความเห็นทางการเมืองได้",
+      "distractors": [
+        "modern",
+        "modest",
+        "mediate"
+      ]
+    },
+    {
+      "id": "chronic",
+      "word": "chronic",
+      "pos": "adjective",
+      "ipa": "/ˈkrɑːnɪk/",
+      "reading_th": "ครอ-นิค",
+      "meaning_th": "เรื้อรัง",
+      "emoji": "🩺",
+      "example_en": "Chronic diseases such as diabetes are rising worldwide.",
+      "example_th": "โรคเรื้อรังอย่างเบาหวานกำลังเพิ่มขึ้นทั่วโลก",
+      "cefr": "B2",
+      "note_th": "chronic = เป็นนานและเรื้อรัง ตรงข้าม acute = เฉียบพลัน — ใช้กับปัญหาได้: chronic shortage = ขาดแคลนเรื้อรัง",
+      "distractors": [
+        "acute",
+        "chronicle",
+        "clinic"
+      ]
+    },
+    {
+      "id": "urban",
+      "word": "urban",
+      "pos": "adjective",
+      "ipa": "/ˈɜːrbən/",
+      "reading_th": "เออร์-เบิน",
+      "meaning_th": "ในเมือง / แบบเมือง",
+      "emoji": "🏙️",
+      "example_en": "More than half of the world now lives in urban areas.",
+      "example_th": "ประชากรโลกกว่าครึ่งอาศัยอยู่ในเขตเมืองแล้ว",
+      "cefr": "B1",
+      "note_th": "urban areas = เขตเมือง, urbanization = การขยายตัวของเมือง — คำที่ Task 1 และ Task 2 ใช้คู่กับ rural ตลอด",
+      "distractors": [
+        "rural",
+        "urbane",
+        "suburban"
+      ]
+    },
+    {
+      "id": "rural",
+      "word": "rural",
+      "pos": "adjective",
+      "ipa": "/ˈrʊrəl/",
+      "reading_th": "รู-เริล",
+      "meaning_th": "ชนบท",
+      "emoji": "🌾",
+      "example_en": "Rural communities often lack good hospitals and schools.",
+      "example_th": "ชุมชนชนบทมักขาดโรงพยาบาลและโรงเรียนที่ดี",
+      "cefr": "B1",
+      "note_th": "rural = เกี่ยวกับชนบท (ไม่ใช่ countryside ที่เป็นคำนาม) — rural-urban migration = การย้ายจากชนบทเข้าเมือง วลีสำเร็จรูป",
+      "distractors": [
+        "ruler",
+        "royal",
+        "moral"
+      ]
+    },
+    {
+      "id": "infrastructure",
+      "word": "infrastructure",
+      "pos": "noun",
+      "ipa": "/ˈɪnfrəstrʌktʃər/",
+      "reading_th": "อิน-ฟระ-สตรัค-เชอร์",
+      "meaning_th": "โครงสร้างพื้นฐาน",
+      "emoji": "🌉",
+      "example_en": "The city must invest in infrastructure such as roads and rail.",
+      "example_th": "เมืองต้องลงทุนในโครงสร้างพื้นฐาน เช่น ถนนและรถไฟ",
+      "cefr": "B2",
+      "note_th": "infrastructure นับไม่ได้ = ถนน ไฟฟ้า น้ำประปา อินเทอร์เน็ต — invest in / improve infrastructure คำที่เรียงความเรื่องเมืองขาดไม่ได้",
+      "distractors": [
+        "instructor",
+        "structure",
+        "interstate"
+      ]
+    },
+    {
+      "id": "congestion",
+      "word": "congestion",
+      "pos": "noun",
+      "ipa": "/kənˈdʒestʃən/",
+      "reading_th": "คัน-เจส-ชั่น",
+      "meaning_th": "การจราจรติดขัด / ความคับคั่ง",
+      "emoji": "🚗",
+      "example_en": "Traffic congestion costs Bangkok billions of baht a year.",
+      "example_th": "การจราจรติดขัดทำให้กรุงเทพฯ เสียหายปีละหลายพันล้านบาท",
+      "cefr": "B2",
+      "note_th": "traffic congestion = รถติดแบบวิชาการ (ไม่ใช่ traffic jam) — congestion charge = ค่าธรรมเนียมเข้าเขตรถติดที่ลอนดอนเก็บ",
+      "distractors": [
+        "connection",
+        "suggestion",
+        "digestion"
+      ]
+    },
+    {
+      "id": "overcrowding",
+      "word": "overcrowding",
+      "pos": "noun",
+      "ipa": "/ˌoʊvərˈkraʊdɪŋ/",
+      "reading_th": "โอ-เวอร์-คราว-ดิ้ง",
+      "meaning_th": "ภาวะคนหนาแน่นเกินไป",
+      "emoji": "👥",
+      "example_en": "Overcrowding in cities leads to poor housing and stress.",
+      "example_th": "ภาวะคนแออัดในเมืองนำไปสู่ที่อยู่อาศัยแย่และความเครียด",
+      "cefr": "B2",
+      "note_th": "overcrowding = คนมากเกินกว่าพื้นที่รับได้ (เมือง โรงเรียน คุก) — คุณศัพท์ overcrowded; ใช้เป็นปัญหา (problem) ใน Task 2 เรื่องเมือง",
+      "distractors": [
+        "overcrowded",
+        "crowdfunding",
+        "overloading"
+      ]
+    },
+    {
+      "id": "suburb",
+      "word": "suburb",
+      "pos": "noun",
+      "ipa": "/ˈsʌbɜːrb/",
+      "reading_th": "ซับ-เบิร์บ",
+      "meaning_th": "ชานเมือง",
+      "emoji": "🏡",
+      "example_en": "Many families move to the suburbs for bigger homes.",
+      "example_th": "หลายครอบครัวย้ายไปชานเมืองเพื่อบ้านที่ใหญ่ขึ้น",
+      "cefr": "B1",
+      "note_th": "the suburbs = ย่านชานเมืองที่คนขับรถเข้าเมืองไปทำงาน คุณศัพท์ suburban — ไม่ใช่ countryside ซึ่งไกลกว่าและเป็นชนบท",
+      "distractors": [
+        "subway",
+        "suburban",
+        "superb"
+      ]
+    },
+    {
+      "id": "public_transport",
+      "word": "public transport",
+      "pos": "phrase",
+      "ipa": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "reading_th": "พับ-ลิค แทรนส์-พอร์ท",
+      "meaning_th": "ระบบขนส่งสาธารณะ",
+      "emoji": "🚇",
+      "example_en": "Cheaper public transport would reduce the number of cars.",
+      "example_th": "ขนส่งสาธารณะที่ถูกลงจะช่วยลดจำนวนรถยนต์",
+      "cefr": "B1",
+      "note_th": "public transport (อังกฤษ) = public transportation (อเมริกัน) นับไม่ได้ — ตัวแก้ปัญหา (solution) อันดับหนึ่งในเรียงความเรื่องรถติดและมลพิษ",
+      "distractors": [
+        "public transit",
+        "transportation",
+        "public service"
+      ]
+    },
+    {
+      "id": "housing",
+      "word": "housing",
+      "pos": "noun",
+      "ipa": "/ˈhaʊzɪŋ/",
+      "reading_th": "เฮา-ซิ่ง",
+      "meaning_th": "ที่อยู่อาศัย(ในภาพรวม)",
+      "emoji": "🏘️",
+      "example_en": "Affordable housing is a major problem in big cities.",
+      "example_th": "ที่อยู่อาศัยราคาจับต้องได้เป็นปัญหาใหญ่ในเมืองใหญ่",
+      "cefr": "B1",
+      "note_th": "housing นับไม่ได้ = ที่อยู่อาศัยโดยรวม (housing shortage, affordable housing) — ส่วน house = บ้านหนึ่งหลัง",
+      "distractors": [
+        "house",
+        "household",
+        "housekeeping"
+      ]
+    },
+    {
+      "id": "migration",
+      "word": "migration",
+      "pos": "noun",
+      "ipa": "/maɪˈɡreɪʃn/",
+      "reading_th": "ไม-เกร-ชั่น",
+      "meaning_th": "การย้ายถิ่นฐาน",
+      "emoji": "🧳",
+      "example_en": "Migration from villages to cities is changing Thai society.",
+      "example_th": "การย้ายถิ่นจากหมู่บ้านเข้าเมืองกำลังเปลี่ยนสังคมไทย",
+      "cefr": "B2",
+      "note_th": "migration = ย้ายถิ่นทั่วไป (คนและนก) — immigration = ย้ายเข้าประเทศ, emigration = ย้ายออก; migrant worker = แรงงานข้ามชาติ",
+      "distractors": [
+        "immigration",
+        "emigration",
+        "migraine"
+      ]
+    },
+    {
+      "id": "overpopulation",
+      "word": "overpopulation",
+      "pos": "noun",
+      "ipa": "/ˌoʊvərˌpɑːpjuˈleɪʃn/",
+      "reading_th": "โอ-เวอร์-พอพ-พิว-เล-ชั่น",
+      "meaning_th": "ประชากรล้นเกิน",
+      "emoji": "🌍",
+      "example_en": "Overpopulation puts pressure on water and food supplies.",
+      "example_th": "ประชากรล้นเกินสร้างแรงกดดันต่อแหล่งน้ำและอาหาร",
+      "cefr": "B2",
+      "note_th": "overpopulation = ประชากรมากเกินกว่าทรัพยากรรองรับ — overpopulated city = เมืองที่คนล้น; ใช้เป็นสาเหตุ (cause) ในเรียงความสิ่งแวดล้อมได้ด้วย",
+      "distractors": [
+        "popularity",
+        "overproduction",
+        "population"
+      ]
+    },
+    {
+      "id": "cost_of_living",
+      "word": "cost of living",
+      "pos": "phrase",
+      "ipa": "/kɔːst əv ˈlɪvɪŋ/",
+      "reading_th": "คอสท์ ออฟ ลิฟ-วิ่ง",
+      "meaning_th": "ค่าครองชีพ",
+      "emoji": "💸",
+      "example_en": "The cost of living in the capital is much higher than elsewhere.",
+      "example_th": "ค่าครองชีพในเมืองหลวงสูงกว่าที่อื่นมาก",
+      "cefr": "B1",
+      "note_th": "the cost of living = ค่าใช้จ่ายในการดำรงชีวิต (ค่าเช่า อาหาร เดินทาง) — a high cost of living เป็นข้อเสีย (drawback) ของชีวิตในเมืองที่ใช้ได้เสมอ",
+      "distractors": [
+        "standard of living",
+        "living room",
+        "cost price"
+      ]
+    },
+    {
+      "id": "green_space",
+      "word": "green space",
+      "pos": "phrase",
+      "ipa": "/ɡriːn speɪs/",
+      "reading_th": "กรีน สเปซ",
+      "meaning_th": "พื้นที่สีเขียว",
+      "emoji": "🌳",
+      "example_en": "Cities need more green space such as parks and gardens.",
+      "example_th": "เมืองต้องการพื้นที่สีเขียว เช่น สวนสาธารณะและสวนหย่อม มากขึ้น",
+      "cefr": "B1",
+      "note_th": "green space(s) = สวน สนามหญ้า ต้นไม้ในเมือง — public green spaces ช่วยทั้ง mental health และ air quality ใช้เป็น solution ได้",
+      "distractors": [
+        "open space",
+        "greenhouse",
+        "green card"
+      ]
+    },
+    {
+      "id": "density",
+      "word": "density",
+      "pos": "noun",
+      "ipa": "/ˈdensəti/",
+      "reading_th": "เดน-ซิ-ที",
+      "meaning_th": "ความหนาแน่น",
+      "emoji": "🏢",
+      "example_en": "Population density in Bangkok is among the highest in Asia.",
+      "example_th": "ความหนาแน่นประชากรในกรุงเทพฯ สูงเป็นอันดับต้นๆ ของเอเชีย",
+      "cefr": "B2",
+      "note_th": "population density = จำนวนคนต่อตารางกิโลเมตร (กราฟ Task 1) — คุณศัพท์ dense / densely populated = ประชากรหนาแน่น",
+      "distractors": [
+        "destiny",
+        "dentistry",
+        "identity"
+      ]
+    },
+    {
+      "id": "high_rise",
+      "word": "high-rise",
+      "pos": "noun",
+      "ipa": "/ˈhaɪ raɪz/",
+      "reading_th": "ไฮ ไรซ์",
+      "meaning_th": "ตึกสูง / อาคารสูง",
+      "emoji": "🏬",
+      "example_en": "New high-rises are replacing the old wooden houses.",
+      "example_th": "ตึกสูงใหม่ๆ กำลังเข้ามาแทนที่บ้านไม้เก่า",
+      "cefr": "B1",
+      "note_th": "high-rise (มี hyphen) = ตึกสูงหลายสิบชั้น เป็นได้ทั้งนามและคุณศัพท์ (high-rise apartment) — ตรงข้าม low-rise",
+      "distractors": [
+        "high street",
+        "skyline",
+        "high season"
+      ]
+    },
+    {
+      "id": "fluctuate",
+      "word": "fluctuate",
+      "pos": "verb",
+      "ipa": "/ˈflʌktʃueɪt/",
+      "reading_th": "ฟลัค-ชู-เอท",
+      "meaning_th": "ผันผวน / ขึ้นๆ ลงๆ",
+      "emoji": "📊",
+      "example_en": "Oil prices fluctuated between 60 and 80 dollars last year.",
+      "example_th": "ราคาน้ำมันผันผวนระหว่าง 60 ถึง 80 ดอลลาร์เมื่อปีที่แล้ว",
+      "cefr": "B2",
+      "note_th": "fluctuate = ขึ้นลงสลับกันไม่มีทิศทางชัด (คำนาม fluctuation) — ใช้บรรยายเส้นกราฟหยักๆ ใน Task 1 แทน go up and down",
+      "distractors": [
+        "fluent",
+        "frustrate",
+        "fluctuation"
+      ]
+    },
+    {
+      "id": "steadily",
+      "word": "steadily",
+      "pos": "adverb",
+      "ipa": "/ˈstedəli/",
+      "reading_th": "สเต็ด-ดิ-ลี",
+      "meaning_th": "อย่างสม่ำเสมอต่อเนื่อง",
+      "emoji": "📈",
+      "example_en": "The number of users rose steadily from 2010 to 2020.",
+      "example_th": "จำนวนผู้ใช้เพิ่มขึ้นอย่างต่อเนื่องตั้งแต่ปี 2010 ถึง 2020",
+      "cefr": "B1",
+      "note_th": "rise / fall steadily = เปลี่ยนในอัตราคงที่ไม่กระโดด — คุณศัพท์ a steady increase; คู่ตรงข้ามคือ sharply / dramatically",
+      "distractors": [
+        "steady",
+        "readily",
+        "suddenly"
+      ]
+    },
+    {
+      "id": "sharply",
+      "word": "sharply",
+      "pos": "adverb",
+      "ipa": "/ˈʃɑːrpli/",
+      "reading_th": "ชาร์พ-ลี",
+      "meaning_th": "อย่างรวดเร็วและรุนแรง",
+      "emoji": "⚡",
+      "example_en": "Sales fell sharply after the price increase.",
+      "example_th": "ยอดขายตกฮวบหลังขึ้นราคา",
+      "cefr": "B1",
+      "note_th": "rise / fall / drop sharply = เปลี่ยนแรงในเวลาสั้น (a sharp rise) — เพื่อนร่วมกลุ่ม: dramatically, significantly, rapidly สลับใช้ให้หลากหลาย",
+      "distractors": [
+        "sharp",
+        "slightly",
+        "shortly"
+      ]
+    },
+    {
+      "id": "gradually",
+      "word": "gradually",
+      "pos": "adverb",
+      "ipa": "/ˈɡrædʒuəli/",
+      "reading_th": "แกรด-จู-อะ-ลี",
+      "meaning_th": "ทีละน้อย / ค่อยเป็นค่อยไป",
+      "emoji": "🐢",
+      "example_en": "The population gradually declined over the next twenty years.",
+      "example_th": "ประชากรค่อยๆ ลดลงในช่วงยี่สิบปีถัดมา",
+      "cefr": "B1",
+      "note_th": "gradually = ช้าๆ ทีละนิด (a gradual decrease) — ต่างจาก steadily ที่เน้น \"สม่ำเสมอ\" มากกว่าความเร็ว; ใช้ได้ทั้งกราฟและชีวิตจริง",
+      "distractors": [
+        "gradual",
+        "actually",
+        "gratefully"
+      ]
+    },
+    {
+      "id": "plummet",
+      "word": "plummet",
+      "pos": "verb",
+      "ipa": "/ˈplʌmɪt/",
+      "reading_th": "พลัม-มิท",
+      "meaning_th": "ดิ่งลงอย่างรวดเร็ว",
+      "emoji": "📉",
+      "example_en": "Tourist numbers plummeted during the pandemic.",
+      "example_th": "จำนวนนักท่องเที่ยวดิ่งลงในช่วงโรคระบาด",
+      "cefr": "B2",
+      "note_th": "plummet = ร่วงฮวบแบบดิ่ง ไม่ต้องเติม sharply อีก (ซ้ำซ้อน) — เพื่อนคำ: plunge, slump; ตรงข้ามคือ soar / rocket",
+      "distractors": [
+        "plumber",
+        "plum",
+        "plunge"
+      ]
+    },
+    {
+      "id": "soar",
+      "word": "soar",
+      "pos": "verb",
+      "ipa": "/sɔːr/",
+      "reading_th": "ซอร์",
+      "meaning_th": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+      "emoji": "🚀",
+      "example_en": "House prices soared by 40 percent in just three years.",
+      "example_th": "ราคาบ้านพุ่งขึ้น 40 เปอร์เซ็นต์ในเวลาแค่สามปี",
+      "cefr": "B2",
+      "note_th": "soar = พุ่งสูงแบบนกบิน (soaring prices) — ออกเสียงเหมือน sore (เจ็บ) แต่คนละคำ; ใช้แทน increase sharply ได้",
+      "distractors": [
+        "sore",
+        "sour",
+        "saw"
+      ]
+    },
+    {
+      "id": "remain_stable",
+      "word": "remain stable",
+      "pos": "phrase",
+      "ipa": "/rɪˈmeɪn ˈsteɪbl/",
+      "reading_th": "ริ-เมน สเต-เบิล",
+      "meaning_th": "คงที่ / ไม่เปลี่ยนแปลง",
+      "emoji": "➖",
+      "example_en": "Unemployment remained stable at around five percent.",
+      "example_th": "อัตราว่างงานคงที่อยู่ที่ประมาณห้าเปอร์เซ็นต์",
+      "cefr": "B1",
+      "note_th": "remain stable / remain constant / level off = เส้นกราฟแบนราบ — ห้ามเขียน remain the same ซ้ำหลายครั้งใน Task 1 ให้สลับคำ",
+      "distractors": [
+        "remain silent",
+        "stay still",
+        "stabilize"
+      ]
+    },
+    {
+      "id": "minority",
+      "word": "minority",
+      "pos": "noun",
+      "ipa": "/maɪˈnɔːrəti/",
+      "reading_th": "ไม-นอ-ริ-ที",
+      "meaning_th": "ส่วนน้อย / คนกลุ่มน้อย",
+      "emoji": "🔹",
+      "example_en": "Only a minority of students cycle to school.",
+      "example_th": "มีนักเรียนเพียงส่วนน้อยที่ปั่นจักรยานไปโรงเรียน",
+      "cefr": "B1",
+      "note_th": "a minority of + พหูพจน์ = ส่วนน้อย ตรงข้าม the majority of = ส่วนใหญ่ — ethnic minority = ชนกลุ่มน้อย ใช้ในเรียงความสังคม",
+      "distractors": [
+        "majority",
+        "minor",
+        "maturity"
+      ]
+    },
+    {
+      "id": "significant",
+      "word": "significant",
+      "pos": "adjective",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "reading_th": "ซิก-นิ-ฟิ-เคินท์",
+      "meaning_th": "สำคัญ / มีนัยสำคัญ",
+      "emoji": "❗",
+      "example_en": "There was a significant increase in online shopping.",
+      "example_th": "การช้อปปิ้งออนไลน์เพิ่มขึ้นอย่างมีนัยสำคัญ",
+      "cefr": "B1",
+      "note_th": "a significant increase / change = มากพอให้สังเกต (กริยาวิเศษณ์ significantly) — คำกลางๆ ที่ใช้ได้ทั้ง Task 1 และ 2 โดยไม่ดูเวอร์",
+      "distractors": [
+        "signature",
+        "insignificant",
+        "sufficient"
+      ]
+    },
+    {
+      "id": "nearly",
+      "word": "nearly",
+      "pos": "adverb",
+      "ipa": "/ˈnɪrli/",
+      "reading_th": "เนียร์-ลี",
+      "meaning_th": "เกือบ(จะถึง)",
+      "emoji": "🎯",
+      "example_en": "Nearly 70 percent of households own a car.",
+      "example_th": "ครัวเรือนเกือบ 70 เปอร์เซ็นต์มีรถยนต์",
+      "cefr": "A2",
+      "note_th": "nearly = almost = เกือบ (น้อยกว่าเล็กน้อย) ส่วน just over = เกินเล็กน้อย — ใช้ปัดตัวเลขในกราฟให้เขียนง่าย: nearly half, nearly a third",
+      "distractors": [
+        "nearby",
+        "clearly",
+        "neatly"
+      ]
+    },
+    {
+      "id": "overtake",
+      "word": "overtake",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərˈteɪk/",
+      "reading_th": "โอ-เวอร์-เทค",
+      "meaning_th": "แซงหน้า",
+      "emoji": "🏁",
+      "example_en": "Online sales overtook store sales in 2021.",
+      "example_th": "ยอดขายออนไลน์แซงหน้ายอดขายหน้าร้านในปี 2021",
+      "cefr": "B2",
+      "note_th": "A overtook B = เส้น A ตัดขึ้นเหนือเส้น B (กริยาช่อง 2 overtook) — ใช้กับรถแซงบนถนนด้วย; ตรงข้ามคือ fall behind",
+      "distractors": [
+        "undertake",
+        "take over",
+        "overlook"
+      ]
+    },
+    {
+      "id": "account_for",
+      "word": "account for",
+      "pos": "phrase",
+      "ipa": "/əˈkaʊnt fɔːr/",
+      "reading_th": "อะ-เคาน์ท์ ฟอร์",
+      "meaning_th": "คิดเป็นสัดส่วน(เท่าไร)",
+      "emoji": "🥧",
+      "example_en": "Cars account for about a quarter of all emissions.",
+      "example_th": "รถยนต์คิดเป็นประมาณหนึ่งในสี่ของการปล่อยมลพิษทั้งหมด",
+      "cefr": "B2",
+      "note_th": "X accounts for 25% = X คิดเป็น 25% (ใช้กับ pie chart) = make up / represent — อีกความหมายคืออธิบายสาเหตุ: This accounts for the drop",
+      "distractors": [
+        "account",
+        "count on",
+        "look for"
+      ]
+    },
+    {
+      "id": "respectively",
+      "word": "respectively",
+      "pos": "adverb",
+      "ipa": "/rɪˈspektɪvli/",
+      "reading_th": "ริ-สเปค-ทิฟ-ลี",
+      "meaning_th": "ตามลำดับ(ที่กล่าวมา)",
+      "emoji": "🔢",
+      "example_en": "Japan and Korea scored 85 and 80 points respectively.",
+      "example_th": "ญี่ปุ่นและเกาหลีได้ 85 และ 80 คะแนนตามลำดับ",
+      "cefr": "B2",
+      "note_th": "respectively วางท้ายประโยค เพื่อจับคู่ตัวเลขกับชื่อตามลำดับที่เขียน — ประหยัดคำใน Task 1 มาก แต่ใช้ได้เมื่อมีคู่ชัดเจนเท่านั้น",
+      "distractors": [
+        "respectfully",
+        "respectable",
+        "relatively"
+      ]
+    },
+    {
+      "id": "dip",
+      "word": "dip",
+      "pos": "noun",
+      "ipa": "/dɪp/",
+      "reading_th": "ดิพ",
+      "meaning_th": "การลดลงเล็กน้อยชั่วคราว",
+      "emoji": "〽️",
+      "example_en": "There was a slight dip in sales in August before they recovered.",
+      "example_th": "ยอดขายลดลงเล็กน้อยในเดือนสิงหาคมก่อนจะฟื้นตัว",
+      "cefr": "B2",
+      "note_th": "a dip = ย่อลงนิดเดียวแล้วกลับขึ้น (กริยา dipped) — ต่างจาก drop/fall ที่ลงจริงจัง; ยังแปลว่าน้ำจิ้ม (sauce dip) ได้",
+      "distractors": [
+        "deep",
+        "drop",
+        "tip"
+      ]
+    },
+    {
+      "id": "furthermore",
+      "word": "furthermore",
+      "pos": "adverb",
+      "ipa": "/ˌfɜːrðərˈmɔːr/",
+      "reading_th": "เฟอร์-เธอร์-มอร์",
+      "meaning_th": "นอกจากนี้ (ทางการ)",
+      "emoji": "➕",
+      "example_en": "Furthermore, public transport reduces air pollution.",
+      "example_th": "ยิ่งไปกว่านั้น ขนส่งสาธารณะยังลดมลพิษทางอากาศ",
+      "cefr": "B1",
+      "note_th": "furthermore / moreover / in addition = เพิ่มเหตุผลที่สอง ขึ้นประโยคแล้วตามด้วยคอมมา — อย่าใช้ซ้ำทุกย่อหน้า ผู้ตรวจหักคะแนน",
+      "distractors": [
+        "further",
+        "moreover",
+        "furthest"
+      ]
+    },
+    {
+      "id": "conversely",
+      "word": "conversely",
+      "pos": "adverb",
+      "ipa": "/kənˈvɜːrsli/",
+      "reading_th": "คัน-เวิร์ส-ลี",
+      "meaning_th": "ในทางกลับกัน",
+      "emoji": "🔃",
+      "example_en": "Cities offer more jobs; conversely, rural areas offer cleaner air.",
+      "example_th": "เมืองมีงานมากกว่า ในทางกลับกันชนบทมีอากาศสะอาดกว่า",
+      "cefr": "B2",
+      "note_th": "conversely = พลิกมุมมองไปอีกด้าน (ใกล้ on the other hand) — ไม่ใช่ conversation; ใช้ย่อหน้าที่สองเมื่อเปลี่ยนไปพูดข้อเสีย",
+      "distractors": [
+        "conversation",
+        "converse",
+        "inversely"
+      ]
+    },
+    {
+      "id": "hence",
+      "word": "hence",
+      "pos": "adverb",
+      "ipa": "/hens/",
+      "reading_th": "เฮนซ์",
+      "meaning_th": "ด้วยเหตุนี้",
+      "emoji": "➡️",
+      "example_en": "Fuel is expensive; hence, many people now cycle to work.",
+      "example_th": "น้ำมันแพง ด้วยเหตุนี้หลายคนจึงปั่นจักรยานไปทำงาน",
+      "cefr": "B2",
+      "note_th": "hence = therefore แบบสั้นและวิชาการ — ใช้ได้กับวลีสั้นๆ ด้วย: hence the delay = จึงล่าช้า; อย่าสับสนกับ whence (จากที่ใด)",
+      "distractors": [
+        "hence forth",
+        "whence",
+        "thence"
+      ]
+    },
+    {
+      "id": "admittedly",
+      "word": "admittedly",
+      "pos": "adverb",
+      "ipa": "/ədˈmɪtɪdli/",
+      "reading_th": "แอด-มิท-ทิด-ลี",
+      "meaning_th": "ต้องยอมรับว่า",
+      "emoji": "🤝",
+      "example_en": "Admittedly, electric cars are still expensive for most families.",
+      "example_th": "ต้องยอมรับว่ารถไฟฟ้ายังแพงสำหรับครอบครัวส่วนใหญ่",
+      "cefr": "B2",
+      "note_th": "admittedly = ยอมรับจุดอ่อนของฝั่งตัวเองก่อนแล้วค่อยแย้ง (Admittedly... However...) — เทคนิคเขียนเรียงความให้ดูสมดุล",
+      "distractors": [
+        "admitted",
+        "admirably",
+        "additionally"
+      ]
+    },
+    {
+      "id": "in_conclusion",
+      "word": "in conclusion",
+      "pos": "phrase",
+      "ipa": "/ɪn kənˈkluːʒn/",
+      "reading_th": "อิน คัน-คลู-ชั่น",
+      "meaning_th": "สรุปได้ว่า",
+      "emoji": "🏁",
+      "example_en": "In conclusion, the benefits of technology outweigh the risks.",
+      "example_th": "สรุปได้ว่าประโยชน์ของเทคโนโลยีมีมากกว่าความเสี่ยง",
+      "cefr": "B1",
+      "note_th": "in conclusion, / to conclude, / to sum up, = เปิดย่อหน้าสรุปของ Task 2 — สรุปต้องกล่าวจุดยืนซ้ำ ไม่ใส่ไอเดียใหม่",
+      "distractors": [
+        "in addition",
+        "in contrast",
+        "conclusion"
+      ]
+    },
+    {
+      "id": "justify",
+      "word": "justify",
+      "pos": "verb",
+      "ipa": "/ˈdʒʌstɪfaɪ/",
+      "reading_th": "จัส-ทิ-ฟาย",
+      "meaning_th": "ให้เหตุผลสนับสนุนว่าถูกต้อง",
+      "emoji": "🧾",
+      "example_en": "It is hard to justify spending so much on space travel.",
+      "example_th": "ยากที่จะให้เหตุผลสนับสนุนการใช้เงินมหาศาลกับการเดินทางอวกาศ",
+      "cefr": "B2",
+      "note_th": "justify + V-ing / คำนาม = แสดงว่าทำไมสิ่งนั้นสมเหตุสมผล — คำนาม justification; อย่าสับสนกับ justice (ความยุติธรรม)",
+      "distractors": [
+        "justice",
+        "classify",
+        "testify"
+      ]
+    },
+    {
+      "id": "outweigh",
+      "word": "outweigh",
+      "pos": "verb",
+      "ipa": "/ˌaʊtˈweɪ/",
+      "reading_th": "เอาท์-เว",
+      "meaning_th": "มีน้ำหนักมากกว่า / คุ้มกว่า",
+      "emoji": "⚖️",
+      "example_en": "The advantages of studying abroad outweigh the disadvantages.",
+      "example_th": "ข้อดีของการเรียนต่างประเทศมีมากกว่าข้อเสีย",
+      "cefr": "B2",
+      "note_th": "Do the advantages outweigh the disadvantages? คือโจทย์ Task 2 แบบมาตรฐาน — คำตอบต้องชัดว่าฝั่งไหน outweigh",
+      "distractors": [
+        "overweight",
+        "outway",
+        "outgrow"
+      ]
+    },
+    {
+      "id": "drawback",
+      "word": "drawback",
+      "pos": "noun",
+      "ipa": "/ˈdrɔːbæk/",
+      "reading_th": "ดรอ-แบค",
+      "meaning_th": "ข้อเสีย / ข้อด้อย",
+      "emoji": "👎",
+      "example_en": "One drawback of city life is the high cost of housing.",
+      "example_th": "ข้อเสียอย่างหนึ่งของชีวิตในเมืองคือค่าที่อยู่อาศัยที่สูง",
+      "cefr": "B2",
+      "note_th": "drawback = disadvantage = downside — สลับสามคำนี้ให้ไม่ซ้ำ; a major drawback of + คำนาม",
+      "distractors": [
+        "setback",
+        "feedback",
+        "draw"
+      ]
+    },
+    {
+      "id": "advocate",
+      "word": "advocate",
+      "pos": "verb",
+      "ipa": "/ˈædvəkeɪt/",
+      "reading_th": "แอด-โว-เคท",
+      "meaning_th": "สนับสนุนอย่างเปิดเผย",
+      "emoji": "📣",
+      "example_en": "Many experts advocate a four-day working week.",
+      "example_th": "ผู้เชี่ยวชาญหลายคนสนับสนุนการทำงานสี่วันต่อสัปดาห์",
+      "cefr": "B2",
+      "note_th": "advocate + คำนาม (ไม่มี for เมื่อเป็นกริยา) = เสนอให้ทำ — เป็นคำนามได้: an advocate of/for = ผู้สนับสนุน (ออกเสียงท้าย -เคิท)",
+      "distractors": [
+        "avocado",
+        "allocate",
+        "advertise"
+      ]
+    },
+    {
+      "id": "controversial",
+      "word": "controversial",
+      "pos": "adjective",
+      "ipa": "/ˌkɑːntrəˈvɜːrʃl/",
+      "reading_th": "คอน-โทร-เวอร์-เชิล",
+      "meaning_th": "เป็นที่ถกเถียง",
+      "emoji": "💥",
+      "example_en": "Banning cars from city centers is a controversial idea.",
+      "example_th": "การห้ามรถยนต์เข้าใจกลางเมืองเป็นแนวคิดที่ถกเถียงกันมาก",
+      "cefr": "B2",
+      "note_th": "a controversial issue/topic = เรื่องที่คนเห็นต่างแรง — คำนาม controversy (เน้นพยางค์แรก); ประโยคเปิดเรียงความสุดคลาสสิก",
+      "distractors": [
+        "conventional",
+        "controversy",
+        "commercial"
+      ]
+    },
+    {
+      "id": "viewpoint",
+      "word": "viewpoint",
+      "pos": "noun",
+      "ipa": "/ˈvjuːpɔɪnt/",
+      "reading_th": "วิว-พอยท์",
+      "meaning_th": "มุมมอง / จุดยืนทางความคิด",
+      "emoji": "👁️",
+      "example_en": "From an economic viewpoint, tourism brings many benefits.",
+      "example_th": "จากมุมมองทางเศรษฐกิจ การท่องเที่ยวนำประโยชน์มาหลายอย่าง",
+      "cefr": "B2",
+      "note_th": "from a ... viewpoint = จากมุมมองด้าน... (= point of view / perspective) — ใช้แบ่งย่อหน้าตามมุม: economic, social, environmental",
+      "distractors": [
+        "view",
+        "checkpoint",
+        "pinpoint"
+      ]
+    },
+    {
+      "id": "credible",
+      "word": "credible",
+      "pos": "adjective",
+      "ipa": "/ˈkredəbl/",
+      "reading_th": "เครด-ดิ-เบิล",
+      "meaning_th": "น่าเชื่อถือ(ข้อมูล/แหล่งข่าว)",
+      "emoji": "✅",
+      "example_en": "Students must learn to find credible sources online.",
+      "example_th": "นักเรียนต้องเรียนรู้การหาแหล่งข้อมูลที่น่าเชื่อถือออนไลน์",
+      "cefr": "B2",
+      "note_th": "credible (น่าเชื่อถือ) กับ incredible (เหลือเชื่อ/สุดยอด) ไม่ใช่คู่ตรงข้ามตรงๆ — ตรงข้ามจริงคือ unreliable; credibility = ความน่าเชื่อถือ",
+      "distractors": [
+        "incredible",
+        "edible",
+        "creditable"
+      ]
+    },
+    {
+      "id": "by_and_large",
+      "word": "by and large",
+      "pos": "phrase",
+      "ipa": "/baɪ ənd lɑːrdʒ/",
+      "reading_th": "บาย แอนด์ ลาร์จ",
+      "meaning_th": "โดยรวมแล้ว / ส่วนใหญ่แล้ว",
+      "emoji": "🌐",
+      "example_en": "By and large, people are healthier than fifty years ago.",
+      "example_th": "โดยรวมแล้วผู้คนสุขภาพดีกว่าเมื่อห้าสิบปีก่อน",
+      "cefr": "B2",
+      "note_th": "by and large = generally speaking = on the whole — สำนวนเรือใบเก่า ใช้เปิดประโยคสรุปภาพรวมก่อนลงรายละเอียด",
+      "distractors": [
+        "at large",
+        "by far",
+        "large and small"
+      ]
+    },
+    {
+      "id": "arguably",
+      "word": "arguably",
+      "pos": "adverb",
+      "ipa": "/ˈɑːrɡjuəbli/",
+      "reading_th": "อาร์-กิว-อะ-บลี",
+      "meaning_th": "อาจกล่าวได้ว่า(มีเหตุผลสนับสนุน)",
+      "emoji": "💭",
+      "example_en": "Climate change is arguably the biggest challenge of our time.",
+      "example_th": "อาจกล่าวได้ว่าการเปลี่ยนแปลงสภาพภูมิอากาศเป็นความท้าทายใหญ่ที่สุดของยุคเรา",
+      "cefr": "B2",
+      "note_th": "arguably + ขั้นสุด (arguably the best) = \"มีเหตุผลให้เถียงได้ว่า\" ลดความฟันธง — ไม่ได้แปลว่าน่าเถียงหรือเป็นปัญหา",
+      "distractors": [
+        "arguable",
+        "argument",
+        "allegedly"
+      ]
+    }
+  ]
+}

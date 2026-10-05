@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "renting",
+    "name_en": "Renting & Utilities",
+    "name_th": "เช่าบ้านและค่าน้ำค่าไฟ",
+    "emoji": "🔑",
+    "color_start": "#FBBF24",
+    "color_end": "#92400E",
+    "description_th": "หาห้องเช่า เซ็นสัญญา จ่ายค่าน้ำค่าไฟ และคุยกับเจ้าของบ้านในต่างประเทศ",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "renting_1",
+        "title_en": "Finding a Place",
+        "title_th": "หาห้องเช่า",
+        "emoji": "🔍",
+        "word_ids": [
+          "flat",
+          "studio",
+          "landlord",
+          "tenant",
+          "agent",
+          "listing",
+          "viewing",
+          "furnished",
+          "unfurnished",
+          "neighborhood",
+          "roommate",
+          "floor_plan",
+          "available",
+          "affordable"
+        ]
+      },
+      {
+        "id": "renting_2",
+        "title_en": "The Lease",
+        "title_th": "สัญญาเช่า",
+        "emoji": "📝",
+        "word_ids": [
+          "lease",
+          "tenancy",
+          "security_deposit",
+          "guarantor",
+          "break_clause",
+          "fixed_term",
+          "extend",
+          "break_the_lease",
+          "written_notice",
+          "reference",
+          "inventory",
+          "sublet",
+          "fine_print",
+          "in_advance"
+        ]
+      },
+      {
+        "id": "renting_3",
+        "title_en": "Moving In",
+        "title_th": "ย้ายเข้าและจัดบ้าน",
+        "emoji": "📦",
+        "word_ids": [
+          "move_in",
+          "movers",
+          "unpack",
+          "assemble",
+          "coffee_table",
+          "mattress",
+          "bookshelf",
+          "drawer",
+          "rug",
+          "appliance",
+          "washing_machine",
+          "microwave",
+          "second_hand",
+          "get_settled"
+        ]
+      },
+      {
+        "id": "renting_4",
+        "title_en": "Utilities & Bills",
+        "title_th": "ค่าน้ำค่าไฟ",
+        "emoji": "💡",
+        "word_ids": [
+          "utilities",
+          "electricity",
+          "gas",
+          "internet",
+          "meter_reading",
+          "direct_debit",
+          "provider",
+          "connect",
+          "disconnect",
+          "heating",
+          "usage",
+          "due",
+          "billing_cycle",
+          "outage"
+        ]
+      },
+      {
+        "id": "renting_5",
+        "title_en": "Repairs",
+        "title_th": "ซ่อมแซมในบ้าน",
+        "emoji": "🔧",
+        "word_ids": [
+          "repair",
+          "plumber",
+          "electrician",
+          "handyman",
+          "pipe",
+          "faucet",
+          "clogged",
+          "drain",
+          "mold",
+          "light_bulb",
+          "replace",
+          "fuse",
+          "pest",
+          "lock"
+        ]
+      },
+      {
+        "id": "renting_6",
+        "title_en": "Neighbours & Rules",
+        "title_th": "เพื่อนบ้านและกฎตึก",
+        "emoji": "🏢",
+        "word_ids": [
+          "neighbor",
+          "caretaker",
+          "hallway",
+          "garbage",
+          "quiet_hours",
+          "common_area",
+          "intercom",
+          "doorbell",
+          "mailbox",
+          "raise_a_complaint",
+          "visitor",
+          "keep_it_down",
+          "no_smoking",
+          "get_to_know"
+        ]
+      },
+      {
+        "id": "renting_7",
+        "title_en": "Moving Out",
+        "title_th": "ย้ายออกและรับมัดจำคืน",
+        "emoji": "🚚",
+        "word_ids": [
+          "move_out",
+          "give_notice",
+          "inspection",
+          "wear_and_tear",
+          "deduct",
+          "get_back",
+          "deep_clean",
+          "hand_over",
+          "forwarding_address",
+          "final_bill",
+          "deposit_dispute",
+          "pack_up",
+          "clear",
+          "spotless"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "flat",
+      "word": "flat",
+      "pos": "noun",
+      "ipa": "/flæt/",
+      "reading_th": "แฟลท",
+      "meaning_th": "ห้องชุดให้เช่า (อังกฤษ)",
+      "emoji": "🏢",
+      "example_en": "We found a small flat near the station.",
+      "example_th": "เราเจอห้องชุดเล็กๆ ใกล้สถานี",
+      "cefr": "A2",
+      "note_th": "flat (อังกฤษ) = apartment (อเมริกา) — คนไทยมักพูด \"คอนโด\" แต่ condo ในต่างประเทศหมายถึงห้องที่มีคนซื้อเป็นเจ้าของ ส่วน flat ในความหมายอื่นแปลว่าแบน/ราบ (flat tire = ยางแบน)",
+      "distractors": [
+        "float",
+        "fat",
+        "flap"
+      ]
+    },
+    {
+      "id": "studio",
+      "word": "studio",
+      "pos": "noun",
+      "ipa": "/ˈstuːdioʊ/",
+      "reading_th": "สตู-ดิ-โอ",
+      "meaning_th": "ห้องสตูดิโอ (ห้องเดียวรวมครัว)",
+      "emoji": "🛏️",
+      "example_en": "A studio is cheaper than a one-bedroom apartment.",
+      "example_th": "ห้องสตูดิโอถูกกว่าอพาร์ตเมนต์แบบหนึ่งห้องนอน",
+      "cefr": "A2",
+      "note_th": "studio (หรือ studio flat) = ห้องเดียวที่นอน นั่งเล่น และทำครัวรวมกัน — ประกาศเช่ามักเขียนย่อว่า \"studio\" หรือ \"1-bed\" ให้สังเกตดีๆ",
+      "distractors": [
+        "stadium",
+        "student",
+        "studious"
+      ]
+    },
+    {
+      "id": "landlord",
+      "word": "landlord",
+      "pos": "noun",
+      "ipa": "/ˈlændlɔːrd/",
+      "reading_th": "แลนด์-ลอร์ด",
+      "meaning_th": "เจ้าของบ้านเช่า",
+      "emoji": "🧑‍💼",
+      "example_en": "My landlord lives on the ground floor.",
+      "example_th": "เจ้าของบ้านเช่าของฉันอยู่ชั้นล่าง",
+      "cefr": "A2",
+      "note_th": "landlord = เจ้าของบ้านที่ปล่อยเช่า (ผู้หญิงบางครั้งใช้ landlady) — ต่างจาก owner ที่เป็นเจ้าของเฉยๆ ไม่จำเป็นต้องปล่อยเช่า",
+      "distractors": [
+        "landlady",
+        "landmark",
+        "lord"
+      ]
+    },
+    {
+      "id": "tenant",
+      "word": "tenant",
+      "pos": "noun",
+      "ipa": "/ˈtenənt/",
+      "reading_th": "เท-เนินท์",
+      "meaning_th": "ผู้เช่า",
+      "emoji": "🙋",
+      "example_en": "The tenant must pay rent on the first of every month.",
+      "example_th": "ผู้เช่าต้องจ่ายค่าเช่าทุกวันที่หนึ่งของเดือน",
+      "cefr": "B1",
+      "note_th": "tenant = ผู้เช่าตามสัญญา ใช้ในเอกสารทางการ — ส่วน renter ก็ใช้ได้ในภาษาพูด และถ้าพูดถึงสิทธิผู้เช่าจะเรียกว่า tenant rights",
+      "distractors": [
+        "tent",
+        "talent",
+        "tenor"
+      ]
+    },
+    {
+      "id": "agent",
+      "word": "agent",
+      "pos": "noun",
+      "ipa": "/ˈeɪdʒənt/",
+      "reading_th": "เอ-เจินท์",
+      "meaning_th": "นายหน้า / ตัวแทน",
+      "emoji": "🤝",
+      "example_en": "The agent showed us three flats in one afternoon.",
+      "example_th": "นายหน้าพาเราดูห้องสามห้องในบ่ายเดียว",
+      "cefr": "A2",
+      "note_th": "นายหน้าบ้านเช่า = letting agent (อังกฤษ) หรือ real estate agent (อเมริกัน) — ระวัง agency fee ค่าธรรมเนียมนายหน้าที่บางประเทศห้ามเก็บจากผู้เช่าแล้ว",
+      "distractors": [
+        "agency",
+        "urgent",
+        "argent"
+      ]
+    },
+    {
+      "id": "listing",
+      "word": "listing",
+      "pos": "noun",
+      "ipa": "/ˈlɪstɪŋ/",
+      "reading_th": "ลิส-ติ้ง",
+      "meaning_th": "ประกาศให้เช่า",
+      "emoji": "📋",
+      "example_en": "I saw the listing online and called right away.",
+      "example_th": "ฉันเห็นประกาศให้เช่าออนไลน์แล้วโทรไปทันที",
+      "cefr": "B1",
+      "note_th": "listing = ประกาศ (ขาย/ให้เช่า) บนเว็บหรือแอป — ประโยคที่ได้ใช้บ่อย: \"Is this listing still available?\" ห้องนี้ยังว่างไหม",
+      "distractors": [
+        "listening",
+        "lifting",
+        "lasting"
+      ]
+    },
+    {
+      "id": "viewing",
+      "word": "viewing",
+      "pos": "noun",
+      "ipa": "/ˈvjuːɪŋ/",
+      "reading_th": "วิว-อิ้ง",
+      "meaning_th": "การนัดดูห้อง",
+      "emoji": "👀",
+      "example_en": "Can I book a viewing for Saturday morning?",
+      "example_th": "ขอนัดดูห้องเช้าวันเสาร์ได้ไหม",
+      "cefr": "B1",
+      "note_th": "นัดดูห้อง = book/arrange a viewing — ตอนไปดูให้ลองเปิดก๊อกน้ำ เช็กสัญญาณมือถือ และถามว่า bills included ไหม",
+      "distractors": [
+        "view",
+        "reviewing",
+        "visiting"
+      ]
+    },
+    {
+      "id": "furnished",
+      "word": "furnished",
+      "pos": "adjective",
+      "ipa": "/ˈfɜːrnɪʃt/",
+      "reading_th": "เฟอร์-นิชท์",
+      "meaning_th": "มีเฟอร์นิเจอร์ครบ",
+      "emoji": "🛋️",
+      "example_en": "The room is fully furnished with a bed and a desk.",
+      "example_th": "ห้องมีเฟอร์นิเจอร์ครบทั้งเตียงและโต๊ะทำงาน",
+      "cefr": "B1",
+      "note_th": "fully furnished = มีครบ, part-furnished = มีบางส่วน — ห้องเช่าในยุโรปหลายที่ให้มาแค่ห้องเปล่า ถามให้ชัดก่อนเซ็น",
+      "distractors": [
+        "finished",
+        "furnace",
+        "furniture"
+      ]
+    },
+    {
+      "id": "unfurnished",
+      "word": "unfurnished",
+      "pos": "adjective",
+      "ipa": "/ʌnˈfɜːrnɪʃt/",
+      "reading_th": "อัน-เฟอร์-นิชท์",
+      "meaning_th": "ห้องเปล่า ไม่มีเฟอร์นิเจอร์",
+      "emoji": "🚪",
+      "example_en": "An unfurnished flat is cheaper, but you need to buy everything.",
+      "example_th": "ห้องเปล่าถูกกว่า แต่ต้องซื้อของเองทุกอย่าง",
+      "cefr": "B1",
+      "note_th": "un- แปลว่า \"ไม่\" — unfurnished บางทีไม่มีแม้แต่ตู้เย็นหรือเตา ในเยอรมนีบางห้องไม่มีแม้กระทั่งครัว (no kitchen!)",
+      "distractors": [
+        "unfinished",
+        "furnished",
+        "unfamiliar"
+      ]
+    },
+    {
+      "id": "neighborhood",
+      "word": "neighborhood",
+      "pos": "noun",
+      "ipa": "/ˈneɪbərhʊd/",
+      "reading_th": "เน-เบอร์-ฮุด",
+      "meaning_th": "ย่าน / ละแวกบ้าน",
+      "emoji": "🏘️",
+      "example_en": "This neighborhood is quiet and safe at night.",
+      "example_th": "ย่านนี้เงียบและปลอดภัยตอนกลางคืน",
+      "cefr": "A2",
+      "note_th": "อเมริกันสะกด neighborhood อังกฤษสะกด neighbourhood — ถามคนท้องถิ่นว่า \"Is it a good neighborhood?\" ก่อนตัดสินใจเช่าเสมอ",
+      "distractors": [
+        "neighbor",
+        "childhood",
+        "brotherhood"
+      ]
+    },
+    {
+      "id": "roommate",
+      "word": "roommate",
+      "pos": "noun",
+      "ipa": "/ˈruːmmeɪt/",
+      "reading_th": "รูม-เมท",
+      "meaning_th": "เพื่อนร่วมห้อง / ร่วมบ้าน",
+      "emoji": "👯",
+      "example_en": "My roommate and I split the rent in half.",
+      "example_th": "ฉันกับเพื่อนร่วมห้องแบ่งค่าเช่ากันคนละครึ่ง",
+      "cefr": "A2",
+      "note_th": "อเมริกันเรียก roommate แม้จะอยู่คนละห้องในบ้านเดียวกัน ส่วนอังกฤษใช้ flatmate/housemate — หาเพื่อนร่วมบ้านได้ในกลุ่ม \"room share\"",
+      "distractors": [
+        "classmate",
+        "teammate",
+        "roomy"
+      ]
+    },
+    {
+      "id": "floor_plan",
+      "word": "floor plan",
+      "pos": "noun",
+      "ipa": "/ˈflɔːr plæn/",
+      "reading_th": "ฟลอร์ แพลน",
+      "meaning_th": "แปลนห้อง",
+      "emoji": "📐",
+      "example_en": "Check the floor plan to see where the windows are.",
+      "example_th": "ดูแปลนห้องว่าหน้าต่างอยู่ตรงไหน",
+      "cefr": "B1",
+      "note_th": "floor plan = แผนผังห้องมองจากด้านบน บอกขนาดเป็นตารางเมตร (sqm) หรือตารางฟุต (sq ft) — อเมริกาใช้ฟุต ยุโรปใช้เมตร",
+      "distractors": [
+        "floor",
+        "plan",
+        "flight plan"
+      ]
+    },
+    {
+      "id": "available",
+      "word": "available",
+      "pos": "adjective",
+      "ipa": "/əˈveɪləbl/",
+      "reading_th": "อะ-เว-ละ-เบิล",
+      "meaning_th": "ว่างให้เช่า / พร้อมใช้",
+      "emoji": "✅",
+      "example_en": "The room is available from the first of June.",
+      "example_th": "ห้องว่างให้เช่าตั้งแต่วันที่หนึ่งมิถุนายน",
+      "cefr": "A2",
+      "note_th": "\"available from\" + วันที่ = เข้าอยู่ได้ตั้งแต่ — ถ้าห้องถูกเช่าไปแล้วจะบอกว่า \"It's been taken\" หรือ \"no longer available\"",
+      "distractors": [
+        "valuable",
+        "avoidable",
+        "affordable"
+      ]
+    },
+    {
+      "id": "affordable",
+      "word": "affordable",
+      "pos": "adjective",
+      "ipa": "/əˈfɔːrdəbl/",
+      "reading_th": "อะ-ฟอร์-ดะ-เบิล",
+      "meaning_th": "ราคาจับต้องได้",
+      "emoji": "💰",
+      "example_en": "It is hard to find affordable housing in this city.",
+      "example_th": "หาที่พักราคาจับต้องได้ในเมืองนี้ยากมาก",
+      "cefr": "B1",
+      "note_th": "affordable = ราคาที่จ่ายไหว (ไม่ได้แปลว่าถูก) มาจาก afford — กฎนิ้วโป้งฝรั่ง: ค่าเช่าไม่ควรเกิน 30% ของรายได้",
+      "distractors": [
+        "available",
+        "adorable",
+        "acceptable"
+      ]
+    },
+    {
+      "id": "lease",
+      "word": "lease",
+      "pos": "noun",
+      "ipa": "/liːs/",
+      "reading_th": "ลีส",
+      "meaning_th": "สัญญาเช่า",
+      "emoji": "📄",
+      "example_en": "Read the lease carefully before you sign it.",
+      "example_th": "อ่านสัญญาเช่าให้ละเอียดก่อนเซ็น",
+      "cefr": "B1",
+      "note_th": "lease = สัญญาเช่าแบบมีระยะเวลา (มักได้ยินคู่กับ 12-month lease) — ใช้เป็นกริยาได้ด้วย: lease a car = เช่ารถระยะยาว",
+      "distractors": [
+        "least",
+        "leash",
+        "loose"
+      ]
+    },
+    {
+      "id": "tenancy",
+      "word": "tenancy",
+      "pos": "noun",
+      "ipa": "/ˈtenənsi/",
+      "reading_th": "เท-เนิน-ซี",
+      "meaning_th": "การเช่าอยู่ / ระยะเวลาเช่า",
+      "emoji": "🗓️",
+      "example_en": "Your tenancy starts on the day you get the keys.",
+      "example_th": "การเช่าของคุณเริ่มนับตั้งแต่วันที่ได้รับกุญแจ",
+      "cefr": "B1",
+      "note_th": "คำอังกฤษที่โผล่ในเอกสารบ่อย: tenancy agreement = สัญญาเช่า, joint tenancy = เช่าร่วมกันหลายคน (ถ้าเพื่อนไม่จ่าย คุณต้องรับผิดชอบด้วย!)",
+      "distractors": [
+        "tenant",
+        "tendency",
+        "currency"
+      ]
+    },
+    {
+      "id": "security_deposit",
+      "word": "security deposit",
+      "pos": "noun",
+      "ipa": "/sɪˈkjʊrəti dɪˈpɑːzɪt/",
+      "reading_th": "ซิ-เคียว-ริ-ตี้ ดิ-พอ-ซิท",
+      "meaning_th": "เงินประกันห้อง",
+      "emoji": "🔒",
+      "example_en": "The security deposit is usually one month's rent.",
+      "example_th": "เงินประกันห้องปกติเท่ากับค่าเช่าหนึ่งเดือน",
+      "cefr": "B1",
+      "note_th": "security deposit = เงินประกันความเสียหาย คืนตอนย้ายออก — ในอังกฤษต้องฝากไว้กับ deposit scheme ของรัฐ ถามเจ้าของบ้านได้ว่าฝากที่ไหน",
+      "distractors": [
+        "down payment",
+        "advance",
+        "insurance"
+      ]
+    },
+    {
+      "id": "guarantor",
+      "word": "guarantor",
+      "pos": "noun",
+      "ipa": "/ˌɡærənˈtɔːr/",
+      "reading_th": "แก-เริน-ทอร์",
+      "meaning_th": "ผู้ค้ำประกัน",
+      "emoji": "🧑‍⚖️",
+      "example_en": "Students often need a guarantor to rent a flat.",
+      "example_th": "นักศึกษามักต้องมีผู้ค้ำประกันถึงจะเช่าห้องได้",
+      "cefr": "B2",
+      "note_th": "guarantor = คนที่สัญญาว่าจะจ่ายแทนถ้าคุณจ่ายไม่ได้ (มักต้องเป็นคนในประเทศ) — ไม่มีผู้ค้ำ? หลายที่ให้จ่ายค่าเช่าล่วงหน้า 6 เดือนแทน",
+      "distractors": [
+        "guarantee",
+        "guardian",
+        "generator"
+      ]
+    },
+    {
+      "id": "break_clause",
+      "word": "break clause",
+      "pos": "noun",
+      "ipa": "/ˈbreɪk klɔːz/",
+      "reading_th": "เบรค คลอส",
+      "meaning_th": "ข้อสัญญาให้ยกเลิกก่อนกำหนด",
+      "emoji": "📑",
+      "example_en": "Ask for a break clause so you can leave after six months.",
+      "example_th": "ขอให้ใส่ข้อสัญญาให้ยกเลิกก่อนกำหนด จะได้ย้ายออกได้หลังหกเดือน",
+      "cefr": "B2",
+      "note_th": "break clause = ข้อในสัญญาเช่าที่ให้ฝ่ายใดฝ่ายหนึ่งยกเลิกก่อนครบกำหนดได้ (เช่น หลัง 6 เดือน แจ้งล่วงหน้า 2 เดือน) — ไม่มีข้อนี้ = ต้องจ่ายค่าเช่าจนครบสัญญาแม้ย้ายออกแล้ว ขอใส่ตั้งแต่ก่อนเซ็น",
+      "distractors": [
+        "break time",
+        "clause",
+        "brake"
+      ]
+    },
+    {
+      "id": "fixed_term",
+      "word": "fixed-term",
+      "pos": "adjective",
+      "ipa": "/ˌfɪkst ˈtɜːrm/",
+      "reading_th": "ฟิกซ์ เทิร์ม",
+      "meaning_th": "แบบกำหนดระยะเวลาแน่นอน",
+      "emoji": "⏳",
+      "example_en": "A fixed-term lease of twelve months is the most common.",
+      "example_th": "สัญญาเช่าแบบกำหนดระยะเวลาแน่นอนสิบสองเดือนพบได้บ่อยที่สุด",
+      "cefr": "B2",
+      "note_th": "fixed-term = มีวันเริ่มและวันจบชัดเจน ตรงข้ามกับ rolling/periodic (ต่อเดือนต่อเดือนไปเรื่อยๆ) — หมดสัญญา fixed-term แล้วไม่เซ็นใหม่ หลายประเทศจะกลายเป็น rolling โดยอัตโนมัติ",
+      "distractors": [
+        "full-time",
+        "long-term",
+        "fixed"
+      ]
+    },
+    {
+      "id": "extend",
+      "word": "extend",
+      "pos": "verb",
+      "ipa": "/ɪkˈstend/",
+      "reading_th": "อิค-สเตนด์",
+      "meaning_th": "ต่ออายุ / ขยายเวลา (สัญญา)",
+      "emoji": "🔁",
+      "example_en": "Can we extend the lease for another six months?",
+      "example_th": "เราขอต่อสัญญาเช่าอีกหกเดือนได้ไหม",
+      "cefr": "B1",
+      "note_th": "extend = ขยายเวลาให้ยาวขึ้น ใช้กับสัญญาเช่า วีซ่า และกำหนดส่งงาน (คำนาม extension) — ส่วน renew = ต่ออายุใหม่อีกรอบ ในชีวิตจริงเจ้าของบ้านใช้สลับกันได้ทั้งสองคำ",
+      "distractors": [
+        "expand",
+        "intend",
+        "extent"
+      ]
+    },
+    {
+      "id": "break_the_lease",
+      "word": "break the lease",
+      "pos": "phrase",
+      "ipa": "/ˌbreɪk ðə ˈliːs/",
+      "reading_th": "เบรค เดอะ ลีส",
+      "meaning_th": "ยกเลิกสัญญาเช่าก่อนกำหนด",
+      "emoji": "✂️",
+      "example_en": "If you break the lease early, you may lose your deposit.",
+      "example_th": "ถ้ายกเลิกสัญญาเช่าก่อนกำหนด คุณอาจเสียเงินมัดจำ",
+      "cefr": "B2",
+      "note_th": "break the lease = ย้ายออกก่อนหมดสัญญา (ภาษาทางการคือ terminate the tenancy early) — ทางออกที่ถูกกว่าค่าปรับคือหาคนมาเช่าต่อ (find a replacement tenant) แล้วให้เจ้าของบ้านอนุมัติ",
+      "distractors": [
+        "break the law",
+        "break the ice",
+        "sign the lease"
+      ]
+    },
+    {
+      "id": "written_notice",
+      "word": "written notice",
+      "pos": "noun",
+      "ipa": "/ˌrɪtn ˈnoʊtɪs/",
+      "reading_th": "ริท-เทิน โน-ทิส",
+      "meaning_th": "หนังสือแจ้งล่วงหน้าเป็นลายลักษณ์อักษร",
+      "emoji": "📨",
+      "example_en": "The landlord needs written notice two months before you leave.",
+      "example_th": "เจ้าของบ้านต้องได้รับหนังสือแจ้งล่วงหน้าเป็นลายลักษณ์อักษรสองเดือนก่อนคุณย้ายออก",
+      "cefr": "B1",
+      "note_th": "written notice = แจ้งเป็นอีเมลหรือจดหมาย (ไม่ใช่บอกปากเปล่า) ใช้ทั้งตอนผู้เช่าจะออกและเจ้าของบ้านจะขึ้นค่าเช่า — เก็บสำเนาและวันที่ส่งไว้เสมอ เป็นหลักฐานถ้ามีข้อพิพาท",
+      "distractors": [
+        "notice board",
+        "notice period",
+        "written test"
+      ]
+    },
+    {
+      "id": "reference",
+      "word": "reference",
+      "pos": "noun",
+      "ipa": "/ˈrefrəns/",
+      "reading_th": "เรฟ-เฟอ-เรินซ์",
+      "meaning_th": "หนังสือรับรอง / คนรับรอง",
+      "emoji": "📨",
+      "example_en": "The landlord asked for a reference from my employer.",
+      "example_th": "เจ้าของบ้านขอหนังสือรับรองจากนายจ้างของฉัน",
+      "cefr": "B1",
+      "note_th": "ตอนเช่าบ้านต่างประเทศมักถูกขอ references = เอกสารหรือคนรับรองว่าคุณจ่ายไหวและเป็นผู้เช่าที่ดี — เจ้าของบ้านเก่าเขียนให้ได้ (landlord reference)",
+      "distractors": [
+        "preference",
+        "referee",
+        "difference"
+      ]
+    },
+    {
+      "id": "inventory",
+      "word": "inventory",
+      "pos": "noun",
+      "ipa": "/ˈɪnvəntɔːri/",
+      "reading_th": "อิน-เวิน-ทอ-รี",
+      "meaning_th": "รายการทรัพย์สินในห้อง",
+      "emoji": "🗒️",
+      "example_en": "Check the inventory and take photos on your first day.",
+      "example_th": "เช็กรายการทรัพย์สินในห้องและถ่ายรูปไว้ตั้งแต่วันแรก",
+      "cefr": "B2",
+      "note_th": "inventory = รายการของทุกชิ้นในห้องพร้อมสภาพ ใช้เทียบตอนย้ายออก — ถ่ายรูปรอยขีดข่วนที่มีอยู่แล้วส่งให้เจ้าของบ้านทางอีเมล จะได้ไม่โดนหักมัดจำ",
+      "distractors": [
+        "invention",
+        "investment",
+        "interview"
+      ]
+    },
+    {
+      "id": "sublet",
+      "word": "sublet",
+      "pos": "verb",
+      "ipa": "/ˌsʌbˈlet/",
+      "reading_th": "ซับ-เล็ท",
+      "meaning_th": "ปล่อยเช่าช่วง",
+      "emoji": "🔄",
+      "example_en": "Can I sublet my room while I am away for the summer?",
+      "example_th": "ฉันปล่อยเช่าช่วงห้องตอนไม่อยู่ช่วงหน้าร้อนได้ไหม",
+      "cefr": "B2",
+      "note_th": "sublet = ผู้เช่าเอาห้องไปให้คนอื่นเช่าต่อ — สัญญาส่วนใหญ่ห้าม (no subletting) ถ้าทำโดยไม่ขออนุญาตอาจถูกไล่ออกได้",
+      "distractors": [
+        "sublease",
+        "submit",
+        "subtle"
+      ]
+    },
+    {
+      "id": "fine_print",
+      "word": "fine print",
+      "pos": "noun",
+      "ipa": "/ˌfaɪn ˈprɪnt/",
+      "reading_th": "ไฟน์ พรินท์",
+      "meaning_th": "ข้อความตัวเล็กในสัญญา",
+      "emoji": "🔍",
+      "example_en": "Always read the fine print before you agree to anything.",
+      "example_th": "อ่านข้อความตัวเล็กในสัญญาเสมอก่อนตกลงอะไร",
+      "cefr": "B2",
+      "note_th": "fine print (หรือ small print) = เงื่อนไขตัวเล็กๆ ที่ซ่อนค่าใช้จ่ายไว้ — fine ตรงนี้แปลว่า \"ละเอียด/เล็ก\" ไม่ใช่ \"ดี\" และไม่ใช่ค่าปรับ",
+      "distractors": [
+        "footprint",
+        "blueprint",
+        "fine"
+      ]
+    },
+    {
+      "id": "in_advance",
+      "word": "in advance",
+      "pos": "phrase",
+      "ipa": "/ɪn ədˈvæns/",
+      "reading_th": "อิน แอด-แวนซ์",
+      "meaning_th": "ล่วงหน้า",
+      "emoji": "⏩",
+      "example_en": "Rent is paid in advance at the start of each month.",
+      "example_th": "ค่าเช่าจ่ายล่วงหน้าตอนต้นเดือน",
+      "cefr": "B1",
+      "note_th": "pay in advance = จ่ายล่วงหน้า, book in advance = จองล่วงหน้า — ส่วน advance payment เป็นคำนาม คนไทยชอบพูด \"จ่ายก่อน\" ให้ใช้ in advance แทน before",
+      "distractors": [
+        "in advice",
+        "advanced",
+        "in a hurry"
+      ]
+    },
+    {
+      "id": "move_in",
+      "word": "move in",
+      "pos": "phrase",
+      "ipa": "/ˌmuːv ˈɪn/",
+      "reading_th": "มูฟ อิน",
+      "meaning_th": "ย้ายเข้า",
+      "emoji": "🏠",
+      "example_en": "We can move in as soon as the cleaning is done.",
+      "example_th": "เราย้ายเข้าได้ทันทีที่ทำความสะอาดเสร็จ",
+      "cefr": "A2",
+      "note_th": "move in = ย้ายเข้า, move out = ย้ายออก, move house = ย้ายบ้าน — move-in date (มีขีด) เป็นคำนาม = วันเข้าอยู่ ที่เจ้าของบ้านจะถามเสมอ",
+      "distractors": [
+        "move on",
+        "move out",
+        "come in"
+      ]
+    },
+    {
+      "id": "movers",
+      "word": "movers",
+      "pos": "noun",
+      "ipa": "/ˈmuːvərz/",
+      "reading_th": "มู-เวอร์ส",
+      "meaning_th": "บริษัทขนย้าย",
+      "emoji": "🚛",
+      "example_en": "The movers will bring the boxes on Friday.",
+      "example_th": "บริษัทขนย้ายจะเอากล่องมาส่งวันศุกร์",
+      "cefr": "B1",
+      "note_th": "movers (อเมริกัน) = removals หรือ a removal company (อังกฤษ) — ถ้าของน้อยคนต่างชาติมักใช้บริการ man with a van ถูกกว่าเยอะ",
+      "distractors": [
+        "movies",
+        "drivers",
+        "makers"
+      ]
+    },
+    {
+      "id": "unpack",
+      "word": "unpack",
+      "pos": "verb",
+      "ipa": "/ʌnˈpæk/",
+      "reading_th": "อัน-แพ็ค",
+      "meaning_th": "แกะของออกจากกล่อง",
+      "emoji": "📦",
+      "example_en": "It took us a whole weekend to unpack everything.",
+      "example_th": "เราใช้เวลาทั้งสุดสัปดาห์กว่าจะแกะของออกจากกล่องหมด",
+      "cefr": "A2",
+      "note_th": "pack = เก็บของใส่กล่อง/กระเป๋า, unpack = แกะออก — ใช้กับกระเป๋าเดินทางได้ด้วย: I haven't unpacked yet = ยังไม่ได้แกะกระเป๋าเลย",
+      "distractors": [
+        "unlock",
+        "package",
+        "repack"
+      ]
+    },
+    {
+      "id": "assemble",
+      "word": "assemble",
+      "pos": "verb",
+      "ipa": "/əˈsembl/",
+      "reading_th": "อะ-เซม-เบิล",
+      "meaning_th": "ประกอบ (เฟอร์นิเจอร์)",
+      "emoji": "🔩",
+      "example_en": "It took three hours to assemble the bookshelf.",
+      "example_th": "ใช้เวลาสามชั่วโมงกว่าจะประกอบชั้นหนังสือเสร็จ",
+      "cefr": "B1",
+      "note_th": "assemble = ประกอบชิ้นส่วนเข้าด้วยกัน (เฟอร์นิเจอร์ IKEA ทุกชิ้น!) — flat-pack furniture = เฟอร์นิเจอร์ที่มาเป็นแผ่นให้ประกอบเอง, คำนามคือ assembly",
+      "distractors": [
+        "resemble",
+        "assembly",
+        "assume"
+      ]
+    },
+    {
+      "id": "coffee_table",
+      "word": "coffee table",
+      "pos": "noun",
+      "ipa": "/ˈkɔːfi ˌteɪbl/",
+      "reading_th": "คอฟ-ฟี่ เท-เบิล",
+      "meaning_th": "โต๊ะกลางห้องนั่งเล่น",
+      "emoji": "🪑",
+      "example_en": "A coffee table in front of the sofa makes the room feel complete.",
+      "example_th": "โต๊ะกลางหน้าโซฟาทำให้ห้องดูสมบูรณ์ขึ้น",
+      "cefr": "A2",
+      "note_th": "coffee table = โต๊ะเตี้ยหน้าโซฟา (ไม่ได้มีไว้ดื่มกาแฟอย่างเดียว) ของชิ้นแรกๆ ที่คนย้ายบ้านซื้อมือสอง — coffee table book = หนังสือภาพเล่มใหญ่ที่วางโชว์",
+      "distractors": [
+        "dining table",
+        "side table",
+        "coffee shop"
+      ]
+    },
+    {
+      "id": "mattress",
+      "word": "mattress",
+      "pos": "noun",
+      "ipa": "/ˈmætrəs/",
+      "reading_th": "แมท-เทรส",
+      "meaning_th": "ที่นอน / ฟูก",
+      "emoji": "🛏️",
+      "example_en": "The mattress is too soft, so my back hurts.",
+      "example_th": "ที่นอนนิ่มเกินไป ปวดหลังเลย",
+      "cefr": "A2",
+      "note_th": "mattress = ฟูกที่วางบนเตียง ส่วน bed = ทั้งเตียง — ห้องเช่าแบบ furnished มักให้เตียงแต่หลายคนเลือกซื้อ mattress topper เพิ่มความนุ่ม",
+      "distractors": [
+        "matters",
+        "mistress",
+        "actress"
+      ]
+    },
+    {
+      "id": "bookshelf",
+      "word": "bookshelf",
+      "pos": "noun",
+      "ipa": "/ˈbʊkʃelf/",
+      "reading_th": "บุ๊ค-เชลฟ์",
+      "meaning_th": "ชั้นหนังสือ",
+      "emoji": "📚",
+      "example_en": "Put the bookshelf against the wall by the door.",
+      "example_th": "วางชั้นหนังสือชิดผนังข้างประตู",
+      "cefr": "A2",
+      "note_th": "shelf = ชั้นวางแผ่นเดียว, bookshelf/bookcase = ชั้นหนังสือทั้งตู้ — พหูพจน์เปลี่ยน f เป็น ves: shelves, bookshelves",
+      "distractors": [
+        "bookcase",
+        "bookstore",
+        "shelf"
+      ]
+    },
+    {
+      "id": "drawer",
+      "word": "drawer",
+      "pos": "noun",
+      "ipa": "/drɔːr/",
+      "reading_th": "ดรอร์",
+      "meaning_th": "ลิ้นชัก",
+      "emoji": "🗄️",
+      "example_en": "The spare keys are in the top drawer.",
+      "example_th": "กุญแจสำรองอยู่ในลิ้นชักบนสุด",
+      "cefr": "A2",
+      "note_th": "drawer อ่านว่า \"ดรอร์\" พยางค์เดียว ไม่ใช่ \"ดรอ-เออร์\" — chest of drawers = ตู้ลิ้นชัก สะกดสลับกับ draw (วาด) บ่อยมาก",
+      "distractors": [
+        "draw",
+        "drawing",
+        "door"
+      ]
+    },
+    {
+      "id": "rug",
+      "word": "rug",
+      "pos": "noun",
+      "ipa": "/rʌɡ/",
+      "reading_th": "รัก",
+      "meaning_th": "พรมผืนเล็ก",
+      "emoji": "🧶",
+      "example_en": "A rug makes the living room feel warmer.",
+      "example_th": "พรมผืนเล็กทำให้ห้องนั่งเล่นดูอบอุ่นขึ้น",
+      "cefr": "A2",
+      "note_th": "rug = พรมผืนที่วางได้ ยกได้ ส่วน carpet = พรมปูทั้งห้องติดพื้น — บ้านเช่าเมืองหนาวมักปู carpet มาให้ แล้วเราซื้อ rug มาตกแต่งเพิ่ม",
+      "distractors": [
+        "bug",
+        "rag",
+        "mug"
+      ]
+    },
+    {
+      "id": "appliance",
+      "word": "appliance",
+      "pos": "noun",
+      "ipa": "/əˈplaɪəns/",
+      "reading_th": "แอพ-พลาย-เอินซ์",
+      "meaning_th": "เครื่องใช้ไฟฟ้า",
+      "emoji": "🔌",
+      "example_en": "Every appliance in the kitchen is included in the rent.",
+      "example_th": "เครื่องใช้ไฟฟ้าทุกชิ้นในครัวรวมอยู่ในค่าเช่าแล้ว",
+      "cefr": "B1",
+      "note_th": "appliance = เครื่องใช้ไฟฟ้าในบ้าน เช่น ตู้เย็น เครื่องซักผ้า (home/kitchen appliances) — ส่วน device/gadget คือของชิ้นเล็กอย่างมือถือ",
+      "distractors": [
+        "application",
+        "alliance",
+        "appearance"
+      ]
+    },
+    {
+      "id": "washing_machine",
+      "word": "washing machine",
+      "pos": "noun",
+      "ipa": "/ˈwɑːʃɪŋ məˌʃiːn/",
+      "reading_th": "วอช-ชิ่ง มะ-ชีน",
+      "meaning_th": "เครื่องซักผ้า",
+      "emoji": "🫧",
+      "example_en": "The washing machine is in the basement, not in the flat.",
+      "example_th": "เครื่องซักผ้าอยู่ชั้นใต้ดิน ไม่ได้อยู่ในห้อง",
+      "cefr": "A2",
+      "note_th": "คนไทยชอบพูด \"washing\" เฉยๆ ต้องพูดเต็มว่า washing machine — เครื่องอบผ้า = tumble dryer หลายประเทศไม่มีที่ตากผ้ากลางแจ้ง ถามไว้ก่อน",
+      "distractors": [
+        "dishwasher",
+        "vending machine",
+        "dryer"
+      ]
+    },
+    {
+      "id": "microwave",
+      "word": "microwave",
+      "pos": "noun",
+      "ipa": "/ˈmaɪkrəweɪv/",
+      "reading_th": "ไม-โคร-เวฟ",
+      "meaning_th": "ไมโครเวฟ",
+      "emoji": "♨️",
+      "example_en": "You can heat the leftovers in the microwave.",
+      "example_th": "อุ่นอาหารที่เหลือในไมโครเวฟได้",
+      "cefr": "A2",
+      "note_th": "ใช้เป็นกริยาได้: microwave it for two minutes = เวฟสองนาที — ภาชนะที่เข้าไมโครเวฟได้เรียกว่า microwave-safe",
+      "distractors": [
+        "microphone",
+        "oven",
+        "microscope"
+      ]
+    },
+    {
+      "id": "second_hand",
+      "word": "second-hand",
+      "pos": "adjective",
+      "ipa": "/ˌsekənd ˈhænd/",
+      "reading_th": "เซ-เคินด์ แฮนด์",
+      "meaning_th": "มือสอง",
+      "emoji": "♻️",
+      "example_en": "I got a second-hand sofa for almost nothing.",
+      "example_th": "ฉันได้โซฟามือสองมาแทบจะฟรี",
+      "cefr": "A2",
+      "note_th": "second-hand = มือสอง (อังกฤษ) ส่วนอเมริกันชอบใช้ used หรือ pre-owned — ร้านมือสองการกุศลในอังกฤษเรียก charity shop ของดีราคาถูกมาก",
+      "distractors": [
+        "first-hand",
+        "handmade",
+        "second"
+      ]
+    },
+    {
+      "id": "get_settled",
+      "word": "get settled",
+      "pos": "phrase",
+      "ipa": "/ˌɡet ˈsetld/",
+      "reading_th": "เก็ท เซท-เทิลด์",
+      "meaning_th": "เข้าที่เข้าทาง (ในบ้านใหม่)",
+      "emoji": "🏡",
+      "example_en": "It took a month to get settled in the new flat.",
+      "example_th": "ใช้เวลาหนึ่งเดือนกว่าจะเข้าที่เข้าทางในห้องใหม่",
+      "cefr": "B1",
+      "note_th": "get settled (in) = ปรับตัวจนรู้สึกเป็นบ้านแล้ว ทั้งจัดของเสร็จและคุ้นย่านใหม่ — คำถามที่เพื่อนบ้านและเพื่อนร่วมงานชอบถามคนเพิ่งย้ายมา: \"Are you settled in yet?\"",
+      "distractors": [
+        "get started",
+        "get up",
+        "settle down"
+      ]
+    },
+    {
+      "id": "utilities",
+      "word": "utilities",
+      "pos": "noun",
+      "ipa": "/juːˈtɪlətiz/",
+      "reading_th": "ยู-ทิ-ลิ-ตี้ส์",
+      "meaning_th": "ค่าน้ำค่าไฟค่าแก๊ส",
+      "emoji": "💡",
+      "example_en": "The rent is 800 a month, and utilities are extra.",
+      "example_th": "ค่าเช่าเดือนละ 800 ส่วนค่าน้ำค่าไฟจ่ายเพิ่มต่างหาก",
+      "cefr": "B1",
+      "note_th": "utilities = น้ำ ไฟ แก๊ส (บางที่รวมเน็ต) — ประโยคสำคัญตอนดูห้อง: \"Are utilities included?\" รวมค่าน้ำค่าไฟหรือยัง อังกฤษมักพูดว่า bills included",
+      "distractors": [
+        "utensils",
+        "facilities",
+        "abilities"
+      ]
+    },
+    {
+      "id": "electricity",
+      "word": "electricity",
+      "pos": "noun",
+      "ipa": "/ɪˌlekˈtrɪsəti/",
+      "reading_th": "อิ-เล็ค-ทริ-ซิ-ตี้",
+      "meaning_th": "ไฟฟ้า",
+      "emoji": "⚡",
+      "example_en": "Our electricity bill doubled during the winter.",
+      "example_th": "ค่าไฟของเราเพิ่มเป็นสองเท่าช่วงหน้าหนาว",
+      "cefr": "A2",
+      "note_th": "electricity = ไฟฟ้า (นามนับไม่ได้) ส่วน electric = คำคุณศัพท์ เช่น electric heater — ไฟดับพูดว่า the power is out ไม่ใช่ the electricity is broken",
+      "distractors": [
+        "electronics",
+        "electrician",
+        "electric"
+      ]
+    },
+    {
+      "id": "gas",
+      "word": "gas",
+      "pos": "noun",
+      "ipa": "/ɡæs/",
+      "reading_th": "แก๊ส",
+      "meaning_th": "แก๊ส (หุงต้ม/ทำความร้อน)",
+      "emoji": "🔥",
+      "example_en": "The flat uses gas for cooking and heating.",
+      "example_th": "ห้องนี้ใช้แก๊สทั้งทำอาหารและทำความร้อน",
+      "cefr": "A2",
+      "note_th": "ระวัง! ในอเมริกา gas ยังแปลว่าน้ำมันรถ (gasoline) ด้วย — ถ้าได้กลิ่นแก๊สรั่วในบ้าน พูดว่า I can smell gas แล้วเปิดหน้าต่างทันที",
+      "distractors": [
+        "glass",
+        "grass",
+        "gasp"
+      ]
+    },
+    {
+      "id": "internet",
+      "word": "internet",
+      "pos": "noun",
+      "ipa": "/ˈɪntərnet/",
+      "reading_th": "อิน-เทอร์-เน็ต",
+      "meaning_th": "อินเทอร์เน็ต (สัญญาณบ้าน)",
+      "emoji": "🌐",
+      "example_en": "Is the internet included, or do I set it up myself?",
+      "example_th": "รวมค่าอินเทอร์เน็ตไหม หรือฉันต้องติดตั้งเอง",
+      "cefr": "A2",
+      "note_th": "เน็ตบ้านฝรั่งเรียกว่า broadband (อังกฤษ) หรือ internet service — มักต้องเซ็นสัญญา 12–24 เดือน ถ้าอยู่สั้นให้หาแพ็กเกจ no-contract",
+      "distractors": [
+        "intranet",
+        "interest",
+        "network"
+      ]
+    },
+    {
+      "id": "meter_reading",
+      "word": "meter reading",
+      "pos": "noun",
+      "ipa": "/ˈmiːtər ˌriːdɪŋ/",
+      "reading_th": "มี-เทอร์ รี-ดิ้ง",
+      "meaning_th": "ตัวเลขบนมิเตอร์",
+      "emoji": "🔢",
+      "example_en": "Take a meter reading on the day you move in.",
+      "example_th": "จดตัวเลขบนมิเตอร์ในวันที่ย้ายเข้า",
+      "cefr": "B1",
+      "note_th": "meter reading = ตัวเลขบนมิเตอร์น้ำ/ไฟ/แก๊ส ส่งให้บริษัททุกเดือน — ถ้าไม่ส่ง บริษัทจะประเมินเอา (estimated bill) ซึ่งมักแพงกว่าจริง",
+      "distractors": [
+        "metre",
+        "meeting",
+        "mind reading"
+      ]
+    },
+    {
+      "id": "direct_debit",
+      "word": "direct debit",
+      "pos": "noun",
+      "ipa": "/dəˌrekt ˈdebɪt/",
+      "reading_th": "ได-เร็คท์ เด-บิท",
+      "meaning_th": "ตัดบัญชีอัตโนมัติ",
+      "emoji": "🏦",
+      "example_en": "I pay my bills by direct debit so I never forget.",
+      "example_th": "ฉันจ่ายบิลแบบตัดบัญชีอัตโนมัติ จะได้ไม่ลืม",
+      "cefr": "B1",
+      "note_th": "direct debit = ให้บริษัทดึงเงินจากบัญชีเองทุกเดือน (อเมริกันเรียก autopay) — บริษัทไฟฟ้าอังกฤษมักให้ส่วนลดถ้าจ่ายแบบนี้",
+      "distractors": [
+        "debit card",
+        "direct flight",
+        "credit"
+      ]
+    },
+    {
+      "id": "provider",
+      "word": "provider",
+      "pos": "noun",
+      "ipa": "/prəˈvaɪdər/",
+      "reading_th": "โพร-ไว-เดอร์",
+      "meaning_th": "บริษัทผู้ให้บริการ",
+      "emoji": "🏢",
+      "example_en": "You can switch to a cheaper energy provider at any time.",
+      "example_th": "คุณเปลี่ยนไปใช้บริษัทพลังงานที่ถูกกว่าได้ทุกเมื่อ",
+      "cefr": "B1",
+      "note_th": "provider = บริษัทที่ให้บริการ เช่น energy provider, internet provider (ISP) — ในหลายประเทศเลือกเปลี่ยนบริษัทไฟฟ้าได้ ต่างจากไทยที่มีการไฟฟ้าเจ้าเดียว",
+      "distractors": [
+        "provide",
+        "supplier",
+        "producer"
+      ]
+    },
+    {
+      "id": "connect",
+      "word": "connect",
+      "pos": "verb",
+      "ipa": "/kəˈnekt/",
+      "reading_th": "คอน-เน็คท์",
+      "meaning_th": "เปิดใช้บริการ / เชื่อมต่อ",
+      "emoji": "🔗",
+      "example_en": "They will connect the electricity before we arrive.",
+      "example_th": "พวกเขาจะเปิดไฟฟ้าให้ก่อนที่เราจะมาถึง",
+      "cefr": "A2",
+      "note_th": "connect/get connected = เปิดใช้น้ำไฟเน็ต — ถ้าย้ายเข้าแล้วไฟไม่มา โทรไปบอกว่า \"The electricity hasn't been connected yet\"",
+      "distractors": [
+        "collect",
+        "correct",
+        "contact"
+      ]
+    },
+    {
+      "id": "disconnect",
+      "word": "disconnect",
+      "pos": "verb",
+      "ipa": "/ˌdɪskəˈnekt/",
+      "reading_th": "ดิส-คอน-เน็คท์",
+      "meaning_th": "ตัดบริการ / ตัดการเชื่อมต่อ",
+      "emoji": "🔌",
+      "example_en": "They may disconnect the gas if you do not pay the bill.",
+      "example_th": "ถ้าไม่จ่ายบิล พวกเขาอาจตัดแก๊สได้",
+      "cefr": "B1",
+      "note_th": "disconnect = ตัดบริการ (เพราะไม่จ่าย หรือตอนย้ายออก) — reconnection fee = ค่าต่อกลับ แพงกว่าค่าปรับจ่ายช้ามาก",
+      "distractors": [
+        "connect",
+        "discount",
+        "discover"
+      ]
+    },
+    {
+      "id": "heating",
+      "word": "heating",
+      "pos": "noun",
+      "ipa": "/ˈhiːtɪŋ/",
+      "reading_th": "ฮี-ติ้ง",
+      "meaning_th": "ระบบทำความร้อน",
+      "emoji": "🌡️",
+      "example_en": "The heating does not work and it is freezing in here.",
+      "example_th": "ระบบทำความร้อนใช้ไม่ได้ ในนี้หนาวมาก",
+      "cefr": "A2",
+      "note_th": "heating = ฮีตเตอร์ทั้งระบบ (central heating) สิ่งที่คนไทยไม่เคยเจอ — เปิดว่า turn the heating on, ตัวปรับอุณหภูมิเรียกว่า thermostat",
+      "distractors": [
+        "heater",
+        "eating",
+        "hearing"
+      ]
+    },
+    {
+      "id": "usage",
+      "word": "usage",
+      "pos": "noun",
+      "ipa": "/ˈjuːsɪdʒ/",
+      "reading_th": "ยู-ซิจ",
+      "meaning_th": "ปริมาณการใช้",
+      "emoji": "📈",
+      "example_en": "Your usage this month is higher than last month.",
+      "example_th": "ปริมาณการใช้เดือนนี้ของคุณสูงกว่าเดือนที่แล้ว",
+      "cefr": "B1",
+      "note_th": "usage = ปริมาณที่ใช้ไป (ไฟกี่หน่วย เน็ตกี่กิกะไบต์) — บิลจะเขียน energy usage หรือ data usage ส่วน use เฉยๆ ใช้ได้ทั่วไป",
+      "distractors": [
+        "use",
+        "useful",
+        "message"
+      ]
+    },
+    {
+      "id": "due",
+      "word": "due",
+      "pos": "adjective",
+      "ipa": "/duː/",
+      "reading_th": "ดิว",
+      "meaning_th": "ถึงกำหนดจ่าย",
+      "emoji": "📅",
+      "example_en": "The water bill is due on the fifteenth.",
+      "example_th": "ค่าน้ำถึงกำหนดจ่ายวันที่สิบห้า",
+      "cefr": "B1",
+      "note_th": "due = ถึงกำหนด (จ่ายเงิน/ส่งงาน) — due date = วันครบกำหนด, overdue = เลยกำหนดแล้ว, past due บนบิลแปลว่าคุณจ่ายช้า",
+      "distractors": [
+        "do",
+        "dew",
+        "dual"
+      ]
+    },
+    {
+      "id": "billing_cycle",
+      "word": "billing cycle",
+      "pos": "noun",
+      "ipa": "/ˈbɪlɪŋ ˌsaɪkl/",
+      "reading_th": "บิล-ลิ่ง ไซ-เคิล",
+      "meaning_th": "รอบบิล",
+      "emoji": "🔄",
+      "example_en": "Our billing cycle runs from the first to the end of the month.",
+      "example_th": "รอบบิลของเรานับตั้งแต่วันที่หนึ่งถึงสิ้นเดือน",
+      "cefr": "B2",
+      "note_th": "billing cycle = ช่วงเวลาที่นับค่าใช้บริการต่อหนึ่งบิล — ย้ายเข้ากลางรอบจะโดนคิดตามสัดส่วน (pro-rated) ไม่ต้องตกใจถ้าบิลแรกตัวเลขแปลก",
+      "distractors": [
+        "life cycle",
+        "building",
+        "bicycle"
+      ]
+    },
+    {
+      "id": "outage",
+      "word": "outage",
+      "pos": "noun",
+      "ipa": "/ˈaʊtɪdʒ/",
+      "reading_th": "เอาท์-ทิจ",
+      "meaning_th": "ไฟดับ / บริการล่ม",
+      "emoji": "🕯️",
+      "example_en": "There was a power outage in our area last night.",
+      "example_th": "เมื่อคืนไฟดับทั้งย่านของเรา",
+      "cefr": "B1",
+      "note_th": "power outage = ไฟดับ (อังกฤษใช้ power cut), internet outage = เน็ตล่ม — เช็กบนเว็บบริษัทได้ว่า \"Is there an outage in my area?\"",
+      "distractors": [
+        "outrage",
+        "outside",
+        "shortage"
+      ]
+    },
+    {
+      "id": "repair",
+      "word": "repair",
+      "pos": "verb",
+      "ipa": "/rɪˈper/",
+      "reading_th": "ริ-แพร์",
+      "meaning_th": "ซ่อมแซม",
+      "emoji": "🔧",
+      "example_en": "The landlord has to repair the broken heater.",
+      "example_th": "เจ้าของบ้านต้องซ่อมฮีตเตอร์ที่เสีย",
+      "cefr": "A2",
+      "note_th": "repair เป็นทางการกว่า fix นิดหน่อย ใช้ในอีเมลถึงเจ้าของบ้านได้ดี — เป็นคำนามด้วย: the repairs = งานซ่อม, ผู้เช่าไม่ต้องจ่ายค่า repairs ที่ไม่ได้ทำพัง",
+      "distractors": [
+        "prepare",
+        "retire",
+        "despair"
+      ]
+    },
+    {
+      "id": "plumber",
+      "word": "plumber",
+      "pos": "noun",
+      "ipa": "/ˈplʌmər/",
+      "reading_th": "พลัม-เมอร์",
+      "meaning_th": "ช่างประปา",
+      "emoji": "🚿",
+      "example_en": "We called a plumber because the sink would not drain.",
+      "example_th": "เราเรียกช่างประปาเพราะอ่างล้างจานน้ำไม่ไหล",
+      "cefr": "A2",
+      "note_th": "plumber ตัว b ไม่ออกเสียง อ่าน \"พลัม-เมอร์\" — งานประปาเรียก plumbing ถ้าเจ้าของบ้านช้า ให้บอกว่า \"It's urgent, there's water everywhere\"",
+      "distractors": [
+        "plumbing",
+        "plum",
+        "lumber"
+      ]
+    },
+    {
+      "id": "electrician",
+      "word": "electrician",
+      "pos": "noun",
+      "ipa": "/ɪˌlekˈtrɪʃn/",
+      "reading_th": "อิ-เล็ค-ทริ-เชิ่น",
+      "meaning_th": "ช่างไฟ",
+      "emoji": "👷",
+      "example_en": "Only a licensed electrician should touch the wiring.",
+      "example_th": "ควรให้ช่างไฟที่มีใบอนุญาตเท่านั้นแตะสายไฟ",
+      "cefr": "B1",
+      "note_th": "-ician = คนทำอาชีพ เช่น electrician ช่างไฟ, technician ช่างเทคนิค — ในต่างประเทศผู้เช่าห้ามซ่อมไฟเองเด็ดขาด ถ้าเกิดไฟไหม้ประกันไม่จ่าย",
+      "distractors": [
+        "electricity",
+        "electric",
+        "technician"
+      ]
+    },
+    {
+      "id": "handyman",
+      "word": "handyman",
+      "pos": "noun",
+      "ipa": "/ˈhændimæn/",
+      "reading_th": "แฮน-ดี้-แมน",
+      "meaning_th": "ช่างซ่อมทั่วไป",
+      "emoji": "🧰",
+      "example_en": "The building has a handyman who fixes small things.",
+      "example_th": "ตึกนี้มีช่างซ่อมทั่วไปคอยซ่อมของเล็กๆ น้อยๆ",
+      "cefr": "B1",
+      "note_th": "handyman = ช่างสารพัดช่าง ซ่อมได้หลายอย่างแต่ไม่ใช่ช่างเฉพาะทาง — handy เป็นคำคุณศัพท์แปลว่าสะดวก/คล่องมือ: he's handy = เขาซ่อมเก่ง",
+      "distractors": [
+        "handsome",
+        "handbag",
+        "businessman"
+      ]
+    },
+    {
+      "id": "pipe",
+      "word": "pipe",
+      "pos": "noun",
+      "ipa": "/paɪp/",
+      "reading_th": "ไพพ์",
+      "meaning_th": "ท่อน้ำ",
+      "emoji": "🧪",
+      "example_en": "A pipe under the sink is dripping onto the floor.",
+      "example_th": "ท่อน้ำใต้อ่างหยดลงพื้น",
+      "cefr": "A2",
+      "note_th": "pipe = ท่อ (น้ำ/แก๊ส) — เมืองหนาวท่อแตกได้เพราะน้ำแข็งเรียกว่า burst pipe ให้ปิดวาล์วหลัก (stopcock) แล้วโทรเจ้าของบ้านทันที",
+      "distractors": [
+        "pie",
+        "pile",
+        "type"
+      ]
+    },
+    {
+      "id": "faucet",
+      "word": "faucet",
+      "pos": "noun",
+      "ipa": "/ˈfɔːsɪt/",
+      "reading_th": "ฟอ-ซิท",
+      "meaning_th": "ก๊อกน้ำ",
+      "emoji": "🚰",
+      "example_en": "The kitchen faucet drips all night long.",
+      "example_th": "ก๊อกน้ำในครัวหยดทั้งคืน",
+      "cefr": "A2",
+      "note_th": "faucet (อเมริกัน) = tap (อังกฤษ) ก๊อกน้ำ — น้ำประปาดื่มได้ในหลายประเทศเรียก tap water ถามว่า \"Is the tap water safe to drink?\"",
+      "distractors": [
+        "forest",
+        "fossil",
+        "tap"
+      ]
+    },
+    {
+      "id": "clogged",
+      "word": "clogged",
+      "pos": "adjective",
+      "ipa": "/klɑːɡd/",
+      "reading_th": "คล็อกด์",
+      "meaning_th": "อุดตัน",
+      "emoji": "🚽",
+      "example_en": "The toilet is clogged and the water will not go down.",
+      "example_th": "ชักโครกอุดตัน น้ำไม่ลง",
+      "cefr": "B1",
+      "note_th": "clogged = ตัน (ท่อ อ่าง ชักโครก) — ภาษาพูดบอกว่า the drain is clogged หรือ blocked ก็ได้ ที่เปิดท่อตันเรียก plunger มีติดบ้านไว้จะดีมาก",
+      "distractors": [
+        "clocked",
+        "closed",
+        "cloudy"
+      ]
+    },
+    {
+      "id": "drain",
+      "word": "drain",
+      "pos": "noun",
+      "ipa": "/dreɪn/",
+      "reading_th": "เดรน",
+      "meaning_th": "ท่อระบายน้ำ",
+      "emoji": "🕳️",
+      "example_en": "Hair in the shower drain is the usual problem.",
+      "example_th": "เส้นผมในท่อระบายน้ำห้องอาบน้ำคือปัญหาประจำ",
+      "cefr": "B1",
+      "note_th": "drain เป็นได้ทั้งคำนาม (ท่อระบาย) และกริยา (ระบายออก) — ค่าซ่อม drain ที่ตันเพราะผมของเรา เจ้าของบ้านอาจหักจากมัดจำได้",
+      "distractors": [
+        "train",
+        "brain",
+        "rain"
+      ]
+    },
+    {
+      "id": "mold",
+      "word": "mold",
+      "pos": "noun",
+      "ipa": "/moʊld/",
+      "reading_th": "โมลด์",
+      "meaning_th": "เชื้อรา (บนผนัง)",
+      "emoji": "🦠",
+      "example_en": "There is black mold growing on the bathroom ceiling.",
+      "example_th": "มีเชื้อราดำขึ้นบนเพดานห้องน้ำ",
+      "cefr": "B1",
+      "note_th": "mold (อเมริกัน) / mould (อังกฤษ) = เชื้อราในบ้านเมืองหนาว ปัญหาสุขภาพที่กฎหมายหลายประเทศบังคับให้เจ้าของบ้านแก้ — ถ่ายรูปและแจ้งเป็นลายลักษณ์อักษรเสมอ",
+      "distractors": [
+        "mould",
+        "mole",
+        "old"
+      ]
+    },
+    {
+      "id": "light_bulb",
+      "word": "light bulb",
+      "pos": "noun",
+      "ipa": "/ˈlaɪt bʌlb/",
+      "reading_th": "ไลท์ บัลบ์",
+      "meaning_th": "หลอดไฟ",
+      "emoji": "💡",
+      "example_en": "The light bulb in the hallway needs changing.",
+      "example_th": "หลอดไฟในทางเดินต้องเปลี่ยนแล้ว",
+      "cefr": "A2",
+      "note_th": "หลอดไฟขาดพูดว่า the bulb has gone หรือ blown — เปลี่ยนหลอดไฟเป็นงานของผู้เช่าเอง ซื้อมาเปลี่ยนให้ถูกขั้ว (fitting) ถ่ายรูปหลอดเก่าไปร้าน",
+      "distractors": [
+        "light",
+        "bulb",
+        "lamp"
+      ]
+    },
+    {
+      "id": "replace",
+      "word": "replace",
+      "pos": "verb",
+      "ipa": "/rɪˈpleɪs/",
+      "reading_th": "ริ-เพลส",
+      "meaning_th": "เปลี่ยนของใหม่แทน",
+      "emoji": "🔁",
+      "example_en": "They agreed to replace the old fridge with a new one.",
+      "example_th": "พวกเขาตกลงเปลี่ยนตู้เย็นเก่าเป็นเครื่องใหม่",
+      "cefr": "A2",
+      "note_th": "replace A with B = เอา B มาแทน A — ต่างจาก repair ที่ซ่อมของเดิม, คำนาม replacement = ของที่เอามาแทน",
+      "distractors": [
+        "repair",
+        "place",
+        "release"
+      ]
+    },
+    {
+      "id": "fuse",
+      "word": "fuse",
+      "pos": "noun",
+      "ipa": "/fjuːz/",
+      "reading_th": "ฟิวส์",
+      "meaning_th": "ฟิวส์ไฟฟ้า",
+      "emoji": "⚡",
+      "example_en": "If the lights go off, check the fuse box first.",
+      "example_th": "ถ้าไฟดับ ให้เช็กกล่องฟิวส์ก่อน",
+      "cefr": "B1",
+      "note_th": "ฟิวส์ขาด = a fuse has blown, กล่องฟิวส์/เบรกเกอร์ = fuse box หรือ circuit breaker — เสียบฮีตเตอร์กับกาน้ำพร้อมกันคือสาเหตุยอดฮิต",
+      "distractors": [
+        "fuss",
+        "fuel",
+        "use"
+      ]
+    },
+    {
+      "id": "pest",
+      "word": "pest",
+      "pos": "noun",
+      "ipa": "/pest/",
+      "reading_th": "เพสท์",
+      "meaning_th": "สัตว์รบกวน (แมลง หนู)",
+      "emoji": "🐀",
+      "example_en": "Call pest control if you see mice in the kitchen.",
+      "example_th": "ถ้าเห็นหนูในครัว ให้โทรเรียกบริษัทกำจัดสัตว์รบกวน",
+      "cefr": "B1",
+      "note_th": "pest = แมลงหรือสัตว์ที่สร้างปัญหาในบ้าน เช่น cockroaches, mice, bed bugs — บริการกำจัดเรียก pest control ส่วน pest ที่ใช้เรียกคนแปลว่าตัวกวนใจ",
+      "distractors": [
+        "pet",
+        "past",
+        "paste"
+      ]
+    },
+    {
+      "id": "lock",
+      "word": "lock",
+      "pos": "noun",
+      "ipa": "/lɑːk/",
+      "reading_th": "ล็อค",
+      "meaning_th": "ลูกบิด / กลอนประตู",
+      "emoji": "🔐",
+      "example_en": "The lock on the front door is stiff and hard to turn.",
+      "example_th": "กลอนประตูหน้าฝืดและหมุนยาก",
+      "cefr": "A2",
+      "note_th": "lock เป็นทั้งคำนาม (กลอน) และกริยา (ล็อก) — ลืมกุญแจติดอยู่ข้างใน = I've locked myself out ช่างเปิดประตูเรียก locksmith ค่าตัวแพงมากตอนกลางคืน",
+      "distractors": [
+        "look",
+        "luck",
+        "block"
+      ]
+    },
+    {
+      "id": "neighbor",
+      "word": "neighbor",
+      "pos": "noun",
+      "ipa": "/ˈneɪbər/",
+      "reading_th": "เน-เบอร์",
+      "meaning_th": "เพื่อนบ้าน",
+      "emoji": "👋",
+      "example_en": "Our neighbor upstairs plays the piano every evening.",
+      "example_th": "เพื่อนบ้านชั้นบนเล่นเปียโนทุกเย็น",
+      "cefr": "A2",
+      "note_th": "อเมริกัน neighbor / อังกฤษ neighbour — ย้ายเข้าใหม่ให้ทักว่า \"Hi, I just moved in next door\" คนต่างชาติไม่ค่อยคุยกับเพื่อนบ้านแต่การแนะนำตัวครั้งแรกช่วยได้มาก",
+      "distractors": [
+        "neighborhood",
+        "labor",
+        "neither"
+      ]
+    },
+    {
+      "id": "caretaker",
+      "word": "caretaker",
+      "pos": "noun",
+      "ipa": "/ˈkerteɪkər/",
+      "reading_th": "แคร์-เท-เกอร์",
+      "meaning_th": "ผู้ดูแลตึก",
+      "emoji": "🧹",
+      "example_en": "Ask the caretaker if you need the spare key.",
+      "example_th": "ถ้าต้องการกุญแจสำรอง ให้ถามผู้ดูแลตึก",
+      "cefr": "B1",
+      "note_th": "caretaker (อังกฤษ) = คนดูแลตึกทั้งซ่อมและทำความสะอาด อเมริกันเรียก superintendent หรือสั้นๆ ว่า the super — ส่วน building manager/property manager = ผู้จัดการที่คุยเรื่องสัญญา",
+      "distractors": [
+        "undertaker",
+        "care",
+        "carpenter"
+      ]
+    },
+    {
+      "id": "hallway",
+      "word": "hallway",
+      "pos": "noun",
+      "ipa": "/ˈhɔːlweɪ/",
+      "reading_th": "ฮอล-เวย์",
+      "meaning_th": "ทางเดินในตึก",
+      "emoji": "🚪",
+      "example_en": "Please do not leave bicycles in the hallway.",
+      "example_th": "กรุณาอย่าจอดจักรยานในทางเดิน",
+      "cefr": "A2",
+      "note_th": "hallway (อเมริกัน) / corridor = ทางเดินในตึก ส่วน hall เฉยๆ ในบ้านอังกฤษคือโถงทางเข้า — กฎตึกหลายที่ห้ามวางของในทางเดินเพราะเป็นทางหนีไฟ",
+      "distractors": [
+        "highway",
+        "hall",
+        "halfway"
+      ]
+    },
+    {
+      "id": "garbage",
+      "word": "garbage",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːrbɪdʒ/",
+      "reading_th": "การ์-บิจ",
+      "meaning_th": "ขยะ",
+      "emoji": "🗑️",
+      "example_en": "Garbage is collected every Tuesday morning.",
+      "example_th": "ขยะจะถูกเก็บทุกเช้าวันอังคาร",
+      "cefr": "A2",
+      "note_th": "garbage/trash (อเมริกัน) = rubbish (อังกฤษ) — ต่างประเทศต้องแยกขยะเข้มงวดและทิ้งผิดวันโดนปรับ ถามเพื่อนบ้านว่า \"Which day is garbage day?\"",
+      "distractors": [
+        "garage",
+        "rubbish",
+        "cabbage"
+      ]
+    },
+    {
+      "id": "quiet_hours",
+      "word": "quiet hours",
+      "pos": "noun",
+      "ipa": "/ˈkwaɪət ˌaʊərz/",
+      "reading_th": "ไคว-เอิท เอา-เออร์ส",
+      "meaning_th": "ช่วงเวลาห้ามส่งเสียงดัง",
+      "emoji": "🤫",
+      "example_en": "Quiet hours in this building are from 10 p.m. to 7 a.m.",
+      "example_th": "ช่วงเวลาห้ามส่งเสียงดังของตึกนี้คือสี่ทุ่มถึงเจ็ดโมงเช้า",
+      "cefr": "B1",
+      "note_th": "quiet hours = ช่วงห้ามเสียงดัง เยอรมนีมี Ruhezeit เคร่งถึงขั้นห้ามเปิดเครื่องซักผ้าวันอาทิตย์ — ละเมิดบ่อยอาจโดนร้องเรียนถึงเจ้าของบ้าน",
+      "distractors": [
+        "happy hours",
+        "office hours",
+        "quite"
+      ]
+    },
+    {
+      "id": "common_area",
+      "word": "common area",
+      "pos": "noun",
+      "ipa": "/ˈkɑːmən ˌeriə/",
+      "reading_th": "คอม-เมิน แอ-เรีย",
+      "meaning_th": "พื้นที่ส่วนกลาง",
+      "emoji": "🛋️",
+      "example_en": "The common area on the roof is open to all residents.",
+      "example_th": "พื้นที่ส่วนกลางบนดาดฟ้าเปิดให้ผู้อยู่อาศัยทุกคนใช้",
+      "cefr": "B1",
+      "note_th": "common area = พื้นที่ที่ทุกคนในตึกใช้ร่วมกัน (ล็อบบี้ ห้องซักผ้า สวน) — common ตรงนี้แปลว่า \"ร่วมกัน\" ไม่ใช่ \"ธรรมดา\" ค่าดูแลเรียก service charge",
+      "distractors": [
+        "common sense",
+        "comment",
+        "area"
+      ]
+    },
+    {
+      "id": "intercom",
+      "word": "intercom",
+      "pos": "noun",
+      "ipa": "/ˈɪntərkɑːm/",
+      "reading_th": "อิน-เทอร์-คอม",
+      "meaning_th": "อินเตอร์คอมหน้าตึก",
+      "emoji": "📟",
+      "example_en": "Press my name on the intercom and I will buzz you in.",
+      "example_th": "กดชื่อฉันที่อินเตอร์คอมแล้วฉันจะเปิดประตูให้",
+      "cefr": "B1",
+      "note_th": "intercom = ระบบกดเรียกหน้าตึก คนต่างชาติพูดว่า buzz me in = กดเปิดประตูให้ — ถ้าเสีย คนส่งของจะหาคุณไม่เจอ รีบแจ้งซ่อม",
+      "distractors": [
+        "interphone",
+        "income",
+        "intercept"
+      ]
+    },
+    {
+      "id": "doorbell",
+      "word": "doorbell",
+      "pos": "noun",
+      "ipa": "/ˈdɔːrbel/",
+      "reading_th": "ดอร์-เบล",
+      "meaning_th": "กริ่งประตู",
+      "emoji": "🔔",
+      "example_en": "Someone is ringing the doorbell, can you get it?",
+      "example_th": "มีคนกดกริ่งประตู ช่วยไปเปิดหน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "ring the doorbell = กดกริ่ง, get the door = ไปเปิดประตู — ยุคนี้มี video doorbell ที่เห็นหน้าคนมาส่งของผ่านมือถือ",
+      "distractors": [
+        "doorknob",
+        "bell",
+        "doormat"
+      ]
+    },
+    {
+      "id": "mailbox",
+      "word": "mailbox",
+      "pos": "noun",
+      "ipa": "/ˈmeɪlbɑːks/",
+      "reading_th": "เมล-บ็อกซ์",
+      "meaning_th": "ตู้จดหมาย",
+      "emoji": "📬",
+      "example_en": "Write your name on the mailbox so letters arrive.",
+      "example_th": "เขียนชื่อไว้ที่ตู้จดหมายเพื่อให้จดหมายมาถึง",
+      "cefr": "A2",
+      "note_th": "mailbox (อเมริกัน) / letterbox (อังกฤษ) — ในยุโรปถ้าไม่ติดชื่อที่ตู้ ไปรษณีย์จะตีกลับ บัตรธนาคารและเอกสารวีซ่าจึงหายได้ง่ายๆ",
+      "distractors": [
+        "inbox",
+        "email",
+        "toolbox"
+      ]
+    },
+    {
+      "id": "raise_a_complaint",
+      "word": "raise a complaint",
+      "pos": "phrase",
+      "ipa": "/ˌreɪz ə kəmˈpleɪnt/",
+      "reading_th": "เรส อะ คอม-เพลนท์",
+      "meaning_th": "ยื่นเรื่องร้องเรียน",
+      "emoji": "📢",
+      "example_en": "Several tenants decided to raise a complaint about the noise.",
+      "example_th": "ผู้เช่าหลายคนตัดสินใจยื่นเรื่องร้องเรียนเรื่องเสียงดัง",
+      "cefr": "B1",
+      "note_th": "raise/make/file a complaint = ยื่นเรื่องร้องเรียนอย่างเป็นทางการ (raise = หยิบยกขึ้นมา) ทำเป็นลายลักษณ์อักษรถึงเจ้าของบ้านหรือผู้จัดการตึกเสมอ — ส่วน complain เฉยๆ คือบ่นหรือต่อว่าในภาษาพูด",
+      "distractors": [
+        "raise a hand",
+        "make a complaint",
+        "raise money"
+      ]
+    },
+    {
+      "id": "visitor",
+      "word": "visitor",
+      "pos": "noun",
+      "ipa": "/ˈvɪzɪtər/",
+      "reading_th": "วิ-ซิ-เทอร์",
+      "meaning_th": "ผู้มาเยี่ยม / แขก",
+      "emoji": "🧑‍🤝‍🧑",
+      "example_en": "Every visitor has to sign in at the front desk.",
+      "example_th": "ผู้มาเยี่ยมทุกคนต้องลงชื่อที่เคาน์เตอร์หน้าตึก",
+      "cefr": "A2",
+      "note_th": "visitor = คนมาเยี่ยมชั่วคราว ส่วน guest = แขกที่มาพัก — หอพักและอพาร์ตเมนต์บางที่มี visitor policy ห้ามค้างคืนเกินกี่วัน อ่านสัญญาให้ดี",
+      "distractors": [
+        "visit",
+        "visa",
+        "monitor"
+      ]
+    },
+    {
+      "id": "keep_it_down",
+      "word": "keep it down",
+      "pos": "phrase",
+      "ipa": "/ˌkiːp ɪt ˈdaʊn/",
+      "reading_th": "คีพ อิท ดาวน์",
+      "meaning_th": "เบาเสียงหน่อย",
+      "emoji": "🔉",
+      "example_en": "Could you keep it down? My baby is sleeping.",
+      "example_th": "เบาเสียงหน่อยได้ไหม ลูกฉันกำลังหลับ",
+      "cefr": "B1",
+      "note_th": "keep it down = ขอให้เบาเสียง สุภาพกว่า be quiet มาก — ใช้ได้ทั้งขอเพื่อนบ้านและเมื่อถูกขอ ตอบว่า \"Sorry, we'll keep it down\"",
+      "distractors": [
+        "keep it up",
+        "calm down",
+        "turn it down"
+      ]
+    },
+    {
+      "id": "no_smoking",
+      "word": "no smoking",
+      "pos": "phrase",
+      "ipa": "/ˌnoʊ ˈsmoʊkɪŋ/",
+      "reading_th": "โน สโม-คิ่ง",
+      "meaning_th": "ห้ามสูบบุหรี่",
+      "emoji": "🚭",
+      "example_en": "This is a no smoking building, even on the balcony.",
+      "example_th": "ตึกนี้ห้ามสูบบุหรี่ แม้แต่ที่ระเบียง",
+      "cefr": "A2",
+      "note_th": "ป้าย No smoking = ห้ามสูบ ส่วนในสัญญาจะเขียนว่า smoking is not permitted — ฝ่าฝืนมักโดนหักมัดจำเป็นค่าทำความสะอาดกลิ่นบุหรี่",
+      "distractors": [
+        "no parking",
+        "smoking",
+        "no entry"
+      ]
+    },
+    {
+      "id": "get_to_know",
+      "word": "get to know",
+      "pos": "phrase",
+      "ipa": "/ˌɡet tə ˈnoʊ/",
+      "reading_th": "เก็ท ทู โนว์",
+      "meaning_th": "ทำความรู้จัก",
+      "emoji": "🤝",
+      "example_en": "Take time to get to know the people on your floor.",
+      "example_th": "ใช้เวลาทำความรู้จักคนที่อยู่ชั้นเดียวกับคุณ",
+      "cefr": "A2",
+      "note_th": "get to know someone = ทำความรู้จักทีละน้อย (ต่างจาก know = รู้จักอยู่แล้ว และ meet = เจอครั้งแรก) — เพื่อนบ้านที่รู้จักกันจะช่วยรับพัสดุและเตือนเรื่องวันเก็บขยะ คุ้มมาก",
+      "distractors": [
+        "get to work",
+        "get along",
+        "get over"
+      ]
+    },
+    {
+      "id": "move_out",
+      "word": "move out",
+      "pos": "phrase",
+      "ipa": "/ˌmuːv ˈaʊt/",
+      "reading_th": "มูฟ เอาท์",
+      "meaning_th": "ย้ายออก",
+      "emoji": "🚚",
+      "example_en": "We have to move out by the end of August.",
+      "example_th": "เราต้องย้ายออกภายในสิ้นเดือนสิงหาคม",
+      "cefr": "A2",
+      "note_th": "move out = ย้ายออก, move-out date = วันย้ายออก — ย้ายออกก่อนหมดสัญญาเรียก leave early และมักต้องจ่ายค่าเช่าจนครบหรือหาคนมาเช่าต่อ",
+      "distractors": [
+        "move in",
+        "moving",
+        "go out"
+      ]
+    },
+    {
+      "id": "give_notice",
+      "word": "give notice",
+      "pos": "phrase",
+      "ipa": "/ˌɡɪv ˈnoʊtɪs/",
+      "reading_th": "กิฟ โน-ทิส",
+      "meaning_th": "แจ้งล่วงหน้าว่าจะย้ายออก",
+      "emoji": "📨",
+      "example_en": "You need to give notice in writing at least a month ahead.",
+      "example_th": "คุณต้องแจ้งล่วงหน้าเป็นลายลักษณ์อักษรอย่างน้อยหนึ่งเดือน",
+      "cefr": "B1",
+      "note_th": "give notice = แจ้งเป็นทางการว่าจะออก ทำเป็นอีเมลหรือจดหมายเสมอ — ถ้าลืมแจ้ง สัญญาอาจต่ออัตโนมัติ (auto-renew) และเสียค่าเช่าอีกเดือน",
+      "distractors": [
+        "take notice",
+        "give up",
+        "give way"
+      ]
+    },
+    {
+      "id": "inspection",
+      "word": "inspection",
+      "pos": "noun",
+      "ipa": "/ɪnˈspekʃn/",
+      "reading_th": "อิน-สเปค-ชั่น",
+      "meaning_th": "การตรวจสภาพห้อง",
+      "emoji": "🔎",
+      "example_en": "The final inspection is on Friday at ten o'clock.",
+      "example_th": "การตรวจสภาพห้องครั้งสุดท้ายคือวันศุกร์สิบโมง",
+      "cefr": "B1",
+      "note_th": "inspection = การตรวจห้องโดยเจ้าของบ้านหรือนายหน้า มีทั้ง move-in, routine และ final inspection — อยู่ด้วยตอนตรวจและถ่ายรูปทุกมุมจะได้ไม่โดนโทษในสิ่งที่ไม่ได้ทำ",
+      "distractors": [
+        "inspiration",
+        "infection",
+        "expectation"
+      ]
+    },
+    {
+      "id": "wear_and_tear",
+      "word": "wear and tear",
+      "pos": "noun",
+      "ipa": "/ˌwer ən ˈter/",
+      "reading_th": "แวร์ แอนด์ แทร์",
+      "meaning_th": "ความเสื่อมตามการใช้งาน",
+      "emoji": "🪑",
+      "example_en": "Normal wear and tear is not taken out of your deposit.",
+      "example_th": "ความเสื่อมตามการใช้งานปกติจะไม่ถูกหักจากมัดจำ",
+      "cefr": "B2",
+      "note_th": "wear and tear = ความเก่าตามธรรมชาติ เช่น พรมสีซีด ผนังมีรอยถลอกเล็กน้อย กฎหมายห้ามหักมัดจำ — ต่างจาก damage ที่เกิดจากความประมาท",
+      "distractors": [
+        "wear",
+        "tear",
+        "trial and error"
+      ]
+    },
+    {
+      "id": "deduct",
+      "word": "deduct",
+      "pos": "verb",
+      "ipa": "/dɪˈdʌkt/",
+      "reading_th": "ดิ-ดัคท์",
+      "meaning_th": "หักออก (จากมัดจำ)",
+      "emoji": "➖",
+      "example_en": "They want to deduct 200 for the stain on the carpet.",
+      "example_th": "พวกเขาจะหัก 200 เป็นค่ารอยเปื้อนบนพรม",
+      "cefr": "B1",
+      "note_th": "deduct = หักเงินออก (คำนาม deduction) — ถ้าไม่เห็นด้วย ขอรายการพร้อมใบเสร็จ: \"Can you send me an itemized list of the deductions?\"",
+      "distractors": [
+        "deduce",
+        "detect",
+        "conduct"
+      ]
+    },
+    {
+      "id": "get_back",
+      "word": "get back",
+      "pos": "phrase",
+      "ipa": "/ˌɡet ˈbæk/",
+      "reading_th": "เก็ท แบ็ค",
+      "meaning_th": "ได้คืน",
+      "emoji": "💸",
+      "example_en": "We should get back the full deposit within two weeks.",
+      "example_th": "เราน่าจะได้มัดจำคืนเต็มจำนวนภายในสองสัปดาห์",
+      "cefr": "A2",
+      "note_th": "get back = ได้ (เงิน/ของ) คืน ภาษาพูดใช้บ่อยกว่า receive a refund — \"When will I get my deposit back?\" คือคำถามที่ต้องถามทุกคน",
+      "distractors": [
+        "give back",
+        "come back",
+        "get away"
+      ]
+    },
+    {
+      "id": "deep_clean",
+      "word": "deep clean",
+      "pos": "verb",
+      "ipa": "/ˌdiːp ˈkliːn/",
+      "reading_th": "ดีพ คลีน",
+      "meaning_th": "ทำความสะอาดครั้งใหญ่",
+      "emoji": "🧽",
+      "example_en": "We hired a company to deep clean the flat before handing it back.",
+      "example_th": "เราจ้างบริษัทมาทำความสะอาดครั้งใหญ่ก่อนส่งห้องคืน",
+      "cefr": "B1",
+      "note_th": "deep clean = ทำความสะอาดละเอียดทุกซอก (เตาอบ หลังตู้เย็น ยาแนวห้องน้ำ) ต่างจาก clean ประจำวัน — สัญญาเช่าอังกฤษมักกำหนดให้ professionally cleaned ก่อนคืน เก็บใบเสร็จไว้โชว์",
+      "distractors": [
+        "dry clean",
+        "clean up",
+        "deep down"
+      ]
+    },
+    {
+      "id": "hand_over",
+      "word": "hand over",
+      "pos": "phrase",
+      "ipa": "/ˌhænd ˈoʊvər/",
+      "reading_th": "แฮนด์ โอ-เวอร์",
+      "meaning_th": "ส่งมอบ (กุญแจ)",
+      "emoji": "🔑",
+      "example_en": "Please hand over all the keys on your last day.",
+      "example_th": "กรุณาส่งมอบกุญแจทั้งหมดในวันสุดท้าย",
+      "cefr": "B1",
+      "note_th": "hand over the keys = ส่งคืนกุญแจ คำนามคือ handover — คืนกุญแจไม่ครบมักโดนหักค่าเปลี่ยนกลอนทั้งชุด นับให้ดีตั้งแต่วันแรกว่าได้มากี่ดอก",
+      "distractors": [
+        "hang over",
+        "hand in",
+        "take over"
+      ]
+    },
+    {
+      "id": "forwarding_address",
+      "word": "forwarding address",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrwərdɪŋ əˌdres/",
+      "reading_th": "ฟอร์-เวิร์ด-ดิ้ง แอด-เดรส",
+      "meaning_th": "ที่อยู่ใหม่สำหรับส่งต่อจดหมาย",
+      "emoji": "📮",
+      "example_en": "Leave a forwarding address so your mail can follow you.",
+      "example_th": "ทิ้งที่อยู่ใหม่ไว้ให้จดหมายส่งต่อตามไปได้",
+      "cefr": "B2",
+      "note_th": "forwarding address = ที่อยู่ที่ให้ส่งจดหมายต่อไป (ไปรษณีย์หลายประเทศมีบริการ mail forwarding เสียเงิน) — เจ้าของบ้านต้องใช้ที่อยู่นี้ส่งมัดจำคืนด้วย",
+      "distractors": [
+        "email address",
+        "home address",
+        "forward"
+      ]
+    },
+    {
+      "id": "final_bill",
+      "word": "final bill",
+      "pos": "noun",
+      "ipa": "/ˌfaɪnl ˈbɪl/",
+      "reading_th": "ไฟ-เนิล บิล",
+      "meaning_th": "บิลงวดสุดท้าย",
+      "emoji": "🧾",
+      "example_en": "Ask the energy company for a final bill when you leave.",
+      "example_th": "ขอบิลงวดสุดท้ายจากบริษัทไฟฟ้าตอนย้ายออก",
+      "cefr": "B1",
+      "note_th": "final bill = บิลปิดบัญชีคิดถึงวันย้ายออก ต้องจดเลขมิเตอร์วันสุดท้ายส่งไป — ถ้าไม่ปิดบัญชี ค่าไฟของผู้เช่าคนใหม่จะมาเป็นชื่อคุณ",
+      "distractors": [
+        "final exam",
+        "phone bill",
+        "finale"
+      ]
+    },
+    {
+      "id": "deposit_dispute",
+      "word": "deposit dispute",
+      "pos": "noun",
+      "ipa": "/dɪˈpɑːzɪt dɪˌspjuːt/",
+      "reading_th": "ดิ-พอ-ซิท ดิส-พิวท์",
+      "meaning_th": "ข้อพิพาทเรื่องเงินมัดจำ",
+      "emoji": "⚖️",
+      "example_en": "A deposit dispute can take weeks, so keep every photo and receipt.",
+      "example_th": "ข้อพิพาทเรื่องเงินมัดจำอาจใช้เวลาหลายสัปดาห์ เก็บรูปและใบเสร็จทุกใบไว้ให้ดี",
+      "cefr": "B2",
+      "note_th": "deposit dispute = ผู้เช่ากับเจ้าของบ้านตกลงเรื่องหักมัดจำกันไม่ได้ — ในอังกฤษยื่นให้ deposit scheme ตัดสินฟรีไม่ต้องขึ้นศาล หลักฐานที่ชนะคือรูปวันย้ายเข้า-ออกและ inventory ที่เซ็นไว้",
+      "distractors": [
+        "deposit slip",
+        "security deposit",
+        "debate"
+      ]
+    },
+    {
+      "id": "pack_up",
+      "word": "pack up",
+      "pos": "phrase",
+      "ipa": "/ˌpæk ˈʌp/",
+      "reading_th": "แพ็ค อัพ",
+      "meaning_th": "เก็บข้าวของทั้งหมด",
+      "emoji": "📦",
+      "example_en": "It takes days to pack up a whole apartment.",
+      "example_th": "เก็บข้าวของทั้งอพาร์ตเมนต์ใช้เวลาหลายวัน",
+      "cefr": "A2",
+      "note_th": "pack up = เก็บของทั้งหมดเพื่อย้ายหรือเลิก (pack up and leave) — ต่างจาก pack ที่ใช้กับกระเป๋าใบเดียว ลังกระดาษขอฟรีได้จากซูเปอร์",
+      "distractors": [
+        "pick up",
+        "back up",
+        "pack"
+      ]
+    },
+    {
+      "id": "clear",
+      "word": "clear",
+      "pos": "verb",
+      "ipa": "/klɪr/",
+      "reading_th": "เคลียร์",
+      "meaning_th": "เคลียร์หนี้ / จ่ายให้หมด",
+      "emoji": "✅",
+      "example_en": "Please clear all outstanding bills before the final inspection.",
+      "example_th": "กรุณาเคลียร์บิลค้างจ่ายทั้งหมดก่อนการตรวจห้องครั้งสุดท้าย",
+      "cefr": "B1",
+      "note_th": "clear a bill/a debt = จ่ายให้หมด ตรงกับที่คนไทยพูดว่า \"เคลียร์\" — ยังใช้ว่า clear out the room = ขนของออกจนห้องว่าง ส่วน outstanding ในบิลแปลว่าค้างจ่าย ไม่ใช่ยอดเยี่ยม",
+      "distractors": [
+        "clean",
+        "close",
+        "clearly"
+      ]
+    },
+    {
+      "id": "spotless",
+      "word": "spotless",
+      "pos": "adjective",
+      "ipa": "/ˈspɑːtləs/",
+      "reading_th": "สปอท-เลส",
+      "meaning_th": "สะอาดเอี่ยม",
+      "emoji": "✨",
+      "example_en": "Leave the flat spotless to get your deposit back.",
+      "example_th": "ทิ้งห้องให้สะอาดเอี่ยมเพื่อจะได้มัดจำคืน",
+      "cefr": "B2",
+      "note_th": "spotless = สะอาดจนไม่มีจุดเปื้อนเลย (spot = จุด, -less = ไม่มี) แรงกว่า clean — เจ้าของบ้านมักตรวจเตาอบและใต้ตู้เย็นเป็นพิเศษ",
+      "distractors": [
+        "spotlight",
+        "speechless",
+        "spot"
+      ]
+    }
+  ]
+}

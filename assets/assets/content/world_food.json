@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "world_food",
+    "name_en": "World Food",
+    "name_th": "อาหารนานาชาติ",
+    "emoji": "🍜",
+    "color_start": "#FB7185",
+    "color_end": "#BE123C",
+    "description_th": "สั่งอาหารญี่ปุ่น เกาหลี อิตาเลียน เม็กซิกัน และอินเดียเป็นภาษาอังกฤษ พร้อมศัพท์บรรยายรสชาติ",
+    "mascot_costume": "chef",
+    "lessons": [
+      {
+        "id": "world_food_1",
+        "title_en": "Japanese & Korean",
+        "title_th": "อาหารญี่ปุ่นและเกาหลี",
+        "emoji": "🍣",
+        "word_ids": [
+          "sushi",
+          "sashimi",
+          "ramen",
+          "tempura",
+          "wasabi",
+          "soy_sauce",
+          "miso",
+          "tofu",
+          "seaweed",
+          "kimchi",
+          "bibimbap",
+          "korean_barbecue",
+          "dumpling",
+          "bento"
+        ]
+      },
+      {
+        "id": "world_food_2",
+        "title_en": "Italian & Pizza",
+        "title_th": "อิตาเลียนและพิซซ่า",
+        "emoji": "🍕",
+        "word_ids": [
+          "pasta",
+          "spaghetti",
+          "lasagna",
+          "risotto",
+          "cheese",
+          "mozzarella",
+          "parmesan",
+          "topping",
+          "crust",
+          "pepperoni",
+          "olive_oil",
+          "garlic_bread",
+          "basil",
+          "tiramisu"
+        ]
+      },
+      {
+        "id": "world_food_3",
+        "title_en": "Mexican & American",
+        "title_th": "เม็กซิกันและอเมริกัน",
+        "emoji": "🌮",
+        "word_ids": [
+          "taco",
+          "burrito",
+          "nachos",
+          "salsa",
+          "guacamole",
+          "tortilla",
+          "quesadilla",
+          "jalapeno",
+          "hot_dog",
+          "barbecue",
+          "fried_chicken",
+          "mac_and_cheese",
+          "bacon",
+          "coleslaw"
+        ]
+      },
+      {
+        "id": "world_food_4",
+        "title_en": "Indian & Middle Eastern",
+        "title_th": "อินเดียและตะวันออกกลาง",
+        "emoji": "🍛",
+        "word_ids": [
+          "curry",
+          "naan",
+          "biryani",
+          "tandoori",
+          "masala",
+          "chickpea",
+          "lentil",
+          "yogurt",
+          "kebab",
+          "hummus",
+          "falafel",
+          "pita",
+          "shawarma",
+          "saffron"
+        ]
+      },
+      {
+        "id": "world_food_5",
+        "title_en": "Street Food",
+        "title_th": "สตรีทฟู้ดทั่วโลก",
+        "emoji": "🍢",
+        "word_ids": [
+          "street_food",
+          "food_stall",
+          "food_truck",
+          "skewer",
+          "spring_roll",
+          "dim_sum",
+          "pho",
+          "satay",
+          "takoyaki",
+          "churros",
+          "crepe",
+          "pretzel",
+          "corn_dog",
+          "fish_and_chips"
+        ]
+      },
+      {
+        "id": "world_food_6",
+        "title_en": "Taste & Texture",
+        "title_th": "รสชาติและเนื้อสัมผัส",
+        "emoji": "👅",
+        "word_ids": [
+          "chewy",
+          "savory",
+          "creamy",
+          "crunchy",
+          "tender",
+          "greasy",
+          "rich",
+          "smoky",
+          "tangy",
+          "umami",
+          "flavor",
+          "texture",
+          "mouth_watering",
+          "portion"
+        ]
+      },
+      {
+        "id": "world_food_7",
+        "title_en": "Diets & Labels",
+        "title_th": "อาหารเฉพาะทางและฉลาก",
+        "emoji": "🌱",
+        "word_ids": [
+          "vegan",
+          "vegetarian",
+          "gluten_free",
+          "organic",
+          "halal",
+          "dairy_free",
+          "lactose_intolerant",
+          "allergic",
+          "ingredient",
+          "calorie",
+          "sugar_free",
+          "low_fat",
+          "plant_based",
+          "nutrition"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "sushi",
+      "word": "sushi",
+      "pos": "noun",
+      "ipa": "/ˈsuːʃi/",
+      "reading_th": "ซู-ชิ",
+      "meaning_th": "ซูชิ",
+      "emoji": "🍣",
+      "example_en": "We ordered a big plate of sushi to share.",
+      "example_th": "เราสั่งซูชิจานใหญ่มาแบ่งกันกิน",
+      "cefr": "A2",
+      "note_th": "sushi นับไม่ได้ — ซูชิหนึ่งคำพูดว่า a piece of sushi ไม่ใช่ a sushi และ sushi คือข้าวปั้นที่มีหน้า ส่วนปลาดิบล้วนๆ คือ sashimi",
+      "distractors": [
+        "sashimi",
+        "salsa",
+        "sauce"
+      ]
+    },
+    {
+      "id": "sashimi",
+      "word": "sashimi",
+      "pos": "noun",
+      "ipa": "/səˈʃiːmi/",
+      "reading_th": "ซา-ชิ-มิ",
+      "meaning_th": "ปลาดิบ (ซาชิมิ)",
+      "emoji": "🐟",
+      "example_en": "The salmon sashimi here is really fresh.",
+      "example_th": "ซาชิมิแซลมอนที่นี่สดมากจริงๆ",
+      "cefr": "A2",
+      "note_th": "sashimi = ปลาดิบแล่เป็นชิ้น ไม่มีข้าว — อยากเช็กความสดพูดว่า Is the sashimi fresh today?",
+      "distractors": [
+        "sushi",
+        "seaweed",
+        "tempura"
+      ]
+    },
+    {
+      "id": "ramen",
+      "word": "ramen",
+      "pos": "noun",
+      "ipa": "/ˈrɑːmən/",
+      "reading_th": "รา-เมน",
+      "meaning_th": "ราเมง",
+      "emoji": "🍜",
+      "example_en": "A bowl of hot ramen is perfect on a rainy day.",
+      "example_th": "ราเมงร้อนๆ สักชามเหมาะกับวันฝนตกที่สุด",
+      "cefr": "A2",
+      "note_th": "ราเมงออกเสียงว่า รา-เมน เสียงท้ายเป็น n — ส่วน instant noodles ที่คนไทยเรียกมาม่า ฝรั่งบางคนก็เรียกว่า instant ramen",
+      "distractors": [
+        "ramp",
+        "random",
+        "noodle"
+      ]
+    },
+    {
+      "id": "tempura",
+      "word": "tempura",
+      "pos": "noun",
+      "ipa": "/ˈtempʊrə/",
+      "reading_th": "เท็ม-พู-ระ",
+      "meaning_th": "เทมปุระ (ของทอดชุบแป้ง)",
+      "emoji": "🍤",
+      "example_en": "The shrimp tempura was light and not greasy.",
+      "example_th": "เทมปุระกุ้งเบาและไม่เลี่ยนเลย",
+      "cefr": "A2",
+      "note_th": "tempura = ชุบแป้งบางทอดแบบญี่ปุ่น ต่างจาก fried ทั่วไป — เมนูยอดฮิตคือ shrimp tempura และ vegetable tempura",
+      "distractors": [
+        "temperature",
+        "temple",
+        "temporary"
+      ]
+    },
+    {
+      "id": "wasabi",
+      "word": "wasabi",
+      "pos": "noun",
+      "ipa": "/wəˈsɑːbi/",
+      "reading_th": "วา-ซา-บิ",
+      "meaning_th": "วาซาบิ",
+      "emoji": "🟢",
+      "example_en": "Be careful, that wasabi is very strong.",
+      "example_th": "ระวังนะ วาซาบินั่นฉุนมาก",
+      "cefr": "A2",
+      "note_th": "วาซาบิไม่ใช่ spicy แบบพริก แต่ฉุนขึ้นจมูก ฝรั่งใช้คำว่า strong หรือ hot — ไม่เอาวาซาบิพูดว่า no wasabi, please",
+      "distractors": [
+        "wassail",
+        "wash",
+        "salsa"
+      ]
+    },
+    {
+      "id": "soy_sauce",
+      "word": "soy sauce",
+      "pos": "noun",
+      "ipa": "/ˈsɔɪ sɔːs/",
+      "reading_th": "ซอย ซอส",
+      "meaning_th": "ซีอิ๊ว / โชยุ",
+      "emoji": "🫙",
+      "example_en": "Please dip the sushi lightly in soy sauce.",
+      "example_th": "กรุณาจิ้มซูชิกับซีอิ๊วแค่เบาๆ",
+      "cefr": "A2",
+      "note_th": "soy sauce ใช้เรียกทั้งซีอิ๊วไทย โชยุญี่ปุ่น และซีอิ๊วจีน — ระวังอย่าสับสนกับ soy milk = นมถั่วเหลือง",
+      "distractors": [
+        "soy milk",
+        "fish sauce",
+        "hot sauce"
+      ]
+    },
+    {
+      "id": "miso",
+      "word": "miso",
+      "pos": "noun",
+      "ipa": "/ˈmiːsoʊ/",
+      "reading_th": "มิ-โซะ",
+      "meaning_th": "มิโซะ (เต้าเจี้ยวญี่ปุ่น)",
+      "emoji": "🥣",
+      "example_en": "The set comes with miso soup and rice.",
+      "example_th": "เซ็ตนี้มาพร้อมซุปมิโซะและข้าว",
+      "cefr": "B1",
+      "note_th": "miso คือถั่วเหลืองหมักแบบญี่ปุ่น มักเจอในรูป miso soup — เป็นซุปแถมฟรีในเซ็ตอาหารญี่ปุ่นแทบทุกร้าน",
+      "distractors": [
+        "mist",
+        "mayo",
+        "misery"
+      ]
+    },
+    {
+      "id": "tofu",
+      "word": "tofu",
+      "pos": "noun",
+      "ipa": "/ˈtoʊfuː/",
+      "reading_th": "โท-ฟุ",
+      "meaning_th": "เต้าหู้",
+      "emoji": "🧈",
+      "example_en": "I ordered tofu instead of meat tonight.",
+      "example_th": "คืนนี้ฉันสั่งเต้าหู้แทนเนื้อสัตว์",
+      "cefr": "A2",
+      "note_th": "ทั้งเต้าหู้ขาว เต้าหู้ทอด เต้าหู้ไข่ เรียกรวมว่า tofu — fried tofu = เต้าหู้ทอด silken tofu = เต้าหู้อ่อน",
+      "distractors": [
+        "tuna",
+        "toffee",
+        "top"
+      ]
+    },
+    {
+      "id": "seaweed",
+      "word": "seaweed",
+      "pos": "noun",
+      "ipa": "/ˈsiːwiːd/",
+      "reading_th": "ซี-วีด",
+      "meaning_th": "สาหร่ายทะเล",
+      "emoji": "🌿",
+      "example_en": "Thai kids love crispy seaweed snacks.",
+      "example_th": "เด็กไทยชอบขนมสาหร่ายกรอบมาก",
+      "cefr": "A2",
+      "note_th": "seaweed = สาหร่ายทะเลทุกชนิด ส่วนแผ่นสาหร่ายห่อซูชิเรียกเฉพาะว่า nori — ขนมเถ้าแก่น้อยคือ seaweed snack",
+      "distractors": [
+        "seafood",
+        "seed",
+        "seesaw"
+      ]
+    },
+    {
+      "id": "kimchi",
+      "word": "kimchi",
+      "pos": "noun",
+      "ipa": "/ˈkɪmtʃi/",
+      "reading_th": "คิม-ชิ",
+      "meaning_th": "กิมจิ",
+      "emoji": "🥬",
+      "example_en": "Korean restaurants serve kimchi with every meal.",
+      "example_th": "ร้านอาหารเกาหลีเสิร์ฟกิมจิกับทุกมื้อ",
+      "cefr": "A2",
+      "note_th": "kimchi = ผักดองเผ็ดของเกาหลี มักเสิร์ฟฟรีเป็น side dish — ถ้าอยากได้เพิ่มพูดว่า Can we have more kimchi?",
+      "distractors": [
+        "kebab",
+        "kitchen",
+        "chili"
+      ]
+    },
+    {
+      "id": "bibimbap",
+      "word": "bibimbap",
+      "pos": "noun",
+      "ipa": "/ˈbiːbɪmbɑːp/",
+      "reading_th": "บิ-บิม-บับ",
+      "meaning_th": "ข้าวยำเกาหลี",
+      "emoji": "🍚",
+      "example_en": "Mix the bibimbap well before you eat it.",
+      "example_th": "คลุกบิบิมบับให้เข้ากันก่อนกินนะ",
+      "cefr": "B1",
+      "note_th": "bibimbap แปลตรงตัวว่า \"ข้าวคลุก\" — ฝรั่งมักอธิบายว่า Korean mixed rice bowl เวลาสั่งถามได้ว่า Does it come in a hot stone bowl?",
+      "distractors": [
+        "kimbap",
+        "bulgogi",
+        "barbecue"
+      ]
+    },
+    {
+      "id": "korean_barbecue",
+      "word": "Korean barbecue",
+      "pos": "noun",
+      "ipa": "/kəˈriːən ˈbɑːrbɪkjuː/",
+      "reading_th": "โค-เรียน บาร์-บิ-คิว",
+      "meaning_th": "ปิ้งย่างเกาหลี",
+      "emoji": "🥩",
+      "example_en": "Let's go for Korean barbecue this Friday night.",
+      "example_th": "ศุกร์นี้ไปกินปิ้งย่างเกาหลีกันเถอะ",
+      "cefr": "A2",
+      "note_th": "ย่อว่า KBBQ ก็ได้ — คนไทยเรียกหมูกระทะ แต่ฝรั่งจะรู้จักในชื่อ Korean barbecue หรือ Korean BBQ มากกว่า",
+      "distractors": [
+        "Korean fried chicken",
+        "grilled pork",
+        "hot pot"
+      ]
+    },
+    {
+      "id": "dumpling",
+      "word": "dumpling",
+      "pos": "noun",
+      "ipa": "/ˈdʌmplɪŋ/",
+      "reading_th": "ดัมพ์-ลิง",
+      "meaning_th": "เกี๊ยว / ซาลาเปาไส้",
+      "emoji": "🥟",
+      "example_en": "Each dumpling is filled with pork and chives.",
+      "example_th": "เกี๊ยวแต่ละลูกมีไส้หมูและกุยช่าย",
+      "cefr": "A2",
+      "note_th": "dumpling เป็นคำกว้าง ครอบคลุมเกี๊ยวซ่า (gyoza) เกี๊ยวนึ่ง และมันดูเกาหลี — steamed dumplings = เกี๊ยวนึ่ง fried dumplings = เกี๊ยวทอด",
+      "distractors": [
+        "dumping",
+        "pudding",
+        "dripping"
+      ]
+    },
+    {
+      "id": "bento",
+      "word": "bento",
+      "pos": "noun",
+      "ipa": "/ˈbentoʊ/",
+      "reading_th": "เบ็น-โตะ",
+      "meaning_th": "ข้าวกล่องญี่ปุ่น",
+      "emoji": "🍱",
+      "example_en": "She packs a bento for lunch every day.",
+      "example_th": "เธอเตรียมข้าวกล่องเบนโตะไปกินกลางวันทุกวัน",
+      "cefr": "A2",
+      "note_th": "bento = ข้าวกล่องแบบญี่ปุ่นที่จัดเป็นช่องสวยงาม ฝรั่งพูดว่า bento box — ส่วนข้าวกล่องทั่วไปคือ lunch box",
+      "distractors": [
+        "bench",
+        "bingo",
+        "bagel"
+      ]
+    },
+    {
+      "id": "pasta",
+      "word": "pasta",
+      "pos": "noun",
+      "ipa": "/ˈpɑːstə/",
+      "reading_th": "พาส-ต้า",
+      "meaning_th": "พาสต้า",
+      "emoji": "🍝",
+      "example_en": "Italians cook pasta until it is al dente.",
+      "example_th": "คนอิตาเลียนต้มพาสต้าจนสุกแบบกำลังหนึบ",
+      "cefr": "A2",
+      "note_th": "pasta เป็นคำรวมของเส้นอิตาเลียนทุกแบบ (spaghetti, penne, fettuccine) และนับไม่ได้ — ไม่พูดว่า two pastas แต่พูดว่า two plates of pasta",
+      "distractors": [
+        "paste",
+        "pastry",
+        "past"
+      ]
+    },
+    {
+      "id": "spaghetti",
+      "word": "spaghetti",
+      "pos": "noun",
+      "ipa": "/spəˈɡeti/",
+      "reading_th": "สปา-เก็ต-ตี้",
+      "meaning_th": "สปาเกตตี",
+      "emoji": "🍝",
+      "example_en": "My son always orders spaghetti with meatballs.",
+      "example_th": "ลูกชายฉันสั่งสปาเกตตีมีตบอลทุกครั้ง",
+      "cefr": "A2",
+      "note_th": "สะกดยาก จำว่า spa-ghe-tti มี gh และ tt — ในไทยเจอ spaghetti carbonara และ spaghetti with Thai basil บ่อยที่สุด",
+      "distractors": [
+        "spinach",
+        "spatula",
+        "sprout"
+      ]
+    },
+    {
+      "id": "lasagna",
+      "word": "lasagna",
+      "pos": "noun",
+      "ipa": "/ləˈzɑːnjə/",
+      "reading_th": "ลา-ซา-ญ่า",
+      "meaning_th": "ลาซานญ่า",
+      "emoji": "🥘",
+      "example_en": "The lasagna takes forty minutes to bake.",
+      "example_th": "ลาซานญ่าใช้เวลาอบสี่สิบนาที",
+      "cefr": "B1",
+      "note_th": "ออกเสียง ลา-ซา-ญ่า ตัว g ไม่ออกเสียง — สะกดได้ทั้ง lasagna (อเมริกัน) และ lasagne (อังกฤษ/อิตาลี)",
+      "distractors": [
+        "lantern",
+        "lagoon",
+        "lozenge"
+      ]
+    },
+    {
+      "id": "risotto",
+      "word": "risotto",
+      "pos": "noun",
+      "ipa": "/rɪˈzɔːtoʊ/",
+      "reading_th": "ริ-ซ็อต-โตะ",
+      "meaning_th": "ข้าวผัดครีมอิตาเลียน",
+      "emoji": "🍚",
+      "example_en": "The mushroom risotto was creamy and rich.",
+      "example_th": "ริซอตโตเห็ดทั้งครีมมี่ทั้งเข้มข้น",
+      "cefr": "B1",
+      "note_th": "risotto = ข้าวอิตาเลียนที่ค่อยๆ เติมน้ำซุปจนครีมมี่ ไม่ใช่ข้าวผัดแบบไทย — เมนูยอดนิยมคือ mushroom risotto และ seafood risotto",
+      "distractors": [
+        "ricotta",
+        "resort",
+        "rosette"
+      ]
+    },
+    {
+      "id": "cheese",
+      "word": "cheese",
+      "pos": "noun",
+      "ipa": "/tʃiːz/",
+      "reading_th": "ชีส",
+      "meaning_th": "ชีส / เนยแข็ง",
+      "emoji": "🧀",
+      "example_en": "Can I have extra cheese on my pizza?",
+      "example_th": "ขอชีสเพิ่มบนพิซซ่าได้ไหม",
+      "cefr": "A1",
+      "note_th": "cheese นับไม่ได้ — ชีสหนึ่งแผ่น = a slice of cheese ส่วน say cheese! คือคำที่ช่างภาพพูดให้ยิ้มตอนถ่ายรูป",
+      "distractors": [
+        "chess",
+        "choose",
+        "cheers"
+      ]
+    },
+    {
+      "id": "mozzarella",
+      "word": "mozzarella",
+      "pos": "noun",
+      "ipa": "/ˌmɑːtsəˈrelə/",
+      "reading_th": "มอซ-ซา-เรล-ล่า",
+      "meaning_th": "ชีสมอซซาเรลลา",
+      "emoji": "🧀",
+      "example_en": "Fresh mozzarella melts beautifully on pizza.",
+      "example_th": "มอซซาเรลลาสดละลายบนพิซซ่าได้สวยมาก",
+      "cefr": "B1",
+      "note_th": "mozzarella คือชีสยืดๆ บนพิซซ่า — คำว่า cheese pull หมายถึงจังหวะยกชิ้นพิซซ่าแล้วชีสยืดยาว ที่คนชอบถ่ายลงโซเชียล",
+      "distractors": [
+        "parmesan",
+        "cheddar",
+        "marinara"
+      ]
+    },
+    {
+      "id": "parmesan",
+      "word": "parmesan",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrməzɑːn/",
+      "reading_th": "พาร์-มิ-ซาน",
+      "meaning_th": "ชีสพาร์เมซาน",
+      "emoji": "🧂",
+      "example_en": "Sprinkle some parmesan on top of the pasta.",
+      "example_th": "โรยชีสพาร์เมซานบนพาสต้าสักหน่อย",
+      "cefr": "B1",
+      "note_th": "parmesan คือชีสแข็งที่ขูดโรยหน้า ร้านมักถามว่า Would you like some parmesan? — ตอบ Yes, please หรือ Just a little",
+      "distractors": [
+        "mozzarella",
+        "pepperoni",
+        "partisan"
+      ]
+    },
+    {
+      "id": "topping",
+      "word": "topping",
+      "pos": "noun",
+      "ipa": "/ˈtɑːpɪŋ/",
+      "reading_th": "ท็อป-ปิง",
+      "meaning_th": "หน้า (ที่โรยบนอาหาร)",
+      "emoji": "🍕",
+      "example_en": "Which topping do you want on your pizza?",
+      "example_th": "อยากได้หน้าอะไรบนพิซซ่า",
+      "cefr": "A2",
+      "note_th": "topping ใช้ได้ทั้งหน้าพิซซ่า ท็อปปิงชานม และหน้าไอศกรีม — extra toppings = เพิ่มหน้า (มักมีค่าใช้จ่ายเพิ่ม)",
+      "distractors": [
+        "tipping",
+        "topic",
+        "tapping"
+      ]
+    },
+    {
+      "id": "crust",
+      "word": "crust",
+      "pos": "noun",
+      "ipa": "/krʌst/",
+      "reading_th": "ครัสท์",
+      "meaning_th": "ขอบพิซซ่า / เปลือกขนมปัง",
+      "emoji": "🥖",
+      "example_en": "I like thin crust better than thick crust.",
+      "example_th": "ฉันชอบขอบบางมากกว่าขอบหนา",
+      "cefr": "B1",
+      "note_th": "ร้านพิซซ่าจะถาม Thin or thick crust? — stuffed crust = ขอบพิซซ่ายัดไส้ชีส และ crust ยังหมายถึงขอบแข็งๆ ของขนมปังด้วย",
+      "distractors": [
+        "crush",
+        "crumb",
+        "cross"
+      ]
+    },
+    {
+      "id": "pepperoni",
+      "word": "pepperoni",
+      "pos": "noun",
+      "ipa": "/ˌpepəˈroʊni/",
+      "reading_th": "เป็ป-เปอ-โร-นี่",
+      "meaning_th": "ไส้กรอกเปปเปอโรนี",
+      "emoji": "🍕",
+      "example_en": "A large pepperoni pizza, please.",
+      "example_th": "ขอพิซซ่าเปปเปอโรนีถาดใหญ่ค่ะ",
+      "cefr": "A2",
+      "note_th": "pepperoni = ไส้กรอกหมูเผ็ดเล็กน้อยแผ่นกลมๆ บนพิซซ่า ไม่ใช่พริกไทย (pepper) — เป็นหน้าพิซซ่าที่ขายดีที่สุดในอเมริกา",
+      "distractors": [
+        "pepper",
+        "peppermint",
+        "macaroni"
+      ]
+    },
+    {
+      "id": "olive_oil",
+      "word": "olive oil",
+      "pos": "noun",
+      "ipa": "/ˈɑːlɪv ɔɪl/",
+      "reading_th": "ออ-ลิฟ ออยล์",
+      "meaning_th": "น้ำมันมะกอก",
+      "emoji": "🫒",
+      "example_en": "Drizzle a little olive oil over the salad.",
+      "example_th": "ราดน้ำมันมะกอกลงบนสลัดสักหน่อย",
+      "cefr": "A2",
+      "note_th": "extra virgin olive oil = น้ำมันมะกอกเกรดดีที่สุด ใช้ราดสด — คำกริยาที่ใช้คู่กันคือ drizzle = ราดบางๆ",
+      "distractors": [
+        "olive",
+        "coconut oil",
+        "oil"
+      ]
+    },
+    {
+      "id": "garlic_bread",
+      "word": "garlic bread",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːrlɪk bred/",
+      "reading_th": "การ์-ลิก เบรด",
+      "meaning_th": "ขนมปังกระเทียม",
+      "emoji": "🧄",
+      "example_en": "We shared garlic bread while waiting for the pasta.",
+      "example_th": "เรากินขนมปังกระเทียมด้วยกันระหว่างรอพาสต้า",
+      "cefr": "A2",
+      "note_th": "garlic bread คือ appetizer ยอดฮิตของร้านอิตาเลียน — garlic = กระเทียม ออกเสียง การ์-ลิก ไม่ใช่ กา-ลิค",
+      "distractors": [
+        "garlic",
+        "gingerbread",
+        "flatbread"
+      ]
+    },
+    {
+      "id": "basil",
+      "word": "basil",
+      "pos": "noun",
+      "ipa": "/ˈbeɪzəl/",
+      "reading_th": "เบ-ซิล",
+      "meaning_th": "ใบโหระพา",
+      "emoji": "🌿",
+      "example_en": "Italian basil tastes sweeter than Thai holy basil.",
+      "example_th": "โหระพาอิตาเลียนหวานกว่ากะเพราไทย",
+      "cefr": "B1",
+      "note_th": "basil = โหระพา ส่วนกะเพรา = holy basil — ผัดกะเพราจึงแปลว่า stir-fried holy basil ไม่ใช่ basil เฉยๆ",
+      "distractors": [
+        "basin",
+        "basic",
+        "bagel"
+      ]
+    },
+    {
+      "id": "tiramisu",
+      "word": "tiramisu",
+      "pos": "noun",
+      "ipa": "/ˌtɪrəmiːˈsuː/",
+      "reading_th": "ทิ-รา-มิ-สุ",
+      "meaning_th": "ทิรามิสุ",
+      "emoji": "🍮",
+      "example_en": "Save room for the tiramisu, it's amazing.",
+      "example_th": "เผื่อท้องไว้กินทิรามิสุนะ อร่อยสุดๆ",
+      "cefr": "B1",
+      "note_th": "tiramisu แปลว่า \"pick me up\" เพราะมีกาแฟและโกโก้ — ของหวานอิตาเลียนที่ขอได้ทุกร้านพาสต้า",
+      "distractors": [
+        "terrace",
+        "tempura",
+        "gelato"
+      ]
+    },
+    {
+      "id": "taco",
+      "word": "taco",
+      "pos": "noun",
+      "ipa": "/ˈtɑːkoʊ/",
+      "reading_th": "ทา-โค่",
+      "meaning_th": "ทาโก้",
+      "emoji": "🌮",
+      "example_en": "Tuesday is taco night at our house.",
+      "example_th": "วันอังคารคือคืนกินทาโก้ที่บ้านเรา",
+      "cefr": "A2",
+      "note_th": "taco = แป้งตอร์ตียาพับครึ่งใส่ไส้ กินด้วยมือ — Taco Tuesday เป็นธรรมเนียมอเมริกันที่ร้านลดราคาทาโก้ทุกวันอังคาร",
+      "distractors": [
+        "tango",
+        "tacky",
+        "tuna"
+      ]
+    },
+    {
+      "id": "burrito",
+      "word": "burrito",
+      "pos": "noun",
+      "ipa": "/bəˈriːtoʊ/",
+      "reading_th": "เบอ-รี-โต้",
+      "meaning_th": "เบอร์ริโต (แป้งห่อม้วน)",
+      "emoji": "🌯",
+      "example_en": "This burrito is too big to finish alone.",
+      "example_th": "เบอร์ริโตชิ้นนี้ใหญ่เกินจะกินคนเดียวหมด",
+      "cefr": "A2",
+      "note_th": "burrito = แป้งห่อม้วนปิดทุกด้าน ต่างจาก taco ที่เปิดอยู่ — ร้านมักถาม Chicken or beef burrito?",
+      "distractors": [
+        "burger",
+        "bureau",
+        "barrier"
+      ]
+    },
+    {
+      "id": "nachos",
+      "word": "nachos",
+      "pos": "noun",
+      "ipa": "/ˈnɑːtʃoʊz/",
+      "reading_th": "นา-โช่ส์",
+      "meaning_th": "นาโช่ส์ (แผ่นข้าวโพดราดชีส)",
+      "emoji": "🧀",
+      "example_en": "We got nachos with cheese and jalapenos.",
+      "example_th": "เราสั่งนาโช่ส์ราดชีสกับพริกฮาลาเปนโย",
+      "cefr": "A2",
+      "note_th": "nachos มี s เสมอเพราะมาเป็นจาน — เป็นของกินเล่นตอนดูบอลหรือดูหนังที่โรงหนังอเมริกันขายคู่กับ popcorn",
+      "distractors": [
+        "natural",
+        "tortilla",
+        "burrito"
+      ]
+    },
+    {
+      "id": "salsa",
+      "word": "salsa",
+      "pos": "noun",
+      "ipa": "/ˈsɑːlsə/",
+      "reading_th": "ซัล-ซ่า",
+      "meaning_th": "ซอสซัลซ่า (ซอสมะเขือเทศสด)",
+      "emoji": "🍅",
+      "example_en": "Dip the chips in the salsa, it's not too spicy.",
+      "example_th": "จิ้มชิปส์กับซัลซ่าสิ ไม่เผ็ดมาก",
+      "cefr": "A2",
+      "note_th": "salsa แปลว่า \"ซอส\" ในภาษาสเปน แต่ในอังกฤษหมายถึงซอสมะเขือเทศสับสดของเม็กซิกัน — และยังเป็นชื่อท่าเต้นละตินด้วย",
+      "distractors": [
+        "sauce",
+        "salad",
+        "sushi"
+      ]
+    },
+    {
+      "id": "guacamole",
+      "word": "guacamole",
+      "pos": "noun",
+      "ipa": "/ˌɡwɑːkəˈmoʊli/",
+      "reading_th": "กวา-คา-โม-เล่",
+      "meaning_th": "กัวคาโมเล่ (อะโวคาโดบด)",
+      "emoji": "🥑",
+      "example_en": "Guacamole is made from mashed avocado and lime.",
+      "example_th": "กัวคาโมเล่ทำจากอะโวคาโดบดกับมะนาว",
+      "cefr": "B1",
+      "note_th": "ย่อว่า guac ก็ได้ — ร้านเม็กซิกันในต่างประเทศมักคิดเงินเพิ่ม Guac is extra จึงกลายเป็นมุกตลกที่คนอเมริกันรู้กัน",
+      "distractors": [
+        "avocado",
+        "guava",
+        "casserole"
+      ]
+    },
+    {
+      "id": "tortilla",
+      "word": "tortilla",
+      "pos": "noun",
+      "ipa": "/tɔːrˈtiːjə/",
+      "reading_th": "ทอร์-ที-ย่า",
+      "meaning_th": "แป้งตอร์ตียา",
+      "emoji": "🫓",
+      "example_en": "Warm the tortilla before you fill it.",
+      "example_th": "อุ่นแป้งตอร์ตียาก่อนใส่ไส้",
+      "cefr": "B1",
+      "note_th": "ll ในภาษาสเปนออกเสียง ย ไม่ใช่ ล จึงเป็น ทอร์-ที-ย่า — มีทั้ง corn tortilla และ flour tortilla",
+      "distractors": [
+        "tortoise",
+        "tartar",
+        "torch"
+      ]
+    },
+    {
+      "id": "quesadilla",
+      "word": "quesadilla",
+      "pos": "noun",
+      "ipa": "/ˌkeɪsəˈdiːjə/",
+      "reading_th": "เค-ซา-ดี-ย่า",
+      "meaning_th": "เคซาดียา (แป้งพับชีสย่าง)",
+      "emoji": "🧀",
+      "example_en": "A cheese quesadilla is a quick lunch.",
+      "example_th": "เคซาดียาชีสเป็นมื้อกลางวันที่ทำง่ายและเร็ว",
+      "cefr": "B1",
+      "note_th": "queso = ชีส ในภาษาสเปน quesadilla จึงเป็นแป้งพับใส่ชีสย่าง — ออกเสียง เค-ซา-ดี-ย่า ไม่มีเสียง ล",
+      "distractors": [
+        "tortilla",
+        "quesito",
+        "casserole"
+      ]
+    },
+    {
+      "id": "jalapeno",
+      "word": "jalapeno",
+      "pos": "noun",
+      "ipa": "/ˌhæləˈpeɪnjoʊ/",
+      "reading_th": "ฮา-ลา-เป-โย",
+      "meaning_th": "พริกฮาลาเปนโย",
+      "emoji": "🌶️",
+      "example_en": "Add some jalapeno if you like it spicy.",
+      "example_th": "ใส่พริกฮาลาเปนโยถ้าชอบเผ็ด",
+      "cefr": "B1",
+      "note_th": "j ภาษาสเปนออกเสียง ฮ จึงเป็น ฮา-ลา-เป-โย — เผ็ดน้อยกว่าพริกขี้หนูไทยมาก คนไทยมักบอกว่า not spicy at all",
+      "distractors": [
+        "chili",
+        "pepper",
+        "banana"
+      ]
+    },
+    {
+      "id": "hot_dog",
+      "word": "hot dog",
+      "pos": "noun",
+      "ipa": "/ˈhɑːt dɔːɡ/",
+      "reading_th": "ฮ็อต ด็อก",
+      "meaning_th": "ฮอตดอก",
+      "emoji": "🌭",
+      "example_en": "Grab a hot dog before the game starts.",
+      "example_th": "ไปซื้อฮอตดอกก่อนเกมเริ่มเถอะ",
+      "cefr": "A1",
+      "note_th": "hot dog = ไส้กรอกในขนมปังยาว ไม่ใช่สุนัขร้อน 😄 — ในสนามกีฬาอเมริกันเป็นอาหารประจำ สั่งว่า one hot dog with mustard and ketchup",
+      "distractors": [
+        "hot pot",
+        "hot sauce",
+        "corn dog"
+      ]
+    },
+    {
+      "id": "barbecue",
+      "word": "barbecue",
+      "pos": "noun",
+      "ipa": "/ˈbɑːrbɪkjuː/",
+      "reading_th": "บาร์-บิ-คิว",
+      "meaning_th": "บาร์บีคิว / งานปิ้งย่าง",
+      "emoji": "🍖",
+      "example_en": "We're having a barbecue in the backyard on Sunday.",
+      "example_th": "วันอาทิตย์เราจะจัดปิ้งย่างในสวนหลังบ้าน",
+      "cefr": "A2",
+      "note_th": "barbecue เป็นได้ทั้งงานสังสรรค์ปิ้งย่าง (have a barbecue) และกริยา (barbecue the chicken) — ย่อว่า BBQ ในเมนูและโซเชียล",
+      "distractors": [
+        "grill",
+        "barbershop",
+        "bakery"
+      ]
+    },
+    {
+      "id": "fried_chicken",
+      "word": "fried chicken",
+      "pos": "noun",
+      "ipa": "/ˌfraɪd ˈtʃɪkɪn/",
+      "reading_th": "ฟรายด์ ชิก-เคิน",
+      "meaning_th": "ไก่ทอด",
+      "emoji": "🍗",
+      "example_en": "Fried chicken with waffles is a Southern classic.",
+      "example_th": "ไก่ทอดกับวาฟเฟิลเป็นเมนูคลาสสิกของอเมริกาใต้",
+      "cefr": "A1",
+      "note_th": "ระวังว่า fried เป็น adjective ต้องมี d — ไก่ทอดหาดใหญ่อธิบายฝรั่งได้ว่า Thai fried chicken with crispy shallots",
+      "distractors": [
+        "grilled chicken",
+        "roast chicken",
+        "fried rice"
+      ]
+    },
+    {
+      "id": "mac_and_cheese",
+      "word": "mac and cheese",
+      "pos": "noun",
+      "ipa": "/ˌmæk ən ˈtʃiːz/",
+      "reading_th": "แม็ค แอนด์ ชีส",
+      "meaning_th": "มักกะโรนีอบชีส",
+      "emoji": "🧀",
+      "example_en": "Kids never say no to mac and cheese.",
+      "example_th": "เด็กๆ ไม่เคยปฏิเสธมักกะโรนีอบชีส",
+      "cefr": "A2",
+      "note_th": "mac = macaroni ย่อให้สั้น เป็น comfort food ของคนอเมริกัน — ในเมนูร้านอาจเขียนเต็มว่า macaroni and cheese",
+      "distractors": [
+        "macaroni",
+        "cheeseburger",
+        "cheesecake"
+      ]
+    },
+    {
+      "id": "bacon",
+      "word": "bacon",
+      "pos": "noun",
+      "ipa": "/ˈbeɪkən/",
+      "reading_th": "เบ-เคิน",
+      "meaning_th": "เบคอน",
+      "emoji": "🥓",
+      "example_en": "I want my bacon extra crispy, please.",
+      "example_th": "ขอเบคอนกรอบเป็นพิเศษค่ะ",
+      "cefr": "A1",
+      "note_th": "ออกเสียง เบ-เคิน ไม่ใช่ บา-คอน — bacon and eggs คืออาหารเช้าอเมริกันสุดคลาสสิก และ bring home the bacon = หาเงินเลี้ยงครอบครัว",
+      "distractors": [
+        "beacon",
+        "baking",
+        "ham"
+      ]
+    },
+    {
+      "id": "coleslaw",
+      "word": "coleslaw",
+      "pos": "noun",
+      "ipa": "/ˈkoʊlslɔː/",
+      "reading_th": "โคล-สลอ",
+      "meaning_th": "สลัดกะหล่ำปลี",
+      "emoji": "🥗",
+      "example_en": "The fried chicken comes with coleslaw on the side.",
+      "example_th": "ไก่ทอดเสิร์ฟพร้อมสลัดกะหล่ำปลีเป็นเครื่องเคียง",
+      "cefr": "B1",
+      "note_th": "coleslaw คือกะหล่ำปลีซอยกับมายองเนส ที่ KFC ไทยเรียกว่าสลัดผัก — on the side = เสิร์ฟแยกเป็นเครื่องเคียง",
+      "distractors": [
+        "coal",
+        "slaw",
+        "cabbage"
+      ]
+    },
+    {
+      "id": "curry",
+      "word": "curry",
+      "pos": "noun",
+      "ipa": "/ˈkɜːri/",
+      "reading_th": "เคอ-รี่",
+      "meaning_th": "แกง / แกงกะหรี่",
+      "emoji": "🍛",
+      "example_en": "Indian curry is thicker than Thai curry.",
+      "example_th": "แกงอินเดียข้นกว่าแกงไทย",
+      "cefr": "A2",
+      "note_th": "curry ใช้เรียกแกงทุกชาติ: green curry = แกงเขียวหวาน Japanese curry = แกงกะหรี่ญี่ปุ่น — ส่วนผงกะหรี่คือ curry powder",
+      "distractors": [
+        "cherry",
+        "carry",
+        "hurry"
+      ]
+    },
+    {
+      "id": "naan",
+      "word": "naan",
+      "pos": "noun",
+      "ipa": "/nɑːn/",
+      "reading_th": "นาน",
+      "meaning_th": "แป้งนาน (ขนมปังอินเดีย)",
+      "emoji": "🫓",
+      "example_en": "Tear the naan and scoop up the curry.",
+      "example_th": "ฉีกแป้งนานแล้วตักแกงกิน",
+      "cefr": "A2",
+      "note_th": "naan = ขนมปังแบนอบเตาดินของอินเดีย ส่วน roti ไทยกับ roti อินเดียเป็นคนละอย่าง — garlic naan และ butter naan คือเมนูยอดนิยม",
+      "distractors": [
+        "nan",
+        "noon",
+        "none"
+      ]
+    },
+    {
+      "id": "biryani",
+      "word": "biryani",
+      "pos": "noun",
+      "ipa": "/ˌbɪriˈɑːni/",
+      "reading_th": "บิ-ริ-ยา-นี",
+      "meaning_th": "ข้าวหมกอินเดีย",
+      "emoji": "🍚",
+      "example_en": "The chicken biryani here is full of spices.",
+      "example_th": "ข้าวหมกไก่ที่นี่เครื่องเทศแน่นมาก",
+      "cefr": "B1",
+      "note_th": "biryani ใกล้เคียงข้าวหมกไก่ไทยที่สุด — เป็นข้าวบาสมาติหุงกับเครื่องเทศและเนื้อสัตว์ สั่งได้ว่า one chicken biryani, please",
+      "distractors": [
+        "bikini",
+        "brownie",
+        "bibimbap"
+      ]
+    },
+    {
+      "id": "tandoori",
+      "word": "tandoori",
+      "pos": "adjective",
+      "ipa": "/tænˈdʊri/",
+      "reading_th": "แทน-ดู-รี่",
+      "meaning_th": "ย่างเตาดินอินเดีย",
+      "emoji": "🔥",
+      "example_en": "Tandoori chicken gets its red color from spices.",
+      "example_th": "ไก่ทันดูรีได้สีแดงจากเครื่องเทศ",
+      "cefr": "B1",
+      "note_th": "tandoor = เตาดินทรงสูง tandoori = ย่างในเตานั้น — tandoori chicken สีแดงส้มเป็นเมนูที่ร้านอินเดียทุกร้านมี",
+      "distractors": [
+        "tandem",
+        "teriyaki",
+        "tempura"
+      ]
+    },
+    {
+      "id": "masala",
+      "word": "masala",
+      "pos": "noun",
+      "ipa": "/məˈsɑːlə/",
+      "reading_th": "มา-ซา-ล่า",
+      "meaning_th": "เครื่องเทศผสม (อินเดีย)",
+      "emoji": "🧂",
+      "example_en": "Garam masala gives the dish its warm flavor.",
+      "example_th": "การัมมาซาล่าให้รสอุ่นๆ แก่อาหารจานนี้",
+      "cefr": "B1",
+      "note_th": "masala แปลว่า \"ส่วนผสมเครื่องเทศ\" — เจอในชื่อเมนู tikka masala (แกงไก่ครีมมะเขือเทศ) และ masala chai (ชาเครื่องเทศ)",
+      "distractors": [
+        "mascara",
+        "marsala",
+        "marshmallow"
+      ]
+    },
+    {
+      "id": "chickpea",
+      "word": "chickpea",
+      "pos": "noun",
+      "ipa": "/ˈtʃɪkpiː/",
+      "reading_th": "ชิค-พี",
+      "meaning_th": "ถั่วลูกไก่",
+      "emoji": "🫘",
+      "example_en": "Chickpea curry is a cheap and filling meal.",
+      "example_th": "แกงถั่วลูกไก่เป็นมื้อที่ถูกและอิ่มท้อง",
+      "cefr": "B1",
+      "note_th": "chickpea ไม่เกี่ยวกับไก่ — เป็นถั่วกลมๆ สีครีมที่ใช้ทำ hummus และ falafel คนที่กิน plant-based ใช้แทนเนื้อสัตว์บ่อย",
+      "distractors": [
+        "chicken",
+        "green pea",
+        "peanut"
+      ]
+    },
+    {
+      "id": "lentil",
+      "word": "lentil",
+      "pos": "noun",
+      "ipa": "/ˈlentəl/",
+      "reading_th": "เลน-ทิล",
+      "meaning_th": "ถั่วเลนทิล",
+      "emoji": "🥣",
+      "example_en": "Lentil soup is popular all over India.",
+      "example_th": "ซุปถั่วเลนทิลเป็นที่นิยมทั่วอินเดีย",
+      "cefr": "B1",
+      "note_th": "lentil = ถั่วเม็ดแบนเล็กๆ สีแดง/เขียว/น้ำตาล ที่คนอินเดียเรียก dal — มีโปรตีนสูง ร้าน vegan ชอบใช้",
+      "distractors": [
+        "lintel",
+        "lemon",
+        "chickpea"
+      ]
+    },
+    {
+      "id": "yogurt",
+      "word": "yogurt",
+      "pos": "noun",
+      "ipa": "/ˈjoʊɡərt/",
+      "reading_th": "โย-เกิร์ต",
+      "meaning_th": "โยเกิร์ต",
+      "emoji": "🥛",
+      "example_en": "Indians cool spicy food with plain yogurt.",
+      "example_th": "คนอินเดียกินโยเกิร์ตรสธรรมชาติแก้เผ็ด",
+      "cefr": "A2",
+      "note_th": "สะกดได้ทั้ง yogurt (อเมริกัน) และ yoghurt (อังกฤษ) — Greek yogurt = โยเกิร์ตข้นๆ ที่คนรักสุขภาพกินกับผลไม้",
+      "distractors": [
+        "yoga",
+        "ghee",
+        "butter"
+      ]
+    },
+    {
+      "id": "kebab",
+      "word": "kebab",
+      "pos": "noun",
+      "ipa": "/kəˈbɑːb/",
+      "reading_th": "เคอ-บับ",
+      "meaning_th": "เคบับ (เนื้อย่างเสียบไม้)",
+      "emoji": "🍢",
+      "example_en": "The lamb kebab was juicy and well seasoned.",
+      "example_th": "เคบับเนื้อแกะชุ่มฉ่ำและปรุงรสได้ดี",
+      "cefr": "A2",
+      "note_th": "kebab = เนื้อย่างแบบตะวันออกกลาง/ตุรกี มีทั้งเสียบไม้ (shish kebab) และแบบหมุนแล้วแล่ (doner kebab) — เขียน kabob ก็มีในอเมริกา",
+      "distractors": [
+        "cabbage",
+        "kimchi",
+        "cab"
+      ]
+    },
+    {
+      "id": "hummus",
+      "word": "hummus",
+      "pos": "noun",
+      "ipa": "/ˈhʊməs/",
+      "reading_th": "ฮุม-มุส",
+      "meaning_th": "ฮุมมุส (ถั่วลูกไก่บด)",
+      "emoji": "🫙",
+      "example_en": "Spread some hummus on the warm pita.",
+      "example_th": "ทาฮุมมุสบนแป้งพิต้าอุ่นๆ",
+      "cefr": "B1",
+      "note_th": "hummus = ดิปถั่วลูกไก่บดกับงาและน้ำมันมะกอก กินกับผักหรือ pita — คนลดน้ำหนักชอบเพราะโปรตีนสูง",
+      "distractors": [
+        "humus",
+        "humor",
+        "mousse"
+      ]
+    },
+    {
+      "id": "falafel",
+      "word": "falafel",
+      "pos": "noun",
+      "ipa": "/fəˈlɑːfəl/",
+      "reading_th": "ฟา-ลา-เฟล",
+      "meaning_th": "ฟาลาเฟล (ถั่วบดทอด)",
+      "emoji": "🧆",
+      "example_en": "Falafel is a tasty vegetarian street food.",
+      "example_th": "ฟาลาเฟลเป็นสตรีทฟู้ดมังสวิรัติที่อร่อย",
+      "cefr": "B1",
+      "note_th": "falafel = ถั่วลูกไก่บดปั้นทอดกรอบ เสิร์ฟในพิต้า — เป็นตัวเลือกยอดนิยมของคน vegetarian ในยุโรป",
+      "distractors": [
+        "waffle",
+        "fallacy",
+        "faucet"
+      ]
+    },
+    {
+      "id": "pita",
+      "word": "pita",
+      "pos": "noun",
+      "ipa": "/ˈpiːtə/",
+      "reading_th": "พี-ต้า",
+      "meaning_th": "แป้งพิต้า",
+      "emoji": "🫓",
+      "example_en": "Fill the pita with falafel and salad.",
+      "example_th": "ใส่ฟาลาเฟลกับสลัดลงในแป้งพิต้า",
+      "cefr": "B1",
+      "note_th": "pita = ขนมปังแบนที่มีโพรงตรงกลางเปิดเป็นกระเป๋าใส่ไส้ได้ — จึงเรียกว่า pita pocket ด้วย",
+      "distractors": [
+        "pizza",
+        "pasta",
+        "peter"
+      ]
+    },
+    {
+      "id": "shawarma",
+      "word": "shawarma",
+      "pos": "noun",
+      "ipa": "/ʃəˈwɑːrmə/",
+      "reading_th": "ชา-วอร์-ม่า",
+      "meaning_th": "ชาวาร์มา (เนื้อแล่จากแท่งหมุน)",
+      "emoji": "🥙",
+      "example_en": "The shawarma stand opens late at night.",
+      "example_th": "ร้านชาวาร์มาเปิดดึกๆ",
+      "cefr": "B1",
+      "note_th": "shawarma = เนื้อหมักเสียบแท่งหมุนย่าง แล่ใส่แป้งห่อ คล้าย doner kebab ของตุรกีและ gyro ของกรีก — ในไทยเริ่มมีร้านเยอะขึ้น",
+      "distractors": [
+        "samosa",
+        "shawl",
+        "sharma"
+      ]
+    },
+    {
+      "id": "saffron",
+      "word": "saffron",
+      "pos": "noun",
+      "ipa": "/ˈsæfrən/",
+      "reading_th": "แซฟ-ฟรอน",
+      "meaning_th": "หญ้าฝรั่น",
+      "emoji": "🌼",
+      "example_en": "A pinch of saffron turns the rice golden.",
+      "example_th": "หญ้าฝรั่นหยิบมือเดียวทำให้ข้าวเป็นสีทอง",
+      "cefr": "B2",
+      "note_th": "saffron = เครื่องเทศแพงที่สุดในโลก ใช้ใน biryani และ paella — a pinch of = หยิบมือเดียว ใช้กับเครื่องเทศและเกลือ",
+      "distractors": [
+        "safari",
+        "turmeric",
+        "cinnamon"
+      ]
+    },
+    {
+      "id": "street_food",
+      "word": "street food",
+      "pos": "noun",
+      "ipa": "/ˈstriːt fuːd/",
+      "reading_th": "สตรีท ฟู้ด",
+      "meaning_th": "อาหารริมทาง",
+      "emoji": "🍢",
+      "example_en": "Bangkok is famous for its street food.",
+      "example_th": "กรุงเทพฯ มีชื่อเสียงเรื่องอาหารริมทาง",
+      "cefr": "A2",
+      "note_th": "street food นับไม่ได้ — พูดว่า some street food หรือ a street food stall ไม่ใช่ a street food และเป็นคำที่นักท่องเที่ยวค้นหาเกี่ยวกับไทยมากที่สุด",
+      "distractors": [
+        "fast food",
+        "junk food",
+        "street market"
+      ]
+    },
+    {
+      "id": "food_stall",
+      "word": "food stall",
+      "pos": "noun",
+      "ipa": "/ˈfuːd stɔːl/",
+      "reading_th": "ฟู้ด สตอล",
+      "meaning_th": "แผงขายอาหาร",
+      "emoji": "🏪",
+      "example_en": "That food stall sells the best grilled pork.",
+      "example_th": "แผงอาหารร้านนั้นขายหมูปิ้งอร่อยที่สุด",
+      "cefr": "A2",
+      "note_th": "stall = แผงลอย ใช้กับร้านริมทางหรือในตลาด — ร้านรถเข็นพูดว่า food cart ส่วนร้านที่มีโต๊ะในตึกคือ shop หรือ restaurant",
+      "distractors": [
+        "food court",
+        "food truck",
+        "food stand"
+      ]
+    },
+    {
+      "id": "food_truck",
+      "word": "food truck",
+      "pos": "noun",
+      "ipa": "/ˈfuːd trʌk/",
+      "reading_th": "ฟู้ด ทรัค",
+      "meaning_th": "รถขายอาหาร",
+      "emoji": "🚚",
+      "example_en": "A food truck parks outside our office at lunch.",
+      "example_th": "มีรถขายอาหารมาจอดหน้าออฟฟิศเราตอนเที่ยง",
+      "cefr": "A2",
+      "note_th": "food truck = รถบรรทุกดัดแปลงเป็นครัวเคลื่อนที่ ฮิตมากในอเมริกาและงานอีเวนต์ไทย — ไม่ใช่รถเข็น (food cart)",
+      "distractors": [
+        "food stall",
+        "truck",
+        "pickup truck"
+      ]
+    },
+    {
+      "id": "skewer",
+      "word": "skewer",
+      "pos": "noun",
+      "ipa": "/ˈskjuːər/",
+      "reading_th": "สกิว-เออร์",
+      "meaning_th": "ไม้เสียบ / ของเสียบไม้",
+      "emoji": "🍡",
+      "example_en": "Each skewer has three pieces of grilled pork.",
+      "example_th": "ไม้แต่ละไม้มีหมูปิ้งสามชิ้น",
+      "cefr": "B1",
+      "note_th": "หมูปิ้ง ลูกชิ้นปิ้ง อธิบายฝรั่งได้ว่า pork skewers, meatball skewers — ราคาต่อไม้พูดว่า ten baht a skewer",
+      "distractors": [
+        "skewed",
+        "sewer",
+        "shower"
+      ]
+    },
+    {
+      "id": "spring_roll",
+      "word": "spring roll",
+      "pos": "noun",
+      "ipa": "/ˈsprɪŋ roʊl/",
+      "reading_th": "สปริง โรล",
+      "meaning_th": "ปอเปี๊ยะ",
+      "emoji": "🥢",
+      "example_en": "Do you want fried or fresh spring rolls?",
+      "example_th": "เอาปอเปี๊ยะทอดหรือปอเปี๊ยะสด",
+      "cefr": "A2",
+      "note_th": "fried spring roll = ปอเปี๊ยะทอด fresh spring roll = ปอเปี๊ยะสดแบบเวียดนาม — ส่วน egg roll คือปอเปี๊ยะแบบอเมริกันเปลือกหนา",
+      "distractors": [
+        "egg roll",
+        "sushi roll",
+        "spring onion"
+      ]
+    },
+    {
+      "id": "dim_sum",
+      "word": "dim sum",
+      "pos": "noun",
+      "ipa": "/ˌdɪm ˈsʌm/",
+      "reading_th": "ดิม ซัม",
+      "meaning_th": "ติ่มซำ",
+      "emoji": "🥟",
+      "example_en": "We go for dim sum every Sunday morning.",
+      "example_th": "เราไปกินติ่มซำทุกเช้าวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "dim sum ใช้เรียกติ่มซำโดยรวม ไม่ต้องเติม s — เมนูเด็ดคือ shrimp dumplings (ฮะเก๋า) และ pork buns (ซาลาเปาหมูแดง)",
+      "distractors": [
+        "dumpling",
+        "dim light",
+        "sum"
+      ]
+    },
+    {
+      "id": "pho",
+      "word": "pho",
+      "pos": "noun",
+      "ipa": "/fʌ/",
+      "reading_th": "เฝอ",
+      "meaning_th": "เฝอ (ก๋วยเตี๋ยวเวียดนาม)",
+      "emoji": "🍜",
+      "example_en": "A bowl of pho is my favorite hangover cure.",
+      "example_th": "เฝอสักชามคือยาแก้เมาค้างที่ฉันชอบที่สุด",
+      "cefr": "B1",
+      "note_th": "ออกเสียง เฝอ (ใกล้ fuh) ไม่ใช่ โฟ — pho = ก๋วยเตี๋ยวเนื้อน้ำใสเวียดนาม ร้านมักเขียน beef pho / chicken pho",
+      "distractors": [
+        "photo",
+        "phone",
+        "ramen"
+      ]
+    },
+    {
+      "id": "satay",
+      "word": "satay",
+      "pos": "noun",
+      "ipa": "/ˈsɑːteɪ/",
+      "reading_th": "ซา-เต๊",
+      "meaning_th": "สะเต๊ะ",
+      "emoji": "🍢",
+      "example_en": "Chicken satay comes with peanut sauce.",
+      "example_th": "ไก่สะเต๊ะเสิร์ฟพร้อมน้ำจิ้มถั่ว",
+      "cefr": "A2",
+      "note_th": "satay = เนื้อหมักขมิ้นเสียบไม้ย่าง จิ้ม peanut sauce — ฝรั่งรู้จักดี สั่งเป็นชุดว่า ten sticks of pork satay",
+      "distractors": [
+        "sauté",
+        "salsa",
+        "sake"
+      ]
+    },
+    {
+      "id": "takoyaki",
+      "word": "takoyaki",
+      "pos": "noun",
+      "ipa": "/ˌtɑːkoʊˈjɑːki/",
+      "reading_th": "ทา-โกะ-ยา-กิ",
+      "meaning_th": "ทาโกะยากิ",
+      "emoji": "🐙",
+      "example_en": "Takoyaki is hot inside, so eat it carefully.",
+      "example_th": "ทาโกะยากิข้างในร้อนมาก ค่อยๆ กินนะ",
+      "cefr": "B1",
+      "note_th": "tako = ปลาหมึกยักษ์ yaki = ย่าง/ทอด — ฝรั่งอธิบายว่า octopus balls จึงจะเข้าใจทันที",
+      "distractors": [
+        "teriyaki",
+        "sukiyaki",
+        "okonomiyaki"
+      ]
+    },
+    {
+      "id": "churros",
+      "word": "churros",
+      "pos": "noun",
+      "ipa": "/ˈtʃʊroʊs/",
+      "reading_th": "ชู-โรส",
+      "meaning_th": "ชูโรส (แป้งทอดคลุกน้ำตาล)",
+      "emoji": "🥖",
+      "example_en": "The churros are dipped in warm chocolate sauce.",
+      "example_th": "ชูโรสจิ้มกับซอสช็อกโกแลตอุ่นๆ",
+      "cefr": "B1",
+      "note_th": "churros มาจากสเปน คลุกน้ำตาลอบเชย จิ้มช็อกโกแลต — ใช้รูปพหูพจน์เป็นหลัก เพราะมักขายเป็นชุดหลายแท่ง",
+      "distractors": [
+        "chorus",
+        "chores",
+        "crepe"
+      ]
+    },
+    {
+      "id": "crepe",
+      "word": "crepe",
+      "pos": "noun",
+      "ipa": "/kreɪp/",
+      "reading_th": "เครป",
+      "meaning_th": "เครป",
+      "emoji": "🥞",
+      "example_en": "I ordered a banana and Nutella crepe.",
+      "example_th": "ฉันสั่งเครปกล้วยนูเทลล่า",
+      "cefr": "A2",
+      "note_th": "crepe ฝรั่งเศสนุ่มพับเป็นสามเหลี่ยม ส่วนเครปไทยกรอบๆ ม้วนใส่ไส้ ฝรั่งเรียกว่า Thai crispy crepe — ออกเสียง เครป เสียงเดียว",
+      "distractors": [
+        "cream",
+        "crisp",
+        "pancake"
+      ]
+    },
+    {
+      "id": "pretzel",
+      "word": "pretzel",
+      "pos": "noun",
+      "ipa": "/ˈpretsəl/",
+      "reading_th": "เพรท-เซิล",
+      "meaning_th": "เพรทเซล (ขนมปังเกลียว)",
+      "emoji": "🥨",
+      "example_en": "A warm pretzel with mustard is a German snack.",
+      "example_th": "เพรทเซลอุ่นๆ จิ้มมัสตาร์ดเป็นของว่างแบบเยอรมัน",
+      "cefr": "B1",
+      "note_th": "pretzel = ขนมปังรูปเงื่อนโรยเกลือจากเยอรมนี มีทั้งแบบนุ่มร้อนๆ และแบบกรอบในถุง — ที่ไทยรู้จักจาก Auntie Anne's",
+      "distractors": [
+        "pretend",
+        "pencil",
+        "bagel"
+      ]
+    },
+    {
+      "id": "corn_dog",
+      "word": "corn dog",
+      "pos": "noun",
+      "ipa": "/ˈkɔːrn dɔːɡ/",
+      "reading_th": "คอร์น ด็อก",
+      "meaning_th": "คอร์นด็อก (ไส้กรอกชุบแป้งทอด)",
+      "emoji": "🌭",
+      "example_en": "The Korean corn dog is covered in cheese.",
+      "example_th": "คอร์นด็อกเกาหลีเคลือบชีสเต็มๆ",
+      "cefr": "A2",
+      "note_th": "corn dog = ไส้กรอกเสียบไม้ชุบแป้งข้าวโพดทอด — ต่างจาก hot dog ที่อยู่ในขนมปัง และแบบเกาหลีจะมีชีสยืดและมันฝรั่งเกาะ",
+      "distractors": [
+        "hot dog",
+        "corn",
+        "popcorn"
+      ]
+    },
+    {
+      "id": "fish_and_chips",
+      "word": "fish and chips",
+      "pos": "noun",
+      "ipa": "/ˌfɪʃ ən ˈtʃɪps/",
+      "reading_th": "ฟิช แอนด์ ชิปส์",
+      "meaning_th": "ปลาทอดกับมันฝรั่งทอด",
+      "emoji": "🐟",
+      "example_en": "Fish and chips is the classic British takeaway.",
+      "example_th": "ปลาทอดกับมันฝรั่งทอดคือเมนูซื้อกลับบ้านคลาสสิกของอังกฤษ",
+      "cefr": "A2",
+      "note_th": "ในอังกฤษ chips = มันฝรั่งทอดแท่งหนา (ที่อเมริกาเรียก fries) ส่วน chips อเมริกา = มันฝรั่งแผ่นกรอบ — ใช้กริยาเอกพจน์เพราะนับเป็นจานเดียว",
+      "distractors": [
+        "fish fingers",
+        "fish sauce",
+        "chips"
+      ]
+    },
+    {
+      "id": "chewy",
+      "word": "chewy",
+      "pos": "adjective",
+      "ipa": "/ˈtʃuːi/",
+      "reading_th": "ชู-อี้",
+      "meaning_th": "หนึบ / เหนียวนุ่ม",
+      "emoji": "🍡",
+      "example_en": "The mochi is soft and chewy.",
+      "example_th": "โมจินุ่มและหนึบ",
+      "cefr": "B1",
+      "note_th": "chewy ใช้ชมได้ (ไข่มุกหนึบ) และบ่นได้ (เนื้อเหนียวเคี้ยวไม่ขาด) ดูที่น้ำเสียง — เนื้อเหนียวแบบแย่ใช้ tough ก็ได้",
+      "distractors": [
+        "cheesy",
+        "chilly",
+        "chunky"
+      ]
+    },
+    {
+      "id": "savory",
+      "word": "savory",
+      "pos": "adjective",
+      "ipa": "/ˈseɪvəri/",
+      "reading_th": "เซ-เวอ-รี่",
+      "meaning_th": "รสเค็มกลมกล่อม (ไม่หวาน)",
+      "emoji": "🍖",
+      "example_en": "I prefer savory snacks to sweet ones.",
+      "example_th": "ฉันชอบของว่างรสเค็มมากกว่ารสหวาน",
+      "cefr": "B1",
+      "note_th": "savory คือ \"ไม่หวาน\" (คาว) ตรงข้ามกับ sweet — ไม่ได้แปลว่าเค็มจัด อังกฤษสะกด savoury",
+      "distractors": [
+        "savvy",
+        "salty",
+        "sweet"
+      ]
+    },
+    {
+      "id": "creamy",
+      "word": "creamy",
+      "pos": "adjective",
+      "ipa": "/ˈkriːmi/",
+      "reading_th": "ครี-มี่",
+      "meaning_th": "ครีมมี่ / เนื้อเนียนนุ่ม",
+      "emoji": "🥛",
+      "example_en": "This mushroom soup is rich and creamy.",
+      "example_th": "ซุปเห็ดถ้วยนี้เข้มข้นและครีมมี่",
+      "cefr": "A2",
+      "note_th": "creamy ใช้ได้ทั้งที่มีครีมจริงและแค่เนื้อสัมผัสเนียนนุ่ม เช่น creamy avocado — คู่หูที่เจอบ่อยคือ rich and creamy",
+      "distractors": [
+        "crispy",
+        "cream",
+        "dreamy"
+      ]
+    },
+    {
+      "id": "crunchy",
+      "word": "crunchy",
+      "pos": "adjective",
+      "ipa": "/ˈkrʌntʃi/",
+      "reading_th": "ครัน-ชี่",
+      "meaning_th": "กรุบกรอบ (เสียงดัง)",
+      "emoji": "🥜",
+      "example_en": "Fresh vegetables should be crunchy, not soft.",
+      "example_th": "ผักสดควรกรุบกรอบ ไม่ใช่นิ่ม",
+      "cefr": "B1",
+      "note_th": "crunchy กรอบแบบมีเสียง \"กรุบ\" (ถั่ว แอปเปิล ผักสด) ส่วน crispy กรอบบางๆ แบบของทอด — เนยถั่วมี crunchy กับ smooth",
+      "distractors": [
+        "crispy",
+        "crumbly",
+        "chunky"
+      ]
+    },
+    {
+      "id": "tender",
+      "word": "tender",
+      "pos": "adjective",
+      "ipa": "/ˈtendər/",
+      "reading_th": "เทน-เดอร์",
+      "meaning_th": "นุ่ม (เนื้อสัตว์)",
+      "emoji": "🥩",
+      "example_en": "The beef was so tender it melted in my mouth.",
+      "example_th": "เนื้อนุ่มจนละลายในปาก",
+      "cefr": "B1",
+      "note_th": "tender ใช้ชมเนื้อสัตว์ที่นุ่มตัดง่าย ตรงข้ามกับ tough — ส่วนขนมปังนุ่มใช้ soft ไม่ใช่ tender",
+      "distractors": [
+        "tough",
+        "tenderloin",
+        "tenant"
+      ]
+    },
+    {
+      "id": "greasy",
+      "word": "greasy",
+      "pos": "adjective",
+      "ipa": "/ˈɡriːsi/",
+      "reading_th": "กรี-ซี่",
+      "meaning_th": "เลี่ยน / มันเยิ้ม",
+      "emoji": "🍟",
+      "example_en": "The fries were too greasy for me.",
+      "example_th": "เฟรนช์ฟรายส์มันเยิ้มเกินไปสำหรับฉัน",
+      "cefr": "B1",
+      "note_th": "greasy แรงกว่า oily มีความหมายเชิงลบว่าน้ำมันเยิ้ม — greasy food = อาหารมันๆ ที่กินแล้วรู้สึกเลี่ยน",
+      "distractors": [
+        "grassy",
+        "greedy",
+        "grease"
+      ]
+    },
+    {
+      "id": "rich",
+      "word": "rich",
+      "pos": "adjective",
+      "ipa": "/rɪtʃ/",
+      "reading_th": "ริช",
+      "meaning_th": "รสเข้มข้น (อาหาร)",
+      "emoji": "🍫",
+      "example_en": "The chocolate cake is very rich, so share it.",
+      "example_th": "เค้กช็อกโกแลตเข้มข้นมาก แบ่งกันกินเถอะ",
+      "cefr": "B1",
+      "note_th": "rich กับอาหารไม่ได้แปลว่ารวย แต่หมายถึงรสเข้มข้น หนัก มีไขมันหรือเนยเยอะ — too rich = กินมากแล้วเลี่ยน",
+      "distractors": [
+        "reach",
+        "ridge",
+        "heavy"
+      ]
+    },
+    {
+      "id": "smoky",
+      "word": "smoky",
+      "pos": "adjective",
+      "ipa": "/ˈsmoʊki/",
+      "reading_th": "สโม-กี้",
+      "meaning_th": "หอมควันไฟ / รมควัน",
+      "emoji": "🔥",
+      "example_en": "The grilled pork has a nice smoky flavor.",
+      "example_th": "หมูย่างมีกลิ่นหอมควันไฟกำลังดี",
+      "cefr": "B1",
+      "note_th": "smoky ใช้บรรยายของย่างถ่าน บาร์บีคิว และวิสกี้ — ส่วน smoked (เช่น smoked salmon) คือรมควันจริงๆ",
+      "distractors": [
+        "smelly",
+        "smooth",
+        "smokey"
+      ]
+    },
+    {
+      "id": "tangy",
+      "word": "tangy",
+      "pos": "adjective",
+      "ipa": "/ˈtæŋi/",
+      "reading_th": "แทง-งี่",
+      "meaning_th": "เปรี้ยวจี๊ดแบบสดชื่น",
+      "emoji": "🍋",
+      "example_en": "The dressing is tangy with lime and fish sauce.",
+      "example_th": "น้ำสลัดเปรี้ยวจี๊ดด้วยมะนาวและน้ำปลา",
+      "cefr": "B2",
+      "note_th": "tangy = เปรี้ยวแบบจี๊ดจ๊าดสดชื่น เชิงบวกกว่า sour — ใช้บรรยายส้มตำ ยำ และซอสบาร์บีคิวได้ดี",
+      "distractors": [
+        "tango",
+        "tangled",
+        "tingly"
+      ]
+    },
+    {
+      "id": "umami",
+      "word": "umami",
+      "pos": "noun",
+      "ipa": "/uːˈmɑːmi/",
+      "reading_th": "อู-มา-มิ",
+      "meaning_th": "รสอูมามิ (รสกลมกล่อม)",
+      "emoji": "🍄",
+      "example_en": "Fish sauce adds a lot of umami to Thai dishes.",
+      "example_th": "น้ำปลาเพิ่มรสอูมามิให้อาหารไทยอย่างมาก",
+      "cefr": "B2",
+      "note_th": "umami คือรสที่ 5 นอกจาก หวาน เปรี้ยว เค็ม ขม — มาจากภาษาญี่ปุ่น เจอในเห็ด ชีส น้ำปลา และผงชูรส (MSG)",
+      "distractors": [
+        "tsunami",
+        "mommy",
+        "yummy"
+      ]
+    },
+    {
+      "id": "flavor",
+      "word": "flavor",
+      "pos": "noun",
+      "ipa": "/ˈfleɪvər/",
+      "reading_th": "เฟล-เวอร์",
+      "meaning_th": "รสชาติ / รส (ของกลิ่นรส)",
+      "emoji": "👅",
+      "example_en": "What flavor of ice cream do you want?",
+      "example_th": "อยากได้ไอศกรีมรสอะไร",
+      "cefr": "A2",
+      "note_th": "flavor = รสชาติโดยรวม (ใช้ถามรสไอศกรีม มันฝรั่ง) ส่วน taste เน้นการรับรส — อังกฤษสะกด flavour",
+      "distractors": [
+        "favor",
+        "flour",
+        "flavoring"
+      ]
+    },
+    {
+      "id": "texture",
+      "word": "texture",
+      "pos": "noun",
+      "ipa": "/ˈtekstʃər/",
+      "reading_th": "เท็กซ์-เจอร์",
+      "meaning_th": "เนื้อสัมผัส",
+      "emoji": "🤲",
+      "example_en": "I love the texture of bubble tea pearls.",
+      "example_th": "ฉันชอบเนื้อสัมผัสของไข่มุกชานม",
+      "cefr": "B1",
+      "note_th": "texture = ความรู้สึกตอนเคี้ยว (chewy, crunchy, creamy) — รีวิวอาหารฝรั่งพูดถึง flavor and texture คู่กันเสมอ",
+      "distractors": [
+        "text",
+        "mixture",
+        "tension"
+      ]
+    },
+    {
+      "id": "mouth_watering",
+      "word": "mouth-watering",
+      "pos": "adjective",
+      "ipa": "/ˈmaʊθ ˌwɔːtərɪŋ/",
+      "reading_th": "เมาธ์ วอ-เทอ-ริง",
+      "meaning_th": "น่ากินจนน้ำลายสอ",
+      "emoji": "🤤",
+      "example_en": "The menu photos look mouth-watering.",
+      "example_th": "รูปในเมนูดูน่ากินจนน้ำลายสอ",
+      "cefr": "B2",
+      "note_th": "mouth-watering ใช้ชมหน้าตาหรือกลิ่นอาหาร ก่อนได้ชิม — เป็นคำที่ food blogger ใช้บ่อยมาก",
+      "distractors": [
+        "mouthful",
+        "watery",
+        "mouthwash"
+      ]
+    },
+    {
+      "id": "portion",
+      "word": "portion",
+      "pos": "noun",
+      "ipa": "/ˈpɔːrʃən/",
+      "reading_th": "พอร์-ชั่น",
+      "meaning_th": "ปริมาณต่อจาน / หนึ่งที่",
+      "emoji": "🍽️",
+      "example_en": "The portions here are huge, let's share.",
+      "example_th": "ที่นี่ให้เยอะมาก แบ่งกันกินเถอะ",
+      "cefr": "B1",
+      "note_th": "portion = ปริมาณอาหารต่อหนึ่งที่ — American portions are big เป็นเรื่องที่นักท่องเที่ยวบ่นกันบ่อย ร้านอาจมี half portion ด้วย",
+      "distractors": [
+        "position",
+        "potion",
+        "proportion"
+      ]
+    },
+    {
+      "id": "vegan",
+      "word": "vegan",
+      "pos": "adjective",
+      "ipa": "/ˈviːɡən/",
+      "reading_th": "วี-เกิน",
+      "meaning_th": "วีแกน (ไม่กินผลิตภัณฑ์จากสัตว์เลย)",
+      "emoji": "🌱",
+      "example_en": "Is this dish vegan or does it have egg?",
+      "example_th": "จานนี้วีแกนหรือมีไข่",
+      "cefr": "B1",
+      "note_th": "vegan ไม่กินทุกอย่างจากสัตว์ รวมไข่ นม น้ำผึ้ง — ใกล้เคียงเจของไทยที่สุด ส่วน vegetarian ยังกินไข่นมได้",
+      "distractors": [
+        "vegetarian",
+        "vegetable",
+        "Vegas"
+      ]
+    },
+    {
+      "id": "vegetarian",
+      "word": "vegetarian",
+      "pos": "adjective",
+      "ipa": "/ˌvedʒəˈteriən/",
+      "reading_th": "เว-จิ-แท-เรียน",
+      "meaning_th": "มังสวิรัติ",
+      "emoji": "🥦",
+      "example_en": "Do you have a vegetarian menu?",
+      "example_th": "มีเมนูมังสวิรัติไหม",
+      "cefr": "A2",
+      "note_th": "vegetarian ไม่กินเนื้อสัตว์แต่กินไข่และนมได้ — ถ้าสั่งอาหารไทยให้ไม่ใส่น้ำปลาด้วยต้องบอกเพิ่มว่า no fish sauce",
+      "distractors": [
+        "vegan",
+        "veteran",
+        "vegetation"
+      ]
+    },
+    {
+      "id": "gluten_free",
+      "word": "gluten-free",
+      "pos": "adjective",
+      "ipa": "/ˌɡluːtən ˈfriː/",
+      "reading_th": "กลู-เทิน ฟรี",
+      "meaning_th": "ปลอดกลูเตน",
+      "emoji": "🌾",
+      "example_en": "Rice noodles are naturally gluten-free.",
+      "example_th": "เส้นก๋วยเตี๋ยวจากข้าวปลอดกลูเตนโดยธรรมชาติ",
+      "cefr": "B1",
+      "note_th": "-free ต่อท้ายแปลว่า \"ไม่มี\" ไม่ใช่ฟรี: gluten-free, sugar-free, dairy-free — gluten อยู่ในแป้งสาลี จึงเจอในขนมปังและพาสต้า",
+      "distractors": [
+        "gluten",
+        "free",
+        "grain-free"
+      ]
+    },
+    {
+      "id": "organic",
+      "word": "organic",
+      "pos": "adjective",
+      "ipa": "/ɔːrˈɡænɪk/",
+      "reading_th": "ออร์-แก-นิก",
+      "meaning_th": "ออร์แกนิก / ปลอดสารเคมี",
+      "emoji": "🥬",
+      "example_en": "Organic vegetables cost more at the supermarket.",
+      "example_th": "ผักออร์แกนิกราคาแพงกว่าในซูเปอร์มาร์เก็ต",
+      "cefr": "B1",
+      "note_th": "organic = ปลูกโดยไม่ใช้สารเคมีสังเคราะห์ มีตรารับรอง — ร้านที่ขายของแบบนี้เรียก organic store หรือ health food store",
+      "distractors": [
+        "organ",
+        "original",
+        "oregano"
+      ]
+    },
+    {
+      "id": "halal",
+      "word": "halal",
+      "pos": "adjective",
+      "ipa": "/həˈlɑːl/",
+      "reading_th": "ฮา-ลาล",
+      "meaning_th": "ฮาลาล",
+      "emoji": "🕌",
+      "example_en": "Look for the halal sign before ordering.",
+      "example_th": "มองหาป้ายฮาลาลก่อนสั่งอาหาร",
+      "cefr": "B1",
+      "note_th": "halal = อาหารที่ถูกต้องตามหลักอิสลาม — ในไทยมีตราฮาลาลบนบรรจุภัณฑ์ และร้านมุสลิมมักติดป้าย halal food",
+      "distractors": [
+        "hall",
+        "hello",
+        "kosher"
+      ]
+    },
+    {
+      "id": "dairy_free",
+      "word": "dairy-free",
+      "pos": "adjective",
+      "ipa": "/ˌderi ˈfriː/",
+      "reading_th": "แด-รี่ ฟรี",
+      "meaning_th": "ไม่มีนมวัว",
+      "emoji": "🥥",
+      "example_en": "This latte is dairy-free because it uses oat milk.",
+      "example_th": "ลาเต้แก้วนี้ไม่มีนมวัวเพราะใช้นมข้าวโอ๊ต",
+      "cefr": "B1",
+      "note_th": "dairy = ผลิตภัณฑ์จากนม (นม ชีส เนย โยเกิร์ต) — dairy-free ไม่ได้แปลว่าวีแกน เพราะอาจยังมีไข่",
+      "distractors": [
+        "dairy",
+        "diary",
+        "fat-free"
+      ]
+    },
+    {
+      "id": "lactose_intolerant",
+      "word": "lactose intolerant",
+      "pos": "adjective",
+      "ipa": "/ˌlæktoʊs ɪnˈtɑːlərənt/",
+      "reading_th": "แลค-โทส อิน-ทอล-เลอ-เรินท์",
+      "meaning_th": "แพ้แล็กโทส (ย่อยนมไม่ได้)",
+      "emoji": "🥛",
+      "example_en": "I'm lactose intolerant, so no milk please.",
+      "example_th": "ฉันย่อยนมไม่ได้ ไม่ใส่นมนะคะ",
+      "cefr": "B2",
+      "note_th": "คนเอเชียจำนวนมากดื่มนมแล้วท้องเสีย นั่นคือ lactose intolerant — ไม่ใช่ allergic to milk ซึ่งคือแพ้โปรตีนนมและอันตรายกว่า",
+      "distractors": [
+        "lactose",
+        "intolerable",
+        "dairy-free"
+      ]
+    },
+    {
+      "id": "allergic",
+      "word": "allergic",
+      "pos": "adjective",
+      "ipa": "/əˈlɜːrdʒɪk/",
+      "reading_th": "อะ-เลอร์-จิก",
+      "meaning_th": "แพ้ (อาหาร/สาร)",
+      "emoji": "🥜",
+      "example_en": "My friend is allergic to peanuts.",
+      "example_th": "เพื่อนฉันแพ้ถั่วลิสง",
+      "cefr": "A2",
+      "note_th": "allergic ใช้กับ to เสมอ: allergic to shrimp / peanuts / nuts — ประโยคที่ควรจำก่อนเดินทางคือ I'm allergic to ...",
+      "distractors": [
+        "allergy",
+        "energetic",
+        "alert"
+      ]
+    },
+    {
+      "id": "ingredient",
+      "word": "ingredient",
+      "pos": "noun",
+      "ipa": "/ɪnˈɡriːdiənt/",
+      "reading_th": "อิน-กรี-เดียนท์",
+      "meaning_th": "ส่วนผสม / วัตถุดิบ",
+      "emoji": "📋",
+      "example_en": "Read the ingredient list if you have allergies.",
+      "example_th": "อ่านรายการส่วนผสมถ้าคุณมีอาการแพ้",
+      "cefr": "B1",
+      "note_th": "ingredients = ส่วนผสมในสูตรหรือบนฉลาก ส่วน material = วัตถุดิบในโรงงาน — the secret ingredient คือเคล็ดลับความอร่อย",
+      "distractors": [
+        "gradient",
+        "incredible",
+        "instrument"
+      ]
+    },
+    {
+      "id": "calorie",
+      "word": "calorie",
+      "pos": "noun",
+      "ipa": "/ˈkæləri/",
+      "reading_th": "แค-ลอ-รี่",
+      "meaning_th": "แคลอรี",
+      "emoji": "🔥",
+      "example_en": "A bubble tea can have over 400 calories.",
+      "example_th": "ชานมไข่มุกแก้วเดียวอาจมีมากกว่า 400 แคลอรี",
+      "cefr": "A2",
+      "note_th": "calorie มักใช้เป็นพหูพจน์ calories — ฉลากอเมริกาใช้ Calories ส่วนไทย/ยุโรปใช้ kcal ซึ่งคือหน่วยเดียวกัน",
+      "distractors": [
+        "celery",
+        "color",
+        "gallery"
+      ]
+    },
+    {
+      "id": "sugar_free",
+      "word": "sugar-free",
+      "pos": "adjective",
+      "ipa": "/ˌʃʊɡər ˈfriː/",
+      "reading_th": "ชู-เกอร์ ฟรี",
+      "meaning_th": "ไม่มีน้ำตาล",
+      "emoji": "🚫",
+      "example_en": "Sugar-free gum still tastes sweet.",
+      "example_th": "หมากฝรั่งไม่มีน้ำตาลก็ยังหวาน",
+      "cefr": "A2",
+      "note_th": "sugar-free มักใช้สารให้ความหวานแทน (sweetener) จึงยังหวานได้ — ต่างจาก unsweetened = ไม่เติมความหวานเลย",
+      "distractors": [
+        "sugar",
+        "fat-free",
+        "sugary"
+      ]
+    },
+    {
+      "id": "low_fat",
+      "word": "low-fat",
+      "pos": "adjective",
+      "ipa": "/ˌloʊ ˈfæt/",
+      "reading_th": "โลว์ แฟท",
+      "meaning_th": "ไขมันต่ำ",
+      "emoji": "📉",
+      "example_en": "She only buys low-fat milk and yogurt.",
+      "example_th": "เธอซื้อแต่นมและโยเกิร์ตไขมันต่ำ",
+      "cefr": "A2",
+      "note_th": "low-fat = ลดไขมันลง ส่วน fat-free = ไม่มีไขมันเลย — เจอบนขวดนมและโยเกิร์ต ในไทยมักแปลว่า \"ไขมันต่ำ\" หรือ \"พร่องมันเนย\"",
+      "distractors": [
+        "fat-free",
+        "low-carb",
+        "lower"
+      ]
+    },
+    {
+      "id": "plant_based",
+      "word": "plant-based",
+      "pos": "adjective",
+      "ipa": "/ˈplænt beɪst/",
+      "reading_th": "แพลนท์ เบสท์",
+      "meaning_th": "ทำจากพืช",
+      "emoji": "🌿",
+      "example_en": "Plant-based burgers taste surprisingly like meat.",
+      "example_th": "เบอร์เกอร์จากพืชรสชาติเหมือนเนื้อจนน่าแปลกใจ",
+      "cefr": "B1",
+      "note_th": "plant-based เป็นคำการตลาดยุคใหม่สำหรับอาหารจากพืช เช่น plant-based meat — ฟังดูเป็นกลางกว่า vegan",
+      "distractors": [
+        "plant",
+        "based",
+        "meat-based"
+      ]
+    },
+    {
+      "id": "nutrition",
+      "word": "nutrition",
+      "pos": "noun",
+      "ipa": "/nuːˈtrɪʃən/",
+      "reading_th": "นิว-ทริ-ชั่น",
+      "meaning_th": "โภชนาการ",
+      "emoji": "🥗",
+      "example_en": "Check the nutrition facts on the back of the pack.",
+      "example_th": "ดูข้อมูลโภชนาการที่ด้านหลังซอง",
+      "cefr": "B1",
+      "note_th": "nutrition facts / nutrition label = ตารางโภชนาการบนฉลาก — คำคุณศัพท์คือ nutritious = มีประโยชน์ทางโภชนาการ",
+      "distractors": [
+        "nutritious",
+        "nutrient",
+        "nutritionist"
+      ]
+    }
+  ]
+}

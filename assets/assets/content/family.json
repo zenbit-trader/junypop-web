@@ -1,0 +1,1934 @@
+{
+  "world": {
+    "id": "family",
+    "name_en": "Family & Relatives",
+    "name_th": "ครอบครัวและญาติ",
+    "emoji": "👨‍👩‍👧",
+    "color_start": "#FCA5A5",
+    "color_end": "#B91C1C",
+    "description_th": "ญาติพี่น้อง ลำดับญาติ ชีวิตคู่ การเลี้ยงลูก และเหตุการณ์ในครอบครัวตั้งแต่เกิดจนแก่",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "family_1",
+        "title_en": "Relatives",
+        "title_th": "ญาติพี่น้อง",
+        "emoji": "🧑‍🤝‍🧑",
+        "word_ids": [
+          "relative",
+          "sibling",
+          "nephew",
+          "niece",
+          "grandparents",
+          "grandchild",
+          "mother_in_law",
+          "father_in_law",
+          "sister_in_law",
+          "brother_in_law",
+          "stepmother",
+          "stepfather",
+          "half_brother",
+          "twins"
+        ]
+      },
+      {
+        "id": "family_2",
+        "title_en": "Married Life",
+        "title_th": "ชีวิตคู่",
+        "emoji": "💍",
+        "word_ids": [
+          "spouse",
+          "marriage",
+          "divorce",
+          "widow",
+          "widower",
+          "remarry",
+          "housewife",
+          "breadwinner",
+          "arranged_marriage",
+          "life_partner",
+          "move_in_together",
+          "stay_at_home_dad",
+          "commitment",
+          "faithful"
+        ]
+      },
+      {
+        "id": "family_3",
+        "title_en": "Babies & Parenting",
+        "title_th": "ทารกและการเลี้ยงลูก",
+        "emoji": "👶",
+        "word_ids": [
+          "baby",
+          "newborn",
+          "give_birth",
+          "maternity_leave",
+          "toddler",
+          "diaper",
+          "stroller",
+          "crib",
+          "breastfeed",
+          "pacifier",
+          "babysitter",
+          "nanny",
+          "nap",
+          "teething"
+        ]
+      },
+      {
+        "id": "family_4",
+        "title_en": "Growing Up",
+        "title_th": "วัยเติบโต",
+        "emoji": "🧒",
+        "word_ids": [
+          "childhood",
+          "upbringing",
+          "kid",
+          "teenager",
+          "adult",
+          "only_child",
+          "pocket_money",
+          "chores",
+          "curfew",
+          "strict",
+          "spoil",
+          "naughty",
+          "rebellious",
+          "leave_the_nest"
+        ]
+      },
+      {
+        "id": "family_5",
+        "title_en": "Family Events",
+        "title_th": "งานครอบครัวและประเพณี",
+        "emoji": "🎂",
+        "word_ids": [
+          "family_dinner",
+          "housewarming",
+          "family_reunion",
+          "homecoming",
+          "gathering",
+          "keepsake",
+          "godparents",
+          "condolences",
+          "memorial",
+          "pay_respects",
+          "potluck",
+          "heirloom",
+          "hand_down",
+          "family_album"
+        ]
+      },
+      {
+        "id": "family_6",
+        "title_en": "Family Bonds",
+        "title_th": "ความสัมพันธ์ในครอบครัว",
+        "emoji": "💞",
+        "word_ids": [
+          "close_knit",
+          "rely_on",
+          "take_after",
+          "reconcile",
+          "estranged",
+          "devoted",
+          "stick_together",
+          "supportive",
+          "overprotective",
+          "distant",
+          "black_sheep",
+          "sibling_rivalry",
+          "run_in_the_family",
+          "eldest"
+        ]
+      },
+      {
+        "id": "family_7",
+        "title_en": "Generations",
+        "title_th": "วัยชราและรุ่นสู่รุ่น",
+        "emoji": "🧓",
+        "word_ids": [
+          "generation",
+          "generation_gap",
+          "family_tree",
+          "ancestor",
+          "descendant",
+          "senior_citizen",
+          "middle_aged",
+          "grow_old",
+          "nursing_home",
+          "caregiver",
+          "pass_away",
+          "heir",
+          "old_age",
+          "legacy"
+        ]
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "relative",
+      "word": "relative",
+      "pos": "noun",
+      "ipa": "/ˈrelətɪv/",
+      "reading_th": "เรล-ละ-ทีฟ",
+      "meaning_th": "ญาติ",
+      "emoji": "👪",
+      "example_en": "All my relatives come to our house at Songkran.",
+      "example_th": "ญาติทุกคนมาที่บ้านเราตอนสงกรานต์",
+      "cefr": "A2",
+      "note_th": "relative = ญาติ (คำนาม) อย่าสับสนกับ relationship (ความสัมพันธ์) — ญาติห่างๆ คือ distant relative ญาติสนิทคือ close relative",
+      "distractors": [
+        "relation",
+        "relevant",
+        "native"
+      ]
+    },
+    {
+      "id": "sibling",
+      "word": "sibling",
+      "pos": "noun",
+      "ipa": "/ˈsɪblɪŋ/",
+      "reading_th": "ซิบ-ลิ่ง",
+      "meaning_th": "พี่น้อง (ไม่ระบุเพศ)",
+      "emoji": "👧",
+      "example_en": "Do you have any siblings or are you an only child?",
+      "example_th": "คุณมีพี่น้องไหม หรือเป็นลูกคนเดียว",
+      "cefr": "B1",
+      "note_th": "sibling = พี่หรือน้อง ไม่บอกเพศและไม่บอกว่าพี่หรือน้อง ใช้ในแบบฟอร์มและการถามสุภาพ — คนไทยถาม How many siblings do you have?",
+      "distractors": [
+        "sibling rivalry",
+        "singling",
+        "civilian"
+      ]
+    },
+    {
+      "id": "nephew",
+      "word": "nephew",
+      "pos": "noun",
+      "ipa": "/ˈnefjuː/",
+      "reading_th": "เนฟ-ฟิว",
+      "meaning_th": "หลานชาย (ลูกของพี่น้อง)",
+      "emoji": "👦",
+      "example_en": "My nephew just started primary school.",
+      "example_th": "หลานชายฉันเพิ่งเข้าประถม",
+      "cefr": "A2",
+      "note_th": "nephew = หลานชายที่เป็นลูกของพี่น้องเรา ส่วนหลานชายที่เป็นลูกของลูกคือ grandson — ภาษาไทยใช้คำว่าหลานทั้งคู่ ภาษาอังกฤษแยกชัด",
+      "distractors": [
+        "niece",
+        "new",
+        "grandson"
+      ]
+    },
+    {
+      "id": "niece",
+      "word": "niece",
+      "pos": "noun",
+      "ipa": "/niːs/",
+      "reading_th": "นีส",
+      "meaning_th": "หลานสาว (ลูกของพี่น้อง)",
+      "emoji": "👧",
+      "example_en": "My niece loves drawing cats and dogs.",
+      "example_th": "หลานสาวฉันชอบวาดรูปแมวกับหมา",
+      "cefr": "A2",
+      "note_th": "niece ออกเสียง นีส (สัมผัสกับ peace) — สะกด ie เหมือน piece และ nephew กับ niece มักถูกถามคู่กันในข้อสอบ",
+      "distractors": [
+        "nephew",
+        "nice",
+        "piece"
+      ]
+    },
+    {
+      "id": "grandparents",
+      "word": "grandparents",
+      "pos": "noun",
+      "ipa": "/ˈɡrænˌperənts/",
+      "reading_th": "แกรนด์-แพ-เรินท์ส",
+      "meaning_th": "ปู่ย่าตายาย",
+      "emoji": "👴",
+      "example_en": "My grandparents still live in the countryside.",
+      "example_th": "ปู่ย่าตายายของฉันยังอยู่ต่างจังหวัด",
+      "cefr": "A1",
+      "note_th": "grandparents รวมทั้งฝั่งพ่อและแม่ ภาษาอังกฤษไม่แยกปู่ย่า/ตายาย — ถ้าจะบอกให้ชัดพูดว่า my grandmother on my mother's side",
+      "distractors": [
+        "grandchildren",
+        "great-grandparents",
+        "godparents"
+      ]
+    },
+    {
+      "id": "grandchild",
+      "word": "grandchild",
+      "pos": "noun",
+      "ipa": "/ˈɡræntʃaɪld/",
+      "reading_th": "แกรนด์-ไชลด์",
+      "meaning_th": "หลาน (ลูกของลูก)",
+      "emoji": "🧒",
+      "example_en": "She spoils her first grandchild with toys and snacks.",
+      "example_th": "เธอตามใจหลานคนแรกด้วยของเล่นและขนม",
+      "cefr": "A2",
+      "note_th": "grandchild = หลานที่เป็นลูกของลูก (grandson/granddaughter) พหูพจน์คือ grandchildren — ส่วนหลานจากพี่น้องคือ nephew/niece",
+      "distractors": [
+        "grandparent",
+        "godchild",
+        "nephew"
+      ]
+    },
+    {
+      "id": "mother_in_law",
+      "word": "mother-in-law",
+      "pos": "noun",
+      "ipa": "/ˈmʌðər ɪn lɔː/",
+      "reading_th": "มา-เธอร์ อิน ลอ",
+      "meaning_th": "แม่สามี / แม่ยาย",
+      "emoji": "👩",
+      "example_en": "My mother-in-law cooks the best green curry.",
+      "example_th": "แม่สามีฉันทำแกงเขียวหวานอร่อยที่สุด",
+      "cefr": "A2",
+      "note_th": "-in-law = ญาติทางการแต่งงาน ภาษาไทยแยกแม่สามี/แม่ยาย แต่อังกฤษใช้คำเดียว — พหูพจน์คือ mothers-in-law (เติม s ที่ mother)",
+      "distractors": [
+        "mother",
+        "stepmother",
+        "godmother"
+      ]
+    },
+    {
+      "id": "father_in_law",
+      "word": "father-in-law",
+      "pos": "noun",
+      "ipa": "/ˈfɑːðər ɪn lɔː/",
+      "reading_th": "ฟา-เธอร์ อิน ลอ",
+      "meaning_th": "พ่อสามี / พ่อตา",
+      "emoji": "👨",
+      "example_en": "I play golf with my father-in-law on Sundays.",
+      "example_th": "ฉันเล่นกอล์ฟกับพ่อตาทุกวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "father-in-law = พ่อของคู่สมรส ถ้าพูดถึงทั้งพ่อและแม่ของคู่สมรสใช้ in-laws เฉยๆ — เขียนมีขีดกลางสองตัวเสมอ",
+      "distractors": [
+        "father",
+        "stepfather",
+        "godfather"
+      ]
+    },
+    {
+      "id": "sister_in_law",
+      "word": "sister-in-law",
+      "pos": "noun",
+      "ipa": "/ˈsɪstər ɪn lɔː/",
+      "reading_th": "ซิส-เตอร์ อิน ลอ",
+      "meaning_th": "พี่สะใภ้ / น้องสะใภ้ / พี่น้องของคู่สมรส (หญิง)",
+      "emoji": "👩‍🦰",
+      "example_en": "My sister-in-law is coming for dinner tonight.",
+      "example_th": "พี่สะใภ้จะมากินข้าวเย็นคืนนี้",
+      "cefr": "B1",
+      "note_th": "sister-in-law ครอบคลุมทั้งสะใภ้ (เมียของพี่น้อง) และพี่น้องผู้หญิงของคู่สมรส — ภาษาอังกฤษไม่แยกสองกรณีนี้",
+      "distractors": [
+        "sister",
+        "stepsister",
+        "sisterhood"
+      ]
+    },
+    {
+      "id": "brother_in_law",
+      "word": "brother-in-law",
+      "pos": "noun",
+      "ipa": "/ˈbrʌðər ɪn lɔː/",
+      "reading_th": "บรา-เธอร์ อิน ลอ",
+      "meaning_th": "พี่เขย / น้องเขย / พี่น้องของคู่สมรส (ชาย)",
+      "emoji": "👨‍🦱",
+      "example_en": "My brother-in-law helped us move house.",
+      "example_th": "น้องเขยช่วยเราย้ายบ้าน",
+      "cefr": "B1",
+      "note_th": "brother-in-law = เขย (สามีของพี่น้อง) หรือพี่น้องผู้ชายของคู่สมรส — คู่กับ sister-in-law และทั้งคู่ไม่มีพหูพจน์แบบเติม s ท้ายสุด",
+      "distractors": [
+        "brother",
+        "stepbrother",
+        "brotherhood"
+      ]
+    },
+    {
+      "id": "stepmother",
+      "word": "stepmother",
+      "pos": "noun",
+      "ipa": "/ˈstepmʌðər/",
+      "reading_th": "สเต็ป-มา-เธอร์",
+      "meaning_th": "แม่เลี้ยง",
+      "emoji": "👩‍🦳",
+      "example_en": "His stepmother treats him like her own son.",
+      "example_th": "แม่เลี้ยงปฏิบัติกับเขาเหมือนลูกแท้ๆ",
+      "cefr": "A2",
+      "note_th": "step- = ญาติจากการแต่งงานใหม่ของพ่อแม่ (stepmother, stepfather, stepsister) — ภาพแม่เลี้ยงใจร้ายในนิทานคือ wicked stepmother",
+      "distractors": [
+        "mother-in-law",
+        "godmother",
+        "grandmother"
+      ]
+    },
+    {
+      "id": "stepfather",
+      "word": "stepfather",
+      "pos": "noun",
+      "ipa": "/ˈstepfɑːðər/",
+      "reading_th": "สเต็ป-ฟา-เธอร์",
+      "meaning_th": "พ่อเลี้ยง",
+      "emoji": "👨‍🦳",
+      "example_en": "My stepfather taught me how to ride a bike.",
+      "example_th": "พ่อเลี้ยงสอนฉันขี่จักรยาน",
+      "cefr": "A2",
+      "note_th": "stepfather = สามีใหม่ของแม่ ส่วนลูกของเขาคือ stepbrother/stepsister ของเรา — ภาษาพูดเรียก stepdad",
+      "distractors": [
+        "father-in-law",
+        "godfather",
+        "grandfather"
+      ]
+    },
+    {
+      "id": "half_brother",
+      "word": "half-brother",
+      "pos": "noun",
+      "ipa": "/ˈhæf ˌbrʌðər/",
+      "reading_th": "ฮาฟ บรา-เธอร์",
+      "meaning_th": "พี่ชาย / น้องชายต่างพ่อหรือต่างแม่",
+      "emoji": "👦",
+      "example_en": "I have a half-brother from my father's first marriage.",
+      "example_th": "ฉันมีน้องชายต่างแม่จากการแต่งงานครั้งแรกของพ่อ",
+      "cefr": "B1",
+      "note_th": "half- = มีพ่อหรือแม่ร่วมกันคนเดียว (half-brother, half-sister) ส่วน step- ไม่มีสายเลือดร่วมกันเลย — ข้อแตกต่างที่ฝรั่งใส่ใจ",
+      "distractors": [
+        "stepbrother",
+        "brother-in-law",
+        "half-sister"
+      ]
+    },
+    {
+      "id": "twins",
+      "word": "twins",
+      "pos": "noun",
+      "ipa": "/twɪnz/",
+      "reading_th": "ทวินส์",
+      "meaning_th": "ฝาแฝด",
+      "emoji": "👯",
+      "example_en": "The twins look exactly the same.",
+      "example_th": "ฝาแฝดคู่นี้หน้าเหมือนกันเป๊ะ",
+      "cefr": "A2",
+      "note_th": "แฝดหน้าเหมือนคือ identical twins แฝดคนละไข่คือ fraternal twins — แฝดสามคือ triplets และ twin ยังใช้กับเตียงแฝด twin beds",
+      "distractors": [
+        "twin",
+        "tweens",
+        "teens"
+      ]
+    },
+    {
+      "id": "spouse",
+      "word": "spouse",
+      "pos": "noun",
+      "ipa": "/spaʊs/",
+      "reading_th": "สเปาส์",
+      "meaning_th": "คู่สมรส",
+      "emoji": "💑",
+      "example_en": "Please write the full name of your spouse here.",
+      "example_th": "กรุณากรอกชื่อเต็มของคู่สมรสตรงนี้",
+      "cefr": "B1",
+      "note_th": "spouse = สามีหรือภรรยา (ไม่ระบุเพศ) เป็นคำทางการที่เจอในแบบฟอร์มวีซ่า ประกัน ภาษี — ในชีวิตประจำวันพูด my husband/wife ธรรมดา",
+      "distractors": [
+        "sponsor",
+        "mouse",
+        "spout"
+      ]
+    },
+    {
+      "id": "marriage",
+      "word": "marriage",
+      "pos": "noun",
+      "ipa": "/ˈmerɪdʒ/",
+      "reading_th": "แม-ริจ",
+      "meaning_th": "การแต่งงาน / ชีวิตสมรส",
+      "emoji": "💍",
+      "example_en": "They have a happy marriage after twenty years.",
+      "example_th": "พวกเขามีชีวิตสมรสที่มีความสุขมายี่สิบปี",
+      "cefr": "A2",
+      "note_th": "marriage = การแต่งงานหรือชีวิตคู่หลังแต่ง (คำนาม) ส่วน wedding คือพิธีในวันนั้น — ทะเบียนสมรสคือ marriage certificate",
+      "distractors": [
+        "marry",
+        "mirage",
+        "carriage"
+      ]
+    },
+    {
+      "id": "divorce",
+      "word": "divorce",
+      "pos": "noun",
+      "ipa": "/dɪˈvɔːrs/",
+      "reading_th": "ดิ-วอร์ส",
+      "meaning_th": "การหย่าร้าง",
+      "emoji": "💔",
+      "example_en": "After the divorce, the kids live with their mother.",
+      "example_th": "หลังหย่า เด็กๆ อยู่กับแม่",
+      "cefr": "B1",
+      "note_th": "divorce เป็นได้ทั้งคำนามและกริยา: get a divorce / get divorced = หย่า — คนที่หย่าแล้วคือ divorced (สถานภาพในแบบฟอร์ม)",
+      "distractors": [
+        "diverse",
+        "device",
+        "divide"
+      ]
+    },
+    {
+      "id": "widow",
+      "word": "widow",
+      "pos": "noun",
+      "ipa": "/ˈwɪdoʊ/",
+      "reading_th": "วิ-โด",
+      "meaning_th": "แม่ม่าย (สามีเสียชีวิต)",
+      "emoji": "🖤",
+      "example_en": "My aunt has been a widow for ten years.",
+      "example_th": "ป้าของฉันเป็นแม่ม่ายมาสิบปีแล้ว",
+      "cefr": "B1",
+      "note_th": "widow = ผู้หญิงที่สามีเสียชีวิต (ไม่ใช่หย่า) ส่วนผู้ชายที่ภรรยาเสียคือ widower — ในแบบฟอร์มสถานภาพจะมีช่อง widowed",
+      "distractors": [
+        "window",
+        "widower",
+        "wider"
+      ]
+    },
+    {
+      "id": "widower",
+      "word": "widower",
+      "pos": "noun",
+      "ipa": "/ˈwɪdoʊər/",
+      "reading_th": "วิ-โด-เออร์",
+      "meaning_th": "พ่อม่าย (ภรรยาเสียชีวิต)",
+      "emoji": "🖤",
+      "example_en": "The old widower eats alone every evening.",
+      "example_th": "พ่อม่ายวัยชราคนนั้นกินข้าวคนเดียวทุกเย็น",
+      "cefr": "B1",
+      "note_th": "widower = ผู้ชายที่ภรรยาเสียชีวิต เติม -er จาก widow — หนึ่งในไม่กี่คำที่รูปผู้ชายยาวกว่ารูปผู้หญิง",
+      "distractors": [
+        "widow",
+        "wider",
+        "winner"
+      ]
+    },
+    {
+      "id": "remarry",
+      "word": "remarry",
+      "pos": "verb",
+      "ipa": "/ˌriːˈmeri/",
+      "reading_th": "รี-แม-รี่",
+      "meaning_th": "แต่งงานใหม่",
+      "emoji": "💒",
+      "example_en": "My mother decided to remarry last year.",
+      "example_th": "แม่ตัดสินใจแต่งงานใหม่เมื่อปีที่แล้ว",
+      "cefr": "B1",
+      "note_th": "re- + marry = แต่งงานอีกครั้ง — การแต่งงานครั้งที่สองคือ second marriage และ remarry ใช้ได้ทั้งหลังหย่าและหลังคู่ชีวิตเสีย",
+      "distractors": [
+        "retry",
+        "remind",
+        "repair"
+      ]
+    },
+    {
+      "id": "housewife",
+      "word": "housewife",
+      "pos": "noun",
+      "ipa": "/ˈhaʊswaɪf/",
+      "reading_th": "เฮาส์-ไวฟ์",
+      "meaning_th": "แม่บ้าน (ภรรยาที่ดูแลบ้าน)",
+      "emoji": "🏠",
+      "example_en": "My mom was a housewife until I turned ten.",
+      "example_th": "แม่เป็นแม่บ้านจนฉันอายุสิบขวบ",
+      "cefr": "A2",
+      "note_th": "housewife = ภรรยาที่ไม่ได้ทำงานนอกบ้าน ส่วนแม่บ้านรับจ้างคือ maid หรือ housekeeper — คำสมัยใหม่ที่เป็นกลางกว่าคือ stay-at-home mom",
+      "distractors": [
+        "housekeeper",
+        "household",
+        "housemate"
+      ]
+    },
+    {
+      "id": "breadwinner",
+      "word": "breadwinner",
+      "pos": "noun",
+      "ipa": "/ˈbredwɪnər/",
+      "reading_th": "เบรด-วิน-เนอร์",
+      "meaning_th": "เสาหลักของบ้าน (คนหาเงิน)",
+      "emoji": "💼",
+      "example_en": "She became the breadwinner when her husband lost his job.",
+      "example_th": "เธอกลายเป็นเสาหลักของบ้านตอนสามีตกงาน",
+      "cefr": "B2",
+      "note_th": "breadwinner = คนที่หาเงินเลี้ยงครอบครัว (win the bread = หาข้าวกิน) — ใช้ได้ทั้งชายหญิง และ sole breadwinner คือหาเงินอยู่คนเดียว",
+      "distractors": [
+        "bread",
+        "winner",
+        "bartender"
+      ]
+    },
+    {
+      "id": "arranged_marriage",
+      "word": "arranged marriage",
+      "pos": "noun",
+      "ipa": "/əˌreɪndʒd ˈmerɪdʒ/",
+      "reading_th": "อะ-เรนจ์ด์ แม-ริจ",
+      "meaning_th": "การแต่งงานแบบคลุมถุงชน",
+      "emoji": "🤵",
+      "example_en": "My grandparents had an arranged marriage but loved each other.",
+      "example_th": "ปู่ย่าแต่งงานแบบคลุมถุงชนแต่ก็รักกัน",
+      "cefr": "B2",
+      "note_th": "arranged marriage = พ่อแม่จัดหาคู่ให้ (arrange = จัดการ) ตรงข้ามคือ love marriage — ยังเป็นเรื่องปกติในอินเดียและเคยปกติในไทยสมัยก่อน",
+      "distractors": [
+        "love marriage",
+        "arrangement",
+        "second marriage"
+      ]
+    },
+    {
+      "id": "life_partner",
+      "word": "life partner",
+      "pos": "noun",
+      "ipa": "/ˈlaɪf ˌpɑːrtnər/",
+      "reading_th": "ไลฟ์ พาร์ท-เนอร์",
+      "meaning_th": "คู่ชีวิต",
+      "emoji": "💑",
+      "example_en": "I want a life partner who laughs at my jokes.",
+      "example_th": "ฉันอยากได้คู่ชีวิตที่หัวเราะกับมุกของฉัน",
+      "cefr": "B1",
+      "note_th": "life partner = คู่ชีวิตที่อยู่ด้วยกันตลอดชีวิต ไม่ว่าจะจดทะเบียนหรือไม่ — เป็นกลางกว่า husband/wife และคู่รักทุกรูปแบบใช้ได้",
+      "distractors": [
+        "business partner",
+        "life coach",
+        "roommate"
+      ]
+    },
+    {
+      "id": "move_in_together",
+      "word": "move in together",
+      "pos": "phrase",
+      "ipa": "/muːv ɪn təˈɡeðər/",
+      "reading_th": "มูฟ อิน ทู-เก-เธอร์",
+      "meaning_th": "ย้ายมาอยู่ด้วยกัน",
+      "emoji": "📦",
+      "example_en": "They plan to move in together after the wedding.",
+      "example_th": "พวกเขาวางแผนย้ายมาอยู่ด้วยกันหลังงานแต่ง",
+      "cefr": "B1",
+      "note_th": "move in = ย้ายเข้า, move in together = ย้ายมาอยู่บ้านเดียวกันเป็นคู่ — การอยู่ก่อนแต่งเรียกว่า live together ฝรั่งถือเป็นเรื่องปกติ",
+      "distractors": [
+        "move out",
+        "move on",
+        "get together"
+      ]
+    },
+    {
+      "id": "stay_at_home_dad",
+      "word": "stay-at-home dad",
+      "pos": "noun",
+      "ipa": "/ˌsteɪ ət ˈhoʊm dæd/",
+      "reading_th": "สเตย์ แอท โฮม แดด",
+      "meaning_th": "พ่อบ้านเลี้ยงลูกเต็มเวลา",
+      "emoji": "👨‍🍼",
+      "example_en": "My brother is a stay-at-home dad while his wife works.",
+      "example_th": "พี่ชายฉันเป็นพ่อบ้านเลี้ยงลูกเต็มเวลาส่วนภรรยาทำงาน",
+      "cefr": "B1",
+      "note_th": "stay-at-home dad/mom = พ่อแม่ที่อยู่บ้านเลี้ยงลูกเต็มเวลา เป็นคำที่ให้เกียรติกว่า housewife และใช้ได้ทั้งสองเพศ",
+      "distractors": [
+        "single dad",
+        "stepdad",
+        "homebody"
+      ]
+    },
+    {
+      "id": "commitment",
+      "word": "commitment",
+      "pos": "noun",
+      "ipa": "/kəˈmɪtmənt/",
+      "reading_th": "คะ-มิท-เมินท์",
+      "meaning_th": "ความผูกมัด / คำมั่นสัญญา",
+      "emoji": "🤝",
+      "example_en": "Marriage is a lifelong commitment, not just a party.",
+      "example_th": "การแต่งงานคือความผูกมัดตลอดชีวิต ไม่ใช่แค่งานเลี้ยง",
+      "cefr": "B1",
+      "note_th": "commitment = การให้คำมั่นที่จะอยู่ด้วยกันหรือทำสิ่งนั้นจริงจัง — คนที่กลัวการผูกมัดเรียกว่า has commitment issues ใช้กับงานได้ด้วย",
+      "distractors": [
+        "comment",
+        "committee",
+        "compliment"
+      ]
+    },
+    {
+      "id": "faithful",
+      "word": "faithful",
+      "pos": "adjective",
+      "ipa": "/ˈfeɪθfəl/",
+      "reading_th": "เฟธ-ฟูล",
+      "meaning_th": "ซื่อสัตย์ต่อคู่ครอง",
+      "emoji": "💗",
+      "example_en": "He has been faithful to his wife for thirty years.",
+      "example_th": "เขาซื่อสัตย์ต่อภรรยามาสามสิบปี",
+      "cefr": "B1",
+      "note_th": "faithful = ไม่นอกใจ (faith = ความศรัทธา) ตรงข้ามคือ unfaithful — ใช้กับหมาที่ซื่อสัตย์ได้ด้วย a faithful dog",
+      "distractors": [
+        "fateful",
+        "fearful",
+        "unfaithful"
+      ]
+    },
+    {
+      "id": "baby",
+      "word": "baby",
+      "pos": "noun",
+      "ipa": "/ˈbeɪbi/",
+      "reading_th": "เบ-บี้",
+      "meaning_th": "เด็กทารก",
+      "emoji": "👶",
+      "example_en": "The baby sleeps most of the day.",
+      "example_th": "เด็กทารกนอนเกือบทั้งวัน",
+      "cefr": "A1",
+      "note_th": "baby = ทารกถึงประมาณหนึ่งขวบ หลังจากนั้นเป็น toddler — have a baby = มีลูก, baby shower = งานเลี้ยงก่อนคลอด และคู่รักก็เรียกกันว่า baby",
+      "distractors": [
+        "body",
+        "bubble",
+        "toddler"
+      ]
+    },
+    {
+      "id": "newborn",
+      "word": "newborn",
+      "pos": "noun",
+      "ipa": "/ˈnuːbɔːrn/",
+      "reading_th": "นิว-บอร์น",
+      "meaning_th": "ทารกแรกเกิด",
+      "emoji": "🍼",
+      "example_en": "A newborn needs to be fed every two hours.",
+      "example_th": "ทารกแรกเกิดต้องกินนมทุกสองชั่วโมง",
+      "cefr": "B1",
+      "note_th": "newborn = เด็กที่เพิ่งเกิดไม่กี่สัปดาห์ (new + born) ใช้เป็นคำคุณศัพท์ได้ newborn baby — ไซซ์ผ้าอ้อมเล็กสุดเขียนว่า NB",
+      "distractors": [
+        "newcomer",
+        "unborn",
+        "toddler"
+      ]
+    },
+    {
+      "id": "give_birth",
+      "word": "give birth",
+      "pos": "phrase",
+      "ipa": "/ɡɪv bɜːrθ/",
+      "reading_th": "กิฟ เบิร์ธ",
+      "meaning_th": "คลอดลูก",
+      "emoji": "🏥",
+      "example_en": "My sister will give birth next month.",
+      "example_th": "พี่สาวฉันจะคลอดเดือนหน้า",
+      "cefr": "B1",
+      "note_th": "give birth to a boy = คลอดลูกชาย (ช่อง 2 gave birth) ส่วน be born = เกิด — ผ่าคลอดคือ C-section และคลอดธรรมชาติคือ natural birth",
+      "distractors": [
+        "give up",
+        "give away",
+        "be born"
+      ]
+    },
+    {
+      "id": "maternity_leave",
+      "word": "maternity leave",
+      "pos": "noun",
+      "ipa": "/məˈtɜːrnəti liːv/",
+      "reading_th": "มะ-เทอร์-นิ-ตี้ ลีฟ",
+      "meaning_th": "ลาคลอด",
+      "emoji": "📅",
+      "example_en": "She is on maternity leave until March.",
+      "example_th": "เธอลาคลอดอยู่จนถึงเดือนมีนาคม",
+      "cefr": "B1",
+      "note_th": "be on maternity leave = กำลังลาคลอด (กฎหมายไทยให้ 98 วัน) ส่วนลาของพ่อคือ paternity leave — maternity ยังใช้กับชุดคลุมท้อง maternity clothes",
+      "distractors": [
+        "paternity leave",
+        "sick leave",
+        "annual leave"
+      ]
+    },
+    {
+      "id": "toddler",
+      "word": "toddler",
+      "pos": "noun",
+      "ipa": "/ˈtɑːdlər/",
+      "reading_th": "ท็อด-เลอร์",
+      "meaning_th": "เด็กวัยหัดเดิน (1–3 ขวบ)",
+      "emoji": "🧒",
+      "example_en": "A toddler can fall over twenty times a day.",
+      "example_th": "เด็กวัยหัดเดินล้มได้วันละยี่สิบครั้ง",
+      "cefr": "B1",
+      "note_th": "toddle = เดินเตาะแตะ จึงเรียกเด็กวัยนี้ว่า toddler (ประมาณ 1–3 ขวบ) — ลำดับคือ newborn → baby → toddler → kid → teenager",
+      "distractors": [
+        "toddle",
+        "todder",
+        "teenager"
+      ]
+    },
+    {
+      "id": "diaper",
+      "word": "diaper",
+      "pos": "noun",
+      "ipa": "/ˈdaɪpər/",
+      "reading_th": "ได-เพอร์",
+      "meaning_th": "ผ้าอ้อม",
+      "emoji": "🧷",
+      "example_en": "We go through ten diapers a day with the twins.",
+      "example_th": "เราใช้ผ้าอ้อมวันละสิบชิ้นกับลูกแฝด",
+      "cefr": "A2",
+      "note_th": "diaper (อเมริกัน) = nappy (อังกฤษ) = ผ้าอ้อม — change a diaper = เปลี่ยนผ้าอ้อม และผ้าอ้อมสำเร็จรูปคือ disposable diaper",
+      "distractors": [
+        "paper",
+        "nappy",
+        "dipper"
+      ]
+    },
+    {
+      "id": "stroller",
+      "word": "stroller",
+      "pos": "noun",
+      "ipa": "/ˈstroʊlər/",
+      "reading_th": "สโตรล-เลอร์",
+      "meaning_th": "รถเข็นเด็ก",
+      "emoji": "👶",
+      "example_en": "Fold the stroller before you get on the bus.",
+      "example_th": "พับรถเข็นเด็กก่อนขึ้นรถเมล์",
+      "cefr": "A2",
+      "note_th": "stroller (อเมริกัน) = pushchair หรือ buggy (อังกฤษ) — stroll แปลว่าเดินเล่นชิลๆ ส่วนรถเข็นในห้างคือ cart หรือ trolley",
+      "distractors": [
+        "trolley",
+        "scroller",
+        "roller"
+      ]
+    },
+    {
+      "id": "crib",
+      "word": "crib",
+      "pos": "noun",
+      "ipa": "/krɪb/",
+      "reading_th": "คริบ",
+      "meaning_th": "เปลเด็ก / เตียงเด็กมีราวกั้น",
+      "emoji": "🛏️",
+      "example_en": "Put the baby in the crib when she falls asleep.",
+      "example_th": "วางลูกในเปลเมื่อเธอหลับ",
+      "cefr": "B1",
+      "note_th": "crib (อเมริกัน) = cot (อังกฤษ) = เตียงเด็กมีซี่กั้น — ในแสลงวัยรุ่น my crib แปลว่าบ้านฉัน (จากรายการ MTV Cribs)",
+      "distractors": [
+        "crab",
+        "cot",
+        "club"
+      ]
+    },
+    {
+      "id": "breastfeed",
+      "word": "breastfeed",
+      "pos": "verb",
+      "ipa": "/ˈbrestfiːd/",
+      "reading_th": "เบรสท์-ฟีด",
+      "meaning_th": "ให้นมแม่",
+      "emoji": "🤱",
+      "example_en": "Doctors say you should breastfeed for the first six months.",
+      "example_th": "หมอบอกว่าควรให้นมแม่ในหกเดือนแรก",
+      "cefr": "B1",
+      "note_th": "breastfeed = ให้นมจากเต้า (ช่อง 2 breastfed) ส่วนให้นมขวดคือ bottle-feed — นมแม่คือ breast milk และนมผงคือ formula",
+      "distractors": [
+        "bottle-feed",
+        "breakfast",
+        "feed"
+      ]
+    },
+    {
+      "id": "pacifier",
+      "word": "pacifier",
+      "pos": "noun",
+      "ipa": "/ˈpæsɪfaɪər/",
+      "reading_th": "แพส-ซิ-ไฟ-เออร์",
+      "meaning_th": "จุกหลอก",
+      "emoji": "🍼",
+      "example_en": "The baby stops crying as soon as she gets her pacifier.",
+      "example_th": "เด็กหยุดร้องทันทีที่ได้จุกหลอก",
+      "cefr": "B1",
+      "note_th": "pacify = ทำให้สงบ ดังนั้น pacifier คือของที่ทำให้เด็กสงบ — ฝั่งอังกฤษเรียก dummy ส่วนคนไทยเรียกจุกหลอกหรือจุกนมปลอม",
+      "distractors": [
+        "purifier",
+        "dummy",
+        "pacific"
+      ]
+    },
+    {
+      "id": "babysitter",
+      "word": "babysitter",
+      "pos": "noun",
+      "ipa": "/ˈbeɪbisɪtər/",
+      "reading_th": "เบ-บี้-ซิท-เทอร์",
+      "meaning_th": "พี่เลี้ยงเด็กชั่วคราว",
+      "emoji": "🧑‍🍼",
+      "example_en": "We hired a babysitter so we could go to the cinema.",
+      "example_th": "เราจ้างพี่เลี้ยงเด็กจะได้ไปดูหนังกัน",
+      "cefr": "A2",
+      "note_th": "babysitter = คนดูแลเด็กเป็นครั้งคราว (คืนที่พ่อแม่ออกไปข้างนอก) ไม่ใช่พี่เลี้ยงประจำ — กริยาคือ babysit: Can you babysit tonight?",
+      "distractors": [
+        "nanny",
+        "baby seat",
+        "sitter"
+      ]
+    },
+    {
+      "id": "nanny",
+      "word": "nanny",
+      "pos": "noun",
+      "ipa": "/ˈnæni/",
+      "reading_th": "แนน-นี่",
+      "meaning_th": "พี่เลี้ยงเด็กประจำ",
+      "emoji": "👩‍🍼",
+      "example_en": "Our nanny has looked after the kids since they were born.",
+      "example_th": "พี่เลี้ยงดูแลลูกๆ มาตั้งแต่พวกเขาเกิด",
+      "cefr": "B1",
+      "note_th": "nanny = พี่เลี้ยงเด็กที่จ้างประจำ (อาจอยู่ในบ้านด้วย) ต่างจาก babysitter ที่มาเป็นครั้งคราว — เด็กอังกฤษบางคนเรียกยายว่า nanny ด้วย",
+      "distractors": [
+        "babysitter",
+        "granny",
+        "nurse"
+      ]
+    },
+    {
+      "id": "nap",
+      "word": "nap",
+      "pos": "noun",
+      "ipa": "/næp/",
+      "reading_th": "แนป",
+      "meaning_th": "การงีบ",
+      "emoji": "😴",
+      "example_en": "The baby takes a nap after lunch every day.",
+      "example_th": "เด็กน้อยงีบหลังมื้อเที่ยงทุกวัน",
+      "cefr": "A2",
+      "note_th": "take a nap = งีบหลับสั้นๆ (ไม่ใช่ sleep ที่หมายถึงนอนยาว) — ตารางเด็กเล็กเรียก nap time และ power nap คือการงีบ 20 นาทีของคนทำงาน",
+      "distractors": [
+        "map",
+        "nappy",
+        "nab"
+      ]
+    },
+    {
+      "id": "teething",
+      "word": "teething",
+      "pos": "noun",
+      "ipa": "/ˈtiːðɪŋ/",
+      "reading_th": "ที-ธิ่ง",
+      "meaning_th": "ฟันขึ้น (ทารก)",
+      "emoji": "🦷",
+      "example_en": "Teething keeps the whole family awake at night.",
+      "example_th": "ช่วงฟันขึ้นทำให้ทั้งบ้านนอนไม่หลับตอนกลางคืน",
+      "cefr": "B1",
+      "note_th": "teething = ช่วงที่ฟันน้ำนมกำลังขึ้น เด็กจะงอแงและน้ำลายไหล (teeth = ฟัน) — teething problems ยังเป็นสำนวนแปลว่าปัญหาช่วงเริ่มต้นของโปรเจกต์ใหม่",
+      "distractors": [
+        "teeth",
+        "teasing",
+        "breathing"
+      ]
+    },
+    {
+      "id": "childhood",
+      "word": "childhood",
+      "pos": "noun",
+      "ipa": "/ˈtʃaɪldhʊd/",
+      "reading_th": "ไชลด์-ฮุด",
+      "meaning_th": "วัยเด็ก",
+      "emoji": "🎈",
+      "example_en": "I had a happy childhood in a small town.",
+      "example_th": "ฉันมีวัยเด็กที่มีความสุขในเมืองเล็กๆ",
+      "cefr": "A2",
+      "note_th": "-hood = ช่วงวัยหรือสถานะ (childhood, adulthood, motherhood) — childhood friend คือเพื่อนสมัยเด็ก และ childhood memories คือความทรงจำวัยเด็ก",
+      "distractors": [
+        "childish",
+        "neighborhood",
+        "adulthood"
+      ]
+    },
+    {
+      "id": "upbringing",
+      "word": "upbringing",
+      "pos": "noun",
+      "ipa": "/ˈʌpbrɪŋɪŋ/",
+      "reading_th": "อัพ-บริง-อิ่ง",
+      "meaning_th": "การเลี้ยงดู (ที่หล่อหลอมเรา)",
+      "emoji": "🌱",
+      "example_en": "Her strict upbringing made her very polite.",
+      "example_th": "การเลี้ยงดูที่เข้มงวดทำให้เธอสุภาพมาก",
+      "cefr": "B2",
+      "note_th": "upbringing = วิธีที่พ่อแม่เลี้ยงเรามาจนเป็นตัวเราวันนี้ (คำนามของ bring up) — a good upbringing คือได้รับการเลี้ยงดูมาดี",
+      "distractors": [
+        "uprising",
+        "upcoming",
+        "breeding"
+      ]
+    },
+    {
+      "id": "kid",
+      "word": "kid",
+      "pos": "noun",
+      "ipa": "/kɪd/",
+      "reading_th": "คิด",
+      "meaning_th": "เด็ก / ลูก (ภาษาพูด)",
+      "emoji": "🧒",
+      "example_en": "The kids are playing in the backyard.",
+      "example_th": "เด็กๆ กำลังเล่นอยู่ที่สวนหลังบ้าน",
+      "cefr": "A1",
+      "note_th": "kid = child แบบภาษาพูด ใช้เรียกลูกตัวเองได้ด้วย (my kids) — just kidding! แปลว่าล้อเล่น คนละความหมาย และลูกแพะก็เรียก kid",
+      "distractors": [
+        "kit",
+        "kind",
+        "child"
+      ]
+    },
+    {
+      "id": "teenager",
+      "word": "teenager",
+      "pos": "noun",
+      "ipa": "/ˈtiːneɪdʒər/",
+      "reading_th": "ทีน-เอ-เจอร์",
+      "meaning_th": "วัยรุ่น (13–19 ปี)",
+      "emoji": "🧑",
+      "example_en": "As a teenager, I argued with my parents every day.",
+      "example_th": "ตอนเป็นวัยรุ่น ฉันเถียงพ่อแม่ทุกวัน",
+      "cefr": "A2",
+      "note_th": "teenager = อายุที่ลงท้ายด้วย -teen (13–19) พูดสั้นๆ ว่า teen — ส่วนวัยก่อนหน้านั้น (10–12) ฝรั่งเรียก tween",
+      "distractors": [
+        "teen",
+        "manager",
+        "toddler"
+      ]
+    },
+    {
+      "id": "adult",
+      "word": "adult",
+      "pos": "noun",
+      "ipa": "/əˈdʌlt/",
+      "reading_th": "อะ-ดัลท์",
+      "meaning_th": "ผู้ใหญ่",
+      "emoji": "🧑‍💼",
+      "example_en": "You become an adult at eighteen in Thailand.",
+      "example_th": "ที่ไทย อายุสิบแปดถือว่าเป็นผู้ใหญ่",
+      "cefr": "A2",
+      "note_th": "adult = ผู้ใหญ่ (คำนาม/คำคุณศัพท์) ใช้ในป้ายราคาตั๋ว Adults / Children — grown-up คือคำเด็กๆ ใช้เรียกผู้ใหญ่ และ adulting แปลว่าทำตัวเป็นผู้ใหญ่",
+      "distractors": [
+        "adulthood",
+        "elder",
+        "insult"
+      ]
+    },
+    {
+      "id": "only_child",
+      "word": "only child",
+      "pos": "noun",
+      "ipa": "/ˈoʊnli tʃaɪld/",
+      "reading_th": "โอน-ลี่ ไชลด์",
+      "meaning_th": "ลูกคนเดียว",
+      "emoji": "1️⃣",
+      "example_en": "I am an only child, so I never had to share my toys.",
+      "example_th": "ฉันเป็นลูกคนเดียว เลยไม่เคยต้องแบ่งของเล่นกับใคร",
+      "cefr": "A2",
+      "note_th": "an only child = ลูกคนเดียวของพ่อแม่ (ใช้ an เสมอ) — อย่าพูดว่า I am a single child ซึ่งฟังแปลกสำหรับฝรั่ง",
+      "distractors": [
+        "single child",
+        "lonely child",
+        "eldest child"
+      ]
+    },
+    {
+      "id": "pocket_money",
+      "word": "pocket money",
+      "pos": "noun",
+      "ipa": "/ˈpɑːkɪt ˌmʌni/",
+      "reading_th": "พ็อค-เก็ต มัน-นี่",
+      "meaning_th": "เงินค่าขนม",
+      "emoji": "🪙",
+      "example_en": "I got fifty baht of pocket money a day in primary school.",
+      "example_th": "ตอนประถมฉันได้ค่าขนมวันละห้าสิบบาท",
+      "cefr": "A2",
+      "note_th": "pocket money (อังกฤษ) = allowance (อเมริกัน) = เงินที่พ่อแม่ให้ลูก — ใช้กับเงินติดกระเป๋าเวลาไปเที่ยวได้ด้วย",
+      "distractors": [
+        "pocket",
+        "lunch money",
+        "prize money"
+      ]
+    },
+    {
+      "id": "chores",
+      "word": "chores",
+      "pos": "noun",
+      "ipa": "/tʃɔːrz/",
+      "reading_th": "ชอร์ส",
+      "meaning_th": "งานบ้านที่ต้องทำประจำ",
+      "emoji": "🧹",
+      "example_en": "Each child does chores before getting screen time.",
+      "example_th": "เด็กแต่ละคนต้องทำงานบ้านก่อนได้เล่นมือถือ",
+      "cefr": "B1",
+      "note_th": "chores = งานบ้านเล็กๆ ที่ต้องทำเป็นประจำ (ล้างจาน ทิ้งขยะ) มักเป็นพหูพจน์ do the chores — household chores คืองานบ้านทั้งหมด",
+      "distractors": [
+        "choirs",
+        "cores",
+        "shores"
+      ]
+    },
+    {
+      "id": "curfew",
+      "word": "curfew",
+      "pos": "noun",
+      "ipa": "/ˈkɜːrfjuː/",
+      "reading_th": "เคอร์-ฟิว",
+      "meaning_th": "เวลาเคอร์ฟิว / เวลาต้องถึงบ้าน",
+      "emoji": "🕙",
+      "example_en": "My curfew was ten o'clock when I was sixteen.",
+      "example_th": "ตอนอายุสิบหก ฉันต้องถึงบ้านก่อนสี่ทุ่ม",
+      "cefr": "B1",
+      "note_th": "curfew = เวลาที่ต้องกลับถึงบ้านที่พ่อแม่กำหนด (หรือที่รัฐบาลประกาศ) — break curfew = กลับเลยเวลา และ have a curfew = มีเวลากำหนด",
+      "distractors": [
+        "curve",
+        "cashew",
+        "curtain"
+      ]
+    },
+    {
+      "id": "strict",
+      "word": "strict",
+      "pos": "adjective",
+      "ipa": "/strɪkt/",
+      "reading_th": "สตริคท์",
+      "meaning_th": "เข้มงวด",
+      "emoji": "😠",
+      "example_en": "My dad was very strict about homework.",
+      "example_th": "พ่อเข้มงวดเรื่องการบ้านมาก",
+      "cefr": "A2",
+      "note_th": "strict = เข้มงวดกับกฎ (strict parents, strict teacher) ส่วน serious = จริงจัง/เครียด — be strict with someone = เข้มงวดกับใคร",
+      "distractors": [
+        "street",
+        "stick",
+        "straight"
+      ]
+    },
+    {
+      "id": "spoil",
+      "word": "spoil",
+      "pos": "verb",
+      "ipa": "/spɔɪl/",
+      "reading_th": "สปอยล์",
+      "meaning_th": "ตามใจจนเสียนิสัย",
+      "emoji": "🎁",
+      "example_en": "Grandparents love to spoil their grandchildren.",
+      "example_th": "ปู่ย่าตายายชอบตามใจหลาน",
+      "cefr": "B1",
+      "note_th": "spoil a child = ตามใจจนเสียเด็ก (spoiled brat = เด็กเอาแต่ใจ) — ส่วนที่คนไทยพูดว่าสปอยล์หนังคือ spoil the movie เปิดเผยเนื้อเรื่อง",
+      "distractors": [
+        "spill",
+        "spool",
+        "spoiler"
+      ]
+    },
+    {
+      "id": "naughty",
+      "word": "naughty",
+      "pos": "adjective",
+      "ipa": "/ˈnɔːti/",
+      "reading_th": "นอ-ที่",
+      "meaning_th": "ซน / ดื้อ",
+      "emoji": "😈",
+      "example_en": "The naughty boy drew on the living room wall.",
+      "example_th": "เด็กซนวาดรูปบนผนังห้องนั่งเล่น",
+      "cefr": "A2",
+      "note_th": "naughty = ซนแบบเด็กๆ (ไม่ร้ายแรง) ตัว gh ไม่ออกเสียง — ตรงข้ามคือ well-behaved และเพลงคริสต์มาสร้องว่า naughty or nice",
+      "distractors": [
+        "nasty",
+        "nothing",
+        "noisy"
+      ]
+    },
+    {
+      "id": "rebellious",
+      "word": "rebellious",
+      "pos": "adjective",
+      "ipa": "/rɪˈbeljəs/",
+      "reading_th": "ริ-เบล-เยิส",
+      "meaning_th": "ขบถ / ชอบต่อต้าน",
+      "emoji": "😤",
+      "example_en": "I was a rebellious teenager who broke every rule.",
+      "example_th": "ฉันเป็นวัยรุ่นขบถที่แหกทุกกฎ",
+      "cefr": "B2",
+      "note_th": "rebellious = ไม่ยอมทำตามกฎหรือผู้ใหญ่ (rebel = กบฏ) ใช้กับวัยรุ่นบ่อยที่สุด rebellious phase คือช่วงวัยต่อต้าน",
+      "distractors": [
+        "religious",
+        "reliable",
+        "obedient"
+      ]
+    },
+    {
+      "id": "leave_the_nest",
+      "word": "leave the nest",
+      "pos": "phrase",
+      "ipa": "/liːv ðə nest/",
+      "reading_th": "ลีฟ เดอะ เนสท์",
+      "meaning_th": "ออกจากอ้อมอกพ่อแม่",
+      "emoji": "🐣",
+      "example_en": "Most kids leave the nest when they start university.",
+      "example_th": "เด็กส่วนใหญ่ออกจากอ้อมอกพ่อแม่ตอนเข้ามหาวิทยาลัย",
+      "cefr": "B2",
+      "note_th": "leave the nest = ลูกนกบินออกจากรัง เปรียบกับลูกที่ย้ายออกไปอยู่เอง — พ่อแม่ที่ลูกย้ายออกหมดแล้วเรียกว่า empty nesters",
+      "distractors": [
+        "leave the house",
+        "build a nest",
+        "leave behind"
+      ]
+    },
+    {
+      "id": "family_dinner",
+      "word": "family dinner",
+      "pos": "noun",
+      "ipa": "/ˈfæməli ˌdɪnər/",
+      "reading_th": "แฟม-มิ-ลี่ ดิน-เนอร์",
+      "meaning_th": "มื้อเย็นพร้อมหน้าครอบครัว",
+      "emoji": "🍽️",
+      "example_en": "No phones are allowed at our family dinner.",
+      "example_th": "ห้ามเล่นมือถือตอนกินข้าวเย็นพร้อมหน้ากัน",
+      "cefr": "A2",
+      "note_th": "family dinner = มื้อที่ทุกคนในบ้านนั่งกินด้วยกัน ธรรมเนียมที่ฝรั่งพยายามรักษา — Sunday dinner คือมื้อใหญ่ประจำสัปดาห์ของครอบครัวอังกฤษ",
+      "distractors": [
+        "family room",
+        "dinner date",
+        "family trip"
+      ]
+    },
+    {
+      "id": "housewarming",
+      "word": "housewarming",
+      "pos": "noun",
+      "ipa": "/ˈhaʊswɔːrmɪŋ/",
+      "reading_th": "เฮาส์-วอร์ม-มิ่ง",
+      "meaning_th": "งานขึ้นบ้านใหม่",
+      "emoji": "🏡",
+      "example_en": "We invited both families to our housewarming.",
+      "example_th": "เราเชิญครอบครัวทั้งสองฝ่ายมางานขึ้นบ้านใหม่",
+      "cefr": "B1",
+      "note_th": "housewarming (party) = งานเลี้ยงขึ้นบ้านใหม่ (ทำให้บ้านอบอุ่น) — ของขวัญขึ้นบ้านใหม่คือ housewarming gift และคนไทยมักนิมนต์พระมาทำบุญด้วย",
+      "distractors": [
+        "global warming",
+        "house party",
+        "homecoming"
+      ]
+    },
+    {
+      "id": "family_reunion",
+      "word": "family reunion",
+      "pos": "noun",
+      "ipa": "/ˈfæməli riːˈjuːnjən/",
+      "reading_th": "แฟม-มิ-ลี่ รี-ยูน-เยิ่น",
+      "meaning_th": "งานรวมญาติ",
+      "emoji": "👨‍👩‍👧‍👦",
+      "example_en": "We hold a family reunion every Songkran.",
+      "example_th": "เราจัดงานรวมญาติทุกสงกรานต์",
+      "cefr": "B1",
+      "note_th": "reunion = การกลับมาพบกันอีกครั้ง (re + union) ใช้กับครอบครัว เพื่อนร่วมรุ่น (class reunion) หรือวงดนตรีที่กลับมารวมตัว",
+      "distractors": [
+        "family tree",
+        "family dinner",
+        "class reunion"
+      ]
+    },
+    {
+      "id": "homecoming",
+      "word": "homecoming",
+      "pos": "noun",
+      "ipa": "/ˈhoʊmkʌmɪŋ/",
+      "reading_th": "โฮม-คัม-มิ่ง",
+      "meaning_th": "การกลับบ้านเกิด (หลังจากไปนาน)",
+      "emoji": "🏠",
+      "example_en": "Her homecoming after five years abroad made Grandma cry.",
+      "example_th": "การกลับบ้านของเธอหลังอยู่ต่างประเทศห้าปีทำให้คุณยายร้องไห้",
+      "cefr": "B2",
+      "note_th": "homecoming = การกลับบ้านหลังจากไปนาน (ทหาร นักเรียนนอก) — ในโรงเรียนอเมริกันคืองานต้อนรับศิษย์เก่าที่มีเต้นรำและฟุตบอล",
+      "distractors": [
+        "housewarming",
+        "homesick",
+        "upcoming"
+      ]
+    },
+    {
+      "id": "gathering",
+      "word": "gathering",
+      "pos": "noun",
+      "ipa": "/ˈɡæðərɪŋ/",
+      "reading_th": "แก-เธอ-ริ่ง",
+      "meaning_th": "งานรวมตัว / การชุมนุม",
+      "emoji": "🏮",
+      "example_en": "It was a small gathering, just close family.",
+      "example_th": "เป็นงานเล็กๆ แค่ครอบครัวใกล้ชิด",
+      "cefr": "B1",
+      "note_th": "gathering = การรวมตัวของคน (gather = รวบรวม) เป็นกลางๆ ใช้ได้ทั้งงานครอบครัวและการชุมนุม — a family gathering คืองานรวมญาติ",
+      "distractors": [
+        "gardening",
+        "wandering",
+        "gatekeeper"
+      ]
+    },
+    {
+      "id": "keepsake",
+      "word": "keepsake",
+      "pos": "noun",
+      "ipa": "/ˈkiːpseɪk/",
+      "reading_th": "คีพ-เซค",
+      "meaning_th": "ของที่ระลึกที่เก็บไว้ดูต่างหน้า",
+      "emoji": "📿",
+      "example_en": "I kept Grandpa's old watch as a keepsake.",
+      "example_th": "ฉันเก็บนาฬิกาเก่าของคุณปู่ไว้ดูต่างหน้า",
+      "cefr": "B2",
+      "note_th": "keepsake = ของเล็กๆ ที่เก็บไว้เพราะความทรงจำ (keep for the sake of memory) — ต่างจาก souvenir ที่ซื้อตอนไปเที่ยว และ heirloom ที่มีค่าสืบทอดหลายรุ่น",
+      "distractors": [
+        "souvenir",
+        "keeper",
+        "mistake"
+      ]
+    },
+    {
+      "id": "godparents",
+      "word": "godparents",
+      "pos": "noun",
+      "ipa": "/ˈɡɑːdˌperənts/",
+      "reading_th": "ก็อด-แพ-เรินท์ส",
+      "meaning_th": "พ่อแม่ทูนหัว",
+      "emoji": "🙏",
+      "example_en": "My best friends agreed to be our daughter's godparents.",
+      "example_th": "เพื่อนสนิทตกลงเป็นพ่อแม่ทูนหัวของลูกสาวเรา",
+      "cefr": "B1",
+      "note_th": "godparents = ผู้ใหญ่ที่พ่อแม่เลือกให้ดูแลลูกทางศาสนา (ธรรมเนียมคริสต์) คล้ายพ่อแม่ทูนหัวหรือพ่อแม่บุญธรรมของไทย — เด็กนั้นคือ godchild",
+      "distractors": [
+        "grandparents",
+        "stepparents",
+        "godchild"
+      ]
+    },
+    {
+      "id": "condolences",
+      "word": "condolences",
+      "pos": "noun",
+      "ipa": "/kənˈdoʊlənsɪz/",
+      "reading_th": "เคิน-โด-เลิน-ซิส",
+      "meaning_th": "คำแสดงความเสียใจ",
+      "emoji": "🕊️",
+      "example_en": "Please accept my condolences on the loss of your father.",
+      "example_th": "ขอแสดงความเสียใจกับการจากไปของคุณพ่อด้วยนะคะ",
+      "cefr": "B2",
+      "note_th": "My condolences. = ขอแสดงความเสียใจ (เติม s เสมอ) ประโยคที่ควรจำไว้ใช้กับเพื่อนร่วมงานต่างชาติ — อีกแบบคือ I'm sorry for your loss.",
+      "distractors": [
+        "congratulations",
+        "conditions",
+        "consequences"
+      ]
+    },
+    {
+      "id": "memorial",
+      "word": "memorial",
+      "pos": "noun",
+      "ipa": "/məˈmɔːriəl/",
+      "reading_th": "มะ-มอ-เรียล",
+      "meaning_th": "พิธีรำลึกถึงผู้ล่วงลับ",
+      "emoji": "🕯️",
+      "example_en": "We hold a small memorial for Grandpa every year.",
+      "example_th": "เราจัดพิธีรำลึกถึงคุณปู่เล็กๆ ทุกปี",
+      "cefr": "B2",
+      "note_th": "memorial = พิธีหรือสิ่งที่สร้างเพื่อรำลึก (memorial service, war memorial) — ทำบุญครบรอบวันตายแบบไทยอธิบายฝรั่งว่า a memorial for my grandfather",
+      "distractors": [
+        "memory",
+        "memorable",
+        "material"
+      ]
+    },
+    {
+      "id": "pay_respects",
+      "word": "pay respects",
+      "pos": "phrase",
+      "ipa": "/peɪ rɪˈspekts/",
+      "reading_th": "เพย์ ริ-สเป็คท์ส",
+      "meaning_th": "แสดงความเคารพ (ผู้ใหญ่ / ผู้ล่วงลับ)",
+      "emoji": "🙇",
+      "example_en": "We pay respects to our elders on Songkran morning.",
+      "example_th": "เราแสดงความเคารพผู้ใหญ่ในเช้าวันสงกรานต์",
+      "cefr": "B1",
+      "note_th": "pay respects to = ไปแสดงความเคารพ ใช้กับการไหว้ผู้ใหญ่ รดน้ำดำหัว และไปงานศพ (pay your last respects) — ภาษาอังกฤษ pay ได้ทั้งเงินและความเคารพ",
+      "distractors": [
+        "pay back",
+        "pay attention",
+        "respect"
+      ]
+    },
+    {
+      "id": "potluck",
+      "word": "potluck",
+      "pos": "noun",
+      "ipa": "/ˈpɑːtlʌk/",
+      "reading_th": "พ็อท-ลัค",
+      "meaning_th": "งานเลี้ยงที่ทุกคนนำอาหารมาแบ่งกัน",
+      "emoji": "🥘",
+      "example_en": "Every cousin brings one dish to the Songkran potluck.",
+      "example_th": "ลูกพี่ลูกน้องทุกคนเอาอาหารมาคนละอย่างในงานสงกรานต์",
+      "cefr": "B2",
+      "note_th": "potluck = งานที่แต่ละคนทำอาหารมาแชร์ (โชคขึ้นอยู่กับหม้อใครมา) — บริษัทและครอบครัวฝรั่งจัดบ่อย ใช้ว่า a potluck dinner",
+      "distractors": [
+        "pot",
+        "buffet",
+        "good luck"
+      ]
+    },
+    {
+      "id": "heirloom",
+      "word": "heirloom",
+      "pos": "noun",
+      "ipa": "/ˈerluːm/",
+      "reading_th": "แอร์-ลูม",
+      "meaning_th": "ของตกทอดในครอบครัว",
+      "emoji": "💎",
+      "example_en": "This gold necklace is a family heirloom from my great-grandmother.",
+      "example_th": "สร้อยทองเส้นนี้เป็นของตกทอดจากคุณทวด",
+      "cefr": "B2",
+      "note_th": "heirloom ตัว h ไม่ออกเสียง (heir = ทายาท) = ของมีค่าที่ส่งต่อกันหลายรุ่น เช่น เครื่องประดับ พระเครื่อง — family heirloom คือวลีที่ใช้คู่กันเสมอ",
+      "distractors": [
+        "hair",
+        "loom",
+        "antique"
+      ]
+    },
+    {
+      "id": "hand_down",
+      "word": "hand down",
+      "pos": "phrase",
+      "ipa": "/hænd daʊn/",
+      "reading_th": "แฮนด์ ดาวน์",
+      "meaning_th": "ส่งต่อให้รุ่นต่อไป",
+      "emoji": "🎁",
+      "example_en": "My mother will hand down her recipes to me one day.",
+      "example_th": "สักวันแม่จะส่งต่อสูตรอาหารของแม่ให้ฉัน",
+      "cefr": "B1",
+      "note_th": "hand down = ส่งต่อจากรุ่นสู่รุ่น (ของ ความรู้ ประเพณี) — เสื้อผ้าที่พี่ใส่แล้วส่งต่อให้น้องเรียก hand-me-downs",
+      "distractors": [
+        "hand in",
+        "hand out",
+        "put down"
+      ]
+    },
+    {
+      "id": "family_album",
+      "word": "family album",
+      "pos": "noun",
+      "ipa": "/ˈfæməli ˌælbəm/",
+      "reading_th": "แฟม-มิ-ลี่ แอล-เบิ้ม",
+      "meaning_th": "อัลบั้มรูปครอบครัว",
+      "emoji": "📸",
+      "example_en": "Grandma showed us the family album from the 1970s.",
+      "example_th": "คุณยายเปิดอัลบั้มรูปครอบครัวยุคเจ็ดศูนย์ให้เราดู",
+      "cefr": "A2",
+      "note_th": "family album = อัลบั้มรูปเก่าของบ้าน (album ในที่นี้ไม่ใช่เพลง) — ยุคนี้กลายเป็น shared album ในมือถือ แต่เล่มกระดาษยังเป็นสมบัติประจำบ้าน",
+      "distractors": [
+        "photo studio",
+        "music album",
+        "family tree"
+      ]
+    },
+    {
+      "id": "close_knit",
+      "word": "close-knit",
+      "pos": "adjective",
+      "ipa": "/ˌkloʊs ˈnɪt/",
+      "reading_th": "โคลส นิท",
+      "meaning_th": "สนิทแน่นแฟ้น",
+      "emoji": "🧶",
+      "example_en": "We are a close-knit family and talk every day.",
+      "example_th": "เราเป็นครอบครัวที่สนิทแน่นแฟ้นและคุยกันทุกวัน",
+      "cefr": "B2",
+      "note_th": "close-knit = ถักทอกันแน่น (knit = ถัก) ใช้กับครอบครัวหรือชุมชนที่ผูกพันกันมาก — a close-knit community คือชุมชนที่ทุกคนรู้จักกัน",
+      "distractors": [
+        "closed",
+        "tight-fit",
+        "close call"
+      ]
+    },
+    {
+      "id": "rely_on",
+      "word": "rely on",
+      "pos": "phrase",
+      "ipa": "/rɪˈlaɪ ɑːn/",
+      "reading_th": "ริ-ไล ออน",
+      "meaning_th": "พึ่งพา",
+      "emoji": "🤲",
+      "example_en": "I can always rely on my sister when things go wrong.",
+      "example_th": "ฉันพึ่งพาพี่สาวได้เสมอเวลาเกิดปัญหา",
+      "cefr": "B1",
+      "note_th": "rely on = พึ่งพาหรือไว้ใจให้ทำ (rely on someone for something) — คำคุณศัพท์คือ reliable (ไว้ใจได้) ที่เคยเรียนจากโลกสัมภาษณ์งาน",
+      "distractors": [
+        "rely in",
+        "reply on",
+        "depend"
+      ]
+    },
+    {
+      "id": "take_after",
+      "word": "take after",
+      "pos": "phrase",
+      "ipa": "/teɪk ˈæftər/",
+      "reading_th": "เทค แอฟ-เตอร์",
+      "meaning_th": "เหมือน (พ่อแม่) ทางหน้าตาหรือนิสัย",
+      "emoji": "👨‍👦",
+      "example_en": "You really take after your father, you have the same laugh.",
+      "example_th": "เธอเหมือนพ่อจริงๆ หัวเราะเหมือนกันเลย",
+      "cefr": "B1",
+      "note_th": "take after = เหมือนพ่อแม่หรือญาติผู้ใหญ่ (ใช้กับคนในครอบครัวเท่านั้น) ส่วน look like ใช้กับใครก็ได้แค่หน้าตา",
+      "distractors": [
+        "look after",
+        "take over",
+        "take off"
+      ]
+    },
+    {
+      "id": "reconcile",
+      "word": "reconcile",
+      "pos": "verb",
+      "ipa": "/ˈrekənsaɪl/",
+      "reading_th": "เร-เคิน-ไซล์",
+      "meaning_th": "คืนดี / ปรับความเข้าใจกัน",
+      "emoji": "🤝",
+      "example_en": "The two brothers finally reconcile after ten years of silence.",
+      "example_th": "สองพี่น้องคืนดีกันในที่สุดหลังไม่คุยกันสิบปี",
+      "cefr": "B2",
+      "note_th": "reconcile = กลับมาดีกันหลังทะเลาะ (reconcile with someone) คำนามคือ reconciliation — ภาษาพูดง่ายๆ ว่า make up with someone",
+      "distractors": [
+        "recognize",
+        "reconsider",
+        "recycle"
+      ]
+    },
+    {
+      "id": "estranged",
+      "word": "estranged",
+      "pos": "adjective",
+      "ipa": "/ɪˈstreɪndʒd/",
+      "reading_th": "อิ-สเตรนจ์ด์",
+      "meaning_th": "ตัดขาดกัน (ในครอบครัว)",
+      "emoji": "🚪",
+      "example_en": "He has been estranged from his father for years.",
+      "example_th": "เขาตัดขาดจากพ่อมาหลายปีแล้ว",
+      "cefr": "B2",
+      "note_th": "estranged = ไม่ติดต่อกันอีกเพราะความขัดแย้ง (estranged father, estranged wife) — ข่าวดาราใช้คำนี้บ่อยมาก มาจาก strange = แปลกหน้า",
+      "distractors": [
+        "strange",
+        "arranged",
+        "engaged"
+      ]
+    },
+    {
+      "id": "devoted",
+      "word": "devoted",
+      "pos": "adjective",
+      "ipa": "/dɪˈvoʊtɪd/",
+      "reading_th": "ดิ-โว-ทิด",
+      "meaning_th": "ทุ่มเทรัก / อุทิศตนให้",
+      "emoji": "❤️",
+      "example_en": "She is a devoted mother who never misses a school play.",
+      "example_th": "เธอเป็นแม่ที่ทุ่มเทไม่เคยพลาดละครโรงเรียนของลูก",
+      "cefr": "B1",
+      "note_th": "devoted to = ทุ่มเทให้กับใครหรืออะไรอย่างสุดใจ (devoted husband, devoted fan) — คำนามคือ devotion และเสียงเน้นที่พยางค์ โว",
+      "distractors": [
+        "divorced",
+        "demoted",
+        "deserted"
+      ]
+    },
+    {
+      "id": "stick_together",
+      "word": "stick together",
+      "pos": "phrase",
+      "ipa": "/stɪk təˈɡeðər/",
+      "reading_th": "สติค ทู-เก-เธอร์",
+      "meaning_th": "อยู่เคียงข้างกัน / ไม่ทิ้งกัน",
+      "emoji": "🤝",
+      "example_en": "In hard times, our family will always stick together.",
+      "example_th": "ในยามยาก ครอบครัวเราจะอยู่เคียงข้างกันเสมอ",
+      "cefr": "B1",
+      "note_th": "stick together = ไม่ทิ้งกัน ช่วยกันเวลาลำบาก (stick = ติดแน่น) ส่วน stick with someone = อยู่ข้างคนนั้นต่อไป — คำที่พ่อแม่สอนลูกๆ ว่า You two must stick together",
+      "distractors": [
+        "stick around",
+        "get together",
+        "stick out"
+      ]
+    },
+    {
+      "id": "supportive",
+      "word": "supportive",
+      "pos": "adjective",
+      "ipa": "/səˈpɔːrtɪv/",
+      "reading_th": "ซะ-พอร์-ทีฟ",
+      "meaning_th": "คอยสนับสนุน / เป็นกำลังใจ",
+      "emoji": "🙌",
+      "example_en": "My parents were supportive when I changed careers.",
+      "example_th": "พ่อแม่คอยสนับสนุนตอนฉันเปลี่ยนสายงาน",
+      "cefr": "B1",
+      "note_th": "supportive = คอยให้กำลังใจและช่วยเหลือ (คำคุณศัพท์ของ support) — a supportive partner คือคู่ชีวิตที่อยู่ข้างเราเสมอ ใช้ชมเพื่อนร่วมงานได้ด้วย",
+      "distractors": [
+        "supporter",
+        "sportive",
+        "superior"
+      ]
+    },
+    {
+      "id": "overprotective",
+      "word": "overprotective",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərprəˈtektɪv/",
+      "reading_th": "โอ-เวอร์-โพร-เท็ค-ทีฟ",
+      "meaning_th": "ปกป้องมากเกินไป / หวงลูก",
+      "emoji": "🛡️",
+      "example_en": "Her overprotective dad checks her phone every night.",
+      "example_th": "พ่อที่หวงลูกเกินเหตุเช็กมือถือเธอทุกคืน",
+      "cefr": "B2",
+      "note_th": "over- (เกิน) + protective (ปกป้อง) = ปกป้องจนลูกอึดอัด — พ่อแม่แบบนี้ฝรั่งเรียก helicopter parents เพราะบินวนอยู่เหนือหัวลูกตลอด",
+      "distractors": [
+        "protective",
+        "overactive",
+        "unprotected"
+      ]
+    },
+    {
+      "id": "distant",
+      "word": "distant",
+      "pos": "adjective",
+      "ipa": "/ˈdɪstənt/",
+      "reading_th": "ดิส-เทินท์",
+      "meaning_th": "ห่างเหิน",
+      "emoji": "🌫️",
+      "example_en": "My father and I became distant after I moved abroad.",
+      "example_th": "พ่อกับฉันห่างเหินกันหลังฉันย้ายไปต่างประเทศ",
+      "cefr": "B1",
+      "note_th": "distant = ห่างไกลทางใจ (ไม่ค่อยคุย) หรือห่างทางสายเลือด (distant relative = ญาติห่างๆ) — ตรงข้ามกับ close",
+      "distractors": [
+        "distance",
+        "instant",
+        "distinct"
+      ]
+    },
+    {
+      "id": "black_sheep",
+      "word": "black sheep",
+      "pos": "noun",
+      "ipa": "/ˌblæk ˈʃiːp/",
+      "reading_th": "แบล็ค ชีพ",
+      "meaning_th": "แกะดำ (คนที่แตกต่างจากครอบครัว)",
+      "emoji": "🐑",
+      "example_en": "My uncle is the black sheep of the family.",
+      "example_th": "ลุงของฉันคือแกะดำของครอบครัว",
+      "cefr": "B2",
+      "note_th": "the black sheep of the family = คนในครอบครัวที่ทำตัวต่างจากคนอื่น (มักเชิงลบ) — ภาษาไทยก็ใช้แกะดำเหมือนกันเป๊ะ",
+      "distractors": [
+        "black cat",
+        "white sheep",
+        "lost sheep"
+      ]
+    },
+    {
+      "id": "sibling_rivalry",
+      "word": "sibling rivalry",
+      "pos": "noun",
+      "ipa": "/ˈsɪblɪŋ ˈraɪvəlri/",
+      "reading_th": "ซิบ-ลิ่ง ไร-เวิล-รี่",
+      "meaning_th": "การแข่งขันระหว่างพี่น้อง",
+      "emoji": "⚔️",
+      "example_en": "Sibling rivalry got worse when the new baby arrived.",
+      "example_th": "การแข่งขันระหว่างพี่น้องแย่ลงเมื่อน้องคนใหม่มาถึง",
+      "cefr": "B2",
+      "note_th": "sibling rivalry = พี่น้องแย่งความรักหรือแข่งกันเอง (rival = คู่แข่ง) — เป็นศัพท์ที่นักจิตวิทยาเด็กใช้ และพ่อแม่ลูกสองรู้ดี",
+      "distractors": [
+        "sibling",
+        "rival",
+        "sibling bond"
+      ]
+    },
+    {
+      "id": "run_in_the_family",
+      "word": "run in the family",
+      "pos": "phrase",
+      "ipa": "/rʌn ɪn ðə ˈfæməli/",
+      "reading_th": "รัน อิน เดอะ แฟม-มิ-ลี่",
+      "meaning_th": "เป็นกรรมพันธุ์ / มีกันทั้งตระกูล",
+      "emoji": "🧬",
+      "example_en": "Curly hair and bad eyesight run in the family.",
+      "example_th": "ผมหยิกกับสายตาไม่ดีเป็นกันทั้งตระกูล",
+      "cefr": "B2",
+      "note_th": "X runs in the family = X ถ่ายทอดในครอบครัว ใช้ได้ทั้งโรค หน้าตา พรสวรรค์ — หมอถามว่า Does diabetes run in your family? = มีประวัติเบาหวานในครอบครัวไหม",
+      "distractors": [
+        "run out",
+        "run away",
+        "family run"
+      ]
+    },
+    {
+      "id": "eldest",
+      "word": "eldest",
+      "pos": "adjective",
+      "ipa": "/ˈeldɪst/",
+      "reading_th": "เอล-ดิสท์",
+      "meaning_th": "คนโตสุด (ในครอบครัว)",
+      "emoji": "👑",
+      "example_en": "As the eldest, I had to look after my siblings.",
+      "example_th": "ในฐานะลูกคนโต ฉันต้องดูแลน้องๆ",
+      "cefr": "B1",
+      "note_th": "eldest ใช้กับคนในครอบครัวเท่านั้น (eldest son, eldest daughter) ส่วน oldest ใช้กับอะไรก็ได้ — คนเล็กสุดคือ youngest",
+      "distractors": [
+        "oldest",
+        "elder",
+        "youngest"
+      ]
+    },
+    {
+      "id": "generation",
+      "word": "generation",
+      "pos": "noun",
+      "ipa": "/ˌdʒenəˈreɪʃən/",
+      "reading_th": "เจน-เนอ-เร-ชั่น",
+      "meaning_th": "รุ่น (คนรุ่นเดียวกัน)",
+      "emoji": "👨‍👩‍👧‍👦",
+      "example_en": "Three generations live together in our house.",
+      "example_th": "บ้านเรามีคนสามรุ่นอยู่ด้วยกัน",
+      "cefr": "B1",
+      "note_th": "generation = คนรุ่นเดียวกัน (ปู่ย่า → พ่อแม่ → ลูก = 3 generations) — Gen Z, Gen Y ที่คนไทยพูดก็มาจากคำนี้",
+      "distractors": [
+        "generator",
+        "generous",
+        "gender"
+      ]
+    },
+    {
+      "id": "generation_gap",
+      "word": "generation gap",
+      "pos": "noun",
+      "ipa": "/ˌdʒenəˈreɪʃən ɡæp/",
+      "reading_th": "เจน-เนอ-เร-ชั่น แก็ป",
+      "meaning_th": "ช่องว่างระหว่างวัย",
+      "emoji": "↔️",
+      "example_en": "The generation gap shows when we talk about social media.",
+      "example_th": "ช่องว่างระหว่างวัยชัดเจนตอนเราคุยเรื่องโซเชียล",
+      "cefr": "B2",
+      "note_th": "generation gap = ความคิดที่ต่างกันระหว่างคนต่างรุ่น (gap = ช่องว่าง) — bridge the generation gap = ลดช่องว่างระหว่างวัย",
+      "distractors": [
+        "age limit",
+        "gender gap",
+        "generation Z"
+      ]
+    },
+    {
+      "id": "family_tree",
+      "word": "family tree",
+      "pos": "noun",
+      "ipa": "/ˈfæməli triː/",
+      "reading_th": "แฟม-มิ-ลี่ ทรี",
+      "meaning_th": "แผนผังตระกูล",
+      "emoji": "🌳",
+      "example_en": "My daughter drew our family tree for her homework.",
+      "example_th": "ลูกสาววาดแผนผังตระกูลเราเป็นการบ้าน",
+      "cefr": "A2",
+      "note_th": "family tree = แผนผังแสดงญาติแต่ละรุ่นแตกกิ่งเหมือนต้นไม้ — เป็นการบ้านยอดฮิตของเด็กฝรั่ง และเว็บสืบเชื้อสายก็ใช้คำนี้",
+      "distractors": [
+        "family reunion",
+        "family name",
+        "fruit tree"
+      ]
+    },
+    {
+      "id": "ancestor",
+      "word": "ancestor",
+      "pos": "noun",
+      "ipa": "/ˈænsestər/",
+      "reading_th": "แอน-เซส-เตอร์",
+      "meaning_th": "บรรพบุรุษ",
+      "emoji": "🏯",
+      "example_en": "My ancestors came to Thailand from China a century ago.",
+      "example_th": "บรรพบุรุษของฉันมาไทยจากจีนเมื่อร้อยปีก่อน",
+      "cefr": "B1",
+      "note_th": "ancestor = คนรุ่นก่อนหน้าที่เราสืบเชื้อสายมา ตรงข้ามคือ descendant — ไหว้บรรพบุรุษตรุษจีนคือ pay respect to ancestors",
+      "distractors": [
+        "descendant",
+        "investor",
+        "anchor"
+      ]
+    },
+    {
+      "id": "descendant",
+      "word": "descendant",
+      "pos": "noun",
+      "ipa": "/dɪˈsendənt/",
+      "reading_th": "ดิ-เซน-เดินท์",
+      "meaning_th": "ลูกหลาน / ผู้สืบเชื้อสาย",
+      "emoji": "🌱",
+      "example_en": "He is a descendant of the old governor of the city.",
+      "example_th": "เขาเป็นลูกหลานของเจ้าเมืองคนเก่า",
+      "cefr": "B2",
+      "note_th": "descendant = ผู้สืบเชื้อสาย (descend = สืบลงมา) คู่กับ ancestor — ลงท้าย -ant ไม่ใช่ -ent สะกดผิดกันบ่อย",
+      "distractors": [
+        "ancestor",
+        "dependent",
+        "attendant"
+      ]
+    },
+    {
+      "id": "senior_citizen",
+      "word": "senior citizen",
+      "pos": "noun",
+      "ipa": "/ˌsiːnjər ˈsɪtɪzən/",
+      "reading_th": "ซีน-เยอร์ ซิท-ทิ-เซิ่น",
+      "meaning_th": "ผู้สูงอายุ (คำสุภาพ)",
+      "emoji": "👴",
+      "example_en": "Every senior citizen gets a discount on the skytrain.",
+      "example_th": "ผู้สูงอายุทุกคนได้ส่วนลดค่ารถไฟฟ้า",
+      "cefr": "B1",
+      "note_th": "senior citizen = ผู้สูงอายุ (60+) คำสุภาพที่ใช้ในป้ายราคาและกฎหมาย — ป้ายที่นั่งสำรองเขียนว่า priority seat for senior citizens",
+      "distractors": [
+        "senior",
+        "citizen",
+        "pensioner"
+      ]
+    },
+    {
+      "id": "middle_aged",
+      "word": "middle-aged",
+      "pos": "adjective",
+      "ipa": "/ˌmɪdl ˈeɪdʒd/",
+      "reading_th": "มิด-เดิล เอจด์",
+      "meaning_th": "วัยกลางคน",
+      "emoji": "🧔",
+      "example_en": "A middle-aged man started playing the guitar again.",
+      "example_th": "ชายวัยกลางคนกลับมาเล่นกีตาร์อีกครั้ง",
+      "cefr": "B1",
+      "note_th": "middle-aged = ประมาณ 45–65 ปี (คำนามคือ middle age) — midlife crisis คือวิกฤตวัยกลางคนที่อยู่ๆ ก็อยากซื้อรถสปอร์ต 😄",
+      "distractors": [
+        "middle class",
+        "medium",
+        "aged"
+      ]
+    },
+    {
+      "id": "grow_old",
+      "word": "grow old",
+      "pos": "phrase",
+      "ipa": "/ɡroʊ oʊld/",
+      "reading_th": "โกรว โอลด์",
+      "meaning_th": "แก่ตัวลง",
+      "emoji": "⏳",
+      "example_en": "I want to grow old with you.",
+      "example_th": "ฉันอยากแก่ไปด้วยกันกับเธอ",
+      "cefr": "A2",
+      "note_th": "grow old = ค่อยๆ แก่ลง (สุภาพและโรแมนติกกว่า get old) — grow old together คือคำสัญญาของคู่รัก และ growing old gracefully = แก่อย่างสง่างาม",
+      "distractors": [
+        "grow up",
+        "get cold",
+        "go old"
+      ]
+    },
+    {
+      "id": "nursing_home",
+      "word": "nursing home",
+      "pos": "noun",
+      "ipa": "/ˈnɜːrsɪŋ hoʊm/",
+      "reading_th": "เนอร์ส-ซิ่ง โฮม",
+      "meaning_th": "บ้านพักคนชรา",
+      "emoji": "🏥",
+      "example_en": "We visit Grandpa at the nursing home every weekend.",
+      "example_th": "เราไปเยี่ยมคุณปู่ที่บ้านพักคนชราทุกสุดสัปดาห์",
+      "cefr": "B1",
+      "note_th": "nursing home = บ้านพักที่มีพยาบาลดูแลผู้สูงอายุ ส่วนที่ไม่มีพยาบาลเรียก retirement home — คนไทยส่วนใหญ่ยังดูแลพ่อแม่ที่บ้าน ฝรั่งถือว่าปกติ",
+      "distractors": [
+        "nursery",
+        "retirement home",
+        "hospital"
+      ]
+    },
+    {
+      "id": "caregiver",
+      "word": "caregiver",
+      "pos": "noun",
+      "ipa": "/ˈkerɡɪvər/",
+      "reading_th": "แคร์-กิฟ-เวอร์",
+      "meaning_th": "ผู้ดูแล (ผู้ป่วย / ผู้สูงอายุ)",
+      "emoji": "🧑‍⚕️",
+      "example_en": "My aunt is the main caregiver for my grandmother.",
+      "example_th": "ป้าเป็นผู้ดูแลหลักของคุณยาย",
+      "cefr": "B1",
+      "note_th": "caregiver = คนดูแลผู้สูงอายุหรือผู้ป่วย (ญาติหรือคนที่จ้างก็ได้) ฝั่งอังกฤษใช้ carer — งานผู้ดูแลเป็นอาชีพที่ต้องการมากในญี่ปุ่นและยุโรป",
+      "distractors": [
+        "caretaker",
+        "lawgiver",
+        "career"
+      ]
+    },
+    {
+      "id": "pass_away",
+      "word": "pass away",
+      "pos": "phrase",
+      "ipa": "/pæs əˈweɪ/",
+      "reading_th": "แพส อะ-เวย์",
+      "meaning_th": "เสียชีวิต (คำสุภาพ)",
+      "emoji": "🕊️",
+      "example_en": "My grandfather will pass away peacefully if he has his family around him.",
+      "example_th": "คุณปู่จะจากไปอย่างสงบถ้ามีครอบครัวอยู่ข้างๆ",
+      "cefr": "B1",
+      "note_th": "pass away = เสียชีวิต พูดสุภาพกว่า die มาก ใช้กับคนที่เรารู้จัก (ช่อง 2 passed away) — แสดงความเสียใจว่า I'm sorry for your loss",
+      "distractors": [
+        "pass out",
+        "pass by",
+        "give away"
+      ]
+    },
+    {
+      "id": "heir",
+      "word": "heir",
+      "pos": "noun",
+      "ipa": "/er/",
+      "reading_th": "แอร์",
+      "meaning_th": "ทายาท (ผู้รับมรดก)",
+      "emoji": "👑",
+      "example_en": "As the only heir, she got the whole house.",
+      "example_th": "ในฐานะทายาทคนเดียว เธอได้บ้านทั้งหลัง",
+      "cefr": "B2",
+      "note_th": "heir ออกเสียง แอร์ เหมือน air ตัว h ไม่ออกเสียง — ทายาทหญิงคือ heiress และ heir to the throne คือรัชทายาท",
+      "distractors": [
+        "hair",
+        "air",
+        "hero"
+      ]
+    },
+    {
+      "id": "old_age",
+      "word": "old age",
+      "pos": "noun",
+      "ipa": "/ˌoʊld ˈeɪdʒ/",
+      "reading_th": "โอลด์ เอจ",
+      "meaning_th": "วัยชรา",
+      "emoji": "⏳",
+      "example_en": "He wants to spend his old age by the sea.",
+      "example_th": "เขาอยากใช้ชีวิตวัยชราริมทะเล",
+      "cefr": "A2",
+      "note_th": "in old age = ในวัยชรา (คำนาม ใช้กลางๆ ไม่หยาบ) — เงินบำนาญคนชราคือ old-age pension และ old age home คือบ้านพักคนชรา",
+      "distractors": [
+        "middle age",
+        "golden age",
+        "new age"
+      ]
+    },
+    {
+      "id": "legacy",
+      "word": "legacy",
+      "pos": "noun",
+      "ipa": "/ˈleɡəsi/",
+      "reading_th": "เล-กะ-ซี่",
+      "meaning_th": "สิ่งที่ทิ้งไว้ให้คนรุ่นหลัง",
+      "emoji": "🏛️",
+      "example_en": "Her real legacy is the school she built for the village.",
+      "example_th": "สิ่งที่เธอทิ้งไว้จริงๆ คือโรงเรียนที่สร้างให้หมู่บ้าน",
+      "cefr": "B2",
+      "note_th": "legacy = สิ่งที่คนรุ่นก่อนทิ้งไว้ (ทั้งทรัพย์สินและผลงาน/ชื่อเสียง) กว้างกว่า inheritance ที่เน้นเงินทอง — leave a legacy = ฝากสิ่งดีๆ ไว้",
+      "distractors": [
+        "legal",
+        "literacy",
+        "league"
+      ]
+    }
+  ]
+}
