@@ -189,7 +189,8 @@
         "kind of",
         "kindly",
         "king"
-      ]
+      ],
+      "image": "words/kind.webp"
     },
     {
       "id": "generous",
@@ -207,7 +208,8 @@
         "genuine",
         "dangerous",
         "general"
-      ]
+      ],
+      "image": "words/generous.webp"
     },
     {
       "id": "honest",
@@ -225,7 +227,8 @@
         "honestly",
         "hottest",
         "modest"
-      ]
+      ],
+      "image": "words/honest.webp"
     },
     {
       "id": "polite",
@@ -243,7 +246,8 @@
         "police",
         "politics",
         "pilot"
-      ]
+      ],
+      "image": "words/polite.webp"
     },
     {
       "id": "caring",
@@ -261,7 +265,8 @@
         "careful",
         "carrying",
         "curing"
-      ]
+      ],
+      "image": "words/caring.webp"
     },
     {
       "id": "thoughtful",
@@ -279,7 +284,8 @@
         "thoughtless",
         "though",
         "thorough"
-      ]
+      ],
+      "image": "words/thoughtful.webp"
     },
     {
       "id": "humble",
@@ -297,7 +303,8 @@
         "humbled",
         "hungry",
         "tumble"
-      ]
+      ],
+      "image": "words/humble.webp"
     },
     {
       "id": "loyal",
@@ -315,7 +322,8 @@
         "royal",
         "legal",
         "loyalty"
-      ]
+      ],
+      "image": "words/loyal.webp"
     },
     {
       "id": "sincere",
@@ -333,7 +341,8 @@
         "since",
         "severe",
         "secure"
-      ]
+      ],
+      "image": "words/sincere.webp"
     },
     {
       "id": "considerate",
@@ -351,7 +360,8 @@
         "considerable",
         "consider",
         "confident"
-      ]
+      ],
+      "image": "words/considerate.webp"
     },
     {
       "id": "easygoing",
@@ -369,7 +379,8 @@
         "outgoing",
         "easily",
         "ongoing"
-      ]
+      ],
+      "image": "words/easygoing.webp"
     },
     {
       "id": "brave",
@@ -387,7 +398,8 @@
         "bread",
         "brake",
         "grave"
-      ]
+      ],
+      "image": "words/brave.webp"
     },
     {
       "id": "gentle",
@@ -405,7 +417,8 @@
         "gently",
         "genuine",
         "gentleman"
-      ]
+      ],
+      "image": "words/gentle.webp"
     },
     {
       "id": "warm_hearted",
@@ -423,7 +436,8 @@
         "cold-hearted",
         "hard-hearted",
         "warm-blooded"
-      ]
+      ],
+      "image": "words/warm_hearted.webp"
     },
     {
       "id": "selfish",
@@ -441,7 +455,8 @@
         "shellfish",
         "selfless",
         "self"
-      ]
+      ],
+      "image": "words/selfish.webp"
     },
     {
       "id": "rude",
@@ -459,7 +474,8 @@
         "crude",
         "ride",
         "mood"
-      ]
+      ],
+      "image": "words/rude.webp"
     },
     {
       "id": "arrogant",
@@ -477,7 +493,8 @@
         "elegant",
         "ignorant",
         "argument"
-      ]
+      ],
+      "image": "words/arrogant.webp"
     },
     {
       "id": "stubborn",
@@ -495,7 +512,8 @@
         "stubble",
         "suburb",
         "sudden"
-      ]
+      ],
+      "image": "words/stubborn.webp"
     },
     {
       "id": "greedy",
@@ -513,7 +531,8 @@
         "greet",
         "grieve",
         "gritty"
-      ]
+      ],
+      "image": "words/greedy.webp"
     },
     {
       "id": "nasty",
@@ -531,7 +550,8 @@
         "tasty",
         "hasty",
         "nest"
-      ]
+      ],
+      "image": "words/nasty.webp"
     },
     {
       "id": "bossy",
@@ -549,7 +569,8 @@
         "boss",
         "busy",
         "bouncy"
-      ]
+      ],
+      "image": "words/bossy.webp"
     },
     {
       "id": "moody",
@@ -567,7 +588,8 @@
         "muddy",
         "mood",
         "modest"
-      ]
+      ],
+      "image": "words/moody.webp"
     },
     {
       "id": "dishonest",
@@ -585,7 +607,8 @@
         "distant",
         "honest",
         "dismiss"
-      ]
+      ],
+      "image": "words/dishonest.webp"
     },
     {
       "id": "cruel",
@@ -603,7 +626,8 @@
         "crew",
         "cool",
         "crawl"
-      ]
+      ],
+      "image": "words/cruel.webp"
     },
     {
       "id": "impatient",
@@ -621,7 +645,8 @@
         "important",
         "impartial",
         "patience"
-      ]
+      ],
+      "image": "words/impatient.webp"
     },
     {
       "id": "careless",
@@ -639,7 +664,8 @@
         "careful",
         "carefree",
         "fearless"
-      ]
+      ],
+      "image": "words/careless.webp"
     },
     {
       "id": "ungrateful",
@@ -657,7 +683,8 @@
         "grateful",
         "unfaithful",
         "ungraceful"
-      ]
+      ],
+      "image": "words/ungrateful.webp"
     },
     {
       "id": "two_faced",
@@ -675,7 +702,8 @@
         "two-sided",
         "red-faced",
         "half-faced"
-      ]
+      ],
+      "image": "words/two_faced.webp"
     },
     {
       "id": "outgoing",
@@ -693,7 +721,8 @@
         "ongoing",
         "outstanding",
         "outcome"
-      ]
+      ],
+      "image": "words/outgoing.webp"
     },
     {
       "id": "reserved",
@@ -711,7 +740,8 @@
         "reversed",
         "reserve",
         "preserved"
-      ]
+      ],
+      "image": "words/reserved.webp"
     },
     {
       "id": "talkative",
@@ -729,7 +759,8 @@
         "talented",
         "tentative",
         "talking"
-      ]
+      ],
+      "image": "words/talkative.webp"
     },
     {
       "id": "sociable",
@@ -747,7 +778,8 @@
         "social",
         "socialize",
         "suitable"
-      ]
+      ],
+      "image": "words/sociable.webp"
     },
     {
       "id": "introvert",
@@ -765,7 +797,8 @@
         "extrovert",
         "invert",
         "introduce"
-      ]
+      ],
+      "image": "words/introvert.webp"
     },
     {
       "id": "extrovert",
@@ -783,7 +816,8 @@
         "introvert",
         "expert",
         "extra"
-      ]
+      ],
+      "image": "words/extrovert.webp"
     },
     {
       "id": "laid_back",
@@ -801,7 +835,8 @@
         "laid off",
         "set back",
         "lay back"
-      ]
+      ],
+      "image": "words/laid_back.webp"
     },
     {
       "id": "chatty",
@@ -819,7 +854,8 @@
         "catty",
         "chilly",
         "cheesy"
-      ]
+      ],
+      "image": "words/chatty.webp"
     },
     {
       "id": "people_person",
@@ -837,7 +873,8 @@
         "people pleaser",
         "party animal",
         "cat person"
-      ]
+      ],
+      "image": "words/people_person.webp"
     },
     {
       "id": "loner",
@@ -855,7 +892,8 @@
         "loaner",
         "lonely",
         "owner"
-      ]
+      ],
+      "image": "words/loner.webp"
     },
     {
       "id": "charismatic",
@@ -873,7 +911,8 @@
         "chromatic",
         "charming",
         "dramatic"
-      ]
+      ],
+      "image": "words/charismatic.webp"
     },
     {
       "id": "hilarious",
@@ -891,7 +930,8 @@
         "hilarity",
         "delirious",
         "glorious"
-      ]
+      ],
+      "image": "words/hilarious.webp"
     },
     {
       "id": "witty",
@@ -909,7 +949,8 @@
         "witness",
         "wiry",
         "gritty"
-      ]
+      ],
+      "image": "words/witty.webp"
     },
     {
       "id": "down_to_earth",
@@ -927,7 +968,8 @@
         "down to business",
         "up-to-date",
         "earthy"
-      ]
+      ],
+      "image": "words/down_to_earth.webp"
     },
     {
       "id": "organized",
@@ -945,7 +987,8 @@
         "organic",
         "organize",
         "disorganized"
-      ]
+      ],
+      "image": "words/organized.webp"
     },
     {
       "id": "ambitious",
@@ -963,7 +1006,8 @@
         "ambiguous",
         "anxious",
         "ambitiously"
-      ]
+      ],
+      "image": "words/ambitious.webp"
     },
     {
       "id": "competitive",
@@ -981,7 +1025,8 @@
         "competent",
         "compatible",
         "comparative"
-      ]
+      ],
+      "image": "words/competitive.webp"
     },
     {
       "id": "perfectionist",
@@ -999,7 +1044,8 @@
         "perfection",
         "perfectly",
         "pessimist"
-      ]
+      ],
+      "image": "words/perfectionist.webp"
     },
     {
       "id": "workaholic",
@@ -1017,7 +1063,8 @@
         "alcoholic",
         "workforce",
         "workshop"
-      ]
+      ],
+      "image": "words/workaholic.webp"
     },
     {
       "id": "procrastinate",
@@ -1035,7 +1082,8 @@
         "proclaim",
         "concentrate",
         "prostrate"
-      ]
+      ],
+      "image": "words/procrastinate.webp"
     },
     {
       "id": "independent",
@@ -1053,7 +1101,8 @@
         "dependent",
         "independence",
         "indecent"
-      ]
+      ],
+      "image": "words/independent.webp"
     },
     {
       "id": "team_player",
@@ -1071,7 +1120,8 @@
         "team leader",
         "team spirit",
         "player"
-      ]
+      ],
+      "image": "words/team_player.webp"
     },
     {
       "id": "proactive",
@@ -1089,7 +1139,8 @@
         "reactive",
         "productive",
         "protective"
-      ]
+      ],
+      "image": "words/proactive.webp"
     },
     {
       "id": "disciplined",
@@ -1107,7 +1158,8 @@
         "discipline",
         "disconnected",
         "described"
-      ]
+      ],
+      "image": "words/disciplined.webp"
     },
     {
       "id": "meticulous",
@@ -1125,7 +1177,8 @@
         "ridiculous",
         "miraculous",
         "meticulously"
-      ]
+      ],
+      "image": "words/meticulous.webp"
     },
     {
       "id": "multitask",
@@ -1143,7 +1196,8 @@
         "multiply",
         "multiple",
         "mask"
-      ]
+      ],
+      "image": "words/multitask.webp"
     },
     {
       "id": "self_motivated",
@@ -1161,7 +1215,8 @@
         "self-employed",
         "self-centered",
         "motivated"
-      ]
+      ],
+      "image": "words/self_motivated.webp"
     },
     {
       "id": "go_getter",
@@ -1179,7 +1234,8 @@
         "go-between",
         "goal-getter",
         "get-go"
-      ]
+      ],
+      "image": "words/go_getter.webp"
     },
     {
       "id": "optimistic",
@@ -1197,7 +1253,8 @@
         "optimal",
         "optimist",
         "pessimistic"
-      ]
+      ],
+      "image": "words/optimistic.webp"
     },
     {
       "id": "pessimistic",
@@ -1215,7 +1272,8 @@
         "optimistic",
         "pessimist",
         "realistic"
-      ]
+      ],
+      "image": "words/pessimistic.webp"
     },
     {
       "id": "open_minded",
@@ -1233,7 +1291,8 @@
         "open-ended",
         "absent-minded",
         "single-minded"
-      ]
+      ],
+      "image": "words/open_minded.webp"
     },
     {
       "id": "narrow_minded",
@@ -1251,7 +1310,8 @@
         "narrow",
         "like-minded",
         "broad-minded"
-      ]
+      ],
+      "image": "words/narrow_minded.webp"
     },
     {
       "id": "creative",
@@ -1269,7 +1329,8 @@
         "creature",
         "created",
         "curative"
-      ]
+      ],
+      "image": "words/creative.webp"
     },
     {
       "id": "rational",
@@ -1287,7 +1348,8 @@
         "national",
         "radical",
         "irrational"
-      ]
+      ],
+      "image": "words/rational.webp"
     },
     {
       "id": "level_headed",
@@ -1305,7 +1367,8 @@
         "hot-headed",
         "light-headed",
         "level"
-      ]
+      ],
+      "image": "words/level_headed.webp"
     },
     {
       "id": "mature",
@@ -1323,7 +1386,8 @@
         "manure",
         "measure",
         "nature"
-      ]
+      ],
+      "image": "words/mature.webp"
     },
     {
       "id": "immature",
@@ -1341,7 +1405,8 @@
         "mature",
         "premature",
         "impure"
-      ]
+      ],
+      "image": "words/immature.webp"
     },
     {
       "id": "confident",
@@ -1359,7 +1424,8 @@
         "confidential",
         "confused",
         "content"
-      ]
+      ],
+      "image": "words/confident.webp"
     },
     {
       "id": "determined",
@@ -1377,7 +1443,8 @@
         "terminated",
         "deterred",
         "destined"
-      ]
+      ],
+      "image": "words/determined.webp"
     },
     {
       "id": "wise",
@@ -1395,7 +1462,8 @@
         "wide",
         "wise up",
         "wasp"
-      ]
+      ],
+      "image": "words/wise.webp"
     },
     {
       "id": "naive",
@@ -1413,7 +1481,8 @@
         "native",
         "knave",
         "navy"
-      ]
+      ],
+      "image": "words/naive.webp"
     },
     {
       "id": "realistic",
@@ -1431,7 +1500,8 @@
         "real",
         "realistically",
         "idealistic"
-      ]
+      ],
+      "image": "words/realistic.webp"
     },
     {
       "id": "clumsy",
@@ -1449,7 +1519,8 @@
         "clumsily",
         "crumbly",
         "classy"
-      ]
+      ],
+      "image": "words/clumsy.webp"
     },
     {
       "id": "forgetful",
@@ -1467,7 +1538,8 @@
         "forgettable",
         "regretful",
         "fretful"
-      ]
+      ],
+      "image": "words/forgetful.webp"
     },
     {
       "id": "picky",
@@ -1485,7 +1557,8 @@
         "pick",
         "sticky",
         "peaky"
-      ]
+      ],
+      "image": "words/picky.webp"
     },
     {
       "id": "fussy",
@@ -1503,7 +1576,8 @@
         "fuzzy",
         "fussed",
         "bossy"
-      ]
+      ],
+      "image": "words/fussy.webp"
     },
     {
       "id": "untidy",
@@ -1521,7 +1595,8 @@
         "tidy",
         "unity",
         "untied"
-      ]
+      ],
+      "image": "words/untidy.webp"
     },
     {
       "id": "neat",
@@ -1539,7 +1614,8 @@
         "net",
         "need",
         "knit"
-      ]
+      ],
+      "image": "words/neat.webp"
     },
     {
       "id": "nosy",
@@ -1557,7 +1633,8 @@
         "noisy",
         "nasty",
         "rosy"
-      ]
+      ],
+      "image": "words/nosy.webp"
     },
     {
       "id": "big_mouth",
@@ -1575,7 +1652,8 @@
         "big head",
         "loud mouth",
         "big deal"
-      ]
+      ],
+      "image": "words/big_mouth.webp"
     },
     {
       "id": "nag",
@@ -1593,7 +1671,8 @@
         "nap",
         "nail",
         "snag"
-      ]
+      ],
+      "image": "words/nag.webp"
     },
     {
       "id": "show_off",
@@ -1611,7 +1690,8 @@
         "show up",
         "showcase",
         "turn-off"
-      ]
+      ],
+      "image": "words/show_off.webp"
     },
     {
       "id": "drama_queen",
@@ -1629,7 +1709,8 @@
         "dancing queen",
         "drama club",
         "beauty queen"
-      ]
+      ],
+      "image": "words/drama_queen.webp"
     },
     {
       "id": "night_owl",
@@ -1647,7 +1728,8 @@
         "night shift",
         "early bird",
         "late night"
-      ]
+      ],
+      "image": "words/night_owl.webp"
     },
     {
       "id": "morning_person",
@@ -1665,7 +1747,8 @@
         "evening person",
         "people person",
         "morning star"
-      ]
+      ],
+      "image": "words/morning_person.webp"
     },
     {
       "id": "stingy",
@@ -1683,7 +1766,8 @@
         "sting",
         "stingray",
         "stinky"
-      ]
+      ],
+      "image": "words/stingy.webp"
     },
     {
       "id": "strong_willed",
@@ -1701,7 +1785,8 @@
         "strong-minded",
         "weak-willed",
         "self-willed"
-      ]
+      ],
+      "image": "words/strong_willed.webp"
     },
     {
       "id": "opinionated",
@@ -1719,7 +1804,8 @@
         "opinion",
         "pinioned",
         "operated"
-      ]
+      ],
+      "image": "words/opinionated.webp"
     },
     {
       "id": "blunt",
@@ -1737,7 +1823,8 @@
         "blind",
         "bluff",
         "blank"
-      ]
+      ],
+      "image": "words/blunt.webp"
     },
     {
       "id": "straightforward",
@@ -1755,7 +1842,8 @@
         "straight",
         "forward",
         "straightaway"
-      ]
+      ],
+      "image": "words/straightforward.webp"
     },
     {
       "id": "touchy",
@@ -1773,7 +1861,8 @@
         "touching",
         "touch",
         "twitchy"
-      ]
+      ],
+      "image": "words/touchy.webp"
     },
     {
       "id": "eccentric",
@@ -1791,7 +1880,8 @@
         "electric",
         "eclectic",
         "centric"
-      ]
+      ],
+      "image": "words/eccentric.webp"
     },
     {
       "id": "demanding",
@@ -1809,7 +1899,8 @@
         "commanding",
         "defending",
         "demand"
-      ]
+      ],
+      "image": "words/demanding.webp"
     },
     {
       "id": "hard_to_please",
@@ -1827,7 +1918,8 @@
         "hard to say",
         "hard to get",
         "easy to please"
-      ]
+      ],
+      "image": "words/hard_to_please.webp"
     },
     {
       "id": "get_along_with",
@@ -1845,7 +1937,8 @@
         "get away with",
         "go along with",
         "get on with"
-      ]
+      ],
+      "image": "words/get_along_with.webp"
     },
     {
       "id": "personality",
@@ -1863,7 +1956,8 @@
         "personal",
         "personally",
         "popularity"
-      ]
+      ],
+      "image": "words/personality.webp"
     },
     {
       "id": "trait",
@@ -1881,7 +1975,8 @@
         "treat",
         "trail",
         "trace"
-      ]
+      ],
+      "image": "words/trait.webp"
     },
     {
       "id": "quirk",
@@ -1899,7 +1994,8 @@
         "quick",
         "quark",
         "quirky"
-      ]
+      ],
+      "image": "words/quirk.webp"
     },
     {
       "id": "temperament",
@@ -1917,7 +2013,8 @@
         "temperature",
         "temper",
         "testament"
-      ]
+      ],
+      "image": "words/temperament.webp"
     },
     {
       "id": "mean_well",
@@ -1935,7 +2032,8 @@
         "well-meaning",
         "mean it",
         "do well"
-      ]
+      ],
+      "image": "words/mean_well.webp"
     }
   ]
 }

@@ -189,7 +189,8 @@
         "relation",
         "relevant",
         "native"
-      ]
+      ],
+      "image": "words/relative.webp"
     },
     {
       "id": "sibling",
@@ -207,7 +208,8 @@
         "sibling rivalry",
         "singling",
         "civilian"
-      ]
+      ],
+      "image": "words/sibling.webp"
     },
     {
       "id": "nephew",
@@ -225,7 +227,8 @@
         "niece",
         "new",
         "grandson"
-      ]
+      ],
+      "image": "words/nephew.webp"
     },
     {
       "id": "niece",
@@ -243,7 +246,8 @@
         "nephew",
         "nice",
         "piece"
-      ]
+      ],
+      "image": "words/niece.webp"
     },
     {
       "id": "grandparents",
@@ -261,7 +265,8 @@
         "grandchildren",
         "great-grandparents",
         "godparents"
-      ]
+      ],
+      "image": "words/grandparents.webp"
     },
     {
       "id": "grandchild",
@@ -279,7 +284,8 @@
         "grandparent",
         "godchild",
         "nephew"
-      ]
+      ],
+      "image": "words/grandchild.webp"
     },
     {
       "id": "mother_in_law",
@@ -297,7 +303,8 @@
         "mother",
         "stepmother",
         "godmother"
-      ]
+      ],
+      "image": "words/mother_in_law.webp"
     },
     {
       "id": "father_in_law",
@@ -315,7 +322,8 @@
         "father",
         "stepfather",
         "godfather"
-      ]
+      ],
+      "image": "words/father_in_law.webp"
     },
     {
       "id": "sister_in_law",
@@ -333,7 +341,8 @@
         "sister",
         "stepsister",
         "sisterhood"
-      ]
+      ],
+      "image": "words/sister_in_law.webp"
     },
     {
       "id": "brother_in_law",
@@ -351,7 +360,8 @@
         "brother",
         "stepbrother",
         "brotherhood"
-      ]
+      ],
+      "image": "words/brother_in_law.webp"
     },
     {
       "id": "stepmother",
@@ -369,7 +379,8 @@
         "mother-in-law",
         "godmother",
         "grandmother"
-      ]
+      ],
+      "image": "words/stepmother.webp"
     },
     {
       "id": "stepfather",
@@ -387,7 +398,8 @@
         "father-in-law",
         "godfather",
         "grandfather"
-      ]
+      ],
+      "image": "words/stepfather.webp"
     },
     {
       "id": "half_brother",
@@ -405,7 +417,8 @@
         "stepbrother",
         "brother-in-law",
         "half-sister"
-      ]
+      ],
+      "image": "words/half_brother.webp"
     },
     {
       "id": "twins",
@@ -423,7 +436,8 @@
         "twin",
         "tweens",
         "teens"
-      ]
+      ],
+      "image": "words/twins.webp"
     },
     {
       "id": "spouse",
@@ -441,7 +455,8 @@
         "sponsor",
         "mouse",
         "spout"
-      ]
+      ],
+      "image": "words/spouse.webp"
     },
     {
       "id": "marriage",
@@ -459,7 +474,8 @@
         "marry",
         "mirage",
         "carriage"
-      ]
+      ],
+      "image": "words/marriage.webp"
     },
     {
       "id": "divorce",
@@ -477,7 +493,8 @@
         "diverse",
         "device",
         "divide"
-      ]
+      ],
+      "image": "words/divorce.webp"
     },
     {
       "id": "widow",
@@ -495,7 +512,8 @@
         "window",
         "widower",
         "wider"
-      ]
+      ],
+      "image": "words/widow.webp"
     },
     {
       "id": "widower",
@@ -513,7 +531,8 @@
         "widow",
         "wider",
         "winner"
-      ]
+      ],
+      "image": "words/widower.webp"
     },
     {
       "id": "remarry",
@@ -531,7 +550,8 @@
         "retry",
         "remind",
         "repair"
-      ]
+      ],
+      "image": "words/remarry.webp"
     },
     {
       "id": "housewife",
@@ -549,7 +569,8 @@
         "housekeeper",
         "household",
         "housemate"
-      ]
+      ],
+      "image": "words/housewife.webp"
     },
     {
       "id": "breadwinner",
@@ -567,7 +588,8 @@
         "bread",
         "winner",
         "bartender"
-      ]
+      ],
+      "image": "words/breadwinner.webp"
     },
     {
       "id": "arranged_marriage",
@@ -585,7 +607,8 @@
         "love marriage",
         "arrangement",
         "second marriage"
-      ]
+      ],
+      "image": "words/arranged_marriage.webp"
     },
     {
       "id": "life_partner",
@@ -603,7 +626,8 @@
         "business partner",
         "life coach",
         "roommate"
-      ]
+      ],
+      "image": "words/life_partner.webp"
     },
     {
       "id": "move_in_together",
@@ -621,7 +645,8 @@
         "move out",
         "move on",
         "get together"
-      ]
+      ],
+      "image": "words/move_in_together.webp"
     },
     {
       "id": "stay_at_home_dad",
@@ -639,7 +664,8 @@
         "single dad",
         "stepdad",
         "homebody"
-      ]
+      ],
+      "image": "words/stay_at_home_dad.webp"
     },
     {
       "id": "commitment",
@@ -657,7 +683,8 @@
         "comment",
         "committee",
         "compliment"
-      ]
+      ],
+      "image": "words/commitment.webp"
     },
     {
       "id": "faithful",
@@ -675,7 +702,8 @@
         "fateful",
         "fearful",
         "unfaithful"
-      ]
+      ],
+      "image": "words/faithful.webp"
     },
     {
       "id": "baby",
@@ -693,7 +721,8 @@
         "body",
         "bubble",
         "toddler"
-      ]
+      ],
+      "image": "words/baby.webp"
     },
     {
       "id": "newborn",
@@ -711,7 +740,8 @@
         "newcomer",
         "unborn",
         "toddler"
-      ]
+      ],
+      "image": "words/newborn.webp"
     },
     {
       "id": "give_birth",
@@ -729,7 +759,8 @@
         "give up",
         "give away",
         "be born"
-      ]
+      ],
+      "image": "words/give_birth.webp"
     },
     {
       "id": "maternity_leave",
@@ -747,7 +778,8 @@
         "paternity leave",
         "sick leave",
         "annual leave"
-      ]
+      ],
+      "image": "words/maternity_leave.webp"
     },
     {
       "id": "toddler",
@@ -765,7 +797,8 @@
         "toddle",
         "todder",
         "teenager"
-      ]
+      ],
+      "image": "words/toddler.webp"
     },
     {
       "id": "diaper",
@@ -783,7 +816,8 @@
         "paper",
         "nappy",
         "dipper"
-      ]
+      ],
+      "image": "words/diaper.webp"
     },
     {
       "id": "stroller",
@@ -801,7 +835,8 @@
         "trolley",
         "scroller",
         "roller"
-      ]
+      ],
+      "image": "words/stroller.webp"
     },
     {
       "id": "crib",
@@ -819,7 +854,8 @@
         "crab",
         "cot",
         "club"
-      ]
+      ],
+      "image": "words/crib.webp"
     },
     {
       "id": "breastfeed",
@@ -837,7 +873,8 @@
         "bottle-feed",
         "breakfast",
         "feed"
-      ]
+      ],
+      "image": "words/breastfeed.webp"
     },
     {
       "id": "pacifier",
@@ -855,7 +892,8 @@
         "purifier",
         "dummy",
         "pacific"
-      ]
+      ],
+      "image": "words/pacifier.webp"
     },
     {
       "id": "babysitter",
@@ -873,7 +911,8 @@
         "nanny",
         "baby seat",
         "sitter"
-      ]
+      ],
+      "image": "words/babysitter.webp"
     },
     {
       "id": "nanny",
@@ -891,7 +930,8 @@
         "babysitter",
         "granny",
         "nurse"
-      ]
+      ],
+      "image": "words/nanny.webp"
     },
     {
       "id": "nap",
@@ -909,7 +949,8 @@
         "map",
         "nappy",
         "nab"
-      ]
+      ],
+      "image": "words/nap.webp"
     },
     {
       "id": "teething",
@@ -927,7 +968,8 @@
         "teeth",
         "teasing",
         "breathing"
-      ]
+      ],
+      "image": "words/teething.webp"
     },
     {
       "id": "childhood",
@@ -945,7 +987,8 @@
         "childish",
         "neighborhood",
         "adulthood"
-      ]
+      ],
+      "image": "words/childhood.webp"
     },
     {
       "id": "upbringing",
@@ -963,7 +1006,8 @@
         "uprising",
         "upcoming",
         "breeding"
-      ]
+      ],
+      "image": "words/upbringing.webp"
     },
     {
       "id": "kid",
@@ -981,7 +1025,8 @@
         "kit",
         "kind",
         "child"
-      ]
+      ],
+      "image": "words/kid.webp"
     },
     {
       "id": "teenager",
@@ -999,7 +1044,8 @@
         "teen",
         "manager",
         "toddler"
-      ]
+      ],
+      "image": "words/teenager.webp"
     },
     {
       "id": "adult",
@@ -1017,7 +1063,8 @@
         "adulthood",
         "elder",
         "insult"
-      ]
+      ],
+      "image": "words/adult.webp"
     },
     {
       "id": "only_child",
@@ -1035,7 +1082,8 @@
         "single child",
         "lonely child",
         "eldest child"
-      ]
+      ],
+      "image": "words/only_child.webp"
     },
     {
       "id": "pocket_money",
@@ -1053,7 +1101,8 @@
         "pocket",
         "lunch money",
         "prize money"
-      ]
+      ],
+      "image": "words/pocket_money.webp"
     },
     {
       "id": "chores",
@@ -1071,7 +1120,8 @@
         "choirs",
         "cores",
         "shores"
-      ]
+      ],
+      "image": "words/chores.webp"
     },
     {
       "id": "curfew",
@@ -1089,7 +1139,8 @@
         "curve",
         "cashew",
         "curtain"
-      ]
+      ],
+      "image": "words/curfew.webp"
     },
     {
       "id": "strict",
@@ -1107,7 +1158,8 @@
         "street",
         "stick",
         "straight"
-      ]
+      ],
+      "image": "words/strict.webp"
     },
     {
       "id": "spoil",
@@ -1125,7 +1177,8 @@
         "spill",
         "spool",
         "spoiler"
-      ]
+      ],
+      "image": "words/spoil.webp"
     },
     {
       "id": "naughty",
@@ -1143,7 +1196,8 @@
         "nasty",
         "nothing",
         "noisy"
-      ]
+      ],
+      "image": "words/naughty.webp"
     },
     {
       "id": "rebellious",
@@ -1161,7 +1215,8 @@
         "religious",
         "reliable",
         "obedient"
-      ]
+      ],
+      "image": "words/rebellious.webp"
     },
     {
       "id": "leave_the_nest",
@@ -1179,7 +1234,8 @@
         "leave the house",
         "build a nest",
         "leave behind"
-      ]
+      ],
+      "image": "words/leave_the_nest.webp"
     },
     {
       "id": "family_dinner",
@@ -1197,7 +1253,8 @@
         "family room",
         "dinner date",
         "family trip"
-      ]
+      ],
+      "image": "words/family_dinner.webp"
     },
     {
       "id": "housewarming",
@@ -1215,7 +1272,8 @@
         "global warming",
         "house party",
         "homecoming"
-      ]
+      ],
+      "image": "words/housewarming.webp"
     },
     {
       "id": "family_reunion",
@@ -1233,7 +1291,8 @@
         "family tree",
         "family dinner",
         "class reunion"
-      ]
+      ],
+      "image": "words/family_reunion.webp"
     },
     {
       "id": "homecoming",
@@ -1251,7 +1310,8 @@
         "housewarming",
         "homesick",
         "upcoming"
-      ]
+      ],
+      "image": "words/homecoming.webp"
     },
     {
       "id": "gathering",
@@ -1269,7 +1329,8 @@
         "gardening",
         "wandering",
         "gatekeeper"
-      ]
+      ],
+      "image": "words/gathering.webp"
     },
     {
       "id": "keepsake",
@@ -1287,7 +1348,8 @@
         "souvenir",
         "keeper",
         "mistake"
-      ]
+      ],
+      "image": "words/keepsake.webp"
     },
     {
       "id": "godparents",
@@ -1305,7 +1367,8 @@
         "grandparents",
         "stepparents",
         "godchild"
-      ]
+      ],
+      "image": "words/godparents.webp"
     },
     {
       "id": "condolences",
@@ -1323,7 +1386,8 @@
         "congratulations",
         "conditions",
         "consequences"
-      ]
+      ],
+      "image": "words/condolences.webp"
     },
     {
       "id": "memorial",
@@ -1341,7 +1405,8 @@
         "memory",
         "memorable",
         "material"
-      ]
+      ],
+      "image": "words/memorial.webp"
     },
     {
       "id": "pay_respects",
@@ -1359,7 +1424,8 @@
         "pay back",
         "pay attention",
         "respect"
-      ]
+      ],
+      "image": "words/pay_respects.webp"
     },
     {
       "id": "potluck",
@@ -1377,7 +1443,8 @@
         "pot",
         "buffet",
         "good luck"
-      ]
+      ],
+      "image": "words/potluck.webp"
     },
     {
       "id": "heirloom",
@@ -1395,7 +1462,8 @@
         "hair",
         "loom",
         "antique"
-      ]
+      ],
+      "image": "words/heirloom.webp"
     },
     {
       "id": "hand_down",
@@ -1413,7 +1481,8 @@
         "hand in",
         "hand out",
         "put down"
-      ]
+      ],
+      "image": "words/hand_down.webp"
     },
     {
       "id": "family_album",
@@ -1431,7 +1500,8 @@
         "photo studio",
         "music album",
         "family tree"
-      ]
+      ],
+      "image": "words/family_album.webp"
     },
     {
       "id": "close_knit",
@@ -1449,7 +1519,8 @@
         "closed",
         "tight-fit",
         "close call"
-      ]
+      ],
+      "image": "words/close_knit.webp"
     },
     {
       "id": "rely_on",
@@ -1467,7 +1538,8 @@
         "rely in",
         "reply on",
         "depend"
-      ]
+      ],
+      "image": "words/rely_on.webp"
     },
     {
       "id": "take_after",
@@ -1485,7 +1557,8 @@
         "look after",
         "take over",
         "take off"
-      ]
+      ],
+      "image": "words/take_after.webp"
     },
     {
       "id": "reconcile",
@@ -1503,7 +1576,8 @@
         "recognize",
         "reconsider",
         "recycle"
-      ]
+      ],
+      "image": "words/reconcile.webp"
     },
     {
       "id": "estranged",
@@ -1521,7 +1595,8 @@
         "strange",
         "arranged",
         "engaged"
-      ]
+      ],
+      "image": "words/estranged.webp"
     },
     {
       "id": "devoted",
@@ -1539,7 +1614,8 @@
         "divorced",
         "demoted",
         "deserted"
-      ]
+      ],
+      "image": "words/devoted.webp"
     },
     {
       "id": "stick_together",
@@ -1557,7 +1633,8 @@
         "stick around",
         "get together",
         "stick out"
-      ]
+      ],
+      "image": "words/stick_together.webp"
     },
     {
       "id": "supportive",
@@ -1575,7 +1652,8 @@
         "supporter",
         "sportive",
         "superior"
-      ]
+      ],
+      "image": "words/supportive.webp"
     },
     {
       "id": "overprotective",
@@ -1593,7 +1671,8 @@
         "protective",
         "overactive",
         "unprotected"
-      ]
+      ],
+      "image": "words/overprotective.webp"
     },
     {
       "id": "distant",
@@ -1611,7 +1690,8 @@
         "distance",
         "instant",
         "distinct"
-      ]
+      ],
+      "image": "words/distant.webp"
     },
     {
       "id": "black_sheep",
@@ -1629,7 +1709,8 @@
         "black cat",
         "white sheep",
         "lost sheep"
-      ]
+      ],
+      "image": "words/black_sheep.webp"
     },
     {
       "id": "sibling_rivalry",
@@ -1647,7 +1728,8 @@
         "sibling",
         "rival",
         "sibling bond"
-      ]
+      ],
+      "image": "words/sibling_rivalry.webp"
     },
     {
       "id": "run_in_the_family",
@@ -1665,7 +1747,8 @@
         "run out",
         "run away",
         "family run"
-      ]
+      ],
+      "image": "words/run_in_the_family.webp"
     },
     {
       "id": "eldest",
@@ -1683,7 +1766,8 @@
         "oldest",
         "elder",
         "youngest"
-      ]
+      ],
+      "image": "words/eldest.webp"
     },
     {
       "id": "generation",
@@ -1701,7 +1785,8 @@
         "generator",
         "generous",
         "gender"
-      ]
+      ],
+      "image": "words/generation.webp"
     },
     {
       "id": "generation_gap",
@@ -1719,7 +1804,8 @@
         "age limit",
         "gender gap",
         "generation Z"
-      ]
+      ],
+      "image": "words/generation_gap.webp"
     },
     {
       "id": "family_tree",
@@ -1737,7 +1823,8 @@
         "family reunion",
         "family name",
         "fruit tree"
-      ]
+      ],
+      "image": "words/family_tree.webp"
     },
     {
       "id": "ancestor",
@@ -1755,7 +1842,8 @@
         "descendant",
         "investor",
         "anchor"
-      ]
+      ],
+      "image": "words/ancestor.webp"
     },
     {
       "id": "descendant",
@@ -1773,7 +1861,8 @@
         "ancestor",
         "dependent",
         "attendant"
-      ]
+      ],
+      "image": "words/descendant.webp"
     },
     {
       "id": "senior_citizen",
@@ -1791,7 +1880,8 @@
         "senior",
         "citizen",
         "pensioner"
-      ]
+      ],
+      "image": "words/senior_citizen.webp"
     },
     {
       "id": "middle_aged",
@@ -1809,7 +1899,8 @@
         "middle class",
         "medium",
         "aged"
-      ]
+      ],
+      "image": "words/middle_aged.webp"
     },
     {
       "id": "grow_old",
@@ -1827,7 +1918,8 @@
         "grow up",
         "get cold",
         "go old"
-      ]
+      ],
+      "image": "words/grow_old.webp"
     },
     {
       "id": "nursing_home",
@@ -1845,7 +1937,8 @@
         "nursery",
         "retirement home",
         "hospital"
-      ]
+      ],
+      "image": "words/nursing_home.webp"
     },
     {
       "id": "caregiver",
@@ -1863,7 +1956,8 @@
         "caretaker",
         "lawgiver",
         "career"
-      ]
+      ],
+      "image": "words/caregiver.webp"
     },
     {
       "id": "pass_away",
@@ -1881,7 +1975,8 @@
         "pass out",
         "pass by",
         "give away"
-      ]
+      ],
+      "image": "words/pass_away.webp"
     },
     {
       "id": "heir",
@@ -1899,7 +1994,8 @@
         "hair",
         "air",
         "hero"
-      ]
+      ],
+      "image": "words/heir.webp"
     },
     {
       "id": "old_age",
@@ -1917,7 +2013,8 @@
         "middle age",
         "golden age",
         "new age"
-      ]
+      ],
+      "image": "words/old_age.webp"
     },
     {
       "id": "legacy",
@@ -1935,7 +2032,8 @@
         "legal",
         "literacy",
         "league"
-      ]
+      ],
+      "image": "words/legacy.webp"
     }
   ]
 }

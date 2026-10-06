@@ -189,7 +189,8 @@
         "deer",
         "dare",
         "hello"
-      ]
+      ],
+      "image": "words/dear.webp"
     },
     {
       "id": "greeting",
@@ -207,7 +208,8 @@
         "meeting",
         "gritting",
         "farewell"
-      ]
+      ],
+      "image": "words/greeting.webp"
     },
     {
       "id": "regards",
@@ -225,7 +227,8 @@
         "regard",
         "rewards",
         "records"
-      ]
+      ],
+      "image": "words/regards.webp"
     },
     {
       "id": "sincerely",
@@ -243,7 +246,8 @@
         "seriously",
         "severely",
         "sincere"
-      ]
+      ],
+      "image": "words/sincerely.webp"
     },
     {
       "id": "hope_you_are_well",
@@ -261,7 +265,8 @@
         "hope you are busy",
         "hope to see you",
         "how are you"
-      ]
+      ],
+      "image": "words/hope_you_are_well.webp"
     },
     {
       "id": "regarding",
@@ -279,7 +284,8 @@
         "rewarding",
         "recording",
         "during"
-      ]
+      ],
+      "image": "words/regarding.webp"
     },
     {
       "id": "as_per",
@@ -297,7 +303,8 @@
         "as if",
         "as for",
         "as usual"
-      ]
+      ],
+      "image": "words/as_per.webp"
     },
     {
       "id": "further_to",
@@ -315,7 +322,8 @@
         "farther to",
         "according to",
         "due to"
-      ]
+      ],
+      "image": "words/further_to.webp"
     },
     {
       "id": "please_find_attached",
@@ -333,7 +341,8 @@
         "please be attached",
         "please find enclosed",
         "please attach"
-      ]
+      ],
+      "image": "words/please_find_attached.webp"
     },
     {
       "id": "yours_faithfully",
@@ -351,7 +360,8 @@
         "yours sincerely",
         "yours truly",
         "faithfully yours"
-      ]
+      ],
+      "image": "words/yours_faithfully.webp"
     },
     {
       "id": "cc",
@@ -369,7 +379,8 @@
         "BCC",
         "CV",
         "DC"
-      ]
+      ],
+      "image": "words/cc.webp"
     },
     {
       "id": "bcc",
@@ -387,7 +398,8 @@
         "CC",
         "BBC",
         "ABC"
-      ]
+      ],
+      "image": "words/bcc.webp"
     },
     {
       "id": "recipient",
@@ -405,7 +417,8 @@
         "receipt",
         "receiver",
         "recipe"
-      ]
+      ],
+      "image": "words/recipient.webp"
     },
     {
       "id": "to_whom_it_may_concern",
@@ -423,7 +436,8 @@
         "to who it concerns",
         "to whom it must concern",
         "dear everyone"
-      ]
+      ],
+      "image": "words/to_whom_it_may_concern.webp"
     },
     {
       "id": "request",
@@ -441,7 +455,8 @@
         "require",
         "inquire",
         "acquire"
-      ]
+      ],
+      "image": "words/request.webp"
     },
     {
       "id": "would_you_mind",
@@ -459,7 +474,8 @@
         "would you like",
         "do you mind if",
         "would you rather"
-      ]
+      ],
+      "image": "words/would_you_mind.webp"
     },
     {
       "id": "kindly",
@@ -477,7 +493,8 @@
         "kindness",
         "kind of",
         "gently"
-      ]
+      ],
+      "image": "words/kindly.webp"
     },
     {
       "id": "at_your_earliest_convenience",
@@ -495,7 +512,8 @@
         "at your convenience store",
         "at your early convenience",
         "in your free time"
-      ]
+      ],
+      "image": "words/at_your_earliest_convenience.webp"
     },
     {
       "id": "reminder",
@@ -513,7 +531,8 @@
         "remainder",
         "remember",
         "memo"
-      ]
+      ],
+      "image": "words/reminder.webp"
     },
     {
       "id": "just_checking_in",
@@ -531,7 +550,8 @@
         "just checking out",
         "just checking up",
         "just kidding"
-      ]
+      ],
+      "image": "words/just_checking_in.webp"
     },
     {
       "id": "chase_up",
@@ -549,7 +569,8 @@
         "cheer up",
         "catch up",
         "chase away"
-      ]
+      ],
+      "image": "words/chase_up.webp"
     },
     {
       "id": "pending",
@@ -567,7 +588,8 @@
         "spending",
         "bending",
         "ending"
-      ]
+      ],
+      "image": "words/pending.webp"
     },
     {
       "id": "asap",
@@ -585,7 +607,8 @@
         "FYI",
         "ETA",
         "TBC"
-      ]
+      ],
+      "image": "words/asap.webp"
     },
     {
       "id": "beforehand",
@@ -603,7 +626,8 @@
         "before hand",
         "beforehands",
         "afterwards"
-      ]
+      ],
+      "image": "words/beforehand.webp"
     },
     {
       "id": "revert",
@@ -621,7 +645,8 @@
         "reverse",
         "convert",
         "divert"
-      ]
+      ],
+      "image": "words/revert.webp"
     },
     {
       "id": "acknowledge",
@@ -639,7 +664,8 @@
         "knowledge",
         "recognize",
         "announce"
-      ]
+      ],
+      "image": "words/acknowledge.webp"
     },
     {
       "id": "keep_me_posted",
@@ -657,7 +683,8 @@
         "keep me company",
         "keep me waiting",
         "keep in touch"
-      ]
+      ],
+      "image": "words/keep_me_posted.webp"
     },
     {
       "id": "approval",
@@ -675,7 +702,8 @@
         "approach",
         "proposal",
         "appraisal"
-      ]
+      ],
+      "image": "words/approval.webp"
     },
     {
       "id": "availability",
@@ -693,7 +721,8 @@
         "ability",
         "liability",
         "accessibility"
-      ]
+      ],
+      "image": "words/availability.webp"
     },
     {
       "id": "out_of_office",
@@ -711,7 +740,8 @@
         "out of order",
         "out of the office hours",
         "off duty"
-      ]
+      ],
+      "image": "words/out_of_office.webp"
     },
     {
       "id": "time_slot",
@@ -729,7 +759,8 @@
         "time zone",
         "time limit",
         "timetable"
-      ]
+      ],
+      "image": "words/time_slot.webp"
     },
     {
       "id": "reschedule",
@@ -747,7 +778,8 @@
         "schedule",
         "rescue",
         "reshuffle"
-      ]
+      ],
+      "image": "words/reschedule.webp"
     },
     {
       "id": "push_back",
@@ -765,7 +797,8 @@
         "put back",
         "push forward",
         "pull back"
-      ]
+      ],
+      "image": "words/push_back.webp"
     },
     {
       "id": "bring_forward",
@@ -783,7 +816,8 @@
         "bring up",
         "move forward",
         "bring along"
-      ]
+      ],
+      "image": "words/bring_forward.webp"
     },
     {
       "id": "calendar_invite",
@@ -801,7 +835,8 @@
         "calendar event",
         "calendar year",
         "invitation card"
-      ]
+      ],
+      "image": "words/calendar_invite.webp"
     },
     {
       "id": "clash",
@@ -819,7 +854,8 @@
         "crash",
         "clasp",
         "class"
-      ]
+      ],
+      "image": "words/clash.webp"
     },
     {
       "id": "tentative",
@@ -837,7 +873,8 @@
         "attentive",
         "tense",
         "temporary"
-      ]
+      ],
+      "image": "words/tentative.webp"
     },
     {
       "id": "time_zone",
@@ -855,7 +892,8 @@
         "time slot",
         "timeline",
         "time out"
-      ]
+      ],
+      "image": "words/time_zone.webp"
     },
     {
       "id": "does_that_work_for_you",
@@ -873,7 +911,8 @@
         "does that work",
         "do you work for",
         "what works for you"
-      ]
+      ],
+      "image": "words/does_that_work_for_you.webp"
     },
     {
       "id": "pencil_in",
@@ -891,7 +930,8 @@
         "pencil out",
         "fill in",
         "pen down"
-      ]
+      ],
+      "image": "words/pencil_in.webp"
     },
     {
       "id": "back_to_back",
@@ -909,7 +949,8 @@
         "face-to-face",
         "one-on-one",
         "day-to-day"
-      ]
+      ],
+      "image": "words/back_to_back.webp"
     },
     {
       "id": "recurring",
@@ -927,7 +968,8 @@
         "occurring",
         "returning",
         "recovering"
-      ]
+      ],
+      "image": "words/recurring.webp"
     },
     {
       "id": "facilitate",
@@ -945,7 +987,8 @@
         "fascinate",
         "facility",
         "participate"
-      ]
+      ],
+      "image": "words/facilitate.webp"
     },
     {
       "id": "kick_things_off",
@@ -963,7 +1006,8 @@
         "kick things out",
         "take things off",
         "kick back"
-      ]
+      ],
+      "image": "words/kick_things_off.webp"
     },
     {
       "id": "chairperson",
@@ -981,7 +1025,8 @@
         "chairman",
         "spokesperson",
         "salesperson"
-      ]
+      ],
+      "image": "words/chairperson.webp"
     },
     {
       "id": "attendee",
@@ -999,7 +1044,8 @@
         "attendance",
         "attention",
         "attender"
-      ]
+      ],
+      "image": "words/attendee.webp"
     },
     {
       "id": "sum_up",
@@ -1017,7 +1063,8 @@
         "some up",
         "add up",
         "sum of"
-      ]
+      ],
+      "image": "words/sum_up.webp"
     },
     {
       "id": "park",
@@ -1035,7 +1082,8 @@
         "pack",
         "spark",
         "perk"
-      ]
+      ],
+      "image": "words/park.webp"
     },
     {
       "id": "the_floor_is_yours",
@@ -1053,7 +1101,8 @@
         "the floor is wet",
         "the room is yours",
         "the stage is yours"
-      ]
+      ],
+      "image": "words/the_floor_is_yours.webp"
     },
     {
       "id": "interrupt",
@@ -1071,7 +1120,8 @@
         "interact",
         "intercept",
         "introduce"
-      ]
+      ],
+      "image": "words/interrupt.webp"
     },
     {
       "id": "on_track",
@@ -1089,7 +1139,8 @@
         "on time",
         "on trial",
         "off track"
-      ]
+      ],
+      "image": "words/on_track.webp"
     },
     {
       "id": "timekeeper",
@@ -1107,7 +1158,8 @@
         "timetable",
         "goalkeeper",
         "timer"
-      ]
+      ],
+      "image": "words/timekeeper.webp"
     },
     {
       "id": "any_other_business",
@@ -1125,7 +1177,8 @@
         "any other questions",
         "another business",
         "none of your business"
-      ]
+      ],
+      "image": "words/any_other_business.webp"
     },
     {
       "id": "adjourn",
@@ -1143,7 +1196,8 @@
         "adjust",
         "journey",
         "adorn"
-      ]
+      ],
+      "image": "words/adjourn.webp"
     },
     {
       "id": "ground_rules",
@@ -1161,7 +1215,8 @@
         "golden rules",
         "ground floor",
         "house rules"
-      ]
+      ],
+      "image": "words/ground_rules.webp"
     },
     {
       "id": "put_forward",
@@ -1179,7 +1234,8 @@
         "put off",
         "put up with",
         "push forward"
-      ]
+      ],
+      "image": "words/put_forward.webp"
     },
     {
       "id": "i_see_your_point",
@@ -1197,7 +1253,8 @@
         "I see you",
         "I get the point",
         "I take your point"
-      ]
+      ],
+      "image": "words/i_see_your_point.webp"
     },
     {
       "id": "with_all_due_respect",
@@ -1215,7 +1272,8 @@
         "with all my respect",
         "with due respect",
         "with great respect"
-      ]
+      ],
+      "image": "words/with_all_due_respect.webp"
     },
     {
       "id": "im_afraid",
@@ -1233,7 +1291,8 @@
         "I'm scared",
         "I'm sorry",
         "I'm worried"
-      ]
+      ],
+      "image": "words/im_afraid.webp"
     },
     {
       "id": "to_be_honest",
@@ -1251,7 +1310,8 @@
         "to be fair",
         "to be frank",
         "to be sure"
-      ]
+      ],
+      "image": "words/to_be_honest.webp"
     },
     {
       "id": "perspective",
@@ -1269,7 +1329,8 @@
         "prospective",
         "respective",
         "perceptive"
-      ]
+      ],
+      "image": "words/perspective.webp"
     },
     {
       "id": "suggest",
@@ -1287,7 +1348,8 @@
         "digest",
         "suggestion",
         "subject"
-      ]
+      ],
+      "image": "words/suggest.webp"
     },
     {
       "id": "concern",
@@ -1305,7 +1367,8 @@
         "concert",
         "consent",
         "content"
-      ]
+      ],
+      "image": "words/concern.webp"
     },
     {
       "id": "alternatively",
@@ -1323,7 +1386,8 @@
         "alternately",
         "actually",
         "eventually"
-      ]
+      ],
+      "image": "words/alternatively.webp"
     },
     {
       "id": "on_the_other_hand",
@@ -1341,7 +1405,8 @@
         "on the one hand",
         "on the other side",
         "by the way"
-      ]
+      ],
+      "image": "words/on_the_other_hand.webp"
     },
     {
       "id": "fair_enough",
@@ -1359,7 +1424,8 @@
         "good enough",
         "fair play",
         "far enough"
-      ]
+      ],
+      "image": "words/fair_enough.webp"
     },
     {
       "id": "to_some_extent",
@@ -1377,7 +1443,8 @@
         "to some extend",
         "to the extent",
         "to some degree"
-      ]
+      ],
+      "image": "words/to_some_extent.webp"
     },
     {
       "id": "correct_me_if_im_wrong",
@@ -1395,7 +1462,8 @@
         "correct me if you can",
         "tell me if I'm right",
         "correct me please"
-      ]
+      ],
+      "image": "words/correct_me_if_im_wrong.webp"
     },
     {
       "id": "constructive",
@@ -1413,7 +1481,8 @@
         "construction",
         "instructive",
         "destructive"
-      ]
+      ],
+      "image": "words/constructive.webp"
     },
     {
       "id": "agree_to_disagree",
@@ -1431,7 +1500,8 @@
         "agree to agree",
         "disagree to agree",
         "agree to differ"
-      ]
+      ],
+      "image": "words/agree_to_disagree.webp"
     },
     {
       "id": "video_call",
@@ -1449,7 +1519,8 @@
         "phone call",
         "video clip",
         "voice call"
-      ]
+      ],
+      "image": "words/video_call.webp"
     },
     {
       "id": "unmute",
@@ -1467,7 +1538,8 @@
         "mute",
         "unplug",
         "unlock"
-      ]
+      ],
+      "image": "words/unmute.webp"
     },
     {
       "id": "share_your_screen",
@@ -1485,7 +1557,8 @@
         "share your view",
         "show your screen",
         "shake your screen"
-      ]
+      ],
+      "image": "words/share_your_screen.webp"
     },
     {
       "id": "breakout_room",
@@ -1503,7 +1576,8 @@
         "break room",
         "meeting room",
         "waiting area"
-      ]
+      ],
+      "image": "words/breakout_room.webp"
     },
     {
       "id": "can_you_hear_me",
@@ -1521,7 +1595,8 @@
         "can you see me",
         "can you help me",
         "can you hear him"
-      ]
+      ],
+      "image": "words/can_you_hear_me.webp"
     },
     {
       "id": "youre_on_mute",
@@ -1539,7 +1614,8 @@
         "you're on hold",
         "you're muted out",
         "you're on air"
-      ]
+      ],
+      "image": "words/youre_on_mute.webp"
     },
     {
       "id": "meeting_link",
@@ -1557,7 +1633,8 @@
         "meeting room",
         "meeting line",
         "link building"
-      ]
+      ],
+      "image": "words/meeting_link.webp"
     },
     {
       "id": "dial_in",
@@ -1575,7 +1652,8 @@
         "dial up",
         "dive in",
         "drop in"
-      ]
+      ],
+      "image": "words/dial_in.webp"
     },
     {
       "id": "virtual_background",
@@ -1593,7 +1671,8 @@
         "virtual reality",
         "real background",
         "background check"
-      ]
+      ],
+      "image": "words/virtual_background.webp"
     },
     {
       "id": "record",
@@ -1611,7 +1690,8 @@
         "recall",
         "recorder",
         "report"
-      ]
+      ],
+      "image": "words/record.webp"
     },
     {
       "id": "echo",
@@ -1629,7 +1709,8 @@
         "eco",
         "ego",
         "noise"
-      ]
+      ],
+      "image": "words/echo.webp"
     },
     {
       "id": "cut_out",
@@ -1647,7 +1728,8 @@
         "cut off",
         "cut in",
         "drop out"
-      ]
+      ],
+      "image": "words/cut_out.webp"
     },
     {
       "id": "host",
@@ -1665,7 +1747,8 @@
         "ghost",
         "hostel",
         "guest"
-      ]
+      ],
+      "image": "words/host.webp"
     },
     {
       "id": "conference_call",
@@ -1683,7 +1766,8 @@
         "conference room",
         "cold call",
         "phone conference"
-      ]
+      ],
+      "image": "words/conference_call.webp"
     },
     {
       "id": "minutes",
@@ -1701,7 +1785,8 @@
         "minute",
         "notes",
         "memo"
-      ]
+      ],
+      "image": "words/minutes.webp"
     },
     {
       "id": "action_item",
@@ -1719,7 +1804,8 @@
         "agenda item",
         "action plan",
         "to-do"
-      ]
+      ],
+      "image": "words/action_item.webp"
     },
     {
       "id": "assign",
@@ -1737,7 +1823,8 @@
         "design",
         "resign",
         "sign"
-      ]
+      ],
+      "image": "words/assign.webp"
     },
     {
       "id": "in_charge",
@@ -1755,7 +1842,8 @@
         "in change",
         "in control",
         "in return"
-      ]
+      ],
+      "image": "words/in_charge.webp"
     },
     {
       "id": "next_steps",
@@ -1773,7 +1861,8 @@
         "next time",
         "first steps",
         "new steps"
-      ]
+      ],
+      "image": "words/next_steps.webp"
     },
     {
       "id": "circulate",
@@ -1791,7 +1880,8 @@
         "calculate",
         "circuit",
         "distribute"
-      ]
+      ],
+      "image": "words/circulate.webp"
     },
     {
       "id": "summary",
@@ -1809,7 +1899,8 @@
         "summer",
         "sum",
         "summons"
-      ]
+      ],
+      "image": "words/summary.webp"
     },
     {
       "id": "deliverable",
@@ -1827,7 +1918,8 @@
         "delivery",
         "deliverer",
         "deliberate"
-      ]
+      ],
+      "image": "words/deliverable.webp"
     },
     {
       "id": "milestone",
@@ -1845,7 +1937,8 @@
         "millstone",
         "milestone chart",
         "deadline"
-      ]
+      ],
+      "image": "words/milestone.webp"
     },
     {
       "id": "accountable",
@@ -1863,7 +1956,8 @@
         "accountant",
         "countable",
         "responsible"
-      ]
+      ],
+      "image": "words/accountable.webp"
     },
     {
       "id": "sign_off",
@@ -1881,7 +1975,8 @@
         "sign up",
         "sign in",
         "sign out"
-      ]
+      ],
+      "image": "words/sign_off.webp"
     },
     {
       "id": "status_update",
@@ -1899,7 +1994,8 @@
         "status quo",
         "software update",
         "progress bar"
-      ]
+      ],
+      "image": "words/status_update.webp"
     },
     {
       "id": "eod",
@@ -1917,7 +2013,8 @@
         "EOW",
         "ETA",
         "COD"
-      ]
+      ],
+      "image": "words/eod.webp"
     },
     {
       "id": "consensus",
@@ -1935,7 +2032,8 @@
         "census",
         "consent",
         "conclusion"
-      ]
+      ],
+      "image": "words/consensus.webp"
     }
   ]
 }

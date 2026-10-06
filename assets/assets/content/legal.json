@@ -189,7 +189,8 @@
         "partner",
         "part",
         "parity"
-      ]
+      ],
+      "image": "words/party.webp"
     },
     {
       "id": "clause",
@@ -207,7 +208,8 @@
         "claws",
         "cause",
         "close"
-      ]
+      ],
+      "image": "words/clause.webp"
     },
     {
       "id": "term",
@@ -225,7 +227,8 @@
         "turn",
         "team",
         "theme"
-      ]
+      ],
+      "image": "words/term.webp"
     },
     {
       "id": "terms_and_conditions",
@@ -243,7 +246,8 @@
         "privacy policy",
         "condition",
         "terms of use"
-      ]
+      ],
+      "image": "words/terms_and_conditions.webp"
     },
     {
       "id": "binding",
@@ -261,7 +265,8 @@
         "blinding",
         "bonding",
         "building"
-      ]
+      ],
+      "image": "words/binding.webp"
     },
     {
       "id": "valid",
@@ -279,7 +284,8 @@
         "value",
         "solid",
         "invalid"
-      ]
+      ],
+      "image": "words/valid.webp"
     },
     {
       "id": "void",
@@ -297,7 +303,8 @@
         "avoid",
         "valid",
         "voice"
-      ]
+      ],
+      "image": "words/void.webp"
     },
     {
       "id": "expire",
@@ -315,7 +322,8 @@
         "inspire",
         "expand",
         "empire"
-      ]
+      ],
+      "image": "words/expire.webp"
     },
     {
       "id": "renew",
@@ -333,7 +341,8 @@
         "review",
         "renovate",
         "remove"
-      ]
+      ],
+      "image": "words/renew.webp"
     },
     {
       "id": "amendment",
@@ -351,7 +360,8 @@
         "agreement",
         "amusement",
         "announcement"
-      ]
+      ],
+      "image": "words/amendment.webp"
     },
     {
       "id": "loophole",
@@ -369,7 +379,8 @@
         "loop",
         "pothole",
         "keyhole"
-      ]
+      ],
+      "image": "words/loophole.webp"
     },
     {
       "id": "effective_date",
@@ -387,7 +398,8 @@
         "due date",
         "expiry date",
         "effect"
-      ]
+      ],
+      "image": "words/effective_date.webp"
     },
     {
       "id": "scope",
@@ -405,7 +417,8 @@
         "scoop",
         "slope",
         "score"
-      ]
+      ],
+      "image": "words/scope.webp"
     },
     {
       "id": "in_writing",
@@ -423,7 +436,8 @@
         "in person",
         "in print",
         "handwriting"
-      ]
+      ],
+      "image": "words/in_writing.webp"
     },
     {
       "id": "right",
@@ -441,7 +455,8 @@
         "write",
         "rite",
         "light"
-      ]
+      ],
+      "image": "words/right.webp"
     },
     {
       "id": "obligation",
@@ -459,7 +474,8 @@
         "occupation",
         "operation",
         "obligatory"
-      ]
+      ],
+      "image": "words/obligation.webp"
     },
     {
       "id": "duty",
@@ -477,7 +493,8 @@
         "dusty",
         "deputy",
         "beauty"
-      ]
+      ],
+      "image": "words/duty.webp"
     },
     {
       "id": "liable",
@@ -495,7 +512,8 @@
         "reliable",
         "label",
         "likeable"
-      ]
+      ],
+      "image": "words/liable.webp"
     },
     {
       "id": "entitled",
@@ -513,7 +531,8 @@
         "titled",
         "entire",
         "entitle"
-      ]
+      ],
+      "image": "words/entitled.webp"
     },
     {
       "id": "comply",
@@ -531,7 +550,8 @@
         "complain",
         "compile",
         "complete"
-      ]
+      ],
+      "image": "words/comply.webp"
     },
     {
       "id": "violate",
@@ -549,7 +569,8 @@
         "violent",
         "violin",
         "isolate"
-      ]
+      ],
+      "image": "words/violate.webp"
     },
     {
       "id": "prohibit",
@@ -567,7 +588,8 @@
         "inhibit",
         "exhibit",
         "promote"
-      ]
+      ],
+      "image": "words/prohibit.webp"
     },
     {
       "id": "confidential",
@@ -585,7 +607,8 @@
         "confident",
         "conditional",
         "residential"
-      ]
+      ],
+      "image": "words/confidential.webp"
     },
     {
       "id": "non_disclosure_agreement",
@@ -603,7 +626,8 @@
         "agreement",
         "disclosure",
         "non-profit"
-      ]
+      ],
+      "image": "words/non_disclosure_agreement.webp"
     },
     {
       "id": "compensation",
@@ -621,7 +645,8 @@
         "competition",
         "conversation",
         "concentration"
-      ]
+      ],
+      "image": "words/compensation.webp"
     },
     {
       "id": "notice",
@@ -639,7 +664,8 @@
         "note",
         "notification",
         "novice"
-      ]
+      ],
+      "image": "words/notice.webp"
     },
     {
       "id": "waive",
@@ -657,7 +683,8 @@
         "wave",
         "waiver",
         "weave"
-      ]
+      ],
+      "image": "words/waive.webp"
     },
     {
       "id": "fulfill",
@@ -675,7 +702,8 @@
         "fill",
         "fulfilling",
         "full"
-      ]
+      ],
+      "image": "words/fulfill.webp"
     },
     {
       "id": "witness",
@@ -693,7 +721,8 @@
         "fitness",
         "wetness",
         "witty"
-      ]
+      ],
+      "image": "words/witness.webp"
     },
     {
       "id": "notary",
@@ -711,7 +740,8 @@
         "notable",
         "note",
         "secretary"
-      ]
+      ],
+      "image": "words/notary.webp"
     },
     {
       "id": "initial",
@@ -729,7 +759,8 @@
         "initiate",
         "install",
         "official"
-      ]
+      ],
+      "image": "words/initial.webp"
     },
     {
       "id": "seal",
@@ -747,7 +778,8 @@
         "sale",
         "steal",
         "stamp"
-      ]
+      ],
+      "image": "words/seal.webp"
     },
     {
       "id": "original",
@@ -765,7 +797,8 @@
         "copy",
         "origin",
         "originally"
-      ]
+      ],
+      "image": "words/original.webp"
     },
     {
       "id": "e_signature",
@@ -783,7 +816,8 @@
         "signature",
         "e-ticket",
         "sign"
-      ]
+      ],
+      "image": "words/e_signature.webp"
     },
     {
       "id": "power_of_attorney",
@@ -801,7 +835,8 @@
         "attorney",
         "power",
         "letter of intent"
-      ]
+      ],
+      "image": "words/power_of_attorney.webp"
     },
     {
       "id": "authorize",
@@ -819,7 +854,8 @@
         "author",
         "authority",
         "advertise"
-      ]
+      ],
+      "image": "words/authorize.webp"
     },
     {
       "id": "on_behalf_of",
@@ -837,7 +873,8 @@
         "in front of",
         "because of",
         "instead of"
-      ]
+      ],
+      "image": "words/on_behalf_of.webp"
     },
     {
       "id": "certified",
@@ -855,7 +892,8 @@
         "certificate",
         "satisfied",
         "verified"
-      ]
+      ],
+      "image": "words/certified.webp"
     },
     {
       "id": "signatory",
@@ -873,7 +911,8 @@
         "signature",
         "secretary",
         "signal"
-      ]
+      ],
+      "image": "words/signatory.webp"
     },
     {
       "id": "thumbprint",
@@ -891,7 +930,8 @@
         "fingerprint",
         "footprint",
         "thumbnail"
-      ]
+      ],
+      "image": "words/thumbprint.webp"
     },
     {
       "id": "stamp_duty",
@@ -909,7 +949,8 @@
         "stamp",
         "duty-free",
         "postage"
-      ]
+      ],
+      "image": "words/stamp_duty.webp"
     },
     {
       "id": "revoke",
@@ -927,7 +968,8 @@
         "evoke",
         "provoke",
         "remove"
-      ]
+      ],
+      "image": "words/revoke.webp"
     },
     {
       "id": "breach",
@@ -945,7 +987,8 @@
         "beach",
         "breath",
         "bleach"
-      ]
+      ],
+      "image": "words/breach.webp"
     },
     {
       "id": "dispute",
@@ -963,7 +1006,8 @@
         "despite",
         "disputed",
         "distribute"
-      ]
+      ],
+      "image": "words/dispute.webp"
     },
     {
       "id": "claim",
@@ -981,7 +1025,8 @@
         "clam",
         "climb",
         "clean"
-      ]
+      ],
+      "image": "words/claim.webp"
     },
     {
       "id": "damages",
@@ -999,7 +1044,8 @@
         "damage",
         "dangers",
         "damp"
-      ]
+      ],
+      "image": "words/damages.webp"
     },
     {
       "id": "sue",
@@ -1017,7 +1063,8 @@
         "sew",
         "soon",
         "see"
-      ]
+      ],
+      "image": "words/sue.webp"
     },
     {
       "id": "lawsuit",
@@ -1035,7 +1082,8 @@
         "suit",
         "law",
         "swimsuit"
-      ]
+      ],
+      "image": "words/lawsuit.webp"
     },
     {
       "id": "settle",
@@ -1053,7 +1101,8 @@
         "settle down",
         "subtle",
         "set"
-      ]
+      ],
+      "image": "words/settle.webp"
     },
     {
       "id": "settlement",
@@ -1071,7 +1120,8 @@
         "statement",
         "sentiment",
         "settle"
-      ]
+      ],
+      "image": "words/settlement.webp"
     },
     {
       "id": "mediation",
@@ -1089,7 +1139,8 @@
         "meditation",
         "medication",
         "media"
-      ]
+      ],
+      "image": "words/mediation.webp"
     },
     {
       "id": "arbitration",
@@ -1107,7 +1158,8 @@
         "mediation",
         "arbitrary",
         "administration"
-      ]
+      ],
+      "image": "words/arbitration.webp"
     },
     {
       "id": "terminate",
@@ -1125,7 +1177,8 @@
         "terminal",
         "determine",
         "terminator"
-      ]
+      ],
+      "image": "words/terminate.webp"
     },
     {
       "id": "negligence",
@@ -1143,7 +1196,8 @@
         "neglect",
         "intelligence",
         "elegance"
-      ]
+      ],
+      "image": "words/negligence.webp"
     },
     {
       "id": "complaint",
@@ -1161,7 +1215,8 @@
         "complain",
         "compliment",
         "complete"
-      ]
+      ],
+      "image": "words/complaint.webp"
     },
     {
       "id": "enforce",
@@ -1179,7 +1234,8 @@
         "force",
         "endorse",
         "reinforce"
-      ]
+      ],
+      "image": "words/enforce.webp"
     },
     {
       "id": "court",
@@ -1197,7 +1253,8 @@
         "caught",
         "cart",
         "coat"
-      ]
+      ],
+      "image": "words/court.webp"
     },
     {
       "id": "lawyer",
@@ -1215,7 +1272,8 @@
         "lawn",
         "layer",
         "liar"
-      ]
+      ],
+      "image": "words/lawyer.webp"
     },
     {
       "id": "judge",
@@ -1233,7 +1291,8 @@
         "jury",
         "jungle",
         "jug"
-      ]
+      ],
+      "image": "words/judge.webp"
     },
     {
       "id": "plaintiff",
@@ -1251,7 +1310,8 @@
         "defendant",
         "plain",
         "plaintive"
-      ]
+      ],
+      "image": "words/plaintiff.webp"
     },
     {
       "id": "defendant",
@@ -1269,7 +1329,8 @@
         "defender",
         "dependent",
         "plaintiff"
-      ]
+      ],
+      "image": "words/defendant.webp"
     },
     {
       "id": "evidence",
@@ -1287,7 +1348,8 @@
         "evident",
         "incident",
         "audience"
-      ]
+      ],
+      "image": "words/evidence.webp"
     },
     {
       "id": "testify",
@@ -1305,7 +1367,8 @@
         "testimony",
         "test",
         "justify"
-      ]
+      ],
+      "image": "words/testify.webp"
     },
     {
       "id": "verdict",
@@ -1323,7 +1386,8 @@
         "version",
         "predict",
         "verb"
-      ]
+      ],
+      "image": "words/verdict.webp"
     },
     {
       "id": "appeal",
@@ -1341,7 +1405,8 @@
         "apple",
         "appear",
         "applaud"
-      ]
+      ],
+      "image": "words/appeal.webp"
     },
     {
       "id": "trial",
@@ -1359,7 +1424,8 @@
         "trail",
         "tribal",
         "trial run"
-      ]
+      ],
+      "image": "words/trial.webp"
     },
     {
       "id": "prosecutor",
@@ -1377,7 +1443,8 @@
         "persecutor",
         "professor",
         "protector"
-      ]
+      ],
+      "image": "words/prosecutor.webp"
     },
     {
       "id": "guilty",
@@ -1395,7 +1462,8 @@
         "innocent",
         "guild",
         "gusty"
-      ]
+      ],
+      "image": "words/guilty.webp"
     },
     {
       "id": "bail",
@@ -1413,7 +1481,8 @@
         "bale",
         "bill",
         "jail"
-      ]
+      ],
+      "image": "words/bail.webp"
     },
     {
       "id": "case",
@@ -1431,7 +1500,8 @@
         "cause",
         "cash",
         "chase"
-      ]
+      ],
+      "image": "words/case.webp"
     },
     {
       "id": "intellectual_property",
@@ -1449,7 +1519,8 @@
         "intelligence",
         "property",
         "private property"
-      ]
+      ],
+      "image": "words/intellectual_property.webp"
     },
     {
       "id": "copyright",
@@ -1467,7 +1538,8 @@
         "copywriting",
         "copy",
         "right"
-      ]
+      ],
+      "image": "words/copyright.webp"
     },
     {
       "id": "trademark",
@@ -1485,7 +1557,8 @@
         "trade",
         "landmark",
         "bookmark"
-      ]
+      ],
+      "image": "words/trademark.webp"
     },
     {
       "id": "patent",
@@ -1503,7 +1576,8 @@
         "patient",
         "parent",
         "pattern"
-      ]
+      ],
+      "image": "words/patent.webp"
     },
     {
       "id": "license",
@@ -1521,7 +1595,8 @@
         "licence plate",
         "lice",
         "silence"
-      ]
+      ],
+      "image": "words/license.webp"
     },
     {
       "id": "infringement",
@@ -1539,7 +1614,8 @@
         "fringe",
         "investment",
         "improvement"
-      ]
+      ],
+      "image": "words/infringement.webp"
     },
     {
       "id": "invention",
@@ -1557,7 +1633,8 @@
         "innovation",
         "invitation",
         "intention"
-      ]
+      ],
+      "image": "words/invention.webp"
     },
     {
       "id": "royalty",
@@ -1575,7 +1652,8 @@
         "loyalty",
         "royal",
         "reality"
-      ]
+      ],
+      "image": "words/royalty.webp"
     },
     {
       "id": "fair_use",
@@ -1593,7 +1671,8 @@
         "fair play",
         "free use",
         "fare"
-      ]
+      ],
+      "image": "words/fair_use.webp"
     },
     {
       "id": "piracy",
@@ -1611,7 +1690,8 @@
         "privacy",
         "pirate",
         "primacy"
-      ]
+      ],
+      "image": "words/piracy.webp"
     },
     {
       "id": "trade_secret",
@@ -1629,7 +1709,8 @@
         "secret",
         "trademark",
         "top secret"
-      ]
+      ],
+      "image": "words/trade_secret.webp"
     },
     {
       "id": "public_domain",
@@ -1647,7 +1728,8 @@
         "domain name",
         "public",
         "private domain"
-      ]
+      ],
+      "image": "words/public_domain.webp"
     },
     {
       "id": "exclusive",
@@ -1665,7 +1747,8 @@
         "excessive",
         "expensive",
         "inclusive"
-      ]
+      ],
+      "image": "words/exclusive.webp"
     },
     {
       "id": "logo",
@@ -1683,7 +1766,8 @@
         "lego",
         "slogan",
         "logic"
-      ]
+      ],
+      "image": "words/logo.webp"
     },
     {
       "id": "fine",
@@ -1701,7 +1785,8 @@
         "fee",
         "find",
         "fin"
-      ]
+      ],
+      "image": "words/fine.webp"
     },
     {
       "id": "permit",
@@ -1719,7 +1804,8 @@
         "permission",
         "permanent",
         "hermit"
-      ]
+      ],
+      "image": "words/permit.webp"
     },
     {
       "id": "consent",
@@ -1737,7 +1823,8 @@
         "content",
         "concert",
         "consult"
-      ]
+      ],
+      "image": "words/consent.webp"
     },
     {
       "id": "illegal",
@@ -1755,7 +1842,8 @@
         "legal",
         "illogical",
         "eagle"
-      ]
+      ],
+      "image": "words/illegal.webp"
     },
     {
       "id": "legal",
@@ -1773,7 +1861,8 @@
         "illegal",
         "loyal",
         "regal"
-      ]
+      ],
+      "image": "words/legal.webp"
     },
     {
       "id": "law",
@@ -1791,7 +1880,8 @@
         "low",
         "lawn",
         "raw"
-      ]
+      ],
+      "image": "words/law.webp"
     },
     {
       "id": "regulation",
@@ -1809,7 +1899,8 @@
         "relation",
         "revolution",
         "regular"
-      ]
+      ],
+      "image": "words/regulation.webp"
     },
     {
       "id": "ban",
@@ -1827,7 +1918,8 @@
         "bank",
         "bun",
         "band"
-      ]
+      ],
+      "image": "words/ban.webp"
     },
     {
       "id": "trespass",
@@ -1845,7 +1937,8 @@
         "trip",
         "pass",
         "surpass"
-      ]
+      ],
+      "image": "words/trespass.webp"
     },
     {
       "id": "defamation",
@@ -1863,7 +1956,8 @@
         "deformation",
         "definition",
         "fame"
-      ]
+      ],
+      "image": "words/defamation.webp"
     },
     {
       "id": "eviction",
@@ -1881,7 +1975,8 @@
         "evacuation",
         "addiction",
         "election"
-      ]
+      ],
+      "image": "words/eviction.webp"
     },
     {
       "id": "will",
@@ -1899,7 +1994,8 @@
         "well",
         "wheel",
         "wish"
-      ]
+      ],
+      "image": "words/will.webp"
     },
     {
       "id": "inheritance",
@@ -1917,7 +2013,8 @@
         "heritage",
         "insurance",
         "interference"
-      ]
+      ],
+      "image": "words/inheritance.webp"
     },
     {
       "id": "custody",
@@ -1935,7 +2032,8 @@
         "customer",
         "custom",
         "casualty"
-      ]
+      ],
+      "image": "words/custody.webp"
     }
   ]
 }

@@ -189,7 +189,8 @@
         "software",
         "hardworking",
         "warehouse"
-      ]
+      ],
+      "image": "words/hardware.webp"
     },
     {
       "id": "device",
@@ -207,7 +208,8 @@
         "devise",
         "advice",
         "divide"
-      ]
+      ],
+      "image": "words/device.webp"
     },
     {
       "id": "network",
@@ -225,7 +227,8 @@
         "internet",
         "homework",
         "notebook"
-      ]
+      ],
+      "image": "words/network.webp"
     },
     {
       "id": "router",
@@ -243,7 +246,8 @@
         "route",
         "modem",
         "rooster"
-      ]
+      ],
+      "image": "words/router.webp"
     },
     {
       "id": "modem",
@@ -261,7 +265,8 @@
         "modern",
         "model",
         "module"
-      ]
+      ],
+      "image": "words/modem.webp"
     },
     {
       "id": "cable",
@@ -279,7 +284,8 @@
         "table",
         "cord",
         "label"
-      ]
+      ],
+      "image": "words/cable.webp"
     },
     {
       "id": "port",
@@ -297,7 +303,8 @@
         "plug",
         "post",
         "part"
-      ]
+      ],
+      "image": "words/port.webp"
     },
     {
       "id": "bandwidth",
@@ -315,7 +322,8 @@
         "bandage",
         "broadband",
         "width"
-      ]
+      ],
+      "image": "words/bandwidth.webp"
     },
     {
       "id": "hotspot",
@@ -333,7 +341,8 @@
         "hot spring",
         "spotlight",
         "hot sauce"
-      ]
+      ],
+      "image": "words/hotspot.webp"
     },
     {
       "id": "bluetooth",
@@ -351,7 +360,8 @@
         "blueprint",
         "toothbrush",
         "wireless"
-      ]
+      ],
+      "image": "words/bluetooth.webp"
     },
     {
       "id": "usb",
@@ -369,7 +379,8 @@
         "SIM card",
         "SD card",
         "CPU"
-      ]
+      ],
+      "image": "words/usb.webp"
     },
     {
       "id": "hard_drive",
@@ -387,7 +398,8 @@
         "hard disk",
         "drive-through",
         "hardware"
-      ]
+      ],
+      "image": "words/hard_drive.webp"
     },
     {
       "id": "processor",
@@ -405,7 +417,8 @@
         "professor",
         "process",
         "producer"
-      ]
+      ],
+      "image": "words/processor.webp"
     },
     {
       "id": "ethernet",
@@ -423,7 +436,8 @@
         "internet",
         "intranet",
         "Wi-Fi"
-      ]
+      ],
+      "image": "words/ethernet.webp"
     },
     {
       "id": "software",
@@ -441,7 +455,8 @@
         "hardware",
         "firmware",
         "sportswear"
-      ]
+      ],
+      "image": "words/software.webp"
     },
     {
       "id": "app",
@@ -459,7 +474,8 @@
         "apple",
         "ad",
         "apt"
-      ]
+      ],
+      "image": "words/app.webp"
     },
     {
       "id": "operating_system",
@@ -477,7 +493,8 @@
         "operation",
         "solar system",
         "operator"
-      ]
+      ],
+      "image": "words/operating_system.webp"
     },
     {
       "id": "interface",
@@ -495,7 +512,8 @@
         "surface",
         "interview",
         "interact"
-      ]
+      ],
+      "image": "words/interface.webp"
     },
     {
       "id": "version",
@@ -513,7 +531,8 @@
         "vision",
         "virgin",
         "diversion"
-      ]
+      ],
+      "image": "words/version.webp"
     },
     {
       "id": "feature",
@@ -531,7 +550,8 @@
         "future",
         "fixture",
         "figure"
-      ]
+      ],
+      "image": "words/feature.webp"
     },
     {
       "id": "compatible",
@@ -549,7 +569,8 @@
         "comparable",
         "competitive",
         "compact"
-      ]
+      ],
+      "image": "words/compatible.webp"
     },
     {
       "id": "default",
@@ -567,7 +588,8 @@
         "defect",
         "difficult",
         "fault"
-      ]
+      ],
+      "image": "words/default.webp"
     },
     {
       "id": "plugin",
@@ -585,7 +607,8 @@
         "plug in",
         "login",
         "pin"
-      ]
+      ],
+      "image": "words/plugin.webp"
     },
     {
       "id": "sync",
@@ -603,7 +626,8 @@
         "sink",
         "sing",
         "link"
-      ]
+      ],
+      "image": "words/sync.webp"
     },
     {
       "id": "permission",
@@ -621,7 +645,8 @@
         "permit",
         "commission",
         "admission"
-      ]
+      ],
+      "image": "words/permission.webp"
     },
     {
       "id": "open_source",
@@ -639,7 +664,8 @@
         "outsource",
         "resource",
         "open space"
-      ]
+      ],
+      "image": "words/open_source.webp"
     },
     {
       "id": "upgrade",
@@ -657,7 +683,8 @@
         "update",
         "degrade",
         "upload"
-      ]
+      ],
+      "image": "words/upgrade.webp"
     },
     {
       "id": "user_friendly",
@@ -675,7 +702,8 @@
         "friendly",
         "useful",
         "easygoing"
-      ]
+      ],
+      "image": "words/user_friendly.webp"
     },
     {
       "id": "code",
@@ -693,7 +721,8 @@
         "cord",
         "coat",
         "node"
-      ]
+      ],
+      "image": "words/code.webp"
     },
     {
       "id": "bug",
@@ -711,7 +740,8 @@
         "bag",
         "bulb",
         "bat"
-      ]
+      ],
+      "image": "words/bug.webp"
     },
     {
       "id": "debug",
@@ -729,7 +759,8 @@
         "debut",
         "deduct",
         "decode"
-      ]
+      ],
+      "image": "words/debug.webp"
     },
     {
       "id": "deploy",
@@ -747,7 +778,8 @@
         "employ",
         "display",
         "destroy"
-      ]
+      ],
+      "image": "words/deploy.webp"
     },
     {
       "id": "developer",
@@ -765,7 +797,8 @@
         "designer",
         "deliverer",
         "development"
-      ]
+      ],
+      "image": "words/developer.webp"
     },
     {
       "id": "variable",
@@ -783,7 +816,8 @@
         "valuable",
         "various",
         "vegetable"
-      ]
+      ],
+      "image": "words/variable.webp"
     },
     {
       "id": "function",
@@ -801,7 +835,8 @@
         "fraction",
         "junction",
         "fiction"
-      ]
+      ],
+      "image": "words/function.webp"
     },
     {
       "id": "loop",
@@ -819,7 +854,8 @@
         "loose",
         "hoop",
         "pool"
-      ]
+      ],
+      "image": "words/loop.webp"
     },
     {
       "id": "syntax",
@@ -837,7 +873,8 @@
         "syntax error",
         "tax",
         "symptom"
-      ]
+      ],
+      "image": "words/syntax.webp"
     },
     {
       "id": "compile",
@@ -855,7 +892,8 @@
         "complete",
         "compare",
         "comply"
-      ]
+      ],
+      "image": "words/compile.webp"
     },
     {
       "id": "command",
@@ -873,7 +911,8 @@
         "comment",
         "commend",
         "common"
-      ]
+      ],
+      "image": "words/command.webp"
     },
     {
       "id": "framework",
@@ -891,7 +930,8 @@
         "homework",
         "firmware",
         "network"
-      ]
+      ],
+      "image": "words/framework.webp"
     },
     {
       "id": "repository",
@@ -909,7 +949,8 @@
         "repertoire",
         "depository",
         "directory"
-      ]
+      ],
+      "image": "words/repository.webp"
     },
     {
       "id": "front_end",
@@ -927,7 +968,8 @@
         "back end",
         "front desk",
         "front row"
-      ]
+      ],
+      "image": "words/front_end.webp"
     },
     {
       "id": "database",
@@ -945,7 +987,8 @@
         "data",
         "dataset",
         "base"
-      ]
+      ],
+      "image": "words/database.webp"
     },
     {
       "id": "cloud",
@@ -963,7 +1006,8 @@
         "crowd",
         "cloudy",
         "clown"
-      ]
+      ],
+      "image": "words/cloud.webp"
     },
     {
       "id": "backup",
@@ -981,7 +1025,8 @@
         "back up",
         "backpack",
         "backlog"
-      ]
+      ],
+      "image": "words/backup.webp"
     },
     {
       "id": "data_center",
@@ -999,7 +1044,8 @@
         "call center",
         "shopping center",
         "database"
-      ]
+      ],
+      "image": "words/data_center.webp"
     },
     {
       "id": "spreadsheet",
@@ -1017,7 +1063,8 @@
         "bedsheet",
         "worksheet",
         "spread"
-      ]
+      ],
+      "image": "words/spreadsheet.webp"
     },
     {
       "id": "dashboard",
@@ -1035,7 +1082,8 @@
         "whiteboard",
         "keyboard",
         "billboard"
-      ]
+      ],
+      "image": "words/dashboard.webp"
     },
     {
       "id": "analytics",
@@ -1053,7 +1101,8 @@
         "analysis",
         "athletics",
         "analyst"
-      ]
+      ],
+      "image": "words/analytics.webp"
     },
     {
       "id": "storage",
@@ -1071,7 +1120,8 @@
         "store",
         "stage",
         "shortage"
-      ]
+      ],
+      "image": "words/storage.webp"
     },
     {
       "id": "api",
@@ -1089,7 +1139,8 @@
         "app",
         "UI",
         "URL"
-      ]
+      ],
+      "image": "words/api.webp"
     },
     {
       "id": "query",
@@ -1107,7 +1158,8 @@
         "quarry",
         "queue",
         "question"
-      ]
+      ],
+      "image": "words/query.webp"
     },
     {
       "id": "big_data",
@@ -1125,7 +1177,8 @@
         "database",
         "metadata",
         "big deal"
-      ]
+      ],
+      "image": "words/big_data.webp"
     },
     {
       "id": "cache",
@@ -1143,7 +1196,8 @@
         "cash",
         "catch",
         "cachet"
-      ]
+      ],
+      "image": "words/cache.webp"
     },
     {
       "id": "real_time",
@@ -1161,7 +1215,8 @@
         "full-time",
         "on time",
         "realistic"
-      ]
+      ],
+      "image": "words/real_time.webp"
     },
     {
       "id": "archive",
@@ -1179,7 +1234,8 @@
         "achieve",
         "arrive",
         "active"
-      ]
+      ],
+      "image": "words/archive.webp"
     },
     {
       "id": "cybersecurity",
@@ -1197,7 +1253,8 @@
         "cybercrime",
         "security guard",
         "cyberspace"
-      ]
+      ],
+      "image": "words/cybersecurity.webp"
     },
     {
       "id": "hacker",
@@ -1215,7 +1272,8 @@
         "hawker",
         "hiker",
         "cracker"
-      ]
+      ],
+      "image": "words/hacker.webp"
     },
     {
       "id": "malware",
@@ -1233,7 +1291,8 @@
         "software",
         "mall",
         "firmware"
-      ]
+      ],
+      "image": "words/malware.webp"
     },
     {
       "id": "virus",
@@ -1251,7 +1310,8 @@
         "virtual",
         "versus",
         "various"
-      ]
+      ],
+      "image": "words/virus.webp"
     },
     {
       "id": "firewall",
@@ -1269,7 +1329,8 @@
         "fireworks",
         "wall",
         "firefighter"
-      ]
+      ],
+      "image": "words/firewall.webp"
     },
     {
       "id": "encrypt",
@@ -1287,7 +1348,8 @@
         "decrypt",
         "script",
         "encourage"
-      ]
+      ],
+      "image": "words/encrypt.webp"
     },
     {
       "id": "data_breach",
@@ -1305,7 +1367,8 @@
         "data leak",
         "beach",
         "breath"
-      ]
+      ],
+      "image": "words/data_breach.webp"
     },
     {
       "id": "authentication",
@@ -1323,7 +1386,8 @@
         "authorization",
         "authority",
         "automation"
-      ]
+      ],
+      "image": "words/authentication.webp"
     },
     {
       "id": "ransomware",
@@ -1341,7 +1405,8 @@
         "ransom",
         "spyware",
         "random"
-      ]
+      ],
+      "image": "words/ransomware.webp"
     },
     {
       "id": "patch",
@@ -1359,7 +1424,8 @@
         "match",
         "pitch",
         "batch"
-      ]
+      ],
+      "image": "words/patch.webp"
     },
     {
       "id": "vulnerability",
@@ -1377,7 +1443,8 @@
         "visibility",
         "ability",
         "liability"
-      ]
+      ],
+      "image": "words/vulnerability.webp"
     },
     {
       "id": "antivirus",
@@ -1395,7 +1462,8 @@
         "antibiotic",
         "antique",
         "virus"
-      ]
+      ],
+      "image": "words/antivirus.webp"
     },
     {
       "id": "vpn",
@@ -1413,7 +1481,8 @@
         "VIP",
         "PIN",
         "Wi-Fi"
-      ]
+      ],
+      "image": "words/vpn.webp"
     },
     {
       "id": "access",
@@ -1431,7 +1500,8 @@
         "excess",
         "assess",
         "success"
-      ]
+      ],
+      "image": "words/access.webp"
     },
     {
       "id": "artificial_intelligence",
@@ -1449,7 +1519,8 @@
         "artificial flowers",
         "official",
         "intelligent"
-      ]
+      ],
+      "image": "words/artificial_intelligence.webp"
     },
     {
       "id": "chatbot",
@@ -1467,7 +1538,8 @@
         "chat room",
         "robot",
         "group chat"
-      ]
+      ],
+      "image": "words/chatbot.webp"
     },
     {
       "id": "machine_learning",
@@ -1485,7 +1557,8 @@
         "deep learning",
         "washing machine",
         "e-learning"
-      ]
+      ],
+      "image": "words/machine_learning.webp"
     },
     {
       "id": "prompt",
@@ -1503,7 +1576,8 @@
         "promote",
         "prompt reply",
         "print"
-      ]
+      ],
+      "image": "words/prompt.webp"
     },
     {
       "id": "automation",
@@ -1521,7 +1595,8 @@
         "automatic",
         "animation",
         "autumn"
-      ]
+      ],
+      "image": "words/automation.webp"
     },
     {
       "id": "automate",
@@ -1539,7 +1614,8 @@
         "animate",
         "estimate",
         "activate"
-      ]
+      ],
+      "image": "words/automate.webp"
     },
     {
       "id": "generate",
@@ -1557,7 +1633,8 @@
         "generation",
         "generous",
         "generic"
-      ]
+      ],
+      "image": "words/generate.webp"
     },
     {
       "id": "bot",
@@ -1575,7 +1652,8 @@
         "boat",
         "bat",
         "robot"
-      ]
+      ],
+      "image": "words/bot.webp"
     },
     {
       "id": "workflow",
@@ -1593,7 +1671,8 @@
         "workload",
         "workshop",
         "overflow"
-      ]
+      ],
+      "image": "words/workflow.webp"
     },
     {
       "id": "dataset",
@@ -1611,7 +1690,8 @@
         "database",
         "data center",
         "headset"
-      ]
+      ],
+      "image": "words/dataset.webp"
     },
     {
       "id": "predict",
@@ -1629,7 +1709,8 @@
         "protect",
         "prefer",
         "pretend"
-      ]
+      ],
+      "image": "words/predict.webp"
     },
     {
       "id": "deepfake",
@@ -1647,7 +1728,8 @@
         "fake news",
         "deep learning",
         "face swap"
-      ]
+      ],
+      "image": "words/deepfake.webp"
     },
     {
       "id": "accuracy",
@@ -1665,7 +1747,8 @@
         "accurate",
         "currency",
         "privacy"
-      ]
+      ],
+      "image": "words/accuracy.webp"
     },
     {
       "id": "voice_assistant",
@@ -1683,7 +1766,8 @@
         "personal assistant",
         "voice message",
         "voice-over"
-      ]
+      ],
+      "image": "words/voice_assistant.webp"
     },
     {
       "id": "troubleshoot",
@@ -1701,7 +1785,8 @@
         "trouble",
         "shoot",
         "troublemaker"
-      ]
+      ],
+      "image": "words/troubleshoot.webp"
     },
     {
       "id": "crash",
@@ -1719,7 +1804,8 @@
         "crush",
         "clash",
         "cash"
-      ]
+      ],
+      "image": "words/crash.webp"
     },
     {
       "id": "freeze",
@@ -1737,7 +1823,8 @@
         "fridge",
         "breeze",
         "free"
-      ]
+      ],
+      "image": "words/freeze.webp"
     },
     {
       "id": "reboot",
@@ -1755,7 +1842,8 @@
         "boot",
         "reload",
         "rebuild"
-      ]
+      ],
+      "image": "words/reboot.webp"
     },
     {
       "id": "glitch",
@@ -1773,7 +1861,8 @@
         "switch",
         "glimpse",
         "hitch"
-      ]
+      ],
+      "image": "words/glitch.webp"
     },
     {
       "id": "factory_reset",
@@ -1791,7 +1880,8 @@
         "restart",
         "factory outlet",
         "hard reset"
-      ]
+      ],
+      "image": "words/factory_reset.webp"
     },
     {
       "id": "error",
@@ -1809,7 +1899,8 @@
         "mirror",
         "terror",
         "arrow"
-      ]
+      ],
+      "image": "words/error.webp"
     },
     {
       "id": "help_desk",
@@ -1827,7 +1918,8 @@
         "front desk",
         "hot desk",
         "help center"
-      ]
+      ],
+      "image": "words/help_desk.webp"
     },
     {
       "id": "reset",
@@ -1845,7 +1937,8 @@
         "restart",
         "resit",
         "reseat"
-      ]
+      ],
+      "image": "words/reset.webp"
     },
     {
       "id": "technician",
@@ -1863,7 +1956,8 @@
         "technical",
         "technique",
         "engineer"
-      ]
+      ],
+      "image": "words/technician.webp"
     },
     {
       "id": "downtime",
@@ -1881,7 +1975,8 @@
         "deadline",
         "overtime",
         "downturn"
-      ]
+      ],
+      "image": "words/downtime.webp"
     },
     {
       "id": "workaround",
@@ -1899,7 +1994,8 @@
         "work around",
         "workout",
         "turnaround"
-      ]
+      ],
+      "image": "words/workaround.webp"
     },
     {
       "id": "overheat",
@@ -1917,7 +2013,8 @@
         "overeat",
         "heater",
         "overhead"
-      ]
+      ],
+      "image": "words/overheat.webp"
     },
     {
       "id": "corrupted",
@@ -1935,7 +2032,8 @@
         "corrupt",
         "interrupted",
         "crowded"
-      ]
+      ],
+      "image": "words/corrupted.webp"
     }
   ]
 }

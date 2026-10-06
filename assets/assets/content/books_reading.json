@@ -189,7 +189,8 @@
         "science fiction",
         "friction",
         "non-stop"
-      ]
+      ],
+      "image": "words/non_fiction.webp"
     },
     {
       "id": "biography",
@@ -207,7 +208,8 @@
         "geography",
         "biology",
         "bibliography"
-      ]
+      ],
+      "image": "words/biography.webp"
     },
     {
       "id": "memoir",
@@ -225,7 +227,8 @@
         "memory",
         "memo",
         "mirror"
-      ]
+      ],
+      "image": "words/memoir.webp"
     },
     {
       "id": "poetry",
@@ -243,7 +246,8 @@
         "pottery",
         "poultry",
         "poverty"
-      ]
+      ],
+      "image": "words/poetry.webp"
     },
     {
       "id": "short_story",
@@ -261,7 +265,8 @@
         "short film",
         "long story",
         "short cut"
-      ]
+      ],
+      "image": "words/short_story.webp"
     },
     {
       "id": "comic",
@@ -279,7 +284,8 @@
         "cosmic",
         "comet",
         "cartoon"
-      ]
+      ],
+      "image": "words/comic.webp"
     },
     {
       "id": "manga",
@@ -297,7 +303,8 @@
         "mango",
         "mantra",
         "anime"
-      ]
+      ],
+      "image": "words/manga.webp"
     },
     {
       "id": "self_help",
@@ -315,7 +322,8 @@
         "self-care",
         "selfish",
         "self-service"
-      ]
+      ],
+      "image": "words/self_help.webp"
     },
     {
       "id": "fairy_tale",
@@ -333,7 +341,8 @@
         "fairy light",
         "folk song",
         "tail"
-      ]
+      ],
+      "image": "words/fairy_tale.webp"
     },
     {
       "id": "classic",
@@ -351,7 +360,8 @@
         "classical",
         "classify",
         "clinic"
-      ]
+      ],
+      "image": "words/classic.webp"
     },
     {
       "id": "bestseller",
@@ -369,7 +379,8 @@
         "best friend",
         "seller",
         "best man"
-      ]
+      ],
+      "image": "words/bestseller.webp"
     },
     {
       "id": "e_book",
@@ -387,7 +398,8 @@
         "notebook",
         "e-mail",
         "webpage"
-      ]
+      ],
+      "image": "words/e_book.webp"
     },
     {
       "id": "audiobook",
@@ -405,7 +417,8 @@
         "audio guide",
         "podcast",
         "radio"
-      ]
+      ],
+      "image": "words/audiobook.webp"
     },
     {
       "id": "picture_book",
@@ -423,7 +436,8 @@
         "textbook",
         "photo album",
         "picture frame"
-      ]
+      ],
+      "image": "words/picture_book.webp"
     },
     {
       "id": "cover",
@@ -441,7 +455,8 @@
         "cave",
         "clover",
         "copper"
-      ]
+      ],
+      "image": "words/cover.webp"
     },
     {
       "id": "page",
@@ -459,7 +474,8 @@
         "pace",
         "cage",
         "wage"
-      ]
+      ],
+      "image": "words/page.webp"
     },
     {
       "id": "table_of_contents",
@@ -477,7 +493,8 @@
         "table of numbers",
         "contents page",
         "timetable"
-      ]
+      ],
+      "image": "words/table_of_contents.webp"
     },
     {
       "id": "preface",
@@ -495,7 +512,8 @@
         "surface",
         "prefix",
         "preview"
-      ]
+      ],
+      "image": "words/preface.webp"
     },
     {
       "id": "prologue",
@@ -513,7 +531,8 @@
         "epilogue",
         "catalogue",
         "program"
-      ]
+      ],
+      "image": "words/prologue.webp"
     },
     {
       "id": "blurb",
@@ -531,7 +550,8 @@
         "blur",
         "bulb",
         "blog"
-      ]
+      ],
+      "image": "words/blurb.webp"
     },
     {
       "id": "spine",
@@ -549,7 +569,8 @@
         "spin",
         "spike",
         "spice"
-      ]
+      ],
+      "image": "words/spine.webp"
     },
     {
       "id": "hardcover",
@@ -567,7 +588,8 @@
         "hard drive",
         "hardware",
         "softcover"
-      ]
+      ],
+      "image": "words/hardcover.webp"
     },
     {
       "id": "paperback",
@@ -585,7 +607,8 @@
         "paperwork",
         "backpack",
         "paper bag"
-      ]
+      ],
+      "image": "words/paperback.webp"
     },
     {
       "id": "illustration",
@@ -603,7 +626,8 @@
         "frustration",
         "installation",
         "illusion"
-      ]
+      ],
+      "image": "words/illustration.webp"
     },
     {
       "id": "footnote",
@@ -621,7 +645,8 @@
         "footprint",
         "headnote",
         "footpath"
-      ]
+      ],
+      "image": "words/footnote.webp"
     },
     {
       "id": "glossary",
@@ -639,7 +664,8 @@
         "grocery",
         "glossy",
         "gallery"
-      ]
+      ],
+      "image": "words/glossary.webp"
     },
     {
       "id": "edition",
@@ -657,7 +683,8 @@
         "addition",
         "audition",
         "editor"
-      ]
+      ],
+      "image": "words/edition.webp"
     },
     {
       "id": "epilogue",
@@ -675,7 +702,8 @@
         "prologue",
         "episode",
         "epic"
-      ]
+      ],
+      "image": "words/epilogue.webp"
     },
     {
       "id": "protagonist",
@@ -693,7 +721,8 @@
         "antagonist",
         "pragmatist",
         "protein"
-      ]
+      ],
+      "image": "words/protagonist.webp"
     },
     {
       "id": "antagonist",
@@ -711,7 +740,8 @@
         "protagonist",
         "antique",
         "analyst"
-      ]
+      ],
+      "image": "words/antagonist.webp"
     },
     {
       "id": "setting",
@@ -729,7 +759,8 @@
         "sitting",
         "seating",
         "settle"
-      ]
+      ],
+      "image": "words/setting.webp"
     },
     {
       "id": "climax",
@@ -747,7 +778,8 @@
         "climate",
         "climb",
         "maximum"
-      ]
+      ],
+      "image": "words/climax.webp"
     },
     {
       "id": "ending",
@@ -765,7 +797,8 @@
         "sending",
         "lending",
         "endless"
-      ]
+      ],
+      "image": "words/ending.webp"
     },
     {
       "id": "flashback",
@@ -783,7 +816,8 @@
         "feedback",
         "flashlight",
         "playback"
-      ]
+      ],
+      "image": "words/flashback.webp"
     },
     {
       "id": "sidekick",
@@ -801,7 +835,8 @@
         "side dish",
         "side effect",
         "kickoff"
-      ]
+      ],
+      "image": "words/sidekick.webp"
     },
     {
       "id": "point_of_view",
@@ -819,7 +854,8 @@
         "point of sale",
         "field of view",
         "out of view"
-      ]
+      ],
+      "image": "words/point_of_view.webp"
     },
     {
       "id": "dialogue",
@@ -837,7 +873,8 @@
         "diagram",
         "monologue",
         "dial"
-      ]
+      ],
+      "image": "words/dialogue.webp"
     },
     {
       "id": "backstory",
@@ -855,7 +892,8 @@
         "background",
         "bedtime story",
         "back cover"
-      ]
+      ],
+      "image": "words/backstory.webp"
     },
     {
       "id": "subplot",
@@ -873,7 +911,8 @@
         "subtitle",
         "subway",
         "plot hole"
-      ]
+      ],
+      "image": "words/subplot.webp"
     },
     {
       "id": "twist",
@@ -891,7 +930,8 @@
         "twin",
         "twig",
         "wrist"
-      ]
+      ],
+      "image": "words/twist.webp"
     },
     {
       "id": "foreshadowing",
@@ -909,7 +949,8 @@
         "forecasting",
         "foreshore",
         "shadowing"
-      ]
+      ],
+      "image": "words/foreshadowing.webp"
     },
     {
       "id": "love_interest",
@@ -927,7 +968,8 @@
         "love letter",
         "interest rate",
         "love story"
-      ]
+      ],
+      "image": "words/love_interest.webp"
     },
     {
       "id": "bookshop",
@@ -945,7 +987,8 @@
         "bookcase",
         "workshop",
         "book club"
-      ]
+      ],
+      "image": "words/bookshop.webp"
     },
     {
       "id": "book_fair",
@@ -963,7 +1006,8 @@
         "job fair",
         "book club",
         "fair play"
-      ]
+      ],
+      "image": "words/book_fair.webp"
     },
     {
       "id": "bookworm",
@@ -981,7 +1025,8 @@
         "earthworm",
         "bookmark",
         "bookkeeper"
-      ]
+      ],
+      "image": "words/bookworm.webp"
     },
     {
       "id": "book_club",
@@ -999,7 +1044,8 @@
         "night club",
         "book fair",
         "fan club"
-      ]
+      ],
+      "image": "words/book_club.webp"
     },
     {
       "id": "browse",
@@ -1017,7 +1063,8 @@
         "brows",
         "bruise",
         "borrow"
-      ]
+      ],
+      "image": "words/browse.webp"
     },
     {
       "id": "flip_through",
@@ -1035,7 +1082,8 @@
         "flip over",
         "slip through",
         "go through"
-      ]
+      ],
+      "image": "words/flip_through.webp"
     },
     {
       "id": "read_aloud",
@@ -1053,7 +1101,8 @@
         "read along",
         "read ahead",
         "speak aloud"
-      ]
+      ],
+      "image": "words/read_aloud.webp"
     },
     {
       "id": "used_book",
@@ -1071,7 +1120,8 @@
         "new book",
         "useful book",
         "lost book"
-      ]
+      ],
+      "image": "words/used_book.webp"
     },
     {
       "id": "cover_to_cover",
@@ -1089,7 +1139,8 @@
         "door to door",
         "face to face",
         "back to back"
-      ]
+      ],
+      "image": "words/cover_to_cover.webp"
     },
     {
       "id": "bedtime_story",
@@ -1107,7 +1158,8 @@
         "bedtime snack",
         "ghost story",
         "bedroom"
-      ]
+      ],
+      "image": "words/bedtime_story.webp"
     },
     {
       "id": "page_turner",
@@ -1125,7 +1177,8 @@
         "page number",
         "turning point",
         "bookmark"
-      ]
+      ],
+      "image": "words/page_turner.webp"
     },
     {
       "id": "pre_order",
@@ -1143,7 +1196,8 @@
         "reorder",
         "preview",
         "pre-owned"
-      ]
+      ],
+      "image": "words/pre_order.webp"
     },
     {
       "id": "reread",
@@ -1161,7 +1215,8 @@
         "retread",
         "redo",
         "rewrite"
-      ]
+      ],
+      "image": "words/reread.webp"
     },
     {
       "id": "e_reader",
@@ -1179,7 +1234,8 @@
         "e-book",
         "tablet",
         "card reader"
-      ]
+      ],
+      "image": "words/e_reader.webp"
     },
     {
       "id": "gripping",
@@ -1197,7 +1253,8 @@
         "dripping",
         "grabbing",
         "tripping"
-      ]
+      ],
+      "image": "words/gripping.webp"
     },
     {
       "id": "predictable",
@@ -1215,7 +1272,8 @@
         "preferable",
         "profitable",
         "predicted"
-      ]
+      ],
+      "image": "words/predictable.webp"
     },
     {
       "id": "fast_paced",
@@ -1233,7 +1291,8 @@
         "fast food",
         "fast-forward",
         "fasten"
-      ]
+      ],
+      "image": "words/fast_paced.webp"
     },
     {
       "id": "slow_paced",
@@ -1251,7 +1310,8 @@
         "slow motion",
         "slow cooker",
         "sloped"
-      ]
+      ],
+      "image": "words/slow_paced.webp"
     },
     {
       "id": "heartwarming",
@@ -1269,7 +1329,8 @@
         "heartbreaking",
         "heartburn",
         "warm-hearted"
-      ]
+      ],
+      "image": "words/heartwarming.webp"
     },
     {
       "id": "laugh_out_loud",
@@ -1287,7 +1348,8 @@
         "out loud",
         "laughing stock",
         "laugh at"
-      ]
+      ],
+      "image": "words/laugh_out_loud.webp"
     },
     {
       "id": "moving",
@@ -1305,7 +1367,8 @@
         "movie",
         "removing",
         "mourning"
-      ]
+      ],
+      "image": "words/moving.webp"
     },
     {
       "id": "suspense",
@@ -1323,7 +1386,8 @@
         "suspend",
         "expense",
         "suspicion"
-      ]
+      ],
+      "image": "words/suspense.webp"
     },
     {
       "id": "vivid",
@@ -1341,7 +1405,8 @@
         "visit",
         "video",
         "livid"
-      ]
+      ],
+      "image": "words/vivid.webp"
     },
     {
       "id": "relatable",
@@ -1359,7 +1424,8 @@
         "reliable",
         "readable",
         "relative"
-      ]
+      ],
+      "image": "words/relatable.webp"
     },
     {
       "id": "overrated",
@@ -1377,7 +1443,8 @@
         "underrated",
         "overreact",
         "operated"
-      ]
+      ],
+      "image": "words/overrated.webp"
     },
     {
       "id": "thought_provoking",
@@ -1395,7 +1462,8 @@
         "thoughtful",
         "thoughtless",
         "provoking"
-      ]
+      ],
+      "image": "words/thought_provoking.webp"
     },
     {
       "id": "cliche",
@@ -1413,7 +1481,8 @@
         "click",
         "clique",
         "crochet"
-      ]
+      ],
+      "image": "words/cliche.webp"
     },
     {
       "id": "satisfying",
@@ -1431,7 +1500,8 @@
         "satisfied",
         "sacrificing",
         "specifying"
-      ]
+      ],
+      "image": "words/satisfying.webp"
     },
     {
       "id": "writer",
@@ -1449,7 +1519,8 @@
         "waiter",
         "rider",
         "winter"
-      ]
+      ],
+      "image": "words/writer.webp"
     },
     {
       "id": "publish",
@@ -1467,7 +1538,8 @@
         "polish",
         "public",
         "punish"
-      ]
+      ],
+      "image": "words/publish.webp"
     },
     {
       "id": "publisher",
@@ -1485,7 +1557,8 @@
         "printer",
         "publicity",
         "polisher"
-      ]
+      ],
+      "image": "words/publisher.webp"
     },
     {
       "id": "manuscript",
@@ -1503,7 +1576,8 @@
         "transcript",
         "manual",
         "subscription"
-      ]
+      ],
+      "image": "words/manuscript.webp"
     },
     {
       "id": "editor",
@@ -1521,7 +1595,8 @@
         "auditor",
         "edition",
         "creditor"
-      ]
+      ],
+      "image": "words/editor.webp"
     },
     {
       "id": "pen_name",
@@ -1539,7 +1614,8 @@
         "pet name",
         "nickname",
         "pen pal"
-      ]
+      ],
+      "image": "words/pen_name.webp"
     },
     {
       "id": "trilogy",
@@ -1557,7 +1633,8 @@
         "trio",
         "trophy",
         "biology"
-      ]
+      ],
+      "image": "words/trilogy.webp"
     },
     {
       "id": "prequel",
@@ -1575,7 +1652,8 @@
         "sequel",
         "preview",
         "pretzel"
-      ]
+      ],
+      "image": "words/prequel.webp"
     },
     {
       "id": "translate",
@@ -1593,7 +1671,8 @@
         "transfer",
         "transport",
         "transplant"
-      ]
+      ],
+      "image": "words/translate.webp"
     },
     {
       "id": "translator",
@@ -1611,7 +1690,8 @@
         "interpreter",
         "transistor",
         "narrator"
-      ]
+      ],
+      "image": "words/translator.webp"
     },
     {
       "id": "book_signing",
@@ -1629,7 +1709,8 @@
         "book fair",
         "sign language",
         "book launch"
-      ]
+      ],
+      "image": "words/book_signing.webp"
     },
     {
       "id": "writers_block",
@@ -1647,7 +1728,8 @@
         "writing desk",
         "road block",
         "mental block"
-      ]
+      ],
+      "image": "words/writers_block.webp"
     },
     {
       "id": "royalties",
@@ -1665,7 +1747,8 @@
         "loyalty",
         "royal family",
         "salaries"
-      ]
+      ],
+      "image": "words/royalties.webp"
     },
     {
       "id": "ghostwriter",
@@ -1683,7 +1766,8 @@
         "ghost story",
         "typewriter",
         "screenwriter"
-      ]
+      ],
+      "image": "words/ghostwriter.webp"
     },
     {
       "id": "newspaper",
@@ -1701,7 +1785,8 @@
         "newsletter",
         "wallpaper",
         "paperwork"
-      ]
+      ],
+      "image": "words/newspaper.webp"
     },
     {
       "id": "magazine",
@@ -1719,7 +1804,8 @@
         "medicine",
         "magician",
         "margarine"
-      ]
+      ],
+      "image": "words/magazine.webp"
     },
     {
       "id": "article",
@@ -1737,7 +1823,8 @@
         "particle",
         "artist",
         "arctic"
-      ]
+      ],
+      "image": "words/article.webp"
     },
     {
       "id": "reporter",
@@ -1755,7 +1842,8 @@
         "supporter",
         "importer",
         "report"
-      ]
+      ],
+      "image": "words/reporter.webp"
     },
     {
       "id": "feature_article",
@@ -1773,7 +1861,8 @@
         "news report",
         "future article",
         "feature film"
-      ]
+      ],
+      "image": "words/feature_article.webp"
     },
     {
       "id": "columnist",
@@ -1791,7 +1880,8 @@
         "colonist",
         "communist",
         "calmness"
-      ]
+      ],
+      "image": "words/columnist.webp"
     },
     {
       "id": "breaking_news",
@@ -1809,7 +1899,8 @@
         "fake news",
         "good news",
         "breaking point"
-      ]
+      ],
+      "image": "words/breaking_news.webp"
     },
     {
       "id": "front_page",
@@ -1827,7 +1918,8 @@
         "front door",
         "home page",
         "front row"
-      ]
+      ],
+      "image": "words/front_page.webp"
     },
     {
       "id": "cover_story",
@@ -1845,7 +1937,8 @@
         "cover letter",
         "short story",
         "cover song"
-      ]
+      ],
+      "image": "words/cover_story.webp"
     },
     {
       "id": "tabloid",
@@ -1863,7 +1956,8 @@
         "tablet",
         "tableau",
         "typhoid"
-      ]
+      ],
+      "image": "words/tabloid.webp"
     },
     {
       "id": "bias",
@@ -1881,7 +1975,8 @@
         "basis",
         "bios",
         "biased"
-      ]
+      ],
+      "image": "words/bias.webp"
     },
     {
       "id": "fact_check",
@@ -1899,7 +1994,8 @@
         "spell-check",
         "double-check",
         "fact sheet"
-      ]
+      ],
+      "image": "words/fact_check.webp"
     },
     {
       "id": "op_ed",
@@ -1917,7 +2013,8 @@
         "opera",
         "open-ended",
         "ad"
-      ]
+      ],
+      "image": "words/op_ed.webp"
     },
     {
       "id": "paywall",
@@ -1935,7 +2032,8 @@
         "firewall",
         "payroll",
         "payday"
-      ]
+      ],
+      "image": "words/paywall.webp"
     }
   ]
 }

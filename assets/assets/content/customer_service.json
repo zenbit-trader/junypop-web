@@ -189,7 +189,8 @@
         "how can I hear you",
         "how may I call you",
         "what do you want"
-      ]
+      ],
+      "image": "words/how_may_i_help_you.webp"
     },
     {
       "id": "service_rep",
@@ -207,7 +208,8 @@
         "service fee",
         "sales rep",
         "service charge"
-      ]
+      ],
+      "image": "words/service_rep.webp"
     },
     {
       "id": "toll_free",
@@ -225,7 +227,8 @@
         "tax-free",
         "toll road",
         "free call"
-      ]
+      ],
+      "image": "words/toll_free.webp"
     },
     {
       "id": "call_center",
@@ -243,7 +246,8 @@
         "shopping center",
         "cell center",
         "call back"
-      ]
+      ],
+      "image": "words/call_center.webp"
     },
     {
       "id": "verify",
@@ -261,7 +265,8 @@
         "vary",
         "notify",
         "clarify"
-      ]
+      ],
+      "image": "words/verify.webp"
     },
     {
       "id": "identity",
@@ -279,7 +284,8 @@
         "identical",
         "entity",
         "ID card"
-      ]
+      ],
+      "image": "words/identity.webp"
     },
     {
       "id": "date_of_birth",
@@ -297,7 +303,8 @@
         "place of birth",
         "birthday party",
         "date of issue"
-      ]
+      ],
+      "image": "words/date_of_birth.webp"
     },
     {
       "id": "order_number",
@@ -315,7 +322,8 @@
         "phone number",
         "order form",
         "odd number"
-      ]
+      ],
+      "image": "words/order_number.webp"
     },
     {
       "id": "security_question",
@@ -333,7 +341,8 @@
         "security guard",
         "secret question",
         "security check"
-      ]
+      ],
+      "image": "words/security_question.webp"
     },
     {
       "id": "bear_with_me",
@@ -351,7 +360,8 @@
         "bare with me",
         "be with me",
         "bear in mind"
-      ]
+      ],
+      "image": "words/bear_with_me.webp"
     },
     {
       "id": "caller",
@@ -369,7 +379,8 @@
         "collar",
         "cooler",
         "calling"
-      ]
+      ],
+      "image": "words/caller.webp"
     },
     {
       "id": "inquiry",
@@ -387,7 +398,8 @@
         "enquiry",
         "injury",
         "inquisitive"
-      ]
+      ],
+      "image": "words/inquiry.webp"
     },
     {
       "id": "one_moment_please",
@@ -405,7 +417,8 @@
         "one minute later",
         "one more please",
         "just a moment ago"
-      ]
+      ],
+      "image": "words/one_moment_please.webp"
     },
     {
       "id": "put_through",
@@ -423,7 +436,8 @@
         "put off",
         "put up",
         "get through"
-      ]
+      ],
+      "image": "words/put_through.webp"
     },
     {
       "id": "issue",
@@ -441,7 +455,8 @@
         "tissue",
         "issuer",
         "problem"
-      ]
+      ],
+      "image": "words/issue.webp"
     },
     {
       "id": "walk_me_through",
@@ -459,7 +474,8 @@
         "walk me home",
         "talk me through",
         "walk me out"
-      ]
+      ],
+      "image": "words/walk_me_through.webp"
     },
     {
       "id": "diagnose",
@@ -477,7 +493,8 @@
         "diagnosis",
         "dialogue",
         "diagonal"
-      ]
+      ],
+      "image": "words/diagnose.webp"
     },
     {
       "id": "error_message",
@@ -495,7 +512,8 @@
         "error code",
         "text message",
         "emergency"
-      ]
+      ],
+      "image": "words/error_message.webp"
     },
     {
       "id": "let_me_check",
@@ -513,7 +531,8 @@
         "let me see you",
         "let me think",
         "let me go"
-      ]
+      ],
+      "image": "words/let_me_check.webp"
     },
     {
       "id": "faulty",
@@ -531,7 +550,8 @@
         "fault",
         "filthy",
         "faultless"
-      ]
+      ],
+      "image": "words/faulty.webp"
     },
     {
       "id": "defective",
@@ -549,7 +569,8 @@
         "detective",
         "effective",
         "defensive"
-      ]
+      ],
+      "image": "words/defective.webp"
     },
     {
       "id": "incomplete",
@@ -567,7 +588,8 @@
         "complete",
         "incompatible",
         "impolite"
-      ]
+      ],
+      "image": "words/incomplete.webp"
     },
     {
       "id": "wrong_item",
@@ -585,7 +607,8 @@
         "wrong number",
         "right item",
         "lost item"
-      ]
+      ],
+      "image": "words/wrong_item.webp"
     },
     {
       "id": "overcharge",
@@ -603,7 +626,8 @@
         "overcome",
         "recharge",
         "overweight"
-      ]
+      ],
+      "image": "words/overcharge.webp"
     },
     {
       "id": "replicate",
@@ -621,7 +645,8 @@
         "replica",
         "duplicate",
         "relocate"
-      ]
+      ],
+      "image": "words/replicate.webp"
     },
     {
       "id": "in_detail",
@@ -639,7 +664,8 @@
         "in details",
         "in general",
         "in brief"
-      ]
+      ],
+      "image": "words/in_detail.webp"
     },
     {
       "id": "root_cause",
@@ -657,7 +683,8 @@
         "main cause",
         "route cause",
         "root canal"
-      ]
+      ],
+      "image": "words/root_cause.webp"
     },
     {
       "id": "narrow_down",
@@ -675,7 +702,8 @@
         "narrow-minded",
         "slow down",
         "bring down"
-      ]
+      ],
+      "image": "words/narrow_down.webp"
     },
     {
       "id": "inconvenience",
@@ -693,7 +721,8 @@
         "convenience",
         "incontinence",
         "inconsistency"
-      ]
+      ],
+      "image": "words/inconvenience.webp"
     },
     {
       "id": "empathy",
@@ -711,7 +740,8 @@
         "sympathy",
         "apathy",
         "emphasis"
-      ]
+      ],
+      "image": "words/empathy.webp"
     },
     {
       "id": "i_understand_how_you_feel",
@@ -729,7 +759,8 @@
         "I understand you well",
         "I know how you look",
         "I feel you"
-      ]
+      ],
+      "image": "words/i_understand_how_you_feel.webp"
     },
     {
       "id": "frustrating",
@@ -747,7 +778,8 @@
         "frustrated",
         "fascinating",
         "freshening"
-      ]
+      ],
+      "image": "words/frustrating.webp"
     },
     {
       "id": "sorry_to_hear_that",
@@ -765,7 +797,8 @@
         "sorry to say that",
         "happy to hear that",
         "sorry for hearing"
-      ]
+      ],
+      "image": "words/sorry_to_hear_that.webp"
     },
     {
       "id": "unacceptable",
@@ -783,7 +816,8 @@
         "acceptable",
         "unavailable",
         "unaccountable"
-      ]
+      ],
+      "image": "words/unacceptable.webp"
     },
     {
       "id": "rest_assured",
@@ -801,7 +835,8 @@
         "rest in peace",
         "rest easy",
         "be assured"
-      ]
+      ],
+      "image": "words/rest_assured.webp"
     },
     {
       "id": "appreciate",
@@ -819,7 +854,8 @@
         "apprentice",
         "approximate",
         "depreciate"
-      ]
+      ],
+      "image": "words/appreciate.webp"
     },
     {
       "id": "patience",
@@ -837,7 +873,8 @@
         "patients",
         "patient",
         "passion"
-      ]
+      ],
+      "image": "words/patience.webp"
     },
     {
       "id": "take_responsibility",
@@ -855,7 +892,8 @@
         "take advantage",
         "take care",
         "take response"
-      ]
+      ],
+      "image": "words/take_responsibility.webp"
     },
     {
       "id": "make_it_right",
@@ -873,7 +911,8 @@
         "make it up",
         "make it work",
         "make it clear"
-      ]
+      ],
+      "image": "words/make_it_right.webp"
     },
     {
       "id": "assure",
@@ -891,7 +930,8 @@
         "ensure",
         "insure",
         "assume"
-      ]
+      ],
+      "image": "words/assure.webp"
     },
     {
       "id": "irate",
@@ -909,7 +949,8 @@
         "irritate",
         "pirate",
         "irony"
-      ]
+      ],
+      "image": "words/irate.webp"
     },
     {
       "id": "fault",
@@ -927,7 +968,8 @@
         "false",
         "vault",
         "default"
-      ]
+      ],
+      "image": "words/fault.webp"
     },
     {
       "id": "return_policy",
@@ -945,7 +987,8 @@
         "return ticket",
         "privacy policy",
         "refund request"
-      ]
+      ],
+      "image": "words/return_policy.webp"
     },
     {
       "id": "partial_refund",
@@ -963,7 +1006,8 @@
         "full refund",
         "partial payment",
         "refund policy"
-      ]
+      ],
+      "image": "words/partial_refund.webp"
     },
     {
       "id": "store_credit",
@@ -981,7 +1025,8 @@
         "credit card",
         "store card",
         "credit score"
-      ]
+      ],
+      "image": "words/store_credit.webp"
     },
     {
       "id": "swap_out",
@@ -999,7 +1044,8 @@
         "swap in",
         "swipe out",
         "sweep out"
-      ]
+      ],
+      "image": "words/swap_out.webp"
     },
     {
       "id": "proof_of_purchase",
@@ -1017,7 +1063,8 @@
         "proof of income",
         "purchase order",
         "price of purchase"
-      ]
+      ],
+      "image": "words/proof_of_purchase.webp"
     },
     {
       "id": "under_warranty",
@@ -1035,7 +1082,8 @@
         "under warrant",
         "in guarantee",
         "under repair"
-      ]
+      ],
+      "image": "words/under_warranty.webp"
     },
     {
       "id": "invalid",
@@ -1053,7 +1101,8 @@
         "valid",
         "invaluable",
         "unpaid"
-      ]
+      ],
+      "image": "words/invalid.webp"
     },
     {
       "id": "cooling_off_period",
@@ -1071,7 +1120,8 @@
         "cooling period",
         "warm-up period",
         "trial period"
-      ]
+      ],
+      "image": "words/cooling_off_period.webp"
     },
     {
       "id": "restocking_fee",
@@ -1089,7 +1139,8 @@
         "stocking",
         "shipping fee",
         "late fee"
-      ]
+      ],
+      "image": "words/restocking_fee.webp"
     },
     {
       "id": "non_refundable",
@@ -1107,7 +1158,8 @@
         "refundable",
         "non-returnable",
         "unfounded"
-      ]
+      ],
+      "image": "words/non_refundable.webp"
     },
     {
       "id": "original_packaging",
@@ -1125,7 +1177,8 @@
         "original price",
         "packing list",
         "plastic packaging"
-      ]
+      ],
+      "image": "words/original_packaging.webp"
     },
     {
       "id": "reimburse",
@@ -1143,7 +1196,8 @@
         "refund",
         "reverse",
         "rehearse"
-      ]
+      ],
+      "image": "words/reimburse.webp"
     },
     {
       "id": "processing_time",
@@ -1161,7 +1215,8 @@
         "process time",
         "waiting room",
         "prime time"
-      ]
+      ],
+      "image": "words/processing_time.webp"
     },
     {
       "id": "service_center",
@@ -1179,7 +1234,8 @@
         "call center",
         "shopping center",
         "service charge"
-      ]
+      ],
+      "image": "words/service_center.webp"
     },
     {
       "id": "grievance",
@@ -1197,7 +1253,8 @@
         "grieving",
         "greetings",
         "griever"
-      ]
+      ],
+      "image": "words/grievance.webp"
     },
     {
       "id": "escalate",
@@ -1215,7 +1272,8 @@
         "escalator",
         "evacuate",
         "elevate"
-      ]
+      ],
+      "image": "words/escalate.webp"
     },
     {
       "id": "credit_note",
@@ -1233,7 +1291,8 @@
         "credit card",
         "debit note",
         "bank note"
-      ]
+      ],
+      "image": "words/credit_note.webp"
     },
     {
       "id": "goodwill",
@@ -1251,7 +1310,8 @@
         "good luck",
         "goodwill hunting",
         "willpower"
-      ]
+      ],
+      "image": "words/goodwill.webp"
     },
     {
       "id": "dissatisfied",
@@ -1269,7 +1329,8 @@
         "unsatisfied",
         "satisfied",
         "disappointed"
-      ]
+      ],
+      "image": "words/dissatisfied.webp"
     },
     {
       "id": "de_escalate",
@@ -1287,7 +1348,8 @@
         "escalate",
         "decelerate",
         "deactivate"
-      ]
+      ],
+      "image": "words/de_escalate.webp"
     },
     {
       "id": "abusive",
@@ -1305,7 +1367,8 @@
         "abundant",
         "absent",
         "amusing"
-      ]
+      ],
+      "image": "words/abusive.webp"
     },
     {
       "id": "end_the_call",
@@ -1323,7 +1386,8 @@
         "end the line",
         "end up calling",
         "drop the call"
-      ]
+      ],
+      "image": "words/end_the_call.webp"
     },
     {
       "id": "on_hold",
@@ -1341,7 +1405,8 @@
         "on call",
         "on mute",
         "on line"
-      ]
+      ],
+      "image": "words/on_hold.webp"
     },
     {
       "id": "callback",
@@ -1359,7 +1424,8 @@
         "call back",
         "fallback",
         "callout"
-      ]
+      ],
+      "image": "words/callback.webp"
     },
     {
       "id": "resolve",
@@ -1377,7 +1443,8 @@
         "revolve",
         "dissolve",
         "resolution"
-      ]
+      ],
+      "image": "words/resolve.webp"
     },
     {
       "id": "reference_number",
@@ -1395,7 +1462,8 @@
         "phone number",
         "reference letter",
         "serial number"
-      ]
+      ],
+      "image": "words/reference_number.webp"
     },
     {
       "id": "chargeback",
@@ -1413,7 +1481,8 @@
         "cash back",
         "charge card",
         "payback"
-      ]
+      ],
+      "image": "words/chargeback.webp"
     },
     {
       "id": "consumer",
@@ -1431,7 +1500,8 @@
         "consume",
         "costumer",
         "customer"
-      ]
+      ],
+      "image": "words/consumer.webp"
     },
     {
       "id": "support_ticket",
@@ -1449,7 +1519,8 @@
         "parking ticket",
         "support team",
         "ticket price"
-      ]
+      ],
+      "image": "words/support_ticket.webp"
     },
     {
       "id": "live_chat",
@@ -1467,7 +1538,8 @@
         "group chat",
         "live stream",
         "video chat"
-      ]
+      ],
+      "image": "words/live_chat.webp"
     },
     {
       "id": "virtual_assistant",
@@ -1485,7 +1557,8 @@
         "personal assistant",
         "virtual reality",
         "visual assistant"
-      ]
+      ],
+      "image": "words/virtual_assistant.webp"
     },
     {
       "id": "faq",
@@ -1503,7 +1576,8 @@
         "FYI",
         "Q&A",
         "FAX"
-      ]
+      ],
+      "image": "words/faq.webp"
     },
     {
       "id": "response_time",
@@ -1521,7 +1595,8 @@
         "respond time",
         "real time",
         "rest time"
-      ]
+      ],
+      "image": "words/response_time.webp"
     },
     {
       "id": "auto_reply",
@@ -1539,7 +1614,8 @@
         "autopilot",
         "auto-correct",
         "quick reply"
-      ]
+      ],
+      "image": "words/auto_reply.webp"
     },
     {
       "id": "canned_response",
@@ -1557,7 +1633,8 @@
         "canned food",
         "candid response",
         "quick response"
-      ]
+      ],
+      "image": "words/canned_response.webp"
     },
     {
       "id": "backlog",
@@ -1575,7 +1652,8 @@
         "backup",
         "blog",
         "catalog"
-      ]
+      ],
+      "image": "words/backlog.webp"
     },
     {
       "id": "status",
@@ -1593,7 +1671,8 @@
         "statue",
         "statute",
         "stadium"
-      ]
+      ],
+      "image": "words/status.webp"
     },
     {
       "id": "unresolved",
@@ -1611,7 +1690,8 @@
         "unsolved",
         "resolved",
         "unrelated"
-      ]
+      ],
+      "image": "words/unresolved.webp"
     },
     {
       "id": "sla",
@@ -1629,7 +1709,8 @@
         "SLR",
         "SEA",
         "ASL"
-      ]
+      ],
+      "image": "words/sla.webp"
     },
     {
       "id": "self_service",
@@ -1647,7 +1728,8 @@
         "self-care",
         "full-service",
         "room service"
-      ]
+      ],
+      "image": "words/self_service.webp"
     },
     {
       "id": "knowledge_base",
@@ -1665,7 +1747,8 @@
         "database",
         "knowledge gap",
         "home base"
-      ]
+      ],
+      "image": "words/knowledge_base.webp"
     },
     {
       "id": "template",
@@ -1683,7 +1766,8 @@
         "temple",
         "temperate",
         "timetable"
-      ]
+      ],
+      "image": "words/template.webp"
     },
     {
       "id": "is_there_anything_else",
@@ -1701,7 +1785,8 @@
         "is there anyone else",
         "is anything else there",
         "is that all"
-      ]
+      ],
+      "image": "words/is_there_anything_else.webp"
     },
     {
       "id": "thank_you_for_calling",
@@ -1719,7 +1804,8 @@
         "thank you for coming",
         "thank you for call",
         "thanks for the call"
-      ]
+      ],
+      "image": "words/thank_you_for_calling.webp"
     },
     {
       "id": "satisfaction",
@@ -1737,7 +1823,8 @@
         "satisfactory",
         "sanitation",
         "dissatisfaction"
-      ]
+      ],
+      "image": "words/satisfaction.webp"
     },
     {
       "id": "customer_loyalty",
@@ -1755,7 +1842,8 @@
         "customer royalty",
         "brand loyalty",
         "customer service"
-      ]
+      ],
+      "image": "words/customer_loyalty.webp"
     },
     {
       "id": "retain",
@@ -1773,7 +1861,8 @@
         "remain",
         "retrain",
         "obtain"
-      ]
+      ],
+      "image": "words/retain.webp"
     },
     {
       "id": "happy_to_help",
@@ -1791,7 +1880,8 @@
         "happy to hear",
         "help to happy",
         "ready to help"
-      ]
+      ],
+      "image": "words/happy_to_help.webp"
     },
     {
       "id": "repeat_customer",
@@ -1809,7 +1899,8 @@
         "new customer",
         "regular price",
         "repeated call"
-      ]
+      ],
+      "image": "words/repeat_customer.webp"
     },
     {
       "id": "win_back",
@@ -1827,7 +1918,8 @@
         "win over",
         "give back",
         "pay back"
-      ]
+      ],
+      "image": "words/win_back.webp"
     },
     {
       "id": "above_and_beyond",
@@ -1845,7 +1937,8 @@
         "up and above",
         "over and above",
         "above all"
-      ]
+      ],
+      "image": "words/above_and_beyond.webp"
     },
     {
       "id": "testimonial",
@@ -1863,7 +1956,8 @@
         "testimony",
         "testament",
         "memorial"
-      ]
+      ],
+      "image": "words/testimonial.webp"
     },
     {
       "id": "my_pleasure",
@@ -1881,7 +1975,8 @@
         "my please",
         "with pleasure",
         "my treasure"
-      ]
+      ],
+      "image": "words/my_pleasure.webp"
     },
     {
       "id": "close_the_case",
@@ -1899,7 +1994,8 @@
         "close the deal",
         "close the door",
         "lose the case"
-      ]
+      ],
+      "image": "words/close_the_case.webp"
     },
     {
       "id": "complimentary",
@@ -1917,7 +2013,8 @@
         "complementary",
         "compliment",
         "compulsory"
-      ]
+      ],
+      "image": "words/complimentary.webp"
     },
     {
       "id": "courteous",
@@ -1935,7 +2032,8 @@
         "curious",
         "cautious",
         "courageous"
-      ]
+      ],
+      "image": "words/courteous.webp"
     }
   ]
 }

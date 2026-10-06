@@ -189,7 +189,8 @@
         "turn off",
         "turn up",
         "put on"
-      ]
+      ],
+      "image": "words/turn_on.webp"
     },
     {
       "id": "turn_off",
@@ -207,7 +208,8 @@
         "turn on",
         "turn down",
         "take off"
-      ]
+      ],
+      "image": "words/turn_off.webp"
     },
     {
       "id": "stay_up",
@@ -225,7 +227,8 @@
         "sleep in",
         "stay in",
         "get up"
-      ]
+      ],
+      "image": "words/stay_up.webp"
     },
     {
       "id": "sleep_in",
@@ -243,7 +246,8 @@
         "stay up",
         "sleep over",
         "sleep on it"
-      ]
+      ],
+      "image": "words/sleep_in.webp"
     },
     {
       "id": "hurry_up",
@@ -261,7 +265,8 @@
         "speed up",
         "hold on",
         "cheer up"
-      ]
+      ],
+      "image": "words/hurry_up.webp"
     },
     {
       "id": "clean_up",
@@ -279,7 +284,8 @@
         "clear up",
         "put away",
         "wash up"
-      ]
+      ],
+      "image": "words/clean_up.webp"
     },
     {
       "id": "put_away",
@@ -297,7 +303,8 @@
         "throw away",
         "put off",
         "clean up"
-      ]
+      ],
+      "image": "words/put_away.webp"
     },
     {
       "id": "throw_away",
@@ -315,7 +322,8 @@
         "put away",
         "give away",
         "throw up"
-      ]
+      ],
+      "image": "words/throw_away.webp"
     },
     {
       "id": "eat_out",
@@ -333,7 +341,8 @@
         "eat up",
         "go out",
         "take out"
-      ]
+      ],
+      "image": "words/eat_out.webp"
     },
     {
       "id": "go_out",
@@ -351,7 +360,8 @@
         "eat out",
         "get out",
         "go on"
-      ]
+      ],
+      "image": "words/go_out.webp"
     },
     {
       "id": "chill_out",
@@ -369,7 +379,8 @@
         "calm down",
         "hang out",
         "cool off"
-      ]
+      ],
+      "image": "words/chill_out.webp"
     },
     {
       "id": "work_out",
@@ -387,7 +398,8 @@
         "work on",
         "warm up",
         "run out of"
-      ]
+      ],
+      "image": "words/work_out.webp"
     },
     {
       "id": "run_out_of",
@@ -405,7 +417,8 @@
         "run into",
         "use up",
         "work out"
-      ]
+      ],
+      "image": "words/run_out_of.webp"
     },
     {
       "id": "plug_in",
@@ -423,7 +436,8 @@
         "turn on",
         "plug up",
         "log in"
-      ]
+      ],
+      "image": "words/plug_in.webp"
     },
     {
       "id": "get_along",
@@ -441,7 +455,8 @@
         "get together",
         "get over",
         "go along"
-      ]
+      ],
+      "image": "words/get_along.webp"
     },
     {
       "id": "fall_for",
@@ -459,7 +474,8 @@
         "fall out",
         "fall apart",
         "go for"
-      ]
+      ],
+      "image": "words/fall_for.webp"
     },
     {
       "id": "fall_out",
@@ -477,7 +493,8 @@
         "fall for",
         "split up",
         "fall behind"
-      ]
+      ],
+      "image": "words/fall_out.webp"
     },
     {
       "id": "get_over",
@@ -495,7 +512,8 @@
         "get along",
         "get through",
         "go over"
-      ]
+      ],
+      "image": "words/get_over.webp"
     },
     {
       "id": "split_up",
@@ -513,7 +531,8 @@
         "fall out",
         "settle down",
         "split the bill"
-      ]
+      ],
+      "image": "words/split_up.webp"
     },
     {
       "id": "settle_down",
@@ -531,7 +550,8 @@
         "settle in",
         "split up",
         "calm down"
-      ]
+      ],
+      "image": "words/settle_down.webp"
     },
     {
       "id": "look_after",
@@ -549,7 +569,8 @@
         "look for",
         "look up to",
         "look into"
-      ]
+      ],
+      "image": "words/look_after.webp"
     },
     {
       "id": "bring_up",
@@ -567,7 +588,8 @@
         "grow up",
         "bring back",
         "look after"
-      ]
+      ],
+      "image": "words/bring_up.webp"
     },
     {
       "id": "grow_up",
@@ -585,7 +607,8 @@
         "bring up",
         "get up",
         "grow out of"
-      ]
+      ],
+      "image": "words/grow_up.webp"
     },
     {
       "id": "let_down",
@@ -603,7 +626,8 @@
         "put down",
         "let go",
         "calm down"
-      ]
+      ],
+      "image": "words/let_down.webp"
     },
     {
       "id": "count_on",
@@ -621,7 +645,8 @@
         "depend on",
         "count in",
         "look up to"
-      ]
+      ],
+      "image": "words/count_on.webp"
     },
     {
       "id": "look_up_to",
@@ -639,7 +664,8 @@
         "look down on",
         "look after",
         "look up"
-      ]
+      ],
+      "image": "words/look_up_to.webp"
     },
     {
       "id": "put_up_with",
@@ -657,7 +683,8 @@
         "put off",
         "deal with",
         "put down"
-      ]
+      ],
+      "image": "words/put_up_with.webp"
     },
     {
       "id": "get_together",
@@ -675,7 +702,8 @@
         "get along",
         "go out",
         "catch up"
-      ]
+      ],
+      "image": "words/get_together.webp"
     },
     {
       "id": "set_up",
@@ -693,7 +721,8 @@
         "set off",
         "put up",
         "sort out"
-      ]
+      ],
+      "image": "words/set_up.webp"
     },
     {
       "id": "carry_out",
@@ -711,7 +740,8 @@
         "carry on",
         "take out",
         "figure out"
-      ]
+      ],
+      "image": "words/carry_out.webp"
     },
     {
       "id": "come_up_with",
@@ -729,7 +759,8 @@
         "come across",
         "come up",
         "figure out"
-      ]
+      ],
+      "image": "words/come_up_with.webp"
     },
     {
       "id": "figure_out",
@@ -747,7 +778,8 @@
         "find out",
         "come up with",
         "sort out"
-      ]
+      ],
+      "image": "words/figure_out.webp"
     },
     {
       "id": "work_on",
@@ -765,7 +797,8 @@
         "work out",
         "carry out",
         "deal with"
-      ]
+      ],
+      "image": "words/work_on.webp"
     },
     {
       "id": "sort_out",
@@ -783,7 +816,8 @@
         "figure out",
         "deal with",
         "sort through"
-      ]
+      ],
+      "image": "words/sort_out.webp"
     },
     {
       "id": "take_over",
@@ -801,7 +835,8 @@
         "take on",
         "take out",
         "hand over"
-      ]
+      ],
+      "image": "words/take_over.webp"
     },
     {
       "id": "take_on",
@@ -819,7 +854,8 @@
         "take over",
         "take up",
         "put on"
-      ]
+      ],
+      "image": "words/take_on.webp"
     },
     {
       "id": "call_off",
@@ -837,7 +873,8 @@
         "put off",
         "call back",
         "cut off"
-      ]
+      ],
+      "image": "words/call_off.webp"
     },
     {
       "id": "put_off",
@@ -855,7 +892,8 @@
         "call off",
         "put away",
         "put on"
-      ]
+      ],
+      "image": "words/put_off.webp"
     },
     {
       "id": "wrap_up",
@@ -873,7 +911,8 @@
         "wind up",
         "set up",
         "sum up"
-      ]
+      ],
+      "image": "words/wrap_up.webp"
     },
     {
       "id": "catch_up",
@@ -891,7 +930,8 @@
         "keep up with",
         "catch on",
         "get together"
-      ]
+      ],
+      "image": "words/catch_up.webp"
     },
     {
       "id": "keep_up_with",
@@ -909,7 +949,8 @@
         "catch up",
         "keep up",
         "put up with"
-      ]
+      ],
+      "image": "words/keep_up_with.webp"
     },
     {
       "id": "deal_with",
@@ -927,7 +968,8 @@
         "sort out",
         "put up with",
         "deal in"
-      ]
+      ],
+      "image": "words/deal_with.webp"
     },
     {
       "id": "set_off",
@@ -945,7 +987,8 @@
         "set up",
         "take off",
         "get away"
-      ]
+      ],
+      "image": "words/set_off.webp"
     },
     {
       "id": "get_away",
@@ -963,7 +1006,8 @@
         "get out",
         "set off",
         "run away"
-      ]
+      ],
+      "image": "words/get_away.webp"
     },
     {
       "id": "get_in",
@@ -981,7 +1025,8 @@
         "get out",
         "get on",
         "come in"
-      ]
+      ],
+      "image": "words/get_in.webp"
     },
     {
       "id": "get_out",
@@ -999,7 +1044,8 @@
         "get in",
         "get off",
         "go out"
-      ]
+      ],
+      "image": "words/get_out.webp"
     },
     {
       "id": "pull_over",
@@ -1017,7 +1063,8 @@
         "pull up",
         "turn around",
         "slow down"
-      ]
+      ],
+      "image": "words/pull_over.webp"
     },
     {
       "id": "slow_down",
@@ -1035,7 +1082,8 @@
         "speed up",
         "calm down",
         "pull over"
-      ]
+      ],
+      "image": "words/slow_down.webp"
     },
     {
       "id": "speed_up",
@@ -1053,7 +1101,8 @@
         "slow down",
         "hurry up",
         "pick up"
-      ]
+      ],
+      "image": "words/speed_up.webp"
     },
     {
       "id": "turn_around",
@@ -1071,7 +1120,8 @@
         "turn down",
         "pull over",
         "go back"
-      ]
+      ],
+      "image": "words/turn_around.webp"
     },
     {
       "id": "break_down",
@@ -1089,7 +1139,8 @@
         "break up",
         "fall apart",
         "break in"
-      ]
+      ],
+      "image": "words/break_down.webp"
     },
     {
       "id": "look_around",
@@ -1107,7 +1158,8 @@
         "look after",
         "show around",
         "look for"
-      ]
+      ],
+      "image": "words/look_around.webp"
     },
     {
       "id": "show_around",
@@ -1125,7 +1177,8 @@
         "look around",
         "show off",
         "show up"
-      ]
+      ],
+      "image": "words/show_around.webp"
     },
     {
       "id": "see_off",
@@ -1143,7 +1196,8 @@
         "see out",
         "show around",
         "set off"
-      ]
+      ],
+      "image": "words/see_off.webp"
     },
     {
       "id": "run_into",
@@ -1161,7 +1215,8 @@
         "run out of",
         "come across",
         "run over"
-      ]
+      ],
+      "image": "words/run_into.webp"
     },
     {
       "id": "come_along",
@@ -1179,7 +1234,8 @@
         "come across",
         "get along",
         "come over"
-      ]
+      ],
+      "image": "words/come_along.webp"
     },
     {
       "id": "pay_off",
@@ -1197,7 +1253,8 @@
         "pay for",
         "fork out",
         "pay up"
-      ]
+      ],
+      "image": "words/pay_off.webp"
     },
     {
       "id": "save_up",
@@ -1215,7 +1272,8 @@
         "put aside",
         "splash out",
         "save on"
-      ]
+      ],
+      "image": "words/save_up.webp"
     },
     {
       "id": "splash_out",
@@ -1233,7 +1291,8 @@
         "fork out",
         "save up",
         "splash around"
-      ]
+      ],
+      "image": "words/splash_out.webp"
     },
     {
       "id": "rip_off",
@@ -1251,7 +1310,8 @@
         "fork out",
         "rip up",
         "pay off"
-      ]
+      ],
+      "image": "words/rip_off.webp"
     },
     {
       "id": "chip_in",
@@ -1269,7 +1329,8 @@
         "cash in",
         "fork out",
         "chip away"
-      ]
+      ],
+      "image": "words/chip_in.webp"
     },
     {
       "id": "add_up",
@@ -1287,7 +1348,8 @@
         "add on",
         "go up",
         "count on"
-      ]
+      ],
+      "image": "words/add_up.webp"
     },
     {
       "id": "cut_down_on",
@@ -1305,7 +1367,8 @@
         "cut off",
         "cut out",
         "come down"
-      ]
+      ],
+      "image": "words/cut_down_on.webp"
     },
     {
       "id": "give_away",
@@ -1323,7 +1386,8 @@
         "give back",
         "throw away",
         "give in"
-      ]
+      ],
+      "image": "words/give_away.webp"
     },
     {
       "id": "take_out",
@@ -1341,7 +1405,8 @@
         "take back",
         "take over",
         "take away"
-      ]
+      ],
+      "image": "words/take_out.webp"
     },
     {
       "id": "put_aside",
@@ -1359,7 +1424,8 @@
         "put away",
         "save up",
         "put down"
-      ]
+      ],
+      "image": "words/put_aside.webp"
     },
     {
       "id": "fork_out",
@@ -1377,7 +1443,8 @@
         "splash out",
         "chip in",
         "fork over"
-      ]
+      ],
+      "image": "words/fork_out.webp"
     },
     {
       "id": "take_back",
@@ -1395,7 +1462,8 @@
         "take out",
         "bring back",
         "give back"
-      ]
+      ],
+      "image": "words/take_back.webp"
     },
     {
       "id": "go_up",
@@ -1413,7 +1481,8 @@
         "come down",
         "get up",
         "add up"
-      ]
+      ],
+      "image": "words/go_up.webp"
     },
     {
       "id": "come_down",
@@ -1431,7 +1500,8 @@
         "go up",
         "cut down on",
         "come off"
-      ]
+      ],
+      "image": "words/come_down.webp"
     },
     {
       "id": "mess_up",
@@ -1449,7 +1519,8 @@
         "go wrong",
         "mix up",
         "make up"
-      ]
+      ],
+      "image": "words/mess_up.webp"
     },
     {
       "id": "go_wrong",
@@ -1467,7 +1538,8 @@
         "mess up",
         "go through",
         "go off"
-      ]
+      ],
+      "image": "words/go_wrong.webp"
     },
     {
       "id": "end_up",
@@ -1485,7 +1557,8 @@
         "turn out",
         "wind up",
         "give up"
-      ]
+      ],
+      "image": "words/end_up.webp"
     },
     {
       "id": "fall_apart",
@@ -1503,7 +1576,8 @@
         "break down",
         "fall out",
         "fall through"
-      ]
+      ],
+      "image": "words/fall_apart.webp"
     },
     {
       "id": "go_through",
@@ -1521,7 +1595,8 @@
         "get through",
         "go over",
         "go on"
-      ]
+      ],
+      "image": "words/go_through.webp"
     },
     {
       "id": "get_through",
@@ -1539,7 +1614,8 @@
         "go through",
         "get over",
         "get by"
-      ]
+      ],
+      "image": "words/get_through.webp"
     },
     {
       "id": "look_into",
@@ -1557,7 +1633,8 @@
         "look up",
         "look after",
         "look over"
-      ]
+      ],
+      "image": "words/look_into.webp"
     },
     {
       "id": "turn_out",
@@ -1575,7 +1652,8 @@
         "end up",
         "turn down",
         "turn up"
-      ]
+      ],
+      "image": "words/turn_out.webp"
     },
     {
       "id": "calm_down",
@@ -1593,7 +1671,8 @@
         "slow down",
         "chill out",
         "cool down"
-      ]
+      ],
+      "image": "words/calm_down.webp"
     },
     {
       "id": "keep_on",
@@ -1611,7 +1690,8 @@
         "carry on",
         "keep up",
         "go on"
-      ]
+      ],
+      "image": "words/keep_on.webp"
     },
     {
       "id": "bounce_back",
@@ -1629,7 +1709,8 @@
         "come back",
         "get over",
         "bounce off"
-      ]
+      ],
+      "image": "words/bounce_back.webp"
     },
     {
       "id": "get_by",
@@ -1647,7 +1728,8 @@
         "get through",
         "get along",
         "go by"
-      ]
+      ],
+      "image": "words/get_by.webp"
     },
     {
       "id": "come_up",
@@ -1665,7 +1747,8 @@
         "come up with",
         "come across",
         "turn up"
-      ]
+      ],
+      "image": "words/come_up.webp"
     },
     {
       "id": "cut_off",
@@ -1683,7 +1766,8 @@
         "cut down on",
         "call off",
         "cut out"
-      ]
+      ],
+      "image": "words/cut_off.webp"
     },
     {
       "id": "speak_up",
@@ -1701,7 +1785,8 @@
         "speak out",
         "turn up",
         "open up"
-      ]
+      ],
+      "image": "words/speak_up.webp"
     },
     {
       "id": "hang_up",
@@ -1719,7 +1804,8 @@
         "hold on",
         "hang out",
         "call back"
-      ]
+      ],
+      "image": "words/hang_up.webp"
     },
     {
       "id": "hold_on",
@@ -1737,7 +1823,8 @@
         "hang up",
         "hold up",
         "hurry up"
-      ]
+      ],
+      "image": "words/hold_on.webp"
     },
     {
       "id": "call_back",
@@ -1755,7 +1842,8 @@
         "call off",
         "get back to",
         "text back"
-      ]
+      ],
+      "image": "words/call_back.webp"
     },
     {
       "id": "get_back_to",
@@ -1773,7 +1861,8 @@
         "call back",
         "get back",
         "reach out"
-      ]
+      ],
+      "image": "words/get_back_to.webp"
     },
     {
       "id": "reach_out",
@@ -1791,7 +1880,8 @@
         "get back to",
         "reach for",
         "look up"
-      ]
+      ],
+      "image": "words/reach_out.webp"
     },
     {
       "id": "find_out",
@@ -1809,7 +1899,8 @@
         "figure out",
         "look up",
         "find about"
-      ]
+      ],
+      "image": "words/find_out.webp"
     },
     {
       "id": "look_up",
@@ -1827,7 +1918,8 @@
         "look up to",
         "find out",
         "look into"
-      ]
+      ],
+      "image": "words/look_up.webp"
     },
     {
       "id": "turn_down",
@@ -1845,7 +1937,8 @@
         "turn off",
         "turn up",
         "turn out"
-      ]
+      ],
+      "image": "words/turn_down.webp"
     },
     {
       "id": "go_on",
@@ -1863,7 +1956,8 @@
         "carry on",
         "go out",
         "go off"
-      ]
+      ],
+      "image": "words/go_on.webp"
     },
     {
       "id": "come_across",
@@ -1881,7 +1975,8 @@
         "run into",
         "come along",
         "come over"
-      ]
+      ],
+      "image": "words/come_across.webp"
     },
     {
       "id": "stand_for",
@@ -1899,7 +1994,8 @@
         "stand up for",
         "stand by",
         "stand out"
-      ]
+      ],
+      "image": "words/stand_for.webp"
     },
     {
       "id": "leave_out",
@@ -1917,7 +2013,8 @@
         "take out",
         "leave behind",
         "cut off"
-      ]
+      ],
+      "image": "words/leave_out.webp"
     },
     {
       "id": "open_up",
@@ -1935,7 +2032,8 @@
         "speak up",
         "open out",
         "cheer up"
-      ]
+      ],
+      "image": "words/open_up.webp"
     }
   ]
 }

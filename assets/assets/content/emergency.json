@@ -189,7 +189,8 @@
         "phone number",
         "emergency exit",
         "room number"
-      ]
+      ],
+      "image": "words/emergency_number.webp"
     },
     {
       "id": "call_for_help",
@@ -207,7 +208,8 @@
         "ask for",
         "call back",
         "help out"
-      ]
+      ],
+      "image": "words/call_for_help.webp"
     },
     {
       "id": "operator",
@@ -225,7 +227,8 @@
         "operation",
         "cooperate",
         "opera"
-      ]
+      ],
+      "image": "words/operator.webp"
     },
     {
       "id": "hotline",
@@ -243,7 +246,8 @@
         "headline",
         "hot",
         "online"
-      ]
+      ],
+      "image": "words/hotline.webp"
     },
     {
       "id": "stay_calm",
@@ -261,7 +265,8 @@
         "stay cool",
         "calm down",
         "stay home"
-      ]
+      ],
+      "image": "words/stay_calm.webp"
     },
     {
       "id": "stay_on_the_line",
@@ -279,7 +284,8 @@
         "hang up",
         "hold on",
         "on the way"
-      ]
+      ],
+      "image": "words/stay_on_the_line.webp"
     },
     {
       "id": "location",
@@ -297,7 +303,8 @@
         "vacation",
         "local",
         "allocation"
-      ]
+      ],
+      "image": "words/location.webp"
     },
     {
       "id": "emergency_contact",
@@ -315,7 +322,8 @@
         "eye contact",
         "contact lens",
         "emergency exit"
-      ]
+      ],
+      "image": "words/emergency_contact.webp"
     },
     {
       "id": "describe",
@@ -333,7 +341,8 @@
         "prescribe",
         "subscribe",
         "decide"
-      ]
+      ],
+      "image": "words/describe.webp"
     },
     {
       "id": "rescue",
@@ -351,7 +360,8 @@
         "rescuer",
         "resume",
         "risk"
-      ]
+      ],
+      "image": "words/rescue.webp"
     },
     {
       "id": "victim",
@@ -369,7 +379,8 @@
         "victory",
         "vitamin",
         "witness"
-      ]
+      ],
+      "image": "words/victim.webp"
     },
     {
       "id": "unconscious",
@@ -387,7 +398,8 @@
         "conscious",
         "unconvinced",
         "anxious"
-      ]
+      ],
+      "image": "words/unconscious.webp"
     },
     {
       "id": "breathing",
@@ -405,7 +417,8 @@
         "breath",
         "breeding",
         "bleeding"
-      ]
+      ],
+      "image": "words/breathing.webp"
     },
     {
       "id": "panic",
@@ -423,7 +436,8 @@
         "picnic",
         "pain",
         "manic"
-      ]
+      ],
+      "image": "words/panic.webp"
     },
     {
       "id": "slip",
@@ -441,7 +455,8 @@
         "sleep",
         "slide",
         "ship"
-      ]
+      ],
+      "image": "words/slip.webp"
     },
     {
       "id": "trip_over",
@@ -459,7 +474,8 @@
         "fall over",
         "trip",
         "take over"
-      ]
+      ],
+      "image": "words/trip_over.webp"
     },
     {
       "id": "fracture",
@@ -477,7 +493,8 @@
         "fraction",
         "furniture",
         "feature"
-      ]
+      ],
+      "image": "words/fracture.webp"
     },
     {
       "id": "concussion",
@@ -495,7 +512,8 @@
         "conclusion",
         "confusion",
         "discussion"
-      ]
+      ],
+      "image": "words/concussion.webp"
     },
     {
       "id": "choke",
@@ -513,7 +531,8 @@
         "chalk",
         "cheek",
         "joke"
-      ]
+      ],
+      "image": "words/choke.webp"
     },
     {
       "id": "faint",
@@ -531,7 +550,8 @@
         "paint",
         "feint",
         "fade"
-      ]
+      ],
+      "image": "words/faint.webp"
     },
     {
       "id": "cpr",
@@ -549,7 +569,8 @@
         "AED",
         "CV",
         "CPU"
-      ]
+      ],
+      "image": "words/cpr.webp"
     },
     {
       "id": "electric_shock",
@@ -567,7 +588,8 @@
         "shock",
         "electric",
         "short circuit"
-      ]
+      ],
+      "image": "words/electric_shock.webp"
     },
     {
       "id": "sting",
@@ -585,7 +607,8 @@
         "string",
         "sing",
         "stink"
-      ]
+      ],
+      "image": "words/sting.webp"
     },
     {
       "id": "poisoning",
@@ -603,7 +626,8 @@
         "poison",
         "poisonous",
         "prison"
-      ]
+      ],
+      "image": "words/poisoning.webp"
     },
     {
       "id": "drown",
@@ -621,7 +645,8 @@
         "drawn",
         "down",
         "drain"
-      ]
+      ],
+      "image": "words/drown.webp"
     },
     {
       "id": "collision",
@@ -639,7 +664,8 @@
         "collection",
         "decision",
         "coalition"
-      ]
+      ],
+      "image": "words/collision.webp"
     },
     {
       "id": "scald",
@@ -657,7 +683,8 @@
         "scold",
         "scale",
         "scar"
-      ]
+      ],
+      "image": "words/scald.webp"
     },
     {
       "id": "heatstroke",
@@ -675,7 +702,8 @@
         "stroke",
         "heart attack",
         "sunstroke"
-      ]
+      ],
+      "image": "words/heatstroke.webp"
     },
     {
       "id": "fire_alarm",
@@ -693,7 +721,8 @@
         "alarm clock",
         "fire drill",
         "car alarm"
-      ]
+      ],
+      "image": "words/fire_alarm.webp"
     },
     {
       "id": "smoke",
@@ -711,7 +740,8 @@
         "smog",
         "stroke",
         "smoky"
-      ]
+      ],
+      "image": "words/smoke.webp"
     },
     {
       "id": "fire_extinguisher",
@@ -729,7 +759,8 @@
         "fire engine",
         "extinct",
         "distinguisher"
-      ]
+      ],
+      "image": "words/fire_extinguisher.webp"
     },
     {
       "id": "fire_exit",
@@ -747,7 +778,8 @@
         "fire escape",
         "exit",
         "entrance"
-      ]
+      ],
+      "image": "words/fire_exit.webp"
     },
     {
       "id": "evacuate",
@@ -765,7 +797,8 @@
         "vacate",
         "evaluate",
         "vacuum"
-      ]
+      ],
+      "image": "words/evacuate.webp"
     },
     {
       "id": "assembly_point",
@@ -783,7 +816,8 @@
         "meeting point",
         "assembly",
         "assembly line"
-      ]
+      ],
+      "image": "words/assembly_point.webp"
     },
     {
       "id": "fire_drill",
@@ -801,7 +835,8 @@
         "drill",
         "fire alarm",
         "practice"
-      ]
+      ],
+      "image": "words/fire_drill.webp"
     },
     {
       "id": "smoke_detector",
@@ -819,7 +854,8 @@
         "metal detector",
         "smoke",
         "lie detector"
-      ]
+      ],
+      "image": "words/smoke_detector.webp"
     },
     {
       "id": "firefighter",
@@ -837,7 +873,8 @@
         "fighter",
         "fireman",
         "freighter"
-      ]
+      ],
+      "image": "words/firefighter.webp"
     },
     {
       "id": "fire_truck",
@@ -855,7 +892,8 @@
         "fire engine",
         "tow truck",
         "truck"
-      ]
+      ],
+      "image": "words/fire_truck.webp"
     },
     {
       "id": "flames",
@@ -873,7 +911,8 @@
         "frames",
         "flags",
         "flashes"
-      ]
+      ],
+      "image": "words/flames.webp"
     },
     {
       "id": "stairwell",
@@ -891,7 +930,8 @@
         "stairs",
         "stairway",
         "well"
-      ]
+      ],
+      "image": "words/stairwell.webp"
     },
     {
       "id": "crawl",
@@ -909,7 +949,8 @@
         "crow",
         "call",
         "claw"
-      ]
+      ],
+      "image": "words/crawl.webp"
     },
     {
       "id": "put_out",
@@ -927,7 +968,8 @@
         "put off",
         "put on",
         "take out"
-      ]
+      ],
+      "image": "words/put_out.webp"
     },
     {
       "id": "police_station",
@@ -945,7 +987,8 @@
         "train station",
         "fire station",
         "police"
-      ]
+      ],
+      "image": "words/police_station.webp"
     },
     {
       "id": "crime",
@@ -963,7 +1006,8 @@
         "criminal",
         "climb",
         "cream"
-      ]
+      ],
+      "image": "words/crime.webp"
     },
     {
       "id": "thief",
@@ -981,7 +1025,8 @@
         "thieves",
         "chief",
         "theft"
-      ]
+      ],
+      "image": "words/thief.webp"
     },
     {
       "id": "robbery",
@@ -999,7 +1044,8 @@
         "burglary",
         "rubbery",
         "bribery"
-      ]
+      ],
+      "image": "words/robbery.webp"
     },
     {
       "id": "burglary",
@@ -1017,7 +1063,8 @@
         "robbery",
         "burger",
         "bakery"
-      ]
+      ],
+      "image": "words/burglary.webp"
     },
     {
       "id": "bystander",
@@ -1035,7 +1082,8 @@
         "bypass",
         "standby",
         "outsider"
-      ]
+      ],
+      "image": "words/bystander.webp"
     },
     {
       "id": "suspect",
@@ -1053,7 +1101,8 @@
         "suspicious",
         "respect",
         "aspect"
-      ]
+      ],
+      "image": "words/suspect.webp"
     },
     {
       "id": "police_report",
@@ -1071,7 +1120,8 @@
         "report card",
         "weather report",
         "police"
-      ]
+      ],
+      "image": "words/police_report.webp"
     },
     {
       "id": "arrest",
@@ -1089,7 +1139,8 @@
         "rest",
         "arrive",
         "assist"
-      ]
+      ],
+      "image": "words/arrest.webp"
     },
     {
       "id": "case_number",
@@ -1107,7 +1158,8 @@
         "phone number",
         "case",
         "serial number"
-      ]
+      ],
+      "image": "words/case_number.webp"
     },
     {
       "id": "break_in",
@@ -1125,7 +1177,8 @@
         "break down",
         "break up",
         "break out"
-      ]
+      ],
+      "image": "words/break_in.webp"
     },
     {
       "id": "assault",
@@ -1143,7 +1196,8 @@
         "salt",
         "insult",
         "result"
-      ]
+      ],
+      "image": "words/assault.webp"
     },
     {
       "id": "harassment",
@@ -1161,7 +1215,8 @@
         "embarrassment",
         "harass",
         "management"
-      ]
+      ],
+      "image": "words/harassment.webp"
     },
     {
       "id": "cctv",
@@ -1179,7 +1234,8 @@
         "TV",
         "CV",
         "DVD"
-      ]
+      ],
+      "image": "words/cctv.webp"
     },
     {
       "id": "disaster",
@@ -1197,7 +1253,8 @@
         "desert",
         "dessert",
         "distance"
-      ]
+      ],
+      "image": "words/disaster.webp"
     },
     {
       "id": "aftershock",
@@ -1215,7 +1272,8 @@
         "shock",
         "afternoon",
         "after all"
-      ]
+      ],
+      "image": "words/aftershock.webp"
     },
     {
       "id": "tremor",
@@ -1233,7 +1291,8 @@
         "tremble",
         "terror",
         "timer"
-      ]
+      ],
+      "image": "words/tremor.webp"
     },
     {
       "id": "hurricane",
@@ -1251,7 +1310,8 @@
         "hurry",
         "hurdle",
         "cyclone"
-      ]
+      ],
+      "image": "words/hurricane.webp"
     },
     {
       "id": "tornado",
@@ -1269,7 +1329,8 @@
         "torpedo",
         "volcano",
         "tomato"
-      ]
+      ],
+      "image": "words/tornado.webp"
     },
     {
       "id": "shelter",
@@ -1287,7 +1348,8 @@
         "shelf",
         "smelter",
         "shutter"
-      ]
+      ],
+      "image": "words/shelter.webp"
     },
     {
       "id": "siren",
@@ -1305,7 +1367,8 @@
         "sirloin",
         "sire",
         "alarm"
-      ]
+      ],
+      "image": "words/siren.webp"
     },
     {
       "id": "blackout",
@@ -1323,7 +1386,8 @@
         "breakout",
         "black",
         "checkout"
-      ]
+      ],
+      "image": "words/blackout.webp"
     },
     {
       "id": "emergency_kit",
@@ -1341,7 +1405,8 @@
         "first aid",
         "tool kit",
         "emergency exit"
-      ]
+      ],
+      "image": "words/emergency_kit.webp"
     },
     {
       "id": "high_ground",
@@ -1359,7 +1424,8 @@
         "playground",
         "high school",
         "background"
-      ]
+      ],
+      "image": "words/high_ground.webp"
     },
     {
       "id": "take_cover",
@@ -1377,7 +1443,8 @@
         "take care",
         "take over",
         "cover up"
-      ]
+      ],
+      "image": "words/take_cover.webp"
     },
     {
       "id": "sandbag",
@@ -1395,7 +1462,8 @@
         "handbag",
         "sandal",
         "sandbank"
-      ]
+      ],
+      "image": "words/sandbag.webp"
     },
     {
       "id": "eruption",
@@ -1413,7 +1481,8 @@
         "corruption",
         "interruption",
         "erosion"
-      ]
+      ],
+      "image": "words/eruption.webp"
     },
     {
       "id": "relief",
@@ -1431,7 +1500,8 @@
         "believe",
         "belief",
         "release"
-      ]
+      ],
+      "image": "words/relief.webp"
     },
     {
       "id": "misplace",
@@ -1449,7 +1519,8 @@
         "misspell",
         "replace",
         "displace"
-      ]
+      ],
+      "image": "words/misplace.webp"
     },
     {
       "id": "missing",
@@ -1467,7 +1538,8 @@
         "mission",
         "mixing",
         "kissing"
-      ]
+      ],
+      "image": "words/missing.webp"
     },
     {
       "id": "lost_and_found",
@@ -1485,7 +1557,8 @@
         "lost luggage",
         "found",
         "lost property"
-      ]
+      ],
+      "image": "words/lost_and_found.webp"
     },
     {
       "id": "theft",
@@ -1503,7 +1576,8 @@
         "thief",
         "left",
         "thrift"
-      ]
+      ],
+      "image": "words/theft.webp"
     },
     {
       "id": "belongings",
@@ -1521,7 +1595,8 @@
         "belong",
         "buildings",
         "blessings"
-      ]
+      ],
+      "image": "words/belongings.webp"
     },
     {
       "id": "valuables",
@@ -1539,7 +1614,8 @@
         "valuable",
         "values",
         "vegetables"
-      ]
+      ],
+      "image": "words/valuables.webp"
     },
     {
       "id": "retrace",
@@ -1557,7 +1633,8 @@
         "trace",
         "replace",
         "retreat"
-      ]
+      ],
+      "image": "words/retrace.webp"
     },
     {
       "id": "left_behind",
@@ -1575,7 +1652,8 @@
         "fall behind",
         "left over",
         "behind"
-      ]
+      ],
+      "image": "words/left_behind.webp"
     },
     {
       "id": "replacement",
@@ -1593,7 +1671,8 @@
         "placement",
         "replace",
         "displacement"
-      ]
+      ],
+      "image": "words/replacement.webp"
     },
     {
       "id": "emergency_passport",
@@ -1611,7 +1690,8 @@
         "passport",
         "emergency exit",
         "boarding pass"
-      ]
+      ],
+      "image": "words/emergency_passport.webp"
     },
     {
       "id": "cancel_the_card",
@@ -1629,7 +1709,8 @@
         "cancel the order",
         "cancel the trip",
         "card"
-      ]
+      ],
+      "image": "words/cancel_the_card.webp"
     },
     {
       "id": "serial_number",
@@ -1647,7 +1728,8 @@
         "cereal",
         "phone number",
         "model number"
-      ]
+      ],
+      "image": "words/serial_number.webp"
     },
     {
       "id": "file_a_claim",
@@ -1665,7 +1747,8 @@
         "file a report",
         "fill a form",
         "claim"
-      ]
+      ],
+      "image": "words/file_a_claim.webp"
     },
     {
       "id": "consulate",
@@ -1683,7 +1766,8 @@
         "consult",
         "console",
         "consultant"
-      ]
+      ],
+      "image": "words/consulate.webp"
     },
     {
       "id": "caution",
@@ -1701,7 +1785,8 @@
         "cushion",
         "auction",
         "cautious"
-      ]
+      ],
+      "image": "words/caution.webp"
     },
     {
       "id": "danger",
@@ -1719,7 +1804,8 @@
         "dangerous",
         "anger",
         "ranger"
-      ]
+      ],
+      "image": "words/danger.webp"
     },
     {
       "id": "warning",
@@ -1737,7 +1823,8 @@
         "warming",
         "morning",
         "warn"
-      ]
+      ],
+      "image": "words/warning.webp"
     },
     {
       "id": "hazard",
@@ -1755,7 +1842,8 @@
         "haggard",
         "wizard",
         "hazel"
-      ]
+      ],
+      "image": "words/hazard.webp"
     },
     {
       "id": "keep_out",
@@ -1773,7 +1861,8 @@
         "keep off",
         "keep up",
         "get out"
-      ]
+      ],
+      "image": "words/keep_out.webp"
     },
     {
       "id": "no_entry",
@@ -1791,7 +1880,8 @@
         "no exit",
         "no parking",
         "entry"
-      ]
+      ],
+      "image": "words/no_entry.webp"
     },
     {
       "id": "slippery",
@@ -1809,7 +1899,8 @@
         "slipper",
         "sleepy",
         "slip"
-      ]
+      ],
+      "image": "words/slippery.webp"
     },
     {
       "id": "high_voltage",
@@ -1827,7 +1918,8 @@
         "high speed",
         "voltage",
         "high volume"
-      ]
+      ],
+      "image": "words/high_voltage.webp"
     },
     {
       "id": "flammable",
@@ -1845,7 +1937,8 @@
         "inflammable",
         "flavor",
         "fireproof"
-      ]
+      ],
+      "image": "words/flammable.webp"
     },
     {
       "id": "toxic",
@@ -1863,7 +1956,8 @@
         "tonic",
         "topic",
         "toxin"
-      ]
+      ],
+      "image": "words/toxic.webp"
     },
     {
       "id": "beware",
@@ -1881,7 +1975,8 @@
         "be aware",
         "because",
         "be careful"
-      ]
+      ],
+      "image": "words/beware.webp"
     },
     {
       "id": "wet_floor",
@@ -1899,7 +1994,8 @@
         "wet paint",
         "first floor",
         "ground floor"
-      ]
+      ],
+      "image": "words/wet_floor.webp"
     },
     {
       "id": "mind_the_gap",
@@ -1917,7 +2013,8 @@
         "mind the step",
         "fill the gap",
         "mind"
-      ]
+      ],
+      "image": "words/mind_the_gap.webp"
     },
     {
       "id": "out_of_order",
@@ -1935,7 +2032,8 @@
         "out of stock",
         "in order",
         "out of date"
-      ]
+      ],
+      "image": "words/out_of_order.webp"
     }
   ]
 }

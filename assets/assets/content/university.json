@@ -189,7 +189,8 @@
         "master's degree",
         "bachelor",
         "diploma"
-      ]
+      ],
+      "image": "words/bachelors_degree.webp"
     },
     {
       "id": "masters_degree",
@@ -207,7 +208,8 @@
         "bachelor's degree",
         "master",
         "mastery"
-      ]
+      ],
+      "image": "words/masters_degree.webp"
     },
     {
       "id": "phd",
@@ -225,7 +227,8 @@
         "MBA",
         "MD",
         "GPA"
-      ]
+      ],
+      "image": "words/phd.webp"
     },
     {
       "id": "tuition_fee",
@@ -243,7 +246,8 @@
         "tuition",
         "admission fee",
         "fee"
-      ]
+      ],
+      "image": "words/tuition_fee.webp"
     },
     {
       "id": "personal_statement",
@@ -261,7 +265,8 @@
         "bank statement",
         "personality",
         "personal space"
-      ]
+      ],
+      "image": "words/personal_statement.webp"
     },
     {
       "id": "recommendation_letter",
@@ -279,7 +284,8 @@
         "cover letter",
         "reference",
         "recommendation"
-      ]
+      ],
+      "image": "words/recommendation_letter.webp"
     },
     {
       "id": "acceptance_letter",
@@ -297,7 +303,8 @@
         "rejection letter",
         "acceptable",
         "admission"
-      ]
+      ],
+      "image": "words/acceptance_letter.webp"
     },
     {
       "id": "faculty",
@@ -315,7 +322,8 @@
         "facility",
         "factory",
         "facultative"
-      ]
+      ],
+      "image": "words/faculty.webp"
     },
     {
       "id": "program",
@@ -333,7 +341,8 @@
         "programme",
         "project",
         "progress"
-      ]
+      ],
+      "image": "words/program.webp"
     },
     {
       "id": "intake",
@@ -351,7 +360,8 @@
         "income",
         "input",
         "uptake"
-      ]
+      ],
+      "image": "words/intake.webp"
     },
     {
       "id": "prerequisite",
@@ -369,7 +379,8 @@
         "requirement",
         "perquisite",
         "exquisite"
-      ]
+      ],
+      "image": "words/prerequisite.webp"
     },
     {
       "id": "gpa",
@@ -387,7 +398,8 @@
         "GPS",
         "grade",
         "PhD"
-      ]
+      ],
+      "image": "words/gpa.webp"
     },
     {
       "id": "international_student",
@@ -405,7 +417,8 @@
         "exchange student",
         "foreigner",
         "immigrant"
-      ]
+      ],
+      "image": "words/international_student.webp"
     },
     {
       "id": "student_visa",
@@ -423,7 +436,8 @@
         "tourist visa",
         "work permit",
         "visa"
-      ]
+      ],
+      "image": "words/student_visa.webp"
     },
     {
       "id": "campus",
@@ -441,7 +455,8 @@
         "compass",
         "camp",
         "canvas"
-      ]
+      ],
+      "image": "words/campus.webp"
     },
     {
       "id": "lecture_hall",
@@ -459,7 +474,8 @@
         "city hall",
         "lecture",
         "dining hall"
-      ]
+      ],
+      "image": "words/lecture_hall.webp"
     },
     {
       "id": "student_union",
@@ -477,7 +493,8 @@
         "trade union",
         "student loan",
         "reunion"
-      ]
+      ],
+      "image": "words/student_union.webp"
     },
     {
       "id": "cafeteria",
@@ -495,7 +512,8 @@
         "café",
         "bakery",
         "cathedral"
-      ]
+      ],
+      "image": "words/cafeteria.webp"
     },
     {
       "id": "orientation",
@@ -513,7 +531,8 @@
         "organization",
         "orientate",
         "origin"
-      ]
+      ],
+      "image": "words/orientation.webp"
     },
     {
       "id": "student_id",
@@ -531,7 +550,8 @@
         "ID card",
         "student card",
         "studio"
-      ]
+      ],
+      "image": "words/student_id.webp"
     },
     {
       "id": "computer_lab",
@@ -549,7 +569,8 @@
         "language lab",
         "laptop",
         "computer"
-      ]
+      ],
+      "image": "words/computer_lab.webp"
     },
     {
       "id": "study_room",
@@ -567,7 +588,8 @@
         "studio",
         "living room",
         "classroom"
-      ]
+      ],
+      "image": "words/study_room.webp"
     },
     {
       "id": "bookstore",
@@ -585,7 +607,8 @@
         "bookshop",
         "library",
         "bookshelf"
-      ]
+      ],
+      "image": "words/bookstore.webp"
     },
     {
       "id": "counseling",
@@ -603,7 +626,8 @@
         "council",
         "consulting",
         "cancelling"
-      ]
+      ],
+      "image": "words/counseling.webp"
     },
     {
       "id": "career_center",
@@ -621,7 +645,8 @@
         "call center",
         "career",
         "shopping center"
-      ]
+      ],
+      "image": "words/career_center.webp"
     },
     {
       "id": "sports_center",
@@ -639,7 +664,8 @@
         "shopping center",
         "sports day",
         "stadium"
-      ]
+      ],
+      "image": "words/sports_center.webp"
     },
     {
       "id": "common_room",
@@ -657,7 +683,8 @@
         "living room",
         "common area",
         "chat room"
-      ]
+      ],
+      "image": "words/common_room.webp"
     },
     {
       "id": "shuttle_bus",
@@ -675,7 +702,8 @@
         "school bus",
         "shuttlecock",
         "minibus"
-      ]
+      ],
+      "image": "words/shuttle_bus.webp"
     },
     {
       "id": "course",
@@ -693,7 +721,8 @@
         "cause",
         "coarse",
         "curse"
-      ]
+      ],
+      "image": "words/course.webp"
     },
     {
       "id": "module",
@@ -711,7 +740,8 @@
         "model",
         "mobile",
         "molecule"
-      ]
+      ],
+      "image": "words/module.webp"
     },
     {
       "id": "credit",
@@ -729,7 +759,8 @@
         "credit card",
         "debit",
         "cradle"
-      ]
+      ],
+      "image": "words/credit.webp"
     },
     {
       "id": "elective",
@@ -747,7 +778,8 @@
         "electric",
         "selective",
         "effective"
-      ]
+      ],
+      "image": "words/elective.webp"
     },
     {
       "id": "compulsory",
@@ -765,7 +797,8 @@
         "compulsive",
         "optional",
         "compound"
-      ]
+      ],
+      "image": "words/compulsory.webp"
     },
     {
       "id": "register",
@@ -783,7 +816,8 @@
         "registrar",
         "record",
         "resist"
-      ]
+      ],
+      "image": "words/register.webp"
     },
     {
       "id": "syllabus",
@@ -801,7 +835,8 @@
         "syllable",
         "symbol",
         "salary"
-      ]
+      ],
+      "image": "words/syllabus.webp"
     },
     {
       "id": "academic_year",
@@ -819,7 +854,8 @@
         "calendar year",
         "leap year",
         "academy"
-      ]
+      ],
+      "image": "words/academic_year.webp"
     },
     {
       "id": "advisor",
@@ -837,7 +873,8 @@
         "adviser",
         "supervisor",
         "advertiser"
-      ]
+      ],
+      "image": "words/advisor.webp"
     },
     {
       "id": "minor",
@@ -855,7 +892,8 @@
         "miner",
         "major",
         "mirror"
-      ]
+      ],
+      "image": "words/minor.webp"
     },
     {
       "id": "core_course",
@@ -873,7 +911,8 @@
         "crash course",
         "golf course",
         "corner"
-      ]
+      ],
+      "image": "words/core_course.webp"
     },
     {
       "id": "drop",
@@ -891,7 +930,8 @@
         "drip",
         "withdraw",
         "dropout"
-      ]
+      ],
+      "image": "words/drop.webp"
     },
     {
       "id": "course_catalog",
@@ -909,7 +949,8 @@
         "catalogue",
         "course",
         "calendar"
-      ]
+      ],
+      "image": "words/course_catalog.webp"
     },
     {
       "id": "coursework",
@@ -927,7 +968,8 @@
         "homework",
         "course",
         "workshop"
-      ]
+      ],
+      "image": "words/coursework.webp"
     },
     {
       "id": "lecture",
@@ -945,7 +987,8 @@
         "lecturer",
         "literature",
         "leisure"
-      ]
+      ],
+      "image": "words/lecture.webp"
     },
     {
       "id": "lecturer",
@@ -963,7 +1006,8 @@
         "lecture",
         "lawyer",
         "lecturing"
-      ]
+      ],
+      "image": "words/lecturer.webp"
     },
     {
       "id": "professor",
@@ -981,7 +1025,8 @@
         "professional",
         "profession",
         "processor"
-      ]
+      ],
+      "image": "words/professor.webp"
     },
     {
       "id": "seminar",
@@ -999,7 +1044,8 @@
         "semester",
         "summary",
         "cinema"
-      ]
+      ],
+      "image": "words/seminar.webp"
     },
     {
       "id": "tutorial",
@@ -1017,7 +1063,8 @@
         "tutor",
         "trial",
         "territorial"
-      ]
+      ],
+      "image": "words/tutorial.webp"
     },
     {
       "id": "attend",
@@ -1035,7 +1082,8 @@
         "attempt",
         "intend",
         "tend"
-      ]
+      ],
+      "image": "words/attend.webp"
     },
     {
       "id": "lecture_notes",
@@ -1053,7 +1101,8 @@
         "lecture",
         "notebook",
         "sticky notes"
-      ]
+      ],
+      "image": "words/lecture_notes.webp"
     },
     {
       "id": "participate",
@@ -1071,7 +1120,8 @@
         "anticipate",
         "particular",
         "part"
-      ]
+      ],
+      "image": "words/participate.webp"
     },
     {
       "id": "office_hours",
@@ -1089,7 +1139,8 @@
         "opening hours",
         "working hours",
         "quiet hours"
-      ]
+      ],
+      "image": "words/office_hours.webp"
     },
     {
       "id": "reading_list",
@@ -1107,7 +1158,8 @@
         "wish list",
         "playlist",
         "reading"
-      ]
+      ],
+      "image": "words/reading_list.webp"
     },
     {
       "id": "guest_speaker",
@@ -1125,7 +1177,8 @@
         "loudspeaker",
         "guest",
         "native speaker"
-      ]
+      ],
+      "image": "words/guest_speaker.webp"
     },
     {
       "id": "concept",
@@ -1143,7 +1196,8 @@
         "context",
         "concert",
         "consent"
-      ]
+      ],
+      "image": "words/concept.webp"
     },
     {
       "id": "keep_up",
@@ -1161,7 +1215,8 @@
         "keep on",
         "catch up",
         "give up"
-      ]
+      ],
+      "image": "words/keep_up.webp"
     },
     {
       "id": "fall_behind",
@@ -1179,7 +1234,8 @@
         "fall down",
         "leave behind",
         "fall apart"
-      ]
+      ],
+      "image": "words/fall_behind.webp"
     },
     {
       "id": "thesis",
@@ -1197,7 +1253,8 @@
         "theses",
         "these",
         "thesaurus"
-      ]
+      ],
+      "image": "words/thesis.webp"
     },
     {
       "id": "dissertation",
@@ -1215,7 +1272,8 @@
         "presentation",
         "desertion",
         "dissertate"
-      ]
+      ],
+      "image": "words/dissertation.webp"
     },
     {
       "id": "citation",
@@ -1233,7 +1291,8 @@
         "situation",
         "station",
         "recitation"
-      ]
+      ],
+      "image": "words/citation.webp"
     },
     {
       "id": "cite",
@@ -1251,7 +1310,8 @@
         "site",
         "sight",
         "city"
-      ]
+      ],
+      "image": "words/cite.webp"
     },
     {
       "id": "bibliography",
@@ -1269,7 +1329,8 @@
         "biography",
         "biology",
         "bibliophile"
-      ]
+      ],
+      "image": "words/bibliography.webp"
     },
     {
       "id": "plagiarism",
@@ -1287,7 +1348,8 @@
         "plague",
         "pluralism",
         "patriotism"
-      ]
+      ],
+      "image": "words/plagiarism.webp"
     },
     {
       "id": "paraphrase",
@@ -1305,7 +1367,8 @@
         "phrase",
         "paragraph",
         "paralyze"
-      ]
+      ],
+      "image": "words/paraphrase.webp"
     },
     {
       "id": "word_count",
@@ -1323,7 +1386,8 @@
         "headcount",
         "word",
         "account"
-      ]
+      ],
+      "image": "words/word_count.webp"
     },
     {
       "id": "proofread",
@@ -1341,7 +1405,8 @@
         "proof",
         "read",
         "reread"
-      ]
+      ],
+      "image": "words/proofread.webp"
     },
     {
       "id": "outline",
@@ -1359,7 +1424,8 @@
         "online",
         "headline",
         "outlet"
-      ]
+      ],
+      "image": "words/outline.webp"
     },
     {
       "id": "argument",
@@ -1377,7 +1443,8 @@
         "agreement",
         "arrangement",
         "augment"
-      ]
+      ],
+      "image": "words/argument.webp"
     },
     {
       "id": "source",
@@ -1395,7 +1462,8 @@
         "sauce",
         "course",
         "resource"
-      ]
+      ],
+      "image": "words/source.webp"
     },
     {
       "id": "abstract",
@@ -1413,7 +1481,8 @@
         "attract",
         "extract",
         "abstain"
-      ]
+      ],
+      "image": "words/abstract.webp"
     },
     {
       "id": "extension",
@@ -1431,7 +1500,8 @@
         "extent",
         "expansion",
         "intention"
-      ]
+      ],
+      "image": "words/extension.webp"
     },
     {
       "id": "open_book_exam",
@@ -1449,7 +1519,8 @@
         "final exam",
         "textbook",
         "open day"
-      ]
+      ],
+      "image": "words/open_book_exam.webp"
     },
     {
       "id": "multiple_choice",
@@ -1467,7 +1538,8 @@
         "multiply",
         "first choice",
         "multiple"
-      ]
+      ],
+      "image": "words/multiple_choice.webp"
     },
     {
       "id": "proctor",
@@ -1485,7 +1557,8 @@
         "doctor",
         "protector",
         "projector"
-      ]
+      ],
+      "image": "words/proctor.webp"
     },
     {
       "id": "mark",
@@ -1503,7 +1576,8 @@
         "market",
         "march",
         "mask"
-      ]
+      ],
+      "image": "words/mark.webp"
     },
     {
       "id": "grading",
@@ -1521,7 +1595,8 @@
         "trading",
         "grade",
         "gradient"
-      ]
+      ],
+      "image": "words/grading.webp"
     },
     {
       "id": "distinction",
@@ -1539,7 +1614,8 @@
         "destination",
         "description",
         "extinction"
-      ]
+      ],
+      "image": "words/distinction.webp"
     },
     {
       "id": "honors",
@@ -1557,7 +1633,8 @@
         "honest",
         "owners",
         "honours"
-      ]
+      ],
+      "image": "words/honors.webp"
     },
     {
       "id": "resit",
@@ -1575,7 +1652,8 @@
         "reset",
         "resist",
         "resident"
-      ]
+      ],
+      "image": "words/resit.webp"
     },
     {
       "id": "academic_probation",
@@ -1593,7 +1671,8 @@
         "probation",
         "academic year",
         "promotion"
-      ]
+      ],
+      "image": "words/academic_probation.webp"
     },
     {
       "id": "resubmit",
@@ -1611,7 +1690,8 @@
         "submit",
         "resume",
         "resist"
-      ]
+      ],
+      "image": "words/resubmit.webp"
     },
     {
       "id": "study_group",
@@ -1629,7 +1709,8 @@
         "group work",
         "student group",
         "study room"
-      ]
+      ],
+      "image": "words/study_group.webp"
     },
     {
       "id": "past_paper",
@@ -1647,7 +1728,8 @@
         "newspaper",
         "paper",
         "past tense"
-      ]
+      ],
+      "image": "words/past_paper.webp"
     },
     {
       "id": "all_nighter",
@@ -1665,7 +1747,8 @@
         "overnight",
         "nightlife",
         "night shift"
-      ]
+      ],
+      "image": "words/all_nighter.webp"
     },
     {
       "id": "finals_week",
@@ -1683,7 +1766,8 @@
         "final exam",
         "weekend",
         "finale"
-      ]
+      ],
+      "image": "words/finals_week.webp"
     },
     {
       "id": "society",
@@ -1701,7 +1785,8 @@
         "social",
         "sociology",
         "secretary"
-      ]
+      ],
+      "image": "words/society.webp"
     },
     {
       "id": "welcome_week",
@@ -1719,7 +1804,8 @@
         "weekend",
         "welcome",
         "work week"
-      ]
+      ],
+      "image": "words/welcome_week.webp"
     },
     {
       "id": "student_loan",
@@ -1737,7 +1823,8 @@
         "student union",
         "home loan",
         "student card"
-      ]
+      ],
+      "image": "words/student_loan.webp"
     },
     {
       "id": "part_time_job",
@@ -1755,7 +1842,8 @@
         "full-time job",
         "part-time",
         "dream job"
-      ]
+      ],
+      "image": "words/part_time_job.webp"
     },
     {
       "id": "exchange_program",
@@ -1773,7 +1861,8 @@
         "exchange rate",
         "exchange student",
         "exchange"
-      ]
+      ],
+      "image": "words/exchange_program.webp"
     },
     {
       "id": "gap_year",
@@ -1791,7 +1880,8 @@
         "leap year",
         "gap",
         "year off"
-      ]
+      ],
+      "image": "words/gap_year.webp"
     },
     {
       "id": "alumni",
@@ -1809,7 +1899,8 @@
         "aluminum",
         "alumnus",
         "alien"
-      ]
+      ],
+      "image": "words/alumni.webp"
     },
     {
       "id": "commencement",
@@ -1827,7 +1918,8 @@
         "commerce",
         "comment",
         "commitment"
-      ]
+      ],
+      "image": "words/commencement.webp"
     },
     {
       "id": "cap_and_gown",
@@ -1845,7 +1937,8 @@
         "cap",
         "gown",
         "nightgown"
-      ]
+      ],
+      "image": "words/cap_and_gown.webp"
     },
     {
       "id": "dean",
@@ -1863,7 +1956,8 @@
         "dear",
         "den",
         "deal"
-      ]
+      ],
+      "image": "words/dean.webp"
     },
     {
       "id": "graduate_school",
@@ -1881,7 +1975,8 @@
         "high school",
         "grade",
         "graduate"
-      ]
+      ],
+      "image": "words/graduate_school.webp"
     },
     {
       "id": "networking",
@@ -1899,7 +1994,8 @@
         "network",
         "internet",
         "working"
-      ]
+      ],
+      "image": "words/networking.webp"
     },
     {
       "id": "volunteer",
@@ -1917,7 +2013,8 @@
         "volume",
         "voluntary",
         "valentine"
-      ]
+      ],
+      "image": "words/volunteer.webp"
     },
     {
       "id": "final_year",
@@ -1935,7 +2032,8 @@
         "first year",
         "final exam",
         "gap year"
-      ]
+      ],
+      "image": "words/final_year.webp"
     }
   ]
 }

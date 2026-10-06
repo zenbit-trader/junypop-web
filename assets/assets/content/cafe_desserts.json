@@ -189,7 +189,8 @@
         "express",
         "expression",
         "impress"
-      ]
+      ],
+      "image": "words/espresso.webp"
     },
     {
       "id": "latte",
@@ -207,7 +208,8 @@
         "late",
         "later",
         "lettuce"
-      ]
+      ],
+      "image": "words/latte.webp"
     },
     {
       "id": "cappuccino",
@@ -225,7 +227,8 @@
         "Capricorn",
         "macchiato",
         "mocha"
-      ]
+      ],
+      "image": "words/cappuccino.webp"
     },
     {
       "id": "americano",
@@ -243,7 +246,8 @@
         "American",
         "macchiato",
         "africano"
-      ]
+      ],
+      "image": "words/americano.webp"
     },
     {
       "id": "mocha",
@@ -261,7 +265,8 @@
         "matcha",
         "macho",
         "mock"
-      ]
+      ],
+      "image": "words/mocha.webp"
     },
     {
       "id": "cold_brew",
@@ -279,7 +284,8 @@
         "cold coffee",
         "brewery",
         "cold drink"
-      ]
+      ],
+      "image": "words/cold_brew.webp"
     },
     {
       "id": "iced",
@@ -297,7 +303,8 @@
         "ice",
         "icy",
         "ice cube"
-      ]
+      ],
+      "image": "words/iced.webp"
     },
     {
       "id": "decaf",
@@ -315,7 +322,8 @@
         "default",
         "decade",
         "decay"
-      ]
+      ],
+      "image": "words/decaf.webp"
     },
     {
       "id": "oat_milk",
@@ -333,7 +341,8 @@
         "almond milk",
         "goat milk",
         "oatmeal"
-      ]
+      ],
+      "image": "words/oat_milk.webp"
     },
     {
       "id": "shot",
@@ -351,7 +360,8 @@
         "shoot",
         "short",
         "sheet"
-      ]
+      ],
+      "image": "words/shot.webp"
     },
     {
       "id": "foam",
@@ -369,7 +379,8 @@
         "form",
         "phone",
         "farm"
-      ]
+      ],
+      "image": "words/foam.webp"
     },
     {
       "id": "syrup",
@@ -387,7 +398,8 @@
         "slurp",
         "stirrup",
         "sugar"
-      ]
+      ],
+      "image": "words/syrup.webp"
     },
     {
       "id": "whipped_cream",
@@ -405,7 +417,8 @@
         "whip",
         "ice cream",
         "cream cheese"
-      ]
+      ],
+      "image": "words/whipped_cream.webp"
     },
     {
       "id": "caffeine",
@@ -423,7 +436,8 @@
         "cafeteria",
         "coffee bean",
         "cocaine"
-      ]
+      ],
+      "image": "words/caffeine.webp"
     },
     {
       "id": "matcha",
@@ -441,7 +455,8 @@
         "mocha",
         "match",
         "mascot"
-      ]
+      ],
+      "image": "words/matcha.webp"
     },
     {
       "id": "green_tea",
@@ -459,7 +474,8 @@
         "black tea",
         "matcha",
         "green beans"
-      ]
+      ],
+      "image": "words/green_tea.webp"
     },
     {
       "id": "milk_tea",
@@ -477,7 +493,8 @@
         "milkshake",
         "iced tea",
         "tea leaf"
-      ]
+      ],
+      "image": "words/milk_tea.webp"
     },
     {
       "id": "tapioca",
@@ -495,7 +512,8 @@
         "tapas",
         "tiramisu",
         "cassava"
-      ]
+      ],
+      "image": "words/tapioca.webp"
     },
     {
       "id": "pearls",
@@ -513,7 +531,8 @@
         "pears",
         "peels",
         "bubbles"
-      ]
+      ],
+      "image": "words/pearls.webp"
     },
     {
       "id": "jelly",
@@ -531,7 +550,8 @@
         "jealous",
         "jellyfish",
         "jam"
-      ]
+      ],
+      "image": "words/jelly.webp"
     },
     {
       "id": "brown_sugar",
@@ -549,7 +569,8 @@
         "white sugar",
         "sugar cane",
         "brownie"
-      ]
+      ],
+      "image": "words/brown_sugar.webp"
     },
     {
       "id": "less_sweet",
@@ -567,7 +588,8 @@
         "more sweet",
         "less ice",
         "sweeter"
-      ]
+      ],
+      "image": "words/less_sweet.webp"
     },
     {
       "id": "herbal_tea",
@@ -585,7 +607,8 @@
         "herb",
         "herbal medicine",
         "hot tea"
-      ]
+      ],
+      "image": "words/herbal_tea.webp"
     },
     {
       "id": "chai",
@@ -603,7 +626,8 @@
         "chain",
         "chat",
         "chia"
-      ]
+      ],
+      "image": "words/chai.webp"
     },
     {
       "id": "jasmine_tea",
@@ -621,7 +645,8 @@
         "jasmine rice",
         "ginger tea",
         "oolong tea"
-      ]
+      ],
+      "image": "words/jasmine_tea.webp"
     },
     {
       "id": "thai_tea",
@@ -639,7 +664,8 @@
         "tie",
         "thigh",
         "Thai coffee"
-      ]
+      ],
+      "image": "words/thai_tea.webp"
     },
     {
       "id": "fruit_tea",
@@ -657,7 +683,8 @@
         "fruit juice",
         "iced tea",
         "fruit salad"
-      ]
+      ],
+      "image": "words/fruit_tea.webp"
     },
     {
       "id": "chamomile",
@@ -675,7 +702,8 @@
         "camouflage",
         "caramel",
         "chameleon"
-      ]
+      ],
+      "image": "words/chamomile.webp"
     },
     {
       "id": "bakery",
@@ -693,7 +721,8 @@
         "baker",
         "battery",
         "pastry shop"
-      ]
+      ],
+      "image": "words/bakery.webp"
     },
     {
       "id": "croissant",
@@ -711,7 +740,8 @@
         "crescent",
         "crouton",
         "crossing"
-      ]
+      ],
+      "image": "words/croissant.webp"
     },
     {
       "id": "bagel",
@@ -729,7 +759,8 @@
         "beagle",
         "bangle",
         "bugle"
-      ]
+      ],
+      "image": "words/bagel.webp"
     },
     {
       "id": "muffin",
@@ -747,7 +778,8 @@
         "muffler",
         "puffin",
         "mitten"
-      ]
+      ],
+      "image": "words/muffin.webp"
     },
     {
       "id": "scone",
@@ -765,7 +797,8 @@
         "stone",
         "scoop",
         "cone"
-      ]
+      ],
+      "image": "words/scone.webp"
     },
     {
       "id": "pastry",
@@ -783,7 +816,8 @@
         "pasta",
         "paste",
         "poetry"
-      ]
+      ],
+      "image": "words/pastry.webp"
     },
     {
       "id": "bun",
@@ -801,7 +835,8 @@
         "bum",
         "ban",
         "bin"
-      ]
+      ],
+      "image": "words/bun.webp"
     },
     {
       "id": "toast",
@@ -819,7 +854,8 @@
         "toaster",
         "roast",
         "taste"
-      ]
+      ],
+      "image": "words/toast.webp"
     },
     {
       "id": "butter",
@@ -837,7 +873,8 @@
         "batter",
         "better",
         "bitter"
-      ]
+      ],
+      "image": "words/butter.webp"
     },
     {
       "id": "cream_cheese",
@@ -855,7 +892,8 @@
         "cream",
         "cheddar",
         "sour cream"
-      ]
+      ],
+      "image": "words/cream_cheese.webp"
     },
     {
       "id": "cinnamon_roll",
@@ -873,7 +911,8 @@
         "egg roll",
         "spring roll",
         "sausage roll"
-      ]
+      ],
+      "image": "words/cinnamon_roll.webp"
     },
     {
       "id": "sourdough",
@@ -891,7 +930,8 @@
         "dough",
         "sour cream",
         "sauerkraut"
-      ]
+      ],
+      "image": "words/sourdough.webp"
     },
     {
       "id": "baguette",
@@ -909,7 +949,8 @@
         "bucket",
         "banquet",
         "basket"
-      ]
+      ],
+      "image": "words/baguette.webp"
     },
     {
       "id": "pie",
@@ -927,7 +968,8 @@
         "pay",
         "pine",
         "tart"
-      ]
+      ],
+      "image": "words/pie.webp"
     },
     {
       "id": "cheesecake",
@@ -945,7 +987,8 @@
         "cheese",
         "cupcake",
         "cheese toast"
-      ]
+      ],
+      "image": "words/cheesecake.webp"
     },
     {
       "id": "brownie",
@@ -963,7 +1006,8 @@
         "brown",
         "browser",
         "bronze"
-      ]
+      ],
+      "image": "words/brownie.webp"
     },
     {
       "id": "cupcake",
@@ -981,7 +1025,8 @@
         "muffin",
         "cup",
         "pancake"
-      ]
+      ],
+      "image": "words/cupcake.webp"
     },
     {
       "id": "frosting",
@@ -999,7 +1044,8 @@
         "frost",
         "icing",
         "roasting"
-      ]
+      ],
+      "image": "words/frosting.webp"
     },
     {
       "id": "sponge_cake",
@@ -1017,7 +1063,8 @@
         "sponge",
         "pound cake",
         "sponge bath"
-      ]
+      ],
+      "image": "words/sponge_cake.webp"
     },
     {
       "id": "pudding",
@@ -1035,7 +1082,8 @@
         "padding",
         "pulling",
         "pouring"
-      ]
+      ],
+      "image": "words/pudding.webp"
     },
     {
       "id": "custard",
@@ -1053,7 +1101,8 @@
         "mustard",
         "custody",
         "crust"
-      ]
+      ],
+      "image": "words/custard.webp"
     },
     {
       "id": "macaron",
@@ -1071,7 +1120,8 @@
         "macaroon",
         "macaroni",
         "macramé"
-      ]
+      ],
+      "image": "words/macaron.webp"
     },
     {
       "id": "tart",
@@ -1089,7 +1139,8 @@
         "tartar",
         "start",
         "dart"
-      ]
+      ],
+      "image": "words/tart.webp"
     },
     {
       "id": "mousse",
@@ -1107,7 +1158,8 @@
         "moose",
         "mouse",
         "mouth"
-      ]
+      ],
+      "image": "words/mousse.webp"
     },
     {
       "id": "pancake",
@@ -1125,7 +1177,8 @@
         "cupcake",
         "pan",
         "frying pan"
-      ]
+      ],
+      "image": "words/pancake.webp"
     },
     {
       "id": "waffle",
@@ -1143,7 +1196,8 @@
         "falafel",
         "wobble",
         "wafer"
-      ]
+      ],
+      "image": "words/waffle.webp"
     },
     {
       "id": "eclair",
@@ -1161,7 +1215,8 @@
         "clear",
         "cream puff",
         "elixir"
-      ]
+      ],
+      "image": "words/eclair.webp"
     },
     {
       "id": "caramel",
@@ -1179,7 +1234,8 @@
         "camel",
         "carousel",
         "vanilla"
-      ]
+      ],
+      "image": "words/caramel.webp"
     },
     {
       "id": "scoop",
@@ -1197,7 +1253,8 @@
         "scope",
         "scooter",
         "soup"
-      ]
+      ],
+      "image": "words/scoop.webp"
     },
     {
       "id": "cone",
@@ -1215,7 +1272,8 @@
         "corn",
         "coin",
         "cane"
-      ]
+      ],
+      "image": "words/cone.webp"
     },
     {
       "id": "sundae",
@@ -1233,7 +1291,8 @@
         "Sunday",
         "sunny",
         "sun"
-      ]
+      ],
+      "image": "words/sundae.webp"
     },
     {
       "id": "gelato",
@@ -1251,7 +1310,8 @@
         "gelatin",
         "jello",
         "gel"
-      ]
+      ],
+      "image": "words/gelato.webp"
     },
     {
       "id": "sorbet",
@@ -1269,7 +1329,8 @@
         "sherbet",
         "sober",
         "sorbitol"
-      ]
+      ],
+      "image": "words/sorbet.webp"
     },
     {
       "id": "popsicle",
@@ -1287,7 +1348,8 @@
         "pop",
         "pumpkin",
         "bicycle"
-      ]
+      ],
+      "image": "words/popsicle.webp"
     },
     {
       "id": "vanilla",
@@ -1305,7 +1367,8 @@
         "villa",
         "villain",
         "manila"
-      ]
+      ],
+      "image": "words/vanilla.webp"
     },
     {
       "id": "strawberry",
@@ -1323,7 +1386,8 @@
         "blueberry",
         "straw",
         "raspberry"
-      ]
+      ],
+      "image": "words/strawberry.webp"
     },
     {
       "id": "sprinkles",
@@ -1341,7 +1405,8 @@
         "sparkles",
         "wrinkles",
         "sprint"
-      ]
+      ],
+      "image": "words/sprinkles.webp"
     },
     {
       "id": "marshmallow",
@@ -1359,7 +1424,8 @@
         "marsh",
         "mellow",
         "meadow"
-      ]
+      ],
+      "image": "words/marshmallow.webp"
     },
     {
       "id": "gummy",
@@ -1377,7 +1443,8 @@
         "gum",
         "yummy",
         "dummy"
-      ]
+      ],
+      "image": "words/gummy.webp"
     },
     {
       "id": "lollipop",
@@ -1395,7 +1462,8 @@
         "lolly",
         "lipstick",
         "pop"
-      ]
+      ],
+      "image": "words/lollipop.webp"
     },
     {
       "id": "cocoa",
@@ -1413,7 +1481,8 @@
         "coconut",
         "coca",
         "cacao"
-      ]
+      ],
+      "image": "words/cocoa.webp"
     },
     {
       "id": "shaved_ice",
@@ -1431,7 +1500,8 @@
         "ice cube",
         "shave",
         "snow cone"
-      ]
+      ],
+      "image": "words/shaved_ice.webp"
     },
     {
       "id": "barista",
@@ -1449,7 +1519,8 @@
         "bartender",
         "barrister",
         "baker"
-      ]
+      ],
+      "image": "words/barista.webp"
     },
     {
       "id": "coffee_shop",
@@ -1467,7 +1538,8 @@
         "coffee table",
         "workshop",
         "shopping"
-      ]
+      ],
+      "image": "words/coffee_shop.webp"
     },
     {
       "id": "loyalty_card",
@@ -1485,7 +1557,8 @@
         "credit card",
         "royalty card",
         "gift card"
-      ]
+      ],
+      "image": "words/loyalty_card.webp"
     },
     {
       "id": "for_here",
@@ -1503,7 +1576,8 @@
         "from here",
         "over here",
         "in here"
-      ]
+      ],
+      "image": "words/for_here.webp"
     },
     {
       "id": "to_go",
@@ -1521,7 +1595,8 @@
         "to get",
         "let's go",
         "to come"
-      ]
+      ],
+      "image": "words/to_go.webp"
     },
     {
       "id": "refill",
@@ -1539,7 +1614,8 @@
         "refund",
         "fulfill",
         "refuel"
-      ]
+      ],
+      "image": "words/refill.webp"
     },
     {
       "id": "mug",
@@ -1557,7 +1633,8 @@
         "mud",
         "bug",
         "jug"
-      ]
+      ],
+      "image": "words/mug.webp"
     },
     {
       "id": "tumbler",
@@ -1575,7 +1652,8 @@
         "tumble",
         "thimble",
         "blender"
-      ]
+      ],
+      "image": "words/tumbler.webp"
     },
     {
       "id": "saucer",
@@ -1593,7 +1671,8 @@
         "sauce",
         "source",
         "soccer"
-      ]
+      ],
+      "image": "words/saucer.webp"
     },
     {
       "id": "regular",
@@ -1611,7 +1690,8 @@
         "regularly",
         "rectangular",
         "register"
-      ]
+      ],
+      "image": "words/regular.webp"
     },
     {
       "id": "brunch",
@@ -1629,7 +1709,8 @@
         "branch",
         "bunch",
         "lunch"
-      ]
+      ],
+      "image": "words/brunch.webp"
     },
     {
       "id": "menu_board",
@@ -1647,7 +1728,8 @@
         "billboard",
         "keyboard",
         "menu bar"
-      ]
+      ],
+      "image": "words/menu_board.webp"
     },
     {
       "id": "lid",
@@ -1665,7 +1747,8 @@
         "lip",
         "led",
         "kid"
-      ]
+      ],
+      "image": "words/lid.webp"
     },
     {
       "id": "cafe_hopping",
@@ -1683,7 +1766,8 @@
         "hiking",
         "shopping",
         "bar hopping"
-      ]
+      ],
+      "image": "words/cafe_hopping.webp"
     },
     {
       "id": "sweetness_level",
@@ -1701,7 +1785,8 @@
         "sweet tooth",
         "sugar level",
         "sweetener"
-      ]
+      ],
+      "image": "words/sweetness_level.webp"
     },
     {
       "id": "extra_shot",
@@ -1719,7 +1804,8 @@
         "extra ice",
         "big shot",
         "double"
-      ]
+      ],
+      "image": "words/extra_shot.webp"
     },
     {
       "id": "less_ice",
@@ -1737,7 +1823,8 @@
         "no ice",
         "less sweet",
         "iced"
-      ]
+      ],
+      "image": "words/less_ice.webp"
     },
     {
       "id": "half_sweet",
@@ -1755,7 +1842,8 @@
         "half price",
         "semi-sweet",
         "half full"
-      ]
+      ],
+      "image": "words/half_sweet.webp"
     },
     {
       "id": "smooth",
@@ -1773,7 +1861,8 @@
         "smoothie",
         "smash",
         "soothe"
-      ]
+      ],
+      "image": "words/smooth.webp"
     },
     {
       "id": "frothy",
@@ -1791,7 +1880,8 @@
         "filthy",
         "frosty",
         "foamy"
-      ]
+      ],
+      "image": "words/frothy.webp"
     },
     {
       "id": "milky",
@@ -1809,7 +1899,8 @@
         "silky",
         "milk",
         "mild"
-      ]
+      ],
+      "image": "words/milky.webp"
     },
     {
       "id": "aromatic",
@@ -1827,7 +1918,8 @@
         "automatic",
         "aroma",
         "romantic"
-      ]
+      ],
+      "image": "words/aromatic.webp"
     },
     {
       "id": "nutty",
@@ -1845,7 +1937,8 @@
         "naughty",
         "nutrient",
         "nasty"
-      ]
+      ],
+      "image": "words/nutty.webp"
     },
     {
       "id": "sweet_tooth",
@@ -1863,7 +1956,8 @@
         "sweet teeth",
         "sweetheart",
         "toothache"
-      ]
+      ],
+      "image": "words/sweet_tooth.webp"
     },
     {
       "id": "fizzy",
@@ -1881,7 +1975,8 @@
         "dizzy",
         "fuzzy",
         "busy"
-      ]
+      ],
+      "image": "words/fizzy.webp"
     },
     {
       "id": "chilled",
@@ -1899,7 +1994,8 @@
         "child",
         "chili",
         "chilly"
-      ]
+      ],
+      "image": "words/chilled.webp"
     },
     {
       "id": "room_temperature",
@@ -1917,7 +2013,8 @@
         "body temperature",
         "room service",
         "room number"
-      ]
+      ],
+      "image": "words/room_temperature.webp"
     },
     {
       "id": "refreshing",
@@ -1935,7 +2032,8 @@
         "refreshment",
         "fresh",
         "refreshed"
-      ]
+      ],
+      "image": "words/refreshing.webp"
     }
   ]
 }

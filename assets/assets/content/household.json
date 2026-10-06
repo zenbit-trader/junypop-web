@@ -189,7 +189,8 @@
         "sleep",
         "swipe",
         "steep"
-      ]
+      ],
+      "image": "words/sweep.webp"
     },
     {
       "id": "broom",
@@ -207,7 +208,8 @@
         "bloom",
         "brush",
         "groom"
-      ]
+      ],
+      "image": "words/broom.webp"
     },
     {
       "id": "dustpan",
@@ -225,7 +227,8 @@
         "saucepan",
         "dustbin",
         "frying pan"
-      ]
+      ],
+      "image": "words/dustpan.webp"
     },
     {
       "id": "mop",
@@ -243,7 +246,8 @@
         "map",
         "mob",
         "mug"
-      ]
+      ],
+      "image": "words/mop.webp"
     },
     {
       "id": "vacuum_cleaner",
@@ -261,7 +265,8 @@
         "air purifier",
         "fan",
         "washing machine"
-      ]
+      ],
+      "image": "words/vacuum_cleaner.webp"
     },
     {
       "id": "wipe",
@@ -279,7 +284,8 @@
         "wide",
         "swipe",
         "type"
-      ]
+      ],
+      "image": "words/wipe.webp"
     },
     {
       "id": "scrub",
@@ -297,7 +303,8 @@
         "scrap",
         "screw",
         "scratch"
-      ]
+      ],
+      "image": "words/scrub.webp"
     },
     {
       "id": "sponge",
@@ -315,7 +322,8 @@
         "spoon",
         "sprinkle",
         "splash"
-      ]
+      ],
+      "image": "words/sponge.webp"
     },
     {
       "id": "bucket",
@@ -333,7 +341,8 @@
         "basket",
         "packet",
         "pocket"
-      ]
+      ],
+      "image": "words/bucket.webp"
     },
     {
       "id": "dust",
@@ -351,7 +360,8 @@
         "dusk",
         "mud",
         "rust"
-      ]
+      ],
+      "image": "words/dust.webp"
     },
     {
       "id": "stain",
@@ -369,7 +379,8 @@
         "strain",
         "steam",
         "stone"
-      ]
+      ],
+      "image": "words/stain.webp"
     },
     {
       "id": "tidy_up",
@@ -387,7 +398,8 @@
         "tie up",
         "tidy away",
         "wake up"
-      ]
+      ],
+      "image": "words/tidy_up.webp"
     },
     {
       "id": "trash_can",
@@ -405,7 +417,8 @@
         "trash bag",
         "tin can",
         "cash"
-      ]
+      ],
+      "image": "words/trash_can.webp"
     },
     {
       "id": "take_out_the_trash",
@@ -423,7 +436,8 @@
         "take out the dog",
         "throw up",
         "take a break"
-      ]
+      ],
+      "image": "words/take_out_the_trash.webp"
     },
     {
       "id": "laundry_basket",
@@ -441,7 +455,8 @@
         "laundry room",
         "shopping basket",
         "bread basket"
-      ]
+      ],
+      "image": "words/laundry_basket.webp"
     },
     {
       "id": "detergent",
@@ -459,7 +474,8 @@
         "deterrent",
         "deodorant",
         "disinfectant"
-      ]
+      ],
+      "image": "words/detergent.webp"
     },
     {
       "id": "fabric_softener",
@@ -477,7 +493,8 @@
         "fabric spray",
         "softer",
         "conditioner"
-      ]
+      ],
+      "image": "words/fabric_softener.webp"
     },
     {
       "id": "soak",
@@ -495,7 +512,8 @@
         "sock",
         "smoke",
         "sink"
-      ]
+      ],
+      "image": "words/soak.webp"
     },
     {
       "id": "rinse",
@@ -513,7 +531,8 @@
         "rise",
         "wrinkle",
         "ring"
-      ]
+      ],
+      "image": "words/rinse.webp"
     },
     {
       "id": "spin",
@@ -531,7 +550,8 @@
         "spill",
         "spit",
         "spine"
-      ]
+      ],
+      "image": "words/spin.webp"
     },
     {
       "id": "dryer",
@@ -549,7 +569,8 @@
         "drier",
         "driver",
         "dryness"
-      ]
+      ],
+      "image": "words/dryer.webp"
     },
     {
       "id": "clothesline",
@@ -567,7 +588,8 @@
         "clothes rack",
         "closet",
         "hotline"
-      ]
+      ],
+      "image": "words/clothesline.webp"
     },
     {
       "id": "hanger",
@@ -585,7 +607,8 @@
         "hunger",
         "hangar",
         "hammer"
-      ]
+      ],
+      "image": "words/hanger.webp"
     },
     {
       "id": "fold",
@@ -603,7 +626,8 @@
         "hold",
         "fault",
         "food"
-      ]
+      ],
+      "image": "words/fold.webp"
     },
     {
       "id": "ironing_board",
@@ -621,7 +645,8 @@
         "cutting board",
         "keyboard",
         "iron ring"
-      ]
+      ],
+      "image": "words/ironing_board.webp"
     },
     {
       "id": "shrink",
@@ -639,7 +664,8 @@
         "shrimp",
         "drink",
         "stretch"
-      ]
+      ],
+      "image": "words/shrink.webp"
     },
     {
       "id": "fade",
@@ -657,7 +683,8 @@
         "feed",
         "fake",
         "fail"
-      ]
+      ],
+      "image": "words/fade.webp"
     },
     {
       "id": "bleach",
@@ -675,7 +702,8 @@
         "beach",
         "breach",
         "bleed"
-      ]
+      ],
+      "image": "words/bleach.webp"
     },
     {
       "id": "cutting_board",
@@ -693,7 +721,8 @@
         "ironing board",
         "cutting edge",
         "bulletin board"
-      ]
+      ],
+      "image": "words/cutting_board.webp"
     },
     {
       "id": "pan",
@@ -711,7 +740,8 @@
         "pen",
         "pot",
         "pin"
-      ]
+      ],
+      "image": "words/pan.webp"
     },
     {
       "id": "pot",
@@ -729,7 +759,8 @@
         "pan",
         "port",
         "pod"
-      ]
+      ],
+      "image": "words/pot.webp"
     },
     {
       "id": "saucepan",
@@ -747,7 +778,8 @@
         "frying pan",
         "sauce",
         "dustpan"
-      ]
+      ],
+      "image": "words/saucepan.webp"
     },
     {
       "id": "stove",
@@ -765,7 +797,8 @@
         "stone",
         "store",
         "oven"
-      ]
+      ],
+      "image": "words/stove.webp"
     },
     {
       "id": "oven",
@@ -783,7 +816,8 @@
         "over",
         "open",
         "stove"
-      ]
+      ],
+      "image": "words/oven.webp"
     },
     {
       "id": "air_fryer",
@@ -801,7 +835,8 @@
         "deep fryer",
         "hair dryer",
         "air purifier"
-      ]
+      ],
+      "image": "words/air_fryer.webp"
     },
     {
       "id": "rice_cooker",
@@ -819,7 +854,8 @@
         "rice bowl",
         "pressure cooker",
         "kettle"
-      ]
+      ],
+      "image": "words/rice_cooker.webp"
     },
     {
       "id": "blender",
@@ -837,7 +873,8 @@
         "mixer",
         "bender",
         "blinder"
-      ]
+      ],
+      "image": "words/blender.webp"
     },
     {
       "id": "toaster",
@@ -855,7 +892,8 @@
         "toast",
         "roaster",
         "coaster"
-      ]
+      ],
+      "image": "words/toaster.webp"
     },
     {
       "id": "countertop",
@@ -873,7 +911,8 @@
         "counter",
         "tabletop",
         "rooftop"
-      ]
+      ],
+      "image": "words/countertop.webp"
     },
     {
       "id": "dish_soap",
@@ -891,7 +930,8 @@
         "hand soap",
         "dish rack",
         "detergent"
-      ]
+      ],
+      "image": "words/dish_soap.webp"
     },
     {
       "id": "dish_rack",
@@ -909,7 +949,8 @@
         "dish towel",
         "shoe rack",
         "dish soap"
-      ]
+      ],
+      "image": "words/dish_rack.webp"
     },
     {
       "id": "dishwasher",
@@ -927,7 +968,8 @@
         "washing machine",
         "dish rack",
         "car wash"
-      ]
+      ],
+      "image": "words/dishwasher.webp"
     },
     {
       "id": "bolt",
@@ -945,7 +987,8 @@
         "belt",
         "boat",
         "nut"
-      ]
+      ],
+      "image": "words/bolt.webp"
     },
     {
       "id": "nail",
@@ -963,7 +1006,8 @@
         "screw",
         "mail",
         "snail"
-      ]
+      ],
+      "image": "words/nail.webp"
     },
     {
       "id": "screw",
@@ -981,7 +1025,8 @@
         "nail",
         "crew",
         "scrub"
-      ]
+      ],
+      "image": "words/screw.webp"
     },
     {
       "id": "screwdriver",
@@ -999,7 +1044,8 @@
         "driver",
         "drill",
         "wrench"
-      ]
+      ],
+      "image": "words/screwdriver.webp"
     },
     {
       "id": "drill",
@@ -1017,7 +1063,8 @@
         "grill",
         "drip",
         "dull"
-      ]
+      ],
+      "image": "words/drill.webp"
     },
     {
       "id": "wrench",
@@ -1035,7 +1082,8 @@
         "bench",
         "wreck",
         "trench"
-      ]
+      ],
+      "image": "words/wrench.webp"
     },
     {
       "id": "pliers",
@@ -1053,7 +1101,8 @@
         "players",
         "pillars",
         "pliable"
-      ]
+      ],
+      "image": "words/pliers.webp"
     },
     {
       "id": "saw",
@@ -1071,7 +1120,8 @@
         "sew",
         "sow",
         "axe"
-      ]
+      ],
+      "image": "words/saw.webp"
     },
     {
       "id": "tape_measure",
@@ -1089,7 +1139,8 @@
         "ruler",
         "duct tape",
         "measurement"
-      ]
+      ],
+      "image": "words/tape_measure.webp"
     },
     {
       "id": "ladder",
@@ -1107,7 +1158,8 @@
         "letter",
         "leader",
         "latter"
-      ]
+      ],
+      "image": "words/ladder.webp"
     },
     {
       "id": "toolbox",
@@ -1125,7 +1177,8 @@
         "toolkit",
         "mailbox",
         "lunchbox"
-      ]
+      ],
+      "image": "words/toolbox.webp"
     },
     {
       "id": "box_cutter",
@@ -1143,7 +1196,8 @@
         "cutter",
         "paper cutter",
         "cookie cutter"
-      ]
+      ],
+      "image": "words/box_cutter.webp"
     },
     {
       "id": "duct_tape",
@@ -1161,7 +1215,8 @@
         "scotch tape",
         "masking tape",
         "duck"
-      ]
+      ],
+      "image": "words/duct_tape.webp"
     },
     {
       "id": "sandpaper",
@@ -1179,7 +1234,8 @@
         "wallpaper",
         "newspaper",
         "sandbag"
-      ]
+      ],
+      "image": "words/sandpaper.webp"
     },
     {
       "id": "spare_part",
@@ -1197,7 +1253,8 @@
         "spare time",
         "spare room",
         "part-time"
-      ]
+      ],
+      "image": "words/spare_part.webp"
     },
     {
       "id": "plunger",
@@ -1215,7 +1272,8 @@
         "plumber",
         "plug",
         "pliers"
-      ]
+      ],
+      "image": "words/plunger.webp"
     },
     {
       "id": "circuit_breaker",
@@ -1233,7 +1291,8 @@
         "fuse box",
         "circuit",
         "ice breaker"
-      ]
+      ],
+      "image": "words/circuit_breaker.webp"
     },
     {
       "id": "unplug",
@@ -1251,7 +1310,8 @@
         "plug in",
         "unpack",
         "unlock"
-      ]
+      ],
+      "image": "words/unplug.webp"
     },
     {
       "id": "jammed",
@@ -1269,7 +1329,8 @@
         "jam",
         "stuck",
         "locked"
-      ]
+      ],
+      "image": "words/jammed.webp"
     },
     {
       "id": "short_circuit",
@@ -1287,7 +1348,8 @@
         "short cut",
         "circuit breaker",
         "short trip"
-      ]
+      ],
+      "image": "words/short_circuit.webp"
     },
     {
       "id": "drip",
@@ -1305,7 +1367,8 @@
         "drop",
         "drill",
         "trip"
-      ]
+      ],
+      "image": "words/drip.webp"
     },
     {
       "id": "rusty",
@@ -1323,7 +1386,8 @@
         "dusty",
         "rushy",
         "trusty"
-      ]
+      ],
+      "image": "words/rusty.webp"
     },
     {
       "id": "switch",
@@ -1341,7 +1405,8 @@
         "sweet",
         "stitch",
         "plug"
-      ]
+      ],
+      "image": "words/switch.webp"
     },
     {
       "id": "plug",
@@ -1359,7 +1424,8 @@
         "plus",
         "plum",
         "socket"
-      ]
+      ],
+      "image": "words/plug.webp"
     },
     {
       "id": "extension_cord",
@@ -1377,7 +1443,8 @@
         "extension",
         "power bank",
         "charger"
-      ]
+      ],
+      "image": "words/extension_cord.webp"
     },
     {
       "id": "outlet",
@@ -1395,7 +1462,8 @@
         "outline",
         "plug",
         "output"
-      ]
+      ],
+      "image": "words/outlet.webp"
     },
     {
       "id": "loosen",
@@ -1413,7 +1481,8 @@
         "lose",
         "loose",
         "listen"
-      ]
+      ],
+      "image": "words/loosen.webp"
     },
     {
       "id": "tighten",
@@ -1431,7 +1500,8 @@
         "loosen",
         "tighter",
         "lighten"
-      ]
+      ],
+      "image": "words/tighten.webp"
     },
     {
       "id": "lawn",
@@ -1449,7 +1519,8 @@
         "loan",
         "lane",
         "dawn"
-      ]
+      ],
+      "image": "words/lawn.webp"
     },
     {
       "id": "mow",
@@ -1467,7 +1538,8 @@
         "mop",
         "now",
         "sow"
-      ]
+      ],
+      "image": "words/mow.webp"
     },
     {
       "id": "hose",
@@ -1485,7 +1557,8 @@
         "house",
         "horse",
         "pipe"
-      ]
+      ],
+      "image": "words/hose.webp"
     },
     {
       "id": "watering_can",
@@ -1503,7 +1576,8 @@
         "water bottle",
         "trash can",
         "bucket"
-      ]
+      ],
+      "image": "words/watering_can.webp"
     },
     {
       "id": "soil",
@@ -1521,7 +1595,8 @@
         "soul",
         "sand",
         "oil"
-      ]
+      ],
+      "image": "words/soil.webp"
     },
     {
       "id": "fertilizer",
@@ -1539,7 +1614,8 @@
         "fertile",
         "freezer",
         "pesticide"
-      ]
+      ],
+      "image": "words/fertilizer.webp"
     },
     {
       "id": "weed",
@@ -1557,7 +1633,8 @@
         "seed",
         "wheat",
         "wood"
-      ]
+      ],
+      "image": "words/weed.webp"
     },
     {
       "id": "flowerpot",
@@ -1575,7 +1652,8 @@
         "flower bed",
         "teapot",
         "flour"
-      ]
+      ],
+      "image": "words/flowerpot.webp"
     },
     {
       "id": "shovel",
@@ -1593,7 +1671,8 @@
         "shower",
         "novel",
         "spade"
-      ]
+      ],
+      "image": "words/shovel.webp"
     },
     {
       "id": "rake",
@@ -1611,7 +1690,8 @@
         "lake",
         "rack",
         "wake"
-      ]
+      ],
+      "image": "words/rake.webp"
     },
     {
       "id": "fence",
@@ -1629,7 +1709,8 @@
         "fans",
         "wall",
         "face"
-      ]
+      ],
+      "image": "words/fence.webp"
     },
     {
       "id": "backyard",
@@ -1647,7 +1728,8 @@
         "backpack",
         "courtyard",
         "backstage"
-      ]
+      ],
+      "image": "words/backyard.webp"
     },
     {
       "id": "garage",
@@ -1665,7 +1747,8 @@
         "garbage",
         "garden",
         "carriage"
-      ]
+      ],
+      "image": "words/garage.webp"
     },
     {
       "id": "driveway",
@@ -1683,7 +1766,8 @@
         "highway",
         "doorway",
         "driver"
-      ]
+      ],
+      "image": "words/driveway.webp"
     },
     {
       "id": "organize",
@@ -1701,7 +1785,8 @@
         "organic",
         "organ",
         "recognize"
-      ]
+      ],
+      "image": "words/organize.webp"
     },
     {
       "id": "declutter",
@@ -1719,7 +1804,8 @@
         "clutter",
         "decorate",
         "delete"
-      ]
+      ],
+      "image": "words/declutter.webp"
     },
     {
       "id": "clutter",
@@ -1737,7 +1823,8 @@
         "butter",
         "cluster",
         "gutter"
-      ]
+      ],
+      "image": "words/clutter.webp"
     },
     {
       "id": "messy",
@@ -1755,7 +1842,8 @@
         "mossy",
         "mercy",
         "tidy"
-      ]
+      ],
+      "image": "words/messy.webp"
     },
     {
       "id": "container",
@@ -1773,7 +1861,8 @@
         "contain",
         "content",
         "counter"
-      ]
+      ],
+      "image": "words/container.webp"
     },
     {
       "id": "cupboard",
@@ -1791,7 +1880,8 @@
         "cardboard",
         "cabinet",
         "clipboard"
-      ]
+      ],
+      "image": "words/cupboard.webp"
     },
     {
       "id": "cabinet",
@@ -1809,7 +1899,8 @@
         "cupboard",
         "cabin",
         "carpet"
-      ]
+      ],
+      "image": "words/cabinet.webp"
     },
     {
       "id": "storage_box",
@@ -1827,7 +1918,8 @@
         "shoebox",
         "storage room",
         "toolbox"
-      ]
+      ],
+      "image": "words/storage_box.webp"
     },
     {
       "id": "label",
@@ -1845,7 +1937,8 @@
         "table",
         "level",
         "libel"
-      ]
+      ],
+      "image": "words/label.webp"
     },
     {
       "id": "junk",
@@ -1863,7 +1956,8 @@
         "jump",
         "jug",
         "junction"
-      ]
+      ],
+      "image": "words/junk.webp"
     },
     {
       "id": "shoe_rack",
@@ -1881,7 +1975,8 @@
         "shoe cabinet",
         "dish rack",
         "shoelace"
-      ]
+      ],
+      "image": "words/shoe_rack.webp"
     },
     {
       "id": "attic",
@@ -1899,7 +1994,8 @@
         "basement",
         "attach",
         "antique"
-      ]
+      ],
+      "image": "words/attic.webp"
     },
     {
       "id": "stack",
@@ -1917,7 +2013,8 @@
         "stick",
         "stuck",
         "snack"
-      ]
+      ],
+      "image": "words/stack.webp"
     },
     {
       "id": "hook",
@@ -1935,7 +2032,8 @@
         "hock",
         "book",
         "hood"
-      ]
+      ],
+      "image": "words/hook.webp"
     }
   ]
 }

@@ -664,7 +664,8 @@
         "contest",
         "contact",
         "content"
-      ]
+      ],
+      "image": "words/context.webp"
     },
     {
       "id": "excerpt",
@@ -682,7 +683,8 @@
         "except",
         "expert",
         "extract"
-      ]
+      ],
+      "image": "words/excerpt.webp"
     },
     {
       "id": "origin",
@@ -700,7 +702,8 @@
         "original",
         "organ",
         "orange"
-      ]
+      ],
+      "image": "words/origin.webp"
     },
     {
       "id": "modest",
@@ -718,7 +721,8 @@
         "modern",
         "model",
         "moderate"
-      ]
+      ],
+      "image": "words/modest.webp"
     },
     {
       "id": "reckless",
@@ -736,7 +740,8 @@
         "restless",
         "careless",
         "wreck"
-      ]
+      ],
+      "image": "words/reckless.webp"
     },
     {
       "id": "cowardly",
@@ -754,7 +759,8 @@
         "coward",
         "cowboy",
         "courageous"
-      ]
+      ],
+      "image": "words/cowardly.webp"
     },
     {
       "id": "ruthless",
@@ -772,7 +778,8 @@
         "restless",
         "truthful",
         "useless"
-      ]
+      ],
+      "image": "words/ruthless.webp"
     },
     {
       "id": "talented",
@@ -790,7 +797,8 @@
         "talent",
         "tolerant",
         "tanned"
-      ]
+      ],
+      "image": "words/talented.webp"
     },
     {
       "id": "stern",
@@ -808,7 +816,8 @@
         "stem",
         "storm",
         "strict"
-      ]
+      ],
+      "image": "words/stern.webp"
     },
     {
       "id": "timid",
@@ -826,7 +835,8 @@
         "timed",
         "tiny",
         "timing"
-      ]
+      ],
+      "image": "words/timid.webp"
     },
     {
       "id": "cunning",
@@ -844,7 +854,8 @@
         "running",
         "canning",
         "clever"
-      ]
+      ],
+      "image": "words/cunning.webp"
     },
     {
       "id": "cautious",
@@ -862,7 +873,8 @@
         "caution",
         "curious",
         "conscious"
-      ]
+      ],
+      "image": "words/cautious.webp"
     },
     {
       "id": "noble",
@@ -880,7 +892,8 @@
         "Nobel",
         "mobile",
         "nobody"
-      ]
+      ],
+      "image": "words/noble.webp"
     },
     {
       "id": "courageous",
@@ -898,7 +911,8 @@
         "courage",
         "cowardly",
         "contagious"
-      ]
+      ],
+      "image": "words/courageous.webp"
     },
     {
       "id": "innocent",
@@ -916,7 +930,8 @@
         "guilty",
         "incident",
         "ignorant"
-      ]
+      ],
+      "image": "words/innocent.webp"
     },
     {
       "id": "mysterious",
@@ -934,7 +949,8 @@
         "mystery",
         "serious",
         "miserable"
-      ]
+      ],
+      "image": "words/mysterious.webp"
     },
     {
       "id": "wealthy",
@@ -952,7 +968,8 @@
         "healthy",
         "wealth",
         "poor"
-      ]
+      ],
+      "image": "words/wealthy.webp"
     },
     {
       "id": "because_of",
@@ -970,7 +987,8 @@
         "in spite of",
         "instead of",
         "in front of"
-      ]
+      ],
+      "image": "words/because_of.webp"
     },
     {
       "id": "due_to",
@@ -988,7 +1006,8 @@
         "up to",
         "next to",
         "thanks to"
-      ]
+      ],
+      "image": "words/due_to.webp"
     },
     {
       "id": "therefore",
@@ -1006,7 +1025,8 @@
         "there",
         "wherever",
         "whatever"
-      ]
+      ],
+      "image": "words/therefore.webp"
     },
     {
       "id": "as_a_result",
@@ -1024,7 +1044,8 @@
         "as usual",
         "at last",
         "as well"
-      ]
+      ],
+      "image": "words/as_a_result.webp"
     },
     {
       "id": "consequently",
@@ -1042,7 +1063,8 @@
         "frequently",
         "constantly",
         "confidently"
-      ]
+      ],
+      "image": "words/consequently.webp"
     },
     {
       "id": "however",
@@ -1060,7 +1082,8 @@
         "whatever",
         "whenever",
         "moreover"
-      ]
+      ],
+      "image": "words/however.webp"
     },
     {
       "id": "although",
@@ -1078,7 +1101,8 @@
         "though",
         "all",
         "through"
-      ]
+      ],
+      "image": "words/although.webp"
     },
     {
       "id": "despite",
@@ -1096,7 +1120,8 @@
         "despise",
         "deposit",
         "spite"
-      ]
+      ],
+      "image": "words/despite.webp"
     },
     {
       "id": "whereas",
@@ -1114,7 +1139,8 @@
         "wherever",
         "whether",
         "where"
-      ]
+      ],
+      "image": "words/whereas.webp"
     },
     {
       "id": "in_contrast",
@@ -1132,7 +1158,8 @@
         "in control",
         "in common",
         "in conclusion"
-      ]
+      ],
+      "image": "words/in_contrast.webp"
     },
     {
       "id": "in_addition",
@@ -1150,7 +1177,8 @@
         "in advance",
         "in fact",
         "in order"
-      ]
+      ],
+      "image": "words/in_addition.webp"
     },
     {
       "id": "moreover",
@@ -1168,7 +1196,8 @@
         "however",
         "whatever",
         "forever"
-      ]
+      ],
+      "image": "words/moreover.webp"
     },
     {
       "id": "unless",
@@ -1186,7 +1215,8 @@
         "useless",
         "until",
         "unlike"
-      ]
+      ],
+      "image": "words/unless.webp"
     },
     {
       "id": "otherwise",
@@ -1204,7 +1234,8 @@
         "likewise",
         "clockwise",
         "anyway"
-      ]
+      ],
+      "image": "words/otherwise.webp"
     },
     {
       "id": "era",
@@ -1222,7 +1253,8 @@
         "area",
         "error",
         "ear"
-      ]
+      ],
+      "image": "words/era.webp"
     },
     {
       "id": "century",
@@ -1240,7 +1272,8 @@
         "decade",
         "country",
         "sentry"
-      ]
+      ],
+      "image": "words/century.webp"
     },
     {
       "id": "civilization",
@@ -1258,7 +1291,8 @@
         "civilian",
         "organization",
         "colonization"
-      ]
+      ],
+      "image": "words/civilization.webp"
     },
     {
       "id": "empire",
@@ -1276,7 +1310,8 @@
         "umpire",
         "emperor",
         "entire"
-      ]
+      ],
+      "image": "words/empire.webp"
     },
     {
       "id": "kingdom",
@@ -1294,7 +1329,8 @@
         "freedom",
         "king",
         "wisdom"
-      ]
+      ],
+      "image": "words/kingdom.webp"
     },
     {
       "id": "war",
@@ -1312,7 +1348,8 @@
         "warm",
         "wall",
         "peace"
-      ]
+      ],
+      "image": "words/war.webp"
     },
     {
       "id": "revolution",
@@ -1330,7 +1367,8 @@
         "resolution",
         "evolution",
         "revelation"
-      ]
+      ],
+      "image": "words/revolution.webp"
     },
     {
       "id": "independence",
@@ -1348,7 +1386,8 @@
         "dependence",
         "independent",
         "confidence"
-      ]
+      ],
+      "image": "words/independence.webp"
     },
     {
       "id": "government",
@@ -1366,7 +1405,8 @@
         "governor",
         "parliament",
         "management"
-      ]
+      ],
+      "image": "words/government.webp"
     },
     {
       "id": "citizen",
@@ -1384,7 +1424,8 @@
         "city",
         "civilian",
         "resident"
-      ]
+      ],
+      "image": "words/citizen.webp"
     },
     {
       "id": "democracy",
@@ -1402,7 +1443,8 @@
         "democratic",
         "diplomacy",
         "monarchy"
-      ]
+      ],
+      "image": "words/democracy.webp"
     },
     {
       "id": "heritage",
@@ -1420,7 +1462,8 @@
         "inheritance",
         "herb",
         "hermit"
-      ]
+      ],
+      "image": "words/heritage.webp"
     },
     {
       "id": "population",
@@ -1438,7 +1481,8 @@
         "popular",
         "pollution",
         "publication"
-      ]
+      ],
+      "image": "words/population.webp"
     },
     {
       "id": "monarchy",
@@ -1456,7 +1500,8 @@
         "monastery",
         "democracy",
         "monarch"
-      ]
+      ],
+      "image": "words/monarchy.webp"
     },
     {
       "id": "novel",
@@ -1474,7 +1519,8 @@
         "noodle",
         "navel",
         "level"
-      ]
+      ],
+      "image": "words/novel.webp"
     },
     {
       "id": "chapter",
@@ -1492,7 +1538,8 @@
         "charter",
         "character",
         "captain"
-      ]
+      ],
+      "image": "words/chapter.webp"
     },
     {
       "id": "poem",
@@ -1510,7 +1557,8 @@
         "poetry",
         "pome",
         "poll"
-      ]
+      ],
+      "image": "words/poem.webp"
     },
     {
       "id": "poet",
@@ -1528,7 +1576,8 @@
         "pet",
         "post",
         "pilot"
-      ]
+      ],
+      "image": "words/poet.webp"
     },
     {
       "id": "fiction",
@@ -1546,7 +1595,8 @@
         "friction",
         "faction",
         "function"
-      ]
+      ],
+      "image": "words/fiction.webp"
     },
     {
       "id": "narrator",
@@ -1564,7 +1614,8 @@
         "navigator",
         "operator",
         "character"
-      ]
+      ],
+      "image": "words/narrator.webp"
     },
     {
       "id": "theme",
@@ -1582,7 +1633,8 @@
         "them",
         "team",
         "thesis"
-      ]
+      ],
+      "image": "words/theme.webp"
     },
     {
       "id": "moral",
@@ -1600,7 +1652,8 @@
         "morale",
         "mortal",
         "model"
-      ]
+      ],
+      "image": "words/moral.webp"
     },
     {
       "id": "villain",
@@ -1618,7 +1671,8 @@
         "village",
         "villa",
         "violin"
-      ]
+      ],
+      "image": "words/villain.webp"
     },
     {
       "id": "legend",
@@ -1636,7 +1690,8 @@
         "lesson",
         "leader",
         "legal"
-      ]
+      ],
+      "image": "words/legend.webp"
     },
     {
       "id": "myth",
@@ -1654,7 +1709,8 @@
         "math",
         "mist",
         "mouth"
-      ]
+      ],
+      "image": "words/myth.webp"
     },
     {
       "id": "fable",
@@ -1672,7 +1728,8 @@
         "table",
         "cable",
         "label"
-      ]
+      ],
+      "image": "words/fable.webp"
     },
     {
       "id": "metaphor",
@@ -1690,7 +1747,8 @@
         "simile",
         "method",
         "meteor"
-      ]
+      ],
+      "image": "words/metaphor.webp"
     },
     {
       "id": "tragedy",
@@ -1708,7 +1766,8 @@
         "strategy",
         "tragic",
         "comedy"
-      ]
+      ],
+      "image": "words/tragedy.webp"
     },
     {
       "id": "choose",
@@ -1726,7 +1785,8 @@
         "choice",
         "cheese",
         "chase"
-      ]
+      ],
+      "image": "words/choose.webp"
     },
     {
       "id": "complete",
@@ -1744,7 +1804,8 @@
         "compete",
         "compile",
         "compare"
-      ]
+      ],
+      "image": "words/complete.webp"
     },
     {
       "id": "blank",
@@ -1762,7 +1823,8 @@
         "black",
         "bank",
         "block"
-      ]
+      ],
+      "image": "words/blank.webp"
     },
     {
       "id": "underline",
@@ -1780,7 +1842,8 @@
         "underground",
         "outline",
         "understand"
-      ]
+      ],
+      "image": "words/underline.webp"
     },
     {
       "id": "correct",
@@ -1798,7 +1861,8 @@
         "collect",
         "connect",
         "direct"
-      ]
+      ],
+      "image": "words/correct.webp"
     },
     {
       "id": "incorrect",
@@ -1816,7 +1880,8 @@
         "indirect",
         "insecure",
         "uncorrected"
-      ]
+      ],
+      "image": "words/incorrect.webp"
     },
     {
       "id": "option",
@@ -1834,7 +1899,8 @@
         "opinion",
         "operation",
         "portion"
-      ]
+      ],
+      "image": "words/option.webp"
     },
     {
       "id": "according_to",
@@ -1852,7 +1918,8 @@
         "due to",
         "in order to",
         "thanks to"
-      ]
+      ],
+      "image": "words/according_to.webp"
     },
     {
       "id": "the_following",
@@ -1870,7 +1937,8 @@
         "the former",
         "the latter",
         "the above"
-      ]
+      ],
+      "image": "words/the_following.webp"
     },
     {
       "id": "except",
@@ -1888,7 +1956,8 @@
         "accept",
         "expect",
         "excerpt"
-      ]
+      ],
+      "image": "words/except.webp"
     },
     {
       "id": "synonym",
@@ -1906,7 +1975,8 @@
         "antonym",
         "homonym",
         "symbol"
-      ]
+      ],
+      "image": "words/synonym.webp"
     },
     {
       "id": "antonym",
@@ -1924,7 +1994,8 @@
         "synonym",
         "acronym",
         "anthem"
-      ]
+      ],
+      "image": "words/antonym.webp"
     },
     {
       "id": "true_or_false",
@@ -1942,7 +2013,8 @@
         "right or wrong",
         "yes or no",
         "trick or treat"
-      ]
+      ],
+      "image": "words/true_or_false.webp"
     },
     {
       "id": "open_ended",
@@ -1960,7 +2032,8 @@
         "open-minded",
         "opening",
         "closed"
-      ]
+      ],
+      "image": "words/open_ended.webp"
     }
   ]
 }

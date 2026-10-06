@@ -189,7 +189,8 @@
         "receipt",
         "receive",
         "recipient"
-      ]
+      ],
+      "image": "words/recipe.webp"
     },
     {
       "id": "cookbook",
@@ -207,7 +208,8 @@
         "cooker",
         "notebook",
         "textbook"
-      ]
+      ],
+      "image": "words/cookbook.webp"
     },
     {
       "id": "serving",
@@ -225,7 +227,8 @@
         "server",
         "service",
         "saving"
-      ]
+      ],
+      "image": "words/serving.webp"
     },
     {
       "id": "from_scratch",
@@ -243,7 +246,8 @@
         "from the start",
         "scratch",
         "from the box"
-      ]
+      ],
+      "image": "words/from_scratch.webp"
     },
     {
       "id": "pinch",
@@ -261,7 +265,8 @@
         "punch",
         "pitch",
         "peach"
-      ]
+      ],
+      "image": "words/pinch.webp"
     },
     {
       "id": "dash",
@@ -279,7 +284,8 @@
         "dish",
         "cash",
         "splash"
-      ]
+      ],
+      "image": "words/dash.webp"
     },
     {
       "id": "batch",
@@ -297,7 +303,8 @@
         "match",
         "patch",
         "bunch"
-      ]
+      ],
+      "image": "words/batch.webp"
     },
     {
       "id": "prep",
@@ -315,7 +322,8 @@
         "prepare",
         "press",
         "pray"
-      ]
+      ],
+      "image": "words/prep.webp"
     },
     {
       "id": "leftovers",
@@ -333,7 +341,8 @@
         "hangover",
         "takeover",
         "layover"
-      ]
+      ],
+      "image": "words/leftovers.webp"
     },
     {
       "id": "garnish",
@@ -351,7 +360,8 @@
         "furnish",
         "varnish",
         "garage"
-      ]
+      ],
+      "image": "words/garnish.webp"
     },
     {
       "id": "to_taste",
@@ -369,7 +379,8 @@
         "to test",
         "to toast",
         "to serve"
-      ]
+      ],
+      "image": "words/to_taste.webp"
     },
     {
       "id": "optional",
@@ -387,7 +398,8 @@
         "option",
         "original",
         "operational"
-      ]
+      ],
+      "image": "words/optional.webp"
     },
     {
       "id": "swap",
@@ -405,7 +417,8 @@
         "swipe",
         "swamp",
         "soap"
-      ]
+      ],
+      "image": "words/swap.webp"
     },
     {
       "id": "homemade",
@@ -423,7 +436,8 @@
         "handmade",
         "homework",
         "ready-made"
-      ]
+      ],
+      "image": "words/homemade.webp"
     },
     {
       "id": "pound",
@@ -441,7 +455,8 @@
         "pond",
         "round",
         "mash"
-      ]
+      ],
+      "image": "words/pound.webp"
     },
     {
       "id": "mince",
@@ -459,7 +474,8 @@
         "mint",
         "since",
         "mess"
-      ]
+      ],
+      "image": "words/mince.webp"
     },
     {
       "id": "grate",
@@ -477,7 +493,8 @@
         "great",
         "gate",
         "grade"
-      ]
+      ],
+      "image": "words/grate.webp"
     },
     {
       "id": "shred",
@@ -495,7 +512,8 @@
         "shed",
         "thread",
         "spread"
-      ]
+      ],
+      "image": "words/shred.webp"
     },
     {
       "id": "squeeze",
@@ -513,7 +531,8 @@
         "sneeze",
         "squeak",
         "freeze"
-      ]
+      ],
+      "image": "words/squeeze.webp"
     },
     {
       "id": "mash",
@@ -531,7 +550,8 @@
         "mesh",
         "mass",
         "match"
-      ]
+      ],
+      "image": "words/mash.webp"
     },
     {
       "id": "marinate",
@@ -549,7 +569,8 @@
         "marinade",
         "marine",
         "meditate"
-      ]
+      ],
+      "image": "words/marinate.webp"
     },
     {
       "id": "thaw",
@@ -567,7 +588,8 @@
         "throw",
         "thought",
         "thank"
-      ]
+      ],
+      "image": "words/thaw.webp"
     },
     {
       "id": "scrape",
@@ -585,7 +607,8 @@
         "scrap",
         "scratch",
         "scream"
-      ]
+      ],
+      "image": "words/scrape.webp"
     },
     {
       "id": "pat_dry",
@@ -603,7 +626,8 @@
         "dry out",
         "pat down",
         "wipe dry"
-      ]
+      ],
+      "image": "words/pat_dry.webp"
     },
     {
       "id": "strainer",
@@ -621,7 +645,8 @@
         "trainer",
         "stranger",
         "colander"
-      ]
+      ],
+      "image": "words/strainer.webp"
     },
     {
       "id": "peeler",
@@ -639,7 +664,8 @@
         "pillar",
         "dealer",
         "peel"
-      ]
+      ],
+      "image": "words/peeler.webp"
     },
     {
       "id": "grater",
@@ -657,7 +683,8 @@
         "greater",
         "crater",
         "waiter"
-      ]
+      ],
+      "image": "words/grater.webp"
     },
     {
       "id": "tongs",
@@ -675,7 +702,8 @@
         "tongue",
         "tons",
         "songs"
-      ]
+      ],
+      "image": "words/tongs.webp"
     },
     {
       "id": "simmer",
@@ -693,7 +721,8 @@
         "summer",
         "shimmer",
         "slimmer"
-      ]
+      ],
+      "image": "words/simmer.webp"
     },
     {
       "id": "stir_fry",
@@ -711,7 +740,8 @@
         "deep-fry",
         "stir",
         "french fry"
-      ]
+      ],
+      "image": "words/stir_fry.webp"
     },
     {
       "id": "saute",
@@ -729,7 +759,8 @@
         "sauce",
         "salty",
         "sweat"
-      ]
+      ],
+      "image": "words/saute.webp"
     },
     {
       "id": "deep_fry",
@@ -747,7 +778,8 @@
         "stir-fry",
         "pan-fry",
         "deep end"
-      ]
+      ],
+      "image": "words/deep_fry.webp"
     },
     {
       "id": "poach",
@@ -765,7 +797,8 @@
         "poke",
         "pouch",
         "coach"
-      ]
+      ],
+      "image": "words/poach.webp"
     },
     {
       "id": "braise",
@@ -783,7 +816,8 @@
         "brace",
         "praise",
         "breeze"
-      ]
+      ],
+      "image": "words/braise.webp"
     },
     {
       "id": "stew",
@@ -801,7 +835,8 @@
         "stove",
         "steward",
         "soup"
-      ]
+      ],
+      "image": "words/stew.webp"
     },
     {
       "id": "sear",
@@ -819,7 +854,8 @@
         "seer",
         "steer",
         "sore"
-      ]
+      ],
+      "image": "words/sear.webp"
     },
     {
       "id": "blanch",
@@ -837,7 +873,8 @@
         "branch",
         "bleach",
         "blank"
-      ]
+      ],
+      "image": "words/blanch.webp"
     },
     {
       "id": "flip",
@@ -855,7 +892,8 @@
         "flap",
         "flop",
         "slip"
-      ]
+      ],
+      "image": "words/flip.webp"
     },
     {
       "id": "bring_to_a_boil",
@@ -873,7 +911,8 @@
         "bring to a halt",
         "boil over",
         "bring up"
-      ]
+      ],
+      "image": "words/bring_to_a_boil.webp"
     },
     {
       "id": "reduce",
@@ -891,7 +930,8 @@
         "produce",
         "reuse",
         "refuse"
-      ]
+      ],
+      "image": "words/reduce.webp"
     },
     {
       "id": "reheat",
@@ -909,7 +949,8 @@
         "preheat",
         "repeat",
         "retreat"
-      ]
+      ],
+      "image": "words/reheat.webp"
     },
     {
       "id": "wok",
@@ -927,7 +968,8 @@
         "walk",
         "work",
         "pan"
-      ]
+      ],
+      "image": "words/wok.webp"
     },
     {
       "id": "salt",
@@ -945,7 +987,8 @@
         "sauce",
         "sand",
         "sugar"
-      ]
+      ],
+      "image": "words/salt.webp"
     },
     {
       "id": "pepper",
@@ -963,7 +1006,8 @@
         "paper",
         "chili",
         "pepper mint"
-      ]
+      ],
+      "image": "words/pepper.webp"
     },
     {
       "id": "fish_sauce",
@@ -981,7 +1025,8 @@
         "oyster sauce",
         "soy sauce",
         "fish oil"
-      ]
+      ],
+      "image": "words/fish_sauce.webp"
     },
     {
       "id": "oyster_sauce",
@@ -999,7 +1044,8 @@
         "fish sauce",
         "oyster",
         "soy sauce"
-      ]
+      ],
+      "image": "words/oyster_sauce.webp"
     },
     {
       "id": "vinegar",
@@ -1017,7 +1063,8 @@
         "vintage",
         "vinyl",
         "ginger"
-      ]
+      ],
+      "image": "words/vinegar.webp"
     },
     {
       "id": "garlic",
@@ -1035,7 +1082,8 @@
         "ginger",
         "garnish",
         "onion"
-      ]
+      ],
+      "image": "words/garlic.webp"
     },
     {
       "id": "seasoning",
@@ -1053,7 +1101,8 @@
         "season",
         "reasoning",
         "dressing"
-      ]
+      ],
+      "image": "words/seasoning.webp"
     },
     {
       "id": "spice",
@@ -1071,7 +1120,8 @@
         "spicy",
         "space",
         "slice"
-      ]
+      ],
+      "image": "words/spice.webp"
     },
     {
       "id": "herb",
@@ -1089,7 +1139,8 @@
         "hurt",
         "harp",
         "spice"
-      ]
+      ],
+      "image": "words/herb.webp"
     },
     {
       "id": "aftertaste",
@@ -1107,7 +1158,8 @@
         "after dinner",
         "taste test",
         "appetite"
-      ]
+      ],
+      "image": "words/aftertaste.webp"
     },
     {
       "id": "fragrant",
@@ -1125,7 +1177,8 @@
         "flagrant",
         "fragile",
         "frequent"
-      ]
+      ],
+      "image": "words/fragrant.webp"
     },
     {
       "id": "sprinkle",
@@ -1143,7 +1196,8 @@
         "wrinkle",
         "sparkle",
         "sprint"
-      ]
+      ],
+      "image": "words/sprinkle.webp"
     },
     {
       "id": "pungent",
@@ -1161,7 +1215,8 @@
         "pudding",
         "urgent",
         "pungency"
-      ]
+      ],
+      "image": "words/pungent.webp"
     },
     {
       "id": "broth",
@@ -1179,7 +1234,8 @@
         "brother",
         "booth",
         "breath"
-      ]
+      ],
+      "image": "words/broth.webp"
     },
     {
       "id": "flour",
@@ -1197,7 +1253,8 @@
         "flower",
         "floor",
         "flavor"
-      ]
+      ],
+      "image": "words/flour.webp"
     },
     {
       "id": "dough",
@@ -1215,7 +1272,8 @@
         "doughnut",
         "though",
         "batter"
-      ]
+      ],
+      "image": "words/dough.webp"
     },
     {
       "id": "batter",
@@ -1233,7 +1291,8 @@
         "butter",
         "better",
         "dough"
-      ]
+      ],
+      "image": "words/batter.webp"
     },
     {
       "id": "yeast",
@@ -1251,7 +1310,8 @@
         "east",
         "yes",
         "feast"
-      ]
+      ],
+      "image": "words/yeast.webp"
     },
     {
       "id": "baking_powder",
@@ -1269,7 +1329,8 @@
         "baking soda",
         "flour",
         "powder"
-      ]
+      ],
+      "image": "words/baking_powder.webp"
     },
     {
       "id": "knead",
@@ -1287,7 +1348,8 @@
         "need",
         "knee",
         "kneel"
-      ]
+      ],
+      "image": "words/knead.webp"
     },
     {
       "id": "whisk",
@@ -1305,7 +1367,8 @@
         "whistle",
         "wish",
         "risk"
-      ]
+      ],
+      "image": "words/whisk.webp"
     },
     {
       "id": "sift",
@@ -1323,7 +1386,8 @@
         "shift",
         "swift",
         "sit"
-      ]
+      ],
+      "image": "words/sift.webp"
     },
     {
       "id": "preheat",
@@ -1341,7 +1405,8 @@
         "reheat",
         "overheat",
         "repeat"
-      ]
+      ],
+      "image": "words/preheat.webp"
     },
     {
       "id": "rise",
@@ -1359,7 +1424,8 @@
         "raise",
         "rice",
         "rinse"
-      ]
+      ],
+      "image": "words/rise.webp"
     },
     {
       "id": "golden_brown",
@@ -1377,7 +1443,8 @@
         "dark brown",
         "golden hour",
         "light green"
-      ]
+      ],
+      "image": "words/golden_brown.webp"
     },
     {
       "id": "glaze",
@@ -1395,7 +1462,8 @@
         "glass",
         "gaze",
         "graze"
-      ]
+      ],
+      "image": "words/glaze.webp"
     },
     {
       "id": "rolling_pin",
@@ -1413,7 +1481,8 @@
         "rolling paper",
         "safety pin",
         "spring roll"
-      ]
+      ],
+      "image": "words/rolling_pin.webp"
     },
     {
       "id": "baking_sheet",
@@ -1431,7 +1500,8 @@
         "baking paper",
         "bedsheet",
         "baking pan"
-      ]
+      ],
+      "image": "words/baking_sheet.webp"
     },
     {
       "id": "measuring_cup",
@@ -1449,7 +1519,8 @@
         "measuring tape",
         "coffee cup",
         "mixing bowl"
-      ]
+      ],
+      "image": "words/measuring_cup.webp"
     },
     {
       "id": "tablespoon",
@@ -1467,7 +1538,8 @@
         "teaspoon",
         "table",
         "soup spoon"
-      ]
+      ],
+      "image": "words/tablespoon.webp"
     },
     {
       "id": "teaspoon",
@@ -1485,7 +1557,8 @@
         "tablespoon",
         "teapot",
         "teacup"
-      ]
+      ],
+      "image": "words/teaspoon.webp"
     },
     {
       "id": "gram",
@@ -1503,7 +1576,8 @@
         "gram cracker",
         "grand",
         "kilometer"
-      ]
+      ],
+      "image": "words/gram.webp"
     },
     {
       "id": "timer",
@@ -1521,7 +1595,8 @@
         "timber",
         "time",
         "tumor"
-      ]
+      ],
+      "image": "words/timer.webp"
     },
     {
       "id": "apron",
@@ -1539,7 +1614,8 @@
         "april",
         "napkin",
         "uniform"
-      ]
+      ],
+      "image": "words/apron.webp"
     },
     {
       "id": "oven_mitt",
@@ -1557,7 +1633,8 @@
         "oven rack",
         "glove",
         "pot holder"
-      ]
+      ],
+      "image": "words/oven_mitt.webp"
     },
     {
       "id": "raw",
@@ -1575,7 +1652,8 @@
         "row",
         "rare",
         "law"
-      ]
+      ],
+      "image": "words/raw.webp"
     },
     {
       "id": "undercooked",
@@ -1593,7 +1671,8 @@
         "overcooked",
         "uncooked",
         "underpaid"
-      ]
+      ],
+      "image": "words/undercooked.webp"
     },
     {
       "id": "overcook",
@@ -1611,7 +1690,8 @@
         "undercook",
         "overlook",
         "overbook"
-      ]
+      ],
+      "image": "words/overcook.webp"
     },
     {
       "id": "burnt",
@@ -1629,7 +1709,8 @@
         "burned out",
         "bent",
         "brunt"
-      ]
+      ],
+      "image": "words/burnt.webp"
     },
     {
       "id": "sharp",
@@ -1647,7 +1728,8 @@
         "shape",
         "sharply",
         "dull"
-      ]
+      ],
+      "image": "words/sharp.webp"
     },
     {
       "id": "fire_blanket",
@@ -1665,7 +1747,8 @@
         "fire alarm",
         "blanket",
         "fire exit"
-      ]
+      ],
+      "image": "words/fire_blanket.webp"
     },
     {
       "id": "food_poisoning",
@@ -1683,7 +1766,8 @@
         "food allergy",
         "food waste",
         "food court"
-      ]
+      ],
+      "image": "words/food_poisoning.webp"
     },
     {
       "id": "melt_in_your_mouth",
@@ -1701,7 +1785,8 @@
         "mouth-watering",
         "word of mouth",
         "melt down"
-      ]
+      ],
+      "image": "words/melt_in_your_mouth.webp"
     },
     {
       "id": "rubbery",
@@ -1719,7 +1804,8 @@
         "rubber",
         "robbery",
         "buttery"
-      ]
+      ],
+      "image": "words/rubbery.webp"
     },
     {
       "id": "flaky",
@@ -1737,7 +1823,8 @@
         "flake",
         "freaky",
         "fluffy"
-      ]
+      ],
+      "image": "words/flaky.webp"
     },
     {
       "id": "fluffy",
@@ -1755,7 +1842,8 @@
         "fluffy toy",
         "flabby",
         "fruity"
-      ]
+      ],
+      "image": "words/fluffy.webp"
     },
     {
       "id": "runny",
@@ -1773,7 +1861,8 @@
         "running",
         "funny",
         "bunny"
-      ]
+      ],
+      "image": "words/runny.webp"
     },
     {
       "id": "well_seasoned",
@@ -1791,7 +1880,8 @@
         "seasonal",
         "well done",
         "well-known"
-      ]
+      ],
+      "image": "words/well_seasoned.webp"
     },
     {
       "id": "moist",
@@ -1809,7 +1899,8 @@
         "most",
         "mist",
         "dry"
-      ]
+      ],
+      "image": "words/moist.webp"
     },
     {
       "id": "soggy",
@@ -1827,7 +1918,8 @@
         "soft",
         "foggy",
         "sugary"
-      ]
+      ],
+      "image": "words/soggy.webp"
     },
     {
       "id": "tough",
@@ -1845,7 +1937,8 @@
         "though",
         "touch",
         "tender"
-      ]
+      ],
+      "image": "words/tough.webp"
     },
     {
       "id": "hearty",
@@ -1863,7 +1956,8 @@
         "healthy",
         "hearth",
         "heavy"
-      ]
+      ],
+      "image": "words/hearty.webp"
     },
     {
       "id": "flavorful",
@@ -1881,7 +1975,8 @@
         "flavorless",
         "colorful",
         "fearful"
-      ]
+      ],
+      "image": "words/flavorful.webp"
     },
     {
       "id": "filling",
@@ -1899,7 +1994,8 @@
         "fulfilling",
         "feeling",
         "falling"
-      ]
+      ],
+      "image": "words/filling.webp"
     },
     {
       "id": "plating",
@@ -1917,7 +2013,8 @@
         "planting",
         "plate",
         "painting"
-      ]
+      ],
+      "image": "words/plating.webp"
     },
     {
       "id": "comfort_food",
@@ -1935,7 +2032,8 @@
         "fast food",
         "junk food",
         "street food"
-      ]
+      ],
+      "image": "words/comfort_food.webp"
     }
   ]
 }

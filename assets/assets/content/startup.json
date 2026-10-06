@@ -189,7 +189,8 @@
         "fonder",
         "finder",
         "funder"
-      ]
+      ],
+      "image": "words/founder.webp"
     },
     {
       "id": "co_founder",
@@ -207,7 +208,8 @@
         "coworker",
         "founder",
         "coordinator"
-      ]
+      ],
+      "image": "words/co_founder.webp"
     },
     {
       "id": "venture",
@@ -225,7 +227,8 @@
         "adventure",
         "vendor",
         "venue"
-      ]
+      ],
+      "image": "words/venture.webp"
     },
     {
       "id": "business_plan",
@@ -243,7 +246,8 @@
         "business card",
         "business trip",
         "floor plan"
-      ]
+      ],
+      "image": "words/business_plan.webp"
     },
     {
       "id": "side_hustle",
@@ -261,7 +265,8 @@
         "side effect",
         "part-time",
         "side dish"
-      ]
+      ],
+      "image": "words/side_hustle.webp"
     },
     {
       "id": "bootstrap",
@@ -279,7 +284,8 @@
         "boot",
         "bootcamp",
         "backstage"
-      ]
+      ],
+      "image": "words/bootstrap.webp"
     },
     {
       "id": "incubator",
@@ -297,7 +303,8 @@
         "accelerator",
         "incubation",
         "calculator"
-      ]
+      ],
+      "image": "words/incubator.webp"
     },
     {
       "id": "accelerator",
@@ -315,7 +322,8 @@
         "incubator",
         "elevator",
         "escalator"
-      ]
+      ],
+      "image": "words/accelerator.webp"
     },
     {
       "id": "niche",
@@ -333,7 +341,8 @@
         "nice",
         "notch",
         "niece"
-      ]
+      ],
+      "image": "words/niche.webp"
     },
     {
       "id": "pain_point",
@@ -351,7 +360,8 @@
         "pain",
         "turning point",
         "bullet point"
-      ]
+      ],
+      "image": "words/pain_point.webp"
     },
     {
       "id": "solution",
@@ -369,7 +379,8 @@
         "pollution",
         "resolution",
         "salute"
-      ]
+      ],
+      "image": "words/solution.webp"
     },
     {
       "id": "market_research",
@@ -387,7 +398,8 @@
         "market share",
         "research paper",
         "marketing"
-      ]
+      ],
+      "image": "words/market_research.webp"
     },
     {
       "id": "validate",
@@ -405,7 +417,8 @@
         "evaluate",
         "value",
         "violate"
-      ]
+      ],
+      "image": "words/validate.webp"
     },
     {
       "id": "innovation",
@@ -423,7 +436,8 @@
         "invention",
         "invitation",
         "renovation"
-      ]
+      ],
+      "image": "words/innovation.webp"
     },
     {
       "id": "mvp",
@@ -441,7 +455,8 @@
         "VIP",
         "MBA",
         "MP3"
-      ]
+      ],
+      "image": "words/mvp.webp"
     },
     {
       "id": "prototype",
@@ -459,7 +474,8 @@
         "protocol",
         "stereotype",
         "photo"
-      ]
+      ],
+      "image": "words/prototype.webp"
     },
     {
       "id": "beta",
@@ -477,7 +493,8 @@
         "better",
         "bet",
         "data"
-      ]
+      ],
+      "image": "words/beta.webp"
     },
     {
       "id": "user",
@@ -495,7 +512,8 @@
         "usher",
         "used",
         "customer"
-      ]
+      ],
+      "image": "words/user.webp"
     },
     {
       "id": "roadmap",
@@ -513,7 +531,8 @@
         "map",
         "road trip",
         "sitemap"
-      ]
+      ],
+      "image": "words/roadmap.webp"
     },
     {
       "id": "iterate",
@@ -531,7 +550,8 @@
         "reiterate",
         "irritate",
         "imitate"
-      ]
+      ],
+      "image": "words/iterate.webp"
     },
     {
       "id": "early_adopter",
@@ -549,7 +569,8 @@
         "adapter",
         "early bird",
         "adoption"
-      ]
+      ],
+      "image": "words/early_adopter.webp"
     },
     {
       "id": "product_market_fit",
@@ -567,7 +588,8 @@
         "market share",
         "product launch",
         "fitness"
-      ]
+      ],
+      "image": "words/product_market_fit.webp"
     },
     {
       "id": "demo",
@@ -585,7 +607,8 @@
         "memo",
         "demon",
         "democracy"
-      ]
+      ],
+      "image": "words/demo.webp"
     },
     {
       "id": "user_experience",
@@ -603,7 +626,8 @@
         "work experience",
         "user interface",
         "experiment"
-      ]
+      ],
+      "image": "words/user_experience.webp"
     },
     {
       "id": "release",
@@ -621,7 +645,8 @@
         "realize",
         "lease",
         "relief"
-      ]
+      ],
+      "image": "words/release.webp"
     },
     {
       "id": "metric",
@@ -639,7 +664,8 @@
         "meter",
         "matrix",
         "metro"
-      ]
+      ],
+      "image": "words/metric.webp"
     },
     {
       "id": "landing_page",
@@ -657,7 +683,8 @@
         "homepage",
         "landing",
         "web page"
-      ]
+      ],
+      "image": "words/landing_page.webp"
     },
     {
       "id": "waitlist",
@@ -675,7 +702,8 @@
         "wishlist",
         "checklist",
         "playlist"
-      ]
+      ],
+      "image": "words/waitlist.webp"
     },
     {
       "id": "pitch",
@@ -693,7 +721,8 @@
         "patch",
         "peach",
         "pinch"
-      ]
+      ],
+      "image": "words/pitch.webp"
     },
     {
       "id": "pitch_deck",
@@ -711,7 +740,8 @@
         "pitch",
         "deck chair",
         "sun deck"
-      ]
+      ],
+      "image": "words/pitch_deck.webp"
     },
     {
       "id": "elevator_pitch",
@@ -729,7 +759,8 @@
         "elevator",
         "sales pitch",
         "escalator"
-      ]
+      ],
+      "image": "words/elevator_pitch.webp"
     },
     {
       "id": "fundraising",
@@ -747,7 +778,8 @@
         "fund",
         "funding",
         "franchising"
-      ]
+      ],
+      "image": "words/fundraising.webp"
     },
     {
       "id": "investor",
@@ -765,7 +797,8 @@
         "inventor",
         "investigator",
         "visitor"
-      ]
+      ],
+      "image": "words/investor.webp"
     },
     {
       "id": "angel_investor",
@@ -783,7 +816,8 @@
         "angle",
         "venture capital",
         "investor"
-      ]
+      ],
+      "image": "words/angel_investor.webp"
     },
     {
       "id": "venture_capital",
@@ -801,7 +835,8 @@
         "capital city",
         "venture",
         "capital gain"
-      ]
+      ],
+      "image": "words/venture_capital.webp"
     },
     {
       "id": "seed_round",
@@ -819,7 +854,8 @@
         "seed",
         "second round",
         "first round"
-      ]
+      ],
+      "image": "words/seed_round.webp"
     },
     {
       "id": "valuation",
@@ -837,7 +873,8 @@
         "value",
         "evaluation",
         "vacation"
-      ]
+      ],
+      "image": "words/valuation.webp"
     },
     {
       "id": "traction",
@@ -855,7 +892,8 @@
         "attraction",
         "tractor",
         "transaction"
-      ]
+      ],
+      "image": "words/traction.webp"
     },
     {
       "id": "revenue",
@@ -873,7 +911,8 @@
         "avenue",
         "review",
         "venue"
-      ]
+      ],
+      "image": "words/revenue.webp"
     },
     {
       "id": "burn_rate",
@@ -891,7 +930,8 @@
         "interest rate",
         "burnout",
         "exchange rate"
-      ]
+      ],
+      "image": "words/burn_rate.webp"
     },
     {
       "id": "crowdfunding",
@@ -909,7 +949,8 @@
         "crowd",
         "funding",
         "crowdsourcing"
-      ]
+      ],
+      "image": "words/crowdfunding.webp"
     },
     {
       "id": "projection",
@@ -927,7 +968,8 @@
         "projector",
         "protection",
         "project"
-      ]
+      ],
+      "image": "words/projection.webp"
     },
     {
       "id": "equity",
@@ -945,7 +987,8 @@
         "equality",
         "quantity",
         "equipment"
-      ]
+      ],
+      "image": "words/equity.webp"
     },
     {
       "id": "shareholder",
@@ -963,7 +1006,8 @@
         "stakeholder",
         "cardholder",
         "householder"
-      ]
+      ],
+      "image": "words/shareholder.webp"
     },
     {
       "id": "stake",
@@ -981,7 +1025,8 @@
         "steak",
         "stack",
         "stock"
-      ]
+      ],
+      "image": "words/stake.webp"
     },
     {
       "id": "dilution",
@@ -999,7 +1044,8 @@
         "solution",
         "deletion",
         "delusion"
-      ]
+      ],
+      "image": "words/dilution.webp"
     },
     {
       "id": "term_sheet",
@@ -1017,7 +1063,8 @@
         "spreadsheet",
         "cheat sheet",
         "timesheet"
-      ]
+      ],
+      "image": "words/term_sheet.webp"
     },
     {
       "id": "due_diligence",
@@ -1035,7 +1082,8 @@
         "diligent",
         "due date",
         "intelligence"
-      ]
+      ],
+      "image": "words/due_diligence.webp"
     },
     {
       "id": "board_of_directors",
@@ -1053,7 +1101,8 @@
         "boardroom",
         "director",
         "whiteboard"
-      ]
+      ],
+      "image": "words/board_of_directors.webp"
     },
     {
       "id": "vesting",
@@ -1071,7 +1120,8 @@
         "investing",
         "vest",
         "testing"
-      ]
+      ],
+      "image": "words/vesting.webp"
     },
     {
       "id": "stock_option",
@@ -1089,7 +1139,8 @@
         "stock market",
         "option",
         "stock price"
-      ]
+      ],
+      "image": "words/stock_option.webp"
     },
     {
       "id": "ownership",
@@ -1107,7 +1158,8 @@
         "membership",
         "owner",
         "leadership"
-      ]
+      ],
+      "image": "words/ownership.webp"
     },
     {
       "id": "asset",
@@ -1125,7 +1177,8 @@
         "assess",
         "basset",
         "ascent"
-      ]
+      ],
+      "image": "words/asset.webp"
     },
     {
       "id": "net_worth",
@@ -1143,7 +1196,8 @@
         "network",
         "worth it",
         "net profit"
-      ]
+      ],
+      "image": "words/net_worth.webp"
     },
     {
       "id": "majority",
@@ -1161,7 +1215,8 @@
         "minority",
         "major",
         "maturity"
-      ]
+      ],
+      "image": "words/majority.webp"
     },
     {
       "id": "payout",
@@ -1179,7 +1234,8 @@
         "payment",
         "payroll",
         "payday"
-      ]
+      ],
+      "image": "words/payout.webp"
     },
     {
       "id": "stock_exchange",
@@ -1197,7 +1253,8 @@
         "currency exchange",
         "stock",
         "exchange rate"
-      ]
+      ],
+      "image": "words/stock_exchange.webp"
     },
     {
       "id": "broker",
@@ -1215,7 +1272,8 @@
         "broke",
         "banker",
         "baker"
-      ]
+      ],
+      "image": "words/broker.webp"
     },
     {
       "id": "index",
@@ -1233,7 +1291,8 @@
         "indoor",
         "indeed",
         "indicate"
-      ]
+      ],
+      "image": "words/index.webp"
     },
     {
       "id": "bull_market",
@@ -1251,7 +1310,8 @@
         "bear market",
         "bulk",
         "bull"
-      ]
+      ],
+      "image": "words/bull_market.webp"
     },
     {
       "id": "bear_market",
@@ -1269,7 +1329,8 @@
         "bull market",
         "beer",
         "bare"
-      ]
+      ],
+      "image": "words/bear_market.webp"
     },
     {
       "id": "volatile",
@@ -1287,7 +1348,8 @@
         "valuable",
         "versatile",
         "violent"
-      ]
+      ],
+      "image": "words/volatile.webp"
     },
     {
       "id": "trade",
@@ -1305,7 +1367,8 @@
         "trend",
         "tread",
         "trait"
-      ]
+      ],
+      "image": "words/trade.webp"
     },
     {
       "id": "diversify",
@@ -1323,7 +1386,8 @@
         "diverse",
         "divide",
         "divert"
-      ]
+      ],
+      "image": "words/diversify.webp"
     },
     {
       "id": "blue_chip",
@@ -1341,7 +1405,8 @@
         "chip",
         "blueprint",
         "potato chip"
-      ]
+      ],
+      "image": "words/blue_chip.webp"
     },
     {
       "id": "market_cap",
@@ -1359,7 +1424,8 @@
         "market share",
         "cap",
         "baseball cap"
-      ]
+      ],
+      "image": "words/market_cap.webp"
     },
     {
       "id": "bond",
@@ -1377,7 +1443,8 @@
         "band",
         "bone",
         "bonus"
-      ]
+      ],
+      "image": "words/bond.webp"
     },
     {
       "id": "etf",
@@ -1395,7 +1462,8 @@
         "ATM",
         "GDP",
         "ETA"
-      ]
+      ],
+      "image": "words/etf.webp"
     },
     {
       "id": "yield",
@@ -1413,7 +1481,8 @@
         "field",
         "yell",
         "wield"
-      ]
+      ],
+      "image": "words/yield.webp"
     },
     {
       "id": "passive_income",
@@ -1431,7 +1500,8 @@
         "active income",
         "passive",
         "pension"
-      ]
+      ],
+      "image": "words/passive_income.webp"
     },
     {
       "id": "cryptocurrency",
@@ -1449,7 +1519,8 @@
         "currency",
         "cryptic",
         "credit"
-      ]
+      ],
+      "image": "words/cryptocurrency.webp"
     },
     {
       "id": "blockchain",
@@ -1467,7 +1538,8 @@
         "block",
         "chain",
         "food chain"
-      ]
+      ],
+      "image": "words/blockchain.webp"
     },
     {
       "id": "token",
@@ -1485,7 +1557,8 @@
         "taken",
         "ticket",
         "coin"
-      ]
+      ],
+      "image": "words/token.webp"
     },
     {
       "id": "mining",
@@ -1503,7 +1576,8 @@
         "mine",
         "minting",
         "mind"
-      ]
+      ],
+      "image": "words/mining.webp"
     },
     {
       "id": "nft",
@@ -1521,7 +1595,8 @@
         "ETF",
         "NGO",
         "FTP"
-      ]
+      ],
+      "image": "words/nft.webp"
     },
     {
       "id": "stablecoin",
@@ -1539,7 +1614,8 @@
         "stable",
         "coin",
         "altcoin"
-      ]
+      ],
+      "image": "words/stablecoin.webp"
     },
     {
       "id": "fintech",
@@ -1557,7 +1633,8 @@
         "finance",
         "fine",
         "high-tech"
-      ]
+      ],
+      "image": "words/fintech.webp"
     },
     {
       "id": "peer_to_peer",
@@ -1575,7 +1652,8 @@
         "face-to-face",
         "peer",
         "pier"
-      ]
+      ],
+      "image": "words/peer_to_peer.webp"
     },
     {
       "id": "transaction",
@@ -1593,7 +1671,8 @@
         "translation",
         "transition",
         "traction"
-      ]
+      ],
+      "image": "words/transaction.webp"
     },
     {
       "id": "decentralized",
@@ -1611,7 +1690,8 @@
         "centralized",
         "decent",
         "decorated"
-      ]
+      ],
+      "image": "words/decentralized.webp"
     },
     {
       "id": "ledger",
@@ -1629,7 +1709,8 @@
         "ladder",
         "leader",
         "lecture"
-      ]
+      ],
+      "image": "words/ledger.webp"
     },
     {
       "id": "private_key",
@@ -1647,7 +1728,8 @@
         "public key",
         "password",
         "key card"
-      ]
+      ],
+      "image": "words/private_key.webp"
     },
     {
       "id": "altcoin",
@@ -1665,7 +1747,8 @@
         "stablecoin",
         "coin",
         "altitude"
-      ]
+      ],
+      "image": "words/altcoin.webp"
     },
     {
       "id": "rug_pull",
@@ -1683,7 +1766,8 @@
         "pull-up",
         "scam",
         "rug"
-      ]
+      ],
+      "image": "words/rug_pull.webp"
     },
     {
       "id": "scale_up",
@@ -1701,7 +1785,8 @@
         "scale down",
         "size up",
         "speed up"
-      ]
+      ],
+      "image": "words/scale_up.webp"
     },
     {
       "id": "pivot",
@@ -1719,7 +1804,8 @@
         "pilot",
         "pirate",
         "privet"
-      ]
+      ],
+      "image": "words/pivot.webp"
     },
     {
       "id": "churn",
@@ -1737,7 +1823,8 @@
         "turn",
         "church",
         "chain"
-      ]
+      ],
+      "image": "words/churn.webp"
     },
     {
       "id": "unicorn",
@@ -1755,7 +1842,8 @@
         "uniform",
         "unique",
         "union"
-      ]
+      ],
+      "image": "words/unicorn.webp"
     },
     {
       "id": "acquisition",
@@ -1773,7 +1861,8 @@
         "requisition",
         "acquaintance",
         "exhibition"
-      ]
+      ],
+      "image": "words/acquisition.webp"
     },
     {
       "id": "merger",
@@ -1791,7 +1880,8 @@
         "merge",
         "manager",
         "major"
-      ]
+      ],
+      "image": "words/merger.webp"
     },
     {
       "id": "ipo",
@@ -1809,7 +1899,8 @@
         "CEO",
         "ISO",
         "IOU"
-      ]
+      ],
+      "image": "words/ipo.webp"
     },
     {
       "id": "go_public",
@@ -1827,7 +1918,8 @@
         "go viral",
         "go private",
         "go live"
-      ]
+      ],
+      "image": "words/go_public.webp"
     },
     {
       "id": "exit_strategy",
@@ -1845,7 +1937,8 @@
         "exit",
         "emergency exit",
         "strategy"
-      ]
+      ],
+      "image": "words/exit_strategy.webp"
     },
     {
       "id": "profitable",
@@ -1863,7 +1956,8 @@
         "profit",
         "portable",
         "preferable"
-      ]
+      ],
+      "image": "words/profitable.webp"
     },
     {
       "id": "market_share",
@@ -1881,7 +1975,8 @@
         "market cap",
         "share price",
         "marketplace"
-      ]
+      ],
+      "image": "words/market_share.webp"
     },
     {
       "id": "cash_flow",
@@ -1899,7 +1994,8 @@
         "cash back",
         "workflow",
         "cashier"
-      ]
+      ],
+      "image": "words/cash_flow.webp"
     },
     {
       "id": "franchise",
@@ -1917,7 +2013,8 @@
         "French",
         "finance",
         "frankly"
-      ]
+      ],
+      "image": "words/franchise.webp"
     },
     {
       "id": "layoff",
@@ -1935,7 +2032,8 @@
         "layout",
         "lay down",
         "day off"
-      ]
+      ],
+      "image": "words/layoff.webp"
     }
   ]
 }

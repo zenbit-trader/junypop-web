@@ -189,7 +189,8 @@
         "mansion",
         "department",
         "compartment"
-      ]
+      ],
+      "image": "words/apartment.webp"
     },
     {
       "id": "mansion",
@@ -207,7 +208,8 @@
         "apartment",
         "mention",
         "condo"
-      ]
+      ],
+      "image": "words/mansion.webp"
     },
     {
       "id": "steering_wheel",
@@ -225,7 +227,8 @@
         "handle",
         "handlebars",
         "spare wheel"
-      ]
+      ],
+      "image": "words/steering_wheel.webp"
     },
     {
       "id": "phone_number",
@@ -243,7 +246,8 @@
         "phone case",
         "number plate",
         "room number"
-      ]
+      ],
+      "image": "words/phone_number.webp"
     },
     {
       "id": "knock_off",
@@ -261,7 +265,8 @@
         "copy",
         "knockout",
         "takeoff"
-      ]
+      ],
+      "image": "words/knock_off.webp"
     },
     {
       "id": "fling",
@@ -279,7 +284,8 @@
         "gig",
         "flight",
         "crush"
-      ]
+      ],
+      "image": "words/fling.webp"
     },
     {
       "id": "posh",
@@ -297,7 +303,8 @@
         "hi-so",
         "push",
         "polish"
-      ]
+      ],
+      "image": "words/posh.webp"
     },
     {
       "id": "handout",
@@ -315,7 +322,8 @@
         "sheet",
         "handbook",
         "hand in"
-      ]
+      ],
+      "image": "words/handout.webp"
     },
     {
       "id": "exaggerate",
@@ -333,7 +341,8 @@
         "over",
         "exhibit",
         "excite"
-      ]
+      ],
+      "image": "words/exaggerate.webp"
     },
     {
       "id": "van",
@@ -351,7 +360,8 @@
         "fan",
         "wagon",
         "truck"
-      ]
+      ],
+      "image": "words/van.webp"
     },
     {
       "id": "big_spender",
@@ -369,7 +379,8 @@
         "big payer",
         "big eater",
         "spendthrift"
-      ]
+      ],
+      "image": "words/big_spender.webp"
     },
     {
       "id": "gossip",
@@ -387,7 +398,8 @@
         "mouth",
         "gospel",
         "goggle"
-      ]
+      ],
+      "image": "words/gossip.webp"
     },
     {
       "id": "in_shape",
@@ -405,7 +417,8 @@
         "fit and firm",
         "in form",
         "on shape"
-      ]
+      ],
+      "image": "words/in_shape.webp"
     },
     {
       "id": "outdated",
@@ -423,7 +436,8 @@
         "out",
         "outgoing",
         "updated"
-      ]
+      ],
+      "image": "words/outdated.webp"
     },
     {
       "id": "custom",
@@ -441,7 +455,8 @@
         "costume",
         "customer",
         "customs"
-      ]
+      ],
+      "image": "words/custom.webp"
     },
     {
       "id": "funny",
@@ -459,7 +474,8 @@
         "fun",
         "fancy",
         "sunny"
-      ]
+      ],
+      "image": "words/funny.webp"
     },
     {
       "id": "exciting",
@@ -477,7 +493,8 @@
         "excited",
         "exciting about",
         "excitement"
-      ]
+      ],
+      "image": "words/exciting.webp"
     },
     {
       "id": "interesting",
@@ -495,7 +512,8 @@
         "interested",
         "interest",
         "intersecting"
-      ]
+      ],
+      "image": "words/interesting.webp"
     },
     {
       "id": "interested",
@@ -513,7 +531,8 @@
         "interesting",
         "interested on",
         "intended"
-      ]
+      ],
+      "image": "words/interested.webp"
     },
     {
       "id": "lonely",
@@ -531,7 +550,8 @@
         "alone",
         "lovely",
         "only"
-      ]
+      ],
+      "image": "words/lonely.webp"
     },
     {
       "id": "alone",
@@ -549,7 +569,8 @@
         "lonely",
         "along",
         "lone"
-      ]
+      ],
+      "image": "words/alone.webp"
     },
     {
       "id": "sensible",
@@ -567,7 +588,8 @@
         "sensitive",
         "sensational",
         "sensor"
-      ]
+      ],
+      "image": "words/sensible.webp"
     },
     {
       "id": "sensitive",
@@ -585,7 +607,8 @@
         "sensible",
         "sensual",
         "sentimental"
-      ]
+      ],
+      "image": "words/sensitive.webp"
     },
     {
       "id": "economical",
@@ -603,7 +626,8 @@
         "economic",
         "economy",
         "ecological"
-      ]
+      ],
+      "image": "words/economical.webp"
     },
     {
       "id": "actually",
@@ -621,7 +645,8 @@
         "currently",
         "usually",
         "eventually"
-      ]
+      ],
+      "image": "words/actually.webp"
     },
     {
       "id": "remind",
@@ -639,7 +664,8 @@
         "remember",
         "rewind",
         "remain"
-      ]
+      ],
+      "image": "words/remind.webp"
     },
     {
       "id": "stuff",
@@ -657,7 +683,8 @@
         "staff",
         "stiff",
         "stove"
-      ]
+      ],
+      "image": "words/stuff.webp"
     },
     {
       "id": "sympathetic",
@@ -675,7 +702,8 @@
         "friendly",
         "pathetic",
         "symbolic"
-      ]
+      ],
+      "image": "words/sympathetic.webp"
     },
     {
       "id": "switch_on",
@@ -693,7 +721,8 @@
         "open",
         "switch off",
         "swipe"
-      ]
+      ],
+      "image": "words/switch_on.webp"
     },
     {
       "id": "hang_out",
@@ -711,7 +740,8 @@
         "play with",
         "hang up",
         "hang on"
-      ]
+      ],
+      "image": "words/hang_out.webp"
     },
     {
       "id": "go_online",
@@ -729,7 +759,8 @@
         "play internet",
         "go offline",
         "go live"
-      ]
+      ],
+      "image": "words/go_online.webp"
     },
     {
       "id": "on_my_phone",
@@ -747,7 +778,8 @@
         "play phone",
         "in my phone",
         "at my phone"
-      ]
+      ],
+      "image": "words/on_my_phone.webp"
     },
     {
       "id": "have_a_meal",
@@ -765,7 +797,8 @@
         "eat rice",
         "have a bite",
         "take a meal"
-      ]
+      ],
+      "image": "words/have_a_meal.webp"
     },
     {
       "id": "take_medicine",
@@ -783,7 +816,8 @@
         "eat medicine",
         "drink medicine",
         "take a meal"
-      ]
+      ],
+      "image": "words/take_medicine.webp"
     },
     {
       "id": "take_a_photo",
@@ -801,7 +835,8 @@
         "shoot a photo",
         "make a photo",
         "take a look"
-      ]
+      ],
+      "image": "words/take_a_photo.webp"
     },
     {
       "id": "have_a_cold",
@@ -819,7 +854,8 @@
         "I am cold",
         "be a cold",
         "get cold"
-      ]
+      ],
+      "image": "words/have_a_cold.webp"
     },
     {
       "id": "go_on_a_trip",
@@ -837,7 +873,8 @@
         "go to travel",
         "go to trip",
         "take a travel"
-      ]
+      ],
+      "image": "words/go_on_a_trip.webp"
     },
     {
       "id": "give_a_ride",
@@ -855,7 +892,8 @@
         "send you",
         "give a lift",
         "take a ride"
-      ]
+      ],
+      "image": "words/give_a_ride.webp"
     },
     {
       "id": "do_homework",
@@ -873,7 +911,8 @@
         "make homework",
         "do housework",
         "write homework"
-      ]
+      ],
+      "image": "words/do_homework.webp"
     },
     {
       "id": "make_yourself_at_home",
@@ -891,7 +930,8 @@
         "follow your comfort",
         "help yourself",
         "take your time"
-      ]
+      ],
+      "image": "words/make_yourself_at_home.webp"
     },
     {
       "id": "really",
@@ -909,7 +949,8 @@
         "very",
         "rarely",
         "reality"
-      ]
+      ],
+      "image": "words/really.webp"
     },
     {
       "id": "waste_time",
@@ -927,7 +968,8 @@
         "lose time",
         "spend time",
         "kill time"
-      ]
+      ],
+      "image": "words/waste_time.webp"
     },
     {
       "id": "listen_to",
@@ -945,7 +987,8 @@
         "listen",
         "hear to",
         "listen at"
-      ]
+      ],
+      "image": "words/listen_to.webp"
     },
     {
       "id": "wait_for",
@@ -963,7 +1006,8 @@
         "wait",
         "wait to",
         "await for"
-      ]
+      ],
+      "image": "words/wait_for.webp"
     },
     {
       "id": "married_to",
@@ -981,7 +1025,8 @@
         "married with",
         "marry with",
         "married by"
-      ]
+      ],
+      "image": "words/married_to.webp"
     },
     {
       "id": "arrive_at",
@@ -999,7 +1044,8 @@
         "arrive to",
         "arrive in",
         "reach at"
-      ]
+      ],
+      "image": "words/arrive_at.webp"
     },
     {
       "id": "go_home",
@@ -1017,7 +1063,8 @@
         "go to home",
         "go house",
         "go to the home"
-      ]
+      ],
+      "image": "words/go_home.webp"
     },
     {
       "id": "enter",
@@ -1035,7 +1082,8 @@
         "enter into",
         "entry",
         "entire"
-      ]
+      ],
+      "image": "words/enter.webp"
     },
     {
       "id": "contact",
@@ -1053,7 +1101,8 @@
         "contact with",
         "contact to",
         "contract"
-      ]
+      ],
+      "image": "words/contact.webp"
     },
     {
       "id": "depend_on",
@@ -1071,7 +1120,8 @@
         "depend of",
         "depend to",
         "defend on"
-      ]
+      ],
+      "image": "words/depend_on.webp"
     },
     {
       "id": "good_at",
@@ -1089,7 +1139,8 @@
         "good in",
         "good for",
         "good with"
-      ]
+      ],
+      "image": "words/good_at.webp"
     },
     {
       "id": "afraid_of",
@@ -1107,7 +1158,8 @@
         "afraid from",
         "afraid with",
         "fear of"
-      ]
+      ],
+      "image": "words/afraid_of.webp"
     },
     {
       "id": "look_forward_to",
@@ -1125,7 +1177,8 @@
         "look forward",
         "look forward for",
         "look ahead to"
-      ]
+      ],
+      "image": "words/look_forward_to.webp"
     },
     {
       "id": "agree_with",
@@ -1143,7 +1196,8 @@
         "I'm agree",
         "agree to",
         "agree on"
-      ]
+      ],
+      "image": "words/agree_with.webp"
     },
     {
       "id": "in_time",
@@ -1161,7 +1215,8 @@
         "on time",
         "at time",
         "by time"
-      ]
+      ],
+      "image": "words/in_time.webp"
     },
     {
       "id": "explain",
@@ -1179,7 +1234,8 @@
         "explain me",
         "explore",
         "complain"
-      ]
+      ],
+      "image": "words/explain.webp"
     },
     {
       "id": "furniture",
@@ -1197,7 +1253,8 @@
         "furnitures",
         "furnish",
         "future"
-      ]
+      ],
+      "image": "words/furniture.webp"
     },
     {
       "id": "advice",
@@ -1215,7 +1272,8 @@
         "advices",
         "advise",
         "device"
-      ]
+      ],
+      "image": "words/advice.webp"
     },
     {
       "id": "information",
@@ -1233,7 +1291,8 @@
         "informations",
         "inform",
         "formation"
-      ]
+      ],
+      "image": "words/information.webp"
     },
     {
       "id": "equipment",
@@ -1251,7 +1310,8 @@
         "equipments",
         "equip",
         "apartment"
-      ]
+      ],
+      "image": "words/equipment.webp"
     },
     {
       "id": "news",
@@ -1269,7 +1329,8 @@
         "a new",
         "newses",
         "noose"
-      ]
+      ],
+      "image": "words/news.webp"
     },
     {
       "id": "knowledge",
@@ -1287,7 +1348,8 @@
         "knowledges",
         "knowing",
         "acknowledge"
-      ]
+      ],
+      "image": "words/knowledge.webp"
     },
     {
       "id": "jewelry",
@@ -1305,7 +1367,8 @@
         "jewelries",
         "jewel",
         "jeweler"
-      ]
+      ],
+      "image": "words/jewelry.webp"
     },
     {
       "id": "clothes",
@@ -1323,7 +1386,8 @@
         "a clothe",
         "cloth",
         "close"
-      ]
+      ],
+      "image": "words/clothes.webp"
     },
     {
       "id": "people",
@@ -1341,7 +1405,8 @@
         "peoples",
         "persons",
         "pupil"
-      ]
+      ],
+      "image": "words/people.webp"
     },
     {
       "id": "hair",
@@ -1359,7 +1424,8 @@
         "hairs",
         "hare",
         "heir"
-      ]
+      ],
+      "image": "words/hair.webp"
     },
     {
       "id": "paper",
@@ -1377,7 +1443,8 @@
         "a paper",
         "papers",
         "pepper"
-      ]
+      ],
+      "image": "words/paper.webp"
     },
     {
       "id": "glasses",
@@ -1395,7 +1462,8 @@
         "a glass",
         "glass",
         "eyeglass"
-      ]
+      ],
+      "image": "words/glasses.webp"
     },
     {
       "id": "trousers",
@@ -1413,7 +1481,8 @@
         "a trouser",
         "pants",
         "trousers pair"
-      ]
+      ],
+      "image": "words/trousers.webp"
     },
     {
       "id": "progress",
@@ -1431,7 +1500,8 @@
         "a progress",
         "process",
         "progression"
-      ]
+      ],
+      "image": "words/progress.webp"
     },
     {
       "id": "snake",
@@ -1449,7 +1519,8 @@
         "snack",
         "sneak",
         "snail"
-      ]
+      ],
+      "image": "words/snake.webp"
     },
     {
       "id": "sink",
@@ -1467,7 +1538,8 @@
         "think",
         "sing",
         "zinc"
-      ]
+      ],
+      "image": "words/sink.webp"
     },
     {
       "id": "whole",
@@ -1485,7 +1557,8 @@
         "hole",
         "hall",
         "howl"
-      ]
+      ],
+      "image": "words/whole.webp"
     },
     {
       "id": "fool",
@@ -1503,7 +1576,8 @@
         "full",
         "fuel",
         "foul"
-      ]
+      ],
+      "image": "words/fool.webp"
     },
     {
       "id": "peace",
@@ -1521,7 +1595,8 @@
         "piece",
         "peas",
         "please"
-      ]
+      ],
+      "image": "words/peace.webp"
     },
     {
       "id": "breathe",
@@ -1539,7 +1614,8 @@
         "breath",
         "breed",
         "bread"
-      ]
+      ],
+      "image": "words/breathe.webp"
     },
     {
       "id": "chief",
@@ -1557,7 +1633,8 @@
         "chef",
         "cheap",
         "chip"
-      ]
+      ],
+      "image": "words/chief.webp"
     },
     {
       "id": "stir",
@@ -1575,7 +1652,8 @@
         "star",
         "steer",
         "store"
-      ]
+      ],
+      "image": "words/stir.webp"
     },
     {
       "id": "vest",
@@ -1593,7 +1671,8 @@
         "west",
         "best",
         "waist"
-      ]
+      ],
+      "image": "words/vest.webp"
     },
     {
       "id": "worm",
@@ -1611,7 +1690,8 @@
         "warm",
         "worn",
         "swarm"
-      ]
+      ],
+      "image": "words/worm.webp"
     },
     {
       "id": "sheep",
@@ -1629,7 +1709,8 @@
         "ship",
         "sheet",
         "cheap"
-      ]
+      ],
+      "image": "words/sheep.webp"
     },
     {
       "id": "sheet",
@@ -1647,7 +1728,8 @@
         "shit",
         "seat",
         "sheep"
-      ]
+      ],
+      "image": "words/sheet.webp"
     },
     {
       "id": "quite",
@@ -1665,7 +1747,8 @@
         "quiet",
         "quit",
         "quote"
-      ]
+      ],
+      "image": "words/quite.webp"
     },
     {
       "id": "collect",
@@ -1683,7 +1766,8 @@
         "correct",
         "connect",
         "collapse"
-      ]
+      ],
+      "image": "words/collect.webp"
     },
     {
       "id": "would_like",
@@ -1701,7 +1785,8 @@
         "I want",
         "would love",
         "will like"
-      ]
+      ],
+      "image": "words/would_like.webp"
     },
     {
       "id": "could_i_have",
@@ -1719,7 +1804,8 @@
         "give me",
         "I take",
         "could I get"
-      ]
+      ],
+      "image": "words/could_i_have.webp"
     },
     {
       "id": "have_a_seat",
@@ -1737,7 +1823,8 @@
         "sit down",
         "sit",
         "take a sit"
-      ]
+      ],
+      "image": "words/have_a_seat.webp"
     },
     {
       "id": "make_sense",
@@ -1755,7 +1842,8 @@
         "do you understand",
         "make a sense",
         "have sense"
-      ]
+      ],
+      "image": "words/make_sense.webp"
     },
     {
       "id": "pardon",
@@ -1773,7 +1861,8 @@
         "what",
         "pardon me for",
         "garden"
-      ]
+      ],
+      "image": "words/pardon.webp"
     },
     {
       "id": "im_afraid_not",
@@ -1791,7 +1880,8 @@
         "no",
         "I'm not afraid",
         "I'm afraid so"
-      ]
+      ],
+      "image": "words/im_afraid_not.webp"
     },
     {
       "id": "not_sure",
@@ -1809,7 +1899,8 @@
         "I don't know",
         "not sure about",
         "no sure"
-      ]
+      ],
+      "image": "words/not_sure.webp"
     },
     {
       "id": "excuse_me",
@@ -1827,7 +1918,8 @@
         "sorry",
         "excuse you",
         "forgive me"
-      ]
+      ],
+      "image": "words/excuse_me.webp"
     },
     {
       "id": "i_dont_mind",
@@ -1845,7 +1937,8 @@
         "I don't care",
         "I don't mine",
         "never mind"
-      ]
+      ],
+      "image": "words/i_dont_mind.webp"
     },
     {
       "id": "either_is_fine",
@@ -1863,7 +1956,8 @@
         "whatever",
         "neither is fine",
         "both are fine"
-      ]
+      ],
+      "image": "words/either_is_fine.webp"
     },
     {
       "id": "just_a_moment",
@@ -1881,7 +1975,8 @@
         "wait",
         "just a minute ago",
         "moment please"
-      ]
+      ],
+      "image": "words/just_a_moment.webp"
     },
     {
       "id": "elderly",
@@ -1899,7 +1994,8 @@
         "old",
         "elder",
         "early"
-      ]
+      ],
+      "image": "words/elderly.webp"
     },
     {
       "id": "westerner",
@@ -1917,7 +2013,8 @@
         "farang",
         "foreigner",
         "western"
-      ]
+      ],
+      "image": "words/westerner.webp"
     },
     {
       "id": "after_you",
@@ -1935,7 +2032,8 @@
         "you go first",
         "before you",
         "follow me"
-      ]
+      ],
+      "image": "words/after_you.webp"
     }
   ]
 }

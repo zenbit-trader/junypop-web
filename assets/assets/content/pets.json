@@ -189,7 +189,8 @@
         "pat",
         "pit",
         "poet"
-      ]
+      ],
+      "image": "words/pet.webp"
     },
     {
       "id": "puppy",
@@ -207,7 +208,8 @@
         "poppy",
         "pup",
         "guppy"
-      ]
+      ],
+      "image": "words/puppy.webp"
     },
     {
       "id": "kitten",
@@ -225,7 +227,8 @@
         "kitchen",
         "mitten",
         "kite"
-      ]
+      ],
+      "image": "words/kitten.webp"
     },
     {
       "id": "paw",
@@ -243,7 +246,8 @@
         "pow",
         "pour",
         "crow"
-      ]
+      ],
+      "image": "words/paw.webp"
     },
     {
       "id": "tail",
@@ -261,7 +265,8 @@
         "tale",
         "tile",
         "toll"
-      ]
+      ],
+      "image": "words/tail.webp"
     },
     {
       "id": "fur",
@@ -279,7 +284,8 @@
         "far",
         "fir",
         "feather"
-      ]
+      ],
+      "image": "words/fur.webp"
     },
     {
       "id": "leash",
@@ -297,7 +303,8 @@
         "lease",
         "leaf",
         "lash"
-      ]
+      ],
+      "image": "words/leash.webp"
     },
     {
       "id": "walk_the_dog",
@@ -315,7 +322,8 @@
         "feed the dog",
         "wash the dog",
         "ride the dog"
-      ]
+      ],
+      "image": "words/walk_the_dog.webp"
     },
     {
       "id": "bark",
@@ -333,7 +341,8 @@
         "back",
         "park",
         "bake"
-      ]
+      ],
+      "image": "words/bark.webp"
     },
     {
       "id": "meow",
@@ -351,7 +360,8 @@
         "meal",
         "mow",
         "mellow"
-      ]
+      ],
+      "image": "words/meow.webp"
     },
     {
       "id": "purr",
@@ -369,7 +379,8 @@
         "pure",
         "pour",
         "per"
-      ]
+      ],
+      "image": "words/purr.webp"
     },
     {
       "id": "wag",
@@ -387,7 +398,8 @@
         "wax",
         "way",
         "wage"
-      ]
+      ],
+      "image": "words/wag.webp"
     },
     {
       "id": "fetch",
@@ -405,7 +417,8 @@
         "catch",
         "fresh",
         "fence"
-      ]
+      ],
+      "image": "words/fetch.webp"
     },
     {
       "id": "stray",
@@ -423,7 +436,8 @@
         "straight",
         "stay",
         "string"
-      ]
+      ],
+      "image": "words/stray.webp"
     },
     {
       "id": "vet",
@@ -441,7 +455,8 @@
         "bet",
         "wet",
         "vest"
-      ]
+      ],
+      "image": "words/vet.webp"
     },
     {
       "id": "vaccinate",
@@ -459,7 +474,8 @@
         "vacate",
         "validate",
         "fascinate"
-      ]
+      ],
+      "image": "words/vaccinate.webp"
     },
     {
       "id": "neuter",
@@ -477,7 +493,8 @@
         "neutral",
         "nurture",
         "mutter"
-      ]
+      ],
+      "image": "words/neuter.webp"
     },
     {
       "id": "flea",
@@ -495,7 +512,8 @@
         "flee",
         "flea market",
         "fly"
-      ]
+      ],
+      "image": "words/flea.webp"
     },
     {
       "id": "tick",
@@ -513,7 +531,8 @@
         "tip",
         "thick",
         "trick"
-      ]
+      ],
+      "image": "words/tick.webp"
     },
     {
       "id": "claw",
@@ -531,7 +550,8 @@
         "clown",
         "crawl",
         "clue"
-      ]
+      ],
+      "image": "words/claw.webp"
     },
     {
       "id": "litter_box",
@@ -549,7 +569,8 @@
         "lunch box",
         "letter box",
         "litter bin"
-      ]
+      ],
+      "image": "words/litter_box.webp"
     },
     {
       "id": "kibble",
@@ -567,7 +588,8 @@
         "nibble",
         "kettle",
         "cable"
-      ]
+      ],
+      "image": "words/kibble.webp"
     },
     {
       "id": "adopt",
@@ -585,7 +607,8 @@
         "adapt",
         "adept",
         "accept"
-      ]
+      ],
+      "image": "words/adopt.webp"
     },
     {
       "id": "foster",
@@ -603,7 +626,8 @@
         "faster",
         "poster",
         "roster"
-      ]
+      ],
+      "image": "words/foster.webp"
     },
     {
       "id": "microchip",
@@ -621,7 +645,8 @@
         "microphone",
         "microwave",
         "chip"
-      ]
+      ],
+      "image": "words/microchip.webp"
     },
     {
       "id": "cage",
@@ -639,7 +664,8 @@
         "cake",
         "cave",
         "page"
-      ]
+      ],
+      "image": "words/cage.webp"
     },
     {
       "id": "bathe",
@@ -657,7 +683,8 @@
         "bath",
         "breathe",
         "bake"
-      ]
+      ],
+      "image": "words/bathe.webp"
     },
     {
       "id": "scratch",
@@ -675,7 +702,8 @@
         "stretch",
         "snatch",
         "sketch"
-      ]
+      ],
+      "image": "words/scratch.webp"
     },
     {
       "id": "hamster",
@@ -693,7 +721,8 @@
         "hammer",
         "monster",
         "lobster"
-      ]
+      ],
+      "image": "words/hamster.webp"
     },
     {
       "id": "rabbit",
@@ -711,7 +740,8 @@
         "rabbi",
         "robot",
         "ribbon"
-      ]
+      ],
+      "image": "words/rabbit.webp"
     },
     {
       "id": "guinea_pig",
@@ -729,7 +759,8 @@
         "guinea fowl",
         "pig",
         "gerbil"
-      ]
+      ],
+      "image": "words/guinea_pig.webp"
     },
     {
       "id": "turtle",
@@ -747,7 +778,8 @@
         "tortoise",
         "turkey",
         "title"
-      ]
+      ],
+      "image": "words/turtle.webp"
     },
     {
       "id": "goldfish",
@@ -765,7 +797,8 @@
         "golden",
         "catfish",
         "shellfish"
-      ]
+      ],
+      "image": "words/goldfish.webp"
     },
     {
       "id": "aquarium",
@@ -783,7 +816,8 @@
         "stadium",
         "auditorium",
         "aquatic"
-      ]
+      ],
+      "image": "words/aquarium.webp"
     },
     {
       "id": "tank",
@@ -801,7 +835,8 @@
         "thank",
         "tent",
         "bank"
-      ]
+      ],
+      "image": "words/tank.webp"
     },
     {
       "id": "parrot",
@@ -819,7 +854,8 @@
         "carrot",
         "patriot",
         "pirate"
-      ]
+      ],
+      "image": "words/parrot.webp"
     },
     {
       "id": "budgie",
@@ -837,7 +873,8 @@
         "buddy",
         "badge",
         "budget"
-      ]
+      ],
+      "image": "words/budgie.webp"
     },
     {
       "id": "feather",
@@ -855,7 +892,8 @@
         "father",
         "leather",
         "weather"
-      ]
+      ],
+      "image": "words/feather.webp"
     },
     {
       "id": "beak",
@@ -873,7 +911,8 @@
         "beat",
         "bake",
         "peak"
-      ]
+      ],
+      "image": "words/beak.webp"
     },
     {
       "id": "wing",
@@ -891,7 +930,8 @@
         "ring",
         "wind",
         "swing"
-      ]
+      ],
+      "image": "words/wing.webp"
     },
     {
       "id": "nest",
@@ -909,7 +949,8 @@
         "next",
         "net",
         "nestle"
-      ]
+      ],
+      "image": "words/nest.webp"
     },
     {
       "id": "hatch",
@@ -927,7 +968,8 @@
         "hat",
         "catch",
         "match"
-      ]
+      ],
+      "image": "words/hatch.webp"
     },
     {
       "id": "cow",
@@ -945,7 +987,8 @@
         "crow",
         "cop",
         "calf"
-      ]
+      ],
+      "image": "words/cow.webp"
     },
     {
       "id": "pig",
@@ -963,7 +1006,8 @@
         "big",
         "peg",
         "pie"
-      ]
+      ],
+      "image": "words/pig.webp"
     },
     {
       "id": "goat",
@@ -981,7 +1025,8 @@
         "boat",
         "coat",
         "ghost"
-      ]
+      ],
+      "image": "words/goat.webp"
     },
     {
       "id": "goose",
@@ -999,7 +1044,8 @@
         "geese",
         "goat",
         "moose"
-      ]
+      ],
+      "image": "words/goose.webp"
     },
     {
       "id": "buffalo",
@@ -1017,7 +1063,8 @@
         "bull",
         "bison",
         "balloon"
-      ]
+      ],
+      "image": "words/buffalo.webp"
     },
     {
       "id": "duck",
@@ -1035,7 +1082,8 @@
         "dock",
         "deck",
         "luck"
-      ]
+      ],
+      "image": "words/duck.webp"
     },
     {
       "id": "rooster",
@@ -1053,7 +1101,8 @@
         "roaster",
         "router",
         "booster"
-      ]
+      ],
+      "image": "words/rooster.webp"
     },
     {
       "id": "hen",
@@ -1071,7 +1120,8 @@
         "hem",
         "pen",
         "hence"
-      ]
+      ],
+      "image": "words/hen.webp"
     },
     {
       "id": "horse",
@@ -1089,7 +1139,8 @@
         "house",
         "hose",
         "hoarse"
-      ]
+      ],
+      "image": "words/horse.webp"
     },
     {
       "id": "donkey",
@@ -1107,7 +1158,8 @@
         "monkey",
         "turkey",
         "dinky"
-      ]
+      ],
+      "image": "words/donkey.webp"
     },
     {
       "id": "barn",
@@ -1125,7 +1177,8 @@
         "born",
         "bar",
         "burn"
-      ]
+      ],
+      "image": "words/barn.webp"
     },
     {
       "id": "herd",
@@ -1143,7 +1196,8 @@
         "heard",
         "hard",
         "bird"
-      ]
+      ],
+      "image": "words/herd.webp"
     },
     {
       "id": "livestock",
@@ -1161,7 +1215,8 @@
         "life stock",
         "stockpile",
         "lifestyle"
-      ]
+      ],
+      "image": "words/livestock.webp"
     },
     {
       "id": "graze",
@@ -1179,7 +1234,8 @@
         "grace",
         "gaze",
         "glaze"
-      ]
+      ],
+      "image": "words/graze.webp"
     },
     {
       "id": "elephant",
@@ -1197,7 +1253,8 @@
         "elegant",
         "element",
         "relevant"
-      ]
+      ],
+      "image": "words/elephant.webp"
     },
     {
       "id": "tiger",
@@ -1215,7 +1272,8 @@
         "tiler",
         "tired",
         "timer"
-      ]
+      ],
+      "image": "words/tiger.webp"
     },
     {
       "id": "lion",
@@ -1233,7 +1291,8 @@
         "line",
         "loin",
         "lean"
-      ]
+      ],
+      "image": "words/lion.webp"
     },
     {
       "id": "monkey",
@@ -1251,7 +1310,8 @@
         "donkey",
         "money",
         "monk"
-      ]
+      ],
+      "image": "words/monkey.webp"
     },
     {
       "id": "bear",
@@ -1269,7 +1329,8 @@
         "beer",
         "bare",
         "bean"
-      ]
+      ],
+      "image": "words/bear.webp"
     },
     {
       "id": "deer",
@@ -1287,7 +1348,8 @@
         "dear",
         "door",
         "beer"
-      ]
+      ],
+      "image": "words/deer.webp"
     },
     {
       "id": "lizard",
@@ -1305,7 +1367,8 @@
         "wizard",
         "blizzard",
         "lizards"
-      ]
+      ],
+      "image": "words/lizard.webp"
     },
     {
       "id": "crocodile",
@@ -1323,7 +1386,8 @@
         "alligator",
         "chocolate",
         "cocktail"
-      ]
+      ],
+      "image": "words/crocodile.webp"
     },
     {
       "id": "giraffe",
@@ -1341,7 +1405,8 @@
         "graph",
         "gift",
         "draft"
-      ]
+      ],
+      "image": "words/giraffe.webp"
     },
     {
       "id": "zebra",
@@ -1359,7 +1424,8 @@
         "zero",
         "cobra",
         "zipper"
-      ]
+      ],
+      "image": "words/zebra.webp"
     },
     {
       "id": "zoo",
@@ -1377,7 +1443,8 @@
         "zoom",
         "zone",
         "two"
-      ]
+      ],
+      "image": "words/zoo.webp"
     },
     {
       "id": "zookeeper",
@@ -1395,7 +1462,8 @@
         "gatekeeper",
         "beekeeper",
         "caretaker"
-      ]
+      ],
+      "image": "words/zookeeper.webp"
     },
     {
       "id": "enclosure",
@@ -1413,7 +1481,8 @@
         "closure",
         "exposure",
         "disclosure"
-      ]
+      ],
+      "image": "words/enclosure.webp"
     },
     {
       "id": "predator",
@@ -1431,7 +1500,8 @@
         "president",
         "creditor",
         "editor"
-      ]
+      ],
+      "image": "words/predator.webp"
     },
     {
       "id": "shark",
@@ -1449,7 +1519,8 @@
         "shock",
         "sharp",
         "spark"
-      ]
+      ],
+      "image": "words/shark.webp"
     },
     {
       "id": "whale",
@@ -1467,7 +1538,8 @@
         "wheel",
         "while",
         "wall"
-      ]
+      ],
+      "image": "words/whale.webp"
     },
     {
       "id": "octopus",
@@ -1485,7 +1557,8 @@
         "octagon",
         "cactus",
         "platypus"
-      ]
+      ],
+      "image": "words/octopus.webp"
     },
     {
       "id": "squid",
@@ -1503,7 +1576,8 @@
         "squad",
         "squat",
         "skid"
-      ]
+      ],
+      "image": "words/squid.webp"
     },
     {
       "id": "seahorse",
@@ -1521,7 +1595,8 @@
         "sea lion",
         "racehorse",
         "seashore"
-      ]
+      ],
+      "image": "words/seahorse.webp"
     },
     {
       "id": "starfish",
@@ -1539,7 +1614,8 @@
         "stardust",
         "swordfish",
         "shellfish"
-      ]
+      ],
+      "image": "words/starfish.webp"
     },
     {
       "id": "ant",
@@ -1557,7 +1633,8 @@
         "aunt",
         "and",
         "art"
-      ]
+      ],
+      "image": "words/ant.webp"
     },
     {
       "id": "bee",
@@ -1575,7 +1652,8 @@
         "be",
         "beer",
         "bean"
-      ]
+      ],
+      "image": "words/bee.webp"
     },
     {
       "id": "spider",
@@ -1593,7 +1671,8 @@
         "spade",
         "slider",
         "cider"
-      ]
+      ],
+      "image": "words/spider.webp"
     },
     {
       "id": "cockroach",
@@ -1611,7 +1690,8 @@
         "coach",
         "approach",
         "cocktail"
-      ]
+      ],
+      "image": "words/cockroach.webp"
     },
     {
       "id": "caterpillar",
@@ -1629,7 +1709,8 @@
         "cater",
         "pillar",
         "butterfly"
-      ]
+      ],
+      "image": "words/caterpillar.webp"
     },
     {
       "id": "insect",
@@ -1647,7 +1728,8 @@
         "insert",
         "inspect",
         "infect"
-      ]
+      ],
+      "image": "words/insect.webp"
     },
     {
       "id": "buzz",
@@ -1665,7 +1747,8 @@
         "bus",
         "fuzz",
         "busy"
-      ]
+      ],
+      "image": "words/buzz.webp"
     },
     {
       "id": "hive",
@@ -1683,7 +1766,8 @@
         "have",
         "five",
         "dive"
-      ]
+      ],
+      "image": "words/hive.webp"
     },
     {
       "id": "roar",
@@ -1701,7 +1785,8 @@
         "row",
         "rear",
         "raw"
-      ]
+      ],
+      "image": "words/roar.webp"
     },
     {
       "id": "growl",
@@ -1719,7 +1804,8 @@
         "grow",
         "howl",
         "crawl"
-      ]
+      ],
+      "image": "words/growl.webp"
     },
     {
       "id": "hiss",
@@ -1737,7 +1823,8 @@
         "his",
         "kiss",
         "miss"
-      ]
+      ],
+      "image": "words/hiss.webp"
     },
     {
       "id": "chirp",
@@ -1755,7 +1842,8 @@
         "chip",
         "church",
         "cheer"
-      ]
+      ],
+      "image": "words/chirp.webp"
     },
     {
       "id": "howl",
@@ -1773,7 +1861,8 @@
         "how",
         "owl",
         "hole"
-      ]
+      ],
+      "image": "words/howl.webp"
     },
     {
       "id": "hibernate",
@@ -1791,7 +1880,8 @@
         "hesitate",
         "vibrate",
         "celebrate"
-      ]
+      ],
+      "image": "words/hibernate.webp"
     },
     {
       "id": "migrate",
@@ -1809,7 +1899,8 @@
         "migraine",
         "mitigate",
         "imitate"
-      ]
+      ],
+      "image": "words/migrate.webp"
     },
     {
       "id": "mammal",
@@ -1827,7 +1918,8 @@
         "manual",
         "animal",
         "marble"
-      ]
+      ],
+      "image": "words/mammal.webp"
     },
     {
       "id": "reptile",
@@ -1845,7 +1937,8 @@
         "retail",
         "textile",
         "reptilian"
-      ]
+      ],
+      "image": "words/reptile.webp"
     },
     {
       "id": "prey",
@@ -1863,7 +1956,8 @@
         "pray",
         "pretty",
         "pay"
-      ]
+      ],
+      "image": "words/prey.webp"
     },
     {
       "id": "tame",
@@ -1881,7 +1975,8 @@
         "time",
         "team",
         "lame"
-      ]
+      ],
+      "image": "words/tame.webp"
     },
     {
       "id": "nocturnal",
@@ -1899,7 +1994,8 @@
         "natural",
         "eternal",
         "internal"
-      ]
+      ],
+      "image": "words/nocturnal.webp"
     },
     {
       "id": "instinct",
@@ -1917,7 +2013,8 @@
         "distinct",
         "extinct",
         "insect"
-      ]
+      ],
+      "image": "words/instinct.webp"
     },
     {
       "id": "camouflage",
@@ -1935,7 +2032,8 @@
         "flamingo",
         "cabbage",
         "mirage"
-      ]
+      ],
+      "image": "words/camouflage.webp"
     }
   ]
 }

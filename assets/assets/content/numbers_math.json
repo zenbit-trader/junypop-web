@@ -189,7 +189,8 @@
         "hero",
         "zebra",
         "nil"
-      ]
+      ],
+      "image": "words/zero.webp"
     },
     {
       "id": "dozen",
@@ -207,7 +208,8 @@
         "dose",
         "doze",
         "dozens"
-      ]
+      ],
+      "image": "words/dozen.webp"
     },
     {
       "id": "hundred",
@@ -225,7 +227,8 @@
         "hundreds",
         "thousand",
         "handed"
-      ]
+      ],
+      "image": "words/hundred.webp"
     },
     {
       "id": "thousand",
@@ -243,7 +246,8 @@
         "thousands",
         "though",
         "million"
-      ]
+      ],
+      "image": "words/thousand.webp"
     },
     {
       "id": "million",
@@ -261,7 +265,8 @@
         "billion",
         "millionaire",
         "mission"
-      ]
+      ],
+      "image": "words/million.webp"
     },
     {
       "id": "billion",
@@ -279,7 +284,8 @@
         "million",
         "trillion",
         "billionaire"
-      ]
+      ],
+      "image": "words/billion.webp"
     },
     {
       "id": "number",
@@ -297,7 +303,8 @@
         "numb",
         "member",
         "amount"
-      ]
+      ],
+      "image": "words/number.webp"
     },
     {
       "id": "digit",
@@ -315,7 +322,8 @@
         "digital",
         "dig",
         "decimal"
-      ]
+      ],
+      "image": "words/digit.webp"
     },
     {
       "id": "count",
@@ -333,7 +341,8 @@
         "country",
         "account",
         "county"
-      ]
+      ],
+      "image": "words/count.webp"
     },
     {
       "id": "first",
@@ -351,7 +360,8 @@
         "fast",
         "fist",
         "last"
-      ]
+      ],
+      "image": "words/first.webp"
     },
     {
       "id": "second",
@@ -369,7 +379,8 @@
         "secret",
         "section",
         "minute"
-      ]
+      ],
+      "image": "words/second.webp"
     },
     {
       "id": "third",
@@ -387,7 +398,8 @@
         "three",
         "thirty",
         "thirsty"
-      ]
+      ],
+      "image": "words/third.webp"
     },
     {
       "id": "fifth",
@@ -405,7 +417,8 @@
         "five",
         "fifty",
         "fifteen"
-      ]
+      ],
+      "image": "words/fifth.webp"
     },
     {
       "id": "twentieth",
@@ -423,7 +436,8 @@
         "twenty",
         "twelfth",
         "twentieth century"
-      ]
+      ],
+      "image": "words/twentieth.webp"
     },
     {
       "id": "half",
@@ -441,7 +455,8 @@
         "hall",
         "halve",
         "quarter"
-      ]
+      ],
+      "image": "words/half.webp"
     },
     {
       "id": "decimal_point",
@@ -459,7 +474,8 @@
         "decimal",
         "point",
         "period"
-      ]
+      ],
+      "image": "words/decimal_point.webp"
     },
     {
       "id": "integer",
@@ -477,7 +493,8 @@
         "interior",
         "decimal",
         "integrity"
-      ]
+      ],
+      "image": "words/integer.webp"
     },
     {
       "id": "fraction",
@@ -495,7 +512,8 @@
         "friction",
         "fiction",
         "faction"
-      ]
+      ],
+      "image": "words/fraction.webp"
     },
     {
       "id": "numerator",
@@ -513,7 +531,8 @@
         "denominator",
         "generator",
         "number"
-      ]
+      ],
+      "image": "words/numerator.webp"
     },
     {
       "id": "denominator",
@@ -531,7 +550,8 @@
         "numerator",
         "dominator",
         "nominator"
-      ]
+      ],
+      "image": "words/denominator.webp"
     },
     {
       "id": "decimal",
@@ -549,7 +569,8 @@
         "decade",
         "digital",
         "fraction"
-      ]
+      ],
+      "image": "words/decimal.webp"
     },
     {
       "id": "percentage",
@@ -567,7 +588,8 @@
         "percent",
         "package",
         "advantage"
-      ]
+      ],
+      "image": "words/percentage.webp"
     },
     {
       "id": "out_of",
@@ -585,7 +607,8 @@
         "out of stock",
         "instead of",
         "ahead of"
-      ]
+      ],
+      "image": "words/out_of.webp"
     },
     {
       "id": "equal",
@@ -603,7 +626,8 @@
         "equally",
         "eagle",
         "quality"
-      ]
+      ],
+      "image": "words/equal.webp"
     },
     {
       "id": "ratio",
@@ -621,7 +645,8 @@
         "radio",
         "ration",
         "rate"
-      ]
+      ],
+      "image": "words/ratio.webp"
     },
     {
       "id": "proportion",
@@ -639,7 +664,8 @@
         "portion",
         "promotion",
         "proposal"
-      ]
+      ],
+      "image": "words/proportion.webp"
     },
     {
       "id": "round_up",
@@ -657,7 +683,8 @@
         "round down",
         "round trip",
         "roll up"
-      ]
+      ],
+      "image": "words/round_up.webp"
     },
     {
       "id": "approximately",
@@ -675,7 +702,8 @@
         "appropriately",
         "exactly",
         "apparently"
-      ]
+      ],
+      "image": "words/approximately.webp"
     },
     {
       "id": "add",
@@ -693,7 +721,8 @@
         "ad",
         "aid",
         "odd"
-      ]
+      ],
+      "image": "words/add.webp"
     },
     {
       "id": "plus",
@@ -711,7 +740,8 @@
         "minus",
         "pulse",
         "place"
-      ]
+      ],
+      "image": "words/plus.webp"
     },
     {
       "id": "subtract",
@@ -729,7 +759,8 @@
         "attract",
         "distract",
         "contract"
-      ]
+      ],
+      "image": "words/subtract.webp"
     },
     {
       "id": "minus",
@@ -747,7 +778,8 @@
         "plus",
         "minor",
         "minute"
-      ]
+      ],
+      "image": "words/minus.webp"
     },
     {
       "id": "multiply",
@@ -765,7 +797,8 @@
         "multiple",
         "supply",
         "divide"
-      ]
+      ],
+      "image": "words/multiply.webp"
     },
     {
       "id": "times",
@@ -783,7 +816,8 @@
         "time",
         "timer",
         "times table"
-      ]
+      ],
+      "image": "words/times.webp"
     },
     {
       "id": "divide",
@@ -801,7 +835,8 @@
         "decide",
         "device",
         "multiply"
-      ]
+      ],
+      "image": "words/divide.webp"
     },
     {
       "id": "equals",
@@ -819,7 +854,8 @@
         "equal",
         "equation",
         "eagles"
-      ]
+      ],
+      "image": "words/equals.webp"
     },
     {
       "id": "sum",
@@ -837,7 +873,8 @@
         "some",
         "sun",
         "difference"
-      ]
+      ],
+      "image": "words/sum.webp"
     },
     {
       "id": "remainder",
@@ -855,7 +892,8 @@
         "reminder",
         "remain",
         "retainer"
-      ]
+      ],
+      "image": "words/remainder.webp"
     },
     {
       "id": "even",
@@ -873,7 +911,8 @@
         "odd",
         "evening",
         "event"
-      ]
+      ],
+      "image": "words/even.webp"
     },
     {
       "id": "odd",
@@ -891,7 +930,8 @@
         "even",
         "add",
         "old"
-      ]
+      ],
+      "image": "words/odd.webp"
     },
     {
       "id": "equation",
@@ -909,7 +949,8 @@
         "equator",
         "equipment",
         "formula"
-      ]
+      ],
+      "image": "words/equation.webp"
     },
     {
       "id": "formula",
@@ -927,7 +968,8 @@
         "formal",
         "former",
         "equation"
-      ]
+      ],
+      "image": "words/formula.webp"
     },
     {
       "id": "shape",
@@ -945,7 +987,8 @@
         "sharp",
         "sheep",
         "ship"
-      ]
+      ],
+      "image": "words/shape.webp"
     },
     {
       "id": "circle",
@@ -963,7 +1006,8 @@
         "cycle",
         "circus",
         "circuit"
-      ]
+      ],
+      "image": "words/circle.webp"
     },
     {
       "id": "square",
@@ -981,7 +1025,8 @@
         "rectangle",
         "squad",
         "scare"
-      ]
+      ],
+      "image": "words/square.webp"
     },
     {
       "id": "triangle",
@@ -999,7 +1044,8 @@
         "rectangle",
         "tangle",
         "trial"
-      ]
+      ],
+      "image": "words/triangle.webp"
     },
     {
       "id": "rectangle",
@@ -1017,7 +1063,8 @@
         "triangle",
         "rectangular",
         "square"
-      ]
+      ],
+      "image": "words/rectangle.webp"
     },
     {
       "id": "cube",
@@ -1035,7 +1082,8 @@
         "cub",
         "tube",
         "sphere"
-      ]
+      ],
+      "image": "words/cube.webp"
     },
     {
       "id": "sphere",
@@ -1053,7 +1101,8 @@
         "spear",
         "fear",
         "circle"
-      ]
+      ],
+      "image": "words/sphere.webp"
     },
     {
       "id": "line",
@@ -1071,7 +1120,8 @@
         "lane",
         "lion",
         "curve"
-      ]
+      ],
+      "image": "words/line.webp"
     },
     {
       "id": "curve",
@@ -1089,7 +1139,8 @@
         "carve",
         "curb",
         "nerve"
-      ]
+      ],
+      "image": "words/curve.webp"
     },
     {
       "id": "radius",
@@ -1107,7 +1158,8 @@
         "radio",
         "diameter",
         "radish"
-      ]
+      ],
+      "image": "words/radius.webp"
     },
     {
       "id": "parallel",
@@ -1125,7 +1177,8 @@
         "perpendicular",
         "paradise",
         "parasol"
-      ]
+      ],
+      "image": "words/parallel.webp"
     },
     {
       "id": "area",
@@ -1143,7 +1196,8 @@
         "arena",
         "era",
         "perimeter"
-      ]
+      ],
+      "image": "words/area.webp"
     },
     {
       "id": "perimeter",
@@ -1161,7 +1215,8 @@
         "parameter",
         "diameter",
         "thermometer"
-      ]
+      ],
+      "image": "words/perimeter.webp"
     },
     {
       "id": "diameter",
@@ -1179,7 +1234,8 @@
         "radius",
         "perimeter",
         "parameter"
-      ]
+      ],
+      "image": "words/diameter.webp"
     },
     {
       "id": "unit",
@@ -1197,7 +1253,8 @@
         "unite",
         "unique",
         "united"
-      ]
+      ],
+      "image": "words/unit.webp"
     },
     {
       "id": "length",
@@ -1215,7 +1272,8 @@
         "long",
         "strength",
         "width"
-      ]
+      ],
+      "image": "words/length.webp"
     },
     {
       "id": "width",
@@ -1233,7 +1291,8 @@
         "wide",
         "with",
         "length"
-      ]
+      ],
+      "image": "words/width.webp"
     },
     {
       "id": "height",
@@ -1251,7 +1310,8 @@
         "high",
         "weight",
         "eight"
-      ]
+      ],
+      "image": "words/height.webp"
     },
     {
       "id": "depth",
@@ -1269,7 +1329,8 @@
         "deep",
         "death",
         "debt"
-      ]
+      ],
+      "image": "words/depth.webp"
     },
     {
       "id": "distance",
@@ -1287,7 +1348,8 @@
         "distant",
         "instance",
         "district"
-      ]
+      ],
+      "image": "words/distance.webp"
     },
     {
       "id": "volume",
@@ -1305,7 +1367,8 @@
         "value",
         "valve",
         "area"
-      ]
+      ],
+      "image": "words/volume.webp"
     },
     {
       "id": "centimeter",
@@ -1323,7 +1386,8 @@
         "millimeter",
         "kilometer",
         "centipede"
-      ]
+      ],
+      "image": "words/centimeter.webp"
     },
     {
       "id": "kilometer",
@@ -1341,7 +1405,8 @@
         "kilogram",
         "centimeter",
         "mile"
-      ]
+      ],
+      "image": "words/kilometer.webp"
     },
     {
       "id": "inch",
@@ -1359,7 +1424,8 @@
         "itch",
         "foot",
         "ink"
-      ]
+      ],
+      "image": "words/inch.webp"
     },
     {
       "id": "ton",
@@ -1377,7 +1443,8 @@
         "tone",
         "tan",
         "kilogram"
-      ]
+      ],
+      "image": "words/ton.webp"
     },
     {
       "id": "kilogram",
@@ -1395,7 +1462,8 @@
         "kilometer",
         "pound",
         "gram"
-      ]
+      ],
+      "image": "words/kilogram.webp"
     },
     {
       "id": "liter",
@@ -1413,7 +1481,8 @@
         "litter",
         "letter",
         "milliliter"
-      ]
+      ],
+      "image": "words/liter.webp"
     },
     {
       "id": "celsius",
@@ -1431,7 +1500,8 @@
         "Fahrenheit",
         "Kelvin",
         "cells"
-      ]
+      ],
+      "image": "words/celsius.webp"
     },
     {
       "id": "statistics",
@@ -1449,7 +1519,8 @@
         "statue",
         "status",
         "static"
-      ]
+      ],
+      "image": "words/statistics.webp"
     },
     {
       "id": "census",
@@ -1467,7 +1538,8 @@
         "senses",
         "consensus",
         "sensor"
-      ]
+      ],
+      "image": "words/census.webp"
     },
     {
       "id": "mean",
@@ -1485,7 +1557,8 @@
         "median",
         "mode",
         "meal"
-      ]
+      ],
+      "image": "words/mean.webp"
     },
     {
       "id": "median",
@@ -1503,7 +1576,8 @@
         "mean",
         "medium",
         "medal"
-      ]
+      ],
+      "image": "words/median.webp"
     },
     {
       "id": "mode",
@@ -1521,7 +1595,8 @@
         "model",
         "mood",
         "mean"
-      ]
+      ],
+      "image": "words/mode.webp"
     },
     {
       "id": "range",
@@ -1539,7 +1614,8 @@
         "rage",
         "orange",
         "arrange"
-      ]
+      ],
+      "image": "words/range.webp"
     },
     {
       "id": "maximum",
@@ -1557,7 +1633,8 @@
         "minimum",
         "maximize",
         "medium"
-      ]
+      ],
+      "image": "words/maximum.webp"
     },
     {
       "id": "minimum",
@@ -1575,7 +1652,8 @@
         "maximum",
         "minimize",
         "miniature"
-      ]
+      ],
+      "image": "words/minimum.webp"
     },
     {
       "id": "rate",
@@ -1593,7 +1671,8 @@
         "ratio",
         "rat",
         "rare"
-      ]
+      ],
+      "image": "words/rate.webp"
     },
     {
       "id": "frequency",
@@ -1611,7 +1690,8 @@
         "frequent",
         "fluency",
         "currency"
-      ]
+      ],
+      "image": "words/frequency.webp"
     },
     {
       "id": "random",
@@ -1629,7 +1709,8 @@
         "ransom",
         "freedom",
         "rarely"
-      ]
+      ],
+      "image": "words/random.webp"
     },
     {
       "id": "probability",
@@ -1647,7 +1728,8 @@
         "possibility",
         "ability",
         "property"
-      ]
+      ],
+      "image": "words/probability.webp"
     },
     {
       "id": "bar_chart",
@@ -1665,7 +1747,8 @@
         "pie chart",
         "line graph",
         "bar code"
-      ]
+      ],
+      "image": "words/bar_chart.webp"
     },
     {
       "id": "pie_chart",
@@ -1683,7 +1766,8 @@
         "bar chart",
         "flow chart",
         "pie crust"
-      ]
+      ],
+      "image": "words/pie_chart.webp"
     },
     {
       "id": "amount",
@@ -1701,7 +1785,8 @@
         "account",
         "mount",
         "number"
-      ]
+      ],
+      "image": "words/amount.webp"
     },
     {
       "id": "quantity",
@@ -1719,7 +1804,8 @@
         "quality",
         "quantum",
         "amount"
-      ]
+      ],
+      "image": "words/quantity.webp"
     },
     {
       "id": "each",
@@ -1737,7 +1823,8 @@
         "every",
         "etch",
         "reach"
-      ]
+      ],
+      "image": "words/each.webp"
     },
     {
       "id": "per",
@@ -1755,7 +1842,8 @@
         "pre",
         "pair",
         "peer"
-      ]
+      ],
+      "image": "words/per.webp"
     },
     {
       "id": "unit_price",
@@ -1773,7 +1861,8 @@
         "list price",
         "unit cost",
         "half price"
-      ]
+      ],
+      "image": "words/unit_price.webp"
     },
     {
       "id": "subtotal",
@@ -1791,7 +1880,8 @@
         "total",
         "subtitle",
         "grand total"
-      ]
+      ],
+      "image": "words/subtotal.webp"
     },
     {
       "id": "vat",
@@ -1809,7 +1899,8 @@
         "tax refund",
         "VIP",
         "vet"
-      ]
+      ],
+      "image": "words/vat.webp"
     },
     {
       "id": "altogether",
@@ -1827,7 +1918,8 @@
         "all together",
         "although",
         "together"
-      ]
+      ],
+      "image": "words/altogether.webp"
     },
     {
       "id": "twice",
@@ -1845,7 +1937,8 @@
         "twins",
         "twist",
         "once"
-      ]
+      ],
+      "image": "words/twice.webp"
     },
     {
       "id": "triple",
@@ -1863,7 +1956,8 @@
         "trip",
         "tripod",
         "double"
-      ]
+      ],
+      "image": "words/triple.webp"
     },
     {
       "id": "exact",
@@ -1881,7 +1975,8 @@
         "exam",
         "except",
         "extra"
-      ]
+      ],
+      "image": "words/exact.webp"
     },
     {
       "id": "roughly",
@@ -1899,7 +1994,8 @@
         "rough",
         "rarely",
         "roughly speaking"
-      ]
+      ],
+      "image": "words/roughly.webp"
     },
     {
       "id": "figure",
@@ -1917,7 +2013,8 @@
         "finger",
         "feature",
         "future"
-      ]
+      ],
+      "image": "words/figure.webp"
     },
     {
       "id": "convert",
@@ -1935,7 +2032,8 @@
         "concert",
         "converse",
         "invert"
-      ]
+      ],
+      "image": "words/convert.webp"
     }
   ]
 }

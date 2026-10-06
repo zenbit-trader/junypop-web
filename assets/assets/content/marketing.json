@@ -189,7 +189,8 @@
         "brand name",
         "voice-over",
         "brand noise"
-      ]
+      ],
+      "image": "words/brand_voice.webp"
     },
     {
       "id": "slogan",
@@ -207,7 +208,8 @@
         "slope",
         "sloth",
         "motto"
-      ]
+      ],
+      "image": "words/slogan.webp"
     },
     {
       "id": "tagline",
@@ -225,7 +227,8 @@
         "headline",
         "hashtag",
         "timeline"
-      ]
+      ],
+      "image": "words/tagline.webp"
     },
     {
       "id": "positioning",
@@ -243,7 +246,8 @@
         "position",
         "possession",
         "portioning"
-      ]
+      ],
+      "image": "words/positioning.webp"
     },
     {
       "id": "brand_identity",
@@ -261,7 +265,8 @@
         "brand image",
         "brand name",
         "identity card"
-      ]
+      ],
+      "image": "words/brand_identity.webp"
     },
     {
       "id": "target_audience",
@@ -279,7 +284,8 @@
         "target market",
         "audience rating",
         "target group"
-      ]
+      ],
+      "image": "words/target_audience.webp"
     },
     {
       "id": "unique_selling_point",
@@ -297,7 +303,8 @@
         "selling price",
         "unique point",
         "strong point"
-      ]
+      ],
+      "image": "words/unique_selling_point.webp"
     },
     {
       "id": "value_proposition",
@@ -315,7 +322,8 @@
         "value for money",
         "business proposal",
         "proposition bet"
-      ]
+      ],
+      "image": "words/value_proposition.webp"
     },
     {
       "id": "brand_awareness",
@@ -333,7 +341,8 @@
         "brand loyalty",
         "self-awareness",
         "brand value"
-      ]
+      ],
+      "image": "words/brand_awareness.webp"
     },
     {
       "id": "mass_market",
@@ -351,7 +360,8 @@
         "mass media",
         "market share",
         "black market"
-      ]
+      ],
+      "image": "words/mass_market.webp"
     },
     {
       "id": "rebrand",
@@ -369,7 +379,8 @@
         "rebound",
         "brand new",
         "rename"
-      ]
+      ],
+      "image": "words/rebrand.webp"
     },
     {
       "id": "mascot",
@@ -387,7 +398,8 @@
         "mask",
         "muscat",
         "mascara"
-      ]
+      ],
+      "image": "words/mascot.webp"
     },
     {
       "id": "brand_guidelines",
@@ -405,7 +417,8 @@
         "community guidelines",
         "brand guide",
         "style sheet"
-      ]
+      ],
+      "image": "words/brand_guidelines.webp"
     },
     {
       "id": "premium",
@@ -423,7 +436,8 @@
         "primary",
         "prime",
         "luxury"
-      ]
+      ],
+      "image": "words/premium.webp"
     },
     {
       "id": "content_calendar",
@@ -441,7 +455,8 @@
         "content creator",
         "calendar invite",
         "editorial team"
-      ]
+      ],
+      "image": "words/content_calendar.webp"
     },
     {
       "id": "copywriting",
@@ -459,7 +474,8 @@
         "copyright",
         "handwriting",
         "copy editing"
-      ]
+      ],
+      "image": "words/copywriting.webp"
     },
     {
       "id": "copy",
@@ -477,7 +493,8 @@
         "coffee",
         "cope",
         "copier"
-      ]
+      ],
+      "image": "words/copy.webp"
     },
     {
       "id": "headline",
@@ -495,7 +512,8 @@
         "deadline",
         "hotline",
         "heading"
-      ]
+      ],
+      "image": "words/headline.webp"
     },
     {
       "id": "call_to_action",
@@ -513,7 +531,8 @@
         "call to arms",
         "action plan",
         "call center"
-      ]
+      ],
+      "image": "words/call_to_action.webp"
     },
     {
       "id": "visual",
@@ -531,7 +550,8 @@
         "virtual",
         "vision",
         "visible"
-      ]
+      ],
+      "image": "words/visual.webp"
     },
     {
       "id": "storytelling",
@@ -549,7 +569,8 @@
         "story time",
         "bestselling",
         "fortune-telling"
-      ]
+      ],
+      "image": "words/storytelling.webp"
     },
     {
       "id": "teaser",
@@ -567,7 +588,8 @@
         "teacher",
         "taser",
         "tweezers"
-      ]
+      ],
+      "image": "words/teaser.webp"
     },
     {
       "id": "pop_up",
@@ -585,7 +607,8 @@
         "pop star",
         "pop-up book",
         "popcorn"
-      ]
+      ],
+      "image": "words/pop_up.webp"
     },
     {
       "id": "banner",
@@ -603,7 +626,8 @@
         "banister",
         "manner",
         "bunker"
-      ]
+      ],
+      "image": "words/banner.webp"
     },
     {
       "id": "evergreen",
@@ -621,7 +645,8 @@
         "overgrown",
         "ever after",
         "greenery"
-      ]
+      ],
+      "image": "words/evergreen.webp"
     },
     {
       "id": "ugc",
@@ -639,7 +664,8 @@
         "UFC",
         "UGG",
         "CGI"
-      ]
+      ],
+      "image": "words/ugc.webp"
     },
     {
       "id": "brief",
@@ -657,7 +683,8 @@
         "briefs",
         "breeze",
         "belief"
-      ]
+      ],
+      "image": "words/brief.webp"
     },
     {
       "id": "repurpose",
@@ -675,7 +702,8 @@
         "repost",
         "propose",
         "reproduce"
-      ]
+      ],
+      "image": "words/repurpose.webp"
     },
     {
       "id": "cpm",
@@ -693,7 +721,8 @@
         "CPC",
         "CTR",
         "CRM"
-      ]
+      ],
+      "image": "words/cpm.webp"
     },
     {
       "id": "click",
@@ -711,7 +740,8 @@
         "clip",
         "clock",
         "tick"
-      ]
+      ],
+      "image": "words/click.webp"
     },
     {
       "id": "ctr",
@@ -729,7 +759,8 @@
         "CPM",
         "CRM",
         "CPR"
-      ]
+      ],
+      "image": "words/ctr.webp"
     },
     {
       "id": "conversion",
@@ -747,7 +778,8 @@
         "conversation",
         "convention",
         "diversion"
-      ]
+      ],
+      "image": "words/conversion.webp"
     },
     {
       "id": "cpc",
@@ -765,7 +797,8 @@
         "CPA",
         "CPU",
         "CCTV"
-      ]
+      ],
+      "image": "words/cpc.webp"
     },
     {
       "id": "ad_spend",
@@ -783,7 +816,8 @@
         "ad space",
         "expense",
         "budget cut"
-      ]
+      ],
+      "image": "words/ad_spend.webp"
     },
     {
       "id": "roas",
@@ -801,7 +835,8 @@
         "ROI",
         "roast",
         "RAS"
-      ]
+      ],
+      "image": "words/roas.webp"
     },
     {
       "id": "bid",
@@ -819,7 +854,8 @@
         "bit",
         "bind",
         "bed"
-      ]
+      ],
+      "image": "words/bid.webp"
     },
     {
       "id": "targeting",
@@ -837,7 +873,8 @@
         "marketing",
         "tailgating",
         "targeted"
-      ]
+      ],
+      "image": "words/targeting.webp"
     },
     {
       "id": "retargeting",
@@ -855,7 +892,8 @@
         "remarketing",
         "retaining",
         "redirecting"
-      ]
+      ],
+      "image": "words/retargeting.webp"
     },
     {
       "id": "ab_test",
@@ -873,7 +911,8 @@
         "AB blood test",
         "beta test",
         "split screen"
-      ]
+      ],
+      "image": "words/ab_test.webp"
     },
     {
       "id": "bounce_rate",
@@ -891,7 +930,8 @@
         "bounce back",
         "exchange rate",
         "heart rate"
-      ]
+      ],
+      "image": "words/bounce_rate.webp"
     },
     {
       "id": "pixel",
@@ -909,7 +949,8 @@
         "pickle",
         "pistol",
         "cookie"
-      ]
+      ],
+      "image": "words/pixel.webp"
     },
     {
       "id": "placement",
@@ -927,7 +968,8 @@
         "replacement",
         "place",
         "pavement"
-      ]
+      ],
+      "image": "words/placement.webp"
     },
     {
       "id": "micro_influencer",
@@ -945,7 +987,8 @@
         "mega-influencer",
         "microphone",
         "micromanager"
-      ]
+      ],
+      "image": "words/micro_influencer.webp"
     },
     {
       "id": "kol",
@@ -963,7 +1006,8 @@
         "KPI",
         "KOC",
         "COL"
-      ]
+      ],
+      "image": "words/kol.webp"
     },
     {
       "id": "seeding",
@@ -981,7 +1025,8 @@
         "feeding",
         "seeing",
         "sending"
-      ]
+      ],
+      "image": "words/seeding.webp"
     },
     {
       "id": "paid_partnership",
@@ -999,7 +1044,8 @@
         "paid leave",
         "partnership deal",
         "paid promotion"
-      ]
+      ],
+      "image": "words/paid_partnership.webp"
     },
     {
       "id": "earned_media",
@@ -1017,7 +1063,8 @@
         "paid media",
         "owned media",
         "social media"
-      ]
+      ],
+      "image": "words/earned_media.webp"
     },
     {
       "id": "boost",
@@ -1035,7 +1082,8 @@
         "boast",
         "boots",
         "burst"
-      ]
+      ],
+      "image": "words/boost.webp"
     },
     {
       "id": "community",
@@ -1053,7 +1101,8 @@
         "commute",
         "committee",
         "communist"
-      ]
+      ],
+      "image": "words/community.webp"
     },
     {
       "id": "interaction",
@@ -1071,7 +1120,8 @@
         "intersection",
         "introduction",
         "interruption"
-      ]
+      ],
+      "image": "words/interaction.webp"
     },
     {
       "id": "word_of_mouth",
@@ -1089,7 +1139,8 @@
         "word of honor",
         "mouth to mouth",
         "word for word"
-      ]
+      ],
+      "image": "words/word_of_mouth.webp"
     },
     {
       "id": "brand_ambassador",
@@ -1107,7 +1158,8 @@
         "ambassador",
         "brand manager",
         "brand owner"
-      ]
+      ],
+      "image": "words/brand_ambassador.webp"
     },
     {
       "id": "social_listening",
@@ -1125,7 +1177,8 @@
         "social media",
         "active listening",
         "social distancing"
-      ]
+      ],
+      "image": "words/social_listening.webp"
     },
     {
       "id": "rate_card",
@@ -1143,7 +1196,8 @@
         "credit card",
         "price tag",
         "report card"
-      ]
+      ],
+      "image": "words/rate_card.webp"
     },
     {
       "id": "authentic",
@@ -1161,7 +1215,8 @@
         "automatic",
         "artistic",
         "genuine"
-      ]
+      ],
+      "image": "words/authentic.webp"
     },
     {
       "id": "live_commerce",
@@ -1179,7 +1234,8 @@
         "e-commerce",
         "live stream",
         "live comment"
-      ]
+      ],
+      "image": "words/live_commerce.webp"
     },
     {
       "id": "pricing",
@@ -1197,7 +1253,8 @@
         "prizing",
         "praising",
         "costing"
-      ]
+      ],
+      "image": "words/pricing.webp"
     },
     {
       "id": "markup",
@@ -1215,7 +1272,8 @@
         "markdown",
         "makeup",
         "mark"
-      ]
+      ],
+      "image": "words/markup.webp"
     },
     {
       "id": "margin",
@@ -1233,7 +1291,8 @@
         "marginal",
         "margarine",
         "mark"
-      ]
+      ],
+      "image": "words/margin.webp"
     },
     {
       "id": "bundle",
@@ -1251,7 +1310,8 @@
         "bungle",
         "handle",
         "bunch"
-      ]
+      ],
+      "image": "words/bundle.webp"
     },
     {
       "id": "upsell",
@@ -1269,7 +1329,8 @@
         "upscale",
         "oversell",
         "upload"
-      ]
+      ],
+      "image": "words/upsell.webp"
     },
     {
       "id": "cross_sell",
@@ -1287,7 +1348,8 @@
         "cross out",
         "crosswalk",
         "resell"
-      ]
+      ],
+      "image": "words/cross_sell.webp"
     },
     {
       "id": "loyalty_program",
@@ -1305,7 +1367,8 @@
         "royalty program",
         "loyal customer",
         "training program"
-      ]
+      ],
+      "image": "words/loyalty_program.webp"
     },
     {
       "id": "limited_edition",
@@ -1323,7 +1386,8 @@
         "limited time",
         "first edition",
         "special edition"
-      ]
+      ],
+      "image": "words/limited_edition.webp"
     },
     {
       "id": "clearance",
@@ -1341,7 +1405,8 @@
         "clearly",
         "clear out",
         "cleanse"
-      ]
+      ],
+      "image": "words/clearance.webp"
     },
     {
       "id": "markdown",
@@ -1359,7 +1424,8 @@
         "markup",
         "mark up",
         "meltdown"
-      ]
+      ],
+      "image": "words/markdown.webp"
     },
     {
       "id": "freemium",
@@ -1377,7 +1443,8 @@
         "premium",
         "freedom",
         "free sample"
-      ]
+      ],
+      "image": "words/freemium.webp"
     },
     {
       "id": "free_trial",
@@ -1395,7 +1462,8 @@
         "free sample",
         "trial run",
         "free time"
-      ]
+      ],
+      "image": "words/free_trial.webp"
     },
     {
       "id": "referral",
@@ -1413,7 +1481,8 @@
         "reference",
         "refusal",
         "renewal"
-      ]
+      ],
+      "image": "words/referral.webp"
     },
     {
       "id": "early_bird",
@@ -1431,7 +1500,8 @@
         "early riser",
         "night owl",
         "early access"
-      ]
+      ],
+      "image": "words/early_bird.webp"
     },
     {
       "id": "survey",
@@ -1449,7 +1519,8 @@
         "service",
         "surgery",
         "census"
-      ]
+      ],
+      "image": "words/survey.webp"
     },
     {
       "id": "questionnaire",
@@ -1467,7 +1538,8 @@
         "question mark",
         "questioner",
         "millionaire"
-      ]
+      ],
+      "image": "words/questionnaire.webp"
     },
     {
       "id": "focus_group",
@@ -1485,7 +1557,8 @@
         "focus on",
         "group chat",
         "target group"
-      ]
+      ],
+      "image": "words/focus_group.webp"
     },
     {
       "id": "persona",
@@ -1503,7 +1576,8 @@
         "personal",
         "personality",
         "person"
-      ]
+      ],
+      "image": "words/persona.webp"
     },
     {
       "id": "segment",
@@ -1521,7 +1595,8 @@
         "sediment",
         "sentiment",
         "statement"
-      ]
+      ],
+      "image": "words/segment.webp"
     },
     {
       "id": "demographics",
@@ -1539,7 +1614,8 @@
         "democratic",
         "geographic",
         "graphics"
-      ]
+      ],
+      "image": "words/demographics.webp"
     },
     {
       "id": "purchase_intent",
@@ -1557,7 +1633,8 @@
         "purchase order",
         "purchasing power",
         "good intent"
-      ]
+      ],
+      "image": "words/purchase_intent.webp"
     },
     {
       "id": "customer_journey",
@@ -1575,7 +1652,8 @@
         "customer service",
         "journey time",
         "career path"
-      ]
+      ],
+      "image": "words/customer_journey.webp"
     },
     {
       "id": "touchpoint",
@@ -1593,7 +1671,8 @@
         "touchscreen",
         "checkpoint",
         "touchdown"
-      ]
+      ],
+      "image": "words/touchpoint.webp"
     },
     {
       "id": "respondent",
@@ -1611,7 +1690,8 @@
         "responder",
         "respondence",
         "correspondent"
-      ]
+      ],
+      "image": "words/respondent.webp"
     },
     {
       "id": "qualitative",
@@ -1629,7 +1709,8 @@
         "quantitative",
         "quality",
         "qualified"
-      ]
+      ],
+      "image": "words/qualitative.webp"
     },
     {
       "id": "quantitative",
@@ -1647,7 +1728,8 @@
         "qualitative",
         "quantity",
         "quarantine"
-      ]
+      ],
+      "image": "words/quantitative.webp"
     },
     {
       "id": "sample_size",
@@ -1665,7 +1747,8 @@
         "family size",
         "sample product",
         "font size"
-      ]
+      ],
+      "image": "words/sample_size.webp"
     },
     {
       "id": "nps",
@@ -1683,7 +1766,8 @@
         "NPC",
         "GPS",
         "KPI"
-      ]
+      ],
+      "image": "words/nps.webp"
     },
     {
       "id": "kpi",
@@ -1701,7 +1785,8 @@
         "KOL",
         "API",
         "NPS"
-      ]
+      ],
+      "image": "words/kpi.webp"
     },
     {
       "id": "funnel",
@@ -1719,7 +1804,8 @@
         "tunnel",
         "fennel",
         "channel"
-      ]
+      ],
+      "image": "words/funnel.webp"
     },
     {
       "id": "lead",
@@ -1737,7 +1823,8 @@
         "leader",
         "load",
         "lid"
-      ]
+      ],
+      "image": "words/lead.webp"
     },
     {
       "id": "retention",
@@ -1755,7 +1842,8 @@
         "attention",
         "detention",
         "intention"
-      ]
+      ],
+      "image": "words/retention.webp"
     },
     {
       "id": "unsubscribe",
@@ -1773,7 +1861,8 @@
         "subscribe",
         "unscramble",
         "undescribed"
-      ]
+      ],
+      "image": "words/unsubscribe.webp"
     },
     {
       "id": "cost_per_lead",
@@ -1791,7 +1880,8 @@
         "cost per click",
         "cost of living",
         "lead time"
-      ]
+      ],
+      "image": "words/cost_per_lead.webp"
     },
     {
       "id": "page_views",
@@ -1809,7 +1899,8 @@
         "page break",
         "previews",
         "viewpoints"
-      ]
+      ],
+      "image": "words/page_views.webp"
     },
     {
       "id": "heatmap",
@@ -1827,7 +1918,8 @@
         "roadmap",
         "heatwave",
         "sitemap"
-      ]
+      ],
+      "image": "words/heatmap.webp"
     },
     {
       "id": "benchmark",
@@ -1845,7 +1937,8 @@
         "bookmark",
         "bench",
         "trademark"
-      ]
+      ],
+      "image": "words/benchmark.webp"
     },
     {
       "id": "lifetime_value",
@@ -1863,7 +1956,8 @@
         "face value",
         "lifetime warranty",
         "life expectancy"
-      ]
+      ],
+      "image": "words/lifetime_value.webp"
     },
     {
       "id": "attribution",
@@ -1881,7 +1975,8 @@
         "contribution",
         "distribution",
         "attribute"
-      ]
+      ],
+      "image": "words/attribution.webp"
     },
     {
       "id": "double_down",
@@ -1899,7 +1994,8 @@
         "double up",
         "dumb down",
         "double check"
-      ]
+      ],
+      "image": "words/double_down.webp"
     },
     {
       "id": "optimize",
@@ -1917,7 +2013,8 @@
         "organize",
         "maximize",
         "optimist"
-      ]
+      ],
+      "image": "words/optimize.webp"
     },
     {
       "id": "open_rate",
@@ -1935,7 +2032,8 @@
         "opening hours",
         "interest rate",
         "open house"
-      ]
+      ],
+      "image": "words/open_rate.webp"
     }
   ]
 }

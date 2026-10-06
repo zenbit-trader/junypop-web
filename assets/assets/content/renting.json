@@ -189,7 +189,8 @@
         "float",
         "fat",
         "flap"
-      ]
+      ],
+      "image": "words/flat.webp"
     },
     {
       "id": "studio",
@@ -207,7 +208,8 @@
         "stadium",
         "student",
         "studious"
-      ]
+      ],
+      "image": "words/studio.webp"
     },
     {
       "id": "landlord",
@@ -225,7 +227,8 @@
         "landlady",
         "landmark",
         "lord"
-      ]
+      ],
+      "image": "words/landlord.webp"
     },
     {
       "id": "tenant",
@@ -243,7 +246,8 @@
         "tent",
         "talent",
         "tenor"
-      ]
+      ],
+      "image": "words/tenant.webp"
     },
     {
       "id": "agent",
@@ -261,7 +265,8 @@
         "agency",
         "urgent",
         "argent"
-      ]
+      ],
+      "image": "words/agent.webp"
     },
     {
       "id": "listing",
@@ -279,7 +284,8 @@
         "listening",
         "lifting",
         "lasting"
-      ]
+      ],
+      "image": "words/listing.webp"
     },
     {
       "id": "viewing",
@@ -297,7 +303,8 @@
         "view",
         "reviewing",
         "visiting"
-      ]
+      ],
+      "image": "words/viewing.webp"
     },
     {
       "id": "furnished",
@@ -315,7 +322,8 @@
         "finished",
         "furnace",
         "furniture"
-      ]
+      ],
+      "image": "words/furnished.webp"
     },
     {
       "id": "unfurnished",
@@ -333,7 +341,8 @@
         "unfinished",
         "furnished",
         "unfamiliar"
-      ]
+      ],
+      "image": "words/unfurnished.webp"
     },
     {
       "id": "neighborhood",
@@ -351,7 +360,8 @@
         "neighbor",
         "childhood",
         "brotherhood"
-      ]
+      ],
+      "image": "words/neighborhood.webp"
     },
     {
       "id": "roommate",
@@ -369,7 +379,8 @@
         "classmate",
         "teammate",
         "roomy"
-      ]
+      ],
+      "image": "words/roommate.webp"
     },
     {
       "id": "floor_plan",
@@ -387,7 +398,8 @@
         "floor",
         "plan",
         "flight plan"
-      ]
+      ],
+      "image": "words/floor_plan.webp"
     },
     {
       "id": "available",
@@ -405,7 +417,8 @@
         "valuable",
         "avoidable",
         "affordable"
-      ]
+      ],
+      "image": "words/available.webp"
     },
     {
       "id": "affordable",
@@ -423,7 +436,8 @@
         "available",
         "adorable",
         "acceptable"
-      ]
+      ],
+      "image": "words/affordable.webp"
     },
     {
       "id": "lease",
@@ -441,7 +455,8 @@
         "least",
         "leash",
         "loose"
-      ]
+      ],
+      "image": "words/lease.webp"
     },
     {
       "id": "tenancy",
@@ -459,7 +474,8 @@
         "tenant",
         "tendency",
         "currency"
-      ]
+      ],
+      "image": "words/tenancy.webp"
     },
     {
       "id": "security_deposit",
@@ -477,7 +493,8 @@
         "down payment",
         "advance",
         "insurance"
-      ]
+      ],
+      "image": "words/security_deposit.webp"
     },
     {
       "id": "guarantor",
@@ -495,7 +512,8 @@
         "guarantee",
         "guardian",
         "generator"
-      ]
+      ],
+      "image": "words/guarantor.webp"
     },
     {
       "id": "break_clause",
@@ -513,7 +531,8 @@
         "break time",
         "clause",
         "brake"
-      ]
+      ],
+      "image": "words/break_clause.webp"
     },
     {
       "id": "fixed_term",
@@ -531,7 +550,8 @@
         "full-time",
         "long-term",
         "fixed"
-      ]
+      ],
+      "image": "words/fixed_term.webp"
     },
     {
       "id": "extend",
@@ -549,7 +569,8 @@
         "expand",
         "intend",
         "extent"
-      ]
+      ],
+      "image": "words/extend.webp"
     },
     {
       "id": "break_the_lease",
@@ -567,7 +588,8 @@
         "break the law",
         "break the ice",
         "sign the lease"
-      ]
+      ],
+      "image": "words/break_the_lease.webp"
     },
     {
       "id": "written_notice",
@@ -585,7 +607,8 @@
         "notice board",
         "notice period",
         "written test"
-      ]
+      ],
+      "image": "words/written_notice.webp"
     },
     {
       "id": "reference",
@@ -603,7 +626,8 @@
         "preference",
         "referee",
         "difference"
-      ]
+      ],
+      "image": "words/reference.webp"
     },
     {
       "id": "inventory",
@@ -621,7 +645,8 @@
         "invention",
         "investment",
         "interview"
-      ]
+      ],
+      "image": "words/inventory.webp"
     },
     {
       "id": "sublet",
@@ -639,7 +664,8 @@
         "sublease",
         "submit",
         "subtle"
-      ]
+      ],
+      "image": "words/sublet.webp"
     },
     {
       "id": "fine_print",
@@ -657,7 +683,8 @@
         "footprint",
         "blueprint",
         "fine"
-      ]
+      ],
+      "image": "words/fine_print.webp"
     },
     {
       "id": "in_advance",
@@ -675,7 +702,8 @@
         "in advice",
         "advanced",
         "in a hurry"
-      ]
+      ],
+      "image": "words/in_advance.webp"
     },
     {
       "id": "move_in",
@@ -693,7 +721,8 @@
         "move on",
         "move out",
         "come in"
-      ]
+      ],
+      "image": "words/move_in.webp"
     },
     {
       "id": "movers",
@@ -711,7 +740,8 @@
         "movies",
         "drivers",
         "makers"
-      ]
+      ],
+      "image": "words/movers.webp"
     },
     {
       "id": "unpack",
@@ -729,7 +759,8 @@
         "unlock",
         "package",
         "repack"
-      ]
+      ],
+      "image": "words/unpack.webp"
     },
     {
       "id": "assemble",
@@ -747,7 +778,8 @@
         "resemble",
         "assembly",
         "assume"
-      ]
+      ],
+      "image": "words/assemble.webp"
     },
     {
       "id": "coffee_table",
@@ -765,7 +797,8 @@
         "dining table",
         "side table",
         "coffee shop"
-      ]
+      ],
+      "image": "words/coffee_table.webp"
     },
     {
       "id": "mattress",
@@ -783,7 +816,8 @@
         "matters",
         "mistress",
         "actress"
-      ]
+      ],
+      "image": "words/mattress.webp"
     },
     {
       "id": "bookshelf",
@@ -801,7 +835,8 @@
         "bookcase",
         "bookstore",
         "shelf"
-      ]
+      ],
+      "image": "words/bookshelf.webp"
     },
     {
       "id": "drawer",
@@ -819,7 +854,8 @@
         "draw",
         "drawing",
         "door"
-      ]
+      ],
+      "image": "words/drawer.webp"
     },
     {
       "id": "rug",
@@ -837,7 +873,8 @@
         "bug",
         "rag",
         "mug"
-      ]
+      ],
+      "image": "words/rug.webp"
     },
     {
       "id": "appliance",
@@ -855,7 +892,8 @@
         "application",
         "alliance",
         "appearance"
-      ]
+      ],
+      "image": "words/appliance.webp"
     },
     {
       "id": "washing_machine",
@@ -873,7 +911,8 @@
         "dishwasher",
         "vending machine",
         "dryer"
-      ]
+      ],
+      "image": "words/washing_machine.webp"
     },
     {
       "id": "microwave",
@@ -891,7 +930,8 @@
         "microphone",
         "oven",
         "microscope"
-      ]
+      ],
+      "image": "words/microwave.webp"
     },
     {
       "id": "second_hand",
@@ -909,7 +949,8 @@
         "first-hand",
         "handmade",
         "second"
-      ]
+      ],
+      "image": "words/second_hand.webp"
     },
     {
       "id": "get_settled",
@@ -927,7 +968,8 @@
         "get started",
         "get up",
         "settle down"
-      ]
+      ],
+      "image": "words/get_settled.webp"
     },
     {
       "id": "utilities",
@@ -945,7 +987,8 @@
         "utensils",
         "facilities",
         "abilities"
-      ]
+      ],
+      "image": "words/utilities.webp"
     },
     {
       "id": "electricity",
@@ -963,7 +1006,8 @@
         "electronics",
         "electrician",
         "electric"
-      ]
+      ],
+      "image": "words/electricity.webp"
     },
     {
       "id": "gas",
@@ -981,7 +1025,8 @@
         "glass",
         "grass",
         "gasp"
-      ]
+      ],
+      "image": "words/gas.webp"
     },
     {
       "id": "internet",
@@ -999,7 +1044,8 @@
         "intranet",
         "interest",
         "network"
-      ]
+      ],
+      "image": "words/internet.webp"
     },
     {
       "id": "meter_reading",
@@ -1017,7 +1063,8 @@
         "metre",
         "meeting",
         "mind reading"
-      ]
+      ],
+      "image": "words/meter_reading.webp"
     },
     {
       "id": "direct_debit",
@@ -1035,7 +1082,8 @@
         "debit card",
         "direct flight",
         "credit"
-      ]
+      ],
+      "image": "words/direct_debit.webp"
     },
     {
       "id": "provider",
@@ -1053,7 +1101,8 @@
         "provide",
         "supplier",
         "producer"
-      ]
+      ],
+      "image": "words/provider.webp"
     },
     {
       "id": "connect",
@@ -1071,7 +1120,8 @@
         "collect",
         "correct",
         "contact"
-      ]
+      ],
+      "image": "words/connect.webp"
     },
     {
       "id": "disconnect",
@@ -1089,7 +1139,8 @@
         "connect",
         "discount",
         "discover"
-      ]
+      ],
+      "image": "words/disconnect.webp"
     },
     {
       "id": "heating",
@@ -1107,7 +1158,8 @@
         "heater",
         "eating",
         "hearing"
-      ]
+      ],
+      "image": "words/heating.webp"
     },
     {
       "id": "usage",
@@ -1125,7 +1177,8 @@
         "use",
         "useful",
         "message"
-      ]
+      ],
+      "image": "words/usage.webp"
     },
     {
       "id": "due",
@@ -1143,7 +1196,8 @@
         "do",
         "dew",
         "dual"
-      ]
+      ],
+      "image": "words/due.webp"
     },
     {
       "id": "billing_cycle",
@@ -1161,7 +1215,8 @@
         "life cycle",
         "building",
         "bicycle"
-      ]
+      ],
+      "image": "words/billing_cycle.webp"
     },
     {
       "id": "outage",
@@ -1179,7 +1234,8 @@
         "outrage",
         "outside",
         "shortage"
-      ]
+      ],
+      "image": "words/outage.webp"
     },
     {
       "id": "repair",
@@ -1197,7 +1253,8 @@
         "prepare",
         "retire",
         "despair"
-      ]
+      ],
+      "image": "words/repair.webp"
     },
     {
       "id": "plumber",
@@ -1215,7 +1272,8 @@
         "plumbing",
         "plum",
         "lumber"
-      ]
+      ],
+      "image": "words/plumber.webp"
     },
     {
       "id": "electrician",
@@ -1233,7 +1291,8 @@
         "electricity",
         "electric",
         "technician"
-      ]
+      ],
+      "image": "words/electrician.webp"
     },
     {
       "id": "handyman",
@@ -1251,7 +1310,8 @@
         "handsome",
         "handbag",
         "businessman"
-      ]
+      ],
+      "image": "words/handyman.webp"
     },
     {
       "id": "pipe",
@@ -1269,7 +1329,8 @@
         "pie",
         "pile",
         "type"
-      ]
+      ],
+      "image": "words/pipe.webp"
     },
     {
       "id": "faucet",
@@ -1287,7 +1348,8 @@
         "forest",
         "fossil",
         "tap"
-      ]
+      ],
+      "image": "words/faucet.webp"
     },
     {
       "id": "clogged",
@@ -1305,7 +1367,8 @@
         "clocked",
         "closed",
         "cloudy"
-      ]
+      ],
+      "image": "words/clogged.webp"
     },
     {
       "id": "drain",
@@ -1323,7 +1386,8 @@
         "train",
         "brain",
         "rain"
-      ]
+      ],
+      "image": "words/drain.webp"
     },
     {
       "id": "mold",
@@ -1341,7 +1405,8 @@
         "mould",
         "mole",
         "old"
-      ]
+      ],
+      "image": "words/mold.webp"
     },
     {
       "id": "light_bulb",
@@ -1359,7 +1424,8 @@
         "light",
         "bulb",
         "lamp"
-      ]
+      ],
+      "image": "words/light_bulb.webp"
     },
     {
       "id": "replace",
@@ -1377,7 +1443,8 @@
         "repair",
         "place",
         "release"
-      ]
+      ],
+      "image": "words/replace.webp"
     },
     {
       "id": "fuse",
@@ -1395,7 +1462,8 @@
         "fuss",
         "fuel",
         "use"
-      ]
+      ],
+      "image": "words/fuse.webp"
     },
     {
       "id": "pest",
@@ -1413,7 +1481,8 @@
         "pet",
         "past",
         "paste"
-      ]
+      ],
+      "image": "words/pest.webp"
     },
     {
       "id": "lock",
@@ -1431,7 +1500,8 @@
         "look",
         "luck",
         "block"
-      ]
+      ],
+      "image": "words/lock.webp"
     },
     {
       "id": "neighbor",
@@ -1449,7 +1519,8 @@
         "neighborhood",
         "labor",
         "neither"
-      ]
+      ],
+      "image": "words/neighbor.webp"
     },
     {
       "id": "caretaker",
@@ -1467,7 +1538,8 @@
         "undertaker",
         "care",
         "carpenter"
-      ]
+      ],
+      "image": "words/caretaker.webp"
     },
     {
       "id": "hallway",
@@ -1485,7 +1557,8 @@
         "highway",
         "hall",
         "halfway"
-      ]
+      ],
+      "image": "words/hallway.webp"
     },
     {
       "id": "garbage",
@@ -1503,7 +1576,8 @@
         "garage",
         "rubbish",
         "cabbage"
-      ]
+      ],
+      "image": "words/garbage.webp"
     },
     {
       "id": "quiet_hours",
@@ -1521,7 +1595,8 @@
         "happy hours",
         "office hours",
         "quite"
-      ]
+      ],
+      "image": "words/quiet_hours.webp"
     },
     {
       "id": "common_area",
@@ -1539,7 +1614,8 @@
         "common sense",
         "comment",
         "area"
-      ]
+      ],
+      "image": "words/common_area.webp"
     },
     {
       "id": "intercom",
@@ -1557,7 +1633,8 @@
         "interphone",
         "income",
         "intercept"
-      ]
+      ],
+      "image": "words/intercom.webp"
     },
     {
       "id": "doorbell",
@@ -1575,7 +1652,8 @@
         "doorknob",
         "bell",
         "doormat"
-      ]
+      ],
+      "image": "words/doorbell.webp"
     },
     {
       "id": "mailbox",
@@ -1593,7 +1671,8 @@
         "inbox",
         "email",
         "toolbox"
-      ]
+      ],
+      "image": "words/mailbox.webp"
     },
     {
       "id": "raise_a_complaint",
@@ -1611,7 +1690,8 @@
         "raise a hand",
         "make a complaint",
         "raise money"
-      ]
+      ],
+      "image": "words/raise_a_complaint.webp"
     },
     {
       "id": "visitor",
@@ -1629,7 +1709,8 @@
         "visit",
         "visa",
         "monitor"
-      ]
+      ],
+      "image": "words/visitor.webp"
     },
     {
       "id": "keep_it_down",
@@ -1647,7 +1728,8 @@
         "keep it up",
         "calm down",
         "turn it down"
-      ]
+      ],
+      "image": "words/keep_it_down.webp"
     },
     {
       "id": "no_smoking",
@@ -1665,7 +1747,8 @@
         "no parking",
         "smoking",
         "no entry"
-      ]
+      ],
+      "image": "words/no_smoking.webp"
     },
     {
       "id": "get_to_know",
@@ -1683,7 +1766,8 @@
         "get to work",
         "get along",
         "get over"
-      ]
+      ],
+      "image": "words/get_to_know.webp"
     },
     {
       "id": "move_out",
@@ -1701,7 +1785,8 @@
         "move in",
         "moving",
         "go out"
-      ]
+      ],
+      "image": "words/move_out.webp"
     },
     {
       "id": "give_notice",
@@ -1719,7 +1804,8 @@
         "take notice",
         "give up",
         "give way"
-      ]
+      ],
+      "image": "words/give_notice.webp"
     },
     {
       "id": "inspection",
@@ -1737,7 +1823,8 @@
         "inspiration",
         "infection",
         "expectation"
-      ]
+      ],
+      "image": "words/inspection.webp"
     },
     {
       "id": "wear_and_tear",
@@ -1755,7 +1842,8 @@
         "wear",
         "tear",
         "trial and error"
-      ]
+      ],
+      "image": "words/wear_and_tear.webp"
     },
     {
       "id": "deduct",
@@ -1773,7 +1861,8 @@
         "deduce",
         "detect",
         "conduct"
-      ]
+      ],
+      "image": "words/deduct.webp"
     },
     {
       "id": "get_back",
@@ -1791,7 +1880,8 @@
         "give back",
         "come back",
         "get away"
-      ]
+      ],
+      "image": "words/get_back.webp"
     },
     {
       "id": "deep_clean",
@@ -1809,7 +1899,8 @@
         "dry clean",
         "clean up",
         "deep down"
-      ]
+      ],
+      "image": "words/deep_clean.webp"
     },
     {
       "id": "hand_over",
@@ -1827,7 +1918,8 @@
         "hang over",
         "hand in",
         "take over"
-      ]
+      ],
+      "image": "words/hand_over.webp"
     },
     {
       "id": "forwarding_address",
@@ -1845,7 +1937,8 @@
         "email address",
         "home address",
         "forward"
-      ]
+      ],
+      "image": "words/forwarding_address.webp"
     },
     {
       "id": "final_bill",
@@ -1863,7 +1956,8 @@
         "final exam",
         "phone bill",
         "finale"
-      ]
+      ],
+      "image": "words/final_bill.webp"
     },
     {
       "id": "deposit_dispute",
@@ -1881,7 +1975,8 @@
         "deposit slip",
         "security deposit",
         "debate"
-      ]
+      ],
+      "image": "words/deposit_dispute.webp"
     },
     {
       "id": "pack_up",
@@ -1899,7 +1994,8 @@
         "pick up",
         "back up",
         "pack"
-      ]
+      ],
+      "image": "words/pack_up.webp"
     },
     {
       "id": "clear",
@@ -1917,7 +2013,8 @@
         "clean",
         "close",
         "clearly"
-      ]
+      ],
+      "image": "words/clear.webp"
     },
     {
       "id": "spotless",
@@ -1935,7 +2032,8 @@
         "spotlight",
         "speechless",
         "spot"
-      ]
+      ],
+      "image": "words/spotless.webp"
     }
   ]
 }

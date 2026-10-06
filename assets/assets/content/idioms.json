@@ -227,7 +227,8 @@
         "small world",
         "keep in touch",
         "in no time"
-      ]
+      ],
+      "image": "words/long_time_no_see.webp"
     },
     {
       "id": "keep_in_touch",
@@ -245,7 +246,8 @@
         "touch base",
         "long time no see",
         "get in line"
-      ]
+      ],
+      "image": "words/keep_in_touch.webp"
     },
     {
       "id": "small_world",
@@ -263,7 +265,8 @@
         "big deal",
         "long time no see",
         "out of the blue"
-      ]
+      ],
+      "image": "words/small_world.webp"
     },
     {
       "id": "speak_of_the_devil",
@@ -281,7 +284,8 @@
         "ring a bell",
         "speak your mind",
         "small world"
-      ]
+      ],
+      "image": "words/speak_of_the_devil.webp"
     },
     {
       "id": "ring_a_bell",
@@ -299,7 +303,8 @@
         "on the tip of my tongue",
         "speak of the devil",
         "ring up"
-      ]
+      ],
+      "image": "words/ring_a_bell.webp"
     },
     {
       "id": "out_of_the_blue",
@@ -317,7 +322,8 @@
         "feeling blue",
         "once in a blue moon",
         "in the loop"
-      ]
+      ],
+      "image": "words/out_of_the_blue.webp"
     },
     {
       "id": "on_the_tip_of_my_tongue",
@@ -335,7 +341,8 @@
         "ring a bell",
         "bite your tongue",
         "slip of the tongue"
-      ]
+      ],
+      "image": "words/on_the_tip_of_my_tongue.webp"
     },
     {
       "id": "beat_around_the_bush",
@@ -353,7 +360,8 @@
         "beat the clock",
         "get to the point",
         "in a nutshell"
-      ]
+      ],
+      "image": "words/beat_around_the_bush.webp"
     },
     {
       "id": "under_the_weather",
@@ -371,7 +379,8 @@
         "under pressure",
         "over the moon",
         "down in the dumps"
-      ]
+      ],
+      "image": "words/under_the_weather.webp"
     },
     {
       "id": "have_a_blast",
@@ -389,7 +398,8 @@
         "have a go",
         "have a word",
         "lose track of time"
-      ]
+      ],
+      "image": "words/have_a_blast.webp"
     },
     {
       "id": "lose_track_of_time",
@@ -407,7 +417,8 @@
         "kill time",
         "time flies",
         "keep track of"
-      ]
+      ],
+      "image": "words/lose_track_of_time.webp"
     },
     {
       "id": "in_a_nutshell",
@@ -425,7 +436,8 @@
         "in the long run",
         "beat around the bush",
         "in the loop"
-      ]
+      ],
+      "image": "words/in_a_nutshell.webp"
     },
     {
       "id": "piece_of_cake",
@@ -443,7 +455,8 @@
         "have your cake and eat it",
         "a steal",
         "no-brainer"
-      ]
+      ],
+      "image": "words/piece_of_cake.webp"
     },
     {
       "id": "call_it_a_day",
@@ -461,7 +474,8 @@
         "call it a night",
         "call off",
         "wrap your head around"
-      ]
+      ],
+      "image": "words/call_it_a_day.webp"
     },
     {
       "id": "on_the_same_page",
@@ -479,7 +493,8 @@
         "in the loop",
         "see eye to eye",
         "on the same boat"
-      ]
+      ],
+      "image": "words/on_the_same_page.webp"
     },
     {
       "id": "hit_the_ground_running",
@@ -497,7 +512,8 @@
         "get the ball rolling",
         "run out of steam",
         "learn the ropes"
-      ]
+      ],
+      "image": "words/hit_the_ground_running.webp"
     },
     {
       "id": "ball_is_in_your_court",
@@ -515,7 +531,8 @@
         "on the fence",
         "drop the ball",
         "your call"
-      ]
+      ],
+      "image": "words/ball_is_in_your_court.webp"
     },
     {
       "id": "burn_the_midnight_oil",
@@ -533,7 +550,8 @@
         "burn out",
         "call it a night",
         "around the clock"
-      ]
+      ],
+      "image": "words/burn_the_midnight_oil.webp"
     },
     {
       "id": "cut_corners",
@@ -551,7 +569,8 @@
         "cut to the chase",
         "go the extra mile",
         "cut back"
-      ]
+      ],
+      "image": "words/cut_corners.webp"
     },
     {
       "id": "in_the_loop",
@@ -569,7 +588,8 @@
         "on the same page",
         "out of the loop",
         "in the dark"
-      ]
+      ],
+      "image": "words/in_the_loop.webp"
     },
     {
       "id": "think_outside_the_box",
@@ -587,7 +607,8 @@
         "back to the drawing board",
         "think twice",
         "out of the blue"
-      ]
+      ],
+      "image": "words/think_outside_the_box.webp"
     },
     {
       "id": "back_to_the_drawing_board",
@@ -605,7 +626,8 @@
         "think outside the box",
         "square one",
         "on the fence"
-      ]
+      ],
+      "image": "words/back_to_the_drawing_board.webp"
     },
     {
       "id": "get_the_ball_rolling",
@@ -623,7 +645,8 @@
         "the ball is in your court",
         "hit the ground running",
         "drop the ball"
-      ]
+      ],
+      "image": "words/get_the_ball_rolling.webp"
     },
     {
       "id": "learn_the_ropes",
@@ -641,7 +664,8 @@
         "hit the ground running",
         "know the drill",
         "tie the knot"
-      ]
+      ],
+      "image": "words/learn_the_ropes.webp"
     },
     {
       "id": "go_the_extra_mile",
@@ -659,7 +683,8 @@
         "cut corners",
         "miss the mark",
         "go with the flow"
-      ]
+      ],
+      "image": "words/go_the_extra_mile.webp"
     },
     {
       "id": "touch_base",
@@ -677,7 +702,8 @@
         "keep in touch",
         "base on",
         "catch up"
-      ]
+      ],
+      "image": "words/touch_base.webp"
     },
     {
       "id": "cost_an_arm_and_a_leg",
@@ -695,7 +721,8 @@
         "pay through the nose",
         "break a leg",
         "dirt cheap"
-      ]
+      ],
+      "image": "words/cost_an_arm_and_a_leg.webp"
     },
     {
       "id": "break_the_bank",
@@ -713,7 +740,8 @@
         "break the ice",
         "break even",
         "cost an arm and a leg"
-      ]
+      ],
+      "image": "words/break_the_bank.webp"
     },
     {
       "id": "make_ends_meet",
@@ -731,7 +759,8 @@
         "make a living",
         "tighten your belt",
         "break even"
-      ]
+      ],
+      "image": "words/make_ends_meet.webp"
     },
     {
       "id": "tighten_your_belt",
@@ -749,7 +778,8 @@
         "make ends meet",
         "loosen up",
         "cut corners"
-      ]
+      ],
+      "image": "words/tighten_your_belt.webp"
     },
     {
       "id": "save_for_a_rainy_day",
@@ -767,7 +797,8 @@
         "nest egg",
         "under the weather",
         "rain check"
-      ]
+      ],
+      "image": "words/save_for_a_rainy_day.webp"
     },
     {
       "id": "in_the_red",
@@ -785,7 +816,8 @@
         "in the black",
         "red flag",
         "in the loop"
-      ]
+      ],
+      "image": "words/in_the_red.webp"
     },
     {
       "id": "nest_egg",
@@ -803,7 +835,8 @@
         "piggy bank",
         "cash cow",
         "golden egg"
-      ]
+      ],
+      "image": "words/nest_egg.webp"
     },
     {
       "id": "foot_the_bill",
@@ -821,7 +854,8 @@
         "split the bill",
         "put your foot down",
         "pay through the nose"
-      ]
+      ],
+      "image": "words/foot_the_bill.webp"
     },
     {
       "id": "cash_cow",
@@ -839,7 +873,8 @@
         "nest egg",
         "holy cow",
         "cash flow"
-      ]
+      ],
+      "image": "words/cash_cow.webp"
     },
     {
       "id": "pay_through_the_nose",
@@ -857,7 +892,8 @@
         "cost an arm and a leg",
         "under your nose",
         "foot the bill"
-      ]
+      ],
+      "image": "words/pay_through_the_nose.webp"
     },
     {
       "id": "dirt_cheap",
@@ -875,7 +911,8 @@
         "a steal",
         "dirty money",
         "on a shoestring"
-      ]
+      ],
+      "image": "words/dirt_cheap.webp"
     },
     {
       "id": "a_steal",
@@ -893,7 +930,8 @@
         "a rip-off",
         "dirt cheap",
         "steal the show"
-      ]
+      ],
+      "image": "words/a_steal.webp"
     },
     {
       "id": "on_a_shoestring",
@@ -911,7 +949,8 @@
         "dirt cheap",
         "tighten your belt",
         "on the house"
-      ]
+      ],
+      "image": "words/on_a_shoestring.webp"
     },
     {
       "id": "from_rags_to_riches",
@@ -929,7 +968,8 @@
         "rich and famous",
         "from scratch",
         "in the red"
-      ]
+      ],
+      "image": "words/from_rags_to_riches.webp"
     },
     {
       "id": "over_the_moon",
@@ -947,7 +987,8 @@
         "on cloud nine",
         "once in a blue moon",
         "over the top"
-      ]
+      ],
+      "image": "words/over_the_moon.webp"
     },
     {
       "id": "on_cloud_nine",
@@ -965,7 +1006,8 @@
         "over the moon",
         "in seventh heaven",
         "on edge"
-      ]
+      ],
+      "image": "words/on_cloud_nine.webp"
     },
     {
       "id": "down_in_the_dumps",
@@ -983,7 +1025,8 @@
         "under the weather",
         "down to earth",
         "fed up"
-      ]
+      ],
+      "image": "words/down_in_the_dumps.webp"
     },
     {
       "id": "butterflies_in_my_stomach",
@@ -1001,7 +1044,8 @@
         "cold feet",
         "on edge",
         "social butterfly"
-      ]
+      ],
+      "image": "words/butterflies_in_my_stomach.webp"
     },
     {
       "id": "fed_up",
@@ -1019,7 +1063,8 @@
         "sick and tired",
         "full up",
         "feed up"
-      ]
+      ],
+      "image": "words/fed_up.webp"
     },
     {
       "id": "freak_out",
@@ -1037,7 +1082,8 @@
         "chill out",
         "hit the roof",
         "fed up"
-      ]
+      ],
+      "image": "words/freak_out.webp"
     },
     {
       "id": "hit_the_roof",
@@ -1055,7 +1101,8 @@
         "hit it off",
         "through the roof",
         "freak out"
-      ]
+      ],
+      "image": "words/hit_the_roof.webp"
     },
     {
       "id": "drive_me_up_the_wall",
@@ -1073,7 +1120,8 @@
         "get on my nerves",
         "hit the wall",
         "drive home"
-      ]
+      ],
+      "image": "words/drive_me_up_the_wall.webp"
     },
     {
       "id": "on_edge",
@@ -1091,7 +1139,8 @@
         "on the edge of my seat",
         "butterflies in my stomach",
         "cutting edge"
-      ]
+      ],
+      "image": "words/on_edge.webp"
     },
     {
       "id": "weight_off_my_shoulders",
@@ -1109,7 +1158,8 @@
         "pull your weight",
         "cold shoulder",
         "off the hook"
-      ]
+      ],
+      "image": "words/weight_off_my_shoulders.webp"
     },
     {
       "id": "sick_and_tired",
@@ -1127,7 +1177,8 @@
         "fed up",
         "under the weather",
         "dead tired"
-      ]
+      ],
+      "image": "words/sick_and_tired.webp"
     },
     {
       "id": "blow_off_steam",
@@ -1145,7 +1196,8 @@
         "run out of steam",
         "blow up",
         "freak out"
-      ]
+      ],
+      "image": "words/blow_off_steam.webp"
     },
     {
       "id": "get_on_my_nerves",
@@ -1163,7 +1215,8 @@
         "drive me up the wall",
         "get on with",
         "lose my nerve"
-      ]
+      ],
+      "image": "words/get_on_my_nerves.webp"
     },
     {
       "id": "mixed_feelings",
@@ -1181,7 +1234,8 @@
         "second thoughts",
         "hard feelings",
         "on the fence"
-      ]
+      ],
+      "image": "words/mixed_feelings.webp"
     },
     {
       "id": "head_over_heels",
@@ -1199,7 +1253,8 @@
         "heads up",
         "over the moon",
         "head start"
-      ]
+      ],
+      "image": "words/head_over_heels.webp"
     },
     {
       "id": "tie_the_knot",
@@ -1217,7 +1272,8 @@
         "pop the question",
         "learn the ropes",
         "tie up"
-      ]
+      ],
+      "image": "words/tie_the_knot.webp"
     },
     {
       "id": "pop_the_question",
@@ -1235,7 +1291,8 @@
         "tie the knot",
         "pop up",
         "ask out"
-      ]
+      ],
+      "image": "words/pop_the_question.webp"
     },
     {
       "id": "better_half",
@@ -1253,7 +1310,8 @@
         "other half",
         "best man",
         "old flame"
-      ]
+      ],
+      "image": "words/better_half.webp"
     },
     {
       "id": "third_wheel",
@@ -1271,7 +1329,8 @@
         "spare tire",
         "better half",
         "big wheel"
-      ]
+      ],
+      "image": "words/third_wheel.webp"
     },
     {
       "id": "old_flame",
@@ -1289,7 +1348,8 @@
         "old school",
         "better half",
         "first love"
-      ]
+      ],
+      "image": "words/old_flame.webp"
     },
     {
       "id": "through_thick_and_thin",
@@ -1307,7 +1367,8 @@
         "thick-skinned",
         "see eye to eye",
         "through and through"
-      ]
+      ],
+      "image": "words/through_thick_and_thin.webp"
     },
     {
       "id": "see_eye_to_eye",
@@ -1325,7 +1386,8 @@
         "on the same page",
         "eye contact",
         "keep an eye on"
-      ]
+      ],
+      "image": "words/see_eye_to_eye.webp"
     },
     {
       "id": "cold_shoulder",
@@ -1343,7 +1405,8 @@
         "cold feet",
         "silent treatment",
         "shoulder to cry on"
-      ]
+      ],
+      "image": "words/cold_shoulder.webp"
     },
     {
       "id": "bury_the_hatchet",
@@ -1361,7 +1424,8 @@
         "clear the air",
         "bite the bullet",
         "dig up dirt"
-      ]
+      ],
+      "image": "words/bury_the_hatchet.webp"
     },
     {
       "id": "on_the_rocks",
@@ -1379,7 +1443,8 @@
         "rock bottom",
         "on the fence",
         "split up"
-      ]
+      ],
+      "image": "words/on_the_rocks.webp"
     },
     {
       "id": "play_hard_to_get",
@@ -1397,7 +1462,8 @@
         "play it by ear",
         "play it cool",
         "hard to please"
-      ]
+      ],
+      "image": "words/play_hard_to_get.webp"
     },
     {
       "id": "two_peas_in_a_pod",
@@ -1415,7 +1481,8 @@
         "birds of a feather",
         "third wheel",
         "two-faced"
-      ]
+      ],
+      "image": "words/two_peas_in_a_pod.webp"
     },
     {
       "id": "clear_the_air",
@@ -1433,7 +1500,8 @@
         "bury the hatchet",
         "clear up",
         "up in the air"
-      ]
+      ],
+      "image": "words/clear_the_air.webp"
     },
     {
       "id": "on_the_fence",
@@ -1451,7 +1519,8 @@
         "second thoughts",
         "sit tight",
         "mixed feelings"
-      ]
+      ],
+      "image": "words/on_the_fence.webp"
     },
     {
       "id": "sleep_on_it",
@@ -1469,7 +1538,8 @@
         "sleep in",
         "take the plunge",
         "lose sleep over"
-      ]
+      ],
+      "image": "words/sleep_on_it.webp"
     },
     {
       "id": "take_the_plunge",
@@ -1487,7 +1557,8 @@
         "sleep on it",
         "take a break",
         "bite the bullet"
-      ]
+      ],
+      "image": "words/take_the_plunge.webp"
     },
     {
       "id": "go_with_the_flow",
@@ -1505,7 +1576,8 @@
         "play it by ear",
         "go against the grain",
         "go the extra mile"
-      ]
+      ],
+      "image": "words/go_with_the_flow.webp"
     },
     {
       "id": "play_it_by_ear",
@@ -1523,7 +1595,8 @@
         "go with the flow",
         "play hard to get",
         "all ears"
-      ]
+      ],
+      "image": "words/play_it_by_ear.webp"
     },
     {
       "id": "fingers_crossed",
@@ -1541,7 +1614,8 @@
         "break a leg",
         "touch wood",
         "cross the line"
-      ]
+      ],
+      "image": "words/fingers_crossed.webp"
     },
     {
       "id": "break_a_leg",
@@ -1559,7 +1633,8 @@
         "fingers crossed",
         "break the ice",
         "pull my leg"
-      ]
+      ],
+      "image": "words/break_a_leg.webp"
     },
     {
       "id": "hit_the_jackpot",
@@ -1577,7 +1652,8 @@
         "hit it off",
         "strike gold",
         "beginner's luck"
-      ]
+      ],
+      "image": "words/hit_the_jackpot.webp"
     },
     {
       "id": "blessing_in_disguise",
@@ -1595,7 +1671,8 @@
         "silver lining",
         "in disguise",
         "mixed blessing"
-      ]
+      ],
+      "image": "words/blessing_in_disguise.webp"
     },
     {
       "id": "bite_the_bullet",
@@ -1613,7 +1690,8 @@
         "take the plunge",
         "bite your tongue",
         "dodge a bullet"
-      ]
+      ],
+      "image": "words/bite_the_bullet.webp"
     },
     {
       "id": "no_brainer",
@@ -1631,7 +1709,8 @@
         "piece of cake",
         "brainstorm",
         "no way"
-      ]
+      ],
+      "image": "words/no_brainer.webp"
     },
     {
       "id": "second_thoughts",
@@ -1649,7 +1728,8 @@
         "mixed feelings",
         "second chance",
         "food for thought"
-      ]
+      ],
+      "image": "words/second_thoughts.webp"
     },
     {
       "id": "beginners_luck",
@@ -1667,7 +1747,8 @@
         "hit the jackpot",
         "long shot",
         "tough luck"
-      ]
+      ],
+      "image": "words/beginners_luck.webp"
     },
     {
       "id": "long_shot",
@@ -1685,7 +1766,8 @@
         "shot in the dark",
         "big shot",
         "no-brainer"
-      ]
+      ],
+      "image": "words/long_shot.webp"
     },
     {
       "id": "in_the_nick_of_time",
@@ -1703,7 +1785,8 @@
         "in no time",
         "at the eleventh hour",
         "on the dot"
-      ]
+      ],
+      "image": "words/in_the_nick_of_time.webp"
     },
     {
       "id": "better_late_than_never",
@@ -1721,7 +1804,8 @@
         "sooner or later",
         "last but not least",
         "in the long run"
-      ]
+      ],
+      "image": "words/better_late_than_never.webp"
     },
     {
       "id": "around_the_clock",
@@ -1739,7 +1823,8 @@
         "against the clock",
         "all day long",
         "on the dot"
-      ]
+      ],
+      "image": "words/around_the_clock.webp"
     },
     {
       "id": "against_the_clock",
@@ -1757,7 +1842,8 @@
         "around the clock",
         "beat the clock",
         "crunch time"
-      ]
+      ],
+      "image": "words/against_the_clock.webp"
     },
     {
       "id": "kill_time",
@@ -1775,7 +1861,8 @@
         "waste time",
         "time flies",
         "lose track of time"
-      ]
+      ],
+      "image": "words/kill_time.webp"
     },
     {
       "id": "once_in_a_blue_moon",
@@ -1793,7 +1880,8 @@
         "out of the blue",
         "over the moon",
         "every now and then"
-      ]
+      ],
+      "image": "words/once_in_a_blue_moon.webp"
     },
     {
       "id": "hold_your_horses",
@@ -1811,7 +1899,8 @@
         "step on it",
         "hold on tight",
         "dark horse"
-      ]
+      ],
+      "image": "words/hold_your_horses.webp"
     },
     {
       "id": "in_no_time",
@@ -1829,7 +1918,8 @@
         "in the nick of time",
         "no time to lose",
         "in time"
-      ]
+      ],
+      "image": "words/in_no_time.webp"
     },
     {
       "id": "at_the_eleventh_hour",
@@ -1847,7 +1937,8 @@
         "in the nick of time",
         "last minute",
         "happy hour"
-      ]
+      ],
+      "image": "words/at_the_eleventh_hour.webp"
     },
     {
       "id": "on_the_dot",
@@ -1865,7 +1956,8 @@
         "on time",
         "in the nick of time",
         "on the spot"
-      ]
+      ],
+      "image": "words/on_the_dot.webp"
     },
     {
       "id": "time_flies",
@@ -1883,7 +1975,8 @@
         "kill time",
         "time's up",
         "lose track of time"
-      ]
+      ],
+      "image": "words/time_flies.webp"
     },
     {
       "id": "crack_of_dawn",
@@ -1901,7 +1994,8 @@
         "early bird",
         "crack up",
         "break of day"
-      ]
+      ],
+      "image": "words/crack_of_dawn.webp"
     },
     {
       "id": "in_the_long_run",
@@ -1919,7 +2013,8 @@
         "in a nutshell",
         "on the run",
         "in the short term"
-      ]
+      ],
+      "image": "words/in_the_long_run.webp"
     },
     {
       "id": "step_on_it",
@@ -1937,7 +2032,8 @@
         "hold your horses",
         "step down",
         "watch your step"
-      ]
+      ],
+      "image": "words/step_on_it.webp"
     }
   ]
 }

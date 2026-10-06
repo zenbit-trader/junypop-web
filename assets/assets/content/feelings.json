@@ -189,7 +189,8 @@
         "careful",
         "cheerless",
         "chilly"
-      ]
+      ],
+      "image": "words/cheerful.webp"
     },
     {
       "id": "glad",
@@ -207,7 +208,8 @@
         "good",
         "grad",
         "gland"
-      ]
+      ],
+      "image": "words/glad.webp"
     },
     {
       "id": "delighted",
@@ -225,7 +227,8 @@
         "delicate",
         "deleted",
         "lighted"
-      ]
+      ],
+      "image": "words/delighted.webp"
     },
     {
       "id": "thrilled",
@@ -243,7 +246,8 @@
         "threw",
         "thrilling",
         "trilled"
-      ]
+      ],
+      "image": "words/thrilled.webp"
     },
     {
       "id": "joyful",
@@ -261,7 +265,8 @@
         "joyless",
         "playful",
         "jolly"
-      ]
+      ],
+      "image": "words/joyful.webp"
     },
     {
       "id": "pleased",
@@ -279,7 +284,8 @@
         "please",
         "placed",
         "pressed"
-      ]
+      ],
+      "image": "words/pleased.webp"
     },
     {
       "id": "appreciative",
@@ -297,7 +303,8 @@
         "appreciate",
         "apprehensive",
         "appropriate"
-      ]
+      ],
+      "image": "words/appreciative.webp"
     },
     {
       "id": "hopeful",
@@ -315,7 +322,8 @@
         "helpful",
         "hopeless",
         "handful"
-      ]
+      ],
+      "image": "words/hopeful.webp"
     },
     {
       "id": "upbeat",
@@ -333,7 +341,8 @@
         "update",
         "offbeat",
         "upset"
-      ]
+      ],
+      "image": "words/upbeat.webp"
     },
     {
       "id": "overjoyed",
@@ -351,7 +360,8 @@
         "overworked",
         "enjoyed",
         "overdone"
-      ]
+      ],
+      "image": "words/overjoyed.webp"
     },
     {
       "id": "in_a_good_mood",
@@ -369,7 +379,8 @@
         "in a bad mood",
         "in a hurry",
         "in good shape"
-      ]
+      ],
+      "image": "words/in_a_good_mood.webp"
     },
     {
       "id": "ecstatic",
@@ -387,7 +398,8 @@
         "static",
         "elastic",
         "erratic"
-      ]
+      ],
+      "image": "words/ecstatic.webp"
     },
     {
       "id": "enthusiastic",
@@ -405,7 +417,8 @@
         "enthusiasm",
         "fantastic",
         "energetic"
-      ]
+      ],
+      "image": "words/enthusiastic.webp"
     },
     {
       "id": "blissful",
@@ -423,7 +436,8 @@
         "blissless",
         "blistered",
         "bashful"
-      ]
+      ],
+      "image": "words/blissful.webp"
     },
     {
       "id": "upset",
@@ -441,7 +455,8 @@
         "upside",
         "upstairs",
         "sunset"
-      ]
+      ],
+      "image": "words/upset.webp"
     },
     {
       "id": "disappointed",
@@ -459,7 +474,8 @@
         "disappointing",
         "appointed",
         "disapproved"
-      ]
+      ],
+      "image": "words/disappointed.webp"
     },
     {
       "id": "isolated",
@@ -477,7 +493,8 @@
         "insulated",
         "isolate",
         "escalated"
-      ]
+      ],
+      "image": "words/isolated.webp"
     },
     {
       "id": "miserable",
@@ -495,7 +512,8 @@
         "memorable",
         "reasonable",
         "miser"
-      ]
+      ],
+      "image": "words/miserable.webp"
     },
     {
       "id": "gloomy",
@@ -513,7 +531,8 @@
         "bloomy",
         "glossy",
         "gloom"
-      ]
+      ],
+      "image": "words/gloomy.webp"
     },
     {
       "id": "depressed",
@@ -531,7 +550,8 @@
         "impressed",
         "pressed",
         "deprived"
-      ]
+      ],
+      "image": "words/depressed.webp"
     },
     {
       "id": "down",
@@ -549,7 +569,8 @@
         "dawn",
         "drown",
         "done"
-      ]
+      ],
+      "image": "words/down.webp"
     },
     {
       "id": "hopeless",
@@ -567,7 +588,8 @@
         "helpless",
         "hopeful",
         "homeless"
-      ]
+      ],
+      "image": "words/hopeless.webp"
     },
     {
       "id": "grief",
@@ -585,7 +607,8 @@
         "brief",
         "grieve",
         "grease"
-      ]
+      ],
+      "image": "words/grief.webp"
     },
     {
       "id": "mourn",
@@ -603,7 +626,8 @@
         "morning",
         "moan",
         "mount"
-      ]
+      ],
+      "image": "words/mourn.webp"
     },
     {
       "id": "disheartened",
@@ -621,7 +645,8 @@
         "discouraged",
         "heartened",
         "disheartening"
-      ]
+      ],
+      "image": "words/disheartened.webp"
     },
     {
       "id": "tearful",
@@ -639,7 +664,8 @@
         "fearful",
         "careful",
         "cheerful"
-      ]
+      ],
+      "image": "words/tearful.webp"
     },
     {
       "id": "sorrow",
@@ -657,7 +683,8 @@
         "sparrow",
         "borrow",
         "sorry"
-      ]
+      ],
+      "image": "words/sorrow.webp"
     },
     {
       "id": "devastated",
@@ -675,7 +702,8 @@
         "decorated",
         "dedicated",
         "deviated"
-      ]
+      ],
+      "image": "words/devastated.webp"
     },
     {
       "id": "annoyed",
@@ -693,7 +721,8 @@
         "annoying",
         "enjoyed",
         "avoided"
-      ]
+      ],
+      "image": "words/annoyed.webp"
     },
     {
       "id": "irritated",
@@ -711,7 +740,8 @@
         "imitated",
         "irrigated",
         "initiated"
-      ]
+      ],
+      "image": "words/irritated.webp"
     },
     {
       "id": "frustrated",
@@ -729,7 +759,8 @@
         "frustrating",
         "fascinated",
         "illustrated"
-      ]
+      ],
+      "image": "words/frustrated.webp"
     },
     {
       "id": "furious",
@@ -747,7 +778,8 @@
         "curious",
         "serious",
         "famous"
-      ]
+      ],
+      "image": "words/furious.webp"
     },
     {
       "id": "mad",
@@ -765,7 +797,8 @@
         "made",
         "mud",
         "sad"
-      ]
+      ],
+      "image": "words/mad.webp"
     },
     {
       "id": "grumpy",
@@ -783,7 +816,8 @@
         "grimy",
         "jumpy",
         "crumpled"
-      ]
+      ],
+      "image": "words/grumpy.webp"
     },
     {
       "id": "exasperated",
@@ -801,7 +835,8 @@
         "exaggerated",
         "evaporated",
         "separated"
-      ]
+      ],
+      "image": "words/exasperated.webp"
     },
     {
       "id": "outraged",
@@ -819,7 +854,8 @@
         "outrageous",
         "encouraged",
         "outranked"
-      ]
+      ],
+      "image": "words/outraged.webp"
     },
     {
       "id": "resentful",
@@ -837,7 +873,8 @@
         "respectful",
         "restful",
         "resourceful"
-      ]
+      ],
+      "image": "words/resentful.webp"
     },
     {
       "id": "lose_your_temper",
@@ -855,7 +892,8 @@
         "lose your mind",
         "keep your temper",
         "lose your way"
-      ]
+      ],
+      "image": "words/lose_your_temper.webp"
     },
     {
       "id": "offended",
@@ -873,7 +911,8 @@
         "defended",
         "offensive",
         "attended"
-      ]
+      ],
+      "image": "words/offended.webp"
     },
     {
       "id": "cranky",
@@ -891,7 +930,8 @@
         "crunchy",
         "crazy",
         "cracked"
-      ]
+      ],
+      "image": "words/cranky.webp"
     },
     {
       "id": "rage",
@@ -909,7 +949,8 @@
         "range",
         "rare",
         "rag"
-      ]
+      ],
+      "image": "words/rage.webp"
     },
     {
       "id": "hostile",
@@ -927,7 +968,8 @@
         "hostel",
         "hospital",
         "hosting"
-      ]
+      ],
+      "image": "words/hostile.webp"
     },
     {
       "id": "anxious",
@@ -945,7 +987,8 @@
         "ancient",
         "obvious",
         "anxiety"
-      ]
+      ],
+      "image": "words/anxious.webp"
     },
     {
       "id": "afraid",
@@ -963,7 +1006,8 @@
         "affair",
         "abroad",
         "frayed"
-      ]
+      ],
+      "image": "words/afraid.webp"
     },
     {
       "id": "terrified",
@@ -981,7 +1025,8 @@
         "terrific",
         "testified",
         "verified"
-      ]
+      ],
+      "image": "words/terrified.webp"
     },
     {
       "id": "frightened",
@@ -999,7 +1044,8 @@
         "frightening",
         "brightened",
         "tightened"
-      ]
+      ],
+      "image": "words/frightened.webp"
     },
     {
       "id": "alarmed",
@@ -1017,7 +1063,8 @@
         "alarming",
         "armed",
         "charmed"
-      ]
+      ],
+      "image": "words/alarmed.webp"
     },
     {
       "id": "uneasy",
@@ -1035,7 +1082,8 @@
         "unease",
         "easy",
         "unusual"
-      ]
+      ],
+      "image": "words/uneasy.webp"
     },
     {
       "id": "insecure",
@@ -1053,7 +1101,8 @@
         "unsure",
         "secure",
         "insincere"
-      ]
+      ],
+      "image": "words/insecure.webp"
     },
     {
       "id": "tense",
@@ -1071,7 +1120,8 @@
         "tents",
         "tender",
         "dense"
-      ]
+      ],
+      "image": "words/tense.webp"
     },
     {
       "id": "dread",
@@ -1089,7 +1139,8 @@
         "dead",
         "bread",
         "tread"
-      ]
+      ],
+      "image": "words/dread.webp"
     },
     {
       "id": "paranoid",
@@ -1107,7 +1158,8 @@
         "parachute",
         "paradox",
         "paramedic"
-      ]
+      ],
+      "image": "words/paranoid.webp"
     },
     {
       "id": "overwhelmed",
@@ -1125,7 +1177,8 @@
         "overworked",
         "overlooked",
         "overheard"
-      ]
+      ],
+      "image": "words/overwhelmed.webp"
     },
     {
       "id": "concerned",
@@ -1143,7 +1196,8 @@
         "confirmed",
         "concerning",
         "convinced"
-      ]
+      ],
+      "image": "words/concerned.webp"
     },
     {
       "id": "intimidated",
@@ -1161,7 +1215,8 @@
         "imitated",
         "initiated",
         "intimate"
-      ]
+      ],
+      "image": "words/intimidated.webp"
     },
     {
       "id": "jumpy",
@@ -1179,7 +1234,8 @@
         "jump",
         "bumpy",
         "grumpy"
-      ]
+      ],
+      "image": "words/jumpy.webp"
     },
     {
       "id": "calm",
@@ -1197,7 +1253,8 @@
         "clam",
         "claim",
         "palm"
-      ]
+      ],
+      "image": "words/calm.webp"
     },
     {
       "id": "relaxed",
@@ -1215,7 +1272,8 @@
         "relaxing",
         "released",
         "relapsed"
-      ]
+      ],
+      "image": "words/relaxed.webp"
     },
     {
       "id": "relieved",
@@ -1233,7 +1291,8 @@
         "believed",
         "received",
         "relived"
-      ]
+      ],
+      "image": "words/relieved.webp"
     },
     {
       "id": "peaceful",
@@ -1251,7 +1310,8 @@
         "painful",
         "peaceless",
         "piece"
-      ]
+      ],
+      "image": "words/peaceful.webp"
     },
     {
       "id": "at_ease",
@@ -1269,7 +1329,8 @@
         "at least",
         "at once",
         "with ease"
-      ]
+      ],
+      "image": "words/at_ease.webp"
     },
     {
       "id": "carefree",
@@ -1287,7 +1348,8 @@
         "careless",
         "careful",
         "care-free"
-      ]
+      ],
+      "image": "words/carefree.webp"
     },
     {
       "id": "secure",
@@ -1305,7 +1367,8 @@
         "security",
         "sincere",
         "seduce"
-      ]
+      ],
+      "image": "words/secure.webp"
     },
     {
       "id": "serene",
@@ -1323,7 +1386,8 @@
         "siren",
         "scene",
         "severe"
-      ]
+      ],
+      "image": "words/serene.webp"
     },
     {
       "id": "reassured",
@@ -1341,7 +1405,8 @@
         "reassuring",
         "assured",
         "rescued"
-      ]
+      ],
+      "image": "words/reassured.webp"
     },
     {
       "id": "chill",
@@ -1359,7 +1424,8 @@
         "chilli",
         "child",
         "chilly"
-      ]
+      ],
+      "image": "words/chill.webp"
     },
     {
       "id": "unwind",
@@ -1377,7 +1443,8 @@
         "rewind",
         "unwound",
         "unkind"
-      ]
+      ],
+      "image": "words/unwind.webp"
     },
     {
       "id": "soothing",
@@ -1395,7 +1462,8 @@
         "smoothing",
         "soaking",
         "seething"
-      ]
+      ],
+      "image": "words/soothing.webp"
     },
     {
       "id": "mellow",
@@ -1413,7 +1481,8 @@
         "yellow",
         "marshmallow",
         "hollow"
-      ]
+      ],
+      "image": "words/mellow.webp"
     },
     {
       "id": "refreshed",
@@ -1431,7 +1500,8 @@
         "refreshing",
         "reflected",
         "freshened"
-      ]
+      ],
+      "image": "words/refreshed.webp"
     },
     {
       "id": "shocked",
@@ -1449,7 +1519,8 @@
         "shocking",
         "socked",
         "shaken"
-      ]
+      ],
+      "image": "words/shocked.webp"
     },
     {
       "id": "amazed",
@@ -1467,7 +1538,8 @@
         "amazing",
         "amused",
         "alarmed"
-      ]
+      ],
+      "image": "words/amazed.webp"
     },
     {
       "id": "astonished",
@@ -1485,7 +1557,8 @@
         "established",
         "abolished",
         "admonished"
-      ]
+      ],
+      "image": "words/astonished.webp"
     },
     {
       "id": "stunned",
@@ -1503,7 +1576,8 @@
         "stunning",
         "stained",
         "stood"
-      ]
+      ],
+      "image": "words/stunned.webp"
     },
     {
       "id": "speechless",
@@ -1521,7 +1595,8 @@
         "speech",
         "sleepless",
         "spotless"
-      ]
+      ],
+      "image": "words/speechless.webp"
     },
     {
       "id": "confused",
@@ -1539,7 +1614,8 @@
         "confusing",
         "confined",
         "conference"
-      ]
+      ],
+      "image": "words/confused.webp"
     },
     {
       "id": "puzzled",
@@ -1557,7 +1633,8 @@
         "puzzle",
         "dazzled",
         "muzzled"
-      ]
+      ],
+      "image": "words/puzzled.webp"
     },
     {
       "id": "baffled",
@@ -1575,7 +1652,8 @@
         "battled",
         "buffed",
         "raffled"
-      ]
+      ],
+      "image": "words/baffled.webp"
     },
     {
       "id": "torn",
@@ -1593,7 +1671,8 @@
         "tore",
         "turn",
         "thorn"
-      ]
+      ],
+      "image": "words/torn.webp"
     },
     {
       "id": "curious",
@@ -1611,7 +1690,8 @@
         "furious",
         "serious",
         "careful"
-      ]
+      ],
+      "image": "words/curious.webp"
     },
     {
       "id": "embarrassed",
@@ -1629,7 +1709,8 @@
         "embarrassing",
         "embraced",
         "harassed"
-      ]
+      ],
+      "image": "words/embarrassed.webp"
     },
     {
       "id": "ashamed",
@@ -1647,7 +1728,8 @@
         "shamed",
         "ashen",
         "assumed"
-      ]
+      ],
+      "image": "words/ashamed.webp"
     },
     {
       "id": "humiliated",
@@ -1665,7 +1747,8 @@
         "humid",
         "illuminated",
         "humble"
-      ]
+      ],
+      "image": "words/humiliated.webp"
     },
     {
       "id": "bewildered",
@@ -1683,7 +1766,8 @@
         "bewitched",
         "wildered",
         "withered"
-      ]
+      ],
+      "image": "words/bewildered.webp"
     },
     {
       "id": "mood",
@@ -1701,7 +1785,8 @@
         "mode",
         "moon",
         "mud"
-      ]
+      ],
+      "image": "words/mood.webp"
     },
     {
       "id": "mood_swings",
@@ -1719,7 +1804,8 @@
         "mood rings",
         "mood board",
         "swing moods"
-      ]
+      ],
+      "image": "words/mood_swings.webp"
     },
     {
       "id": "burnout",
@@ -1737,7 +1823,8 @@
         "blackout",
         "burn",
         "breakout"
-      ]
+      ],
+      "image": "words/burnout.webp"
     },
     {
       "id": "mental_health",
@@ -1755,7 +1842,8 @@
         "dental health",
         "mental illness",
         "metal health"
-      ]
+      ],
+      "image": "words/mental_health.webp"
     },
     {
       "id": "therapy",
@@ -1773,7 +1861,8 @@
         "theory",
         "therapist",
         "treaty"
-      ]
+      ],
+      "image": "words/therapy.webp"
     },
     {
       "id": "therapist",
@@ -1791,7 +1880,8 @@
         "the rapist",
         "theorist",
         "typist"
-      ]
+      ],
+      "image": "words/therapist.webp"
     },
     {
       "id": "cope",
@@ -1809,7 +1899,8 @@
         "cop",
         "copy",
         "hope"
-      ]
+      ],
+      "image": "words/cope.webp"
     },
     {
       "id": "vent",
@@ -1827,7 +1918,8 @@
         "rent",
         "went",
         "event"
-      ]
+      ],
+      "image": "words/vent.webp"
     },
     {
       "id": "self_care",
@@ -1845,7 +1937,8 @@
         "self-love",
         "skincare",
         "self-help"
-      ]
+      ],
+      "image": "words/self_care.webp"
     },
     {
       "id": "vulnerable",
@@ -1863,7 +1956,8 @@
         "valuable",
         "venerable",
         "available"
-      ]
+      ],
+      "image": "words/vulnerable.webp"
     },
     {
       "id": "numb",
@@ -1881,7 +1975,8 @@
         "number",
         "dumb",
         "nap"
-      ]
+      ],
+      "image": "words/numb.webp"
     },
     {
       "id": "drained",
@@ -1899,7 +1994,8 @@
         "drowned",
         "trained",
         "dreaded"
-      ]
+      ],
+      "image": "words/drained.webp"
     },
     {
       "id": "self_esteem",
@@ -1917,7 +2013,8 @@
         "self-care",
         "self-love",
         "esteem"
-      ]
+      ],
+      "image": "words/self_esteem.webp"
     },
     {
       "id": "well_being",
@@ -1935,7 +2032,8 @@
         "wellness",
         "welcome",
         "being"
-      ]
+      ],
+      "image": "words/well_being.webp"
     }
   ]
 }

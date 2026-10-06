@@ -189,7 +189,8 @@
         "habit",
         "lobby",
         "hockey"
-      ]
+      ],
+      "image": "words/hobby.webp"
     },
     {
       "id": "sketch",
@@ -207,7 +208,8 @@
         "stretch",
         "scratch",
         "switch"
-      ]
+      ],
+      "image": "words/sketch.webp"
     },
     {
       "id": "doodle",
@@ -225,7 +227,8 @@
         "noodle",
         "poodle",
         "cuddle"
-      ]
+      ],
+      "image": "words/doodle.webp"
     },
     {
       "id": "paint",
@@ -243,7 +246,8 @@
         "print",
         "point",
         "pint"
-      ]
+      ],
+      "image": "words/paint.webp"
     },
     {
       "id": "paintbrush",
@@ -261,7 +265,8 @@
         "toothbrush",
         "hairbrush",
         "paintball"
-      ]
+      ],
+      "image": "words/paintbrush.webp"
     },
     {
       "id": "canvas",
@@ -279,7 +284,8 @@
         "campus",
         "cactus",
         "caravan"
-      ]
+      ],
+      "image": "words/canvas.webp"
     },
     {
       "id": "watercolor",
@@ -297,7 +303,8 @@
         "waterfall",
         "watermelon",
         "waterproof"
-      ]
+      ],
+      "image": "words/watercolor.webp"
     },
     {
       "id": "acrylic",
@@ -315,7 +322,8 @@
         "acoustic",
         "arctic",
         "ceramic"
-      ]
+      ],
+      "image": "words/acrylic.webp"
     },
     {
       "id": "easel",
@@ -333,7 +341,8 @@
         "weasel",
         "diesel",
         "easily"
-      ]
+      ],
+      "image": "words/easel.webp"
     },
     {
       "id": "sketchbook",
@@ -351,7 +360,8 @@
         "notebook",
         "scrapbook",
         "textbook"
-      ]
+      ],
+      "image": "words/sketchbook.webp"
     },
     {
       "id": "shading",
@@ -369,7 +379,8 @@
         "shaking",
         "sharing",
         "sliding"
-      ]
+      ],
+      "image": "words/shading.webp"
     },
     {
       "id": "trace",
@@ -387,7 +398,8 @@
         "track",
         "trade",
         "erase"
-      ]
+      ],
+      "image": "words/trace.webp"
     },
     {
       "id": "still_life",
@@ -405,7 +417,8 @@
         "real life",
         "wildlife",
         "nightlife"
-      ]
+      ],
+      "image": "words/still_life.webp"
     },
     {
       "id": "artwork",
@@ -423,7 +436,8 @@
         "homework",
         "network",
         "artist"
-      ]
+      ],
+      "image": "words/artwork.webp"
     },
     {
       "id": "photography",
@@ -441,7 +455,8 @@
         "geography",
         "biography",
         "photocopy"
-      ]
+      ],
+      "image": "words/photography.webp"
     },
     {
       "id": "photographer",
@@ -459,7 +474,8 @@
         "photograph",
         "biographer",
         "videographer"
-      ]
+      ],
+      "image": "words/photographer.webp"
     },
     {
       "id": "lens",
@@ -477,7 +493,8 @@
         "lend",
         "lease",
         "lines"
-      ]
+      ],
+      "image": "words/lens.webp"
     },
     {
       "id": "tripod",
@@ -495,7 +512,8 @@
         "iPod",
         "tripe",
         "triple"
-      ]
+      ],
+      "image": "words/tripod.webp"
     },
     {
       "id": "zoom",
@@ -513,7 +531,8 @@
         "boom",
         "zone",
         "room"
-      ]
+      ],
+      "image": "words/zoom.webp"
     },
     {
       "id": "shutter",
@@ -531,7 +550,8 @@
         "shuttle",
         "shelter",
         "stutter"
-      ]
+      ],
+      "image": "words/shutter.webp"
     },
     {
       "id": "flash",
@@ -549,7 +569,8 @@
         "flesh",
         "flush",
         "crash"
-      ]
+      ],
+      "image": "words/flash.webp"
     },
     {
       "id": "portrait",
@@ -567,7 +588,8 @@
         "portal",
         "portable",
         "poster"
-      ]
+      ],
+      "image": "words/portrait.webp"
     },
     {
       "id": "landscape",
@@ -585,7 +607,8 @@
         "landmark",
         "landing",
         "escape"
-      ]
+      ],
+      "image": "words/landscape.webp"
     },
     {
       "id": "angle",
@@ -603,7 +626,8 @@
         "angel",
         "ankle",
         "angry"
-      ]
+      ],
+      "image": "words/angle.webp"
     },
     {
       "id": "blurry",
@@ -621,7 +645,8 @@
         "blunt",
         "berry",
         "burly"
-      ]
+      ],
+      "image": "words/blurry.webp"
     },
     {
       "id": "exposure",
@@ -639,7 +664,8 @@
         "explosion",
         "exposition",
         "expensive"
-      ]
+      ],
+      "image": "words/exposure.webp"
     },
     {
       "id": "pose",
@@ -657,7 +683,8 @@
         "post",
         "pause",
         "nose"
-      ]
+      ],
+      "image": "words/pose.webp"
     },
     {
       "id": "golden_hour",
@@ -675,7 +702,8 @@
         "rush hour",
         "happy hour",
         "golden age"
-      ]
+      ],
+      "image": "words/golden_hour.webp"
     },
     {
       "id": "instrument",
@@ -693,7 +721,8 @@
         "instruction",
         "investment",
         "instant"
-      ]
+      ],
+      "image": "words/instrument.webp"
     },
     {
       "id": "guitar",
@@ -711,7 +740,8 @@
         "gutter",
         "guard",
         "guitarist"
-      ]
+      ],
+      "image": "words/guitar.webp"
     },
     {
       "id": "piano",
@@ -729,7 +759,8 @@
         "pianist",
         "piece",
         "pillow"
-      ]
+      ],
+      "image": "words/piano.webp"
     },
     {
       "id": "ukulele",
@@ -747,7 +778,8 @@
         "banjo",
         "cello",
         "jukebox"
-      ]
+      ],
+      "image": "words/ukulele.webp"
     },
     {
       "id": "violin",
@@ -765,7 +797,8 @@
         "violet",
         "violent",
         "villain"
-      ]
+      ],
+      "image": "words/violin.webp"
     },
     {
       "id": "drums",
@@ -783,7 +816,8 @@
         "drama",
         "dreams",
         "crumbs"
-      ]
+      ],
+      "image": "words/drums.webp"
     },
     {
       "id": "flute",
@@ -801,7 +835,8 @@
         "fruit",
         "float",
         "flux"
-      ]
+      ],
+      "image": "words/flute.webp"
     },
     {
       "id": "strum",
@@ -819,7 +854,8 @@
         "strain",
         "stream",
         "drum"
-      ]
+      ],
+      "image": "words/strum.webp"
     },
     {
       "id": "chord",
@@ -837,7 +873,8 @@
         "cord",
         "chore",
         "chalk"
-      ]
+      ],
+      "image": "words/chord.webp"
     },
     {
       "id": "rhythm",
@@ -855,7 +892,8 @@
         "rhyme",
         "ritual",
         "rhubarb"
-      ]
+      ],
+      "image": "words/rhythm.webp"
     },
     {
       "id": "tempo",
@@ -873,7 +911,8 @@
         "temple",
         "temper",
         "template"
-      ]
+      ],
+      "image": "words/tempo.webp"
     },
     {
       "id": "sheet_music",
@@ -891,7 +930,8 @@
         "sheet mask",
         "music video",
         "bedsheet"
-      ]
+      ],
+      "image": "words/sheet_music.webp"
     },
     {
       "id": "out_of_tune",
@@ -909,7 +949,8 @@
         "out of time",
         "out of town",
         "in tune"
-      ]
+      ],
+      "image": "words/out_of_tune.webp"
     },
     {
       "id": "busk",
@@ -927,7 +968,8 @@
         "bask",
         "bust",
         "dusk"
-      ]
+      ],
+      "image": "words/busk.webp"
     },
     {
       "id": "craft",
@@ -945,7 +987,8 @@
         "crack",
         "crash",
         "draft"
-      ]
+      ],
+      "image": "words/craft.webp"
     },
     {
       "id": "handmade",
@@ -963,7 +1006,8 @@
         "homemade",
         "handheld",
         "handsome"
-      ]
+      ],
+      "image": "words/handmade.webp"
     },
     {
       "id": "knit",
@@ -981,7 +1025,8 @@
         "knot",
         "kit",
         "neat"
-      ]
+      ],
+      "image": "words/knit.webp"
     },
     {
       "id": "sew",
@@ -999,7 +1044,8 @@
         "saw",
         "sow",
         "sue"
-      ]
+      ],
+      "image": "words/sew.webp"
     },
     {
       "id": "needle",
@@ -1017,7 +1063,8 @@
         "noodle",
         "nibble",
         "kneel"
-      ]
+      ],
+      "image": "words/needle.webp"
     },
     {
       "id": "yarn",
@@ -1035,7 +1082,8 @@
         "yard",
         "yawn",
         "barn"
-      ]
+      ],
+      "image": "words/yarn.webp"
     },
     {
       "id": "glue",
@@ -1053,7 +1101,8 @@
         "blue",
         "clue",
         "glow"
-      ]
+      ],
+      "image": "words/glue.webp"
     },
     {
       "id": "origami",
@@ -1071,7 +1120,8 @@
         "origin",
         "organic",
         "tsunami"
-      ]
+      ],
+      "image": "words/origami.webp"
     },
     {
       "id": "pottery",
@@ -1089,7 +1139,8 @@
         "poetry",
         "potato",
         "battery"
-      ]
+      ],
+      "image": "words/pottery.webp"
     },
     {
       "id": "clay",
@@ -1107,7 +1158,8 @@
         "clap",
         "claw",
         "play"
-      ]
+      ],
+      "image": "words/clay.webp"
     },
     {
       "id": "embroidery",
@@ -1125,7 +1177,8 @@
         "embrace",
         "emergency",
         "bakery"
-      ]
+      ],
+      "image": "words/embroidery.webp"
     },
     {
       "id": "diy",
@@ -1143,7 +1196,8 @@
         "DNA",
         "DJ",
         "DVD"
-      ]
+      ],
+      "image": "words/diy.webp"
     },
     {
       "id": "hammer",
@@ -1161,7 +1215,8 @@
         "hamper",
         "hamster",
         "hummer"
-      ]
+      ],
+      "image": "words/hammer.webp"
     },
     {
       "id": "woodwork",
@@ -1179,7 +1234,8 @@
         "homework",
         "woodland",
         "network"
-      ]
+      ],
+      "image": "words/woodwork.webp"
     },
     {
       "id": "complete_the_set",
@@ -1197,7 +1253,8 @@
         "complete the form",
         "break the set",
         "set the table"
-      ]
+      ],
+      "image": "words/complete_the_set.webp"
     },
     {
       "id": "collector",
@@ -1215,7 +1272,8 @@
         "connector",
         "conductor",
         "director"
-      ]
+      ],
+      "image": "words/collector.webp"
     },
     {
       "id": "rare",
@@ -1233,7 +1291,8 @@
         "rear",
         "raw",
         "rate"
-      ]
+      ],
+      "image": "words/rare.webp"
     },
     {
       "id": "mint_condition",
@@ -1251,7 +1310,8 @@
         "air condition",
         "mint sauce",
         "bad condition"
-      ]
+      ],
+      "image": "words/mint_condition.webp"
     },
     {
       "id": "action_figure",
@@ -1269,7 +1329,8 @@
         "action movie",
         "figure skating",
         "stuffed toy"
-      ]
+      ],
+      "image": "words/action_figure.webp"
     },
     {
       "id": "trading_card",
@@ -1287,7 +1348,8 @@
         "credit card",
         "business card",
         "greeting card"
-      ]
+      ],
+      "image": "words/trading_card.webp"
     },
     {
       "id": "vinyl",
@@ -1305,7 +1367,8 @@
         "vinegar",
         "final",
         "villa"
-      ]
+      ],
+      "image": "words/vinyl.webp"
     },
     {
       "id": "antique",
@@ -1323,7 +1386,8 @@
         "unique",
         "ancient",
         "boutique"
-      ]
+      ],
+      "image": "words/antique.webp"
     },
     {
       "id": "chess",
@@ -1341,7 +1405,8 @@
         "chest",
         "cheese",
         "check"
-      ]
+      ],
+      "image": "words/chess.webp"
     },
     {
       "id": "dice",
@@ -1359,7 +1424,8 @@
         "rice",
         "ice",
         "disc"
-      ]
+      ],
+      "image": "words/dice.webp"
     },
     {
       "id": "card_game",
@@ -1377,7 +1443,8 @@
         "board game",
         "video game",
         "card holder"
-      ]
+      ],
+      "image": "words/card_game.webp"
     },
     {
       "id": "take_turns",
@@ -1395,7 +1462,8 @@
         "take time",
         "take off",
         "turn around"
-      ]
+      ],
+      "image": "words/take_turns.webp"
     },
     {
       "id": "shuffle",
@@ -1413,7 +1481,8 @@
         "shovel",
         "scuffle",
         "stumble"
-      ]
+      ],
+      "image": "words/shuffle.webp"
     },
     {
       "id": "jigsaw",
@@ -1431,7 +1500,8 @@
         "chainsaw",
         "seesaw",
         "jigger"
-      ]
+      ],
+      "image": "words/jigsaw.webp"
     },
     {
       "id": "fishing",
@@ -1449,7 +1519,8 @@
         "phishing",
         "finishing",
         "fetching"
-      ]
+      ],
+      "image": "words/fishing.webp"
     },
     {
       "id": "fishing_rod",
@@ -1467,7 +1538,8 @@
         "fishing net",
         "hot rod",
         "lightning rod"
-      ]
+      ],
+      "image": "words/fishing_rod.webp"
     },
     {
       "id": "bait",
@@ -1485,7 +1557,8 @@
         "bite",
         "beat",
         "bat"
-      ]
+      ],
+      "image": "words/bait.webp"
     },
     {
       "id": "picnic",
@@ -1503,7 +1576,8 @@
         "pickle",
         "panic",
         "pinch"
-      ]
+      ],
+      "image": "words/picnic.webp"
     },
     {
       "id": "gardening",
@@ -1521,7 +1595,8 @@
         "guarding",
         "garden",
         "grading"
-      ]
+      ],
+      "image": "words/gardening.webp"
     },
     {
       "id": "plant",
@@ -1539,7 +1614,8 @@
         "plan",
         "planet",
         "plate"
-      ]
+      ],
+      "image": "words/plant.webp"
     },
     {
       "id": "kite",
@@ -1557,7 +1633,8 @@
         "kit",
         "bite",
         "knight"
-      ]
+      ],
+      "image": "words/kite.webp"
     },
     {
       "id": "bird_watching",
@@ -1575,7 +1652,8 @@
         "whale watching",
         "babysitting",
         "bird feeder"
-      ]
+      ],
+      "image": "words/bird_watching.webp"
     },
     {
       "id": "stargazing",
@@ -1593,7 +1671,8 @@
         "sightseeing",
         "star sign",
         "sunbathing"
-      ]
+      ],
+      "image": "words/stargazing.webp"
     },
     {
       "id": "binoculars",
@@ -1611,7 +1690,8 @@
         "telescope",
         "microscope",
         "spectacles"
-      ]
+      ],
+      "image": "words/binoculars.webp"
     },
     {
       "id": "sleeping_bag",
@@ -1629,7 +1709,8 @@
         "shopping bag",
         "sleeping pill",
         "sleepover"
-      ]
+      ],
+      "image": "words/sleeping_bag.webp"
     },
     {
       "id": "campsite",
@@ -1647,7 +1728,8 @@
         "website",
         "campus",
         "campaign"
-      ]
+      ],
+      "image": "words/campsite.webp"
     },
     {
       "id": "flashlight",
@@ -1665,7 +1747,8 @@
         "flash drive",
         "headlight",
         "flashback"
-      ]
+      ],
+      "image": "words/flashlight.webp"
     },
     {
       "id": "fresh_air",
@@ -1683,7 +1766,8 @@
         "fresh food",
         "open air",
         "hot air"
-      ]
+      ],
+      "image": "words/fresh_air.webp"
     },
     {
       "id": "gallery",
@@ -1701,7 +1785,8 @@
         "galaxy",
         "grocery",
         "balcony"
-      ]
+      ],
+      "image": "words/gallery.webp"
     },
     {
       "id": "exhibition",
@@ -1719,7 +1804,8 @@
         "expedition",
         "excursion",
         "exhibit"
-      ]
+      ],
+      "image": "words/exhibition.webp"
     },
     {
       "id": "artist",
@@ -1737,7 +1823,8 @@
         "artistic",
         "autism",
         "arts"
-      ]
+      ],
+      "image": "words/artist.webp"
     },
     {
       "id": "sculpture",
@@ -1755,7 +1842,8 @@
         "structure",
         "scripture",
         "sculptor"
-      ]
+      ],
+      "image": "words/sculpture.webp"
     },
     {
       "id": "masterpiece",
@@ -1773,7 +1861,8 @@
         "centerpiece",
         "timepiece",
         "masterclass"
-      ]
+      ],
+      "image": "words/masterpiece.webp"
     },
     {
       "id": "entry_fee",
@@ -1791,7 +1880,8 @@
         "entrance",
         "late fee",
         "service fee"
-      ]
+      ],
+      "image": "words/entry_fee.webp"
     },
     {
       "id": "audio_guide",
@@ -1809,7 +1899,8 @@
         "tour guide",
         "audio book",
         "guidebook"
-      ]
+      ],
+      "image": "words/audio_guide.webp"
     },
     {
       "id": "gift_shop",
@@ -1827,7 +1918,8 @@
         "coffee shop",
         "gift card",
         "pawn shop"
-      ]
+      ],
+      "image": "words/gift_shop.webp"
     },
     {
       "id": "ancient",
@@ -1845,7 +1937,8 @@
         "antique",
         "patient",
         "accent"
-      ]
+      ],
+      "image": "words/ancient.webp"
     },
     {
       "id": "modern_art",
@@ -1863,7 +1956,8 @@
         "street art",
         "fine art",
         "martial art"
-      ]
+      ],
+      "image": "words/modern_art.webp"
     },
     {
       "id": "admire",
@@ -1881,7 +1975,8 @@
         "admit",
         "advise",
         "adore"
-      ]
+      ],
+      "image": "words/admire.webp"
     },
     {
       "id": "display",
@@ -1899,7 +1994,8 @@
         "delay",
         "displace",
         "replay"
-      ]
+      ],
+      "image": "words/display.webp"
     },
     {
       "id": "curator",
@@ -1917,7 +2013,8 @@
         "creator",
         "curtain",
         "conductor"
-      ]
+      ],
+      "image": "words/curator.webp"
     },
     {
       "id": "inspiration",
@@ -1935,7 +2032,8 @@
         "aspiration",
         "inspection",
         "perspiration"
-      ]
+      ],
+      "image": "words/inspiration.webp"
     }
   ]
 }
