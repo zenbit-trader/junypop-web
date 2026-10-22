@@ -5,7 +5,7 @@
   if (!O || !O.page) return;
   const { esc, num, card, chip, pill, bar } = O;
 
-  const SRC_LABEL = { facebook: 'Facebook (โฆษณา)', meta: 'Meta (fbclid)', google: 'Google', 'google-ads': 'Google Ads', tiktok: 'TikTok', referral: 'ชวนเพื่อน', direct: 'เข้าตรง (มีลิงก์แต่ไม่มี utm)', unknown: 'ไม่ทราบ (เข้าเว็บตรง หรือแอป)' };
+  const SRC_LABEL = { facebook: 'Facebook (โฆษณา)', meta: 'Meta (fbclid)', google: 'Google', 'google-ads': 'Google Ads', tiktok: 'TikTok', chatgpt: 'ChatGPT (โฆษณา)', 'chatgpt.com': 'ChatGPT (ไม่ใช่โฆษณา)', 'ref:chatgpt.com': 'ChatGPT (ไม่ใช่โฆษณา)', 'ref:com.openai.chatgpt': 'ChatGPT (ไม่ใช่โฆษณา)', 'ref:chat.openai.com': 'ChatGPT (ไม่ใช่โฆษณา)', referral: 'ชวนเพื่อน', direct: 'เข้าตรง (มีลิงก์แต่ไม่มี utm)', unknown: 'ไม่ทราบ (เข้าเว็บตรง หรือแอป)' };
   const srcLabel = (s) => SRC_LABEL[s] || (s && s.startsWith('ref:') ? 'ลิงก์จาก ' + s.slice(4) : s);
   const KIND = { lesson: 'บทเรียน', review: 'ทบทวน', boss: 'บอส', speed: 'Speed Run', battle: 'ดวลเพื่อน', tower: 'หอคอย', test: 'ข้อสอบท้ายบท' };
   const METHOD = { email: 'อีเมล', google: 'Google', apple: 'Apple' };

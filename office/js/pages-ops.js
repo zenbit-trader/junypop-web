@@ -40,8 +40,8 @@
       h += '<div class="grid"><div class="c8">' + groups.map(([t, items]) => items.length ? card(t, items.map(row).join('')) : '').join('') +
         ((d.items || []).length ? '' : card('ยังไม่มีแจ้งเตือน', '<div class="empty">เมื่อมีเหตุการณ์ (ซื้อ Plus, คืนเงิน, โฆษณามีปัญหา) จะขึ้นที่นี่</div>')) + '</div>' +
         '<div class="c4">' + lineCard + card('กฎที่ทำงานอยู่ตอนนี้', '<div class="tablewrap"><table><tbody>' +
-          [['เว็บ junypop.com เปิดไม่ได้ 2 ครั้งติด', 'urgent'], ['โฆษณาถูกปฏิเสธ / มีปัญหา', 'urgent'], ['ใช้เงินโฆษณาวันนี้เกินแผน / ครบเพดานเดือน', 'urgent'], ['หยุดโฆษณาเว็บอัตโนมัติ (กฎ ฿200)', 'urgent'], ['App Store คืนเงิน/เพิกถอน', 'urgent'],
-           ['งบเดือนใช้ไป 90%', 'warn'], ['Apple Ads ไม่แสดง / ค่าคลิกแพง', 'warn'], ['ค่าโฆษณาต่อคนจบบทแรกเกินเพดาน (กฎ cpa_cap)', 'warn'], ['Plus หมดอายุ/ยกเลิก · ปิดต่ออายุระหว่างทดลอง', 'warn'], ['หอคอย: ชั้นที่แทบไม่มีใครผ่าน / error จากผู้เล่น 2 คนขึ้นไป', 'warn'], ['Plus ใหม่ / ทดลองฟรี (เว็บ/App Store)', 'info'], ['หอคอย: error จากผู้เล่นคนเดียว', 'info'], ['เรื่องที่ Claude เพิ่มเอง', 'ตามเรื่อง']]
+          [['เว็บ junypop.com เปิดไม่ได้ 2 ครั้งติด', 'urgent'], ['โฆษณาถูกปฏิเสธ / มีปัญหา', 'urgent'], ['ใช้เงินโฆษณาวันนี้เกินงบที่ตั้งไว้ในระบบโฆษณา N เท่า (กฎ daily_overspend) / ครบเพดานเดือน', 'urgent'], ['หยุดโฆษณาเว็บอัตโนมัติที่ยังวิ่งอยู่ (กฎ kill_spend)', 'urgent'], ['App Store คืนเงิน/เพิกถอน', 'urgent'],
+           ['งบเดือนใช้ไป 90%', 'warn'], ['งบรายวันที่ตั้งไว้ × วันในเดือน เกินเพดานเดือน (ครั้งเดียวต่อจำนวน)', 'warn'], ['Apple Ads ไม่แสดง / ค่าคลิกแพง', 'warn'], ['ค่าโฆษณาต่อคนจบบทแรกเกินเพดาน (กฎ cpa_cap · เฉพาะโฆษณาที่ยังใช้จ่าย สัปดาห์ละครั้ง)', 'warn'], ['Plus หมดอายุ/ยกเลิก · ปิดต่ออายุระหว่างทดลอง', 'warn'], ['หอคอย: ชั้นที่แทบไม่มีใครผ่าน / error จากผู้เล่น 2 คนขึ้นไป', 'warn'], ['Plus ใหม่ / ทดลองฟรี (เว็บ/App Store) · ทดลองฟรีกลายเป็นจ่ายจริง · ต่ออายุ · ย้าย Plus ตามผู้เล่น (เงินเข้าเมื่อวานอยู่ในสรุปเช้า LINE)', 'info'], ['หอคอย: error จากผู้เล่นคนเดียว', 'info'], ['เรื่องที่ Claude เพิ่มเอง', 'ตามเรื่อง']]
             .map(([n, l]) => '<tr><td>' + esc(n) + '</td><td>' + (LEVEL[l] ? pill(LEVEL[l][0], LEVEL[l][1]) : pill(l, 'neutral')) + '</td></tr>').join('') +
           '</tbody></table></div><div class="small muted" style="margin-top:6px">ด่วน = เข้า LINE ทันทีแม้กลางคืน · เตือน = เข้า LINE นอกช่วงเงียบ 23:00–07:00 · ข้อมูล = ในหน้านี้เท่านั้น · แก้เกณฑ์โฆษณาได้ในหน้าโฆษณา</div>') + '</div></div>';
       return h;
@@ -232,6 +232,7 @@
     ['events', 'อีเวนต์แอป', 'เปิดแอป เข้าหน้า เห็นหน้าขาย แชร์ ตั้งค่า ข้อผิดพลาด พร้อมแพลตฟอร์มและเวอร์ชัน', 'เริ่มเก็บเมื่อแอป v1.2 ออก', 'เว็บ · iOS · Android', 'เฟส 4'],
     ['meta', 'Meta Ads', 'สถานะโฆษณา งบ การแสดงผล คลิก ค่าใช้จ่าย conversion จาก pixel', 'นับเฉพาะแคมเปญชื่อ JUNYPOP… · conversion แก้ย้อนหลังได้ 28 วัน · Meta รีเฟรชเองทุก ~15 นาที', 'ตาม ad set', 'ทุก 15 นาที (หลังรัน SQL 0019)'],
     ['apple', 'Apple Ads', 'โฆษณาค้นหาใน App Store: สถานะ งบ แตะ ติดตั้ง ต่อคีย์เวิร์ด', 'บัญชีเป็น USD แปลงเป็นบาทโดยประมาณ · ติดตั้งที่ Apple นับ = เฉพาะจากโฆษณาค้นหา', 'iOS', 'ทุก 15 นาที (หลังรัน SQL 0019)'],
+    ['chatgpt', 'ChatGPT Ads', 'โฆษณาในแชต ChatGPT (OpenAI Ads Manager): สถานะ ผลตรวจโฆษณา งบรายวัน การแสดงผล คลิก ค่าใช้จ่าย', 'ค่าใช้จ่าย = ยอดที่ OpenAI เรียกเก็บแล้ว ซึ่งช้ากว่าคลิกหลายชั่วโมง · ผู้เล่นจากโฆษณานับจากรหัสคลิก oppref (วันแรก 22 ต.ค. ประมาณ) · ยังไม่ส่ง conversion กลับไปให้ OpenAI', 'เว็บ', 'ทุก 15 นาที (หลังตั้ง OPENAI_ADS_API_KEY)'],
     ['iap', 'Apple IAP', 'ซื้อ/ต่ออายุ/ยกเลิก/คืนเงิน Plus บน iOS', 'Sandbox แยกออก ไม่นับรายได้', 'iOS', 'ทันที'],
     ['stripe', 'Stripe', 'การซื้อ Plus บนเว็บ', '—', 'เว็บ', 'ทันที'],
     ['ga4', 'GA4 · เว็บ', 'ผู้ใช้ออนไลน์ตอนนี้ ที่มา อุปกรณ์ หน้า landing', 'นับเฉพาะคนกดยอมรับคุกกี้ · ล่าช้า 2–6 ชม.', 'เว็บ', 'เฟส 3'],
@@ -242,7 +243,7 @@
     load: async () => { const [s, i] = await Promise.all([O.rpc('office_sources'), O.rpc('office_internal_list').catch(() => null)]); s.internal = i; return s; },
     render(d) {
       const t = d.times || {};
-      const at = { db: t.db, events: null, meta: t.meta, apple: t.apple_ads, iap: t.iap, stripe: t.stripe, ga4: null, asc: null };
+      const at = { db: t.db, events: null, meta: t.meta, apple: t.apple_ads, chatgpt: t.chatgpt_ads, iap: t.iap, stripe: t.stripe, ga4: null, asc: null };
       let h = '<div class="note">ทุกตัวเลขในแดชบอร์ดมีป้ายบอกที่มา (กดที่ป้ายเพื่อดูคำอธิบาย) · หน้านี้บอกว่าแต่ละแหล่ง <b>นับอะไร ไม่นับอะไร ช้าแค่ไหน</b> และอัปเดตล่าสุดเมื่อไร</div>';
       h += '<div class="srcgrid">' + DEFS.map(([k, n, def, miss, plat, cad]) => {
         const connected = !['events', 'ga4', 'asc'].includes(k);

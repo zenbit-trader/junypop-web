@@ -107,7 +107,7 @@ svg{display:block}
 /* chips */
 .chip{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:2px 9px 2px 7px;font-size:12px;font-weight:600;line-height:1.5;background:var(--inset);color:var(--ink-2);white-space:nowrap;cursor:help;border:1px solid transparent}
 .chip i{width:7px;height:7px;border-radius:50%;background:var(--ink-3);flex:none}
-.chip.db i{background:var(--src-db)} .chip.ga4 i{background:var(--src-ga4)} .chip.meta i{background:var(--src-meta)} .chip.asc i{background:var(--src-asc)} .chip.iap i{background:var(--src-iap)} .chip.stripe i{background:var(--src-stripe)} .chip.apple i{background:var(--src-iap);box-shadow:inset 0 0 0 2px var(--inset)} .chip.claude i{background:#7C3AED}
+.chip.db i{background:var(--src-db)} .chip.ga4 i{background:var(--src-ga4)} .chip.meta i{background:var(--src-meta)} .chip.asc i{background:var(--src-asc)} .chip.iap i{background:var(--src-iap)} .chip.stripe i{background:var(--src-stripe)} .chip.apple i{background:var(--src-iap);box-shadow:inset 0 0 0 2px var(--inset)} .chip.claude i{background:#7C3AED} .chip.chatgpt i{background:#10A37F}
 .chip .fresh{color:var(--ink-3);font-weight:500}
 .chip.stale{border-color:var(--warn)} .chip.stale .fresh{color:var(--warn-ink)}
 .pill{display:inline-flex;align-items:center;gap:5px;border-radius:999px;padding:2px 9px;font-size:12px;font-weight:700;line-height:1.5;white-space:nowrap}
@@ -161,7 +161,7 @@ svg{display:block}
 .now .l{font-size:12.5px;color:var(--ink-2);font-weight:600;margin-top:2px}
 .now .c{margin-top:6px}
 
-.tiles{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:12px}
+.tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
 .tile{background:var(--surface);border-radius:var(--radius);box-shadow:var(--shadow);padding:14px;display:flex;flex-direction:column;gap:6px;min-width:0}
 .tile .l{font-size:13px;font-weight:600;color:var(--ink-2);display:flex;gap:6px;align-items:center;flex-wrap:wrap}
 .tile .v{font-size:28px;font-weight:800;line-height:1.1}

@@ -46,6 +46,9 @@
     utm_source: 'src', utm_medium: 'med', utm_campaign: 'cmp',
     utm_content: 'cnt', utm_term: 'trm',
     gclid: 'gclid', fbclid: 'fbclid', ttclid: 'ttclid',
+    // ChatGPT Ads' click id. Its in-app browser usually sends no referrer,
+    // so without it an ad visitor looks like someone who typed the address.
+    oppref: 'oppref',
     ref: 'ref' // junypop.com/?ref=<invite code>
   };
 
@@ -54,7 +57,8 @@
     var out = {};
     for (var key in PARAMS) {
       var v = q.get(key);
-      if (v) out[PARAMS[key]] = v.slice(0, 120);
+      // oppref is kept whole: OpenAI's Conversions API wants it unchanged.
+      if (v) out[PARAMS[key]] = v.slice(0, key === 'oppref' ? 500 : 120);
     }
     var host = '';
     try {

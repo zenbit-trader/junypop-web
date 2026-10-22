@@ -51,8 +51,9 @@
   // Sources: what each chip means (shown on tap) — docs/OFFICE_PLAN.html §3.
   const SRC = (O.SRC = {
     db: { label: 'ฐานข้อมูล', note: 'สิ่งที่เกมบันทึกจริงใน Supabase (ทุกแพลตฟอร์ม) · ไม่รวมบัญชีผู้ดูแลและบอท' },
-    meta: { label: 'Meta Ads', note: 'ตัวเลขจาก Meta Marketing API เฉพาะแคมเปญชื่อ JUNYPOP… · Meta รีเฟรชเองทุก ~15 นาที และแก้ conversion ย้อนหลังได้ 28 วัน · ซิงก์อัตโนมัติทุก 15 นาที' },
-    apple: { label: 'Apple Ads', note: 'โฆษณาค้นหาใน App Store · บัญชีเป็น USD แปลงเป็นบาทโดยประมาณ · ซิงก์อัตโนมัติทุก 15 นาที' },
+    meta: { label: 'Meta Ads', note: 'ตัวเลขจาก Meta Marketing API เฉพาะแคมเปญชื่อ JUNYPOP… · "7 วัน" = 7 วันล่าสุดรวมวันนี้ (เวลาไทย) · Meta รีเฟรชเองทุก ~15 นาที และแก้ conversion ย้อนหลังได้ 28 วัน · ซิงก์อัตโนมัติทุก 15 นาที' },
+    apple: { label: 'Apple Ads', note: 'โฆษณาค้นหาใน App Store · บัญชีเป็น USD แปลงเป็นบาทด้วยอัตรา ECB ของวัน (โดยประมาณ ธนาคารของคุณคิดอีกอัตรา) · "7 วัน" = 7 วันล่าสุดรวมวันนี้ (เวลาไทย) · ซิงก์อัตโนมัติทุก 15 นาที' },
+    chatgpt: { label: 'ChatGPT Ads', note: 'โฆษณาในแชต ChatGPT จาก OpenAI Ads API · บัญชีเป็นบาท เวลาไทย · ค่าใช้จ่าย = ยอดที่ OpenAI เรียกเก็บแล้ว ซึ่งช้ากว่าคลิกหลายชั่วโมง (คลิกที่ยังไม่เรียกเก็บแสดงแยก) · ผู้เล่นจากโฆษณานับจากรหัสคลิก oppref ที่มากับลิงก์ · ซิงก์อัตโนมัติทุก 15 นาที' },
     iap: { label: 'Apple IAP', note: 'การซื้อ/ต่ออายุ/คืนเงิน JUNYPOP Plus บน iOS ที่ Apple แจ้งเข้าระบบเราทันที · Sandbox (ทดสอบ) ไม่นับ' },
     stripe: { label: 'Stripe', note: 'การซื้อ Plus บนเว็บ แจ้งเข้าระบบทันที' },
     ga4: { label: 'GA4 · เว็บ', note: 'Google Analytics นับเฉพาะผู้ที่กดยอมรับคุกกี้บนเว็บ · เชื่อมในเฟส 3' },
@@ -77,7 +78,10 @@
     plus_purchase: 'ซื้อ Plus', share: 'แชร์', invite: 'ชวนเพื่อน', settings_change: 'เปลี่ยนตั้งค่า', signup: 'เปิดบัญชี', sign_out: 'ออกจากระบบ',
     no_hearts: 'หัวใจหมด', heart_refill: 'เติมหัวใจ', weak_drill: 'ฝึกจุดอ่อน', ad_reward: 'ดูโฆษณารับหัวใจ',
     feedback_prompt: 'เห็นคำถามฟีดแบ็ก', feedback_dismiss: 'ข้ามคำถามฟีดแบ็ก', error: 'ข้อผิดพลาด', submit_rejected: 'ผลเล่นถูกเซิร์ฟเวอร์ปฏิเสธ',
+    auth_start: 'เริ่มเข้าสู่ระบบ', auth_fail: 'เข้าสู่ระบบไม่สำเร็จ', session_lost: 'เซสชันหลุด (ถามให้เข้าสู่ระบบ)', update_prompt: 'เห็นการ์ดอัปเดตแอป',
   };
+  // Event names that mean something went wrong (drawn in red).
+  O.BAD_EVENT = { error: 1, submit_rejected: 1, auth_fail: 1, session_lost: 1 };
   O.SCREEN = { home: 'หน้าหลัก', worlds: 'เวิลด์', battle: 'ต่อสู้', progress: 'ความสำเร็จ', shop: 'ร้านค้า' };
   O.MOOD = { 1: ['😞', 'ไม่ชอบ', 'crit'], 2: ['😐', 'เฉยๆ', 'warn'], 3: ['😊', 'ชอบ', 'good'] };
   O.spark = (series, big) => {
