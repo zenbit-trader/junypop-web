@@ -31,6 +31,7 @@
     lock: '<rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 018 0v3"/>',
     refresh: '<path d="M20 11a8 8 0 10-2.3 5.7"/><path d="M20 4v7h-7"/>',
     out: '<path d="M15 4h4v16h-4"/><path d="M10 8l-4 4 4 4M6 12h10"/>',
+    coin: '<circle cx="12" cy="12" r="9"/><path d="M15 9.2c-.6-1-1.7-1.6-3-1.6-1.7 0-3 .9-3 2.2 0 3 6 1.5 6 4.4 0 1.3-1.3 2.2-3 2.2-1.4 0-2.5-.6-3.1-1.6M12 6v1.6M12 16.4V18"/>',
   };
   const ico = (O.ico = (n, cls) => '<svg class="ico ' + (cls || '') + '" viewBox="0 0 24 24" aria-hidden="true">' + (ICONS[n] || '') + '</svg>');
   const num = (O.num = (v, d) => (v == null || v === '' || Number.isNaN(Number(v)) ? '—' : Number(v).toLocaleString('en-US', { maximumFractionDigits: d == null ? 0 : d })));
@@ -107,7 +108,7 @@
   O.metric = (m) => {
     if (!m || !m.src) return '<div class="tile"><div class="l">' + esc(m && m.label) + '</div><div class="v">—</div><div class="small muted">ไม่มีแหล่งข้อมูล</div></div>';
     const dir = m.dir || 'flat';
-    return '<div class="tile"><div class="l">' + esc(m.label) + '</div><div class="v num">' + esc(m.value) + '</div>' +
+    return '<div class="tile' + (m.go ? ' go' : '') + '"' + (m.go ? ' data-go="' + esc(m.go) + '" role="link" tabindex="0"' : '') + '><div class="l">' + esc(m.label) + '</div><div class="v num">' + esc(m.value) + '</div>' +
       (m.delta != null ? '<div class="d"><span class="' + dir + '">' + (dir === 'up' ? '▲' : dir === 'down' ? '▼' : '•') + ' ' + esc(m.delta) + '</span>' + (m.vs ? '<span class="muted">' + esc(m.vs) + '</span>' : '') + '</div>' : '') +
       (m.spark ? O.spark(m.spark) : '') +
       '<div class="foot">' + (m.pill ? O.pill(m.pill[0], m.pill[1]) : '') + O.chip(m.src, m.fresh, { note: m.note }) + (m.src2 ? O.chip(m.src2, m.fresh2) : '') + '</div>' +
@@ -292,7 +293,7 @@
   // ------------------------------------------------------------------ shell + router
   const PAGES = (O.PAGES = []);
   O.page = (id, def) => PAGES.push(Object.assign({ id }, def));
-  const TABS = ['overview', 'players', 'ads', 'feedback'];
+  const TABS = ['overview', 'money', 'players', 'ads', 'feedback'];
   O.state = { page: 'overview', params: {}, cache: {}, badges: {} };
   let theme = 'system';
   try { theme = localStorage.getItem('jp-office-theme') || 'system'; } catch (_) { /* storage blocked */ }
@@ -389,7 +390,7 @@
   }
 
   let started = false;
-  const ORDER = ['overview', 'players', 'tower', 'store', 'ads', 'feedback', 'alerts', 'content', 'commands', 'staff', 'sources'];
+  const ORDER = ['overview', 'money', 'players', 'tower', 'store', 'ads', 'feedback', 'alerts', 'content', 'commands', 'staff', 'sources'];
   function startApp() {
     PAGES.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
     shell();
@@ -429,6 +430,15 @@
     if (t.hasAttribute('data-signout')) { await sb.auth.signOut(); location.hash = ''; O.boot(); return; }
     if (t.hasAttribute('data-copy')) { O.copy(t.getAttribute('data-copy')); return; }
     if (t.hasAttribute('data-note') && t.classList.contains('chip')) { O.say(t.getAttribute('data-note')); }
+  });
+
+  // Tiles that open a page (O.metric go) work from the keyboard too.
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    const t = e.target.closest ? e.target.closest('[role="link"][data-go]') : null;
+    if (!t || e.target.closest('[data-note]')) return;
+    e.preventDefault();
+    O.go(t.getAttribute('data-go'));
   });
 
   window.addEventListener('DOMContentLoaded', () => O.boot());

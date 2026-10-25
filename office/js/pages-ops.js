@@ -9,6 +9,9 @@
   const SEV = { urgent: 'crit', warn: 'warn', info: 'info' };
 
   // ------------------------------------------------------------------ แจ้งเตือน
+  // An alert's link → the page that explains it (Plus alerts before 0031 said #players/revenue).
+  const linkPage = (link) => { const p = String(link).replace(/^#/, ''); return p === 'players/revenue' ? 'money' : p.split('/')[0]; };
+
   O.page('alerts', {
     title: 'แจ้งเตือน', icon: 'bell', group: 'การตลาด', sub: 'ทุกเรื่องที่เกิดขึ้น · กดรับทราบได้จากทุกเครื่อง',
     load: () => O.rpc('office_alerts_list', { p_limit: 200 }),
@@ -26,7 +29,7 @@
         return '<div class="alert ' + SEV[a.level] + '"><div class="sev"></div><div class="body"><div class="t">' + pill(lv[0], lv[1]) + esc(a.title) + (!a.acked_at && !snoozed ? pill('ยังไม่รับทราบ', 'warn') : '') + (snoozed ? pill('ปิดเสียงถึง ' + O.time(a.snoozed_until), 'neutral') : '') + '</div>' +
           (a.body ? '<div class="s">' + esc(a.body) + '</div>' : '') +
           '<div class="dl">' + chip(a.source) + '<span>' + esc(O.date(a.created_at, true)) + '</span>' + (a.acked_at ? '<span>รับทราบโดย ' + esc(a.acked_name || '—') + ' ' + esc(O.date(a.acked_at, true)) + '</span>' : '') + '</div>' +
-          (!a.acked_at && canAct() ? '<div class="acts"><button class="btn sm primary" data-ack="' + a.id + '">รับทราบ</button><button class="btn sm ghost" data-snooze="' + a.id + '">ปิดเสียง 24 ชม.</button>' + (a.link ? '<button class="btn sm ghost" data-go="' + esc(String(a.link).replace(/^#/, '').split('/')[0]) + '">ดูข้อมูล →</button>' : '') + '</div>' : '') + '</div></div>';
+          (!a.acked_at && canAct() ? '<div class="acts"><button class="btn sm primary" data-ack="' + a.id + '">รับทราบ</button><button class="btn sm ghost" data-snooze="' + a.id + '">ปิดเสียง 24 ชม.</button>' + (a.link ? '<button class="btn sm ghost" data-go="' + esc(linkPage(a.link)) + '">ดูข้อมูล →</button>' : '') + '</div>' : '') + '</div></div>';
       };
       const linked = !!O.me.line_linked;
       const lineCard = card('LINE ของฉัน', linked

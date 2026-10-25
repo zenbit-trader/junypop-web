@@ -9,13 +9,34 @@
   const dirOf = (a, b) => (a > b ? 'up' : a < b ? 'down' : 'flat');
   const signed = (d) => (d > 0 ? '+' : '') + num(d);
 
+  // Money that actually came in over 7 days (0031 office_money), App Store and
+  // web apart; trials are people, not money, so they sit in the small print.
+  function plusMoneyTile(mo) {
+    const a = mo.apple || {}, w = mo.stripe || {}, am = a.money || {}, wm = w.money || {}, now = a.now || {};
+    const thb = (rows) => (rows || []).filter((r) => String(r.currency).toUpperCase() === 'THB').reduce((t, r) => t + Number(r.amount || 0), 0);
+    const other = (rows) => (rows || []).filter((r) => String(r.currency).toUpperCase() !== 'THB').map((r) => r.currency + ' ' + num(r.amount, 2));
+    const week = thb(am.range) + Number((wm.range || {}).amount || 0);
+    const month = thb(am.month) + Number((wm.month || {}).amount || 0);
+    const extra = other(am.range);
+    const n = (am.first || 0) + (am.renewals || 0) + Number((wm.range || {}).n || 0);
+    return metric({
+      label: 'เงินจริงจาก Plus 7 วัน', value: O.baht(week) + (extra.length ? ' + ' + extra.join(' + ') : ''),
+      delta: 'เดือนนี้ ' + O.baht(month) + other(am.month).map((x) => ' + ' + x).join(''), vs: num(n) + ' รายการใน 7 วัน', go: 'money',
+      pill: [num(now.trial) + ' ทดลองฟรีอยู่ · ' + num((now.retry || 0) + (now.grace || 0)) + ' Apple กำลังลองตัด', (now.retry || now.grace) ? 'warn' : 'neutral'],
+      src: 'iap', fresh: 'ทันที', src2: 'stripe', fresh2: 'ทันที',
+      sub: 'App Store ' + (am.range && am.range.length ? am.range.map((r) => (String(r.currency).toUpperCase() === 'THB' ? O.baht(r.amount) : r.currency + ' ' + num(r.amount, 2))).join(' + ') : O.baht(0)) + ' · เว็บ ' + O.baht((wm.range || {}).amount) + ' · กดเพื่อดูหน้าเงิน Plus',
+      note: 'เงินที่ลูกค้าจ่ายจริง (ก่อน Apple หักส่วนแบ่ง / ก่อนค่าธรรมเนียม Stripe) · ทดลองฟรี ฿0 ไม่นับเป็นเงิน · ไม่รวมบัญชีทีมงานและ Sandbox',
+    });
+  }
+
   // ------------------------------------------------------------------ ภาพรวม
   O.page('overview', {
     title: 'ภาพรวม', icon: 'home', group: 'หลัก',
     sub: 'สรุปวันนี้ · เปิดทุกเช้า 30 วินาที',
     load: () => Promise.all([O.rpc('office_overview'), O.rpc('office_alerts_list', { p_limit: 30 }),
-      O.rpc('office_feedback', { p_days: 7, p_limit: 3 }).catch(() => null)]),
-    render([ov, al, fb]) {
+      O.rpc('office_feedback', { p_days: 7, p_limit: 3 }).catch(() => null),
+      O.rpc('office_money', { p_days: 7 }).catch(() => null)]),
+    render([ov, al, fb, mo]) {
       O.setBadge('alerts', al.unread);
       O.setBadge('commands', ov.inbox.money_queued);
       const days = ov.days || [];
@@ -95,7 +116,8 @@
         metric({ label: 'ผู้มาเยือนวันนี้', value: num(td.visitors), delta: signed((td.visitors || 0) - (yd.visitors || 0)), dir: dirOf(td.visitors, yd.visitors), vs: 'vs เมื่อวาน', spark: sers('visitors'), src: 'db', fresh: 'สด', sub: 'ไม่รวมบอท ' + num(td.bots) + ' · ทุกแพลตฟอร์ม', note: 'โปรไฟล์ใหม่ที่เกมสร้างตอนเปิดครั้งแรก ไม่รวมบอท (ดูจาก user agent) และบัญชีผู้ดูแล · คนที่ออกจากระบบแล้วเข้าใหม่ยังนับซ้ำ' }) +
         metric({ label: 'เปิดบัญชี 7 วัน', value: num(s7), delta: srate != null ? srate + '%' : '—', vs: 'ของคนจบบทแรก', pill: ['เป้า 20%', srate >= 20 ? 'good' : 'warn'], spark: sers('signups'), src: 'db', fresh: 'สด', sub: 'สัปดาห์ก่อน ' + num(ov.signups_prev7), note: 'นับวันที่ผูกบัญชีจริง (auth.identities) ไม่ใช่วันที่สร้าง guest' }) +
         metric({ label: 'D1 กลับมา 7 วัน', value: d1r == null ? '—' : d1r + '%', delta: d1p == null ? 'ยังไม่มีสัปดาห์ก่อน' : (d1r - d1p >= 0 ? '+' : '') + (d1r - d1p) + ' pt', dir: d1p == null ? 'flat' : dirOf(d1r, d1p), vs: 'vs สัปดาห์ก่อน', pill: ['เป้า 25%', d1r >= 25 ? 'good' : 'warn'], src: 'db', fresh: 'สด', sub: num(d1.back) + ' จาก ' + num(d1.base) + ' คน', note: 'คนที่เล่นวันแรกแล้วกลับมาเล่นวันถัดไป (นับจากเซสชัน · หลัง v1.2 จะนับการเปิดแอปด้วย)' }) +
-        metric({ label: 'Plus ใหม่ 7 วัน', value: num(plus7), delta: signed(plus7 - (pl.prev7 || 0)), dir: dirOf(plus7, pl.prev7), vs: 'vs สัปดาห์ก่อน', pill: appleTrial7 == null ? ['เป้า 2% ของคนสมัคร', s7 && O.pct(plus7, s7) >= 2 ? 'good' : 'warn'] : ['จ่ายจริง ' + num(paid7) + ' · ทดลองฟรี ' + num(appleTrial7), paid7 > 0 ? 'good' : 'warn'], src: 'stripe', src2: 'iap', sub: 'เว็บ ' + num(pl.stripe7) + ' · App Store ' + num(pl.apple7) + (appleTrial7 != null ? ' (จ่ายจริง ' + num(applePaid7) + ' · ทดลองฟรี ' + num(appleTrial7) + ')' : '') + ' · โค้ด ' + num(pl.code7) + ' · สมาชิกอยู่ ' + num(pl.active) + (pl.trial_active ? ' (ทดลองฟรี ' + num(pl.trial_active) + ' ยังไม่จ่าย)' : '') + (pl.sandbox7 ? ' · Sandbox ' + num(pl.sandbox7) + ' ไม่นับ' : ''), note: 'App Store นับรวมคนที่กดทดลองฟรี 7 วัน (฿0) — ยอดจ่ายจริงเกิดเมื่อครบทดลองแล้ว Apple ตัดบัตรผ่าน' }) +
+        (mo ? plusMoneyTile(mo) : '') +
+        (mo ? '' : metric({ label: 'Plus ใหม่ 7 วัน', value: num(plus7), delta: signed(plus7 - (pl.prev7 || 0)), dir: dirOf(plus7, pl.prev7), vs: 'vs สัปดาห์ก่อน', pill: appleTrial7 == null ? ['เป้า 2% ของคนสมัคร', s7 && O.pct(plus7, s7) >= 2 ? 'good' : 'warn'] : ['จ่ายจริง ' + num(paid7) + ' · ทดลองฟรี ' + num(appleTrial7), paid7 > 0 ? 'good' : 'warn'], src: 'stripe', src2: 'iap', sub: 'เว็บ ' + num(pl.stripe7) + ' · App Store ' + num(pl.apple7) + (appleTrial7 != null ? ' (จ่ายจริง ' + num(applePaid7) + ' · ทดลองฟรี ' + num(appleTrial7) + ')' : '') + ' · โค้ด ' + num(pl.code7) + ' · สมาชิกอยู่ ' + num(pl.active) + (pl.trial_active ? ' (ทดลองฟรี ' + num(pl.trial_active) + ' ยังไม่จ่าย)' : '') + (pl.sandbox7 ? ' · Sandbox ' + num(pl.sandbox7) + ' ไม่นับ' : ''), note: 'App Store นับรวมคนที่กดทดลองฟรี 7 วัน (฿0) — ยอดจ่ายจริงเกิดเมื่อครบทดลองแล้ว Apple ตัดบัตรผ่าน' })) +
         metric({ label: 'ใช้เงินโฆษณาวันนี้', value: O.baht(spendToday), delta: (hasPlan ? 'งบที่ตั้งไว้ ' : 'เพดาน ÷ วัน ') + O.baht(dailyPlan), vs: 'ต่อวัน', pill: [overPlan ? 'เกินงบที่ตั้ง' : 'ตามงบที่ตั้ง', overPlan ? 'crit' : 'good'], src: 'meta', fresh: fresh(ads.synced_at), src2: 'apple', fresh2: fresh(ads.apple_synced_at), sub: 'Meta ' + O.baht(ads.meta_today, 2) + ' · Apple ≈' + O.baht(ads.apple_today_thb, 2) + (gpt ? ' · ChatGPT ' + O.baht(gpt.today, 2) + (gptPend.clicks ? ' (+' + num(gptPend.clicks) + ' คลิกยังไม่เรียกเก็บ' + (gptPend.est_thb != null ? ' ≈' + O.baht(gptPend.est_thb) : '') + ')' : '') : '') + ' · เดือนนี้ ' + O.baht((ads.meta_month || 0) + (ads.apple_month_thb || 0) + (gpt ? Number(gpt.month) || 0 : 0)) + ' / เพดาน ' + O.baht(ads.cap), note: hasPlan ? 'งบที่ตั้งไว้ = งบรายวันของ ad set Meta ที่ยังวิ่ง (' + O.baht(ads.meta_plan_today) + ') + งบรายวันของ Apple Ads ตอนที่กำลังแสดง ($' + num(ads.apple_daily_usd, 2) + ' × ' + num(ads.fx, 2) + ')' + (gpt ? ' + งบรายวันของ ChatGPT Ads (' + O.baht(gpt.plan_today) + ') · ChatGPT นับเฉพาะยอดที่ OpenAI เรียกเก็บแล้ว (ช้ากว่าคลิกหลายชั่วโมง)' : '') + ' · เพดานเดือนอยู่ในกฎ guardrail หน้าโฆษณา' : 'แผน = เพดานเดือน ÷ จำนวนวัน (รัน SQL 0028 เพื่อใช้งบที่ตั้งไว้จริง)' }) +
         metric({ label: 'CPA 7 วัน (Meta)', value: cpa == null ? '—' : O.baht(cpa, 2), delta: metaIdle ? 'Meta ไม่ได้ใช้จ่ายใน 7 วัน' + (ads.meta_last_day ? ' · ล่าสุด ' + O.date(ads.meta_last_day) : '') : O.baht(meta7, 2) + ' ÷ ' + num(ads.paid_first_lessons7), vs: metaIdle ? '' : 'คนจบบทแรกจากโฆษณา Meta', pill: ['เพดาน ' + O.baht(cpaCap), cpa == null ? 'neutral' : cpa <= cpaCap ? 'good' : 'crit'], src: 'meta', fresh: fresh(ads.synced_at), src2: 'db', fresh2: 'สด', note: 'ค่าใช้จ่าย Meta 7 วันล่าสุด (รวมวันนี้) ÷ คนที่จบบทแรกใน 7 วันและมาจากลิงก์โฆษณา Meta (utm_medium=paid) · ไม่แสดงเมื่อ Meta ไม่ได้ใช้จ่าย · เพดานมาจากกฎ cpa_cap' }) +
         metric({ label: 'Apple Ads ต่อผู้เล่น iOS ใหม่ 7 วัน', value: cacIos == null ? '—' : O.baht(cacIos), delta: cacIos == null ? (ads.apple_7d_thb == null ? 'รอรัน SQL 0028' : ads.apple_7d_thb ? 'ยังไม่มีผู้เล่น iOS ใหม่' : 'Apple ไม่ได้ใช้จ่ายใน 7 วัน') : O.baht(ads.apple_7d_thb) + ' ÷ ' + num(iosNew7) + ' คน', vs: cacIos == null ? '' : 'ผู้เล่น iOS ใหม่ทุกช่องทาง', pill: appleCpi != null ? ['Apple นับเอง $' + num(appleCpi, 2) + '/ติดตั้ง', 'neutral'] : null, src: 'apple', fresh: fresh(ads.apple_synced_at), src2: 'db', fresh2: 'สด', sub: ads.apple_7d_thb == null ? '' : 'จบบทแรก iOS 7 วัน ' + num((ov.hero || {}).ios_first_lessons7) + ' · ติดตั้งที่ Apple นับ ' + num(ads.apple_installs_7d), note: 'ตัวเลขเหมา: ค่า Apple Ads 7 วัน หารด้วยผู้เล่น iOS ใหม่ทั้งหมด (รวมที่มาเอง) เพราะแอปยังบอกไม่ได้ว่าใครมาจากโฆษณา — จะแยกได้เมื่อใส่ AdServices attribution ใน build ถัดไป' }) +

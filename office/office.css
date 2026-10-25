@@ -374,3 +374,15 @@ details.more summary{cursor:pointer;font-size:13px;font-weight:700;color:var(--b
 .fbitem:last-child{border-bottom:0}
 .fbitem select{font:inherit;font-size:13px;padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--surface,transparent);color:inherit}
 .neg{color:var(--crit-ink)}
+
+/* เงิน Plus (0031) */
+.tile.go{cursor:pointer}
+.tile.go:hover{box-shadow:0 0 0 2px var(--brand-soft),var(--shadow)}
+.tile.go:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+.bar .fill.good{background:var(--good)} .bar .fill.bad{background:var(--crit)} .bar .fill.mute{background:var(--line-2)}
+.moneycols>.c6{display:flex;flex-direction:column;gap:14px;min-width:0}
+.moneycols .bar{grid-template-columns:minmax(0,1.3fr) minmax(0,1fr) 44px}
+.storehead{display:flex;justify-content:space-between;align-items:center;gap:10px;background:var(--surface);box-shadow:var(--shadow);border-radius:var(--radius);padding:12px 14px;border-left:5px solid var(--src-iap)}
+.storehead.stripe{border-left-color:var(--src-stripe)}
+.storehead .t{font-size:17px;font-weight:800}
+.storehead .s{font-size:12.5px;color:var(--ink-2)}
