@@ -22,12 +22,12 @@
 
   function reports(d, range) {
     const list = d.reports || [];
-    const head = 'ภาพที่ผู้เล่นแจ้งว่าดูไม่ออก · ' + range;
-    if (!list.length) return card(head, '<div class="empty">ยังไม่มีใครแจ้งภาพ</div>', { right: chip('events', 'ทันที') });
+    const head = 'ข้อที่ผู้เล่นกดแจ้งปัญหา · ' + range;
+    if (!list.length) return card(head, '<div class="empty">ยังไม่มีใครกดแจ้งปัญหา</div>', { right: chip('events', 'ทันที') });
     return card(head, '<div class="tablewrap"><table><thead><tr><th></th><th>คำ</th><th class="r">ข้อ</th><th class="r">คนแจ้ง</th><th class="r">ล่าสุด</th></tr></thead><tbody>' + list.map((r) =>
       '<tr' + (r.players >= 3 ? ' class="hot"' : '') + '><td>' + thumb(r.word_id) + '</td><td style="white-space:normal"><b>' + esc(r.word || r.word_id) + '</b> <span class="muted small">' + esc(r.meaning || '') + '</span></td>' +
       '<td class="r num">' + (r.step ? num(r.step) : '—') + '</td><td class="r">' + pill(num(r.players) + ' คน', r.players >= 3 ? 'warn' : 'neutral') + '</td><td class="r num">' + esc(O.date(r.last_at, true)) + '</td></tr>').join('') + '</tbody></table></div>' +
-      '<div class="small muted" style="margin-top:6px">จากปุ่ม "ภาพนี้ดูไม่ออก? แจ้งเรา" ในเกม · แถวที่มี 3 คนขึ้นไปถูกเน้น — วาดใหม่ด้วย <code>tools/art run words --only &lt;id&gt; --force</code></div>',
+      '<div class="small muted" style="margin-top:6px">จากปุ่ม "เจอปัญหาหรือบั๊ก? แจ้งเรา" ในเกม (ข้อความที่พิมพ์อยู่ในหน้าเสียงลูกค้า) · แถวที่มี 3 คนขึ้นไปถูกเน้น — ถ้าเป็นที่ภาพ วาดใหม่ด้วย <code>tools/art run words --only &lt;id&gt; --force</code></div>',
     { right: chip('events', 'ทันที') });
   }
 
@@ -45,7 +45,7 @@
   }
 
   O.page('ladder', {
-    title: 'บันได', icon: 'ladder', group: 'ผู้ใช้', sub: 'บันได 5,000 คำ: ใครไต่ถึงไหน ข้อไหนคนพลาด ภาพไหนดูไม่ออก',
+    title: 'บันได', icon: 'ladder', group: 'ผู้ใช้', sub: 'บันได 5,000 คำ: ใครไต่ถึงไหน ข้อไหนคนพลาด ข้อไหนมีคนแจ้งปัญหา',
     filters(raw) { return seg(days(raw), [[7, '7 วัน'], [30, '30 วัน'], [90, '90 วัน']]); },
     load: (raw) => O.rpc('office_ladder', { p_days: days(raw) }),
     render(d) {
@@ -55,7 +55,7 @@
         O.metric({ label: 'อยู่บนบันได', value: num(d.climbers), src: 'db', fresh: 'สด', sub: 'เคยเล่น ' + num(d.started) + ' คน', note: 'ไม่รวมทีมงาน บัญชีทดสอบ และบอท' }) +
         O.metric({ label: 'ข้อสูงสุด · ค่ากลาง', value: num(d.best) + ' · ' + num(Math.round(d.median)), src: 'db', fresh: 'สด', sub: 'จาก ' + num(d.length) + ' ข้อ' }) +
         O.metric({ label: 'คำตอบใน ' + range, value: num(d.answers), src: 'db', fresh: 'สด', pill: d.answers ? ['ถูก ' + num(d.accuracy) + '%', d.accuracy >= 70 ? 'good' : 'warn'] : null, spark: (d.daily || []).map((x) => x.answers), sub: num(d.players) + ' คนเล่น' }) +
-        O.metric({ label: 'ภาพที่ถูกแจ้ง · ' + range, value: num((d.reports || []).length), src: 'events', fresh: 'ทันที', pill: rep ? [num(rep) + ' ครั้ง', 'warn'] : ['ไม่มี', 'good'], sub: 'กดแจ้งจากในเกม' }) +
+        O.metric({ label: 'แจ้งปัญหา · ' + range, value: num((d.reports || []).length), src: 'events', fresh: 'ทันที', pill: rep ? [num(rep) + ' ครั้ง', 'warn'] : ['ไม่มี', 'good'], sub: 'กดแจ้งจากในเกม' }) +
         '</div>';
       h += '<div class="grid"><div class="c5">' + standing(d) + '</div><div class="c7">' + reports(d, range) + '</div></div>';
       h += missed(d, range);
