@@ -84,7 +84,8 @@
   };
   // Event names that mean something went wrong (drawn in red).
   O.BAD_EVENT = { error: 1, submit_rejected: 1, auth_fail: 1, session_lost: 1 };
-  O.SCREEN = { home: 'หน้าหลัก', worlds: 'เวิลด์', battle: 'ต่อสู้', progress: 'ความสำเร็จ', shop: 'ร้านค้า' };
+  // Tabs since app 1.3.0: rooms + ladder; worlds/progress are older builds.
+  O.SCREEN = { home: 'หน้าหลัก', rooms: 'ห้องเรียน', ladder: 'บันได', battle: 'ต่อสู้', shop: 'ร้านค้า', worlds: 'ห้องเรียน (เวิลด์)', progress: 'ความสำเร็จ' };
   O.MOOD = { 1: ['😞', 'ไม่ชอบ', 'crit'], 2: ['😐', 'เฉยๆ', 'warn'], 3: ['😊', 'ชอบ', 'good'] };
   O.spark = (series, big) => {
     const s = (series || []).map((v) => Number(v) || 0);
