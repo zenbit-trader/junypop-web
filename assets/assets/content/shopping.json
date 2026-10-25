@@ -208,7 +208,8 @@
         "store",
         "stall",
         "ship"
-      ]
+      ],
+      "image": "words/shop.webp"
     },
     {
       "id": "department_store",
@@ -226,7 +227,8 @@
         "convenience store",
         "supermarket",
         "apartment"
-      ]
+      ],
+      "image": "words/department_store.webp"
     },
     {
       "id": "floor",
@@ -244,7 +246,8 @@
         "flour",
         "ceiling",
         "stairs"
-      ]
+      ],
+      "image": "words/floor.webp"
     },
     {
       "id": "escalator",
@@ -338,7 +341,8 @@
         "exit",
         "entry fee",
         "elevator"
-      ]
+      ],
+      "image": "words/entrance.webp"
     },
     {
       "id": "food_court",
@@ -413,7 +417,8 @@
         "closed",
         "opened",
         "oven"
-      ]
+      ],
+      "image": "words/open.webp"
     },
     {
       "id": "closed",
@@ -431,7 +436,8 @@
         "open",
         "close",
         "closet"
-      ]
+      ],
+      "image": "words/closed.webp"
     },
     {
       "id": "size",
@@ -449,7 +455,8 @@
         "side",
         "prize",
         "shape"
-      ]
+      ],
+      "image": "words/size.webp"
     },
     {
       "id": "small",
@@ -467,7 +474,8 @@
         "little",
         "short",
         "smell"
-      ]
+      ],
+      "image": "words/small.webp"
     },
     {
       "id": "medium",
@@ -485,7 +493,8 @@
         "middle",
         "medium rare",
         "media"
-      ]
+      ],
+      "image": "words/medium.webp"
     },
     {
       "id": "large",
@@ -503,7 +512,8 @@
         "big",
         "long",
         "huge"
-      ]
+      ],
+      "image": "words/large.webp"
     },
     {
       "id": "try_on",
@@ -540,7 +550,8 @@
         "suit",
         "match",
         "fat"
-      ]
+      ],
+      "image": "words/fit.webp"
     },
     {
       "id": "tight",
@@ -596,7 +607,8 @@
         "colour",
         "collar",
         "cooler"
-      ]
+      ],
+      "image": "words/color.webp"
     },
     {
       "id": "style",
@@ -614,7 +626,8 @@
         "steel",
         "smile",
         "stale"
-      ]
+      ],
+      "image": "words/style.webp"
     },
     {
       "id": "brand",
@@ -632,7 +645,8 @@
         "bread",
         "band",
         "brain"
-      ]
+      ],
+      "image": "words/brand.webp"
     },
     {
       "id": "fashion",
@@ -650,7 +664,8 @@
         "passion",
         "fiction",
         "function"
-      ]
+      ],
+      "image": "words/fashion.webp"
     },
     {
       "id": "mirror",
@@ -706,7 +721,8 @@
         "price",
         "coast",
         "cause"
-      ]
+      ],
+      "image": "words/cost.webp"
     },
     {
       "id": "afford",
@@ -724,7 +740,8 @@
         "offer",
         "award",
         "effort"
-      ]
+      ],
+      "image": "words/afford.webp"
     },
     {
       "id": "budget",
@@ -742,7 +759,8 @@
         "wallet",
         "gadget",
         "basket"
-      ]
+      ],
+      "image": "words/budget.webp"
     },
     {
       "id": "sale",
@@ -779,7 +797,8 @@
         "for sale",
         "sold out",
         "on hold"
-      ]
+      ],
+      "image": "words/on_sale.webp"
     },
     {
       "id": "promotion",
@@ -797,7 +816,8 @@
         "position",
         "permission",
         "pollution"
-      ]
+      ],
+      "image": "words/promotion.webp"
     },
     {
       "id": "special_offer",
@@ -815,7 +835,8 @@
         "special order",
         "final offer",
         "special officer"
-      ]
+      ],
+      "image": "words/special_offer.webp"
     },
     {
       "id": "buy_one_get_one",
@@ -833,7 +854,8 @@
         "half price",
         "two for one",
         "free gift"
-      ]
+      ],
+      "image": "words/buy_one_get_one.webp"
     },
     {
       "id": "half_price",
@@ -851,7 +873,8 @@
         "full price",
         "high price",
         "happy hour"
-      ]
+      ],
+      "image": "words/half_price.webp"
     },
     {
       "id": "bargain",
@@ -926,7 +949,8 @@
         "bank",
         "notebook",
         "coin"
-      ]
+      ],
+      "image": "words/banknote.webp"
     },
     {
       "id": "purse",
@@ -1039,7 +1063,8 @@
         "isle",
         "row",
         "ice"
-      ]
+      ],
+      "image": "words/aisle.webp"
     },
     {
       "id": "checkout",
@@ -1057,7 +1082,8 @@
         "check-in",
         "checklist",
         "cashier"
-      ]
+      ],
+      "image": "words/checkout.webp"
     },
     {
       "id": "barcode",
@@ -1075,7 +1101,8 @@
         "QR code",
         "password",
         "postcode"
-      ]
+      ],
+      "image": "words/barcode.webp"
     },
     {
       "id": "plastic_bag",
@@ -1131,7 +1158,8 @@
         "delivery date",
         "birth date",
         "due date"
-      ]
+      ],
+      "image": "words/expiry_date.webp"
     },
     {
       "id": "fresh_market",
@@ -1149,7 +1177,8 @@
         "supermarket",
         "night market",
         "stock market"
-      ]
+      ],
+      "image": "words/fresh_market.webp"
     },
     {
       "id": "instant_noodles",
@@ -1300,7 +1329,8 @@
         "guarantee",
         "warrior",
         "warning"
-      ]
+      ],
+      "image": "words/warranty.webp"
     },
     {
       "id": "model",
@@ -1318,7 +1348,8 @@
         "medal",
         "module",
         "mode"
-      ]
+      ],
+      "image": "words/model.webp"
     },
     {
       "id": "screen",
@@ -1336,7 +1367,8 @@
         "scene",
         "screen protector",
         "cream"
-      ]
+      ],
+      "image": "words/screen.webp"
     },
     {
       "id": "memory",
@@ -1373,7 +1405,8 @@
         "worthless",
         "wired",
         "useless"
-      ]
+      ],
+      "image": "words/wireless.webp"
     },
     {
       "id": "gadget",
@@ -1391,7 +1424,8 @@
         "budget",
         "garage",
         "gate"
-      ]
+      ],
+      "image": "words/gadget.webp"
     },
     {
       "id": "accessory",
@@ -1409,7 +1443,8 @@
         "necessary",
         "success",
         "battery"
-      ]
+      ],
+      "image": "words/accessory.webp"
     },
     {
       "id": "phone_case",
@@ -1503,7 +1538,8 @@
         "change",
         "refund",
         "charge"
-      ]
+      ],
+      "image": "words/exchange.webp"
     },
     {
       "id": "return",
@@ -1521,7 +1557,8 @@
         "refund",
         "turn",
         "retry"
-      ]
+      ],
+      "image": "words/return.webp"
     },
     {
       "id": "installment",
@@ -1539,7 +1576,8 @@
         "installation",
         "instant",
         "investment"
-      ]
+      ],
+      "image": "words/installment.webp"
     },
     {
       "id": "debit_card",
@@ -1557,7 +1595,8 @@
         "credit card",
         "member card",
         "SIM card"
-      ]
+      ],
+      "image": "words/debit_card.webp"
     },
     {
       "id": "mobile_banking",
@@ -1575,7 +1614,8 @@
         "internet cafe",
         "mobile phone",
         "piggy bank"
-      ]
+      ],
+      "image": "words/mobile_banking.webp"
     },
     {
       "id": "qr_code",
@@ -1631,7 +1671,8 @@
         "credit card",
         "name card",
         "post card"
-      ]
+      ],
+      "image": "words/member_card.webp"
     },
     {
       "id": "points",
@@ -1649,7 +1690,8 @@
         "prints",
         "paint",
         "pounds"
-      ]
+      ],
+      "image": "words/points.webp"
     },
     {
       "id": "voucher",
@@ -1686,7 +1728,8 @@
         "voucher",
         "cannon",
         "croissant"
-      ]
+      ],
+      "image": "words/coupon.webp"
     },
     {
       "id": "out_of_stock",
@@ -1723,7 +1766,8 @@
         "out of stock",
         "in store",
         "stuck"
-      ]
+      ],
+      "image": "words/in_stock.webp"
     },
     {
       "id": "online_shopping",
@@ -1760,7 +1804,8 @@
         "add to wishlist",
         "check out",
         "carry out"
-      ]
+      ],
+      "image": "words/add_to_cart.webp"
     },
     {
       "id": "shipping",
@@ -1797,7 +1842,8 @@
         "free sample",
         "fast shipping",
         "free size"
-      ]
+      ],
+      "image": "words/free_shipping.webp"
     },
     {
       "id": "track",
@@ -1853,7 +1899,8 @@
         "credit card",
         "bank transfer",
         "cash back"
-      ]
+      ],
+      "image": "words/cash_on_delivery.webp"
     },
     {
       "id": "review",
@@ -1890,7 +1937,8 @@
         "review",
         "eating",
         "ranking"
-      ]
+      ],
+      "image": "words/rating.webp"
     },
     {
       "id": "seller",
@@ -1908,7 +1956,8 @@
         "buyer",
         "cellar",
         "teller"
-      ]
+      ],
+      "image": "words/seller.webp"
     },
     {
       "id": "buyer",
@@ -1926,7 +1975,8 @@
         "seller",
         "lawyer",
         "byer"
-      ]
+      ],
+      "image": "words/buyer.webp"
     },
     {
       "id": "flash_sale",
@@ -1963,7 +2013,8 @@
         "checklist",
         "playlist",
         "shopping list"
-      ]
+      ],
+      "image": "words/wishlist.webp"
     },
     {
       "id": "delivery_fee",
@@ -1981,7 +2032,8 @@
         "delivery man",
         "service charge",
         "free delivery"
-      ]
+      ],
+      "image": "words/delivery_fee.webp"
     }
   ]
 }

@@ -29,7 +29,8 @@
           "two_factor",
           "delete_account",
           "notification"
-        ]
+        ],
+        "image": "lessons/social_media_1.webp"
       },
       {
         "id": "social_media_2",
@@ -51,7 +52,8 @@
           "delete_post",
           "feed",
           "scroll"
-        ]
+        ],
+        "image": "lessons/social_media_2.webp"
       },
       {
         "id": "social_media_3",
@@ -73,7 +75,8 @@
           "double_tap",
           "timeline",
           "trending"
-        ]
+        ],
+        "image": "lessons/social_media_3.webp"
       },
       {
         "id": "social_media_4",
@@ -95,7 +98,8 @@
           "group_chat",
           "seen",
           "typing"
-        ]
+        ],
+        "image": "lessons/social_media_4.webp"
       },
       {
         "id": "social_media_5",
@@ -117,7 +121,8 @@
           "video",
           "replay",
           "algorithm"
-        ]
+        ],
+        "image": "lessons/social_media_5.webp"
       },
       {
         "id": "social_media_6",
@@ -139,7 +144,8 @@
           "affiliate",
           "unboxing",
           "ad"
-        ]
+        ],
+        "image": "lessons/social_media_6.webp"
       },
       {
         "id": "social_media_7",
@@ -161,7 +167,8 @@
           "fomo",
           "meme",
           "detox"
-        ]
+        ],
+        "image": "lessons/social_media_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "sign in",
         "signal",
         "single"
-      ]
+      ],
+      "image": "words/sign_up.webp"
     },
     {
       "id": "log_out",
@@ -200,7 +208,8 @@
         "lock out",
         "lay out",
         "log in"
-      ]
+      ],
+      "image": "words/log_out.webp"
     },
     {
       "id": "forgot_password",
@@ -218,7 +227,8 @@
         "forget password",
         "forward password",
         "found password"
-      ]
+      ],
+      "image": "words/forgot_password.webp"
     },
     {
       "id": "profile",
@@ -236,7 +246,8 @@
         "profit",
         "prophet",
         "propose"
-      ]
+      ],
+      "image": "words/profile.webp"
     },
     {
       "id": "profile_picture",
@@ -254,7 +265,8 @@
         "profile printer",
         "private picture",
         "perfect picture"
-      ]
+      ],
+      "image": "words/profile_picture.webp"
     },
     {
       "id": "cover_photo",
@@ -272,7 +284,8 @@
         "corner photo",
         "clever photo",
         "cover phone"
-      ]
+      ],
+      "image": "words/cover_photo.webp"
     },
     {
       "id": "bio",
@@ -290,7 +303,8 @@
         "biology",
         "bingo",
         "bidet"
-      ]
+      ],
+      "image": "words/bio.webp"
     },
     {
       "id": "handle",
@@ -308,7 +322,8 @@
         "handbag",
         "candle",
         "handful"
-      ]
+      ],
+      "image": "words/handle.webp"
     },
     {
       "id": "verified",
@@ -326,7 +341,8 @@
         "various",
         "verbal",
         "vertical"
-      ]
+      ],
+      "image": "words/verified.webp"
     },
     {
       "id": "settings",
@@ -344,7 +360,8 @@
         "sittings",
         "sending",
         "seating"
-      ]
+      ],
+      "image": "words/settings.webp"
     },
     {
       "id": "privacy",
@@ -362,7 +379,8 @@
         "piracy",
         "priority",
         "province"
-      ]
+      ],
+      "image": "words/privacy.webp"
     },
     {
       "id": "two_factor",
@@ -380,7 +398,8 @@
         "true factor",
         "two feature",
         "top factor"
-      ]
+      ],
+      "image": "words/two_factor.webp"
     },
     {
       "id": "delete_account",
@@ -398,7 +417,8 @@
         "delay account",
         "delete amount",
         "detect account"
-      ]
+      ],
+      "image": "words/delete_account.webp"
     },
     {
       "id": "notification",
@@ -416,7 +436,8 @@
         "notation",
         "identification",
         "modification"
-      ]
+      ],
+      "image": "words/notification.webp"
     },
     {
       "id": "post",
@@ -434,7 +455,8 @@
         "past",
         "pose",
         "port"
-      ]
+      ],
+      "image": "words/post.webp"
     },
     {
       "id": "upload",
@@ -452,7 +474,8 @@
         "unload",
         "update",
         "uphold"
-      ]
+      ],
+      "image": "words/upload.webp"
     },
     {
       "id": "caption",
@@ -470,7 +493,8 @@
         "capture",
         "captain",
         "carton"
-      ]
+      ],
+      "image": "words/caption.webp"
     },
     {
       "id": "hashtag",
@@ -488,7 +512,8 @@
         "hash brown",
         "handbag",
         "hatch tag"
-      ]
+      ],
+      "image": "words/hashtag.webp"
     },
     {
       "id": "tag",
@@ -506,7 +531,8 @@
         "tap",
         "tank",
         "tab"
-      ]
+      ],
+      "image": "words/tag.webp"
     },
     {
       "id": "mention",
@@ -524,7 +550,8 @@
         "mansion",
         "motion",
         "machine"
-      ]
+      ],
+      "image": "words/mention.webp"
     },
     {
       "id": "album",
@@ -542,7 +569,8 @@
         "alarm",
         "allow",
         "alone"
-      ]
+      ],
+      "image": "words/album.webp"
     },
     {
       "id": "photo_filter",
@@ -560,7 +588,8 @@
         "folder",
         "flatter",
         "fighter"
-      ]
+      ],
+      "image": "words/photo_filter.webp"
     },
     {
       "id": "crop",
@@ -578,7 +607,8 @@
         "drop",
         "crab",
         "chop"
-      ]
+      ],
+      "image": "words/crop.webp"
     },
     {
       "id": "edit_post",
@@ -596,7 +626,8 @@
         "exit",
         "eddy",
         "audit"
-      ]
+      ],
+      "image": "words/edit_post.webp"
     },
     {
       "id": "pin_post",
@@ -614,7 +645,8 @@
         "pen",
         "pink",
         "ping"
-      ]
+      ],
+      "image": "words/pin_post.webp"
     },
     {
       "id": "delete_post",
@@ -632,7 +664,8 @@
         "delay",
         "dilute",
         "deplete"
-      ]
+      ],
+      "image": "words/delete_post.webp"
     },
     {
       "id": "feed",
@@ -650,7 +683,8 @@
         "fee",
         "field",
         "fried"
-      ]
+      ],
+      "image": "words/feed.webp"
     },
     {
       "id": "scroll",
@@ -668,7 +702,8 @@
         "school",
         "stroll",
         "screw"
-      ]
+      ],
+      "image": "words/scroll.webp"
     },
     {
       "id": "like",
@@ -686,7 +721,8 @@
         "lick",
         "lake",
         "lie"
-      ]
+      ],
+      "image": "words/like.webp"
     },
     {
       "id": "react",
@@ -704,7 +740,8 @@
         "reach",
         "record",
         "retreat"
-      ]
+      ],
+      "image": "words/react.webp"
     },
     {
       "id": "emoji",
@@ -722,7 +759,8 @@
         "emotion",
         "energy",
         "enemy"
-      ]
+      ],
+      "image": "words/emoji.webp"
     },
     {
       "id": "sticker",
@@ -740,7 +778,8 @@
         "sticky",
         "striker",
         "stacker"
-      ]
+      ],
+      "image": "words/sticker.webp"
     },
     {
       "id": "repost",
@@ -758,7 +797,8 @@
         "report",
         "request",
         "respond"
-      ]
+      ],
+      "image": "words/repost.webp"
     },
     {
       "id": "quote",
@@ -776,7 +816,8 @@
         "quiet",
         "quite",
         "queue"
-      ]
+      ],
+      "image": "words/quote.webp"
     },
     {
       "id": "thread",
@@ -794,7 +835,8 @@
         "bread",
         "threat",
         "tread"
-      ]
+      ],
+      "image": "words/thread.webp"
     },
     {
       "id": "poll",
@@ -812,7 +854,8 @@
         "pole",
         "pull",
         "pool"
-      ]
+      ],
+      "image": "words/poll.webp"
     },
     {
       "id": "bookmark",
@@ -830,7 +873,8 @@
         "bookshop",
         "boomark",
         "birthmark"
-      ]
+      ],
+      "image": "words/bookmark.webp"
     },
     {
       "id": "screenshot",
@@ -848,7 +892,8 @@
         "screen saver",
         "screwdriver",
         "scoreboard"
-      ]
+      ],
+      "image": "words/screenshot.webp"
     },
     {
       "id": "swipe",
@@ -866,7 +911,8 @@
         "wipe",
         "swing",
         "sweep"
-      ]
+      ],
+      "image": "words/swipe.webp"
     },
     {
       "id": "double_tap",
@@ -884,7 +930,8 @@
         "double top",
         "doubt tap",
         "bubble tap"
-      ]
+      ],
+      "image": "words/double_tap.webp"
     },
     {
       "id": "timeline",
@@ -902,7 +949,8 @@
         "timetable",
         "tightline",
         "timeless"
-      ]
+      ],
+      "image": "words/timeline.webp"
     },
     {
       "id": "trending",
@@ -920,7 +968,8 @@
         "training",
         "trembling",
         "tending"
-      ]
+      ],
+      "image": "words/trending.webp"
     },
     {
       "id": "follow",
@@ -938,7 +987,8 @@
         "hollow",
         "fellow",
         "flow"
-      ]
+      ],
+      "image": "words/follow.webp"
     },
     {
       "id": "unfollow",
@@ -956,7 +1006,8 @@
         "unfold",
         "unfair",
         "unhappy"
-      ]
+      ],
+      "image": "words/unfollow.webp"
     },
     {
       "id": "friend_request",
@@ -974,7 +1025,8 @@
         "friend receipt",
         "front request",
         "friendly quest"
-      ]
+      ],
+      "image": "words/friend_request.webp"
     },
     {
       "id": "add_friend",
@@ -992,7 +1044,8 @@
         "and friend",
         "aid friend",
         "old friend"
-      ]
+      ],
+      "image": "words/add_friend.webp"
     },
     {
       "id": "mutual",
@@ -1010,7 +1063,8 @@
         "musical friend",
         "manual friend",
         "monthly friend"
-      ]
+      ],
+      "image": "words/mutual.webp"
     },
     {
       "id": "block",
@@ -1028,7 +1082,8 @@
         "black",
         "brick",
         "clock"
-      ]
+      ],
+      "image": "words/block.webp"
     },
     {
       "id": "mute",
@@ -1046,7 +1101,8 @@
         "moot",
         "mud",
         "meet"
-      ]
+      ],
+      "image": "words/mute.webp"
     },
     {
       "id": "unblock",
@@ -1064,7 +1120,8 @@
         "unlock",
         "unpack",
         "undock"
-      ]
+      ],
+      "image": "words/unblock.webp"
     },
     {
       "id": "close_friends",
@@ -1082,7 +1139,8 @@
         "closed friends",
         "cloth friends",
         "clear friends"
-      ]
+      ],
+      "image": "words/close_friends.webp"
     },
     {
       "id": "subscriber",
@@ -1100,7 +1158,8 @@
         "describer",
         "subtitle",
         "submarine"
-      ]
+      ],
+      "image": "words/subscriber.webp"
     },
     {
       "id": "dm",
@@ -1118,7 +1177,8 @@
         "DJ",
         "AM",
         "DVD"
-      ]
+      ],
+      "image": "words/dm.webp"
     },
     {
       "id": "group_chat",
@@ -1136,7 +1196,8 @@
         "grape chat",
         "group cheat",
         "ground chat"
-      ]
+      ],
+      "image": "words/group_chat.webp"
     },
     {
       "id": "seen",
@@ -1154,7 +1215,8 @@
         "scene",
         "sign",
         "soon"
-      ]
+      ],
+      "image": "words/seen.webp"
     },
     {
       "id": "typing",
@@ -1172,7 +1234,8 @@
         "tipping",
         "tapping",
         "tying"
-      ]
+      ],
+      "image": "words/typing.webp"
     },
     {
       "id": "story",
@@ -1190,7 +1253,8 @@
         "storage",
         "sturdy",
         "stormy"
-      ]
+      ],
+      "image": "words/story.webp"
     },
     {
       "id": "reel",
@@ -1208,7 +1272,8 @@
         "real",
         "rail",
         "roll"
-      ]
+      ],
+      "image": "words/reel.webp"
     },
     {
       "id": "go_live",
@@ -1226,7 +1291,8 @@
         "go life",
         "go leave",
         "go lift"
-      ]
+      ],
+      "image": "words/go_live.webp"
     },
     {
       "id": "livestream",
@@ -1244,7 +1310,8 @@
         "life stream",
         "lifestyle",
         "livestock"
-      ]
+      ],
+      "image": "words/livestream.webp"
     },
     {
       "id": "thumbnail",
@@ -1262,7 +1329,8 @@
         "thumbtack",
         "thimble",
         "trumpet"
-      ]
+      ],
+      "image": "words/thumbnail.webp"
     },
     {
       "id": "vlog",
@@ -1280,7 +1348,8 @@
         "blog",
         "clog",
         "flog"
-      ]
+      ],
+      "image": "words/vlog.webp"
     },
     {
       "id": "podcast",
@@ -1298,7 +1367,8 @@
         "postcard",
         "broadcast",
         "podium"
-      ]
+      ],
+      "image": "words/podcast.webp"
     },
     {
       "id": "playlist",
@@ -1316,7 +1386,8 @@
         "play later",
         "pay list",
         "price list"
-      ]
+      ],
+      "image": "words/playlist.webp"
     },
     {
       "id": "subtitle",
@@ -1334,7 +1405,8 @@
         "suitable",
         "substitute",
         "subtotal"
-      ]
+      ],
+      "image": "words/subtitle.webp"
     },
     {
       "id": "voice_over",
@@ -1352,7 +1424,8 @@
         "voice mail",
         "vice over",
         "voice order"
-      ]
+      ],
+      "image": "words/voice_over.webp"
     },
     {
       "id": "duet",
@@ -1370,7 +1443,8 @@
         "duel",
         "debut",
         "quiet"
-      ]
+      ],
+      "image": "words/duet.webp"
     },
     {
       "id": "video",
@@ -1388,7 +1462,8 @@
         "radio",
         "widow",
         "visit"
-      ]
+      ],
+      "image": "words/video.webp"
     },
     {
       "id": "replay",
@@ -1406,7 +1481,8 @@
         "reply",
         "repair",
         "relay"
-      ]
+      ],
+      "image": "words/replay.webp"
     },
     {
       "id": "algorithm",
@@ -1424,7 +1500,8 @@
         "allergy",
         "logarithm",
         "aluminium"
-      ]
+      ],
+      "image": "words/algorithm.webp"
     },
     {
       "id": "creator",
@@ -1442,7 +1519,8 @@
         "creature",
         "curator",
         "cleaner"
-      ]
+      ],
+      "image": "words/creator.webp"
     },
     {
       "id": "sponsor",
@@ -1460,7 +1538,8 @@
         "sponge",
         "spinner",
         "sensor"
-      ]
+      ],
+      "image": "words/sponsor.webp"
     },
     {
       "id": "sponsored_post",
@@ -1478,7 +1557,8 @@
         "sponsored port",
         "sponsor post",
         "sponsored past"
-      ]
+      ],
+      "image": "words/sponsored_post.webp"
     },
     {
       "id": "brand_deal",
@@ -1496,7 +1576,8 @@
         "brand dial",
         "bread deal",
         "brave deal"
-      ]
+      ],
+      "image": "words/brand_deal.webp"
     },
     {
       "id": "collab",
@@ -1514,7 +1595,8 @@
         "collapse",
         "collar",
         "college"
-      ]
+      ],
+      "image": "words/collab.webp"
     },
     {
       "id": "shoutout",
@@ -1532,7 +1614,8 @@
         "shortcut",
         "shutout",
         "shootout"
-      ]
+      ],
+      "image": "words/shoutout.webp"
     },
     {
       "id": "giveaway",
@@ -1550,7 +1633,8 @@
         "getaway",
         "giveback",
         "gateway"
-      ]
+      ],
+      "image": "words/giveaway.webp"
     },
     {
       "id": "monetize",
@@ -1568,7 +1652,8 @@
         "memorize",
         "modernize",
         "motorize"
-      ]
+      ],
+      "image": "words/monetize.webp"
     },
     {
       "id": "engagement",
@@ -1586,7 +1671,8 @@
         "enjoyment",
         "engine room",
         "enlargement"
-      ]
+      ],
+      "image": "words/engagement.webp"
     },
     {
       "id": "reach",
@@ -1604,7 +1690,8 @@
         "rich",
         "reef",
         "ranch"
-      ]
+      ],
+      "image": "words/reach.webp"
     },
     {
       "id": "insight",
@@ -1622,7 +1709,8 @@
         "inside",
         "eyesight",
         "incite"
-      ]
+      ],
+      "image": "words/insight.webp"
     },
     {
       "id": "affiliate",
@@ -1640,7 +1728,8 @@
         "affiliate line",
         "affordable link",
         "official link"
-      ]
+      ],
+      "image": "words/affiliate.webp"
     },
     {
       "id": "unboxing",
@@ -1658,7 +1747,8 @@
         "unpacking",
         "unbooking",
         "unblocking"
-      ]
+      ],
+      "image": "words/unboxing.webp"
     },
     {
       "id": "ad",
@@ -1676,7 +1766,8 @@
         "add",
         "aid",
         "app"
-      ]
+      ],
+      "image": "words/ad.webp"
     },
     {
       "id": "troll",
@@ -1694,7 +1785,8 @@
         "trolley",
         "toll",
         "drill"
-      ]
+      ],
+      "image": "words/troll.webp"
     },
     {
       "id": "hater",
@@ -1712,7 +1804,8 @@
         "heater",
         "hatter",
         "later"
-      ]
+      ],
+      "image": "words/hater.webp"
     },
     {
       "id": "cyberbullying",
@@ -1730,7 +1823,8 @@
         "cyber shopping",
         "cyberbanking",
         "cyclebullying"
-      ]
+      ],
+      "image": "words/cyberbullying.webp"
     },
     {
       "id": "fake_news",
@@ -1748,7 +1842,8 @@
         "face news",
         "fake nose",
         "fast news"
-      ]
+      ],
+      "image": "words/fake_news.webp"
     },
     {
       "id": "clickbait",
@@ -1766,7 +1861,8 @@
         "click bite",
         "cricket bat",
         "clip boat"
-      ]
+      ],
+      "image": "words/clickbait.webp"
     },
     {
       "id": "scam",
@@ -1784,7 +1880,8 @@
         "scan",
         "spam",
         "slam"
-      ]
+      ],
+      "image": "words/scam.webp"
     },
     {
       "id": "report_post",
@@ -1802,7 +1899,8 @@
         "repair a post",
         "reply a post",
         "resort a post"
-      ]
+      ],
+      "image": "words/report_post.webp"
     },
     {
       "id": "guidelines",
@@ -1820,7 +1918,8 @@
         "community guidebooks",
         "commodity guidelines",
         "community grandlines"
-      ]
+      ],
+      "image": "words/guidelines.webp"
     },
     {
       "id": "cringe",
@@ -1838,7 +1937,8 @@
         "fringe",
         "crunch",
         "change"
-      ]
+      ],
+      "image": "words/cringe.webp"
     },
     {
       "id": "vibe",
@@ -1856,7 +1956,8 @@
         "vile",
         "bribe",
         "vice"
-      ]
+      ],
+      "image": "words/vibe.webp"
     },
     {
       "id": "flex",
@@ -1874,7 +1975,8 @@
         "flax",
         "flee",
         "fled"
-      ]
+      ],
+      "image": "words/flex.webp"
     },
     {
       "id": "fomo",
@@ -1892,7 +1994,8 @@
         "FOMU",
         "FOBO",
         "FORM"
-      ]
+      ],
+      "image": "words/fomo.webp"
     },
     {
       "id": "meme",
@@ -1910,7 +2013,8 @@
         "mime",
         "memo",
         "mean"
-      ]
+      ],
+      "image": "words/meme.webp"
     },
     {
       "id": "detox",
@@ -1928,7 +2032,8 @@
         "digital deluxe",
         "digital detail",
         "digital dentist"
-      ]
+      ],
+      "image": "words/detox.webp"
     }
   ]
 }

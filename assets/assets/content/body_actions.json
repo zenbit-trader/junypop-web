@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "body_actions",
+    "name_en": "Body & Actions",
+    "name_th": "ร่างกายและท่าทาง",
+    "emoji": "🙆",
+    "color_start": "#FFC4A3",
+    "color_end": "#F2665E",
+    "description_th": "ชี้ส่วนต่างๆ ของร่างกายได้ทุกจุด ตั้งแต่หน้าผากถึงส้นเท้า พร้อมท่าทาง สีหน้า และการขยับตัวที่ใช้ทุกวัน",
+    "mascot_costume": "casual",
+    "lessons": [
+      {
+        "id": "body_actions_1",
+        "title_en": "Head & Face",
+        "title_th": "หัวและใบหน้า",
+        "emoji": "😛",
+        "word_ids": [
+          "face",
+          "forehead",
+          "cheek",
+          "dimple",
+          "chin",
+          "jaw",
+          "lips",
+          "tongue",
+          "nostril",
+          "beard",
+          "mustache",
+          "bald",
+          "neck",
+          "skull"
+        ],
+        "image": "lessons/body_actions_1.webp"
+      },
+      {
+        "id": "body_actions_2",
+        "title_en": "Body, Arms & Hands",
+        "title_th": "ลำตัว แขน และมือ",
+        "emoji": "💪",
+        "word_ids": [
+          "body",
+          "shoulder",
+          "chest",
+          "armpit",
+          "elbow",
+          "forearm",
+          "wrist",
+          "palm",
+          "finger",
+          "thumb",
+          "fingernail",
+          "knuckle",
+          "fist",
+          "handprint"
+        ],
+        "image": "lessons/body_actions_2.webp"
+      },
+      {
+        "id": "body_actions_3",
+        "title_en": "Belly, Legs & Feet",
+        "title_th": "ท้อง ขา และเท้า",
+        "emoji": "🦶",
+        "word_ids": [
+          "belly",
+          "belly_button",
+          "waist",
+          "hip",
+          "bottom",
+          "thigh",
+          "shin",
+          "calf",
+          "ankle",
+          "heel",
+          "toe",
+          "toenail",
+          "sole",
+          "footprint"
+        ],
+        "image": "lessons/body_actions_3.webp"
+      },
+      {
+        "id": "body_actions_4",
+        "title_en": "Gestures",
+        "title_th": "ท่าทางสื่อความหมาย",
+        "emoji": "👍",
+        "word_ids": [
+          "wave_goodbye",
+          "nod",
+          "shake_your_head",
+          "point",
+          "shrug",
+          "wink",
+          "clap",
+          "thumbs_up",
+          "high_five",
+          "bow",
+          "salute",
+          "fist_bump",
+          "fold_your_arms",
+          "cross_your_fingers"
+        ],
+        "image": "lessons/body_actions_4.webp"
+      },
+      {
+        "id": "body_actions_5",
+        "title_en": "Faces & Sounds",
+        "title_th": "สีหน้าและเสียงจากตัวเรา",
+        "emoji": "😆",
+        "word_ids": [
+          "smile",
+          "grin",
+          "laugh",
+          "giggle",
+          "cry",
+          "frown",
+          "pout",
+          "yawn",
+          "squint",
+          "stare",
+          "whisper",
+          "shout",
+          "hiccup",
+          "snore"
+        ],
+        "image": "lessons/body_actions_5.webp"
+      },
+      {
+        "id": "body_actions_6",
+        "title_en": "Moving Around",
+        "title_th": "ขยับตัวไปมา",
+        "emoji": "🤸",
+        "word_ids": [
+          "walk",
+          "run",
+          "jump",
+          "hop",
+          "tiptoe",
+          "march",
+          "dance",
+          "kneel",
+          "sit_down",
+          "stand_up",
+          "lie_down",
+          "bend_over",
+          "cartwheel",
+          "somersault"
+        ],
+        "image": "lessons/body_actions_6.webp"
+      },
+      {
+        "id": "body_actions_7",
+        "title_en": "Everyday Actions",
+        "title_th": "ทำนั่นทำนี่ด้วยร่างกาย",
+        "emoji": "🤾",
+        "word_ids": [
+          "climb",
+          "kick",
+          "throw",
+          "catch",
+          "push",
+          "pull",
+          "carry",
+          "lick",
+          "chew",
+          "bite",
+          "sniff",
+          "blow",
+          "tickle",
+          "shiver"
+        ],
+        "image": "lessons/body_actions_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "face",
+      "word": "face",
+      "pos": "noun",
+      "ipa": "/feɪs/",
+      "reading_th": "เฟซ",
+      "meaning_th": "ใบหน้า",
+      "emoji": "🧑",
+      "example_en": "Wash your face with cold water every morning.",
+      "example_th": "ล้างหน้าด้วยน้ำเย็นทุกเช้า",
+      "cefr": "A1",
+      "note_th": "ล้างหน้า = wash your face — face เป็นกริยาได้ด้วย แปลว่าเผชิญหน้าหรือหันหน้าไปทาง เช่น face the problem = เผชิญปัญหา, a room facing the sea = ห้องหันหน้าออกทะเล",
+      "distractors": [
+        "phase",
+        "fact",
+        "fake"
+      ],
+      "image": "words/face.webp"
+    },
+    {
+      "id": "forehead",
+      "word": "forehead",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrhed/",
+      "reading_th": "ฟอร์-เฮด",
+      "meaning_th": "หน้าผาก",
+      "emoji": "🤒",
+      "example_en": "Mom touched my forehead to check for a fever.",
+      "example_th": "แม่แตะหน้าผากฉันเพื่อดูว่ามีไข้ไหม",
+      "cefr": "A2",
+      "note_th": "fore- แปลว่าด้านหน้า (เหมือน forecast, foresee) + head = หัว → หน้าผาก — คนอังกฤษบางคนออกเสียงแบบดั้งเดิมว่า ฟอ-ริด ก็ไม่ผิด",
+      "distractors": [
+        "forward",
+        "foreign",
+        "forehand"
+      ],
+      "image": "words/forehead.webp"
+    },
+    {
+      "id": "cheek",
+      "word": "cheek",
+      "pos": "noun",
+      "ipa": "/tʃiːk/",
+      "reading_th": "ชีค",
+      "meaning_th": "แก้ม",
+      "emoji": "😊",
+      "example_en": "Grandma kissed me on the cheek.",
+      "example_th": "คุณยายหอมแก้มฉัน",
+      "cefr": "A2",
+      "note_th": "หอมแก้ม = kiss on the cheek — cheek ยังแปลว่าความทะเล้นได้ (What a cheek! = ทะลึ่งจริง) และ cheeky = ทะเล้น ซนๆ แบบน่าเอ็นดู",
+      "distractors": [
+        "chick",
+        "check",
+        "cheap"
+      ],
+      "image": "words/cheek.webp"
+    },
+    {
+      "id": "dimple",
+      "word": "dimple",
+      "pos": "noun",
+      "ipa": "/ˈdɪmpəl/",
+      "reading_th": "ดิม-เพิ่ล",
+      "meaning_th": "ลักยิ้ม",
+      "emoji": "☺️",
+      "example_en": "She has a cute dimple when she smiles.",
+      "example_th": "เธอมีลักยิ้มน่ารักเวลายิ้ม",
+      "cefr": "B2",
+      "note_th": "ลักยิ้มที่แก้ม = dimple ส่วนรอยบุ๋มกลางคางเรียก cleft chin — มักใช้คู่กับ have เช่น He has dimples. (มีลักยิ้มสองข้าง)",
+      "distractors": [
+        "simple",
+        "pimple",
+        "dumpling"
+      ],
+      "image": "words/dimple.webp"
+    },
+    {
+      "id": "chin",
+      "word": "chin",
+      "pos": "noun",
+      "ipa": "/tʃɪn/",
+      "reading_th": "ชิน",
+      "meaning_th": "คาง",
+      "emoji": "🤔",
+      "example_en": "He rested his chin on his hand and thought.",
+      "example_th": "เขาเอามือเท้าคางแล้วนั่งคิด",
+      "cefr": "A2",
+      "note_th": "Chin up! = เงยหน้าขึ้น อย่าท้อนะ — คางสองชั้น = double chin, เอามือเท้าคาง = rest your chin on your hand ระวังสับสนกับ shin (หน้าแข้ง) ที่เสียงคล้ายกัน",
+      "distractors": [
+        "chain",
+        "shin",
+        "chip"
+      ],
+      "image": "words/chin.webp"
+    },
+    {
+      "id": "jaw",
+      "word": "jaw",
+      "pos": "noun",
+      "ipa": "/dʒɔː/",
+      "reading_th": "จอว์",
+      "meaning_th": "ขากรรไกร",
+      "emoji": "😮",
+      "example_en": "My jaw hurts after chewing gum all day.",
+      "example_th": "ขากรรไกรฉันเจ็บหลังเคี้ยวหมากฝรั่งทั้งวัน",
+      "cefr": "B1",
+      "note_th": "jaw = ขากรรไกร (กระดูกตั้งแต่ใต้หูถึงคาง) — jaw-dropping = น่าทึ่งจนอ้าปากค้าง, My jaw dropped. = อึ้งจนอ้าปากค้าง หนังฉลาม Jaws ก็มาจากคำนี้",
+      "distractors": [
+        "draw",
+        "jar",
+        "law"
+      ],
+      "image": "words/jaw.webp"
+    },
+    {
+      "id": "lips",
+      "word": "lips",
+      "pos": "noun",
+      "ipa": "/lɪps/",
+      "reading_th": "ลิพส์",
+      "meaning_th": "ริมฝีปาก",
+      "emoji": "👄",
+      "example_en": "My lips get dry in cold weather.",
+      "example_th": "ริมฝีปากฉันแห้งตอนอากาศหนาว",
+      "cefr": "A2",
+      "note_th": "ริมฝีปากมีสองข้างจึงมักใช้ lips — ถ้าเป็นคำประกอบใช้ lip เช่น lip balm = ลิปมัน, lipstick = ลิปสติก, read lips = อ่านปาก",
+      "distractors": [
+        "lisp",
+        "laps",
+        "slips"
+      ],
+      "image": "words/lips.webp"
+    },
+    {
+      "id": "tongue",
+      "word": "tongue",
+      "pos": "noun",
+      "ipa": "/tʌŋ/",
+      "reading_th": "ทัง",
+      "meaning_th": "ลิ้น",
+      "emoji": "👅",
+      "example_en": "The doctor asked me to stick out my tongue.",
+      "example_th": "หมอขอให้ฉันแลบลิ้นออกมา",
+      "cefr": "A2",
+      "note_th": "สะกด tongue แต่ออกเสียงแค่ ทัง (ue ท้ายไม่ออกเสียง) — แลบลิ้น = stick out your tongue, mother tongue = ภาษาแม่, tongue twister = ประโยคฝึกพูดลิ้นพันกัน",
+      "distractors": [
+        "tongs",
+        "tune",
+        "tone"
+      ],
+      "image": "words/tongue.webp"
+    },
+    {
+      "id": "nostril",
+      "word": "nostril",
+      "pos": "noun",
+      "ipa": "/ˈnɑːstrəl/",
+      "reading_th": "นอส-ทริล",
+      "meaning_th": "รูจมูก",
+      "emoji": "👃",
+      "example_en": "A tiny bug flew into my nostril!",
+      "example_th": "แมลงตัวจิ๋วบินเข้ารูจมูกฉัน!",
+      "cefr": "B2",
+      "note_th": "nose = จมูกทั้งหมด ส่วน nostril = รูจมูกข้างใดข้างหนึ่ง (สองรู = nostrils) — จมูกบานตอนโกรธ = flare your nostrils",
+      "distractors": [
+        "nostalgia",
+        "nasal",
+        "ostrich"
+      ],
+      "image": "words/nostril.webp"
+    },
+    {
+      "id": "beard",
+      "word": "beard",
+      "pos": "noun",
+      "ipa": "/bɪrd/",
+      "reading_th": "เบียร์ด",
+      "meaning_th": "เครา",
+      "emoji": "🧔",
+      "example_en": "My grandpa has a long white beard.",
+      "example_th": "คุณปู่มีเคราสีขาวยาว",
+      "cefr": "A2",
+      "note_th": "beard = เคราที่คางและแก้ม ส่วนหนวดเหนือริมฝีปาก = mustache — ไว้เครา = grow a beard, โกนเครา = shave off your beard ระวังสับสนกับ bird (นก) เสียงคล้าย",
+      "distractors": [
+        "bread",
+        "bird",
+        "beer"
+      ],
+      "image": "words/beard.webp"
+    },
+    {
+      "id": "mustache",
+      "word": "mustache",
+      "pos": "noun",
+      "ipa": "/ˈmʌstæʃ/",
+      "reading_th": "มัส-แตช",
+      "meaning_th": "หนวด (เหนือริมฝีปาก)",
+      "emoji": "🥸",
+      "example_en": "Dad shaved off his mustache last week.",
+      "example_th": "พ่อโกนหนวดออกเมื่อสัปดาห์ที่แล้ว",
+      "cefr": "B1",
+      "note_th": "อเมริกันสะกด mustache อังกฤษสะกด moustache — หนวดแมวหรือหนวดหมาไม่ใช่ mustache นะ เรียก whiskers",
+      "distractors": [
+        "mustard",
+        "mistake",
+        "must-have"
+      ],
+      "image": "words/mustache.webp"
+    },
+    {
+      "id": "bald",
+      "word": "bald",
+      "pos": "adjective",
+      "ipa": "/bɔːld/",
+      "reading_th": "บอลด์",
+      "meaning_th": "หัวล้าน",
+      "emoji": "👨‍🦲",
+      "example_en": "My uncle went bald in his thirties.",
+      "example_th": "ลุงของฉันหัวล้านตั้งแต่อายุสามสิบกว่า",
+      "cefr": "B1",
+      "note_th": "เริ่มหัวล้าน = go bald (ไม่ใช่ become bald head) — bald เสียงคล้าย bold (ตัวหนา/กล้าหาญ) แต่สระต่างกัน บอลด์ vs โบลด์",
+      "distractors": [
+        "bold",
+        "ball",
+        "bolt"
+      ],
+      "image": "words/bald.webp"
+    },
+    {
+      "id": "neck",
+      "word": "neck",
+      "pos": "noun",
+      "ipa": "/nek/",
+      "reading_th": "เน็ค",
+      "meaning_th": "คอ (ด้านนอก)",
+      "emoji": "🦒",
+      "example_en": "A giraffe has a very long neck.",
+      "example_th": "ยีราฟมีคอยาวมาก",
+      "cefr": "A1",
+      "note_th": "neck = คอด้านนอก ส่วน throat = ลำคอข้างใน (เจ็บคอ = sore throat ไม่ใช่ sore neck) — สร้อยคอ = necklace มาจาก neck + lace",
+      "distractors": [
+        "nick",
+        "next",
+        "deck"
+      ],
+      "image": "words/neck.webp"
+    },
+    {
+      "id": "skull",
+      "word": "skull",
+      "pos": "noun",
+      "ipa": "/skʌl/",
+      "reading_th": "สกัล",
+      "meaning_th": "กะโหลกศีรษะ",
+      "emoji": "💀",
+      "example_en": "A helmet protects your skull when you ride a bike.",
+      "example_th": "หมวกกันน็อกช่วยปกป้องกะโหลกศีรษะเวลาขี่จักรยาน",
+      "cefr": "B1",
+      "note_th": "skull = กะโหลกศีรษะ ส่วน skeleton = โครงกระดูกทั้งตัว — ธงโจรสลัดรูปหัวกะโหลกกับกระดูกไขว้ = skull and crossbones",
+      "distractors": [
+        "skill",
+        "skunk",
+        "shell"
+      ],
+      "image": "words/skull.webp"
+    },
+    {
+      "id": "body",
+      "word": "body",
+      "pos": "noun",
+      "ipa": "/ˈbɑːdi/",
+      "reading_th": "บอ-ดี้",
+      "meaning_th": "ร่างกาย",
+      "emoji": "🧍",
+      "example_en": "Exercise is good for your body and mind.",
+      "example_th": "การออกกำลังกายดีต่อทั้งร่างกายและจิตใจ",
+      "cefr": "A1",
+      "note_th": "body = ร่างกายทั้งตัว — body language = ภาษากาย, bodyguard = บอดี้การ์ด, body lotion = โลชั่นทาตัว คนไทยใช้ทับศัพท์บ่อยมาก",
+      "distractors": [
+        "buddy",
+        "nobody",
+        "bony"
+      ],
+      "image": "words/body.webp"
+    },
+    {
+      "id": "shoulder",
+      "word": "shoulder",
+      "pos": "noun",
+      "ipa": "/ˈʃoʊldər/",
+      "reading_th": "โชล-เดอร์",
+      "meaning_th": "ไหล่",
+      "emoji": "🦜",
+      "example_en": "She carried her bag on one shoulder.",
+      "example_th": "เธอสะพายกระเป๋าไว้บนไหล่ข้างเดียว",
+      "cefr": "A2",
+      "note_th": "กระเป๋าสะพายไหล่ = shoulder bag — สำนวน a shoulder to cry on = คนที่ให้ซบร้องไห้ได้, give someone the cold shoulder = ทำเมินใส่",
+      "distractors": [
+        "soldier",
+        "older",
+        "boulder"
+      ],
+      "image": "words/shoulder.webp"
+    },
+    {
+      "id": "chest",
+      "word": "chest",
+      "pos": "noun",
+      "ipa": "/tʃest/",
+      "reading_th": "เชสท์",
+      "meaning_th": "หน้าอก",
+      "emoji": "🫁",
+      "example_en": "He took a deep breath and puffed out his chest.",
+      "example_th": "เขาหายใจลึกแล้วยืดอกขึ้น",
+      "cefr": "A2",
+      "note_th": "chest = หน้าอก ใช้ได้ทั้งชายหญิง — เจ็บหน้าอก = chest pain ต้องรีบหาหมอ, get it off your chest = ระบายความในใจ, chest ยังแปลว่าหีบได้ (treasure chest = หีบสมบัติ)",
+      "distractors": [
+        "chess",
+        "chase",
+        "cheat"
+      ],
+      "image": "words/chest.webp"
+    },
+    {
+      "id": "armpit",
+      "word": "armpit",
+      "pos": "noun",
+      "ipa": "/ˈɑːrmpɪt/",
+      "reading_th": "อาร์ม-พิท",
+      "meaning_th": "รักแร้",
+      "emoji": "🧴",
+      "example_en": "Put some deodorant under your armpits.",
+      "example_th": "ทาโรลออนระงับกลิ่นที่รักแร้หน่อย",
+      "cefr": "B1",
+      "note_th": "arm (แขน) + pit (หลุม) = รักแร้ — โรลออนระงับกลิ่นกาย = deodorant, คำสุภาพกว่าที่เห็นบนฉลากสินค้าคือ underarm",
+      "distractors": [
+        "armchair",
+        "cockpit",
+        "army"
+      ],
+      "image": "words/armpit.webp"
+    },
+    {
+      "id": "elbow",
+      "word": "elbow",
+      "pos": "noun",
+      "ipa": "/ˈelboʊ/",
+      "reading_th": "เอล-โบว์",
+      "meaning_th": "ข้อศอก",
+      "emoji": "💪",
+      "example_en": "Don't put your elbows on the dinner table.",
+      "example_th": "อย่าเท้าศอกบนโต๊ะอาหาร",
+      "cefr": "A2",
+      "note_th": "มารยาทฝรั่ง no elbows on the table = ห้ามเท้าศอกบนโต๊ะอาหาร — elbow room = พื้นที่ว่างพอให้ขยับตัว, ศอกในมวยไทย = elbow strike",
+      "distractors": [
+        "below",
+        "eyebrow",
+        "elder"
+      ],
+      "image": "words/elbow.webp"
+    },
+    {
+      "id": "forearm",
+      "word": "forearm",
+      "pos": "noun",
+      "ipa": "/ˈfɔːrɑːrm/",
+      "reading_th": "ฟอร์-อาร์ม",
+      "meaning_th": "แขนท่อนล่าง",
+      "emoji": "🦾",
+      "example_en": "He has a small tattoo on his forearm.",
+      "example_th": "เขามีรอยสักเล็กๆ ที่แขนท่อนล่าง",
+      "cefr": "B2",
+      "note_th": "forearm = แขนช่วงข้อศอกถึงข้อมือ ส่วนต้นแขนเรียก upper arm — อย่าสับสนกับ forehand (ลูกหน้ามือในเทนนิส) ที่สะกดคล้ายกัน",
+      "distractors": [
+        "forehand",
+        "firearm",
+        "forewarn"
+      ],
+      "image": "words/forearm.webp"
+    },
+    {
+      "id": "wrist",
+      "word": "wrist",
+      "pos": "noun",
+      "ipa": "/rɪst/",
+      "reading_th": "ริสท์",
+      "meaning_th": "ข้อมือ",
+      "emoji": "🫳",
+      "example_en": "She wears a thin silver bracelet on her wrist.",
+      "example_th": "เธอใส่กำไลเงินเส้นเล็กที่ข้อมือ",
+      "cefr": "A2",
+      "note_th": "w ตัวแรกไม่ออกเสียง อ่านว่า ริสท์ — นาฬิกาข้อมือ = wristwatch, สายรัดข้อมือ = wristband, ข้อมือแพลง = sprained wrist",
+      "distractors": [
+        "rest",
+        "risk",
+        "twist"
+      ],
+      "image": "words/wrist.webp"
+    },
+    {
+      "id": "palm",
+      "word": "palm",
+      "pos": "noun",
+      "ipa": "/pɑːm/",
+      "reading_th": "พาล์ม",
+      "meaning_th": "ฝ่ามือ",
+      "emoji": "🤚",
+      "example_en": "The fortune teller looked at the lines on my palm.",
+      "example_th": "หมอดูดูลายบนฝ่ามือฉัน",
+      "cefr": "B1",
+      "note_th": "l ไม่ออกเสียง อ่านว่า พาม (เหมือน calm) — ดูลายมือ = read someone's palm, palm tree = ต้นปาล์ม เพราะใบกางเหมือนฝ่ามือ",
+      "distractors": [
+        "calm",
+        "plum",
+        "pump"
+      ],
+      "image": "words/palm.webp"
+    },
+    {
+      "id": "finger",
+      "word": "finger",
+      "pos": "noun",
+      "ipa": "/ˈfɪŋɡər/",
+      "reading_th": "ฟิง-เกอร์",
+      "meaning_th": "นิ้วมือ",
+      "emoji": "🖐️",
+      "example_en": "I cut my finger while I was cooking.",
+      "example_th": "ฉันทำมีดบาดนิ้วตอนทำอาหาร",
+      "cefr": "A1",
+      "note_th": "นิ้วมือ = finger ส่วนนิ้วเท้า = toe (ไม่ใช่ foot finger!) — ฝรั่งบางคนไม่นับนิ้วโป้งเป็น finger แต่เรียก thumb แยกต่างหาก",
+      "distractors": [
+        "finer",
+        "ginger",
+        "linger"
+      ],
+      "image": "words/finger.webp"
+    },
+    {
+      "id": "thumb",
+      "word": "thumb",
+      "pos": "noun",
+      "ipa": "/θʌm/",
+      "reading_th": "ธัม",
+      "meaning_th": "นิ้วโป้ง",
+      "emoji": "🤙",
+      "example_en": "The baby is sucking his thumb.",
+      "example_th": "เด็กทารกกำลังดูดนิ้วโป้ง",
+      "cefr": "A2",
+      "note_th": "b ท้ายไม่ออกเสียง อ่านว่า ธัม — rule of thumb = หลักคร่าวๆ จากประสบการณ์, have a green thumb = มือเย็น ปลูกต้นไม้ขึ้นง่าย",
+      "distractors": [
+        "thump",
+        "dumb",
+        "theme"
+      ],
+      "image": "words/thumb.webp"
+    },
+    {
+      "id": "fingernail",
+      "word": "fingernail",
+      "pos": "noun",
+      "ipa": "/ˈfɪŋɡərneɪl/",
+      "reading_th": "ฟิง-เกอร์-เนล",
+      "meaning_th": "เล็บมือ",
+      "emoji": "💅",
+      "example_en": "Please cut your fingernails before class.",
+      "example_th": "ช่วยตัดเล็บมือก่อนเข้าเรียนด้วย",
+      "cefr": "B1",
+      "note_th": "พูดสั้นๆ ว่า nails ก็ได้ — ตัดเล็บ = cut / trim your nails, ทาเล็บ = paint your nails, ร้านทำเล็บ = nail salon",
+      "distractors": [
+        "fingerprint",
+        "fingertip",
+        "toenail"
+      ],
+      "image": "words/fingernail.webp"
+    },
+    {
+      "id": "knuckle",
+      "word": "knuckle",
+      "pos": "noun",
+      "ipa": "/ˈnʌkəl/",
+      "reading_th": "นัค-เคิ่ล",
+      "meaning_th": "ข้อนิ้วมือ",
+      "emoji": "👊",
+      "example_en": "He knocked on the door with his knuckles.",
+      "example_th": "เขาใช้ข้อนิ้วเคาะประตู",
+      "cefr": "B2",
+      "note_th": "k ตัวแรกไม่ออกเสียง อ่านว่า นัค-เคิ่ล — หักนิ้วให้ดังกร๊อบ = crack your knuckles",
+      "distractors": [
+        "buckle",
+        "knock",
+        "chuckle"
+      ],
+      "image": "words/knuckle.webp"
+    },
+    {
+      "id": "fist",
+      "word": "fist",
+      "pos": "noun",
+      "ipa": "/fɪst/",
+      "reading_th": "ฟิสท์",
+      "meaning_th": "กำปั้น",
+      "emoji": "✊",
+      "example_en": "The angry man banged his fist on the table.",
+      "example_th": "ชายที่กำลังโกรธทุบกำปั้นลงบนโต๊ะ",
+      "cefr": "B1",
+      "note_th": "กำมือแน่น = make a fist — ระวังสับสนกับ first (ที่หนึ่ง) ที่มี r เพิ่มมาตัวเดียว",
+      "distractors": [
+        "first",
+        "feast",
+        "list"
+      ],
+      "image": "words/fist.webp"
+    },
+    {
+      "id": "handprint",
+      "word": "handprint",
+      "pos": "noun",
+      "ipa": "/ˈhændprɪnt/",
+      "reading_th": "แฮนด์-พรินท์",
+      "meaning_th": "รอยฝ่ามือ",
+      "emoji": "🎨",
+      "example_en": "The kids left colorful handprints on the paper.",
+      "example_th": "เด็กๆ ปั๊มรอยมือหลากสีไว้บนกระดาษ",
+      "cefr": "A2",
+      "note_th": "hand + print (รอยพิมพ์) = รอยมือ — คำตระกูลเดียวกัน: footprint = รอยเท้า, fingerprint = ลายนิ้วมือ, pawprint = รอยเท้าสัตว์",
+      "distractors": [
+        "handout",
+        "blueprint",
+        "handstand"
+      ],
+      "image": "words/handprint.webp"
+    },
+    {
+      "id": "belly",
+      "word": "belly",
+      "pos": "noun",
+      "ipa": "/ˈbeli/",
+      "reading_th": "เบล-ลี่",
+      "meaning_th": "พุง / หน้าท้อง",
+      "emoji": "🫃",
+      "example_en": "My belly is full after that big lunch.",
+      "example_th": "ท้องฉันอิ่มแปล้หลังมื้อเที่ยงมื้อใหญ่",
+      "cefr": "A2",
+      "note_th": "belly = พุง/หน้าท้อง (ภาษาพูด) ส่วน stomach = กระเพาะ แต่ใช้แทนกันได้ในชีวิตประจำวัน — ภาษาเด็กเรียก tummy, หมูสามชั้น = pork belly",
+      "distractors": [
+        "bully",
+        "jelly",
+        "bell"
+      ],
+      "image": "words/belly.webp"
+    },
+    {
+      "id": "belly_button",
+      "word": "belly button",
+      "pos": "noun",
+      "ipa": "/ˈbeli ˌbʌtn/",
+      "reading_th": "เบล-ลี่ บัท-เทิ่น",
+      "meaning_th": "สะดือ",
+      "emoji": "🔘",
+      "example_en": "The baby giggles when I touch her belly button.",
+      "example_th": "เด็กหัวเราะคิกคักเวลาฉันแตะสะดือ",
+      "cefr": "A2",
+      "note_th": "ภาษาพูดเรียกสะดือว่า belly button ส่วนคำทางการ (หมอใช้) คือ navel — เสื้อเอวลอยโชว์สะดือ = crop top",
+      "distractors": [
+        "belly dance",
+        "push button",
+        "bellboy"
+      ],
+      "image": "words/belly_button.webp"
+    },
+    {
+      "id": "waist",
+      "word": "waist",
+      "pos": "noun",
+      "ipa": "/weɪst/",
+      "reading_th": "เวสท์",
+      "meaning_th": "เอว",
+      "emoji": "👖",
+      "example_en": "These jeans are too tight around my waist.",
+      "example_th": "กางเกงยีนส์ตัวนี้คับเอวเกินไป",
+      "cefr": "A2",
+      "note_th": "waist (เอว) ออกเสียงเหมือน waste (ขยะ/ทิ้งขว้าง) เป๊ะ ต้องดูบริบท — รอบเอว = waist size, กระเป๋าคาดเอว = waist bag",
+      "distractors": [
+        "waste",
+        "west",
+        "wait"
+      ],
+      "image": "words/waist.webp"
+    },
+    {
+      "id": "hip",
+      "word": "hip",
+      "pos": "noun",
+      "ipa": "/hɪp/",
+      "reading_th": "ฮิพ",
+      "meaning_th": "สะโพก",
+      "emoji": "🩳",
+      "example_en": "She stood with her hands on her hips.",
+      "example_th": "เธอยืนเท้าสะเอว",
+      "cefr": "A2",
+      "note_th": "ยืนเท้าสะเอว = stand with your hands on your hips (ไม่ใช่ waist!) — hip ยังเป็นคำแสลงแปลว่าเก๋ ทันสมัย เช่น a hip café",
+      "distractors": [
+        "hop",
+        "heap",
+        "ship"
+      ],
+      "image": "words/hip.webp"
+    },
+    {
+      "id": "bottom",
+      "word": "bottom",
+      "pos": "noun",
+      "ipa": "/ˈbɑːtəm/",
+      "reading_th": "บ็อท-เทิ่ม",
+      "meaning_th": "ก้น",
+      "emoji": "🍑",
+      "example_en": "The baby fell on her bottom and laughed.",
+      "example_th": "เด็กล้มก้นกระแทกพื้นแล้วหัวเราะ",
+      "cefr": "A2",
+      "note_th": "bottom = ก้น (คำสุภาพ ใช้กับเด็กได้) และยังแปลว่าก้น/ส่วนล่างสุดของสิ่งของ เช่น the bottom of the glass — คำพูดเล่นๆ คือ butt หรือ bum ใช้ให้ถูกที่",
+      "distractors": [
+        "button",
+        "bottle",
+        "blossom"
+      ],
+      "image": "words/bottom.webp"
+    },
+    {
+      "id": "thigh",
+      "word": "thigh",
+      "pos": "noun",
+      "ipa": "/θaɪ/",
+      "reading_th": "ไธ",
+      "meaning_th": "ต้นขา",
+      "emoji": "🍗",
+      "example_en": "I hurt my thigh playing football.",
+      "example_th": "ฉันเจ็บต้นขาตอนเล่นฟุตบอล",
+      "cefr": "B1",
+      "note_th": "gh ไม่ออกเสียง อ่านว่า ไธ — เนื้อไก่ส่วนสะโพก = chicken thigh ส่วนน่องไก่ = drumstick (ไม่ใช่ chicken leg อย่างเดียว)",
+      "distractors": [
+        "tight",
+        "thing",
+        "high"
+      ],
+      "image": "words/thigh.webp"
+    },
+    {
+      "id": "shin",
+      "word": "shin",
+      "pos": "noun",
+      "ipa": "/ʃɪn/",
+      "reading_th": "ชิน",
+      "meaning_th": "หน้าแข้ง",
+      "emoji": "🦵",
+      "example_en": "I banged my shin on the coffee table.",
+      "example_th": "หน้าแข้งฉันชนโต๊ะกาแฟ",
+      "cefr": "B2",
+      "note_th": "shin = หน้าแข้ง (ด้านหน้าของขาท่อนล่าง) ส่วนด้านหลังที่เป็นกล้ามคือ calf — สนับแข้งนักบอล = shin guards, เตะด้วยแข้งแบบมวยไทย = shin kick",
+      "distractors": [
+        "chin",
+        "shine",
+        "skin"
+      ],
+      "image": "words/shin.webp"
+    },
+    {
+      "id": "calf",
+      "word": "calf",
+      "pos": "noun",
+      "ipa": "/kæf/",
+      "reading_th": "คาฟ",
+      "meaning_th": "น่อง",
+      "emoji": "🥾",
+      "example_en": "I got a cramp in my left calf while swimming.",
+      "example_th": "ฉันเป็นตะคริวที่น่องซ้ายตอนว่ายน้ำ",
+      "cefr": "B1",
+      "note_th": "l ไม่ออกเสียง อ่านว่า คาฟ พหูพจน์คือ calves — calf ยังแปลว่าลูกวัวได้ด้วย, น่องไก่ไม่ใช่ calf นะ เรียก drumstick",
+      "distractors": [
+        "half",
+        "laugh",
+        "calm"
+      ],
+      "image": "words/calf.webp"
+    },
+    {
+      "id": "ankle",
+      "word": "ankle",
+      "pos": "noun",
+      "ipa": "/ˈæŋkəl/",
+      "reading_th": "แอง-เคิ่ล",
+      "meaning_th": "ข้อเท้า",
+      "emoji": "🧦",
+      "example_en": "She wears a thin gold chain around her ankle.",
+      "example_th": "เธอใส่สร้อยข้อเท้าทองเส้นเล็ก",
+      "cefr": "A2",
+      "note_th": "ข้อเท้าพลิก = twist your ankle, ถุงเท้าข้อสั้น = ankle socks, สร้อยข้อเท้า = anklet — ระวังสับสนกับ uncle (ลุง) ที่เสียงคล้ายกันมาก",
+      "distractors": [
+        "uncle",
+        "angle",
+        "ample"
+      ],
+      "image": "words/ankle.webp"
+    },
+    {
+      "id": "heel",
+      "word": "heel",
+      "pos": "noun",
+      "ipa": "/hiːl/",
+      "reading_th": "ฮีล",
+      "meaning_th": "ส้นเท้า",
+      "emoji": "👠",
+      "example_en": "These new shoes hurt my heels.",
+      "example_th": "รองเท้าคู่ใหม่กัดส้นเท้าฉัน",
+      "cefr": "A2",
+      "note_th": "heel = ส้นเท้าและส้นรองเท้า (high heels = รองเท้าส้นสูง) — ออกเสียงเหมือน heal (รักษาให้หาย) เป๊ะ, Achilles heel = จุดอ่อน",
+      "distractors": [
+        "heal",
+        "hell",
+        "wheel"
+      ],
+      "image": "words/heel.webp"
+    },
+    {
+      "id": "toe",
+      "word": "toe",
+      "pos": "noun",
+      "ipa": "/toʊ/",
+      "reading_th": "โท",
+      "meaning_th": "นิ้วเท้า",
+      "emoji": "🦶",
+      "example_en": "I stubbed my toe on the bed.",
+      "example_th": "นิ้วเท้าฉันชนขาเตียง",
+      "cefr": "A2",
+      "note_th": "นิ้วเท้า = toe ไม่ใช่ foot finger — นิ้วโป้งเท้า = big toe, from head to toe = ตั้งแต่หัวจรดเท้า, สะกดต่างจาก tow (ลากรถ) ที่เสียงเหมือนกัน",
+      "distractors": [
+        "tow",
+        "tie",
+        "top"
+      ],
+      "image": "words/toe.webp"
+    },
+    {
+      "id": "toenail",
+      "word": "toenail",
+      "pos": "noun",
+      "ipa": "/ˈtoʊneɪl/",
+      "reading_th": "โท-เนล",
+      "meaning_th": "เล็บเท้า",
+      "emoji": "✂️",
+      "example_en": "Grandpa needs help cutting his toenails.",
+      "example_th": "คุณตาต้องให้คนช่วยตัดเล็บเท้า",
+      "cefr": "B1",
+      "note_th": "toe + nail = เล็บเท้า — ทาเล็บเท้า = paint your toenails, เล็บขบ = ingrown toenail อาการที่เจอบ่อยเวลาใส่รองเท้าคับ",
+      "distractors": [
+        "toilet",
+        "fingernail",
+        "cocktail"
+      ],
+      "image": "words/toenail.webp"
+    },
+    {
+      "id": "sole",
+      "word": "sole",
+      "pos": "noun",
+      "ipa": "/soʊl/",
+      "reading_th": "โซล",
+      "meaning_th": "ฝ่าเท้า",
+      "emoji": "🩴",
+      "example_en": "The hot sand burned the soles of my feet.",
+      "example_th": "ทรายร้อนลวกฝ่าเท้าฉัน",
+      "cefr": "B2",
+      "note_th": "sole = ฝ่าเท้าและพื้นรองเท้า — ออกเสียงเหมือน soul (จิตวิญญาณ) เป๊ะ, sole ยังแปลว่าเพียงหนึ่งเดียวได้ เช่น the sole winner",
+      "distractors": [
+        "soul",
+        "sale",
+        "solo"
+      ],
+      "image": "words/sole.webp"
+    },
+    {
+      "id": "footprint",
+      "word": "footprint",
+      "pos": "noun",
+      "ipa": "/ˈfʊtprɪnt/",
+      "reading_th": "ฟุท-พรินท์",
+      "meaning_th": "รอยเท้า",
+      "emoji": "👣",
+      "example_en": "We left footprints in the wet sand.",
+      "example_th": "เราทิ้งรอยเท้าไว้บนทรายเปียก",
+      "cefr": "A2",
+      "note_th": "รอยเท้าบนพื้น = footprint — ใช้ในเรื่องสิ่งแวดล้อมด้วย carbon footprint = ปริมาณคาร์บอนที่เราปล่อย, digital footprint = ร่องรอยออนไลน์ของเรา",
+      "distractors": [
+        "footnote",
+        "footpath",
+        "fingerprint"
+      ],
+      "image": "words/footprint.webp"
+    },
+    {
+      "id": "wave_goodbye",
+      "word": "wave goodbye",
+      "pos": "phrase",
+      "ipa": "/ˌweɪv ɡʊdˈbaɪ/",
+      "reading_th": "เวฟ กู๊ด-บาย",
+      "meaning_th": "โบกมือลา",
+      "emoji": "👋",
+      "example_en": "The kids waved goodbye from the bus window.",
+      "example_th": "เด็กๆ โบกมือลาจากหน้าต่างรถบัส",
+      "cefr": "A1",
+      "note_th": "wave (กริยา) = โบกมือ — โบกมือทักทาย = wave hello, โบกมือลา = wave goodbye, โบกเรียกแท็กซี่ = wave down a taxi",
+      "distractors": [
+        "wake up",
+        "wave a flag",
+        "give up"
+      ],
+      "image": "words/wave_goodbye.webp"
+    },
+    {
+      "id": "nod",
+      "word": "nod",
+      "pos": "verb",
+      "ipa": "/nɑːd/",
+      "reading_th": "น็อด",
+      "meaning_th": "พยักหน้า",
+      "emoji": "😌",
+      "example_en": "She nodded and said, \"Yes, I agree.\"",
+      "example_th": "เธอพยักหน้าแล้วพูดว่า \"ใช่ ฉันเห็นด้วย\"",
+      "cefr": "B1",
+      "note_th": "พยักหน้า = nod (แปลว่าใช่/เห็นด้วย) ส่วนส่ายหน้า = shake your head — nod off = เผลอสัปหงก หลับคาที่",
+      "distractors": [
+        "knot",
+        "node",
+        "nap"
+      ],
+      "image": "words/nod.webp"
+    },
+    {
+      "id": "shake_your_head",
+      "word": "shake your head",
+      "pos": "phrase",
+      "ipa": "/ˌʃeɪk jər ˈhed/",
+      "reading_th": "เชค ยัวร์ เฮด",
+      "meaning_th": "ส่ายหน้า",
+      "emoji": "🙅",
+      "example_en": "Dad is shaking his head at my messy room.",
+      "example_th": "พ่อส่ายหน้ากับห้องรกๆ ของฉัน",
+      "cefr": "A2",
+      "note_th": "ส่ายหน้า = shake your head (แปลว่าไม่/ไม่เห็นด้วย) — อดีตของ shake คือ shook (He shook his head.) ระวังสับสนกับ shake hands = จับมือ",
+      "distractors": [
+        "shake hands",
+        "shave your head",
+        "scratch your head"
+      ],
+      "image": "words/shake_your_head.webp"
+    },
+    {
+      "id": "point",
+      "word": "point",
+      "pos": "verb",
+      "ipa": "/pɔɪnt/",
+      "reading_th": "พอยท์",
+      "meaning_th": "ชี้นิ้ว",
+      "emoji": "👉",
+      "example_en": "Don't point at people — it's rude.",
+      "example_th": "อย่าชี้นิ้วใส่คนอื่น มันเสียมารยาท",
+      "cefr": "A2",
+      "note_th": "point at = ชี้ไปที่ (คน/ของ) — point ยังเป็นคำนามแปลว่าประเด็นหรือคะแนน เช่น What's your point? = จะสื่ออะไร",
+      "distractors": [
+        "paint",
+        "pint",
+        "print"
+      ],
+      "image": "words/point.webp"
+    },
+    {
+      "id": "shrug",
+      "word": "shrug",
+      "pos": "verb",
+      "ipa": "/ʃrʌɡ/",
+      "reading_th": "ชรัก",
+      "meaning_th": "ยักไหล่",
+      "emoji": "🤷",
+      "example_en": "When I asked where the keys were, he just shrugged.",
+      "example_th": "พอฉันถามว่ากุญแจอยู่ไหน เขาก็แค่ยักไหล่",
+      "cefr": "B1",
+      "note_th": "ยักไหล่ = shrug แปลว่า ไม่รู้สิ/ช่างมัน — shrug off = ปัดตก ไม่ใส่ใจ เช่น shrug off the criticism, อีโมจิ 🤷 ก็คือท่านี้",
+      "distractors": [
+        "shrub",
+        "drug",
+        "shrink"
+      ],
+      "image": "words/shrug.webp"
+    },
+    {
+      "id": "wink",
+      "word": "wink",
+      "pos": "verb",
+      "ipa": "/wɪŋk/",
+      "reading_th": "วิงค์",
+      "meaning_th": "ขยิบตา",
+      "emoji": "😉",
+      "example_en": "He winked at me to show he was joking.",
+      "example_th": "เขาขยิบตาให้ฉันเพื่อบอกว่าล้อเล่น",
+      "cefr": "B1",
+      "note_th": "wink = ขยิบตาข้างเดียว (ส่งซิกหรือหยอก) ต่างจาก blink = กะพริบตาสองข้างตามธรรมชาติ — forty winks = งีบสั้นๆ",
+      "distractors": [
+        "blink",
+        "wing",
+        "pink"
+      ],
+      "image": "words/wink.webp"
+    },
+    {
+      "id": "clap",
+      "word": "clap",
+      "pos": "verb",
+      "ipa": "/klæp/",
+      "reading_th": "แคลพ",
+      "meaning_th": "ปรบมือ",
+      "emoji": "👏",
+      "example_en": "Everyone clapped at the end of the show.",
+      "example_th": "ทุกคนปรบมือตอนจบการแสดง",
+      "cefr": "A2",
+      "note_th": "ปรบมือ = clap your hands — ขอเสียงปรบมือให้ = give someone a big hand / a round of applause, a clap of thunder = เสียงฟ้าผ่าเปรี้ยง",
+      "distractors": [
+        "clip",
+        "cap",
+        "slap"
+      ],
+      "image": "words/clap.webp"
+    },
+    {
+      "id": "thumbs_up",
+      "word": "thumbs up",
+      "pos": "noun",
+      "ipa": "/ˌθʌmz ˈʌp/",
+      "reading_th": "ธัมส์ อัพ",
+      "meaning_th": "การยกนิ้วโป้งให้ (เยี่ยม!)",
+      "emoji": "👍",
+      "example_en": "The coach gave us a thumbs up after the game.",
+      "example_th": "โค้ชยกนิ้วโป้งให้พวกเราหลังจบเกม",
+      "cefr": "A2",
+      "note_th": "give someone a thumbs up = ยกนิ้วให้ แปลว่าเยี่ยม/โอเค — ตรงข้ามคือ thumbs down = ไม่ผ่าน ไม่เอา (บางประเทศถือว่าท่ายกนิ้วโป้งหยาบคาย ระวังเวลาไปเที่ยว)",
+      "distractors": [
+        "thumbs down",
+        "thumb drive",
+        "thumbtack"
+      ],
+      "image": "words/thumbs_up.webp"
+    },
+    {
+      "id": "high_five",
+      "word": "high five",
+      "pos": "noun",
+      "ipa": "/ˌhaɪ ˈfaɪv/",
+      "reading_th": "ไฮ ไฟว์",
+      "meaning_th": "ไฮไฟว์ (ตบมือกันกลางอากาศ)",
+      "emoji": "🙌",
+      "example_en": "We gave each other a high five after the goal.",
+      "example_th": "พวกเราไฮไฟว์กันหลังยิงประตูได้",
+      "cefr": "A2",
+      "note_th": "give me five! / high five! = มาแปะมือกัน — ตบมือต่ำๆ เรียก low five และใช้เป็นกริยาได้ด้วย เช่น They high-fived.",
+      "distractors": [
+        "high fever",
+        "hi-fi",
+        "five-star"
+      ],
+      "image": "words/high_five.webp"
+    },
+    {
+      "id": "bow",
+      "word": "bow",
+      "pos": "verb",
+      "ipa": "/baʊ/",
+      "reading_th": "บาว",
+      "meaning_th": "โค้งคำนับ",
+      "emoji": "🙇",
+      "example_en": "The actors bowed to the audience at the end.",
+      "example_th": "นักแสดงโค้งคำนับผู้ชมตอนจบ",
+      "cefr": "B1",
+      "note_th": "bow ที่แปลว่าโค้งคำนับ อ่านว่า บาว (เหมือน cow) แต่ bow ที่แปลว่าโบว์หรือคันธนู อ่านว่า โบว์ — คนญี่ปุ่นทักทายด้วยการ bow ส่วนคนไทยไหว้ (wai)",
+      "distractors": [
+        "bowl",
+        "brow",
+        "bay"
+      ],
+      "image": "words/bow.webp"
+    },
+    {
+      "id": "salute",
+      "word": "salute",
+      "pos": "verb",
+      "ipa": "/səˈluːt/",
+      "reading_th": "ซะ-ลูท",
+      "meaning_th": "ทำวันทยหัตถ์",
+      "emoji": "🫡",
+      "example_en": "The soldiers saluted the flag.",
+      "example_th": "ทหารทำวันทยหัตถ์ต่อธงชาติ",
+      "cefr": "B1",
+      "note_th": "salute = ยกมือแตะหน้าผากแบบทหาร ตำรวจ หรือลูกเสือ — ใช้เชิงยกย่องได้ด้วย I salute you! = ขอคารวะเลย นับถือจริงๆ",
+      "distractors": [
+        "salad",
+        "salty",
+        "pollute"
+      ],
+      "image": "words/salute.webp"
+    },
+    {
+      "id": "fist_bump",
+      "word": "fist bump",
+      "pos": "noun",
+      "ipa": "/ˈfɪst bʌmp/",
+      "reading_th": "ฟิสท์ บัมพ์",
+      "meaning_th": "การชนกำปั้นทักทาย",
+      "emoji": "🤜",
+      "example_en": "He greeted his best friend with a fist bump.",
+      "example_th": "เขาทักทายเพื่อนสนิทด้วยการชนกำปั้น",
+      "cefr": "B1",
+      "note_th": "fist bump = ชนกำปั้นเบาๆ แทนการจับมือ ฮิตในหมู่วัยรุ่นและนักกีฬา — bump = ชนเบาๆ (speed bump = ลูกระนาดบนถนน)",
+      "distractors": [
+        "fist fight",
+        "speed bump",
+        "goosebump"
+      ],
+      "image": "words/fist_bump.webp"
+    },
+    {
+      "id": "fold_your_arms",
+      "word": "fold your arms",
+      "pos": "phrase",
+      "ipa": "/ˌfoʊld jər ˈɑːrmz/",
+      "reading_th": "โฟลด์ ยัวร์ อาร์มส์",
+      "meaning_th": "กอดอก",
+      "emoji": "😤",
+      "example_en": "Dad folded his arms and waited for an answer.",
+      "example_th": "พ่อกอดอกแล้วรอคำตอบ",
+      "cefr": "A2",
+      "note_th": "กอดอก = fold your arms (อังกฤษ) หรือ cross your arms (อเมริกัน) — ฝรั่งมักมองว่ากอดอกคือไม่เปิดใจหรือไม่พอใจ ระวังใช้ตอนสัมภาษณ์งาน",
+      "distractors": [
+        "fold the laundry",
+        "roll up your sleeves",
+        "hold your breath"
+      ],
+      "image": "words/fold_your_arms.webp"
+    },
+    {
+      "id": "cross_your_fingers",
+      "word": "cross your fingers",
+      "pos": "phrase",
+      "ipa": "/ˌkrɔːs jər ˈfɪŋɡərz/",
+      "reading_th": "ครอส ยัวร์ ฟิง-เกอร์ส",
+      "meaning_th": "ไขว้นิ้วขอให้โชคดี",
+      "emoji": "🤞",
+      "example_en": "Cross your fingers — the exam results come out today!",
+      "example_th": "ไขว้นิ้วขอให้โชคดีนะ ผลสอบออกวันนี้!",
+      "cefr": "B1",
+      "note_th": "ไขว้นิ้วกลางทับนิ้วชี้ = ขอให้โชคดี (ในแชทพิมพ์ว่า fingers crossed!) — เด็กฝรั่งบางคนแอบไขว้นิ้วไว้ข้างหลังตอนโกหก",
+      "distractors": [
+        "cross the street",
+        "snap your fingers",
+        "cross your legs"
+      ],
+      "image": "words/cross_your_fingers.webp"
+    },
+    {
+      "id": "smile",
+      "word": "smile",
+      "pos": "verb",
+      "ipa": "/smaɪl/",
+      "reading_th": "สไมล์",
+      "meaning_th": "ยิ้ม",
+      "emoji": "🙂",
+      "example_en": "Smile for the camera!",
+      "example_th": "ยิ้มให้กล้องหน่อย!",
+      "cefr": "A1",
+      "note_th": "ยิ้มให้ใคร = smile at someone (ใช้ at) — ยิ้มกว้างเห็นฟัน = grin, smile เป็นคำนามได้ด้วย เช่น a big smile = รอยยิ้มกว้าง",
+      "distractors": [
+        "smell",
+        "mile",
+        "slime"
+      ],
+      "image": "words/smile.webp"
+    },
+    {
+      "id": "grin",
+      "word": "grin",
+      "pos": "verb",
+      "ipa": "/ɡrɪn/",
+      "reading_th": "กริน",
+      "meaning_th": "ยิ้มกว้างเห็นฟัน",
+      "emoji": "😁",
+      "example_en": "He grinned from ear to ear when he won.",
+      "example_th": "เขายิ้มแก้มปริตอนชนะ",
+      "cefr": "B1",
+      "note_th": "grin = ยิ้มกว้างจนเห็นฟัน (ดีใจหรือซนๆ) ต่างจาก smile ที่ยิ้มทั่วไป — grin from ear to ear = ยิ้มแก้มปริ",
+      "distractors": [
+        "green",
+        "grain",
+        "grim"
+      ],
+      "image": "words/grin.webp"
+    },
+    {
+      "id": "laugh",
+      "word": "laugh",
+      "pos": "verb",
+      "ipa": "/læf/",
+      "reading_th": "ลาฟ",
+      "meaning_th": "หัวเราะ",
+      "emoji": "😂",
+      "example_en": "We laughed so hard at the funny video.",
+      "example_th": "พวกเราหัวเราะหนักมากกับคลิปตลก",
+      "cefr": "A1",
+      "note_th": "gh ออกเสียง ฟ อ่านว่า ลาฟ — laugh at someone = หัวเราะเยาะใคร (ระวังใช้), LOL ย่อมาจาก laughing out loud",
+      "distractors": [
+        "launch",
+        "loaf",
+        "leaf"
+      ],
+      "image": "words/laugh.webp"
+    },
+    {
+      "id": "giggle",
+      "word": "giggle",
+      "pos": "verb",
+      "ipa": "/ˈɡɪɡəl/",
+      "reading_th": "กิก-เกิ่ล",
+      "meaning_th": "หัวเราะคิกคัก",
+      "emoji": "🤭",
+      "example_en": "The girls giggled at the back of the classroom.",
+      "example_th": "เด็กผู้หญิงหัวเราะคิกคักอยู่หลังห้อง",
+      "cefr": "B1",
+      "note_th": "giggle = หัวเราะคิกคักเบาๆ (มักปิดปาก ขำแบบเขินๆ) ต่างจาก laugh ที่หัวเราะเต็มเสียง — get the giggles = ขำไม่หยุด",
+      "distractors": [
+        "wiggle",
+        "juggle",
+        "google"
+      ],
+      "image": "words/giggle.webp"
+    },
+    {
+      "id": "cry",
+      "word": "cry",
+      "pos": "verb",
+      "ipa": "/kraɪ/",
+      "reading_th": "คราย",
+      "meaning_th": "ร้องไห้",
+      "emoji": "😭",
+      "example_en": "The baby is crying because she's hungry.",
+      "example_th": "เด็กทารกร้องไห้เพราะหิว",
+      "cefr": "A1",
+      "note_th": "cry = ร้องไห้ และร้องตะโกนได้ด้วย (cry for help) — ร้องไห้โฮออกมา = burst into tears, อดีตคือ cried",
+      "distractors": [
+        "dry",
+        "try",
+        "fry"
+      ],
+      "image": "words/cry.webp"
+    },
+    {
+      "id": "frown",
+      "word": "frown",
+      "pos": "verb",
+      "ipa": "/fraʊn/",
+      "reading_th": "ฟราวน์",
+      "meaning_th": "ขมวดคิ้ว",
+      "emoji": "☹️",
+      "example_en": "Why are you frowning? Is something wrong?",
+      "example_th": "ทำไมขมวดคิ้วล่ะ มีอะไรหรือเปล่า",
+      "cefr": "B1",
+      "note_th": "frown = ขมวดคิ้วหน้านิ่ว (ไม่พอใจหรือกำลังคิดหนัก) — be frowned upon = เป็นสิ่งที่สังคมไม่ค่อยยอมรับ เช่น Smoking is frowned upon here.",
+      "distractors": [
+        "crown",
+        "brown",
+        "drown"
+      ],
+      "image": "words/frown.webp"
+    },
+    {
+      "id": "pout",
+      "word": "pout",
+      "pos": "verb",
+      "ipa": "/paʊt/",
+      "reading_th": "เพาท์",
+      "meaning_th": "ทำปากยื่นงอน",
+      "emoji": "😗",
+      "example_en": "My little sister pouts when she doesn't get candy.",
+      "example_th": "น้องสาวฉันทำปากยื่นงอนเวลาไม่ได้ขนม",
+      "cefr": "B2",
+      "note_th": "pout = ยื่นปากงอนแบบเด็กงอแง หรือทำปากจู๋ตอนถ่ายรูป — ท่าเซลฟี่ปากเป็ดเรียก duck face",
+      "distractors": [
+        "pour",
+        "pouch",
+        "spout"
+      ],
+      "image": "words/pout.webp"
+    },
+    {
+      "id": "yawn",
+      "word": "yawn",
+      "pos": "verb",
+      "ipa": "/jɔːn/",
+      "reading_th": "ยอน",
+      "meaning_th": "หาว",
+      "emoji": "🥱",
+      "example_en": "He yawned all through the boring movie.",
+      "example_th": "เขาหาวตลอดหนังเรื่องที่น่าเบื่อนั้น",
+      "cefr": "B1",
+      "note_th": "yawn อ่านว่า ยอน — การหาวติดต่อกันได้ (Yawns are contagious.) และฝรั่งชอบพูด What a yawn! = น่าเบื่อสุดๆ",
+      "distractors": [
+        "yarn",
+        "lawn",
+        "dawn"
+      ],
+      "image": "words/yawn.webp"
+    },
+    {
+      "id": "squint",
+      "word": "squint",
+      "pos": "verb",
+      "ipa": "/skwɪnt/",
+      "reading_th": "สควินท์",
+      "meaning_th": "หรี่ตา",
+      "emoji": "😑",
+      "example_en": "I had to squint to read the tiny sign.",
+      "example_th": "ฉันต้องหรี่ตาอ่านป้ายตัวจิ๋ว",
+      "cefr": "B2",
+      "note_th": "squint = หรี่ตามอง (เพราะแดดจ้า มองไกล หรือสายตาสั้น) — ถ้าต้องหรี่ตาอ่านบ่อยๆ อาจถึงเวลาไปวัดสายตาแล้ว",
+      "distractors": [
+        "squid",
+        "squirt",
+        "sprint"
+      ],
+      "image": "words/squint.webp"
+    },
+    {
+      "id": "stare",
+      "word": "stare",
+      "pos": "verb",
+      "ipa": "/ster/",
+      "reading_th": "สแตร์",
+      "meaning_th": "จ้องมอง",
+      "emoji": "👀",
+      "example_en": "It's rude to stare at strangers.",
+      "example_th": "การจ้องมองคนแปลกหน้าเป็นการเสียมารยาท",
+      "cefr": "B1",
+      "note_th": "stare at = จ้องนานๆ ไม่ละสายตา (นานเกินถือว่าเสียมารยาท) ต่างจาก look ที่แค่มอง — ออกเสียงเหมือน stair (ขั้นบันได)",
+      "distractors": [
+        "stair",
+        "star",
+        "store"
+      ],
+      "image": "words/stare.webp"
+    },
+    {
+      "id": "whisper",
+      "word": "whisper",
+      "pos": "verb",
+      "ipa": "/ˈwɪspər/",
+      "reading_th": "วิส-เพอร์",
+      "meaning_th": "กระซิบ",
+      "emoji": "🤫",
+      "example_en": "She whispered the secret in my ear.",
+      "example_th": "เธอกระซิบความลับข้างหูฉัน",
+      "cefr": "A2",
+      "note_th": "whisper = พูดเสียงกระซิบ (in a whisper) — h ไม่ออกเสียง อ่านว่า วิส-เพอร์ ระวังสับสนกับ whistle (ผิวปาก/นกหวีด)",
+      "distractors": [
+        "whisker",
+        "whistle",
+        "whiskey"
+      ],
+      "image": "words/whisper.webp"
+    },
+    {
+      "id": "shout",
+      "word": "shout",
+      "pos": "verb",
+      "ipa": "/ʃaʊt/",
+      "reading_th": "เชาท์",
+      "meaning_th": "ตะโกน",
+      "emoji": "📢",
+      "example_en": "Don't shout — I can hear you!",
+      "example_th": "ไม่ต้องตะโกน ฉันได้ยินแล้ว!",
+      "cefr": "A2",
+      "note_th": "shout at someone = ตะโกนใส่ (ด่า) ส่วน shout to someone = ตะโกนเรียกจากไกลๆ ให้ได้ยิน — ใช้ at หรือ to ความหมายต่างกันเยอะ",
+      "distractors": [
+        "shoot",
+        "short",
+        "scout"
+      ],
+      "image": "words/shout.webp"
+    },
+    {
+      "id": "hiccup",
+      "word": "hiccup",
+      "pos": "verb",
+      "ipa": "/ˈhɪkʌp/",
+      "reading_th": "ฮิค-คัพ",
+      "meaning_th": "สะอึก",
+      "emoji": "🫢",
+      "example_en": "I always hiccup after drinking soda too fast.",
+      "example_th": "ฉันสะอึกทุกทีหลังดื่มน้ำอัดลมเร็วเกินไป",
+      "cefr": "B1",
+      "note_th": "สะอึก = hiccup หรือ have the hiccups — ใช้เปรียบว่าปัญหาเล็กๆ ที่ทำให้สะดุดได้ด้วย เช่น a small hiccup in the plan",
+      "distractors": [
+        "pickup",
+        "teacup",
+        "checkup"
+      ],
+      "image": "words/hiccup.webp"
+    },
+    {
+      "id": "snore",
+      "word": "snore",
+      "pos": "verb",
+      "ipa": "/snɔːr/",
+      "reading_th": "สนอร์",
+      "meaning_th": "นอนกรน",
+      "emoji": "😴",
+      "example_en": "My dad snores so loudly that I can't sleep.",
+      "example_th": "พ่อฉันกรนเสียงดังจนฉันนอนไม่หลับ",
+      "cefr": "B1",
+      "note_th": "snore = กรนตอนหลับ คนที่กรนเรียก snorer — ส่วนเสียงครางในคอของแมวเรียก purr ไม่ใช่ snore",
+      "distractors": [
+        "score",
+        "snare",
+        "store"
+      ],
+      "image": "words/snore.webp"
+    },
+    {
+      "id": "walk",
+      "word": "walk",
+      "pos": "verb",
+      "ipa": "/wɔːk/",
+      "reading_th": "วอล์ค",
+      "meaning_th": "เดิน",
+      "emoji": "🚶",
+      "example_en": "I walk to school with my friends.",
+      "example_th": "ฉันเดินไปโรงเรียนกับเพื่อนๆ",
+      "cefr": "A1",
+      "note_th": "l ไม่ออกเสียง อ่านว่า วอค — เดินเล่น = go for a walk / take a walk ระวังสับสนกับ work (เวิร์ค) ที่แปลว่าทำงาน",
+      "distractors": [
+        "work",
+        "talk",
+        "wall"
+      ],
+      "image": "words/walk.webp"
+    },
+    {
+      "id": "run",
+      "word": "run",
+      "pos": "verb",
+      "ipa": "/rʌn/",
+      "reading_th": "รัน",
+      "meaning_th": "วิ่ง",
+      "emoji": "🏃",
+      "example_en": "We have to run to catch the bus!",
+      "example_th": "เราต้องวิ่งให้ทันรถบัส!",
+      "cefr": "A1",
+      "note_th": "run ใช้ได้กว้างมาก: run a shop = บริหารร้าน, The bus runs every ten minutes. = รถมาทุกสิบนาที — วิ่งเหยาะๆ = jog, วิ่งสุดแรง = sprint",
+      "distractors": [
+        "rain",
+        "fun",
+        "ruin"
+      ],
+      "image": "words/run.webp"
+    },
+    {
+      "id": "jump",
+      "word": "jump",
+      "pos": "verb",
+      "ipa": "/dʒʌmp/",
+      "reading_th": "จัมพ์",
+      "meaning_th": "กระโดด",
+      "emoji": "🦘",
+      "example_en": "The kids jumped over the puddle.",
+      "example_th": "เด็กๆ กระโดดข้ามแอ่งน้ำ",
+      "cefr": "A1",
+      "note_th": "jump = กระโดดด้วยสองเท้า ส่วน hop = กระโดดขาเดียว — jump the queue = แซงคิว, jump to conclusions = ด่วนสรุป",
+      "distractors": [
+        "pump",
+        "dump",
+        "jumbo"
+      ],
+      "image": "words/jump.webp"
+    },
+    {
+      "id": "hop",
+      "word": "hop",
+      "pos": "verb",
+      "ipa": "/hɑːp/",
+      "reading_th": "ฮอพ",
+      "meaning_th": "กระโดดขาเดียว",
+      "emoji": "🐇",
+      "example_en": "Can you hop on one leg for ten seconds?",
+      "example_th": "เธอกระโดดขาเดียวได้นานสิบวินาทีไหม",
+      "cefr": "A2",
+      "note_th": "hop = กระโดดสั้นๆ ด้วยขาเดียว หรือกระโดดแบบกระต่ายและนก — ภาษาพูด Hop in! = ขึ้นรถมาเลย",
+      "distractors": [
+        "hope",
+        "hoop",
+        "shop"
+      ],
+      "image": "words/hop.webp"
+    },
+    {
+      "id": "tiptoe",
+      "word": "tiptoe",
+      "pos": "verb",
+      "ipa": "/ˈtɪptoʊ/",
+      "reading_th": "ทิพ-โท",
+      "meaning_th": "เดินเขย่งปลายเท้า",
+      "emoji": "🩰",
+      "example_en": "I tiptoed past my sleeping baby brother.",
+      "example_th": "ฉันเดินเขย่งปลายเท้าย่องผ่านน้องชายที่หลับอยู่",
+      "cefr": "B1",
+      "note_th": "tip (ปลาย) + toe (นิ้วเท้า) = เขย่งปลายเท้า มักใช้ตอนเดินย่องไม่ให้มีเสียง — stand on tiptoe = ยืนเขย่งให้ตัวสูงขึ้น",
+      "distractors": [
+        "tiptop",
+        "tip-off",
+        "mistletoe"
+      ],
+      "image": "words/tiptoe.webp"
+    },
+    {
+      "id": "march",
+      "word": "march",
+      "pos": "verb",
+      "ipa": "/mɑːrtʃ/",
+      "reading_th": "มาร์ช",
+      "meaning_th": "เดินแถวแบบทหาร",
+      "emoji": "🥁",
+      "example_en": "The band marched down the main street.",
+      "example_th": "วงโยธวาทิตเดินแถวไปตามถนนสายหลัก",
+      "cefr": "B1",
+      "note_th": "march = เดินก้าวพร้อมกันเป็นจังหวะแบบทหาร — March ตัวใหญ่ = เดือนมีนาคม, วงโยธวาทิต = marching band",
+      "distractors": [
+        "match",
+        "much",
+        "marsh"
+      ],
+      "image": "words/march.webp"
+    },
+    {
+      "id": "dance",
+      "word": "dance",
+      "pos": "verb",
+      "ipa": "/dæns/",
+      "reading_th": "แดนซ์",
+      "meaning_th": "เต้นรำ",
+      "emoji": "💃",
+      "example_en": "Let's dance to this song!",
+      "example_th": "มาเต้นกับเพลงนี้กันเถอะ!",
+      "cefr": "A1",
+      "note_th": "dance with someone = เต้นกับใคร, dance to music = เต้นตามเพลง (ใช้ to) — คนเต้น = dancer, ท่าเต้น = dance move",
+      "distractors": [
+        "dense",
+        "chance",
+        "glance"
+      ],
+      "image": "words/dance.webp"
+    },
+    {
+      "id": "kneel",
+      "word": "kneel",
+      "pos": "verb",
+      "ipa": "/niːl/",
+      "reading_th": "นีล",
+      "meaning_th": "คุกเข่า",
+      "emoji": "🧎",
+      "example_en": "Grandma is kneeling in the garden, planting flowers.",
+      "example_th": "คุณยายกำลังคุกเข่าปลูกดอกไม้ในสวน",
+      "cefr": "B1",
+      "note_th": "k ไม่ออกเสียง อ่านว่า นีล — อดีตคือ knelt หรือ kneeled, คุกเข่าข้างเดียวขอแต่งงาน = get down on one knee",
+      "distractors": [
+        "knee",
+        "feel",
+        "needle"
+      ],
+      "image": "words/kneel.webp"
+    },
+    {
+      "id": "sit_down",
+      "word": "sit down",
+      "pos": "phrase",
+      "ipa": "/ˌsɪt ˈdaʊn/",
+      "reading_th": "ซิท ดาวน์",
+      "meaning_th": "นั่งลง",
+      "emoji": "🪑",
+      "example_en": "Please sit down and open your books.",
+      "example_th": "เชิญนั่งลงแล้วเปิดหนังสือได้เลย",
+      "cefr": "A1",
+      "note_th": "sit down = การกระทำนั่งลงจากท่ายืน ส่วน sit = นั่งอยู่ — เชิญนั่งแบบสุภาพใช้ have a seat หรือ take a seat",
+      "distractors": [
+        "sit up",
+        "set down",
+        "shut down"
+      ],
+      "image": "words/sit_down.webp"
+    },
+    {
+      "id": "stand_up",
+      "word": "stand up",
+      "pos": "phrase",
+      "ipa": "/ˌstænd ˈʌp/",
+      "reading_th": "สแตนด์ อัพ",
+      "meaning_th": "ลุกขึ้นยืน",
+      "emoji": "⬆️",
+      "example_en": "Please stand up when your name is called.",
+      "example_th": "เมื่อถูกเรียกชื่อ กรุณาลุกขึ้นยืน",
+      "cefr": "A1",
+      "note_th": "stand up = ลุกขึ้นยืน ส่วน stand = ยืนอยู่ — stand-up comedy = เดี่ยวไมโครโฟน, stand someone up = เบี้ยวนัดปล่อยให้รอเก้อ",
+      "distractors": [
+        "stay up",
+        "stand out",
+        "stamp"
+      ],
+      "image": "words/stand_up.webp"
+    },
+    {
+      "id": "lie_down",
+      "word": "lie down",
+      "pos": "phrase",
+      "ipa": "/ˌlaɪ ˈdaʊn/",
+      "reading_th": "ลาย ดาวน์",
+      "meaning_th": "เอนตัวนอนลง",
+      "emoji": "🛌",
+      "example_en": "I feel dizzy. I need to lie down.",
+      "example_th": "ฉันเวียนหัว ต้องนอนลงสักพัก",
+      "cefr": "A2",
+      "note_th": "lie down = เอนตัวนอนราบ (ไม่จำเป็นต้องหลับ) — อดีตของ lie (นอน) คือ lay ส่วน lie ที่แปลว่าโกหก อดีตคือ lied ระวังสับสน!",
+      "distractors": [
+        "line up",
+        "lift up",
+        "let down"
+      ],
+      "image": "words/lie_down.webp"
+    },
+    {
+      "id": "bend_over",
+      "word": "bend over",
+      "pos": "phrase",
+      "ipa": "/ˌbend ˈoʊvər/",
+      "reading_th": "เบนด์ โอ-เวอร์",
+      "meaning_th": "ก้มตัวลง",
+      "emoji": "👟",
+      "example_en": "Bend over and touch your toes.",
+      "example_th": "ก้มตัวลงแล้วเอามือแตะนิ้วเท้า",
+      "cefr": "B1",
+      "note_th": "bend over = ก้มตัวไปข้างหน้าจากเอว ต่างจาก bow ที่ก้มคำนับให้เกียรติ — สำนวน bend over backwards = พยายามช่วยสุดตัว",
+      "distractors": [
+        "hand over",
+        "turn over",
+        "blend"
+      ],
+      "image": "words/bend_over.webp"
+    },
+    {
+      "id": "cartwheel",
+      "word": "cartwheel",
+      "pos": "verb",
+      "ipa": "/ˈkɑːrtwiːl/",
+      "reading_th": "คาร์ท-วีล",
+      "meaning_th": "ตีลังกาข้าง (ท่าล้อเกวียน)",
+      "emoji": "🤸",
+      "example_en": "My sister can cartwheel across the whole beach.",
+      "example_th": "น้องสาวฉันตีลังกาข้างไปได้ตลอดชายหาด",
+      "cefr": "B2",
+      "note_th": "cart (เกวียน) + wheel (ล้อ) = ท่าตีลังกาข้างที่ตัวหมุนเหมือนล้อเกวียน — ใช้เป็นคำนามก็ได้ เช่น do a cartwheel",
+      "distractors": [
+        "cartoon",
+        "wheelchair",
+        "catwalk"
+      ],
+      "image": "words/cartwheel.webp"
+    },
+    {
+      "id": "somersault",
+      "word": "somersault",
+      "pos": "verb",
+      "ipa": "/ˈsʌmərsɔːlt/",
+      "reading_th": "ซัม-เมอร์-ซอลท์",
+      "meaning_th": "ม้วนหน้าตีลังกา",
+      "emoji": "🙃",
+      "example_en": "The kids somersaulted on the soft mat.",
+      "example_th": "เด็กๆ ม้วนหน้าตีลังกาบนเบาะนุ่ม",
+      "cefr": "B2",
+      "note_th": "somersault = ม้วนตัวตีลังกาไปข้างหน้าหรือข้างหลัง (เสียงคล้าย summer + salt แต่ไม่เกี่ยวกันเลย) — ใช้เป็นคำนามก็ได้ เช่น do a somersault",
+      "distractors": [
+        "summertime",
+        "somewhat",
+        "assault"
+      ],
+      "image": "words/somersault.webp"
+    },
+    {
+      "id": "climb",
+      "word": "climb",
+      "pos": "verb",
+      "ipa": "/klaɪm/",
+      "reading_th": "ไคลม์",
+      "meaning_th": "ปีน",
+      "emoji": "🧗",
+      "example_en": "The cat climbed up the tall tree.",
+      "example_th": "แมวปีนขึ้นต้นไม้สูง",
+      "cefr": "A2",
+      "note_th": "b ท้ายไม่ออกเสียง อ่านว่า ไคลม์ — ปีนเขา = climb a mountain (คนปีนเขา = climber), ปีนผนังจำลอง = rock climbing",
+      "distractors": [
+        "climate",
+        "crime",
+        "limb"
+      ],
+      "image": "words/climb.webp"
+    },
+    {
+      "id": "kick",
+      "word": "kick",
+      "pos": "verb",
+      "ipa": "/kɪk/",
+      "reading_th": "คิค",
+      "meaning_th": "เตะ",
+      "emoji": "⚽",
+      "example_en": "He kicked the ball into the net.",
+      "example_th": "เขาเตะลูกบอลเข้าประตู",
+      "cefr": "A2",
+      "note_th": "kick = เตะ — kick off = เริ่ม (เกม/งาน), kick a habit = เลิกนิสัยไม่ดี, kick back = นั่งชิลๆ ผ่อนคลาย",
+      "distractors": [
+        "kiss",
+        "kit",
+        "sick"
+      ],
+      "image": "words/kick.webp"
+    },
+    {
+      "id": "throw",
+      "word": "throw",
+      "pos": "verb",
+      "ipa": "/θroʊ/",
+      "reading_th": "โธรว์",
+      "meaning_th": "ขว้าง / โยน",
+      "emoji": "🤾",
+      "example_en": "Throw the ball to me!",
+      "example_th": "โยนลูกบอลมาให้ฉัน!",
+      "cefr": "A2",
+      "note_th": "throw to = โยนให้รับ ส่วน throw at = ขว้างใส่ (เล็งเป้า) — throw away = ทิ้งขยะ, throw a party = จัดปาร์ตี้, อดีตคือ threw",
+      "distractors": [
+        "through",
+        "throat",
+        "grow"
+      ],
+      "image": "words/throw.webp"
+    },
+    {
+      "id": "catch",
+      "word": "catch",
+      "pos": "verb",
+      "ipa": "/kætʃ/",
+      "reading_th": "แคช",
+      "meaning_th": "รับ (ของที่โยนมา)",
+      "emoji": "🧤",
+      "example_en": "Can you catch the ball with one hand?",
+      "example_th": "เธอรับลูกบอลด้วยมือเดียวได้ไหม",
+      "cefr": "A2",
+      "note_th": "catch = รับให้อยู่มือหรือจับให้ได้ — catch a bus = ขึ้นรถทัน, catch a cold = เป็นหวัด, Catch you later! = แล้วเจอกัน",
+      "distractors": [
+        "cash",
+        "match",
+        "coach"
+      ],
+      "image": "words/catch.webp"
+    },
+    {
+      "id": "push",
+      "word": "push",
+      "pos": "verb",
+      "ipa": "/pʊʃ/",
+      "reading_th": "พุช",
+      "meaning_th": "ผลัก / ดัน",
+      "emoji": "🛒",
+      "example_en": "Push the door to open it.",
+      "example_th": "ผลักประตูเพื่อเปิด",
+      "cefr": "A1",
+      "note_th": "ป้ายประตู PUSH = ผลัก, PULL = ดึง (คนไทยสับสนบ่อย!) — pushy = ชอบตื๊อ ชอบบังคับคนอื่น",
+      "distractors": [
+        "bush",
+        "posh",
+        "rush"
+      ],
+      "image": "words/push.webp"
+    },
+    {
+      "id": "pull",
+      "word": "pull",
+      "pos": "verb",
+      "ipa": "/pʊl/",
+      "reading_th": "พูล",
+      "meaning_th": "ดึง",
+      "emoji": "🪢",
+      "example_en": "Pull the rope as hard as you can!",
+      "example_th": "ดึงเชือกให้แรงที่สุดเท่าที่ทำได้!",
+      "cefr": "A1",
+      "note_th": "pull = ดึงเข้าหาตัว ตรงข้ามกับ push — ชักเย่อ = tug of war, pull someone's leg = แกล้งหยอกล้อ (ไม่ใช่ดึงขา!)",
+      "distractors": [
+        "pool",
+        "full",
+        "poll"
+      ],
+      "image": "words/pull.webp"
+    },
+    {
+      "id": "carry",
+      "word": "carry",
+      "pos": "verb",
+      "ipa": "/ˈkæri/",
+      "reading_th": "แค-รี่",
+      "meaning_th": "ถือ / แบกไปด้วย",
+      "emoji": "📦",
+      "example_en": "Can you help me carry these boxes?",
+      "example_th": "ช่วยฉันขนกล่องพวกนี้หน่อยได้ไหม",
+      "cefr": "A2",
+      "note_th": "carry = ถือหรือแบกพาไปด้วย (มีการเคลื่อนที่) ต่างจาก hold ที่ถือไว้เฉยๆ — อุ้มเด็ก = carry a baby",
+      "distractors": [
+        "cherry",
+        "carrot",
+        "curry"
+      ],
+      "image": "words/carry.webp"
+    },
+    {
+      "id": "lick",
+      "word": "lick",
+      "pos": "verb",
+      "ipa": "/lɪk/",
+      "reading_th": "ลิค",
+      "meaning_th": "เลีย",
+      "emoji": "🍦",
+      "example_en": "The little boy licked his ice cream before it melted.",
+      "example_th": "เด็กชายตัวเล็กเลียไอศกรีมก่อนที่มันจะละลาย",
+      "cefr": "B1",
+      "note_th": "lick = เลีย เช่น lick an ice cream, ลูกหมาเลียหน้า = The puppy licked my face. — finger-licking good = อร่อยจนต้องเลียนิ้ว",
+      "distractors": [
+        "like",
+        "lock",
+        "leak"
+      ],
+      "image": "words/lick.webp"
+    },
+    {
+      "id": "chew",
+      "word": "chew",
+      "pos": "verb",
+      "ipa": "/tʃuː/",
+      "reading_th": "ชู",
+      "meaning_th": "เคี้ยว",
+      "emoji": "🍬",
+      "example_en": "Chew your food slowly before you swallow.",
+      "example_th": "เคี้ยวอาหารช้าๆ ก่อนกลืน",
+      "cefr": "B1",
+      "note_th": "chew = เคี้ยว — หมากฝรั่ง = chewing gum, สำนวน bite off more than you can chew = รับงานเกินตัว",
+      "distractors": [
+        "chef",
+        "shoe",
+        "chow"
+      ],
+      "image": "words/chew.webp"
+    },
+    {
+      "id": "bite",
+      "word": "bite",
+      "pos": "verb",
+      "ipa": "/baɪt/",
+      "reading_th": "ไบท์",
+      "meaning_th": "กัด",
+      "emoji": "🍎",
+      "example_en": "Don't worry, my dog doesn't bite.",
+      "example_th": "ไม่ต้องห่วง หมาฉันไม่กัด",
+      "cefr": "A2",
+      "note_th": "bite = กัด และเป็นคำนามแปลว่าหนึ่งคำได้ — Can I have a bite? = ขอชิมคำนึง, bite your nails = กัดเล็บ, ยุงกัด = mosquito bite",
+      "distractors": [
+        "byte",
+        "bike",
+        "kite"
+      ],
+      "image": "words/bite.webp"
+    },
+    {
+      "id": "sniff",
+      "word": "sniff",
+      "pos": "verb",
+      "ipa": "/snɪf/",
+      "reading_th": "สนิฟ",
+      "meaning_th": "ดมฟุดฟิด",
+      "emoji": "🌸",
+      "example_en": "The dog sniffed my bag at the airport.",
+      "example_th": "หมาดมกระเป๋าฉันฟุดฟิดที่สนามบิน",
+      "cefr": "B1",
+      "note_th": "sniff = สูดจมูกดมสั้นๆ ฟุดฟิด หรือสูดน้ำมูกตอนเป็นหวัด — ต่างจาก smell ที่แปลว่าได้กลิ่นหรือดมทั่วไป",
+      "distractors": [
+        "stiff",
+        "snuff",
+        "snip"
+      ],
+      "image": "words/sniff.webp"
+    },
+    {
+      "id": "blow",
+      "word": "blow",
+      "pos": "verb",
+      "ipa": "/bloʊ/",
+      "reading_th": "โบลว์",
+      "meaning_th": "เป่า",
+      "emoji": "🌬️",
+      "example_en": "Blow on your soup — it's very hot.",
+      "example_th": "เป่าซุปก่อนนะ มันร้อนมาก",
+      "cefr": "A2",
+      "note_th": "blow = เป่าลม — blow your nose = สั่งน้ำมูก, blow up a balloon = เป่าลูกโป่ง, blow a kiss = ส่งจูบ, อดีตคือ blew",
+      "distractors": [
+        "glow",
+        "flow",
+        "slow"
+      ],
+      "image": "words/blow.webp"
+    },
+    {
+      "id": "tickle",
+      "word": "tickle",
+      "pos": "verb",
+      "ipa": "/ˈtɪkəl/",
+      "reading_th": "ทิค-เคิ่ล",
+      "meaning_th": "จั๊กจี้",
+      "emoji": "🪶",
+      "example_en": "Stop it! Don't tickle my feet!",
+      "example_th": "หยุดนะ! อย่าจั๊กจี้เท้าฉัน!",
+      "cefr": "B1",
+      "note_th": "tickle = ทำให้จั๊กจี้ ส่วนคนขี้จั๊กจี้ = ticklish — สำนวน tickled pink = ปลื้มสุดๆ",
+      "distractors": [
+        "tick",
+        "pickle",
+        "tackle"
+      ],
+      "image": "words/tickle.webp"
+    },
+    {
+      "id": "shiver",
+      "word": "shiver",
+      "pos": "verb",
+      "ipa": "/ˈʃɪvər/",
+      "reading_th": "ชิฟ-เวอร์",
+      "meaning_th": "ตัวสั่น (เพราะหนาวหรือกลัว)",
+      "emoji": "🥶",
+      "example_en": "We were shivering in the cold wind.",
+      "example_th": "เรายืนตัวสั่นอยู่กลางลมหนาว",
+      "cefr": "B1",
+      "note_th": "shiver = ตัวสั่นเพราะหนาวหรือกลัว ต่างจาก shake ที่แปลว่าเขย่าหรือสั่นทั่วไป — send shivers down my spine = ขนลุกซู่ไปทั้งหลัง",
+      "distractors": [
+        "silver",
+        "shower",
+        "liver"
+      ],
+      "image": "words/shiver.webp"
+    }
+  ]
+}

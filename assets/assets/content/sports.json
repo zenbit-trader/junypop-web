@@ -29,7 +29,8 @@
           "yoga_mat",
           "jump_rope",
           "fun_run"
-        ]
+        ],
+        "image": "lessons/sports_1.webp"
       },
       {
         "id": "sports_2",
@@ -51,7 +52,8 @@
           "hat_trick",
           "stadium",
           "crowd"
-        ]
+        ],
+        "image": "lessons/sports_2.webp"
       },
       {
         "id": "sports_3",
@@ -73,7 +75,8 @@
           "warm_down",
           "cardio",
           "sweat"
-        ]
+        ],
+        "image": "lessons/sports_3.webp"
       },
       {
         "id": "sports_4",
@@ -95,7 +98,8 @@
           "shin_guard",
           "knee_pad",
           "mouthguard"
-        ]
+        ],
+        "image": "lessons/sports_4.webp"
       },
       {
         "id": "sports_5",
@@ -117,7 +121,8 @@
           "sprint",
           "lap",
           "finish_line"
-        ]
+        ],
+        "image": "lessons/sports_5.webp"
       },
       {
         "id": "sports_6",
@@ -139,7 +144,8 @@
           "league",
           "playoff",
           "semifinal"
-        ]
+        ],
+        "image": "lessons/sports_6.webp"
       },
       {
         "id": "sports_7",
@@ -161,7 +167,8 @@
           "rebound",
           "starting_line",
           "referee_card"
-        ]
+        ],
+        "image": "lessons/sports_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "badge",
         "bedminster",
         "bad manner"
-      ]
+      ],
+      "image": "words/badminton.webp"
     },
     {
       "id": "volleyball",
@@ -200,7 +208,8 @@
         "valley ball",
         "baseball",
         "volley shot"
-      ]
+      ],
+      "image": "words/volleyball.webp"
     },
     {
       "id": "tennis",
@@ -218,7 +227,8 @@
         "tenant",
         "tension",
         "ten miss"
-      ]
+      ],
+      "image": "words/tennis.webp"
     },
     {
       "id": "boxing",
@@ -236,7 +246,8 @@
         "bowling",
         "booking",
         "blocking"
-      ]
+      ],
+      "image": "words/boxing.webp"
     },
     {
       "id": "muay_thai",
@@ -254,7 +265,8 @@
         "thai boxing ring",
         "muay farang",
         "kick boxer"
-      ]
+      ],
+      "image": "words/muay_thai.webp"
     },
     {
       "id": "swimming",
@@ -272,7 +284,8 @@
         "swinging",
         "steaming",
         "spinning"
-      ]
+      ],
+      "image": "words/swimming.webp"
     },
     {
       "id": "cycling",
@@ -290,7 +303,8 @@
         "circling",
         "sailing",
         "recycling"
-      ]
+      ],
+      "image": "words/cycling.webp"
     },
     {
       "id": "jogging",
@@ -308,7 +322,8 @@
         "logging",
         "juggling",
         "jamming"
-      ]
+      ],
+      "image": "words/jogging.webp"
     },
     {
       "id": "golf",
@@ -326,7 +341,8 @@
         "gulf",
         "gold",
         "goal"
-      ]
+      ],
+      "image": "words/golf.webp"
     },
     {
       "id": "table_tennis",
@@ -344,7 +360,8 @@
         "table manner",
         "lawn tennis",
         "table football"
-      ]
+      ],
+      "image": "words/table_tennis.webp"
     },
     {
       "id": "weightlifting",
@@ -362,7 +379,8 @@
         "weight loss",
         "shoplifting",
         "waiting list"
-      ]
+      ],
+      "image": "words/weightlifting.webp"
     },
     {
       "id": "yoga_mat",
@@ -380,7 +398,8 @@
         "door mat",
         "yoga pose",
         "bath mat"
-      ]
+      ],
+      "image": "words/yoga_mat.webp"
     },
     {
       "id": "jump_rope",
@@ -398,7 +417,8 @@
         "jump start",
         "tight rope",
         "rope ladder"
-      ]
+      ],
+      "image": "words/jump_rope.webp"
     },
     {
       "id": "fun_run",
@@ -416,7 +436,8 @@
         "fun fair",
         "dry run",
         "home run"
-      ]
+      ],
+      "image": "words/fun_run.webp"
     },
     {
       "id": "referee",
@@ -434,7 +455,8 @@
         "reference",
         "refugee",
         "refinery"
-      ]
+      ],
+      "image": "words/referee.webp"
     },
     {
       "id": "whistle",
@@ -452,7 +474,8 @@
         "wrestle",
         "thistle",
         "missile"
-      ]
+      ],
+      "image": "words/whistle.webp"
     },
     {
       "id": "foul",
@@ -470,7 +493,8 @@
         "fowl",
         "fall",
         "fuel"
-      ]
+      ],
+      "image": "words/foul.webp"
     },
     {
       "id": "penalty",
@@ -488,7 +512,8 @@
         "personality",
         "plenty",
         "property"
-      ]
+      ],
+      "image": "words/penalty.webp"
     },
     {
       "id": "free_kick",
@@ -506,7 +531,8 @@
         "free throw",
         "kick off",
         "free time"
-      ]
+      ],
+      "image": "words/free_kick.webp"
     },
     {
       "id": "corner_kick",
@@ -524,7 +550,8 @@
         "corner shop",
         "penalty kick",
         "kick back"
-      ]
+      ],
+      "image": "words/corner_kick.webp"
     },
     {
       "id": "offside",
@@ -542,7 +569,8 @@
         "offshore",
         "outside",
         "offer side"
-      ]
+      ],
+      "image": "words/offside.webp"
     },
     {
       "id": "own_goal",
@@ -560,7 +588,8 @@
         "open goal",
         "own home",
         "old goal"
-      ]
+      ],
+      "image": "words/own_goal.webp"
     },
     {
       "id": "halftime",
@@ -578,7 +607,8 @@
         "half price",
         "part time",
         "high time"
-      ]
+      ],
+      "image": "words/halftime.webp"
     },
     {
       "id": "kickoff",
@@ -596,7 +626,8 @@
         "kick back",
         "take off",
         "knock off"
-      ]
+      ],
+      "image": "words/kickoff.webp"
     },
     {
       "id": "extra_time",
@@ -614,7 +645,8 @@
         "spare time",
         "full time",
         "extra mile"
-      ]
+      ],
+      "image": "words/extra_time.webp"
     },
     {
       "id": "hat_trick",
@@ -632,7 +664,8 @@
         "hat stand",
         "card trick",
         "back flip"
-      ]
+      ],
+      "image": "words/hat_trick.webp"
     },
     {
       "id": "stadium",
@@ -650,7 +683,8 @@
         "studio",
         "station",
         "stadium seat"
-      ]
+      ],
+      "image": "words/stadium.webp"
     },
     {
       "id": "crowd",
@@ -668,7 +702,8 @@
         "cloud",
         "crown",
         "cruel"
-      ]
+      ],
+      "image": "words/crowd.webp"
     },
     {
       "id": "gym_membership",
@@ -686,7 +721,8 @@
         "club meeting",
         "gym class",
         "member card"
-      ]
+      ],
+      "image": "words/gym_membership.webp"
     },
     {
       "id": "personal_trainer",
@@ -704,7 +740,8 @@
         "personal trainee",
         "private teacher",
         "personal assistant"
-      ]
+      ],
+      "image": "words/personal_trainer.webp"
     },
     {
       "id": "treadmill",
@@ -722,7 +759,8 @@
         "windmill",
         "threadmill",
         "tread water"
-      ]
+      ],
+      "image": "words/treadmill.webp"
     },
     {
       "id": "dumbbell",
@@ -740,7 +778,8 @@
         "doorbell",
         "bluebell",
         "dumpling"
-      ]
+      ],
+      "image": "words/dumbbell.webp"
     },
     {
       "id": "barbell",
@@ -758,7 +797,8 @@
         "dumbbell",
         "barbecue",
         "bar bill"
-      ]
+      ],
+      "image": "words/barbell.webp"
     },
     {
       "id": "squat",
@@ -776,7 +816,8 @@
         "squad",
         "square",
         "squash"
-      ]
+      ],
+      "image": "words/squat.webp"
     },
     {
       "id": "push_up",
@@ -794,7 +835,8 @@
         "pull-up",
         "push cart",
         "pop up"
-      ]
+      ],
+      "image": "words/push_up.webp"
     },
     {
       "id": "pull_up",
@@ -812,7 +854,8 @@
         "push-up",
         "pull over",
         "pile up"
-      ]
+      ],
+      "image": "words/pull_up.webp"
     },
     {
       "id": "plank",
@@ -830,7 +873,8 @@
         "plant",
         "blank",
         "plate"
-      ]
+      ],
+      "image": "words/plank.webp"
     },
     {
       "id": "reps",
@@ -848,7 +892,8 @@
         "ribs",
         "raps",
         "reply"
-      ]
+      ],
+      "image": "words/reps.webp"
     },
     {
       "id": "warm_up",
@@ -866,7 +911,8 @@
         "warm water",
         "wake up",
         "wrap up"
-      ]
+      ],
+      "image": "words/warm_up.webp"
     },
     {
       "id": "warm_down",
@@ -884,7 +930,8 @@
         "warm up",
         "calm down",
         "wind up"
-      ]
+      ],
+      "image": "words/warm_down.webp"
     },
     {
       "id": "cardio",
@@ -902,7 +949,8 @@
         "cardigan",
         "carton",
         "calendar"
-      ]
+      ],
+      "image": "words/cardio.webp"
     },
     {
       "id": "sweat",
@@ -920,7 +968,8 @@
         "sweet",
         "swear",
         "sweater"
-      ]
+      ],
+      "image": "words/sweat.webp"
     },
     {
       "id": "muscle",
@@ -938,7 +987,8 @@
         "mussel",
         "missile",
         "muzzle"
-      ]
+      ],
+      "image": "words/muscle.webp"
     },
     {
       "id": "biceps",
@@ -956,7 +1006,8 @@
         "triceps",
         "bicycle",
         "biscuits"
-      ]
+      ],
+      "image": "words/biceps.webp"
     },
     {
       "id": "abs",
@@ -974,7 +1025,8 @@
         "arms",
         "ribs",
         "apps"
-      ]
+      ],
+      "image": "words/abs.webp"
     },
     {
       "id": "posture",
@@ -992,7 +1044,8 @@
         "posture pillow",
         "pasture",
         "picture"
-      ]
+      ],
+      "image": "words/posture.webp"
     },
     {
       "id": "cramp",
@@ -1010,7 +1063,8 @@
         "clamp",
         "camp",
         "crab"
-      ]
+      ],
+      "image": "words/cramp.webp"
     },
     {
       "id": "sore",
@@ -1028,7 +1082,8 @@
         "sour",
         "sort",
         "snore"
-      ]
+      ],
+      "image": "words/sore.webp"
     },
     {
       "id": "twisted_ankle",
@@ -1046,7 +1101,8 @@
         "twisted arm",
         "broken ankle",
         "ankle band"
-      ]
+      ],
+      "image": "words/twisted_ankle.webp"
     },
     {
       "id": "stamina",
@@ -1064,7 +1120,8 @@
         "stamp",
         "stadium",
         "vitamin"
-      ]
+      ],
+      "image": "words/stamina.webp"
     },
     {
       "id": "endurance",
@@ -1082,7 +1139,8 @@
         "insurance",
         "entrance",
         "assurance"
-      ]
+      ],
+      "image": "words/endurance.webp"
     },
     {
       "id": "flexibility",
@@ -1100,7 +1158,8 @@
         "visibility",
         "possibility",
         "reliability"
-      ]
+      ],
+      "image": "words/flexibility.webp"
     },
     {
       "id": "recovery",
@@ -1118,7 +1177,8 @@
         "discovery",
         "delivery",
         "refinery"
-      ]
+      ],
+      "image": "words/recovery.webp"
     },
     {
       "id": "shin_guard",
@@ -1136,7 +1196,8 @@
         "shin bone",
         "arm guard",
         "life guard"
-      ]
+      ],
+      "image": "words/shin_guard.webp"
     },
     {
       "id": "knee_pad",
@@ -1154,7 +1215,8 @@
         "key pad",
         "note pad",
         "elbow pad"
-      ]
+      ],
+      "image": "words/knee_pad.webp"
     },
     {
       "id": "mouthguard",
@@ -1172,7 +1234,8 @@
         "mouthwash",
         "body guard",
         "mouth piece"
-      ]
+      ],
+      "image": "words/mouthguard.webp"
     },
     {
       "id": "protein",
@@ -1190,7 +1253,8 @@
         "protest",
         "portion",
         "protection"
-      ]
+      ],
+      "image": "words/protein.webp"
     },
     {
       "id": "carbs",
@@ -1208,7 +1272,8 @@
         "cabs",
         "curbs",
         "crabs"
-      ]
+      ],
+      "image": "words/carbs.webp"
     },
     {
       "id": "supplement",
@@ -1226,7 +1291,8 @@
         "settlement",
         "compliment",
         "equipment"
-      ]
+      ],
+      "image": "words/supplement.webp"
     },
     {
       "id": "hydrate",
@@ -1244,7 +1310,8 @@
         "hibernate",
         "hydrant",
         "migrate"
-      ]
+      ],
+      "image": "words/hydrate.webp"
     },
     {
       "id": "sports_drink",
@@ -1262,7 +1329,8 @@
         "soft drink",
         "energy bar",
         "sport shoes"
-      ]
+      ],
+      "image": "words/sports_drink.webp"
     },
     {
       "id": "metabolism",
@@ -1280,7 +1348,8 @@
         "mechanism",
         "metropolis",
         "meteorology"
-      ]
+      ],
+      "image": "words/metabolism.webp"
     },
     {
       "id": "body_fat",
@@ -1298,7 +1367,8 @@
         "body language",
         "belly fat",
         "body weight"
-      ]
+      ],
+      "image": "words/body_fat.webp"
     },
     {
       "id": "lean",
@@ -1316,7 +1386,8 @@
         "learn",
         "line",
         "clean"
-      ]
+      ],
+      "image": "words/lean.webp"
     },
     {
       "id": "bulk_up",
@@ -1334,7 +1405,8 @@
         "back up",
         "build in",
         "bulk buy"
-      ]
+      ],
+      "image": "words/bulk_up.webp"
     },
     {
       "id": "burn_calories",
@@ -1352,7 +1424,8 @@
         "count calories",
         "burn out",
         "earn credit"
-      ]
+      ],
+      "image": "words/burn_calories.webp"
     },
     {
       "id": "locker_room",
@@ -1370,7 +1443,8 @@
         "living room",
         "lock door",
         "luggage room"
-      ]
+      ],
+      "image": "words/locker_room.webp"
     },
     {
       "id": "sprint",
@@ -1388,7 +1462,8 @@
         "sprinkle",
         "print",
         "spring"
-      ]
+      ],
+      "image": "words/sprint.webp"
     },
     {
       "id": "lap",
@@ -1406,7 +1481,8 @@
         "lamp",
         "leap",
         "laptop"
-      ]
+      ],
+      "image": "words/lap.webp"
     },
     {
       "id": "finish_line",
@@ -1424,7 +1500,8 @@
         "front line",
         "finish time",
         "final line"
-      ]
+      ],
+      "image": "words/finish_line.webp"
     },
     {
       "id": "coach",
@@ -1442,7 +1519,8 @@
         "couch",
         "cockroach",
         "catch"
-      ]
+      ],
+      "image": "words/coach.webp"
     },
     {
       "id": "captain",
@@ -1460,7 +1538,8 @@
         "caption",
         "capital",
         "curtain"
-      ]
+      ],
+      "image": "words/captain.webp"
     },
     {
       "id": "striker",
@@ -1478,7 +1557,8 @@
         "sticker",
         "stroller",
         "stranger"
-      ]
+      ],
+      "image": "words/striker.webp"
     },
     {
       "id": "goalkeeper",
@@ -1496,7 +1576,8 @@
         "gatekeeper",
         "housekeeper",
         "goal line"
-      ]
+      ],
+      "image": "words/goalkeeper.webp"
     },
     {
       "id": "defender",
@@ -1514,7 +1595,8 @@
         "depender",
         "defeated",
         "descender"
-      ]
+      ],
+      "image": "words/defender.webp"
     },
     {
       "id": "midfielder",
@@ -1532,7 +1614,8 @@
         "outfielder",
         "middle finger",
         "mid season"
-      ]
+      ],
+      "image": "words/midfielder.webp"
     },
     {
       "id": "substitute",
@@ -1550,7 +1633,8 @@
         "substance",
         "subscribe",
         "institute"
-      ]
+      ],
+      "image": "words/substitute.webp"
     },
     {
       "id": "starting_eleven",
@@ -1568,7 +1652,8 @@
         "starting point",
         "lucky eleven",
         "final eleven"
-      ]
+      ],
+      "image": "words/starting_eleven.webp"
     },
     {
       "id": "jersey",
@@ -1586,7 +1671,8 @@
         "journey",
         "jury",
         "jockey"
-      ]
+      ],
+      "image": "words/jersey.webp"
     },
     {
       "id": "cheer",
@@ -1604,7 +1690,8 @@
         "chair",
         "cheap",
         "chef"
-      ]
+      ],
+      "image": "words/cheer.webp"
     },
     {
       "id": "rival",
@@ -1622,7 +1709,8 @@
         "river",
         "revival",
         "arrival"
-      ]
+      ],
+      "image": "words/rival.webp"
     },
     {
       "id": "league",
@@ -1640,7 +1728,8 @@
         "legal",
         "leak",
         "ledge"
-      ]
+      ],
+      "image": "words/league.webp"
     },
     {
       "id": "playoff",
@@ -1658,7 +1747,8 @@
         "play list",
         "kick off",
         "pay off"
-      ]
+      ],
+      "image": "words/playoff.webp"
     },
     {
       "id": "semifinal",
@@ -1676,7 +1766,8 @@
         "seminar",
         "semicolon",
         "final round"
-      ]
+      ],
+      "image": "words/semifinal.webp"
     },
     {
       "id": "trophy",
@@ -1694,7 +1785,8 @@
         "trolley",
         "atrophy",
         "topic"
-      ]
+      ],
+      "image": "words/trophy.webp"
     },
     {
       "id": "medal",
@@ -1712,7 +1804,8 @@
         "metal",
         "model",
         "meddle"
-      ]
+      ],
+      "image": "words/medal.webp"
     },
     {
       "id": "runner_up",
@@ -1730,7 +1823,8 @@
         "running up",
         "warm up",
         "round up"
-      ]
+      ],
+      "image": "words/runner_up.webp"
     },
     {
       "id": "underdog",
@@ -1748,7 +1842,8 @@
         "underground",
         "hot dog",
         "underwear"
-      ]
+      ],
+      "image": "words/underdog.webp"
     },
     {
       "id": "draw",
@@ -1766,7 +1861,8 @@
         "drawer",
         "drop",
         "dry"
-      ]
+      ],
+      "image": "words/draw.webp"
     },
     {
       "id": "rematch",
@@ -1784,7 +1880,8 @@
         "remark",
         "research",
         "remote"
-      ]
+      ],
+      "image": "words/rematch.webp"
     },
     {
       "id": "win_streak",
@@ -1802,7 +1899,8 @@
         "win rate",
         "lose streak",
         "wind break"
-      ]
+      ],
+      "image": "words/win_streak.webp"
     },
     {
       "id": "match_point",
@@ -1820,7 +1918,8 @@
         "meeting point",
         "match box",
         "main point"
-      ]
+      ],
+      "image": "words/match_point.webp"
     },
     {
       "id": "ace",
@@ -1838,7 +1937,8 @@
         "age",
         "case",
         "face"
-      ]
+      ],
+      "image": "words/ace.webp"
     },
     {
       "id": "smash",
@@ -1856,7 +1956,8 @@
         "smart",
         "splash",
         "smooth"
-      ]
+      ],
+      "image": "words/smash.webp"
     },
     {
       "id": "dribble",
@@ -1874,7 +1975,8 @@
         "drizzle",
         "double",
         "dribbles out"
-      ]
+      ],
+      "image": "words/dribble.webp"
     },
     {
       "id": "rebound",
@@ -1892,7 +1994,8 @@
         "refund",
         "rewind",
         "rebuild"
-      ]
+      ],
+      "image": "words/rebound.webp"
     },
     {
       "id": "starting_line",
@@ -1910,7 +2013,8 @@
         "finish line",
         "start button",
         "straight line"
-      ]
+      ],
+      "image": "words/starting_line.webp"
     },
     {
       "id": "referee_card",
@@ -1928,7 +2032,8 @@
         "credit card",
         "score card",
         "report card"
-      ]
+      ],
+      "image": "words/referee_card.webp"
     }
   ]
 }

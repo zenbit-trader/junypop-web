@@ -29,7 +29,8 @@
           "denim",
           "silk",
           "leather"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_1.webp"
       },
       {
         "id": "beauty_fashion_2",
@@ -51,7 +52,8 @@
           "fashion_show",
           "runway",
           "mannequin"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_2.webp"
       },
       {
         "id": "beauty_fashion_3",
@@ -73,7 +75,8 @@
           "boots",
           "cap",
           "full_length_mirror"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_3.webp"
       },
       {
         "id": "beauty_fashion_4",
@@ -95,7 +98,8 @@
           "lip_balm",
           "palette",
           "makeup_remover"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_4.webp"
       },
       {
         "id": "beauty_fashion_5",
@@ -117,7 +121,8 @@
           "wrinkle",
           "oily_skin",
           "glow"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_5.webp"
       },
       {
         "id": "beauty_fashion_6",
@@ -139,7 +144,8 @@
           "hair_tie",
           "nail_polish",
           "manicure"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_6.webp"
       },
       {
         "id": "beauty_fashion_7",
@@ -161,7 +167,8 @@
           "eyebrow",
           "eyelash",
           "perfume"
-        ]
+        ],
+        "image": "lessons/beauty_fashion_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "output",
         "outlet",
         "offside"
-      ]
+      ],
+      "image": "words/outfit.webp"
     },
     {
       "id": "closet",
@@ -200,7 +208,8 @@
         "classic",
         "cloth",
         "collect"
-      ]
+      ],
+      "image": "words/closet.webp"
     },
     {
       "id": "trendy",
@@ -218,7 +227,8 @@
         "trainee",
         "friendly",
         "tragedy"
-      ]
+      ],
+      "image": "words/trendy.webp"
     },
     {
       "id": "vintage",
@@ -236,7 +246,8 @@
         "village",
         "vantage",
         "vanilla"
-      ]
+      ],
+      "image": "words/vintage.webp"
     },
     {
       "id": "oversized",
@@ -254,7 +265,8 @@
         "overpriced",
         "overnight",
         "overseas"
-      ]
+      ],
+      "image": "words/oversized.webp"
     },
     {
       "id": "fitted",
@@ -272,7 +284,8 @@
         "fitting",
         "fighting",
         "fated"
-      ]
+      ],
+      "image": "words/fitted.webp"
     },
     {
       "id": "sleeve",
@@ -290,7 +303,8 @@
         "sleep",
         "slice",
         "sleeve note"
-      ]
+      ],
+      "image": "words/sleeve.webp"
     },
     {
       "id": "collar",
@@ -308,7 +322,8 @@
         "colour",
         "caller",
         "cellar"
-      ]
+      ],
+      "image": "words/collar.webp"
     },
     {
       "id": "zipper",
@@ -326,7 +341,8 @@
         "slipper",
         "zebra",
         "dipper"
-      ]
+      ],
+      "image": "words/zipper.webp"
     },
     {
       "id": "hem",
@@ -344,7 +360,8 @@
         "him",
         "ham",
         "hen"
-      ]
+      ],
+      "image": "words/hem.webp"
     },
     {
       "id": "fabric",
@@ -362,7 +379,8 @@
         "factory",
         "fabulous",
         "flexible"
-      ]
+      ],
+      "image": "words/fabric.webp"
     },
     {
       "id": "denim",
@@ -380,7 +398,8 @@
         "dennim",
         "devil",
         "demand"
-      ]
+      ],
+      "image": "words/denim.webp"
     },
     {
       "id": "silk",
@@ -398,7 +417,8 @@
         "silver",
         "milk",
         "sink"
-      ]
+      ],
+      "image": "words/silk.webp"
     },
     {
       "id": "leather",
@@ -416,7 +436,8 @@
         "weather",
         "feather",
         "letter"
-      ]
+      ],
+      "image": "words/leather.webp"
     },
     {
       "id": "striped",
@@ -434,7 +455,8 @@
         "stripped",
         "striking",
         "stirred"
-      ]
+      ],
+      "image": "words/striped.webp"
     },
     {
       "id": "floral",
@@ -452,7 +474,8 @@
         "flooring",
         "flavour",
         "formal"
-      ]
+      ],
+      "image": "words/floral.webp"
     },
     {
       "id": "pastel",
@@ -470,7 +493,8 @@
         "pasta",
         "postal",
         "pistol"
-      ]
+      ],
+      "image": "words/pastel.webp"
     },
     {
       "id": "elegant",
@@ -488,7 +512,8 @@
         "elephant",
         "eloquent",
         "elegance"
-      ]
+      ],
+      "image": "words/elegant.webp"
     },
     {
       "id": "glamorous",
@@ -506,7 +531,8 @@
         "generous",
         "gracious",
         "gorgeous"
-      ]
+      ],
+      "image": "words/glamorous.webp"
     },
     {
       "id": "minimal",
@@ -524,7 +550,8 @@
         "minimum",
         "criminal",
         "musical"
-      ]
+      ],
+      "image": "words/minimal.webp"
     },
     {
       "id": "bold",
@@ -542,7 +569,8 @@
         "bald",
         "gold",
         "board"
-      ]
+      ],
+      "image": "words/bold.webp"
     },
     {
       "id": "matching",
@@ -560,7 +588,8 @@
         "marching",
         "watching",
         "catching"
-      ]
+      ],
+      "image": "words/matching.webp"
     },
     {
       "id": "accessorize",
@@ -578,7 +607,8 @@
         "accommodate",
         "authorize",
         "apologize"
-      ]
+      ],
+      "image": "words/accessorize.webp"
     },
     {
       "id": "collection",
@@ -596,7 +626,8 @@
         "correction",
         "connection",
         "collision"
-      ]
+      ],
+      "image": "words/collection.webp"
     },
     {
       "id": "designer",
@@ -614,7 +645,8 @@
         "designed",
         "dispenser",
         "director"
-      ]
+      ],
+      "image": "words/designer.webp"
     },
     {
       "id": "fashion_show",
@@ -632,7 +664,8 @@
         "talent show",
         "fashion sense",
         "game show"
-      ]
+      ],
+      "image": "words/fashion_show.webp"
     },
     {
       "id": "runway",
@@ -650,7 +683,8 @@
         "railway",
         "roadway",
         "runaway"
-      ]
+      ],
+      "image": "words/runway.webp"
     },
     {
       "id": "mannequin",
@@ -668,7 +702,8 @@
         "machine",
         "magazine",
         "mandarin"
-      ]
+      ],
+      "image": "words/mannequin.webp"
     },
     {
       "id": "earrings",
@@ -686,7 +721,8 @@
         "evenings",
         "earphones",
         "eyelashes"
-      ]
+      ],
+      "image": "words/earrings.webp"
     },
     {
       "id": "necklace",
@@ -704,7 +740,8 @@
         "neckline",
         "bracelet",
         "shoelace"
-      ]
+      ],
+      "image": "words/necklace.webp"
     },
     {
       "id": "bracelet",
@@ -722,7 +759,8 @@
         "breakfast",
         "brake light",
         "bracket"
-      ]
+      ],
+      "image": "words/bracelet.webp"
     },
     {
       "id": "scarf",
@@ -740,7 +778,8 @@
         "sharp",
         "shelf",
         "scared"
-      ]
+      ],
+      "image": "words/scarf.webp"
     },
     {
       "id": "handbag",
@@ -758,7 +797,8 @@
         "handmade",
         "backpack",
         "handbook"
-      ]
+      ],
+      "image": "words/handbag.webp"
     },
     {
       "id": "tote_bag",
@@ -776,7 +816,8 @@
         "total bag",
         "tool bag",
         "tea bag"
-      ]
+      ],
+      "image": "words/tote_bag.webp"
     },
     {
       "id": "wristwatch",
@@ -794,7 +835,8 @@
         "wristband",
         "stopwatch",
         "wrestling"
-      ]
+      ],
+      "image": "words/wristwatch.webp"
     },
     {
       "id": "heels",
@@ -812,7 +854,8 @@
         "hills",
         "heals",
         "wheels"
-      ]
+      ],
+      "image": "words/heels.webp"
     },
     {
       "id": "sneakers",
@@ -830,7 +873,8 @@
         "speakers",
         "snacks",
         "slippers"
-      ]
+      ],
+      "image": "words/sneakers.webp"
     },
     {
       "id": "sandals",
@@ -848,7 +892,8 @@
         "scandals",
         "candles",
         "sandwiches"
-      ]
+      ],
+      "image": "words/sandals.webp"
     },
     {
       "id": "flip_flops",
@@ -866,7 +911,8 @@
         "flip chart",
         "flap jacks",
         "flop house"
-      ]
+      ],
+      "image": "words/flip_flops.webp"
     },
     {
       "id": "boots",
@@ -884,7 +930,8 @@
         "boats",
         "booths",
         "beets"
-      ]
+      ],
+      "image": "words/boots.webp"
     },
     {
       "id": "cap",
@@ -902,7 +949,8 @@
         "cup",
         "cape",
         "gap"
-      ]
+      ],
+      "image": "words/cap.webp"
     },
     {
       "id": "full_length_mirror",
@@ -920,7 +968,8 @@
         "side mirror",
         "full moon",
         "rear mirror"
-      ]
+      ],
+      "image": "words/full_length_mirror.webp"
     },
     {
       "id": "makeup",
@@ -938,7 +987,8 @@
         "mockup",
         "markup",
         "wake up"
-      ]
+      ],
+      "image": "words/makeup.webp"
     },
     {
       "id": "foundation",
@@ -956,7 +1006,8 @@
         "fountain",
         "formation",
         "fascination"
-      ]
+      ],
+      "image": "words/foundation.webp"
     },
     {
       "id": "concealer",
@@ -974,7 +1025,8 @@
         "container",
         "controller",
         "counselor"
-      ]
+      ],
+      "image": "words/concealer.webp"
     },
     {
       "id": "contour",
@@ -992,7 +1044,8 @@
         "counter",
         "contract",
         "control"
-      ]
+      ],
+      "image": "words/contour.webp"
     },
     {
       "id": "cheek_tint",
@@ -1010,7 +1063,8 @@
         "cheek bone",
         "chest tint",
         "check point"
-      ]
+      ],
+      "image": "words/cheek_tint.webp"
     },
     {
       "id": "mascara",
@@ -1028,7 +1082,8 @@
         "massacre",
         "macaron",
         "mask"
-      ]
+      ],
+      "image": "words/mascara.webp"
     },
     {
       "id": "eyeliner",
@@ -1046,7 +1101,8 @@
         "airliner",
         "eyesight",
         "headliner"
-      ]
+      ],
+      "image": "words/eyeliner.webp"
     },
     {
       "id": "eyeshadow",
@@ -1064,7 +1120,8 @@
         "eyebrow",
         "sunshade",
         "eye drop"
-      ]
+      ],
+      "image": "words/eyeshadow.webp"
     },
     {
       "id": "brow_pencil",
@@ -1082,7 +1139,8 @@
         "brown pencil",
         "eye pencil",
         "blow pen"
-      ]
+      ],
+      "image": "words/brow_pencil.webp"
     },
     {
       "id": "lipstick",
@@ -1100,7 +1158,8 @@
         "chopstick",
         "lip balm",
         "lip service"
-      ]
+      ],
+      "image": "words/lipstick.webp"
     },
     {
       "id": "lip_gloss",
@@ -1118,7 +1177,8 @@
         "lip balm",
         "hair gloss",
         "lip line"
-      ]
+      ],
+      "image": "words/lip_gloss.webp"
     },
     {
       "id": "lip_balm",
@@ -1136,7 +1196,8 @@
         "lip gloss",
         "hand cream",
         "bath bomb"
-      ]
+      ],
+      "image": "words/lip_balm.webp"
     },
     {
       "id": "palette",
@@ -1154,7 +1215,8 @@
         "pallet",
         "parachute",
         "politic"
-      ]
+      ],
+      "image": "words/palette.webp"
     },
     {
       "id": "makeup_remover",
@@ -1172,7 +1234,8 @@
         "nail remover",
         "makeup artist",
         "stain remover"
-      ]
+      ],
+      "image": "words/makeup_remover.webp"
     },
     {
       "id": "skincare",
@@ -1190,7 +1253,8 @@
         "haircare",
         "skin tone",
         "healthcare"
-      ]
+      ],
+      "image": "words/skincare.webp"
     },
     {
       "id": "cleanser",
@@ -1208,7 +1272,8 @@
         "cleaner",
         "closer",
         "clencher"
-      ]
+      ],
+      "image": "words/cleanser.webp"
     },
     {
       "id": "toner",
@@ -1226,7 +1291,8 @@
         "tuner",
         "owner",
         "corner"
-      ]
+      ],
+      "image": "words/toner.webp"
     },
     {
       "id": "moisturizer",
@@ -1244,7 +1310,8 @@
         "mobilizer",
         "monitor",
         "mortgage"
-      ]
+      ],
+      "image": "words/moisturizer.webp"
     },
     {
       "id": "serum",
@@ -1262,7 +1329,8 @@
         "cereal",
         "sermon",
         "syrup"
-      ]
+      ],
+      "image": "words/serum.webp"
     },
     {
       "id": "primer",
@@ -1280,7 +1348,8 @@
         "prime time",
         "printer",
         "premier"
-      ]
+      ],
+      "image": "words/primer.webp"
     },
     {
       "id": "powder",
@@ -1298,7 +1367,8 @@
         "powder room",
         "powerful",
         "louder"
-      ]
+      ],
+      "image": "words/powder.webp"
     },
     {
       "id": "sheet_mask",
@@ -1316,7 +1386,8 @@
         "face towel",
         "sheet music",
         "dust mask"
-      ]
+      ],
+      "image": "words/sheet_mask.webp"
     },
     {
       "id": "uv_protection",
@@ -1334,7 +1405,8 @@
         "UV light",
         "fire protection",
         "data protection"
-      ]
+      ],
+      "image": "words/uv_protection.webp"
     },
     {
       "id": "acne",
@@ -1352,7 +1424,8 @@
         "ankle",
         "acorn",
         "agency"
-      ]
+      ],
+      "image": "words/acne.webp"
     },
     {
       "id": "pores",
@@ -1370,7 +1443,8 @@
         "pours",
         "paws",
         "ports"
-      ]
+      ],
+      "image": "words/pores.webp"
     },
     {
       "id": "wrinkle",
@@ -1388,7 +1462,8 @@
         "sprinkle",
         "twinkle",
         "wriggle"
-      ]
+      ],
+      "image": "words/wrinkle.webp"
     },
     {
       "id": "oily_skin",
@@ -1406,7 +1481,8 @@
         "only skin",
         "oily food",
         "olive skin"
-      ]
+      ],
+      "image": "words/oily_skin.webp"
     },
     {
       "id": "glow",
@@ -1424,7 +1500,8 @@
         "grow",
         "glue",
         "flow"
-      ]
+      ],
+      "image": "words/glow.webp"
     },
     {
       "id": "haircut",
@@ -1442,7 +1519,8 @@
         "hairstyle",
         "haircare",
         "shortcut"
-      ]
+      ],
+      "image": "words/haircut.webp"
     },
     {
       "id": "trim",
@@ -1460,7 +1538,8 @@
         "trip",
         "team",
         "tram"
-      ]
+      ],
+      "image": "words/trim.webp"
     },
     {
       "id": "bangs",
@@ -1478,7 +1557,8 @@
         "banks",
         "beans",
         "bands"
-      ]
+      ],
+      "image": "words/bangs.webp"
     },
     {
       "id": "ponytail",
@@ -1496,7 +1576,8 @@
         "pony ride",
         "cocktail",
         "pigtail"
-      ]
+      ],
+      "image": "words/ponytail.webp"
     },
     {
       "id": "braid",
@@ -1514,7 +1595,8 @@
         "bread",
         "brand",
         "brave"
-      ]
+      ],
+      "image": "words/braid.webp"
     },
     {
       "id": "curl",
@@ -1532,7 +1614,8 @@
         "girl",
         "cure",
         "curb"
-      ]
+      ],
+      "image": "words/curl.webp"
     },
     {
       "id": "straighten",
@@ -1550,7 +1633,8 @@
         "strengthen",
         "straight",
         "strangle"
-      ]
+      ],
+      "image": "words/straighten.webp"
     },
     {
       "id": "straightener",
@@ -1568,7 +1652,8 @@
         "strainer",
         "stretcher",
         "strangler"
-      ]
+      ],
+      "image": "words/straightener.webp"
     },
     {
       "id": "dye",
@@ -1586,7 +1671,8 @@
         "die",
         "dry",
         "day"
-      ]
+      ],
+      "image": "words/dye.webp"
     },
     {
       "id": "highlights",
@@ -1604,7 +1690,8 @@
         "headlights",
         "spotlights",
         "highways"
-      ]
+      ],
+      "image": "words/highlights.webp"
     },
     {
       "id": "conditioner",
@@ -1622,7 +1709,8 @@
         "condition",
         "commissioner",
         "confectioner"
-      ]
+      ],
+      "image": "words/conditioner.webp"
     },
     {
       "id": "hair_tie",
@@ -1640,7 +1728,8 @@
         "bow tie",
         "hair pin",
         "hair spray"
-      ]
+      ],
+      "image": "words/hair_tie.webp"
     },
     {
       "id": "nail_polish",
@@ -1658,7 +1747,8 @@
         "shoe polish",
         "nail file",
         "nail clipper"
-      ]
+      ],
+      "image": "words/nail_polish.webp"
     },
     {
       "id": "manicure",
@@ -1676,7 +1766,8 @@
         "miniature",
         "magazine",
         "menu card"
-      ]
+      ],
+      "image": "words/manicure.webp"
     },
     {
       "id": "salon",
@@ -1694,7 +1785,8 @@
         "saloon",
         "salad",
         "solid"
-      ]
+      ],
+      "image": "words/salon.webp"
     },
     {
       "id": "stylist",
@@ -1712,7 +1804,8 @@
         "specialist",
         "stylish",
         "soloist"
-      ]
+      ],
+      "image": "words/stylist.webp"
     },
     {
       "id": "pedicure",
@@ -1730,7 +1823,8 @@
         "pedestrian",
         "medicare",
         "procedure"
-      ]
+      ],
+      "image": "words/pedicure.webp"
     },
     {
       "id": "tailor",
@@ -1748,7 +1842,8 @@
         "trailer",
         "sailor",
         "teller"
-      ]
+      ],
+      "image": "words/tailor.webp"
     },
     {
       "id": "alteration",
@@ -1766,7 +1861,8 @@
         "altercation",
         "alternative",
         "administration"
-      ]
+      ],
+      "image": "words/alteration.webp"
     },
     {
       "id": "measurement",
@@ -1784,7 +1880,8 @@
         "management",
         "movement",
         "monument"
-      ]
+      ],
+      "image": "words/measurement.webp"
     },
     {
       "id": "natural_look",
@@ -1802,7 +1899,8 @@
         "natural gas",
         "new look",
         "nature walk"
-      ]
+      ],
+      "image": "words/natural_look.webp"
     },
     {
       "id": "bare_face",
@@ -1820,7 +1918,8 @@
         "bear face",
         "brave face",
         "bar fight"
-      ]
+      ],
+      "image": "words/bare_face.webp"
     },
     {
       "id": "whitening",
@@ -1838,7 +1937,8 @@
         "widening",
         "frightening",
         "lightning"
-      ]
+      ],
+      "image": "words/whitening.webp"
     },
     {
       "id": "anti_aging",
@@ -1856,7 +1956,8 @@
         "anti-virus",
         "anti-social",
         "all-aging"
-      ]
+      ],
+      "image": "words/anti_aging.webp"
     },
     {
       "id": "freckles",
@@ -1874,7 +1975,8 @@
         "fractures",
         "wrinkles",
         "freezers"
-      ]
+      ],
+      "image": "words/freckles.webp"
     },
     {
       "id": "eyebrow",
@@ -1892,7 +1994,8 @@
         "eyeball",
         "elbow",
         "rainbow"
-      ]
+      ],
+      "image": "words/eyebrow.webp"
     },
     {
       "id": "eyelash",
@@ -1910,7 +2013,8 @@
         "eyelid",
         "whiplash",
         "eye level"
-      ]
+      ],
+      "image": "words/eyelash.webp"
     },
     {
       "id": "perfume",
@@ -1928,7 +2032,8 @@
         "performance",
         "perform",
         "portfolio"
-      ]
+      ],
+      "image": "words/perfume.webp"
     }
   ]
 }

@@ -221,6 +221,28 @@
       "image": "worlds/money.webp"
     },
     {
+      "id": "fruits_veggies",
+      "file": "fruits_veggies.json",
+      "name_en": "Fruits & Vegetables",
+      "name_th": "ผลไม้และผัก",
+      "emoji": "🍎",
+      "color_start": "#6EDC5F",
+      "color_end": "#F2782B",
+      "available": true,
+      "image": "worlds/fruits_veggies.webp"
+    },
+    {
+      "id": "body_actions",
+      "file": "body_actions.json",
+      "name_en": "Body & Actions",
+      "name_th": "ร่างกายและท่าทาง",
+      "emoji": "🙆",
+      "color_start": "#FFC4A3",
+      "color_end": "#F2665E",
+      "available": true,
+      "image": "worlds/body_actions.webp"
+    },
+    {
       "id": "toeic_1",
       "name_en": "TOEIC Essentials 1",
       "name_th": "TOEIC ชุด 1",

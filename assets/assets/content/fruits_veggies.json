@@ -1,0 +1,2039 @@
+{
+  "world": {
+    "id": "fruits_veggies",
+    "name_en": "Fruits & Vegetables",
+    "name_th": "ผลไม้และผัก",
+    "emoji": "🍎",
+    "color_start": "#6EDC5F",
+    "color_end": "#F2782B",
+    "description_th": "ผลไม้ไทย ผลไม้นอก ผักในครัว ถั่วและธัญพืช พร้อมคำที่ใช้เลือกซื้อผักผลไม้ที่ตลาด — ดูรูปก็เดาคำได้",
+    "mascot_costume": "shopper",
+    "lessons": [
+      {
+        "id": "fruits_veggies_1",
+        "title_en": "Everyday Fruits",
+        "title_th": "ผลไม้ที่เจอทุกวัน",
+        "emoji": "🍌",
+        "word_ids": [
+          "apple",
+          "banana",
+          "orange",
+          "grape",
+          "pear",
+          "peach",
+          "plum",
+          "cherry",
+          "mango",
+          "pineapple",
+          "kiwi",
+          "avocado",
+          "papaya",
+          "pomegranate"
+        ],
+        "image": "lessons/fruits_veggies_1.webp"
+      },
+      {
+        "id": "fruits_veggies_2",
+        "title_en": "Thai & Tropical Fruits",
+        "title_th": "ผลไม้ไทยและผลไม้เมืองร้อน",
+        "emoji": "🥭",
+        "word_ids": [
+          "durian",
+          "mangosteen",
+          "rambutan",
+          "longan",
+          "lychee",
+          "jackfruit",
+          "dragon_fruit",
+          "pomelo",
+          "guava",
+          "tamarind",
+          "rose_apple",
+          "star_fruit",
+          "custard_apple",
+          "passion_fruit"
+        ],
+        "image": "lessons/fruits_veggies_2.webp"
+      },
+      {
+        "id": "fruits_veggies_3",
+        "title_en": "Berries, Melons & More",
+        "title_th": "เบอร์รี่ แตง และผลไม้นอก",
+        "emoji": "🍉",
+        "word_ids": [
+          "watermelon",
+          "cantaloupe",
+          "honeydew",
+          "lemon",
+          "lime",
+          "grapefruit",
+          "tangerine",
+          "blueberry",
+          "raspberry",
+          "blackberry",
+          "cranberry",
+          "fig",
+          "raisin",
+          "olive"
+        ],
+        "image": "lessons/fruits_veggies_3.webp"
+      },
+      {
+        "id": "fruits_veggies_4",
+        "title_en": "Everyday Vegetables",
+        "title_th": "ผักที่ใช้ทุกวัน",
+        "emoji": "🥕",
+        "word_ids": [
+          "tomato",
+          "potato",
+          "carrot",
+          "cabbage",
+          "cucumber",
+          "onion",
+          "lettuce",
+          "corn",
+          "broccoli",
+          "cauliflower",
+          "eggplant",
+          "bell_pepper",
+          "mushroom",
+          "spinach"
+        ],
+        "image": "lessons/fruits_veggies_4.webp"
+      },
+      {
+        "id": "fruits_veggies_5",
+        "title_en": "Thai Kitchen Veg & Herbs",
+        "title_th": "ผักและสมุนไพรครัวไทย",
+        "emoji": "🌶️",
+        "word_ids": [
+          "lemongrass",
+          "ginger",
+          "chili",
+          "shallot",
+          "spring_onion",
+          "coriander",
+          "morning_glory",
+          "bok_choy",
+          "bean_sprouts",
+          "long_bean",
+          "bitter_gourd",
+          "bamboo_shoot",
+          "taro",
+          "sweet_potato"
+        ],
+        "image": "lessons/fruits_veggies_5.webp"
+      },
+      {
+        "id": "fruits_veggies_6",
+        "title_en": "Beans, Nuts & Grains",
+        "title_th": "ถั่ว เมล็ด และธัญพืช",
+        "emoji": "🥜",
+        "word_ids": [
+          "peanut",
+          "cashew",
+          "almond",
+          "walnut",
+          "chestnut",
+          "pistachio",
+          "pea",
+          "soybean",
+          "mung_bean",
+          "kidney_bean",
+          "wheat",
+          "oats",
+          "sesame",
+          "sunflower_seeds"
+        ],
+        "image": "lessons/fruits_veggies_6.webp"
+      },
+      {
+        "id": "fruits_veggies_7",
+        "title_en": "From Farm to Market",
+        "title_th": "จากสวนสู่ตลาด",
+        "emoji": "🧺",
+        "word_ids": [
+          "bunch",
+          "core",
+          "rind",
+          "pit",
+          "ripe",
+          "rotten",
+          "wilted",
+          "seedless",
+          "dried",
+          "pick",
+          "orchard",
+          "farmer",
+          "pickle",
+          "jam"
+        ],
+        "image": "lessons/fruits_veggies_7.webp"
+      }
+    ]
+  },
+  "words": [
+    {
+      "id": "apple",
+      "word": "apple",
+      "pos": "noun",
+      "ipa": "/ˈæpəl/",
+      "reading_th": "แอ็พ-เพิ่ล",
+      "meaning_th": "แอปเปิ้ล",
+      "emoji": "🍎",
+      "example_en": "I eat an apple every morning.",
+      "example_th": "ฉันกินแอปเปิ้ลทุกเช้า",
+      "cefr": "A1",
+      "note_th": "an apple ใช้ an เพราะขึ้นต้นด้วยเสียงสระ — apple juice = น้ำแอปเปิ้ล, An apple a day keeps the doctor away = กินแอปเปิ้ลวันละลูก ไม่ต้องไปหาหมอ",
+      "distractors": [
+        "ample",
+        "apply",
+        "maple"
+      ],
+      "image": "words/apple.webp"
+    },
+    {
+      "id": "banana",
+      "word": "banana",
+      "pos": "noun",
+      "ipa": "/bəˈnænə/",
+      "reading_th": "บะ-แน-น่า",
+      "meaning_th": "กล้วย",
+      "emoji": "🍌",
+      "example_en": "Can you buy some bananas at the market?",
+      "example_th": "ช่วยซื้อกล้วยที่ตลาดหน่อยได้ไหม",
+      "cefr": "A1",
+      "note_th": "เน้นเสียงพยางค์กลาง บะ-แน-น่า — a bunch of bananas = กล้วยหนึ่งหวี, go bananas = ตื่นเต้นหรือโมโหจนเป็นบ้า (ภาษาพูด)",
+      "distractors": [
+        "bandana",
+        "bonanza",
+        "cabana"
+      ],
+      "image": "words/banana.webp"
+    },
+    {
+      "id": "orange",
+      "word": "orange",
+      "pos": "noun",
+      "ipa": "/ˈɔːrɪndʒ/",
+      "reading_th": "ออ-รินจ์",
+      "meaning_th": "ส้ม",
+      "emoji": "🍊",
+      "example_en": "Would you like a glass of fresh orange juice?",
+      "example_th": "รับน้ำส้มคั้นสดสักแก้วไหม",
+      "cefr": "A1",
+      "note_th": "orange เป็นได้ทั้งผลส้ม (นับได้: an orange) และสีส้ม — orange juice มักย่อว่า OJ; ส้มเขียวหวานลูกเล็กเปลือกล่อนเรียก tangerine",
+      "distractors": [
+        "arrange",
+        "range",
+        "origin"
+      ],
+      "image": "words/orange.webp"
+    },
+    {
+      "id": "grape",
+      "word": "grape",
+      "pos": "noun",
+      "ipa": "/ɡreɪp/",
+      "reading_th": "เกรพ",
+      "meaning_th": "องุ่น",
+      "emoji": "🍇",
+      "example_en": "These green grapes are sweet and crunchy.",
+      "example_th": "องุ่นเขียวพวกนี้หวานและกรอบ",
+      "cefr": "A1",
+      "note_th": "หนึ่งลูกคือ a grape ส่วนทั้งพวงพูดว่า a bunch of grapes — องุ่นแห้งไม่เรียก dried grape แต่ใช้คำว่า raisin",
+      "distractors": [
+        "grade",
+        "gripe",
+        "graph"
+      ],
+      "image": "words/grape.webp"
+    },
+    {
+      "id": "pear",
+      "word": "pear",
+      "pos": "noun",
+      "ipa": "/per/",
+      "reading_th": "แพร์",
+      "meaning_th": "ลูกแพร์",
+      "emoji": "🍐",
+      "example_en": "This pear is soft and very sweet.",
+      "example_th": "ลูกแพร์ลูกนี้นิ่มและหวานมาก",
+      "cefr": "A2",
+      "note_th": "pear ออกเสียงเหมือน pair (คู่) — อย่าอ่านว่า \"เพียร์\" เพราะนั่นคือ peer หรือ pier; pear-shaped = (สแลงอังกฤษ) พังไม่เป็นท่า",
+      "distractors": [
+        "pearl",
+        "peer",
+        "bear"
+      ],
+      "image": "words/pear.webp"
+    },
+    {
+      "id": "peach",
+      "word": "peach",
+      "pos": "noun",
+      "ipa": "/piːtʃ/",
+      "reading_th": "พีช",
+      "meaning_th": "ลูกพีช",
+      "emoji": "🍑",
+      "example_en": "The peach has soft, fuzzy skin.",
+      "example_th": "ลูกพีชมีผิวนุ่มเป็นขนละเอียด",
+      "cefr": "A2",
+      "note_th": "peach ผิวมีขนนุ่ม ส่วนพีชผิวเรียบเรียก nectarine — peachy = ดีงาม เยี่ยม (ภาษาพูด), peach color = สีพีช ชมพูอมส้ม",
+      "distractors": [
+        "beach",
+        "preach",
+        "pinch"
+      ],
+      "image": "words/peach.webp"
+    },
+    {
+      "id": "plum",
+      "word": "plum",
+      "pos": "noun",
+      "ipa": "/plʌm/",
+      "reading_th": "พลัม",
+      "meaning_th": "ลูกพลัม",
+      "emoji": "🟣",
+      "example_en": "She made a sweet plum sauce for the duck.",
+      "example_th": "เธอทำซอสพลัมหวานไว้กินกับเป็ด",
+      "cefr": "A2",
+      "note_th": "ลูกพลัมแห้งเรียก prune ไม่ค่อยพูดว่า dried plum — a plum job = งานดีๆ ที่ใครก็อยากได้",
+      "distractors": [
+        "plumb",
+        "palm",
+        "plump"
+      ],
+      "image": "words/plum.webp"
+    },
+    {
+      "id": "cherry",
+      "word": "cherry",
+      "pos": "noun",
+      "ipa": "/ˈtʃeri/",
+      "reading_th": "เช-รี่",
+      "meaning_th": "เชอร์รี่",
+      "emoji": "🍒",
+      "example_en": "There is a red cherry on top of the cake.",
+      "example_th": "มีเชอร์รี่สีแดงอยู่บนหน้าเค้ก",
+      "cefr": "A2",
+      "note_th": "พหูพจน์ cherries (เปลี่ยน y เป็น ies) — the cherry on top = สิ่งที่ทำให้ดียิ่งขึ้นไปอีก, cherry-pick = เลือกเอาแต่ส่วนที่ดี",
+      "distractors": [
+        "cheery",
+        "sherry",
+        "cherub"
+      ],
+      "image": "words/cherry.webp"
+    },
+    {
+      "id": "mango",
+      "word": "mango",
+      "pos": "noun",
+      "ipa": "/ˈmæŋɡoʊ/",
+      "reading_th": "แมง-โก้",
+      "meaning_th": "มะม่วง",
+      "emoji": "🥭",
+      "example_en": "Mango sticky rice is my favorite Thai dessert.",
+      "example_th": "ข้าวเหนียวมะม่วงคือของหวานไทยที่ฉันชอบที่สุด",
+      "cefr": "A1",
+      "note_th": "พหูพจน์ได้ทั้ง mangoes และ mangos — ข้าวเหนียวมะม่วง = mango sticky rice, มะม่วงดิบ = green mango",
+      "distractors": [
+        "tango",
+        "manga",
+        "mangle"
+      ],
+      "image": "words/mango.webp"
+    },
+    {
+      "id": "pineapple",
+      "word": "pineapple",
+      "pos": "noun",
+      "ipa": "/ˈpaɪnæpəl/",
+      "reading_th": "ไพน์-แอ็พ-เพิ่ล",
+      "meaning_th": "สับปะรด",
+      "emoji": "🍍",
+      "example_en": "We added pineapple to the fried rice.",
+      "example_th": "เราใส่สับปะรดลงในข้าวผัด",
+      "cefr": "A2",
+      "note_th": "pineapple ไม่ใช่ทั้ง pine (ต้นสน) และ apple แต่ได้ชื่อเพราะหน้าตาคล้ายลูกสน — ข้าวผัดสับปะรด = pineapple fried rice",
+      "distractors": [
+        "pinecone",
+        "pinball",
+        "grapple"
+      ],
+      "image": "words/pineapple.webp"
+    },
+    {
+      "id": "kiwi",
+      "word": "kiwi",
+      "pos": "noun",
+      "ipa": "/ˈkiːwi/",
+      "reading_th": "คี-วี่",
+      "meaning_th": "กีวี",
+      "emoji": "🥝",
+      "example_en": "Cut the kiwi in half and eat it with a spoon.",
+      "example_th": "ผ่ากีวีครึ่งลูกแล้วตักกินด้วยช้อน",
+      "cefr": "A2",
+      "note_th": "เรียกเต็มๆ ว่า kiwi fruit ก็ได้ เพราะ kiwi ยังเป็นชื่อนกของนิวซีแลนด์และชื่อเล่นของคนนิวซีแลนด์ — ออกเสียง คี-วี่ ไม่ใช่ กี-วี",
+      "distractors": [
+        "wiki",
+        "kiln",
+        "kimchi"
+      ],
+      "image": "words/kiwi.webp"
+    },
+    {
+      "id": "avocado",
+      "word": "avocado",
+      "pos": "noun",
+      "ipa": "/ˌævəˈkɑːdoʊ/",
+      "reading_th": "แอ-เวอะ-คา-โด้",
+      "meaning_th": "อะโวคาโด",
+      "emoji": "🥑",
+      "example_en": "I like avocado on my toast.",
+      "example_th": "ฉันชอบอะโวคาโดบนขนมปังปิ้ง",
+      "cefr": "A2",
+      "note_th": "อะโวคาโดบดเป็นซอสเรียก guacamole — avocado toast = ขนมปังปิ้งหน้าอะโวคาโด เมนูคาเฟ่ยอดฮิต; ภาษาพูดบางทีย่อว่า avo",
+      "distractors": [
+        "advocate",
+        "avocation",
+        "avalanche"
+      ],
+      "image": "words/avocado.webp"
+    },
+    {
+      "id": "papaya",
+      "word": "papaya",
+      "pos": "noun",
+      "ipa": "/pəˈpaɪə/",
+      "reading_th": "พะ-ไพ-ย่า",
+      "meaning_th": "มะละกอ",
+      "emoji": "🟠",
+      "example_en": "Green papaya is used to make som tam.",
+      "example_th": "มะละกอดิบใช้ทำส้มตำ",
+      "cefr": "A2",
+      "note_th": "ส้มตำในภาษาอังกฤษคือ papaya salad (หรือพูดว่า som tam ไปเลย) — มะละกอดิบ = green papaya, มะละกอสุก = ripe papaya",
+      "distractors": [
+        "papa",
+        "papyrus",
+        "pajama"
+      ],
+      "image": "words/papaya.webp"
+    },
+    {
+      "id": "pomegranate",
+      "word": "pomegranate",
+      "pos": "noun",
+      "ipa": "/ˈpɑːmɪɡrænɪt/",
+      "reading_th": "พอม-มิ-แกรน-นิท",
+      "meaning_th": "ทับทิม (ผลไม้)",
+      "emoji": "🔴",
+      "example_en": "The pomegranate is full of tiny red seeds.",
+      "example_th": "ทับทิมมีเมล็ดสีแดงเล็กๆ อยู่เต็มลูก",
+      "cefr": "B1",
+      "note_th": "เน้นพยางค์แรก พอม-มิ-แกรน-นิท — เมล็ดแดงฉ่ำข้างในเรียก seeds; ส่วนทับทิมที่เป็นอัญมณีคือ ruby ไม่ใช่คำนี้",
+      "distractors": [
+        "granite",
+        "pomade",
+        "pomeranian"
+      ],
+      "image": "words/pomegranate.webp"
+    },
+    {
+      "id": "durian",
+      "word": "durian",
+      "pos": "noun",
+      "ipa": "/ˈdʊriən/",
+      "reading_th": "ดู-เรียน",
+      "meaning_th": "ทุเรียน",
+      "emoji": "🍈",
+      "example_en": "Some people love the smell of durian, and some people hate it.",
+      "example_th": "บางคนชอบกลิ่นทุเรียน บางคนก็เกลียดมาก",
+      "cefr": "B1",
+      "note_th": "durian มาจากภาษามาเลย์ duri = หนาม — No durians allowed = ห้ามนำทุเรียนเข้า (เจอบ่อยในโรงแรมและรถไฟฟ้า); the king of fruits = ราชาผลไม้",
+      "distractors": [
+        "during",
+        "durable",
+        "duration"
+      ],
+      "image": "words/durian.webp"
+    },
+    {
+      "id": "mangosteen",
+      "word": "mangosteen",
+      "pos": "noun",
+      "ipa": "/ˈmæŋɡəstiːn/",
+      "reading_th": "แมง-เกอะ-สตีน",
+      "meaning_th": "มังคุด",
+      "emoji": "🟣",
+      "example_en": "Mangosteen has white, sweet flesh inside a purple shell.",
+      "example_th": "มังคุดมีเนื้อขาวรสหวานอยู่ในเปลือกสีม่วง",
+      "cefr": "B2",
+      "note_th": "ไม่เกี่ยวกับ mango แม้สะกดคล้ายกัน — ฝรั่งเรียกมังคุดว่า the queen of fruits คู่กับทุเรียน the king of fruits",
+      "distractors": [
+        "mongoose",
+        "magazine",
+        "mainstream"
+      ],
+      "image": "words/mangosteen.webp"
+    },
+    {
+      "id": "rambutan",
+      "word": "rambutan",
+      "pos": "noun",
+      "ipa": "/ræmˈbuːtən/",
+      "reading_th": "แรม-บู-เทิ่น",
+      "meaning_th": "เงาะ",
+      "emoji": "🔴",
+      "example_en": "Rambutan looks hairy, but it is soft and sweet inside.",
+      "example_th": "เงาะดูมีขน แต่ข้างในนุ่มและหวาน",
+      "cefr": "B2",
+      "note_th": "มาจากภาษามาเลย์ rambut = ผม เพราะเปลือกมีขนเหมือนผม — ฝรั่งหลายคนเรียกเล่นๆ ว่า hairy lychee",
+      "distractors": [
+        "rattan",
+        "ramen",
+        "rambler"
+      ],
+      "image": "words/rambutan.webp"
+    },
+    {
+      "id": "longan",
+      "word": "longan",
+      "pos": "noun",
+      "ipa": "/ˈlɔːŋɡən/",
+      "reading_th": "ลอง-เกิ่น",
+      "meaning_th": "ลำไย",
+      "emoji": "🟤",
+      "example_en": "We bought a big bag of longan at the market.",
+      "example_th": "เราซื้อลำไยถุงใหญ่ที่ตลาด",
+      "cefr": "B2",
+      "note_th": "longan มาจากภาษาจีนแปลว่าตามังกร — ลำไยอบแห้ง = dried longan; อย่าสับสนกับ lychee (ลิ้นจี่) ที่เปลือกแดงและขรุขระกว่า",
+      "distractors": [
+        "longer",
+        "longing",
+        "slogan"
+      ],
+      "image": "words/longan.webp"
+    },
+    {
+      "id": "lychee",
+      "word": "lychee",
+      "pos": "noun",
+      "ipa": "/ˈliːtʃi/",
+      "reading_th": "ลี-ชี่",
+      "meaning_th": "ลิ้นจี่",
+      "emoji": "🤍",
+      "example_en": "I ordered a cold lychee drink.",
+      "example_th": "ฉันสั่งน้ำลิ้นจี่เย็นๆ",
+      "cefr": "B1",
+      "note_th": "สะกดได้ทั้ง lychee และ litchi ออกเสียงได้ทั้ง ลี-ชี่ (US) และ ไล-ชี่ (UK) — lychee juice / lychee tea เป็นเมนูน้ำยอดนิยม",
+      "distractors": [
+        "lichen",
+        "lyric",
+        "leech"
+      ],
+      "image": "words/lychee.webp"
+    },
+    {
+      "id": "jackfruit",
+      "word": "jackfruit",
+      "pos": "noun",
+      "ipa": "/ˈdʒækfruːt/",
+      "reading_th": "แจ็ค-ฟรุท",
+      "meaning_th": "ขนุน",
+      "emoji": "🟡",
+      "example_en": "Jackfruit smells sweet when it is ripe.",
+      "example_th": "ขนุนมีกลิ่นหอมหวานเมื่อสุก",
+      "cefr": "B1",
+      "note_th": "ขนุนสุกกินเป็นผลไม้ ส่วนขนุนอ่อน (young jackfruit) ใช้ทำแกงหรือเนื้อเทียมในเมนูวีแกน — คนละผลกับทุเรียนแม้เปลือกขรุขระเหมือนกัน",
+      "distractors": [
+        "jacket",
+        "jackpot",
+        "jackal"
+      ],
+      "image": "words/jackfruit.webp"
+    },
+    {
+      "id": "dragon_fruit",
+      "word": "dragon fruit",
+      "pos": "noun",
+      "ipa": "/ˈdræɡən fruːt/",
+      "reading_th": "แดร-เกิ่น ฟรุท",
+      "meaning_th": "แก้วมังกร",
+      "emoji": "🐉",
+      "example_en": "Dragon fruit has pink skin and white flesh with tiny black seeds.",
+      "example_th": "แก้วมังกรมีเปลือกสีชมพูและเนื้อขาวที่มีเมล็ดดำเล็กๆ",
+      "cefr": "B1",
+      "note_th": "อีกชื่อคือ pitaya (พิทาย่า) — มีทั้งเนื้อขาวและเนื้อแดง: white-fleshed / red-fleshed dragon fruit",
+      "distractors": [
+        "dragonfly",
+        "dragon boat",
+        "dragnet"
+      ],
+      "image": "words/dragon_fruit.webp"
+    },
+    {
+      "id": "pomelo",
+      "word": "pomelo",
+      "pos": "noun",
+      "ipa": "/ˈpɑːməloʊ/",
+      "reading_th": "พา-เมอะ-โล่",
+      "meaning_th": "ส้มโอ",
+      "emoji": "🍊",
+      "example_en": "We made a spicy salad with pomelo and shrimp.",
+      "example_th": "เราทำยำส้มโอใส่กุ้ง",
+      "cefr": "B1",
+      "note_th": "pomelo ลูกใหญ่กว่าและหวานกว่า grapefruit — ยำส้มโอ = pomelo salad; ส่วนเนื้อขาวนุ่มๆ ใต้เปลือกเรียก pith",
+      "distractors": [
+        "pommel",
+        "pueblo",
+        "pomade"
+      ],
+      "image": "words/pomelo.webp"
+    },
+    {
+      "id": "guava",
+      "word": "guava",
+      "pos": "noun",
+      "ipa": "/ˈɡwɑːvə/",
+      "reading_th": "กวา-ว่า",
+      "meaning_th": "ฝรั่ง (ผลไม้)",
+      "emoji": "🍏",
+      "example_en": "Thai people often eat guava with chili salt.",
+      "example_th": "คนไทยชอบกินฝรั่งจิ้มพริกเกลือ",
+      "cefr": "B1",
+      "note_th": "ระวัง! ผลไม้ฝรั่งคือ guava ส่วนคนต่างชาติที่เราเรียกว่าฝรั่งคือ foreigner หรือ Westerner — guava juice = น้ำฝรั่ง",
+      "distractors": [
+        "guano",
+        "java",
+        "lava"
+      ],
+      "image": "words/guava.webp"
+    },
+    {
+      "id": "tamarind",
+      "word": "tamarind",
+      "pos": "noun",
+      "ipa": "/ˈtæmərɪnd/",
+      "reading_th": "แทม-เมอะ-รินด์",
+      "meaning_th": "มะขาม",
+      "emoji": "🫘",
+      "example_en": "Tamarind gives pad thai its sour taste.",
+      "example_th": "มะขามทำให้ผัดไทยมีรสเปรี้ยว",
+      "cefr": "B1",
+      "note_th": "ใช้ได้ทั้งมะขามเปรี้ยวในอาหาร (tamarind paste = น้ำมะขามเปียก) และมะขามหวานกินเล่น (sweet tamarind)",
+      "distractors": [
+        "tamarin",
+        "tambourine",
+        "marinade"
+      ],
+      "image": "words/tamarind.webp"
+    },
+    {
+      "id": "rose_apple",
+      "word": "rose apple",
+      "pos": "noun",
+      "ipa": "/ˈroʊz æpəl/",
+      "reading_th": "โรส แอ็พ-เพิ่ล",
+      "meaning_th": "ชมพู่",
+      "emoji": "🔔",
+      "example_en": "A rose apple is crunchy and full of water.",
+      "example_th": "ชมพู่กรอบและฉ่ำน้ำ",
+      "cefr": "B1",
+      "note_th": "บางที่เรียก wax apple หรือ water apple — ไม่ใช่แอปเปิ้ลจริงๆ แต่ได้ชื่อจากกลิ่นหอมอ่อนๆ คล้ายกุหลาบ",
+      "distractors": [
+        "rose petal",
+        "rosemary",
+        "crab apple"
+      ],
+      "image": "words/rose_apple.webp"
+    },
+    {
+      "id": "star_fruit",
+      "word": "star fruit",
+      "pos": "noun",
+      "ipa": "/ˈstɑːr fruːt/",
+      "reading_th": "สตาร์ ฟรุท",
+      "meaning_th": "มะเฟือง",
+      "emoji": "⭐",
+      "example_en": "When you slice a star fruit, each piece looks like a star.",
+      "example_th": "เวลาหั่นมะเฟือง แต่ละชิ้นจะเป็นรูปดาว",
+      "cefr": "B1",
+      "note_th": "ชื่อทางการคือ carambola — ได้ชื่อ star fruit เพราะหั่นตามขวางแล้วได้ชิ้นรูปดาว (star-shaped slices)",
+      "distractors": [
+        "starfish",
+        "stardust",
+        "starlight"
+      ],
+      "image": "words/star_fruit.webp"
+    },
+    {
+      "id": "custard_apple",
+      "word": "custard apple",
+      "pos": "noun",
+      "ipa": "/ˈkʌstərd æpəl/",
+      "reading_th": "คัส-เติร์ด แอ็พ-เพิ่ล",
+      "meaning_th": "น้อยหน่า",
+      "emoji": "💚",
+      "example_en": "Break the custard apple open with your hands.",
+      "example_th": "ใช้มือแกะน้อยหน่าออกได้เลย",
+      "cefr": "B1",
+      "note_th": "น้อยหน่ามีหลายชื่อ เช่น sugar apple หรือ sweetsop — ได้ชื่อนี้เพราะเนื้อขาวนุ่มเนียนเหมือนคัสตาร์ด",
+      "distractors": [
+        "custard pie",
+        "mustard",
+        "candy apple"
+      ],
+      "image": "words/custard_apple.webp"
+    },
+    {
+      "id": "passion_fruit",
+      "word": "passion fruit",
+      "pos": "noun",
+      "ipa": "/ˈpæʃən fruːt/",
+      "reading_th": "แพช-ชั่น ฟรุท",
+      "meaning_th": "เสาวรส",
+      "emoji": "💜",
+      "example_en": "Passion fruit juice is sweet and sour.",
+      "example_th": "น้ำเสาวรสมีรสเปรี้ยวอมหวาน",
+      "cefr": "B1",
+      "note_th": "passion ในชื่อนี้ไม่ได้แปลว่าความหลงใหล แต่มาจากเรื่องทางศาสนาที่ตั้งตามรูปดอก — คนไทยเรียกทับศัพท์ว่า แพชชั่นฟรุต ได้เลย",
+      "distractors": [
+        "passionate",
+        "pension",
+        "fashion"
+      ],
+      "image": "words/passion_fruit.webp"
+    },
+    {
+      "id": "watermelon",
+      "word": "watermelon",
+      "pos": "noun",
+      "ipa": "/ˈwɔːtərmelən/",
+      "reading_th": "วอ-เตอร์-เมล-เลิ่น",
+      "meaning_th": "แตงโม",
+      "emoji": "🍉",
+      "example_en": "Nothing beats cold watermelon on a hot day.",
+      "example_th": "ไม่มีอะไรดีไปกว่าแตงโมเย็นๆ ในวันที่อากาศร้อน",
+      "cefr": "A1",
+      "note_th": "water + melon = แตงที่มีน้ำเยอะ — a slice of watermelon = แตงโมหนึ่งชิ้น, watermelon smoothie = แตงโมปั่น",
+      "distractors": [
+        "watermark",
+        "watermill",
+        "water lily"
+      ],
+      "image": "words/watermelon.webp"
+    },
+    {
+      "id": "cantaloupe",
+      "word": "cantaloupe",
+      "pos": "noun",
+      "ipa": "/ˈkæntəloʊp/",
+      "reading_th": "แคน-เทอะ-โลพ",
+      "meaning_th": "แคนตาลูป (เนื้อสีส้ม)",
+      "emoji": "🍈",
+      "example_en": "The cantaloupe is orange inside and smells sweet.",
+      "example_th": "แคนตาลูปข้างในเป็นสีส้มและมีกลิ่นหอมหวาน",
+      "cefr": "B1",
+      "note_th": "ตัว e ท้ายไม่ออกเสียง อ่านว่า แคน-เทอะ-โลพ — เนื้อสีส้ม ผิวเป็นลายตาข่าย ต่างจาก honeydew ที่เนื้อเขียวผิวเรียบ",
+      "distractors": [
+        "canteen",
+        "antelope",
+        "cantilever"
+      ],
+      "image": "words/cantaloupe.webp"
+    },
+    {
+      "id": "honeydew",
+      "word": "honeydew",
+      "pos": "noun",
+      "ipa": "/ˈhʌniduː/",
+      "reading_th": "ฮัน-นี่-ดู",
+      "meaning_th": "เมลอนเนื้อเขียว (ฮันนี่ดิว)",
+      "emoji": "🍈",
+      "example_en": "The fruit cup has honeydew, grapes and pineapple.",
+      "example_th": "ถ้วยผลไม้มีเมลอนเนื้อเขียว องุ่น และสับปะรด",
+      "cefr": "B2",
+      "note_th": "honey (น้ำผึ้ง) + dew (น้ำค้าง) — ในไทยมักเรียกรวมๆ ว่า เมลอน; ร้านผลไม้มักขายคู่กับ cantaloupe ในถ้วยผลไม้รวม",
+      "distractors": [
+        "honeybee",
+        "honeymoon",
+        "honeycomb"
+      ],
+      "image": "words/honeydew.webp"
+    },
+    {
+      "id": "lemon",
+      "word": "lemon",
+      "pos": "noun",
+      "ipa": "/ˈlemən/",
+      "reading_th": "เลม-เมิ่น",
+      "meaning_th": "เลมอน (มะนาวเหลือง)",
+      "emoji": "🍋",
+      "example_en": "Add a slice of lemon to your tea.",
+      "example_th": "ใส่เลมอนหนึ่งแว่นลงในชา",
+      "cefr": "A1",
+      "note_th": "ระวัง! มะนาวไทยลูกเขียวคือ lime ส่วน lemon คือมะนาวเหลืองลูกใหญ่ผิวหนา — lemon (สแลงอเมริกัน) = ของที่ซื้อมาแล้วเสียบ่อย เช่นรถมือสอง",
+      "distractors": [
+        "lemur",
+        "demon",
+        "melon"
+      ],
+      "image": "words/lemon.webp"
+    },
+    {
+      "id": "lime",
+      "word": "lime",
+      "pos": "noun",
+      "ipa": "/laɪm/",
+      "reading_th": "ไลม์",
+      "meaning_th": "มะนาว",
+      "emoji": "🟢",
+      "example_en": "Squeeze some lime on your noodles.",
+      "example_th": "บีบมะนาวลงบนก๋วยเตี๋ยวนิดหน่อย",
+      "cefr": "A2",
+      "note_th": "มะนาวลูกเขียวที่ใส่ต้มยำและส้มตำคือ lime ไม่ใช่ lemon — a squeeze of lime = บีบมะนาวนิดหน่อย; lime green = สีเขียวมะนาว",
+      "distractors": [
+        "limb",
+        "line",
+        "mile"
+      ],
+      "image": "words/lime.webp"
+    },
+    {
+      "id": "grapefruit",
+      "word": "grapefruit",
+      "pos": "noun",
+      "ipa": "/ˈɡreɪpfruːt/",
+      "reading_th": "เกรพ-ฟรุท",
+      "meaning_th": "เกรปฟรุต",
+      "emoji": "🍊",
+      "example_en": "He eats half a grapefruit for breakfast.",
+      "example_th": "เขากินเกรปฟรุตครึ่งลูกเป็นอาหารเช้า",
+      "cefr": "A2",
+      "note_th": "ไม่ใช่องุ่น แต่ได้ชื่อเพราะออกลูกเป็นพวงคล้ายองุ่น — รสเปรี้ยวอมขม ฝรั่งชอบผ่าครึ่งแล้วใช้ช้อนตักกินตอนเช้า",
+      "distractors": [
+        "grateful",
+        "graceful",
+        "grapevine"
+      ],
+      "image": "words/grapefruit.webp"
+    },
+    {
+      "id": "tangerine",
+      "word": "tangerine",
+      "pos": "noun",
+      "ipa": "/ˌtændʒəˈriːn/",
+      "reading_th": "แทน-เจอะ-รีน",
+      "meaning_th": "ส้มเขียวหวาน",
+      "emoji": "🍊",
+      "example_en": "Tangerines are easy to peel with your fingers.",
+      "example_th": "ส้มเขียวหวานแกะเปลือกด้วยนิ้วได้ง่าย",
+      "cefr": "B1",
+      "note_th": "ส้มลูกเล็กเปลือกบางล่อนง่ายเรียก tangerine หรือ mandarin — ส่วน orange คือส้มลูกกลมเปลือกหนา ฝรั่งแยกสองคำนี้ชัดเจน",
+      "distractors": [
+        "tangent",
+        "tangible",
+        "tambourine"
+      ],
+      "image": "words/tangerine.webp"
+    },
+    {
+      "id": "blueberry",
+      "word": "blueberry",
+      "pos": "noun",
+      "ipa": "/ˈbluːberi/",
+      "reading_th": "บลู-เบ-รี่",
+      "meaning_th": "บลูเบอร์รี่",
+      "emoji": "🫐",
+      "example_en": "She makes blueberry pancakes on Sundays.",
+      "example_th": "เธอทำแพนเค้กบลูเบอร์รี่ทุกวันอาทิตย์",
+      "cefr": "A2",
+      "note_th": "เขียนติดกันเป็นคำเดียว พหูพจน์ blueberries — blueberry cheesecake / blueberry muffin เป็นเมนูคาเฟ่ที่เจอบ่อย",
+      "distractors": [
+        "blueprint",
+        "bluebell",
+        "blubbery"
+      ],
+      "image": "words/blueberry.webp"
+    },
+    {
+      "id": "raspberry",
+      "word": "raspberry",
+      "pos": "noun",
+      "ipa": "/ˈræzberi/",
+      "reading_th": "แรซ-เบ-รี่",
+      "meaning_th": "ราสเบอร์รี่",
+      "emoji": "🔴",
+      "example_en": "The raspberry jam is bright red.",
+      "example_th": "แยมราสเบอร์รี่สีแดงสด",
+      "cefr": "B1",
+      "note_th": "ตัว p ไม่ออกเสียง อ่านว่า แรซ-เบ-รี่ — blow a raspberry = ทำเสียงพรืดด้วยปากเพื่อแซว (ภาษาพูด)",
+      "distractors": [
+        "raspy",
+        "rhapsody",
+        "rosemary"
+      ],
+      "image": "words/raspberry.webp"
+    },
+    {
+      "id": "blackberry",
+      "word": "blackberry",
+      "pos": "noun",
+      "ipa": "/ˈblækberi/",
+      "reading_th": "แบล็ค-เบ-รี่",
+      "meaning_th": "แบล็กเบอร์รี่",
+      "emoji": "⚫",
+      "example_en": "This blackberry pie is sweet and a little sour.",
+      "example_th": "พายแบล็กเบอร์รี่ชิ้นนี้หวานอมเปรี้ยว",
+      "cefr": "B1",
+      "note_th": "ผลสุกสีดำเงา ผลดิบเป็นสีแดง — คนรุ่นก่อนรู้จัก BlackBerry ในฐานะยี่ห้อมือถือ แต่คำนี้คือผลไม้ตระกูลเบอร์รี่",
+      "distractors": [
+        "blackboard",
+        "blackbird",
+        "blackmail"
+      ],
+      "image": "words/blackberry.webp"
+    },
+    {
+      "id": "cranberry",
+      "word": "cranberry",
+      "pos": "noun",
+      "ipa": "/ˈkrænberi/",
+      "reading_th": "แครน-เบ-รี่",
+      "meaning_th": "แครนเบอร์รี่",
+      "emoji": "🔴",
+      "example_en": "Cranberry juice is sour but refreshing.",
+      "example_th": "น้ำแครนเบอร์รี่เปรี้ยวแต่สดชื่น",
+      "cefr": "B1",
+      "note_th": "มักเจอเป็น cranberry juice หรือ dried cranberries (แครนเบอร์รี่อบแห้ง) — ซอสแครนเบอร์รี่กินคู่กับไก่งวงในวันขอบคุณพระเจ้า",
+      "distractors": [
+        "cranky",
+        "crane",
+        "cranium"
+      ],
+      "image": "words/cranberry.webp"
+    },
+    {
+      "id": "fig",
+      "word": "fig",
+      "pos": "noun",
+      "ipa": "/fɪɡ/",
+      "reading_th": "ฟิก",
+      "meaning_th": "ลูกฟิก (มะเดื่อฝรั่ง)",
+      "emoji": "🟣",
+      "example_en": "A ripe fig is soft and pink inside.",
+      "example_th": "ลูกฟิกที่สุกแล้วข้างในนิ่มและเป็นสีชมพู",
+      "cefr": "B1",
+      "note_th": "ฝรั่งเรียกมะเดื่อฝรั่งว่า fig — I don't give a fig = ฉันไม่สนเลยสักนิด (สำนวนเก่า); dried figs = ลูกฟิกแห้ง",
+      "distractors": [
+        "fog",
+        "fin",
+        "pig"
+      ],
+      "image": "words/fig.webp"
+    },
+    {
+      "id": "raisin",
+      "word": "raisin",
+      "pos": "noun",
+      "ipa": "/ˈreɪzən/",
+      "reading_th": "เร-ซิ่น",
+      "meaning_th": "ลูกเกด",
+      "emoji": "🍇",
+      "example_en": "There are raisins in this bread.",
+      "example_th": "ขนมปังนี้มีลูกเกดอยู่ด้วย",
+      "cefr": "A2",
+      "note_th": "raisin = องุ่นแห้ง ไม่ใช่องุ่นสด (grape) — ขนมปังลูกเกด = raisin bread; ระวังสับสนกับ reason ที่ออกเสียงคล้ายกัน",
+      "distractors": [
+        "raising",
+        "reason",
+        "resin"
+      ],
+      "image": "words/raisin.webp"
+    },
+    {
+      "id": "olive",
+      "word": "olive",
+      "pos": "noun",
+      "ipa": "/ˈɑːlɪv/",
+      "reading_th": "ออ-ลิฟ",
+      "meaning_th": "ลูกมะกอก (โอลีฟ)",
+      "emoji": "🫒",
+      "example_en": "I don't like olives on my pizza.",
+      "example_th": "ฉันไม่ชอบมะกอกบนพิซซ่า",
+      "cefr": "A2",
+      "note_th": "olive คือมะกอกฝรั่ง คนละชนิดกับมะกอกไทยที่ใส่ส้มตำ — olive green = สีเขียวขี้ม้า, pitted olives = มะกอกที่เอาเมล็ดออกแล้ว",
+      "distractors": [
+        "alive",
+        "oval",
+        "outlive"
+      ],
+      "image": "words/olive.webp"
+    },
+    {
+      "id": "tomato",
+      "word": "tomato",
+      "pos": "noun",
+      "ipa": "/təˈmeɪtoʊ/",
+      "reading_th": "เทอะ-เม-โท่",
+      "meaning_th": "มะเขือเทศ",
+      "emoji": "🍅",
+      "example_en": "Cut the tomatoes into small pieces.",
+      "example_th": "หั่นมะเขือเทศเป็นชิ้นเล็กๆ",
+      "cefr": "A1",
+      "note_th": "ออกเสียงได้ทั้ง เทอะ-เม-โท่ (US) และ เทอะ-มา-โท่ (UK) — พหูพจน์เติม -es เป็น tomatoes; ซอสมะเขือเทศขวด = ketchup",
+      "distractors": [
+        "tornado",
+        "tomorrow",
+        "tamale"
+      ],
+      "image": "words/tomato.webp"
+    },
+    {
+      "id": "potato",
+      "word": "potato",
+      "pos": "noun",
+      "ipa": "/pəˈteɪtoʊ/",
+      "reading_th": "เพอะ-เท-โท่",
+      "meaning_th": "มันฝรั่ง",
+      "emoji": "🥔",
+      "example_en": "Potatoes grow under the ground.",
+      "example_th": "มันฝรั่งเติบโตอยู่ใต้ดิน",
+      "cefr": "A1",
+      "note_th": "พหูพจน์เติม -es เป็น potatoes — mashed potatoes = มันบด, couch potato = คนที่เอาแต่นอนดูทีวีบนโซฟา",
+      "distractors": [
+        "potion",
+        "pothole",
+        "photo"
+      ],
+      "image": "words/potato.webp"
+    },
+    {
+      "id": "carrot",
+      "word": "carrot",
+      "pos": "noun",
+      "ipa": "/ˈkærət/",
+      "reading_th": "แคร์-เริ่ท",
+      "meaning_th": "แครอท",
+      "emoji": "🥕",
+      "example_en": "Carrots are good for your eyes.",
+      "example_th": "แครอทดีต่อดวงตา",
+      "cefr": "A1",
+      "note_th": "carrot and stick = ใช้ทั้งรางวัลและการลงโทษเพื่อจูงใจ — ออกเสียงเหมือน carat (กะรัต) ต้องดูจากบริบท",
+      "distractors": [
+        "carat",
+        "parrot",
+        "cart"
+      ],
+      "image": "words/carrot.webp"
+    },
+    {
+      "id": "cabbage",
+      "word": "cabbage",
+      "pos": "noun",
+      "ipa": "/ˈkæbɪdʒ/",
+      "reading_th": "แคบ-บิจ",
+      "meaning_th": "กะหล่ำปลี",
+      "emoji": "🥬",
+      "example_en": "My grandma puts cabbage in her soup.",
+      "example_th": "คุณยายใส่กะหล่ำปลีในซุป",
+      "cefr": "A2",
+      "note_th": "ท้ายคำออกเสียง -บิจ ไม่ใช่ -เบจ — ผักกาดขาวทรงยาวของจีนเรียก Chinese cabbage หรือ napa cabbage",
+      "distractors": [
+        "garbage",
+        "cabin",
+        "baggage"
+      ],
+      "image": "words/cabbage.webp"
+    },
+    {
+      "id": "cucumber",
+      "word": "cucumber",
+      "pos": "noun",
+      "ipa": "/ˈkjuːkʌmbər/",
+      "reading_th": "คิว-คัม-เบอร์",
+      "meaning_th": "แตงกวา",
+      "emoji": "🥒",
+      "example_en": "Put two cucumber slices on your eyes to relax.",
+      "example_th": "วางแตงกวาฝานบางๆ สองแผ่นบนตาเพื่อผ่อนคลาย",
+      "cefr": "A2",
+      "note_th": "cool as a cucumber = ใจเย็นสุดๆ ไม่ตื่นเต้นเลย — แตงกวาดองเรียก pickle; ออกเสียง คิว-คัม-เบอร์",
+      "distractors": [
+        "cuckoo",
+        "encumber",
+        "number"
+      ],
+      "image": "words/cucumber.webp"
+    },
+    {
+      "id": "onion",
+      "word": "onion",
+      "pos": "noun",
+      "ipa": "/ˈʌnjən/",
+      "reading_th": "อัน-เยิ่น",
+      "meaning_th": "หัวหอมใหญ่",
+      "emoji": "🧅",
+      "example_en": "Cutting onions always makes me cry.",
+      "example_th": "หั่นหอมใหญ่ทีไรน้ำตาไหลทุกที",
+      "cefr": "A1",
+      "note_th": "หอมใหญ่ = onion, หอมแดง = shallot, ต้นหอม = spring onion — onion rings = หอมใหญ่ชุบแป้งทอด; ตัว o ออกเสียง อั",
+      "distractors": [
+        "union",
+        "opinion",
+        "onyx"
+      ],
+      "image": "words/onion.webp"
+    },
+    {
+      "id": "lettuce",
+      "word": "lettuce",
+      "pos": "noun",
+      "ipa": "/ˈletɪs/",
+      "reading_th": "เล็ท-ทิส",
+      "meaning_th": "ผักกาดหอม",
+      "emoji": "🥬",
+      "example_en": "Wash the lettuce before you make the salad.",
+      "example_th": "ล้างผักกาดหอมก่อนทำสลัด",
+      "cefr": "A2",
+      "note_th": "ออกเสียง เล็ท-ทิส ไม่ใช่ เล็ท-ทูซ — lettuce นับไม่ได้ ถ้าจะนับพูดว่า a head of lettuce (ผักกาดหอมหนึ่งหัว)",
+      "distractors": [
+        "lattice",
+        "letters",
+        "notice"
+      ],
+      "image": "words/lettuce.webp"
+    },
+    {
+      "id": "corn",
+      "word": "corn",
+      "pos": "noun",
+      "ipa": "/kɔːrn/",
+      "reading_th": "คอร์น",
+      "meaning_th": "ข้าวโพด",
+      "emoji": "🌽",
+      "example_en": "We ate grilled corn at the night market.",
+      "example_th": "เรากินข้าวโพดปิ้งที่ตลาดนัดกลางคืน",
+      "cefr": "A2",
+      "note_th": "corn = ข้าวโพด (US) แต่คนอังกฤษมักเรียก sweetcorn หรือ maize — corn on the cob = ข้าวโพดทั้งฝัก",
+      "distractors": [
+        "horn",
+        "coin",
+        "cord"
+      ],
+      "image": "words/corn.webp"
+    },
+    {
+      "id": "broccoli",
+      "word": "broccoli",
+      "pos": "noun",
+      "ipa": "/ˈbrɑːkəli/",
+      "reading_th": "บรอค-เคอะ-ลี่",
+      "meaning_th": "บรอกโคลี",
+      "emoji": "🥦",
+      "example_en": "Many kids don't like broccoli.",
+      "example_th": "เด็กหลายคนไม่ชอบบรอกโคลี",
+      "cefr": "A2",
+      "note_th": "สะกด c สองตัว l ตัวเดียว: b-r-o-c-c-o-l-i — นับไม่ได้ ใช้ some broccoli หรือ a head of broccoli",
+      "distractors": [
+        "brocade",
+        "bronco",
+        "brolly"
+      ],
+      "image": "words/broccoli.webp"
+    },
+    {
+      "id": "cauliflower",
+      "word": "cauliflower",
+      "pos": "noun",
+      "ipa": "/ˈkɔːliflaʊər/",
+      "reading_th": "คอ-ลี่-ฟลาว-เวอร์",
+      "meaning_th": "กะหล่ำดอก",
+      "emoji": "🤍",
+      "example_en": "She stir-fried the cauliflower with shrimp.",
+      "example_th": "เธอผัดกะหล่ำดอกกับกุ้ง",
+      "cefr": "A2",
+      "note_th": "cauli มาจากคำที่แปลว่ากะหล่ำ + flower = กะหล่ำดอก — cauliflower rice = กะหล่ำดอกสับแทนข้าว ใช้ในเมนูคาร์บต่ำ",
+      "distractors": [
+        "cornflower",
+        "wallflower",
+        "cauldron"
+      ],
+      "image": "words/cauliflower.webp"
+    },
+    {
+      "id": "eggplant",
+      "word": "eggplant",
+      "pos": "noun",
+      "ipa": "/ˈeɡplænt/",
+      "reading_th": "เอ็ก-แพลนท์",
+      "meaning_th": "มะเขือม่วง (มะเขือยาว)",
+      "emoji": "🍆",
+      "example_en": "The purple eggplant becomes soft when you grill it.",
+      "example_th": "มะเขือม่วงจะนิ่มเมื่อนำไปย่าง",
+      "cefr": "A2",
+      "note_th": "US = eggplant, UK = aubergine — มะเขือเปราะลูกกลมสีเขียวเรียก Thai eggplant ส่วนมะเขือพวงเรียก pea eggplant",
+      "distractors": [
+        "eggshell",
+        "egg roll",
+        "implant"
+      ],
+      "image": "words/eggplant.webp"
+    },
+    {
+      "id": "bell_pepper",
+      "word": "bell pepper",
+      "pos": "noun",
+      "ipa": "/ˈbel pepər/",
+      "reading_th": "เบล เพพ-เพอร์",
+      "meaning_th": "พริกหยวก / พริกหวาน",
+      "emoji": "🫑",
+      "example_en": "Red bell peppers are sweet, not spicy.",
+      "example_th": "พริกหวานสีแดงมีรสหวาน ไม่เผ็ด",
+      "cefr": "A2",
+      "note_th": "US = bell pepper, UK = pepper, ออสเตรเลีย = capsicum — มีสีแดง เหลือง เขียว ไม่เผ็ดเหมือน chili",
+      "distractors": [
+        "bellboy",
+        "peppermint",
+        "doorbell"
+      ],
+      "image": "words/bell_pepper.webp"
+    },
+    {
+      "id": "mushroom",
+      "word": "mushroom",
+      "pos": "noun",
+      "ipa": "/ˈmʌʃruːm/",
+      "reading_th": "มัช-รูม",
+      "meaning_th": "เห็ด",
+      "emoji": "🍄",
+      "example_en": "Add some mushrooms to the soup.",
+      "example_th": "ใส่เห็ดลงในซุปหน่อย",
+      "cefr": "A2",
+      "note_th": "mushroom เป็นกริยาได้ แปลว่าผุดขึ้นเร็วมาก เช่น cafés mushroomed in the city — เห็ดหอม = shiitake, เห็ดฟาง = straw mushroom",
+      "distractors": [
+        "mudroom",
+        "mushy",
+        "washroom"
+      ],
+      "image": "words/mushroom.webp"
+    },
+    {
+      "id": "spinach",
+      "word": "spinach",
+      "pos": "noun",
+      "ipa": "/ˈspɪnɪtʃ/",
+      "reading_th": "สปิน-นิช",
+      "meaning_th": "ผักโขม",
+      "emoji": "🥬",
+      "example_en": "Spinach is full of iron.",
+      "example_th": "ผักโขมมีธาตุเหล็กสูง",
+      "cefr": "A2",
+      "note_th": "ลงท้าย -ach แต่อ่านว่า สปิน-นิช — ผักโขมฝรั่งใบมนคือ spinach ส่วนผักขมไทยฝรั่งเรียก amaranth",
+      "distractors": [
+        "spinal",
+        "spinner",
+        "stomach"
+      ],
+      "image": "words/spinach.webp"
+    },
+    {
+      "id": "lemongrass",
+      "word": "lemongrass",
+      "pos": "noun",
+      "ipa": "/ˈlemənɡræs/",
+      "reading_th": "เลม-เมิ่น-แกรส",
+      "meaning_th": "ตะไคร้",
+      "emoji": "🌿",
+      "example_en": "Tom yum needs lemongrass and lime leaves.",
+      "example_th": "ต้มยำต้องใส่ตะไคร้และใบมะกรูด",
+      "cefr": "B1",
+      "note_th": "เขียนติดกันเป็นคำเดียว lemongrass — a stalk of lemongrass = ตะไคร้หนึ่งต้น วัตถุดิบหลักของต้มยำ (tom yum)",
+      "distractors": [
+        "lemonade",
+        "lemon zest",
+        "seagrass"
+      ],
+      "image": "words/lemongrass.webp"
+    },
+    {
+      "id": "ginger",
+      "word": "ginger",
+      "pos": "noun",
+      "ipa": "/ˈdʒɪndʒər/",
+      "reading_th": "จิน-เจอร์",
+      "meaning_th": "ขิง",
+      "emoji": "🫚",
+      "example_en": "A cup of hot ginger tea helps when you have a cold.",
+      "example_th": "ชาขิงร้อนสักถ้วยช่วยได้ตอนเป็นหวัด",
+      "cefr": "A2",
+      "note_th": "ขิง = ginger, ข่า = galangal, ขมิ้น = turmeric — ginger ale = น้ำขิงอัดลม; ในอังกฤษ ginger ยังหมายถึงคนผมสีส้มแดง",
+      "distractors": [
+        "finger",
+        "singer",
+        "danger"
+      ],
+      "image": "words/ginger.webp"
+    },
+    {
+      "id": "chili",
+      "word": "chili",
+      "pos": "noun",
+      "ipa": "/ˈtʃɪli/",
+      "reading_th": "ชิล-ลี่",
+      "meaning_th": "พริก",
+      "emoji": "🌶️",
+      "example_en": "This dish has too much chili for me.",
+      "example_th": "จานนี้ใส่พริกเยอะเกินไปสำหรับฉัน",
+      "cefr": "A2",
+      "note_th": "สะกดได้ทั้ง chili (US) และ chilli (UK) — พริกขี้หนู = bird's eye chili, chili paste = น้ำพริกเผา; ส่วน pepper เฉยๆ คือพริกไทย",
+      "distractors": [
+        "chilly",
+        "chill",
+        "chimney"
+      ],
+      "image": "words/chili.webp"
+    },
+    {
+      "id": "shallot",
+      "word": "shallot",
+      "pos": "noun",
+      "ipa": "/ʃəˈlɑːt/",
+      "reading_th": "เชอะ-ลอท",
+      "meaning_th": "หอมแดง",
+      "emoji": "🧅",
+      "example_en": "Fried shallots make the rice smell great.",
+      "example_th": "หอมเจียวทำให้ข้าวหอมน่ากิน",
+      "cefr": "B1",
+      "note_th": "หอมแดงลูกเล็กของไทยคือ shallot ไม่ใช่ red onion (หอมใหญ่สีม่วง) — fried shallots = หอมเจียว; เน้นเสียงพยางค์หลัง เชอะ-ลอท",
+      "distractors": [
+        "shallow",
+        "ballot",
+        "shale"
+      ],
+      "image": "words/shallot.webp"
+    },
+    {
+      "id": "spring_onion",
+      "word": "spring onion",
+      "pos": "noun",
+      "ipa": "/ˌsprɪŋ ˈʌnjən/",
+      "reading_th": "สปริง อัน-เยิ่น",
+      "meaning_th": "ต้นหอม",
+      "emoji": "🌱",
+      "example_en": "Sprinkle some spring onion on the rice soup.",
+      "example_th": "โรยต้นหอมบนข้าวต้มหน่อย",
+      "cefr": "B1",
+      "note_th": "UK = spring onion, US = green onion หรือ scallion — chopped spring onion = ต้นหอมซอย ใช้โรยหน้าโจ๊กและข้าวต้ม",
+      "distractors": [
+        "spring roll",
+        "onion ring",
+        "springboard"
+      ],
+      "image": "words/spring_onion.webp"
+    },
+    {
+      "id": "coriander",
+      "word": "coriander",
+      "pos": "noun",
+      "ipa": "/ˌkɔːriˈændər/",
+      "reading_th": "คอ-รี-แอน-เดอร์",
+      "meaning_th": "ผักชี",
+      "emoji": "🌿",
+      "example_en": "Some people think coriander tastes like soap.",
+      "example_th": "บางคนคิดว่าผักชีมีรสเหมือนสบู่",
+      "cefr": "B1",
+      "note_th": "UK = coriander ส่วน US เรียกใบผักชีว่า cilantro — รากผักชีเรียก coriander root ใช้โขลกเครื่องแกงไทย",
+      "distractors": [
+        "colander",
+        "coroner",
+        "corridor"
+      ],
+      "image": "words/coriander.webp"
+    },
+    {
+      "id": "morning_glory",
+      "word": "morning glory",
+      "pos": "noun",
+      "ipa": "/ˌmɔːrnɪŋ ˈɡlɔːri/",
+      "reading_th": "มอร์-นิ่ง กลอ-รี่",
+      "meaning_th": "ผักบุ้ง",
+      "emoji": "🥬",
+      "example_en": "Stir-fried morning glory is quick and cheap.",
+      "example_th": "ผักบุ้งไฟแดงทำง่ายและราคาถูก",
+      "cefr": "B1",
+      "note_th": "ผักบุ้งไฟแดง = stir-fried morning glory — อีกชื่อคือ water spinach; ฝรั่งรู้จัก morning glory ในฐานะดอกไม้ที่บานตอนเช้า",
+      "distractors": [
+        "morning star",
+        "morning dew",
+        "good morning"
+      ],
+      "image": "words/morning_glory.webp"
+    },
+    {
+      "id": "bok_choy",
+      "word": "bok choy",
+      "pos": "noun",
+      "ipa": "/ˌbɑːk ˈtʃɔɪ/",
+      "reading_th": "บ็อก ช็อย",
+      "meaning_th": "ผักกาดฮ่องเต้ (บกฉ่อย)",
+      "emoji": "🥬",
+      "example_en": "Stir-fry the bok choy with oyster sauce.",
+      "example_th": "ผัดผักกาดฮ่องเต้กับน้ำมันหอย",
+      "cefr": "B1",
+      "note_th": "สะกดได้หลายแบบ เช่น bok choy หรือ pak choi มาจากภาษาจีนกวางตุ้ง — baby bok choy = ฮ่องเต้ต้นเล็ก นิยมผัดน้ำมันหอย",
+      "distractors": [
+        "box toy",
+        "book club",
+        "chop suey"
+      ],
+      "image": "words/bok_choy.webp"
+    },
+    {
+      "id": "bean_sprouts",
+      "word": "bean sprouts",
+      "pos": "noun",
+      "ipa": "/ˈbiːn spraʊts/",
+      "reading_th": "บีน สเปราท์ส",
+      "meaning_th": "ถั่วงอก",
+      "emoji": "🌱",
+      "example_en": "Do you want bean sprouts in your pad thai?",
+      "example_th": "ผัดไทยใส่ถั่วงอกไหม",
+      "cefr": "B1",
+      "note_th": "ถั่วงอกงอกมาจากถั่วเขียว (mung bean) — มักใช้รูปพหูพจน์ bean sprouts; ใส่ในผัดไทยและก๋วยเตี๋ยว",
+      "distractors": [
+        "beanbag",
+        "bean curd",
+        "Brussels sprouts"
+      ],
+      "image": "words/bean_sprouts.webp"
+    },
+    {
+      "id": "long_bean",
+      "word": "long bean",
+      "pos": "noun",
+      "ipa": "/ˈlɔːŋ biːn/",
+      "reading_th": "ลอง บีน",
+      "meaning_th": "ถั่วฝักยาว",
+      "emoji": "🫛",
+      "example_en": "Long beans are crunchy in papaya salad.",
+      "example_th": "ถั่วฝักยาวในส้มตำกรอบอร่อย",
+      "cefr": "B1",
+      "note_th": "อีกชื่อคือ yardlong bean หรือ snake bean เพราะยาวมาก — ใส่ส้มตำ ผัดพริกแกง หรือกินสดกับน้ำพริก",
+      "distractors": [
+        "longboard",
+        "lima bean",
+        "long beach"
+      ],
+      "image": "words/long_bean.webp"
+    },
+    {
+      "id": "bitter_gourd",
+      "word": "bitter gourd",
+      "pos": "noun",
+      "ipa": "/ˌbɪtər ˈɡʊrd/",
+      "reading_th": "บิท-เทอร์ กัวร์ด",
+      "meaning_th": "มะระ",
+      "emoji": "🥒",
+      "example_en": "Bitter gourd soup is good for you, but it tastes bitter.",
+      "example_th": "ต้มจืดมะระดีต่อสุขภาพ แต่รสขม",
+      "cefr": "B2",
+      "note_th": "US เรียก bitter melon — gourd = พืชตระกูลแตงและน้ำเต้า; ต้มจืดมะระยัดไส้ = stuffed bitter gourd soup",
+      "distractors": [
+        "bitterness",
+        "butter knife",
+        "gourmet"
+      ],
+      "image": "words/bitter_gourd.webp"
+    },
+    {
+      "id": "bamboo_shoot",
+      "word": "bamboo shoot",
+      "pos": "noun",
+      "ipa": "/bæmˈbuː ʃuːt/",
+      "reading_th": "แบม-บู ชูท",
+      "meaning_th": "หน่อไม้",
+      "emoji": "🎍",
+      "example_en": "My mom makes red curry with bamboo shoots.",
+      "example_th": "แม่ทำแกงเผ็ดหน่อไม้",
+      "cefr": "B1",
+      "note_th": "bamboo = ต้นไผ่, shoot = หน่ออ่อนที่เพิ่งงอก — มักใช้พหูพจน์ bamboo shoots; ต้องต้มให้สุกก่อนกิน",
+      "distractors": [
+        "bamboozle",
+        "photo shoot",
+        "bamboo pole"
+      ],
+      "image": "words/bamboo_shoot.webp"
+    },
+    {
+      "id": "taro",
+      "word": "taro",
+      "pos": "noun",
+      "ipa": "/ˈtɑːroʊ/",
+      "reading_th": "ทา-โร่",
+      "meaning_th": "เผือก",
+      "emoji": "🥔",
+      "example_en": "Purple taro milk tea is popular in Thailand.",
+      "example_th": "ชานมเผือกสีม่วงเป็นที่นิยมในไทย",
+      "cefr": "B1",
+      "note_th": "taro = เผือก ส่วนมันเทศคือ sweet potato — taro milk tea = ชานมเผือก; เผือกดิบทำให้คันปาก ต้องทำให้สุกก่อนกิน",
+      "distractors": [
+        "tarot",
+        "tar",
+        "torso"
+      ],
+      "image": "words/taro.webp"
+    },
+    {
+      "id": "sweet_potato",
+      "word": "sweet potato",
+      "pos": "noun",
+      "ipa": "/ˌswiːt pəˈteɪtoʊ/",
+      "reading_th": "สวีท เพอะ-เท-โท่",
+      "meaning_th": "มันเทศ / มันหวาน",
+      "emoji": "🍠",
+      "example_en": "We bought a hot roasted sweet potato from a street cart.",
+      "example_th": "เราซื้อมันเผาร้อนๆ จากรถเข็นริมทาง",
+      "cefr": "A2",
+      "note_th": "มันเทศ/มันหวาน = sweet potato คนละชนิดกับ potato (มันฝรั่ง) — ในอเมริกาบางคนเรียก yam; มันเผา = roasted sweet potato",
+      "distractors": [
+        "sweet pea",
+        "sweetheart",
+        "hot potato"
+      ],
+      "image": "words/sweet_potato.webp"
+    },
+    {
+      "id": "peanut",
+      "word": "peanut",
+      "pos": "noun",
+      "ipa": "/ˈpiːnʌt/",
+      "reading_th": "พี-นัท",
+      "meaning_th": "ถั่วลิสง",
+      "emoji": "🥜",
+      "example_en": "Are there peanuts in this dish? I'm allergic.",
+      "example_th": "จานนี้มีถั่วลิสงไหม ฉันแพ้",
+      "cefr": "A2",
+      "note_th": "คนแพ้ถั่วลิสงมีเยอะ ฉลากจึงเขียนว่า contains peanuts — peanut butter = เนยถั่ว, peanuts (ภาษาพูด) = เงินน้อยนิด",
+      "distractors": [
+        "pennant",
+        "peasant",
+        "pendant"
+      ],
+      "image": "words/peanut.webp"
+    },
+    {
+      "id": "cashew",
+      "word": "cashew",
+      "pos": "noun",
+      "ipa": "/ˈkæʃuː/",
+      "reading_th": "แคช-ชู",
+      "meaning_th": "เม็ดมะม่วงหิมพานต์",
+      "emoji": "🥜",
+      "example_en": "I ordered chicken with cashew nuts.",
+      "example_th": "ฉันสั่งไก่ผัดเม็ดมะม่วงหิมพานต์",
+      "cefr": "B1",
+      "note_th": "เรียก cashew หรือ cashew nut ก็ได้ — ไก่ผัดเม็ดมะม่วงหิมพานต์ = chicken with cashew nuts; ออกเสียง แคช-ชู",
+      "distractors": [
+        "cashier",
+        "cash",
+        "curfew"
+      ],
+      "image": "words/cashew.webp"
+    },
+    {
+      "id": "almond",
+      "word": "almond",
+      "pos": "noun",
+      "ipa": "/ˈɑːmənd/",
+      "reading_th": "อา-เมิ่นด์",
+      "meaning_th": "อัลมอนด์",
+      "emoji": "🌰",
+      "example_en": "She drinks almond milk instead of cow's milk.",
+      "example_th": "เธอดื่มนมอัลมอนด์แทนนมวัว",
+      "cefr": "A2",
+      "note_th": "ตัว l แทบไม่ออกเสียง อ่านว่า อา-เมิ่นด์ — almond milk = นมอัลมอนด์ นิยมใช้แทนนมวัวในกาแฟ",
+      "distractors": [
+        "diamond",
+        "almost",
+        "alarmed"
+      ],
+      "image": "words/almond.webp"
+    },
+    {
+      "id": "walnut",
+      "word": "walnut",
+      "pos": "noun",
+      "ipa": "/ˈwɔːlnʌt/",
+      "reading_th": "วอล-นัท",
+      "meaning_th": "วอลนัท",
+      "emoji": "🌰",
+      "example_en": "You need a nutcracker to open a walnut.",
+      "example_th": "ต้องใช้ที่บีบเปลือกถึงจะแกะวอลนัทได้",
+      "cefr": "B1",
+      "note_th": "เปลือกแข็ง เนื้อในหยักเหมือนสมอง แกะด้วย nutcracker — walnut ยังหมายถึงไม้วอลนัทสีน้ำตาลเข้มที่ใช้ทำเฟอร์นิเจอร์",
+      "distractors": [
+        "wallet",
+        "walrus",
+        "doughnut"
+      ],
+      "image": "words/walnut.webp"
+    },
+    {
+      "id": "chestnut",
+      "word": "chestnut",
+      "pos": "noun",
+      "ipa": "/ˈtʃesnʌt/",
+      "reading_th": "เชส-นัท",
+      "meaning_th": "เกาลัด",
+      "emoji": "🌰",
+      "example_en": "The smell of roasted chestnuts fills the street.",
+      "example_th": "กลิ่นเกาลัดคั่วลอยไปทั่วถนน",
+      "cefr": "B1",
+      "note_th": "ตัว t ไม่ออกเสียง อ่านว่า เชส-นัท — roasted chestnuts = เกาลัดคั่ว; an old chestnut = มุกเก่าที่เล่าซ้ำจนเบื่อ",
+      "distractors": [
+        "chest",
+        "chessboard",
+        "nutshell"
+      ],
+      "image": "words/chestnut.webp"
+    },
+    {
+      "id": "pistachio",
+      "word": "pistachio",
+      "pos": "noun",
+      "ipa": "/pɪˈstæʃioʊ/",
+      "reading_th": "พิส-แทช-ชี่-โอ",
+      "meaning_th": "พิสตาชิโอ",
+      "emoji": "🥜",
+      "example_en": "Pistachio ice cream is light green.",
+      "example_th": "ไอศกรีมพิสตาชิโอเป็นสีเขียวอ่อน",
+      "cefr": "B1",
+      "note_th": "อ่านว่า พิส-แทช-ชี่-โอ พหูพจน์ pistachios — รสพิสตาชิโอสีเขียวอ่อนเป็นรสยอดฮิตของไอศกรีมและขนมอบ",
+      "distractors": [
+        "pistol",
+        "mustachio",
+        "piston"
+      ],
+      "image": "words/pistachio.webp"
+    },
+    {
+      "id": "pea",
+      "word": "pea",
+      "pos": "noun",
+      "ipa": "/piː/",
+      "reading_th": "พี",
+      "meaning_th": "ถั่วลันเตา",
+      "emoji": "🫛",
+      "example_en": "Peas are small, round and green.",
+      "example_th": "ถั่วลันเตาเม็ดเล็ก กลม และเป็นสีเขียว",
+      "cefr": "A2",
+      "note_th": "pea = ถั่วลันเตาเม็ดกลม พหูพจน์ peas — like two peas in a pod = เหมือนกันราวกับแกะ; snow peas = ถั่วลันเตาฝักแบนที่กินทั้งฝัก",
+      "distractors": [
+        "peak",
+        "tea",
+        "pen"
+      ],
+      "image": "words/pea.webp"
+    },
+    {
+      "id": "soybean",
+      "word": "soybean",
+      "pos": "noun",
+      "ipa": "/ˈsɔɪbiːn/",
+      "reading_th": "ซอย-บีน",
+      "meaning_th": "ถั่วเหลือง",
+      "emoji": "🫘",
+      "example_en": "Soy milk is made from soybeans.",
+      "example_th": "น้ำเต้าหู้ทำจากถั่วเหลือง",
+      "cefr": "B1",
+      "note_th": "UK เรียก soya bean — soy milk = น้ำเต้าหู้/นมถั่วเหลือง, soy sauce = ซีอิ๊ว; เต้าหู้ (tofu) ก็ทำจากถั่วเหลือง",
+      "distractors": [
+        "soy sauce",
+        "sunbeam",
+        "soapbox"
+      ],
+      "image": "words/soybean.webp"
+    },
+    {
+      "id": "mung_bean",
+      "word": "mung bean",
+      "pos": "noun",
+      "ipa": "/ˈmʌŋ biːn/",
+      "reading_th": "มัง บีน",
+      "meaning_th": "ถั่วเขียว",
+      "emoji": "🫘",
+      "example_en": "Bean sprouts grow from mung beans.",
+      "example_th": "ถั่วงอกงอกมาจากถั่วเขียว",
+      "cefr": "B1",
+      "note_th": "ระวัง! ถั่วเขียวคือ mung bean ส่วน green bean ภาษาอังกฤษคือถั่วแขก — ถั่วเขียวใช้ทำถั่วงอก วุ้นเส้น (glass noodles) และถั่วเขียวต้มน้ำตาล",
+      "distractors": [
+        "jelly bean",
+        "beanbag",
+        "mugging"
+      ],
+      "image": "words/mung_bean.webp"
+    },
+    {
+      "id": "kidney_bean",
+      "word": "kidney bean",
+      "pos": "noun",
+      "ipa": "/ˈkɪdni biːn/",
+      "reading_th": "คิด-นี่ บีน",
+      "meaning_th": "ถั่วแดงหลวง",
+      "emoji": "🫘",
+      "example_en": "Cook kidney beans well before you eat them.",
+      "example_th": "ต้มถั่วแดงหลวงให้สุกก่อนกิน",
+      "cefr": "B1",
+      "note_th": "ได้ชื่อเพราะรูปร่างเหมือนไต (kidney) — ถั่วแดงเม็ดใหญ่ ใส่น้ำแข็งไสหรือเมนู chili con carne; ต้องต้มให้สุกเสมอ",
+      "distractors": [
+        "kidney stone",
+        "kidnap",
+        "kindly"
+      ],
+      "image": "words/kidney_bean.webp"
+    },
+    {
+      "id": "wheat",
+      "word": "wheat",
+      "pos": "noun",
+      "ipa": "/wiːt/",
+      "reading_th": "วีท",
+      "meaning_th": "ข้าวสาลี",
+      "emoji": "🌾",
+      "example_en": "Bread is made from wheat flour.",
+      "example_th": "ขนมปังทำจากแป้งข้าวสาลี",
+      "cefr": "A2",
+      "note_th": "wheat = ข้าวสาลี ใช้ทำแป้ง (flour) ขนมปัง และพาสต้า — whole wheat bread = ขนมปังโฮลวีต; คนแพ้กลูเตนต้องเลี่ยง wheat",
+      "distractors": [
+        "wheel",
+        "heat",
+        "what"
+      ],
+      "image": "words/wheat.webp"
+    },
+    {
+      "id": "oats",
+      "word": "oats",
+      "pos": "noun",
+      "ipa": "/oʊts/",
+      "reading_th": "โอทส์",
+      "meaning_th": "ข้าวโอ๊ต",
+      "emoji": "🥣",
+      "example_en": "I have oats with milk and banana for breakfast.",
+      "example_th": "ฉันกินข้าวโอ๊ตกับนมและกล้วยเป็นมื้อเช้า",
+      "cefr": "A2",
+      "note_th": "มักใช้รูปพหูพจน์ oats — oatmeal หรือ porridge = ข้าวโอ๊ตต้มเป็นโจ๊ก, overnight oats = ข้าวโอ๊ตแช่นมข้ามคืน",
+      "distractors": [
+        "boats",
+        "coats",
+        "oaths"
+      ],
+      "image": "words/oats.webp"
+    },
+    {
+      "id": "sesame",
+      "word": "sesame",
+      "pos": "noun",
+      "ipa": "/ˈsesəmi/",
+      "reading_th": "เซ-เซอะ-มี่",
+      "meaning_th": "งา",
+      "emoji": "⚪",
+      "example_en": "The buns are covered with sesame seeds.",
+      "example_th": "ขนมปังโรยงาไว้เต็มหน้า",
+      "cefr": "B1",
+      "note_th": "อ่านว่า เซ-เซอะ-มี่ (3 พยางค์) — sesame oil = น้ำมันงา, black sesame = งาดำ; Open sesame! = คาถาเปิดถ้ำในนิทานอาลีบาบา",
+      "distractors": [
+        "seesaw",
+        "semester",
+        "seaside"
+      ],
+      "image": "words/sesame.webp"
+    },
+    {
+      "id": "sunflower_seeds",
+      "word": "sunflower seeds",
+      "pos": "noun",
+      "ipa": "/ˈsʌnflaʊər siːdz/",
+      "reading_th": "ซัน-ฟลาว-เวอร์ ซีดส์",
+      "meaning_th": "เมล็ดทานตะวัน",
+      "emoji": "🌻",
+      "example_en": "My little brother cracks sunflower seeds while he watches TV.",
+      "example_th": "น้องชายฉันแกะเมล็ดทานตะวันกินระหว่างดูทีวี",
+      "cefr": "B1",
+      "note_th": "ขายทั้งแบบมีเปลือก (in the shell) และแบบกะเทาะแล้ว (shelled) — sunflower = ดอกทานตะวัน, sunflower oil = น้ำมันทานตะวัน",
+      "distractors": [
+        "sunflower oil",
+        "sunscreen",
+        "seedlings"
+      ],
+      "image": "words/sunflower_seeds.webp"
+    },
+    {
+      "id": "bunch",
+      "word": "bunch",
+      "pos": "noun",
+      "ipa": "/bʌntʃ/",
+      "reading_th": "บันช์",
+      "meaning_th": "พวง / หวี / เครือ (ผลไม้)",
+      "emoji": "🍌",
+      "example_en": "She bought a bunch of bananas.",
+      "example_th": "เธอซื้อกล้วยมาหนึ่งหวี",
+      "cefr": "A2",
+      "note_th": "a bunch of bananas = กล้วยหนึ่งหวี, a bunch of grapes = องุ่นหนึ่งพวง, a bunch of flowers = ดอกไม้หนึ่งช่อ — ภาษาพูด a bunch of = เยอะแยะ",
+      "distractors": [
+        "lunch",
+        "punch",
+        "bench"
+      ],
+      "image": "words/bunch.webp"
+    },
+    {
+      "id": "core",
+      "word": "core",
+      "pos": "noun",
+      "ipa": "/kɔːr/",
+      "reading_th": "คอร์",
+      "meaning_th": "แกนกลางผลไม้",
+      "emoji": "🍎",
+      "example_en": "Throw the apple core in the bin.",
+      "example_th": "ทิ้งแกนแอปเปิ้ลลงถังขยะ",
+      "cefr": "B1",
+      "note_th": "apple core = แกนแอปเปิ้ลที่เหลือหลังกินหมด — core ยังแปลว่าแก่นหรือส่วนสำคัญที่สุด เช่น core value, to the core (ถึงแก่น)",
+      "distractors": [
+        "cord",
+        "cure",
+        "chore"
+      ],
+      "image": "words/core.webp"
+    },
+    {
+      "id": "rind",
+      "word": "rind",
+      "pos": "noun",
+      "ipa": "/raɪnd/",
+      "reading_th": "ไรนด์",
+      "meaning_th": "เปลือกหนา (แตงโม / ส้ม / ชีส)",
+      "emoji": "🍉",
+      "example_en": "Don't eat the watermelon rind.",
+      "example_th": "อย่ากินเปลือกแตงโม",
+      "cefr": "B2",
+      "note_th": "rind = เปลือกหนาแข็ง เช่น watermelon rind, lemon rind, cheese rind — ส่วน peel = เปลือกที่ปอกได้ (กล้วย ส้ม) และ skin = เปลือกบาง (แอปเปิ้ล องุ่น)",
+      "distractors": [
+        "ring",
+        "wind",
+        "rink"
+      ],
+      "image": "words/rind.webp"
+    },
+    {
+      "id": "pit",
+      "word": "pit",
+      "pos": "noun",
+      "ipa": "/pɪt/",
+      "reading_th": "พิท",
+      "meaning_th": "เมล็ดแข็งตรงกลางผลไม้",
+      "emoji": "🥑",
+      "example_en": "Be careful, the cherries still have pits.",
+      "example_th": "ระวังนะ เชอร์รี่ยังไม่ได้เอาเมล็ดออก",
+      "cefr": "B1",
+      "note_th": "US เรียก pit (avocado pit, cherry pit) ส่วน UK เรียก stone — เมล็ดเล็กๆ หลายเมล็ดเรียก seeds; pitted = เอาเมล็ดออกแล้ว",
+      "distractors": [
+        "pet",
+        "pin",
+        "pot"
+      ],
+      "image": "words/pit.webp"
+    },
+    {
+      "id": "ripe",
+      "word": "ripe",
+      "pos": "adjective",
+      "ipa": "/raɪp/",
+      "reading_th": "ไรพ์",
+      "meaning_th": "สุก (ผลไม้)",
+      "emoji": "🍅",
+      "example_en": "These mangoes are ripe and ready to eat.",
+      "example_th": "มะม่วงพวกนี้สุกพร้อมกินแล้ว",
+      "cefr": "A2",
+      "note_th": "ripe = สุกพร้อมกิน ใช้กับผลไม้ ไม่ใช้กับอาหารที่ปรุงสุก (อาหารสุกใช้ cooked) — unripe = ยังดิบ, overripe = สุกงอมเกินไป",
+      "distractors": [
+        "rope",
+        "rip",
+        "wipe"
+      ],
+      "image": "words/ripe.webp"
+    },
+    {
+      "id": "rotten",
+      "word": "rotten",
+      "pos": "adjective",
+      "ipa": "/ˈrɑːtən/",
+      "reading_th": "รอท-เทิ่น",
+      "meaning_th": "เน่า",
+      "emoji": "🤢",
+      "example_en": "That banana is rotten, so throw it away.",
+      "example_th": "กล้วยลูกนั้นเน่าแล้ว ทิ้งไปเถอะ",
+      "cefr": "A2",
+      "note_th": "rotten = เน่าเสีย ใช้กับผลไม้ ไข่ เนื้อ ไม้ — a rotten egg = ไข่เน่า; ภาษาพูด feel rotten = รู้สึกแย่มาก; สะกด t สองตัว",
+      "distractors": [
+        "written",
+        "bitten",
+        "forgotten"
+      ],
+      "image": "words/rotten.webp"
+    },
+    {
+      "id": "wilted",
+      "word": "wilted",
+      "pos": "adjective",
+      "ipa": "/ˈwɪltɪd/",
+      "reading_th": "วิล-ทิด",
+      "meaning_th": "เหี่ยว (ผัก / ดอกไม้)",
+      "emoji": "🥀",
+      "example_en": "The lettuce is wilted because nobody put it in the fridge.",
+      "example_th": "ผักกาดหอมเหี่ยวเพราะไม่มีใครเก็บเข้าตู้เย็น",
+      "cefr": "B2",
+      "note_th": "wilted = เหี่ยวเพราะขาดน้ำ ใช้กับผักและดอกไม้ ตรงข้ามกับ crisp — กริยาคือ wilt; ผิวคนเหี่ยวย่นใช้ wrinkled ไม่ใช่ wilted",
+      "distractors": [
+        "wilder",
+        "tilted",
+        "quilted"
+      ],
+      "image": "words/wilted.webp"
+    },
+    {
+      "id": "seedless",
+      "word": "seedless",
+      "pos": "adjective",
+      "ipa": "/ˈsiːdləs/",
+      "reading_th": "ซีด-เลิส",
+      "meaning_th": "ไม่มีเมล็ด",
+      "emoji": "🍉",
+      "example_en": "I prefer seedless grapes.",
+      "example_th": "ฉันชอบองุ่นไร้เมล็ดมากกว่า",
+      "cefr": "B1",
+      "note_th": "seed + -less (ไม่มี) = ไม่มีเมล็ด เช่น seedless grapes, seedless watermelon — รูปแบบเดียวกับ sugarless (ไม่มีน้ำตาล), boneless (ไม่มีกระดูก)",
+      "distractors": [
+        "needless",
+        "seedling",
+        "heedless"
+      ],
+      "image": "words/seedless.webp"
+    },
+    {
+      "id": "dried",
+      "word": "dried",
+      "pos": "adjective",
+      "ipa": "/draɪd/",
+      "reading_th": "ดรายด์",
+      "meaning_th": "อบแห้ง / ตากแห้ง",
+      "emoji": "☀️",
+      "example_en": "Dried mango is a popular gift from Thailand.",
+      "example_th": "มะม่วงอบแห้งเป็นของฝากยอดนิยมจากไทย",
+      "cefr": "A2",
+      "note_th": "dried = ผ่านการตากหรืออบจนแห้ง เช่น dried mango, dried shrimp (กุ้งแห้ง) — ต่างจาก dry ที่แปลว่าแห้งทั่วไป เช่น dry weather",
+      "distractors": [
+        "fried",
+        "tried",
+        "dread"
+      ],
+      "image": "words/dried.webp"
+    },
+    {
+      "id": "pick",
+      "word": "pick",
+      "pos": "verb",
+      "ipa": "/pɪk/",
+      "reading_th": "พิค",
+      "meaning_th": "เด็ด / เก็บ (ผลไม้จากต้น)",
+      "emoji": "🧺",
+      "example_en": "We picked strawberries on a farm in Chiang Mai.",
+      "example_th": "เราไปเก็บสตรอว์เบอร์รี่ที่ไร่ในเชียงใหม่",
+      "cefr": "A2",
+      "note_th": "pick fruit = เด็ดผลไม้จากต้น และ pick ยังแปลว่าเลือก (pick a number) — pick up = หยิบขึ้น/ไปรับ, ส่วน harvest = เก็บเกี่ยวผลผลิตทั้งไร่",
+      "distractors": [
+        "pack",
+        "peck",
+        "kick"
+      ],
+      "image": "words/pick.webp"
+    },
+    {
+      "id": "orchard",
+      "word": "orchard",
+      "pos": "noun",
+      "ipa": "/ˈɔːrtʃərd/",
+      "reading_th": "ออร์-เชิร์ด",
+      "meaning_th": "สวนผลไม้",
+      "emoji": "🌳",
+      "example_en": "My uncle has a durian orchard in Chanthaburi.",
+      "example_th": "ลุงของฉันมีสวนทุเรียนที่จันทบุรี",
+      "cefr": "B1",
+      "note_th": "orchard = สวนผลไม้ที่ปลูกต้นไม้เป็นแถว ส่วน garden = สวนที่บ้าน และ farm = ไร่/ฟาร์ม — ระวังสะกดคล้าย orchid (กล้วยไม้)",
+      "distractors": [
+        "orchid",
+        "orchestra",
+        "archer"
+      ],
+      "image": "words/orchard.webp"
+    },
+    {
+      "id": "farmer",
+      "word": "farmer",
+      "pos": "noun",
+      "ipa": "/ˈfɑːrmər/",
+      "reading_th": "ฟาร์-เมอร์",
+      "meaning_th": "เกษตรกร / ชาวไร่ชาวนา",
+      "emoji": "🧑‍🌾",
+      "example_en": "The farmer sells his vegetables at the morning market.",
+      "example_th": "เกษตรกรนำผักมาขายที่ตลาดเช้า",
+      "cefr": "A2",
+      "note_th": "farmer ใช้เรียกเกษตรกรทุกประเภท — rice farmer = ชาวนา, fruit farmer = ชาวสวนผลไม้, farmers' market = ตลาดที่เกษตรกรนำผลผลิตมาขายเอง",
+      "distractors": [
+        "former",
+        "framer",
+        "farther"
+      ],
+      "image": "words/farmer.webp"
+    },
+    {
+      "id": "pickle",
+      "word": "pickle",
+      "pos": "noun",
+      "ipa": "/ˈpɪkəl/",
+      "reading_th": "พิค-เคิ่ล",
+      "meaning_th": "ผักดอง / แตงกวาดอง",
+      "emoji": "🥒",
+      "example_en": "There is a slice of pickle in my burger.",
+      "example_th": "ในเบอร์เกอร์ของฉันมีแตงกวาดองหนึ่งแผ่น",
+      "cefr": "A2",
+      "note_th": "US: pickle = แตงกวาดอง, UK เรียกแตงกวาดองว่า gherkin — in a pickle = ติดอยู่ในสถานการณ์ลำบาก",
+      "distractors": [
+        "tickle",
+        "nickel",
+        "pickaxe"
+      ],
+      "image": "words/pickle.webp"
+    },
+    {
+      "id": "jam",
+      "word": "jam",
+      "pos": "noun",
+      "ipa": "/dʒæm/",
+      "reading_th": "แจม",
+      "meaning_th": "แยม",
+      "emoji": "🍓",
+      "example_en": "Spread some strawberry jam on your toast.",
+      "example_th": "ทาแยมสตรอว์เบอร์รี่บนขนมปังปิ้ง",
+      "cefr": "A2",
+      "note_th": "jam = แยมผลไม้ทาขนมปัง — jam ยังแปลว่าติดขัด เช่น traffic jam (รถติด), paper jam (กระดาษติดในเครื่องพิมพ์)",
+      "distractors": [
+        "ham",
+        "jar",
+        "jab"
+      ],
+      "image": "words/jam.webp"
+    }
+  ]
+}

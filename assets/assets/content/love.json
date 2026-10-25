@@ -29,7 +29,8 @@
           "ask_out",
           "eye_contact",
           "blind_date"
-        ]
+        ],
+        "image": "lessons/love_1.webp"
       },
       {
         "id": "love_2",
@@ -51,7 +52,8 @@
           "second_date",
           "hug",
           "kiss"
-        ]
+        ],
+        "image": "lessons/love_2.webp"
       },
       {
         "id": "love_3",
@@ -73,7 +75,8 @@
           "spend_time",
           "anniversary",
           "long_distance"
-        ]
+        ],
+        "image": "lessons/love_3.webp"
       },
       {
         "id": "love_4",
@@ -95,7 +98,8 @@
           "love_at_first_sight",
           "sweet_talk",
           "cheesy"
-        ]
+        ],
+        "image": "lessons/love_4.webp"
       },
       {
         "id": "love_5",
@@ -117,7 +121,8 @@
           "heartbroken",
           "regret",
           "move_on"
-        ]
+        ],
+        "image": "lessons/love_5.webp"
       },
       {
         "id": "love_6",
@@ -139,7 +144,8 @@
           "honeymoon",
           "in_laws",
           "pregnant"
-        ]
+        ],
+        "image": "lessons/love_6.webp"
       },
       {
         "id": "love_7",
@@ -161,7 +167,8 @@
           "take_it_slow",
           "self_love",
           "single_life"
-        ]
+        ],
+        "image": "lessons/love_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "crash",
         "cross",
         "brush"
-      ]
+      ],
+      "image": "words/crush.webp"
     },
     {
       "id": "flirt",
@@ -200,7 +208,8 @@
         "float",
         "flight",
         "first"
-      ]
+      ],
+      "image": "words/flirt.webp"
     },
     {
       "id": "single",
@@ -218,7 +227,8 @@
         "signal",
         "simple",
         "jungle"
-      ]
+      ],
+      "image": "words/single.webp"
     },
     {
       "id": "taken",
@@ -236,7 +246,8 @@
         "token",
         "taking",
         "shaken"
-      ]
+      ],
+      "image": "words/taken.webp"
     },
     {
       "id": "my_type",
@@ -254,7 +265,8 @@
         "my tape",
         "my tip",
         "my time"
-      ]
+      ],
+      "image": "words/my_type.webp"
     },
     {
       "id": "butterflies",
@@ -272,7 +284,8 @@
         "butter",
         "batteries",
         "buttons"
-      ]
+      ],
+      "image": "words/butterflies.webp"
     },
     {
       "id": "blush",
@@ -290,7 +303,8 @@
         "brush",
         "blast",
         "blues"
-      ]
+      ],
+      "image": "words/blush.webp"
     },
     {
       "id": "shy",
@@ -308,7 +322,8 @@
         "sky",
         "shine",
         "sly"
-      ]
+      ],
+      "image": "words/shy.webp"
     },
     {
       "id": "attractive",
@@ -326,7 +341,8 @@
         "active",
         "addictive",
         "attentive"
-      ]
+      ],
+      "image": "words/attractive.webp"
     },
     {
       "id": "charming",
@@ -344,7 +360,8 @@
         "charging",
         "chatting",
         "farming"
-      ]
+      ],
+      "image": "words/charming.webp"
     },
     {
       "id": "first_impression",
@@ -362,7 +379,8 @@
         "first expression",
         "fast impression",
         "first depression"
-      ]
+      ],
+      "image": "words/first_impression.webp"
     },
     {
       "id": "ask_out",
@@ -380,7 +398,8 @@
         "ask about",
         "act out",
         "ask around"
-      ]
+      ],
+      "image": "words/ask_out.webp"
     },
     {
       "id": "eye_contact",
@@ -398,7 +417,8 @@
         "eye contract",
         "ice contact",
         "eye contest"
-      ]
+      ],
+      "image": "words/eye_contact.webp"
     },
     {
       "id": "blind_date",
@@ -416,7 +436,8 @@
         "blind data",
         "blank date",
         "blind gate"
-      ]
+      ],
+      "image": "words/blind_date.webp"
     },
     {
       "id": "date",
@@ -434,7 +455,8 @@
         "data",
         "gate",
         "debt"
-      ]
+      ],
+      "image": "words/date.webp"
     },
     {
       "id": "dress_up",
@@ -452,7 +474,8 @@
         "dress code",
         "press up",
         "draw up"
-      ]
+      ],
+      "image": "words/dress_up.webp"
     },
     {
       "id": "small_talk",
@@ -470,7 +493,8 @@
         "small talent",
         "smell talk",
         "short talk"
-      ]
+      ],
+      "image": "words/small_talk.webp"
     },
     {
       "id": "compliment",
@@ -488,7 +512,8 @@
         "complement",
         "complaint",
         "component"
-      ]
+      ],
+      "image": "words/compliment.webp"
     },
     {
       "id": "awkward",
@@ -506,7 +531,8 @@
         "outward",
         "awful",
         "backward"
-      ]
+      ],
+      "image": "words/awkward.webp"
     },
     {
       "id": "movie_date",
@@ -524,7 +550,8 @@
         "movie data",
         "moving date",
         "movie gate"
-      ]
+      ],
+      "image": "words/movie_date.webp"
     },
     {
       "id": "dinner_date",
@@ -542,7 +569,8 @@
         "dinner plate",
         "winner date",
         "diner date"
-      ]
+      ],
+      "image": "words/dinner_date.webp"
     },
     {
       "id": "treat",
@@ -560,7 +588,8 @@
         "trait",
         "tree",
         "threat"
-      ]
+      ],
+      "image": "words/treat.webp"
     },
     {
       "id": "walk_home",
@@ -578,7 +607,8 @@
         "walk alone",
         "work home",
         "talk home"
-      ]
+      ],
+      "image": "words/walk_home.webp"
     },
     {
       "id": "goodnight",
@@ -596,7 +626,8 @@
         "good night out",
         "good knight",
         "goodbye night"
-      ]
+      ],
+      "image": "words/goodnight.webp"
     },
     {
       "id": "text_back",
@@ -614,7 +645,8 @@
         "take back",
         "text box",
         "talk back"
-      ]
+      ],
+      "image": "words/text_back.webp"
     },
     {
       "id": "second_date",
@@ -632,7 +664,8 @@
         "second data",
         "second gate",
         "second rate"
-      ]
+      ],
+      "image": "words/second_date.webp"
     },
     {
       "id": "hug",
@@ -650,7 +683,8 @@
         "hut",
         "hook",
         "hag"
-      ]
+      ],
+      "image": "words/hug.webp"
     },
     {
       "id": "kiss",
@@ -668,7 +702,8 @@
         "kick",
         "miss",
         "kit"
-      ]
+      ],
+      "image": "words/kiss.webp"
     },
     {
       "id": "relationship",
@@ -686,7 +721,8 @@
         "relation",
         "religion",
         "reputation"
-      ]
+      ],
+      "image": "words/relationship.webp"
     },
     {
       "id": "make_it_official",
@@ -704,7 +740,8 @@
         "make it offer",
         "made it office",
         "make it optional"
-      ]
+      ],
+      "image": "words/make_it_official.webp"
     },
     {
       "id": "girlfriend",
@@ -722,7 +759,8 @@
         "girl friend",
         "girlhood",
         "girl scout"
-      ]
+      ],
+      "image": "words/girlfriend.webp"
     },
     {
       "id": "boyfriend",
@@ -740,7 +778,8 @@
         "boy friend",
         "boyhood",
         "best friend"
-      ]
+      ],
+      "image": "words/boyfriend.webp"
     },
     {
       "id": "couple",
@@ -758,7 +797,8 @@
         "cuppa",
         "cable",
         "coupon"
-      ]
+      ],
+      "image": "words/couple.webp"
     },
     {
       "id": "pet_name",
@@ -776,7 +816,8 @@
         "pen name",
         "pet game",
         "best name"
-      ]
+      ],
+      "image": "words/pet_name.webp"
     },
     {
       "id": "hold_hands",
@@ -794,7 +835,8 @@
         "hold hand",
         "cold hands",
         "hold ends"
-      ]
+      ],
+      "image": "words/hold_hands.webp"
     },
     {
       "id": "cuddle",
@@ -812,7 +854,8 @@
         "candle",
         "puddle",
         "curdle"
-      ]
+      ],
+      "image": "words/cuddle.webp"
     },
     {
       "id": "sweetheart",
@@ -830,7 +873,8 @@
         "sweet tooth",
         "sweatshirt",
         "sweetener"
-      ]
+      ],
+      "image": "words/sweetheart.webp"
     },
     {
       "id": "miss_you",
@@ -848,7 +892,8 @@
         "mess you",
         "kiss you",
         "miss out"
-      ]
+      ],
+      "image": "words/miss_you.webp"
     },
     {
       "id": "jealous",
@@ -866,7 +911,8 @@
         "zealous",
         "jolly",
         "joyous"
-      ]
+      ],
+      "image": "words/jealous.webp"
     },
     {
       "id": "spend_time",
@@ -884,7 +930,8 @@
         "send time",
         "spare time",
         "spell time"
-      ]
+      ],
+      "image": "words/spend_time.webp"
     },
     {
       "id": "anniversary",
@@ -902,7 +949,8 @@
         "university",
         "adversary",
         "adversity"
-      ]
+      ],
+      "image": "words/anniversary.webp"
     },
     {
       "id": "long_distance",
@@ -920,7 +968,8 @@
         "long distant",
         "wrong distance",
         "long entrance"
-      ]
+      ],
+      "image": "words/long_distance.webp"
     },
     {
       "id": "love",
@@ -938,7 +987,8 @@
         "live",
         "loaf",
         "glove"
-      ]
+      ],
+      "image": "words/love.webp"
     },
     {
       "id": "fall_in_love",
@@ -956,7 +1006,8 @@
         "fall in line",
         "feel in love",
         "fall in life"
-      ]
+      ],
+      "image": "words/fall_in_love.webp"
     },
     {
       "id": "confess",
@@ -974,7 +1025,8 @@
         "conference",
         "confuse",
         "concert"
-      ]
+      ],
+      "image": "words/confess.webp"
     },
     {
       "id": "feelings",
@@ -992,7 +1044,8 @@
         "fillings",
         "ceilings",
         "failings"
-      ]
+      ],
+      "image": "words/feelings.webp"
     },
     {
       "id": "heart",
@@ -1010,7 +1063,8 @@
         "hurt",
         "heat",
         "hard"
-      ]
+      ],
+      "image": "words/heart.webp"
     },
     {
       "id": "romantic",
@@ -1028,7 +1082,8 @@
         "romance",
         "dramatic",
         "rheumatic"
-      ]
+      ],
+      "image": "words/romantic.webp"
     },
     {
       "id": "care_about",
@@ -1046,7 +1101,8 @@
         "care for",
         "carry about",
         "cure about"
-      ]
+      ],
+      "image": "words/care_about.webp"
     },
     {
       "id": "adore",
@@ -1064,7 +1120,8 @@
         "adopt",
         "adorn",
         "admire"
-      ]
+      ],
+      "image": "words/adore.webp"
     },
     {
       "id": "affection",
@@ -1082,7 +1139,8 @@
         "infection",
         "attention",
         "affliction"
-      ]
+      ],
+      "image": "words/affection.webp"
     },
     {
       "id": "soulmate",
@@ -1100,7 +1158,8 @@
         "shipmate",
         "sole mate",
         "soul music"
-      ]
+      ],
+      "image": "words/soulmate.webp"
     },
     {
       "id": "true_love",
@@ -1118,7 +1177,8 @@
         "trust love",
         "tree love",
         "truth love"
-      ]
+      ],
+      "image": "words/true_love.webp"
     },
     {
       "id": "love_at_first_sight",
@@ -1136,7 +1196,8 @@
         "love at first site",
         "love at first night",
         "live at first sight"
-      ]
+      ],
+      "image": "words/love_at_first_sight.webp"
     },
     {
       "id": "sweet_talk",
@@ -1154,7 +1215,8 @@
         "sweet tooth",
         "small talk",
         "street talk"
-      ]
+      ],
+      "image": "words/sweet_talk.webp"
     },
     {
       "id": "cheesy",
@@ -1172,7 +1234,8 @@
         "cheeky",
         "chewy",
         "choosy"
-      ]
+      ],
+      "image": "words/cheesy.webp"
     },
     {
       "id": "argue",
@@ -1190,7 +1253,8 @@
         "agree",
         "arrange",
         "argument"
-      ]
+      ],
+      "image": "words/argue.webp"
     },
     {
       "id": "fight",
@@ -1208,7 +1272,8 @@
         "flight",
         "fright",
         "fit"
-      ]
+      ],
+      "image": "words/fight.webp"
     },
     {
       "id": "misunderstanding",
@@ -1226,7 +1291,8 @@
         "understanding",
         "misinformation",
         "misunderstood"
-      ]
+      ],
+      "image": "words/misunderstanding.webp"
     },
     {
       "id": "silent_treatment",
@@ -1244,7 +1310,8 @@
         "silence treatment",
         "silent statement",
         "special treatment"
-      ]
+      ],
+      "image": "words/silent_treatment.webp"
     },
     {
       "id": "need_space",
@@ -1262,7 +1329,8 @@
         "need spice",
         "need pace",
         "need a place"
-      ]
+      ],
+      "image": "words/need_space.webp"
     },
     {
       "id": "forgive",
@@ -1280,7 +1348,8 @@
         "forget",
         "forbid",
         "foresee"
-      ]
+      ],
+      "image": "words/forgive.webp"
     },
     {
       "id": "make_up",
@@ -1298,7 +1367,8 @@
         "wake up",
         "make out",
         "take up"
-      ]
+      ],
+      "image": "words/make_up.webp"
     },
     {
       "id": "second_chance",
@@ -1316,7 +1386,8 @@
         "second change",
         "second dance",
         "secret chance"
-      ]
+      ],
+      "image": "words/second_chance.webp"
     },
     {
       "id": "cheat_on",
@@ -1334,7 +1405,8 @@
         "cheat in",
         "chat on",
         "check on"
-      ]
+      ],
+      "image": "words/cheat_on.webp"
     },
     {
       "id": "break_up",
@@ -1352,7 +1424,8 @@
         "break down",
         "brake up",
         "break out"
-      ]
+      ],
+      "image": "words/break_up.webp"
     },
     {
       "id": "ex",
@@ -1370,7 +1443,8 @@
         "axe",
         "exit",
         "extra"
-      ]
+      ],
+      "image": "words/ex.webp"
     },
     {
       "id": "heartbroken",
@@ -1388,7 +1462,8 @@
         "heartbeat",
         "heartbreaker",
         "housebroken"
-      ]
+      ],
+      "image": "words/heartbroken.webp"
     },
     {
       "id": "regret",
@@ -1406,7 +1481,8 @@
         "reject",
         "request",
         "regard"
-      ]
+      ],
+      "image": "words/regret.webp"
     },
     {
       "id": "move_on",
@@ -1424,7 +1500,8 @@
         "move in",
         "move out",
         "mow on"
-      ]
+      ],
+      "image": "words/move_on.webp"
     },
     {
       "id": "fiance",
@@ -1442,7 +1519,8 @@
         "finance",
         "fiasco",
         "fence"
-      ]
+      ],
+      "image": "words/fiance.webp"
     },
     {
       "id": "engaged",
@@ -1460,7 +1538,8 @@
         "engine",
         "enraged",
         "enlarged"
-      ]
+      ],
+      "image": "words/engaged.webp"
     },
     {
       "id": "ring",
@@ -1478,7 +1557,8 @@
         "rang",
         "wing",
         "rink"
-      ]
+      ],
+      "image": "words/ring.webp"
     },
     {
       "id": "wedding",
@@ -1496,7 +1576,8 @@
         "weekend",
         "welding",
         "reading"
-      ]
+      ],
+      "image": "words/wedding.webp"
     },
     {
       "id": "bride",
@@ -1514,7 +1595,8 @@
         "bridge",
         "brief",
         "pride"
-      ]
+      ],
+      "image": "words/bride.webp"
     },
     {
       "id": "groom",
@@ -1532,7 +1614,8 @@
         "gloom",
         "broom",
         "grow"
-      ]
+      ],
+      "image": "words/groom.webp"
     },
     {
       "id": "best_man",
@@ -1550,7 +1633,8 @@
         "best mate",
         "bellman",
         "best friend"
-      ]
+      ],
+      "image": "words/best_man.webp"
     },
     {
       "id": "vows",
@@ -1568,7 +1652,8 @@
         "vowels",
         "views",
         "waves"
-      ]
+      ],
+      "image": "words/vows.webp"
     },
     {
       "id": "marry",
@@ -1586,7 +1671,8 @@
         "merry",
         "carry",
         "mercy"
-      ]
+      ],
+      "image": "words/marry.webp"
     },
     {
       "id": "married",
@@ -1604,7 +1690,8 @@
         "marred",
         "merited",
         "hurried"
-      ]
+      ],
+      "image": "words/married.webp"
     },
     {
       "id": "newlyweds",
@@ -1622,7 +1709,8 @@
         "newcomers",
         "newsletters",
         "newsreaders"
-      ]
+      ],
+      "image": "words/newlyweds.webp"
     },
     {
       "id": "honeymoon",
@@ -1640,7 +1728,8 @@
         "honeycomb",
         "harvest moon",
         "honeydew"
-      ]
+      ],
+      "image": "words/honeymoon.webp"
     },
     {
       "id": "in_laws",
@@ -1658,7 +1747,8 @@
         "outlaws",
         "in-line",
         "by-laws"
-      ]
+      ],
+      "image": "words/in_laws.webp"
     },
     {
       "id": "pregnant",
@@ -1676,7 +1766,8 @@
         "fragrant",
         "pregame",
         "prominent"
-      ]
+      ],
+      "image": "words/pregnant.webp"
     },
     {
       "id": "friendship",
@@ -1694,7 +1785,8 @@
         "friendly",
         "fellowship",
         "friendliness"
-      ]
+      ],
+      "image": "words/friendship.webp"
     },
     {
       "id": "support",
@@ -1712,7 +1804,8 @@
         "sport",
         "suppose",
         "supporter"
-      ]
+      ],
+      "image": "words/support.webp"
     },
     {
       "id": "friend_zone",
@@ -1730,7 +1823,8 @@
         "friend zoom",
         "front zone",
         "free zone"
-      ]
+      ],
+      "image": "words/friend_zone.webp"
     },
     {
       "id": "wingman",
@@ -1748,7 +1842,8 @@
         "wingspan",
         "workman",
         "wise man"
-      ]
+      ],
+      "image": "words/wingman.webp"
     },
     {
       "id": "matchmaker",
@@ -1766,7 +1861,8 @@
         "matchbox",
         "moneymaker",
         "watchmaker"
-      ]
+      ],
+      "image": "words/matchmaker.webp"
     },
     {
       "id": "dating_app",
@@ -1784,7 +1880,8 @@
         "dating up",
         "eating app",
         "daily app"
-      ]
+      ],
+      "image": "words/dating_app.webp"
     },
     {
       "id": "ghosting",
@@ -1802,7 +1899,8 @@
         "boasting",
         "hosting",
         "gusting"
-      ]
+      ],
+      "image": "words/ghosting.webp"
     },
     {
       "id": "situationship",
@@ -1820,7 +1918,8 @@
         "sponsorship",
         "relationship",
         "situation room"
-      ]
+      ],
+      "image": "words/situationship.webp"
     },
     {
       "id": "red_flag",
@@ -1838,7 +1937,8 @@
         "red flat",
         "read flag",
         "rag flag"
-      ]
+      ],
+      "image": "words/red_flag.webp"
     },
     {
       "id": "green_flag",
@@ -1856,7 +1956,8 @@
         "green flat",
         "greed flag",
         "green frog"
-      ]
+      ],
+      "image": "words/green_flag.webp"
     },
     {
       "id": "catfish",
@@ -1874,7 +1975,8 @@
         "cuttlefish",
         "cattle",
         "goldfish"
-      ]
+      ],
+      "image": "words/catfish.webp"
     },
     {
       "id": "take_it_slow",
@@ -1892,7 +1994,8 @@
         "take it easy",
         "take it back",
         "take a bow"
-      ]
+      ],
+      "image": "words/take_it_slow.webp"
     },
     {
       "id": "self_love",
@@ -1910,7 +2013,8 @@
         "selfish",
         "shelf life",
         "self-help"
-      ]
+      ],
+      "image": "words/self_love.webp"
     },
     {
       "id": "single_life",
@@ -1928,7 +2032,8 @@
         "single file",
         "simple life",
         "single wife"
-      ]
+      ],
+      "image": "words/single_life.webp"
     }
   ]
 }

@@ -204,7 +204,8 @@
         "bathroom",
         "living room",
         "kitchen"
-      ]
+      ],
+      "image": "words/bedroom.webp"
     },
     {
       "id": "bathroom",
@@ -241,7 +242,8 @@
         "dining room",
         "bedroom",
         "bathroom"
-      ]
+      ],
+      "image": "words/living_room.webp"
     },
     {
       "id": "sofa",
@@ -278,7 +280,8 @@
         "desk",
         "chair",
         "shelf"
-      ]
+      ],
+      "image": "words/table.webp"
     },
     {
       "id": "chair",
@@ -360,7 +363,8 @@
         "light",
         "candle",
         "fan"
-      ]
+      ],
+      "image": "words/lamp.webp"
     },
     {
       "id": "fridge",
@@ -397,7 +401,8 @@
         "blanket",
         "sheet",
         "mattress"
-      ]
+      ],
+      "image": "words/pillow.webp"
     },
     {
       "id": "stairs",
@@ -415,7 +420,8 @@
         "ladder",
         "floor",
         "elevator"
-      ]
+      ],
+      "image": "words/stairs.webp"
     },
     {
       "id": "mother",
@@ -490,7 +496,8 @@
         "sister",
         "cousin",
         "uncle"
-      ]
+      ],
+      "image": "words/brother.webp"
     },
     {
       "id": "sister",
@@ -508,7 +515,8 @@
         "brother",
         "daughter",
         "aunt"
-      ]
+      ],
+      "image": "words/sister.webp"
     },
     {
       "id": "grandmother",
@@ -556,7 +564,8 @@
         "uncle",
         "cousin",
         "niece"
-      ]
+      ],
+      "image": "words/aunt.webp"
     },
     {
       "id": "uncle",
@@ -574,7 +583,8 @@
         "aunt",
         "cousin",
         "nephew"
-      ]
+      ],
+      "image": "words/uncle.webp"
     },
     {
       "id": "cousin",
@@ -592,7 +602,8 @@
         "nephew",
         "niece",
         "sibling"
-      ]
+      ],
+      "image": "words/cousin.webp"
     },
     {
       "id": "husband",
@@ -610,7 +621,8 @@
         "wife",
         "boyfriend",
         "father"
-      ]
+      ],
+      "image": "words/husband.webp"
     },
     {
       "id": "wife",
@@ -628,7 +640,8 @@
         "husband",
         "girlfriend",
         "mother"
-      ]
+      ],
+      "image": "words/wife.webp"
     },
     {
       "id": "daughter",
@@ -684,7 +697,8 @@
         "tonight",
         "tomorrow",
         "yesterday"
-      ]
+      ],
+      "image": "words/today.webp"
     },
     {
       "id": "tomorrow",
@@ -702,7 +716,8 @@
         "today",
         "yesterday",
         "tonight"
-      ]
+      ],
+      "image": "words/tomorrow.webp"
     },
     {
       "id": "yesterday",
@@ -720,7 +735,8 @@
         "today",
         "tomorrow",
         "last night"
-      ]
+      ],
+      "image": "words/yesterday.webp"
     },
     {
       "id": "morning",
@@ -757,7 +773,8 @@
         "morning",
         "evening",
         "noon"
-      ]
+      ],
+      "image": "words/afternoon.webp"
     },
     {
       "id": "evening",
@@ -813,7 +830,8 @@
         "weekday",
         "holiday",
         "week"
-      ]
+      ],
+      "image": "words/weekend.webp"
     },
     {
       "id": "always",
@@ -831,7 +849,8 @@
         "usually",
         "often",
         "never"
-      ]
+      ],
+      "image": "words/always.webp"
     },
     {
       "id": "usually",
@@ -849,7 +868,8 @@
         "always",
         "sometimes",
         "often"
-      ]
+      ],
+      "image": "words/usually.webp"
     },
     {
       "id": "sometimes",
@@ -867,7 +887,8 @@
         "sometime",
         "usually",
         "seldom"
-      ]
+      ],
+      "image": "words/sometimes.webp"
     },
     {
       "id": "never",
@@ -885,7 +906,8 @@
         "ever",
         "always",
         "rarely"
-      ]
+      ],
+      "image": "words/never.webp"
     },
     {
       "id": "early",
@@ -903,7 +925,8 @@
         "late",
         "soon",
         "fast"
-      ]
+      ],
+      "image": "words/early.webp"
     },
     {
       "id": "late",
@@ -921,7 +944,8 @@
         "lately",
         "early",
         "later"
-      ]
+      ],
+      "image": "words/late.webp"
     },
     {
       "id": "shirt",
@@ -973,7 +997,8 @@
         "trousers",
         "shorts",
         "jeans"
-      ]
+      ],
+      "image": "words/pants.webp"
     },
     {
       "id": "jeans",
@@ -1025,7 +1050,8 @@
         "dress",
         "shirt",
         "shorts"
-      ]
+      ],
+      "image": "words/skirt.webp"
     },
     {
       "id": "shoes",
@@ -1134,7 +1160,8 @@
         "put on",
         "dress",
         "carry"
-      ]
+      ],
+      "image": "words/wear.webp"
     },
     {
       "id": "put_on",
@@ -1152,7 +1179,8 @@
         "wear",
         "take off",
         "put off"
-      ]
+      ],
+      "image": "words/put_on.webp"
     },
     {
       "id": "take_off",
@@ -1208,7 +1236,8 @@
         "wake up",
         "stand up",
         "give up"
-      ]
+      ],
+      "image": "words/get_up.webp"
     },
     {
       "id": "brush_teeth",
@@ -1260,7 +1289,8 @@
         "dress up",
         "wear",
         "get up"
-      ]
+      ],
+      "image": "words/get_dressed.webp"
     },
     {
       "id": "have_breakfast",
@@ -1278,7 +1308,8 @@
         "have lunch",
         "have dinner",
         "have a snack"
-      ]
+      ],
+      "image": "words/have_breakfast.webp"
     },
     {
       "id": "commute",
@@ -1315,7 +1346,8 @@
         "go home",
         "leave home",
         "stay home"
-      ]
+      ],
+      "image": "words/come_home.webp"
     },
     {
       "id": "do_housework",
@@ -1371,7 +1403,8 @@
         "sleep",
         "go to sleep",
         "lie down"
-      ]
+      ],
+      "image": "words/go_to_bed.webp"
     },
     {
       "id": "sleep",
@@ -1541,7 +1574,8 @@
         "bored",
         "tiring",
         "interesting"
-      ]
+      ],
+      "image": "words/boring.webp"
     },
     {
       "id": "excited",
@@ -1616,7 +1650,8 @@
         "angry",
         "thirsty",
         "full"
-      ]
+      ],
+      "image": "words/hungry.webp"
     },
     {
       "id": "thirsty",
@@ -1918,7 +1953,8 @@
         "fry",
         "steam",
         "bake"
-      ]
+      ],
+      "image": "words/boil.webp"
     },
     {
       "id": "fry",
@@ -1936,7 +1972,8 @@
         "boil",
         "grill",
         "bake"
-      ]
+      ],
+      "image": "words/fry.webp"
     }
   ]
 }

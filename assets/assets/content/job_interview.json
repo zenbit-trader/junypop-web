@@ -29,7 +29,8 @@
           "job_fair",
           "qualification",
           "requirement"
-        ]
+        ],
+        "image": "lessons/job_interview_1.webp"
       },
       {
         "id": "job_interview_2",
@@ -51,7 +52,8 @@
           "tie",
           "punctual",
           "arrive_early"
-        ]
+        ],
+        "image": "lessons/job_interview_2.webp"
       },
       {
         "id": "job_interview_3",
@@ -73,7 +75,8 @@
           "bilingual",
           "internship",
           "freelance"
-        ]
+        ],
+        "image": "lessons/job_interview_3.webp"
       },
       {
         "id": "job_interview_4",
@@ -95,7 +98,8 @@
           "conflict",
           "criticism",
           "setback"
-        ]
+        ],
+        "image": "lessons/job_interview_4.webp"
       },
       {
         "id": "job_interview_5",
@@ -117,7 +121,8 @@
           "briefly",
           "example",
           "overall"
-        ]
+        ],
+        "image": "lessons/job_interview_5.webp"
       },
       {
         "id": "job_interview_6",
@@ -139,7 +144,8 @@
           "workload",
           "supervisor",
           "coworker"
-        ]
+        ],
+        "image": "lessons/job_interview_6.webp"
       },
       {
         "id": "job_interview_7",
@@ -161,7 +167,8 @@
           "start_date",
           "onboarding",
           "mentor"
-        ]
+        ],
+        "image": "lessons/job_interview_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "job hunting",
         "job sharing",
         "job rotation"
-      ]
+      ],
+      "image": "words/job_posting.webp"
     },
     {
       "id": "job_description",
@@ -200,7 +208,8 @@
         "job interview",
         "job title",
         "job offer"
-      ]
+      ],
+      "image": "words/job_description.webp"
     },
     {
       "id": "opening",
@@ -218,7 +227,8 @@
         "evening",
         "offering",
         "ordering"
-      ]
+      ],
+      "image": "words/opening.webp"
     },
     {
       "id": "recruitment",
@@ -236,7 +246,8 @@
         "retirement",
         "requirement",
         "replacement"
-      ]
+      ],
+      "image": "words/recruitment.webp"
     },
     {
       "id": "recruiter",
@@ -254,7 +265,8 @@
         "reporter",
         "retailer",
         "researcher"
-      ]
+      ],
+      "image": "words/recruiter.webp"
     },
     {
       "id": "applicant",
@@ -272,7 +284,8 @@
         "appliance",
         "applause",
         "appointment"
-      ]
+      ],
+      "image": "words/applicant.webp"
     },
     {
       "id": "application_form",
@@ -290,7 +303,8 @@
         "registration desk",
         "order form",
         "entry ticket"
-      ]
+      ],
+      "image": "words/application_form.webp"
     },
     {
       "id": "cover_letter",
@@ -308,7 +322,8 @@
         "love letter",
         "cover story",
         "letter box"
-      ]
+      ],
+      "image": "words/cover_letter.webp"
     },
     {
       "id": "portfolio",
@@ -326,7 +341,8 @@
         "port",
         "postcard",
         "folder"
-      ]
+      ],
+      "image": "words/portfolio.webp"
     },
     {
       "id": "attachment",
@@ -344,7 +360,8 @@
         "announcement",
         "agreement",
         "appointment"
-      ]
+      ],
+      "image": "words/attachment.webp"
     },
     {
       "id": "hand_in",
@@ -362,7 +379,8 @@
         "hand out",
         "hang on",
         "hold in"
-      ]
+      ],
+      "image": "words/hand_in.webp"
     },
     {
       "id": "job_fair",
@@ -380,7 +398,8 @@
         "book fair",
         "job title",
         "food fair"
-      ]
+      ],
+      "image": "words/job_fair.webp"
     },
     {
       "id": "qualification",
@@ -398,7 +417,8 @@
         "quality control",
         "quantity",
         "quotation"
-      ]
+      ],
+      "image": "words/qualification.webp"
     },
     {
       "id": "requirement",
@@ -416,7 +436,8 @@
         "retirement",
         "refreshment",
         "reminder"
-      ]
+      ],
+      "image": "words/requirement.webp"
     },
     {
       "id": "certificate",
@@ -434,7 +455,8 @@
         "certainty",
         "cartridge",
         "curtain"
-      ]
+      ],
+      "image": "words/certificate.webp"
     },
     {
       "id": "transcript",
@@ -452,7 +474,8 @@
         "transport",
         "translation",
         "transfer"
-      ]
+      ],
+      "image": "words/transcript.webp"
     },
     {
       "id": "shortlist",
@@ -470,7 +493,8 @@
         "short cut",
         "shopping list",
         "short break"
-      ]
+      ],
+      "image": "words/shortlist.webp"
     },
     {
       "id": "candidate",
@@ -488,7 +512,8 @@
         "calendar",
         "cabinet",
         "container"
-      ]
+      ],
+      "image": "words/candidate.webp"
     },
     {
       "id": "confirm",
@@ -506,7 +531,8 @@
         "conform",
         "confuse",
         "control"
-      ]
+      ],
+      "image": "words/confirm.webp"
     },
     {
       "id": "prepare",
@@ -524,7 +550,8 @@
         "repair",
         "prefer",
         "present"
-      ]
+      ],
+      "image": "words/prepare.webp"
     },
     {
       "id": "mock_interview",
@@ -542,7 +569,8 @@
         "mock exam",
         "group interview",
         "phone call"
-      ]
+      ],
+      "image": "words/mock_interview.webp"
     },
     {
       "id": "rehearse",
@@ -560,7 +588,8 @@
         "reverse",
         "release",
         "research"
-      ]
+      ],
+      "image": "words/rehearse.webp"
     },
     {
       "id": "dress_code",
@@ -578,7 +607,8 @@
         "area code",
         "dress size",
         "zip code"
-      ]
+      ],
+      "image": "words/dress_code.webp"
     },
     {
       "id": "formal",
@@ -596,7 +626,8 @@
         "former",
         "normal",
         "friendly"
-      ]
+      ],
+      "image": "words/formal.webp"
     },
     {
       "id": "suit",
@@ -614,7 +645,8 @@
         "soup",
         "sweet",
         "shoot"
-      ]
+      ],
+      "image": "words/suit.webp"
     },
     {
       "id": "tie",
@@ -632,7 +664,8 @@
         "toe",
         "tea",
         "tail"
-      ]
+      ],
+      "image": "words/tie.webp"
     },
     {
       "id": "punctual",
@@ -650,7 +683,8 @@
         "punishment",
         "practical",
         "particular"
-      ]
+      ],
+      "image": "words/punctual.webp"
     },
     {
       "id": "arrive_early",
@@ -668,7 +702,8 @@
         "arrive late",
         "leave early",
         "wake up early"
-      ]
+      ],
+      "image": "words/arrive_early.webp"
     },
     {
       "id": "introduce",
@@ -686,7 +721,8 @@
         "introduction",
         "produce",
         "interrupt"
-      ]
+      ],
+      "image": "words/introduce.webp"
     },
     {
       "id": "impression",
@@ -704,7 +740,8 @@
         "expression",
         "impossible",
         "invitation"
-      ]
+      ],
+      "image": "words/impression.webp"
     },
     {
       "id": "confidence",
@@ -722,7 +759,8 @@
         "conference",
         "consequence",
         "convenience"
-      ]
+      ],
+      "image": "words/confidence.webp"
     },
     {
       "id": "background",
@@ -740,7 +778,8 @@
         "backpack",
         "backyard",
         "foreground"
-      ]
+      ],
+      "image": "words/background.webp"
     },
     {
       "id": "previous",
@@ -758,7 +797,8 @@
         "precious",
         "obvious",
         "serious"
-      ]
+      ],
+      "image": "words/previous.webp"
     },
     {
       "id": "responsibility",
@@ -776,7 +816,8 @@
         "possibility",
         "reputation",
         "relationship"
-      ]
+      ],
+      "image": "words/responsibility.webp"
     },
     {
       "id": "achievement",
@@ -794,7 +835,8 @@
         "agreement",
         "adjustment",
         "advertisement"
-      ]
+      ],
+      "image": "words/achievement.webp"
     },
     {
       "id": "expertise",
@@ -812,7 +854,8 @@
         "experiment",
         "expectation",
         "expense"
-      ]
+      ],
+      "image": "words/expertise.webp"
     },
     {
       "id": "specialize",
@@ -830,7 +873,8 @@
         "socialize",
         "speculate",
         "simplify"
-      ]
+      ],
+      "image": "words/specialize.webp"
     },
     {
       "id": "proficient",
@@ -848,7 +892,8 @@
         "sufficient",
         "efficient",
         "patient"
-      ]
+      ],
+      "image": "words/proficient.webp"
     },
     {
       "id": "fluent",
@@ -866,7 +911,8 @@
         "fluid",
         "frequent",
         "florist"
-      ]
+      ],
+      "image": "words/fluent.webp"
     },
     {
       "id": "bilingual",
@@ -884,7 +930,8 @@
         "biological",
         "binocular",
         "bicycle"
-      ]
+      ],
+      "image": "words/bilingual.webp"
     },
     {
       "id": "internship",
@@ -902,7 +949,8 @@
         "internet",
         "interview",
         "international"
-      ]
+      ],
+      "image": "words/internship.webp"
     },
     {
       "id": "freelance",
@@ -920,7 +968,8 @@
         "free time",
         "freedom",
         "free trial"
-      ]
+      ],
+      "image": "words/freelance.webp"
     },
     {
       "id": "reliable",
@@ -938,7 +987,8 @@
         "readable",
         "religious",
         "remarkable"
-      ]
+      ],
+      "image": "words/reliable.webp"
     },
     {
       "id": "diligent",
@@ -956,7 +1006,8 @@
         "different",
         "delicate",
         "distant"
-      ]
+      ],
+      "image": "words/diligent.webp"
     },
     {
       "id": "detail_oriented",
@@ -974,7 +1025,8 @@
         "result-driven",
         "open-minded",
         "easy-going"
-      ]
+      ],
+      "image": "words/detail_oriented.webp"
     },
     {
       "id": "problem_solving",
@@ -992,7 +1044,8 @@
         "decision-making",
         "time-saving",
         "record-keeping"
-      ]
+      ],
+      "image": "words/problem_solving.webp"
     },
     {
       "id": "leadership",
@@ -1010,7 +1063,8 @@
         "ownership",
         "friendship",
         "membership"
-      ]
+      ],
+      "image": "words/leadership.webp"
     },
     {
       "id": "ambition",
@@ -1028,7 +1082,8 @@
         "addiction",
         "attention",
         "admission"
-      ]
+      ],
+      "image": "words/ambition.webp"
     },
     {
       "id": "motivation",
@@ -1046,7 +1101,8 @@
         "imagination",
         "operation",
         "vacation"
-      ]
+      ],
+      "image": "words/motivation.webp"
     },
     {
       "id": "flexible",
@@ -1064,7 +1120,8 @@
         "fragile",
         "familiar",
         "favourite"
-      ]
+      ],
+      "image": "words/flexible.webp"
     },
     {
       "id": "adapt",
@@ -1082,7 +1139,8 @@
         "adopt",
         "admit",
         "advance"
-      ]
+      ],
+      "image": "words/adapt.webp"
     },
     {
       "id": "stand_out",
@@ -1100,7 +1158,8 @@
         "stand up",
         "stay out",
         "step out"
-      ]
+      ],
+      "image": "words/stand_out.webp"
     },
     {
       "id": "pressure",
@@ -1118,7 +1177,8 @@
         "pleasure",
         "picture",
         "passenger"
-      ]
+      ],
+      "image": "words/pressure.webp"
     },
     {
       "id": "conflict",
@@ -1136,7 +1196,8 @@
         "comfort",
         "contact",
         "concert"
-      ]
+      ],
+      "image": "words/conflict.webp"
     },
     {
       "id": "criticism",
@@ -1154,7 +1215,8 @@
         "crisis",
         "creativity",
         "curiosity"
-      ]
+      ],
+      "image": "words/criticism.webp"
     },
     {
       "id": "setback",
@@ -1172,7 +1234,8 @@
         "feedback",
         "backup",
         "shortcut"
-      ]
+      ],
+      "image": "words/setback.webp"
     },
     {
       "id": "elaborate",
@@ -1190,7 +1253,8 @@
         "eliminate",
         "evaluate",
         "celebrate"
-      ]
+      ],
+      "image": "words/elaborate.webp"
     },
     {
       "id": "clarify",
@@ -1208,7 +1272,8 @@
         "classify",
         "clean up",
         "close off"
-      ]
+      ],
+      "image": "words/clarify.webp"
     },
     {
       "id": "summarize",
@@ -1226,7 +1291,8 @@
         "memorize",
         "supervise",
         "surprise"
-      ]
+      ],
+      "image": "words/summarize.webp"
     },
     {
       "id": "emphasize",
@@ -1244,7 +1310,8 @@
         "organize",
         "apologize",
         "exercise"
-      ]
+      ],
+      "image": "words/emphasize.webp"
     },
     {
       "id": "demonstrate",
@@ -1262,7 +1329,8 @@
         "dominate",
         "decorate",
         "dedicate"
-      ]
+      ],
+      "image": "words/demonstrate.webp"
     },
     {
       "id": "point_out",
@@ -1280,7 +1348,8 @@
         "print out",
         "pick up",
         "put off"
-      ]
+      ],
+      "image": "words/point_out.webp"
     },
     {
       "id": "specific",
@@ -1298,7 +1367,8 @@
         "scientific",
         "terrific",
         "pacific"
-      ]
+      ],
+      "image": "words/specific.webp"
     },
     {
       "id": "concise",
@@ -1316,7 +1386,8 @@
         "precise",
         "consider",
         "content"
-      ]
+      ],
+      "image": "words/concise.webp"
     },
     {
       "id": "honestly",
@@ -1334,7 +1405,8 @@
         "honeymoon",
         "hopefully",
         "hardly"
-      ]
+      ],
+      "image": "words/honestly.webp"
     },
     {
       "id": "communicate",
@@ -1352,7 +1424,8 @@
         "commute",
         "complicate",
         "compensate"
-      ]
+      ],
+      "image": "words/communicate.webp"
     },
     {
       "id": "prioritize",
@@ -1370,7 +1443,8 @@
         "privatize",
         "practise",
         "provide"
-      ]
+      ],
+      "image": "words/prioritize.webp"
     },
     {
       "id": "briefly",
@@ -1388,7 +1462,8 @@
         "bravely",
         "barely",
         "brightly"
-      ]
+      ],
+      "image": "words/briefly.webp"
     },
     {
       "id": "example",
@@ -1406,7 +1481,8 @@
         "excellent",
         "exchange",
         "exam"
-      ]
+      ],
+      "image": "words/example.webp"
     },
     {
       "id": "overall",
@@ -1424,7 +1500,8 @@
         "over there",
         "after all",
         "overnight"
-      ]
+      ],
+      "image": "words/overall.webp"
     },
     {
       "id": "probation",
@@ -1442,7 +1519,8 @@
         "production",
         "promotion",
         "protection"
-      ]
+      ],
+      "image": "words/probation.webp"
     },
     {
       "id": "remote",
@@ -1460,7 +1538,8 @@
         "removed",
         "reduced",
         "relaxed"
-      ]
+      ],
+      "image": "words/remote.webp"
     },
     {
       "id": "hybrid",
@@ -1478,7 +1557,8 @@
         "humid",
         "hidden",
         "highlight"
-      ]
+      ],
+      "image": "words/hybrid.webp"
     },
     {
       "id": "working_hours",
@@ -1496,7 +1576,8 @@
         "opening hours",
         "rush hours",
         "happy hours"
-      ]
+      ],
+      "image": "words/working_hours.webp"
     },
     {
       "id": "annual_leave",
@@ -1514,7 +1595,8 @@
         "sick leave",
         "annual report",
         "maternity leave"
-      ]
+      ],
+      "image": "words/annual_leave.webp"
     },
     {
       "id": "allowance",
@@ -1532,7 +1614,8 @@
         "appearance",
         "attendance",
         "assistance"
-      ]
+      ],
+      "image": "words/allowance.webp"
     },
     {
       "id": "provident_fund",
@@ -1550,7 +1633,8 @@
         "pension plan",
         "provided food",
         "private fund"
-      ]
+      ],
+      "image": "words/provident_fund.webp"
     },
     {
       "id": "severance",
@@ -1568,7 +1652,8 @@
         "service",
         "silence",
         "seniority"
-      ]
+      ],
+      "image": "words/severance.webp"
     },
     {
       "id": "commission",
@@ -1586,7 +1671,8 @@
         "competition",
         "communication",
         "collection"
-      ]
+      ],
+      "image": "words/commission.webp"
     },
     {
       "id": "pay_raise",
@@ -1604,7 +1690,8 @@
         "pay cut",
         "pay day",
         "price rise"
-      ]
+      ],
+      "image": "words/pay_raise.webp"
     },
     {
       "id": "training",
@@ -1622,7 +1709,8 @@
         "traveling",
         "trading",
         "trending"
-      ]
+      ],
+      "image": "words/training.webp"
     },
     {
       "id": "workload",
@@ -1640,7 +1728,8 @@
         "download",
         "workshop",
         "workspace"
-      ]
+      ],
+      "image": "words/workload.webp"
     },
     {
       "id": "supervisor",
@@ -1658,7 +1747,8 @@
         "survivor",
         "supporter",
         "superstar"
-      ]
+      ],
+      "image": "words/supervisor.webp"
     },
     {
       "id": "coworker",
@@ -1676,7 +1766,8 @@
         "customer",
         "commuter",
         "contractor"
-      ]
+      ],
+      "image": "words/coworker.webp"
     },
     {
       "id": "follow_up",
@@ -1694,7 +1785,8 @@
         "fill up",
         "follow along",
         "fall behind"
-      ]
+      ],
+      "image": "words/follow_up.webp"
     },
     {
       "id": "thank_you_email",
@@ -1712,7 +1804,8 @@
         "welcome letter",
         "thank-you card",
         "group email"
-      ]
+      ],
+      "image": "words/thank_you_email.webp"
     },
     {
       "id": "second_round",
@@ -1730,7 +1823,8 @@
         "second hand",
         "final score",
         "next station"
-      ]
+      ],
+      "image": "words/second_round.webp"
     },
     {
       "id": "background_check",
@@ -1748,7 +1842,8 @@
         "health check",
         "security guard",
         "credit card"
-      ]
+      ],
+      "image": "words/background_check.webp"
     },
     {
       "id": "offer_letter",
@@ -1766,7 +1861,8 @@
         "open letter",
         "order slip",
         "office memo"
-      ]
+      ],
+      "image": "words/offer_letter.webp"
     },
     {
       "id": "counteroffer",
@@ -1784,7 +1880,8 @@
         "special offer",
         "counter service",
         "cash offer"
-      ]
+      ],
+      "image": "words/counteroffer.webp"
     },
     {
       "id": "decline",
@@ -1802,7 +1899,8 @@
         "design",
         "deadline",
         "delay"
-      ]
+      ],
+      "image": "words/decline.webp"
     },
     {
       "id": "reject",
@@ -1820,7 +1918,8 @@
         "report",
         "respect",
         "request"
-      ]
+      ],
+      "image": "words/reject.webp"
     },
     {
       "id": "rejection",
@@ -1838,7 +1937,8 @@
         "reflection",
         "reaction",
         "religion"
-      ]
+      ],
+      "image": "words/rejection.webp"
     },
     {
       "id": "withdraw",
@@ -1856,7 +1956,8 @@
         "withstand",
         "wander",
         "wonder"
-      ]
+      ],
+      "image": "words/withdraw.webp"
     },
     {
       "id": "notice_period",
@@ -1874,7 +1975,8 @@
         "trial period",
         "notice board",
         "rest period"
-      ]
+      ],
+      "image": "words/notice_period.webp"
     },
     {
       "id": "start_date",
@@ -1892,7 +1994,8 @@
         "due date",
         "start line",
         "birth date"
-      ]
+      ],
+      "image": "words/start_date.webp"
     },
     {
       "id": "onboarding",
@@ -1910,7 +2013,8 @@
         "boarding pass",
         "onlooking",
         "outsourcing"
-      ]
+      ],
+      "image": "words/onboarding.webp"
     },
     {
       "id": "mentor",
@@ -1928,7 +2032,8 @@
         "monitor",
         "member",
         "manager"
-      ]
+      ],
+      "image": "words/mentor.webp"
     }
   ]
 }

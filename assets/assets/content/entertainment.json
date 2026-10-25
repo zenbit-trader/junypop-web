@@ -29,7 +29,8 @@
           "opening_credits",
           "end_credits",
           "spoiler"
-        ]
+        ],
+        "image": "lessons/entertainment_1.webp"
       },
       {
         "id": "entertainment_2",
@@ -51,7 +52,8 @@
           "plot",
           "plot_twist",
           "main_character"
-        ]
+        ],
+        "image": "lessons/entertainment_2.webp"
       },
       {
         "id": "entertainment_3",
@@ -73,7 +75,8 @@
           "soundtrack",
           "behind_the_scenes",
           "wrap"
-        ]
+        ],
+        "image": "lessons/entertainment_3.webp"
       },
       {
         "id": "entertainment_4",
@@ -95,7 +98,8 @@
           "recap",
           "rewatch",
           "plot_hole"
-        ]
+        ],
+        "image": "lessons/entertainment_4.webp"
       },
       {
         "id": "entertainment_5",
@@ -117,7 +121,8 @@
           "instrumental",
           "karaoke",
           "sing_along"
-        ]
+        ],
+        "image": "lessons/entertainment_5.webp"
       },
       {
         "id": "entertainment_6",
@@ -139,7 +144,8 @@
           "fan",
           "dance_move",
           "music_video"
-        ]
+        ],
+        "image": "lessons/entertainment_6.webp"
       },
       {
         "id": "entertainment_7",
@@ -161,7 +167,8 @@
           "theme_song",
           "tearjerker",
           "must_watch"
-        ]
+        ],
+        "image": "lessons/entertainment_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "camera",
         "citizen",
         "ceremony"
-      ]
+      ],
+      "image": "words/cinema.webp"
     },
     {
       "id": "box_office",
@@ -200,7 +208,8 @@
         "back office",
         "box officer",
         "post office"
-      ]
+      ],
+      "image": "words/box_office.webp"
     },
     {
       "id": "showtime",
@@ -218,7 +227,8 @@
         "showroom",
         "shortime",
         "snowtime"
-      ]
+      ],
+      "image": "words/showtime.webp"
     },
     {
       "id": "sold_out",
@@ -236,7 +246,8 @@
         "sold up",
         "old out",
         "solve out"
-      ]
+      ],
+      "image": "words/sold_out.webp"
     },
     {
       "id": "front_row",
@@ -254,7 +265,8 @@
         "front raw",
         "front road",
         "front door"
-      ]
+      ],
+      "image": "words/front_row.webp"
     },
     {
       "id": "popcorn",
@@ -272,7 +284,8 @@
         "popsicle",
         "peppercorn",
         "unicorn"
-      ]
+      ],
+      "image": "words/popcorn.webp"
     },
     {
       "id": "trailer",
@@ -290,7 +303,8 @@
         "traveler",
         "tailor",
         "trainer"
-      ]
+      ],
+      "image": "words/trailer.webp"
     },
     {
       "id": "premiere",
@@ -308,7 +322,8 @@
         "premium",
         "primary",
         "preview"
-      ]
+      ],
+      "image": "words/premiere.webp"
     },
     {
       "id": "blockbuster",
@@ -326,7 +341,8 @@
         "blockchain",
         "backbuster",
         "blocknote"
-      ]
+      ],
+      "image": "words/blockbuster.webp"
     },
     {
       "id": "sequel",
@@ -344,7 +360,8 @@
         "equal",
         "squirrel",
         "seagull"
-      ]
+      ],
+      "image": "words/sequel.webp"
     },
     {
       "id": "dubbed",
@@ -362,7 +379,8 @@
         "doubled",
         "rubbed",
         "dabbed"
-      ]
+      ],
+      "image": "words/dubbed.webp"
     },
     {
       "id": "opening_credits",
@@ -380,7 +398,8 @@
         "opening credit card",
         "opening credibility",
         "opening cabinets"
-      ]
+      ],
+      "image": "words/opening_credits.webp"
     },
     {
       "id": "end_credits",
@@ -398,7 +417,8 @@
         "end credibility",
         "and credits",
         "end cards"
-      ]
+      ],
+      "image": "words/end_credits.webp"
     },
     {
       "id": "spoiler",
@@ -416,7 +436,8 @@
         "spoil",
         "sparkler",
         "soldier"
-      ]
+      ],
+      "image": "words/spoiler.webp"
     },
     {
       "id": "comedy",
@@ -434,7 +455,8 @@
         "committee",
         "commodity",
         "community"
-      ]
+      ],
+      "image": "words/comedy.webp"
     },
     {
       "id": "drama",
@@ -452,7 +474,8 @@
         "dream",
         "drawer",
         "diagram"
-      ]
+      ],
+      "image": "words/drama.webp"
     },
     {
       "id": "romance",
@@ -470,7 +493,8 @@
         "roman",
         "remains",
         "resonance"
-      ]
+      ],
+      "image": "words/romance.webp"
     },
     {
       "id": "thriller",
@@ -488,7 +512,8 @@
         "driller",
         "traveler",
         "chiller"
-      ]
+      ],
+      "image": "words/thriller.webp"
     },
     {
       "id": "sci_fi",
@@ -506,7 +531,8 @@
         "wi-fi",
         "hi-fi",
         "sky-fi"
-      ]
+      ],
+      "image": "words/sci_fi.webp"
     },
     {
       "id": "fantasy",
@@ -524,7 +550,8 @@
         "factory",
         "fancy",
         "fantastic"
-      ]
+      ],
+      "image": "words/fantasy.webp"
     },
     {
       "id": "mystery",
@@ -542,7 +569,8 @@
         "ministry",
         "misery",
         "history"
-      ]
+      ],
+      "image": "words/mystery.webp"
     },
     {
       "id": "superhero",
@@ -560,7 +588,8 @@
         "superhuman",
         "superior",
         "supermarket"
-      ]
+      ],
+      "image": "words/superhero.webp"
     },
     {
       "id": "animation",
@@ -578,7 +607,8 @@
         "imagination",
         "animal",
         "admiration"
-      ]
+      ],
+      "image": "words/animation.webp"
     },
     {
       "id": "documentary",
@@ -596,7 +626,8 @@
         "dictionary",
         "documents",
         "commentary"
-      ]
+      ],
+      "image": "words/documentary.webp"
     },
     {
       "id": "based_on_true_story",
@@ -614,7 +645,8 @@
         "based on a new story",
         "placed on a true story",
         "based on a top story"
-      ]
+      ],
+      "image": "words/based_on_true_story.webp"
     },
     {
       "id": "plot",
@@ -632,7 +664,8 @@
         "pilot",
         "plate",
         "pot"
-      ]
+      ],
+      "image": "words/plot.webp"
     },
     {
       "id": "plot_twist",
@@ -650,7 +683,8 @@
         "plot list",
         "pilot twist",
         "plot twin"
-      ]
+      ],
+      "image": "words/plot_twist.webp"
     },
     {
       "id": "main_character",
@@ -668,7 +702,8 @@
         "main charger",
         "mean character",
         "main chapter"
-      ]
+      ],
+      "image": "words/main_character.webp"
     },
     {
       "id": "director",
@@ -686,7 +721,8 @@
         "direction",
         "detector",
         "decorator"
-      ]
+      ],
+      "image": "words/director.webp"
     },
     {
       "id": "actor",
@@ -704,7 +740,8 @@
         "author",
         "doctor",
         "factor"
-      ]
+      ],
+      "image": "words/actor.webp"
     },
     {
       "id": "actress",
@@ -722,7 +759,8 @@
         "address",
         "actors",
         "mattress"
-      ]
+      ],
+      "image": "words/actress.webp"
     },
     {
       "id": "audition",
@@ -740,7 +778,8 @@
         "addition",
         "ambition",
         "audience"
-      ]
+      ],
+      "image": "words/audition.webp"
     },
     {
       "id": "script",
@@ -758,7 +797,8 @@
         "scrap",
         "strict",
         "skirt"
-      ]
+      ],
+      "image": "words/script.webp"
     },
     {
       "id": "scene",
@@ -776,7 +816,8 @@
         "seen",
         "scent",
         "screen"
-      ]
+      ],
+      "image": "words/scene.webp"
     },
     {
       "id": "take",
@@ -794,7 +835,8 @@
         "tape",
         "talk",
         "taker"
-      ]
+      ],
+      "image": "words/take.webp"
     },
     {
       "id": "costume",
@@ -812,7 +854,8 @@
         "custom",
         "customer",
         "consume"
-      ]
+      ],
+      "image": "words/costume.webp"
     },
     {
       "id": "makeup_artist",
@@ -830,7 +873,8 @@
         "make-up artist shop",
         "makeup article",
         "mockup artist"
-      ]
+      ],
+      "image": "words/makeup_artist.webp"
     },
     {
       "id": "special_effects",
@@ -848,7 +892,8 @@
         "special effort",
         "spatial effects",
         "special affects"
-      ]
+      ],
+      "image": "words/special_effects.webp"
     },
     {
       "id": "stunt",
@@ -866,7 +911,8 @@
         "student",
         "stung",
         "strut"
-      ]
+      ],
+      "image": "words/stunt.webp"
     },
     {
       "id": "soundtrack",
@@ -884,7 +930,8 @@
         "sound check",
         "soundproof",
         "racetrack"
-      ]
+      ],
+      "image": "words/soundtrack.webp"
     },
     {
       "id": "behind_the_scenes",
@@ -902,7 +949,8 @@
         "behind the screens",
         "behind the seasons",
         "beyond the scenes"
-      ]
+      ],
+      "image": "words/behind_the_scenes.webp"
     },
     {
       "id": "wrap",
@@ -920,7 +968,8 @@
         "rap",
         "trap",
         "warp"
-      ]
+      ],
+      "image": "words/wrap.webp"
     },
     {
       "id": "series",
@@ -938,7 +987,8 @@
         "serious",
         "service",
         "cereal"
-      ]
+      ],
+      "image": "words/series.webp"
     },
     {
       "id": "episode",
@@ -956,7 +1006,8 @@
         "epidemic",
         "exposed",
         "episodes list"
-      ]
+      ],
+      "image": "words/episode.webp"
     },
     {
       "id": "season",
@@ -974,7 +1025,8 @@
         "reason",
         "session",
         "seasoning"
-      ]
+      ],
+      "image": "words/season.webp"
     },
     {
       "id": "streaming",
@@ -992,7 +1044,8 @@
         "steaming",
         "screaming",
         "straining"
-      ]
+      ],
+      "image": "words/streaming.webp"
     },
     {
       "id": "subscription",
@@ -1010,7 +1063,8 @@
         "prescription",
         "description",
         "suspension"
-      ]
+      ],
+      "image": "words/subscription.webp"
     },
     {
       "id": "watchlist",
@@ -1028,7 +1082,8 @@
         "watchtower",
         "wishlist",
         "washlist"
-      ]
+      ],
+      "image": "words/watchlist.webp"
     },
     {
       "id": "binge_watch",
@@ -1046,7 +1101,8 @@
         "bridge-watch",
         "binge-watcher",
         "beach-watch"
-      ]
+      ],
+      "image": "words/binge_watch.webp"
     },
     {
       "id": "marathon",
@@ -1064,7 +1120,8 @@
         "matador",
         "marathon runner",
         "metathon"
-      ]
+      ],
+      "image": "words/marathon.webp"
     },
     {
       "id": "cliffhanger",
@@ -1082,7 +1139,8 @@
         "coathanger",
         "clifftop",
         "cliffhang"
-      ]
+      ],
+      "image": "words/cliffhanger.webp"
     },
     {
       "id": "finale",
@@ -1100,7 +1158,8 @@
         "final",
         "finally",
         "finale song"
-      ]
+      ],
+      "image": "words/finale.webp"
     },
     {
       "id": "spin_off",
@@ -1118,7 +1177,8 @@
         "spin-out",
         "sign-off",
         "spin-up"
-      ]
+      ],
+      "image": "words/spin_off.webp"
     },
     {
       "id": "recap",
@@ -1136,7 +1196,8 @@
         "reclaim",
         "recipe",
         "reccap"
-      ]
+      ],
+      "image": "words/recap.webp"
     },
     {
       "id": "rewatch",
@@ -1154,7 +1215,8 @@
         "research",
         "rewatcher",
         "rematch"
-      ]
+      ],
+      "image": "words/rewatch.webp"
     },
     {
       "id": "plot_hole",
@@ -1172,7 +1234,8 @@
         "plot whole",
         "pot hole",
         "plot pole"
-      ]
+      ],
+      "image": "words/plot_hole.webp"
     },
     {
       "id": "song",
@@ -1190,7 +1253,8 @@
         "sung",
         "song book",
         "strong"
-      ]
+      ],
+      "image": "words/song.webp"
     },
     {
       "id": "lyrics",
@@ -1208,7 +1272,8 @@
         "lyric sheet",
         "liquids",
         "limericks"
-      ]
+      ],
+      "image": "words/lyrics.webp"
     },
     {
       "id": "melody",
@@ -1226,7 +1291,8 @@
         "malady",
         "remedy",
         "medley"
-      ]
+      ],
+      "image": "words/melody.webp"
     },
     {
       "id": "chorus",
@@ -1244,7 +1310,8 @@
         "course",
         "chores",
         "cactus"
-      ]
+      ],
+      "image": "words/chorus.webp"
     },
     {
       "id": "beat",
@@ -1262,7 +1329,8 @@
         "beet",
         "bit",
         "boat"
-      ]
+      ],
+      "image": "words/beat.webp"
     },
     {
       "id": "tune",
@@ -1280,7 +1348,8 @@
         "toon",
         "tone",
         "town"
-      ]
+      ],
+      "image": "words/tune.webp"
     },
     {
       "id": "catchy",
@@ -1298,7 +1367,8 @@
         "cheeky",
         "patchy",
         "catching"
-      ]
+      ],
+      "image": "words/catchy.webp"
     },
     {
       "id": "hit_song",
@@ -1316,7 +1386,8 @@
         "hit list",
         "big song",
         "hot song"
-      ]
+      ],
+      "image": "words/hit_song.webp"
     },
     {
       "id": "on_repeat",
@@ -1334,7 +1405,8 @@
         "on receipt",
         "in repeat",
         "on retreat"
-      ]
+      ],
+      "image": "words/on_repeat.webp"
     },
     {
       "id": "cover_song",
@@ -1352,7 +1424,8 @@
         "cover letter",
         "clever song",
         "cover charge"
-      ]
+      ],
+      "image": "words/cover_song.webp"
     },
     {
       "id": "remix",
@@ -1370,7 +1443,8 @@
         "rematch",
         "reindex",
         "remind"
-      ]
+      ],
+      "image": "words/remix.webp"
     },
     {
       "id": "instrumental",
@@ -1388,7 +1462,8 @@
         "installment",
         "environmental",
         "instructional"
-      ]
+      ],
+      "image": "words/instrumental.webp"
     },
     {
       "id": "karaoke",
@@ -1406,7 +1481,8 @@
         "karate",
         "kimono",
         "kayak"
-      ]
+      ],
+      "image": "words/karaoke.webp"
     },
     {
       "id": "sing_along",
@@ -1424,7 +1500,8 @@
         "sing alone",
         "swing along",
         "sign along"
-      ]
+      ],
+      "image": "words/sing_along.webp"
     },
     {
       "id": "band",
@@ -1442,7 +1519,8 @@
         "bend",
         "brand",
         "bank"
-      ]
+      ],
+      "image": "words/band.webp"
     },
     {
       "id": "singer",
@@ -1460,7 +1538,8 @@
         "finger",
         "ginger",
         "sinker"
-      ]
+      ],
+      "image": "words/singer.webp"
     },
     {
       "id": "guitarist",
@@ -1478,7 +1557,8 @@
         "guitar",
         "tourist",
         "guiterist"
-      ]
+      ],
+      "image": "words/guitarist.webp"
     },
     {
       "id": "drummer",
@@ -1496,7 +1576,8 @@
         "dreamer",
         "drama",
         "trimmer"
-      ]
+      ],
+      "image": "words/drummer.webp"
     },
     {
       "id": "concert",
@@ -1514,7 +1595,8 @@
         "consent",
         "content",
         "convert"
-      ]
+      ],
+      "image": "words/concert.webp"
     },
     {
       "id": "stage",
@@ -1532,7 +1614,8 @@
         "stadium",
         "storage",
         "stack"
-      ]
+      ],
+      "image": "words/stage.webp"
     },
     {
       "id": "lineup",
@@ -1550,7 +1633,8 @@
         "linen",
         "line-out",
         "lining"
-      ]
+      ],
+      "image": "words/lineup.webp"
     },
     {
       "id": "opening_act",
@@ -1568,7 +1652,8 @@
         "opening fact",
         "opening hours",
         "opening pact"
-      ]
+      ],
+      "image": "words/opening_act.webp"
     },
     {
       "id": "sound_check",
@@ -1586,7 +1671,8 @@
         "sound chest",
         "soundtrack",
         "round check"
-      ]
+      ],
+      "image": "words/sound_check.webp"
     },
     {
       "id": "backstage",
@@ -1604,7 +1690,8 @@
         "backpack",
         "backyard",
         "backspace"
-      ]
+      ],
+      "image": "words/backstage.webp"
     },
     {
       "id": "encore",
@@ -1622,7 +1709,8 @@
         "encode",
         "income",
         "anchor"
-      ]
+      ],
+      "image": "words/encore.webp"
     },
     {
       "id": "fan",
@@ -1640,7 +1728,8 @@
         "van",
         "fun",
         "fang"
-      ]
+      ],
+      "image": "words/fan.webp"
     },
     {
       "id": "dance_move",
@@ -1658,7 +1747,8 @@
         "dance movie",
         "dance mood",
         "chance move"
-      ]
+      ],
+      "image": "words/dance_move.webp"
     },
     {
       "id": "music_video",
@@ -1676,7 +1766,8 @@
         "music studio",
         "magic video",
         "music vinyl"
-      ]
+      ],
+      "image": "words/music_video.webp"
     },
     {
       "id": "award",
@@ -1694,7 +1785,8 @@
         "awkward",
         "aboard",
         "reward"
-      ]
+      ],
+      "image": "words/award.webp"
     },
     {
       "id": "nominate",
@@ -1712,7 +1804,8 @@
         "dominate",
         "nominal",
         "eliminate"
-      ]
+      ],
+      "image": "words/nominate.webp"
     },
     {
       "id": "red_carpet",
@@ -1730,7 +1823,8 @@
         "red carport",
         "read carpet",
         "red cabinet"
-      ]
+      ],
+      "image": "words/red_carpet.webp"
     },
     {
       "id": "celebrity",
@@ -1748,7 +1842,8 @@
         "celebration",
         "cemetery",
         "security"
-      ]
+      ],
+      "image": "words/celebrity.webp"
     },
     {
       "id": "idol",
@@ -1766,7 +1861,8 @@
         "ideal",
         "idle",
         "island"
-      ]
+      ],
+      "image": "words/idol.webp"
     },
     {
       "id": "debut",
@@ -1784,7 +1880,8 @@
         "debate",
         "debit",
         "detour"
-      ]
+      ],
+      "image": "words/debut.webp"
     },
     {
       "id": "comeback",
@@ -1802,7 +1899,8 @@
         "come back",
         "cutback",
         "comeback kid"
-      ]
+      ],
+      "image": "words/comeback.webp"
     },
     {
       "id": "fandom",
@@ -1820,7 +1918,8 @@
         "random",
         "freedom",
         "fanfare"
-      ]
+      ],
+      "image": "words/fandom.webp"
     },
     {
       "id": "fanclub",
@@ -1838,7 +1937,8 @@
         "fan cup",
         "van club",
         "fun club"
-      ]
+      ],
+      "image": "words/fanclub.webp"
     },
     {
       "id": "merch",
@@ -1856,7 +1956,8 @@
         "march",
         "merge",
         "match"
-      ]
+      ],
+      "image": "words/merch.webp"
     },
     {
       "id": "autograph",
@@ -1874,7 +1975,8 @@
         "autopilot",
         "photograph",
         "paragraph"
-      ]
+      ],
+      "image": "words/autograph.webp"
     },
     {
       "id": "theme_song",
@@ -1892,7 +1994,8 @@
         "team song",
         "theme park",
         "theme sign"
-      ]
+      ],
+      "image": "words/theme_song.webp"
     },
     {
       "id": "tearjerker",
@@ -1910,7 +2013,8 @@
         "teamworker",
         "tearoom",
         "tear jerk"
-      ]
+      ],
+      "image": "words/tearjerker.webp"
     },
     {
       "id": "must_watch",
@@ -1928,7 +2032,8 @@
         "most-watch",
         "must-watched",
         "must-match"
-      ]
+      ],
+      "image": "words/must_watch.webp"
     }
   ]
 }

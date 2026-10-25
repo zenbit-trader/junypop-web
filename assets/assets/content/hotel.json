@@ -208,7 +208,8 @@
         "roof",
         "hall",
         "house"
-      ]
+      ],
+      "image": "words/room.webp"
     },
     {
       "id": "guest",
@@ -226,7 +227,8 @@
         "customer",
         "host",
         "ghost"
-      ]
+      ],
+      "image": "words/guest.webp"
     },
     {
       "id": "book_a_room",
@@ -244,7 +246,8 @@
         "read a book",
         "clean a room",
         "keep a room"
-      ]
+      ],
+      "image": "words/book_a_room.webp"
     },
     {
       "id": "single_room",
@@ -262,7 +265,8 @@
         "double room",
         "living room",
         "single bed"
-      ]
+      ],
+      "image": "words/single_room.webp"
     },
     {
       "id": "double_room",
@@ -299,7 +303,8 @@
         "double room",
         "meeting room",
         "dining room"
-      ]
+      ],
+      "image": "words/family_room.webp"
     },
     {
       "id": "sea_view",
@@ -336,7 +341,8 @@
         "vacation",
         "vacuum",
         "balcony"
-      ]
+      ],
+      "image": "words/vacancy.webp"
     },
     {
       "id": "fully_booked",
@@ -354,7 +360,8 @@
         "fully open",
         "half full",
         "sold out"
-      ]
+      ],
+      "image": "words/fully_booked.webp"
     },
     {
       "id": "per_night",
@@ -372,7 +379,8 @@
         "per person",
         "per day",
         "at night"
-      ]
+      ],
+      "image": "words/per_night.webp"
     },
     {
       "id": "breakfast_included",
@@ -409,7 +417,8 @@
         "low season",
         "rainy season",
         "summer"
-      ]
+      ],
+      "image": "words/high_season.webp"
     },
     {
       "id": "low_season",
@@ -427,7 +436,8 @@
         "high season",
         "cool season",
         "harvest season"
-      ]
+      ],
+      "image": "words/low_season.webp"
     },
     {
       "id": "front_desk",
@@ -521,7 +531,8 @@
         "phone number",
         "house number",
         "room service"
-      ]
+      ],
+      "image": "words/room_number.webp"
     },
     {
       "id": "sign",
@@ -558,7 +569,8 @@
         "sign",
         "temperature",
         "signal"
-      ]
+      ],
+      "image": "words/signature.webp"
     },
     {
       "id": "id_card",
@@ -595,7 +607,8 @@
         "information",
         "reservation",
         "conversation"
-      ]
+      ],
+      "image": "words/confirmation.webp"
     },
     {
       "id": "early_check_in",
@@ -613,7 +626,8 @@
         "late check-out",
         "check-in time",
         "early bird"
-      ]
+      ],
+      "image": "words/early_check_in.webp"
     },
     {
       "id": "late_check_out",
@@ -631,7 +645,8 @@
         "early check-in",
         "check-out time",
         "overtime"
-      ]
+      ],
+      "image": "words/late_check_out.webp"
     },
     {
       "id": "luggage_storage",
@@ -763,7 +778,8 @@
         "blanket",
         "bedroom",
         "spreadsheet"
-      ]
+      ],
+      "image": "words/bedsheet.webp"
     },
     {
       "id": "curtain",
@@ -1180,7 +1196,8 @@
         "double bed",
         "extra charge",
         "sofa bed"
-      ]
+      ],
+      "image": "words/extra_bed.webp"
     },
     {
       "id": "iron",
@@ -1255,7 +1272,8 @@
         "not moving",
         "not open",
         "no work"
-      ]
+      ],
+      "image": "words/not_working.webp"
     },
     {
       "id": "fix",
@@ -1311,7 +1329,8 @@
         "black",
         "locked",
         "broken"
-      ]
+      ],
+      "image": "words/blocked.webp"
     },
     {
       "id": "noisy",
@@ -1348,7 +1367,8 @@
         "thirty",
         "clean",
         "tidy"
-      ]
+      ],
+      "image": "words/dirty.webp"
     },
     {
       "id": "smelly",
@@ -1423,7 +1443,8 @@
         "clean rooms",
         "book rooms",
         "share rooms"
-      ]
+      ],
+      "image": "words/change_room.webp"
     },
     {
       "id": "complain",
@@ -1441,7 +1462,8 @@
         "complete",
         "explain",
         "compare"
-      ]
+      ],
+      "image": "words/complain.webp"
     },
     {
       "id": "apologize",
@@ -1535,7 +1557,8 @@
         "near",
         "fast",
         "fair"
-      ]
+      ],
+      "image": "words/far.webp"
     },
     {
       "id": "next_to",
@@ -1553,7 +1576,8 @@
         "far from",
         "in front of",
         "behind"
-      ]
+      ],
+      "image": "words/next_to.webp"
     },
     {
       "id": "opposite",
@@ -1571,7 +1595,8 @@
         "beside",
         "behind",
         "above"
-      ]
+      ],
+      "image": "words/opposite.webp"
     },
     {
       "id": "corner",
@@ -1589,7 +1614,8 @@
         "counter",
         "center",
         "curve"
-      ]
+      ],
+      "image": "words/corner.webp"
     },
     {
       "id": "intersection",
@@ -1797,7 +1823,8 @@
         "voice",
         "receipt",
         "notice"
-      ]
+      ],
+      "image": "words/invoice.webp"
     },
     {
       "id": "damage",
@@ -1815,7 +1842,8 @@
         "danger",
         "garbage",
         "baggage"
-      ]
+      ],
+      "image": "words/damage.webp"
     },
     {
       "id": "satisfied",
@@ -1871,7 +1899,8 @@
         "comfortable",
         "confident",
         "consistent"
-      ]
+      ],
+      "image": "words/convenient.webp"
     },
     {
       "id": "clean",

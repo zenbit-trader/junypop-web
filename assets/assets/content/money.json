@@ -29,7 +29,8 @@
           "account_number",
           "signature_card",
           "bank_fee"
-        ]
+        ],
+        "image": "lessons/money_1.webp"
       },
       {
         "id": "money_2",
@@ -51,7 +52,8 @@
           "cash_withdrawal",
           "transaction_fee",
           "cash_back"
-        ]
+        ],
+        "image": "lessons/money_2.webp"
       },
       {
         "id": "money_3",
@@ -73,7 +75,8 @@
           "debt_free",
           "guarantee",
           "collateral"
-        ]
+        ],
+        "image": "lessons/money_3.webp"
       },
       {
         "id": "money_4",
@@ -95,7 +98,8 @@
           "overspend",
           "cut_back",
           "fixed_deposit"
-        ]
+        ],
+        "image": "lessons/money_4.webp"
       },
       {
         "id": "money_5",
@@ -117,7 +121,8 @@
           "foreign_exchange",
           "go_dutch",
           "tip_money"
-        ]
+        ],
+        "image": "lessons/money_5.webp"
       },
       {
         "id": "money_6",
@@ -139,7 +144,8 @@
           "premium_payment",
           "beneficiary",
           "pension"
-        ]
+        ],
+        "image": "lessons/money_6.webp"
       },
       {
         "id": "money_7",
@@ -161,7 +167,8 @@
           "pay_back",
           "donation",
           "good_cause"
-        ]
+        ],
+        "image": "lessons/money_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "saving grace",
         "current account",
         "email account"
-      ]
+      ],
+      "image": "words/savings_account.webp"
     },
     {
       "id": "current_account",
@@ -200,7 +208,8 @@
         "currency account",
         "savings account",
         "corporate account"
-      ]
+      ],
+      "image": "words/current_account.webp"
     },
     {
       "id": "passbook",
@@ -218,7 +227,8 @@
         "passport",
         "notebook",
         "password"
-      ]
+      ],
+      "image": "words/passbook.webp"
     },
     {
       "id": "initial_deposit",
@@ -236,7 +246,8 @@
         "final payment",
         "initial letter",
         "security deposit"
-      ]
+      ],
+      "image": "words/initial_deposit.webp"
     },
     {
       "id": "withdraw_cash",
@@ -254,7 +265,8 @@
         "withhold tax",
         "draw cash",
         "wire money"
-      ]
+      ],
+      "image": "words/withdraw_cash.webp"
     },
     {
       "id": "account_balance",
@@ -272,7 +284,8 @@
         "bank balance sheet",
         "account name",
         "balance beam"
-      ]
+      ],
+      "image": "words/account_balance.webp"
     },
     {
       "id": "statement",
@@ -290,7 +303,8 @@
         "settlement",
         "statue",
         "stationery"
-      ]
+      ],
+      "image": "words/statement.webp"
     },
     {
       "id": "transfer_money",
@@ -308,7 +322,8 @@
         "transform money",
         "transport goods",
         "trade money"
-      ]
+      ],
+      "image": "words/transfer_money.webp"
     },
     {
       "id": "bank_branch",
@@ -326,7 +341,8 @@
         "tree branch",
         "bank note",
         "main office"
-      ]
+      ],
+      "image": "words/bank_branch.webp"
     },
     {
       "id": "teller",
@@ -344,7 +360,8 @@
         "teacher",
         "tailor",
         "seller"
-      ]
+      ],
+      "image": "words/teller.webp"
     },
     {
       "id": "queue_ticket",
@@ -362,7 +379,8 @@
         "cue card",
         "lottery ticket",
         "queue line"
-      ]
+      ],
+      "image": "words/queue_ticket.webp"
     },
     {
       "id": "account_number",
@@ -380,7 +398,8 @@
         "phone number",
         "account name",
         "serial number"
-      ]
+      ],
+      "image": "words/account_number.webp"
     },
     {
       "id": "signature_card",
@@ -398,7 +417,8 @@
         "signal card",
         "credit card",
         "name card"
-      ]
+      ],
+      "image": "words/signature_card.webp"
     },
     {
       "id": "bank_fee",
@@ -416,7 +436,8 @@
         "bank free",
         "entrance fee",
         "bank loan"
-      ]
+      ],
+      "image": "words/bank_fee.webp"
     },
     {
       "id": "atm_card",
@@ -434,7 +455,8 @@
         "SIM card",
         "ID card",
         "gift card"
-      ]
+      ],
+      "image": "words/atm_card.webp"
     },
     {
       "id": "pin_code",
@@ -452,7 +474,8 @@
         "zip code",
         "pin board",
         "QR code"
-      ]
+      ],
+      "image": "words/pin_code.webp"
     },
     {
       "id": "cardholder",
@@ -470,7 +493,8 @@
         "card reader",
         "shareholder",
         "card sleeve"
-      ]
+      ],
+      "image": "words/cardholder.webp"
     },
     {
       "id": "card_reader",
@@ -488,7 +512,8 @@
         "card holder",
         "news reader",
         "code reader"
-      ]
+      ],
+      "image": "words/card_reader.webp"
     },
     {
       "id": "card_limit",
@@ -506,7 +531,8 @@
         "time limit",
         "speed limit",
         "card fee"
-      ]
+      ],
+      "image": "words/card_limit.webp"
     },
     {
       "id": "online_banking",
@@ -524,7 +550,8 @@
         "online shopping",
         "internet cafe",
         "offline mode"
-      ]
+      ],
+      "image": "words/online_banking.webp"
     },
     {
       "id": "banking_app",
@@ -542,7 +569,8 @@
         "shopping app",
         "banking hall",
         "app store"
-      ]
+      ],
+      "image": "words/banking_app.webp"
     },
     {
       "id": "qr_payment",
@@ -560,7 +588,8 @@
         "bar code",
         "cash payment",
         "QR scanner"
-      ]
+      ],
+      "image": "words/qr_payment.webp"
     },
     {
       "id": "scan_to_pay",
@@ -578,7 +607,8 @@
         "scan to print",
         "tap to pay",
         "sign to pay"
-      ]
+      ],
+      "image": "words/scan_to_pay.webp"
     },
     {
       "id": "e_wallet",
@@ -596,7 +626,8 @@
         "e-book",
         "wallet chain",
         "e-ticket"
-      ]
+      ],
+      "image": "words/e_wallet.webp"
     },
     {
       "id": "promptpay",
@@ -614,7 +645,8 @@
         "prepaid card",
         "prompt reply",
         "pay later"
-      ]
+      ],
+      "image": "words/promptpay.webp"
     },
     {
       "id": "cash_withdrawal",
@@ -632,7 +664,8 @@
         "cash deposit",
         "cash flow",
         "card renewal"
-      ]
+      ],
+      "image": "words/cash_withdrawal.webp"
     },
     {
       "id": "transaction_fee",
@@ -650,7 +683,8 @@
         "transition fee",
         "translation fee",
         "entrance fee"
-      ]
+      ],
+      "image": "words/transaction_fee.webp"
     },
     {
       "id": "cash_back",
@@ -668,7 +702,8 @@
         "pay back",
         "cash flow",
         "come back"
-      ]
+      ],
+      "image": "words/cash_back.webp"
     },
     {
       "id": "home_loan",
@@ -686,7 +721,8 @@
         "home work",
         "car loan",
         "home page"
-      ]
+      ],
+      "image": "words/home_loan.webp"
     },
     {
       "id": "mortgage",
@@ -704,7 +740,8 @@
         "message",
         "marriage",
         "mileage"
-      ]
+      ],
+      "image": "words/mortgage.webp"
     },
     {
       "id": "borrower",
@@ -722,7 +759,8 @@
         "burrower",
         "barrow",
         "browser"
-      ]
+      ],
+      "image": "words/borrower.webp"
     },
     {
       "id": "lender",
@@ -740,7 +778,8 @@
         "leader",
         "blender",
         "vendor"
-      ]
+      ],
+      "image": "words/lender.webp"
     },
     {
       "id": "repay",
@@ -758,7 +797,8 @@
         "replay",
         "repair",
         "report"
-      ]
+      ],
+      "image": "words/repay.webp"
     },
     {
       "id": "monthly_payment",
@@ -776,7 +816,8 @@
         "monthly salary",
         "down payment",
         "monthly report"
-      ]
+      ],
+      "image": "words/monthly_payment.webp"
     },
     {
       "id": "minimum_payment",
@@ -794,7 +835,8 @@
         "maximum payment",
         "minimum wage",
         "minimum order"
-      ]
+      ],
+      "image": "words/minimum_payment.webp"
     },
     {
       "id": "interest_rate",
@@ -812,7 +854,8 @@
         "exchange rate",
         "interest group",
         "success rate"
-      ]
+      ],
+      "image": "words/interest_rate.webp"
     },
     {
       "id": "overdue",
@@ -830,7 +873,8 @@
         "overdone",
         "overview",
         "overtime"
-      ]
+      ],
+      "image": "words/overdue.webp"
     },
     {
       "id": "late_fee",
@@ -848,7 +892,8 @@
         "late night",
         "entry fee",
         "late charge card"
-      ]
+      ],
+      "image": "words/late_fee.webp"
     },
     {
       "id": "credit_score",
@@ -866,7 +911,8 @@
         "credit card",
         "high score",
         "score board"
-      ]
+      ],
+      "image": "words/credit_score.webp"
     },
     {
       "id": "debt_free",
@@ -884,7 +930,8 @@
         "duty-free",
         "debt trap",
         "death free"
-      ]
+      ],
+      "image": "words/debt_free.webp"
     },
     {
       "id": "guarantee",
@@ -902,7 +949,8 @@
         "guard entry",
         "warranty card",
         "gratitude"
-      ]
+      ],
+      "image": "words/guarantee.webp"
     },
     {
       "id": "collateral",
@@ -920,7 +968,8 @@
         "collateral damage",
         "cathedral",
         "colleague"
-      ]
+      ],
+      "image": "words/collateral.webp"
     },
     {
       "id": "monthly_budget",
@@ -938,7 +987,8 @@
         "monthly meeting",
         "budget airline",
         "yearly plan"
-      ]
+      ],
+      "image": "words/monthly_budget.webp"
     },
     {
       "id": "daily_expenses",
@@ -956,7 +1006,8 @@
         "daily routine",
         "travel expenses",
         "daily news"
-      ]
+      ],
+      "image": "words/daily_expenses.webp"
     },
     {
       "id": "income_tax",
@@ -974,7 +1025,8 @@
         "income statement",
         "sales tax",
         "taxi fare"
-      ]
+      ],
+      "image": "words/income_tax.webp"
     },
     {
       "id": "salary_slip",
@@ -992,7 +1044,8 @@
         "sales slip",
         "salary cap",
         "slip road"
-      ]
+      ],
+      "image": "words/salary_slip.webp"
     },
     {
       "id": "bonus_payment",
@@ -1010,7 +1063,8 @@
         "bonus round",
         "down payment",
         "extra time"
-      ]
+      ],
+      "image": "words/bonus_payment.webp"
     },
     {
       "id": "allowance_money",
@@ -1028,7 +1082,8 @@
         "pocket size",
         "loose change",
         "advance money"
-      ]
+      ],
+      "image": "words/allowance_money.webp"
     },
     {
       "id": "saving_goal",
@@ -1046,7 +1101,8 @@
         "saving grace",
         "goal keeper",
         "spending plan"
-      ]
+      ],
+      "image": "words/saving_goal.webp"
     },
     {
       "id": "savings_plan",
@@ -1064,7 +1120,8 @@
         "saving grace",
         "floor plan",
         "spending spree"
-      ]
+      ],
+      "image": "words/savings_plan.webp"
     },
     {
       "id": "emergency_fund",
@@ -1082,7 +1139,8 @@
         "emergency exit",
         "mutual fund",
         "energy fund"
-      ]
+      ],
+      "image": "words/emergency_fund.webp"
     },
     {
       "id": "piggy_bank",
@@ -1100,7 +1158,8 @@
         "piggy back",
         "food bank",
         "money box office"
-      ]
+      ],
+      "image": "words/piggy_bank.webp"
     },
     {
       "id": "spending_habit",
@@ -1118,7 +1177,8 @@
         "sleeping habit",
         "spending spree",
         "shopping mall"
-      ]
+      ],
+      "image": "words/spending_habit.webp"
     },
     {
       "id": "overspend",
@@ -1136,7 +1196,8 @@
         "oversleep",
         "overtake",
         "overhear"
-      ]
+      ],
+      "image": "words/overspend.webp"
     },
     {
       "id": "cut_back",
@@ -1154,7 +1215,8 @@
         "cut off",
         "give back",
         "cut in"
-      ]
+      ],
+      "image": "words/cut_back.webp"
     },
     {
       "id": "fixed_deposit",
@@ -1172,7 +1234,8 @@
         "fixed price",
         "security deposit",
         "mixed deposit"
-      ]
+      ],
+      "image": "words/fixed_deposit.webp"
     },
     {
       "id": "bargain_hunt",
@@ -1190,7 +1253,8 @@
         "treasure hunt",
         "bargain sale",
         "house hunt"
-      ]
+      ],
+      "image": "words/bargain_hunt.webp"
     },
     {
       "id": "price_tag",
@@ -1208,7 +1272,8 @@
         "name tag",
         "price list",
         "hash tag"
-      ]
+      ],
+      "image": "words/price_tag.webp"
     },
     {
       "id": "receipt_copy",
@@ -1226,7 +1291,8 @@
         "recipe book",
         "hard copy",
         "receipt book"
-      ]
+      ],
+      "image": "words/receipt_copy.webp"
     },
     {
       "id": "refund_money",
@@ -1244,7 +1310,8 @@
         "refuse money",
         "return goods",
         "refill money"
-      ]
+      ],
+      "image": "words/refund_money.webp"
     },
     {
       "id": "cashier_counter",
@@ -1262,7 +1329,8 @@
         "cash machine",
         "information desk",
         "cashew counter"
-      ]
+      ],
+      "image": "words/cashier_counter.webp"
     },
     {
       "id": "small_change",
@@ -1280,7 +1348,8 @@
         "big change",
         "small talk",
         "loose end"
-      ]
+      ],
+      "image": "words/small_change.webp"
     },
     {
       "id": "coin_purse",
@@ -1298,7 +1367,8 @@
         "coin toss",
         "purse strings",
         "card holder"
-      ]
+      ],
+      "image": "words/coin_purse.webp"
     },
     {
       "id": "money_belt",
@@ -1316,7 +1386,8 @@
         "seat belt",
         "money bag",
         "belt loop"
-      ]
+      ],
+      "image": "words/money_belt.webp"
     },
     {
       "id": "counterfeit",
@@ -1334,7 +1405,8 @@
         "counter offer",
         "comfort fit",
         "counterpart"
-      ]
+      ],
+      "image": "words/counterfeit.webp"
     },
     {
       "id": "money_changer",
@@ -1352,7 +1424,8 @@
         "money maker",
         "game changer",
         "money order"
-      ]
+      ],
+      "image": "words/money_changer.webp"
     },
     {
       "id": "currency",
@@ -1370,7 +1443,8 @@
         "currently",
         "curtain",
         "urgency"
-      ]
+      ],
+      "image": "words/currency.webp"
     },
     {
       "id": "foreign_exchange",
@@ -1388,7 +1462,8 @@
         "foreign student",
         "stock exchange",
         "free exchange"
-      ]
+      ],
+      "image": "words/foreign_exchange.webp"
     },
     {
       "id": "go_dutch",
@@ -1406,7 +1481,8 @@
         "go dark",
         "go halves free",
         "go deep"
-      ]
+      ],
+      "image": "words/go_dutch.webp"
     },
     {
       "id": "tip_money",
@@ -1424,7 +1500,8 @@
         "tip toe",
         "top money",
         "pin money"
-      ]
+      ],
+      "image": "words/tip_money.webp"
     },
     {
       "id": "investment",
@@ -1442,7 +1519,8 @@
         "involvement",
         "instrument",
         "investigation"
-      ]
+      ],
+      "image": "words/investment.webp"
     },
     {
       "id": "stock_market",
@@ -1460,7 +1538,8 @@
         "flea market",
         "stock room",
         "night market"
-      ]
+      ],
+      "image": "words/stock_market.webp"
     },
     {
       "id": "share_price",
@@ -1478,7 +1557,8 @@
         "fair price",
         "share house",
         "spare price"
-      ]
+      ],
+      "image": "words/share_price.webp"
     },
     {
       "id": "dividend",
@@ -1496,7 +1576,8 @@
         "divide",
         "diversity",
         "dividend wall"
-      ]
+      ],
+      "image": "words/dividend.webp"
     },
     {
       "id": "mutual_fund",
@@ -1514,7 +1595,8 @@
         "mutual friend",
         "emergency fund",
         "musical band"
-      ]
+      ],
+      "image": "words/mutual_fund.webp"
     },
     {
       "id": "gold_bar",
@@ -1532,7 +1614,8 @@
         "chocolate bar",
         "gold fish",
         "bar code"
-      ]
+      ],
+      "image": "words/gold_bar.webp"
     },
     {
       "id": "capital_gain",
@@ -1550,7 +1633,8 @@
         "capital city",
         "weight gain",
         "capital letter"
-      ]
+      ],
+      "image": "words/capital_gain.webp"
     },
     {
       "id": "break_even",
@@ -1568,7 +1652,8 @@
         "break up",
         "break down",
         "even out"
-      ]
+      ],
+      "image": "words/break_even.webp"
     },
     {
       "id": "high_risk",
@@ -1586,7 +1671,8 @@
         "high rise",
         "low risk",
         "high road"
-      ]
+      ],
+      "image": "words/high_risk.webp"
     },
     {
       "id": "inflation",
@@ -1604,7 +1690,8 @@
         "invitation",
         "installation",
         "innovation"
-      ]
+      ],
+      "image": "words/inflation.webp"
     },
     {
       "id": "insurance_policy",
@@ -1622,7 +1709,8 @@
         "company policy",
         "privacy policy",
         "insurance agent"
-      ]
+      ],
+      "image": "words/insurance_policy.webp"
     },
     {
       "id": "premium_payment",
@@ -1640,7 +1728,8 @@
         "premium seat",
         "down payment",
         "premier league"
-      ]
+      ],
+      "image": "words/premium_payment.webp"
     },
     {
       "id": "beneficiary",
@@ -1658,7 +1747,8 @@
         "beneficial",
         "benefactor",
         "bureaucracy"
-      ]
+      ],
+      "image": "words/beneficiary.webp"
     },
     {
       "id": "pension",
@@ -1676,7 +1766,8 @@
         "tension",
         "passion",
         "mansion"
-      ]
+      ],
+      "image": "words/pension.webp"
     },
     {
       "id": "scam_call",
@@ -1694,7 +1785,8 @@
         "spam mail",
         "sales call",
         "scan call"
-      ]
+      ],
+      "image": "words/scam_call.webp"
     },
     {
       "id": "phishing",
@@ -1712,7 +1804,8 @@
         "fishing",
         "phrasing",
         "flashing"
-      ]
+      ],
+      "image": "words/phishing.webp"
     },
     {
       "id": "fraud_alert",
@@ -1730,7 +1823,8 @@
         "flood alert",
         "food allergy",
         "fraud squad"
-      ]
+      ],
+      "image": "words/fraud_alert.webp"
     },
     {
       "id": "freeze_the_account",
@@ -1748,7 +1842,8 @@
         "close the account",
         "free the account",
         "check the account"
-      ]
+      ],
+      "image": "words/freeze_the_account.webp"
     },
     {
       "id": "proof_of_income",
@@ -1766,7 +1861,8 @@
         "proof of address",
         "loss of income",
         "proof reading"
-      ]
+      ],
+      "image": "words/proof_of_income.webp"
     },
     {
       "id": "bankrupt",
@@ -1784,7 +1880,8 @@
         "bank robber",
         "backup",
         "bank run"
-      ]
+      ],
+      "image": "words/bankrupt.webp"
     },
     {
       "id": "annual_fee",
@@ -1802,7 +1899,8 @@
         "annual leave",
         "entry fee",
         "manual fee"
-      ]
+      ],
+      "image": "words/annual_fee.webp"
     },
     {
       "id": "retirement_fund",
@@ -1820,7 +1918,8 @@
         "requirement fund",
         "emergency fund",
         "return flight"
-      ]
+      ],
+      "image": "words/retirement_fund.webp"
     },
     {
       "id": "interest_earned",
@@ -1838,7 +1937,8 @@
         "interest paid",
         "interest group",
         "income earned"
-      ]
+      ],
+      "image": "words/interest_earned.webp"
     },
     {
       "id": "return_on_investment",
@@ -1856,7 +1956,8 @@
         "return ticket",
         "point of interest",
         "rate of exchange"
-      ]
+      ],
+      "image": "words/return_on_investment.webp"
     },
     {
       "id": "owe",
@@ -1874,7 +1975,8 @@
         "own",
         "oh",
         "old"
-      ]
+      ],
+      "image": "words/owe.webp"
     },
     {
       "id": "pay_back",
@@ -1892,7 +1994,8 @@
         "pay off",
         "give up",
         "buy back"
-      ]
+      ],
+      "image": "words/pay_back.webp"
     },
     {
       "id": "donation",
@@ -1910,7 +2013,8 @@
         "donut shop",
         "dedication",
         "nomination"
-      ]
+      ],
+      "image": "words/donation.webp"
     },
     {
       "id": "good_cause",
@@ -1928,7 +2032,8 @@
         "good course",
         "lost cause",
         "good deal"
-      ]
+      ],
+      "image": "words/good_cause.webp"
     }
   ]
 }

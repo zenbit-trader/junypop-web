@@ -29,7 +29,8 @@
           "fog",
           "frost",
           "sunlight"
-        ]
+        ],
+        "image": "lessons/nature_weather_1.webp"
       },
       {
         "id": "nature_weather_2",
@@ -51,7 +52,8 @@
           "drought",
           "heatwave",
           "weather_report"
-        ]
+        ],
+        "image": "lessons/nature_weather_2.webp"
       },
       {
         "id": "nature_weather_3",
@@ -73,7 +75,8 @@
           "full_moon",
           "eclipse",
           "rainbow"
-        ]
+        ],
+        "image": "lessons/nature_weather_3.webp"
       },
       {
         "id": "nature_weather_4",
@@ -95,7 +98,8 @@
           "hot_spring",
           "canal",
           "rice_field"
-        ]
+        ],
+        "image": "lessons/nature_weather_4.webp"
       },
       {
         "id": "nature_weather_5",
@@ -117,7 +121,8 @@
           "jellyfish",
           "seagull",
           "sand_dune"
-        ]
+        ],
+        "image": "lessons/nature_weather_5.webp"
       },
       {
         "id": "nature_weather_6",
@@ -139,7 +144,8 @@
           "bush",
           "butterfly",
           "firefly"
-        ]
+        ],
+        "image": "lessons/nature_weather_6.webp"
       },
       {
         "id": "nature_weather_7",
@@ -161,7 +167,8 @@
           "conservation",
           "global_warming",
           "greenhouse"
-        ]
+        ],
+        "image": "lessons/nature_weather_7.webp"
       }
     ]
   },
@@ -182,7 +189,8 @@
         "ski",
         "sea",
         "star"
-      ]
+      ],
+      "image": "words/sky.webp"
     },
     {
       "id": "cloudy",
@@ -200,7 +208,8 @@
         "crowdy",
         "clearly",
         "loudly"
-      ]
+      ],
+      "image": "words/cloudy.webp"
     },
     {
       "id": "windy",
@@ -218,7 +227,8 @@
         "wendy",
         "sandy",
         "wide"
-      ]
+      ],
+      "image": "words/windy.webp"
     },
     {
       "id": "humid",
@@ -236,7 +246,8 @@
         "humble",
         "hungry",
         "humor"
-      ]
+      ],
+      "image": "words/humid.webp"
     },
     {
       "id": "breeze",
@@ -254,7 +265,8 @@
         "freeze",
         "bridge",
         "breathe"
-      ]
+      ],
+      "image": "words/breeze.webp"
     },
     {
       "id": "chilly",
@@ -272,7 +284,8 @@
         "chili",
         "cheerful",
         "cheaply"
-      ]
+      ],
+      "image": "words/chilly.webp"
     },
     {
       "id": "mild",
@@ -290,7 +303,8 @@
         "wild",
         "mind",
         "mile"
-      ]
+      ],
+      "image": "words/mild.webp"
     },
     {
       "id": "shade",
@@ -308,7 +322,8 @@
         "shake",
         "share",
         "shape"
-      ]
+      ],
+      "image": "words/shade.webp"
     },
     {
       "id": "shadow",
@@ -326,7 +341,8 @@
         "shallow",
         "meadow",
         "swallow"
-      ]
+      ],
+      "image": "words/shadow.webp"
     },
     {
       "id": "dew",
@@ -344,7 +360,8 @@
         "due",
         "few",
         "den"
-      ]
+      ],
+      "image": "words/dew.webp"
     },
     {
       "id": "mist",
@@ -362,7 +379,8 @@
         "missed",
         "must",
         "mask"
-      ]
+      ],
+      "image": "words/mist.webp"
     },
     {
       "id": "fog",
@@ -380,7 +398,8 @@
         "frog",
         "log",
         "fork"
-      ]
+      ],
+      "image": "words/fog.webp"
     },
     {
       "id": "frost",
@@ -398,7 +417,8 @@
         "forest",
         "first",
         "frozen"
-      ]
+      ],
+      "image": "words/frost.webp"
     },
     {
       "id": "sunlight",
@@ -416,7 +436,8 @@
         "sunset",
         "streetlight",
         "sunburn"
-      ]
+      ],
+      "image": "words/sunlight.webp"
     },
     {
       "id": "drizzle",
@@ -434,7 +455,8 @@
         "dazzle",
         "dribble",
         "drill"
-      ]
+      ],
+      "image": "words/drizzle.webp"
     },
     {
       "id": "downpour",
@@ -452,7 +474,8 @@
         "download",
         "doorway",
         "downtown"
-      ]
+      ],
+      "image": "words/downpour.webp"
     },
     {
       "id": "puddle",
@@ -470,7 +493,8 @@
         "paddle",
         "pebble",
         "bundle"
-      ]
+      ],
+      "image": "words/puddle.webp"
     },
     {
       "id": "thunder",
@@ -488,7 +512,8 @@
         "wonder",
         "thunderstorm",
         "under"
-      ]
+      ],
+      "image": "words/thunder.webp"
     },
     {
       "id": "lightning",
@@ -506,7 +531,8 @@
         "lighting",
         "frightening",
         "tightening"
-      ]
+      ],
+      "image": "words/lightning.webp"
     },
     {
       "id": "storm",
@@ -524,7 +550,8 @@
         "store",
         "stone",
         "steam"
-      ]
+      ],
+      "image": "words/storm.webp"
     },
     {
       "id": "typhoon",
@@ -542,7 +569,8 @@
         "tycoon",
         "tsunami",
         "tornado"
-      ]
+      ],
+      "image": "words/typhoon.webp"
     },
     {
       "id": "monsoon",
@@ -560,7 +588,8 @@
         "moonshine",
         "mansion",
         "maroon"
-      ]
+      ],
+      "image": "words/monsoon.webp"
     },
     {
       "id": "hail",
@@ -578,7 +607,8 @@
         "hall",
         "heal",
         "nail"
-      ]
+      ],
+      "image": "words/hail.webp"
     },
     {
       "id": "flood",
@@ -596,7 +626,8 @@
         "blood",
         "food",
         "fluid"
-      ]
+      ],
+      "image": "words/flood.webp"
     },
     {
       "id": "flash_flood",
@@ -614,7 +645,8 @@
         "flash sale",
         "heavy rain",
         "high tide"
-      ]
+      ],
+      "image": "words/flash_flood.webp"
     },
     {
       "id": "drought",
@@ -632,7 +664,8 @@
         "draught",
         "doubt",
         "brought"
-      ]
+      ],
+      "image": "words/drought.webp"
     },
     {
       "id": "heatwave",
@@ -650,7 +683,8 @@
         "heartbeat",
         "hot spring",
         "tidal wave"
-      ]
+      ],
+      "image": "words/heatwave.webp"
     },
     {
       "id": "weather_report",
@@ -668,7 +702,8 @@
         "news report",
         "traffic report",
         "weather balloon"
-      ]
+      ],
+      "image": "words/weather_report.webp"
     },
     {
       "id": "dry_season",
@@ -686,7 +721,8 @@
         "dry cleaning",
         "high season",
         "dry land"
-      ]
+      ],
+      "image": "words/dry_season.webp"
     },
     {
       "id": "rainy_season",
@@ -704,7 +740,8 @@
         "rainy day",
         "wet market",
         "spring season"
-      ]
+      ],
+      "image": "words/rainy_season.webp"
     },
     {
       "id": "cool_season",
@@ -722,7 +759,8 @@
         "cool drink",
         "warm season",
         "cool down"
-      ]
+      ],
+      "image": "words/cool_season.webp"
     },
     {
       "id": "climate",
@@ -740,7 +778,8 @@
         "climax",
         "climb",
         "cabinet"
-      ]
+      ],
+      "image": "words/climate.webp"
     },
     {
       "id": "freezing",
@@ -758,7 +797,8 @@
         "freeing",
         "breezing",
         "pleasing"
-      ]
+      ],
+      "image": "words/freezing.webp"
     },
     {
       "id": "boiling",
@@ -776,7 +816,8 @@
         "bowling",
         "boring",
         "building"
-      ]
+      ],
+      "image": "words/boiling.webp"
     },
     {
       "id": "sea_breeze",
@@ -794,7 +835,8 @@
         "sea level",
         "sea food",
         "land slide"
-      ]
+      ],
+      "image": "words/sea_breeze.webp"
     },
     {
       "id": "dawn",
@@ -812,7 +854,8 @@
         "down",
         "damn",
         "lawn"
-      ]
+      ],
+      "image": "words/dawn.webp"
     },
     {
       "id": "dusk",
@@ -830,7 +873,8 @@
         "dust",
         "desk",
         "disk"
-      ]
+      ],
+      "image": "words/dusk.webp"
     },
     {
       "id": "moonlight",
@@ -848,7 +892,8 @@
         "midnight",
         "morning light",
         "moonwalk"
-      ]
+      ],
+      "image": "words/moonlight.webp"
     },
     {
       "id": "starry",
@@ -866,7 +911,8 @@
         "story",
         "stary",
         "scary"
-      ]
+      ],
+      "image": "words/starry.webp"
     },
     {
       "id": "full_moon",
@@ -884,7 +930,8 @@
         "half moon",
         "new moon",
         "full stop"
-      ]
+      ],
+      "image": "words/full_moon.webp"
     },
     {
       "id": "eclipse",
@@ -902,7 +949,8 @@
         "ellipse",
         "elapse",
         "escape"
-      ]
+      ],
+      "image": "words/eclipse.webp"
     },
     {
       "id": "rainbow",
@@ -920,7 +968,8 @@
         "raindrop",
         "elbow",
         "window"
-      ]
+      ],
+      "image": "words/rainbow.webp"
     },
     {
       "id": "horizon",
@@ -938,7 +987,8 @@
         "horizontal",
         "hurricane",
         "heritage"
-      ]
+      ],
+      "image": "words/horizon.webp"
     },
     {
       "id": "cliff",
@@ -956,7 +1006,8 @@
         "clip",
         "chief",
         "cliffhanger"
-      ]
+      ],
+      "image": "words/cliff.webp"
     },
     {
       "id": "valley",
@@ -974,7 +1025,8 @@
         "volley",
         "value",
         "alley"
-      ]
+      ],
+      "image": "words/valley.webp"
     },
     {
       "id": "hill",
@@ -992,7 +1044,8 @@
         "heal",
         "hall",
         "hire"
-      ]
+      ],
+      "image": "words/hill.webp"
     },
     {
       "id": "peak",
@@ -1010,7 +1063,8 @@
         "peek",
         "pick",
         "pack"
-      ]
+      ],
+      "image": "words/peak.webp"
     },
     {
       "id": "canyon",
@@ -1028,7 +1082,8 @@
         "cannon",
         "cabin",
         "crayon"
-      ]
+      ],
+      "image": "words/canyon.webp"
     },
     {
       "id": "meadow",
@@ -1046,7 +1101,8 @@
         "shadow",
         "medal",
         "melody"
-      ]
+      ],
+      "image": "words/meadow.webp"
     },
     {
       "id": "desert",
@@ -1064,7 +1120,8 @@
         "dessert",
         "deserve",
         "decent"
-      ]
+      ],
+      "image": "words/desert.webp"
     },
     {
       "id": "jungle",
@@ -1082,7 +1139,8 @@
         "juggle",
         "jingle",
         "jumble"
-      ]
+      ],
+      "image": "words/jungle.webp"
     },
     {
       "id": "glacier",
@@ -1100,7 +1158,8 @@
         "glassware",
         "glamour",
         "gracious"
-      ]
+      ],
+      "image": "words/glacier.webp"
     },
     {
       "id": "volcano",
@@ -1118,7 +1177,8 @@
         "balcony",
         "tornado",
         "vulture"
-      ]
+      ],
+      "image": "words/volcano.webp"
     },
     {
       "id": "hot_spring",
@@ -1136,7 +1196,8 @@
         "hot pot",
         "spring roll",
         "cold spring"
-      ]
+      ],
+      "image": "words/hot_spring.webp"
     },
     {
       "id": "canal",
@@ -1154,7 +1215,8 @@
         "channel",
         "cancel",
         "carnival"
-      ]
+      ],
+      "image": "words/canal.webp"
     },
     {
       "id": "rice_field",
@@ -1172,7 +1234,8 @@
         "rice cooker",
         "corn field",
         "ice field"
-      ]
+      ],
+      "image": "words/rice_field.webp"
     },
     {
       "id": "riverbank",
@@ -1190,7 +1253,8 @@
         "river mouth",
         "money bank",
         "sand bank"
-      ]
+      ],
+      "image": "words/riverbank.webp"
     },
     {
       "id": "pond",
@@ -1208,7 +1272,8 @@
         "pound",
         "pond weed",
         "bond"
-      ]
+      ],
+      "image": "words/pond.webp"
     },
     {
       "id": "swamp",
@@ -1226,7 +1291,8 @@
         "stamp",
         "sweep",
         "swap"
-      ]
+      ],
+      "image": "words/swamp.webp"
     },
     {
       "id": "coast",
@@ -1244,7 +1310,8 @@
         "cost",
         "ghost",
         "roast"
-      ]
+      ],
+      "image": "words/coast.webp"
     },
     {
       "id": "shore",
@@ -1262,7 +1329,8 @@
         "sure",
         "store",
         "short"
-      ]
+      ],
+      "image": "words/shore.webp"
     },
     {
       "id": "reef",
@@ -1280,7 +1348,8 @@
         "roof",
         "beef",
         "relief"
-      ]
+      ],
+      "image": "words/reef.webp"
     },
     {
       "id": "tide",
@@ -1298,7 +1367,8 @@
         "tidy",
         "tied",
         "ride"
-      ]
+      ],
+      "image": "words/tide.webp"
     },
     {
       "id": "mangrove",
@@ -1316,7 +1386,8 @@
         "mango",
         "grove",
         "mongoose"
-      ]
+      ],
+      "image": "words/mangrove.webp"
     },
     {
       "id": "coral",
@@ -1334,7 +1405,8 @@
         "choral",
         "collar",
         "cereal"
-      ]
+      ],
+      "image": "words/coral.webp"
     },
     {
       "id": "dolphin",
@@ -1352,7 +1424,8 @@
         "dolphin fish",
         "goldfish",
         "dauphin"
-      ]
+      ],
+      "image": "words/dolphin.webp"
     },
     {
       "id": "sea_turtle",
@@ -1370,7 +1443,8 @@
         "sea horse",
         "land turtle",
         "sea lion"
-      ]
+      ],
+      "image": "words/sea_turtle.webp"
     },
     {
       "id": "jellyfish",
@@ -1388,7 +1462,8 @@
         "starfish",
         "swordfish",
         "shellfish"
-      ]
+      ],
+      "image": "words/jellyfish.webp"
     },
     {
       "id": "seagull",
@@ -1406,7 +1481,8 @@
         "sea shell",
         "eagle",
         "seal"
-      ]
+      ],
+      "image": "words/seagull.webp"
     },
     {
       "id": "sand_dune",
@@ -1424,7 +1500,8 @@
         "sand castle",
         "snow hill",
         "sand paper"
-      ]
+      ],
+      "image": "words/sand_dune.webp"
     },
     {
       "id": "trunk",
@@ -1442,7 +1519,8 @@
         "truck",
         "drunk",
         "track"
-      ]
+      ],
+      "image": "words/trunk.webp"
     },
     {
       "id": "root",
@@ -1460,7 +1538,8 @@
         "route",
         "roof",
         "boot"
-      ]
+      ],
+      "image": "words/root.webp"
     },
     {
       "id": "leaf",
@@ -1478,7 +1557,8 @@
         "leave",
         "life",
         "beef"
-      ]
+      ],
+      "image": "words/leaf.webp"
     },
     {
       "id": "petal",
@@ -1496,7 +1576,8 @@
         "pedal",
         "metal",
         "petrol"
-      ]
+      ],
+      "image": "words/petal.webp"
     },
     {
       "id": "seed",
@@ -1514,7 +1595,8 @@
         "seat",
         "speed",
         "sheet"
-      ]
+      ],
+      "image": "words/seed.webp"
     },
     {
       "id": "bamboo",
@@ -1532,7 +1614,8 @@
         "banana",
         "balloon",
         "tattoo"
-      ]
+      ],
+      "image": "words/bamboo.webp"
     },
     {
       "id": "palm_tree",
@@ -1550,7 +1633,8 @@
         "pine tree",
         "palm oil",
         "plum tree"
-      ]
+      ],
+      "image": "words/palm_tree.webp"
     },
     {
       "id": "lotus",
@@ -1568,7 +1652,8 @@
         "locust",
         "lettuce",
         "notice"
-      ]
+      ],
+      "image": "words/lotus.webp"
     },
     {
       "id": "orchid",
@@ -1586,7 +1671,8 @@
         "orchard",
         "orbit",
         "archive"
-      ]
+      ],
+      "image": "words/orchid.webp"
     },
     {
       "id": "moss",
@@ -1604,7 +1690,8 @@
         "mess",
         "boss",
         "mouse"
-      ]
+      ],
+      "image": "words/moss.webp"
     },
     {
       "id": "vine",
@@ -1622,7 +1709,8 @@
         "wine",
         "fine",
         "vein"
-      ]
+      ],
+      "image": "words/vine.webp"
     },
     {
       "id": "bush",
@@ -1640,7 +1728,8 @@
         "brush",
         "push",
         "bug"
-      ]
+      ],
+      "image": "words/bush.webp"
     },
     {
       "id": "butterfly",
@@ -1658,7 +1747,8 @@
         "dragonfly",
         "firefly",
         "butter"
-      ]
+      ],
+      "image": "words/butterfly.webp"
     },
     {
       "id": "firefly",
@@ -1676,7 +1766,8 @@
         "fireplace",
         "firework",
         "housefly"
-      ]
+      ],
+      "image": "words/firefly.webp"
     },
     {
       "id": "earthquake",
@@ -1694,7 +1785,8 @@
         "earthworm",
         "earth day",
         "heartache"
-      ]
+      ],
+      "image": "words/earthquake.webp"
     },
     {
       "id": "landslide",
@@ -1712,7 +1804,8 @@
         "waterslide",
         "landmark",
         "landing"
-      ]
+      ],
+      "image": "words/landslide.webp"
     },
     {
       "id": "wildfire",
@@ -1730,7 +1823,8 @@
         "campfire",
         "wildlife",
         "bonfire"
-      ]
+      ],
+      "image": "words/wildfire.webp"
     },
     {
       "id": "tsunami",
@@ -1748,7 +1842,8 @@
         "typhoon",
         "salami",
         "tornado"
-      ]
+      ],
+      "image": "words/tsunami.webp"
     },
     {
       "id": "erosion",
@@ -1766,7 +1861,8 @@
         "explosion",
         "emotion",
         "invasion"
-      ]
+      ],
+      "image": "words/erosion.webp"
     },
     {
       "id": "pollution",
@@ -1784,7 +1880,8 @@
         "population",
         "solution",
         "pollen"
-      ]
+      ],
+      "image": "words/pollution.webp"
     },
     {
       "id": "recycle",
@@ -1802,7 +1899,8 @@
         "repeat",
         "bicycle",
         "receive"
-      ]
+      ],
+      "image": "words/recycle.webp"
     },
     {
       "id": "litter",
@@ -1820,7 +1918,8 @@
         "letter",
         "little",
         "liter"
-      ]
+      ],
+      "image": "words/litter.webp"
     },
     {
       "id": "habitat",
@@ -1838,7 +1937,8 @@
         "habit",
         "inhabitant",
         "hibernate"
-      ]
+      ],
+      "image": "words/habitat.webp"
     },
     {
       "id": "species",
@@ -1856,7 +1956,8 @@
         "special",
         "spices",
         "speech"
-      ]
+      ],
+      "image": "words/species.webp"
     },
     {
       "id": "extinct",
@@ -1874,7 +1975,8 @@
         "instinct",
         "extent",
         "exact"
-      ]
+      ],
+      "image": "words/extinct.webp"
     },
     {
       "id": "conservation",
@@ -1892,7 +1994,8 @@
         "conversation",
         "construction",
         "concentration"
-      ]
+      ],
+      "image": "words/conservation.webp"
     },
     {
       "id": "global_warming",
@@ -1910,7 +2013,8 @@
         "global market",
         "warm welcome",
         "green energy"
-      ]
+      ],
+      "image": "words/global_warming.webp"
     },
     {
       "id": "greenhouse",
@@ -1928,7 +2032,8 @@
         "green tea",
         "guesthouse",
         "greenery"
-      ]
+      ],
+      "image": "words/greenhouse.webp"
     }
   ]
 }

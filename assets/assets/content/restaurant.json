@@ -208,7 +208,8 @@
         "offer",
         "borrow",
         "bring"
-      ]
+      ],
+      "image": "words/order.webp"
     },
     {
       "id": "waiter",
@@ -245,7 +246,8 @@
         "waiter",
         "actress",
         "hostess"
-      ]
+      ],
+      "image": "words/waitress.webp"
     },
     {
       "id": "chef",
@@ -282,7 +284,8 @@
         "guest",
         "waiter",
         "customs"
-      ]
+      ],
+      "image": "words/customer.webp"
     },
     {
       "id": "reservation",
@@ -300,7 +303,8 @@
         "registration",
         "information",
         "invitation"
-      ]
+      ],
+      "image": "words/reservation.webp"
     },
     {
       "id": "recommend",
@@ -318,7 +322,8 @@
         "remember",
         "repeat",
         "remind"
-      ]
+      ],
+      "image": "words/recommend.webp"
     },
     {
       "id": "appetizer",
@@ -336,7 +341,8 @@
         "main course",
         "dessert",
         "side dish"
-      ]
+      ],
+      "image": "words/appetizer.webp"
     },
     {
       "id": "main_course",
@@ -354,7 +360,8 @@
         "appetizer",
         "dessert",
         "drink"
-      ]
+      ],
+      "image": "words/main_course.webp"
     },
     {
       "id": "dessert",
@@ -391,7 +398,8 @@
         "food",
         "dish",
         "drunk"
-      ]
+      ],
+      "image": "words/drink.webp"
     },
     {
       "id": "takeaway",
@@ -618,7 +626,8 @@
         "sea water",
         "fish sauce",
         "street food"
-      ]
+      ],
+      "image": "words/seafood.webp"
     },
     {
       "id": "shrimp",
@@ -674,7 +683,8 @@
         "beef",
         "chicken",
         "fork"
-      ]
+      ],
+      "image": "words/pork.webp"
     },
     {
       "id": "beef",
@@ -692,7 +702,8 @@
         "pork",
         "bean",
         "leaf"
-      ]
+      ],
+      "image": "words/beef.webp"
     },
     {
       "id": "juice",
@@ -786,7 +797,8 @@
         "eyes",
         "rice",
         "nice"
-      ]
+      ],
+      "image": "words/ice.webp"
     },
     {
       "id": "ice_cream",
@@ -918,7 +930,8 @@
         "salt",
         "honey",
         "super"
-      ]
+      ],
+      "image": "words/sugar.webp"
     },
     {
       "id": "honey",
@@ -955,7 +968,8 @@
         "snake",
         "meal",
         "sack"
-      ]
+      ],
+      "image": "words/snack.webp"
     },
     {
       "id": "delicious",
@@ -992,7 +1006,8 @@
         "bland",
         "salty",
         "nasty"
-      ]
+      ],
+      "image": "words/tasty.webp"
     },
     {
       "id": "sweet",
@@ -1010,7 +1025,8 @@
         "sour",
         "bitter",
         "sweat"
-      ]
+      ],
+      "image": "words/sweet.webp"
     },
     {
       "id": "sour",
@@ -1066,7 +1082,8 @@
         "sweet",
         "bitter",
         "salt"
-      ]
+      ],
+      "image": "words/salty.webp"
     },
     {
       "id": "bitter",
@@ -1084,7 +1101,8 @@
         "better",
         "butter",
         "sour"
-      ]
+      ],
+      "image": "words/bitter.webp"
     },
     {
       "id": "crispy",
@@ -1102,7 +1120,8 @@
         "soft",
         "juicy",
         "crazy"
-      ]
+      ],
+      "image": "words/crispy.webp"
     },
     {
       "id": "juicy",
@@ -1120,7 +1139,8 @@
         "dry",
         "crispy",
         "jealous"
-      ]
+      ],
+      "image": "words/juicy.webp"
     },
     {
       "id": "fresh",
@@ -1138,7 +1158,8 @@
         "old",
         "frozen",
         "flesh"
-      ]
+      ],
+      "image": "words/fresh.webp"
     },
     {
       "id": "oily",
@@ -1156,7 +1177,8 @@
         "greasy",
         "only",
         "early"
-      ]
+      ],
+      "image": "words/oily.webp"
     },
     {
       "id": "bland",
@@ -1174,7 +1196,8 @@
         "spicy",
         "brand",
         "blind"
-      ]
+      ],
+      "image": "words/bland.webp"
     },
     {
       "id": "hot",
@@ -1192,7 +1215,8 @@
         "cold",
         "hat",
         "hurt"
-      ]
+      ],
+      "image": "words/hot.webp"
     },
     {
       "id": "cold",
@@ -1210,7 +1234,8 @@
         "hot",
         "cool",
         "gold"
-      ]
+      ],
+      "image": "words/cold.webp"
     },
     {
       "id": "fork",
@@ -1380,7 +1405,8 @@
         "tissue",
         "towel",
         "nap"
-      ]
+      ],
+      "image": "words/napkin.webp"
     },
     {
       "id": "straw",
@@ -1398,7 +1424,8 @@
         "strawberry",
         "stick",
         "spoon"
-      ]
+      ],
+      "image": "words/straw.webp"
     },
     {
       "id": "bottle",
@@ -1416,7 +1443,8 @@
         "glass",
         "battle",
         "button"
-      ]
+      ],
+      "image": "words/bottle.webp"
     },
     {
       "id": "teapot",
@@ -1453,7 +1481,8 @@
         "teapot",
         "cattle",
         "bottle"
-      ]
+      ],
+      "image": "words/kettle.webp"
     },
     {
       "id": "toothpick",
@@ -1471,7 +1500,8 @@
         "toothbrush",
         "chopsticks",
         "toothpaste"
-      ]
+      ],
+      "image": "words/toothpick.webp"
     },
     {
       "id": "bill",
@@ -1508,7 +1538,8 @@
         "buy",
         "play",
         "spend"
-      ]
+      ],
+      "image": "words/pay.webp"
     },
     {
       "id": "price",
@@ -1526,7 +1557,8 @@
         "prize",
         "cost",
         "rice"
-      ]
+      ],
+      "image": "words/price.webp"
     },
     {
       "id": "cash",
@@ -1563,7 +1595,8 @@
         "cash",
         "chance",
         "charge"
-      ]
+      ],
+      "image": "words/change.webp"
     },
     {
       "id": "tip",
@@ -1600,7 +1633,8 @@
         "recipe",
         "bill",
         "ticket"
-      ]
+      ],
+      "image": "words/receipt.webp"
     },
     {
       "id": "expensive",
@@ -1618,7 +1652,8 @@
         "cheap",
         "expected",
         "excellent"
-      ]
+      ],
+      "image": "words/expensive.webp"
     },
     {
       "id": "cheap",
@@ -1636,7 +1671,8 @@
         "expensive",
         "chip",
         "sheep"
-      ]
+      ],
+      "image": "words/cheap.webp"
     },
     {
       "id": "discount",
@@ -1654,7 +1690,8 @@
         "account",
         "coupon",
         "price"
-      ]
+      ],
+      "image": "words/discount.webp"
     },
     {
       "id": "free",
@@ -1672,7 +1709,8 @@
         "fee",
         "three",
         "cheap"
-      ]
+      ],
+      "image": "words/free.webp"
     },
     {
       "id": "total",
@@ -1690,7 +1728,8 @@
         "title",
         "price",
         "hotel"
-      ]
+      ],
+      "image": "words/total.webp"
     },
     {
       "id": "split_the_bill",
@@ -1708,7 +1747,8 @@
         "pay the bill",
         "keep the change",
         "share the food"
-      ]
+      ],
+      "image": "words/split_the_bill.webp"
     },
     {
       "id": "service_charge",
@@ -1726,7 +1766,8 @@
         "delivery fee",
         "discount",
         "recharge"
-      ]
+      ],
+      "image": "words/service_charge.webp"
     },
     {
       "id": "grill",
@@ -1782,7 +1823,8 @@
         "grill",
         "stream",
         "team"
-      ]
+      ],
+      "image": "words/steam.webp"
     },
     {
       "id": "roast",
@@ -1800,7 +1842,8 @@
         "toast",
         "grill",
         "roast beef"
-      ]
+      ],
+      "image": "words/roast.webp"
     },
     {
       "id": "chop",
@@ -1818,7 +1861,8 @@
         "slice",
         "shop",
         "chip"
-      ]
+      ],
+      "image": "words/chop.webp"
     },
     {
       "id": "slice",
@@ -1836,7 +1880,8 @@
         "chop",
         "ice",
         "rice"
-      ]
+      ],
+      "image": "words/slice.webp"
     },
     {
       "id": "mix",
@@ -1854,7 +1899,8 @@
         "fix",
         "pour",
         "six"
-      ]
+      ],
+      "image": "words/mix.webp"
     },
     {
       "id": "pour",
@@ -1891,7 +1937,8 @@
         "save",
         "order",
         "surf"
-      ]
+      ],
+      "image": "words/serve.webp"
     },
     {
       "id": "taste",
@@ -1928,7 +1975,8 @@
         "taste",
         "smile",
         "sell"
-      ]
+      ],
+      "image": "words/smell.webp"
     },
     {
       "id": "share",
@@ -1946,7 +1994,8 @@
         "shake",
         "chair",
         "care"
-      ]
+      ],
+      "image": "words/share.webp"
     },
     {
       "id": "spill",
@@ -1983,7 +2032,8 @@
         "pill",
         "feel",
         "pear"
-      ]
+      ],
+      "image": "words/peel.webp"
     }
   ]
 }
